@@ -6,13 +6,21 @@ const FETCH_TIMEOUT_MS = 8000;
 let inFlightFeedPromise = null;
 
 chrome.runtime.onMessage.addListener((message, _sender, sendResponse) => {
-  if (message?.type !== "getWishlistRank") return false;
+  if (message?.type === "getWishlistRank") {
+    handleGetWishlistRank(message)
+      .then((response) => sendResponse(response))
+      .catch((error) => sendResponse({ ok: false, error: getErrorMessage(error) }));
+    return true;
+  }
 
-  handleGetWishlistRank(message)
-    .then((response) => sendResponse(response))
-    .catch((error) => sendResponse({ ok: false, error: getErrorMessage(error) }));
+  if (message?.type === "refreshFeed") {
+    getFeed(true)
+      .then((feed) => sendResponse({ ok: true, feed }))
+      .catch((error) => sendResponse({ ok: false, error: getErrorMessage(error) }));
+    return true;
+  }
 
-  return true;
+  return false;
 });
 
 async function handleGetWishlistRank(message) {

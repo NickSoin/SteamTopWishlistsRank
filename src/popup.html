@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <style>
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+
+      body {
+        width: 256px;
+        background: #1b2838;
+        color: #c6d4df;
+        font-family: Arial, "Helvetica Neue", sans-serif;
+        font-size: 12px;
+        position: relative;
+      }
+
+      body::after {
+        content: '';
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        z-index: 9999;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='256' height='400'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='256' height='400' filter='url(%23n)' opacity='0.15'/%3E%3C/svg%3E");
+        opacity: 0.55;
+      }
+
+      .header {
+        background: #171a21;
+        padding: 11px 14px;
+        color: #b8d4e8;
+        font-size: 13px;
+        font-weight: bold;
+        border-bottom: 1px solid #2a475e;
+      }
+
+      .section {
+        padding: 12px 14px 14px;
+      }
+
+      .row {
+        margin-bottom: 9px;
+      }
+
+      .row:last-child {
+        margin-bottom: 0;
+      }
+
+      .label {
+        color: #7a9ab0;
+        font-size: 11px;
+        margin-bottom: 2px;
+      }
+
+      .value {
+        color: #c6d4df;
+      }
+
+      .value.muted {
+        color: #7a9ab0;
+      }
+
+      .stale-notice {
+        color: #e8a04a;
+        font-size: 11px;
+        margin-top: 6px;
+      }
+
+      .divider {
+        border: none;
+        border-top: 1px solid #2a3d56;
+      }
+
+      .links {
+        padding: 10px 14px 12px;
+      }
+
+      .link {
+        display: block;
+        color: #67c1f5;
+        text-decoration: none;
+        padding: 3px 0;
+      }
+
+      .link:hover { color: #a4d4f5; text-decoration: underline; }
+    </style>
+  </head>
+  <body>
+    <div class="header">Steam Wishlist Rank</div>
+
+    <div class="section">
+      <div class="row">
+        <div class="label">Last synced</div>
+        <div class="value" id="fetched-at">Loading…</div>
+      </div>
+      <div class="row">
+        <div class="label">Last update of Top Wishlists ranks</div>
+        <div class="value" id="updated-at">—</div>
+      </div>
+      <div class="row">
+        <div class="label">Games tracked</div>
+        <div class="value" id="entry-count">—</div>
+      </div>
+      <div class="stale-notice" id="stale-notice" style="display:none">
+        Using cached data — latest refresh failed
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <div class="links">
+      <a class="link" id="link-issues" href="#" target="_blank">Request a feature →</a>
+      <a class="link" id="link-method" href="#" target="_blank">Wishlist calculation method →</a>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

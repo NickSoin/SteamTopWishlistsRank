@@ -43,7 +43,7 @@
         const tooltip =
           response.refreshError ||
           "The app was not found in the hosted Steam Popular Wishlisted feed.";
-        const label = response.complete ? "Not ranked" : "Syncing...";
+        const label = response.complete ? "---" : "Syncing...";
         renderStatusRow(label, tooltip, true);
         if (!response.complete) {
           scheduleRetry(response.refreshError ? ERROR_RETRY_MS : SYNC_RETRY_MS, Boolean(response.refreshError));

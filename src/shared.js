@@ -1,18 +1,18 @@
 (function (root) {
   "use strict";
 
-  // Parsed from the estimate table supplied in the project brief.
   const WISHLIST_BANDS = Object.freeze([
-    { maxRank: 1, estimate: "4m+" },
-    { maxRank: 10, estimate: "1.5m+" },
-    { maxRank: 50, estimate: "600k+" },
-    { maxRank: 100, estimate: "300k+" },
-    { maxRank: 200, estimate: "200k+" },
-    { maxRank: 500, estimate: "80k+" },
-    { maxRank: 1000, estimate: "40k+" },
-    { maxRank: 1500, estimate: "25k+" },
-    { maxRank: 2000, estimate: "15k+" },
-    { maxRank: 3000, estimate: "7k+" }
+    { maxRank: 1,    estimate: "4m+"   },
+    { maxRank: 10,   estimate: "1.5m+" },
+    { maxRank: 20,   estimate: "800k+" },
+    { maxRank: 50,   estimate: "600k+" },
+    { maxRank: 100,  estimate: "300k+" },
+    { maxRank: 200,  estimate: "200k+" },
+    { maxRank: 500,  estimate: "80k+"  },
+    { maxRank: 1000, estimate: "40k+"  },
+    { maxRank: 1500, estimate: "25k+"  },
+    { maxRank: 2000, estimate: "15k+"  },
+    { maxRank: 3000, estimate: "7k+"   }
   ]);
 
   const ENTITY_MAP = Object.freeze({

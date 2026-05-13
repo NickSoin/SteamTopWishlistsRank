@@ -3,12 +3,122 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Steam Wishlist Rank Feed</title>
+    <title>Wishlist Calculation Method — Steam Wishlist Rank</title>
+    <style>
+      *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+      body {
+        background: #1b2838;
+        color: #c6d4df;
+        font-family: Arial, "Helvetica Neue", sans-serif;
+        font-size: 14px;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 48px 20px 64px;
+      }
+
+      h1 {
+        color: #e8f4ff;
+        font-size: 22px;
+        margin-bottom: 10px;
+        text-align: center;
+      }
+
+      .subtitle {
+        color: #7a9ab0;
+        font-size: 13px;
+        margin-bottom: 36px;
+        text-align: center;
+        max-width: 480px;
+        line-height: 1.6;
+      }
+
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        max-width: 480px;
+      }
+
+      thead th {
+        background: #2a475e;
+        color: #b8d4e8;
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.07em;
+        padding: 10px 20px;
+        text-align: left;
+      }
+
+      tbody tr {
+        border-bottom: 1px solid #1e3347;
+      }
+
+      tbody tr:hover {
+        background: #1e3347;
+      }
+
+      tbody td {
+        padding: 11px 20px;
+        color: #c6d4df;
+      }
+
+      tbody td:first-child {
+        color: #7a9ab0;
+        font-size: 13px;
+      }
+
+      tbody td:last-child {
+        font-weight: bold;
+        color: #67c1f5;
+        font-size: 15px;
+      }
+
+      .note {
+        margin-top: 16px;
+        max-width: 480px;
+        color: #556a7a;
+        font-size: 12px;
+        line-height: 1.6;
+      }
+
+      .disclaimer {
+        margin-top: 20px;
+        max-width: 480px;
+        color: #556a7a;
+        font-size: 12px;
+        line-height: 1.6;
+        font-style: italic;
+      }
+    </style>
   </head>
   <body>
-    <h1>Steam Wishlist Rank Feed</h1>
-    <p>This static site hosts the generated wishlist rank feed for the Chrome extension.</p>
-    <p><a href="./mostwished.json">mostwished.json</a></p>
-    <p><a href="./privacy.html">Privacy policy</a></p>
+    <h1>Wishlist Calculation Method</h1>
+    <p class="subtitle">Wishlist counts are estimates from the rank bands supplied in the project image:</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Position</th>
+          <th>Estimate</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Top 1</td>    <td>4m+</td></tr>
+        <tr><td>Top 10</td>   <td>1.5m+</td></tr>
+        <tr><td>Top 50</td>   <td>600k+</td></tr>
+        <tr><td>Top 100</td>  <td>300k+</td></tr>
+        <tr><td>Top 200</td>  <td>200k+</td></tr>
+        <tr><td>Top 500</td>  <td>80k+</td></tr>
+        <tr><td>Top 1000</td> <td>40k+</td></tr>
+        <tr><td>Top 1500</td> <td>25k+</td></tr>
+        <tr><td>Top 2000</td> <td>15k+</td></tr>
+        <tr><td>Top 3000</td> <td>7k+</td></tr>
+      </tbody>
+    </table>
+
+    <p class="note">Ranks after Top 3000 use &lt;7k because of tiny numbers.</p>
+    <p class="disclaimer">All estimations are approximate and should not be considered as the source of truth.</p>
   </body>
 </html>

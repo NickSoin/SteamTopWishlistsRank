@@ -1,0 +1,16 @@
+{
+  "comment": "Defines rank bands for estimating Steam wishlist counts. Within each band: at minRank → maxWishlists, at maxRank → minWishlists. Values are linearly interpolated and heavily rounded for display. Band boundaries are set so transitions are smooth (minWishlists of one band equals maxWishlists of the next).",
+  "bands": [
+    { "label": "TOP-1",    "minRank": 1,    "maxRank": 1,    "maxWishlists": 4000000, "minWishlists": 4000000 },
+    { "label": "TOP-10",   "minRank": 2,    "maxRank": 10,   "maxWishlists": 2000000, "minWishlists": 1500000 },
+    { "label": "TOP-50",   "minRank": 11,   "maxRank": 50,   "maxWishlists": 800000,  "minWishlists": 600000  },
+    { "label": "TOP-100",  "minRank": 51,   "maxRank": 100,  "maxWishlists": 600000,  "minWishlists": 300000  },
+    { "label": "TOP-200",  "minRank": 101,  "maxRank": 200,  "maxWishlists": 300000,  "minWishlists": 200000  },
+    { "label": "TOP-500",  "minRank": 201,  "maxRank": 500,  "maxWishlists": 200000,  "minWishlists": 80000   },
+    { "label": "TOP-1000", "minRank": 501,  "maxRank": 1000, "maxWishlists": 80000,   "minWishlists": 40000   },
+    { "label": "TOP-1500", "minRank": 1001, "maxRank": 1500, "maxWishlists": 40000,   "minWishlists": 25000   },
+    { "label": "TOP-2000", "minRank": 1501, "maxRank": 2000, "maxWishlists": 25000,   "minWishlists": 15000   },
+    { "label": "TOP-3000", "minRank": 2001, "maxRank": 3000, "maxWishlists": 15000,   "minWishlists": 7000    }
+  ],
+  "fallback": "<7K"
+}
