@@ -8,6 +8,8 @@ const PAGE_SIZE = Number(process.env.STEAM_WISHLIST_PAGE_SIZE || 100);
 const MAX_RANK = Number(process.env.STEAM_WISHLIST_MAX_RANK || 10000);
 const REQUEST_DELAY_MS = Number(process.env.STEAM_WISHLIST_REQUEST_DELAY_MS || 1500);
 const FETCH_TIMEOUT_MS = Number(process.env.STEAM_WISHLIST_FETCH_TIMEOUT_MS || 10000);
+const FETCH_RETRIES = Number(process.env.STEAM_WISHLIST_FETCH_RETRIES || 3);
+const RETRY_DELAY_MS = Number(process.env.STEAM_WISHLIST_RETRY_DELAY_MS || 5000);
 
 async function main() {
   const startedAt = new Date();
@@ -16,7 +18,19 @@ async function main() {
   let nextStart = 0;
 
   while (nextStart < MAX_RANK) {
-    const page = await fetchWishlistPage(nextStart);
+    let page;
+
+    try {
+      page = await fetchWishlistPageWithRetry(nextStart);
+    } catch (error) {
+      if (Object.keys(entries).length === 0) {
+        throw error;
+      }
+
+      console.warn(`Stopping feed update at rank ${nextStart + 1}: ${error.message}`);
+      break;
+    }
+
     totalCount = page.totalCount || totalCount;
 
     const parsed = shared.parseRankingsFromSteamSearchHtml(page.resultsHtml, nextStart);
@@ -50,6 +64,11 @@ async function main() {
     entryCount: Object.keys(entries).length,
     entries
   };
+
+  if (feed.entryCount < Math.min(totalCount || MAX_RANK, MAX_RANK)) {
+    feed.partial = true;
+    feed.warning = "Feed update stopped before reaching maxRank. Existing entries are still usable.";
+  }
 
   await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
   await fs.writeFile(`${OUTPUT_PATH}.tmp`, `${JSON.stringify(feed, null, 2)}\n`, "utf8");
@@ -101,6 +120,27 @@ async function fetchWishlistPage(start) {
     resultsHtml: String(json.results_html || ""),
     totalCount: Number(json.total_count) || 0
   };
+}
+
+async function fetchWishlistPageWithRetry(start) {
+  let lastError = null;
+
+  for (let attempt = 1; attempt <= FETCH_RETRIES; attempt += 1) {
+    try {
+      return await fetchWishlistPage(start);
+    } catch (error) {
+      lastError = error;
+      console.warn(
+        `Fetch failed for start=${start}, attempt ${attempt}/${FETCH_RETRIES}: ${error.message}`
+      );
+
+      if (attempt < FETCH_RETRIES) {
+        await delay(RETRY_DELAY_MS * attempt);
+      }
+    }
+  }
+
+  throw lastError;
 }
 
 function delay(ms) {
