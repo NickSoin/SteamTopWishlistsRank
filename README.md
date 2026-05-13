@@ -145,10 +145,12 @@ not executed as JavaScript.
 
 1. Use the public GitHub repository `NickSoin/SteamTopWishlistsRank`.
 2. Push this project to the repository.
-3. The `Deploy Pages` GitHub Actions workflow publishes the `docs/` folder.
-4. If GitHub asks for Pages setup, set Pages source to `GitHub Actions`.
-5. Confirm that `src/feed-config.js` points to the published Pages URL.
-6. Rebuild the extension ZIP and upload that version to Chrome Web Store.
+3. In GitHub, open `Settings -> Pages`.
+4. Set the source to `Deploy from a branch`.
+5. Select branch `main` and folder `/docs`.
+6. Save. GitHub Pages may take a few minutes to publish.
+7. Confirm that `src/feed-config.js` points to the published Pages URL.
+8. Rebuild the extension ZIP and upload that version to Chrome Web Store.
 
 GitHub Actions runs `.github/workflows/update-feed.yml` every 6 hours:
 
@@ -182,7 +184,6 @@ https://nicksoin.github.io/SteamTopWishlistsRank/mostwished.json
 - `src/steam-wishlist-rank.css` - small CSS tweaks for the inserted row.
 - `scripts/update-feed.js` - GitHub Actions feed generator.
 - `.github/workflows/update-feed.yml` - 6-hour feed update workflow.
-- `.github/workflows/deploy-pages.yml` - GitHub Pages deployment workflow.
 - `docs/mostwished.json` - static JSON feed served by GitHub Pages.
 - `test/shared.test.js` - parser and estimate tests.
 
