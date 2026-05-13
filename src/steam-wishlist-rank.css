@@ -1,0 +1,27 @@
+.steamdb-wishlist-rank-row {
+  min-height: 18px;
+}
+
+.steamdb-wishlist-rank-row .subtitle.column {
+  text-transform: uppercase;
+}
+
+.steamdb-wishlist-rank-value a {
+  color: #66c0f4;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.steamdb-wishlist-rank-value a:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.steamdb-wishlist-rank-value .steamdb-wishlist-estimate {
+  color: #8bc53f;
+}
+
+.steamdb-wishlist-rank-value .steamdb-wishlist-muted {
+  color: #acb2b8;
+  font-weight: 400;
+}

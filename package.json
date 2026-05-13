@@ -1,0 +1,9 @@
+{
+  "name": "steam-wishlist-rank",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "build:feed": "node scripts/update-feed.js",
+    "test": "node test/shared.test.js"
+  }
+}

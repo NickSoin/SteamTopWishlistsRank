@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "source": "steam_popularwishlist",
+  "sourceUrl": "https://store.steampowered.com/search/?filter=popularwishlist&ignore_preferences=1",
+  "updatedAt": null,
+  "generatedAt": null,
+  "maxRank": 10000,
+  "pageSize": 100,
+  "totalCount": 0,
+  "entryCount": 0,
+  "entries": {}
+}
