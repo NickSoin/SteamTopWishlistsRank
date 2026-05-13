@@ -1,7 +1,7 @@
 importScripts("shared.js", "feed-config.js");
 
 const FEED_CACHE_KEY = "steam_wishlist_rank_feed_cache_v1";
-const FEED_TTL_MS = 6 * 60 * 60 * 1000;
+const FEED_TTL_MS = 4 * 60 * 60 * 1000;
 const FETCH_TIMEOUT_MS = 8000;
 let inFlightFeedPromise = null;
 
