@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Steam Wishlist Rank",
-  "version": "2.1.0",
-  "description": "Shows Steam Popular Wishlisted rank and estimated wishlist count on Steam app pages.",
+  "version": "2.2.0",
+  "description": "Shows current and pre-release Steam wishlist rank estimates on Steam app pages.",
   "permissions": ["storage"],
   "host_permissions": [
     "https://store.steampowered.com/*",

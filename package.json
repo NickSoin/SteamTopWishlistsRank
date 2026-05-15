@@ -1,9 +1,9 @@
 {
   "name": "steam-wishlist-rank",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "private": true,
   "scripts": {
     "build:feed": "node scripts/update-feed.js",
-    "test": "node test/shared.test.js"
+    "test": "node test/shared.test.js && node test/ledger.test.js"
   }
 }

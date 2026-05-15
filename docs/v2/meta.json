@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "shardAlgorithm": "fnv1a32-low8",
+  "shardCount": 256,
+  "generatedAt": "2026-05-15T09:57:38.691Z",
+  "current": {
+    "updatedAt": "2026-05-15T09:57:38.691Z",
+    "entryCount": 4604
+  },
+  "preRelease": {
+    "updatedAt": "2026-05-15T09:57:38.691Z",
+    "entryCount": 0
+  },
+  "released": {
+    "updatedAt": "2026-05-15T09:57:38.691Z",
+    "entryCount": 5
+  },
+  "trackingSince": "2026-05-15"
+}

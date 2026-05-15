@@ -82,11 +82,13 @@ function runSteamSearchParserTests() {
        data-ds-appid="1962700"
        class="search_result_row ds_collapse_flag">
       <span class="title">Subnautica 2</span>
+      <div class="search_released responsive_secondrow">14 May, 2026</div>
     </a>
     <a href="https://store.steampowered.com/app/1422450/Deadlock/"
        data-ds-appid="1422450"
        class="search_result_row">
       <span class="title">Deadlock</span>
+      <div class="search_released responsive_secondrow">To be announced</div>
     </a>
   `;
 
@@ -95,12 +97,30 @@ function runSteamSearchParserTests() {
   assert.equal(entries["1962700"].rank, 101);
   assert.equal(entries["1962700"].estimate, "200k+");
   assert.equal(entries["1962700"].name, "Subnautica 2");
+  assert.equal(entries["1962700"].releaseText, "14 May, 2026");
   assert.equal(entries["1422450"].rank, 102);
+  assert.equal(entries["1422450"].releaseText, "To be announced");
+}
+
+function runShardTests() {
+  assert.equal(shared.fnv1a32("1962700"), 0x943fa884);
+  assert.equal(shared.getShardId("1962700"), "84");
+  assert.equal(shared.getShardId("bad-app-id"), null);
+}
+
+function runSteamDateTests() {
+  assert.equal(shared.normalizeSteamDate("14 May, 2026"), "2026-05-14");
+  assert.equal(shared.normalizeSteamDate("25 Sep, 2025"), "2025-09-25");
+  assert.equal(shared.normalizeSteamDate("Coming soon"), null);
+  assert.equal(shared.normalizeSteamDate("To be announced"), null);
+  assert.equal(shared.normalizeSteamDate("2026"), null);
 }
 
 runEstimateTests();
 runParserTests();
 runFallbackParserTests();
 runSteamSearchParserTests();
+runShardTests();
+runSteamDateTests();
 
 console.log("All tests passed");

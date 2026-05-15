@@ -5,8 +5,8 @@
   if (!appIdMatch) return;
 
   const appId = appIdMatch[1];
-  const CACHE_KEY = "steam_wishlist_rank_feed_cache_v1";
-  const SYNC_RETRY_MS = 10000;
+  const mode = isReleasedPage() ? "preRelease" : "current";
+  const rowLabel = mode === "preRelease" ? "Pre-Release Top Wish:" : "Top Wishlisted:";
   const ERROR_RETRY_MS = 30000;
   let retryTimer = null;
   let hasFinalResult = false;
@@ -14,46 +14,42 @@
   renderStatusRow("Syncing...");
   requestWishlistRank();
 
-  chrome.storage.onChanged.addListener((changes, areaName) => {
-    if (areaName === "local" && changes[CACHE_KEY]) {
-      requestWishlistRank();
-    }
-  });
-
   function requestWishlistRank(options = {}) {
     window.clearTimeout(retryTimer);
 
-    chrome.runtime.sendMessage({ type: "getWishlistRank", appId, force: Boolean(options.force) }, (response) => {
-      if (chrome.runtime.lastError) {
-        console.debug("[Steam Wishlist Rank]", chrome.runtime.lastError.message);
-        renderStatusRow("Extension error", chrome.runtime.lastError.message);
-        scheduleRetry(ERROR_RETRY_MS, true);
-        return;
-      }
-
-      if (!response?.ok) {
-        renderStatusRow("Unavailable", response?.error || "Could not read wishlist rank.");
-        scheduleRetry(ERROR_RETRY_MS, true);
-        return;
-      }
-
-      if (!response.entry) {
-        if (hasFinalResult) return;
-
-        const tooltip =
-          response.refreshError ||
-          "The app was not found in the hosted Steam Popular Wishlisted feed.";
-        const label = response.complete ? "---" : "Syncing...";
-        renderStatusRow(label, tooltip, true);
-        if (!response.complete) {
-          scheduleRetry(response.refreshError ? ERROR_RETRY_MS : SYNC_RETRY_MS, Boolean(response.refreshError));
+    chrome.runtime.sendMessage(
+      { type: "getWishlistRank", appId, mode, force: Boolean(options.force) },
+      (response) => {
+        if (chrome.runtime.lastError) {
+          console.debug("[Steam Wishlist Rank]", chrome.runtime.lastError.message);
+          renderStatusRow("Extension error", chrome.runtime.lastError.message);
+          scheduleRetry(ERROR_RETRY_MS, true);
+          return;
         }
-        return;
-      }
 
-      window.clearTimeout(retryTimer);
-      renderWishlistRow(response.entry, response);
-    });
+        if (!response?.ok) {
+          renderStatusRow("Unavailable", response?.error || "Could not read wishlist rank.");
+          scheduleRetry(ERROR_RETRY_MS, true);
+          return;
+        }
+
+        if (!response.entry) {
+          if (hasFinalResult) return;
+
+          const tooltip =
+            response.refreshError ||
+            (mode === "preRelease"
+              ? "No stored pre-release wishlist snapshot was found for this app."
+              : "The app was not found in the hosted Steam Popular Wishlisted feed.");
+          const label = mode === "preRelease" ? "No data" : "---";
+          renderStatusRow(label, tooltip, mode === "current");
+          return;
+        }
+
+        window.clearTimeout(retryTimer);
+        renderWishlistRow(response.entry, response);
+      }
+    );
   }
 
   function scheduleRetry(delay, force) {
@@ -144,7 +140,7 @@
 
     const label = document.createElement("div");
     label.className = "subtitle column";
-    label.textContent = "Top Wishlisted:";
+    label.textContent = rowLabel;
 
     const value = document.createElement("div");
     value.className = "summary column steamdb-wishlist-rank-value";
@@ -157,7 +153,9 @@
     const estimate =
       entry.estimate || globalThis.SteamWishlistRankShared?.estimateWishlists(entry.rank);
     const parts = [
-      `Steam Popular Wishlisted rank #${formatRank(entry.rank)}.`,
+      mode === "preRelease"
+        ? `Pre-release Steam Popular Wishlisted rank #${formatRank(entry.rank)}.`
+        : `Steam Popular Wishlisted rank #${formatRank(entry.rank)}.`,
       estimate
         ? `Wishlist count estimate: ${estimate}.`
         : "Wishlist count estimate is not available for this rank."
@@ -169,6 +167,10 @@
 
     if (response?.source) {
       parts.push(`Source: ${response.source}.`);
+    }
+
+    if (mode === "preRelease" && entry.releaseDate) {
+      parts.push(`Release date: ${entry.releaseDate}.`);
     }
 
     if (response?.refreshError) {
@@ -208,6 +210,10 @@
 
   function findInsertTarget() {
     return document.querySelector("#userReviews") || document.querySelector(".release_date");
+  }
+
+  function isReleasedPage() {
+    return !document.querySelector(".game_area_comingsoon");
   }
 
   function removeExistingRow() {

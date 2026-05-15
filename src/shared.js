@@ -37,6 +37,74 @@
     return band ? band.estimate : "<7k";
   }
 
+  function fnv1a32(value) {
+    const text = String(value ?? "");
+    let hash = 0x811c9dc5;
+
+    for (let index = 0; index < text.length; index += 1) {
+      hash ^= text.charCodeAt(index);
+      hash = Math.imul(hash, 0x01000193) >>> 0;
+    }
+
+    return hash >>> 0;
+  }
+
+  function getShardId(appId) {
+    const normalizedAppId = normalizeAppId(appId);
+    if (!normalizedAppId) return null;
+
+    return (fnv1a32(normalizedAppId) & 0xff).toString(16).padStart(2, "0");
+  }
+
+  function normalizeAppId(value) {
+    const match = String(value ?? "").match(/^\d{1,12}$/);
+    return match ? match[0] : null;
+  }
+
+  function normalizeSteamDate(value) {
+    const text = decodeHtmlEntities(value)
+      .replace(/\s+/g, " ")
+      .trim();
+
+    const match = text.match(/^(\d{1,2})\s+([A-Za-z]+),\s+(\d{4})$/);
+    if (!match) return null;
+
+    const day = Number(match[1]);
+    const month = monthNameToNumber(match[2]);
+    const year = Number(match[3]);
+    if (!month || !Number.isInteger(day) || day < 1 || day > 31) return null;
+
+    const date = new Date(Date.UTC(year, month - 1, day));
+    if (
+      date.getUTCFullYear() !== year ||
+      date.getUTCMonth() !== month - 1 ||
+      date.getUTCDate() !== day
+    ) {
+      return null;
+    }
+
+    return `${String(year).padStart(4, "0")}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
+  }
+
+  function monthNameToNumber(value) {
+    const months = {
+      jan: 1,
+      feb: 2,
+      mar: 3,
+      apr: 4,
+      may: 5,
+      jun: 6,
+      jul: 7,
+      aug: 8,
+      sep: 9,
+      oct: 10,
+      nov: 11,
+      dec: 12
+    };
+
+    return months[String(value ?? "").slice(0, 3).toLowerCase()] || null;
+  }
+
   function parseRankFromText(text) {
     const cleaned = decodeHtmlEntities(text)
       .replace(/\s+/g, " ")
@@ -110,7 +178,7 @@
     return bestName || null;
   }
 
-  function createEntry(appId, rank, name, source) {
+  function createEntry(appId, rank, name, source, metadata = {}) {
     const normalizedRank = toRankNumber(rank);
     if (!normalizedRank) return null;
 
@@ -119,7 +187,8 @@
       rank: normalizedRank,
       estimate: estimateWishlists(normalizedRank),
       name: name || null,
-      source
+      source,
+      ...metadata
     };
   }
 
@@ -169,7 +238,9 @@
       if (!appId || entries[appId]) return;
 
       const rank = Number(offset) + index + 1;
-      const entry = createEntry(appId, rank, parseSteamSearchTitle(rowHtml), source);
+      const entry = createEntry(appId, rank, parseSteamSearchTitle(rowHtml), source, {
+        releaseText: parseSteamSearchReleaseText(rowHtml)
+      });
       if (entry) entries[appId] = entry;
     });
 
@@ -188,10 +259,22 @@
     return titleMatch ? stripTags(titleMatch[1]) || null : null;
   }
 
+  function parseSteamSearchReleaseText(rowHtml) {
+    const releaseMatch = rowHtml.match(
+      /<div\b[^>]*class=["'][^"']*\bsearch_released\b[^"']*["'][^>]*>([\s\S]*?)<\/div>/i
+    );
+
+    return releaseMatch ? stripTags(releaseMatch[1]) || null : null;
+  }
+
   const api = {
     WISHLIST_BANDS,
     createEntry,
     estimateWishlists,
+    fnv1a32,
+    getShardId,
+    normalizeAppId,
+    normalizeSteamDate,
     parseRankFromText,
     parseRankingsFromSteamDbHtml,
     parseRankingsFromSteamSearchHtml,
