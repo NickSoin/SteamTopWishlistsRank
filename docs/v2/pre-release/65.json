@@ -1,7 +1,14 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-15T10:25:15.282Z",
-  "entryCount": 0,
-  "entries": {}
+  "updatedAt": "2026-05-15T14:37:30.488Z",
+  "entryCount": 1,
+  "entries": {
+    "2629230": {
+      "rank": 1119,
+      "estimate": "25k+",
+      "name": "The Adventures of Sir Kicksalot",
+      "releaseDate": "2026-05-15"
+    }
+  }
 }

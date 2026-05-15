@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-15T10:25:15.282Z",
-  "entryCount": 20,
+  "updatedAt": "2026-05-15T14:37:30.488Z",
+  "entryCount": 21,
   "entries": {
     "1468400": {
-      "rank": 1149,
+      "rank": 1148,
       "estimate": "25k+",
       "name": "Dreamhouse: The Game"
     },
     "2068380": {
-      "rank": 2096,
+      "rank": 2095,
       "estimate": "7k+",
       "name": "SCP: Directive Nine"
     },
     "2266890": {
-      "rank": 742,
+      "rank": 745,
       "estimate": "40k+",
       "name": "BECROWNED"
     },
@@ -25,7 +25,7 @@
       "name": "Kohlrabi Starship"
     },
     "2609400": {
-      "rank": 4078,
+      "rank": 4079,
       "estimate": "<7k",
       "name": "Dreaminal"
     },
@@ -40,7 +40,7 @@
       "name": "TINY METAL 2"
     },
     "3123130": {
-      "rank": 782,
+      "rank": 783,
       "estimate": "40k+",
       "name": "Moon Princess"
     },
@@ -50,7 +50,7 @@
       "name": "Epoch Reset"
     },
     "3340830": {
-      "rank": 1887,
+      "rank": 1886,
       "estimate": "15k+",
       "name": "Idle Cave Miner 2"
     },
@@ -60,7 +60,7 @@
       "name": "Clawed"
     },
     "3536680": {
-      "rank": 2256,
+      "rank": 2257,
       "estimate": "7k+",
       "name": "wYzards"
     },
@@ -75,24 +75,29 @@
       "name": "Armatus"
     },
     "3716910": {
-      "rank": 1509,
+      "rank": 1508,
       "estimate": "15k+",
       "name": "Whispers in the fog"
     },
     "3756370": {
-      "rank": 2672,
+      "rank": 2671,
       "estimate": "7k+",
       "name": "Räfven"
     },
     "3884970": {
-      "rank": 2939,
+      "rank": 2936,
       "estimate": "7k+",
       "name": "Layer Land"
     },
     "3891680": {
-      "rank": 4212,
+      "rank": 4206,
       "estimate": "<7k",
       "name": "Spirit Rancher"
+    },
+    "3979490": {
+      "rank": 4605,
+      "estimate": "<7k",
+      "name": "AZUR"
     },
     "4031890": {
       "rank": 124,
