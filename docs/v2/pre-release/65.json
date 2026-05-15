@@ -1,14 +1,1 @@
-{
-  "schemaVersion": 2,
-  "kind": "pre_release",
-  "updatedAt": "2026-05-15T19:55:24.405Z",
-  "entryCount": 1,
-  "entries": {
-    "2629230": {
-      "rank": 1119,
-      "estimate": "25k+",
-      "name": "The Adventures of Sir Kicksalot",
-      "releaseDate": "2026-05-15"
-    }
-  }
-}
+{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-15T20:26:57.000Z","entryCount":2,"entries":{"1636620":{"rank":1448,"estimate":"25k+","name":"Cognition Method","releaseDate":"2026-01-01"},"2629230":{"rank":1119,"estimate":"25k+","name":"The Adventures of Sir Kicksalot","releaseDate":"2026-05-15"}}}
