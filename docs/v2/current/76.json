@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-15T14:37:30.488Z",
-  "entryCount": 11,
+  "updatedAt": "2026-05-15T19:55:24.405Z",
+  "entryCount": 12,
   "entries": {
     "1167110": {
-      "rank": 1960,
+      "rank": 1959,
       "estimate": "15k+",
       "name": "Rubi: The Wayward Mira"
     },
     "1545510": {
-      "rank": 2502,
+      "rank": 2503,
       "estimate": "7k+",
       "name": "Camping Builder"
     },
@@ -20,7 +20,7 @@
       "name": "Reversed Front"
     },
     "2241660": {
-      "rank": 3016,
+      "rank": 3017,
       "estimate": "<7k",
       "name": "SESSIONS"
     },
@@ -30,17 +30,17 @@
       "name": "Perfect New World"
     },
     "2978690": {
-      "rank": 2640,
+      "rank": 2639,
       "estimate": "7k+",
       "name": "Poolrooms"
     },
     "3276270": {
-      "rank": 1399,
+      "rank": 1397,
       "estimate": "25k+",
       "name": "Fallen Fates"
     },
     "3432980": {
-      "rank": 1473,
+      "rank": 1471,
       "estimate": "25k+",
       "name": "Ballistic.exe"
     },
@@ -55,9 +55,14 @@
       "name": "UK Politics Simulator"
     },
     "4337710": {
-      "rank": 2013,
+      "rank": 2011,
       "estimate": "7k+",
       "name": "The Abased"
+    },
+    "4535880": {
+      "rank": 4585,
+      "estimate": "<7k",
+      "name": "Dice Have No Eyes"
     }
   }
 }
