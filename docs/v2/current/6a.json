@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-16T08:20:24.353Z",
-  "entryCount": 19,
+  "updatedAt": "2026-05-16T14:01:15.594Z",
+  "entryCount": 20,
   "entries": {
     "1776200": {
-      "rank": 1655,
+      "rank": 1656,
       "estimate": "15k+",
       "name": "The Inn Between"
     },
@@ -15,7 +15,7 @@
       "name": "Goodlands"
     },
     "2134470": {
-      "rank": 856,
+      "rank": 855,
       "estimate": "40k+",
       "name": "34EVERLAST"
     },
@@ -30,7 +30,7 @@
       "name": "Anime Tokyo"
     },
     "2688780": {
-      "rank": 1954,
+      "rank": 1955,
       "estimate": "15k+",
       "name": "Odd Town"
     },
@@ -45,12 +45,12 @@
       "name": "Blood Crossroad"
     },
     "2999040": {
-      "rank": 1687,
+      "rank": 1688,
       "estimate": "15k+",
       "name": "Times of Survival"
     },
     "3086590": {
-      "rank": 309,
+      "rank": 308,
       "estimate": "80k+",
       "name": "Gods, Death & Reapers"
     },
@@ -65,7 +65,7 @@
       "name": "Hello Sunshine"
     },
     "3280240": {
-      "rank": 3824,
+      "rank": 3781,
       "estimate": "<7k",
       "name": "Nailcrown"
     },
@@ -75,12 +75,17 @@
       "name": "Kena: Scars of Kosmora"
     },
     "3736800": {
-      "rank": 1669,
+      "rank": 1670,
       "estimate": "15k+",
       "name": "Dungeon Picnic"
     },
+    "3914860": {
+      "rank": 4416,
+      "estimate": "<7k",
+      "name": "Moss: The Forgotten Relic"
+    },
     "3930130": {
-      "rank": 3985,
+      "rank": 3989,
       "estimate": "<7k",
       "name": "Basalt: The Cursed Vein"
     },
@@ -90,12 +95,12 @@
       "name": "WORLD WAR V: LAST CALL"
     },
     "4072240": {
-      "rank": 742,
+      "rank": 743,
       "estimate": "40k+",
       "name": "Woman Simulator"
     },
     "4274990": {
-      "rank": 3323,
+      "rank": 3320,
       "estimate": "<7k",
       "name": "Minibus Simulator"
     }

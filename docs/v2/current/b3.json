@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-16T08:20:24.353Z",
-  "entryCount": 9,
+  "updatedAt": "2026-05-16T14:01:15.594Z",
+  "entryCount": 10,
   "entries": {
     "1048250": {
       "rank": 790,
@@ -15,17 +15,17 @@
       "name": "Guardians of the Wild Sky"
     },
     "2131290": {
-      "rank": 3354,
+      "rank": 3356,
       "estimate": "<7k",
       "name": "Iron Frontier"
     },
     "3583210": {
-      "rank": 341,
+      "rank": 342,
       "estimate": "80k+",
       "name": "Crashout Crew"
     },
     "3768880": {
-      "rank": 4185,
+      "rank": 4188,
       "estimate": "<7k",
       "name": "Torebia: Island Odyssey"
     },
@@ -35,19 +35,24 @@
       "name": "Verdant"
     },
     "4208770": {
-      "rank": 2520,
+      "rank": 2522,
       "estimate": "7k+",
       "name": "Launch Window"
     },
     "4336530": {
-      "rank": 2761,
+      "rank": 2763,
       "estimate": "7k+",
       "name": "There Are Millions of Goblins"
     },
     "4446990": {
-      "rank": 4336,
+      "rank": 4337,
       "estimate": "<7k",
       "name": "Menhera Maiden"
+    },
+    "4704690": {
+      "rank": 3972,
+      "estimate": "<7k",
+      "name": "MECCHA CHAMELEON"
     }
   }
 }

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-16T08:20:24.353Z",
-  "entryCount": 18,
+  "updatedAt": "2026-05-16T14:01:15.594Z",
+  "entryCount": 19,
   "entries": {
     "904510": {
-      "rank": 1206,
+      "rank": 1208,
       "estimate": "25k+",
       "name": "ARTIFICIAL"
     },
     "952100": {
-      "rank": 3542,
+      "rank": 3543,
       "estimate": "<7k",
       "name": "Bad Pixels"
     },
@@ -25,12 +25,12 @@
       "name": "Forester Simulator"
     },
     "1707680": {
-      "rank": 943,
+      "rank": 945,
       "estimate": "40k+",
       "name": "Referee Simulator"
     },
     "1890780": {
-      "rank": 1598,
+      "rank": 1600,
       "estimate": "15k+",
       "name": "Szrot"
     },
@@ -50,42 +50,42 @@
       "name": "Demiurgos"
     },
     "2538870": {
-      "rank": 1644,
+      "rank": 1642,
       "estimate": "15k+",
       "name": "False Hero"
     },
     "3279330": {
-      "rank": 3212,
+      "rank": 3213,
       "estimate": "<7k",
       "name": "Home Wars: Battlefield"
     },
     "3398880": {
-      "rank": 2703,
+      "rank": 2704,
       "estimate": "7k+",
       "name": "Castle V Castle"
     },
     "3570350": {
-      "rank": 4134,
+      "rank": 4137,
       "estimate": "<7k",
       "name": "Silkgrove"
     },
     "3582320": {
-      "rank": 4200,
+      "rank": 4203,
       "estimate": "<7k",
       "name": "Inazuma Eleven Team Builder"
     },
     "3730680": {
-      "rank": 2130,
+      "rank": 2131,
       "estimate": "7k+",
       "name": "Table Tactics: physics-driven tabletop battles"
     },
     "3746560": {
-      "rank": 1262,
+      "rank": 1264,
       "estimate": "25k+",
       "name": "Ethernia"
     },
     "3798840": {
-      "rank": 2334,
+      "rank": 2337,
       "estimate": "7k+",
       "name": "Reytrieve Odyssey"
     },
@@ -93,6 +93,11 @@
       "rank": 145,
       "estimate": "200k+",
       "name": "Cartel Pilots Wanted"
+    },
+    "4683260": {
+      "rank": 4449,
+      "estimate": "<7k",
+      "name": "Project Rabbit"
     }
   }
 }
