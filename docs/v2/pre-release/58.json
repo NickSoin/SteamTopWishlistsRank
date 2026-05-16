@@ -1,1 +1,128 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":20,"entries":{"1934570":{"rank":6,"estimate":"1.5m+","name":"South of Midnight","releaseDate":"2025-04-08"},"1627720":{"rank":20,"estimate":"800k+","name":"Lies of P","releaseDate":"2023-09-18"},"2253100":{"rank":21,"estimate":"600k+","name":"Everwind","releaseDate":"2026-03-17"},"2968420":{"rank":40,"estimate":"600k+","name":"PowerWash Simulator 2","releaseDate":"2025-10-23"},"2701720":{"rank":43,"estimate":"600k+","name":"Wagotabi: A Japanese Journey","releaseDate":"2025-08-13"},"1101790":{"rank":96,"estimate":"300k+","name":"War Mongrels","releaseDate":"2021-10-19"},"1817800":{"rank":280,"estimate":"80k+","name":"Oddsparks: An Automation Adventure","releaseDate":"2025-05-27"},"1273400":{"rank":388,"estimate":"80k+","name":"Construction Simulator","releaseDate":"2022-09-20"},"1749860":{"rank":417,"estimate":"80k+","name":"Lushfoil Photography Sim","releaseDate":"2025-04-15"},"1854250":{"rank":467,"estimate":"80k+","name":"Demon Speakeasy","releaseDate":"2022-07-11"},"1638500":{"rank":510,"estimate":"40k+","name":"The Garden Path","releaseDate":"2024-07-30"},"2631250":{"rank":572,"estimate":"40k+","name":"Slitterhead","releaseDate":"2024-11-08"},"2093010":{"rank":583,"estimate":"40k+","name":"Supernatural","releaseDate":"2024-07-15"},"1240590":{"rank":622,"estimate":"40k+","name":"Sir Whoopass™: Immortal Death","releaseDate":"2022-08-18"},"2644360":{"rank":709,"estimate":"40k+","name":"Kingsgrave","releaseDate":"2024-04-17"},"1902870":{"rank":1148,"estimate":"25k+","name":"Vertical Kingdom","releaseDate":"2024-04-15"},"1283700":{"rank":1377,"estimate":"25k+","name":"SUPERVIVE","releaseDate":"2025-07-23"},"2580130":{"rank":1525,"estimate":"15k+","name":"The Seven Realms: High Lathión","releaseDate":"2024-11-19"},"1807360":{"rank":1771,"estimate":"15k+","name":"Dreadful River","releaseDate":"2026-02-28"},"1914060":{"rank":2088,"estimate":"7k+","name":"Super Mini Mart","releaseDate":"2025-04-15"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 20,
+  "entries": {
+    "1101790": {
+      "rank": 96,
+      "estimate": "300k+",
+      "name": "War Mongrels",
+      "releaseDate": "2021-10-19"
+    },
+    "1240590": {
+      "rank": 622,
+      "estimate": "40k+",
+      "name": "Sir Whoopass™: Immortal Death",
+      "releaseDate": "2022-08-18"
+    },
+    "1273400": {
+      "rank": 388,
+      "estimate": "80k+",
+      "name": "Construction Simulator",
+      "releaseDate": "2022-09-20"
+    },
+    "1283700": {
+      "rank": 1377,
+      "estimate": "25k+",
+      "name": "SUPERVIVE",
+      "releaseDate": "2025-07-23"
+    },
+    "1627720": {
+      "rank": 20,
+      "estimate": "800k+",
+      "name": "Lies of P",
+      "releaseDate": "2023-09-18"
+    },
+    "1638500": {
+      "rank": 510,
+      "estimate": "40k+",
+      "name": "The Garden Path",
+      "releaseDate": "2024-07-30"
+    },
+    "1749860": {
+      "rank": 417,
+      "estimate": "80k+",
+      "name": "Lushfoil Photography Sim",
+      "releaseDate": "2025-04-15"
+    },
+    "1807360": {
+      "rank": 1771,
+      "estimate": "15k+",
+      "name": "Dreadful River",
+      "releaseDate": "2026-02-28"
+    },
+    "1817800": {
+      "rank": 280,
+      "estimate": "80k+",
+      "name": "Oddsparks: An Automation Adventure",
+      "releaseDate": "2025-05-27"
+    },
+    "1854250": {
+      "rank": 467,
+      "estimate": "80k+",
+      "name": "Demon Speakeasy",
+      "releaseDate": "2022-07-11"
+    },
+    "1902870": {
+      "rank": 1148,
+      "estimate": "25k+",
+      "name": "Vertical Kingdom",
+      "releaseDate": "2024-04-15"
+    },
+    "1914060": {
+      "rank": 2088,
+      "estimate": "7k+",
+      "name": "Super Mini Mart",
+      "releaseDate": "2025-04-15"
+    },
+    "1934570": {
+      "rank": 6,
+      "estimate": "1.5m+",
+      "name": "South of Midnight",
+      "releaseDate": "2025-04-08"
+    },
+    "2093010": {
+      "rank": 583,
+      "estimate": "40k+",
+      "name": "Supernatural",
+      "releaseDate": "2024-07-15"
+    },
+    "2253100": {
+      "rank": 21,
+      "estimate": "600k+",
+      "name": "Everwind",
+      "releaseDate": "2026-03-17"
+    },
+    "2580130": {
+      "rank": 1525,
+      "estimate": "15k+",
+      "name": "The Seven Realms: High Lathión",
+      "releaseDate": "2024-11-19"
+    },
+    "2631250": {
+      "rank": 572,
+      "estimate": "40k+",
+      "name": "Slitterhead",
+      "releaseDate": "2024-11-08"
+    },
+    "2644360": {
+      "rank": 709,
+      "estimate": "40k+",
+      "name": "Kingsgrave",
+      "releaseDate": "2024-04-17"
+    },
+    "2701720": {
+      "rank": 43,
+      "estimate": "600k+",
+      "name": "Wagotabi: A Japanese Journey",
+      "releaseDate": "2025-08-13"
+    },
+    "2968420": {
+      "rank": 40,
+      "estimate": "600k+",
+      "name": "PowerWash Simulator 2",
+      "releaseDate": "2025-10-23"
+    }
+  }
+}

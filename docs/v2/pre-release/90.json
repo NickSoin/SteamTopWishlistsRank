@@ -1,1 +1,128 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":20,"entries":{"1660080":{"rank":13,"estimate":"800k+","name":"Aloft","releaseDate":"2025-01-15"},"907650":{"rank":21,"estimate":"600k+","name":"Stronghold: Warlords","releaseDate":"2021-03-09"},"848450":{"rank":43,"estimate":"600k+","name":"Subnautica: Below Zero","releaseDate":"2021-05-13"},"1371580":{"rank":76,"estimate":"300k+","name":"Myth of Empires","releaseDate":"2024-02-21"},"938560":{"rank":126,"estimate":"200k+","name":"INMOST","releaseDate":"2020-08-21"},"1582650":{"rank":196,"estimate":"200k+","name":"Caravan SandWitch","releaseDate":"2024-09-12"},"2447590":{"rank":327,"estimate":"80k+","name":"Call to Arms - Gates of Hell: Liberation","releaseDate":"2023-11-29"},"1947910":{"rank":438,"estimate":"80k+","name":"OPUS: Prism Peak","releaseDate":"2026-04-15"},"2154070":{"rank":444,"estimate":"80k+","name":"INDUSTRIA 2","releaseDate":"2026-04-29"},"1813170":{"rank":536,"estimate":"40k+","name":"Surrounded","releaseDate":"2023-07-14"},"1738990":{"rank":663,"estimate":"40k+","name":"Elf Sex Farm","releaseDate":"2022-10-25"},"1899060":{"rank":708,"estimate":"40k+","name":"Pocket Mirror ~ GoldenerTraum","releaseDate":"2023-05-19"},"1080040":{"rank":817,"estimate":"40k+","name":"Moo Lander","releaseDate":"2022-05-26"},"1955030":{"rank":1007,"estimate":"25k+","name":"SCP: EVENT CLASSIFIED","releaseDate":"2024-04-26"},"1997410":{"rank":1046,"estimate":"25k+","name":"Female Anchor Next Door","releaseDate":"2025-06-19"},"1593780":{"rank":1202,"estimate":"25k+","name":"Organs Please","releaseDate":"2023-04-05"},"2176430":{"rank":1470,"estimate":"25k+","name":"Testament: The Order of High Human","releaseDate":"2023-07-13"},"380110":{"rank":1474,"estimate":"25k+","name":"In The Black","releaseDate":"2026-05-05"},"2171880":{"rank":1590,"estimate":"15k+","name":"Albatroz","releaseDate":"2024-11-01"},"2107180":{"rank":2578,"estimate":"7k+","name":"The Hungry Fly","releaseDate":"2024-10-23"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 20,
+  "entries": {
+    "380110": {
+      "rank": 1474,
+      "estimate": "25k+",
+      "name": "In The Black",
+      "releaseDate": "2026-05-05"
+    },
+    "848450": {
+      "rank": 43,
+      "estimate": "600k+",
+      "name": "Subnautica: Below Zero",
+      "releaseDate": "2021-05-13"
+    },
+    "907650": {
+      "rank": 21,
+      "estimate": "600k+",
+      "name": "Stronghold: Warlords",
+      "releaseDate": "2021-03-09"
+    },
+    "938560": {
+      "rank": 126,
+      "estimate": "200k+",
+      "name": "INMOST",
+      "releaseDate": "2020-08-21"
+    },
+    "1080040": {
+      "rank": 817,
+      "estimate": "40k+",
+      "name": "Moo Lander",
+      "releaseDate": "2022-05-26"
+    },
+    "1371580": {
+      "rank": 76,
+      "estimate": "300k+",
+      "name": "Myth of Empires",
+      "releaseDate": "2024-02-21"
+    },
+    "1582650": {
+      "rank": 196,
+      "estimate": "200k+",
+      "name": "Caravan SandWitch",
+      "releaseDate": "2024-09-12"
+    },
+    "1593780": {
+      "rank": 1202,
+      "estimate": "25k+",
+      "name": "Organs Please",
+      "releaseDate": "2023-04-05"
+    },
+    "1660080": {
+      "rank": 13,
+      "estimate": "800k+",
+      "name": "Aloft",
+      "releaseDate": "2025-01-15"
+    },
+    "1738990": {
+      "rank": 663,
+      "estimate": "40k+",
+      "name": "Elf Sex Farm",
+      "releaseDate": "2022-10-25"
+    },
+    "1813170": {
+      "rank": 536,
+      "estimate": "40k+",
+      "name": "Surrounded",
+      "releaseDate": "2023-07-14"
+    },
+    "1899060": {
+      "rank": 708,
+      "estimate": "40k+",
+      "name": "Pocket Mirror ~ GoldenerTraum",
+      "releaseDate": "2023-05-19"
+    },
+    "1947910": {
+      "rank": 438,
+      "estimate": "80k+",
+      "name": "OPUS: Prism Peak",
+      "releaseDate": "2026-04-15"
+    },
+    "1955030": {
+      "rank": 1007,
+      "estimate": "25k+",
+      "name": "SCP: EVENT CLASSIFIED",
+      "releaseDate": "2024-04-26"
+    },
+    "1997410": {
+      "rank": 1046,
+      "estimate": "25k+",
+      "name": "Female Anchor Next Door",
+      "releaseDate": "2025-06-19"
+    },
+    "2107180": {
+      "rank": 2578,
+      "estimate": "7k+",
+      "name": "The Hungry Fly",
+      "releaseDate": "2024-10-23"
+    },
+    "2154070": {
+      "rank": 444,
+      "estimate": "80k+",
+      "name": "INDUSTRIA 2",
+      "releaseDate": "2026-04-29"
+    },
+    "2171880": {
+      "rank": 1590,
+      "estimate": "15k+",
+      "name": "Albatroz",
+      "releaseDate": "2024-11-01"
+    },
+    "2176430": {
+      "rank": 1470,
+      "estimate": "25k+",
+      "name": "Testament: The Order of High Human",
+      "releaseDate": "2023-07-13"
+    },
+    "2447590": {
+      "rank": 327,
+      "estimate": "80k+",
+      "name": "Call to Arms - Gates of Hell: Liberation",
+      "releaseDate": "2023-11-29"
+    }
+  }
+}

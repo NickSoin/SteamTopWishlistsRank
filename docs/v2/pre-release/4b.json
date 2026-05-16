@@ -1,1 +1,188 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":30,"entries":{"2322010":{"rank":2,"estimate":"1.5m+","name":"God of War Ragnarök","releaseDate":"2024-09-19"},"1823950":{"rank":7,"estimate":"1.5m+","name":"Laysara: Summit Kingdom","releaseDate":"2026-02-27"},"2397300":{"rank":7,"estimate":"1.5m+","name":"Half Sword","releaseDate":"2026-01-30"},"2124490":{"rank":11,"estimate":"800k+","name":"SILENT HILL 2","releaseDate":"2024-10-07"},"2298430":{"rank":21,"estimate":"600k+","name":"American Truck Simulator - Kansas","releaseDate":"2023-11-30"},"2600880":{"rank":35,"estimate":"600k+","name":"Gas Station Simulator - Tidal Wave DLC","releaseDate":"2024-03-21"},"936790":{"rank":38,"estimate":"600k+","name":"Life is Strange: True Colors","releaseDate":"2021-09-09"},"2524890":{"rank":38,"estimate":"600k+","name":"Pixel Gun 3D: PC Edition","releaseDate":"2024-04-02"},"2564050":{"rank":50,"estimate":"600k+","name":"Maid Sisters' Service","releaseDate":"2026-02-10"},"2461850":{"rank":57,"estimate":"300k+","name":"Senua’s Saga: Hellblade II","releaseDate":"2024-05-21"},"1658280":{"rank":103,"estimate":"200k+","name":"Eiyuden Chronicle: Hundred Heroes","releaseDate":"2024-04-23"},"2060130":{"rank":166,"estimate":"200k+","name":"Return to Monkey Island","releaseDate":"2022-09-19"},"1401590":{"rank":256,"estimate":"80k+","name":"Disney Dreamlight Valley","releaseDate":"2023-12-05"},"1406850":{"rank":272,"estimate":"80k+","name":"The Legend of Tianding","releaseDate":"2021-11-01"},"2696050":{"rank":390,"estimate":"80k+","name":"Yarimono","releaseDate":"2024-08-30"},"1685750":{"rank":459,"estimate":"80k+","name":"Capcom Fighting Collection","releaseDate":"2022-06-23"},"1066760":{"rank":465,"estimate":"80k+","name":"Moonshine Inc.","releaseDate":"2022-12-01"},"2987800":{"rank":598,"estimate":"40k+","name":"Madoka Magica Magia Exedra","releaseDate":"2025-07-16"},"2059530":{"rank":773,"estimate":"40k+","name":"Dawn of Defiance","releaseDate":"2024-08-15"},"1696080":{"rank":952,"estimate":"40k+","name":"Deadwater Saloon","releaseDate":"2022-09-13"},"1449550":{"rank":1005,"estimate":"25k+","name":"Chinese Empire","releaseDate":"2024-03-11"},"1536120":{"rank":1152,"estimate":"25k+","name":"Blueberry","releaseDate":"2026-05-28"},"1169520":{"rank":1183,"estimate":"25k+","name":"Guild of Ascension","releaseDate":"2021-09-21"},"1603640":{"rank":1294,"estimate":"25k+","name":"The House of Da Vinci 3","releaseDate":"2022-12-22"},"1455450":{"rank":1353,"estimate":"25k+","name":"To Hell With The Ugly","releaseDate":"2023-05-30"},"1564790":{"rank":1554,"estimate":"15k+","name":"Submachine: Legacy","releaseDate":"2023-10-13"},"2619510":{"rank":1760,"estimate":"15k+","name":"Fantasy Amusement Park II","releaseDate":"2024-05-31"},"1528220":{"rank":1874,"estimate":"15k+","name":"Gordian Rooms 2: A curious island","releaseDate":"2024-01-19"},"2305790":{"rank":1878,"estimate":"15k+","name":"1v1.LOL - Battle Royale Game","releaseDate":"2023-06-18"},"2549240":{"rank":1920,"estimate":"15k+","name":"Toree Saturn","releaseDate":"2025-08-08"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 30,
+  "entries": {
+    "936790": {
+      "rank": 38,
+      "estimate": "600k+",
+      "name": "Life is Strange: True Colors",
+      "releaseDate": "2021-09-09"
+    },
+    "1066760": {
+      "rank": 465,
+      "estimate": "80k+",
+      "name": "Moonshine Inc.",
+      "releaseDate": "2022-12-01"
+    },
+    "1169520": {
+      "rank": 1183,
+      "estimate": "25k+",
+      "name": "Guild of Ascension",
+      "releaseDate": "2021-09-21"
+    },
+    "1401590": {
+      "rank": 256,
+      "estimate": "80k+",
+      "name": "Disney Dreamlight Valley",
+      "releaseDate": "2023-12-05"
+    },
+    "1406850": {
+      "rank": 272,
+      "estimate": "80k+",
+      "name": "The Legend of Tianding",
+      "releaseDate": "2021-11-01"
+    },
+    "1449550": {
+      "rank": 1005,
+      "estimate": "25k+",
+      "name": "Chinese Empire",
+      "releaseDate": "2024-03-11"
+    },
+    "1455450": {
+      "rank": 1353,
+      "estimate": "25k+",
+      "name": "To Hell With The Ugly",
+      "releaseDate": "2023-05-30"
+    },
+    "1528220": {
+      "rank": 1874,
+      "estimate": "15k+",
+      "name": "Gordian Rooms 2: A curious island",
+      "releaseDate": "2024-01-19"
+    },
+    "1536120": {
+      "rank": 1152,
+      "estimate": "25k+",
+      "name": "Blueberry",
+      "releaseDate": "2026-05-28"
+    },
+    "1564790": {
+      "rank": 1554,
+      "estimate": "15k+",
+      "name": "Submachine: Legacy",
+      "releaseDate": "2023-10-13"
+    },
+    "1603640": {
+      "rank": 1294,
+      "estimate": "25k+",
+      "name": "The House of Da Vinci 3",
+      "releaseDate": "2022-12-22"
+    },
+    "1658280": {
+      "rank": 103,
+      "estimate": "200k+",
+      "name": "Eiyuden Chronicle: Hundred Heroes",
+      "releaseDate": "2024-04-23"
+    },
+    "1685750": {
+      "rank": 459,
+      "estimate": "80k+",
+      "name": "Capcom Fighting Collection",
+      "releaseDate": "2022-06-23"
+    },
+    "1696080": {
+      "rank": 952,
+      "estimate": "40k+",
+      "name": "Deadwater Saloon",
+      "releaseDate": "2022-09-13"
+    },
+    "1823950": {
+      "rank": 7,
+      "estimate": "1.5m+",
+      "name": "Laysara: Summit Kingdom",
+      "releaseDate": "2026-02-27"
+    },
+    "2059530": {
+      "rank": 773,
+      "estimate": "40k+",
+      "name": "Dawn of Defiance",
+      "releaseDate": "2024-08-15"
+    },
+    "2060130": {
+      "rank": 166,
+      "estimate": "200k+",
+      "name": "Return to Monkey Island",
+      "releaseDate": "2022-09-19"
+    },
+    "2124490": {
+      "rank": 11,
+      "estimate": "800k+",
+      "name": "SILENT HILL 2",
+      "releaseDate": "2024-10-07"
+    },
+    "2298430": {
+      "rank": 21,
+      "estimate": "600k+",
+      "name": "American Truck Simulator - Kansas",
+      "releaseDate": "2023-11-30"
+    },
+    "2305790": {
+      "rank": 1878,
+      "estimate": "15k+",
+      "name": "1v1.LOL - Battle Royale Game",
+      "releaseDate": "2023-06-18"
+    },
+    "2322010": {
+      "rank": 2,
+      "estimate": "1.5m+",
+      "name": "God of War Ragnarök",
+      "releaseDate": "2024-09-19"
+    },
+    "2397300": {
+      "rank": 7,
+      "estimate": "1.5m+",
+      "name": "Half Sword",
+      "releaseDate": "2026-01-30"
+    },
+    "2461850": {
+      "rank": 57,
+      "estimate": "300k+",
+      "name": "Senua’s Saga: Hellblade II",
+      "releaseDate": "2024-05-21"
+    },
+    "2524890": {
+      "rank": 38,
+      "estimate": "600k+",
+      "name": "Pixel Gun 3D: PC Edition",
+      "releaseDate": "2024-04-02"
+    },
+    "2549240": {
+      "rank": 1920,
+      "estimate": "15k+",
+      "name": "Toree Saturn",
+      "releaseDate": "2025-08-08"
+    },
+    "2564050": {
+      "rank": 50,
+      "estimate": "600k+",
+      "name": "Maid Sisters' Service",
+      "releaseDate": "2026-02-10"
+    },
+    "2600880": {
+      "rank": 35,
+      "estimate": "600k+",
+      "name": "Gas Station Simulator - Tidal Wave DLC",
+      "releaseDate": "2024-03-21"
+    },
+    "2619510": {
+      "rank": 1760,
+      "estimate": "15k+",
+      "name": "Fantasy Amusement Park II",
+      "releaseDate": "2024-05-31"
+    },
+    "2696050": {
+      "rank": 390,
+      "estimate": "80k+",
+      "name": "Yarimono",
+      "releaseDate": "2024-08-30"
+    },
+    "2987800": {
+      "rank": 598,
+      "estimate": "40k+",
+      "name": "Madoka Magica Magia Exedra",
+      "releaseDate": "2025-07-16"
+    }
+  }
+}

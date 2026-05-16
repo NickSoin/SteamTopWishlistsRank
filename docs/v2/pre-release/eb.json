@@ -1,1 +1,98 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":15,"entries":{"849100":{"rank":19,"estimate":"800k+","name":"Alaskan Road Truckers","releaseDate":"2023-10-18"},"1295500":{"rank":47,"estimate":"600k+","name":"Warhammer 40,000: Battlesector","releaseDate":"2021-07-22"},"1627570":{"rank":107,"estimate":"200k+","name":"The Plucky Squire","releaseDate":"2024-09-17"},"2071280":{"rank":160,"estimate":"200k+","name":"Ravenswatch","releaseDate":"2024-09-26"},"2051620":{"rank":234,"estimate":"80k+","name":"Enlisted","releaseDate":"2024-07-16"},"2217000":{"rank":251,"estimate":"80k+","name":"Rivals of Aether II","releaseDate":"2024-10-23"},"1812370":{"rank":613,"estimate":"40k+","name":"Little Goody Two Shoes","releaseDate":"2023-11-07"},"2693930":{"rank":825,"estimate":"40k+","name":"Dice & Fold","releaseDate":"2024-06-24"},"2647760":{"rank":1150,"estimate":"25k+","name":"Arma 3 Creator DLC: Reaction Forces","releaseDate":"2024-03-26"},"2088550":{"rank":1269,"estimate":"25k+","name":"Dying Breed","releaseDate":"2025-10-07"},"2442400":{"rank":1272,"estimate":"25k+","name":"Sex doll came to Life","releaseDate":"2024-11-18"},"1425000":{"rank":1305,"estimate":"25k+","name":"Endless Alice","releaseDate":"2025-01-15"},"3040560":{"rank":1715,"estimate":"15k+","name":"Elite Exorcist Miko","releaseDate":"2024-12-25"},"1634220":{"rank":1974,"estimate":"15k+","name":"Rytmos","releaseDate":"2023-02-28"},"2761510":{"rank":2042,"estimate":"7k+","name":"Handsome Me with 100 Girlfriends!","releaseDate":"2024-04-11"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 15,
+  "entries": {
+    "849100": {
+      "rank": 19,
+      "estimate": "800k+",
+      "name": "Alaskan Road Truckers",
+      "releaseDate": "2023-10-18"
+    },
+    "1295500": {
+      "rank": 47,
+      "estimate": "600k+",
+      "name": "Warhammer 40,000: Battlesector",
+      "releaseDate": "2021-07-22"
+    },
+    "1425000": {
+      "rank": 1305,
+      "estimate": "25k+",
+      "name": "Endless Alice",
+      "releaseDate": "2025-01-15"
+    },
+    "1627570": {
+      "rank": 107,
+      "estimate": "200k+",
+      "name": "The Plucky Squire",
+      "releaseDate": "2024-09-17"
+    },
+    "1634220": {
+      "rank": 1974,
+      "estimate": "15k+",
+      "name": "Rytmos",
+      "releaseDate": "2023-02-28"
+    },
+    "1812370": {
+      "rank": 613,
+      "estimate": "40k+",
+      "name": "Little Goody Two Shoes",
+      "releaseDate": "2023-11-07"
+    },
+    "2051620": {
+      "rank": 234,
+      "estimate": "80k+",
+      "name": "Enlisted",
+      "releaseDate": "2024-07-16"
+    },
+    "2071280": {
+      "rank": 160,
+      "estimate": "200k+",
+      "name": "Ravenswatch",
+      "releaseDate": "2024-09-26"
+    },
+    "2088550": {
+      "rank": 1269,
+      "estimate": "25k+",
+      "name": "Dying Breed",
+      "releaseDate": "2025-10-07"
+    },
+    "2217000": {
+      "rank": 251,
+      "estimate": "80k+",
+      "name": "Rivals of Aether II",
+      "releaseDate": "2024-10-23"
+    },
+    "2442400": {
+      "rank": 1272,
+      "estimate": "25k+",
+      "name": "Sex doll came to Life",
+      "releaseDate": "2024-11-18"
+    },
+    "2647760": {
+      "rank": 1150,
+      "estimate": "25k+",
+      "name": "Arma 3 Creator DLC: Reaction Forces",
+      "releaseDate": "2024-03-26"
+    },
+    "2693930": {
+      "rank": 825,
+      "estimate": "40k+",
+      "name": "Dice & Fold",
+      "releaseDate": "2024-06-24"
+    },
+    "2761510": {
+      "rank": 2042,
+      "estimate": "7k+",
+      "name": "Handsome Me with 100 Girlfriends!",
+      "releaseDate": "2024-04-11"
+    },
+    "3040560": {
+      "rank": 1715,
+      "estimate": "15k+",
+      "name": "Elite Exorcist Miko",
+      "releaseDate": "2024-12-25"
+    }
+  }
+}

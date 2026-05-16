@@ -1,1 +1,116 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":18,"entries":{"597820":{"rank":2,"estimate":"1.5m+","name":"BIOMUTANT","releaseDate":"2021-05-25"},"1124160":{"rank":8,"estimate":"1.5m+","name":"VR Giants","releaseDate":"2023-06-14"},"1639080":{"rank":18,"estimate":"800k+","name":"Sandwalkers","releaseDate":"2025-04-08"},"2012510":{"rank":27,"estimate":"600k+","name":"Stormgate","releaseDate":"2025-08-05"},"1622350":{"rank":36,"estimate":"600k+","name":"Copycat","releaseDate":"2024-09-19"},"986130":{"rank":138,"estimate":"200k+","name":"Shadows of Doubt","releaseDate":"2024-09-26"},"2200780":{"rank":417,"estimate":"80k+","name":"My Dream Setup","releaseDate":"2023-02-20"},"704000":{"rank":494,"estimate":"80k+","name":"GUNHEAD","releaseDate":"2023-11-08"},"1235710":{"rank":702,"estimate":"40k+","name":"Oddventure","releaseDate":"2025-04-03"},"1413370":{"rank":723,"estimate":"40k+","name":"Power to the People","releaseDate":"2022-02-08"},"2264140":{"rank":747,"estimate":"40k+","name":"How 2 Escape","releaseDate":"2023-08-31"},"2621150":{"rank":929,"estimate":"40k+","name":"Lizard Survivors: Battle for Hyperborea","releaseDate":"2023-11-16"},"1536620":{"rank":969,"estimate":"40k+","name":"Galactic Glitch","releaseDate":"2025-06-03"},"1856030":{"rank":1336,"estimate":"25k+","name":"Fresh Start Cleaning Simulator","releaseDate":"2022-12-20"},"2095090":{"rank":1362,"estimate":"25k+","name":"ウーマンコミュニケーション","releaseDate":"2023-10-25"},"1927150":{"rank":2221,"estimate":"7k+","name":"Townframe","releaseDate":"2024-10-08"},"2531370":{"rank":2352,"estimate":"7k+","name":"Blacksmith. Song of two Kings.","releaseDate":"2024-02-13"},"2401860":{"rank":2536,"estimate":"7k+","name":"Age of Wonders 4: Eldritch Realms","releaseDate":"2024-06-18"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 18,
+  "entries": {
+    "597820": {
+      "rank": 2,
+      "estimate": "1.5m+",
+      "name": "BIOMUTANT",
+      "releaseDate": "2021-05-25"
+    },
+    "704000": {
+      "rank": 494,
+      "estimate": "80k+",
+      "name": "GUNHEAD",
+      "releaseDate": "2023-11-08"
+    },
+    "986130": {
+      "rank": 138,
+      "estimate": "200k+",
+      "name": "Shadows of Doubt",
+      "releaseDate": "2024-09-26"
+    },
+    "1124160": {
+      "rank": 8,
+      "estimate": "1.5m+",
+      "name": "VR Giants",
+      "releaseDate": "2023-06-14"
+    },
+    "1235710": {
+      "rank": 702,
+      "estimate": "40k+",
+      "name": "Oddventure",
+      "releaseDate": "2025-04-03"
+    },
+    "1413370": {
+      "rank": 723,
+      "estimate": "40k+",
+      "name": "Power to the People",
+      "releaseDate": "2022-02-08"
+    },
+    "1536620": {
+      "rank": 969,
+      "estimate": "40k+",
+      "name": "Galactic Glitch",
+      "releaseDate": "2025-06-03"
+    },
+    "1622350": {
+      "rank": 36,
+      "estimate": "600k+",
+      "name": "Copycat",
+      "releaseDate": "2024-09-19"
+    },
+    "1639080": {
+      "rank": 18,
+      "estimate": "800k+",
+      "name": "Sandwalkers",
+      "releaseDate": "2025-04-08"
+    },
+    "1856030": {
+      "rank": 1336,
+      "estimate": "25k+",
+      "name": "Fresh Start Cleaning Simulator",
+      "releaseDate": "2022-12-20"
+    },
+    "1927150": {
+      "rank": 2221,
+      "estimate": "7k+",
+      "name": "Townframe",
+      "releaseDate": "2024-10-08"
+    },
+    "2012510": {
+      "rank": 27,
+      "estimate": "600k+",
+      "name": "Stormgate",
+      "releaseDate": "2025-08-05"
+    },
+    "2095090": {
+      "rank": 1362,
+      "estimate": "25k+",
+      "name": "ウーマンコミュニケーション",
+      "releaseDate": "2023-10-25"
+    },
+    "2200780": {
+      "rank": 417,
+      "estimate": "80k+",
+      "name": "My Dream Setup",
+      "releaseDate": "2023-02-20"
+    },
+    "2264140": {
+      "rank": 747,
+      "estimate": "40k+",
+      "name": "How 2 Escape",
+      "releaseDate": "2023-08-31"
+    },
+    "2401860": {
+      "rank": 2536,
+      "estimate": "7k+",
+      "name": "Age of Wonders 4: Eldritch Realms",
+      "releaseDate": "2024-06-18"
+    },
+    "2531370": {
+      "rank": 2352,
+      "estimate": "7k+",
+      "name": "Blacksmith. Song of two Kings.",
+      "releaseDate": "2024-02-13"
+    },
+    "2621150": {
+      "rank": 929,
+      "estimate": "40k+",
+      "name": "Lizard Survivors: Battle for Hyperborea",
+      "releaseDate": "2023-11-16"
+    }
+  }
+}

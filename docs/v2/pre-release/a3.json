@@ -1,1 +1,170 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":27,"entries":{"3751260":{"rank":8,"estimate":"1.5m+","name":"The Blood of Dawnwalker","releaseDate":"2026-09-02"},"2109370":{"rank":36,"estimate":"600k+","name":"The Great War: Western Front™","releaseDate":"2023-03-30"},"2437170":{"rank":41,"estimate":"600k+","name":"SMITE 2","releaseDate":"2024-08-27"},"2410490":{"rank":49,"estimate":"600k+","name":"Sneak Out","releaseDate":"2024-06-06"},"1465750":{"rank":50,"estimate":"600k+","name":"American Truck Simulator - Texas","releaseDate":"2022-11-15"},"2186700":{"rank":212,"estimate":"80k+","name":"Contain","releaseDate":"2024-01-16"},"2701660":{"rank":231,"estimate":"80k+","name":"DRAGON QUEST III HD-2D Remake","releaseDate":"2024-11-14"},"1668540":{"rank":278,"estimate":"80k+","name":"The Legend of Heroes: Trails into Reverie","releaseDate":"2023-07-07"},"782250":{"rank":368,"estimate":"80k+","name":"Hush Hush - Only Your Love Can Save Them","releaseDate":"2023-04-20"},"1398210":{"rank":418,"estimate":"80k+","name":"Selene ~Apoptosis~","releaseDate":"2023-02-17"},"1546080":{"rank":603,"estimate":"40k+","name":"Every Day We Fight","releaseDate":"2025-07-10"},"949200":{"rank":773,"estimate":"40k+","name":"Ambition: A Minuet in Power","releaseDate":"2021-08-18"},"1996430":{"rank":824,"estimate":"40k+","name":"Dicefolk","releaseDate":"2024-02-27"},"1969810":{"rank":941,"estimate":"40k+","name":"Enter the Chronosphere","releaseDate":"2026-05-25"},"2428800":{"rank":1007,"estimate":"25k+","name":"Nom Nom: Cozy Forest Café","releaseDate":"2026-01-12"},"2416900":{"rank":1063,"estimate":"25k+","name":"Deep Rock Galactic - Decontaminator Pack","releaseDate":"2023-06-15"},"1812060":{"rank":1281,"estimate":"25k+","name":"Yokai Art: Night Parade of One Hundred Demons","releaseDate":"2022-09-28"},"2342690":{"rank":1497,"estimate":"25k+","name":"Call of Boba","releaseDate":"2025-03-10"},"2159960":{"rank":1567,"estimate":"15k+","name":"CorpoNation: The Sorting Process","releaseDate":"2024-02-22"},"2612700":{"rank":1753,"estimate":"15k+","name":"S4U: CITYPUNK 2011 AND LOVE PUNCH","releaseDate":"2025-01-08"},"2654470":{"rank":1756,"estimate":"15k+","name":"BUNNY GARDEN","releaseDate":"2024-04-18"},"1454000":{"rank":1808,"estimate":"15k+","name":"Shattered Heaven","releaseDate":"2023-11-08"},"2591010":{"rank":1924,"estimate":"15k+","name":"Silent Depth 2: Pacific","releaseDate":"2024-07-16"},"1447350":{"rank":2023,"estimate":"7k+","name":"Arcus Chroma: Classic","releaseDate":"2024-05-30"},"2510130":{"rank":2164,"estimate":"7k+","name":"Auto Sale Life","releaseDate":"2025-03-12"},"1729180":{"rank":2625,"estimate":"7k+","name":"Last Vanguard","releaseDate":"2025-05-15"},"2562900":{"rank":2629,"estimate":"7k+","name":"Eden Genesis","releaseDate":"2024-08-06"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 27,
+  "entries": {
+    "782250": {
+      "rank": 368,
+      "estimate": "80k+",
+      "name": "Hush Hush - Only Your Love Can Save Them",
+      "releaseDate": "2023-04-20"
+    },
+    "949200": {
+      "rank": 773,
+      "estimate": "40k+",
+      "name": "Ambition: A Minuet in Power",
+      "releaseDate": "2021-08-18"
+    },
+    "1398210": {
+      "rank": 418,
+      "estimate": "80k+",
+      "name": "Selene ~Apoptosis~",
+      "releaseDate": "2023-02-17"
+    },
+    "1447350": {
+      "rank": 2023,
+      "estimate": "7k+",
+      "name": "Arcus Chroma: Classic",
+      "releaseDate": "2024-05-30"
+    },
+    "1454000": {
+      "rank": 1808,
+      "estimate": "15k+",
+      "name": "Shattered Heaven",
+      "releaseDate": "2023-11-08"
+    },
+    "1465750": {
+      "rank": 50,
+      "estimate": "600k+",
+      "name": "American Truck Simulator - Texas",
+      "releaseDate": "2022-11-15"
+    },
+    "1546080": {
+      "rank": 603,
+      "estimate": "40k+",
+      "name": "Every Day We Fight",
+      "releaseDate": "2025-07-10"
+    },
+    "1668540": {
+      "rank": 278,
+      "estimate": "80k+",
+      "name": "The Legend of Heroes: Trails into Reverie",
+      "releaseDate": "2023-07-07"
+    },
+    "1729180": {
+      "rank": 2625,
+      "estimate": "7k+",
+      "name": "Last Vanguard",
+      "releaseDate": "2025-05-15"
+    },
+    "1812060": {
+      "rank": 1281,
+      "estimate": "25k+",
+      "name": "Yokai Art: Night Parade of One Hundred Demons",
+      "releaseDate": "2022-09-28"
+    },
+    "1969810": {
+      "rank": 941,
+      "estimate": "40k+",
+      "name": "Enter the Chronosphere",
+      "releaseDate": "2026-05-25"
+    },
+    "1996430": {
+      "rank": 824,
+      "estimate": "40k+",
+      "name": "Dicefolk",
+      "releaseDate": "2024-02-27"
+    },
+    "2109370": {
+      "rank": 36,
+      "estimate": "600k+",
+      "name": "The Great War: Western Front™",
+      "releaseDate": "2023-03-30"
+    },
+    "2159960": {
+      "rank": 1567,
+      "estimate": "15k+",
+      "name": "CorpoNation: The Sorting Process",
+      "releaseDate": "2024-02-22"
+    },
+    "2186700": {
+      "rank": 212,
+      "estimate": "80k+",
+      "name": "Contain",
+      "releaseDate": "2024-01-16"
+    },
+    "2342690": {
+      "rank": 1497,
+      "estimate": "25k+",
+      "name": "Call of Boba",
+      "releaseDate": "2025-03-10"
+    },
+    "2410490": {
+      "rank": 49,
+      "estimate": "600k+",
+      "name": "Sneak Out",
+      "releaseDate": "2024-06-06"
+    },
+    "2416900": {
+      "rank": 1063,
+      "estimate": "25k+",
+      "name": "Deep Rock Galactic - Decontaminator Pack",
+      "releaseDate": "2023-06-15"
+    },
+    "2428800": {
+      "rank": 1007,
+      "estimate": "25k+",
+      "name": "Nom Nom: Cozy Forest Café",
+      "releaseDate": "2026-01-12"
+    },
+    "2437170": {
+      "rank": 41,
+      "estimate": "600k+",
+      "name": "SMITE 2",
+      "releaseDate": "2024-08-27"
+    },
+    "2510130": {
+      "rank": 2164,
+      "estimate": "7k+",
+      "name": "Auto Sale Life",
+      "releaseDate": "2025-03-12"
+    },
+    "2562900": {
+      "rank": 2629,
+      "estimate": "7k+",
+      "name": "Eden Genesis",
+      "releaseDate": "2024-08-06"
+    },
+    "2591010": {
+      "rank": 1924,
+      "estimate": "15k+",
+      "name": "Silent Depth 2: Pacific",
+      "releaseDate": "2024-07-16"
+    },
+    "2612700": {
+      "rank": 1753,
+      "estimate": "15k+",
+      "name": "S4U: CITYPUNK 2011 AND LOVE PUNCH",
+      "releaseDate": "2025-01-08"
+    },
+    "2654470": {
+      "rank": 1756,
+      "estimate": "15k+",
+      "name": "BUNNY GARDEN",
+      "releaseDate": "2024-04-18"
+    },
+    "2701660": {
+      "rank": 231,
+      "estimate": "80k+",
+      "name": "DRAGON QUEST III HD-2D Remake",
+      "releaseDate": "2024-11-14"
+    },
+    "3751260": {
+      "rank": 8,
+      "estimate": "1.5m+",
+      "name": "The Blood of Dawnwalker",
+      "releaseDate": "2026-09-02"
+    }
+  }
+}

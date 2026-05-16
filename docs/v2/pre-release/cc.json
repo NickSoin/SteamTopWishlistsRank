@@ -1,1 +1,152 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":24,"entries":{"3024040":{"rank":15,"estimate":"800k+","name":"Stronghold Crusader: Definitive Edition","releaseDate":"2025-07-15"},"1294810":{"rank":26,"estimate":"600k+","name":"Redfall","releaseDate":"2023-05-01"},"2719750":{"rank":34,"estimate":"600k+","name":"Star Birds","releaseDate":"2025-09-10"},"3172660":{"rank":35,"estimate":"600k+","name":"Marvel's Spider-Man 2 - Digital Deluxe Upgrade","releaseDate":"2025-01-30"},"2331330":{"rank":47,"estimate":"600k+","name":"The Bridge Curse 2: The Extrication","releaseDate":"2024-05-09"},"1268750":{"rank":87,"estimate":"300k+","name":"Starship Troopers: Extermination","releaseDate":"2024-10-10"},"1158370":{"rank":140,"estimate":"200k+","name":"Aragami 2","releaseDate":"2021-09-17"},"2552450":{"rank":165,"estimate":"200k+","name":"KINGDOM HEARTS III + Re Mind (DLC)","releaseDate":"2024-06-13"},"1894430":{"rank":166,"estimate":"200k+","name":"Plan B: Terraform","releaseDate":"2025-08-29"},"1059110":{"rank":216,"estimate":"80k+","name":"Superball","releaseDate":"2025-10-28"},"1981570":{"rank":229,"estimate":"80k+","name":"Land of the Vikings","releaseDate":"2023-10-09"},"1309950":{"rank":255,"estimate":"80k+","name":"Children of the Sun","releaseDate":"2024-04-09"},"1159830":{"rank":348,"estimate":"80k+","name":"Scene Investigators","releaseDate":"2023-10-24"},"3070070":{"rank":375,"estimate":"80k+","name":"TCG Card Shop Simulator","releaseDate":"2024-09-15"},"2022670":{"rank":406,"estimate":"80k+","name":"SONIC SUPERSTARS","releaseDate":"2023-10-16"},"1057800":{"rank":468,"estimate":"80k+","name":"Floppy Knights","releaseDate":"2022-05-24"},"2172320":{"rank":931,"estimate":"40k+","name":"Last Whisper","releaseDate":"2024-07-22"},"1553120":{"rank":1085,"estimate":"25k+","name":"The Inheritance of Crimson Manor","releaseDate":"2022-05-05"},"1478160":{"rank":1224,"estimate":"25k+","name":"Nyaruru Fishy Fight","releaseDate":"2023-06-13"},"1482860":{"rank":1646,"estimate":"15k+","name":"Idle Research","releaseDate":"2022-07-31"},"3079770":{"rank":1953,"estimate":"15k+","name":"Kokoro Kitchen","releaseDate":"2025-10-17"},"2850150":{"rank":1960,"estimate":"15k+","name":"G-MODEアーカイブス+ ペルソナ3 アイギス THE FIRST MISSION","releaseDate":"2024-06-05"},"659300":{"rank":3018,"estimate":"<7k","name":"Super Farming Boy","releaseDate":"2025-08-12"},"2523890":{"rank":3140,"estimate":"<7k","name":"Whispers of the Eyeless","releaseDate":"2026-03-17"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 24,
+  "entries": {
+    "659300": {
+      "rank": 3018,
+      "estimate": "<7k",
+      "name": "Super Farming Boy",
+      "releaseDate": "2025-08-12"
+    },
+    "1057800": {
+      "rank": 468,
+      "estimate": "80k+",
+      "name": "Floppy Knights",
+      "releaseDate": "2022-05-24"
+    },
+    "1059110": {
+      "rank": 216,
+      "estimate": "80k+",
+      "name": "Superball",
+      "releaseDate": "2025-10-28"
+    },
+    "1158370": {
+      "rank": 140,
+      "estimate": "200k+",
+      "name": "Aragami 2",
+      "releaseDate": "2021-09-17"
+    },
+    "1159830": {
+      "rank": 348,
+      "estimate": "80k+",
+      "name": "Scene Investigators",
+      "releaseDate": "2023-10-24"
+    },
+    "1268750": {
+      "rank": 87,
+      "estimate": "300k+",
+      "name": "Starship Troopers: Extermination",
+      "releaseDate": "2024-10-10"
+    },
+    "1294810": {
+      "rank": 26,
+      "estimate": "600k+",
+      "name": "Redfall",
+      "releaseDate": "2023-05-01"
+    },
+    "1309950": {
+      "rank": 255,
+      "estimate": "80k+",
+      "name": "Children of the Sun",
+      "releaseDate": "2024-04-09"
+    },
+    "1478160": {
+      "rank": 1224,
+      "estimate": "25k+",
+      "name": "Nyaruru Fishy Fight",
+      "releaseDate": "2023-06-13"
+    },
+    "1482860": {
+      "rank": 1646,
+      "estimate": "15k+",
+      "name": "Idle Research",
+      "releaseDate": "2022-07-31"
+    },
+    "1553120": {
+      "rank": 1085,
+      "estimate": "25k+",
+      "name": "The Inheritance of Crimson Manor",
+      "releaseDate": "2022-05-05"
+    },
+    "1894430": {
+      "rank": 166,
+      "estimate": "200k+",
+      "name": "Plan B: Terraform",
+      "releaseDate": "2025-08-29"
+    },
+    "1981570": {
+      "rank": 229,
+      "estimate": "80k+",
+      "name": "Land of the Vikings",
+      "releaseDate": "2023-10-09"
+    },
+    "2022670": {
+      "rank": 406,
+      "estimate": "80k+",
+      "name": "SONIC SUPERSTARS",
+      "releaseDate": "2023-10-16"
+    },
+    "2172320": {
+      "rank": 931,
+      "estimate": "40k+",
+      "name": "Last Whisper",
+      "releaseDate": "2024-07-22"
+    },
+    "2331330": {
+      "rank": 47,
+      "estimate": "600k+",
+      "name": "The Bridge Curse 2: The Extrication",
+      "releaseDate": "2024-05-09"
+    },
+    "2523890": {
+      "rank": 3140,
+      "estimate": "<7k",
+      "name": "Whispers of the Eyeless",
+      "releaseDate": "2026-03-17"
+    },
+    "2552450": {
+      "rank": 165,
+      "estimate": "200k+",
+      "name": "KINGDOM HEARTS III + Re Mind (DLC)",
+      "releaseDate": "2024-06-13"
+    },
+    "2719750": {
+      "rank": 34,
+      "estimate": "600k+",
+      "name": "Star Birds",
+      "releaseDate": "2025-09-10"
+    },
+    "2850150": {
+      "rank": 1960,
+      "estimate": "15k+",
+      "name": "G-MODEアーカイブス+ ペルソナ3 アイギス THE FIRST MISSION",
+      "releaseDate": "2024-06-05"
+    },
+    "3024040": {
+      "rank": 15,
+      "estimate": "800k+",
+      "name": "Stronghold Crusader: Definitive Edition",
+      "releaseDate": "2025-07-15"
+    },
+    "3070070": {
+      "rank": 375,
+      "estimate": "80k+",
+      "name": "TCG Card Shop Simulator",
+      "releaseDate": "2024-09-15"
+    },
+    "3079770": {
+      "rank": 1953,
+      "estimate": "15k+",
+      "name": "Kokoro Kitchen",
+      "releaseDate": "2025-10-17"
+    },
+    "3172660": {
+      "rank": 35,
+      "estimate": "600k+",
+      "name": "Marvel's Spider-Man 2 - Digital Deluxe Upgrade",
+      "releaseDate": "2025-01-30"
+    }
+  }
+}

@@ -1,1 +1,170 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":27,"entries":{"1624060":{"rank":9,"estimate":"1.5m+","name":"Space for Sale","releaseDate":"2025-04-15"},"1171690":{"rank":23,"estimate":"600k+","name":"Wayfinder","releaseDate":"2024-10-21"},"3040880":{"rank":36,"estimate":"600k+","name":"07GORILLAS","releaseDate":"2026-03-27"},"1493640":{"rank":93,"estimate":"300k+","name":"Banishers: Ghosts of New Eden","releaseDate":"2024-02-12"},"2395770":{"rank":154,"estimate":"200k+","name":"Never Grave: The Witch and The Curse","releaseDate":"2026-03-04"},"1893820":{"rank":159,"estimate":"200k+","name":"Jumplight Odyssey","releaseDate":"2023-08-21"},"1591450":{"rank":196,"estimate":"200k+","name":"Aka","releaseDate":"2022-12-14"},"2292260":{"rank":431,"estimate":"80k+","name":"STAR WARS™: Dark Forces Remaster","releaseDate":"2024-02-28"},"1671570":{"rank":492,"estimate":"80k+","name":"Out and About","releaseDate":"2025-08-11"},"1683100":{"rank":523,"estimate":"40k+","name":"Ultra Age","releaseDate":"2022-04-27"},"2348930":{"rank":523,"estimate":"40k+","name":"Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock","releaseDate":"2023-08-31"},"1617220":{"rank":566,"estimate":"40k+","name":"Thirsty Suitors","releaseDate":"2023-11-02"},"1641120":{"rank":630,"estimate":"40k+","name":"Critter Crops","releaseDate":"2024-07-22"},"1494810":{"rank":765,"estimate":"40k+","name":"Mortal Sin","releaseDate":"2025-08-29"},"1336600":{"rank":833,"estimate":"40k+","name":"Cabin Fever","releaseDate":"2021-07-12"},"2649080":{"rank":941,"estimate":"40k+","name":"Coffee Caravan","releaseDate":"2024-05-20"},"1573090":{"rank":1373,"estimate":"25k+","name":"Impaler Gold","releaseDate":"2022-12-06"},"1963370":{"rank":1666,"estimate":"15k+","name":"No One Survived","releaseDate":"2025-12-27"},"2419670":{"rank":1668,"estimate":"15k+","name":"Eclipsium","releaseDate":"2025-09-19"},"1520160":{"rank":1680,"estimate":"15k+","name":"Chrono Sword","releaseDate":"2024-12-06"},"2532490":{"rank":1730,"estimate":"15k+","name":"Rise of Industry 2","releaseDate":"2025-06-03"},"2080210":{"rank":1958,"estimate":"15k+","name":"My Hotel: Echoes of the Past","releaseDate":"2024-04-17"},"2797310":{"rank":1961,"estimate":"15k+","name":"Hypnotic Idol","releaseDate":"2024-06-18"},"2758540":{"rank":2177,"estimate":"7k+","name":"我的小鲨鱼","releaseDate":"2024-01-22"},"2453360":{"rank":2342,"estimate":"7k+","name":"Cluckmech Oasis","releaseDate":"2024-05-09"},"2639810":{"rank":2390,"estimate":"7k+","name":"Rumble Club","releaseDate":"2024-04-23"},"2761100":{"rank":2393,"estimate":"7k+","name":"Pomberito","releaseDate":"2024-06-24"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 27,
+  "entries": {
+    "1171690": {
+      "rank": 23,
+      "estimate": "600k+",
+      "name": "Wayfinder",
+      "releaseDate": "2024-10-21"
+    },
+    "1336600": {
+      "rank": 833,
+      "estimate": "40k+",
+      "name": "Cabin Fever",
+      "releaseDate": "2021-07-12"
+    },
+    "1493640": {
+      "rank": 93,
+      "estimate": "300k+",
+      "name": "Banishers: Ghosts of New Eden",
+      "releaseDate": "2024-02-12"
+    },
+    "1494810": {
+      "rank": 765,
+      "estimate": "40k+",
+      "name": "Mortal Sin",
+      "releaseDate": "2025-08-29"
+    },
+    "1520160": {
+      "rank": 1680,
+      "estimate": "15k+",
+      "name": "Chrono Sword",
+      "releaseDate": "2024-12-06"
+    },
+    "1573090": {
+      "rank": 1373,
+      "estimate": "25k+",
+      "name": "Impaler Gold",
+      "releaseDate": "2022-12-06"
+    },
+    "1591450": {
+      "rank": 196,
+      "estimate": "200k+",
+      "name": "Aka",
+      "releaseDate": "2022-12-14"
+    },
+    "1617220": {
+      "rank": 566,
+      "estimate": "40k+",
+      "name": "Thirsty Suitors",
+      "releaseDate": "2023-11-02"
+    },
+    "1624060": {
+      "rank": 9,
+      "estimate": "1.5m+",
+      "name": "Space for Sale",
+      "releaseDate": "2025-04-15"
+    },
+    "1641120": {
+      "rank": 630,
+      "estimate": "40k+",
+      "name": "Critter Crops",
+      "releaseDate": "2024-07-22"
+    },
+    "1671570": {
+      "rank": 492,
+      "estimate": "80k+",
+      "name": "Out and About",
+      "releaseDate": "2025-08-11"
+    },
+    "1683100": {
+      "rank": 523,
+      "estimate": "40k+",
+      "name": "Ultra Age",
+      "releaseDate": "2022-04-27"
+    },
+    "1893820": {
+      "rank": 159,
+      "estimate": "200k+",
+      "name": "Jumplight Odyssey",
+      "releaseDate": "2023-08-21"
+    },
+    "1963370": {
+      "rank": 1666,
+      "estimate": "15k+",
+      "name": "No One Survived",
+      "releaseDate": "2025-12-27"
+    },
+    "2080210": {
+      "rank": 1958,
+      "estimate": "15k+",
+      "name": "My Hotel: Echoes of the Past",
+      "releaseDate": "2024-04-17"
+    },
+    "2292260": {
+      "rank": 431,
+      "estimate": "80k+",
+      "name": "STAR WARS™: Dark Forces Remaster",
+      "releaseDate": "2024-02-28"
+    },
+    "2348930": {
+      "rank": 523,
+      "estimate": "40k+",
+      "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock",
+      "releaseDate": "2023-08-31"
+    },
+    "2395770": {
+      "rank": 154,
+      "estimate": "200k+",
+      "name": "Never Grave: The Witch and The Curse",
+      "releaseDate": "2026-03-04"
+    },
+    "2419670": {
+      "rank": 1668,
+      "estimate": "15k+",
+      "name": "Eclipsium",
+      "releaseDate": "2025-09-19"
+    },
+    "2453360": {
+      "rank": 2342,
+      "estimate": "7k+",
+      "name": "Cluckmech Oasis",
+      "releaseDate": "2024-05-09"
+    },
+    "2532490": {
+      "rank": 1730,
+      "estimate": "15k+",
+      "name": "Rise of Industry 2",
+      "releaseDate": "2025-06-03"
+    },
+    "2639810": {
+      "rank": 2390,
+      "estimate": "7k+",
+      "name": "Rumble Club",
+      "releaseDate": "2024-04-23"
+    },
+    "2649080": {
+      "rank": 941,
+      "estimate": "40k+",
+      "name": "Coffee Caravan",
+      "releaseDate": "2024-05-20"
+    },
+    "2758540": {
+      "rank": 2177,
+      "estimate": "7k+",
+      "name": "我的小鲨鱼",
+      "releaseDate": "2024-01-22"
+    },
+    "2761100": {
+      "rank": 2393,
+      "estimate": "7k+",
+      "name": "Pomberito",
+      "releaseDate": "2024-06-24"
+    },
+    "2797310": {
+      "rank": 1961,
+      "estimate": "15k+",
+      "name": "Hypnotic Idol",
+      "releaseDate": "2024-06-18"
+    },
+    "3040880": {
+      "rank": 36,
+      "estimate": "600k+",
+      "name": "07GORILLAS",
+      "releaseDate": "2026-03-27"
+    }
+  }
+}

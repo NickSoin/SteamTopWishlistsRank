@@ -1,1 +1,212 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":34,"entries":{"1858650":{"rank":8,"estimate":"1.5m+","name":"In Sink: A Co-op Escape Adventure","releaseDate":"2024-11-12"},"948880":{"rank":25,"estimate":"600k+","name":"Arena Renovation","releaseDate":"2024-01-19"},"1932640":{"rank":33,"estimate":"600k+","name":"Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars","releaseDate":"2025-03-06"},"1672810":{"rank":35,"estimate":"600k+","name":"MIO: Memories in Orbit","releaseDate":"2026-01-20"},"1408080":{"rank":44,"estimate":"600k+","name":"Minigame Madness","releaseDate":"2023-11-13"},"3055480":{"rank":48,"estimate":"600k+","name":"Live Lens Bodycam","releaseDate":"2025-07-30"},"1569190":{"rank":54,"estimate":"300k+","name":"House Flipper - Pets DLC","releaseDate":"2022-05-12"},"1889490":{"rank":101,"estimate":"200k+","name":"Stellaris: Overlord","releaseDate":"2022-05-12"},"700820":{"rank":105,"estimate":"200k+","name":"TFM: The First Men","releaseDate":"2022-11-02"},"2478970":{"rank":164,"estimate":"200k+","name":"Tomb Raider I-III Remastered Starring Lara Croft","releaseDate":"2024-02-13"},"651490":{"rank":270,"estimate":"80k+","name":"No Longer Home","releaseDate":"2021-07-30"},"2143540":{"rank":353,"estimate":"80k+","name":"Isekai Janken Hero","releaseDate":"2023-09-21"},"2398520":{"rank":450,"estimate":"80k+","name":"Classic Marathon Infinity","releaseDate":"2024-08-22"},"1803140":{"rank":457,"estimate":"80k+","name":"Deer & Boy","releaseDate":"2026-01-01"},"2252680":{"rank":476,"estimate":"80k+","name":"Farlands","releaseDate":"2024-07-24"},"2630420":{"rank":600,"estimate":"40k+","name":"Elven Watcher","releaseDate":"2026-01-01"},"2000270":{"rank":631,"estimate":"40k+","name":"Dual Universe","releaseDate":"2022-09-27"},"1325260":{"rank":675,"estimate":"40k+","name":"Kitsune Tails","releaseDate":"2024-08-01"},"1163930":{"rank":812,"estimate":"40k+","name":"Dragon Forge","releaseDate":"2022-07-08"},"1191830":{"rank":841,"estimate":"40k+","name":"Iverian Wars: Craxion vs Defugel","releaseDate":"2026-02-24"},"2109270":{"rank":846,"estimate":"40k+","name":"Preserve","releaseDate":"2025-05-15"},"2533020":{"rank":948,"estimate":"40k+","name":"Renaissance Kingdom Wars","releaseDate":"2024-11-26"},"2818150":{"rank":1083,"estimate":"25k+","name":"Cattle Country","releaseDate":"2025-05-27"},"781180":{"rank":1096,"estimate":"25k+","name":"Technicity","releaseDate":"2022-09-15"},"2248180":{"rank":1098,"estimate":"25k+","name":"Just Xiangqi","releaseDate":"2024-01-15"},"1411020":{"rank":1188,"estimate":"25k+","name":"Perennial Order","releaseDate":"2024-09-05"},"1679510":{"rank":1309,"estimate":"25k+","name":"Plushie from the Sky","releaseDate":"2024-05-06"},"2472550":{"rank":1348,"estimate":"25k+","name":"Conquistadorio","releaseDate":"2023-10-22"},"2879090":{"rank":1526,"estimate":"15k+","name":"NYO-NIN-JIMA -My New Life in Charge of a Tropical Island-","releaseDate":"2024-06-24"},"2346840":{"rank":1647,"estimate":"15k+","name":"One-Eyed Likho","releaseDate":"2025-07-28"},"1449920":{"rank":1844,"estimate":"15k+","name":"GRUNND","releaseDate":"2023-01-26"},"2668050":{"rank":2216,"estimate":"7k+","name":"Quickie: Fantasy Adventure","releaseDate":"2023-11-17"},"2712580":{"rank":2505,"estimate":"7k+","name":"南栀 Unwavering love","releaseDate":"2024-02-28"},"1449780":{"rank":2733,"estimate":"7k+","name":"Cyberwar: Neon City","releaseDate":"2024-09-24"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 34,
+  "entries": {
+    "651490": {
+      "rank": 270,
+      "estimate": "80k+",
+      "name": "No Longer Home",
+      "releaseDate": "2021-07-30"
+    },
+    "700820": {
+      "rank": 105,
+      "estimate": "200k+",
+      "name": "TFM: The First Men",
+      "releaseDate": "2022-11-02"
+    },
+    "781180": {
+      "rank": 1096,
+      "estimate": "25k+",
+      "name": "Technicity",
+      "releaseDate": "2022-09-15"
+    },
+    "948880": {
+      "rank": 25,
+      "estimate": "600k+",
+      "name": "Arena Renovation",
+      "releaseDate": "2024-01-19"
+    },
+    "1163930": {
+      "rank": 812,
+      "estimate": "40k+",
+      "name": "Dragon Forge",
+      "releaseDate": "2022-07-08"
+    },
+    "1191830": {
+      "rank": 841,
+      "estimate": "40k+",
+      "name": "Iverian Wars: Craxion vs Defugel",
+      "releaseDate": "2026-02-24"
+    },
+    "1325260": {
+      "rank": 675,
+      "estimate": "40k+",
+      "name": "Kitsune Tails",
+      "releaseDate": "2024-08-01"
+    },
+    "1408080": {
+      "rank": 44,
+      "estimate": "600k+",
+      "name": "Minigame Madness",
+      "releaseDate": "2023-11-13"
+    },
+    "1411020": {
+      "rank": 1188,
+      "estimate": "25k+",
+      "name": "Perennial Order",
+      "releaseDate": "2024-09-05"
+    },
+    "1449780": {
+      "rank": 2733,
+      "estimate": "7k+",
+      "name": "Cyberwar: Neon City",
+      "releaseDate": "2024-09-24"
+    },
+    "1449920": {
+      "rank": 1844,
+      "estimate": "15k+",
+      "name": "GRUNND",
+      "releaseDate": "2023-01-26"
+    },
+    "1569190": {
+      "rank": 54,
+      "estimate": "300k+",
+      "name": "House Flipper - Pets DLC",
+      "releaseDate": "2022-05-12"
+    },
+    "1672810": {
+      "rank": 35,
+      "estimate": "600k+",
+      "name": "MIO: Memories in Orbit",
+      "releaseDate": "2026-01-20"
+    },
+    "1679510": {
+      "rank": 1309,
+      "estimate": "25k+",
+      "name": "Plushie from the Sky",
+      "releaseDate": "2024-05-06"
+    },
+    "1803140": {
+      "rank": 457,
+      "estimate": "80k+",
+      "name": "Deer & Boy",
+      "releaseDate": "2026-01-01"
+    },
+    "1858650": {
+      "rank": 8,
+      "estimate": "1.5m+",
+      "name": "In Sink: A Co-op Escape Adventure",
+      "releaseDate": "2024-11-12"
+    },
+    "1889490": {
+      "rank": 101,
+      "estimate": "200k+",
+      "name": "Stellaris: Overlord",
+      "releaseDate": "2022-05-12"
+    },
+    "1932640": {
+      "rank": 33,
+      "estimate": "600k+",
+      "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+      "releaseDate": "2025-03-06"
+    },
+    "2000270": {
+      "rank": 631,
+      "estimate": "40k+",
+      "name": "Dual Universe",
+      "releaseDate": "2022-09-27"
+    },
+    "2109270": {
+      "rank": 846,
+      "estimate": "40k+",
+      "name": "Preserve",
+      "releaseDate": "2025-05-15"
+    },
+    "2143540": {
+      "rank": 353,
+      "estimate": "80k+",
+      "name": "Isekai Janken Hero",
+      "releaseDate": "2023-09-21"
+    },
+    "2248180": {
+      "rank": 1098,
+      "estimate": "25k+",
+      "name": "Just Xiangqi",
+      "releaseDate": "2024-01-15"
+    },
+    "2252680": {
+      "rank": 476,
+      "estimate": "80k+",
+      "name": "Farlands",
+      "releaseDate": "2024-07-24"
+    },
+    "2346840": {
+      "rank": 1647,
+      "estimate": "15k+",
+      "name": "One-Eyed Likho",
+      "releaseDate": "2025-07-28"
+    },
+    "2398520": {
+      "rank": 450,
+      "estimate": "80k+",
+      "name": "Classic Marathon Infinity",
+      "releaseDate": "2024-08-22"
+    },
+    "2472550": {
+      "rank": 1348,
+      "estimate": "25k+",
+      "name": "Conquistadorio",
+      "releaseDate": "2023-10-22"
+    },
+    "2478970": {
+      "rank": 164,
+      "estimate": "200k+",
+      "name": "Tomb Raider I-III Remastered Starring Lara Croft",
+      "releaseDate": "2024-02-13"
+    },
+    "2533020": {
+      "rank": 948,
+      "estimate": "40k+",
+      "name": "Renaissance Kingdom Wars",
+      "releaseDate": "2024-11-26"
+    },
+    "2630420": {
+      "rank": 600,
+      "estimate": "40k+",
+      "name": "Elven Watcher",
+      "releaseDate": "2026-01-01"
+    },
+    "2668050": {
+      "rank": 2216,
+      "estimate": "7k+",
+      "name": "Quickie: Fantasy Adventure",
+      "releaseDate": "2023-11-17"
+    },
+    "2712580": {
+      "rank": 2505,
+      "estimate": "7k+",
+      "name": "南栀 Unwavering love",
+      "releaseDate": "2024-02-28"
+    },
+    "2818150": {
+      "rank": 1083,
+      "estimate": "25k+",
+      "name": "Cattle Country",
+      "releaseDate": "2025-05-27"
+    },
+    "2879090": {
+      "rank": 1526,
+      "estimate": "15k+",
+      "name": "NYO-NIN-JIMA -My New Life in Charge of a Tropical Island-",
+      "releaseDate": "2024-06-24"
+    },
+    "3055480": {
+      "rank": 48,
+      "estimate": "600k+",
+      "name": "Live Lens Bodycam",
+      "releaseDate": "2025-07-30"
+    }
+  }
+}

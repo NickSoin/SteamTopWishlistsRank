@@ -1,1 +1,134 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":21,"entries":{"1304930":{"rank":15,"estimate":"800k+","name":"The Outlast Trials","releaseDate":"2024-03-05"},"3839850":{"rank":49,"estimate":"600k+","name":"Crystal of Atlan","releaseDate":"2025-10-30"},"1062140":{"rank":128,"estimate":"200k+","name":"Garden Story","releaseDate":"2021-08-11"},"1060230":{"rank":254,"estimate":"80k+","name":"Sapiens","releaseDate":"2022-07-26"},"1803400":{"rank":307,"estimate":"80k+","name":"Beneath Oresa","releaseDate":"2023-09-27"},"1812910":{"rank":426,"estimate":"80k+","name":"Great Houses of Calderia","releaseDate":"2024-05-02"},"1425350":{"rank":484,"estimate":"80k+","name":"Botany Manor","releaseDate":"2024-04-09"},"1133040":{"rank":615,"estimate":"40k+","name":"Bandit Brawler","releaseDate":"2023-06-21"},"1853830":{"rank":813,"estimate":"40k+","name":"A Shot in the Dark - Part 1","releaseDate":"2023-12-14"},"1546710":{"rank":847,"estimate":"40k+","name":"Vernal Edge","releaseDate":"2023-03-14"},"1565890":{"rank":856,"estimate":"40k+","name":"RaceLeague","releaseDate":"2022-07-26"},"2450700":{"rank":870,"estimate":"40k+","name":"Drug Lord Tycoon","releaseDate":"2024-07-31"},"1837340":{"rank":1039,"estimate":"25k+","name":"Grimgrad","releaseDate":"2023-04-05"},"2255370":{"rank":1269,"estimate":"25k+","name":"Directive 8020","releaseDate":"2026-05-12"},"2437750":{"rank":1327,"estimate":"25k+","name":"Paradise Lust 2","releaseDate":"2025-05-15"},"1988110":{"rank":1761,"estimate":"15k+","name":"Night of the Sex Beast and the Elf Knight","releaseDate":"2030-01-01"},"1636460":{"rank":1926,"estimate":"15k+","name":"Magissy","releaseDate":"2026-04-20"},"1441240":{"rank":1940,"estimate":"15k+","name":"Paradiso Guardian","releaseDate":"2023-09-14"},"3002610":{"rank":1986,"estimate":"15k+","name":"Pebbles Quest","releaseDate":"2026-01-01"},"2133850":{"rank":2449,"estimate":"7k+","name":"Broken Reality 2000","releaseDate":"2026-07-22"},"2418490":{"rank":2990,"estimate":"7k+","name":"Trakonius","releaseDate":"2026-05-29"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 21,
+  "entries": {
+    "1060230": {
+      "rank": 254,
+      "estimate": "80k+",
+      "name": "Sapiens",
+      "releaseDate": "2022-07-26"
+    },
+    "1062140": {
+      "rank": 128,
+      "estimate": "200k+",
+      "name": "Garden Story",
+      "releaseDate": "2021-08-11"
+    },
+    "1133040": {
+      "rank": 615,
+      "estimate": "40k+",
+      "name": "Bandit Brawler",
+      "releaseDate": "2023-06-21"
+    },
+    "1304930": {
+      "rank": 15,
+      "estimate": "800k+",
+      "name": "The Outlast Trials",
+      "releaseDate": "2024-03-05"
+    },
+    "1425350": {
+      "rank": 484,
+      "estimate": "80k+",
+      "name": "Botany Manor",
+      "releaseDate": "2024-04-09"
+    },
+    "1441240": {
+      "rank": 1940,
+      "estimate": "15k+",
+      "name": "Paradiso Guardian",
+      "releaseDate": "2023-09-14"
+    },
+    "1546710": {
+      "rank": 847,
+      "estimate": "40k+",
+      "name": "Vernal Edge",
+      "releaseDate": "2023-03-14"
+    },
+    "1565890": {
+      "rank": 856,
+      "estimate": "40k+",
+      "name": "RaceLeague",
+      "releaseDate": "2022-07-26"
+    },
+    "1636460": {
+      "rank": 1926,
+      "estimate": "15k+",
+      "name": "Magissy",
+      "releaseDate": "2026-04-20"
+    },
+    "1803400": {
+      "rank": 307,
+      "estimate": "80k+",
+      "name": "Beneath Oresa",
+      "releaseDate": "2023-09-27"
+    },
+    "1812910": {
+      "rank": 426,
+      "estimate": "80k+",
+      "name": "Great Houses of Calderia",
+      "releaseDate": "2024-05-02"
+    },
+    "1837340": {
+      "rank": 1039,
+      "estimate": "25k+",
+      "name": "Grimgrad",
+      "releaseDate": "2023-04-05"
+    },
+    "1853830": {
+      "rank": 813,
+      "estimate": "40k+",
+      "name": "A Shot in the Dark - Part 1",
+      "releaseDate": "2023-12-14"
+    },
+    "1988110": {
+      "rank": 1761,
+      "estimate": "15k+",
+      "name": "Night of the Sex Beast and the Elf Knight",
+      "releaseDate": "2030-01-01"
+    },
+    "2133850": {
+      "rank": 2449,
+      "estimate": "7k+",
+      "name": "Broken Reality 2000",
+      "releaseDate": "2026-07-22"
+    },
+    "2255370": {
+      "rank": 1269,
+      "estimate": "25k+",
+      "name": "Directive 8020",
+      "releaseDate": "2026-05-12"
+    },
+    "2418490": {
+      "rank": 2990,
+      "estimate": "7k+",
+      "name": "Trakonius",
+      "releaseDate": "2026-05-29"
+    },
+    "2437750": {
+      "rank": 1327,
+      "estimate": "25k+",
+      "name": "Paradise Lust 2",
+      "releaseDate": "2025-05-15"
+    },
+    "2450700": {
+      "rank": 870,
+      "estimate": "40k+",
+      "name": "Drug Lord Tycoon",
+      "releaseDate": "2024-07-31"
+    },
+    "3002610": {
+      "rank": 1986,
+      "estimate": "15k+",
+      "name": "Pebbles Quest",
+      "releaseDate": "2026-01-01"
+    },
+    "3839850": {
+      "rank": 49,
+      "estimate": "600k+",
+      "name": "Crystal of Atlan",
+      "releaseDate": "2025-10-30"
+    }
+  }
+}

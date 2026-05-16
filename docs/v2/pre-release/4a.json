@@ -1,1 +1,188 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":30,"entries":{"1240440":{"rank":9,"estimate":"1.5m+","name":"Halo Infinite","releaseDate":"2021-11-15"},"2943670":{"rank":16,"estimate":"800k+","name":"Night Club Simulator","releaseDate":"2025-07-30"},"1190000":{"rank":18,"estimate":"800k+","name":"Car Mechanic Simulator 2021","releaseDate":"2021-08-11"},"2825880":{"rank":19,"estimate":"800k+","name":"Death Howl","releaseDate":"2025-12-09"},"1351210":{"rank":25,"estimate":"600k+","name":"Gord","releaseDate":"2023-08-17"},"2223840":{"rank":31,"estimate":"600k+","name":"The Casting of Frank Stone™","releaseDate":"2024-09-03"},"3405340":{"rank":33,"estimate":"600k+","name":"Megabonk","releaseDate":"2025-09-18"},"1353230":{"rank":70,"estimate":"300k+","name":"Bomb Rush Cyberfunk","releaseDate":"2023-08-18"},"1735700":{"rank":173,"estimate":"200k+","name":"Back to the Dawn","releaseDate":"2025-07-17"},"2336720":{"rank":204,"estimate":"80k+","name":"Greed of Man","releaseDate":"2023-07-10"},"1900250":{"rank":329,"estimate":"80k+","name":"Demonschool","releaseDate":"2025-11-19"},"1113030":{"rank":437,"estimate":"80k+","name":"Stellar Warfare","releaseDate":"2021-08-04"},"1710820":{"rank":560,"estimate":"40k+","name":"Cleared Hot","releaseDate":"2025-11-20"},"1755830":{"rank":630,"estimate":"40k+","name":"Astrea: Six-Sided Oracles","releaseDate":"2023-09-21"},"1305260":{"rank":691,"estimate":"40k+","name":"SteamDolls - Order Of Chaos","releaseDate":"2025-02-11"},"1709170":{"rank":800,"estimate":"40k+","name":"Paradise Marsh","releaseDate":"2022-10-13"},"1287030":{"rank":821,"estimate":"40k+","name":"Bubble Bobble 4 Friends: The Baron's Workshop","releaseDate":"2021-09-30"},"2258770":{"rank":1052,"estimate":"25k+","name":"The Shell Part I: Inferno","releaseDate":"2023-07-27"},"2875610":{"rank":1264,"estimate":"25k+","name":"Jerez's Arena Ⅲ","releaseDate":"2025-06-23"},"1569220":{"rank":1328,"estimate":"25k+","name":"Abermore","releaseDate":"2022-03-29"},"1446350":{"rank":1401,"estimate":"25k+","name":"You Will Die Here Tonight","releaseDate":"2023-10-31"},"2508770":{"rank":1754,"estimate":"15k+","name":"Farmagia","releaseDate":"2024-11-01"},"2381740":{"rank":1930,"estimate":"15k+","name":"Hexguardian","releaseDate":"2024-05-02"},"1253220":{"rank":2079,"estimate":"7k+","name":"The Gold River Project","releaseDate":"2026-01-23"},"3064420":{"rank":2158,"estimate":"7k+","name":"Innocence Or Money | Season 2 | Episode 1","releaseDate":"2024-08-10"},"2184770":{"rank":2182,"estimate":"7k+","name":"Broken Lens","releaseDate":"2024-07-22"},"2384620":{"rank":2408,"estimate":"7k+","name":"Out of the Park Baseball 25","releaseDate":"2024-03-15"},"2685840":{"rank":2550,"estimate":"7k+","name":"Pastel☆Parade","releaseDate":"2025-08-26"},"1640400":{"rank":2871,"estimate":"7k+","name":"Janosik 2","releaseDate":"2024-12-09"},"1956770":{"rank":2950,"estimate":"7k+","name":"M.O.O.D.S.","releaseDate":"2025-07-10"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 30,
+  "entries": {
+    "1113030": {
+      "rank": 437,
+      "estimate": "80k+",
+      "name": "Stellar Warfare",
+      "releaseDate": "2021-08-04"
+    },
+    "1190000": {
+      "rank": 18,
+      "estimate": "800k+",
+      "name": "Car Mechanic Simulator 2021",
+      "releaseDate": "2021-08-11"
+    },
+    "1240440": {
+      "rank": 9,
+      "estimate": "1.5m+",
+      "name": "Halo Infinite",
+      "releaseDate": "2021-11-15"
+    },
+    "1253220": {
+      "rank": 2079,
+      "estimate": "7k+",
+      "name": "The Gold River Project",
+      "releaseDate": "2026-01-23"
+    },
+    "1287030": {
+      "rank": 821,
+      "estimate": "40k+",
+      "name": "Bubble Bobble 4 Friends: The Baron's Workshop",
+      "releaseDate": "2021-09-30"
+    },
+    "1305260": {
+      "rank": 691,
+      "estimate": "40k+",
+      "name": "SteamDolls - Order Of Chaos",
+      "releaseDate": "2025-02-11"
+    },
+    "1351210": {
+      "rank": 25,
+      "estimate": "600k+",
+      "name": "Gord",
+      "releaseDate": "2023-08-17"
+    },
+    "1353230": {
+      "rank": 70,
+      "estimate": "300k+",
+      "name": "Bomb Rush Cyberfunk",
+      "releaseDate": "2023-08-18"
+    },
+    "1446350": {
+      "rank": 1401,
+      "estimate": "25k+",
+      "name": "You Will Die Here Tonight",
+      "releaseDate": "2023-10-31"
+    },
+    "1569220": {
+      "rank": 1328,
+      "estimate": "25k+",
+      "name": "Abermore",
+      "releaseDate": "2022-03-29"
+    },
+    "1640400": {
+      "rank": 2871,
+      "estimate": "7k+",
+      "name": "Janosik 2",
+      "releaseDate": "2024-12-09"
+    },
+    "1709170": {
+      "rank": 800,
+      "estimate": "40k+",
+      "name": "Paradise Marsh",
+      "releaseDate": "2022-10-13"
+    },
+    "1710820": {
+      "rank": 560,
+      "estimate": "40k+",
+      "name": "Cleared Hot",
+      "releaseDate": "2025-11-20"
+    },
+    "1735700": {
+      "rank": 173,
+      "estimate": "200k+",
+      "name": "Back to the Dawn",
+      "releaseDate": "2025-07-17"
+    },
+    "1755830": {
+      "rank": 630,
+      "estimate": "40k+",
+      "name": "Astrea: Six-Sided Oracles",
+      "releaseDate": "2023-09-21"
+    },
+    "1900250": {
+      "rank": 329,
+      "estimate": "80k+",
+      "name": "Demonschool",
+      "releaseDate": "2025-11-19"
+    },
+    "1956770": {
+      "rank": 2950,
+      "estimate": "7k+",
+      "name": "M.O.O.D.S.",
+      "releaseDate": "2025-07-10"
+    },
+    "2184770": {
+      "rank": 2182,
+      "estimate": "7k+",
+      "name": "Broken Lens",
+      "releaseDate": "2024-07-22"
+    },
+    "2223840": {
+      "rank": 31,
+      "estimate": "600k+",
+      "name": "The Casting of Frank Stone™",
+      "releaseDate": "2024-09-03"
+    },
+    "2258770": {
+      "rank": 1052,
+      "estimate": "25k+",
+      "name": "The Shell Part I: Inferno",
+      "releaseDate": "2023-07-27"
+    },
+    "2336720": {
+      "rank": 204,
+      "estimate": "80k+",
+      "name": "Greed of Man",
+      "releaseDate": "2023-07-10"
+    },
+    "2381740": {
+      "rank": 1930,
+      "estimate": "15k+",
+      "name": "Hexguardian",
+      "releaseDate": "2024-05-02"
+    },
+    "2384620": {
+      "rank": 2408,
+      "estimate": "7k+",
+      "name": "Out of the Park Baseball 25",
+      "releaseDate": "2024-03-15"
+    },
+    "2508770": {
+      "rank": 1754,
+      "estimate": "15k+",
+      "name": "Farmagia",
+      "releaseDate": "2024-11-01"
+    },
+    "2685840": {
+      "rank": 2550,
+      "estimate": "7k+",
+      "name": "Pastel☆Parade",
+      "releaseDate": "2025-08-26"
+    },
+    "2825880": {
+      "rank": 19,
+      "estimate": "800k+",
+      "name": "Death Howl",
+      "releaseDate": "2025-12-09"
+    },
+    "2875610": {
+      "rank": 1264,
+      "estimate": "25k+",
+      "name": "Jerez's Arena Ⅲ",
+      "releaseDate": "2025-06-23"
+    },
+    "2943670": {
+      "rank": 16,
+      "estimate": "800k+",
+      "name": "Night Club Simulator",
+      "releaseDate": "2025-07-30"
+    },
+    "3064420": {
+      "rank": 2158,
+      "estimate": "7k+",
+      "name": "Innocence Or Money | Season 2 | Episode 1",
+      "releaseDate": "2024-08-10"
+    },
+    "3405340": {
+      "rank": 33,
+      "estimate": "600k+",
+      "name": "Megabonk",
+      "releaseDate": "2025-09-18"
+    }
+  }
+}

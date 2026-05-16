@@ -1,1 +1,116 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":18,"entries":{"623280":{"rank":34,"estimate":"600k+","name":"Dungeons & Dragons: Dark Alliance","releaseDate":"2021-06-21"},"1167750":{"rank":140,"estimate":"200k+","name":"The Lamplighters League","releaseDate":"2023-10-03"},"1610520":{"rank":177,"estimate":"200k+","name":"Serum: Toxic Survival","releaseDate":"2024-05-23"},"2791440":{"rank":255,"estimate":"80k+","name":"Brighter Shores","releaseDate":"2024-11-06"},"710230":{"rank":320,"estimate":"80k+","name":"Urban Strife","releaseDate":"2024-12-10"},"951770":{"rank":417,"estimate":"80k+","name":"Forsaken Realms: Vahrin's Call","releaseDate":"2026-01-01"},"1660840":{"rank":447,"estimate":"80k+","name":"Wild Bastards","releaseDate":"2024-09-12"},"1594060":{"rank":759,"estimate":"40k+","name":"Victory Heat Rally","releaseDate":"2024-10-03"},"1739650":{"rank":797,"estimate":"40k+","name":"Dimensions: Dreadnought Architect","releaseDate":"2023-02-01"},"1155870":{"rank":900,"estimate":"40k+","name":"WW2: Bunker Simulator","releaseDate":"2022-10-10"},"2535440":{"rank":920,"estimate":"40k+","name":"Shadows of the Damned: Hella Remastered","releaseDate":"2024-10-30"},"2671070":{"rank":964,"estimate":"40k+","name":"Crusader Kings III: Roads to Power","releaseDate":"2024-09-24"},"1413970":{"rank":1118,"estimate":"25k+","name":"Fox Girls Never Play Dirty","releaseDate":"2021-11-12"},"1960070":{"rank":1177,"estimate":"25k+","name":"RIN: The Last Child","releaseDate":"2024-01-25"},"2834350":{"rank":1380,"estimate":"25k+","name":"BOOK OF HOURS: HOUSE OF LIGHT","releaseDate":"2024-09-26"},"2597570":{"rank":1417,"estimate":"25k+","name":"Chasmal Fear","releaseDate":"2025-04-17"},"2581700":{"rank":1865,"estimate":"15k+","name":"MotoGP™24","releaseDate":"2024-05-02"},"1509970":{"rank":2516,"estimate":"7k+","name":"Celestial Empire: Prologue","releaseDate":"2025-09-10"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 18,
+  "entries": {
+    "623280": {
+      "rank": 34,
+      "estimate": "600k+",
+      "name": "Dungeons & Dragons: Dark Alliance",
+      "releaseDate": "2021-06-21"
+    },
+    "710230": {
+      "rank": 320,
+      "estimate": "80k+",
+      "name": "Urban Strife",
+      "releaseDate": "2024-12-10"
+    },
+    "951770": {
+      "rank": 417,
+      "estimate": "80k+",
+      "name": "Forsaken Realms: Vahrin's Call",
+      "releaseDate": "2026-01-01"
+    },
+    "1155870": {
+      "rank": 900,
+      "estimate": "40k+",
+      "name": "WW2: Bunker Simulator",
+      "releaseDate": "2022-10-10"
+    },
+    "1167750": {
+      "rank": 140,
+      "estimate": "200k+",
+      "name": "The Lamplighters League",
+      "releaseDate": "2023-10-03"
+    },
+    "1413970": {
+      "rank": 1118,
+      "estimate": "25k+",
+      "name": "Fox Girls Never Play Dirty",
+      "releaseDate": "2021-11-12"
+    },
+    "1509970": {
+      "rank": 2516,
+      "estimate": "7k+",
+      "name": "Celestial Empire: Prologue",
+      "releaseDate": "2025-09-10"
+    },
+    "1594060": {
+      "rank": 759,
+      "estimate": "40k+",
+      "name": "Victory Heat Rally",
+      "releaseDate": "2024-10-03"
+    },
+    "1610520": {
+      "rank": 177,
+      "estimate": "200k+",
+      "name": "Serum: Toxic Survival",
+      "releaseDate": "2024-05-23"
+    },
+    "1660840": {
+      "rank": 447,
+      "estimate": "80k+",
+      "name": "Wild Bastards",
+      "releaseDate": "2024-09-12"
+    },
+    "1739650": {
+      "rank": 797,
+      "estimate": "40k+",
+      "name": "Dimensions: Dreadnought Architect",
+      "releaseDate": "2023-02-01"
+    },
+    "1960070": {
+      "rank": 1177,
+      "estimate": "25k+",
+      "name": "RIN: The Last Child",
+      "releaseDate": "2024-01-25"
+    },
+    "2535440": {
+      "rank": 920,
+      "estimate": "40k+",
+      "name": "Shadows of the Damned: Hella Remastered",
+      "releaseDate": "2024-10-30"
+    },
+    "2581700": {
+      "rank": 1865,
+      "estimate": "15k+",
+      "name": "MotoGP™24",
+      "releaseDate": "2024-05-02"
+    },
+    "2597570": {
+      "rank": 1417,
+      "estimate": "25k+",
+      "name": "Chasmal Fear",
+      "releaseDate": "2025-04-17"
+    },
+    "2671070": {
+      "rank": 964,
+      "estimate": "40k+",
+      "name": "Crusader Kings III: Roads to Power",
+      "releaseDate": "2024-09-24"
+    },
+    "2791440": {
+      "rank": 255,
+      "estimate": "80k+",
+      "name": "Brighter Shores",
+      "releaseDate": "2024-11-06"
+    },
+    "2834350": {
+      "rank": 1380,
+      "estimate": "25k+",
+      "name": "BOOK OF HOURS: HOUSE OF LIGHT",
+      "releaseDate": "2024-09-26"
+    }
+  }
+}

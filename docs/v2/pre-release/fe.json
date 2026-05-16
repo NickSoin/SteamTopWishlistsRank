@@ -1,1 +1,134 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":21,"entries":{"2118810":{"rank":18,"estimate":"800k+","name":"Breachway","releaseDate":"2024-09-26"},"2269950":{"rank":28,"estimate":"600k+","name":"The Karters 2: Turbo Charged","releaseDate":"2025-07-17"},"2064810":{"rank":40,"estimate":"600k+","name":"CityDriver","releaseDate":"2023-06-05"},"881020":{"rank":44,"estimate":"600k+","name":"Granblue Fantasy: Relink","releaseDate":"2024-01-31"},"1796790":{"rank":125,"estimate":"200k+","name":"Chef RPG","releaseDate":"2024-09-12"},"773370":{"rank":126,"estimate":"200k+","name":"Exo One","releaseDate":"2021-11-18"},"1442170":{"rank":283,"estimate":"80k+","name":"KILLRUN","releaseDate":"2022-08-25"},"1159090":{"rank":284,"estimate":"80k+","name":"Zoria: Age of Shattering","releaseDate":"2024-03-07"},"2252570":{"rank":286,"estimate":"80k+","name":"Football Manager 2024","releaseDate":"2023-11-06"},"1869780":{"rank":312,"estimate":"80k+","name":"UnderMine 2","releaseDate":"2025-07-22"},"1658870":{"rank":421,"estimate":"80k+","name":"New Home: Medieval Village","releaseDate":"2022-01-14"},"1451080":{"rank":888,"estimate":"40k+","name":"DUNGEON ENCOUNTERS","releaseDate":"2021-10-14"},"2166060":{"rank":1037,"estimate":"25k+","name":"Amanda the Adventurer","releaseDate":"2023-04-25"},"1850380":{"rank":1062,"estimate":"25k+","name":"Tricolour Lovestory TrueEnd","releaseDate":"2022-01-27"},"1629830":{"rank":1242,"estimate":"25k+","name":"Research Story","releaseDate":"2025-07-21"},"2496640":{"rank":1432,"estimate":"25k+","name":"Futanari di Funghi","releaseDate":"2024-06-03"},"2585830":{"rank":1920,"estimate":"15k+","name":"Promise Mascot Agency","releaseDate":"2025-04-10"},"2410170":{"rank":2236,"estimate":"7k+","name":"The Nameless: Slay Dragon","releaseDate":"2024-09-26"},"3002510":{"rank":2413,"estimate":"7k+","name":"REPOSE","releaseDate":"2025-04-14"},"2174500":{"rank":2773,"estimate":"7k+","name":"Parasite Black","releaseDate":"2024-12-09"},"2477270":{"rank":3052,"estimate":"<7k","name":"Lust's Cupid","releaseDate":"2025-04-11"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 21,
+  "entries": {
+    "773370": {
+      "rank": 126,
+      "estimate": "200k+",
+      "name": "Exo One",
+      "releaseDate": "2021-11-18"
+    },
+    "881020": {
+      "rank": 44,
+      "estimate": "600k+",
+      "name": "Granblue Fantasy: Relink",
+      "releaseDate": "2024-01-31"
+    },
+    "1159090": {
+      "rank": 284,
+      "estimate": "80k+",
+      "name": "Zoria: Age of Shattering",
+      "releaseDate": "2024-03-07"
+    },
+    "1442170": {
+      "rank": 283,
+      "estimate": "80k+",
+      "name": "KILLRUN",
+      "releaseDate": "2022-08-25"
+    },
+    "1451080": {
+      "rank": 888,
+      "estimate": "40k+",
+      "name": "DUNGEON ENCOUNTERS",
+      "releaseDate": "2021-10-14"
+    },
+    "1629830": {
+      "rank": 1242,
+      "estimate": "25k+",
+      "name": "Research Story",
+      "releaseDate": "2025-07-21"
+    },
+    "1658870": {
+      "rank": 421,
+      "estimate": "80k+",
+      "name": "New Home: Medieval Village",
+      "releaseDate": "2022-01-14"
+    },
+    "1796790": {
+      "rank": 125,
+      "estimate": "200k+",
+      "name": "Chef RPG",
+      "releaseDate": "2024-09-12"
+    },
+    "1850380": {
+      "rank": 1062,
+      "estimate": "25k+",
+      "name": "Tricolour Lovestory TrueEnd",
+      "releaseDate": "2022-01-27"
+    },
+    "1869780": {
+      "rank": 312,
+      "estimate": "80k+",
+      "name": "UnderMine 2",
+      "releaseDate": "2025-07-22"
+    },
+    "2064810": {
+      "rank": 40,
+      "estimate": "600k+",
+      "name": "CityDriver",
+      "releaseDate": "2023-06-05"
+    },
+    "2118810": {
+      "rank": 18,
+      "estimate": "800k+",
+      "name": "Breachway",
+      "releaseDate": "2024-09-26"
+    },
+    "2166060": {
+      "rank": 1037,
+      "estimate": "25k+",
+      "name": "Amanda the Adventurer",
+      "releaseDate": "2023-04-25"
+    },
+    "2174500": {
+      "rank": 2773,
+      "estimate": "7k+",
+      "name": "Parasite Black",
+      "releaseDate": "2024-12-09"
+    },
+    "2252570": {
+      "rank": 286,
+      "estimate": "80k+",
+      "name": "Football Manager 2024",
+      "releaseDate": "2023-11-06"
+    },
+    "2269950": {
+      "rank": 28,
+      "estimate": "600k+",
+      "name": "The Karters 2: Turbo Charged",
+      "releaseDate": "2025-07-17"
+    },
+    "2410170": {
+      "rank": 2236,
+      "estimate": "7k+",
+      "name": "The Nameless: Slay Dragon",
+      "releaseDate": "2024-09-26"
+    },
+    "2477270": {
+      "rank": 3052,
+      "estimate": "<7k",
+      "name": "Lust's Cupid",
+      "releaseDate": "2025-04-11"
+    },
+    "2496640": {
+      "rank": 1432,
+      "estimate": "25k+",
+      "name": "Futanari di Funghi",
+      "releaseDate": "2024-06-03"
+    },
+    "2585830": {
+      "rank": 1920,
+      "estimate": "15k+",
+      "name": "Promise Mascot Agency",
+      "releaseDate": "2025-04-10"
+    },
+    "3002510": {
+      "rank": 2413,
+      "estimate": "7k+",
+      "name": "REPOSE",
+      "releaseDate": "2025-04-14"
+    }
+  }
+}

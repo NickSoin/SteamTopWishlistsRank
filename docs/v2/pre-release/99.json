@@ -1,1 +1,158 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":25,"entries":{"397540":{"rank":26,"estimate":"600k+","name":"Borderlands 3","releaseDate":"2020-03-13"},"2446550":{"rank":112,"estimate":"200k+","name":"STAR WARS™: Battlefront Classic Collection","releaseDate":"2024-03-13"},"1589120":{"rank":133,"estimate":"200k+","name":"Above Snakes","releaseDate":"2023-05-25"},"1203710":{"rank":175,"estimate":"200k+","name":"UnMetal","releaseDate":"2021-09-28"},"1132760":{"rank":229,"estimate":"80k+","name":"Dwerve","releaseDate":"2022-05-31"},"2312280":{"rank":387,"estimate":"80k+","name":"7 Days Blood Moons","releaseDate":"2025-11-04"},"2458830":{"rank":388,"estimate":"80k+","name":"Towerborne","releaseDate":"2026-02-26"},"3035500":{"rank":422,"estimate":"80k+","name":"Fantasy Map Simulator","releaseDate":"2024-09-04"},"1422410":{"rank":514,"estimate":"40k+","name":"Into the Pit","releaseDate":"2021-10-19"},"925950":{"rank":551,"estimate":"40k+","name":"Here Comes Niko!","releaseDate":"2021-08-03"},"1807200":{"rank":810,"estimate":"40k+","name":"Mirror Forge","releaseDate":"2022-12-06"},"1599600":{"rank":868,"estimate":"40k+","name":"PlateUp!","releaseDate":"2022-08-04"},"1870310":{"rank":872,"estimate":"40k+","name":"Doomsday Robot Girl","releaseDate":"2023-01-10"},"1986550":{"rank":960,"estimate":"40k+","name":"LOLLIPOP: SUMMER!","releaseDate":"2022-11-19"},"2544090":{"rank":974,"estimate":"40k+","name":"Milfy City - Final Edition","releaseDate":"2023-11-03"},"2765930":{"rank":997,"estimate":"40k+","name":"Empyrion - Galactic Survival: Dark Faction","releaseDate":"2024-02-06"},"1862520":{"rank":1116,"estimate":"25k+","name":"Just Go","releaseDate":"2022-08-09"},"1738980":{"rank":1152,"estimate":"25k+","name":"A Hat in Time - Vanessa's Curse","releaseDate":"2021-11-27"},"1338030":{"rank":1368,"estimate":"25k+","name":"Entertainment Simulator","releaseDate":"2026-03-05"},"1530450":{"rank":1508,"estimate":"15k+","name":"Scramble: Battle of Britain","releaseDate":"2024-10-30"},"2479840":{"rank":1790,"estimate":"15k+","name":"Pawn Planet","releaseDate":"2025-12-05"},"2103510":{"rank":2081,"estimate":"7k+","name":"Spear Song","releaseDate":"2024-10-10"},"3003800":{"rank":2338,"estimate":"7k+","name":"Warhammer 40,000: Inquisitor - Martyr - Hierophant Class","releaseDate":"2024-11-12"},"2093800":{"rank":2417,"estimate":"7k+","name":"METAL SUITS: Counter-attack","releaseDate":"2025-02-12"},"2078010":{"rank":3050,"estimate":"<7k","name":"Legends of Immortality","releaseDate":"2025-03-04"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 25,
+  "entries": {
+    "397540": {
+      "rank": 26,
+      "estimate": "600k+",
+      "name": "Borderlands 3",
+      "releaseDate": "2020-03-13"
+    },
+    "925950": {
+      "rank": 551,
+      "estimate": "40k+",
+      "name": "Here Comes Niko!",
+      "releaseDate": "2021-08-03"
+    },
+    "1132760": {
+      "rank": 229,
+      "estimate": "80k+",
+      "name": "Dwerve",
+      "releaseDate": "2022-05-31"
+    },
+    "1203710": {
+      "rank": 175,
+      "estimate": "200k+",
+      "name": "UnMetal",
+      "releaseDate": "2021-09-28"
+    },
+    "1338030": {
+      "rank": 1368,
+      "estimate": "25k+",
+      "name": "Entertainment Simulator",
+      "releaseDate": "2026-03-05"
+    },
+    "1422410": {
+      "rank": 514,
+      "estimate": "40k+",
+      "name": "Into the Pit",
+      "releaseDate": "2021-10-19"
+    },
+    "1530450": {
+      "rank": 1508,
+      "estimate": "15k+",
+      "name": "Scramble: Battle of Britain",
+      "releaseDate": "2024-10-30"
+    },
+    "1589120": {
+      "rank": 133,
+      "estimate": "200k+",
+      "name": "Above Snakes",
+      "releaseDate": "2023-05-25"
+    },
+    "1599600": {
+      "rank": 868,
+      "estimate": "40k+",
+      "name": "PlateUp!",
+      "releaseDate": "2022-08-04"
+    },
+    "1738980": {
+      "rank": 1152,
+      "estimate": "25k+",
+      "name": "A Hat in Time - Vanessa's Curse",
+      "releaseDate": "2021-11-27"
+    },
+    "1807200": {
+      "rank": 810,
+      "estimate": "40k+",
+      "name": "Mirror Forge",
+      "releaseDate": "2022-12-06"
+    },
+    "1862520": {
+      "rank": 1116,
+      "estimate": "25k+",
+      "name": "Just Go",
+      "releaseDate": "2022-08-09"
+    },
+    "1870310": {
+      "rank": 872,
+      "estimate": "40k+",
+      "name": "Doomsday Robot Girl",
+      "releaseDate": "2023-01-10"
+    },
+    "1986550": {
+      "rank": 960,
+      "estimate": "40k+",
+      "name": "LOLLIPOP: SUMMER!",
+      "releaseDate": "2022-11-19"
+    },
+    "2078010": {
+      "rank": 3050,
+      "estimate": "<7k",
+      "name": "Legends of Immortality",
+      "releaseDate": "2025-03-04"
+    },
+    "2093800": {
+      "rank": 2417,
+      "estimate": "7k+",
+      "name": "METAL SUITS: Counter-attack",
+      "releaseDate": "2025-02-12"
+    },
+    "2103510": {
+      "rank": 2081,
+      "estimate": "7k+",
+      "name": "Spear Song",
+      "releaseDate": "2024-10-10"
+    },
+    "2312280": {
+      "rank": 387,
+      "estimate": "80k+",
+      "name": "7 Days Blood Moons",
+      "releaseDate": "2025-11-04"
+    },
+    "2446550": {
+      "rank": 112,
+      "estimate": "200k+",
+      "name": "STAR WARS™: Battlefront Classic Collection",
+      "releaseDate": "2024-03-13"
+    },
+    "2458830": {
+      "rank": 388,
+      "estimate": "80k+",
+      "name": "Towerborne",
+      "releaseDate": "2026-02-26"
+    },
+    "2479840": {
+      "rank": 1790,
+      "estimate": "15k+",
+      "name": "Pawn Planet",
+      "releaseDate": "2025-12-05"
+    },
+    "2544090": {
+      "rank": 974,
+      "estimate": "40k+",
+      "name": "Milfy City - Final Edition",
+      "releaseDate": "2023-11-03"
+    },
+    "2765930": {
+      "rank": 997,
+      "estimate": "40k+",
+      "name": "Empyrion - Galactic Survival: Dark Faction",
+      "releaseDate": "2024-02-06"
+    },
+    "3003800": {
+      "rank": 2338,
+      "estimate": "7k+",
+      "name": "Warhammer 40,000: Inquisitor - Martyr - Hierophant Class",
+      "releaseDate": "2024-11-12"
+    },
+    "3035500": {
+      "rank": 422,
+      "estimate": "80k+",
+      "name": "Fantasy Map Simulator",
+      "releaseDate": "2024-09-04"
+    }
+  }
+}

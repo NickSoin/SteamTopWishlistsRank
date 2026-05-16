@@ -1,1 +1,98 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":15,"entries":{"2827200":{"rank":7,"estimate":"1.5m+","name":"MIMESIS","releaseDate":"2025-10-27"},"2605790":{"rank":31,"estimate":"600k+","name":"Deep Rock Galactic: Rogue Core","releaseDate":"2026-05-20"},"1904540":{"rank":264,"estimate":"80k+","name":"Football Manager 2023","releaseDate":"2022-11-08"},"1472560":{"rank":334,"estimate":"80k+","name":"I Am Fish","releaseDate":"2021-09-16"},"1742470":{"rank":417,"estimate":"80k+","name":"My Newborn Life In A Harem","releaseDate":"2022-03-29"},"1954130":{"rank":491,"estimate":"80k+","name":"Meifumado","releaseDate":"2024-07-18"},"2668290":{"rank":553,"estimate":"40k+","name":"Warhammer 40,000: Boltgun - Forges of Corruption Expansion","releaseDate":"2024-06-18"},"1928090":{"rank":587,"estimate":"40k+","name":"Cook Serve Forever","releaseDate":"2025-07-31"},"1638230":{"rank":770,"estimate":"40k+","name":"Xuan-Yuan Sword: Mists Beyond the Mountains","releaseDate":"2023-07-25"},"2125090":{"rank":878,"estimate":"40k+","name":"Tintin Reporter - Cigars of the Pharaoh","releaseDate":"2023-11-07"},"1454160":{"rank":1177,"estimate":"25k+","name":"One More Island","releaseDate":"2022-05-16"},"2295610":{"rank":1607,"estimate":"15k+","name":"Abathor","releaseDate":"2024-07-25"},"3051590":{"rank":2091,"estimate":"7k+","name":"Dune: Imperium - Rise of Ix","releaseDate":"2024-07-31"},"2093070":{"rank":2487,"estimate":"7k+","name":"Spring Dash","releaseDate":"2024-03-29"},"2705890":{"rank":3000,"estimate":"7k+","name":"Goodboy Galaxy","releaseDate":"2024-10-25"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 15,
+  "entries": {
+    "1454160": {
+      "rank": 1177,
+      "estimate": "25k+",
+      "name": "One More Island",
+      "releaseDate": "2022-05-16"
+    },
+    "1472560": {
+      "rank": 334,
+      "estimate": "80k+",
+      "name": "I Am Fish",
+      "releaseDate": "2021-09-16"
+    },
+    "1638230": {
+      "rank": 770,
+      "estimate": "40k+",
+      "name": "Xuan-Yuan Sword: Mists Beyond the Mountains",
+      "releaseDate": "2023-07-25"
+    },
+    "1742470": {
+      "rank": 417,
+      "estimate": "80k+",
+      "name": "My Newborn Life In A Harem",
+      "releaseDate": "2022-03-29"
+    },
+    "1904540": {
+      "rank": 264,
+      "estimate": "80k+",
+      "name": "Football Manager 2023",
+      "releaseDate": "2022-11-08"
+    },
+    "1928090": {
+      "rank": 587,
+      "estimate": "40k+",
+      "name": "Cook Serve Forever",
+      "releaseDate": "2025-07-31"
+    },
+    "1954130": {
+      "rank": 491,
+      "estimate": "80k+",
+      "name": "Meifumado",
+      "releaseDate": "2024-07-18"
+    },
+    "2093070": {
+      "rank": 2487,
+      "estimate": "7k+",
+      "name": "Spring Dash",
+      "releaseDate": "2024-03-29"
+    },
+    "2125090": {
+      "rank": 878,
+      "estimate": "40k+",
+      "name": "Tintin Reporter - Cigars of the Pharaoh",
+      "releaseDate": "2023-11-07"
+    },
+    "2295610": {
+      "rank": 1607,
+      "estimate": "15k+",
+      "name": "Abathor",
+      "releaseDate": "2024-07-25"
+    },
+    "2605790": {
+      "rank": 31,
+      "estimate": "600k+",
+      "name": "Deep Rock Galactic: Rogue Core",
+      "releaseDate": "2026-05-20"
+    },
+    "2668290": {
+      "rank": 553,
+      "estimate": "40k+",
+      "name": "Warhammer 40,000: Boltgun - Forges of Corruption Expansion",
+      "releaseDate": "2024-06-18"
+    },
+    "2705890": {
+      "rank": 3000,
+      "estimate": "7k+",
+      "name": "Goodboy Galaxy",
+      "releaseDate": "2024-10-25"
+    },
+    "2827200": {
+      "rank": 7,
+      "estimate": "1.5m+",
+      "name": "MIMESIS",
+      "releaseDate": "2025-10-27"
+    },
+    "3051590": {
+      "rank": 2091,
+      "estimate": "7k+",
+      "name": "Dune: Imperium - Rise of Ix",
+      "releaseDate": "2024-07-31"
+    }
+  }
+}

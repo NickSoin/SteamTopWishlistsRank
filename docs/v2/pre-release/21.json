@@ -1,1 +1,128 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":20,"entries":{"924980":{"rank":34,"estimate":"600k+","name":"Trials of Mana","releaseDate":"2020-04-24"},"3751950":{"rank":34,"estimate":"600k+","name":"Assassin's Creed Black Flag Resynced","releaseDate":"2026-07-09"},"1324530":{"rank":137,"estimate":"200k+","name":"Warhammer 40,000: Shootas, Blood & Teef","releaseDate":"2022-10-20"},"2452090":{"rank":350,"estimate":"80k+","name":"GREED IS GOOD","releaseDate":"2023-11-05"},"1771110":{"rank":377,"estimate":"80k+","name":"Craftlings","releaseDate":"2026-01-15"},"2192790":{"rank":422,"estimate":"80k+","name":"The Walking Dead: Destinies","releaseDate":"2023-12-01"},"1636660":{"rank":513,"estimate":"40k+","name":"Absolute Tactics: Daughters of Mercy","releaseDate":"2022-09-15"},"1689910":{"rank":656,"estimate":"40k+","name":"Dōkyūsei: Bangin' Summer","releaseDate":"2022-04-14"},"1257030":{"rank":767,"estimate":"40k+","name":"Heartworm","releaseDate":"2025-07-31"},"1897120":{"rank":892,"estimate":"40k+","name":"Happiness Double Room","releaseDate":"2022-09-28"},"2233390":{"rank":1063,"estimate":"25k+","name":"Nuclear Sub","releaseDate":"2026-01-01"},"2605900":{"rank":1070,"estimate":"25k+","name":"DIGESTED","releaseDate":"2026-01-01"},"1921760":{"rank":1261,"estimate":"25k+","name":"Pocket Academy","releaseDate":"2022-06-12"},"2702300":{"rank":1363,"estimate":"25k+","name":"THRASHER","releaseDate":"2025-11-07"},"2287560":{"rank":1429,"estimate":"25k+","name":"Vengeance of Mr. Peppermint","releaseDate":"2023-10-23"},"2280060":{"rank":1746,"estimate":"15k+","name":"Tenebris: Terra Incognita","releaseDate":"2024-09-30"},"2527660":{"rank":1824,"estimate":"15k+","name":"The Awakener: Forgotten Oath","releaseDate":"2023-11-06"},"3047750":{"rank":1915,"estimate":"15k+","name":"Herdling","releaseDate":"2025-08-21"},"2342920":{"rank":1925,"estimate":"15k+","name":"OBSCURA","releaseDate":"2024-09-09"},"1944040":{"rank":2036,"estimate":"7k+","name":"goblinAmerica","releaseDate":"2026-06-17"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 20,
+  "entries": {
+    "924980": {
+      "rank": 34,
+      "estimate": "600k+",
+      "name": "Trials of Mana",
+      "releaseDate": "2020-04-24"
+    },
+    "1257030": {
+      "rank": 767,
+      "estimate": "40k+",
+      "name": "Heartworm",
+      "releaseDate": "2025-07-31"
+    },
+    "1324530": {
+      "rank": 137,
+      "estimate": "200k+",
+      "name": "Warhammer 40,000: Shootas, Blood & Teef",
+      "releaseDate": "2022-10-20"
+    },
+    "1636660": {
+      "rank": 513,
+      "estimate": "40k+",
+      "name": "Absolute Tactics: Daughters of Mercy",
+      "releaseDate": "2022-09-15"
+    },
+    "1689910": {
+      "rank": 656,
+      "estimate": "40k+",
+      "name": "Dōkyūsei: Bangin' Summer",
+      "releaseDate": "2022-04-14"
+    },
+    "1771110": {
+      "rank": 377,
+      "estimate": "80k+",
+      "name": "Craftlings",
+      "releaseDate": "2026-01-15"
+    },
+    "1897120": {
+      "rank": 892,
+      "estimate": "40k+",
+      "name": "Happiness Double Room",
+      "releaseDate": "2022-09-28"
+    },
+    "1921760": {
+      "rank": 1261,
+      "estimate": "25k+",
+      "name": "Pocket Academy",
+      "releaseDate": "2022-06-12"
+    },
+    "1944040": {
+      "rank": 2036,
+      "estimate": "7k+",
+      "name": "goblinAmerica",
+      "releaseDate": "2026-06-17"
+    },
+    "2192790": {
+      "rank": 422,
+      "estimate": "80k+",
+      "name": "The Walking Dead: Destinies",
+      "releaseDate": "2023-12-01"
+    },
+    "2233390": {
+      "rank": 1063,
+      "estimate": "25k+",
+      "name": "Nuclear Sub",
+      "releaseDate": "2026-01-01"
+    },
+    "2280060": {
+      "rank": 1746,
+      "estimate": "15k+",
+      "name": "Tenebris: Terra Incognita",
+      "releaseDate": "2024-09-30"
+    },
+    "2287560": {
+      "rank": 1429,
+      "estimate": "25k+",
+      "name": "Vengeance of Mr. Peppermint",
+      "releaseDate": "2023-10-23"
+    },
+    "2342920": {
+      "rank": 1925,
+      "estimate": "15k+",
+      "name": "OBSCURA",
+      "releaseDate": "2024-09-09"
+    },
+    "2452090": {
+      "rank": 350,
+      "estimate": "80k+",
+      "name": "GREED IS GOOD",
+      "releaseDate": "2023-11-05"
+    },
+    "2527660": {
+      "rank": 1824,
+      "estimate": "15k+",
+      "name": "The Awakener: Forgotten Oath",
+      "releaseDate": "2023-11-06"
+    },
+    "2605900": {
+      "rank": 1070,
+      "estimate": "25k+",
+      "name": "DIGESTED",
+      "releaseDate": "2026-01-01"
+    },
+    "2702300": {
+      "rank": 1363,
+      "estimate": "25k+",
+      "name": "THRASHER",
+      "releaseDate": "2025-11-07"
+    },
+    "3047750": {
+      "rank": 1915,
+      "estimate": "15k+",
+      "name": "Herdling",
+      "releaseDate": "2025-08-21"
+    },
+    "3751950": {
+      "rank": 34,
+      "estimate": "600k+",
+      "name": "Assassin's Creed Black Flag Resynced",
+      "releaseDate": "2026-07-09"
+    }
+  }
+}

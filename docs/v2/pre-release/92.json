@@ -1,1 +1,92 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":14,"entries":{"1466640":{"rank":30,"estimate":"600k+","name":"Road 96 🛣️","releaseDate":"2021-08-16"},"979110":{"rank":38,"estimate":"600k+","name":"Space Haven","releaseDate":"2026-05-13"},"1282150":{"rank":40,"estimate":"600k+","name":"SpongeBob SquarePants: The Cosmic Shake","releaseDate":"2023-01-31"},"1067320":{"rank":365,"estimate":"80k+","name":"Pathogenesis: Overcome","releaseDate":"2023-09-04"},"2304440":{"rank":562,"estimate":"40k+","name":"Creatures of Ava","releaseDate":"2024-08-07"},"1487270":{"rank":725,"estimate":"40k+","name":"Last Command","releaseDate":"2022-10-25"},"1732060":{"rank":1028,"estimate":"25k+","name":"Makai Kingdom: Reclaimed and Rebound","releaseDate":"2022-05-10"},"2216260":{"rank":1065,"estimate":"25k+","name":"White Sands","releaseDate":"2024-02-14"},"2099670":{"rank":1079,"estimate":"25k+","name":"Pirates Journey","releaseDate":"2024-09-13"},"2289390":{"rank":1288,"estimate":"25k+","name":"Crab God","releaseDate":"2024-06-20"},"2191480":{"rank":1865,"estimate":"15k+","name":"Jumbo Airport Story","releaseDate":"2023-06-04"},"2510810":{"rank":2019,"estimate":"7k+","name":"突然＊恋人","releaseDate":"2024-04-19"},"2562240":{"rank":2105,"estimate":"7k+","name":"Only Up!","releaseDate":"2023-10-03"},"3055950":{"rank":3160,"estimate":"<7k","name":"Shantae Advance: Risky Revolution","releaseDate":"2025-08-19"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 14,
+  "entries": {
+    "979110": {
+      "rank": 38,
+      "estimate": "600k+",
+      "name": "Space Haven",
+      "releaseDate": "2026-05-13"
+    },
+    "1067320": {
+      "rank": 365,
+      "estimate": "80k+",
+      "name": "Pathogenesis: Overcome",
+      "releaseDate": "2023-09-04"
+    },
+    "1282150": {
+      "rank": 40,
+      "estimate": "600k+",
+      "name": "SpongeBob SquarePants: The Cosmic Shake",
+      "releaseDate": "2023-01-31"
+    },
+    "1466640": {
+      "rank": 30,
+      "estimate": "600k+",
+      "name": "Road 96 🛣️",
+      "releaseDate": "2021-08-16"
+    },
+    "1487270": {
+      "rank": 725,
+      "estimate": "40k+",
+      "name": "Last Command",
+      "releaseDate": "2022-10-25"
+    },
+    "1732060": {
+      "rank": 1028,
+      "estimate": "25k+",
+      "name": "Makai Kingdom: Reclaimed and Rebound",
+      "releaseDate": "2022-05-10"
+    },
+    "2099670": {
+      "rank": 1079,
+      "estimate": "25k+",
+      "name": "Pirates Journey",
+      "releaseDate": "2024-09-13"
+    },
+    "2191480": {
+      "rank": 1865,
+      "estimate": "15k+",
+      "name": "Jumbo Airport Story",
+      "releaseDate": "2023-06-04"
+    },
+    "2216260": {
+      "rank": 1065,
+      "estimate": "25k+",
+      "name": "White Sands",
+      "releaseDate": "2024-02-14"
+    },
+    "2289390": {
+      "rank": 1288,
+      "estimate": "25k+",
+      "name": "Crab God",
+      "releaseDate": "2024-06-20"
+    },
+    "2304440": {
+      "rank": 562,
+      "estimate": "40k+",
+      "name": "Creatures of Ava",
+      "releaseDate": "2024-08-07"
+    },
+    "2510810": {
+      "rank": 2019,
+      "estimate": "7k+",
+      "name": "突然＊恋人",
+      "releaseDate": "2024-04-19"
+    },
+    "2562240": {
+      "rank": 2105,
+      "estimate": "7k+",
+      "name": "Only Up!",
+      "releaseDate": "2023-10-03"
+    },
+    "3055950": {
+      "rank": 3160,
+      "estimate": "<7k",
+      "name": "Shantae Advance: Risky Revolution",
+      "releaseDate": "2025-08-19"
+    }
+  }
+}

@@ -1,1 +1,206 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":33,"entries":{"1142710":{"rank":6,"estimate":"1.5m+","name":"Total War: WARHAMMER III","releaseDate":"2022-02-16"},"2212670":{"rank":27,"estimate":"600k+","name":"MakeRoom","releaseDate":"2025-08-07"},"1035760":{"rank":30,"estimate":"600k+","name":"Glimmer in Mirror","releaseDate":"2023-01-09"},"1182620":{"rank":36,"estimate":"600k+","name":"Impostor Factory","releaseDate":"2021-09-30"},"1933840":{"rank":38,"estimate":"600k+","name":"Moon Mystery","releaseDate":"2024-10-28"},"2026820":{"rank":45,"estimate":"600k+","name":"Die in the Dungeon","releaseDate":"2026-05-01"},"315210":{"rank":48,"estimate":"600k+","name":"Suicide Squad: Kill the Justice League","releaseDate":"2024-02-02"},"1880360":{"rank":106,"estimate":"200k+","name":"Monster Hunter Rise: Sunbreak","releaseDate":"2022-06-29"},"1866180":{"rank":231,"estimate":"80k+","name":"Hooked on You: A Dead by Daylight Dating Sim™","releaseDate":"2022-08-03"},"1530470":{"rank":289,"estimate":"80k+","name":"Daymare: 1994 Sandcastle","releaseDate":"2023-08-30"},"1280300":{"rank":305,"estimate":"80k+","name":"Steel Assault","releaseDate":"2021-09-28"},"1189070":{"rank":423,"estimate":"80k+","name":"Slimy Sextet","releaseDate":"2023-05-19"},"1998340":{"rank":538,"estimate":"40k+","name":"Labyrinth of Galleria: The Moon Society","releaseDate":"2023-02-14"},"1082410":{"rank":539,"estimate":"40k+","name":"Lost in Tropics","releaseDate":"2024-05-22"},"1484720":{"rank":607,"estimate":"40k+","name":"Dead Estate","releaseDate":"2021-10-19"},"658360":{"rank":668,"estimate":"40k+","name":"SUMMER VACATION","releaseDate":"2022-03-23"},"1611430":{"rank":699,"estimate":"40k+","name":"The Bridge Curse Road to Salvation","releaseDate":"2022-08-24"},"1619580":{"rank":930,"estimate":"40k+","name":"Slopecrashers","releaseDate":"2024-12-04"},"1063420":{"rank":1022,"estimate":"25k+","name":"Void Crew","releaseDate":"2024-11-25"},"1620720":{"rank":1086,"estimate":"25k+","name":"The Forest Quartet","releaseDate":"2022-12-08"},"1422430":{"rank":1115,"estimate":"25k+","name":"Next Space Rebels","releaseDate":"2021-11-17"},"1763050":{"rank":1118,"estimate":"25k+","name":"Fears to Fathom - Norwood Hitchhike","releaseDate":"2022-01-06"},"2924050":{"rank":1140,"estimate":"25k+","name":"Innocent Grape","releaseDate":"2024-06-21"},"1664360":{"rank":1393,"estimate":"25k+","name":"Monuments Flipper: Prologue","releaseDate":"2022-05-18"},"1997420":{"rank":1395,"estimate":"25k+","name":"The city of eyes and the girl in dreamland","releaseDate":"2024-10-16"},"1613670":{"rank":1870,"estimate":"15k+","name":"Anglerfish","releaseDate":"2022-11-10"},"2003490":{"rank":1964,"estimate":"15k+","name":"Toroa: Skycall","releaseDate":"2025-12-09"},"2004770":{"rank":2408,"estimate":"7k+","name":"Dark Notes","releaseDate":"2024-05-23"},"2643290":{"rank":2524,"estimate":"7k+","name":"Oblin Party","releaseDate":"2025-03-11"},"1642870":{"rank":2590,"estimate":"7k+","name":"Andromeda Six","releaseDate":"2025-09-04"},"2347910":{"rank":2666,"estimate":"7k+","name":"Seal: WHAT the FUN","releaseDate":"2024-12-12"},"2831060":{"rank":2831,"estimate":"7k+","name":"Moving Houses","releaseDate":"2024-10-01"},"1471650":{"rank":3091,"estimate":"<7k","name":"The Knightling","releaseDate":"2025-08-28"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 33,
+  "entries": {
+    "315210": {
+      "rank": 48,
+      "estimate": "600k+",
+      "name": "Suicide Squad: Kill the Justice League",
+      "releaseDate": "2024-02-02"
+    },
+    "658360": {
+      "rank": 668,
+      "estimate": "40k+",
+      "name": "SUMMER VACATION",
+      "releaseDate": "2022-03-23"
+    },
+    "1035760": {
+      "rank": 30,
+      "estimate": "600k+",
+      "name": "Glimmer in Mirror",
+      "releaseDate": "2023-01-09"
+    },
+    "1063420": {
+      "rank": 1022,
+      "estimate": "25k+",
+      "name": "Void Crew",
+      "releaseDate": "2024-11-25"
+    },
+    "1082410": {
+      "rank": 539,
+      "estimate": "40k+",
+      "name": "Lost in Tropics",
+      "releaseDate": "2024-05-22"
+    },
+    "1142710": {
+      "rank": 6,
+      "estimate": "1.5m+",
+      "name": "Total War: WARHAMMER III",
+      "releaseDate": "2022-02-16"
+    },
+    "1182620": {
+      "rank": 36,
+      "estimate": "600k+",
+      "name": "Impostor Factory",
+      "releaseDate": "2021-09-30"
+    },
+    "1189070": {
+      "rank": 423,
+      "estimate": "80k+",
+      "name": "Slimy Sextet",
+      "releaseDate": "2023-05-19"
+    },
+    "1280300": {
+      "rank": 305,
+      "estimate": "80k+",
+      "name": "Steel Assault",
+      "releaseDate": "2021-09-28"
+    },
+    "1422430": {
+      "rank": 1115,
+      "estimate": "25k+",
+      "name": "Next Space Rebels",
+      "releaseDate": "2021-11-17"
+    },
+    "1471650": {
+      "rank": 3091,
+      "estimate": "<7k",
+      "name": "The Knightling",
+      "releaseDate": "2025-08-28"
+    },
+    "1484720": {
+      "rank": 607,
+      "estimate": "40k+",
+      "name": "Dead Estate",
+      "releaseDate": "2021-10-19"
+    },
+    "1530470": {
+      "rank": 289,
+      "estimate": "80k+",
+      "name": "Daymare: 1994 Sandcastle",
+      "releaseDate": "2023-08-30"
+    },
+    "1611430": {
+      "rank": 699,
+      "estimate": "40k+",
+      "name": "The Bridge Curse Road to Salvation",
+      "releaseDate": "2022-08-24"
+    },
+    "1613670": {
+      "rank": 1870,
+      "estimate": "15k+",
+      "name": "Anglerfish",
+      "releaseDate": "2022-11-10"
+    },
+    "1619580": {
+      "rank": 930,
+      "estimate": "40k+",
+      "name": "Slopecrashers",
+      "releaseDate": "2024-12-04"
+    },
+    "1620720": {
+      "rank": 1086,
+      "estimate": "25k+",
+      "name": "The Forest Quartet",
+      "releaseDate": "2022-12-08"
+    },
+    "1642870": {
+      "rank": 2590,
+      "estimate": "7k+",
+      "name": "Andromeda Six",
+      "releaseDate": "2025-09-04"
+    },
+    "1664360": {
+      "rank": 1393,
+      "estimate": "25k+",
+      "name": "Monuments Flipper: Prologue",
+      "releaseDate": "2022-05-18"
+    },
+    "1763050": {
+      "rank": 1118,
+      "estimate": "25k+",
+      "name": "Fears to Fathom - Norwood Hitchhike",
+      "releaseDate": "2022-01-06"
+    },
+    "1866180": {
+      "rank": 231,
+      "estimate": "80k+",
+      "name": "Hooked on You: A Dead by Daylight Dating Sim™",
+      "releaseDate": "2022-08-03"
+    },
+    "1880360": {
+      "rank": 106,
+      "estimate": "200k+",
+      "name": "Monster Hunter Rise: Sunbreak",
+      "releaseDate": "2022-06-29"
+    },
+    "1933840": {
+      "rank": 38,
+      "estimate": "600k+",
+      "name": "Moon Mystery",
+      "releaseDate": "2024-10-28"
+    },
+    "1997420": {
+      "rank": 1395,
+      "estimate": "25k+",
+      "name": "The city of eyes and the girl in dreamland",
+      "releaseDate": "2024-10-16"
+    },
+    "1998340": {
+      "rank": 538,
+      "estimate": "40k+",
+      "name": "Labyrinth of Galleria: The Moon Society",
+      "releaseDate": "2023-02-14"
+    },
+    "2003490": {
+      "rank": 1964,
+      "estimate": "15k+",
+      "name": "Toroa: Skycall",
+      "releaseDate": "2025-12-09"
+    },
+    "2004770": {
+      "rank": 2408,
+      "estimate": "7k+",
+      "name": "Dark Notes",
+      "releaseDate": "2024-05-23"
+    },
+    "2026820": {
+      "rank": 45,
+      "estimate": "600k+",
+      "name": "Die in the Dungeon",
+      "releaseDate": "2026-05-01"
+    },
+    "2212670": {
+      "rank": 27,
+      "estimate": "600k+",
+      "name": "MakeRoom",
+      "releaseDate": "2025-08-07"
+    },
+    "2347910": {
+      "rank": 2666,
+      "estimate": "7k+",
+      "name": "Seal: WHAT the FUN",
+      "releaseDate": "2024-12-12"
+    },
+    "2643290": {
+      "rank": 2524,
+      "estimate": "7k+",
+      "name": "Oblin Party",
+      "releaseDate": "2025-03-11"
+    },
+    "2831060": {
+      "rank": 2831,
+      "estimate": "7k+",
+      "name": "Moving Houses",
+      "releaseDate": "2024-10-01"
+    },
+    "2924050": {
+      "rank": 1140,
+      "estimate": "25k+",
+      "name": "Innocent Grape",
+      "releaseDate": "2024-06-21"
+    }
+  }
+}

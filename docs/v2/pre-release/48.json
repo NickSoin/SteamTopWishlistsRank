@@ -1,1 +1,146 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":23,"entries":{"2592160":{"rank":23,"estimate":"600k+","name":"Dispatch","releaseDate":"2025-10-22"},"1754000":{"rank":247,"estimate":"80k+","name":"The Elder Scrolls Online: High Isle","releaseDate":"2022-06-06"},"1435790":{"rank":248,"estimate":"80k+","name":"Escape Simulator","releaseDate":"2021-10-19"},"1516750":{"rank":400,"estimate":"80k+","name":"Alien Marauder","releaseDate":"2021-11-17"},"2707490":{"rank":409,"estimate":"80k+","name":"Tower Factory","releaseDate":"2024-11-07"},"1918680":{"rank":421,"estimate":"80k+","name":"Sword and Fairy Inn 2","releaseDate":"2022-07-07"},"2757330":{"rank":623,"estimate":"40k+","name":"Class of '09: The Flip Side","releaseDate":"2024-09-23"},"1579920":{"rank":950,"estimate":"40k+","name":"Opportunity: A Sugar Baby Story","releaseDate":"2023-02-13"},"1170080":{"rank":986,"estimate":"40k+","name":"Foretales","releaseDate":"2022-09-15"},"1190600":{"rank":999,"estimate":"40k+","name":"Captain Hardcore","releaseDate":"2026-01-22"},"1796200":{"rank":1105,"estimate":"25k+","name":"Who's Who?","releaseDate":"2022-08-29"},"1550730":{"rank":1190,"estimate":"25k+","name":"Ikonei Island: An Earthlock Adventure","releaseDate":"2023-11-09"},"1720090":{"rank":1232,"estimate":"25k+","name":"Aspire: Ina's Tale","releaseDate":"2021-12-17"},"2157710":{"rank":1252,"estimate":"25k+","name":"Hordes of Hunger","releaseDate":"2026-02-12"},"1785420":{"rank":1562,"estimate":"15k+","name":"Orten Was The Case","releaseDate":"2023-11-29"},"2553040":{"rank":1613,"estimate":"15k+","name":"Nested Lands","releaseDate":"2026-02-25"},"2384730":{"rank":1733,"estimate":"15k+","name":"Beyond the Ice Palace 2","releaseDate":"2025-03-10"},"2203040":{"rank":1759,"estimate":"15k+","name":"マーダーミステリーパラドクス このひと夏の十五年","releaseDate":"2023-12-01"},"2199860":{"rank":1813,"estimate":"15k+","name":"Animal Trainer Simulator","releaseDate":"2024-10-07"},"2672260":{"rank":1857,"estimate":"15k+","name":"Evil Corporation","releaseDate":"2024-08-31"},"2132690":{"rank":1878,"estimate":"15k+","name":"Vivat Slovakia","releaseDate":"2025-04-17"},"2739990":{"rank":2516,"estimate":"7k+","name":"Mahjong Soul","releaseDate":"2024-07-23"},"1753500":{"rank":2985,"estimate":"7k+","name":"Age of Barbarians Chronicles","releaseDate":"2026-03-16"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 23,
+  "entries": {
+    "1170080": {
+      "rank": 986,
+      "estimate": "40k+",
+      "name": "Foretales",
+      "releaseDate": "2022-09-15"
+    },
+    "1190600": {
+      "rank": 999,
+      "estimate": "40k+",
+      "name": "Captain Hardcore",
+      "releaseDate": "2026-01-22"
+    },
+    "1435790": {
+      "rank": 248,
+      "estimate": "80k+",
+      "name": "Escape Simulator",
+      "releaseDate": "2021-10-19"
+    },
+    "1516750": {
+      "rank": 400,
+      "estimate": "80k+",
+      "name": "Alien Marauder",
+      "releaseDate": "2021-11-17"
+    },
+    "1550730": {
+      "rank": 1190,
+      "estimate": "25k+",
+      "name": "Ikonei Island: An Earthlock Adventure",
+      "releaseDate": "2023-11-09"
+    },
+    "1579920": {
+      "rank": 950,
+      "estimate": "40k+",
+      "name": "Opportunity: A Sugar Baby Story",
+      "releaseDate": "2023-02-13"
+    },
+    "1720090": {
+      "rank": 1232,
+      "estimate": "25k+",
+      "name": "Aspire: Ina's Tale",
+      "releaseDate": "2021-12-17"
+    },
+    "1753500": {
+      "rank": 2985,
+      "estimate": "7k+",
+      "name": "Age of Barbarians Chronicles",
+      "releaseDate": "2026-03-16"
+    },
+    "1754000": {
+      "rank": 247,
+      "estimate": "80k+",
+      "name": "The Elder Scrolls Online: High Isle",
+      "releaseDate": "2022-06-06"
+    },
+    "1785420": {
+      "rank": 1562,
+      "estimate": "15k+",
+      "name": "Orten Was The Case",
+      "releaseDate": "2023-11-29"
+    },
+    "1796200": {
+      "rank": 1105,
+      "estimate": "25k+",
+      "name": "Who's Who?",
+      "releaseDate": "2022-08-29"
+    },
+    "1918680": {
+      "rank": 421,
+      "estimate": "80k+",
+      "name": "Sword and Fairy Inn 2",
+      "releaseDate": "2022-07-07"
+    },
+    "2132690": {
+      "rank": 1878,
+      "estimate": "15k+",
+      "name": "Vivat Slovakia",
+      "releaseDate": "2025-04-17"
+    },
+    "2157710": {
+      "rank": 1252,
+      "estimate": "25k+",
+      "name": "Hordes of Hunger",
+      "releaseDate": "2026-02-12"
+    },
+    "2199860": {
+      "rank": 1813,
+      "estimate": "15k+",
+      "name": "Animal Trainer Simulator",
+      "releaseDate": "2024-10-07"
+    },
+    "2203040": {
+      "rank": 1759,
+      "estimate": "15k+",
+      "name": "マーダーミステリーパラドクス このひと夏の十五年",
+      "releaseDate": "2023-12-01"
+    },
+    "2384730": {
+      "rank": 1733,
+      "estimate": "15k+",
+      "name": "Beyond the Ice Palace 2",
+      "releaseDate": "2025-03-10"
+    },
+    "2553040": {
+      "rank": 1613,
+      "estimate": "15k+",
+      "name": "Nested Lands",
+      "releaseDate": "2026-02-25"
+    },
+    "2592160": {
+      "rank": 23,
+      "estimate": "600k+",
+      "name": "Dispatch",
+      "releaseDate": "2025-10-22"
+    },
+    "2672260": {
+      "rank": 1857,
+      "estimate": "15k+",
+      "name": "Evil Corporation",
+      "releaseDate": "2024-08-31"
+    },
+    "2707490": {
+      "rank": 409,
+      "estimate": "80k+",
+      "name": "Tower Factory",
+      "releaseDate": "2024-11-07"
+    },
+    "2739990": {
+      "rank": 2516,
+      "estimate": "7k+",
+      "name": "Mahjong Soul",
+      "releaseDate": "2024-07-23"
+    },
+    "2757330": {
+      "rank": 623,
+      "estimate": "40k+",
+      "name": "Class of '09: The Flip Side",
+      "releaseDate": "2024-09-23"
+    }
+  }
+}

@@ -1,1 +1,116 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":18,"entries":{"2073850":{"rank":1,"estimate":"4m+","name":"THE FINALS","releaseDate":"2023-12-07"},"1643320":{"rank":2,"estimate":"1.5m+","name":"S.T.A.L.K.E.R. 2: Heart of Chornobyl","releaseDate":"2024-11-20"},"2373990":{"rank":2,"estimate":"1.5m+","name":"Solo Leveling: ARISE OVERDRIVE","releaseDate":"2025-11-24"},"1599340":{"rank":10,"estimate":"1.5m+","name":"Lost Ark","releaseDate":"2022-02-11"},"2933620":{"rank":33,"estimate":"600k+","name":"Call of Duty®: Black Ops 6","releaseDate":"2024-11-01"},"1981820":{"rank":189,"estimate":"200k+","name":"Strike Force Heroes","releaseDate":"2023-11-10"},"1206060":{"rank":339,"estimate":"80k+","name":"Happy Game","releaseDate":"2021-10-28"},"580640":{"rank":369,"estimate":"80k+","name":"End State","releaseDate":"2022-12-01"},"2131680":{"rank":394,"estimate":"80k+","name":"METAL GEAR & METAL GEAR 2: Solid Snake","releaseDate":"2023-10-24"},"1457510":{"rank":463,"estimate":"80k+","name":"The Legend of Heroes: Sen no Kiseki IV -THE END OF SAGA-","releaseDate":"2021-12-22"},"1522870":{"rank":467,"estimate":"80k+","name":"Supraland Six Inches Under","releaseDate":"2022-01-14"},"1201230":{"rank":551,"estimate":"40k+","name":"Immortal Life","releaseDate":"2024-01-17"},"2257010":{"rank":553,"estimate":"40k+","name":"Creeper World IXE","releaseDate":"2024-12-12"},"2071430":{"rank":745,"estimate":"40k+","name":"Roots of Yggdrasil","releaseDate":"2024-09-06"},"1865960":{"rank":1124,"estimate":"25k+","name":"Symphonia","releaseDate":"2024-12-05"},"1841250":{"rank":1307,"estimate":"25k+","name":"Hard Times at Sequoia State Park","releaseDate":"2022-04-25"},"2149070":{"rank":1556,"estimate":"15k+","name":"Cosplay Collection","releaseDate":"2022-11-10"},"2114300":{"rank":2245,"estimate":"7k+","name":"Chronique des Silencieux","releaseDate":"2024-01-29"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 18,
+  "entries": {
+    "580640": {
+      "rank": 369,
+      "estimate": "80k+",
+      "name": "End State",
+      "releaseDate": "2022-12-01"
+    },
+    "1201230": {
+      "rank": 551,
+      "estimate": "40k+",
+      "name": "Immortal Life",
+      "releaseDate": "2024-01-17"
+    },
+    "1206060": {
+      "rank": 339,
+      "estimate": "80k+",
+      "name": "Happy Game",
+      "releaseDate": "2021-10-28"
+    },
+    "1457510": {
+      "rank": 463,
+      "estimate": "80k+",
+      "name": "The Legend of Heroes: Sen no Kiseki IV -THE END OF SAGA-",
+      "releaseDate": "2021-12-22"
+    },
+    "1522870": {
+      "rank": 467,
+      "estimate": "80k+",
+      "name": "Supraland Six Inches Under",
+      "releaseDate": "2022-01-14"
+    },
+    "1599340": {
+      "rank": 10,
+      "estimate": "1.5m+",
+      "name": "Lost Ark",
+      "releaseDate": "2022-02-11"
+    },
+    "1643320": {
+      "rank": 2,
+      "estimate": "1.5m+",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "releaseDate": "2024-11-20"
+    },
+    "1841250": {
+      "rank": 1307,
+      "estimate": "25k+",
+      "name": "Hard Times at Sequoia State Park",
+      "releaseDate": "2022-04-25"
+    },
+    "1865960": {
+      "rank": 1124,
+      "estimate": "25k+",
+      "name": "Symphonia",
+      "releaseDate": "2024-12-05"
+    },
+    "1981820": {
+      "rank": 189,
+      "estimate": "200k+",
+      "name": "Strike Force Heroes",
+      "releaseDate": "2023-11-10"
+    },
+    "2071430": {
+      "rank": 745,
+      "estimate": "40k+",
+      "name": "Roots of Yggdrasil",
+      "releaseDate": "2024-09-06"
+    },
+    "2073850": {
+      "rank": 1,
+      "estimate": "4m+",
+      "name": "THE FINALS",
+      "releaseDate": "2023-12-07"
+    },
+    "2114300": {
+      "rank": 2245,
+      "estimate": "7k+",
+      "name": "Chronique des Silencieux",
+      "releaseDate": "2024-01-29"
+    },
+    "2131680": {
+      "rank": 394,
+      "estimate": "80k+",
+      "name": "METAL GEAR & METAL GEAR 2: Solid Snake",
+      "releaseDate": "2023-10-24"
+    },
+    "2149070": {
+      "rank": 1556,
+      "estimate": "15k+",
+      "name": "Cosplay Collection",
+      "releaseDate": "2022-11-10"
+    },
+    "2257010": {
+      "rank": 553,
+      "estimate": "40k+",
+      "name": "Creeper World IXE",
+      "releaseDate": "2024-12-12"
+    },
+    "2373990": {
+      "rank": 2,
+      "estimate": "1.5m+",
+      "name": "Solo Leveling: ARISE OVERDRIVE",
+      "releaseDate": "2025-11-24"
+    },
+    "2933620": {
+      "rank": 33,
+      "estimate": "600k+",
+      "name": "Call of Duty®: Black Ops 6",
+      "releaseDate": "2024-11-01"
+    }
+  }
+}

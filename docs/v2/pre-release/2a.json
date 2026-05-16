@@ -1,1 +1,200 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":32,"entries":{"1501820":{"rank":10,"estimate":"1.5m+","name":"Ziggy's Cosmic Adventures","releaseDate":"2023-11-09"},"1020790":{"rank":86,"estimate":"300k+","name":"NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS","releaseDate":"2023-11-16"},"2682580":{"rank":110,"estimate":"200k+","name":"DUCKSIDE","releaseDate":"2024-09-25"},"1577120":{"rank":122,"estimate":"200k+","name":"The Quarry","releaseDate":"2022-06-09"},"1709880":{"rank":324,"estimate":"80k+","name":"Loco Motive","releaseDate":"2024-11-21"},"1712350":{"rank":352,"estimate":"80k+","name":"Riven","releaseDate":"2024-06-25"},"2343650":{"rank":421,"estimate":"80k+","name":"Waven","releaseDate":"2023-08-16"},"1461810":{"rank":440,"estimate":"80k+","name":"《蜀山：初章》买断版","releaseDate":"2022-11-17"},"1231880":{"rank":452,"estimate":"80k+","name":"Haiku, the Robot","releaseDate":"2022-04-28"},"1490340":{"rank":544,"estimate":"40k+","name":"We Are OFK","releaseDate":"2022-08-18"},"1415220":{"rank":608,"estimate":"40k+","name":"It's Only Money","releaseDate":"2024-10-21"},"1101370":{"rank":677,"estimate":"40k+","name":"Wind Runners","releaseDate":"2026-01-01"},"809060":{"rank":695,"estimate":"40k+","name":"REVEIL","releaseDate":"2024-03-06"},"1897110":{"rank":739,"estimate":"40k+","name":"Edge of Sanity","releaseDate":"2024-09-13"},"2259210":{"rank":743,"estimate":"40k+","name":"Mega City Force","releaseDate":"2023-07-28"},"959880":{"rank":831,"estimate":"40k+","name":"Dungeon Town","releaseDate":"2021-09-24"},"1487630":{"rank":893,"estimate":"40k+","name":"Tracks of Thought","releaseDate":"2024-06-08"},"1732420":{"rank":998,"estimate":"40k+","name":"Spanky!","releaseDate":"2024-04-29"},"1062860":{"rank":1094,"estimate":"25k+","name":"BattleCakes","releaseDate":"2024-03-01"},"1374170":{"rank":1210,"estimate":"25k+","name":"Camp Canyonwood","releaseDate":"2024-02-26"},"2313541":{"rank":1336,"estimate":"25k+","name":"Crusader Kings III: Wards & Wardens","releaseDate":"2023-08-22"},"2159260":{"rank":1634,"estimate":"15k+","name":"Vampire Rancher","releaseDate":"2026-01-01"},"2828160":{"rank":1663,"estimate":"15k+","name":"A Little to the Left: Seeing Stars","releaseDate":"2024-06-25"},"2200410":{"rank":1767,"estimate":"15k+","name":"Tales from Candleforth","releaseDate":"2024-04-30"},"2203590":{"rank":1862,"estimate":"15k+","name":"Tune in to the show","releaseDate":"2025-05-24"},"2058750":{"rank":1945,"estimate":"15k+","name":"Monster Energy Supercross - The Official Videogame 6","releaseDate":"2023-03-09"},"2715910":{"rank":2100,"estimate":"7k+","name":"Astro Hunters VR","releaseDate":"2024-08-08"},"2745670":{"rank":2153,"estimate":"7k+","name":"SCP","releaseDate":"2025-08-01"},"2562550":{"rank":2187,"estimate":"7k+","name":"Mylene and the Lust temple","releaseDate":"2024-02-01"},"2311990":{"rank":2212,"estimate":"7k+","name":"Rack and Slay","releaseDate":"2024-05-27"},"2514630":{"rank":2254,"estimate":"7k+","name":"Marisa of Liartop Mountain","releaseDate":"2025-09-18"},"2753000":{"rank":2945,"estimate":"7k+","name":"GOALS","releaseDate":"2026-01-01"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 32,
+  "entries": {
+    "809060": {
+      "rank": 695,
+      "estimate": "40k+",
+      "name": "REVEIL",
+      "releaseDate": "2024-03-06"
+    },
+    "959880": {
+      "rank": 831,
+      "estimate": "40k+",
+      "name": "Dungeon Town",
+      "releaseDate": "2021-09-24"
+    },
+    "1020790": {
+      "rank": 86,
+      "estimate": "300k+",
+      "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+      "releaseDate": "2023-11-16"
+    },
+    "1062860": {
+      "rank": 1094,
+      "estimate": "25k+",
+      "name": "BattleCakes",
+      "releaseDate": "2024-03-01"
+    },
+    "1101370": {
+      "rank": 677,
+      "estimate": "40k+",
+      "name": "Wind Runners",
+      "releaseDate": "2026-01-01"
+    },
+    "1231880": {
+      "rank": 452,
+      "estimate": "80k+",
+      "name": "Haiku, the Robot",
+      "releaseDate": "2022-04-28"
+    },
+    "1374170": {
+      "rank": 1210,
+      "estimate": "25k+",
+      "name": "Camp Canyonwood",
+      "releaseDate": "2024-02-26"
+    },
+    "1415220": {
+      "rank": 608,
+      "estimate": "40k+",
+      "name": "It's Only Money",
+      "releaseDate": "2024-10-21"
+    },
+    "1461810": {
+      "rank": 440,
+      "estimate": "80k+",
+      "name": "《蜀山：初章》买断版",
+      "releaseDate": "2022-11-17"
+    },
+    "1487630": {
+      "rank": 893,
+      "estimate": "40k+",
+      "name": "Tracks of Thought",
+      "releaseDate": "2024-06-08"
+    },
+    "1490340": {
+      "rank": 544,
+      "estimate": "40k+",
+      "name": "We Are OFK",
+      "releaseDate": "2022-08-18"
+    },
+    "1501820": {
+      "rank": 10,
+      "estimate": "1.5m+",
+      "name": "Ziggy's Cosmic Adventures",
+      "releaseDate": "2023-11-09"
+    },
+    "1577120": {
+      "rank": 122,
+      "estimate": "200k+",
+      "name": "The Quarry",
+      "releaseDate": "2022-06-09"
+    },
+    "1709880": {
+      "rank": 324,
+      "estimate": "80k+",
+      "name": "Loco Motive",
+      "releaseDate": "2024-11-21"
+    },
+    "1712350": {
+      "rank": 352,
+      "estimate": "80k+",
+      "name": "Riven",
+      "releaseDate": "2024-06-25"
+    },
+    "1732420": {
+      "rank": 998,
+      "estimate": "40k+",
+      "name": "Spanky!",
+      "releaseDate": "2024-04-29"
+    },
+    "1897110": {
+      "rank": 739,
+      "estimate": "40k+",
+      "name": "Edge of Sanity",
+      "releaseDate": "2024-09-13"
+    },
+    "2058750": {
+      "rank": 1945,
+      "estimate": "15k+",
+      "name": "Monster Energy Supercross - The Official Videogame 6",
+      "releaseDate": "2023-03-09"
+    },
+    "2159260": {
+      "rank": 1634,
+      "estimate": "15k+",
+      "name": "Vampire Rancher",
+      "releaseDate": "2026-01-01"
+    },
+    "2200410": {
+      "rank": 1767,
+      "estimate": "15k+",
+      "name": "Tales from Candleforth",
+      "releaseDate": "2024-04-30"
+    },
+    "2203590": {
+      "rank": 1862,
+      "estimate": "15k+",
+      "name": "Tune in to the show",
+      "releaseDate": "2025-05-24"
+    },
+    "2259210": {
+      "rank": 743,
+      "estimate": "40k+",
+      "name": "Mega City Force",
+      "releaseDate": "2023-07-28"
+    },
+    "2311990": {
+      "rank": 2212,
+      "estimate": "7k+",
+      "name": "Rack and Slay",
+      "releaseDate": "2024-05-27"
+    },
+    "2313541": {
+      "rank": 1336,
+      "estimate": "25k+",
+      "name": "Crusader Kings III: Wards & Wardens",
+      "releaseDate": "2023-08-22"
+    },
+    "2343650": {
+      "rank": 421,
+      "estimate": "80k+",
+      "name": "Waven",
+      "releaseDate": "2023-08-16"
+    },
+    "2514630": {
+      "rank": 2254,
+      "estimate": "7k+",
+      "name": "Marisa of Liartop Mountain",
+      "releaseDate": "2025-09-18"
+    },
+    "2562550": {
+      "rank": 2187,
+      "estimate": "7k+",
+      "name": "Mylene and the Lust temple",
+      "releaseDate": "2024-02-01"
+    },
+    "2682580": {
+      "rank": 110,
+      "estimate": "200k+",
+      "name": "DUCKSIDE",
+      "releaseDate": "2024-09-25"
+    },
+    "2715910": {
+      "rank": 2100,
+      "estimate": "7k+",
+      "name": "Astro Hunters VR",
+      "releaseDate": "2024-08-08"
+    },
+    "2745670": {
+      "rank": 2153,
+      "estimate": "7k+",
+      "name": "SCP",
+      "releaseDate": "2025-08-01"
+    },
+    "2753000": {
+      "rank": 2945,
+      "estimate": "7k+",
+      "name": "GOALS",
+      "releaseDate": "2026-01-01"
+    },
+    "2828160": {
+      "rank": 1663,
+      "estimate": "15k+",
+      "name": "A Little to the Left: Seeing Stars",
+      "releaseDate": "2024-06-25"
+    }
+  }
+}

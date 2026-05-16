@@ -1,1 +1,140 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":22,"entries":{"1846700":{"rank":7,"estimate":"1.5m+","name":"Witchbrook","releaseDate":"2026-01-01"},"1361210":{"rank":8,"estimate":"1.5m+","name":"Warhammer 40,000: Darktide","releaseDate":"2022-11-30"},"2193540":{"rank":23,"estimate":"600k+","name":"Wizard of Legend 2","releaseDate":"2025-06-12"},"2271930":{"rank":45,"estimate":"600k+","name":"IfSunSets","releaseDate":"2024-11-04"},"3348640":{"rank":46,"estimate":"600k+","name":"TSAREVNA. Age of Tales","releaseDate":"2027-01-01"},"2379780":{"rank":119,"estimate":"200k+","name":"Balatro","releaseDate":"2024-02-20"},"290100":{"rank":249,"estimate":"80k+","name":"Bulwark: Falconeer Chronicles","releaseDate":"2024-03-26"},"1127500":{"rank":272,"estimate":"80k+","name":"Mini Motorways","releaseDate":"2021-07-20"},"2716400":{"rank":368,"estimate":"80k+","name":"The Rise of the Golden Idol","releaseDate":"2024-11-12"},"1430680":{"rank":499,"estimate":"80k+","name":"Clash: Artifacts of Chaos","releaseDate":"2023-03-09"},"1352850":{"rank":706,"estimate":"40k+","name":"Citystate II","releaseDate":"2021-09-23"},"2448020":{"rank":963,"estimate":"40k+","name":"Yooka-Replaylee","releaseDate":"2025-10-09"},"2854740":{"rank":978,"estimate":"40k+","name":"Nunholy","releaseDate":"2025-01-16"},"1806120":{"rank":1005,"estimate":"25k+","name":"Serena: Dark confessions","releaseDate":"2022-03-02"},"1790360":{"rank":1117,"estimate":"25k+","name":"Heist Kitty: Multiplayer Cat Simulator Game","releaseDate":"2023-06-13"},"1482380":{"rank":1137,"estimate":"25k+","name":"Maniac","releaseDate":"2024-03-28"},"1432390":{"rank":1164,"estimate":"25k+","name":"Sonority","releaseDate":"2022-05-25"},"1591220":{"rank":1231,"estimate":"25k+","name":"Tamarak Trail","releaseDate":"2024-02-29"},"2680840":{"rank":1437,"estimate":"25k+","name":"Monster Girl Conquest Records Battle Orc","releaseDate":"2024-05-09"},"2058340":{"rank":1464,"estimate":"25k+","name":"Pine: A Story of Loss","releaseDate":"2024-12-13"},"1063590":{"rank":2209,"estimate":"7k+","name":"Rogue Masters","releaseDate":"2026-01-10"},"2967990":{"rank":2635,"estimate":"7k+","name":"Train Sim World® 5","releaseDate":"2024-09-17"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 22,
+  "entries": {
+    "290100": {
+      "rank": 249,
+      "estimate": "80k+",
+      "name": "Bulwark: Falconeer Chronicles",
+      "releaseDate": "2024-03-26"
+    },
+    "1063590": {
+      "rank": 2209,
+      "estimate": "7k+",
+      "name": "Rogue Masters",
+      "releaseDate": "2026-01-10"
+    },
+    "1127500": {
+      "rank": 272,
+      "estimate": "80k+",
+      "name": "Mini Motorways",
+      "releaseDate": "2021-07-20"
+    },
+    "1352850": {
+      "rank": 706,
+      "estimate": "40k+",
+      "name": "Citystate II",
+      "releaseDate": "2021-09-23"
+    },
+    "1361210": {
+      "rank": 8,
+      "estimate": "1.5m+",
+      "name": "Warhammer 40,000: Darktide",
+      "releaseDate": "2022-11-30"
+    },
+    "1430680": {
+      "rank": 499,
+      "estimate": "80k+",
+      "name": "Clash: Artifacts of Chaos",
+      "releaseDate": "2023-03-09"
+    },
+    "1432390": {
+      "rank": 1164,
+      "estimate": "25k+",
+      "name": "Sonority",
+      "releaseDate": "2022-05-25"
+    },
+    "1482380": {
+      "rank": 1137,
+      "estimate": "25k+",
+      "name": "Maniac",
+      "releaseDate": "2024-03-28"
+    },
+    "1591220": {
+      "rank": 1231,
+      "estimate": "25k+",
+      "name": "Tamarak Trail",
+      "releaseDate": "2024-02-29"
+    },
+    "1790360": {
+      "rank": 1117,
+      "estimate": "25k+",
+      "name": "Heist Kitty: Multiplayer Cat Simulator Game",
+      "releaseDate": "2023-06-13"
+    },
+    "1806120": {
+      "rank": 1005,
+      "estimate": "25k+",
+      "name": "Serena: Dark confessions",
+      "releaseDate": "2022-03-02"
+    },
+    "1846700": {
+      "rank": 7,
+      "estimate": "1.5m+",
+      "name": "Witchbrook",
+      "releaseDate": "2026-01-01"
+    },
+    "2058340": {
+      "rank": 1464,
+      "estimate": "25k+",
+      "name": "Pine: A Story of Loss",
+      "releaseDate": "2024-12-13"
+    },
+    "2193540": {
+      "rank": 23,
+      "estimate": "600k+",
+      "name": "Wizard of Legend 2",
+      "releaseDate": "2025-06-12"
+    },
+    "2271930": {
+      "rank": 45,
+      "estimate": "600k+",
+      "name": "IfSunSets",
+      "releaseDate": "2024-11-04"
+    },
+    "2379780": {
+      "rank": 119,
+      "estimate": "200k+",
+      "name": "Balatro",
+      "releaseDate": "2024-02-20"
+    },
+    "2448020": {
+      "rank": 963,
+      "estimate": "40k+",
+      "name": "Yooka-Replaylee",
+      "releaseDate": "2025-10-09"
+    },
+    "2680840": {
+      "rank": 1437,
+      "estimate": "25k+",
+      "name": "Monster Girl Conquest Records Battle Orc",
+      "releaseDate": "2024-05-09"
+    },
+    "2716400": {
+      "rank": 368,
+      "estimate": "80k+",
+      "name": "The Rise of the Golden Idol",
+      "releaseDate": "2024-11-12"
+    },
+    "2854740": {
+      "rank": 978,
+      "estimate": "40k+",
+      "name": "Nunholy",
+      "releaseDate": "2025-01-16"
+    },
+    "2967990": {
+      "rank": 2635,
+      "estimate": "7k+",
+      "name": "Train Sim World® 5",
+      "releaseDate": "2024-09-17"
+    },
+    "3348640": {
+      "rank": 46,
+      "estimate": "600k+",
+      "name": "TSAREVNA. Age of Tales",
+      "releaseDate": "2027-01-01"
+    }
+  }
+}

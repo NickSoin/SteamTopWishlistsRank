@@ -1,1 +1,152 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":24,"entries":{"1364020":{"rank":20,"estimate":"800k+","name":"Boundary","releaseDate":"2023-04-13"},"692850":{"rank":25,"estimate":"600k+","name":"Bloodstained: Ritual of the Night","releaseDate":"2019-06-18"},"671970":{"rank":44,"estimate":"600k+","name":"Junkyard Simulator","releaseDate":"2021-10-13"},"917720":{"rank":105,"estimate":"200k+","name":"Gamedec - Definitive Edition","releaseDate":"2021-09-16"},"1950450":{"rank":352,"estimate":"80k+","name":"Loop Queen-Escape Dungeon 3","releaseDate":"2024-01-08"},"1397390":{"rank":419,"estimate":"80k+","name":"The Break-In","releaseDate":"2025-05-29"},"1913370":{"rank":672,"estimate":"40k+","name":"OPERATOR","releaseDate":"2023-08-01"},"2322560":{"rank":687,"estimate":"40k+","name":"Love Is All Around","releaseDate":"2023-10-17"},"2100540":{"rank":791,"estimate":"40k+","name":"College Kings 2 - Episode 2 'The Pool Party' Reworked","releaseDate":"2022-11-04"},"1486630":{"rank":1082,"estimate":"25k+","name":"Intravenous","releaseDate":"2021-07-26"},"2015440":{"rank":1109,"estimate":"25k+","name":"The Explorator","releaseDate":"2025-06-07"},"1448760":{"rank":1158,"estimate":"25k+","name":"The Plane Effect","releaseDate":"2021-09-23"},"1913420":{"rank":1352,"estimate":"25k+","name":"Fantasy of Caocao 2","releaseDate":"2023-11-01"},"1509650":{"rank":1361,"estimate":"25k+","name":"I Am Jesus Christ: Prologue","releaseDate":"2022-12-01"},"2291020":{"rank":1590,"estimate":"15k+","name":"ANONYMOUS;CODE","releaseDate":"2023-09-08"},"2223700":{"rank":1594,"estimate":"15k+","name":"Driftwood","releaseDate":"2025-08-01"},"1228360":{"rank":1755,"estimate":"15k+","name":"Megacopter: Blades of the Goddess","releaseDate":"2024-06-21"},"1677100":{"rank":1896,"estimate":"15k+","name":"AiliA","releaseDate":"2026-01-08"},"1476400":{"rank":1992,"estimate":"15k+","name":"Northwind","releaseDate":"2025-09-22"},"2002570":{"rank":2196,"estimate":"7k+","name":"SeaOrama: World of Shipping","releaseDate":"2023-12-14"},"2390060":{"rank":2311,"estimate":"7k+","name":"dEskape","releaseDate":"2023-09-20"},"1782680":{"rank":2479,"estimate":"7k+","name":"Caribbean Legend: Sandbox","releaseDate":"2024-02-13"},"1622630":{"rank":2810,"estimate":"7k+","name":"Otherskin","releaseDate":"2025-09-02"},"690290":{"rank":3081,"estimate":"<7k","name":"Territory Control 2","releaseDate":"2026-02-23"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 24,
+  "entries": {
+    "671970": {
+      "rank": 44,
+      "estimate": "600k+",
+      "name": "Junkyard Simulator",
+      "releaseDate": "2021-10-13"
+    },
+    "690290": {
+      "rank": 3081,
+      "estimate": "<7k",
+      "name": "Territory Control 2",
+      "releaseDate": "2026-02-23"
+    },
+    "692850": {
+      "rank": 25,
+      "estimate": "600k+",
+      "name": "Bloodstained: Ritual of the Night",
+      "releaseDate": "2019-06-18"
+    },
+    "917720": {
+      "rank": 105,
+      "estimate": "200k+",
+      "name": "Gamedec - Definitive Edition",
+      "releaseDate": "2021-09-16"
+    },
+    "1228360": {
+      "rank": 1755,
+      "estimate": "15k+",
+      "name": "Megacopter: Blades of the Goddess",
+      "releaseDate": "2024-06-21"
+    },
+    "1364020": {
+      "rank": 20,
+      "estimate": "800k+",
+      "name": "Boundary",
+      "releaseDate": "2023-04-13"
+    },
+    "1397390": {
+      "rank": 419,
+      "estimate": "80k+",
+      "name": "The Break-In",
+      "releaseDate": "2025-05-29"
+    },
+    "1448760": {
+      "rank": 1158,
+      "estimate": "25k+",
+      "name": "The Plane Effect",
+      "releaseDate": "2021-09-23"
+    },
+    "1476400": {
+      "rank": 1992,
+      "estimate": "15k+",
+      "name": "Northwind",
+      "releaseDate": "2025-09-22"
+    },
+    "1486630": {
+      "rank": 1082,
+      "estimate": "25k+",
+      "name": "Intravenous",
+      "releaseDate": "2021-07-26"
+    },
+    "1509650": {
+      "rank": 1361,
+      "estimate": "25k+",
+      "name": "I Am Jesus Christ: Prologue",
+      "releaseDate": "2022-12-01"
+    },
+    "1622630": {
+      "rank": 2810,
+      "estimate": "7k+",
+      "name": "Otherskin",
+      "releaseDate": "2025-09-02"
+    },
+    "1677100": {
+      "rank": 1896,
+      "estimate": "15k+",
+      "name": "AiliA",
+      "releaseDate": "2026-01-08"
+    },
+    "1782680": {
+      "rank": 2479,
+      "estimate": "7k+",
+      "name": "Caribbean Legend: Sandbox",
+      "releaseDate": "2024-02-13"
+    },
+    "1913370": {
+      "rank": 672,
+      "estimate": "40k+",
+      "name": "OPERATOR",
+      "releaseDate": "2023-08-01"
+    },
+    "1913420": {
+      "rank": 1352,
+      "estimate": "25k+",
+      "name": "Fantasy of Caocao 2",
+      "releaseDate": "2023-11-01"
+    },
+    "1950450": {
+      "rank": 352,
+      "estimate": "80k+",
+      "name": "Loop Queen-Escape Dungeon 3",
+      "releaseDate": "2024-01-08"
+    },
+    "2002570": {
+      "rank": 2196,
+      "estimate": "7k+",
+      "name": "SeaOrama: World of Shipping",
+      "releaseDate": "2023-12-14"
+    },
+    "2015440": {
+      "rank": 1109,
+      "estimate": "25k+",
+      "name": "The Explorator",
+      "releaseDate": "2025-06-07"
+    },
+    "2100540": {
+      "rank": 791,
+      "estimate": "40k+",
+      "name": "College Kings 2 - Episode 2 'The Pool Party' Reworked",
+      "releaseDate": "2022-11-04"
+    },
+    "2223700": {
+      "rank": 1594,
+      "estimate": "15k+",
+      "name": "Driftwood",
+      "releaseDate": "2025-08-01"
+    },
+    "2291020": {
+      "rank": 1590,
+      "estimate": "15k+",
+      "name": "ANONYMOUS;CODE",
+      "releaseDate": "2023-09-08"
+    },
+    "2322560": {
+      "rank": 687,
+      "estimate": "40k+",
+      "name": "Love Is All Around",
+      "releaseDate": "2023-10-17"
+    },
+    "2390060": {
+      "rank": 2311,
+      "estimate": "7k+",
+      "name": "dEskape",
+      "releaseDate": "2023-09-20"
+    }
+  }
+}

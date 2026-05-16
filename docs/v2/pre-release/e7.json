@@ -1,1 +1,152 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":24,"entries":{"3159330":{"rank":22,"estimate":"600k+","name":"Assassin’s Creed Shadows","releaseDate":"2025-03-19"},"2779120":{"rank":26,"estimate":"600k+","name":"Modulus: Factory Automation","releaseDate":"2026-04-02"},"429380":{"rank":36,"estimate":"600k+","name":"Space Mechanic Simulator","releaseDate":"2023-08-11"},"1549250":{"rank":37,"estimate":"600k+","name":"UNDECEMBER: The Forge","releaseDate":"2022-10-11"},"2195410":{"rank":39,"estimate":"600k+","name":"Songs of Silence","releaseDate":"2024-11-13"},"2001760":{"rank":42,"estimate":"600k+","name":"Beast of Reincarnation","releaseDate":"2026-08-03"},"2272900":{"rank":44,"estimate":"600k+","name":"Mirthwood","releaseDate":"2024-11-06"},"2130460":{"rank":188,"estimate":"200k+","name":"FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse","releaseDate":"2023-03-08"},"817020":{"rank":279,"estimate":"80k+","name":"Unholy","releaseDate":"2023-07-20"},"1121780":{"rank":320,"estimate":"80k+","name":"Astria Ascending","releaseDate":"2021-09-30"},"1973530":{"rank":344,"estimate":"80k+","name":"Limbus Company","releaseDate":"2023-02-26"},"1072400":{"rank":378,"estimate":"80k+","name":"Outrider Mako","releaseDate":"2025-06-22"},"1061880":{"rank":381,"estimate":"80k+","name":"Conan Chop Chop","releaseDate":"2022-03-01"},"1904860":{"rank":490,"estimate":"80k+","name":"Legends of Kingdom Rush","releaseDate":"2022-07-14"},"2287430":{"rank":506,"estimate":"40k+","name":"Metropolis 1998","releaseDate":"2026-01-01"},"2116060":{"rank":573,"estimate":"40k+","name":"Epic Auto Towers","releaseDate":"2024-11-14"},"2124780":{"rank":593,"estimate":"40k+","name":"Endoparasitic","releaseDate":"2022-10-24"},"1520840":{"rank":619,"estimate":"40k+","name":"Ms. Han's After-School Tutoring","releaseDate":"2021-08-19"},"1472930":{"rank":658,"estimate":"40k+","name":"Flock","releaseDate":"2024-07-16"},"2393920":{"rank":1000,"estimate":"40k+","name":"Angeline Era","releaseDate":"2025-12-08"},"1995880":{"rank":1082,"estimate":"25k+","name":"Afterdream","releaseDate":"2023-09-28"},"1492730":{"rank":1148,"estimate":"25k+","name":"DORAEMON STORY OF SEASONS: Friends of the Great Kingdom","releaseDate":"2022-11-01"},"2181950":{"rank":2137,"estimate":"7k+","name":"Zero Division","releaseDate":"2024-07-11"},"1778050":{"rank":2597,"estimate":"7k+","name":"Mythmatch","releaseDate":"2026-03-13"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 24,
+  "entries": {
+    "429380": {
+      "rank": 36,
+      "estimate": "600k+",
+      "name": "Space Mechanic Simulator",
+      "releaseDate": "2023-08-11"
+    },
+    "817020": {
+      "rank": 279,
+      "estimate": "80k+",
+      "name": "Unholy",
+      "releaseDate": "2023-07-20"
+    },
+    "1061880": {
+      "rank": 381,
+      "estimate": "80k+",
+      "name": "Conan Chop Chop",
+      "releaseDate": "2022-03-01"
+    },
+    "1072400": {
+      "rank": 378,
+      "estimate": "80k+",
+      "name": "Outrider Mako",
+      "releaseDate": "2025-06-22"
+    },
+    "1121780": {
+      "rank": 320,
+      "estimate": "80k+",
+      "name": "Astria Ascending",
+      "releaseDate": "2021-09-30"
+    },
+    "1472930": {
+      "rank": 658,
+      "estimate": "40k+",
+      "name": "Flock",
+      "releaseDate": "2024-07-16"
+    },
+    "1492730": {
+      "rank": 1148,
+      "estimate": "25k+",
+      "name": "DORAEMON STORY OF SEASONS: Friends of the Great Kingdom",
+      "releaseDate": "2022-11-01"
+    },
+    "1520840": {
+      "rank": 619,
+      "estimate": "40k+",
+      "name": "Ms. Han's After-School Tutoring",
+      "releaseDate": "2021-08-19"
+    },
+    "1549250": {
+      "rank": 37,
+      "estimate": "600k+",
+      "name": "UNDECEMBER: The Forge",
+      "releaseDate": "2022-10-11"
+    },
+    "1778050": {
+      "rank": 2597,
+      "estimate": "7k+",
+      "name": "Mythmatch",
+      "releaseDate": "2026-03-13"
+    },
+    "1904860": {
+      "rank": 490,
+      "estimate": "80k+",
+      "name": "Legends of Kingdom Rush",
+      "releaseDate": "2022-07-14"
+    },
+    "1973530": {
+      "rank": 344,
+      "estimate": "80k+",
+      "name": "Limbus Company",
+      "releaseDate": "2023-02-26"
+    },
+    "1995880": {
+      "rank": 1082,
+      "estimate": "25k+",
+      "name": "Afterdream",
+      "releaseDate": "2023-09-28"
+    },
+    "2001760": {
+      "rank": 42,
+      "estimate": "600k+",
+      "name": "Beast of Reincarnation",
+      "releaseDate": "2026-08-03"
+    },
+    "2116060": {
+      "rank": 573,
+      "estimate": "40k+",
+      "name": "Epic Auto Towers",
+      "releaseDate": "2024-11-14"
+    },
+    "2124780": {
+      "rank": 593,
+      "estimate": "40k+",
+      "name": "Endoparasitic",
+      "releaseDate": "2022-10-24"
+    },
+    "2130460": {
+      "rank": 188,
+      "estimate": "200k+",
+      "name": "FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse",
+      "releaseDate": "2023-03-08"
+    },
+    "2181950": {
+      "rank": 2137,
+      "estimate": "7k+",
+      "name": "Zero Division",
+      "releaseDate": "2024-07-11"
+    },
+    "2195410": {
+      "rank": 39,
+      "estimate": "600k+",
+      "name": "Songs of Silence",
+      "releaseDate": "2024-11-13"
+    },
+    "2272900": {
+      "rank": 44,
+      "estimate": "600k+",
+      "name": "Mirthwood",
+      "releaseDate": "2024-11-06"
+    },
+    "2287430": {
+      "rank": 506,
+      "estimate": "40k+",
+      "name": "Metropolis 1998",
+      "releaseDate": "2026-01-01"
+    },
+    "2393920": {
+      "rank": 1000,
+      "estimate": "40k+",
+      "name": "Angeline Era",
+      "releaseDate": "2025-12-08"
+    },
+    "2779120": {
+      "rank": 26,
+      "estimate": "600k+",
+      "name": "Modulus: Factory Automation",
+      "releaseDate": "2026-04-02"
+    },
+    "3159330": {
+      "rank": 22,
+      "estimate": "600k+",
+      "name": "Assassin’s Creed Shadows",
+      "releaseDate": "2025-03-19"
+    }
+  }
+}

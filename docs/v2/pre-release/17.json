@@ -1,1 +1,146 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-16T16:06:49.000Z","entryCount":23,"entries":{"952060":{"rank":9,"estimate":"1.5m+","name":"Resident Evil 3","releaseDate":"2020-04-02"},"1351240":{"rank":23,"estimate":"600k+","name":"Taxi Life: A City Driving Simulator","releaseDate":"2024-03-07"},"2163330":{"rank":217,"estimate":"80k+","name":"Yet Another Zombie Survivors","releaseDate":"2023-07-13"},"1714900":{"rank":229,"estimate":"80k+","name":"First Dwarf","releaseDate":"2024-06-19"},"2089980":{"rank":250,"estimate":"80k+","name":"Extremely Powerful Capybaras","releaseDate":"2023-12-05"},"1451810":{"rank":253,"estimate":"80k+","name":"LEGO® 2K Drive","releaseDate":"2023-05-18"},"950620":{"rank":254,"estimate":"80k+","name":"Priest Simulator: Vampire Show","releaseDate":"2024-12-05"},"1614550":{"rank":308,"estimate":"80k+","name":"Astro Colony","releaseDate":"2022-11-07"},"2637990":{"rank":414,"estimate":"80k+","name":"Duck Detective: The Secret Salami","releaseDate":"2024-05-23"},"2194530":{"rank":532,"estimate":"40k+","name":"Yog-Sothoth’s Yard","releaseDate":"2023-10-19"},"2161440":{"rank":567,"estimate":"40k+","name":"Sailing Era","releaseDate":"2023-01-11"},"2506160":{"rank":894,"estimate":"40k+","name":"Fears to Fathom - Ironbark Lookout","releaseDate":"2023-10-20"},"2769240":{"rank":1020,"estimate":"25k+","name":"Wax Heads","releaseDate":"2026-05-05"},"2267960":{"rank":1062,"estimate":"25k+","name":"College Kings 2 - Episode 3 'Back To Basics'","releaseDate":"2023-03-24"},"1671740":{"rank":1099,"estimate":"25k+","name":"Two Falls (Nishu Takuatshina)","releaseDate":"2024-11-08"},"2008510":{"rank":1150,"estimate":"25k+","name":"Go Mecha Ball","releaseDate":"2024-01-25"},"1992290":{"rank":1340,"estimate":"25k+","name":"Cities: Skylines - Content Creator Pack: Mid-Century Modern","releaseDate":"2022-09-14"},"1603420":{"rank":1380,"estimate":"25k+","name":"Doomsday Paradise","releaseDate":"2023-11-08"},"1951220":{"rank":1443,"estimate":"25k+","name":"道衍诀","releaseDate":"2024-05-08"},"2298690":{"rank":2055,"estimate":"7k+","name":"Realpolitiks 3: Earth and Beyond","releaseDate":"2025-04-24"},"2954880":{"rank":2331,"estimate":"7k+","name":"VR-Kanojo","releaseDate":"2025-07-30"},"2877660":{"rank":2556,"estimate":"7k+","name":"Jitter","releaseDate":"2025-11-06"},"2660460":{"rank":3145,"estimate":"<7k","name":"Aviassembly","releaseDate":"2025-04-11"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-16T16:32:52.669Z",
+  "entryCount": 23,
+  "entries": {
+    "950620": {
+      "rank": 254,
+      "estimate": "80k+",
+      "name": "Priest Simulator: Vampire Show",
+      "releaseDate": "2024-12-05"
+    },
+    "952060": {
+      "rank": 9,
+      "estimate": "1.5m+",
+      "name": "Resident Evil 3",
+      "releaseDate": "2020-04-02"
+    },
+    "1351240": {
+      "rank": 23,
+      "estimate": "600k+",
+      "name": "Taxi Life: A City Driving Simulator",
+      "releaseDate": "2024-03-07"
+    },
+    "1451810": {
+      "rank": 253,
+      "estimate": "80k+",
+      "name": "LEGO® 2K Drive",
+      "releaseDate": "2023-05-18"
+    },
+    "1603420": {
+      "rank": 1380,
+      "estimate": "25k+",
+      "name": "Doomsday Paradise",
+      "releaseDate": "2023-11-08"
+    },
+    "1614550": {
+      "rank": 308,
+      "estimate": "80k+",
+      "name": "Astro Colony",
+      "releaseDate": "2022-11-07"
+    },
+    "1671740": {
+      "rank": 1099,
+      "estimate": "25k+",
+      "name": "Two Falls (Nishu Takuatshina)",
+      "releaseDate": "2024-11-08"
+    },
+    "1714900": {
+      "rank": 229,
+      "estimate": "80k+",
+      "name": "First Dwarf",
+      "releaseDate": "2024-06-19"
+    },
+    "1951220": {
+      "rank": 1443,
+      "estimate": "25k+",
+      "name": "道衍诀",
+      "releaseDate": "2024-05-08"
+    },
+    "1992290": {
+      "rank": 1340,
+      "estimate": "25k+",
+      "name": "Cities: Skylines - Content Creator Pack: Mid-Century Modern",
+      "releaseDate": "2022-09-14"
+    },
+    "2008510": {
+      "rank": 1150,
+      "estimate": "25k+",
+      "name": "Go Mecha Ball",
+      "releaseDate": "2024-01-25"
+    },
+    "2089980": {
+      "rank": 250,
+      "estimate": "80k+",
+      "name": "Extremely Powerful Capybaras",
+      "releaseDate": "2023-12-05"
+    },
+    "2161440": {
+      "rank": 567,
+      "estimate": "40k+",
+      "name": "Sailing Era",
+      "releaseDate": "2023-01-11"
+    },
+    "2163330": {
+      "rank": 217,
+      "estimate": "80k+",
+      "name": "Yet Another Zombie Survivors",
+      "releaseDate": "2023-07-13"
+    },
+    "2194530": {
+      "rank": 532,
+      "estimate": "40k+",
+      "name": "Yog-Sothoth’s Yard",
+      "releaseDate": "2023-10-19"
+    },
+    "2267960": {
+      "rank": 1062,
+      "estimate": "25k+",
+      "name": "College Kings 2 - Episode 3 'Back To Basics'",
+      "releaseDate": "2023-03-24"
+    },
+    "2298690": {
+      "rank": 2055,
+      "estimate": "7k+",
+      "name": "Realpolitiks 3: Earth and Beyond",
+      "releaseDate": "2025-04-24"
+    },
+    "2506160": {
+      "rank": 894,
+      "estimate": "40k+",
+      "name": "Fears to Fathom - Ironbark Lookout",
+      "releaseDate": "2023-10-20"
+    },
+    "2637990": {
+      "rank": 414,
+      "estimate": "80k+",
+      "name": "Duck Detective: The Secret Salami",
+      "releaseDate": "2024-05-23"
+    },
+    "2660460": {
+      "rank": 3145,
+      "estimate": "<7k",
+      "name": "Aviassembly",
+      "releaseDate": "2025-04-11"
+    },
+    "2769240": {
+      "rank": 1020,
+      "estimate": "25k+",
+      "name": "Wax Heads",
+      "releaseDate": "2026-05-05"
+    },
+    "2877660": {
+      "rank": 2556,
+      "estimate": "7k+",
+      "name": "Jitter",
+      "releaseDate": "2025-11-06"
+    },
+    "2954880": {
+      "rank": 2331,
+      "estimate": "7k+",
+      "name": "VR-Kanojo",
+      "releaseDate": "2025-07-30"
+    }
+  }
+}
