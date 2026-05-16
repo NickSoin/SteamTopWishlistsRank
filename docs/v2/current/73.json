@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-16T04:04:20.569Z",
-  "entryCount": 18,
+  "updatedAt": "2026-05-16T08:20:24.353Z",
+  "entryCount": 19,
   "entries": {
     "649560": {
       "rank": 2481,
@@ -15,7 +15,7 @@
       "name": "WRAITH OPS"
     },
     "1355680": {
-      "rank": 4392,
+      "rank": 4396,
       "estimate": "<7k",
       "name": "Ardent Seas"
     },
@@ -35,12 +35,12 @@
       "name": "Looking For Fael"
     },
     "2615420": {
-      "rank": 1804,
+      "rank": 1806,
       "estimate": "15k+",
       "name": "Portal: Ambition"
     },
     "2713380": {
-      "rank": 962,
+      "rank": 963,
       "estimate": "40k+",
       "name": "Shadows of Chroma Tower"
     },
@@ -54,13 +54,18 @@
       "estimate": "<7k",
       "name": "Rolus in the Outskirts"
     },
+    "3009440": {
+      "rank": 4605,
+      "estimate": "<7k",
+      "name": "Dungeon Baller"
+    },
     "3636930": {
       "rank": 1145,
       "estimate": "25k+",
       "name": "Professional Ship Simulator"
     },
     "3690260": {
-      "rank": 2857,
+      "rank": 2811,
       "estimate": "7k+",
       "name": "Girls' Dorm -Managing an all-girls' dormitory-"
     },
@@ -80,7 +85,7 @@
       "name": "P.O.N."
     },
     "4098030": {
-      "rank": 4100,
+      "rank": 4099,
       "estimate": "<7k",
       "name": "Shipping Store Simulator 2037"
     },

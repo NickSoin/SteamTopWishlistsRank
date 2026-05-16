@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-16T04:04:20.569Z",
+  "updatedAt": "2026-05-16T08:20:24.353Z",
   "entryCount": 19,
   "entries": {
     "971700": {
-      "rank": 1062,
+      "rank": 1063,
       "estimate": "25k+",
       "name": "ALARA Prime"
     },
@@ -20,7 +20,7 @@
       "name": "Aftermath"
     },
     "1996090": {
-      "rank": 983,
+      "rank": 984,
       "estimate": "40k+",
       "name": "Vapor World: Over The Mind"
     },
@@ -30,7 +30,7 @@
       "name": "STAR WARS Zero Company™"
     },
     "2078410": {
-      "rank": 4340,
+      "rank": 4341,
       "estimate": "<7k",
       "name": "Space Trucker"
     },
@@ -45,12 +45,12 @@
       "name": "Keep Those Bugs Away From the Bomb"
     },
     "2658740": {
-      "rank": 4337,
+      "rank": 4339,
       "estimate": "<7k",
       "name": "Island of Mine"
     },
     "2809120": {
-      "rank": 3724,
+      "rank": 3725,
       "estimate": "<7k",
       "name": "Red Snow"
     },
@@ -60,32 +60,32 @@
       "name": "Gang of Frogs"
     },
     "3100420": {
-      "rank": 4009,
+      "rank": 4007,
       "estimate": "<7k",
       "name": "The Fractured Shimmer"
     },
     "3144060": {
-      "rank": 2257,
+      "rank": 2258,
       "estimate": "7k+",
       "name": "World of the dead"
     },
     "3595710": {
-      "rank": 2963,
+      "rank": 2965,
       "estimate": "7k+",
       "name": "SCOPECREEP"
     },
     "3603020": {
-      "rank": 4275,
+      "rank": 4276,
       "estimate": "<7k",
       "name": "Auto Legends"
     },
     "3839250": {
-      "rank": 4349,
+      "rank": 4350,
       "estimate": "<7k",
       "name": "Soulforge Lost Path"
     },
     "4349170": {
-      "rank": 2829,
+      "rank": 2831,
       "estimate": "7k+",
       "name": "Virus Lab"
     },
@@ -95,8 +95,8 @@
       "name": "MOOSA: Dirty Fate"
     },
     "4623300": {
-      "rank": 3084,
-      "estimate": "<7k",
+      "rank": 2964,
+      "estimate": "7k+",
       "name": "Open Waters"
     }
   }
