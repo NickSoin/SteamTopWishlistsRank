@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-16T16:41:50.173Z",
+  "updatedAt": "2026-05-16T19:18:36.804Z",
   "entryCount": 27,
   "entries": {
     "1896310": {
@@ -15,7 +15,7 @@
       "name": "Light Odyssey"
     },
     "2223980": {
-      "rank": 898,
+      "rank": 897,
       "estimate": "40k+",
       "name": "Nomad Drive"
     },
@@ -30,7 +30,7 @@
       "name": "We Were Here Tomorrow"
     },
     "2324410": {
-      "rank": 1876,
+      "rank": 1877,
       "estimate": "15k+",
       "name": "Summerhill"
     },
@@ -45,7 +45,7 @@
       "name": "Breathedge 2"
     },
     "2649320": {
-      "rank": 2767,
+      "rank": 2768,
       "estimate": "7k+",
       "name": "Shuffle Waifu Cafe"
     },
@@ -60,7 +60,7 @@
       "name": "Shot One Fighters"
     },
     "3179370": {
-      "rank": 2030,
+      "rank": 2031,
       "estimate": "7k+",
       "name": "Ephemeris"
     },
@@ -70,12 +70,12 @@
       "name": "Hobby Horse"
     },
     "3254200": {
-      "rank": 2827,
+      "rank": 2828,
       "estimate": "7k+",
       "name": "Xerxes Shadow"
     },
     "3260830": {
-      "rank": 2779,
+      "rank": 2781,
       "estimate": "7k+",
       "name": "A Tiny Wander"
     },
@@ -90,17 +90,17 @@
       "name": "Withering Realms"
     },
     "3561740": {
-      "rank": 3384,
+      "rank": 3385,
       "estimate": "<7k",
       "name": "Detective Sherlock: Shadow Stalker"
     },
     "3714430": {
-      "rank": 3510,
+      "rank": 3511,
       "estimate": "<7k",
       "name": "SURANGAMA"
     },
     "3715770": {
-      "rank": 1877,
+      "rank": 1872,
       "estimate": "15k+",
       "name": "Oh! Robot: Legendary Mechanic"
     },
@@ -120,23 +120,23 @@
       "name": "Psych Rift"
     },
     "4137270": {
-      "rank": 2248,
+      "rank": 2251,
       "estimate": "7k+",
       "name": "RV"
     },
     "4138590": {
-      "rank": 4124,
+      "rank": 4098,
       "estimate": "<7k",
       "name": "Gospel of Steel"
     },
     "4380740": {
-      "rank": 2262,
+      "rank": 2258,
       "estimate": "7k+",
       "name": "Butcher Shop Simulator"
     },
     "4421670": {
-      "rank": 3050,
-      "estimate": "<7k",
+      "rank": 3000,
+      "estimate": "7k+",
       "name": "The Kingsward"
     }
   }
