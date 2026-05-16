@@ -6,7 +6,6 @@
 
   const appId = appIdMatch[1];
   const mode = isReleasedPage() ? "preRelease" : "current";
-  const rowLabel = mode === "preRelease" ? "Pre-Release Top Wish:" : "Top Wishlisted:";
   const ERROR_RETRY_MS = 30000;
   let retryTimer = null;
   let hasFinalResult = false;
@@ -74,7 +73,7 @@
 
   function renderStatusRow(message, title, isSteamDbLink) {
     waitForSteamDetails((target) => {
-      const row = buildShellRow();
+      const row = buildShellRow(null);
       const value = row.querySelector(".steamdb-wishlist-rank-value");
       const element = isSteamDbLink ? document.createElement("a") : document.createElement("span");
 
@@ -99,7 +98,7 @@
   }
 
   function buildRow(entry, response) {
-    const row = buildShellRow();
+    const row = buildShellRow(entry);
     const value = row.querySelector(".steamdb-wishlist-rank-value");
     const estimate =
       entry.estimate || globalThis.SteamWishlistRankShared?.estimateWishlists(entry.rank);
@@ -133,14 +132,20 @@
     return row;
   }
 
-  function buildShellRow() {
+  function getRowLabel(entry) {
+    if (mode === "current") return "Top Wishlisted:";
+    if (entry?.source === "tracked") return "On-Release Top Wish:";
+    return "Peak TopWish tracked:";
+  }
+
+  function buildShellRow(entry) {
     const row = document.createElement("div");
     row.className = "dev_row steamdb-wishlist-rank-row";
     row.dataset.appId = appId;
 
     const label = document.createElement("div");
     label.className = "subtitle column";
-    label.textContent = rowLabel;
+    label.textContent = getRowLabel(entry);
 
     const value = document.createElement("div");
     value.className = "summary column steamdb-wishlist-rank-value";

@@ -223,7 +223,8 @@ async function writeV2Artifacts({ ledger, currentEntries, outputDir, updatedAt, 
       rank: entry.preRelease.rank,
       estimate: entry.preRelease.estimate || shared.estimateWishlists(entry.preRelease.rank),
       name: entry.name || null,
-      releaseDate: entry.releaseDate || null
+      releaseDate: entry.releaseDate || null,
+      source: "tracked"
     };
     preReleaseEntryCount += 1;
   }

@@ -66,12 +66,22 @@
       .replace(/\s+/g, " ")
       .trim();
 
-    const match = text.match(/^(\d{1,2})\s+([A-Za-z]+),\s+(\d{4})$/);
-    if (!match) return null;
+    // "23 Aug, 2018" — day-first format (Steam search page HTML)
+    const dayFirst = text.match(/^(\d{1,2})\s+([A-Za-z]+),?\s+(\d{4})$/);
+    if (dayFirst) {
+      return buildIsoDate(Number(dayFirst[1]), monthNameToNumber(dayFirst[2]), Number(dayFirst[3]));
+    }
 
-    const day = Number(match[1]);
-    const month = monthNameToNumber(match[2]);
-    const year = Number(match[3]);
+    // "Nov 20, 2024" — month-first format (Steam appdetails API)
+    const monthFirst = text.match(/^([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4})$/);
+    if (monthFirst) {
+      return buildIsoDate(Number(monthFirst[2]), monthNameToNumber(monthFirst[1]), Number(monthFirst[3]));
+    }
+
+    return null;
+  }
+
+  function buildIsoDate(day, month, year) {
     if (!month || !Number.isInteger(day) || day < 1 || day > 31) return null;
 
     const date = new Date(Date.UTC(year, month - 1, day));
