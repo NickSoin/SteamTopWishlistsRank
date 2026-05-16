@@ -25,6 +25,7 @@ function renderMeta(meta) {
   const updatedAtEl = document.getElementById("updated-at");
   const currentEntryCountEl = document.getElementById("current-entry-count");
   const releasedEntryCountEl = document.getElementById("released-entry-count");
+  const prereleaseEntryCountEl = document.getElementById("prerelease-entry-count");
   const trackingSinceEl = document.getElementById("tracking-since");
   const staleEl = document.getElementById("stale-notice");
 
@@ -32,6 +33,7 @@ function renderMeta(meta) {
   updatedAtEl.textContent = updatedAt ? formatDate(updatedAt) : EMPTY_VALUE;
   currentEntryCountEl.textContent = formatCount(meta.current?.entryCount);
   releasedEntryCountEl.textContent = formatCount(meta.released?.entryCount);
+  prereleaseEntryCountEl.textContent = formatCount(meta.preRelease?.entryCount);
   trackingSinceEl.textContent = meta.trackingSince ? formatTrackingDate(meta.trackingSince) : EMPTY_VALUE;
 
   if (meta.stale) staleEl.style.display = "block";
@@ -41,6 +43,7 @@ function renderUnavailable() {
   document.getElementById("updated-at").textContent = EMPTY_VALUE;
   document.getElementById("current-entry-count").textContent = EMPTY_VALUE;
   document.getElementById("released-entry-count").textContent = EMPTY_VALUE;
+  document.getElementById("prerelease-entry-count").textContent = EMPTY_VALUE;
   document.getElementById("tracking-since").textContent = EMPTY_VALUE;
 }
 
