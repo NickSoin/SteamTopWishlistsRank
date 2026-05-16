@@ -100,36 +100,83 @@
   function buildRow(entry, response) {
     const row = buildShellRow(entry);
     const value = row.querySelector(".steamdb-wishlist-rank-value");
-    const estimate =
-      entry.estimate || globalThis.SteamWishlistRankShared?.estimateWishlists(entry.rank);
 
-    const link = document.createElement("a");
-    link.href = "https://store.steampowered.com/search/?filter=popularwishlist&ignore_preferences=1";
-    link.target = "_blank";
-    link.rel = "noreferrer";
-    link.title = buildTooltip(entry, response);
+    // Rank number → links to Steam Popular Wishlisted
+    const rankLink = document.createElement("a");
+    rankLink.href = "https://store.steampowered.com/search/?filter=popularwishlist&ignore_preferences=1";
+    rankLink.target = "_blank";
+    rankLink.rel = "noreferrer";
+    rankLink.title = buildTooltip(entry, response);
+    rankLink.textContent = `#${formatRankForDisplay(entry.rank)}`;
+    value.append(rankLink);
 
-    const rankSpan = document.createElement("span");
-    rankSpan.textContent = `#${formatRankForDisplay(entry.rank)}`;
-    link.append(rankSpan);
+    // Wishlist count: confirmed (with source link) or estimated
+    const wishlistEl = buildWishlistDisplay(entry);
+    if (wishlistEl) {
+      value.append(document.createTextNode(" "));
+      value.append(wishlistEl);
+    }
 
-    if (estimate) {
-      link.append(document.createTextNode(" ("));
+    return row;
+  }
 
-      const estimateSpan = document.createElement("span");
-      estimateSpan.className = "steamdb-wishlist-estimate";
-      estimateSpan.textContent = estimate;
-      link.append(estimateSpan);
+  function buildWishlistDisplay(entry) {
+    const wrapper = document.createElement("span");
+
+    if (entry.actualWishlists) {
+      // Confirmed count from developer announcement
+      wrapper.append(document.createTextNode("("));
+
+      const countEl = entry.wishlistUrl
+        ? document.createElement("a")
+        : document.createElement("span");
+      countEl.className = "steamdb-wishlist-estimate";
+      countEl.textContent = formatWishlists(entry.actualWishlists);
+      if (entry.wishlistUrl) {
+        countEl.href = entry.wishlistUrl;
+        countEl.target = "_blank";
+        countEl.rel = "noreferrer";
+        countEl.title = "View developer announcement";
+      }
+      wrapper.append(countEl);
 
       const suffix = document.createElement("span");
       suffix.className = "steamdb-wishlist-muted";
       suffix.textContent = " wishlists)";
-      link.append(suffix);
+      wrapper.append(suffix);
+
+    } else {
+      // Band-based estimate — velocity rank, not total count
+      const estimate = entry.estimate || globalThis.SteamWishlistRankShared?.estimateWishlists(entry.rank);
+      if (!estimate) return null;
+
+      wrapper.append(document.createTextNode("("));
+
+      const estSpan = document.createElement("span");
+      estSpan.className = "steamdb-wishlist-estimate";
+      estSpan.textContent = estimate;
+      wrapper.append(estSpan);
+
+      const suffix = document.createElement("span");
+      suffix.className = "steamdb-wishlist-muted";
+      suffix.textContent = " wishlists, estimated)";
+      wrapper.append(suffix);
     }
 
-    value.append(link);
+    return wrapper;
+  }
 
-    return row;
+  function formatWishlists(count) {
+    const n = Number(count);
+    if (!n) return null;
+    if (n >= 1_000_000) {
+      const m = n / 1_000_000;
+      return `~${m % 1 === 0 ? m : m.toFixed(1)}m`;
+    }
+    if (n >= 1_000) {
+      return `~${Math.round(n / 1_000)}k`;
+    }
+    return `~${n}`;
   }
 
   function getRowLabel(entry) {
@@ -155,16 +202,22 @@
   }
 
   function buildTooltip(entry, response) {
-    const estimate =
-      entry.estimate || globalThis.SteamWishlistRankShared?.estimateWishlists(entry.rank);
     const parts = [
       mode === "preRelease"
         ? `Pre-release Steam Popular Wishlisted rank #${formatRank(entry.rank)}.`
-        : `Steam Popular Wishlisted rank #${formatRank(entry.rank)}.`,
-      estimate
-        ? `Wishlist count estimate: ${estimate}.`
-        : "Wishlist count estimate is not available for this rank."
+        : `Steam Popular Wishlisted rank #${formatRank(entry.rank)}.`
     ];
+
+    if (entry.actualWishlists) {
+      parts.push(`Confirmed wishlists: ${formatWishlists(entry.actualWishlists)} (developer announcement).`);
+    } else {
+      const estimate = entry.estimate || globalThis.SteamWishlistRankShared?.estimateWishlists(entry.rank);
+      parts.push(
+        estimate
+          ? `Wishlist count estimate: ${estimate} (based on velocity rank, may differ from total count).`
+          : "Wishlist count estimate not available."
+      );
+    }
 
     if (entry.name) {
       parts.unshift(entry.name);

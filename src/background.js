@@ -197,7 +197,9 @@ function normalizeEntry(appId, entry) {
     estimate: entry.estimate || SteamWishlistRankShared.estimateWishlists(rank),
     name: entry.name || null,
     releaseDate: entry.releaseDate || null,
-    source: entry.source || "hosted_v2_shard"
+    source: entry.source || "hosted_v2_shard",
+    actualWishlists: Number(entry.actualWishlists) || null,
+    wishlistUrl: entry.wishlistUrl || null
   };
 }
 
