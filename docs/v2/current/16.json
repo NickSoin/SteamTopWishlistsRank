@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-15T19:55:24.405Z",
+  "updatedAt": "2026-05-16T04:04:20.569Z",
   "entryCount": 18,
   "entries": {
     "904510": {
-      "rank": 1207,
+      "rank": 1206,
       "estimate": "25k+",
       "name": "ARTIFICIAL"
     },
@@ -15,17 +15,17 @@
       "name": "Bad Pixels"
     },
     "1271440": {
-      "rank": 2545,
+      "rank": 2544,
       "estimate": "7k+",
       "name": "HP Reverb G2"
     },
     "1418380": {
-      "rank": 3012,
+      "rank": 3015,
       "estimate": "<7k",
       "name": "Forester Simulator"
     },
     "1707680": {
-      "rank": 942,
+      "rank": 943,
       "estimate": "40k+",
       "name": "Referee Simulator"
     },
@@ -45,32 +45,32 @@
       "name": "Stormbinders"
     },
     "2229910": {
-      "rank": 1977,
+      "rank": 1979,
       "estimate": "15k+",
       "name": "Demiurgos"
     },
     "2538870": {
-      "rank": 1648,
+      "rank": 1644,
       "estimate": "15k+",
       "name": "False Hero"
     },
     "3279330": {
-      "rank": 3212,
+      "rank": 3210,
       "estimate": "<7k",
       "name": "Home Wars: Battlefield"
     },
     "3398880": {
-      "rank": 2705,
+      "rank": 2704,
       "estimate": "7k+",
       "name": "Castle V Castle"
     },
     "3570350": {
-      "rank": 4134,
+      "rank": 4133,
       "estimate": "<7k",
       "name": "Silkgrove"
     },
     "3582320": {
-      "rank": 4198,
+      "rank": 4196,
       "estimate": "<7k",
       "name": "Inazuma Eleven Team Builder"
     },
@@ -80,7 +80,7 @@
       "name": "Table Tactics: physics-driven tabletop battles"
     },
     "3746560": {
-      "rank": 1262,
+      "rank": 1261,
       "estimate": "25k+",
       "name": "Ethernia"
     },

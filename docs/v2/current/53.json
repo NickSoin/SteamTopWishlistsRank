@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-15T19:55:24.405Z",
-  "entryCount": 17,
+  "updatedAt": "2026-05-16T04:04:20.569Z",
+  "entryCount": 18,
   "entries": {
     "611820": {
-      "rank": 4417,
+      "rank": 4420,
       "estimate": "<7k",
       "name": "Xenosis: Alien Infection"
     },
     "1478730": {
-      "rank": 1745,
+      "rank": 1744,
       "estimate": "15k+",
       "name": "Tune My Car"
     },
@@ -20,7 +20,7 @@
       "name": "Undead Development 2"
     },
     "1619870": {
-      "rank": 3240,
+      "rank": 3241,
       "estimate": "<7k",
       "name": "The Ballad of Bonky"
     },
@@ -40,12 +40,17 @@
       "name": "Streets of Fortuna"
     },
     "2953540": {
-      "rank": 1876,
+      "rank": 1877,
       "estimate": "15k+",
       "name": "Neverseas"
     },
+    "3126480": {
+      "rank": 4302,
+      "estimate": "<7k",
+      "name": "Lord of Metal"
+    },
     "3252240": {
-      "rank": 2313,
+      "rank": 2314,
       "estimate": "7k+",
       "name": "Mircea"
     },
@@ -60,22 +65,22 @@
       "name": "OKU"
     },
     "3619300": {
-      "rank": 1970,
+      "rank": 1971,
       "estimate": "15k+",
       "name": "TONIN:兎忍"
     },
     "3720040": {
-      "rank": 1879,
+      "rank": 1880,
       "estimate": "15k+",
       "name": "Hide Zone"
     },
     "3854110": {
-      "rank": 3434,
+      "rank": 3408,
       "estimate": "<7k",
       "name": "Mnemonimov"
     },
     "3979570": {
-      "rank": 3994,
+      "rank": 3992,
       "estimate": "<7k",
       "name": "Factomancer"
     },
@@ -85,7 +90,7 @@
       "name": "Clicky Islands"
     },
     "4190240": {
-      "rank": 4492,
+      "rank": 4490,
       "estimate": "<7k",
       "name": "Nuclear Design Bureau"
     }
