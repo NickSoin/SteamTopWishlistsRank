@@ -45,5 +45,6 @@ jobs:
             echo "Feed unchanged"
           else
             git commit -m "Update wishlist feed"
+            git pull --rebase origin main
             git push
           fi

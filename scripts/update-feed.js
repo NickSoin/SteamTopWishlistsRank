@@ -231,6 +231,24 @@ async function writeV2Artifacts({ ledger, currentEntries, outputDir, updatedAt, 
   await fs.mkdir(path.join(outputDir, "current"), { recursive: true });
   await fs.mkdir(path.join(outputDir, "pre-release"), { recursive: true });
 
+  // Merge pre-release shards with historical data already on disk.
+  // Historical entries (from the Wayback scraper) are preserved; live ledger
+  // entries take priority when the same appId appears in both.
+  const preReleaseDir = path.join(outputDir, "pre-release");
+  const mergedPreReleaseShards = {};
+  for (const shardId of Object.keys(preReleaseShards)) {
+    const diskPath = path.join(preReleaseDir, `${shardId}.json`);
+    let existing = {};
+    try {
+      const raw = await fs.readFile(diskPath, "utf8");
+      existing = JSON.parse(raw).entries || {};
+    } catch {
+      // file doesn't exist yet or is unreadable — start empty
+    }
+    // live ledger entries win over historical data for same appId
+    mergedPreReleaseShards[shardId] = { ...existing, ...preReleaseShards[shardId] };
+  }
+
   await Promise.all([
     ...Object.entries(currentShards).map(([shardId, entries]) =>
       writeJsonAtomic(path.join(outputDir, "current", `${shardId}.json`), {
@@ -241,7 +259,7 @@ async function writeV2Artifacts({ ledger, currentEntries, outputDir, updatedAt, 
         entries
       })
     ),
-    ...Object.entries(preReleaseShards).map(([shardId, entries]) =>
+    ...Object.entries(mergedPreReleaseShards).map(([shardId, entries]) =>
       writeJsonAtomic(path.join(outputDir, "pre-release", `${shardId}.json`), {
         schemaVersion: 2,
         kind: "pre_release",
