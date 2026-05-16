@@ -249,6 +249,10 @@ async function writeV2Artifacts({ ledger, currentEntries, outputDir, updatedAt, 
     mergedPreReleaseShards[shardId] = { ...existing, ...preReleaseShards[shardId] };
   }
 
+  // Count total pre-release entries across all merged shards (includes historical)
+  preReleaseEntryCount = Object.values(mergedPreReleaseShards)
+    .reduce((sum, entries) => sum + Object.keys(entries).length, 0);
+
   await Promise.all([
     ...Object.entries(currentShards).map(([shardId, entries]) =>
       writeJsonAtomic(path.join(outputDir, "current", `${shardId}.json`), {
