@@ -75,8 +75,8 @@ function getRowLabel(entry) {
 | отсутствует | Python scraper (старые) | "Peak TopWish tracked:" (fallback) |
 
 ### Кэш в Chrome Extension
-- `SHARD_CACHE_PREFIX = "steam_wishlist_rank_shard_cache_v3"` (background.js)
-- `META_CACHE_KEY = "steam_wishlist_rank_meta_cache_v3"` (background.js)
+- `SHARD_CACHE_PREFIX = "steam_wishlist_rank_shard_cache_v4"` (background.js)
+- `META_CACHE_KEY = "steam_wishlist_rank_meta_cache_v4"` (background.js)
 - TTL: 4 часа
 - Для сброса кэша — поменять суффикс (v3→v4) при следующей необходимости
 
