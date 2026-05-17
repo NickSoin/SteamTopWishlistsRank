@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-17T08:33:37.800Z",
-  "entryCount": 15,
+  "updatedAt": "2026-05-17T10:30:33.338Z",
+  "entryCount": 16,
   "entries": {
     "1149450": {
       "rank": 551,
@@ -15,7 +15,7 @@
       "name": "Restitched"
     },
     "1439270": {
-      "rank": 2332,
+      "rank": 2334,
       "estimate": "7k+",
       "name": "Full Circle"
     },
@@ -30,7 +30,7 @@
       "name": "Orpheus: Tale of a Lover"
     },
     "2449700": {
-      "rank": 2721,
+      "rank": 2722,
       "estimate": "7k+",
       "name": "HIGHWAY PATROL SIMULATOR"
     },
@@ -50,7 +50,7 @@
       "name": "HELL YEAH simulator"
     },
     "3347690": {
-      "rank": 2722,
+      "rank": 2717,
       "estimate": "7k+",
       "name": "Among the Waves"
     },
@@ -60,19 +60,24 @@
       "name": "Shark Dentist"
     },
     "3589430": {
-      "rank": 2234,
+      "rank": 2235,
       "estimate": "7k+",
       "name": "Heidi's Legacy: Mountains Calling"
     },
     "4044990": {
-      "rank": 2810,
+      "rank": 2812,
       "estimate": "7k+",
       "name": "DEG"
     },
     "4071460": {
-      "rank": 4607,
+      "rank": 4606,
       "estimate": "<7k",
       "name": "Tentacle Locker 2"
+    },
+    "4196910": {
+      "rank": 4613,
+      "estimate": "<7k",
+      "name": "Rewindead"
     },
     "4332910": {
       "rank": 3707,
