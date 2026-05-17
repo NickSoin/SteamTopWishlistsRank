@@ -1,1 +1,164 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":22,"entries":{"1672320":{"rank":14,"estimate":"800k+","name":"Fragile Existence","releaseDate":"2026-01-01","source":"historical"},"1817190":{"rank":34,"estimate":"600k+","name":"Marvel’s Spider-Man: Miles Morales","releaseDate":"2022-11-18","source":"historical"},"3784030":{"rank":38,"estimate":"200k","actualWishlists":200000,"name":"RACCOIN: Coin Pusher Roguelike","releaseDate":"2026-03-31","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768297372"},"1254320":{"rank":298,"estimate":"80k+","name":"Surviving the Abyss","releaseDate":"2024-11-05","source":"historical"},"2231010":{"rank":383,"estimate":"80k+","name":"Fetish Locator Week Three","releaseDate":"2023-05-24","source":"historical"},"742420":{"rank":463,"estimate":"80k+","name":"Saints Row","releaseDate":"2023-08-24","source":"historical"},"1122690":{"rank":475,"estimate":"80k+","name":"Last Stop","releaseDate":"2021-07-22","source":"historical"},"2415010":{"rank":657,"estimate":"40k+","name":"A Date with Death","releaseDate":"2023-12-07","source":"historical"},"1063540":{"rank":789,"estimate":"40k+","name":"Space Wreck","releaseDate":"2023-10-10","source":"historical"},"1668460":{"rank":822,"estimate":"40k+","name":"The Fancy Pants Adventures: Classic Pack","releaseDate":"2024-02-18","source":"historical"},"2109430":{"rank":840,"estimate":"40k+","name":"Tron: Identity","releaseDate":"2023-04-11","source":"historical"},"1626350":{"rank":885,"estimate":"40k+","name":"Pekoe","releaseDate":"2023-06-28","source":"historical"},"589940":{"rank":1003,"estimate":"25k+","name":"Eye of the Temple","releaseDate":"2021-10-14","source":"historical"},"2487130":{"rank":1025,"estimate":"25k+","name":"Sex City: 2069","releaseDate":"2024-07-20","source":"historical"},"1330000":{"rank":1033,"estimate":"25k+","name":"Stolen Realm","releaseDate":"2024-03-08","source":"historical"},"3054690":{"rank":1062,"estimate":"25k+","name":"NORSE: Oath of Blood","releaseDate":"2026-02-17","source":"historical"},"2678080":{"rank":1089,"estimate":"25k+","name":"Tides of Tomorrow 🌊","releaseDate":"2026-04-22","source":"historical"},"2659900":{"rank":1124,"estimate":"25k+","name":"Sixty Four","releaseDate":"2024-03-04","source":"historical"},"1902850":{"rank":2076,"estimate":"7k+","name":"Dreams in the Witch House","releaseDate":"2023-02-16","source":"historical"},"715680":{"rank":2180,"estimate":"7k+","name":"Knight vs Giant: The Broken Excalibur","releaseDate":"2023-10-05","source":"historical"},"2529520":{"rank":2432,"estimate":"7k+","name":"Magical Girl Konoha","releaseDate":"2025-03-07","source":"historical"},"2604410":{"rank":2453,"estimate":"7k+","name":"Bride into the Cave","releaseDate":"2024-04-25","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 22,
+  "entries": {
+    "589940": {
+      "rank": 1003,
+      "estimate": "25k+",
+      "name": "Eye of the Temple",
+      "releaseDate": "2021-10-14",
+      "source": "historical"
+    },
+    "715680": {
+      "rank": 2180,
+      "estimate": "7k+",
+      "name": "Knight vs Giant: The Broken Excalibur",
+      "releaseDate": "2023-10-05",
+      "source": "historical"
+    },
+    "742420": {
+      "rank": 463,
+      "estimate": "80k+",
+      "name": "Saints Row",
+      "releaseDate": "2023-08-24",
+      "source": "historical"
+    },
+    "1063540": {
+      "rank": 789,
+      "estimate": "40k+",
+      "name": "Space Wreck",
+      "releaseDate": "2023-10-10",
+      "source": "historical"
+    },
+    "1122690": {
+      "rank": 475,
+      "estimate": "80k+",
+      "name": "Last Stop",
+      "releaseDate": "2021-07-22",
+      "source": "historical"
+    },
+    "1254320": {
+      "rank": 298,
+      "estimate": "80k+",
+      "name": "Surviving the Abyss",
+      "releaseDate": "2024-11-05",
+      "source": "historical"
+    },
+    "1330000": {
+      "rank": 1033,
+      "estimate": "25k+",
+      "name": "Stolen Realm",
+      "releaseDate": "2024-03-08",
+      "source": "historical"
+    },
+    "1626350": {
+      "rank": 885,
+      "estimate": "40k+",
+      "name": "Pekoe",
+      "releaseDate": "2023-06-28",
+      "source": "historical"
+    },
+    "1668460": {
+      "rank": 822,
+      "estimate": "40k+",
+      "name": "The Fancy Pants Adventures: Classic Pack",
+      "releaseDate": "2024-02-18",
+      "source": "historical"
+    },
+    "1672320": {
+      "rank": 14,
+      "estimate": "800k+",
+      "name": "Fragile Existence",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "1817190": {
+      "rank": 34,
+      "estimate": "600k+",
+      "name": "Marvel’s Spider-Man: Miles Morales",
+      "releaseDate": "2022-11-18",
+      "source": "historical"
+    },
+    "1902850": {
+      "rank": 2076,
+      "estimate": "7k+",
+      "name": "Dreams in the Witch House",
+      "releaseDate": "2023-02-16",
+      "source": "historical"
+    },
+    "2109430": {
+      "rank": 840,
+      "estimate": "40k+",
+      "name": "Tron: Identity",
+      "releaseDate": "2023-04-11",
+      "source": "historical"
+    },
+    "2231010": {
+      "rank": 383,
+      "estimate": "80k+",
+      "name": "Fetish Locator Week Three",
+      "releaseDate": "2023-05-24",
+      "source": "historical"
+    },
+    "2415010": {
+      "rank": 657,
+      "estimate": "40k+",
+      "name": "A Date with Death",
+      "releaseDate": "2023-12-07",
+      "source": "historical"
+    },
+    "2487130": {
+      "rank": 1025,
+      "estimate": "25k+",
+      "name": "Sex City: 2069",
+      "releaseDate": "2024-07-20",
+      "source": "historical"
+    },
+    "2529520": {
+      "rank": 2432,
+      "estimate": "7k+",
+      "name": "Magical Girl Konoha",
+      "releaseDate": "2025-03-07",
+      "source": "historical"
+    },
+    "2604410": {
+      "rank": 2453,
+      "estimate": "7k+",
+      "name": "Bride into the Cave",
+      "releaseDate": "2024-04-25",
+      "source": "historical"
+    },
+    "2659900": {
+      "rank": 1124,
+      "estimate": "25k+",
+      "name": "Sixty Four",
+      "releaseDate": "2024-03-04",
+      "source": "historical"
+    },
+    "2678080": {
+      "rank": 1089,
+      "estimate": "25k+",
+      "name": "Tides of Tomorrow 🌊",
+      "releaseDate": "2026-04-22",
+      "source": "historical"
+    },
+    "3054690": {
+      "rank": 1062,
+      "estimate": "25k+",
+      "name": "NORSE: Oath of Blood",
+      "releaseDate": "2026-02-17",
+      "source": "historical"
+    },
+    "3784030": {
+      "rank": 38,
+      "estimate": "200k",
+      "actualWishlists": 200000,
+      "name": "RACCOIN: Coin Pusher Roguelike",
+      "releaseDate": "2026-03-31",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768297372"
+    }
+  }
+}

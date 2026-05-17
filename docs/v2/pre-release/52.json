@@ -1,1 +1,187 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":25,"entries":{"1466860":{"rank":8,"estimate":"1.5m+","name":"Age of Empires IV: Anniversary Edition","releaseDate":"2021-10-28","source":"historical"},"1527950":{"rank":21,"estimate":"600k+","name":"Wartales","releaseDate":"2023-04-12","source":"historical"},"1368030":{"rank":34,"estimate":"600k+","name":"ANNO: Mutationem","releaseDate":"2022-03-16","source":"historical"},"3066310":{"rank":45,"estimate":"10k","actualWishlists":10000,"name":"Final Outpost: Definitive Edition","releaseDate":"2025-05-22","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1788311419045293"},"2144640":{"rank":116,"estimate":"200k+","name":"Endzone 2","releaseDate":"2025-07-24","source":"historical"},"2075720":{"rank":130,"estimate":"200k+","name":"9 Days","releaseDate":"2024-03-08","source":"historical"},"1726380":{"rank":177,"estimate":"200k+","name":"Cities: Skylines - Airports","releaseDate":"2022-01-25","source":"historical"},"2561450":{"rank":399,"estimate":"80k+","name":"DREDGE - The Iron Rig","releaseDate":"2024-08-15","source":"historical"},"2131640":{"rank":409,"estimate":"80k+","name":"METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version","releaseDate":"2023-10-24","source":"historical"},"2231450":{"rank":502,"estimate":"40k+","name":"Pizza Tower","releaseDate":"2023-01-26","source":"historical"},"1395760":{"rank":532,"estimate":"40k+","name":"Reshaping Mars","releaseDate":"2023-03-30","source":"historical"},"914890":{"rank":644,"estimate":"40k+","name":"Nine Noir Lives","releaseDate":"2022-09-07","source":"historical"},"1939100":{"rank":817,"estimate":"40k+","name":"Go Home Annie: An SCP Game","releaseDate":"2024-12-10","source":"historical"},"1638160":{"rank":914,"estimate":"50k","actualWishlists":50000,"name":"Altheia: The Wrath of Aferi","releaseDate":"2025-08-21","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289652689"},"2017610":{"rank":988,"estimate":"40k+","name":"CORPUS EDAX","releaseDate":"2024-09-05","source":"historical"},"1526540":{"rank":1000,"estimate":"40k+","name":"Dungeons And Cat","releaseDate":"2026-01-01","source":"historical"},"2834910":{"rank":1018,"estimate":"25k+","name":"Rocksmith+","releaseDate":"2024-06-06","source":"historical"},"1366850":{"rank":1030,"estimate":"25k+","name":"Jected - Rivals","releaseDate":"2023-10-10","source":"historical"},"1840550":{"rank":1184,"estimate":"25k+","name":"Cyber Manhunt - Hello World","releaseDate":"2022-01-28","source":"historical"},"2695430":{"rank":1288,"estimate":"25k+","name":"A.I.L.A","releaseDate":"2025-11-25","source":"historical"},"2403260":{"rank":1351,"estimate":"25k+","name":"Ancient Weapon Holly","releaseDate":"2024-03-07","source":"historical"},"1760250":{"rank":1483,"estimate":"25k+","name":"Madden NFL 23","releaseDate":"2022-08-18","source":"historical"},"2969380":{"rank":2189,"estimate":"7k+","name":"BAKERU","releaseDate":"2024-09-03","source":"historical"},"2636460":{"rank":2313,"estimate":"7k+","name":"Dungeons Deep","releaseDate":"2026-01-01","source":"historical"},"2589500":{"rank":2564,"estimate":"7k+","name":"Whisper of the House","releaseDate":"2025-08-27","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 25,
+  "entries": {
+    "914890": {
+      "rank": 644,
+      "estimate": "40k+",
+      "name": "Nine Noir Lives",
+      "releaseDate": "2022-09-07",
+      "source": "historical"
+    },
+    "1366850": {
+      "rank": 1030,
+      "estimate": "25k+",
+      "name": "Jected - Rivals",
+      "releaseDate": "2023-10-10",
+      "source": "historical"
+    },
+    "1368030": {
+      "rank": 34,
+      "estimate": "600k+",
+      "name": "ANNO: Mutationem",
+      "releaseDate": "2022-03-16",
+      "source": "historical"
+    },
+    "1395760": {
+      "rank": 532,
+      "estimate": "40k+",
+      "name": "Reshaping Mars",
+      "releaseDate": "2023-03-30",
+      "source": "historical"
+    },
+    "1466860": {
+      "rank": 8,
+      "estimate": "1.5m+",
+      "name": "Age of Empires IV: Anniversary Edition",
+      "releaseDate": "2021-10-28",
+      "source": "historical"
+    },
+    "1526540": {
+      "rank": 1000,
+      "estimate": "40k+",
+      "name": "Dungeons And Cat",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "1527950": {
+      "rank": 21,
+      "estimate": "600k+",
+      "name": "Wartales",
+      "releaseDate": "2023-04-12",
+      "source": "historical"
+    },
+    "1638160": {
+      "rank": 914,
+      "estimate": "50k",
+      "actualWishlists": 50000,
+      "name": "Altheia: The Wrath of Aferi",
+      "releaseDate": "2025-08-21",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289652689"
+    },
+    "1726380": {
+      "rank": 177,
+      "estimate": "200k+",
+      "name": "Cities: Skylines - Airports",
+      "releaseDate": "2022-01-25",
+      "source": "historical"
+    },
+    "1760250": {
+      "rank": 1483,
+      "estimate": "25k+",
+      "name": "Madden NFL 23",
+      "releaseDate": "2022-08-18",
+      "source": "historical"
+    },
+    "1840550": {
+      "rank": 1184,
+      "estimate": "25k+",
+      "name": "Cyber Manhunt - Hello World",
+      "releaseDate": "2022-01-28",
+      "source": "historical"
+    },
+    "1939100": {
+      "rank": 817,
+      "estimate": "40k+",
+      "name": "Go Home Annie: An SCP Game",
+      "releaseDate": "2024-12-10",
+      "source": "historical"
+    },
+    "2017610": {
+      "rank": 988,
+      "estimate": "40k+",
+      "name": "CORPUS EDAX",
+      "releaseDate": "2024-09-05",
+      "source": "historical"
+    },
+    "2075720": {
+      "rank": 130,
+      "estimate": "200k+",
+      "name": "9 Days",
+      "releaseDate": "2024-03-08",
+      "source": "historical"
+    },
+    "2131640": {
+      "rank": 409,
+      "estimate": "80k+",
+      "name": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
+      "releaseDate": "2023-10-24",
+      "source": "historical"
+    },
+    "2144640": {
+      "rank": 116,
+      "estimate": "200k+",
+      "name": "Endzone 2",
+      "releaseDate": "2025-07-24",
+      "source": "historical"
+    },
+    "2231450": {
+      "rank": 502,
+      "estimate": "40k+",
+      "name": "Pizza Tower",
+      "releaseDate": "2023-01-26",
+      "source": "historical"
+    },
+    "2403260": {
+      "rank": 1351,
+      "estimate": "25k+",
+      "name": "Ancient Weapon Holly",
+      "releaseDate": "2024-03-07",
+      "source": "historical"
+    },
+    "2561450": {
+      "rank": 399,
+      "estimate": "80k+",
+      "name": "DREDGE - The Iron Rig",
+      "releaseDate": "2024-08-15",
+      "source": "historical"
+    },
+    "2589500": {
+      "rank": 2564,
+      "estimate": "7k+",
+      "name": "Whisper of the House",
+      "releaseDate": "2025-08-27",
+      "source": "historical"
+    },
+    "2636460": {
+      "rank": 2313,
+      "estimate": "7k+",
+      "name": "Dungeons Deep",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2695430": {
+      "rank": 1288,
+      "estimate": "25k+",
+      "name": "A.I.L.A",
+      "releaseDate": "2025-11-25",
+      "source": "historical"
+    },
+    "2834910": {
+      "rank": 1018,
+      "estimate": "25k+",
+      "name": "Rocksmith+",
+      "releaseDate": "2024-06-06",
+      "source": "historical"
+    },
+    "2969380": {
+      "rank": 2189,
+      "estimate": "7k+",
+      "name": "BAKERU",
+      "releaseDate": "2024-09-03",
+      "source": "historical"
+    },
+    "3066310": {
+      "rank": 45,
+      "estimate": "10k",
+      "actualWishlists": 10000,
+      "name": "Final Outpost: Definitive Edition",
+      "releaseDate": "2025-05-22",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1788311419045293"
+    }
+  }
+}

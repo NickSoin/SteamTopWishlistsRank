@@ -1,1 +1,171 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":23,"entries":{"1062090":{"rank":3,"estimate":"1.5m+","name":"Timberborn","releaseDate":"2026-03-12","source":"historical"},"2700540":{"rank":30,"estimate":"600k+","name":"Travellin Cats in Japan","releaseDate":"2025-02-23","source":"historical"},"2144740":{"rank":113,"estimate":"200k+","name":"Ghostrunner 2","releaseDate":"2023-10-26","source":"historical"},"1132030":{"rank":131,"estimate":"200k+","name":"Trash Sailors: Co-Op Trash Raft Simulator","releaseDate":"2021-12-16","source":"historical"},"1939970":{"rank":215,"estimate":"80k+","name":"Nobody Wants to Die","releaseDate":"2024-07-17","source":"historical"},"1530160":{"rank":297,"estimate":"80k+","name":"Digimon World: Next Order","releaseDate":"2023-02-21","source":"historical"},"2706300":{"rank":438,"estimate":"80k+","name":"MILF's Plaza","releaseDate":"2024-04-19","source":"historical"},"1399170":{"rank":564,"estimate":"40k+","name":"Nimbus INFINITY","releaseDate":"2023-06-22","source":"historical"},"1904790":{"rank":659,"estimate":"40k+","name":"Agatha Christie - Murder on the Orient Express","releaseDate":"2023-10-19","source":"historical"},"2152790":{"rank":861,"estimate":"40k+","name":"UNITED 1944","releaseDate":"2023-12-12","source":"historical"},"1941410":{"rank":878,"estimate":"40k+","name":"The Cub","releaseDate":"2024-01-19","source":"historical"},"2000800":{"rank":916,"estimate":"40k+","name":"B-17 Flying Fortress : The Mighty 8th Redux","releaseDate":"2024-01-25","source":"historical"},"2628570":{"rank":976,"estimate":"30k","actualWishlists":30000,"name":"Stellar Settlers: Space Base Builder","releaseDate":"2025-02-22","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5679673637659460779"},"2143680":{"rank":1002,"estimate":"25k+","name":"Noctuary","releaseDate":"2023-11-28","source":"historical"},"1107320":{"rank":1103,"estimate":"25k+","name":"OUTBRK","releaseDate":"2024-06-28","source":"historical"},"1524550":{"rank":1319,"estimate":"25k+","name":"Madshot","releaseDate":"2023-07-18","source":"historical"},"2458430":{"rank":1790,"estimate":"15k+","name":"Leila","releaseDate":"2025-04-07","source":"historical"},"2148850":{"rank":1795,"estimate":"15k+","name":"Jenni's DONG has got it GOIN' ON: The Jenni Trilogy","releaseDate":"2023-05-08","source":"historical"},"1687530":{"rank":1848,"estimate":"15k+","name":"Elder Ring","releaseDate":"2025-05-22","source":"historical"},"2137760":{"rank":1945,"estimate":"15k+","name":"Crafty Survivors","releaseDate":"2025-05-16","source":"historical"},"2402420":{"rank":1971,"estimate":"15k+","name":"Seekers of Skyveil","releaseDate":"2025-03-03","source":"historical"},"2706450":{"rank":2290,"estimate":"7k+","name":"Hands of Necromancy II","releaseDate":"2024-09-16","source":"historical"},"2701590":{"rank":2512,"estimate":"7k+","name":"Cthulhu Mythos ADV The Isle Of Ubohoth","releaseDate":"2024-06-27","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 23,
+  "entries": {
+    "1062090": {
+      "rank": 3,
+      "estimate": "1.5m+",
+      "name": "Timberborn",
+      "releaseDate": "2026-03-12",
+      "source": "historical"
+    },
+    "1107320": {
+      "rank": 1103,
+      "estimate": "25k+",
+      "name": "OUTBRK",
+      "releaseDate": "2024-06-28",
+      "source": "historical"
+    },
+    "1132030": {
+      "rank": 131,
+      "estimate": "200k+",
+      "name": "Trash Sailors: Co-Op Trash Raft Simulator",
+      "releaseDate": "2021-12-16",
+      "source": "historical"
+    },
+    "1399170": {
+      "rank": 564,
+      "estimate": "40k+",
+      "name": "Nimbus INFINITY",
+      "releaseDate": "2023-06-22",
+      "source": "historical"
+    },
+    "1524550": {
+      "rank": 1319,
+      "estimate": "25k+",
+      "name": "Madshot",
+      "releaseDate": "2023-07-18",
+      "source": "historical"
+    },
+    "1530160": {
+      "rank": 297,
+      "estimate": "80k+",
+      "name": "Digimon World: Next Order",
+      "releaseDate": "2023-02-21",
+      "source": "historical"
+    },
+    "1687530": {
+      "rank": 1848,
+      "estimate": "15k+",
+      "name": "Elder Ring",
+      "releaseDate": "2025-05-22",
+      "source": "historical"
+    },
+    "1904790": {
+      "rank": 659,
+      "estimate": "40k+",
+      "name": "Agatha Christie - Murder on the Orient Express",
+      "releaseDate": "2023-10-19",
+      "source": "historical"
+    },
+    "1939970": {
+      "rank": 215,
+      "estimate": "80k+",
+      "name": "Nobody Wants to Die",
+      "releaseDate": "2024-07-17",
+      "source": "historical"
+    },
+    "1941410": {
+      "rank": 878,
+      "estimate": "40k+",
+      "name": "The Cub",
+      "releaseDate": "2024-01-19",
+      "source": "historical"
+    },
+    "2000800": {
+      "rank": 916,
+      "estimate": "40k+",
+      "name": "B-17 Flying Fortress : The Mighty 8th Redux",
+      "releaseDate": "2024-01-25",
+      "source": "historical"
+    },
+    "2137760": {
+      "rank": 1945,
+      "estimate": "15k+",
+      "name": "Crafty Survivors",
+      "releaseDate": "2025-05-16",
+      "source": "historical"
+    },
+    "2143680": {
+      "rank": 1002,
+      "estimate": "25k+",
+      "name": "Noctuary",
+      "releaseDate": "2023-11-28",
+      "source": "historical"
+    },
+    "2144740": {
+      "rank": 113,
+      "estimate": "200k+",
+      "name": "Ghostrunner 2",
+      "releaseDate": "2023-10-26",
+      "source": "historical"
+    },
+    "2148850": {
+      "rank": 1795,
+      "estimate": "15k+",
+      "name": "Jenni's DONG has got it GOIN' ON: The Jenni Trilogy",
+      "releaseDate": "2023-05-08",
+      "source": "historical"
+    },
+    "2152790": {
+      "rank": 861,
+      "estimate": "40k+",
+      "name": "UNITED 1944",
+      "releaseDate": "2023-12-12",
+      "source": "historical"
+    },
+    "2402420": {
+      "rank": 1971,
+      "estimate": "15k+",
+      "name": "Seekers of Skyveil",
+      "releaseDate": "2025-03-03",
+      "source": "historical"
+    },
+    "2458430": {
+      "rank": 1790,
+      "estimate": "15k+",
+      "name": "Leila",
+      "releaseDate": "2025-04-07",
+      "source": "historical"
+    },
+    "2628570": {
+      "rank": 976,
+      "estimate": "30k",
+      "actualWishlists": 30000,
+      "name": "Stellar Settlers: Space Base Builder",
+      "releaseDate": "2025-02-22",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5679673637659460779"
+    },
+    "2700540": {
+      "rank": 30,
+      "estimate": "600k+",
+      "name": "Travellin Cats in Japan",
+      "releaseDate": "2025-02-23",
+      "source": "historical"
+    },
+    "2701590": {
+      "rank": 2512,
+      "estimate": "7k+",
+      "name": "Cthulhu Mythos ADV The Isle Of Ubohoth",
+      "releaseDate": "2024-06-27",
+      "source": "historical"
+    },
+    "2706300": {
+      "rank": 438,
+      "estimate": "80k+",
+      "name": "MILF's Plaza",
+      "releaseDate": "2024-04-19",
+      "source": "historical"
+    },
+    "2706450": {
+      "rank": 2290,
+      "estimate": "7k+",
+      "name": "Hands of Necromancy II",
+      "releaseDate": "2024-09-16",
+      "source": "historical"
+    }
+  }
+}

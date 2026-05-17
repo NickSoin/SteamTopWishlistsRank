@@ -1,1 +1,176 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":24,"entries":{"2195120":{"rank":26,"estimate":"600k+","name":"Go-Go Town!","releaseDate":"2024-06-18","source":"historical"},"2240620":{"rank":100,"estimate":"300k+","name":"UNBEATABLE","releaseDate":"2025-12-09","source":"historical"},"1556100":{"rank":194,"estimate":"200k+","name":"Killer Klowns From Outer Space: The Game","releaseDate":"2024-06-04","source":"historical"},"1104600":{"rank":374,"estimate":"80k+","name":"Rune Fencer Illyia","releaseDate":"2026-01-01","source":"historical"},"2958970":{"rank":522,"estimate":"40k+","name":"The Thing: Remastered","releaseDate":"2024-12-05","source":"historical"},"1205970":{"rank":526,"estimate":"40k+","name":"MX vs ATV Legends","releaseDate":"2022-06-28","source":"historical"},"1163870":{"rank":684,"estimate":"40k+","name":"Mecha Knights: Nightmare","releaseDate":"2021-08-30","source":"historical"},"1714250":{"rank":686,"estimate":"40k+","name":"Pets Hotel","releaseDate":"2023-04-17","source":"historical"},"2363800":{"rank":897,"estimate":"40k+","name":"House Party - Business and Pleasure Style Pack","releaseDate":"2024-08-02","source":"historical"},"2398680":{"rank":922,"estimate":"40k+","name":"Niktophobia","releaseDate":"2025-03-20","source":"historical"},"1597730":{"rank":952,"estimate":"40k+","name":"Dogs Organized Neatly","releaseDate":"2021-11-01","source":"historical"},"1505540":{"rank":1141,"estimate":"25k+","name":"Get Together: A Coop Adventure","releaseDate":"2021-10-14","source":"historical"},"1932160":{"rank":1165,"estimate":"25k+","name":"Neptunia: Sisters VS Sisters","releaseDate":"2023-01-24","source":"historical"},"2608620":{"rank":1174,"estimate":"25k+","name":"Sex, Please","releaseDate":"2024-05-24","source":"historical"},"2304490":{"rank":1219,"estimate":"25k+","name":"Project: Sword Art","releaseDate":"2023-11-15","source":"historical"},"1469170":{"rank":1419,"estimate":"25k+","name":"Commandos 3 - HD Remaster","releaseDate":"2022-08-30","source":"historical"},"2017200":{"rank":1707,"estimate":"15k+","name":"Leximan","releaseDate":"2024-08-13","source":"historical"},"2428840":{"rank":1790,"estimate":"15k+","name":"Miniatures","releaseDate":"2024-11-14","source":"historical"},"1638440":{"rank":1813,"estimate":"15k+","name":"Gatedelvers","releaseDate":"2023-02-20","source":"historical"},"2830030":{"rank":1868,"estimate":"15k+","name":"MOTORSLICE","releaseDate":"2026-05-05","source":"historical"},"1441770":{"rank":1965,"estimate":"15k+","name":"Moonlight In Garland","releaseDate":"2025-08-26","source":"historical"},"2206240":{"rank":1994,"estimate":"15k+","name":"Footgun: Underground","releaseDate":"2024-04-30","source":"historical"},"2567770":{"rank":2280,"estimate":"7k+","name":"BoneField: Bodycam Horror","releaseDate":"2025-10-27","source":"historical"},"2275750":{"rank":2812,"estimate":"7k+","name":"Ascendance","releaseDate":"2027-01-01","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 24,
+  "entries": {
+    "1104600": {
+      "rank": 374,
+      "estimate": "80k+",
+      "name": "Rune Fencer Illyia",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "1163870": {
+      "rank": 684,
+      "estimate": "40k+",
+      "name": "Mecha Knights: Nightmare",
+      "releaseDate": "2021-08-30",
+      "source": "historical"
+    },
+    "1205970": {
+      "rank": 526,
+      "estimate": "40k+",
+      "name": "MX vs ATV Legends",
+      "releaseDate": "2022-06-28",
+      "source": "historical"
+    },
+    "1441770": {
+      "rank": 1965,
+      "estimate": "15k+",
+      "name": "Moonlight In Garland",
+      "releaseDate": "2025-08-26",
+      "source": "historical"
+    },
+    "1469170": {
+      "rank": 1419,
+      "estimate": "25k+",
+      "name": "Commandos 3 - HD Remaster",
+      "releaseDate": "2022-08-30",
+      "source": "historical"
+    },
+    "1505540": {
+      "rank": 1141,
+      "estimate": "25k+",
+      "name": "Get Together: A Coop Adventure",
+      "releaseDate": "2021-10-14",
+      "source": "historical"
+    },
+    "1556100": {
+      "rank": 194,
+      "estimate": "200k+",
+      "name": "Killer Klowns From Outer Space: The Game",
+      "releaseDate": "2024-06-04",
+      "source": "historical"
+    },
+    "1597730": {
+      "rank": 952,
+      "estimate": "40k+",
+      "name": "Dogs Organized Neatly",
+      "releaseDate": "2021-11-01",
+      "source": "historical"
+    },
+    "1638440": {
+      "rank": 1813,
+      "estimate": "15k+",
+      "name": "Gatedelvers",
+      "releaseDate": "2023-02-20",
+      "source": "historical"
+    },
+    "1714250": {
+      "rank": 686,
+      "estimate": "40k+",
+      "name": "Pets Hotel",
+      "releaseDate": "2023-04-17",
+      "source": "historical"
+    },
+    "1932160": {
+      "rank": 1165,
+      "estimate": "25k+",
+      "name": "Neptunia: Sisters VS Sisters",
+      "releaseDate": "2023-01-24",
+      "source": "historical"
+    },
+    "2017200": {
+      "rank": 1707,
+      "estimate": "15k+",
+      "name": "Leximan",
+      "releaseDate": "2024-08-13",
+      "source": "historical"
+    },
+    "2195120": {
+      "rank": 26,
+      "estimate": "600k+",
+      "name": "Go-Go Town!",
+      "releaseDate": "2024-06-18",
+      "source": "historical"
+    },
+    "2206240": {
+      "rank": 1994,
+      "estimate": "15k+",
+      "name": "Footgun: Underground",
+      "releaseDate": "2024-04-30",
+      "source": "historical"
+    },
+    "2240620": {
+      "rank": 100,
+      "estimate": "300k+",
+      "name": "UNBEATABLE",
+      "releaseDate": "2025-12-09",
+      "source": "historical"
+    },
+    "2275750": {
+      "rank": 2812,
+      "estimate": "7k+",
+      "name": "Ascendance",
+      "releaseDate": "2027-01-01",
+      "source": "historical"
+    },
+    "2304490": {
+      "rank": 1219,
+      "estimate": "25k+",
+      "name": "Project: Sword Art",
+      "releaseDate": "2023-11-15",
+      "source": "historical"
+    },
+    "2363800": {
+      "rank": 897,
+      "estimate": "40k+",
+      "name": "House Party - Business and Pleasure Style Pack",
+      "releaseDate": "2024-08-02",
+      "source": "historical"
+    },
+    "2398680": {
+      "rank": 922,
+      "estimate": "40k+",
+      "name": "Niktophobia",
+      "releaseDate": "2025-03-20",
+      "source": "historical"
+    },
+    "2428840": {
+      "rank": 1790,
+      "estimate": "15k+",
+      "name": "Miniatures",
+      "releaseDate": "2024-11-14",
+      "source": "historical"
+    },
+    "2567770": {
+      "rank": 2280,
+      "estimate": "7k+",
+      "name": "BoneField: Bodycam Horror",
+      "releaseDate": "2025-10-27",
+      "source": "historical"
+    },
+    "2608620": {
+      "rank": 1174,
+      "estimate": "25k+",
+      "name": "Sex, Please",
+      "releaseDate": "2024-05-24",
+      "source": "historical"
+    },
+    "2830030": {
+      "rank": 1868,
+      "estimate": "15k+",
+      "name": "MOTORSLICE",
+      "releaseDate": "2026-05-05",
+      "source": "historical"
+    },
+    "2958970": {
+      "rank": 522,
+      "estimate": "40k+",
+      "name": "The Thing: Remastered",
+      "releaseDate": "2024-12-05",
+      "source": "historical"
+    }
+  }
+}

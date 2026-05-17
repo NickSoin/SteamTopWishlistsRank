@@ -1,1 +1,155 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":21,"entries":{"1154120":{"rank":6,"estimate":"1.5m+","name":"Ilysia","releaseDate":"2023-10-11","source":"historical"},"1689620":{"rank":6,"estimate":"1.5m+","name":"BLEACH Rebirth of Souls","releaseDate":"2025-03-20","source":"historical"},"2585150":{"rank":8,"estimate":"1.5m+","name":"American Truck Simulator - Arkansas","releaseDate":"2024-09-16","source":"historical"},"704270":{"rank":16,"estimate":"800k+","name":"Generation Zero®","releaseDate":"2019-03-26","source":"historical"},"1249970":{"rank":24,"estimate":"600k+","name":"Test Drive Unlimited Solar Crown","releaseDate":"2024-09-12","source":"historical"},"2781620":{"rank":45,"estimate":"600k+","name":"Risk of Rain 2: Alloyed Collective","releaseDate":"2025-11-18","source":"historical"},"553540":{"rank":73,"estimate":"300k+","name":"Phantom Brigade","releaseDate":"2023-02-28","source":"historical"},"987840":{"rank":103,"estimate":"200k+","name":"Expeditions: Rome","releaseDate":"2022-01-20","source":"historical"},"1229240":{"rank":181,"estimate":"200k+","name":"Chained Echoes","releaseDate":"2022-12-08","source":"historical"},"1154670":{"rank":398,"estimate":"80k+","name":"Die by the Blade","releaseDate":"2024-05-16","source":"historical"},"2455350":{"rank":1108,"estimate":"25k+","name":"The Deadly Path","releaseDate":"2025-03-25","source":"historical"},"2060750":{"rank":1159,"estimate":"25k+","name":"Star Survivor","releaseDate":"2024-09-20","source":"historical"},"2308630":{"rank":1205,"estimate":"25k+","name":"Dawnfolk","releaseDate":"2025-02-13","source":"historical"},"3011030":{"rank":1209,"estimate":"25k+","name":"NO-SKIN","releaseDate":"2025-02-16","source":"historical"},"1762930":{"rank":1219,"estimate":"25k+","name":"Goat Simulator: Remastered","releaseDate":"2024-11-07","source":"historical"},"2205850":{"rank":1275,"estimate":"25k+","name":"Dwarves: Glory, Death and Loot","releaseDate":"2026-01-22","source":"historical"},"1816550":{"rank":1313,"estimate":"25k+","name":"The Sims™ 4 High School Years Expansion Pack","releaseDate":"2022-07-28","source":"historical"},"2651460":{"rank":1411,"estimate":"25k+","name":"The Knight Girl And Dungeons","releaseDate":"2024-12-10","source":"historical"},"2824310":{"rank":2106,"estimate":"7k+","name":"Lucky Hunter","releaseDate":"2024-11-04","source":"historical"},"3064030":{"rank":2483,"estimate":"7k+","name":"Whimside","releaseDate":"2025-08-07","source":"historical"},"2563550":{"rank":2607,"estimate":"7k+","name":"闲置神话","releaseDate":"2024-03-25","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 21,
+  "entries": {
+    "553540": {
+      "rank": 73,
+      "estimate": "300k+",
+      "name": "Phantom Brigade",
+      "releaseDate": "2023-02-28",
+      "source": "historical"
+    },
+    "704270": {
+      "rank": 16,
+      "estimate": "800k+",
+      "name": "Generation Zero®",
+      "releaseDate": "2019-03-26",
+      "source": "historical"
+    },
+    "987840": {
+      "rank": 103,
+      "estimate": "200k+",
+      "name": "Expeditions: Rome",
+      "releaseDate": "2022-01-20",
+      "source": "historical"
+    },
+    "1154120": {
+      "rank": 6,
+      "estimate": "1.5m+",
+      "name": "Ilysia",
+      "releaseDate": "2023-10-11",
+      "source": "historical"
+    },
+    "1154670": {
+      "rank": 398,
+      "estimate": "80k+",
+      "name": "Die by the Blade",
+      "releaseDate": "2024-05-16",
+      "source": "historical"
+    },
+    "1229240": {
+      "rank": 181,
+      "estimate": "200k+",
+      "name": "Chained Echoes",
+      "releaseDate": "2022-12-08",
+      "source": "historical"
+    },
+    "1249970": {
+      "rank": 24,
+      "estimate": "600k+",
+      "name": "Test Drive Unlimited Solar Crown",
+      "releaseDate": "2024-09-12",
+      "source": "historical"
+    },
+    "1689620": {
+      "rank": 6,
+      "estimate": "1.5m+",
+      "name": "BLEACH Rebirth of Souls",
+      "releaseDate": "2025-03-20",
+      "source": "historical"
+    },
+    "1762930": {
+      "rank": 1219,
+      "estimate": "25k+",
+      "name": "Goat Simulator: Remastered",
+      "releaseDate": "2024-11-07",
+      "source": "historical"
+    },
+    "1816550": {
+      "rank": 1313,
+      "estimate": "25k+",
+      "name": "The Sims™ 4 High School Years Expansion Pack",
+      "releaseDate": "2022-07-28",
+      "source": "historical"
+    },
+    "2060750": {
+      "rank": 1159,
+      "estimate": "25k+",
+      "name": "Star Survivor",
+      "releaseDate": "2024-09-20",
+      "source": "historical"
+    },
+    "2205850": {
+      "rank": 1275,
+      "estimate": "25k+",
+      "name": "Dwarves: Glory, Death and Loot",
+      "releaseDate": "2026-01-22",
+      "source": "historical"
+    },
+    "2308630": {
+      "rank": 1205,
+      "estimate": "25k+",
+      "name": "Dawnfolk",
+      "releaseDate": "2025-02-13",
+      "source": "historical"
+    },
+    "2455350": {
+      "rank": 1108,
+      "estimate": "25k+",
+      "name": "The Deadly Path",
+      "releaseDate": "2025-03-25",
+      "source": "historical"
+    },
+    "2563550": {
+      "rank": 2607,
+      "estimate": "7k+",
+      "name": "闲置神话",
+      "releaseDate": "2024-03-25",
+      "source": "historical"
+    },
+    "2585150": {
+      "rank": 8,
+      "estimate": "1.5m+",
+      "name": "American Truck Simulator - Arkansas",
+      "releaseDate": "2024-09-16",
+      "source": "historical"
+    },
+    "2651460": {
+      "rank": 1411,
+      "estimate": "25k+",
+      "name": "The Knight Girl And Dungeons",
+      "releaseDate": "2024-12-10",
+      "source": "historical"
+    },
+    "2781620": {
+      "rank": 45,
+      "estimate": "600k+",
+      "name": "Risk of Rain 2: Alloyed Collective",
+      "releaseDate": "2025-11-18",
+      "source": "historical"
+    },
+    "2824310": {
+      "rank": 2106,
+      "estimate": "7k+",
+      "name": "Lucky Hunter",
+      "releaseDate": "2024-11-04",
+      "source": "historical"
+    },
+    "3011030": {
+      "rank": 1209,
+      "estimate": "25k+",
+      "name": "NO-SKIN",
+      "releaseDate": "2025-02-16",
+      "source": "historical"
+    },
+    "3064030": {
+      "rank": 2483,
+      "estimate": "7k+",
+      "name": "Whimside",
+      "releaseDate": "2025-08-07",
+      "source": "historical"
+    }
+  }
+}

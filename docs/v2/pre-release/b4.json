@@ -1,1 +1,288 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":40,"entries":{"607080":{"rank":2,"estimate":"1.5m+","name":"Psychonauts 2","releaseDate":"2021-08-24","source":"historical"},"3558400":{"rank":5,"estimate":"1.5m+","name":"Backseat Drivers","releaseDate":"2025-10-09","source":"historical"},"1113560":{"rank":10,"estimate":"1.5m+","name":"NieR Replicant™ ver.1.22474487139...","releaseDate":"2021-04-23","source":"historical"},"2692990":{"rank":10,"estimate":"1.5m+","name":"DON'T SCREAM TOGETHER","releaseDate":"2025-12-03","source":"historical"},"1329880":{"rank":16,"estimate":"800k+","name":"Wild West Legacy","releaseDate":"2024-08-22","source":"historical"},"962130":{"rank":17,"estimate":"800k+","name":"Grounded","releaseDate":"2022-09-27","source":"historical"},"2101960":{"rank":23,"estimate":"600k+","name":"Cronos: The New Dawn","releaseDate":"2025-09-05","source":"historical"},"3347280":{"rank":30,"estimate":"600k+","name":".HEADSPACE","releaseDate":"2025-10-20","source":"historical"},"3280350":{"rank":31,"estimate":"600k+","name":"DEATH STRANDING 2: ON THE BEACH","releaseDate":"2026-03-19","source":"historical"},"3681010":{"rank":46,"estimate":"600k+","name":"Nioh 3","releaseDate":"2026-02-05","source":"historical"},"1506830":{"rank":134,"estimate":"200k+","name":"FIFA 22","releaseDate":"2021-10-01","source":"historical"},"1411910":{"rank":168,"estimate":"200k+","name":"Fallen Aces","releaseDate":"2024-06-14","source":"historical"},"2116120":{"rank":203,"estimate":"80k+","name":"Incursion Red River","releaseDate":"2024-04-10","source":"historical"},"1877020":{"rank":253,"estimate":"80k+","name":"Jujutsu Kaisen Cursed Clash","releaseDate":"2024-02-01","source":"historical"},"1358710":{"rank":353,"estimate":"80k+","name":"Battle Cry of Freedom","releaseDate":"2022-03-01","source":"historical"},"1251930":{"rank":387,"estimate":"80k+","name":"My Lovely Wife","releaseDate":"2022-06-08","source":"historical"},"1671200":{"rank":418,"estimate":"80k+","name":"Honkai Impact 3rd","releaseDate":"2021-10-21","source":"historical"},"2074620":{"rank":435,"estimate":"80k+","name":"Ars Notoria","releaseDate":"2025-11-27","source":"historical"},"2869860":{"rank":457,"estimate":"80k+","name":"Monster Prom 4: Monster Con","releaseDate":"2025-04-24","source":"historical"},"2183650":{"rank":528,"estimate":"40k+","name":"MEGA MAN X DiVE Offline","releaseDate":"2023-08-31","source":"historical"},"2678990":{"rank":588,"estimate":"40k+","name":"Minami Lane","releaseDate":"2024-02-28","source":"historical"},"2184350":{"rank":603,"estimate":"40k+","name":"Guild Saga: Vanished Worlds","releaseDate":"2024-10-10","source":"historical"},"1966010":{"rank":667,"estimate":"40k+","name":"Jurassic World Evolution 2: Dominion Biosyn Expansion","releaseDate":"2022-06-14","source":"historical"},"865680":{"rank":669,"estimate":"40k+","name":"The Eternal Cylinder","releaseDate":"2022-10-13","source":"historical"},"1027810":{"rank":803,"estimate":"40k+","name":"ZooKeeper","releaseDate":"2022-08-18","source":"historical"},"2244470":{"rank":892,"estimate":"40k+","name":"Train Valley World","releaseDate":"2024-08-09","source":"historical"},"1778330":{"rank":975,"estimate":"40k+","name":"Succubus Girl","releaseDate":"2023-10-24","source":"historical"},"1932680":{"rank":998,"estimate":"40k+","name":"LunarLux","releaseDate":"2023-09-25","source":"historical"},"2673490":{"rank":1158,"estimate":"25k+","name":"Seifuku Kanojo","releaseDate":"2024-04-02","source":"historical"},"1926270":{"rank":1677,"estimate":"15k+","name":"Bloodhound","releaseDate":"2023-07-18","source":"historical"},"2305500":{"rank":1823,"estimate":"15k+","name":"FAIRY TAIL: DUNGEONS","releaseDate":"2024-08-26","source":"historical"},"2311530":{"rank":1918,"estimate":"15k+","name":"Princess Maker 2 Regeneration","releaseDate":"2024-07-10","source":"historical"},"2774830":{"rank":1938,"estimate":"15k+","name":"Seven Lovers In The House","releaseDate":"2024-03-26","source":"historical"},"1374860":{"rank":2079,"estimate":"7k+","name":"Nocturne","releaseDate":"2026-09-24","source":"historical"},"2702170":{"rank":2120,"estimate":"7k+","name":"Strange Jigsaws","releaseDate":"2025-08-07","source":"historical"},"2858150":{"rank":2200,"estimate":"7k+","name":"Airships: Lost Flotilla","releaseDate":"2025-01-23","source":"historical"},"2712540":{"rank":2284,"estimate":"7k+","name":"完蛋！我也能追到美女了！","releaseDate":"2023-12-28","source":"historical"},"1600910":{"rank":2314,"estimate":"7k+","name":"Demon's Mirror","releaseDate":"2024-09-05","source":"historical"},"2276040":{"rank":2372,"estimate":"7k+","name":"FROGGONIT","releaseDate":"2026-03-06","source":"historical"},"2219450":{"rank":2516,"estimate":"7k+","name":"Seer's Gambit","releaseDate":"2024-11-18","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 40,
+  "entries": {
+    "607080": {
+      "rank": 2,
+      "estimate": "1.5m+",
+      "name": "Psychonauts 2",
+      "releaseDate": "2021-08-24",
+      "source": "historical"
+    },
+    "865680": {
+      "rank": 669,
+      "estimate": "40k+",
+      "name": "The Eternal Cylinder",
+      "releaseDate": "2022-10-13",
+      "source": "historical"
+    },
+    "962130": {
+      "rank": 17,
+      "estimate": "800k+",
+      "name": "Grounded",
+      "releaseDate": "2022-09-27",
+      "source": "historical"
+    },
+    "1027810": {
+      "rank": 803,
+      "estimate": "40k+",
+      "name": "ZooKeeper",
+      "releaseDate": "2022-08-18",
+      "source": "historical"
+    },
+    "1113560": {
+      "rank": 10,
+      "estimate": "1.5m+",
+      "name": "NieR Replicant™ ver.1.22474487139...",
+      "releaseDate": "2021-04-23",
+      "source": "historical"
+    },
+    "1251930": {
+      "rank": 387,
+      "estimate": "80k+",
+      "name": "My Lovely Wife",
+      "releaseDate": "2022-06-08",
+      "source": "historical"
+    },
+    "1329880": {
+      "rank": 16,
+      "estimate": "800k+",
+      "name": "Wild West Legacy",
+      "releaseDate": "2024-08-22",
+      "source": "historical"
+    },
+    "1358710": {
+      "rank": 353,
+      "estimate": "80k+",
+      "name": "Battle Cry of Freedom",
+      "releaseDate": "2022-03-01",
+      "source": "historical"
+    },
+    "1374860": {
+      "rank": 2079,
+      "estimate": "7k+",
+      "name": "Nocturne",
+      "releaseDate": "2026-09-24",
+      "source": "historical"
+    },
+    "1411910": {
+      "rank": 168,
+      "estimate": "200k+",
+      "name": "Fallen Aces",
+      "releaseDate": "2024-06-14",
+      "source": "historical"
+    },
+    "1506830": {
+      "rank": 134,
+      "estimate": "200k+",
+      "name": "FIFA 22",
+      "releaseDate": "2021-10-01",
+      "source": "historical"
+    },
+    "1600910": {
+      "rank": 2314,
+      "estimate": "7k+",
+      "name": "Demon's Mirror",
+      "releaseDate": "2024-09-05",
+      "source": "historical"
+    },
+    "1671200": {
+      "rank": 418,
+      "estimate": "80k+",
+      "name": "Honkai Impact 3rd",
+      "releaseDate": "2021-10-21",
+      "source": "historical"
+    },
+    "1778330": {
+      "rank": 975,
+      "estimate": "40k+",
+      "name": "Succubus Girl",
+      "releaseDate": "2023-10-24",
+      "source": "historical"
+    },
+    "1877020": {
+      "rank": 253,
+      "estimate": "80k+",
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "releaseDate": "2024-02-01",
+      "source": "historical"
+    },
+    "1926270": {
+      "rank": 1677,
+      "estimate": "15k+",
+      "name": "Bloodhound",
+      "releaseDate": "2023-07-18",
+      "source": "historical"
+    },
+    "1932680": {
+      "rank": 998,
+      "estimate": "40k+",
+      "name": "LunarLux",
+      "releaseDate": "2023-09-25",
+      "source": "historical"
+    },
+    "1966010": {
+      "rank": 667,
+      "estimate": "40k+",
+      "name": "Jurassic World Evolution 2: Dominion Biosyn Expansion",
+      "releaseDate": "2022-06-14",
+      "source": "historical"
+    },
+    "2074620": {
+      "rank": 435,
+      "estimate": "80k+",
+      "name": "Ars Notoria",
+      "releaseDate": "2025-11-27",
+      "source": "historical"
+    },
+    "2101960": {
+      "rank": 23,
+      "estimate": "600k+",
+      "name": "Cronos: The New Dawn",
+      "releaseDate": "2025-09-05",
+      "source": "historical"
+    },
+    "2116120": {
+      "rank": 203,
+      "estimate": "80k+",
+      "name": "Incursion Red River",
+      "releaseDate": "2024-04-10",
+      "source": "historical"
+    },
+    "2183650": {
+      "rank": 528,
+      "estimate": "40k+",
+      "name": "MEGA MAN X DiVE Offline",
+      "releaseDate": "2023-08-31",
+      "source": "historical"
+    },
+    "2184350": {
+      "rank": 603,
+      "estimate": "40k+",
+      "name": "Guild Saga: Vanished Worlds",
+      "releaseDate": "2024-10-10",
+      "source": "historical"
+    },
+    "2219450": {
+      "rank": 2516,
+      "estimate": "7k+",
+      "name": "Seer's Gambit",
+      "releaseDate": "2024-11-18",
+      "source": "historical"
+    },
+    "2244470": {
+      "rank": 892,
+      "estimate": "40k+",
+      "name": "Train Valley World",
+      "releaseDate": "2024-08-09",
+      "source": "historical"
+    },
+    "2276040": {
+      "rank": 2372,
+      "estimate": "7k+",
+      "name": "FROGGONIT",
+      "releaseDate": "2026-03-06",
+      "source": "historical"
+    },
+    "2305500": {
+      "rank": 1823,
+      "estimate": "15k+",
+      "name": "FAIRY TAIL: DUNGEONS",
+      "releaseDate": "2024-08-26",
+      "source": "historical"
+    },
+    "2311530": {
+      "rank": 1918,
+      "estimate": "15k+",
+      "name": "Princess Maker 2 Regeneration",
+      "releaseDate": "2024-07-10",
+      "source": "historical"
+    },
+    "2673490": {
+      "rank": 1158,
+      "estimate": "25k+",
+      "name": "Seifuku Kanojo",
+      "releaseDate": "2024-04-02",
+      "source": "historical"
+    },
+    "2678990": {
+      "rank": 588,
+      "estimate": "40k+",
+      "name": "Minami Lane",
+      "releaseDate": "2024-02-28",
+      "source": "historical"
+    },
+    "2692990": {
+      "rank": 10,
+      "estimate": "1.5m+",
+      "name": "DON'T SCREAM TOGETHER",
+      "releaseDate": "2025-12-03",
+      "source": "historical"
+    },
+    "2702170": {
+      "rank": 2120,
+      "estimate": "7k+",
+      "name": "Strange Jigsaws",
+      "releaseDate": "2025-08-07",
+      "source": "historical"
+    },
+    "2712540": {
+      "rank": 2284,
+      "estimate": "7k+",
+      "name": "完蛋！我也能追到美女了！",
+      "releaseDate": "2023-12-28",
+      "source": "historical"
+    },
+    "2774830": {
+      "rank": 1938,
+      "estimate": "15k+",
+      "name": "Seven Lovers In The House",
+      "releaseDate": "2024-03-26",
+      "source": "historical"
+    },
+    "2858150": {
+      "rank": 2200,
+      "estimate": "7k+",
+      "name": "Airships: Lost Flotilla",
+      "releaseDate": "2025-01-23",
+      "source": "historical"
+    },
+    "2869860": {
+      "rank": 457,
+      "estimate": "80k+",
+      "name": "Monster Prom 4: Monster Con",
+      "releaseDate": "2025-04-24",
+      "source": "historical"
+    },
+    "3280350": {
+      "rank": 31,
+      "estimate": "600k+",
+      "name": "DEATH STRANDING 2: ON THE BEACH",
+      "releaseDate": "2026-03-19",
+      "source": "historical"
+    },
+    "3347280": {
+      "rank": 30,
+      "estimate": "600k+",
+      "name": ".HEADSPACE",
+      "releaseDate": "2025-10-20",
+      "source": "historical"
+    },
+    "3558400": {
+      "rank": 5,
+      "estimate": "1.5m+",
+      "name": "Backseat Drivers",
+      "releaseDate": "2025-10-09",
+      "source": "historical"
+    },
+    "3681010": {
+      "rank": 46,
+      "estimate": "600k+",
+      "name": "Nioh 3",
+      "releaseDate": "2026-02-05",
+      "source": "historical"
+    }
+  }
+}

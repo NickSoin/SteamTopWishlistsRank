@@ -1,1 +1,78 @@
-{"schemaVersion":2,"kind":"current","updatedAt":"2026-05-17T10:30:33.338Z","entryCount":14,"entries":{"744200":{"rank":2811,"estimate":"7k+","name":"Altiros"},"1166890":{"rank":410,"estimate":"80k+","name":"Necrofugitive"},"1218780":{"rank":2820,"estimate":"7k+","name":"Little Shop of Junk"},"1795090":{"rank":3780,"estimate":"<7k","name":"Monastery Builder"},"1883360":{"rank":1482,"estimate":"25k+","name":"The White Raven"},"2482760":{"rank":1497,"estimate":"25k+","name":"Hunting Simulator 3"},"2792540":{"rank":2950,"estimate":"7k+","name":"Anima Keeper"},"2929250":{"rank":25,"estimate":"600k+","name":"over the hill"},"3100690":{"rank":696,"estimate":"40k+","name":"Dust & Diesel: Deadland Delivery"},"3725190":{"rank":458,"estimate":"80k+","name":"There Are No Ghosts at the Grand"},"3768760":{"rank":19,"estimate":"800k+","name":"007 First Light"},"3812830":{"rank":1259,"estimate":"25k+","name":"Tiny Delivery"},"4232910":{"rank":4155,"estimate":"<7k","name":"Crusader Kings III: Silk & Silver"},"4570720":{"rank":486,"estimate":"80k+","name":"DragonSword : Awakening"}}}
+{
+  "schemaVersion": 2,
+  "kind": "current",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 14,
+  "entries": {
+    "744200": {
+      "rank": 2811,
+      "estimate": "7k+",
+      "name": "Altiros"
+    },
+    "1166890": {
+      "rank": 411,
+      "estimate": "80k+",
+      "name": "Necrofugitive"
+    },
+    "1218780": {
+      "rank": 2822,
+      "estimate": "7k+",
+      "name": "Little Shop of Junk"
+    },
+    "1795090": {
+      "rank": 3781,
+      "estimate": "<7k",
+      "name": "Monastery Builder"
+    },
+    "1883360": {
+      "rank": 1483,
+      "estimate": "25k+",
+      "name": "The White Raven"
+    },
+    "2482760": {
+      "rank": 1498,
+      "estimate": "25k+",
+      "name": "Hunting Simulator 3"
+    },
+    "2792540": {
+      "rank": 2951,
+      "estimate": "7k+",
+      "name": "Anima Keeper"
+    },
+    "2929250": {
+      "rank": 25,
+      "estimate": "600k+",
+      "name": "over the hill"
+    },
+    "3100690": {
+      "rank": 698,
+      "estimate": "40k+",
+      "name": "Dust & Diesel: Deadland Delivery"
+    },
+    "3725190": {
+      "rank": 458,
+      "estimate": "80k+",
+      "name": "There Are No Ghosts at the Grand"
+    },
+    "3768760": {
+      "rank": 19,
+      "estimate": "800k+",
+      "name": "007 First Light"
+    },
+    "3812830": {
+      "rank": 1258,
+      "estimate": "25k+",
+      "name": "Tiny Delivery"
+    },
+    "4232910": {
+      "rank": 4149,
+      "estimate": "<7k",
+      "name": "Crusader Kings III: Silk & Silver"
+    },
+    "4570720": {
+      "rank": 485,
+      "estimate": "80k+",
+      "name": "DragonSword : Awakening"
+    }
+  }
+}

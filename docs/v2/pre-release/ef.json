@@ -1,1 +1,183 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":25,"entries":{"2157830":{"rank":13,"estimate":"800k+","name":"John Carpenter's Toxic Commando","releaseDate":"2026-03-12","source":"historical"},"2828710":{"rank":36,"estimate":"600k+","name":"Valor Mortis","releaseDate":"2026-01-01","source":"historical"},"1442520":{"rank":133,"estimate":"200k+","name":"Akatori","releaseDate":"2026-01-01","source":"historical"},"1401730":{"rank":268,"estimate":"80k+","name":"Crashlands 2","releaseDate":"2025-04-10","source":"historical"},"1231560":{"rank":269,"estimate":"80k+","name":"Aurelia","releaseDate":"2024-12-17","source":"historical"},"2020710":{"rank":340,"estimate":"80k+","name":"Havendock","releaseDate":"2025-04-22","source":"historical"},"1718870":{"rank":516,"estimate":"40k+","name":"Spaceflight Simulator","releaseDate":"2022-02-17","source":"historical"},"2421410":{"rank":517,"estimate":"40k+","name":"Cyber Manhunt 2: New World - The Hacking Simulator","releaseDate":"2025-01-20","source":"historical"},"1387500":{"rank":636,"estimate":"40k+","name":"Offroad Mechanic Simulator","releaseDate":"2023-07-24","source":"historical"},"1546310":{"rank":681,"estimate":"40k+","name":"El Paso, Elsewhere","releaseDate":"2023-09-26","source":"historical"},"1659360":{"rank":685,"estimate":"40k+","name":"Townseek","releaseDate":"2026-01-01","source":"historical"},"2672430":{"rank":708,"estimate":"40k+","name":"Guardians of Eden-Embrace of the Forest","releaseDate":"2024-03-07","source":"historical"},"2529790":{"rank":811,"estimate":"40k+","name":"GRIME II","releaseDate":"2026-03-31","source":"historical"},"1342060":{"rank":844,"estimate":"40k+","name":"The Dead End","releaseDate":"2022-05-13","source":"historical"},"1599880":{"rank":1100,"estimate":"25k+","name":"Cats in Time","releaseDate":"2021-08-26","source":"historical"},"2397450":{"rank":1233,"estimate":"25k+","name":"Dust Raiders","releaseDate":"2025-07-17","source":"historical"},"2256450":{"rank":1317,"estimate":"25k+","name":"RAM: Random Access Mayhem","releaseDate":"2025-09-15","source":"historical"},"1778300":{"rank":1388,"estimate":"25k+","name":"Fallen Saint","releaseDate":"2026-01-01","source":"historical"},"1982080":{"rank":1440,"estimate":"25k+","name":"Animal Shelter - Puppies & Kittens DLC","releaseDate":"2022-07-25","source":"historical"},"1552500":{"rank":1455,"estimate":"25k+","name":"Slimekeep","releaseDate":"2025-04-07","source":"historical"},"1677900":{"rank":2056,"estimate":"7k+","name":"Relentless Frontier","releaseDate":"2024-07-24","source":"historical"},"2734310":{"rank":2133,"estimate":"7k+","name":"Xiangsheng Simulator","releaseDate":"2024-02-04","source":"historical"},"2781750":{"rank":2207,"estimate":"7k+","name":"Sisters: Last Day of Summer","releaseDate":"2024-06-03","source":"historical"},"2743460":{"rank":2945,"estimate":"7k+","name":"Granvir","releaseDate":"2025-09-23","source":"historical"},"2216850":{"rank":2963,"estimate":"7k+","name":"Battle Vision Network","releaseDate":"2026-01-01","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 25,
+  "entries": {
+    "1231560": {
+      "rank": 269,
+      "estimate": "80k+",
+      "name": "Aurelia",
+      "releaseDate": "2024-12-17",
+      "source": "historical"
+    },
+    "1342060": {
+      "rank": 844,
+      "estimate": "40k+",
+      "name": "The Dead End",
+      "releaseDate": "2022-05-13",
+      "source": "historical"
+    },
+    "1387500": {
+      "rank": 636,
+      "estimate": "40k+",
+      "name": "Offroad Mechanic Simulator",
+      "releaseDate": "2023-07-24",
+      "source": "historical"
+    },
+    "1401730": {
+      "rank": 268,
+      "estimate": "80k+",
+      "name": "Crashlands 2",
+      "releaseDate": "2025-04-10",
+      "source": "historical"
+    },
+    "1442520": {
+      "rank": 133,
+      "estimate": "200k+",
+      "name": "Akatori",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "1546310": {
+      "rank": 681,
+      "estimate": "40k+",
+      "name": "El Paso, Elsewhere",
+      "releaseDate": "2023-09-26",
+      "source": "historical"
+    },
+    "1552500": {
+      "rank": 1455,
+      "estimate": "25k+",
+      "name": "Slimekeep",
+      "releaseDate": "2025-04-07",
+      "source": "historical"
+    },
+    "1599880": {
+      "rank": 1100,
+      "estimate": "25k+",
+      "name": "Cats in Time",
+      "releaseDate": "2021-08-26",
+      "source": "historical"
+    },
+    "1659360": {
+      "rank": 685,
+      "estimate": "40k+",
+      "name": "Townseek",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "1677900": {
+      "rank": 2056,
+      "estimate": "7k+",
+      "name": "Relentless Frontier",
+      "releaseDate": "2024-07-24",
+      "source": "historical"
+    },
+    "1718870": {
+      "rank": 516,
+      "estimate": "40k+",
+      "name": "Spaceflight Simulator",
+      "releaseDate": "2022-02-17",
+      "source": "historical"
+    },
+    "1778300": {
+      "rank": 1388,
+      "estimate": "25k+",
+      "name": "Fallen Saint",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "1982080": {
+      "rank": 1440,
+      "estimate": "25k+",
+      "name": "Animal Shelter - Puppies & Kittens DLC",
+      "releaseDate": "2022-07-25",
+      "source": "historical"
+    },
+    "2020710": {
+      "rank": 340,
+      "estimate": "80k+",
+      "name": "Havendock",
+      "releaseDate": "2025-04-22",
+      "source": "historical"
+    },
+    "2157830": {
+      "rank": 13,
+      "estimate": "800k+",
+      "name": "John Carpenter's Toxic Commando",
+      "releaseDate": "2026-03-12",
+      "source": "historical"
+    },
+    "2216850": {
+      "rank": 2963,
+      "estimate": "7k+",
+      "name": "Battle Vision Network",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2256450": {
+      "rank": 1317,
+      "estimate": "25k+",
+      "name": "RAM: Random Access Mayhem",
+      "releaseDate": "2025-09-15",
+      "source": "historical"
+    },
+    "2397450": {
+      "rank": 1233,
+      "estimate": "25k+",
+      "name": "Dust Raiders",
+      "releaseDate": "2025-07-17",
+      "source": "historical"
+    },
+    "2421410": {
+      "rank": 517,
+      "estimate": "40k+",
+      "name": "Cyber Manhunt 2: New World - The Hacking Simulator",
+      "releaseDate": "2025-01-20",
+      "source": "historical"
+    },
+    "2529790": {
+      "rank": 811,
+      "estimate": "40k+",
+      "name": "GRIME II",
+      "releaseDate": "2026-03-31",
+      "source": "historical"
+    },
+    "2672430": {
+      "rank": 708,
+      "estimate": "40k+",
+      "name": "Guardians of Eden-Embrace of the Forest",
+      "releaseDate": "2024-03-07",
+      "source": "historical"
+    },
+    "2734310": {
+      "rank": 2133,
+      "estimate": "7k+",
+      "name": "Xiangsheng Simulator",
+      "releaseDate": "2024-02-04",
+      "source": "historical"
+    },
+    "2743460": {
+      "rank": 2945,
+      "estimate": "7k+",
+      "name": "Granvir",
+      "releaseDate": "2025-09-23",
+      "source": "historical"
+    },
+    "2781750": {
+      "rank": 2207,
+      "estimate": "7k+",
+      "name": "Sisters: Last Day of Summer",
+      "releaseDate": "2024-06-03",
+      "source": "historical"
+    },
+    "2828710": {
+      "rank": 36,
+      "estimate": "600k+",
+      "name": "Valor Mortis",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    }
+  }
+}

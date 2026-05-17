@@ -1,1 +1,178 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":24,"entries":{"978520":{"rank":41,"estimate":"600k+","name":"Legend of Keepers: Career of a Dungeon Manager","releaseDate":"2021-04-29","source":"historical"},"3460400":{"rank":46,"estimate":"600k+","name":"Harrowlands","releaseDate":"2026-01-01","source":"historical"},"1429500":{"rank":223,"estimate":"80k+","name":"Frontier Hunter: Erza’s Wheel of Fortune","releaseDate":"2024-07-26","source":"historical"},"1283410":{"rank":257,"estimate":"80k+","name":"Tails of Iron","releaseDate":"2021-09-17","source":"historical"},"2315400":{"rank":311,"estimate":"80k+","name":"Knights in Tight Spaces","releaseDate":"2025-03-04","source":"historical"},"1179890":{"rank":469,"estimate":"80k+","name":"Pull Stay","releaseDate":"2025-03-31","source":"historical"},"1054430":{"rank":492,"estimate":"80k+","name":"Fling to the Finish","releaseDate":"2024-01-18","source":"historical"},"1522960":{"rank":504,"estimate":"40k+","name":"Anemoiapolis: Chapter 1","releaseDate":"2023-03-03","source":"historical"},"2952300":{"rank":565,"estimate":"40k+","name":"Oxygen Not Included: The Frosty Planet Pack","releaseDate":"2024-07-18","source":"historical"},"1147860":{"rank":667,"estimate":"40k+","name":"UFO 50","releaseDate":"2024-09-18","source":"historical"},"2187290":{"rank":769,"estimate":"40k+","name":"Wall World","releaseDate":"2023-04-05","source":"historical"},"1042600":{"rank":781,"estimate":"40k+","name":"Demon Queen Melissa","releaseDate":"2023-01-20","source":"historical"},"1599070":{"rank":1064,"estimate":"25k+","name":"Stardiver","releaseDate":"2024-09-12","source":"historical"},"1530800":{"rank":1216,"estimate":"25k+","name":"Frank and Drake","releaseDate":"2023-07-20","source":"historical"},"2000120":{"rank":1347,"estimate":"25k+","name":"Time Flies","releaseDate":"2025-07-31","source":"historical"},"2361560":{"rank":1472,"estimate":"25k+","name":"Dr. Emmerson's Nocturnes","releaseDate":"2026-01-01","source":"historical"},"1648532":{"rank":1733,"estimate":"15k+","name":"Icarus: New Frontiers Expansion","releaseDate":"2023-08-24","source":"historical"},"2333000":{"rank":1911,"estimate":"15k+","name":"Silver Pines","releaseDate":"2026-01-01","source":"historical"},"1919900":{"rank":2258,"estimate":"7k+","name":"Dreamed Away","releaseDate":"2025-10-23","source":"historical"},"1475310":{"rank":2340,"estimate":"7k+","name":"Factory Magnate","releaseDate":"2026-04-28","source":"historical"},"1648190":{"rank":2484,"estimate":"7k+","name":"QANGA","releaseDate":"2024-09-02","source":"historical"},"1372660":{"rank":2682,"estimate":"20k","actualWishlists":20000,"name":"An Amazing Wizard","releaseDate":"2025-05-22","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1793384379526697"},"2073030":{"rank":2776,"estimate":"7k+","name":"Priestess Lust","releaseDate":"2025-09-14","source":"historical"},"2449530":{"rank":3082,"estimate":"<7k","name":"Gehenna","releaseDate":"2024-12-13","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 24,
+  "entries": {
+    "978520": {
+      "rank": 41,
+      "estimate": "600k+",
+      "name": "Legend of Keepers: Career of a Dungeon Manager",
+      "releaseDate": "2021-04-29",
+      "source": "historical"
+    },
+    "1042600": {
+      "rank": 781,
+      "estimate": "40k+",
+      "name": "Demon Queen Melissa",
+      "releaseDate": "2023-01-20",
+      "source": "historical"
+    },
+    "1054430": {
+      "rank": 492,
+      "estimate": "80k+",
+      "name": "Fling to the Finish",
+      "releaseDate": "2024-01-18",
+      "source": "historical"
+    },
+    "1147860": {
+      "rank": 667,
+      "estimate": "40k+",
+      "name": "UFO 50",
+      "releaseDate": "2024-09-18",
+      "source": "historical"
+    },
+    "1179890": {
+      "rank": 469,
+      "estimate": "80k+",
+      "name": "Pull Stay",
+      "releaseDate": "2025-03-31",
+      "source": "historical"
+    },
+    "1283410": {
+      "rank": 257,
+      "estimate": "80k+",
+      "name": "Tails of Iron",
+      "releaseDate": "2021-09-17",
+      "source": "historical"
+    },
+    "1372660": {
+      "rank": 2682,
+      "estimate": "20k",
+      "actualWishlists": 20000,
+      "name": "An Amazing Wizard",
+      "releaseDate": "2025-05-22",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1793384379526697"
+    },
+    "1429500": {
+      "rank": 223,
+      "estimate": "80k+",
+      "name": "Frontier Hunter: Erza’s Wheel of Fortune",
+      "releaseDate": "2024-07-26",
+      "source": "historical"
+    },
+    "1475310": {
+      "rank": 2340,
+      "estimate": "7k+",
+      "name": "Factory Magnate",
+      "releaseDate": "2026-04-28",
+      "source": "historical"
+    },
+    "1522960": {
+      "rank": 504,
+      "estimate": "40k+",
+      "name": "Anemoiapolis: Chapter 1",
+      "releaseDate": "2023-03-03",
+      "source": "historical"
+    },
+    "1530800": {
+      "rank": 1216,
+      "estimate": "25k+",
+      "name": "Frank and Drake",
+      "releaseDate": "2023-07-20",
+      "source": "historical"
+    },
+    "1599070": {
+      "rank": 1064,
+      "estimate": "25k+",
+      "name": "Stardiver",
+      "releaseDate": "2024-09-12",
+      "source": "historical"
+    },
+    "1648190": {
+      "rank": 2484,
+      "estimate": "7k+",
+      "name": "QANGA",
+      "releaseDate": "2024-09-02",
+      "source": "historical"
+    },
+    "1648532": {
+      "rank": 1733,
+      "estimate": "15k+",
+      "name": "Icarus: New Frontiers Expansion",
+      "releaseDate": "2023-08-24",
+      "source": "historical"
+    },
+    "1919900": {
+      "rank": 2258,
+      "estimate": "7k+",
+      "name": "Dreamed Away",
+      "releaseDate": "2025-10-23",
+      "source": "historical"
+    },
+    "2000120": {
+      "rank": 1347,
+      "estimate": "25k+",
+      "name": "Time Flies",
+      "releaseDate": "2025-07-31",
+      "source": "historical"
+    },
+    "2073030": {
+      "rank": 2776,
+      "estimate": "7k+",
+      "name": "Priestess Lust",
+      "releaseDate": "2025-09-14",
+      "source": "historical"
+    },
+    "2187290": {
+      "rank": 769,
+      "estimate": "40k+",
+      "name": "Wall World",
+      "releaseDate": "2023-04-05",
+      "source": "historical"
+    },
+    "2315400": {
+      "rank": 311,
+      "estimate": "80k+",
+      "name": "Knights in Tight Spaces",
+      "releaseDate": "2025-03-04",
+      "source": "historical"
+    },
+    "2333000": {
+      "rank": 1911,
+      "estimate": "15k+",
+      "name": "Silver Pines",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2361560": {
+      "rank": 1472,
+      "estimate": "25k+",
+      "name": "Dr. Emmerson's Nocturnes",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2449530": {
+      "rank": 3082,
+      "estimate": "<7k",
+      "name": "Gehenna",
+      "releaseDate": "2024-12-13",
+      "source": "historical"
+    },
+    "2952300": {
+      "rank": 565,
+      "estimate": "40k+",
+      "name": "Oxygen Not Included: The Frosty Planet Pack",
+      "releaseDate": "2024-07-18",
+      "source": "historical"
+    },
+    "3460400": {
+      "rank": 46,
+      "estimate": "600k+",
+      "name": "Harrowlands",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    }
+  }
+}

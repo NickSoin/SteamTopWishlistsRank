@@ -1,1 +1,129 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":17,"entries":{"1913120":{"rank":30,"estimate":"100k","actualWishlists":100000,"name":"Tears of Metal","releaseDate":"2026-01-01","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6339469370178879642"},"368260":{"rank":33,"estimate":"600k+","name":"Marvel's Midnight Suns","releaseDate":"2022-12-01","source":"historical"},"3478650":{"rank":39,"estimate":"600k+","name":"FreshWomen - Season 2","releaseDate":"2025-10-23","source":"historical"},"1029690":{"rank":47,"estimate":"600k+","name":"Sniper Elite 5","releaseDate":"2022-05-25","source":"historical"},"1740720":{"rank":50,"estimate":"600k+","name":"Have a Nice Death","releaseDate":"2023-03-22","source":"historical"},"1730590":{"rank":164,"estimate":"200k+","name":"The Entropy Centre","releaseDate":"2022-11-03","source":"historical"},"1793250":{"rank":343,"estimate":"80k+","name":"Take Me To The Dungeon!!","releaseDate":"2023-06-28","source":"historical"},"2736340":{"rank":488,"estimate":"80k+","name":"Kingdom Two Crowns: Call of Olympus","releaseDate":"2024-10-08","source":"historical"},"1184560":{"rank":539,"estimate":"40k+","name":"Phantom Breaker: Omnia","releaseDate":"2022-03-14","source":"historical"},"801800":{"rank":772,"estimate":"40k+","name":"Atomfall","releaseDate":"2025-03-27","source":"historical"},"2171840":{"rank":1227,"estimate":"25k+","name":"Project: Mirror","releaseDate":"2023-01-23","source":"historical"},"2114760":{"rank":1248,"estimate":"25k+","name":"Crusader Kings III: Friends & Foes","releaseDate":"2022-09-08","source":"historical"},"1619570":{"rank":1258,"estimate":"25k+","name":"Death Roads: Tournament","releaseDate":"2023-11-15","source":"historical"},"2867570":{"rank":1363,"estimate":"25k+","name":"Stacklands 2000","releaseDate":"2024-10-30","source":"historical"},"2291520":{"rank":1976,"estimate":"15k+","name":"Dagon - The Railway Horror DLC","releaseDate":"2023-10-08","source":"historical"},"2739590":{"rank":2021,"estimate":"7k+","name":"Mad Island","releaseDate":"2024-05-23","source":"historical"},"1931380":{"rank":2779,"estimate":"7k+","name":"Sift Heads - Cartels 4","releaseDate":"2024-08-01","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 17,
+  "entries": {
+    "368260": {
+      "rank": 33,
+      "estimate": "600k+",
+      "name": "Marvel's Midnight Suns",
+      "releaseDate": "2022-12-01",
+      "source": "historical"
+    },
+    "801800": {
+      "rank": 772,
+      "estimate": "40k+",
+      "name": "Atomfall",
+      "releaseDate": "2025-03-27",
+      "source": "historical"
+    },
+    "1029690": {
+      "rank": 47,
+      "estimate": "600k+",
+      "name": "Sniper Elite 5",
+      "releaseDate": "2022-05-25",
+      "source": "historical"
+    },
+    "1184560": {
+      "rank": 539,
+      "estimate": "40k+",
+      "name": "Phantom Breaker: Omnia",
+      "releaseDate": "2022-03-14",
+      "source": "historical"
+    },
+    "1619570": {
+      "rank": 1258,
+      "estimate": "25k+",
+      "name": "Death Roads: Tournament",
+      "releaseDate": "2023-11-15",
+      "source": "historical"
+    },
+    "1730590": {
+      "rank": 164,
+      "estimate": "200k+",
+      "name": "The Entropy Centre",
+      "releaseDate": "2022-11-03",
+      "source": "historical"
+    },
+    "1740720": {
+      "rank": 50,
+      "estimate": "600k+",
+      "name": "Have a Nice Death",
+      "releaseDate": "2023-03-22",
+      "source": "historical"
+    },
+    "1793250": {
+      "rank": 343,
+      "estimate": "80k+",
+      "name": "Take Me To The Dungeon!!",
+      "releaseDate": "2023-06-28",
+      "source": "historical"
+    },
+    "1913120": {
+      "rank": 30,
+      "estimate": "100k",
+      "actualWishlists": 100000,
+      "name": "Tears of Metal",
+      "releaseDate": "2026-01-01",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6339469370178879642"
+    },
+    "1931380": {
+      "rank": 2779,
+      "estimate": "7k+",
+      "name": "Sift Heads - Cartels 4",
+      "releaseDate": "2024-08-01",
+      "source": "historical"
+    },
+    "2114760": {
+      "rank": 1248,
+      "estimate": "25k+",
+      "name": "Crusader Kings III: Friends & Foes",
+      "releaseDate": "2022-09-08",
+      "source": "historical"
+    },
+    "2171840": {
+      "rank": 1227,
+      "estimate": "25k+",
+      "name": "Project: Mirror",
+      "releaseDate": "2023-01-23",
+      "source": "historical"
+    },
+    "2291520": {
+      "rank": 1976,
+      "estimate": "15k+",
+      "name": "Dagon - The Railway Horror DLC",
+      "releaseDate": "2023-10-08",
+      "source": "historical"
+    },
+    "2736340": {
+      "rank": 488,
+      "estimate": "80k+",
+      "name": "Kingdom Two Crowns: Call of Olympus",
+      "releaseDate": "2024-10-08",
+      "source": "historical"
+    },
+    "2739590": {
+      "rank": 2021,
+      "estimate": "7k+",
+      "name": "Mad Island",
+      "releaseDate": "2024-05-23",
+      "source": "historical"
+    },
+    "2867570": {
+      "rank": 1363,
+      "estimate": "25k+",
+      "name": "Stacklands 2000",
+      "releaseDate": "2024-10-30",
+      "source": "historical"
+    },
+    "3478650": {
+      "rank": 39,
+      "estimate": "600k+",
+      "name": "FreshWomen - Season 2",
+      "releaseDate": "2025-10-23",
+      "source": "historical"
+    }
+  }
+}

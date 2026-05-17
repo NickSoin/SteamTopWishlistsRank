@@ -1,1 +1,157 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":21,"entries":{"2622380":{"rank":1,"estimate":"4m+","name":"ELDEN RING NIGHTREIGN","releaseDate":"2025-05-29","source":"historical"},"758690":{"rank":7,"estimate":"1.5m+","name":"Occupy Mars: The Game","releaseDate":"2026-01-30","source":"historical"},"2021880":{"rank":7,"estimate":"1.5m+","name":"Ara History Untold: Anniversary Edition ","releaseDate":"2024-09-24","source":"historical"},"1519090":{"rank":13,"estimate":"800k+","name":"Welcome to ParadiZe","releaseDate":"2024-02-29","source":"historical"},"1432850":{"rank":17,"estimate":"800k+","name":"Farewell North","releaseDate":"2024-08-16","source":"historical"},"814000":{"rank":77,"estimate":"300k+","name":"ONE PIECE ODYSSEY","releaseDate":"2023-01-12","source":"historical"},"1244800":{"rank":174,"estimate":"200k+","name":"Terraformers","releaseDate":"2023-03-09","source":"historical"},"1366560":{"rank":708,"estimate":"50k","actualWishlists":50000,"name":"MiLE HiGH TAXi","releaseDate":"2023-03-13","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5035620840550766033"},"1737100":{"rank":710,"estimate":"40k+","name":"Treasure of Nadia","releaseDate":"2022-02-15","source":"historical"},"1734390":{"rank":924,"estimate":"40k+","name":"The Pioneers: Surviving Desolation","releaseDate":"2023-01-20","source":"historical"},"2118120":{"rank":944,"estimate":"40k+","name":"Kind Words 2 (lofi city pop)","releaseDate":"2024-10-07","source":"historical"},"1460220":{"rank":968,"estimate":"40k+","name":"Evil Nun: The Broken Mask","releaseDate":"2023-12-07","source":"historical"},"2670930":{"rank":976,"estimate":"40k+","name":"Love Is All Around-Love In The Room","releaseDate":"2024-02-04","source":"historical"},"2474860":{"rank":1000,"estimate":"40k+","name":"Wall World: Deep Threat","releaseDate":"2023-08-09","source":"historical"},"2294730":{"rank":1184,"estimate":"25k+","name":"MILFs of Sunville - Season 2","releaseDate":"2025-09-09","source":"historical"},"2139990":{"rank":1270,"estimate":"25k+","name":"Starship Troopers: Terran Command - Raising Hell","releaseDate":"2023-11-15","source":"historical"},"2647060":{"rank":2135,"estimate":"7k+","name":"LoveXLust","releaseDate":"2024-09-06","source":"historical"},"1932260":{"rank":2141,"estimate":"7k+","name":"No Creeps Were Harmed TD","releaseDate":"2024-07-27","source":"historical"},"2594010":{"rank":2253,"estimate":"7k+","name":"Tropico 6 - Going Viral","releaseDate":"2023-10-12","source":"historical"},"2576410":{"rank":2313,"estimate":"7k+","name":"Disco Samurai","releaseDate":"2025-11-14","source":"historical"},"2868050":{"rank":2357,"estimate":"7k+","name":"SimRail - The Railway Simulator: Cargo Pack","releaseDate":"2024-04-22","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 21,
+  "entries": {
+    "758690": {
+      "rank": 7,
+      "estimate": "1.5m+",
+      "name": "Occupy Mars: The Game",
+      "releaseDate": "2026-01-30",
+      "source": "historical"
+    },
+    "814000": {
+      "rank": 77,
+      "estimate": "300k+",
+      "name": "ONE PIECE ODYSSEY",
+      "releaseDate": "2023-01-12",
+      "source": "historical"
+    },
+    "1244800": {
+      "rank": 174,
+      "estimate": "200k+",
+      "name": "Terraformers",
+      "releaseDate": "2023-03-09",
+      "source": "historical"
+    },
+    "1366560": {
+      "rank": 708,
+      "estimate": "50k",
+      "actualWishlists": 50000,
+      "name": "MiLE HiGH TAXi",
+      "releaseDate": "2023-03-13",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5035620840550766033"
+    },
+    "1432850": {
+      "rank": 17,
+      "estimate": "800k+",
+      "name": "Farewell North",
+      "releaseDate": "2024-08-16",
+      "source": "historical"
+    },
+    "1460220": {
+      "rank": 968,
+      "estimate": "40k+",
+      "name": "Evil Nun: The Broken Mask",
+      "releaseDate": "2023-12-07",
+      "source": "historical"
+    },
+    "1519090": {
+      "rank": 13,
+      "estimate": "800k+",
+      "name": "Welcome to ParadiZe",
+      "releaseDate": "2024-02-29",
+      "source": "historical"
+    },
+    "1734390": {
+      "rank": 924,
+      "estimate": "40k+",
+      "name": "The Pioneers: Surviving Desolation",
+      "releaseDate": "2023-01-20",
+      "source": "historical"
+    },
+    "1737100": {
+      "rank": 710,
+      "estimate": "40k+",
+      "name": "Treasure of Nadia",
+      "releaseDate": "2022-02-15",
+      "source": "historical"
+    },
+    "1932260": {
+      "rank": 2141,
+      "estimate": "7k+",
+      "name": "No Creeps Were Harmed TD",
+      "releaseDate": "2024-07-27",
+      "source": "historical"
+    },
+    "2021880": {
+      "rank": 7,
+      "estimate": "1.5m+",
+      "name": "Ara History Untold: Anniversary Edition ",
+      "releaseDate": "2024-09-24",
+      "source": "historical"
+    },
+    "2118120": {
+      "rank": 944,
+      "estimate": "40k+",
+      "name": "Kind Words 2 (lofi city pop)",
+      "releaseDate": "2024-10-07",
+      "source": "historical"
+    },
+    "2139990": {
+      "rank": 1270,
+      "estimate": "25k+",
+      "name": "Starship Troopers: Terran Command - Raising Hell",
+      "releaseDate": "2023-11-15",
+      "source": "historical"
+    },
+    "2294730": {
+      "rank": 1184,
+      "estimate": "25k+",
+      "name": "MILFs of Sunville - Season 2",
+      "releaseDate": "2025-09-09",
+      "source": "historical"
+    },
+    "2474860": {
+      "rank": 1000,
+      "estimate": "40k+",
+      "name": "Wall World: Deep Threat",
+      "releaseDate": "2023-08-09",
+      "source": "historical"
+    },
+    "2576410": {
+      "rank": 2313,
+      "estimate": "7k+",
+      "name": "Disco Samurai",
+      "releaseDate": "2025-11-14",
+      "source": "historical"
+    },
+    "2594010": {
+      "rank": 2253,
+      "estimate": "7k+",
+      "name": "Tropico 6 - Going Viral",
+      "releaseDate": "2023-10-12",
+      "source": "historical"
+    },
+    "2622380": {
+      "rank": 1,
+      "estimate": "4m+",
+      "name": "ELDEN RING NIGHTREIGN",
+      "releaseDate": "2025-05-29",
+      "source": "historical"
+    },
+    "2647060": {
+      "rank": 2135,
+      "estimate": "7k+",
+      "name": "LoveXLust",
+      "releaseDate": "2024-09-06",
+      "source": "historical"
+    },
+    "2670930": {
+      "rank": 976,
+      "estimate": "40k+",
+      "name": "Love Is All Around-Love In The Room",
+      "releaseDate": "2024-02-04",
+      "source": "historical"
+    },
+    "2868050": {
+      "rank": 2357,
+      "estimate": "7k+",
+      "name": "SimRail - The Railway Simulator: Cargo Pack",
+      "releaseDate": "2024-04-22",
+      "source": "historical"
+    }
+  }
+}

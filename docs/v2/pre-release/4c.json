@@ -1,1 +1,157 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":21,"entries":{"3017860":{"rank":7,"estimate":"1.5m+","name":"DOOM: The Dark Ages","releaseDate":"2025-05-14","source":"historical"},"1335830":{"rank":44,"estimate":"600k+","name":"Len's Island","releaseDate":"2025-06-19","source":"historical"},"774801":{"rank":157,"estimate":"100k","actualWishlists":100000,"name":"Crab Champions","releaseDate":"2023-04-01","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4050393736354376043"},"928990":{"rank":196,"estimate":"200k+","name":"Undungeon","releaseDate":"2021-11-18","source":"historical"},"2081080":{"rank":294,"estimate":"80k+","name":"Capes","releaseDate":"2024-05-29","source":"historical"},"1869290":{"rank":535,"estimate":"40k+","name":"Supraworld","releaseDate":"2025-08-15","source":"historical"},"1301590":{"rank":678,"estimate":"40k+","name":"Beyond Mankind: The Awakening","releaseDate":"2021-08-31","source":"historical"},"1240060":{"rank":735,"estimate":"40k+","name":"A Highland Song","releaseDate":"2023-12-05","source":"historical"},"1267070":{"rank":808,"estimate":"40k+","name":"Monorail Stories","releaseDate":"2022-09-30","source":"historical"},"2502910":{"rank":969,"estimate":"40k+","name":"Immersion Pack - Europa Universalis IV: King of Kings","releaseDate":"2023-11-06","source":"historical"},"1358840":{"rank":1092,"estimate":"25k+","name":"Flat Eye","releaseDate":"2022-11-14","source":"historical"},"2493960":{"rank":1128,"estimate":"25k+","name":"Abyss","releaseDate":"2024-05-16","source":"historical"},"2400340":{"rank":1176,"estimate":"25k+","name":"Touhou Juuouen 〜 Unfinished Dream of All Living Ghost.","releaseDate":"2023-08-13","source":"historical"},"2296550":{"rank":1490,"estimate":"25k+","name":"Axon TD: Uprising - Tower Defense","releaseDate":"2024-09-27","source":"historical"},"2101890":{"rank":1521,"estimate":"15k+","name":"Zoonomaly","releaseDate":"2024-03-06","source":"historical"},"1618380":{"rank":1894,"estimate":"15k+","name":"Spellmasons","releaseDate":"2023-01-31","source":"historical"},"2549380":{"rank":1998,"estimate":"15k+","name":"Cryptical Path","releaseDate":"2025-01-29","source":"historical"},"2341070":{"rank":2165,"estimate":"7k+","name":"The Banished Vault","releaseDate":"2023-07-25","source":"historical"},"2562400":{"rank":2381,"estimate":"7k+","name":"DONG WU: ODYSSEY","releaseDate":"2024-10-30","source":"historical"},"2484160":{"rank":2496,"estimate":"7k+","name":"It was a human.","releaseDate":"2024-07-26","source":"historical"},"1722870":{"rank":2955,"estimate":"7k+","name":"Clank!","releaseDate":"2024-10-21","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 21,
+  "entries": {
+    "774801": {
+      "rank": 157,
+      "estimate": "100k",
+      "actualWishlists": 100000,
+      "name": "Crab Champions",
+      "releaseDate": "2023-04-01",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4050393736354376043"
+    },
+    "928990": {
+      "rank": 196,
+      "estimate": "200k+",
+      "name": "Undungeon",
+      "releaseDate": "2021-11-18",
+      "source": "historical"
+    },
+    "1240060": {
+      "rank": 735,
+      "estimate": "40k+",
+      "name": "A Highland Song",
+      "releaseDate": "2023-12-05",
+      "source": "historical"
+    },
+    "1267070": {
+      "rank": 808,
+      "estimate": "40k+",
+      "name": "Monorail Stories",
+      "releaseDate": "2022-09-30",
+      "source": "historical"
+    },
+    "1301590": {
+      "rank": 678,
+      "estimate": "40k+",
+      "name": "Beyond Mankind: The Awakening",
+      "releaseDate": "2021-08-31",
+      "source": "historical"
+    },
+    "1335830": {
+      "rank": 44,
+      "estimate": "600k+",
+      "name": "Len's Island",
+      "releaseDate": "2025-06-19",
+      "source": "historical"
+    },
+    "1358840": {
+      "rank": 1092,
+      "estimate": "25k+",
+      "name": "Flat Eye",
+      "releaseDate": "2022-11-14",
+      "source": "historical"
+    },
+    "1618380": {
+      "rank": 1894,
+      "estimate": "15k+",
+      "name": "Spellmasons",
+      "releaseDate": "2023-01-31",
+      "source": "historical"
+    },
+    "1722870": {
+      "rank": 2955,
+      "estimate": "7k+",
+      "name": "Clank!",
+      "releaseDate": "2024-10-21",
+      "source": "historical"
+    },
+    "1869290": {
+      "rank": 535,
+      "estimate": "40k+",
+      "name": "Supraworld",
+      "releaseDate": "2025-08-15",
+      "source": "historical"
+    },
+    "2081080": {
+      "rank": 294,
+      "estimate": "80k+",
+      "name": "Capes",
+      "releaseDate": "2024-05-29",
+      "source": "historical"
+    },
+    "2101890": {
+      "rank": 1521,
+      "estimate": "15k+",
+      "name": "Zoonomaly",
+      "releaseDate": "2024-03-06",
+      "source": "historical"
+    },
+    "2296550": {
+      "rank": 1490,
+      "estimate": "25k+",
+      "name": "Axon TD: Uprising - Tower Defense",
+      "releaseDate": "2024-09-27",
+      "source": "historical"
+    },
+    "2341070": {
+      "rank": 2165,
+      "estimate": "7k+",
+      "name": "The Banished Vault",
+      "releaseDate": "2023-07-25",
+      "source": "historical"
+    },
+    "2400340": {
+      "rank": 1176,
+      "estimate": "25k+",
+      "name": "Touhou Juuouen 〜 Unfinished Dream of All Living Ghost.",
+      "releaseDate": "2023-08-13",
+      "source": "historical"
+    },
+    "2484160": {
+      "rank": 2496,
+      "estimate": "7k+",
+      "name": "It was a human.",
+      "releaseDate": "2024-07-26",
+      "source": "historical"
+    },
+    "2493960": {
+      "rank": 1128,
+      "estimate": "25k+",
+      "name": "Abyss",
+      "releaseDate": "2024-05-16",
+      "source": "historical"
+    },
+    "2502910": {
+      "rank": 969,
+      "estimate": "40k+",
+      "name": "Immersion Pack - Europa Universalis IV: King of Kings",
+      "releaseDate": "2023-11-06",
+      "source": "historical"
+    },
+    "2549380": {
+      "rank": 1998,
+      "estimate": "15k+",
+      "name": "Cryptical Path",
+      "releaseDate": "2025-01-29",
+      "source": "historical"
+    },
+    "2562400": {
+      "rank": 2381,
+      "estimate": "7k+",
+      "name": "DONG WU: ODYSSEY",
+      "releaseDate": "2024-10-30",
+      "source": "historical"
+    },
+    "3017860": {
+      "rank": 7,
+      "estimate": "1.5m+",
+      "name": "DOOM: The Dark Ages",
+      "releaseDate": "2025-05-14",
+      "source": "historical"
+    }
+  }
+}

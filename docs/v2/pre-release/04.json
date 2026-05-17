@@ -1,1 +1,148 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":20,"entries":{"2086430":{"rank":15,"estimate":"800k+","name":"NIMRODS","releaseDate":"2024-10-28","source":"historical"},"1269520":{"rank":19,"estimate":"800k+","name":"Let Me Out","releaseDate":"2024-08-08","source":"historical"},"1940340":{"rank":23,"estimate":"600k+","name":"Darkest Dungeon® II","releaseDate":"2023-05-08","source":"historical"},"1607890":{"rank":33,"estimate":"600k+","name":"Risk of Rain 2: Survivors of the Void","releaseDate":"2022-03-01","source":"historical"},"1307660":{"rank":66,"estimate":"300k+","name":"Ravenbound","releaseDate":"2023-03-30","source":"historical"},"1585440":{"rank":200,"estimate":"200k+","name":"They Always Run","releaseDate":"2021-10-20","source":"historical"},"2138090":{"rank":273,"estimate":"80k+","name":"Atelier Marie Remake: The Alchemist of Salburg","releaseDate":"2023-07-12","source":"historical"},"1656360":{"rank":331,"estimate":"80k+","name":"Destiny 2: The Witch Queen Deluxe + Bungie 30th Anniversary Bundle","releaseDate":"2022-02-22","source":"historical"},"1701060":{"rank":368,"estimate":"80k+","name":"X4: Tides of Avarice","releaseDate":"2022-03-14","source":"historical"},"1159290":{"rank":574,"estimate":"40k+","name":"The Bloodline","releaseDate":"2023-10-05","source":"historical"},"1863670":{"rank":638,"estimate":"40k+","name":"Mystwood Manor","releaseDate":"2022-09-30","source":"historical"},"2176900":{"rank":743,"estimate":"40k+","name":"Tales of Fablecraft","releaseDate":"2024-07-23","source":"historical"},"2268560":{"rank":887,"estimate":"40k+","name":"Zombie Survival Game Online","releaseDate":"2023-12-20","source":"historical"},"2432110":{"rank":908,"estimate":"40k+","name":"WHITE ALBUM: Memories like Falling Snow","releaseDate":"2023-08-03","source":"historical"},"1909750":{"rank":1186,"estimate":"25k+","name":"Last Time I Saw You","releaseDate":"2024-10-10","source":"historical"},"2310630":{"rank":2296,"estimate":"7k+","name":"Citizens: On Mars","releaseDate":"2023-10-25","source":"historical"},"2597260":{"rank":2320,"estimate":"7k+","name":"Natsuno-Kanata: Beyond Summer","releaseDate":"2024-06-19","source":"historical"},"2492570":{"rank":2681,"estimate":"7k+","name":"Inspector Schmidt - The Ebbing","releaseDate":"2025-04-07","source":"historical"},"2224120":{"rank":2829,"estimate":"7k+","name":"Zombie Rollerz: The Last Ship","releaseDate":"2025-06-24","source":"historical"},"2749100":{"rank":2941,"estimate":"7k+","name":"Dawnmaker","releaseDate":"2024-07-31","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 20,
+  "entries": {
+    "1159290": {
+      "rank": 574,
+      "estimate": "40k+",
+      "name": "The Bloodline",
+      "releaseDate": "2023-10-05",
+      "source": "historical"
+    },
+    "1269520": {
+      "rank": 19,
+      "estimate": "800k+",
+      "name": "Let Me Out",
+      "releaseDate": "2024-08-08",
+      "source": "historical"
+    },
+    "1307660": {
+      "rank": 66,
+      "estimate": "300k+",
+      "name": "Ravenbound",
+      "releaseDate": "2023-03-30",
+      "source": "historical"
+    },
+    "1585440": {
+      "rank": 200,
+      "estimate": "200k+",
+      "name": "They Always Run",
+      "releaseDate": "2021-10-20",
+      "source": "historical"
+    },
+    "1607890": {
+      "rank": 33,
+      "estimate": "600k+",
+      "name": "Risk of Rain 2: Survivors of the Void",
+      "releaseDate": "2022-03-01",
+      "source": "historical"
+    },
+    "1656360": {
+      "rank": 331,
+      "estimate": "80k+",
+      "name": "Destiny 2: The Witch Queen Deluxe + Bungie 30th Anniversary Bundle",
+      "releaseDate": "2022-02-22",
+      "source": "historical"
+    },
+    "1701060": {
+      "rank": 368,
+      "estimate": "80k+",
+      "name": "X4: Tides of Avarice",
+      "releaseDate": "2022-03-14",
+      "source": "historical"
+    },
+    "1863670": {
+      "rank": 638,
+      "estimate": "40k+",
+      "name": "Mystwood Manor",
+      "releaseDate": "2022-09-30",
+      "source": "historical"
+    },
+    "1909750": {
+      "rank": 1186,
+      "estimate": "25k+",
+      "name": "Last Time I Saw You",
+      "releaseDate": "2024-10-10",
+      "source": "historical"
+    },
+    "1940340": {
+      "rank": 23,
+      "estimate": "600k+",
+      "name": "Darkest Dungeon® II",
+      "releaseDate": "2023-05-08",
+      "source": "historical"
+    },
+    "2086430": {
+      "rank": 15,
+      "estimate": "800k+",
+      "name": "NIMRODS",
+      "releaseDate": "2024-10-28",
+      "source": "historical"
+    },
+    "2138090": {
+      "rank": 273,
+      "estimate": "80k+",
+      "name": "Atelier Marie Remake: The Alchemist of Salburg",
+      "releaseDate": "2023-07-12",
+      "source": "historical"
+    },
+    "2176900": {
+      "rank": 743,
+      "estimate": "40k+",
+      "name": "Tales of Fablecraft",
+      "releaseDate": "2024-07-23",
+      "source": "historical"
+    },
+    "2224120": {
+      "rank": 2829,
+      "estimate": "7k+",
+      "name": "Zombie Rollerz: The Last Ship",
+      "releaseDate": "2025-06-24",
+      "source": "historical"
+    },
+    "2268560": {
+      "rank": 887,
+      "estimate": "40k+",
+      "name": "Zombie Survival Game Online",
+      "releaseDate": "2023-12-20",
+      "source": "historical"
+    },
+    "2310630": {
+      "rank": 2296,
+      "estimate": "7k+",
+      "name": "Citizens: On Mars",
+      "releaseDate": "2023-10-25",
+      "source": "historical"
+    },
+    "2432110": {
+      "rank": 908,
+      "estimate": "40k+",
+      "name": "WHITE ALBUM: Memories like Falling Snow",
+      "releaseDate": "2023-08-03",
+      "source": "historical"
+    },
+    "2492570": {
+      "rank": 2681,
+      "estimate": "7k+",
+      "name": "Inspector Schmidt - The Ebbing",
+      "releaseDate": "2025-04-07",
+      "source": "historical"
+    },
+    "2597260": {
+      "rank": 2320,
+      "estimate": "7k+",
+      "name": "Natsuno-Kanata: Beyond Summer",
+      "releaseDate": "2024-06-19",
+      "source": "historical"
+    },
+    "2749100": {
+      "rank": 2941,
+      "estimate": "7k+",
+      "name": "Dawnmaker",
+      "releaseDate": "2024-07-31",
+      "source": "historical"
+    }
+  }
+}

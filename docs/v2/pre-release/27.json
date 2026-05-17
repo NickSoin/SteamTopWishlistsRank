@@ -1,1 +1,162 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":22,"entries":{"1657630":{"rank":16,"estimate":"800k+","name":"Slime Rancher 2","releaseDate":"2025-09-23","source":"historical"},"648800":{"rank":25,"estimate":"600k+","name":"Raft","releaseDate":"2022-06-20","source":"historical"},"1209471":{"rank":41,"estimate":"600k+","name":"American Truck Simulator - Colorado","releaseDate":"2020-11-12","source":"historical"},"1963210":{"rank":53,"estimate":"300k+","name":"VALKYRIE ELYSIUM","releaseDate":"2022-11-11","source":"historical"},"1449200":{"rank":235,"estimate":"80k+","name":"AI: THE SOMNIUM FILES - nirvanA Initiative","releaseDate":"2022-06-24","source":"historical"},"1671410":{"rank":255,"estimate":"80k+","name":"Somerville","releaseDate":"2022-11-14","source":"historical"},"2464530":{"rank":599,"estimate":"40k+","name":"VOIN","releaseDate":"2024-12-10","source":"historical"},"1852860":{"rank":677,"estimate":"40k+","name":"AMID EVIL - The Black Labyrinth","releaseDate":"2023-08-17","source":"historical"},"1927360":{"rank":781,"estimate":"40k+","name":"Mira and the Legend of the Djinns","releaseDate":"2026-01-01","source":"historical"},"1514380":{"rank":851,"estimate":"40k+","name":"COGEN: Sword of Rewind / COGEN: 大鳥こはくと刻の剣","releaseDate":"2022-01-26","source":"historical"},"1550740":{"rank":1056,"estimate":"25k+","name":"Ignited Steel: Mech Tactics","releaseDate":"2022-03-09","source":"historical"},"1560790":{"rank":1113,"estimate":"25k+","name":"Romance after dark","releaseDate":"2021-12-15","source":"historical"},"2059660":{"rank":1191,"estimate":"25k+","name":"Cavern of Dreams","releaseDate":"2023-10-19","source":"historical"},"1413580":{"rank":1279,"estimate":"25k+","name":"The Dragoness: Command of the Flame","releaseDate":"2022-09-01","source":"historical"},"1224030":{"rank":1369,"estimate":"25k+","name":"Erra: Exordium","releaseDate":"2023-11-09","source":"historical"},"2310680":{"rank":1619,"estimate":"15k+","name":"College Bound - Episode 5","releaseDate":"2023-04-21","source":"historical"},"1549830":{"rank":1644,"estimate":"15k+","name":"CyberPunk SEX Tower","releaseDate":"2026-08-19","source":"historical"},"1309780":{"rank":1777,"estimate":"15k+","name":"MODERN NAVAL COMBAT","releaseDate":"2022-12-01","source":"historical"},"2870430":{"rank":2101,"estimate":"7k+","name":"Godslayer Arena","releaseDate":"2025-06-16","source":"historical"},"2722270":{"rank":2251,"estimate":"7k+","name":"永恒幻境 Eternal Dreamland","releaseDate":"2024-01-31","source":"historical"},"1381520":{"rank":2639,"estimate":"7k+","name":"Cricket: Jae's Really Peculiar Game","releaseDate":"2024-09-19","source":"historical"},"2989950":{"rank":3021,"estimate":"<7k","name":"The Bathhouse | 地獄銭湯 Restored Edition","releaseDate":"2024-08-09","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 22,
+  "entries": {
+    "648800": {
+      "rank": 25,
+      "estimate": "600k+",
+      "name": "Raft",
+      "releaseDate": "2022-06-20",
+      "source": "historical"
+    },
+    "1209471": {
+      "rank": 41,
+      "estimate": "600k+",
+      "name": "American Truck Simulator - Colorado",
+      "releaseDate": "2020-11-12",
+      "source": "historical"
+    },
+    "1224030": {
+      "rank": 1369,
+      "estimate": "25k+",
+      "name": "Erra: Exordium",
+      "releaseDate": "2023-11-09",
+      "source": "historical"
+    },
+    "1309780": {
+      "rank": 1777,
+      "estimate": "15k+",
+      "name": "MODERN NAVAL COMBAT",
+      "releaseDate": "2022-12-01",
+      "source": "historical"
+    },
+    "1381520": {
+      "rank": 2639,
+      "estimate": "7k+",
+      "name": "Cricket: Jae's Really Peculiar Game",
+      "releaseDate": "2024-09-19",
+      "source": "historical"
+    },
+    "1413580": {
+      "rank": 1279,
+      "estimate": "25k+",
+      "name": "The Dragoness: Command of the Flame",
+      "releaseDate": "2022-09-01",
+      "source": "historical"
+    },
+    "1449200": {
+      "rank": 235,
+      "estimate": "80k+",
+      "name": "AI: THE SOMNIUM FILES - nirvanA Initiative",
+      "releaseDate": "2022-06-24",
+      "source": "historical"
+    },
+    "1514380": {
+      "rank": 851,
+      "estimate": "40k+",
+      "name": "COGEN: Sword of Rewind / COGEN: 大鳥こはくと刻の剣",
+      "releaseDate": "2022-01-26",
+      "source": "historical"
+    },
+    "1549830": {
+      "rank": 1644,
+      "estimate": "15k+",
+      "name": "CyberPunk SEX Tower",
+      "releaseDate": "2026-08-19",
+      "source": "historical"
+    },
+    "1550740": {
+      "rank": 1056,
+      "estimate": "25k+",
+      "name": "Ignited Steel: Mech Tactics",
+      "releaseDate": "2022-03-09",
+      "source": "historical"
+    },
+    "1560790": {
+      "rank": 1113,
+      "estimate": "25k+",
+      "name": "Romance after dark",
+      "releaseDate": "2021-12-15",
+      "source": "historical"
+    },
+    "1657630": {
+      "rank": 16,
+      "estimate": "800k+",
+      "name": "Slime Rancher 2",
+      "releaseDate": "2025-09-23",
+      "source": "historical"
+    },
+    "1671410": {
+      "rank": 255,
+      "estimate": "80k+",
+      "name": "Somerville",
+      "releaseDate": "2022-11-14",
+      "source": "historical"
+    },
+    "1852860": {
+      "rank": 677,
+      "estimate": "40k+",
+      "name": "AMID EVIL - The Black Labyrinth",
+      "releaseDate": "2023-08-17",
+      "source": "historical"
+    },
+    "1927360": {
+      "rank": 781,
+      "estimate": "40k+",
+      "name": "Mira and the Legend of the Djinns",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "1963210": {
+      "rank": 53,
+      "estimate": "300k+",
+      "name": "VALKYRIE ELYSIUM",
+      "releaseDate": "2022-11-11",
+      "source": "historical"
+    },
+    "2059660": {
+      "rank": 1191,
+      "estimate": "25k+",
+      "name": "Cavern of Dreams",
+      "releaseDate": "2023-10-19",
+      "source": "historical"
+    },
+    "2310680": {
+      "rank": 1619,
+      "estimate": "15k+",
+      "name": "College Bound - Episode 5",
+      "releaseDate": "2023-04-21",
+      "source": "historical"
+    },
+    "2464530": {
+      "rank": 599,
+      "estimate": "40k+",
+      "name": "VOIN",
+      "releaseDate": "2024-12-10",
+      "source": "historical"
+    },
+    "2722270": {
+      "rank": 2251,
+      "estimate": "7k+",
+      "name": "永恒幻境 Eternal Dreamland",
+      "releaseDate": "2024-01-31",
+      "source": "historical"
+    },
+    "2870430": {
+      "rank": 2101,
+      "estimate": "7k+",
+      "name": "Godslayer Arena",
+      "releaseDate": "2025-06-16",
+      "source": "historical"
+    },
+    "2989950": {
+      "rank": 3021,
+      "estimate": "<7k",
+      "name": "The Bathhouse | 地獄銭湯 Restored Edition",
+      "releaseDate": "2024-08-09",
+      "source": "historical"
+    }
+  }
+}

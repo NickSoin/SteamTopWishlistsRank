@@ -1,1 +1,236 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":32,"entries":{"2172010":{"rank":9,"estimate":"1.5m+","name":"Until Dawn™","releaseDate":"2024-10-04","source":"historical"},"1138640":{"rank":17,"estimate":"800k+","name":"Hometopia","releaseDate":"2025-04-02","source":"historical"},"2273980":{"rank":19,"estimate":"800k+","name":"Orcs Must Die! Deathtrap","releaseDate":"2025-01-28","source":"historical"},"3404260":{"rank":22,"estimate":"1m","actualWishlists":1000000,"name":"Dead as Disco","releaseDate":"2026-05-05","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569718"},"1036890":{"rank":23,"estimate":"600k+","name":"Shadow Warrior 3: Definitive Edition","releaseDate":"2022-03-01","source":"historical"},"2107670":{"rank":31,"estimate":"600k+","name":"Warhaven","releaseDate":"2023-09-20","source":"historical"},"1934680":{"rank":35,"estimate":"600k+","name":"Age of Mythology: Retold","releaseDate":"2024-09-04","source":"historical"},"1198970":{"rank":41,"estimate":"250k","actualWishlists":250000,"name":"I Am Jesus Christ","releaseDate":"2026-04-02","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365770910"},"538030":{"rank":87,"estimate":"300k+","name":"Xenonauts 2","releaseDate":"2026-04-02","source":"historical"},"1281160":{"rank":264,"estimate":"80k+","name":"Castle in The Clouds DX","releaseDate":"2021-10-08","source":"historical"},"1158220":{"rank":402,"estimate":"80k+","name":"Kraken Academy!!","releaseDate":"2021-09-10","source":"historical"},"1434540":{"rank":424,"estimate":"80k+","name":"Zoeti","releaseDate":"2023-04-20","source":"historical"},"1105330":{"rank":462,"estimate":"80k+","name":"Dark Moon","releaseDate":"2025-10-29","source":"historical"},"2485860":{"rank":542,"estimate":"40k+","name":"WANDERER: Broken Bed","releaseDate":"2024-11-15","source":"historical"},"2015960":{"rank":626,"estimate":"40k+","name":"Parcel Corps","releaseDate":"2024-10-03","source":"historical"},"1099220":{"rank":845,"estimate":"40k+","name":"The Alien Cube","releaseDate":"2021-10-14","source":"historical"},"2405060":{"rank":907,"estimate":"40k+","name":"KIBORG","releaseDate":"2025-04-30","source":"historical"},"1346360":{"rank":1073,"estimate":"25k+","name":"Old Skies","releaseDate":"2025-04-23","source":"historical"},"2337510":{"rank":1092,"estimate":"25k+","name":"Second Wave","releaseDate":"2024-05-30","source":"historical"},"618330":{"rank":1281,"estimate":"25k+","name":"Within the Cosmos","releaseDate":"2025-03-28","source":"historical"},"2009860":{"rank":1304,"estimate":"25k+","name":"Tower Escape","releaseDate":"2023-02-15","source":"historical"},"2187920":{"rank":1350,"estimate":"25k+","name":"Iron Marines Invasion","releaseDate":"2023-11-03","source":"historical"},"2666920":{"rank":1396,"estimate":"25k+","name":"Building Relationships","releaseDate":"2026-01-01","source":"historical"},"1602110":{"rank":1619,"estimate":"15k+","name":"Kredolis","releaseDate":"2022-09-27","source":"historical"},"1918530":{"rank":1673,"estimate":"15k+","name":"Pocket Stables","releaseDate":"2022-09-25","source":"historical"},"2544990":{"rank":1782,"estimate":"15k+","name":"Hypnosis Card","releaseDate":"2024-01-19","source":"historical"},"2434420":{"rank":1824,"estimate":"15k+","name":"Arashi: Castles of Sin - Final Cut","releaseDate":"2023-12-05","source":"historical"},"1587570":{"rank":2117,"estimate":"7k+","name":"Completely Stretchy","releaseDate":"2024-12-12","source":"historical"},"1826060":{"rank":2140,"estimate":"7k+","name":"Night Loops","releaseDate":"2023-10-16","source":"historical"},"2840210":{"rank":2371,"estimate":"7k+","name":"Bureau of Contacts","releaseDate":"2025-04-12","source":"historical"},"1610430":{"rank":2472,"estimate":"7k+","name":"OPG: Clan Wars","releaseDate":"2025-07-18","source":"historical"},"2501650":{"rank":2830,"estimate":"7k+","name":"Electrogical","releaseDate":"2026-04-15","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 32,
+  "entries": {
+    "538030": {
+      "rank": 87,
+      "estimate": "300k+",
+      "name": "Xenonauts 2",
+      "releaseDate": "2026-04-02",
+      "source": "historical"
+    },
+    "618330": {
+      "rank": 1281,
+      "estimate": "25k+",
+      "name": "Within the Cosmos",
+      "releaseDate": "2025-03-28",
+      "source": "historical"
+    },
+    "1036890": {
+      "rank": 23,
+      "estimate": "600k+",
+      "name": "Shadow Warrior 3: Definitive Edition",
+      "releaseDate": "2022-03-01",
+      "source": "historical"
+    },
+    "1099220": {
+      "rank": 845,
+      "estimate": "40k+",
+      "name": "The Alien Cube",
+      "releaseDate": "2021-10-14",
+      "source": "historical"
+    },
+    "1105330": {
+      "rank": 462,
+      "estimate": "80k+",
+      "name": "Dark Moon",
+      "releaseDate": "2025-10-29",
+      "source": "historical"
+    },
+    "1138640": {
+      "rank": 17,
+      "estimate": "800k+",
+      "name": "Hometopia",
+      "releaseDate": "2025-04-02",
+      "source": "historical"
+    },
+    "1158220": {
+      "rank": 402,
+      "estimate": "80k+",
+      "name": "Kraken Academy!!",
+      "releaseDate": "2021-09-10",
+      "source": "historical"
+    },
+    "1198970": {
+      "rank": 41,
+      "estimate": "250k",
+      "actualWishlists": 250000,
+      "name": "I Am Jesus Christ",
+      "releaseDate": "2026-04-02",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365770910"
+    },
+    "1281160": {
+      "rank": 264,
+      "estimate": "80k+",
+      "name": "Castle in The Clouds DX",
+      "releaseDate": "2021-10-08",
+      "source": "historical"
+    },
+    "1346360": {
+      "rank": 1073,
+      "estimate": "25k+",
+      "name": "Old Skies",
+      "releaseDate": "2025-04-23",
+      "source": "historical"
+    },
+    "1434540": {
+      "rank": 424,
+      "estimate": "80k+",
+      "name": "Zoeti",
+      "releaseDate": "2023-04-20",
+      "source": "historical"
+    },
+    "1587570": {
+      "rank": 2117,
+      "estimate": "7k+",
+      "name": "Completely Stretchy",
+      "releaseDate": "2024-12-12",
+      "source": "historical"
+    },
+    "1602110": {
+      "rank": 1619,
+      "estimate": "15k+",
+      "name": "Kredolis",
+      "releaseDate": "2022-09-27",
+      "source": "historical"
+    },
+    "1610430": {
+      "rank": 2472,
+      "estimate": "7k+",
+      "name": "OPG: Clan Wars",
+      "releaseDate": "2025-07-18",
+      "source": "historical"
+    },
+    "1826060": {
+      "rank": 2140,
+      "estimate": "7k+",
+      "name": "Night Loops",
+      "releaseDate": "2023-10-16",
+      "source": "historical"
+    },
+    "1918530": {
+      "rank": 1673,
+      "estimate": "15k+",
+      "name": "Pocket Stables",
+      "releaseDate": "2022-09-25",
+      "source": "historical"
+    },
+    "1934680": {
+      "rank": 35,
+      "estimate": "600k+",
+      "name": "Age of Mythology: Retold",
+      "releaseDate": "2024-09-04",
+      "source": "historical"
+    },
+    "2009860": {
+      "rank": 1304,
+      "estimate": "25k+",
+      "name": "Tower Escape",
+      "releaseDate": "2023-02-15",
+      "source": "historical"
+    },
+    "2015960": {
+      "rank": 626,
+      "estimate": "40k+",
+      "name": "Parcel Corps",
+      "releaseDate": "2024-10-03",
+      "source": "historical"
+    },
+    "2107670": {
+      "rank": 31,
+      "estimate": "600k+",
+      "name": "Warhaven",
+      "releaseDate": "2023-09-20",
+      "source": "historical"
+    },
+    "2172010": {
+      "rank": 9,
+      "estimate": "1.5m+",
+      "name": "Until Dawn™",
+      "releaseDate": "2024-10-04",
+      "source": "historical"
+    },
+    "2187920": {
+      "rank": 1350,
+      "estimate": "25k+",
+      "name": "Iron Marines Invasion",
+      "releaseDate": "2023-11-03",
+      "source": "historical"
+    },
+    "2273980": {
+      "rank": 19,
+      "estimate": "800k+",
+      "name": "Orcs Must Die! Deathtrap",
+      "releaseDate": "2025-01-28",
+      "source": "historical"
+    },
+    "2337510": {
+      "rank": 1092,
+      "estimate": "25k+",
+      "name": "Second Wave",
+      "releaseDate": "2024-05-30",
+      "source": "historical"
+    },
+    "2405060": {
+      "rank": 907,
+      "estimate": "40k+",
+      "name": "KIBORG",
+      "releaseDate": "2025-04-30",
+      "source": "historical"
+    },
+    "2434420": {
+      "rank": 1824,
+      "estimate": "15k+",
+      "name": "Arashi: Castles of Sin - Final Cut",
+      "releaseDate": "2023-12-05",
+      "source": "historical"
+    },
+    "2485860": {
+      "rank": 542,
+      "estimate": "40k+",
+      "name": "WANDERER: Broken Bed",
+      "releaseDate": "2024-11-15",
+      "source": "historical"
+    },
+    "2501650": {
+      "rank": 2830,
+      "estimate": "7k+",
+      "name": "Electrogical",
+      "releaseDate": "2026-04-15",
+      "source": "historical"
+    },
+    "2544990": {
+      "rank": 1782,
+      "estimate": "15k+",
+      "name": "Hypnosis Card",
+      "releaseDate": "2024-01-19",
+      "source": "historical"
+    },
+    "2666920": {
+      "rank": 1396,
+      "estimate": "25k+",
+      "name": "Building Relationships",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2840210": {
+      "rank": 2371,
+      "estimate": "7k+",
+      "name": "Bureau of Contacts",
+      "releaseDate": "2025-04-12",
+      "source": "historical"
+    },
+    "3404260": {
+      "rank": 22,
+      "estimate": "1m",
+      "actualWishlists": 1000000,
+      "name": "Dead as Disco",
+      "releaseDate": "2026-05-05",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569718"
+    }
+  }
+}

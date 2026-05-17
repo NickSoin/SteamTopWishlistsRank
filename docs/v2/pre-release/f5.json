@@ -1,1 +1,213 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":29,"entries":{"1697870":{"rank":15,"estimate":"105k","actualWishlists":105000,"name":"Crown of Greed","releaseDate":"2026-03-31","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365765872"},"1057090":{"rank":21,"estimate":"600k+","name":"Ori and the Will of the Wisps","releaseDate":"2020-03-10","source":"historical"},"2001120":{"rank":23,"estimate":"600k+","name":"Split Fiction","releaseDate":"2025-03-06","source":"historical"},"495420":{"rank":30,"estimate":"600k+","name":"State of Decay 2: Juggernaut Edition","releaseDate":"2020-03-13","source":"historical"},"1938010":{"rank":31,"estimate":"600k+","name":"WILD HEARTS™","releaseDate":"2023-02-16","source":"historical"},"3684700":{"rank":47,"estimate":"600k+","name":"Empire of Lust 🏛","releaseDate":"2025-11-08","source":"historical"},"1533420":{"rank":134,"estimate":"200k+","name":"Neon White","releaseDate":"2022-06-16","source":"historical"},"1564600":{"rank":395,"estimate":"80k+","name":"The Last Plague: Blight","releaseDate":"2024-10-03","source":"historical"},"1324350":{"rank":410,"estimate":"80k+","name":"Turbo Golf Racing","releaseDate":"2024-04-04","source":"historical"},"1401400":{"rank":414,"estimate":"80k+","name":"Lovecraft's Untold Stories 2","releaseDate":"2022-09-13","source":"historical"},"2893570":{"rank":414,"estimate":"80k+","name":"DRAGON QUEST I & II HD-2D Remake","releaseDate":"2025-10-30","source":"historical"},"2996040":{"rank":533,"estimate":"40k+","name":"Teenage Mutant Ninja Turtles: Splintered Fate","releaseDate":"2024-11-06","source":"historical"},"1092530":{"rank":644,"estimate":"40k+","name":"Anthology of Fear","releaseDate":"2023-03-17","source":"historical"},"2443720":{"rank":701,"estimate":"40k+","name":"Concord™","releaseDate":"2024-08-23","source":"historical"},"1964200":{"rank":831,"estimate":"40k+","name":"Phantom Rose 2 Sapphire","releaseDate":"2023-10-29","source":"historical"},"2336880":{"rank":848,"estimate":"40k+","name":"Destiny 2: The Final Shape","releaseDate":"2024-06-04","source":"historical"},"458430":{"rank":911,"estimate":"40k+","name":"Steel Seed","releaseDate":"2025-04-22","source":"historical"},"1070790":{"rank":960,"estimate":"40k+","name":"Freshly Frosted","releaseDate":"2022-06-10","source":"historical"},"2322180":{"rank":980,"estimate":"40k+","name":"A Tiny Sticker Tale","releaseDate":"2023-10-04","source":"historical"},"2738990":{"rank":1057,"estimate":"25k+","name":"Node Farm","releaseDate":"2024-11-19","source":"historical"},"1682340":{"rank":1388,"estimate":"25k+","name":"Plane Accident","releaseDate":"2024-02-20","source":"historical"},"2254450":{"rank":1862,"estimate":"15k+","name":"The Last of Us™ Part I - Upgrade to Digital Deluxe Edition","releaseDate":"2023-03-28","source":"historical"},"2356330":{"rank":1917,"estimate":"15k+","name":"Candlelight: Lament","releaseDate":"2024-08-05","source":"historical"},"2642390":{"rank":2044,"estimate":"7k+","name":"The Whims of the Gods","releaseDate":"2026-01-01","source":"historical"},"2518240":{"rank":2052,"estimate":"7k+","name":"Thief Simulator - Shopping Center DLC","releaseDate":"2024-12-10","source":"historical"},"2595940":{"rank":2184,"estimate":"7k+","name":"Magical Bakery","releaseDate":"2024-11-06","source":"historical"},"2207230":{"rank":2270,"estimate":"7k+","name":"Black Dragon Mage","releaseDate":"2024-12-04","source":"historical"},"2776750":{"rank":2678,"estimate":"7k+","name":"Days With Ollie","releaseDate":"2024-04-21","source":"historical"},"2406370":{"rank":3159,"estimate":"<7k","name":"Darkblade Ascent","releaseDate":"2025-10-23","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 29,
+  "entries": {
+    "458430": {
+      "rank": 911,
+      "estimate": "40k+",
+      "name": "Steel Seed",
+      "releaseDate": "2025-04-22",
+      "source": "historical"
+    },
+    "495420": {
+      "rank": 30,
+      "estimate": "600k+",
+      "name": "State of Decay 2: Juggernaut Edition",
+      "releaseDate": "2020-03-13",
+      "source": "historical"
+    },
+    "1057090": {
+      "rank": 21,
+      "estimate": "600k+",
+      "name": "Ori and the Will of the Wisps",
+      "releaseDate": "2020-03-10",
+      "source": "historical"
+    },
+    "1070790": {
+      "rank": 960,
+      "estimate": "40k+",
+      "name": "Freshly Frosted",
+      "releaseDate": "2022-06-10",
+      "source": "historical"
+    },
+    "1092530": {
+      "rank": 644,
+      "estimate": "40k+",
+      "name": "Anthology of Fear",
+      "releaseDate": "2023-03-17",
+      "source": "historical"
+    },
+    "1324350": {
+      "rank": 410,
+      "estimate": "80k+",
+      "name": "Turbo Golf Racing",
+      "releaseDate": "2024-04-04",
+      "source": "historical"
+    },
+    "1401400": {
+      "rank": 414,
+      "estimate": "80k+",
+      "name": "Lovecraft's Untold Stories 2",
+      "releaseDate": "2022-09-13",
+      "source": "historical"
+    },
+    "1533420": {
+      "rank": 134,
+      "estimate": "200k+",
+      "name": "Neon White",
+      "releaseDate": "2022-06-16",
+      "source": "historical"
+    },
+    "1564600": {
+      "rank": 395,
+      "estimate": "80k+",
+      "name": "The Last Plague: Blight",
+      "releaseDate": "2024-10-03",
+      "source": "historical"
+    },
+    "1682340": {
+      "rank": 1388,
+      "estimate": "25k+",
+      "name": "Plane Accident",
+      "releaseDate": "2024-02-20",
+      "source": "historical"
+    },
+    "1697870": {
+      "rank": 15,
+      "estimate": "105k",
+      "actualWishlists": 105000,
+      "name": "Crown of Greed",
+      "releaseDate": "2026-03-31",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365765872"
+    },
+    "1938010": {
+      "rank": 31,
+      "estimate": "600k+",
+      "name": "WILD HEARTS™",
+      "releaseDate": "2023-02-16",
+      "source": "historical"
+    },
+    "1964200": {
+      "rank": 831,
+      "estimate": "40k+",
+      "name": "Phantom Rose 2 Sapphire",
+      "releaseDate": "2023-10-29",
+      "source": "historical"
+    },
+    "2001120": {
+      "rank": 23,
+      "estimate": "600k+",
+      "name": "Split Fiction",
+      "releaseDate": "2025-03-06",
+      "source": "historical"
+    },
+    "2207230": {
+      "rank": 2270,
+      "estimate": "7k+",
+      "name": "Black Dragon Mage",
+      "releaseDate": "2024-12-04",
+      "source": "historical"
+    },
+    "2254450": {
+      "rank": 1862,
+      "estimate": "15k+",
+      "name": "The Last of Us™ Part I - Upgrade to Digital Deluxe Edition",
+      "releaseDate": "2023-03-28",
+      "source": "historical"
+    },
+    "2322180": {
+      "rank": 980,
+      "estimate": "40k+",
+      "name": "A Tiny Sticker Tale",
+      "releaseDate": "2023-10-04",
+      "source": "historical"
+    },
+    "2336880": {
+      "rank": 848,
+      "estimate": "40k+",
+      "name": "Destiny 2: The Final Shape",
+      "releaseDate": "2024-06-04",
+      "source": "historical"
+    },
+    "2356330": {
+      "rank": 1917,
+      "estimate": "15k+",
+      "name": "Candlelight: Lament",
+      "releaseDate": "2024-08-05",
+      "source": "historical"
+    },
+    "2406370": {
+      "rank": 3159,
+      "estimate": "<7k",
+      "name": "Darkblade Ascent",
+      "releaseDate": "2025-10-23",
+      "source": "historical"
+    },
+    "2443720": {
+      "rank": 701,
+      "estimate": "40k+",
+      "name": "Concord™",
+      "releaseDate": "2024-08-23",
+      "source": "historical"
+    },
+    "2518240": {
+      "rank": 2052,
+      "estimate": "7k+",
+      "name": "Thief Simulator - Shopping Center DLC",
+      "releaseDate": "2024-12-10",
+      "source": "historical"
+    },
+    "2595940": {
+      "rank": 2184,
+      "estimate": "7k+",
+      "name": "Magical Bakery",
+      "releaseDate": "2024-11-06",
+      "source": "historical"
+    },
+    "2642390": {
+      "rank": 2044,
+      "estimate": "7k+",
+      "name": "The Whims of the Gods",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2738990": {
+      "rank": 1057,
+      "estimate": "25k+",
+      "name": "Node Farm",
+      "releaseDate": "2024-11-19",
+      "source": "historical"
+    },
+    "2776750": {
+      "rank": 2678,
+      "estimate": "7k+",
+      "name": "Days With Ollie",
+      "releaseDate": "2024-04-21",
+      "source": "historical"
+    },
+    "2893570": {
+      "rank": 414,
+      "estimate": "80k+",
+      "name": "DRAGON QUEST I & II HD-2D Remake",
+      "releaseDate": "2025-10-30",
+      "source": "historical"
+    },
+    "2996040": {
+      "rank": 533,
+      "estimate": "40k+",
+      "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
+      "releaseDate": "2024-11-06",
+      "source": "historical"
+    },
+    "3684700": {
+      "rank": 47,
+      "estimate": "600k+",
+      "name": "Empire of Lust 🏛",
+      "releaseDate": "2025-11-08",
+      "source": "historical"
+    }
+  }
+}

@@ -1,1 +1,148 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T12:37:12.000Z","entryCount":20,"entries":{"1529530":{"rank":5,"estimate":"1.5m+","name":"Into The Darkness VR","releaseDate":"2025-05-29","source":"historical"},"2657120":{"rank":27,"estimate":"600k+","name":"My Sexy Neighbor 🔞","releaseDate":"2025-01-11","source":"historical"},"3144890":{"rank":34,"estimate":"600k+","name":"Age of Empires IV: Knights of Cross and Rose ","releaseDate":"2025-04-08","source":"historical"},"1307550":{"rank":40,"estimate":"600k+","name":"Craftopia","releaseDate":"2020-09-04","source":"historical"},"1125710":{"rank":110,"estimate":"200k+","name":"Gatewalkers","releaseDate":"2023-01-12","source":"historical"},"1218210":{"rank":117,"estimate":"200k+","name":"Coromon","releaseDate":"2022-03-31","source":"historical"},"1201270":{"rank":140,"estimate":"200k+","name":"A Space for the Unbound","releaseDate":"2023-01-19","source":"historical"},"1621540":{"rank":141,"estimate":"200k+","name":"Spooky Milk Life","releaseDate":"2025-09-24","source":"historical"},"1414850":{"rank":198,"estimate":"200k+","name":"Nickelodeon All-Star Brawl","releaseDate":"2021-10-04","source":"historical"},"1184140":{"rank":230,"estimate":"80k+","name":"KartRider: Drift","releaseDate":"2023-01-09","source":"historical"},"2719150":{"rank":366,"estimate":"80k+","name":"Holo X Break","releaseDate":"2024-03-29","source":"historical"},"1574820":{"rank":399,"estimate":"80k+","name":"Until Then","releaseDate":"2024-06-25","source":"historical"},"1715980":{"rank":609,"estimate":"40k+","name":"Bail or Jail(OBAKEIDORO!)","releaseDate":"2022-07-20","source":"historical"},"1410090":{"rank":670,"estimate":"40k+","name":"Hellscreen","releaseDate":"2026-02-13","source":"historical"},"1741040":{"rank":823,"estimate":"40k+","name":"Last Devil","releaseDate":"2023-03-15","source":"historical"},"2483970":{"rank":875,"estimate":"40k+","name":"Honeymoon : Mystery Journey","releaseDate":"2024-04-04","source":"historical"},"2004320":{"rank":979,"estimate":"40k+","name":"Duelyst II","releaseDate":"2022-12-16","source":"historical"},"2647680":{"rank":1459,"estimate":"25k+","name":"ICBM: Escalation","releaseDate":"2024-11-21","source":"historical"},"1775490":{"rank":1989,"estimate":"15k+","name":"Slice & Dice","releaseDate":"2024-03-20","source":"historical"},"2377600":{"rank":2380,"estimate":"7k+","name":"Cozy Dungeons","releaseDate":"2026-01-01","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T13:59:09.906Z",
+  "entryCount": 20,
+  "entries": {
+    "1125710": {
+      "rank": 110,
+      "estimate": "200k+",
+      "name": "Gatewalkers",
+      "releaseDate": "2023-01-12",
+      "source": "historical"
+    },
+    "1184140": {
+      "rank": 230,
+      "estimate": "80k+",
+      "name": "KartRider: Drift",
+      "releaseDate": "2023-01-09",
+      "source": "historical"
+    },
+    "1201270": {
+      "rank": 140,
+      "estimate": "200k+",
+      "name": "A Space for the Unbound",
+      "releaseDate": "2023-01-19",
+      "source": "historical"
+    },
+    "1218210": {
+      "rank": 117,
+      "estimate": "200k+",
+      "name": "Coromon",
+      "releaseDate": "2022-03-31",
+      "source": "historical"
+    },
+    "1307550": {
+      "rank": 40,
+      "estimate": "600k+",
+      "name": "Craftopia",
+      "releaseDate": "2020-09-04",
+      "source": "historical"
+    },
+    "1410090": {
+      "rank": 670,
+      "estimate": "40k+",
+      "name": "Hellscreen",
+      "releaseDate": "2026-02-13",
+      "source": "historical"
+    },
+    "1414850": {
+      "rank": 198,
+      "estimate": "200k+",
+      "name": "Nickelodeon All-Star Brawl",
+      "releaseDate": "2021-10-04",
+      "source": "historical"
+    },
+    "1529530": {
+      "rank": 5,
+      "estimate": "1.5m+",
+      "name": "Into The Darkness VR",
+      "releaseDate": "2025-05-29",
+      "source": "historical"
+    },
+    "1574820": {
+      "rank": 399,
+      "estimate": "80k+",
+      "name": "Until Then",
+      "releaseDate": "2024-06-25",
+      "source": "historical"
+    },
+    "1621540": {
+      "rank": 141,
+      "estimate": "200k+",
+      "name": "Spooky Milk Life",
+      "releaseDate": "2025-09-24",
+      "source": "historical"
+    },
+    "1715980": {
+      "rank": 609,
+      "estimate": "40k+",
+      "name": "Bail or Jail(OBAKEIDORO!)",
+      "releaseDate": "2022-07-20",
+      "source": "historical"
+    },
+    "1741040": {
+      "rank": 823,
+      "estimate": "40k+",
+      "name": "Last Devil",
+      "releaseDate": "2023-03-15",
+      "source": "historical"
+    },
+    "1775490": {
+      "rank": 1989,
+      "estimate": "15k+",
+      "name": "Slice & Dice",
+      "releaseDate": "2024-03-20",
+      "source": "historical"
+    },
+    "2004320": {
+      "rank": 979,
+      "estimate": "40k+",
+      "name": "Duelyst II",
+      "releaseDate": "2022-12-16",
+      "source": "historical"
+    },
+    "2377600": {
+      "rank": 2380,
+      "estimate": "7k+",
+      "name": "Cozy Dungeons",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2483970": {
+      "rank": 875,
+      "estimate": "40k+",
+      "name": "Honeymoon : Mystery Journey",
+      "releaseDate": "2024-04-04",
+      "source": "historical"
+    },
+    "2647680": {
+      "rank": 1459,
+      "estimate": "25k+",
+      "name": "ICBM: Escalation",
+      "releaseDate": "2024-11-21",
+      "source": "historical"
+    },
+    "2657120": {
+      "rank": 27,
+      "estimate": "600k+",
+      "name": "My Sexy Neighbor 🔞",
+      "releaseDate": "2025-01-11",
+      "source": "historical"
+    },
+    "2719150": {
+      "rank": 366,
+      "estimate": "80k+",
+      "name": "Holo X Break",
+      "releaseDate": "2024-03-29",
+      "source": "historical"
+    },
+    "3144890": {
+      "rank": 34,
+      "estimate": "600k+",
+      "name": "Age of Empires IV: Knights of Cross and Rose ",
+      "releaseDate": "2025-04-08",
+      "source": "historical"
+    }
+  }
+}
