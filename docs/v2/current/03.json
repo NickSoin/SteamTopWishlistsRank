@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-16T19:34:44.429Z",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
   "entryCount": 15,
   "entries": {
     "864170": {
-      "rank": 2301,
+      "rank": 2305,
       "estimate": "7k+",
       "name": "Midnight Horde"
     },
@@ -20,7 +20,7 @@
       "name": "Skyclimbers"
     },
     "1429620": {
-      "rank": 3094,
+      "rank": 3097,
       "estimate": "<7k",
       "name": "Tales of Herring Lake"
     },
@@ -30,17 +30,17 @@
       "name": "Warhammer 40,000: Dawn of War IV"
     },
     "2436490": {
-      "rank": 4192,
+      "rank": 4194,
       "estimate": "<7k",
       "name": "VEIL"
     },
     "2796220": {
-      "rank": 469,
+      "rank": 470,
       "estimate": "80k+",
       "name": "Apogea"
     },
     "3050460": {
-      "rank": 4023,
+      "rank": 4026,
       "estimate": "<7k",
       "name": "Mafia Life Simulator"
     },
@@ -50,7 +50,7 @@
       "name": "Fogpiercer"
     },
     "3353590": {
-      "rank": 2157,
+      "rank": 2160,
       "estimate": "7k+",
       "name": "Jinn Hunter"
     },
@@ -60,22 +60,22 @@
       "name": "Quartermaster"
     },
     "3743810": {
-      "rank": 2681,
+      "rank": 2684,
       "estimate": "7k+",
       "name": "Pact, Passion, Puchimon!"
     },
     "3897090": {
-      "rank": 2826,
+      "rank": 2830,
       "estimate": "7k+",
       "name": "Temple Maker 64"
     },
     "4210670": {
-      "rank": 3747,
+      "rank": 3751,
       "estimate": "<7k",
       "name": "Forgotten Terror"
     },
     "4371500": {
-      "rank": 1349,
+      "rank": 1347,
       "estimate": "25k+",
       "name": "MechWarrior 5: Mercenaries - Chaos Reign"
     }

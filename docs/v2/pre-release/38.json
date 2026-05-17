@@ -1,1 +1,255 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":35,"entries":{"1928870":{"rank":7,"estimate":"1.5m+","name":"Minecraft Legends","releaseDate":"2023-04-18","source":"historical"},"2943650":{"rank":12,"estimate":"800k+","name":"FragPunk","releaseDate":"2025-03-06","source":"historical"},"1222730":{"rank":14,"estimate":"800k+","name":"STAR WARS™: Squadrons","releaseDate":"2020-10-01","source":"historical"},"1113010":{"rank":22,"estimate":"600k+","name":"Chornobyl Liquidators","releaseDate":"2024-06-06","source":"historical"},"1969370":{"rank":32,"estimate":"600k+","name":"LEGO® Party!","releaseDate":"2025-09-30","source":"historical"},"995680":{"rank":39,"estimate":"600k+","name":"Truck Mechanic: Dangerous Paths","releaseDate":"2026-03-30","source":"historical"},"1675200":{"rank":45,"estimate":"600k+","name":"Steam Deck","releaseDate":"2025-01-17","source":"historical"},"1702010":{"rank":45,"estimate":"600k+","name":"Sengoku Dynasty","releaseDate":"2024-11-07","source":"historical"},"1371690":{"rank":71,"estimate":"300k+","name":"GRAVEN","releaseDate":"2024-01-23","source":"historical"},"1389990":{"rank":149,"estimate":"200k+","name":"Oblivity - Find your perfect Sensitivity","releaseDate":"2022-03-24","source":"historical"},"2081400":{"rank":197,"estimate":"200k+","name":"Gal Guardians: Demon Purge","releaseDate":"2023-02-23","source":"historical"},"1569200":{"rank":249,"estimate":"80k+","name":"Brewmaster: Beer Brewing Simulator","releaseDate":"2022-09-29","source":"historical"},"2849080":{"rank":255,"estimate":"80k+","name":"Kingdom Rush 5: Alliance TD","releaseDate":"2024-07-25","source":"historical"},"1416920":{"rank":265,"estimate":"80k+","name":"Chinese Online Game","releaseDate":"2024-07-18","source":"historical"},"1493440":{"rank":265,"estimate":"80k+","name":"TORMENTOR","releaseDate":"2025-12-11","source":"historical"},"1623070":{"rank":363,"estimate":"80k+","name":"Master of Magic","releaseDate":"2022-12-13","source":"historical"},"2803280":{"rank":452,"estimate":"80k+","name":"Dragon Is Dead","releaseDate":"2025-06-06","source":"historical"},"1693280":{"rank":594,"estimate":"40k+","name":"Supplice","releaseDate":"2023-04-06","source":"historical"},"1001270":{"rank":712,"estimate":"40k+","name":"Kebab Chefs! - Restaurant Simulator","releaseDate":"2024-01-19","source":"historical"},"1388580":{"rank":735,"estimate":"40k+","name":"Blooming Business: Casino","releaseDate":"2023-05-23","source":"historical"},"2229480":{"rank":764,"estimate":"40k+","name":"The Heroines' Last Anthem","releaseDate":"2023-10-19","source":"historical"},"2198070":{"rank":962,"estimate":"40k+","name":"Cardboard Town","releaseDate":"2023-08-18","source":"historical"},"1550600":{"rank":977,"estimate":"40k+","name":"Living with temptation CLASSIC","releaseDate":"2021-10-06","source":"historical"},"1644150":{"rank":1015,"estimate":"25k+","name":"OshiRabu: Waifus Over Husbandos ~Love･or･die~","releaseDate":"2021-07-29","source":"historical"},"1843540":{"rank":1290,"estimate":"25k+","name":"Akimbot","releaseDate":"2024-08-29","source":"historical"},"1981790":{"rank":1350,"estimate":"25k+","name":"Warhammer 40,000: Darktide - Imperial Edition Upgrade","releaseDate":"2022-11-30","source":"historical"},"1111650":{"rank":1459,"estimate":"25k+","name":"Never BreakUp","releaseDate":"2022-07-15","source":"historical"},"1771360":{"rank":1617,"estimate":"15k+","name":"Gerda: A Flame in Winter","releaseDate":"2022-09-01","source":"historical"},"2384600":{"rank":1705,"estimate":"15k+","name":"Monster College","releaseDate":"2025-05-26","source":"historical"},"1231150":{"rank":1770,"estimate":"9k","actualWishlists":9000,"name":"Rosas are Red","releaseDate":"2023-11-06","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5288974951211969009"},"2330360":{"rank":1878,"estimate":"15k+","name":"Pixel Art Academy: Learn Mode","releaseDate":"2024-08-05","source":"historical"},"1186470":{"rank":1900,"estimate":"15k+","name":"Marko: Beyond Brave","releaseDate":"2024-09-17","source":"historical"},"2052040":{"rank":1965,"estimate":"15k+","name":"Golden Lap","releaseDate":"2024-09-26","source":"historical"},"2243570":{"rank":2370,"estimate":"7k+","name":"Orc Covenant: Gay Bara Orc Visual Novel","releaseDate":"2024-08-21","source":"historical"},"2933990":{"rank":2823,"estimate":"7k+","name":"Travellin Cats in Christmas","releaseDate":"2024-12-01","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 35,
+  "entries": {
+    "995680": {
+      "rank": 39,
+      "estimate": "600k+",
+      "name": "Truck Mechanic: Dangerous Paths",
+      "releaseDate": "2026-03-30",
+      "source": "historical"
+    },
+    "1001270": {
+      "rank": 712,
+      "estimate": "40k+",
+      "name": "Kebab Chefs! - Restaurant Simulator",
+      "releaseDate": "2024-01-19",
+      "source": "historical"
+    },
+    "1111650": {
+      "rank": 1459,
+      "estimate": "25k+",
+      "name": "Never BreakUp",
+      "releaseDate": "2022-07-15",
+      "source": "historical"
+    },
+    "1113010": {
+      "rank": 22,
+      "estimate": "600k+",
+      "name": "Chornobyl Liquidators",
+      "releaseDate": "2024-06-06",
+      "source": "historical"
+    },
+    "1186470": {
+      "rank": 1900,
+      "estimate": "15k+",
+      "name": "Marko: Beyond Brave",
+      "releaseDate": "2024-09-17",
+      "source": "historical"
+    },
+    "1222730": {
+      "rank": 14,
+      "estimate": "800k+",
+      "name": "STAR WARS™: Squadrons",
+      "releaseDate": "2020-10-01",
+      "source": "historical"
+    },
+    "1231150": {
+      "rank": 1770,
+      "estimate": "9k",
+      "actualWishlists": 9000,
+      "name": "Rosas are Red",
+      "releaseDate": "2023-11-06",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5288974951211969009"
+    },
+    "1371690": {
+      "rank": 71,
+      "estimate": "300k+",
+      "name": "GRAVEN",
+      "releaseDate": "2024-01-23",
+      "source": "historical"
+    },
+    "1388580": {
+      "rank": 735,
+      "estimate": "40k+",
+      "name": "Blooming Business: Casino",
+      "releaseDate": "2023-05-23",
+      "source": "historical"
+    },
+    "1389990": {
+      "rank": 149,
+      "estimate": "200k+",
+      "name": "Oblivity - Find your perfect Sensitivity",
+      "releaseDate": "2022-03-24",
+      "source": "historical"
+    },
+    "1416920": {
+      "rank": 265,
+      "estimate": "80k+",
+      "name": "Chinese Online Game",
+      "releaseDate": "2024-07-18",
+      "source": "historical"
+    },
+    "1493440": {
+      "rank": 265,
+      "estimate": "80k+",
+      "name": "TORMENTOR",
+      "releaseDate": "2025-12-11",
+      "source": "historical"
+    },
+    "1550600": {
+      "rank": 977,
+      "estimate": "40k+",
+      "name": "Living with temptation CLASSIC",
+      "releaseDate": "2021-10-06",
+      "source": "historical"
+    },
+    "1569200": {
+      "rank": 249,
+      "estimate": "80k+",
+      "name": "Brewmaster: Beer Brewing Simulator",
+      "releaseDate": "2022-09-29",
+      "source": "historical"
+    },
+    "1623070": {
+      "rank": 363,
+      "estimate": "80k+",
+      "name": "Master of Magic",
+      "releaseDate": "2022-12-13",
+      "source": "historical"
+    },
+    "1644150": {
+      "rank": 1015,
+      "estimate": "25k+",
+      "name": "OshiRabu: Waifus Over Husbandos ~Love･or･die~",
+      "releaseDate": "2021-07-29",
+      "source": "historical"
+    },
+    "1675200": {
+      "rank": 45,
+      "estimate": "600k+",
+      "name": "Steam Deck",
+      "releaseDate": "2025-01-17",
+      "source": "historical"
+    },
+    "1693280": {
+      "rank": 594,
+      "estimate": "40k+",
+      "name": "Supplice",
+      "releaseDate": "2023-04-06",
+      "source": "historical"
+    },
+    "1702010": {
+      "rank": 45,
+      "estimate": "600k+",
+      "name": "Sengoku Dynasty",
+      "releaseDate": "2024-11-07",
+      "source": "historical"
+    },
+    "1771360": {
+      "rank": 1617,
+      "estimate": "15k+",
+      "name": "Gerda: A Flame in Winter",
+      "releaseDate": "2022-09-01",
+      "source": "historical"
+    },
+    "1843540": {
+      "rank": 1290,
+      "estimate": "25k+",
+      "name": "Akimbot",
+      "releaseDate": "2024-08-29",
+      "source": "historical"
+    },
+    "1928870": {
+      "rank": 7,
+      "estimate": "1.5m+",
+      "name": "Minecraft Legends",
+      "releaseDate": "2023-04-18",
+      "source": "historical"
+    },
+    "1969370": {
+      "rank": 32,
+      "estimate": "600k+",
+      "name": "LEGO® Party!",
+      "releaseDate": "2025-09-30",
+      "source": "historical"
+    },
+    "1981790": {
+      "rank": 1350,
+      "estimate": "25k+",
+      "name": "Warhammer 40,000: Darktide - Imperial Edition Upgrade",
+      "releaseDate": "2022-11-30",
+      "source": "historical"
+    },
+    "2052040": {
+      "rank": 1965,
+      "estimate": "15k+",
+      "name": "Golden Lap",
+      "releaseDate": "2024-09-26",
+      "source": "historical"
+    },
+    "2081400": {
+      "rank": 197,
+      "estimate": "200k+",
+      "name": "Gal Guardians: Demon Purge",
+      "releaseDate": "2023-02-23",
+      "source": "historical"
+    },
+    "2198070": {
+      "rank": 962,
+      "estimate": "40k+",
+      "name": "Cardboard Town",
+      "releaseDate": "2023-08-18",
+      "source": "historical"
+    },
+    "2229480": {
+      "rank": 764,
+      "estimate": "40k+",
+      "name": "The Heroines' Last Anthem",
+      "releaseDate": "2023-10-19",
+      "source": "historical"
+    },
+    "2243570": {
+      "rank": 2370,
+      "estimate": "7k+",
+      "name": "Orc Covenant: Gay Bara Orc Visual Novel",
+      "releaseDate": "2024-08-21",
+      "source": "historical"
+    },
+    "2330360": {
+      "rank": 1878,
+      "estimate": "15k+",
+      "name": "Pixel Art Academy: Learn Mode",
+      "releaseDate": "2024-08-05",
+      "source": "historical"
+    },
+    "2384600": {
+      "rank": 1705,
+      "estimate": "15k+",
+      "name": "Monster College",
+      "releaseDate": "2025-05-26",
+      "source": "historical"
+    },
+    "2803280": {
+      "rank": 452,
+      "estimate": "80k+",
+      "name": "Dragon Is Dead",
+      "releaseDate": "2025-06-06",
+      "source": "historical"
+    },
+    "2849080": {
+      "rank": 255,
+      "estimate": "80k+",
+      "name": "Kingdom Rush 5: Alliance TD",
+      "releaseDate": "2024-07-25",
+      "source": "historical"
+    },
+    "2933990": {
+      "rank": 2823,
+      "estimate": "7k+",
+      "name": "Travellin Cats in Christmas",
+      "releaseDate": "2024-12-01",
+      "source": "historical"
+    },
+    "2943650": {
+      "rank": 12,
+      "estimate": "800k+",
+      "name": "FragPunk",
+      "releaseDate": "2025-03-06",
+      "source": "historical"
+    }
+  }
+}

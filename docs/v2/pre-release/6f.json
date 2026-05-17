@@ -1,1 +1,208 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":28,"entries":{"3288210":{"rank":16,"estimate":"800k+","name":"Super Meat Boy 3D","releaseDate":"2026-03-31","source":"historical"},"2939830":{"rank":26,"estimate":"600k+","name":"Dungeon Done","releaseDate":"2024-12-05","source":"historical"},"1687950":{"rank":31,"estimate":"600k+","name":"Persona 5 Royal","releaseDate":"2022-10-20","source":"historical"},"2096030":{"rank":32,"estimate":"600k+","name":"Snow Plowing Simulator","releaseDate":"2025-06-16","source":"historical"},"918570":{"rank":38,"estimate":"600k+","name":"Century: Age of Ashes","releaseDate":"2021-12-02","source":"historical"},"1599660":{"rank":187,"estimate":"200k+","name":"Sackboy™: A Big Adventure","releaseDate":"2022-10-27","source":"historical"},"1794830":{"rank":199,"estimate":"200k","actualWishlists":200000,"name":"Macabre","releaseDate":"2025-09-26","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1793384379393474"},"1880470":{"rank":249,"estimate":"80k+","name":"The Inquisitor","releaseDate":"2024-02-08","source":"historical"},"1244630":{"rank":280,"estimate":"80k+","name":"House Builder","releaseDate":"2024-01-15","source":"historical"},"1536090":{"rank":398,"estimate":"80k+","name":"Echoes of the Plum Grove","releaseDate":"2024-04-29","source":"historical"},"1082450":{"rank":678,"estimate":"40k+","name":"Gold Hunter","releaseDate":"2022-05-13","source":"historical"},"1839760":{"rank":805,"estimate":"40k+","name":"Cursed Crew","releaseDate":"2024-02-26","source":"historical"},"1078370":{"rank":826,"estimate":"40k+","name":"Succubus x Saint","releaseDate":"2022-03-28","source":"historical"},"1308880":{"rank":846,"estimate":"40k+","name":"FORECLOSED","releaseDate":"2021-08-12","source":"historical"},"2024390":{"rank":912,"estimate":"40k+","name":"Mato Anomalies","releaseDate":"2023-03-10","source":"historical"},"1347540":{"rank":947,"estimate":"40k+","name":"Sky Fleet","releaseDate":"2021-12-17","source":"historical"},"1997460":{"rank":977,"estimate":"40k+","name":"Demon Maiden and Slave Summoning","releaseDate":"2024-10-02","source":"historical"},"1349380":{"rank":1054,"estimate":"25k+","name":"斗地主少女在线版","releaseDate":"2023-03-31","source":"historical"},"1791910":{"rank":1125,"estimate":"33k","actualWishlists":33000,"name":"Silent Rain","releaseDate":"2024-07-15","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989046580870"},"1484760":{"rank":1148,"estimate":"25k+","name":"Tamarindos Freaking Dinner","releaseDate":"2024-06-03","source":"historical"},"1710580":{"rank":1352,"estimate":"25k+","name":"MotoGP™22","releaseDate":"2022-04-21","source":"historical"},"2362090":{"rank":1471,"estimate":"25k+","name":"Chicken Police: Into the HIVE!","releaseDate":"2024-11-07","source":"historical"},"1065400":{"rank":1750,"estimate":"15k+","name":"Tank Mechanic Simulator - Shermans DLC","releaseDate":"2023-06-06","source":"historical"},"1967180":{"rank":1921,"estimate":"15k+","name":"Public Bounce","releaseDate":"2023-06-08","source":"historical"},"2511050":{"rank":1945,"estimate":"15k+","name":"Brazen Blaze -3vs3 Brawl Arena-","releaseDate":"2024-07-18","source":"historical"},"1730520":{"rank":2268,"estimate":"7k+","name":"1000 hidden snails","releaseDate":"2026-05-06","source":"historical"},"1162860":{"rank":2387,"estimate":"7k+","name":"Keepsake County","releaseDate":"2026-01-01","source":"historical"},"2960450":{"rank":2705,"estimate":"7k+","name":"AURA: Hentai Cards - Horny Madness DLC","releaseDate":"2024-09-06","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 28,
+  "entries": {
+    "918570": {
+      "rank": 38,
+      "estimate": "600k+",
+      "name": "Century: Age of Ashes",
+      "releaseDate": "2021-12-02",
+      "source": "historical"
+    },
+    "1065400": {
+      "rank": 1750,
+      "estimate": "15k+",
+      "name": "Tank Mechanic Simulator - Shermans DLC",
+      "releaseDate": "2023-06-06",
+      "source": "historical"
+    },
+    "1078370": {
+      "rank": 826,
+      "estimate": "40k+",
+      "name": "Succubus x Saint",
+      "releaseDate": "2022-03-28",
+      "source": "historical"
+    },
+    "1082450": {
+      "rank": 678,
+      "estimate": "40k+",
+      "name": "Gold Hunter",
+      "releaseDate": "2022-05-13",
+      "source": "historical"
+    },
+    "1162860": {
+      "rank": 2387,
+      "estimate": "7k+",
+      "name": "Keepsake County",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "1244630": {
+      "rank": 280,
+      "estimate": "80k+",
+      "name": "House Builder",
+      "releaseDate": "2024-01-15",
+      "source": "historical"
+    },
+    "1308880": {
+      "rank": 846,
+      "estimate": "40k+",
+      "name": "FORECLOSED",
+      "releaseDate": "2021-08-12",
+      "source": "historical"
+    },
+    "1347540": {
+      "rank": 947,
+      "estimate": "40k+",
+      "name": "Sky Fleet",
+      "releaseDate": "2021-12-17",
+      "source": "historical"
+    },
+    "1349380": {
+      "rank": 1054,
+      "estimate": "25k+",
+      "name": "斗地主少女在线版",
+      "releaseDate": "2023-03-31",
+      "source": "historical"
+    },
+    "1484760": {
+      "rank": 1148,
+      "estimate": "25k+",
+      "name": "Tamarindos Freaking Dinner",
+      "releaseDate": "2024-06-03",
+      "source": "historical"
+    },
+    "1536090": {
+      "rank": 398,
+      "estimate": "80k+",
+      "name": "Echoes of the Plum Grove",
+      "releaseDate": "2024-04-29",
+      "source": "historical"
+    },
+    "1599660": {
+      "rank": 187,
+      "estimate": "200k+",
+      "name": "Sackboy™: A Big Adventure",
+      "releaseDate": "2022-10-27",
+      "source": "historical"
+    },
+    "1687950": {
+      "rank": 31,
+      "estimate": "600k+",
+      "name": "Persona 5 Royal",
+      "releaseDate": "2022-10-20",
+      "source": "historical"
+    },
+    "1710580": {
+      "rank": 1352,
+      "estimate": "25k+",
+      "name": "MotoGP™22",
+      "releaseDate": "2022-04-21",
+      "source": "historical"
+    },
+    "1730520": {
+      "rank": 2268,
+      "estimate": "7k+",
+      "name": "1000 hidden snails",
+      "releaseDate": "2026-05-06",
+      "source": "historical"
+    },
+    "1791910": {
+      "rank": 1125,
+      "estimate": "33k",
+      "actualWishlists": 33000,
+      "name": "Silent Rain",
+      "releaseDate": "2024-07-15",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989046580870"
+    },
+    "1794830": {
+      "rank": 199,
+      "estimate": "200k",
+      "actualWishlists": 200000,
+      "name": "Macabre",
+      "releaseDate": "2025-09-26",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1793384379393474"
+    },
+    "1839760": {
+      "rank": 805,
+      "estimate": "40k+",
+      "name": "Cursed Crew",
+      "releaseDate": "2024-02-26",
+      "source": "historical"
+    },
+    "1880470": {
+      "rank": 249,
+      "estimate": "80k+",
+      "name": "The Inquisitor",
+      "releaseDate": "2024-02-08",
+      "source": "historical"
+    },
+    "1967180": {
+      "rank": 1921,
+      "estimate": "15k+",
+      "name": "Public Bounce",
+      "releaseDate": "2023-06-08",
+      "source": "historical"
+    },
+    "1997460": {
+      "rank": 977,
+      "estimate": "40k+",
+      "name": "Demon Maiden and Slave Summoning",
+      "releaseDate": "2024-10-02",
+      "source": "historical"
+    },
+    "2024390": {
+      "rank": 912,
+      "estimate": "40k+",
+      "name": "Mato Anomalies",
+      "releaseDate": "2023-03-10",
+      "source": "historical"
+    },
+    "2096030": {
+      "rank": 32,
+      "estimate": "600k+",
+      "name": "Snow Plowing Simulator",
+      "releaseDate": "2025-06-16",
+      "source": "historical"
+    },
+    "2362090": {
+      "rank": 1471,
+      "estimate": "25k+",
+      "name": "Chicken Police: Into the HIVE!",
+      "releaseDate": "2024-11-07",
+      "source": "historical"
+    },
+    "2511050": {
+      "rank": 1945,
+      "estimate": "15k+",
+      "name": "Brazen Blaze -3vs3 Brawl Arena-",
+      "releaseDate": "2024-07-18",
+      "source": "historical"
+    },
+    "2939830": {
+      "rank": 26,
+      "estimate": "600k+",
+      "name": "Dungeon Done",
+      "releaseDate": "2024-12-05",
+      "source": "historical"
+    },
+    "2960450": {
+      "rank": 2705,
+      "estimate": "7k+",
+      "name": "AURA: Hentai Cards - Horny Madness DLC",
+      "releaseDate": "2024-09-06",
+      "source": "historical"
+    },
+    "3288210": {
+      "rank": 16,
+      "estimate": "800k+",
+      "name": "Super Meat Boy 3D",
+      "releaseDate": "2026-03-31",
+      "source": "historical"
+    }
+  }
+}

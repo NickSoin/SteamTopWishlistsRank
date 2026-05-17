@@ -1,1 +1,187 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":25,"entries":{"1497440":{"rank":33,"estimate":"600k+","name":"COCOON","releaseDate":"2023-09-29","source":"historical"},"2474710":{"rank":47,"estimate":"600k+","name":"Paint the Town Red VR","releaseDate":"2024-03-14","source":"historical"},"1819460":{"rank":50,"estimate":"600k+","name":"Mika and The Witch's Mountain","releaseDate":"2025-01-22","source":"historical"},"2930160":{"rank":253,"estimate":"80k+","name":"Nightmare Kart","releaseDate":"2024-06-05","source":"historical"},"1422130":{"rank":336,"estimate":"80k+","name":"SimRail - The Railway Simulator","releaseDate":"2024-12-13","source":"historical"},"1840710":{"rank":371,"estimate":"80k+","name":"These Doomed Isles","releaseDate":"2024-10-30","source":"historical"},"2591280":{"rank":420,"estimate":"80k+","name":"F1® Manager 2024","releaseDate":"2024-07-23","source":"historical"},"2649240":{"rank":444,"estimate":"80k+","name":"FINAL FANTASY XIV: Dawntrail","releaseDate":"2024-07-02","source":"historical"},"1361840":{"rank":522,"estimate":"40k+","name":"Tunnel of Doom","releaseDate":"2021-11-23","source":"historical"},"2094600":{"rank":830,"estimate":"40k+","name":"Nowhere: Mysterious Artifacts","releaseDate":"2023-08-17","source":"historical"},"1400660":{"rank":870,"estimate":"40k+","name":"Rise of Piracy","releaseDate":"2026-02-24","source":"historical"},"2247570":{"rank":914,"estimate":"20k","actualWishlists":20000,"name":"Don Duality","releaseDate":"2023-08-25","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5839532486225655099"},"1948120":{"rank":1184,"estimate":"25k+","name":"Prison Architect - Gangs","releaseDate":"2022-06-14","source":"historical"},"1273260":{"rank":1227,"estimate":"25k+","name":"Corpse Party (2021)","releaseDate":"2021-10-20","source":"historical"},"1721170":{"rank":1265,"estimate":"25k+","name":"What Lies in the Multiverse","releaseDate":"2022-03-04","source":"historical"},"1851280":{"rank":1335,"estimate":"25k+","name":"Samurai Bringer","releaseDate":"2022-04-21","source":"historical"},"2071120":{"rank":1531,"estimate":"15k+","name":"Dreambound","releaseDate":"2024-04-29","source":"historical"},"1911940":{"rank":1647,"estimate":"15k+","name":"Twilight Monk","releaseDate":"2025-03-26","source":"historical"},"1968610":{"rank":1857,"estimate":"15k+","name":"Adrianne and Oliver","releaseDate":"2022-12-01","source":"historical"},"1786230":{"rank":1870,"estimate":"15k+","name":"Breakers Collection","releaseDate":"2023-01-11","source":"historical"},"2096620":{"rank":1889,"estimate":"15k+","name":"Death or Treat","releaseDate":"2023-05-11","source":"historical"},"2302080":{"rank":2021,"estimate":"7k+","name":"Death of a Wish","releaseDate":"2024-03-11","source":"historical"},"2624670":{"rank":2053,"estimate":"12k","actualWishlists":11500,"name":"Find Matt's Cats","releaseDate":"2026-03-16","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6146943657174031064"},"1313290":{"rank":2061,"estimate":"7k+","name":"Let Them Trade","releaseDate":"2025-07-24","source":"historical"},"1833680":{"rank":2913,"estimate":"7k+","name":"BeatRider","releaseDate":"2024-10-22","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 25,
+  "entries": {
+    "1273260": {
+      "rank": 1227,
+      "estimate": "25k+",
+      "name": "Corpse Party (2021)",
+      "releaseDate": "2021-10-20",
+      "source": "historical"
+    },
+    "1313290": {
+      "rank": 2061,
+      "estimate": "7k+",
+      "name": "Let Them Trade",
+      "releaseDate": "2025-07-24",
+      "source": "historical"
+    },
+    "1361840": {
+      "rank": 522,
+      "estimate": "40k+",
+      "name": "Tunnel of Doom",
+      "releaseDate": "2021-11-23",
+      "source": "historical"
+    },
+    "1400660": {
+      "rank": 870,
+      "estimate": "40k+",
+      "name": "Rise of Piracy",
+      "releaseDate": "2026-02-24",
+      "source": "historical"
+    },
+    "1422130": {
+      "rank": 336,
+      "estimate": "80k+",
+      "name": "SimRail - The Railway Simulator",
+      "releaseDate": "2024-12-13",
+      "source": "historical"
+    },
+    "1497440": {
+      "rank": 33,
+      "estimate": "600k+",
+      "name": "COCOON",
+      "releaseDate": "2023-09-29",
+      "source": "historical"
+    },
+    "1721170": {
+      "rank": 1265,
+      "estimate": "25k+",
+      "name": "What Lies in the Multiverse",
+      "releaseDate": "2022-03-04",
+      "source": "historical"
+    },
+    "1786230": {
+      "rank": 1870,
+      "estimate": "15k+",
+      "name": "Breakers Collection",
+      "releaseDate": "2023-01-11",
+      "source": "historical"
+    },
+    "1819460": {
+      "rank": 50,
+      "estimate": "600k+",
+      "name": "Mika and The Witch's Mountain",
+      "releaseDate": "2025-01-22",
+      "source": "historical"
+    },
+    "1833680": {
+      "rank": 2913,
+      "estimate": "7k+",
+      "name": "BeatRider",
+      "releaseDate": "2024-10-22",
+      "source": "historical"
+    },
+    "1840710": {
+      "rank": 371,
+      "estimate": "80k+",
+      "name": "These Doomed Isles",
+      "releaseDate": "2024-10-30",
+      "source": "historical"
+    },
+    "1851280": {
+      "rank": 1335,
+      "estimate": "25k+",
+      "name": "Samurai Bringer",
+      "releaseDate": "2022-04-21",
+      "source": "historical"
+    },
+    "1911940": {
+      "rank": 1647,
+      "estimate": "15k+",
+      "name": "Twilight Monk",
+      "releaseDate": "2025-03-26",
+      "source": "historical"
+    },
+    "1948120": {
+      "rank": 1184,
+      "estimate": "25k+",
+      "name": "Prison Architect - Gangs",
+      "releaseDate": "2022-06-14",
+      "source": "historical"
+    },
+    "1968610": {
+      "rank": 1857,
+      "estimate": "15k+",
+      "name": "Adrianne and Oliver",
+      "releaseDate": "2022-12-01",
+      "source": "historical"
+    },
+    "2071120": {
+      "rank": 1531,
+      "estimate": "15k+",
+      "name": "Dreambound",
+      "releaseDate": "2024-04-29",
+      "source": "historical"
+    },
+    "2094600": {
+      "rank": 830,
+      "estimate": "40k+",
+      "name": "Nowhere: Mysterious Artifacts",
+      "releaseDate": "2023-08-17",
+      "source": "historical"
+    },
+    "2096620": {
+      "rank": 1889,
+      "estimate": "15k+",
+      "name": "Death or Treat",
+      "releaseDate": "2023-05-11",
+      "source": "historical"
+    },
+    "2247570": {
+      "rank": 914,
+      "estimate": "20k",
+      "actualWishlists": 20000,
+      "name": "Don Duality",
+      "releaseDate": "2023-08-25",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5839532486225655099"
+    },
+    "2302080": {
+      "rank": 2021,
+      "estimate": "7k+",
+      "name": "Death of a Wish",
+      "releaseDate": "2024-03-11",
+      "source": "historical"
+    },
+    "2474710": {
+      "rank": 47,
+      "estimate": "600k+",
+      "name": "Paint the Town Red VR",
+      "releaseDate": "2024-03-14",
+      "source": "historical"
+    },
+    "2591280": {
+      "rank": 420,
+      "estimate": "80k+",
+      "name": "F1® Manager 2024",
+      "releaseDate": "2024-07-23",
+      "source": "historical"
+    },
+    "2624670": {
+      "rank": 2053,
+      "estimate": "12k",
+      "actualWishlists": 11500,
+      "name": "Find Matt's Cats",
+      "releaseDate": "2026-03-16",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6146943657174031064"
+    },
+    "2649240": {
+      "rank": 444,
+      "estimate": "80k+",
+      "name": "FINAL FANTASY XIV: Dawntrail",
+      "releaseDate": "2024-07-02",
+      "source": "historical"
+    },
+    "2930160": {
+      "rank": 253,
+      "estimate": "80k+",
+      "name": "Nightmare Kart",
+      "releaseDate": "2024-06-05",
+      "source": "historical"
+    }
+  }
+}

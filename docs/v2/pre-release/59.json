@@ -1,1 +1,211 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":29,"entries":{"1285190":{"rank":2,"estimate":"1.5m+","name":"Borderlands 4","releaseDate":"2025-09-11","source":"historical"},"2507950":{"rank":2,"estimate":"1.5m+","name":"Delta Force","releaseDate":"2024-12-04","source":"historical"},"1649240":{"rank":4,"estimate":"1.5m+","name":"Returnal™","releaseDate":"2023-02-15","source":"historical"},"1426300":{"rank":17,"estimate":"800k+","name":"The Binding of Isaac: Repentance","releaseDate":"2021-03-31","source":"historical"},"2610090":{"rank":48,"estimate":"600k+","name":"A Park Full of Cats","releaseDate":"2024-09-09","source":"historical"},"601360":{"rank":122,"estimate":"200k+","name":"Portal: Revolution","releaseDate":"2024-01-06","source":"historical"},"811550":{"rank":138,"estimate":"200k+","name":"MythBusters: The Game - Crazy Experiments Simulator","releaseDate":"2022-09-01","source":"historical"},"1798010":{"rank":291,"estimate":"80k+","name":"Mega Man Battle Network Legacy Collection Vol. 1","releaseDate":"2023-04-13","source":"historical"},"1868210":{"rank":485,"estimate":"80k+","name":"Bunker Builder Simulator","releaseDate":"2026-01-01","source":"historical"},"1607040":{"rank":582,"estimate":"40k+","name":"Evertried","releaseDate":"2021-10-21","source":"historical"},"2464280":{"rank":618,"estimate":"40k+","name":"Tormented Souls 2","releaseDate":"2025-10-23","source":"historical"},"1793051":{"rank":756,"estimate":"40k+","name":"Warhammer 40,000: Battlesector - Necrons","releaseDate":"2022-04-21","source":"historical"},"2344320":{"rank":979,"estimate":"40k+","name":"Eldegarde","releaseDate":"2026-01-21","source":"historical"},"1506680":{"rank":1019,"estimate":"25k+","name":"Horror Tycoon","releaseDate":"2022-10-20","source":"historical"},"1773800":{"rank":1192,"estimate":"25k+","name":"Car Mechanic Simulator 2021 - Pagani Remastered DLC","releaseDate":"2021-11-22","source":"historical"},"1266470":{"rank":1199,"estimate":"25k+","name":"Real VR Fishing","releaseDate":"2024-12-06","source":"historical"},"1386750":{"rank":1298,"estimate":"25k+","name":"Spindle","releaseDate":"2025-10-13","source":"historical"},"1659090":{"rank":1328,"estimate":"25k+","name":"REMEDIUM","releaseDate":"2023-09-14","source":"historical"},"2331610":{"rank":1328,"estimate":"25k+","name":"ChatWaifu","releaseDate":"2024-08-12","source":"historical"},"2452270":{"rank":1584,"estimate":"15k+","name":"Seed of the Dead: Charm Song","releaseDate":"2023-11-17","source":"historical"},"2551290":{"rank":1899,"estimate":"15k+","name":"Hilda and the tower of Lust","releaseDate":"2024-04-19","source":"historical"},"2447030":{"rank":1975,"estimate":"15k+","name":"Planetiles","releaseDate":"2024-04-03","source":"historical"},"2441700":{"rank":2150,"estimate":"7k+","name":"UNDERDOGS","releaseDate":"2024-01-25","source":"historical"},"1777790":{"rank":2215,"estimate":"7k+","name":"Pool Party","releaseDate":"2024-05-16","source":"historical"},"2515070":{"rank":2223,"estimate":"7k+","name":"AQUARIUM","releaseDate":"2023-10-25","source":"historical"},"2878450":{"rank":2265,"estimate":"7k+","name":"Master of Command","releaseDate":"2025-10-27","source":"historical"},"1521360":{"rank":2336,"estimate":"7k+","name":"MainFrames","releaseDate":"2025-03-06","source":"historical"},"2537980":{"rank":2653,"estimate":"7k+","name":"Drăculești","releaseDate":"2026-01-01","source":"historical"},"2251220":{"rank":2910,"estimate":"7k+","name":"High Times - Dating/Cooking Sim","releaseDate":"2026-07-23","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 29,
+  "entries": {
+    "601360": {
+      "rank": 122,
+      "estimate": "200k+",
+      "name": "Portal: Revolution",
+      "releaseDate": "2024-01-06",
+      "source": "historical"
+    },
+    "811550": {
+      "rank": 138,
+      "estimate": "200k+",
+      "name": "MythBusters: The Game - Crazy Experiments Simulator",
+      "releaseDate": "2022-09-01",
+      "source": "historical"
+    },
+    "1266470": {
+      "rank": 1199,
+      "estimate": "25k+",
+      "name": "Real VR Fishing",
+      "releaseDate": "2024-12-06",
+      "source": "historical"
+    },
+    "1285190": {
+      "rank": 2,
+      "estimate": "1.5m+",
+      "name": "Borderlands 4",
+      "releaseDate": "2025-09-11",
+      "source": "historical"
+    },
+    "1386750": {
+      "rank": 1298,
+      "estimate": "25k+",
+      "name": "Spindle",
+      "releaseDate": "2025-10-13",
+      "source": "historical"
+    },
+    "1426300": {
+      "rank": 17,
+      "estimate": "800k+",
+      "name": "The Binding of Isaac: Repentance",
+      "releaseDate": "2021-03-31",
+      "source": "historical"
+    },
+    "1506680": {
+      "rank": 1019,
+      "estimate": "25k+",
+      "name": "Horror Tycoon",
+      "releaseDate": "2022-10-20",
+      "source": "historical"
+    },
+    "1521360": {
+      "rank": 2336,
+      "estimate": "7k+",
+      "name": "MainFrames",
+      "releaseDate": "2025-03-06",
+      "source": "historical"
+    },
+    "1607040": {
+      "rank": 582,
+      "estimate": "40k+",
+      "name": "Evertried",
+      "releaseDate": "2021-10-21",
+      "source": "historical"
+    },
+    "1649240": {
+      "rank": 4,
+      "estimate": "1.5m+",
+      "name": "Returnal™",
+      "releaseDate": "2023-02-15",
+      "source": "historical"
+    },
+    "1659090": {
+      "rank": 1328,
+      "estimate": "25k+",
+      "name": "REMEDIUM",
+      "releaseDate": "2023-09-14",
+      "source": "historical"
+    },
+    "1773800": {
+      "rank": 1192,
+      "estimate": "25k+",
+      "name": "Car Mechanic Simulator 2021 - Pagani Remastered DLC",
+      "releaseDate": "2021-11-22",
+      "source": "historical"
+    },
+    "1777790": {
+      "rank": 2215,
+      "estimate": "7k+",
+      "name": "Pool Party",
+      "releaseDate": "2024-05-16",
+      "source": "historical"
+    },
+    "1793051": {
+      "rank": 756,
+      "estimate": "40k+",
+      "name": "Warhammer 40,000: Battlesector - Necrons",
+      "releaseDate": "2022-04-21",
+      "source": "historical"
+    },
+    "1798010": {
+      "rank": 291,
+      "estimate": "80k+",
+      "name": "Mega Man Battle Network Legacy Collection Vol. 1",
+      "releaseDate": "2023-04-13",
+      "source": "historical"
+    },
+    "1868210": {
+      "rank": 485,
+      "estimate": "80k+",
+      "name": "Bunker Builder Simulator",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2251220": {
+      "rank": 2910,
+      "estimate": "7k+",
+      "name": "High Times - Dating/Cooking Sim",
+      "releaseDate": "2026-07-23",
+      "source": "historical"
+    },
+    "2331610": {
+      "rank": 1328,
+      "estimate": "25k+",
+      "name": "ChatWaifu",
+      "releaseDate": "2024-08-12",
+      "source": "historical"
+    },
+    "2344320": {
+      "rank": 979,
+      "estimate": "40k+",
+      "name": "Eldegarde",
+      "releaseDate": "2026-01-21",
+      "source": "historical"
+    },
+    "2441700": {
+      "rank": 2150,
+      "estimate": "7k+",
+      "name": "UNDERDOGS",
+      "releaseDate": "2024-01-25",
+      "source": "historical"
+    },
+    "2447030": {
+      "rank": 1975,
+      "estimate": "15k+",
+      "name": "Planetiles",
+      "releaseDate": "2024-04-03",
+      "source": "historical"
+    },
+    "2452270": {
+      "rank": 1584,
+      "estimate": "15k+",
+      "name": "Seed of the Dead: Charm Song",
+      "releaseDate": "2023-11-17",
+      "source": "historical"
+    },
+    "2464280": {
+      "rank": 618,
+      "estimate": "40k+",
+      "name": "Tormented Souls 2",
+      "releaseDate": "2025-10-23",
+      "source": "historical"
+    },
+    "2507950": {
+      "rank": 2,
+      "estimate": "1.5m+",
+      "name": "Delta Force",
+      "releaseDate": "2024-12-04",
+      "source": "historical"
+    },
+    "2515070": {
+      "rank": 2223,
+      "estimate": "7k+",
+      "name": "AQUARIUM",
+      "releaseDate": "2023-10-25",
+      "source": "historical"
+    },
+    "2537980": {
+      "rank": 2653,
+      "estimate": "7k+",
+      "name": "Drăculești",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2551290": {
+      "rank": 1899,
+      "estimate": "15k+",
+      "name": "Hilda and the tower of Lust",
+      "releaseDate": "2024-04-19",
+      "source": "historical"
+    },
+    "2610090": {
+      "rank": 48,
+      "estimate": "600k+",
+      "name": "A Park Full of Cats",
+      "releaseDate": "2024-09-09",
+      "source": "historical"
+    },
+    "2878450": {
+      "rank": 2265,
+      "estimate": "7k+",
+      "name": "Master of Command",
+      "releaseDate": "2025-10-27",
+      "source": "historical"
+    }
+  }
+}

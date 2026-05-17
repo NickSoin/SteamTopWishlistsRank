@@ -1,1 +1,204 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":28,"entries":{"1601330":{"rank":16,"estimate":"800k+","name":"Survival Machine","releaseDate":"2025-05-07","source":"historical"},"1185780":{"rank":24,"estimate":"600k+","name":"Forest Ranger Simulator","releaseDate":"2024-06-19","source":"historical"},"2584270":{"rank":31,"estimate":"600k+","name":"Mortal Shell II","releaseDate":"2026-01-01","source":"historical"},"2827960":{"rank":41,"estimate":"600k+","name":"House Builder 2","releaseDate":"2025-10-22","source":"historical"},"2334730":{"rank":130,"estimate":"200k+","name":"Death Must Die","releaseDate":"2023-11-14","source":"historical"},"919360":{"rank":151,"estimate":"200k+","name":"Alaloth: Champions of The Four Kingdoms","releaseDate":"2024-11-21","source":"historical"},"2238900":{"rank":212,"estimate":"80k+","name":"STAR OCEAN THE SECOND STORY R","releaseDate":"2023-11-02","source":"historical"},"2289720":{"rank":252,"estimate":"80k+","name":"Kaiju Princess 2","releaseDate":"2024-12-12","source":"historical"},"1746930":{"rank":291,"estimate":"80k+","name":"SunnySide","releaseDate":"2024-06-14","source":"historical"},"2442460":{"rank":321,"estimate":"80k+","name":"Citizen Sleeper 2: Starward Vector","releaseDate":"2025-01-31","source":"historical"},"1996010":{"rank":363,"estimate":"80k+","name":"Crow Country","releaseDate":"2024-05-09","source":"historical"},"1984790":{"rank":649,"estimate":"40k+","name":"Drago Noka","releaseDate":"2023-01-12","source":"historical"},"1810820":{"rank":699,"estimate":"40k+","name":"Etrian Odyssey III HD","releaseDate":"2023-06-14","source":"historical"},"1410330":{"rank":736,"estimate":"40k+","name":"Love Shore","releaseDate":"2023-06-30","source":"historical"},"2351120":{"rank":769,"estimate":"40k+","name":"Ebenezer and the Invisible World","releaseDate":"2023-11-03","source":"historical"},"1481400":{"rank":1020,"estimate":"25k+","name":"Dagon: by H. P. Lovecraft","releaseDate":"2021-09-24","source":"historical"},"1432680":{"rank":1215,"estimate":"25k+","name":"Mechanic 8230: Escape from Ilgrot","releaseDate":"2022-04-13","source":"historical"},"2186320":{"rank":1300,"estimate":"25k+","name":"Ages of Conflict: World War Simulator","releaseDate":"2023-02-17","source":"historical"},"2378910":{"rank":1347,"estimate":"25k+","name":"Settlements Rising","releaseDate":"2025-01-20","source":"historical"},"1876460":{"rank":1400,"estimate":"25k+","name":"Salty Hounds","releaseDate":"2023-06-27","source":"historical"},"2430160":{"rank":1491,"estimate":"25k+","name":"Taimanin Asagi","releaseDate":"2023-10-26","source":"historical"},"1208690":{"rank":1818,"estimate":"15k+","name":"Ailuri","releaseDate":"2025-02-06","source":"historical"},"1921470":{"rank":2007,"estimate":"7k+","name":"TAGLINE","releaseDate":"2023-10-05","source":"historical"},"2431790":{"rank":2208,"estimate":"7k+","name":"Cyber Paradise","releaseDate":"2026-01-01","source":"historical"},"2845630":{"rank":2410,"estimate":"7k+","name":"Ocean Keeper: Dome Survival","releaseDate":"2025-05-02","source":"historical"},"2348540":{"rank":2571,"estimate":"7k+","name":"Berserk B.I.T.S","releaseDate":"2025-11-20","source":"historical"},"2115760":{"rank":2587,"estimate":"7k+","name":"Oppidum","releaseDate":"2025-04-23","source":"historical"},"3602030":{"rank":859,"estimate":"40k+","name":"Steel Artery: Train City Builder","releaseDate":null,"source":"tracked"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 28,
+  "entries": {
+    "919360": {
+      "rank": 151,
+      "estimate": "200k+",
+      "name": "Alaloth: Champions of The Four Kingdoms",
+      "releaseDate": "2024-11-21",
+      "source": "historical"
+    },
+    "1185780": {
+      "rank": 24,
+      "estimate": "600k+",
+      "name": "Forest Ranger Simulator",
+      "releaseDate": "2024-06-19",
+      "source": "historical"
+    },
+    "1208690": {
+      "rank": 1818,
+      "estimate": "15k+",
+      "name": "Ailuri",
+      "releaseDate": "2025-02-06",
+      "source": "historical"
+    },
+    "1410330": {
+      "rank": 736,
+      "estimate": "40k+",
+      "name": "Love Shore",
+      "releaseDate": "2023-06-30",
+      "source": "historical"
+    },
+    "1432680": {
+      "rank": 1215,
+      "estimate": "25k+",
+      "name": "Mechanic 8230: Escape from Ilgrot",
+      "releaseDate": "2022-04-13",
+      "source": "historical"
+    },
+    "1481400": {
+      "rank": 1020,
+      "estimate": "25k+",
+      "name": "Dagon: by H. P. Lovecraft",
+      "releaseDate": "2021-09-24",
+      "source": "historical"
+    },
+    "1601330": {
+      "rank": 16,
+      "estimate": "800k+",
+      "name": "Survival Machine",
+      "releaseDate": "2025-05-07",
+      "source": "historical"
+    },
+    "1746930": {
+      "rank": 291,
+      "estimate": "80k+",
+      "name": "SunnySide",
+      "releaseDate": "2024-06-14",
+      "source": "historical"
+    },
+    "1810820": {
+      "rank": 699,
+      "estimate": "40k+",
+      "name": "Etrian Odyssey III HD",
+      "releaseDate": "2023-06-14",
+      "source": "historical"
+    },
+    "1876460": {
+      "rank": 1400,
+      "estimate": "25k+",
+      "name": "Salty Hounds",
+      "releaseDate": "2023-06-27",
+      "source": "historical"
+    },
+    "1921470": {
+      "rank": 2007,
+      "estimate": "7k+",
+      "name": "TAGLINE",
+      "releaseDate": "2023-10-05",
+      "source": "historical"
+    },
+    "1984790": {
+      "rank": 649,
+      "estimate": "40k+",
+      "name": "Drago Noka",
+      "releaseDate": "2023-01-12",
+      "source": "historical"
+    },
+    "1996010": {
+      "rank": 363,
+      "estimate": "80k+",
+      "name": "Crow Country",
+      "releaseDate": "2024-05-09",
+      "source": "historical"
+    },
+    "2115760": {
+      "rank": 2587,
+      "estimate": "7k+",
+      "name": "Oppidum",
+      "releaseDate": "2025-04-23",
+      "source": "historical"
+    },
+    "2186320": {
+      "rank": 1300,
+      "estimate": "25k+",
+      "name": "Ages of Conflict: World War Simulator",
+      "releaseDate": "2023-02-17",
+      "source": "historical"
+    },
+    "2238900": {
+      "rank": 212,
+      "estimate": "80k+",
+      "name": "STAR OCEAN THE SECOND STORY R",
+      "releaseDate": "2023-11-02",
+      "source": "historical"
+    },
+    "2289720": {
+      "rank": 252,
+      "estimate": "80k+",
+      "name": "Kaiju Princess 2",
+      "releaseDate": "2024-12-12",
+      "source": "historical"
+    },
+    "2334730": {
+      "rank": 130,
+      "estimate": "200k+",
+      "name": "Death Must Die",
+      "releaseDate": "2023-11-14",
+      "source": "historical"
+    },
+    "2348540": {
+      "rank": 2571,
+      "estimate": "7k+",
+      "name": "Berserk B.I.T.S",
+      "releaseDate": "2025-11-20",
+      "source": "historical"
+    },
+    "2351120": {
+      "rank": 769,
+      "estimate": "40k+",
+      "name": "Ebenezer and the Invisible World",
+      "releaseDate": "2023-11-03",
+      "source": "historical"
+    },
+    "2378910": {
+      "rank": 1347,
+      "estimate": "25k+",
+      "name": "Settlements Rising",
+      "releaseDate": "2025-01-20",
+      "source": "historical"
+    },
+    "2430160": {
+      "rank": 1491,
+      "estimate": "25k+",
+      "name": "Taimanin Asagi",
+      "releaseDate": "2023-10-26",
+      "source": "historical"
+    },
+    "2431790": {
+      "rank": 2208,
+      "estimate": "7k+",
+      "name": "Cyber Paradise",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2442460": {
+      "rank": 321,
+      "estimate": "80k+",
+      "name": "Citizen Sleeper 2: Starward Vector",
+      "releaseDate": "2025-01-31",
+      "source": "historical"
+    },
+    "2584270": {
+      "rank": 31,
+      "estimate": "600k+",
+      "name": "Mortal Shell II",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2827960": {
+      "rank": 41,
+      "estimate": "600k+",
+      "name": "House Builder 2",
+      "releaseDate": "2025-10-22",
+      "source": "historical"
+    },
+    "2845630": {
+      "rank": 2410,
+      "estimate": "7k+",
+      "name": "Ocean Keeper: Dome Survival",
+      "releaseDate": "2025-05-02",
+      "source": "historical"
+    },
+    "3602030": {
+      "rank": 859,
+      "estimate": "40k+",
+      "name": "Steel Artery: Train City Builder",
+      "releaseDate": null,
+      "source": "tracked"
+    }
+  }
+}

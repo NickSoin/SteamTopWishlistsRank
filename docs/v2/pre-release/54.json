@@ -1,1 +1,232 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":32,"entries":{"2537590":{"rank":10,"estimate":"1.5m+","name":"Microsoft Flight Simulator 2024","releaseDate":"2024-11-19","source":"historical"},"3405690":{"rank":16,"estimate":"800k+","name":"EA SPORTS FC™ 26","releaseDate":"2025-09-25","source":"historical"},"3872920":{"rank":33,"estimate":"600k+","name":"Euro Truck Simulator 2 - KRONE Agriculture Equipment","releaseDate":"2025-10-06","source":"historical"},"1785150":{"rank":35,"estimate":"600k+","name":"Friends vs Friends","releaseDate":"2023-05-30","source":"historical"},"3551340":{"rank":38,"estimate":"600k+","name":"Football Manager 26","releaseDate":"2025-11-04","source":"historical"},"2340640":{"rank":49,"estimate":"600k+","name":"SNOW BROS. 2 SPECIAL","releaseDate":"2025-04-09","source":"historical"},"2375550":{"rank":82,"estimate":"300k+","name":"Like a Dragon Gaiden: The Man Who Erased His Name","releaseDate":"2023-11-08","source":"historical"},"889750":{"rank":90,"estimate":"300k+","name":"BABYLON'S FALL","releaseDate":"2022-03-03","source":"historical"},"2313330":{"rank":141,"estimate":"200k+","name":"TerraTech Worlds","releaseDate":"2024-03-22","source":"historical"},"1658920":{"rank":293,"estimate":"80k+","name":"Crown Wars: The Black Prince","releaseDate":"2024-05-23","source":"historical"},"959860":{"rank":326,"estimate":"80k+","name":"The Valiant","releaseDate":"2022-10-19","source":"historical"},"2857120":{"rank":385,"estimate":"80k+","name":"Rain World: The Watcher","releaseDate":"2025-03-28","source":"historical"},"2329630":{"rank":423,"estimate":"80k+","name":"Lovey-Dovey Lockdown","releaseDate":"2024-03-13","source":"historical"},"3062990":{"rank":540,"estimate":"40k+","name":"Living With Sister: Monochrome Fantasy - Expansion DLC","releaseDate":"2024-12-19","source":"historical"},"1532200":{"rank":569,"estimate":"40k+","name":"Mars First Logistics","releaseDate":"2025-09-25","source":"historical"},"1967260":{"rank":608,"estimate":"40k+","name":"Double Dragon Gaiden: Rise Of The Dragons","releaseDate":"2023-07-27","source":"historical"},"1618230":{"rank":797,"estimate":"40k+","name":"恋爱关系/Romance","releaseDate":"2021-09-24","source":"historical"},"2497920":{"rank":1027,"estimate":"25k+","name":"A Difficult Game About Climbing","releaseDate":"2024-03-06","source":"historical"},"2330870":{"rank":1064,"estimate":"25k+","name":"CD 2: Trap Master","releaseDate":"2024-03-28","source":"historical"},"979480":{"rank":1085,"estimate":"25k+","name":"Born Punk","releaseDate":"2022-06-17","source":"historical"},"2659380":{"rank":1149,"estimate":"25k+","name":"Hydroneer: Journey to Volcalidus","releaseDate":"2024-04-05","source":"historical"},"2274110":{"rank":1207,"estimate":"25k+","name":"The Elephant Collection","releaseDate":"2023-11-06","source":"historical"},"3099000":{"rank":1311,"estimate":"25k+","name":"Guns of Fury","releaseDate":"2025-02-13","source":"historical"},"2776810":{"rank":1353,"estimate":"25k+","name":"100 Ninja Cats","releaseDate":"2024-02-12","source":"historical"},"2015100":{"rank":1481,"estimate":"25k+","name":"Our Life: Beginnings & Always - Derek's Story","releaseDate":"2022-09-29","source":"historical"},"2130380":{"rank":1758,"estimate":"15k+","name":"Post-Apo Builder: Prologue","releaseDate":"2023-08-02","source":"historical"},"2059210":{"rank":1882,"estimate":"15k+","name":"DragonLoop","releaseDate":"2025-06-17","source":"historical"},"3107800":{"rank":1914,"estimate":"15k+","name":"LIZARDS MUST DIE 2","releaseDate":"2025-03-27","source":"historical"},"2307120":{"rank":2052,"estimate":"7k+","name":"Lovelorn sanatorium Ⅲ","releaseDate":"2023-03-11","source":"historical"},"2745870":{"rank":2132,"estimate":"7k+","name":"Warfare Legacy Collection","releaseDate":"2025-04-28","source":"historical"},"2676930":{"rank":2540,"estimate":"7k+","name":"Rebel Duet","releaseDate":"2024-11-04","source":"historical"},"2468720":{"rank":2700,"estimate":"7k+","name":"Hellwatch","releaseDate":"2024-10-24","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 32,
+  "entries": {
+    "889750": {
+      "rank": 90,
+      "estimate": "300k+",
+      "name": "BABYLON'S FALL",
+      "releaseDate": "2022-03-03",
+      "source": "historical"
+    },
+    "959860": {
+      "rank": 326,
+      "estimate": "80k+",
+      "name": "The Valiant",
+      "releaseDate": "2022-10-19",
+      "source": "historical"
+    },
+    "979480": {
+      "rank": 1085,
+      "estimate": "25k+",
+      "name": "Born Punk",
+      "releaseDate": "2022-06-17",
+      "source": "historical"
+    },
+    "1532200": {
+      "rank": 569,
+      "estimate": "40k+",
+      "name": "Mars First Logistics",
+      "releaseDate": "2025-09-25",
+      "source": "historical"
+    },
+    "1618230": {
+      "rank": 797,
+      "estimate": "40k+",
+      "name": "恋爱关系/Romance",
+      "releaseDate": "2021-09-24",
+      "source": "historical"
+    },
+    "1658920": {
+      "rank": 293,
+      "estimate": "80k+",
+      "name": "Crown Wars: The Black Prince",
+      "releaseDate": "2024-05-23",
+      "source": "historical"
+    },
+    "1785150": {
+      "rank": 35,
+      "estimate": "600k+",
+      "name": "Friends vs Friends",
+      "releaseDate": "2023-05-30",
+      "source": "historical"
+    },
+    "1967260": {
+      "rank": 608,
+      "estimate": "40k+",
+      "name": "Double Dragon Gaiden: Rise Of The Dragons",
+      "releaseDate": "2023-07-27",
+      "source": "historical"
+    },
+    "2015100": {
+      "rank": 1481,
+      "estimate": "25k+",
+      "name": "Our Life: Beginnings & Always - Derek's Story",
+      "releaseDate": "2022-09-29",
+      "source": "historical"
+    },
+    "2059210": {
+      "rank": 1882,
+      "estimate": "15k+",
+      "name": "DragonLoop",
+      "releaseDate": "2025-06-17",
+      "source": "historical"
+    },
+    "2130380": {
+      "rank": 1758,
+      "estimate": "15k+",
+      "name": "Post-Apo Builder: Prologue",
+      "releaseDate": "2023-08-02",
+      "source": "historical"
+    },
+    "2274110": {
+      "rank": 1207,
+      "estimate": "25k+",
+      "name": "The Elephant Collection",
+      "releaseDate": "2023-11-06",
+      "source": "historical"
+    },
+    "2307120": {
+      "rank": 2052,
+      "estimate": "7k+",
+      "name": "Lovelorn sanatorium Ⅲ",
+      "releaseDate": "2023-03-11",
+      "source": "historical"
+    },
+    "2313330": {
+      "rank": 141,
+      "estimate": "200k+",
+      "name": "TerraTech Worlds",
+      "releaseDate": "2024-03-22",
+      "source": "historical"
+    },
+    "2329630": {
+      "rank": 423,
+      "estimate": "80k+",
+      "name": "Lovey-Dovey Lockdown",
+      "releaseDate": "2024-03-13",
+      "source": "historical"
+    },
+    "2330870": {
+      "rank": 1064,
+      "estimate": "25k+",
+      "name": "CD 2: Trap Master",
+      "releaseDate": "2024-03-28",
+      "source": "historical"
+    },
+    "2340640": {
+      "rank": 49,
+      "estimate": "600k+",
+      "name": "SNOW BROS. 2 SPECIAL",
+      "releaseDate": "2025-04-09",
+      "source": "historical"
+    },
+    "2375550": {
+      "rank": 82,
+      "estimate": "300k+",
+      "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
+      "releaseDate": "2023-11-08",
+      "source": "historical"
+    },
+    "2468720": {
+      "rank": 2700,
+      "estimate": "7k+",
+      "name": "Hellwatch",
+      "releaseDate": "2024-10-24",
+      "source": "historical"
+    },
+    "2497920": {
+      "rank": 1027,
+      "estimate": "25k+",
+      "name": "A Difficult Game About Climbing",
+      "releaseDate": "2024-03-06",
+      "source": "historical"
+    },
+    "2537590": {
+      "rank": 10,
+      "estimate": "1.5m+",
+      "name": "Microsoft Flight Simulator 2024",
+      "releaseDate": "2024-11-19",
+      "source": "historical"
+    },
+    "2659380": {
+      "rank": 1149,
+      "estimate": "25k+",
+      "name": "Hydroneer: Journey to Volcalidus",
+      "releaseDate": "2024-04-05",
+      "source": "historical"
+    },
+    "2676930": {
+      "rank": 2540,
+      "estimate": "7k+",
+      "name": "Rebel Duet",
+      "releaseDate": "2024-11-04",
+      "source": "historical"
+    },
+    "2745870": {
+      "rank": 2132,
+      "estimate": "7k+",
+      "name": "Warfare Legacy Collection",
+      "releaseDate": "2025-04-28",
+      "source": "historical"
+    },
+    "2776810": {
+      "rank": 1353,
+      "estimate": "25k+",
+      "name": "100 Ninja Cats",
+      "releaseDate": "2024-02-12",
+      "source": "historical"
+    },
+    "2857120": {
+      "rank": 385,
+      "estimate": "80k+",
+      "name": "Rain World: The Watcher",
+      "releaseDate": "2025-03-28",
+      "source": "historical"
+    },
+    "3062990": {
+      "rank": 540,
+      "estimate": "40k+",
+      "name": "Living With Sister: Monochrome Fantasy - Expansion DLC",
+      "releaseDate": "2024-12-19",
+      "source": "historical"
+    },
+    "3099000": {
+      "rank": 1311,
+      "estimate": "25k+",
+      "name": "Guns of Fury",
+      "releaseDate": "2025-02-13",
+      "source": "historical"
+    },
+    "3107800": {
+      "rank": 1914,
+      "estimate": "15k+",
+      "name": "LIZARDS MUST DIE 2",
+      "releaseDate": "2025-03-27",
+      "source": "historical"
+    },
+    "3405690": {
+      "rank": 16,
+      "estimate": "800k+",
+      "name": "EA SPORTS FC™ 26",
+      "releaseDate": "2025-09-25",
+      "source": "historical"
+    },
+    "3551340": {
+      "rank": 38,
+      "estimate": "600k+",
+      "name": "Football Manager 26",
+      "releaseDate": "2025-11-04",
+      "source": "historical"
+    },
+    "3872920": {
+      "rank": 33,
+      "estimate": "600k+",
+      "name": "Euro Truck Simulator 2 - KRONE Agriculture Equipment",
+      "releaseDate": "2025-10-06",
+      "source": "historical"
+    }
+  }
+}

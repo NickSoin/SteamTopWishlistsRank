@@ -1,1 +1,157 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":21,"entries":{"526870":{"rank":16,"estimate":"800k+","name":"Satisfactory","releaseDate":"2024-09-10","source":"historical"},"3105890":{"rank":20,"estimate":"800k+","name":"PIONER","releaseDate":"2025-12-16","source":"historical"},"1970580":{"rank":125,"estimate":"200k+","name":"Backpack Hero","releaseDate":"2023-11-14","source":"historical"},"1665460":{"rank":338,"estimate":"80k+","name":"eFootball™","releaseDate":"2021-09-29","source":"historical"},"1924480":{"rank":386,"estimate":"80k+","name":"College Kings 2 - Episode 1","releaseDate":"2022-04-14","source":"historical"},"2501600":{"rank":603,"estimate":"40k+","name":"DICEOMANCER","releaseDate":"2024-10-09","source":"historical"},"1905580":{"rank":687,"estimate":"40k+","name":"Kloa - Child of the Forest","releaseDate":"2026-01-01","source":"historical"},"1793260":{"rank":772,"estimate":"40k+","name":"Delivery INC","releaseDate":"2023-07-27","source":"historical"},"1228500":{"rank":875,"estimate":"40k+","name":"1428: Shadows over Silesia","releaseDate":"2022-10-04","source":"historical"},"1223530":{"rank":1093,"estimate":"25k+","name":"Mall Craze","releaseDate":"2023-09-19","source":"historical"},"2140650":{"rank":1348,"estimate":"25k+","name":"Harvest Moon: The Winds of Anthos","releaseDate":"2023-09-27","source":"historical"},"2165390":{"rank":1388,"estimate":"25k+","name":"Tales of Spark","releaseDate":"2024-02-04","source":"historical"},"1875320":{"rank":1570,"estimate":"15k+","name":"to a T","releaseDate":"2025-05-28","source":"historical"},"1861440":{"rank":1684,"estimate":"15k+","name":"CLeM","releaseDate":"2024-02-06","source":"historical"},"2314820":{"rank":1753,"estimate":"15k+","name":"Hira Hira Hihiru","releaseDate":"2023-11-16","source":"historical"},"1649130":{"rank":1791,"estimate":"15k+","name":"Knight Crawlers","releaseDate":"2023-05-04","source":"historical"},"1612570":{"rank":2013,"estimate":"7k+","name":"Death or Glory","releaseDate":"2024-09-24","source":"historical"},"2097770":{"rank":2044,"estimate":"7k+","name":"Slave Princess Finne, why did she sell out her own kingdom?","releaseDate":"2023-10-13","source":"historical"},"2054380":{"rank":2085,"estimate":"7k+","name":"SONOKUNI","releaseDate":"2025-03-24","source":"historical"},"2790330":{"rank":2295,"estimate":"7k+","name":"Blood Typers","releaseDate":"2025-02-20","source":"historical"},"2738660":{"rank":2714,"estimate":"6k","actualWishlists":6000,"name":"Mecha Simultactics","releaseDate":"2026-01-01","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5842939267339000931"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 21,
+  "entries": {
+    "526870": {
+      "rank": 16,
+      "estimate": "800k+",
+      "name": "Satisfactory",
+      "releaseDate": "2024-09-10",
+      "source": "historical"
+    },
+    "1223530": {
+      "rank": 1093,
+      "estimate": "25k+",
+      "name": "Mall Craze",
+      "releaseDate": "2023-09-19",
+      "source": "historical"
+    },
+    "1228500": {
+      "rank": 875,
+      "estimate": "40k+",
+      "name": "1428: Shadows over Silesia",
+      "releaseDate": "2022-10-04",
+      "source": "historical"
+    },
+    "1612570": {
+      "rank": 2013,
+      "estimate": "7k+",
+      "name": "Death or Glory",
+      "releaseDate": "2024-09-24",
+      "source": "historical"
+    },
+    "1649130": {
+      "rank": 1791,
+      "estimate": "15k+",
+      "name": "Knight Crawlers",
+      "releaseDate": "2023-05-04",
+      "source": "historical"
+    },
+    "1665460": {
+      "rank": 338,
+      "estimate": "80k+",
+      "name": "eFootball™",
+      "releaseDate": "2021-09-29",
+      "source": "historical"
+    },
+    "1793260": {
+      "rank": 772,
+      "estimate": "40k+",
+      "name": "Delivery INC",
+      "releaseDate": "2023-07-27",
+      "source": "historical"
+    },
+    "1861440": {
+      "rank": 1684,
+      "estimate": "15k+",
+      "name": "CLeM",
+      "releaseDate": "2024-02-06",
+      "source": "historical"
+    },
+    "1875320": {
+      "rank": 1570,
+      "estimate": "15k+",
+      "name": "to a T",
+      "releaseDate": "2025-05-28",
+      "source": "historical"
+    },
+    "1905580": {
+      "rank": 687,
+      "estimate": "40k+",
+      "name": "Kloa - Child of the Forest",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "1924480": {
+      "rank": 386,
+      "estimate": "80k+",
+      "name": "College Kings 2 - Episode 1",
+      "releaseDate": "2022-04-14",
+      "source": "historical"
+    },
+    "1970580": {
+      "rank": 125,
+      "estimate": "200k+",
+      "name": "Backpack Hero",
+      "releaseDate": "2023-11-14",
+      "source": "historical"
+    },
+    "2054380": {
+      "rank": 2085,
+      "estimate": "7k+",
+      "name": "SONOKUNI",
+      "releaseDate": "2025-03-24",
+      "source": "historical"
+    },
+    "2097770": {
+      "rank": 2044,
+      "estimate": "7k+",
+      "name": "Slave Princess Finne, why did she sell out her own kingdom?",
+      "releaseDate": "2023-10-13",
+      "source": "historical"
+    },
+    "2140650": {
+      "rank": 1348,
+      "estimate": "25k+",
+      "name": "Harvest Moon: The Winds of Anthos",
+      "releaseDate": "2023-09-27",
+      "source": "historical"
+    },
+    "2165390": {
+      "rank": 1388,
+      "estimate": "25k+",
+      "name": "Tales of Spark",
+      "releaseDate": "2024-02-04",
+      "source": "historical"
+    },
+    "2314820": {
+      "rank": 1753,
+      "estimate": "15k+",
+      "name": "Hira Hira Hihiru",
+      "releaseDate": "2023-11-16",
+      "source": "historical"
+    },
+    "2501600": {
+      "rank": 603,
+      "estimate": "40k+",
+      "name": "DICEOMANCER",
+      "releaseDate": "2024-10-09",
+      "source": "historical"
+    },
+    "2738660": {
+      "rank": 2714,
+      "estimate": "6k",
+      "actualWishlists": 6000,
+      "name": "Mecha Simultactics",
+      "releaseDate": "2026-01-01",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5842939267339000931"
+    },
+    "2790330": {
+      "rank": 2295,
+      "estimate": "7k+",
+      "name": "Blood Typers",
+      "releaseDate": "2025-02-20",
+      "source": "historical"
+    },
+    "3105890": {
+      "rank": 20,
+      "estimate": "800k+",
+      "name": "PIONER",
+      "releaseDate": "2025-12-16",
+      "source": "historical"
+    }
+  }
+}

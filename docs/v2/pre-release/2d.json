@@ -1,1 +1,176 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":24,"entries":{"3158270":{"rank":30,"estimate":"600k+","name":"Football Life Simulator","releaseDate":"2025-04-11","source":"historical"},"1904480":{"rank":37,"estimate":"600k+","name":"Absolum","releaseDate":"2025-10-09","source":"historical"},"1196090":{"rank":49,"estimate":"600k+","name":"Scars Above","releaseDate":"2023-02-28","source":"historical"},"1598580":{"rank":49,"estimate":"600k+","name":"Exhausted Man","releaseDate":"2024-07-24","source":"historical"},"1084160":{"rank":99,"estimate":"300k+","name":"Jagged Alliance 3","releaseDate":"2023-07-14","source":"historical"},"2254740":{"rank":132,"estimate":"200k+","name":"Persona 5 Tactica","releaseDate":"2023-11-16","source":"historical"},"2230650":{"rank":163,"estimate":"200k+","name":"TEVI","releaseDate":"2023-11-29","source":"historical"},"1893810":{"rank":331,"estimate":"80k+","name":"Solium Infernum","releaseDate":"2024-02-22","source":"historical"},"1662210":{"rank":516,"estimate":"40k+","name":"Arms Trade Tycoon: Tanks","releaseDate":"2024-02-06","source":"historical"},"1555110":{"rank":561,"estimate":"40k+","name":"Chasing Tails ~A Promise in the Snow~","releaseDate":"2021-08-13","source":"historical"},"1455070":{"rank":588,"estimate":"40k+","name":"Countess in Crimson","releaseDate":"2023-11-11","source":"historical"},"1339860":{"rank":693,"estimate":"40k+","name":"Lumione","releaseDate":"2021-10-12","source":"historical"},"2109390":{"rank":697,"estimate":"40k+","name":"Overboss","releaseDate":"2024-08-15","source":"historical"},"1121140":{"rank":751,"estimate":"40k+","name":"Ionia","releaseDate":"2021-09-23","source":"historical"},"1627680":{"rank":809,"estimate":"40k+","name":"Love n War: Hero by Chance II","releaseDate":"2023-08-03","source":"historical"},"1938300":{"rank":836,"estimate":"40k+","name":"Latex & Tentacles","releaseDate":"2025-04-17","source":"historical"},"1222540":{"rank":1010,"estimate":"25k+","name":"Gastova: The Witches of Arkana","releaseDate":"2022-12-06","source":"historical"},"1525580":{"rank":1261,"estimate":"25k+","name":"Kabaret","releaseDate":"2023-04-04","source":"historical"},"1438480":{"rank":1541,"estimate":"15k+","name":"Saviorless","releaseDate":"2024-04-02","source":"historical"},"1396540":{"rank":1762,"estimate":"15k+","name":"Twilight Wars","releaseDate":"2025-05-23","source":"historical"},"2058030":{"rank":1823,"estimate":"15k+","name":"Zombie Army VR","releaseDate":"2025-06-12","source":"historical"},"2702700":{"rank":2030,"estimate":"7k+","name":"HEARTSHOT","releaseDate":"2024-03-03","source":"historical"},"2244200":{"rank":2042,"estimate":"7k+","name":"Random Chat","releaseDate":"2023-03-28","source":"historical"},"1164460":{"rank":2219,"estimate":"7k+","name":"Monospaced Lovers","releaseDate":"2024-10-31","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 24,
+  "entries": {
+    "1084160": {
+      "rank": 99,
+      "estimate": "300k+",
+      "name": "Jagged Alliance 3",
+      "releaseDate": "2023-07-14",
+      "source": "historical"
+    },
+    "1121140": {
+      "rank": 751,
+      "estimate": "40k+",
+      "name": "Ionia",
+      "releaseDate": "2021-09-23",
+      "source": "historical"
+    },
+    "1164460": {
+      "rank": 2219,
+      "estimate": "7k+",
+      "name": "Monospaced Lovers",
+      "releaseDate": "2024-10-31",
+      "source": "historical"
+    },
+    "1196090": {
+      "rank": 49,
+      "estimate": "600k+",
+      "name": "Scars Above",
+      "releaseDate": "2023-02-28",
+      "source": "historical"
+    },
+    "1222540": {
+      "rank": 1010,
+      "estimate": "25k+",
+      "name": "Gastova: The Witches of Arkana",
+      "releaseDate": "2022-12-06",
+      "source": "historical"
+    },
+    "1339860": {
+      "rank": 693,
+      "estimate": "40k+",
+      "name": "Lumione",
+      "releaseDate": "2021-10-12",
+      "source": "historical"
+    },
+    "1396540": {
+      "rank": 1762,
+      "estimate": "15k+",
+      "name": "Twilight Wars",
+      "releaseDate": "2025-05-23",
+      "source": "historical"
+    },
+    "1438480": {
+      "rank": 1541,
+      "estimate": "15k+",
+      "name": "Saviorless",
+      "releaseDate": "2024-04-02",
+      "source": "historical"
+    },
+    "1455070": {
+      "rank": 588,
+      "estimate": "40k+",
+      "name": "Countess in Crimson",
+      "releaseDate": "2023-11-11",
+      "source": "historical"
+    },
+    "1525580": {
+      "rank": 1261,
+      "estimate": "25k+",
+      "name": "Kabaret",
+      "releaseDate": "2023-04-04",
+      "source": "historical"
+    },
+    "1555110": {
+      "rank": 561,
+      "estimate": "40k+",
+      "name": "Chasing Tails ~A Promise in the Snow~",
+      "releaseDate": "2021-08-13",
+      "source": "historical"
+    },
+    "1598580": {
+      "rank": 49,
+      "estimate": "600k+",
+      "name": "Exhausted Man",
+      "releaseDate": "2024-07-24",
+      "source": "historical"
+    },
+    "1627680": {
+      "rank": 809,
+      "estimate": "40k+",
+      "name": "Love n War: Hero by Chance II",
+      "releaseDate": "2023-08-03",
+      "source": "historical"
+    },
+    "1662210": {
+      "rank": 516,
+      "estimate": "40k+",
+      "name": "Arms Trade Tycoon: Tanks",
+      "releaseDate": "2024-02-06",
+      "source": "historical"
+    },
+    "1893810": {
+      "rank": 331,
+      "estimate": "80k+",
+      "name": "Solium Infernum",
+      "releaseDate": "2024-02-22",
+      "source": "historical"
+    },
+    "1904480": {
+      "rank": 37,
+      "estimate": "600k+",
+      "name": "Absolum",
+      "releaseDate": "2025-10-09",
+      "source": "historical"
+    },
+    "1938300": {
+      "rank": 836,
+      "estimate": "40k+",
+      "name": "Latex & Tentacles",
+      "releaseDate": "2025-04-17",
+      "source": "historical"
+    },
+    "2058030": {
+      "rank": 1823,
+      "estimate": "15k+",
+      "name": "Zombie Army VR",
+      "releaseDate": "2025-06-12",
+      "source": "historical"
+    },
+    "2109390": {
+      "rank": 697,
+      "estimate": "40k+",
+      "name": "Overboss",
+      "releaseDate": "2024-08-15",
+      "source": "historical"
+    },
+    "2230650": {
+      "rank": 163,
+      "estimate": "200k+",
+      "name": "TEVI",
+      "releaseDate": "2023-11-29",
+      "source": "historical"
+    },
+    "2244200": {
+      "rank": 2042,
+      "estimate": "7k+",
+      "name": "Random Chat",
+      "releaseDate": "2023-03-28",
+      "source": "historical"
+    },
+    "2254740": {
+      "rank": 132,
+      "estimate": "200k+",
+      "name": "Persona 5 Tactica",
+      "releaseDate": "2023-11-16",
+      "source": "historical"
+    },
+    "2702700": {
+      "rank": 2030,
+      "estimate": "7k+",
+      "name": "HEARTSHOT",
+      "releaseDate": "2024-03-03",
+      "source": "historical"
+    },
+    "3158270": {
+      "rank": 30,
+      "estimate": "600k+",
+      "name": "Football Life Simulator",
+      "releaseDate": "2025-04-11",
+      "source": "historical"
+    }
+  }
+}

@@ -1,1 +1,161 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":21,"entries":{"2966320":{"rank":43,"estimate":"600k","actualWishlists":600000,"name":"Starsand Island","releaseDate":"2026-02-11","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466508767"},"2378620":{"rank":288,"estimate":"70k","actualWishlists":70000,"name":"Anomaly Agent","releaseDate":"2024-01-24","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5133583642666921482"},"977920":{"rank":425,"estimate":"80k+","name":"Balsa Model Flight Simulator","releaseDate":"2021-09-14","source":"historical"},"913720":{"rank":442,"estimate":"80k+","name":"Alchemic Cutie","releaseDate":"2021-11-11","source":"historical"},"1477700":{"rank":451,"estimate":"80k+","name":"Project Wunderwaffe","releaseDate":"2022-10-10","source":"historical"},"2060790":{"rank":484,"estimate":"80k+","name":"Hauntii","releaseDate":"2024-05-23","source":"historical"},"1686940":{"rank":497,"estimate":"80k+","name":"Bopl Battle","releaseDate":"2023-11-16","source":"historical"},"2608350":{"rank":531,"estimate":"40k+","name":"Snezhinka:Sentinel Girls2","releaseDate":"2024-08-26","source":"historical"},"1674530":{"rank":553,"estimate":"40k+","name":"Feudal Baron: King's Land","releaseDate":"2024-10-23","source":"historical"},"2708450":{"rank":601,"estimate":"40k+","name":"Oh Deer","releaseDate":"2024-06-27","source":"historical"},"716350":{"rank":688,"estimate":"40k+","name":"Reign of Guilds","releaseDate":"2025-11-26","source":"historical"},"2484110":{"rank":779,"estimate":"40k+","name":"FINAL FANTASY VII EVER CRISIS","releaseDate":"2023-12-06","source":"historical"},"1525050":{"rank":984,"estimate":"40k+","name":"Jerry Wanker and the Quest to get Laid","releaseDate":"2023-10-30","source":"historical"},"2812180":{"rank":1064,"estimate":"25k+","name":"Single By Choice","releaseDate":"2024-06-23","source":"historical"},"2578910":{"rank":1115,"estimate":"30k","actualWishlists":30000,"name":"Nocturnals","releaseDate":"2024-09-13","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6000566704285261892"},"1764280":{"rank":1378,"estimate":"25k+","name":"Dungeons of the Amber Griffin","releaseDate":"2026-01-01","source":"historical"},"2193070":{"rank":1391,"estimate":"25k+","name":"Returning To Mia","releaseDate":"2023-10-27","source":"historical"},"2276830":{"rank":1560,"estimate":"15k+","name":"Kingsvein","releaseDate":"2024-01-16","source":"historical"},"2745710":{"rank":1860,"estimate":"15k+","name":"Modern Pink Elf RPG","releaseDate":"2024-02-02","source":"historical"},"1627350":{"rank":2679,"estimate":"7k+","name":"DEAD LETTER DEPT.","releaseDate":"2025-01-30","source":"historical"},"718190":{"rank":3069,"estimate":"<7k","name":"Koboo: The Tree Spirit","releaseDate":"2024-08-26","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 21,
+  "entries": {
+    "716350": {
+      "rank": 688,
+      "estimate": "40k+",
+      "name": "Reign of Guilds",
+      "releaseDate": "2025-11-26",
+      "source": "historical"
+    },
+    "718190": {
+      "rank": 3069,
+      "estimate": "<7k",
+      "name": "Koboo: The Tree Spirit",
+      "releaseDate": "2024-08-26",
+      "source": "historical"
+    },
+    "913720": {
+      "rank": 442,
+      "estimate": "80k+",
+      "name": "Alchemic Cutie",
+      "releaseDate": "2021-11-11",
+      "source": "historical"
+    },
+    "977920": {
+      "rank": 425,
+      "estimate": "80k+",
+      "name": "Balsa Model Flight Simulator",
+      "releaseDate": "2021-09-14",
+      "source": "historical"
+    },
+    "1477700": {
+      "rank": 451,
+      "estimate": "80k+",
+      "name": "Project Wunderwaffe",
+      "releaseDate": "2022-10-10",
+      "source": "historical"
+    },
+    "1525050": {
+      "rank": 984,
+      "estimate": "40k+",
+      "name": "Jerry Wanker and the Quest to get Laid",
+      "releaseDate": "2023-10-30",
+      "source": "historical"
+    },
+    "1627350": {
+      "rank": 2679,
+      "estimate": "7k+",
+      "name": "DEAD LETTER DEPT.",
+      "releaseDate": "2025-01-30",
+      "source": "historical"
+    },
+    "1674530": {
+      "rank": 553,
+      "estimate": "40k+",
+      "name": "Feudal Baron: King's Land",
+      "releaseDate": "2024-10-23",
+      "source": "historical"
+    },
+    "1686940": {
+      "rank": 497,
+      "estimate": "80k+",
+      "name": "Bopl Battle",
+      "releaseDate": "2023-11-16",
+      "source": "historical"
+    },
+    "1764280": {
+      "rank": 1378,
+      "estimate": "25k+",
+      "name": "Dungeons of the Amber Griffin",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2060790": {
+      "rank": 484,
+      "estimate": "80k+",
+      "name": "Hauntii",
+      "releaseDate": "2024-05-23",
+      "source": "historical"
+    },
+    "2193070": {
+      "rank": 1391,
+      "estimate": "25k+",
+      "name": "Returning To Mia",
+      "releaseDate": "2023-10-27",
+      "source": "historical"
+    },
+    "2276830": {
+      "rank": 1560,
+      "estimate": "15k+",
+      "name": "Kingsvein",
+      "releaseDate": "2024-01-16",
+      "source": "historical"
+    },
+    "2378620": {
+      "rank": 288,
+      "estimate": "70k",
+      "actualWishlists": 70000,
+      "name": "Anomaly Agent",
+      "releaseDate": "2024-01-24",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5133583642666921482"
+    },
+    "2484110": {
+      "rank": 779,
+      "estimate": "40k+",
+      "name": "FINAL FANTASY VII EVER CRISIS",
+      "releaseDate": "2023-12-06",
+      "source": "historical"
+    },
+    "2578910": {
+      "rank": 1115,
+      "estimate": "30k",
+      "actualWishlists": 30000,
+      "name": "Nocturnals",
+      "releaseDate": "2024-09-13",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6000566704285261892"
+    },
+    "2608350": {
+      "rank": 531,
+      "estimate": "40k+",
+      "name": "Snezhinka:Sentinel Girls2",
+      "releaseDate": "2024-08-26",
+      "source": "historical"
+    },
+    "2708450": {
+      "rank": 601,
+      "estimate": "40k+",
+      "name": "Oh Deer",
+      "releaseDate": "2024-06-27",
+      "source": "historical"
+    },
+    "2745710": {
+      "rank": 1860,
+      "estimate": "15k+",
+      "name": "Modern Pink Elf RPG",
+      "releaseDate": "2024-02-02",
+      "source": "historical"
+    },
+    "2812180": {
+      "rank": 1064,
+      "estimate": "25k+",
+      "name": "Single By Choice",
+      "releaseDate": "2024-06-23",
+      "source": "historical"
+    },
+    "2966320": {
+      "rank": 43,
+      "estimate": "600k",
+      "actualWishlists": 600000,
+      "name": "Starsand Island",
+      "releaseDate": "2026-02-11",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466508767"
+    }
+  }
+}

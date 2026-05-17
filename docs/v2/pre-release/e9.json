@@ -1,1 +1,120 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":16,"entries":{"1330360":{"rank":11,"estimate":"800k+","name":"Fata Deum - The God Sim","releaseDate":"2025-09-15","source":"historical"},"1475810":{"rank":19,"estimate":"800k+","name":"Ghostwire: Tokyo","releaseDate":"2022-03-24","source":"historical"},"1727760":{"rank":21,"estimate":"600k+","name":"Mars Tactics","releaseDate":"2026-01-01","source":"historical"},"2828860":{"rank":37,"estimate":"600k+","name":"The Forever Winter","releaseDate":"2024-09-24","source":"historical"},"1129540":{"rank":129,"estimate":"200k+","name":"Orc Massage","releaseDate":"2022-02-08","source":"historical"},"2231190":{"rank":453,"estimate":"80k+","name":"Magical Delicacy","releaseDate":"2024-07-16","source":"historical"},"1492310":{"rank":539,"estimate":"40k+","name":"Asterix & Obelix: Slap them All!","releaseDate":"2021-12-07","source":"historical"},"1131620":{"rank":933,"estimate":"40k+","name":"Dominion","releaseDate":"2024-02-01","source":"historical"},"1601280":{"rank":1058,"estimate":"25k+","name":"Potato Flowers in Full Bloom","releaseDate":"2022-03-10","source":"historical"},"2837730":{"rank":1255,"estimate":"25k+","name":"Planet Zoo: Barnyard Animal Pack","releaseDate":"2024-04-30","source":"historical"},"2487070":{"rank":2137,"estimate":"7k+","name":"Anonymous Hacker Simulator: Prologue","releaseDate":"2023-08-28","source":"historical"},"1312900":{"rank":2337,"estimate":"7k+","name":"Deep Dark Forest","releaseDate":"2025-04-15","source":"historical"},"2998600":{"rank":2404,"estimate":"7k+","name":"Back from the other world, I missed love.","releaseDate":"2025-05-01","source":"historical"},"2323200":{"rank":2689,"estimate":"7k+","name":"Uberich: Advent Sinners","releaseDate":"2025-07-16","source":"historical"},"2891280":{"rank":2710,"estimate":"7k+","name":"Riviera: The Promised Land","releaseDate":"2024-07-16","source":"historical"},"1447820":{"rank":3100,"estimate":"<7k","name":"The Girl from Arkanya","releaseDate":"2025-08-21","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 16,
+  "entries": {
+    "1129540": {
+      "rank": 129,
+      "estimate": "200k+",
+      "name": "Orc Massage",
+      "releaseDate": "2022-02-08",
+      "source": "historical"
+    },
+    "1131620": {
+      "rank": 933,
+      "estimate": "40k+",
+      "name": "Dominion",
+      "releaseDate": "2024-02-01",
+      "source": "historical"
+    },
+    "1312900": {
+      "rank": 2337,
+      "estimate": "7k+",
+      "name": "Deep Dark Forest",
+      "releaseDate": "2025-04-15",
+      "source": "historical"
+    },
+    "1330360": {
+      "rank": 11,
+      "estimate": "800k+",
+      "name": "Fata Deum - The God Sim",
+      "releaseDate": "2025-09-15",
+      "source": "historical"
+    },
+    "1447820": {
+      "rank": 3100,
+      "estimate": "<7k",
+      "name": "The Girl from Arkanya",
+      "releaseDate": "2025-08-21",
+      "source": "historical"
+    },
+    "1475810": {
+      "rank": 19,
+      "estimate": "800k+",
+      "name": "Ghostwire: Tokyo",
+      "releaseDate": "2022-03-24",
+      "source": "historical"
+    },
+    "1492310": {
+      "rank": 539,
+      "estimate": "40k+",
+      "name": "Asterix & Obelix: Slap them All!",
+      "releaseDate": "2021-12-07",
+      "source": "historical"
+    },
+    "1601280": {
+      "rank": 1058,
+      "estimate": "25k+",
+      "name": "Potato Flowers in Full Bloom",
+      "releaseDate": "2022-03-10",
+      "source": "historical"
+    },
+    "1727760": {
+      "rank": 21,
+      "estimate": "600k+",
+      "name": "Mars Tactics",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2231190": {
+      "rank": 453,
+      "estimate": "80k+",
+      "name": "Magical Delicacy",
+      "releaseDate": "2024-07-16",
+      "source": "historical"
+    },
+    "2323200": {
+      "rank": 2689,
+      "estimate": "7k+",
+      "name": "Uberich: Advent Sinners",
+      "releaseDate": "2025-07-16",
+      "source": "historical"
+    },
+    "2487070": {
+      "rank": 2137,
+      "estimate": "7k+",
+      "name": "Anonymous Hacker Simulator: Prologue",
+      "releaseDate": "2023-08-28",
+      "source": "historical"
+    },
+    "2828860": {
+      "rank": 37,
+      "estimate": "600k+",
+      "name": "The Forever Winter",
+      "releaseDate": "2024-09-24",
+      "source": "historical"
+    },
+    "2837730": {
+      "rank": 1255,
+      "estimate": "25k+",
+      "name": "Planet Zoo: Barnyard Animal Pack",
+      "releaseDate": "2024-04-30",
+      "source": "historical"
+    },
+    "2891280": {
+      "rank": 2710,
+      "estimate": "7k+",
+      "name": "Riviera: The Promised Land",
+      "releaseDate": "2024-07-16",
+      "source": "historical"
+    },
+    "2998600": {
+      "rank": 2404,
+      "estimate": "7k+",
+      "name": "Back from the other world, I missed love.",
+      "releaseDate": "2025-05-01",
+      "source": "historical"
+    }
+  }
+}

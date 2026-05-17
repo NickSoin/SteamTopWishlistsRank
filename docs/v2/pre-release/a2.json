@@ -1,1 +1,199 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":27,"entries":{"1172710":{"rank":4,"estimate":"1.5m+","name":"Dune: Awakening","releaseDate":"2025-06-10","source":"historical"},"2918300":{"rank":13,"estimate":"800k+","name":"SPLITGATE: Arena Reloaded ","releaseDate":"2025-05-22","source":"historical"},"1594880":{"rank":15,"estimate":"800k+","name":"Corsairs Legacy - Pirate Action RPG & Sea Battles","releaseDate":"2024-01-30","source":"historical"},"1620730":{"rank":19,"estimate":"800k+","name":"Hell is Us","releaseDate":"2025-09-04","source":"historical"},"1915380":{"rank":24,"estimate":"50k","actualWishlists":50000,"name":"Garden Life: A Cozy Simulator","releaseDate":"2024-02-22","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989039395378"},"1561040":{"rank":37,"estimate":"600k+","name":"Diluvian Winds","releaseDate":"2024-04-25","source":"historical"},"1937780":{"rank":87,"estimate":"300k+","name":"Total War: PHARAOH","releaseDate":"2023-10-11","source":"historical"},"1043810":{"rank":91,"estimate":"300k+","name":"Tactical Breach Wizards","releaseDate":"2024-08-22","source":"historical"},"2438680":{"rank":253,"estimate":"80k+","name":"Airborne Empire","releaseDate":"2026-04-17","source":"historical"},"1161170":{"rank":392,"estimate":"80k+","name":"The Rewinder","releaseDate":"2021-09-09","source":"historical"},"2376580":{"rank":565,"estimate":"40k+","name":"TRIBE NINE","releaseDate":"2025-02-18","source":"historical"},"1086620":{"rank":569,"estimate":"40k+","name":"Selfloss","releaseDate":"2024-09-05","source":"historical"},"1422420":{"rank":692,"estimate":"40k+","name":"Dodgeball Academia","releaseDate":"2021-08-05","source":"historical"},"1376910":{"rank":698,"estimate":"40k+","name":"Super Catboy","releaseDate":"2023-07-24","source":"historical"},"2613010":{"rank":776,"estimate":"40k+","name":"Transpile Girl Rescue Operation!","releaseDate":"2024-02-29","source":"historical"},"2147380":{"rank":840,"estimate":"40k+","name":"Heroes of Science and Fiction","releaseDate":"2026-03-17","source":"historical"},"406160":{"rank":927,"estimate":"40k+","name":"Dust Fleet","releaseDate":"2023-08-23","source":"historical"},"2082410":{"rank":998,"estimate":"40k+","name":"Anomaly Collapse","releaseDate":"2024-04-11","source":"historical"},"1379960":{"rank":1025,"estimate":"25k+","name":"Grid Force - Mask Of The Goddess","releaseDate":"2022-09-15","source":"historical"},"2481020":{"rank":1085,"estimate":"25k+","name":"Vampire Therapist","releaseDate":"2024-07-18","source":"historical"},"2648050":{"rank":1290,"estimate":"25k+","name":"Sam & Max: The Devil's Playhouse","releaseDate":"2024-08-14","source":"historical"},"1879680":{"rank":1552,"estimate":"15k+","name":"Candle Knight","releaseDate":"2023-05-31","source":"historical"},"1997430":{"rank":1570,"estimate":"15k+","name":"Succubus life","releaseDate":"2024-03-06","source":"historical"},"2707870":{"rank":2102,"estimate":"7k+","name":"Streetdog BMX","releaseDate":"2026-01-14","source":"historical"},"1776590":{"rank":2357,"estimate":"7k+","name":"Dark Gravity: Prologue","releaseDate":"2023-10-16","source":"historical"},"2132380":{"rank":2428,"estimate":"7k+","name":"Book of Korvald","releaseDate":"2024-06-16","source":"historical"},"2396740":{"rank":3034,"estimate":"<7k","name":"Morningstar: Book of the Fallen","releaseDate":"2024-11-11","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 27,
+  "entries": {
+    "406160": {
+      "rank": 927,
+      "estimate": "40k+",
+      "name": "Dust Fleet",
+      "releaseDate": "2023-08-23",
+      "source": "historical"
+    },
+    "1043810": {
+      "rank": 91,
+      "estimate": "300k+",
+      "name": "Tactical Breach Wizards",
+      "releaseDate": "2024-08-22",
+      "source": "historical"
+    },
+    "1086620": {
+      "rank": 569,
+      "estimate": "40k+",
+      "name": "Selfloss",
+      "releaseDate": "2024-09-05",
+      "source": "historical"
+    },
+    "1161170": {
+      "rank": 392,
+      "estimate": "80k+",
+      "name": "The Rewinder",
+      "releaseDate": "2021-09-09",
+      "source": "historical"
+    },
+    "1172710": {
+      "rank": 4,
+      "estimate": "1.5m+",
+      "name": "Dune: Awakening",
+      "releaseDate": "2025-06-10",
+      "source": "historical"
+    },
+    "1376910": {
+      "rank": 698,
+      "estimate": "40k+",
+      "name": "Super Catboy",
+      "releaseDate": "2023-07-24",
+      "source": "historical"
+    },
+    "1379960": {
+      "rank": 1025,
+      "estimate": "25k+",
+      "name": "Grid Force - Mask Of The Goddess",
+      "releaseDate": "2022-09-15",
+      "source": "historical"
+    },
+    "1422420": {
+      "rank": 692,
+      "estimate": "40k+",
+      "name": "Dodgeball Academia",
+      "releaseDate": "2021-08-05",
+      "source": "historical"
+    },
+    "1561040": {
+      "rank": 37,
+      "estimate": "600k+",
+      "name": "Diluvian Winds",
+      "releaseDate": "2024-04-25",
+      "source": "historical"
+    },
+    "1594880": {
+      "rank": 15,
+      "estimate": "800k+",
+      "name": "Corsairs Legacy - Pirate Action RPG & Sea Battles",
+      "releaseDate": "2024-01-30",
+      "source": "historical"
+    },
+    "1620730": {
+      "rank": 19,
+      "estimate": "800k+",
+      "name": "Hell is Us",
+      "releaseDate": "2025-09-04",
+      "source": "historical"
+    },
+    "1776590": {
+      "rank": 2357,
+      "estimate": "7k+",
+      "name": "Dark Gravity: Prologue",
+      "releaseDate": "2023-10-16",
+      "source": "historical"
+    },
+    "1879680": {
+      "rank": 1552,
+      "estimate": "15k+",
+      "name": "Candle Knight",
+      "releaseDate": "2023-05-31",
+      "source": "historical"
+    },
+    "1915380": {
+      "rank": 24,
+      "estimate": "50k",
+      "actualWishlists": 50000,
+      "name": "Garden Life: A Cozy Simulator",
+      "releaseDate": "2024-02-22",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989039395378"
+    },
+    "1937780": {
+      "rank": 87,
+      "estimate": "300k+",
+      "name": "Total War: PHARAOH",
+      "releaseDate": "2023-10-11",
+      "source": "historical"
+    },
+    "1997430": {
+      "rank": 1570,
+      "estimate": "15k+",
+      "name": "Succubus life",
+      "releaseDate": "2024-03-06",
+      "source": "historical"
+    },
+    "2082410": {
+      "rank": 998,
+      "estimate": "40k+",
+      "name": "Anomaly Collapse",
+      "releaseDate": "2024-04-11",
+      "source": "historical"
+    },
+    "2132380": {
+      "rank": 2428,
+      "estimate": "7k+",
+      "name": "Book of Korvald",
+      "releaseDate": "2024-06-16",
+      "source": "historical"
+    },
+    "2147380": {
+      "rank": 840,
+      "estimate": "40k+",
+      "name": "Heroes of Science and Fiction",
+      "releaseDate": "2026-03-17",
+      "source": "historical"
+    },
+    "2376580": {
+      "rank": 565,
+      "estimate": "40k+",
+      "name": "TRIBE NINE",
+      "releaseDate": "2025-02-18",
+      "source": "historical"
+    },
+    "2396740": {
+      "rank": 3034,
+      "estimate": "<7k",
+      "name": "Morningstar: Book of the Fallen",
+      "releaseDate": "2024-11-11",
+      "source": "historical"
+    },
+    "2438680": {
+      "rank": 253,
+      "estimate": "80k+",
+      "name": "Airborne Empire",
+      "releaseDate": "2026-04-17",
+      "source": "historical"
+    },
+    "2481020": {
+      "rank": 1085,
+      "estimate": "25k+",
+      "name": "Vampire Therapist",
+      "releaseDate": "2024-07-18",
+      "source": "historical"
+    },
+    "2613010": {
+      "rank": 776,
+      "estimate": "40k+",
+      "name": "Transpile Girl Rescue Operation!",
+      "releaseDate": "2024-02-29",
+      "source": "historical"
+    },
+    "2648050": {
+      "rank": 1290,
+      "estimate": "25k+",
+      "name": "Sam & Max: The Devil's Playhouse",
+      "releaseDate": "2024-08-14",
+      "source": "historical"
+    },
+    "2707870": {
+      "rank": 2102,
+      "estimate": "7k+",
+      "name": "Streetdog BMX",
+      "releaseDate": "2026-01-14",
+      "source": "historical"
+    },
+    "2918300": {
+      "rank": 13,
+      "estimate": "800k+",
+      "name": "SPLITGATE: Arena Reloaded ",
+      "releaseDate": "2025-05-22",
+      "source": "historical"
+    }
+  }
+}

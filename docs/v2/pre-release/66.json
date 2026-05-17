@@ -1,1 +1,236 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":32,"entries":{"2352340":{"rank":1,"estimate":"4m+","name":"Suzerain: Kingdom of Rizia","releaseDate":"2024-03-25","source":"historical"},"2217490":{"rank":17,"estimate":"800k+","name":"Football Manager 25","releaseDate":"2025-03-31","source":"historical"},"1128920":{"rank":25,"estimate":"600k+","name":"EVERSPACE™ 2","releaseDate":"2023-04-06","source":"historical"},"1850740":{"rank":27,"estimate":"600k+","name":"Ghost Watchers","releaseDate":"2025-07-24","source":"historical"},"1030210":{"rank":36,"estimate":"600k+","name":"Torchlight III","releaseDate":"2020-10-13","source":"historical"},"2518630":{"rank":49,"estimate":"600k+","name":"None Shall Intrude","releaseDate":"2025-01-21","source":"historical"},"3415240":{"rank":50,"estimate":"600k+","name":"Cozy Organizer","releaseDate":"2025-09-13","source":"historical"},"976890":{"rank":70,"estimate":"300k+","name":"Hidden Deep","releaseDate":"2022-01-24","source":"historical"},"1272320":{"rank":84,"estimate":"300k+","name":"Diplomacy is Not an Option","releaseDate":"2024-10-04","source":"historical"},"1442530":{"rank":119,"estimate":"200k+","name":"Outbreak Island","releaseDate":"2025-10-28","source":"historical"},"1359980":{"rank":137,"estimate":"200k+","name":"POSTAL: Brain Damaged","releaseDate":"2022-06-09","source":"historical"},"1811260":{"rank":152,"estimate":"200k+","name":"EA SPORTS™ FIFA 23","releaseDate":"2022-09-30","source":"historical"},"1095040":{"rank":193,"estimate":"200k+","name":"Unexplored 2: The Wayfarer's Legacy","releaseDate":"2022-05-27","source":"historical"},"2821800":{"rank":282,"estimate":"80k+","name":"Drill Core","releaseDate":"2025-07-17","source":"historical"},"2183670":{"rank":446,"estimate":"100k","actualWishlists":100000,"name":"Hotel Galactic","releaseDate":"2025-07-24","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785321795639386"},"1412070":{"rank":593,"estimate":"40k+","name":"Siege the Day","releaseDate":"2023-12-21","source":"historical"},"1662840":{"rank":649,"estimate":"40k+","name":"PARQUET","releaseDate":"2021-08-27","source":"historical"},"1498740":{"rank":808,"estimate":"40k+","name":"Troublemaker","releaseDate":"2023-03-31","source":"historical"},"1682060":{"rank":902,"estimate":"40k+","name":"Warriors of the Nile 2","releaseDate":"2022-08-23","source":"historical"},"1183800":{"rank":919,"estimate":"40k+","name":"Shardpunk","releaseDate":"2023-04-13","source":"historical"},"1494560":{"rank":938,"estimate":"40k+","name":"Rogue Voltage","releaseDate":"2026-05-01","source":"historical"},"2168260":{"rank":1026,"estimate":"25k+","name":"Forgotten Seas","releaseDate":"2025-10-11","source":"historical"},"1046790":{"rank":1052,"estimate":"25k+","name":"Eternal Threads","releaseDate":"2022-05-19","source":"historical"},"1778840":{"rank":1212,"estimate":"50k","actualWishlists":50000,"name":"Spirit of the North 2","releaseDate":"2025-05-08","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1796631172249161"},"1342070":{"rank":1375,"estimate":"25k+","name":"The Triumphant Return of Diabolos","releaseDate":"2022-06-10","source":"historical"},"2652000":{"rank":1400,"estimate":"25k+","name":"The Jackbox Naughty Pack","releaseDate":"2024-09-11","source":"historical"},"1408730":{"rank":1477,"estimate":"25k+","name":"KindFolx","releaseDate":"2025-07-15","source":"historical"},"1700270":{"rank":1535,"estimate":"15k+","name":"Lucky Tower Ultimate","releaseDate":"2026-04-16","source":"historical"},"2163030":{"rank":1727,"estimate":"15k+","name":"Dreamcutter","releaseDate":"2023-05-25","source":"historical"},"2313570":{"rank":1741,"estimate":"15k+","name":"Rhya's Crusade: The Aradia's Reavers","releaseDate":"2025-02-14","source":"historical"},"2553910":{"rank":1948,"estimate":"15k+","name":"Amazing Grace -What color is your attribute?-","releaseDate":"2024-04-25","source":"historical"},"1285270":{"rank":2618,"estimate":"7k+","name":"Farm Your Friends","releaseDate":"2025-05-01","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 32,
+  "entries": {
+    "976890": {
+      "rank": 70,
+      "estimate": "300k+",
+      "name": "Hidden Deep",
+      "releaseDate": "2022-01-24",
+      "source": "historical"
+    },
+    "1030210": {
+      "rank": 36,
+      "estimate": "600k+",
+      "name": "Torchlight III",
+      "releaseDate": "2020-10-13",
+      "source": "historical"
+    },
+    "1046790": {
+      "rank": 1052,
+      "estimate": "25k+",
+      "name": "Eternal Threads",
+      "releaseDate": "2022-05-19",
+      "source": "historical"
+    },
+    "1095040": {
+      "rank": 193,
+      "estimate": "200k+",
+      "name": "Unexplored 2: The Wayfarer's Legacy",
+      "releaseDate": "2022-05-27",
+      "source": "historical"
+    },
+    "1128920": {
+      "rank": 25,
+      "estimate": "600k+",
+      "name": "EVERSPACE™ 2",
+      "releaseDate": "2023-04-06",
+      "source": "historical"
+    },
+    "1183800": {
+      "rank": 919,
+      "estimate": "40k+",
+      "name": "Shardpunk",
+      "releaseDate": "2023-04-13",
+      "source": "historical"
+    },
+    "1272320": {
+      "rank": 84,
+      "estimate": "300k+",
+      "name": "Diplomacy is Not an Option",
+      "releaseDate": "2024-10-04",
+      "source": "historical"
+    },
+    "1285270": {
+      "rank": 2618,
+      "estimate": "7k+",
+      "name": "Farm Your Friends",
+      "releaseDate": "2025-05-01",
+      "source": "historical"
+    },
+    "1342070": {
+      "rank": 1375,
+      "estimate": "25k+",
+      "name": "The Triumphant Return of Diabolos",
+      "releaseDate": "2022-06-10",
+      "source": "historical"
+    },
+    "1359980": {
+      "rank": 137,
+      "estimate": "200k+",
+      "name": "POSTAL: Brain Damaged",
+      "releaseDate": "2022-06-09",
+      "source": "historical"
+    },
+    "1408730": {
+      "rank": 1477,
+      "estimate": "25k+",
+      "name": "KindFolx",
+      "releaseDate": "2025-07-15",
+      "source": "historical"
+    },
+    "1412070": {
+      "rank": 593,
+      "estimate": "40k+",
+      "name": "Siege the Day",
+      "releaseDate": "2023-12-21",
+      "source": "historical"
+    },
+    "1442530": {
+      "rank": 119,
+      "estimate": "200k+",
+      "name": "Outbreak Island",
+      "releaseDate": "2025-10-28",
+      "source": "historical"
+    },
+    "1494560": {
+      "rank": 938,
+      "estimate": "40k+",
+      "name": "Rogue Voltage",
+      "releaseDate": "2026-05-01",
+      "source": "historical"
+    },
+    "1498740": {
+      "rank": 808,
+      "estimate": "40k+",
+      "name": "Troublemaker",
+      "releaseDate": "2023-03-31",
+      "source": "historical"
+    },
+    "1662840": {
+      "rank": 649,
+      "estimate": "40k+",
+      "name": "PARQUET",
+      "releaseDate": "2021-08-27",
+      "source": "historical"
+    },
+    "1682060": {
+      "rank": 902,
+      "estimate": "40k+",
+      "name": "Warriors of the Nile 2",
+      "releaseDate": "2022-08-23",
+      "source": "historical"
+    },
+    "1700270": {
+      "rank": 1535,
+      "estimate": "15k+",
+      "name": "Lucky Tower Ultimate",
+      "releaseDate": "2026-04-16",
+      "source": "historical"
+    },
+    "1778840": {
+      "rank": 1212,
+      "estimate": "50k",
+      "actualWishlists": 50000,
+      "name": "Spirit of the North 2",
+      "releaseDate": "2025-05-08",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1796631172249161"
+    },
+    "1811260": {
+      "rank": 152,
+      "estimate": "200k+",
+      "name": "EA SPORTS™ FIFA 23",
+      "releaseDate": "2022-09-30",
+      "source": "historical"
+    },
+    "1850740": {
+      "rank": 27,
+      "estimate": "600k+",
+      "name": "Ghost Watchers",
+      "releaseDate": "2025-07-24",
+      "source": "historical"
+    },
+    "2163030": {
+      "rank": 1727,
+      "estimate": "15k+",
+      "name": "Dreamcutter",
+      "releaseDate": "2023-05-25",
+      "source": "historical"
+    },
+    "2168260": {
+      "rank": 1026,
+      "estimate": "25k+",
+      "name": "Forgotten Seas",
+      "releaseDate": "2025-10-11",
+      "source": "historical"
+    },
+    "2183670": {
+      "rank": 446,
+      "estimate": "100k",
+      "actualWishlists": 100000,
+      "name": "Hotel Galactic",
+      "releaseDate": "2025-07-24",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785321795639386"
+    },
+    "2217490": {
+      "rank": 17,
+      "estimate": "800k+",
+      "name": "Football Manager 25",
+      "releaseDate": "2025-03-31",
+      "source": "historical"
+    },
+    "2313570": {
+      "rank": 1741,
+      "estimate": "15k+",
+      "name": "Rhya's Crusade: The Aradia's Reavers",
+      "releaseDate": "2025-02-14",
+      "source": "historical"
+    },
+    "2352340": {
+      "rank": 1,
+      "estimate": "4m+",
+      "name": "Suzerain: Kingdom of Rizia",
+      "releaseDate": "2024-03-25",
+      "source": "historical"
+    },
+    "2518630": {
+      "rank": 49,
+      "estimate": "600k+",
+      "name": "None Shall Intrude",
+      "releaseDate": "2025-01-21",
+      "source": "historical"
+    },
+    "2553910": {
+      "rank": 1948,
+      "estimate": "15k+",
+      "name": "Amazing Grace -What color is your attribute?-",
+      "releaseDate": "2024-04-25",
+      "source": "historical"
+    },
+    "2652000": {
+      "rank": 1400,
+      "estimate": "25k+",
+      "name": "The Jackbox Naughty Pack",
+      "releaseDate": "2024-09-11",
+      "source": "historical"
+    },
+    "2821800": {
+      "rank": 282,
+      "estimate": "80k+",
+      "name": "Drill Core",
+      "releaseDate": "2025-07-17",
+      "source": "historical"
+    },
+    "3415240": {
+      "rank": 50,
+      "estimate": "600k+",
+      "name": "Cozy Organizer",
+      "releaseDate": "2025-09-13",
+      "source": "historical"
+    }
+  }
+}

@@ -1,1 +1,136 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":18,"entries":{"1832640":{"rank":31,"estimate":"600k+","name":"Mirror 2: Project X","releaseDate":"2022-01-20","source":"historical"},"251570":{"rank":42,"estimate":"600k+","name":"7 Days to Die","releaseDate":"2024-07-25","source":"historical"},"2420510":{"rank":140,"estimate":"200k+","name":"HoloCure - Save the Fans!","releaseDate":"2023-08-16","source":"historical"},"1294880":{"rank":281,"estimate":"80k+","name":"Blind Fate: Edo no Yami","releaseDate":"2022-09-15","source":"historical"},"2076580":{"rank":320,"estimate":"80k+","name":"Pepper Grinder","releaseDate":"2024-03-28","source":"historical"},"2488620":{"rank":342,"estimate":"80k+","name":"F1® 24","releaseDate":"2024-05-31","source":"historical"},"2262770":{"rank":646,"estimate":"40k+","name":"Garten of Banban 2","releaseDate":"2023-03-03","source":"historical"},"1294660":{"rank":847,"estimate":"40k+","name":"Divine Knockout (DKO)","releaseDate":"2022-12-06","source":"historical"},"2658450":{"rank":861,"estimate":"40k+","name":"LOLLIPOP CHAINSAW RePOP","releaseDate":"2024-09-11","source":"historical"},"2090760":{"rank":881,"estimate":"40k+","name":"X Invader","releaseDate":"2024-08-12","source":"historical"},"2120900":{"rank":1035,"estimate":"25k+","name":"Fears to Fathom - Carson House","releaseDate":"2023-01-09","source":"historical"},"2845270":{"rank":1178,"estimate":"25k+","name":"100 Aliens Cats","releaseDate":"2024-06-09","source":"historical"},"2918550":{"rank":1265,"estimate":"25k+","name":"Drive Me Crazy","releaseDate":"2024-07-12","source":"historical"},"1579390":{"rank":1347,"estimate":"25k+","name":"Spiral","releaseDate":"2024-09-20","source":"historical"},"2211390":{"rank":1405,"estimate":"10k","actualWishlists":10000,"name":"Time Survivors","releaseDate":"2024-01-15","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5395938616809297258"},"2473640":{"rank":1559,"estimate":"15k+","name":"EcoGnomix","releaseDate":"2024-09-30","source":"historical"},"2090980":{"rank":1944,"estimate":"15k+","name":"Ninja or Die: Shadow of the Sun","releaseDate":"2023-08-02","source":"historical"},"2377410":{"rank":2488,"estimate":"7k+","name":"Forsaken Quartet","releaseDate":"2024-05-17","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 18,
+  "entries": {
+    "251570": {
+      "rank": 42,
+      "estimate": "600k+",
+      "name": "7 Days to Die",
+      "releaseDate": "2024-07-25",
+      "source": "historical"
+    },
+    "1294660": {
+      "rank": 847,
+      "estimate": "40k+",
+      "name": "Divine Knockout (DKO)",
+      "releaseDate": "2022-12-06",
+      "source": "historical"
+    },
+    "1294880": {
+      "rank": 281,
+      "estimate": "80k+",
+      "name": "Blind Fate: Edo no Yami",
+      "releaseDate": "2022-09-15",
+      "source": "historical"
+    },
+    "1579390": {
+      "rank": 1347,
+      "estimate": "25k+",
+      "name": "Spiral",
+      "releaseDate": "2024-09-20",
+      "source": "historical"
+    },
+    "1832640": {
+      "rank": 31,
+      "estimate": "600k+",
+      "name": "Mirror 2: Project X",
+      "releaseDate": "2022-01-20",
+      "source": "historical"
+    },
+    "2076580": {
+      "rank": 320,
+      "estimate": "80k+",
+      "name": "Pepper Grinder",
+      "releaseDate": "2024-03-28",
+      "source": "historical"
+    },
+    "2090760": {
+      "rank": 881,
+      "estimate": "40k+",
+      "name": "X Invader",
+      "releaseDate": "2024-08-12",
+      "source": "historical"
+    },
+    "2090980": {
+      "rank": 1944,
+      "estimate": "15k+",
+      "name": "Ninja or Die: Shadow of the Sun",
+      "releaseDate": "2023-08-02",
+      "source": "historical"
+    },
+    "2120900": {
+      "rank": 1035,
+      "estimate": "25k+",
+      "name": "Fears to Fathom - Carson House",
+      "releaseDate": "2023-01-09",
+      "source": "historical"
+    },
+    "2211390": {
+      "rank": 1405,
+      "estimate": "10k",
+      "actualWishlists": 10000,
+      "name": "Time Survivors",
+      "releaseDate": "2024-01-15",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5395938616809297258"
+    },
+    "2262770": {
+      "rank": 646,
+      "estimate": "40k+",
+      "name": "Garten of Banban 2",
+      "releaseDate": "2023-03-03",
+      "source": "historical"
+    },
+    "2377410": {
+      "rank": 2488,
+      "estimate": "7k+",
+      "name": "Forsaken Quartet",
+      "releaseDate": "2024-05-17",
+      "source": "historical"
+    },
+    "2420510": {
+      "rank": 140,
+      "estimate": "200k+",
+      "name": "HoloCure - Save the Fans!",
+      "releaseDate": "2023-08-16",
+      "source": "historical"
+    },
+    "2473640": {
+      "rank": 1559,
+      "estimate": "15k+",
+      "name": "EcoGnomix",
+      "releaseDate": "2024-09-30",
+      "source": "historical"
+    },
+    "2488620": {
+      "rank": 342,
+      "estimate": "80k+",
+      "name": "F1® 24",
+      "releaseDate": "2024-05-31",
+      "source": "historical"
+    },
+    "2658450": {
+      "rank": 861,
+      "estimate": "40k+",
+      "name": "LOLLIPOP CHAINSAW RePOP",
+      "releaseDate": "2024-09-11",
+      "source": "historical"
+    },
+    "2845270": {
+      "rank": 1178,
+      "estimate": "25k+",
+      "name": "100 Aliens Cats",
+      "releaseDate": "2024-06-09",
+      "source": "historical"
+    },
+    "2918550": {
+      "rank": 1265,
+      "estimate": "25k+",
+      "name": "Drive Me Crazy",
+      "releaseDate": "2024-07-12",
+      "source": "historical"
+    }
+  }
+}

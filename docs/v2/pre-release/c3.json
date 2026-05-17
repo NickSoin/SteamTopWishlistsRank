@@ -1,1 +1,141 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":19,"entries":{"1423370":{"rank":2,"estimate":"1.5m+","name":"NOeSIS02_羽化","releaseDate":"2021-11-08","source":"historical"},"736820":{"rank":19,"estimate":"800k+","name":"Knights of Honor II: Sovereign","releaseDate":"2022-12-06","source":"historical"},"998400":{"rank":26,"estimate":"600k+","name":"Trans-Siberian Railway Simulator","releaseDate":"2024-05-30","source":"historical"},"2409320":{"rank":38,"estimate":"600k+","name":"Drill Keeper","releaseDate":"2026-01-01","source":"historical"},"1701520":{"rank":98,"estimate":"300k+","name":"Afterimage","releaseDate":"2023-04-24","source":"historical"},"1457320":{"rank":134,"estimate":"200k+","name":"Techtonica","releaseDate":"2024-11-07","source":"historical"},"1716120":{"rank":190,"estimate":"200k+","name":"Monster Rancher 1 & 2 DX","releaseDate":"2021-12-08","source":"historical"},"1826140":{"rank":215,"estimate":"80k+","name":"RimWorld - Biotech","releaseDate":"2022-10-21","source":"historical"},"1607240":{"rank":302,"estimate":"80k+","name":"Mail Time","releaseDate":"2023-04-27","source":"historical"},"2361680":{"rank":460,"estimate":"80k+","name":"Path of Kung Fu","releaseDate":"2025-04-29","source":"historical"},"2389040":{"rank":492,"estimate":"80k+","name":"ShapeHero Factory","releaseDate":"2025-09-17","source":"historical"},"1281040":{"rank":493,"estimate":"80k+","name":"Baby Steps","releaseDate":"2025-09-23","source":"historical"},"1724910":{"rank":608,"estimate":"40k+","name":"幻想曹操传 Fantasy of Caocao","releaseDate":"2022-01-13","source":"historical"},"1668690":{"rank":930,"estimate":"40k+","name":"Alina of the Arena","releaseDate":"2022-10-13","source":"historical"},"1413250":{"rank":1068,"estimate":"25k+","name":"Republic of Jungle","releaseDate":"2025-11-23","source":"historical"},"1573390":{"rank":1106,"estimate":"25k+","name":"Lila’s Sky Ark","releaseDate":"2022-04-21","source":"historical"},"2149280":{"rank":1207,"estimate":"25k+","name":"Prince of Suburbia - Part 2","releaseDate":"2022-12-16","source":"historical"},"1892420":{"rank":1259,"estimate":"25k+","name":"The Bunny Graveyard","releaseDate":"2023-09-22","source":"historical"},"2897240":{"rank":2402,"estimate":"7k+","name":"Puffin Planes","releaseDate":"2024-09-04","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 19,
+  "entries": {
+    "736820": {
+      "rank": 19,
+      "estimate": "800k+",
+      "name": "Knights of Honor II: Sovereign",
+      "releaseDate": "2022-12-06",
+      "source": "historical"
+    },
+    "998400": {
+      "rank": 26,
+      "estimate": "600k+",
+      "name": "Trans-Siberian Railway Simulator",
+      "releaseDate": "2024-05-30",
+      "source": "historical"
+    },
+    "1281040": {
+      "rank": 493,
+      "estimate": "80k+",
+      "name": "Baby Steps",
+      "releaseDate": "2025-09-23",
+      "source": "historical"
+    },
+    "1413250": {
+      "rank": 1068,
+      "estimate": "25k+",
+      "name": "Republic of Jungle",
+      "releaseDate": "2025-11-23",
+      "source": "historical"
+    },
+    "1423370": {
+      "rank": 2,
+      "estimate": "1.5m+",
+      "name": "NOeSIS02_羽化",
+      "releaseDate": "2021-11-08",
+      "source": "historical"
+    },
+    "1457320": {
+      "rank": 134,
+      "estimate": "200k+",
+      "name": "Techtonica",
+      "releaseDate": "2024-11-07",
+      "source": "historical"
+    },
+    "1573390": {
+      "rank": 1106,
+      "estimate": "25k+",
+      "name": "Lila’s Sky Ark",
+      "releaseDate": "2022-04-21",
+      "source": "historical"
+    },
+    "1607240": {
+      "rank": 302,
+      "estimate": "80k+",
+      "name": "Mail Time",
+      "releaseDate": "2023-04-27",
+      "source": "historical"
+    },
+    "1668690": {
+      "rank": 930,
+      "estimate": "40k+",
+      "name": "Alina of the Arena",
+      "releaseDate": "2022-10-13",
+      "source": "historical"
+    },
+    "1701520": {
+      "rank": 98,
+      "estimate": "300k+",
+      "name": "Afterimage",
+      "releaseDate": "2023-04-24",
+      "source": "historical"
+    },
+    "1716120": {
+      "rank": 190,
+      "estimate": "200k+",
+      "name": "Monster Rancher 1 & 2 DX",
+      "releaseDate": "2021-12-08",
+      "source": "historical"
+    },
+    "1724910": {
+      "rank": 608,
+      "estimate": "40k+",
+      "name": "幻想曹操传 Fantasy of Caocao",
+      "releaseDate": "2022-01-13",
+      "source": "historical"
+    },
+    "1826140": {
+      "rank": 215,
+      "estimate": "80k+",
+      "name": "RimWorld - Biotech",
+      "releaseDate": "2022-10-21",
+      "source": "historical"
+    },
+    "1892420": {
+      "rank": 1259,
+      "estimate": "25k+",
+      "name": "The Bunny Graveyard",
+      "releaseDate": "2023-09-22",
+      "source": "historical"
+    },
+    "2149280": {
+      "rank": 1207,
+      "estimate": "25k+",
+      "name": "Prince of Suburbia - Part 2",
+      "releaseDate": "2022-12-16",
+      "source": "historical"
+    },
+    "2361680": {
+      "rank": 460,
+      "estimate": "80k+",
+      "name": "Path of Kung Fu",
+      "releaseDate": "2025-04-29",
+      "source": "historical"
+    },
+    "2389040": {
+      "rank": 492,
+      "estimate": "80k+",
+      "name": "ShapeHero Factory",
+      "releaseDate": "2025-09-17",
+      "source": "historical"
+    },
+    "2409320": {
+      "rank": 38,
+      "estimate": "600k+",
+      "name": "Drill Keeper",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2897240": {
+      "rank": 2402,
+      "estimate": "7k+",
+      "name": "Puffin Planes",
+      "releaseDate": "2024-09-04",
+      "source": "historical"
+    }
+  }
+}

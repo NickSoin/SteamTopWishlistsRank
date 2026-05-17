@@ -1,1 +1,162 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-17T00:34:37.000Z","entryCount":22,"entries":{"2050650":{"rank":12,"estimate":"800k+","name":"Resident Evil 4","releaseDate":"2023-03-23","source":"historical"},"939960":{"rank":17,"estimate":"800k+","name":"Far Cry® New Dawn","releaseDate":"2019-02-15","source":"historical"},"1154030":{"rank":22,"estimate":"600k+","name":"Titan Quest II","releaseDate":"2025-08-01","source":"historical"},"1263240":{"rank":192,"estimate":"200k+","name":"Skate Story","releaseDate":"2025-12-08","source":"historical"},"2288150":{"rank":268,"estimate":"80k+","name":"ROMANCE OF THE THREE KINGDOMS 8 REMAKE","releaseDate":"2024-10-23","source":"historical"},"2052410":{"rank":387,"estimate":"80k+","name":"WITCH ON THE HOLY NIGHT","releaseDate":"2023-12-14","source":"historical"},"2216830":{"rank":656,"estimate":"40k+","name":"The Jackbox Party Pack 10","releaseDate":"2023-10-18","source":"historical"},"1067220":{"rank":678,"estimate":"40k+","name":"RoboCo","releaseDate":"2026-02-06","source":"historical"},"2087030":{"rank":687,"estimate":"40k+","name":"Shatterline","releaseDate":"2025-07-03","source":"historical"},"1508000":{"rank":746,"estimate":"40k+","name":"Venice 2089","releaseDate":"2022-10-14","source":"historical"},"1644500":{"rank":891,"estimate":"40k+","name":"Masterplan Tycoon","releaseDate":"2023-03-09","source":"historical"},"1287530":{"rank":1069,"estimate":"25k+","name":"Lords and Villeins","releaseDate":"2022-11-10","source":"historical"},"2122090":{"rank":1110,"estimate":"25k+","name":"Forgotten but Unbroken","releaseDate":"2024-11-18","source":"historical"},"1345760":{"rank":1211,"estimate":"25k+","name":"Matchpoint - Tennis Championships","releaseDate":"2022-07-07","source":"historical"},"1672880":{"rank":1417,"estimate":"25k+","name":"Hookah Cafe Simulator","releaseDate":"2023-06-22","source":"historical"},"2698450":{"rank":1454,"estimate":"25k+","name":"Taskmaster VR","releaseDate":"2024-06-19","source":"historical"},"2156620":{"rank":1833,"estimate":"15k+","name":"The Future Radio and the Artificial Pigeons","releaseDate":"2023-02-17","source":"historical"},"1211120":{"rank":1849,"estimate":"15k+","name":"WuJiDaoRen","releaseDate":"2023-03-12","source":"historical"},"2948560":{"rank":2000,"estimate":"15k+","name":"Instants","releaseDate":"2025-06-07","source":"historical"},"2673390":{"rank":2353,"estimate":"7k+","name":"A Park Full of Cats: Haunted Ride","releaseDate":"2024-09-09","source":"historical"},"2194640":{"rank":2486,"estimate":"7k+","name":"Project Electric Sheep","releaseDate":"2024-02-12","source":"historical"},"3036970":{"rank":2673,"estimate":"7k+","name":"Pawn Planet: First Sales","releaseDate":"2024-07-16","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-17T04:33:45.151Z",
+  "entryCount": 22,
+  "entries": {
+    "939960": {
+      "rank": 17,
+      "estimate": "800k+",
+      "name": "Far Cry® New Dawn",
+      "releaseDate": "2019-02-15",
+      "source": "historical"
+    },
+    "1067220": {
+      "rank": 678,
+      "estimate": "40k+",
+      "name": "RoboCo",
+      "releaseDate": "2026-02-06",
+      "source": "historical"
+    },
+    "1154030": {
+      "rank": 22,
+      "estimate": "600k+",
+      "name": "Titan Quest II",
+      "releaseDate": "2025-08-01",
+      "source": "historical"
+    },
+    "1211120": {
+      "rank": 1849,
+      "estimate": "15k+",
+      "name": "WuJiDaoRen",
+      "releaseDate": "2023-03-12",
+      "source": "historical"
+    },
+    "1263240": {
+      "rank": 192,
+      "estimate": "200k+",
+      "name": "Skate Story",
+      "releaseDate": "2025-12-08",
+      "source": "historical"
+    },
+    "1287530": {
+      "rank": 1069,
+      "estimate": "25k+",
+      "name": "Lords and Villeins",
+      "releaseDate": "2022-11-10",
+      "source": "historical"
+    },
+    "1345760": {
+      "rank": 1211,
+      "estimate": "25k+",
+      "name": "Matchpoint - Tennis Championships",
+      "releaseDate": "2022-07-07",
+      "source": "historical"
+    },
+    "1508000": {
+      "rank": 746,
+      "estimate": "40k+",
+      "name": "Venice 2089",
+      "releaseDate": "2022-10-14",
+      "source": "historical"
+    },
+    "1644500": {
+      "rank": 891,
+      "estimate": "40k+",
+      "name": "Masterplan Tycoon",
+      "releaseDate": "2023-03-09",
+      "source": "historical"
+    },
+    "1672880": {
+      "rank": 1417,
+      "estimate": "25k+",
+      "name": "Hookah Cafe Simulator",
+      "releaseDate": "2023-06-22",
+      "source": "historical"
+    },
+    "2050650": {
+      "rank": 12,
+      "estimate": "800k+",
+      "name": "Resident Evil 4",
+      "releaseDate": "2023-03-23",
+      "source": "historical"
+    },
+    "2052410": {
+      "rank": 387,
+      "estimate": "80k+",
+      "name": "WITCH ON THE HOLY NIGHT",
+      "releaseDate": "2023-12-14",
+      "source": "historical"
+    },
+    "2087030": {
+      "rank": 687,
+      "estimate": "40k+",
+      "name": "Shatterline",
+      "releaseDate": "2025-07-03",
+      "source": "historical"
+    },
+    "2122090": {
+      "rank": 1110,
+      "estimate": "25k+",
+      "name": "Forgotten but Unbroken",
+      "releaseDate": "2024-11-18",
+      "source": "historical"
+    },
+    "2156620": {
+      "rank": 1833,
+      "estimate": "15k+",
+      "name": "The Future Radio and the Artificial Pigeons",
+      "releaseDate": "2023-02-17",
+      "source": "historical"
+    },
+    "2194640": {
+      "rank": 2486,
+      "estimate": "7k+",
+      "name": "Project Electric Sheep",
+      "releaseDate": "2024-02-12",
+      "source": "historical"
+    },
+    "2216830": {
+      "rank": 656,
+      "estimate": "40k+",
+      "name": "The Jackbox Party Pack 10",
+      "releaseDate": "2023-10-18",
+      "source": "historical"
+    },
+    "2288150": {
+      "rank": 268,
+      "estimate": "80k+",
+      "name": "ROMANCE OF THE THREE KINGDOMS 8 REMAKE",
+      "releaseDate": "2024-10-23",
+      "source": "historical"
+    },
+    "2673390": {
+      "rank": 2353,
+      "estimate": "7k+",
+      "name": "A Park Full of Cats: Haunted Ride",
+      "releaseDate": "2024-09-09",
+      "source": "historical"
+    },
+    "2698450": {
+      "rank": 1454,
+      "estimate": "25k+",
+      "name": "Taskmaster VR",
+      "releaseDate": "2024-06-19",
+      "source": "historical"
+    },
+    "2948560": {
+      "rank": 2000,
+      "estimate": "15k+",
+      "name": "Instants",
+      "releaseDate": "2025-06-07",
+      "source": "historical"
+    },
+    "3036970": {
+      "rank": 2673,
+      "estimate": "7k+",
+      "name": "Pawn Planet: First Sales",
+      "releaseDate": "2024-07-16",
+      "source": "historical"
+    }
+  }
+}
