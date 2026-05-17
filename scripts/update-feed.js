@@ -201,15 +201,30 @@ async function writeV2Artifacts({ ledger, currentEntries, outputDir, updatedAt, 
   let releasedEntryCount = 0;
   let preReleaseEntryCount = 0;
 
+  // Load confirmed wishlist counts from Python scraper output (may not exist)
+  let confirmedCounts = {};
+  try {
+    const raw = await fs.readFile("data/confirmed-counts.json", "utf8");
+    confirmedCounts = JSON.parse(raw);
+  } catch {
+    // file doesn't exist — proceed without confirmed counts
+  }
+
   for (const [appId, entry] of Object.entries(currentEntries)) {
     if (ledger[appId]?.state !== "upcoming") continue;
 
-    const shardId = shared.getShardId(appId);
-    currentShards[shardId][appId] = {
+    const confirmed = confirmedCounts[appId];
+    const shardEntry = {
       rank: entry.rank,
       estimate: entry.estimate || shared.estimateWishlists(entry.rank),
       name: entry.name || ledger[appId]?.name || null
     };
+    if (confirmed?.actualWishlists) {
+      shardEntry.actualWishlists = confirmed.actualWishlists;
+      if (confirmed.wishlistUrl) shardEntry.wishlistUrl = confirmed.wishlistUrl;
+    }
+    const shardId = shared.getShardId(appId);
+    currentShards[shardId][appId] = shardEntry;
     currentEntryCount += 1;
   }
 
@@ -218,14 +233,20 @@ async function writeV2Artifacts({ ledger, currentEntries, outputDir, updatedAt, 
     releasedEntryCount += 1;
     if (!entry.preRelease) continue;
 
-    const shardId = shared.getShardId(appId);
-    preReleaseShards[shardId][appId] = {
+    const confirmed = confirmedCounts[appId];
+    const shardEntry = {
       rank: entry.preRelease.rank,
       estimate: entry.preRelease.estimate || shared.estimateWishlists(entry.preRelease.rank),
       name: entry.name || null,
       releaseDate: entry.releaseDate || null,
       source: "tracked"
     };
+    if (confirmed?.actualWishlists) {
+      shardEntry.actualWishlists = confirmed.actualWishlists;
+      if (confirmed.wishlistUrl) shardEntry.wishlistUrl = confirmed.wishlistUrl;
+    }
+    const shardId = shared.getShardId(appId);
+    preReleaseShards[shardId][appId] = shardEntry;
     preReleaseEntryCount += 1;
   }
 
