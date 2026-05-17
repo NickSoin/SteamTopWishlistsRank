@@ -1,7 +1,7 @@
 importScripts("shared.js", "feed-config.js");
 
-const SHARD_CACHE_PREFIX = "steam_wishlist_rank_shard_cache_v3";
-const META_CACHE_KEY = "steam_wishlist_rank_meta_cache_v3";
+const SHARD_CACHE_PREFIX = "steam_wishlist_rank_shard_cache_v4";
+const META_CACHE_KEY = "steam_wishlist_rank_meta_cache_v4";
 const CACHE_TTL_MS = 4 * 60 * 60 * 1000;
 const FETCH_TIMEOUT_MS = 8000;
 const inFlightShardPromises = new Map();
