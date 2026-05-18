@@ -1,1 +1,157 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":21,"entries":{"493520":{"rank":14,"estimate":"800k+","name":"GTFO","releaseDate":"2021-12-09","source":"historical"},"2597080":{"rank":18,"estimate":"100k","actualWishlists":100000,"name":"Realm of Ink","releaseDate":"2024-09-26","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5686429670867399026"},"1857080":{"rank":300,"estimate":"80k+","name":"The Last Starship","releaseDate":"2026-02-03","source":"historical"},"1652250":{"rank":548,"estimate":"40k+","name":"Tales & Tactics","releaseDate":"2024-08-15","source":"historical"},"2475490":{"rank":552,"estimate":"40k+","name":"Mouthwashing","releaseDate":"2024-09-26","source":"historical"},"985780":{"rank":609,"estimate":"40k+","name":"Jack Axe","releaseDate":"2021-10-06","source":"historical"},"1515320":{"rank":630,"estimate":"40k+","name":"Harvest Days: My Dream Farm","releaseDate":"2024-07-25","source":"historical"},"1273750":{"rank":739,"estimate":"40k+","name":"Button City","releaseDate":"2021-08-09","source":"historical"},"2429860":{"rank":747,"estimate":"40k+","name":"Living With Sister: Monochrome Fantasy","releaseDate":"2024-03-22","source":"historical"},"2225480":{"rank":897,"estimate":"40k+","name":"MEMOLITH: Forsaken by Light","releaseDate":"2026-04-27","source":"historical"},"638510":{"rank":996,"estimate":"40k+","name":"dotAGE","releaseDate":"2023-10-04","source":"historical"},"1171340":{"rank":1040,"estimate":"25k+","name":"A.I.M. War Protocol","releaseDate":"2026-01-01","source":"historical"},"2196490":{"rank":1111,"estimate":"25k+","name":"Lust Element - Season 1","releaseDate":"2023-07-20","source":"historical"},"2778610":{"rank":1136,"estimate":"25k+","name":"Over The Top: WWI","releaseDate":"2026-03-06","source":"historical"},"2119590":{"rank":1217,"estimate":"25k+","name":"Deducto 2","releaseDate":"2023-06-16","source":"historical"},"1691750":{"rank":1266,"estimate":"25k+","name":"Sky Oceans: Wings for Hire","releaseDate":"2024-10-10","source":"historical"},"2000160":{"rank":1268,"estimate":"25k+","name":"Music Store Simulator","releaseDate":"2023-07-24","source":"historical"},"2083240":{"rank":1636,"estimate":"15k+","name":"Asterogues","releaseDate":"2024-11-20","source":"historical"},"1737340":{"rank":1827,"estimate":"15k+","name":"Noobs Want to Live","releaseDate":"2023-02-13","source":"historical"},"2094370":{"rank":2052,"estimate":"7k+","name":"Alchemist: The Potion Monger","releaseDate":"2024-09-25","source":"historical"},"2680250":{"rank":2206,"estimate":"7k+","name":"Holy Maid Academy","releaseDate":"2024-04-01","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 21,
+  "entries": {
+    "493520": {
+      "rank": 14,
+      "estimate": "800k+",
+      "name": "GTFO",
+      "releaseDate": "2021-12-09",
+      "source": "historical"
+    },
+    "638510": {
+      "rank": 996,
+      "estimate": "40k+",
+      "name": "dotAGE",
+      "releaseDate": "2023-10-04",
+      "source": "historical"
+    },
+    "985780": {
+      "rank": 609,
+      "estimate": "40k+",
+      "name": "Jack Axe",
+      "releaseDate": "2021-10-06",
+      "source": "historical"
+    },
+    "1171340": {
+      "rank": 1040,
+      "estimate": "25k+",
+      "name": "A.I.M. War Protocol",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "1273750": {
+      "rank": 739,
+      "estimate": "40k+",
+      "name": "Button City",
+      "releaseDate": "2021-08-09",
+      "source": "historical"
+    },
+    "1515320": {
+      "rank": 630,
+      "estimate": "40k+",
+      "name": "Harvest Days: My Dream Farm",
+      "releaseDate": "2024-07-25",
+      "source": "historical"
+    },
+    "1652250": {
+      "rank": 548,
+      "estimate": "40k+",
+      "name": "Tales & Tactics",
+      "releaseDate": "2024-08-15",
+      "source": "historical"
+    },
+    "1691750": {
+      "rank": 1266,
+      "estimate": "25k+",
+      "name": "Sky Oceans: Wings for Hire",
+      "releaseDate": "2024-10-10",
+      "source": "historical"
+    },
+    "1737340": {
+      "rank": 1827,
+      "estimate": "15k+",
+      "name": "Noobs Want to Live",
+      "releaseDate": "2023-02-13",
+      "source": "historical"
+    },
+    "1857080": {
+      "rank": 300,
+      "estimate": "80k+",
+      "name": "The Last Starship",
+      "releaseDate": "2026-02-03",
+      "source": "historical"
+    },
+    "2000160": {
+      "rank": 1268,
+      "estimate": "25k+",
+      "name": "Music Store Simulator",
+      "releaseDate": "2023-07-24",
+      "source": "historical"
+    },
+    "2083240": {
+      "rank": 1636,
+      "estimate": "15k+",
+      "name": "Asterogues",
+      "releaseDate": "2024-11-20",
+      "source": "historical"
+    },
+    "2094370": {
+      "rank": 2052,
+      "estimate": "7k+",
+      "name": "Alchemist: The Potion Monger",
+      "releaseDate": "2024-09-25",
+      "source": "historical"
+    },
+    "2119590": {
+      "rank": 1217,
+      "estimate": "25k+",
+      "name": "Deducto 2",
+      "releaseDate": "2023-06-16",
+      "source": "historical"
+    },
+    "2196490": {
+      "rank": 1111,
+      "estimate": "25k+",
+      "name": "Lust Element - Season 1",
+      "releaseDate": "2023-07-20",
+      "source": "historical"
+    },
+    "2225480": {
+      "rank": 897,
+      "estimate": "40k+",
+      "name": "MEMOLITH: Forsaken by Light",
+      "releaseDate": "2026-04-27",
+      "source": "historical"
+    },
+    "2429860": {
+      "rank": 747,
+      "estimate": "40k+",
+      "name": "Living With Sister: Monochrome Fantasy",
+      "releaseDate": "2024-03-22",
+      "source": "historical"
+    },
+    "2475490": {
+      "rank": 552,
+      "estimate": "40k+",
+      "name": "Mouthwashing",
+      "releaseDate": "2024-09-26",
+      "source": "historical"
+    },
+    "2597080": {
+      "rank": 18,
+      "estimate": "100k",
+      "actualWishlists": 100000,
+      "name": "Realm of Ink",
+      "releaseDate": "2024-09-26",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5686429670867399026"
+    },
+    "2680250": {
+      "rank": 2206,
+      "estimate": "7k+",
+      "name": "Holy Maid Academy",
+      "releaseDate": "2024-04-01",
+      "source": "historical"
+    },
+    "2778610": {
+      "rank": 1136,
+      "estimate": "25k+",
+      "name": "Over The Top: WWI",
+      "releaseDate": "2026-03-06",
+      "source": "historical"
+    }
+  }
+}

@@ -1,1 +1,183 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":25,"entries":{"2780810":{"rank":2,"estimate":"1.5m+","name":"Euro Truck Simulator 2 - Nordic Horizons","releaseDate":"2025-11-27","source":"historical"},"779340":{"rank":5,"estimate":"1.5m+","name":"Total War: THREE KINGDOMS","releaseDate":"2019-05-23","source":"historical"},"2958130":{"rank":44,"estimate":"600k+","name":"Jurassic World Evolution 3","releaseDate":"2025-10-21","source":"historical"},"2400770":{"rank":48,"estimate":"600k+","name":"Dungeon Tycoon","releaseDate":"2024-09-25","source":"historical"},"1325900":{"rank":307,"estimate":"80k+","name":"Demon Turf: Queens Edition","releaseDate":"2021-11-04","source":"historical"},"1591530":{"rank":308,"estimate":"80k+","name":"SAMURAI WARRIORS 5","releaseDate":"2021-07-26","source":"historical"},"2473480":{"rank":359,"estimate":"80k+","name":"Tails of Iron 2: Whiskers of Winter","releaseDate":"2025-01-28","source":"historical"},"2240790":{"rank":416,"estimate":"80k+","name":"Sucker for Love: Date to Die For","releaseDate":"2024-04-23","source":"historical"},"1674170":{"rank":493,"estimate":"80k+","name":"Sprocket","releaseDate":"2021-08-26","source":"historical"},"2961530":{"rank":503,"estimate":"40k+","name":"Fears to Fathom - Woodbury Getaway","releaseDate":"2024-09-12","source":"historical"},"1409200":{"rank":719,"estimate":"40k+","name":"HYPERVIOLENT","releaseDate":"2025-09-23","source":"historical"},"2008420":{"rank":753,"estimate":"40k+","name":"Flashback 2","releaseDate":"2023-11-16","source":"historical"},"1191660":{"rank":932,"estimate":"40k+","name":"Rebel Transmute","releaseDate":"2024-03-11","source":"historical"},"2346580":{"rank":970,"estimate":"40k+","name":"Sentimental Death Loop","releaseDate":"2023-07-27","source":"historical"},"1039360":{"rank":1007,"estimate":"25k+","name":"Eyes in the Dark","releaseDate":"2022-07-14","source":"historical"},"2416100":{"rank":1172,"estimate":"25k+","name":"Goodnight Universe","releaseDate":"2025-11-11","source":"historical"},"2450450":{"rank":1369,"estimate":"25k+","name":"MEGATON MUSASHI W: WIRED","releaseDate":"2024-04-24","source":"historical"},"2567190":{"rank":1402,"estimate":"25k+","name":"Otome Riron to Sono Shuuhen -École de Paris-","releaseDate":"2023-12-15","source":"historical"},"1812860":{"rank":1441,"estimate":"25k+","name":"Dice Gambit","releaseDate":"2025-08-14","source":"historical"},"1935330":{"rank":1491,"estimate":"25k+","name":"SOPA - Tale of the Stolen Potato","releaseDate":"2025-10-06","source":"historical"},"2604480":{"rank":1542,"estimate":"15k+","name":"City Transport Simulator®","releaseDate":"2025-01-28","source":"historical"},"1205130":{"rank":1618,"estimate":"15k+","name":"Dark Gravity","releaseDate":"2024-02-20","source":"historical"},"2207470":{"rank":2016,"estimate":"7k+","name":"Gods Against Machines","releaseDate":"2024-02-26","source":"historical"},"1394470":{"rank":2077,"estimate":"7k+","name":"Umami Grove","releaseDate":"2025-04-24","source":"historical"},"2421890":{"rank":2302,"estimate":"7k+","name":"Warhammer 40,000: Chaos Gate - Daemonhunters - Execution Force","releaseDate":"2023-07-25","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 25,
+  "entries": {
+    "779340": {
+      "rank": 5,
+      "estimate": "1.5m+",
+      "name": "Total War: THREE KINGDOMS",
+      "releaseDate": "2019-05-23",
+      "source": "historical"
+    },
+    "1039360": {
+      "rank": 1007,
+      "estimate": "25k+",
+      "name": "Eyes in the Dark",
+      "releaseDate": "2022-07-14",
+      "source": "historical"
+    },
+    "1191660": {
+      "rank": 932,
+      "estimate": "40k+",
+      "name": "Rebel Transmute",
+      "releaseDate": "2024-03-11",
+      "source": "historical"
+    },
+    "1205130": {
+      "rank": 1618,
+      "estimate": "15k+",
+      "name": "Dark Gravity",
+      "releaseDate": "2024-02-20",
+      "source": "historical"
+    },
+    "1325900": {
+      "rank": 307,
+      "estimate": "80k+",
+      "name": "Demon Turf: Queens Edition",
+      "releaseDate": "2021-11-04",
+      "source": "historical"
+    },
+    "1394470": {
+      "rank": 2077,
+      "estimate": "7k+",
+      "name": "Umami Grove",
+      "releaseDate": "2025-04-24",
+      "source": "historical"
+    },
+    "1409200": {
+      "rank": 719,
+      "estimate": "40k+",
+      "name": "HYPERVIOLENT",
+      "releaseDate": "2025-09-23",
+      "source": "historical"
+    },
+    "1591530": {
+      "rank": 308,
+      "estimate": "80k+",
+      "name": "SAMURAI WARRIORS 5",
+      "releaseDate": "2021-07-26",
+      "source": "historical"
+    },
+    "1674170": {
+      "rank": 493,
+      "estimate": "80k+",
+      "name": "Sprocket",
+      "releaseDate": "2021-08-26",
+      "source": "historical"
+    },
+    "1812860": {
+      "rank": 1441,
+      "estimate": "25k+",
+      "name": "Dice Gambit",
+      "releaseDate": "2025-08-14",
+      "source": "historical"
+    },
+    "1935330": {
+      "rank": 1491,
+      "estimate": "25k+",
+      "name": "SOPA - Tale of the Stolen Potato",
+      "releaseDate": "2025-10-06",
+      "source": "historical"
+    },
+    "2008420": {
+      "rank": 753,
+      "estimate": "40k+",
+      "name": "Flashback 2",
+      "releaseDate": "2023-11-16",
+      "source": "historical"
+    },
+    "2207470": {
+      "rank": 2016,
+      "estimate": "7k+",
+      "name": "Gods Against Machines",
+      "releaseDate": "2024-02-26",
+      "source": "historical"
+    },
+    "2240790": {
+      "rank": 416,
+      "estimate": "80k+",
+      "name": "Sucker for Love: Date to Die For",
+      "releaseDate": "2024-04-23",
+      "source": "historical"
+    },
+    "2346580": {
+      "rank": 970,
+      "estimate": "40k+",
+      "name": "Sentimental Death Loop",
+      "releaseDate": "2023-07-27",
+      "source": "historical"
+    },
+    "2400770": {
+      "rank": 48,
+      "estimate": "600k+",
+      "name": "Dungeon Tycoon",
+      "releaseDate": "2024-09-25",
+      "source": "historical"
+    },
+    "2416100": {
+      "rank": 1172,
+      "estimate": "25k+",
+      "name": "Goodnight Universe",
+      "releaseDate": "2025-11-11",
+      "source": "historical"
+    },
+    "2421890": {
+      "rank": 2302,
+      "estimate": "7k+",
+      "name": "Warhammer 40,000: Chaos Gate - Daemonhunters - Execution Force",
+      "releaseDate": "2023-07-25",
+      "source": "historical"
+    },
+    "2450450": {
+      "rank": 1369,
+      "estimate": "25k+",
+      "name": "MEGATON MUSASHI W: WIRED",
+      "releaseDate": "2024-04-24",
+      "source": "historical"
+    },
+    "2473480": {
+      "rank": 359,
+      "estimate": "80k+",
+      "name": "Tails of Iron 2: Whiskers of Winter",
+      "releaseDate": "2025-01-28",
+      "source": "historical"
+    },
+    "2567190": {
+      "rank": 1402,
+      "estimate": "25k+",
+      "name": "Otome Riron to Sono Shuuhen -École de Paris-",
+      "releaseDate": "2023-12-15",
+      "source": "historical"
+    },
+    "2604480": {
+      "rank": 1542,
+      "estimate": "15k+",
+      "name": "City Transport Simulator®",
+      "releaseDate": "2025-01-28",
+      "source": "historical"
+    },
+    "2780810": {
+      "rank": 2,
+      "estimate": "1.5m+",
+      "name": "Euro Truck Simulator 2 - Nordic Horizons",
+      "releaseDate": "2025-11-27",
+      "source": "historical"
+    },
+    "2958130": {
+      "rank": 44,
+      "estimate": "600k+",
+      "name": "Jurassic World Evolution 3",
+      "releaseDate": "2025-10-21",
+      "source": "historical"
+    },
+    "2961530": {
+      "rank": 503,
+      "estimate": "40k+",
+      "name": "Fears to Fathom - Woodbury Getaway",
+      "releaseDate": "2024-09-12",
+      "source": "historical"
+    }
+  }
+}

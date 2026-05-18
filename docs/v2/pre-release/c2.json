@@ -1,1 +1,178 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":24,"entries":{"1409830":{"rank":6,"estimate":"1.5m+","name":"Sons of Valhalla","releaseDate":"2024-04-05","source":"historical"},"834910":{"rank":9,"estimate":"1.5m+","name":"ATLAS","releaseDate":"2018-12-22","source":"historical"},"1383370":{"rank":43,"estimate":"600k+","name":"Trail of Ayash","releaseDate":"2024-09-16","source":"historical"},"1931180":{"rank":47,"estimate":"600k+","name":"Lost Skies","releaseDate":"2025-09-17","source":"historical"},"1621690":{"rank":66,"estimate":"300k+","name":"Core Keeper","releaseDate":"2024-08-27","source":"historical"},"1592280":{"rank":124,"estimate":"200k+","name":"Selaco","releaseDate":"2024-05-31","source":"historical"},"1202200":{"rank":139,"estimate":"200k+","name":"Paleo Pines","releaseDate":"2023-09-26","source":"historical"},"841190":{"rank":170,"estimate":"200k+","name":"Honey, I Joined a Cult","releaseDate":"2022-11-03","source":"historical"},"1518220":{"rank":263,"estimate":"80k+","name":"Spells & Secrets","releaseDate":"2023-11-09","source":"historical"},"1485690":{"rank":385,"estimate":"80k+","name":"Potion Tycoon","releaseDate":"2024-10-04","source":"historical"},"1395030":{"rank":497,"estimate":"80k+","name":"Kathy Rain: Director's Cut","releaseDate":"2021-10-26","source":"historical"},"2057760":{"rank":645,"estimate":"30k","actualWishlists":30000,"name":"Esoteric Ebb","releaseDate":"2026-03-03","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012596540635"},"1171320":{"rank":777,"estimate":"40k+","name":"Frog Detective 3: Corruption at Cowboy County","releaseDate":"2022-10-26","source":"historical"},"2658510":{"rank":777,"estimate":"40k+","name":"Animal Shelter 2","releaseDate":"2025-07-23","source":"historical"},"2486740":{"rank":999,"estimate":"40k+","name":"Sledders","releaseDate":"2025-03-20","source":"historical"},"1783680":{"rank":1014,"estimate":"25k+","name":"Thalassa: Edge of the Abyss","releaseDate":"2024-08-01","source":"historical"},"3066570":{"rank":1125,"estimate":"25k+","name":"Aotenjo: Infinite Hands","releaseDate":"2025-01-19","source":"historical"},"1803960":{"rank":1419,"estimate":"25k+","name":"Demon Sword: Incubus","releaseDate":"2022-06-17","source":"historical"},"2075100":{"rank":1430,"estimate":"25k+","name":"Chernobylite 2: Exclusion Zone","releaseDate":"2025-03-06","source":"historical"},"1924810":{"rank":1665,"estimate":"15k+","name":"Kamiwaza: Way of the Thief","releaseDate":"2022-10-11","source":"historical"},"1032740":{"rank":2417,"estimate":"7k+","name":"How to Build a Flying City","releaseDate":"2024-10-18","source":"historical"},"2891120":{"rank":2809,"estimate":"7k+","name":"Mad Smartphone Tycoon","releaseDate":"2024-09-12","source":"historical"},"2429350":{"rank":2891,"estimate":"7k+","name":"myPOPGOES","releaseDate":"2024-08-01","source":"historical"},"2918410":{"rank":2928,"estimate":"7k+","name":"Tower of Mask","releaseDate":"2024-12-07","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 24,
+  "entries": {
+    "834910": {
+      "rank": 9,
+      "estimate": "1.5m+",
+      "name": "ATLAS",
+      "releaseDate": "2018-12-22",
+      "source": "historical"
+    },
+    "841190": {
+      "rank": 170,
+      "estimate": "200k+",
+      "name": "Honey, I Joined a Cult",
+      "releaseDate": "2022-11-03",
+      "source": "historical"
+    },
+    "1032740": {
+      "rank": 2417,
+      "estimate": "7k+",
+      "name": "How to Build a Flying City",
+      "releaseDate": "2024-10-18",
+      "source": "historical"
+    },
+    "1171320": {
+      "rank": 777,
+      "estimate": "40k+",
+      "name": "Frog Detective 3: Corruption at Cowboy County",
+      "releaseDate": "2022-10-26",
+      "source": "historical"
+    },
+    "1202200": {
+      "rank": 139,
+      "estimate": "200k+",
+      "name": "Paleo Pines",
+      "releaseDate": "2023-09-26",
+      "source": "historical"
+    },
+    "1383370": {
+      "rank": 43,
+      "estimate": "600k+",
+      "name": "Trail of Ayash",
+      "releaseDate": "2024-09-16",
+      "source": "historical"
+    },
+    "1395030": {
+      "rank": 497,
+      "estimate": "80k+",
+      "name": "Kathy Rain: Director's Cut",
+      "releaseDate": "2021-10-26",
+      "source": "historical"
+    },
+    "1409830": {
+      "rank": 6,
+      "estimate": "1.5m+",
+      "name": "Sons of Valhalla",
+      "releaseDate": "2024-04-05",
+      "source": "historical"
+    },
+    "1485690": {
+      "rank": 385,
+      "estimate": "80k+",
+      "name": "Potion Tycoon",
+      "releaseDate": "2024-10-04",
+      "source": "historical"
+    },
+    "1518220": {
+      "rank": 263,
+      "estimate": "80k+",
+      "name": "Spells & Secrets",
+      "releaseDate": "2023-11-09",
+      "source": "historical"
+    },
+    "1592280": {
+      "rank": 124,
+      "estimate": "200k+",
+      "name": "Selaco",
+      "releaseDate": "2024-05-31",
+      "source": "historical"
+    },
+    "1621690": {
+      "rank": 66,
+      "estimate": "300k+",
+      "name": "Core Keeper",
+      "releaseDate": "2024-08-27",
+      "source": "historical"
+    },
+    "1783680": {
+      "rank": 1014,
+      "estimate": "25k+",
+      "name": "Thalassa: Edge of the Abyss",
+      "releaseDate": "2024-08-01",
+      "source": "historical"
+    },
+    "1803960": {
+      "rank": 1419,
+      "estimate": "25k+",
+      "name": "Demon Sword: Incubus",
+      "releaseDate": "2022-06-17",
+      "source": "historical"
+    },
+    "1924810": {
+      "rank": 1665,
+      "estimate": "15k+",
+      "name": "Kamiwaza: Way of the Thief",
+      "releaseDate": "2022-10-11",
+      "source": "historical"
+    },
+    "1931180": {
+      "rank": 47,
+      "estimate": "600k+",
+      "name": "Lost Skies",
+      "releaseDate": "2025-09-17",
+      "source": "historical"
+    },
+    "2057760": {
+      "rank": 645,
+      "estimate": "30k",
+      "actualWishlists": 30000,
+      "name": "Esoteric Ebb",
+      "releaseDate": "2026-03-03",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012596540635"
+    },
+    "2075100": {
+      "rank": 1430,
+      "estimate": "25k+",
+      "name": "Chernobylite 2: Exclusion Zone",
+      "releaseDate": "2025-03-06",
+      "source": "historical"
+    },
+    "2429350": {
+      "rank": 2891,
+      "estimate": "7k+",
+      "name": "myPOPGOES",
+      "releaseDate": "2024-08-01",
+      "source": "historical"
+    },
+    "2486740": {
+      "rank": 999,
+      "estimate": "40k+",
+      "name": "Sledders",
+      "releaseDate": "2025-03-20",
+      "source": "historical"
+    },
+    "2658510": {
+      "rank": 777,
+      "estimate": "40k+",
+      "name": "Animal Shelter 2",
+      "releaseDate": "2025-07-23",
+      "source": "historical"
+    },
+    "2891120": {
+      "rank": 2809,
+      "estimate": "7k+",
+      "name": "Mad Smartphone Tycoon",
+      "releaseDate": "2024-09-12",
+      "source": "historical"
+    },
+    "2918410": {
+      "rank": 2928,
+      "estimate": "7k+",
+      "name": "Tower of Mask",
+      "releaseDate": "2024-12-07",
+      "source": "historical"
+    },
+    "3066570": {
+      "rank": 1125,
+      "estimate": "25k+",
+      "name": "Aotenjo: Infinite Hands",
+      "releaseDate": "2025-01-19",
+      "source": "historical"
+    }
+  }
+}

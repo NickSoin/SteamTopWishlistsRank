@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-17T19:37:56.564Z",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
   "entryCount": 23,
   "entries": {
     "792610": {
-      "rank": 405,
+      "rank": 406,
       "estimate": "80k+",
       "name": "King of the Dwarves: Underground City Builder"
     },
@@ -15,12 +15,12 @@
       "name": "Codenames"
     },
     "925500": {
-      "rank": 830,
+      "rank": 831,
       "estimate": "40k+",
       "name": "Innkeep"
     },
     "1215170": {
-      "rank": 3906,
+      "rank": 3908,
       "estimate": "<7k",
       "name": "Dawnthorn"
     },
@@ -35,12 +35,12 @@
       "name": "Tachyons: Battles Across the Galaxy"
     },
     "1556400": {
-      "rank": 3819,
+      "rank": 3818,
       "estimate": "<7k",
       "name": "HIGHPOINT"
     },
     "1616720": {
-      "rank": 2984,
+      "rank": 2987,
       "estimate": "7k+",
       "name": "Bunker Builder \"Atlantic Wall\""
     },
@@ -50,7 +50,7 @@
       "name": "Class Zero Seven"
     },
     "2073980": {
-      "rank": 3776,
+      "rank": 3775,
       "estimate": "<7k",
       "name": "SUMMER ROAD 10-Minute Auto Roguelite"
     },
@@ -65,22 +65,24 @@
       "name": "Silver Pines"
     },
     "2361560": {
-      "rank": 1457,
+      "rank": 1458,
       "estimate": "25k+",
-      "name": "Dr. Emmerson's Nocturnes"
+      "name": "Dr. Emmerson's Nocturnes",
+      "actualWishlists": 32000,
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289596300"
     },
     "2457920": {
-      "rank": 2251,
+      "rank": 2253,
       "estimate": "7k+",
       "name": "gOnshit infarct"
     },
     "2622180": {
-      "rank": 2254,
+      "rank": 2256,
       "estimate": "7k+",
       "name": "Detective Fantasia: EXCALIMURDER"
     },
     "2823840": {
-      "rank": 3318,
+      "rank": 3316,
       "estimate": "<7k",
       "name": "Killer Junkyard"
     },
@@ -95,27 +97,27 @@
       "name": "Tenkemo"
     },
     "3450780": {
-      "rank": 2594,
+      "rank": 2595,
       "estimate": "7k+",
       "name": "Primordial Empire"
     },
     "3460400": {
-      "rank": 1207,
+      "rank": 1208,
       "estimate": "25k+",
       "name": "Harrowlands"
     },
     "3731410": {
-      "rank": 4576,
+      "rank": 4578,
       "estimate": "<7k",
       "name": "hitogata"
     },
     "4207990": {
-      "rank": 1956,
+      "rank": 1955,
       "estimate": "15k+",
       "name": "GemCraft - Legacy Collection"
     },
     "4235410": {
-      "rank": 2777,
+      "rank": 2776,
       "estimate": "7k+",
       "name": "Future Knight"
     }

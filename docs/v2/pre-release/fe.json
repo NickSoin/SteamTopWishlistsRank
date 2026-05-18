@@ -1,1 +1,159 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":21,"entries":{"2118810":{"rank":18,"estimate":"150k","actualWishlists":150000,"name":"Breachway","releaseDate":"2024-09-26","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/6339469370182972786"},"2269950":{"rank":28,"estimate":"600k+","name":"The Karters 2: Turbo Charged","releaseDate":"2025-07-17","source":"historical"},"2064810":{"rank":40,"estimate":"600k+","name":"CityDriver","releaseDate":"2023-06-05","source":"historical"},"881020":{"rank":44,"estimate":"600k+","name":"Granblue Fantasy: Relink","releaseDate":"2024-01-31","source":"historical"},"1796790":{"rank":125,"estimate":"200k+","name":"Chef RPG","releaseDate":"2024-09-12","source":"historical"},"773370":{"rank":126,"estimate":"200k+","name":"Exo One","releaseDate":"2021-11-18","source":"historical"},"1442170":{"rank":283,"estimate":"80k+","name":"KILLRUN","releaseDate":"2022-08-25","source":"historical"},"1159090":{"rank":284,"estimate":"80k+","name":"Zoria: Age of Shattering","releaseDate":"2024-03-07","source":"historical"},"2252570":{"rank":286,"estimate":"80k+","name":"Football Manager 2024","releaseDate":"2023-11-06","source":"historical"},"1869780":{"rank":312,"estimate":"80k+","name":"UnderMine 2","releaseDate":"2025-07-22","source":"historical"},"1658870":{"rank":421,"estimate":"80k+","name":"New Home: Medieval Village","releaseDate":"2022-01-14","source":"historical"},"1451080":{"rank":888,"estimate":"40k+","name":"DUNGEON ENCOUNTERS","releaseDate":"2021-10-14","source":"historical"},"2166060":{"rank":1037,"estimate":"25k+","name":"Amanda the Adventurer","releaseDate":"2023-04-25","source":"historical"},"1850380":{"rank":1062,"estimate":"25k+","name":"Tricolour Lovestory TrueEnd","releaseDate":"2022-01-27","source":"historical"},"1629830":{"rank":1242,"estimate":"37k","actualWishlists":37000,"name":"Research Story","releaseDate":"2025-07-21","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5159491482911105841"},"2496640":{"rank":1432,"estimate":"25k+","name":"Futanari di Funghi","releaseDate":"2024-06-03","source":"historical"},"2585830":{"rank":1920,"estimate":"15k+","name":"Promise Mascot Agency","releaseDate":"2025-04-10","source":"historical"},"2410170":{"rank":2236,"estimate":"7k+","name":"The Nameless: Slay Dragon","releaseDate":"2024-09-26","source":"historical"},"3002510":{"rank":2413,"estimate":"7k+","name":"REPOSE","releaseDate":"2025-04-14","source":"historical"},"2174500":{"rank":2773,"estimate":"7k+","name":"Parasite Black","releaseDate":"2024-12-09","source":"historical"},"2477270":{"rank":3052,"estimate":"<7k","name":"Lust's Cupid","releaseDate":"2025-04-11","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 21,
+  "entries": {
+    "773370": {
+      "rank": 126,
+      "estimate": "200k+",
+      "name": "Exo One",
+      "releaseDate": "2021-11-18",
+      "source": "historical"
+    },
+    "881020": {
+      "rank": 44,
+      "estimate": "600k+",
+      "name": "Granblue Fantasy: Relink",
+      "releaseDate": "2024-01-31",
+      "source": "historical"
+    },
+    "1159090": {
+      "rank": 284,
+      "estimate": "80k+",
+      "name": "Zoria: Age of Shattering",
+      "releaseDate": "2024-03-07",
+      "source": "historical"
+    },
+    "1442170": {
+      "rank": 283,
+      "estimate": "80k+",
+      "name": "KILLRUN",
+      "releaseDate": "2022-08-25",
+      "source": "historical"
+    },
+    "1451080": {
+      "rank": 888,
+      "estimate": "40k+",
+      "name": "DUNGEON ENCOUNTERS",
+      "releaseDate": "2021-10-14",
+      "source": "historical"
+    },
+    "1629830": {
+      "rank": 1242,
+      "estimate": "37k",
+      "actualWishlists": 37000,
+      "name": "Research Story",
+      "releaseDate": "2025-07-21",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5159491482911105841"
+    },
+    "1658870": {
+      "rank": 421,
+      "estimate": "80k+",
+      "name": "New Home: Medieval Village",
+      "releaseDate": "2022-01-14",
+      "source": "historical"
+    },
+    "1796790": {
+      "rank": 125,
+      "estimate": "200k+",
+      "name": "Chef RPG",
+      "releaseDate": "2024-09-12",
+      "source": "historical"
+    },
+    "1850380": {
+      "rank": 1062,
+      "estimate": "25k+",
+      "name": "Tricolour Lovestory TrueEnd",
+      "releaseDate": "2022-01-27",
+      "source": "historical"
+    },
+    "1869780": {
+      "rank": 312,
+      "estimate": "80k+",
+      "name": "UnderMine 2",
+      "releaseDate": "2025-07-22",
+      "source": "historical"
+    },
+    "2064810": {
+      "rank": 40,
+      "estimate": "600k+",
+      "name": "CityDriver",
+      "releaseDate": "2023-06-05",
+      "source": "historical"
+    },
+    "2118810": {
+      "rank": 18,
+      "estimate": "150k",
+      "actualWishlists": 150000,
+      "name": "Breachway",
+      "releaseDate": "2024-09-26",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/6339469370182972786"
+    },
+    "2166060": {
+      "rank": 1037,
+      "estimate": "25k+",
+      "name": "Amanda the Adventurer",
+      "releaseDate": "2023-04-25",
+      "source": "historical"
+    },
+    "2174500": {
+      "rank": 2773,
+      "estimate": "7k+",
+      "name": "Parasite Black",
+      "releaseDate": "2024-12-09",
+      "source": "historical"
+    },
+    "2252570": {
+      "rank": 286,
+      "estimate": "80k+",
+      "name": "Football Manager 2024",
+      "releaseDate": "2023-11-06",
+      "source": "historical"
+    },
+    "2269950": {
+      "rank": 28,
+      "estimate": "600k+",
+      "name": "The Karters 2: Turbo Charged",
+      "releaseDate": "2025-07-17",
+      "source": "historical"
+    },
+    "2410170": {
+      "rank": 2236,
+      "estimate": "7k+",
+      "name": "The Nameless: Slay Dragon",
+      "releaseDate": "2024-09-26",
+      "source": "historical"
+    },
+    "2477270": {
+      "rank": 3052,
+      "estimate": "<7k",
+      "name": "Lust's Cupid",
+      "releaseDate": "2025-04-11",
+      "source": "historical"
+    },
+    "2496640": {
+      "rank": 1432,
+      "estimate": "25k+",
+      "name": "Futanari di Funghi",
+      "releaseDate": "2024-06-03",
+      "source": "historical"
+    },
+    "2585830": {
+      "rank": 1920,
+      "estimate": "15k+",
+      "name": "Promise Mascot Agency",
+      "releaseDate": "2025-04-10",
+      "source": "historical"
+    },
+    "3002510": {
+      "rank": 2413,
+      "estimate": "7k+",
+      "name": "REPOSE",
+      "releaseDate": "2025-04-14",
+      "source": "historical"
+    }
+  }
+}

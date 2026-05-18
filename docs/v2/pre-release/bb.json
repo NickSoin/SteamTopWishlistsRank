@@ -1,1 +1,213 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":29,"entries":{"1044720":{"rank":12,"estimate":"800k+","name":"Farthest Frontier","releaseDate":"2025-10-23","source":"historical"},"1498130":{"rank":19,"estimate":"800k+","name":"Tank Squad","releaseDate":"2025-05-08","source":"historical"},"3209950":{"rank":25,"estimate":"600k+","name":"MARINES VS GOD","releaseDate":"2026-01-01","source":"historical"},"1566200":{"rank":26,"estimate":"600k+","name":"Tape to Tape","releaseDate":"2023-05-03","source":"historical"},"1846380":{"rank":45,"estimate":"600k+","name":"Need for Speed™ Unbound","releaseDate":"2022-12-01","source":"historical"},"2230450":{"rank":48,"estimate":"600k+","name":"Moses & Plato - Last Train to Clawville","releaseDate":"2026-04-14","source":"historical"},"1016950":{"rank":95,"estimate":"300k+","name":"Blood Bowl 3","releaseDate":"2023-02-23","source":"historical"},"1173220":{"rank":113,"estimate":"200k+","name":"Bleak Faith: Forsaken","releaseDate":"2023-03-10","source":"historical"},"1702330":{"rank":221,"estimate":"80k+","name":"Rune Factory 5","releaseDate":"2022-07-13","source":"historical"},"1120480":{"rank":237,"estimate":"80k+","name":"The Anacrusis","releaseDate":"2023-12-05","source":"historical"},"1895810":{"rank":450,"estimate":"80k+","name":"Infinity Strash: DRAGON QUEST The Adventure of Dai","releaseDate":"2023-10-12","source":"historical"},"928960":{"rank":577,"estimate":"40k+","name":"Godfall Ultimate Edition","releaseDate":"2022-04-07","source":"historical"},"1964040":{"rank":598,"estimate":"40k+","name":"Do Not Feed the Monkeys 2099","releaseDate":"2023-05-25","source":"historical"},"1714580":{"rank":672,"estimate":"40k+","name":"moon: Remix RPG Adventure","releaseDate":"2021-12-15","source":"historical"},"1226670":{"rank":753,"estimate":"40k+","name":"Rosewater","releaseDate":"2025-03-27","source":"historical"},"2012320":{"rank":785,"estimate":"40k+","name":"Parallel Experiment","releaseDate":"2025-06-05","source":"historical"},"1634080":{"rank":795,"estimate":"40k+","name":"Nocturnal","releaseDate":"2023-06-07","source":"historical"},"2059310":{"rank":801,"estimate":"40k+","name":"Daily life with my succubus boss","releaseDate":"2023-05-17","source":"historical"},"2794770":{"rank":918,"estimate":"40k+","name":"Clock Tower: Rewind","releaseDate":"2024-10-28","source":"historical"},"1920840":{"rank":1190,"estimate":"25k+","name":"Heavy Hearts","releaseDate":"2026-02-26","source":"historical"},"2101190":{"rank":1262,"estimate":"25k+","name":"ONI : Road to be the Mightiest Oni","releaseDate":"2023-03-08","source":"historical"},"1958560":{"rank":1372,"estimate":"25k+","name":"Gloomhaven - Solo Scenarios: Mercenary Challenges","releaseDate":"2022-09-22","source":"historical"},"1550270":{"rank":1508,"estimate":"15k+","name":"Togges","releaseDate":"2022-12-07","source":"historical"},"1217410":{"rank":1659,"estimate":"15k+","name":"孟德大小姐与自爆少年THREE KINGDOM FANTASY","releaseDate":"2023-04-19","source":"historical"},"2999670":{"rank":1746,"estimate":"15k+","name":"Front Edge","releaseDate":"2026-01-01","source":"historical"},"2521400":{"rank":2126,"estimate":"7k+","name":"愚人船 NARRENSCHIFF","releaseDate":"2025-10-28","source":"historical"},"1211980":{"rank":2213,"estimate":"7k+","name":"Skopje '83","releaseDate":"2025-11-07","source":"historical"},"2717010":{"rank":2227,"estimate":"7k+","name":"KALPA: Cosmic Symphony","releaseDate":"2025-10-01","source":"historical"},"2757670":{"rank":2551,"estimate":"20k","actualWishlists":20000,"name":"NODE The Last Favor of the Antarii","releaseDate":"2025-08-28","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758779250"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 29,
+  "entries": {
+    "928960": {
+      "rank": 577,
+      "estimate": "40k+",
+      "name": "Godfall Ultimate Edition",
+      "releaseDate": "2022-04-07",
+      "source": "historical"
+    },
+    "1016950": {
+      "rank": 95,
+      "estimate": "300k+",
+      "name": "Blood Bowl 3",
+      "releaseDate": "2023-02-23",
+      "source": "historical"
+    },
+    "1044720": {
+      "rank": 12,
+      "estimate": "800k+",
+      "name": "Farthest Frontier",
+      "releaseDate": "2025-10-23",
+      "source": "historical"
+    },
+    "1120480": {
+      "rank": 237,
+      "estimate": "80k+",
+      "name": "The Anacrusis",
+      "releaseDate": "2023-12-05",
+      "source": "historical"
+    },
+    "1173220": {
+      "rank": 113,
+      "estimate": "200k+",
+      "name": "Bleak Faith: Forsaken",
+      "releaseDate": "2023-03-10",
+      "source": "historical"
+    },
+    "1211980": {
+      "rank": 2213,
+      "estimate": "7k+",
+      "name": "Skopje '83",
+      "releaseDate": "2025-11-07",
+      "source": "historical"
+    },
+    "1217410": {
+      "rank": 1659,
+      "estimate": "15k+",
+      "name": "孟德大小姐与自爆少年THREE KINGDOM FANTASY",
+      "releaseDate": "2023-04-19",
+      "source": "historical"
+    },
+    "1226670": {
+      "rank": 753,
+      "estimate": "40k+",
+      "name": "Rosewater",
+      "releaseDate": "2025-03-27",
+      "source": "historical"
+    },
+    "1498130": {
+      "rank": 19,
+      "estimate": "800k+",
+      "name": "Tank Squad",
+      "releaseDate": "2025-05-08",
+      "source": "historical"
+    },
+    "1550270": {
+      "rank": 1508,
+      "estimate": "15k+",
+      "name": "Togges",
+      "releaseDate": "2022-12-07",
+      "source": "historical"
+    },
+    "1566200": {
+      "rank": 26,
+      "estimate": "600k+",
+      "name": "Tape to Tape",
+      "releaseDate": "2023-05-03",
+      "source": "historical"
+    },
+    "1634080": {
+      "rank": 795,
+      "estimate": "40k+",
+      "name": "Nocturnal",
+      "releaseDate": "2023-06-07",
+      "source": "historical"
+    },
+    "1702330": {
+      "rank": 221,
+      "estimate": "80k+",
+      "name": "Rune Factory 5",
+      "releaseDate": "2022-07-13",
+      "source": "historical"
+    },
+    "1714580": {
+      "rank": 672,
+      "estimate": "40k+",
+      "name": "moon: Remix RPG Adventure",
+      "releaseDate": "2021-12-15",
+      "source": "historical"
+    },
+    "1846380": {
+      "rank": 45,
+      "estimate": "600k+",
+      "name": "Need for Speed™ Unbound",
+      "releaseDate": "2022-12-01",
+      "source": "historical"
+    },
+    "1895810": {
+      "rank": 450,
+      "estimate": "80k+",
+      "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai",
+      "releaseDate": "2023-10-12",
+      "source": "historical"
+    },
+    "1920840": {
+      "rank": 1190,
+      "estimate": "25k+",
+      "name": "Heavy Hearts",
+      "releaseDate": "2026-02-26",
+      "source": "historical"
+    },
+    "1958560": {
+      "rank": 1372,
+      "estimate": "25k+",
+      "name": "Gloomhaven - Solo Scenarios: Mercenary Challenges",
+      "releaseDate": "2022-09-22",
+      "source": "historical"
+    },
+    "1964040": {
+      "rank": 598,
+      "estimate": "40k+",
+      "name": "Do Not Feed the Monkeys 2099",
+      "releaseDate": "2023-05-25",
+      "source": "historical"
+    },
+    "2012320": {
+      "rank": 785,
+      "estimate": "40k+",
+      "name": "Parallel Experiment",
+      "releaseDate": "2025-06-05",
+      "source": "historical"
+    },
+    "2059310": {
+      "rank": 801,
+      "estimate": "40k+",
+      "name": "Daily life with my succubus boss",
+      "releaseDate": "2023-05-17",
+      "source": "historical"
+    },
+    "2101190": {
+      "rank": 1262,
+      "estimate": "25k+",
+      "name": "ONI : Road to be the Mightiest Oni",
+      "releaseDate": "2023-03-08",
+      "source": "historical"
+    },
+    "2230450": {
+      "rank": 48,
+      "estimate": "600k+",
+      "name": "Moses & Plato - Last Train to Clawville",
+      "releaseDate": "2026-04-14",
+      "source": "historical"
+    },
+    "2521400": {
+      "rank": 2126,
+      "estimate": "7k+",
+      "name": "愚人船 NARRENSCHIFF",
+      "releaseDate": "2025-10-28",
+      "source": "historical"
+    },
+    "2717010": {
+      "rank": 2227,
+      "estimate": "7k+",
+      "name": "KALPA: Cosmic Symphony",
+      "releaseDate": "2025-10-01",
+      "source": "historical"
+    },
+    "2757670": {
+      "rank": 2551,
+      "estimate": "20k",
+      "actualWishlists": 20000,
+      "name": "NODE The Last Favor of the Antarii",
+      "releaseDate": "2025-08-28",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758779250"
+    },
+    "2794770": {
+      "rank": 918,
+      "estimate": "40k+",
+      "name": "Clock Tower: Rewind",
+      "releaseDate": "2024-10-28",
+      "source": "historical"
+    },
+    "2999670": {
+      "rank": 1746,
+      "estimate": "15k+",
+      "name": "Front Edge",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "3209950": {
+      "rank": 25,
+      "estimate": "600k+",
+      "name": "MARINES VS GOD",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    }
+  }
+}

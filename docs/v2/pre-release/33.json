@@ -1,1 +1,171 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":23,"entries":{"3164330":{"rank":8,"estimate":"1.5m+","name":"Infinity Nikki","releaseDate":"2025-04-28","source":"historical"},"1446780":{"rank":12,"estimate":"800k+","name":"MONSTER HUNTER RISE","releaseDate":"2022-01-12","source":"historical"},"2528410":{"rank":27,"estimate":"600k+","name":"Price for Freedom: Gold and Sand","releaseDate":"2026-01-01","source":"historical"},"3840230":{"rank":37,"estimate":"600k+","name":"Adorable Adventures","releaseDate":"2026-04-30","source":"historical"},"3168600":{"rank":48,"estimate":"778k","actualWishlists":777777,"name":"Among Us 3D","releaseDate":"2025-05-06","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1796631172413086"},"1804470":{"rank":49,"estimate":"600k+","name":"Duel Corp.","releaseDate":"2026-01-21","source":"historical"},"2400510":{"rank":218,"estimate":"80k+","name":"Dungeons & Degenerate Gamblers","releaseDate":"2024-08-08","source":"historical"},"2816870":{"rank":316,"estimate":"80k+","name":"Mighty Morphin Power Rangers: Rita's Rewind","releaseDate":"2024-12-10","source":"historical"},"2203290":{"rank":340,"estimate":"80k+","name":"KaiJu Girls","releaseDate":"2026-01-01","source":"historical"},"1683950":{"rank":367,"estimate":"80k+","name":"The Witch's Sexual Prison","releaseDate":"2022-01-25","source":"historical"},"1339000":{"rank":493,"estimate":"80k+","name":"Aquarium Designer","releaseDate":"2021-10-21","source":"historical"},"1215940":{"rank":520,"estimate":"40k+","name":"Forever Ago","releaseDate":"2026-01-01","source":"historical"},"1839940":{"rank":753,"estimate":"40k+","name":"Dakar Desert Rally","releaseDate":"2022-10-04","source":"historical"},"1443620":{"rank":832,"estimate":"40k+","name":"Pirates VR: Jolly Roger","releaseDate":"2025-01-14","source":"historical"},"1191800":{"rank":919,"estimate":"40k+","name":"City Block Builder","releaseDate":"2022-08-17","source":"historical"},"1480830":{"rank":1061,"estimate":"25k+","name":"Evil Tonight","releaseDate":"2021-10-14","source":"historical"},"1154090":{"rank":1108,"estimate":"25k+","name":"Kingdom Shell","releaseDate":"2023-10-05","source":"historical"},"1969960":{"rank":1489,"estimate":"25k+","name":"Super Hero Flash Fist","releaseDate":"2023-02-13","source":"historical"},"2437040":{"rank":1523,"estimate":"15k+","name":"Reigns: Three Kingdoms","releaseDate":"2024-01-11","source":"historical"},"1501690":{"rank":1658,"estimate":"15k+","name":"Dice Kingdoms","releaseDate":"2024-04-05","source":"historical"},"2193720":{"rank":1803,"estimate":"15k+","name":"Super Dark Deception","releaseDate":"2024-07-12","source":"historical"},"2789130":{"rank":2532,"estimate":"7k+","name":"Highway Police Simulator","releaseDate":"2024-12-05","source":"historical"},"2529750":{"rank":2966,"estimate":"7k+","name":"Raining City: Millions Recollections","releaseDate":"2025-08-25","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 23,
+  "entries": {
+    "1154090": {
+      "rank": 1108,
+      "estimate": "25k+",
+      "name": "Kingdom Shell",
+      "releaseDate": "2023-10-05",
+      "source": "historical"
+    },
+    "1191800": {
+      "rank": 919,
+      "estimate": "40k+",
+      "name": "City Block Builder",
+      "releaseDate": "2022-08-17",
+      "source": "historical"
+    },
+    "1215940": {
+      "rank": 520,
+      "estimate": "40k+",
+      "name": "Forever Ago",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "1339000": {
+      "rank": 493,
+      "estimate": "80k+",
+      "name": "Aquarium Designer",
+      "releaseDate": "2021-10-21",
+      "source": "historical"
+    },
+    "1443620": {
+      "rank": 832,
+      "estimate": "40k+",
+      "name": "Pirates VR: Jolly Roger",
+      "releaseDate": "2025-01-14",
+      "source": "historical"
+    },
+    "1446780": {
+      "rank": 12,
+      "estimate": "800k+",
+      "name": "MONSTER HUNTER RISE",
+      "releaseDate": "2022-01-12",
+      "source": "historical"
+    },
+    "1480830": {
+      "rank": 1061,
+      "estimate": "25k+",
+      "name": "Evil Tonight",
+      "releaseDate": "2021-10-14",
+      "source": "historical"
+    },
+    "1501690": {
+      "rank": 1658,
+      "estimate": "15k+",
+      "name": "Dice Kingdoms",
+      "releaseDate": "2024-04-05",
+      "source": "historical"
+    },
+    "1683950": {
+      "rank": 367,
+      "estimate": "80k+",
+      "name": "The Witch's Sexual Prison",
+      "releaseDate": "2022-01-25",
+      "source": "historical"
+    },
+    "1804470": {
+      "rank": 49,
+      "estimate": "600k+",
+      "name": "Duel Corp.",
+      "releaseDate": "2026-01-21",
+      "source": "historical"
+    },
+    "1839940": {
+      "rank": 753,
+      "estimate": "40k+",
+      "name": "Dakar Desert Rally",
+      "releaseDate": "2022-10-04",
+      "source": "historical"
+    },
+    "1969960": {
+      "rank": 1489,
+      "estimate": "25k+",
+      "name": "Super Hero Flash Fist",
+      "releaseDate": "2023-02-13",
+      "source": "historical"
+    },
+    "2193720": {
+      "rank": 1803,
+      "estimate": "15k+",
+      "name": "Super Dark Deception",
+      "releaseDate": "2024-07-12",
+      "source": "historical"
+    },
+    "2203290": {
+      "rank": 340,
+      "estimate": "80k+",
+      "name": "KaiJu Girls",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2400510": {
+      "rank": 218,
+      "estimate": "80k+",
+      "name": "Dungeons & Degenerate Gamblers",
+      "releaseDate": "2024-08-08",
+      "source": "historical"
+    },
+    "2437040": {
+      "rank": 1523,
+      "estimate": "15k+",
+      "name": "Reigns: Three Kingdoms",
+      "releaseDate": "2024-01-11",
+      "source": "historical"
+    },
+    "2528410": {
+      "rank": 27,
+      "estimate": "600k+",
+      "name": "Price for Freedom: Gold and Sand",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2529750": {
+      "rank": 2966,
+      "estimate": "7k+",
+      "name": "Raining City: Millions Recollections",
+      "releaseDate": "2025-08-25",
+      "source": "historical"
+    },
+    "2789130": {
+      "rank": 2532,
+      "estimate": "7k+",
+      "name": "Highway Police Simulator",
+      "releaseDate": "2024-12-05",
+      "source": "historical"
+    },
+    "2816870": {
+      "rank": 316,
+      "estimate": "80k+",
+      "name": "Mighty Morphin Power Rangers: Rita's Rewind",
+      "releaseDate": "2024-12-10",
+      "source": "historical"
+    },
+    "3164330": {
+      "rank": 8,
+      "estimate": "1.5m+",
+      "name": "Infinity Nikki",
+      "releaseDate": "2025-04-28",
+      "source": "historical"
+    },
+    "3168600": {
+      "rank": 48,
+      "estimate": "778k",
+      "actualWishlists": 777777,
+      "name": "Among Us 3D",
+      "releaseDate": "2025-05-06",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1796631172413086"
+    },
+    "3840230": {
+      "rank": 37,
+      "estimate": "600k+",
+      "name": "Adorable Adventures",
+      "releaseDate": "2026-04-30",
+      "source": "historical"
+    }
+  }
+}

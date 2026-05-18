@@ -1,1 +1,127 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":17,"entries":{"2456740":{"rank":1,"estimate":"4m+","name":"inZOI","releaseDate":"2025-03-27","source":"historical"},"1947500":{"rank":4,"estimate":"1.5m+","name":"The Walking Dead: Saints & Sinners - Chapter 2: Retribution","releaseDate":"2023-03-21","source":"historical"},"4243690":{"rank":38,"estimate":"600k+","name":"Chained Wheels","releaseDate":"2026-03-27","source":"historical"},"2119830":{"rank":39,"estimate":"600k+","name":"MISERY","releaseDate":"2025-10-23","source":"historical"},"2131630":{"rank":119,"estimate":"200k+","name":"METAL GEAR SOLID - Master Collection Version","releaseDate":"2023-10-24","source":"historical"},"1258220":{"rank":146,"estimate":"200k+","name":"Song of Iron","releaseDate":"2021-08-31","source":"historical"},"1872680":{"rank":247,"estimate":"80k+","name":"The Knight Witch","releaseDate":"2022-11-29","source":"historical"},"1304510":{"rank":567,"estimate":"40k+","name":"SCP: Nine-Tailed Fox","releaseDate":"2022-02-02","source":"historical"},"2863160":{"rank":568,"estimate":"40k+","name":"Projekt: Passion - Season 2","releaseDate":"2025-04-04","source":"historical"},"1744330":{"rank":692,"estimate":"40k+","name":"No More Heroes 3","releaseDate":"2022-10-11","source":"historical"},"912000":{"rank":895,"estimate":"40k+","name":"Mike goes on hike","releaseDate":"2026-05-01","source":"historical"},"1783780":{"rank":912,"estimate":"40k+","name":"OHV","releaseDate":"2024-12-18","source":"historical"},"2430700":{"rank":1161,"estimate":"25k+","name":"Love X Crotch X GYM","releaseDate":"2024-03-29","source":"historical"},"1985050":{"rank":1324,"estimate":"25k+","name":"Field of Glory: Kingdoms","releaseDate":"2024-06-04","source":"historical"},"2436940":{"rank":1331,"estimate":"25k+","name":"Sephiria","releaseDate":"2025-04-03","source":"historical"},"1613580":{"rank":1469,"estimate":"25k+","name":"ARRIVAL: ZERO EARTH","releaseDate":"2024-01-12","source":"historical"},"3044100":{"rank":2638,"estimate":"7k+","name":"Bat to the Heavens","releaseDate":"2024-12-09","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 17,
+  "entries": {
+    "912000": {
+      "rank": 895,
+      "estimate": "40k+",
+      "name": "Mike goes on hike",
+      "releaseDate": "2026-05-01",
+      "source": "historical"
+    },
+    "1258220": {
+      "rank": 146,
+      "estimate": "200k+",
+      "name": "Song of Iron",
+      "releaseDate": "2021-08-31",
+      "source": "historical"
+    },
+    "1304510": {
+      "rank": 567,
+      "estimate": "40k+",
+      "name": "SCP: Nine-Tailed Fox",
+      "releaseDate": "2022-02-02",
+      "source": "historical"
+    },
+    "1613580": {
+      "rank": 1469,
+      "estimate": "25k+",
+      "name": "ARRIVAL: ZERO EARTH",
+      "releaseDate": "2024-01-12",
+      "source": "historical"
+    },
+    "1744330": {
+      "rank": 692,
+      "estimate": "40k+",
+      "name": "No More Heroes 3",
+      "releaseDate": "2022-10-11",
+      "source": "historical"
+    },
+    "1783780": {
+      "rank": 912,
+      "estimate": "40k+",
+      "name": "OHV",
+      "releaseDate": "2024-12-18",
+      "source": "historical"
+    },
+    "1872680": {
+      "rank": 247,
+      "estimate": "80k+",
+      "name": "The Knight Witch",
+      "releaseDate": "2022-11-29",
+      "source": "historical"
+    },
+    "1947500": {
+      "rank": 4,
+      "estimate": "1.5m+",
+      "name": "The Walking Dead: Saints & Sinners - Chapter 2: Retribution",
+      "releaseDate": "2023-03-21",
+      "source": "historical"
+    },
+    "1985050": {
+      "rank": 1324,
+      "estimate": "25k+",
+      "name": "Field of Glory: Kingdoms",
+      "releaseDate": "2024-06-04",
+      "source": "historical"
+    },
+    "2119830": {
+      "rank": 39,
+      "estimate": "600k+",
+      "name": "MISERY",
+      "releaseDate": "2025-10-23",
+      "source": "historical"
+    },
+    "2131630": {
+      "rank": 119,
+      "estimate": "200k+",
+      "name": "METAL GEAR SOLID - Master Collection Version",
+      "releaseDate": "2023-10-24",
+      "source": "historical"
+    },
+    "2430700": {
+      "rank": 1161,
+      "estimate": "25k+",
+      "name": "Love X Crotch X GYM",
+      "releaseDate": "2024-03-29",
+      "source": "historical"
+    },
+    "2436940": {
+      "rank": 1331,
+      "estimate": "25k+",
+      "name": "Sephiria",
+      "releaseDate": "2025-04-03",
+      "source": "historical"
+    },
+    "2456740": {
+      "rank": 1,
+      "estimate": "4m+",
+      "name": "inZOI",
+      "releaseDate": "2025-03-27",
+      "source": "historical"
+    },
+    "2863160": {
+      "rank": 568,
+      "estimate": "40k+",
+      "name": "Projekt: Passion - Season 2",
+      "releaseDate": "2025-04-04",
+      "source": "historical"
+    },
+    "3044100": {
+      "rank": 2638,
+      "estimate": "7k+",
+      "name": "Bat to the Heavens",
+      "releaseDate": "2024-12-09",
+      "source": "historical"
+    },
+    "4243690": {
+      "rank": 38,
+      "estimate": "600k+",
+      "name": "Chained Wheels",
+      "releaseDate": "2026-03-27",
+      "source": "historical"
+    }
+  }
+}

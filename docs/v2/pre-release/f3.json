@@ -1,1 +1,183 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":25,"entries":{"1063730":{"rank":2,"estimate":"1.5m+","name":"New World: Aeternum","releaseDate":"2021-09-28","source":"historical"},"1079830":{"rank":17,"estimate":"800k+","name":"Cris Tales","releaseDate":"2021-07-20","source":"historical"},"3743090":{"rank":17,"estimate":"800k+","name":"Deadly Delivery","releaseDate":"2025-12-04","source":"historical"},"2420660":{"rank":28,"estimate":"600k+","name":"Neva","releaseDate":"2024-10-15","source":"historical"},"1296400":{"rank":35,"estimate":"600k+","name":"Architect Life: A House Design Simulator","releaseDate":"2025-06-19","source":"historical"},"971030":{"rank":137,"estimate":"200k+","name":"SkateBIRD","releaseDate":"2021-09-16","source":"historical"},"2085540":{"rank":222,"estimate":"80k+","name":"Stick It to the Stickman","releaseDate":"2025-08-18","source":"historical"},"1592500":{"rank":306,"estimate":"80k+","name":"FINAL FANTASY XIV: Endwalker","releaseDate":"2021-12-07","source":"historical"},"2071200":{"rank":640,"estimate":"40k+","name":"The Bad Kids","releaseDate":"2023-01-17","source":"historical"},"1998450":{"rank":729,"estimate":"40k+","name":"Black & White","releaseDate":"2023-03-16","source":"historical"},"685670":{"rank":825,"estimate":"40k+","name":"Know by heart","releaseDate":"2022-02-10","source":"historical"},"1515570":{"rank":937,"estimate":"40k+","name":"Elsie","releaseDate":"2024-09-10","source":"historical"},"1574900":{"rank":942,"estimate":"40k+","name":"Salt 2: Shores of Gold","releaseDate":"2025-11-12","source":"historical"},"1839430":{"rank":1151,"estimate":"25k+","name":"Dolls Nest","releaseDate":"2025-04-23","source":"historical"},"410740":{"rank":1177,"estimate":"25k+","name":"Flying Neko Delivery","releaseDate":"2022-10-20","source":"historical"},"511270":{"rank":1196,"estimate":"25k+","name":"Bounce Paradise","releaseDate":"2022-03-11","source":"historical"},"1968710":{"rank":1257,"estimate":"25k+","name":"MEATGRINDER","releaseDate":"2023-04-13","source":"historical"},"2420880":{"rank":1337,"estimate":"25k+","name":"WitchHand","releaseDate":"2024-02-07","source":"historical"},"2290870":{"rank":1544,"estimate":"15k+","name":"Clown Meat","releaseDate":"2026-01-01","source":"historical"},"1107340":{"rank":1610,"estimate":"15k+","name":"LONN","releaseDate":"2022-11-17","source":"historical"},"2658720":{"rank":1802,"estimate":"15k+","name":"Vampire: The Masquerade - Reckoning of New York","releaseDate":"2024-09-10","source":"historical"},"1840610":{"rank":1956,"estimate":"15k+","name":"Apocalyptic Vibes","releaseDate":"2023-03-01","source":"historical"},"2693710":{"rank":2040,"estimate":"7k+","name":"HARDCODED","releaseDate":"2024-11-04","source":"historical"},"2951340":{"rank":2118,"estimate":"7k+","name":"Moonless Moon","releaseDate":"2024-08-07","source":"historical"},"2347550":{"rank":2454,"estimate":"7k+","name":"Cowboy 3030","releaseDate":"2024-12-13","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 25,
+  "entries": {
+    "410740": {
+      "rank": 1177,
+      "estimate": "25k+",
+      "name": "Flying Neko Delivery",
+      "releaseDate": "2022-10-20",
+      "source": "historical"
+    },
+    "511270": {
+      "rank": 1196,
+      "estimate": "25k+",
+      "name": "Bounce Paradise",
+      "releaseDate": "2022-03-11",
+      "source": "historical"
+    },
+    "685670": {
+      "rank": 825,
+      "estimate": "40k+",
+      "name": "Know by heart",
+      "releaseDate": "2022-02-10",
+      "source": "historical"
+    },
+    "971030": {
+      "rank": 137,
+      "estimate": "200k+",
+      "name": "SkateBIRD",
+      "releaseDate": "2021-09-16",
+      "source": "historical"
+    },
+    "1063730": {
+      "rank": 2,
+      "estimate": "1.5m+",
+      "name": "New World: Aeternum",
+      "releaseDate": "2021-09-28",
+      "source": "historical"
+    },
+    "1079830": {
+      "rank": 17,
+      "estimate": "800k+",
+      "name": "Cris Tales",
+      "releaseDate": "2021-07-20",
+      "source": "historical"
+    },
+    "1107340": {
+      "rank": 1610,
+      "estimate": "15k+",
+      "name": "LONN",
+      "releaseDate": "2022-11-17",
+      "source": "historical"
+    },
+    "1296400": {
+      "rank": 35,
+      "estimate": "600k+",
+      "name": "Architect Life: A House Design Simulator",
+      "releaseDate": "2025-06-19",
+      "source": "historical"
+    },
+    "1515570": {
+      "rank": 937,
+      "estimate": "40k+",
+      "name": "Elsie",
+      "releaseDate": "2024-09-10",
+      "source": "historical"
+    },
+    "1574900": {
+      "rank": 942,
+      "estimate": "40k+",
+      "name": "Salt 2: Shores of Gold",
+      "releaseDate": "2025-11-12",
+      "source": "historical"
+    },
+    "1592500": {
+      "rank": 306,
+      "estimate": "80k+",
+      "name": "FINAL FANTASY XIV: Endwalker",
+      "releaseDate": "2021-12-07",
+      "source": "historical"
+    },
+    "1839430": {
+      "rank": 1151,
+      "estimate": "25k+",
+      "name": "Dolls Nest",
+      "releaseDate": "2025-04-23",
+      "source": "historical"
+    },
+    "1840610": {
+      "rank": 1956,
+      "estimate": "15k+",
+      "name": "Apocalyptic Vibes",
+      "releaseDate": "2023-03-01",
+      "source": "historical"
+    },
+    "1968710": {
+      "rank": 1257,
+      "estimate": "25k+",
+      "name": "MEATGRINDER",
+      "releaseDate": "2023-04-13",
+      "source": "historical"
+    },
+    "1998450": {
+      "rank": 729,
+      "estimate": "40k+",
+      "name": "Black & White",
+      "releaseDate": "2023-03-16",
+      "source": "historical"
+    },
+    "2071200": {
+      "rank": 640,
+      "estimate": "40k+",
+      "name": "The Bad Kids",
+      "releaseDate": "2023-01-17",
+      "source": "historical"
+    },
+    "2085540": {
+      "rank": 222,
+      "estimate": "80k+",
+      "name": "Stick It to the Stickman",
+      "releaseDate": "2025-08-18",
+      "source": "historical"
+    },
+    "2290870": {
+      "rank": 1544,
+      "estimate": "15k+",
+      "name": "Clown Meat",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2347550": {
+      "rank": 2454,
+      "estimate": "7k+",
+      "name": "Cowboy 3030",
+      "releaseDate": "2024-12-13",
+      "source": "historical"
+    },
+    "2420660": {
+      "rank": 28,
+      "estimate": "600k+",
+      "name": "Neva",
+      "releaseDate": "2024-10-15",
+      "source": "historical"
+    },
+    "2420880": {
+      "rank": 1337,
+      "estimate": "25k+",
+      "name": "WitchHand",
+      "releaseDate": "2024-02-07",
+      "source": "historical"
+    },
+    "2658720": {
+      "rank": 1802,
+      "estimate": "15k+",
+      "name": "Vampire: The Masquerade - Reckoning of New York",
+      "releaseDate": "2024-09-10",
+      "source": "historical"
+    },
+    "2693710": {
+      "rank": 2040,
+      "estimate": "7k+",
+      "name": "HARDCODED",
+      "releaseDate": "2024-11-04",
+      "source": "historical"
+    },
+    "2951340": {
+      "rank": 2118,
+      "estimate": "7k+",
+      "name": "Moonless Moon",
+      "releaseDate": "2024-08-07",
+      "source": "historical"
+    },
+    "3743090": {
+      "rank": 17,
+      "estimate": "800k+",
+      "name": "Deadly Delivery",
+      "releaseDate": "2025-12-04",
+      "source": "historical"
+    }
+  }
+}

@@ -1,1 +1,134 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":18,"entries":{"1245480":{"rank":8,"estimate":"1.5m+","name":"SYNDUALITY Echo of Ada","releaseDate":"2025-01-23","source":"historical"},"1875580":{"rank":34,"estimate":"600k+","name":"Mina the Hollower","releaseDate":"2026-05-28","source":"historical"},"1158850":{"rank":50,"estimate":"600k+","name":"The Great Ace Attorney Chronicles","releaseDate":"2021-07-26","source":"historical"},"2646460":{"rank":77,"estimate":"300k+","name":"Soulmask","releaseDate":"2026-04-09","source":"historical"},"1022980":{"rank":144,"estimate":"200k+","name":"Ostranauts","releaseDate":"2020-09-10","source":"historical"},"843810":{"rank":198,"estimate":"200k+","name":"A Perfect Day","releaseDate":"2022-02-24","source":"historical"},"2891710":{"rank":401,"estimate":"80k+","name":"Total War: WARHAMMER III - Malakai – Thrones of Decay","releaseDate":"2024-04-30","source":"historical"},"1931910":{"rank":404,"estimate":"80k+","name":"theHunter: Call of the Wild™ - Revontuli Coast","releaseDate":"2022-06-28","source":"historical"},"1369690":{"rank":693,"estimate":"40k+","name":"King's Orders","releaseDate":"2024-10-25","source":"historical"},"1562420":{"rank":827,"estimate":"40k+","name":"FOREWARNED","releaseDate":"2024-04-25","source":"historical"},"1934030":{"rank":1204,"estimate":"25k+","name":"Virtua Unlimited Project","releaseDate":"2024-04-24","source":"historical"},"2119490":{"rank":1282,"estimate":"25k+","name":"TRAHA Global","releaseDate":"2022-11-01","source":"historical"},"2004640":{"rank":1421,"estimate":"25k+","name":"Svarog's Dream","releaseDate":"2023-12-04","source":"historical"},"1489590":{"rank":1880,"estimate":"15k+","name":"Astronite","releaseDate":"2022-11-30","source":"historical"},"2103400":{"rank":1986,"estimate":"15k+","name":"百煉登神  Immortal Tales of Rebirth","releaseDate":"2024-01-25","source":"historical"},"1590230":{"rank":2035,"estimate":"7k+","name":"Tyrion Cuthbert: Attorney of the Arcane","releaseDate":"2023-06-23","source":"historical"},"2863610":{"rank":2688,"estimate":"7k+","name":"Trailmakers: Rescue Pack","releaseDate":"2024-04-24","source":"historical"},"1515000":{"rank":2979,"estimate":"7k+","name":"Wild Country","releaseDate":"2024-11-25","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 18,
+  "entries": {
+    "843810": {
+      "rank": 198,
+      "estimate": "200k+",
+      "name": "A Perfect Day",
+      "releaseDate": "2022-02-24",
+      "source": "historical"
+    },
+    "1022980": {
+      "rank": 144,
+      "estimate": "200k+",
+      "name": "Ostranauts",
+      "releaseDate": "2020-09-10",
+      "source": "historical"
+    },
+    "1158850": {
+      "rank": 50,
+      "estimate": "600k+",
+      "name": "The Great Ace Attorney Chronicles",
+      "releaseDate": "2021-07-26",
+      "source": "historical"
+    },
+    "1245480": {
+      "rank": 8,
+      "estimate": "1.5m+",
+      "name": "SYNDUALITY Echo of Ada",
+      "releaseDate": "2025-01-23",
+      "source": "historical"
+    },
+    "1369690": {
+      "rank": 693,
+      "estimate": "40k+",
+      "name": "King's Orders",
+      "releaseDate": "2024-10-25",
+      "source": "historical"
+    },
+    "1489590": {
+      "rank": 1880,
+      "estimate": "15k+",
+      "name": "Astronite",
+      "releaseDate": "2022-11-30",
+      "source": "historical"
+    },
+    "1515000": {
+      "rank": 2979,
+      "estimate": "7k+",
+      "name": "Wild Country",
+      "releaseDate": "2024-11-25",
+      "source": "historical"
+    },
+    "1562420": {
+      "rank": 827,
+      "estimate": "40k+",
+      "name": "FOREWARNED",
+      "releaseDate": "2024-04-25",
+      "source": "historical"
+    },
+    "1590230": {
+      "rank": 2035,
+      "estimate": "7k+",
+      "name": "Tyrion Cuthbert: Attorney of the Arcane",
+      "releaseDate": "2023-06-23",
+      "source": "historical"
+    },
+    "1875580": {
+      "rank": 34,
+      "estimate": "600k+",
+      "name": "Mina the Hollower",
+      "releaseDate": "2026-05-28",
+      "source": "historical"
+    },
+    "1931910": {
+      "rank": 404,
+      "estimate": "80k+",
+      "name": "theHunter: Call of the Wild™ - Revontuli Coast",
+      "releaseDate": "2022-06-28",
+      "source": "historical"
+    },
+    "1934030": {
+      "rank": 1204,
+      "estimate": "25k+",
+      "name": "Virtua Unlimited Project",
+      "releaseDate": "2024-04-24",
+      "source": "historical"
+    },
+    "2004640": {
+      "rank": 1421,
+      "estimate": "25k+",
+      "name": "Svarog's Dream",
+      "releaseDate": "2023-12-04",
+      "source": "historical"
+    },
+    "2103400": {
+      "rank": 1986,
+      "estimate": "15k+",
+      "name": "百煉登神  Immortal Tales of Rebirth",
+      "releaseDate": "2024-01-25",
+      "source": "historical"
+    },
+    "2119490": {
+      "rank": 1282,
+      "estimate": "25k+",
+      "name": "TRAHA Global",
+      "releaseDate": "2022-11-01",
+      "source": "historical"
+    },
+    "2646460": {
+      "rank": 77,
+      "estimate": "300k+",
+      "name": "Soulmask",
+      "releaseDate": "2026-04-09",
+      "source": "historical"
+    },
+    "2863610": {
+      "rank": 2688,
+      "estimate": "7k+",
+      "name": "Trailmakers: Rescue Pack",
+      "releaseDate": "2024-04-24",
+      "source": "historical"
+    },
+    "2891710": {
+      "rank": 401,
+      "estimate": "80k+",
+      "name": "Total War: WARHAMMER III - Malakai – Thrones of Decay",
+      "releaseDate": "2024-04-30",
+      "source": "historical"
+    }
+  }
+}

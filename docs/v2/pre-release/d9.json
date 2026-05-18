@@ -1,1 +1,136 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":18,"entries":{"1804010":{"rank":13,"estimate":"800k+","name":"Labyrinth Of The Demon King","releaseDate":"2025-05-13","source":"historical"},"1085220":{"rank":42,"estimate":"600k+","name":"Figment 2: Creed Valley","releaseDate":"2023-03-09","source":"historical"},"1725340":{"rank":50,"estimate":"600k+","name":"Elypse","releaseDate":"2023-05-17","source":"historical"},"1132980":{"rank":82,"estimate":"300k+","name":"There Is No Light: Enhanced Edition","releaseDate":"2022-09-19","source":"historical"},"2195250":{"rank":107,"estimate":"200k+","name":"EA SPORTS FC™ 24","releaseDate":"2023-09-28","source":"historical"},"976590":{"rank":197,"estimate":"200k+","name":"Bus Simulator 21 Next Stop","releaseDate":"2021-09-07","source":"historical"},"2428730":{"rank":251,"estimate":"80k+","name":"SWAT Commander: Prologue","releaseDate":"2025-04-04","source":"historical"},"1462810":{"rank":447,"estimate":"80k+","name":"WRC 10 FIA World Rally Championship","releaseDate":"2021-09-02","source":"historical"},"1887020":{"rank":452,"estimate":"80k+","name":"Robber Knight","releaseDate":"2022-07-22","source":"historical"},"1338580":{"rank":658,"estimate":"40k+","name":"McPixel 3","releaseDate":"2022-11-14","source":"historical"},"1574270":{"rank":690,"estimate":"40k+","name":"Sucker for Love: First Date","releaseDate":"2022-01-20","source":"historical"},"2852700":{"rank":706,"estimate":"100k","actualWishlists":100000,"name":"BUS: Bro u Survived","releaseDate":"2026-01-01","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1805431065404263"},"1844230":{"rank":956,"estimate":"40k+","name":"Malicious ReloadⅡ","releaseDate":"2023-09-05","source":"historical"},"1488810":{"rank":1146,"estimate":"25k+","name":"Rabbit Hole","releaseDate":"2022-09-10","source":"historical"},"2102320":{"rank":1326,"estimate":"25k+","name":"MISTROGUE: Mist and the Living Dungeons","releaseDate":"2023-10-26","source":"historical"},"2186360":{"rank":1582,"estimate":"15k+","name":"IDUN - Frontline Survival","releaseDate":"2025-01-20","source":"historical"},"2095950":{"rank":2065,"estimate":"7k+","name":"PAC-MAN Mega Tunnel Battle: Chomp Champs","releaseDate":"2024-05-08","source":"historical"},"1466230":{"rank":2714,"estimate":"7k+","name":"The Holy Gosh Darn","releaseDate":"2024-09-26","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 18,
+  "entries": {
+    "976590": {
+      "rank": 197,
+      "estimate": "200k+",
+      "name": "Bus Simulator 21 Next Stop",
+      "releaseDate": "2021-09-07",
+      "source": "historical"
+    },
+    "1085220": {
+      "rank": 42,
+      "estimate": "600k+",
+      "name": "Figment 2: Creed Valley",
+      "releaseDate": "2023-03-09",
+      "source": "historical"
+    },
+    "1132980": {
+      "rank": 82,
+      "estimate": "300k+",
+      "name": "There Is No Light: Enhanced Edition",
+      "releaseDate": "2022-09-19",
+      "source": "historical"
+    },
+    "1338580": {
+      "rank": 658,
+      "estimate": "40k+",
+      "name": "McPixel 3",
+      "releaseDate": "2022-11-14",
+      "source": "historical"
+    },
+    "1462810": {
+      "rank": 447,
+      "estimate": "80k+",
+      "name": "WRC 10 FIA World Rally Championship",
+      "releaseDate": "2021-09-02",
+      "source": "historical"
+    },
+    "1466230": {
+      "rank": 2714,
+      "estimate": "7k+",
+      "name": "The Holy Gosh Darn",
+      "releaseDate": "2024-09-26",
+      "source": "historical"
+    },
+    "1488810": {
+      "rank": 1146,
+      "estimate": "25k+",
+      "name": "Rabbit Hole",
+      "releaseDate": "2022-09-10",
+      "source": "historical"
+    },
+    "1574270": {
+      "rank": 690,
+      "estimate": "40k+",
+      "name": "Sucker for Love: First Date",
+      "releaseDate": "2022-01-20",
+      "source": "historical"
+    },
+    "1725340": {
+      "rank": 50,
+      "estimate": "600k+",
+      "name": "Elypse",
+      "releaseDate": "2023-05-17",
+      "source": "historical"
+    },
+    "1804010": {
+      "rank": 13,
+      "estimate": "800k+",
+      "name": "Labyrinth Of The Demon King",
+      "releaseDate": "2025-05-13",
+      "source": "historical"
+    },
+    "1844230": {
+      "rank": 956,
+      "estimate": "40k+",
+      "name": "Malicious ReloadⅡ",
+      "releaseDate": "2023-09-05",
+      "source": "historical"
+    },
+    "1887020": {
+      "rank": 452,
+      "estimate": "80k+",
+      "name": "Robber Knight",
+      "releaseDate": "2022-07-22",
+      "source": "historical"
+    },
+    "2095950": {
+      "rank": 2065,
+      "estimate": "7k+",
+      "name": "PAC-MAN Mega Tunnel Battle: Chomp Champs",
+      "releaseDate": "2024-05-08",
+      "source": "historical"
+    },
+    "2102320": {
+      "rank": 1326,
+      "estimate": "25k+",
+      "name": "MISTROGUE: Mist and the Living Dungeons",
+      "releaseDate": "2023-10-26",
+      "source": "historical"
+    },
+    "2186360": {
+      "rank": 1582,
+      "estimate": "15k+",
+      "name": "IDUN - Frontline Survival",
+      "releaseDate": "2025-01-20",
+      "source": "historical"
+    },
+    "2195250": {
+      "rank": 107,
+      "estimate": "200k+",
+      "name": "EA SPORTS FC™ 24",
+      "releaseDate": "2023-09-28",
+      "source": "historical"
+    },
+    "2428730": {
+      "rank": 251,
+      "estimate": "80k+",
+      "name": "SWAT Commander: Prologue",
+      "releaseDate": "2025-04-04",
+      "source": "historical"
+    },
+    "2852700": {
+      "rank": 706,
+      "estimate": "100k",
+      "actualWishlists": 100000,
+      "name": "BUS: Bro u Survived",
+      "releaseDate": "2026-01-01",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1805431065404263"
+    }
+  }
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-17T19:37:56.564Z",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
   "entryCount": 14,
   "entries": {
     "744200": {
-      "rank": 2812,
+      "rank": 2813,
       "estimate": "7k+",
       "name": "Altiros"
     },
@@ -15,27 +15,27 @@
       "name": "Necrofugitive"
     },
     "1218780": {
-      "rank": 2824,
+      "rank": 2825,
       "estimate": "7k+",
       "name": "Little Shop of Junk"
     },
     "1795090": {
-      "rank": 3784,
+      "rank": 3781,
       "estimate": "<7k",
       "name": "Monastery Builder"
     },
     "1883360": {
-      "rank": 1488,
+      "rank": 1489,
       "estimate": "25k+",
       "name": "The White Raven"
     },
     "2482760": {
-      "rank": 1502,
+      "rank": 1501,
       "estimate": "15k+",
       "name": "Hunting Simulator 3"
     },
     "2792540": {
-      "rank": 2952,
+      "rank": 2954,
       "estimate": "7k+",
       "name": "Anima Keeper"
     },
@@ -50,27 +50,29 @@
       "name": "Dust & Diesel: Deadland Delivery"
     },
     "3725190": {
-      "rank": 457,
+      "rank": 455,
       "estimate": "80k+",
       "name": "There Are No Ghosts at the Grand"
     },
     "3768760": {
       "rank": 19,
       "estimate": "800k+",
-      "name": "007 First Light"
+      "name": "007 First Light",
+      "actualWishlists": 3000000,
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821318455"
     },
     "3812830": {
-      "rank": 1256,
+      "rank": 1257,
       "estimate": "25k+",
       "name": "Tiny Delivery"
     },
     "4232910": {
-      "rank": 4142,
+      "rank": 4137,
       "estimate": "<7k",
       "name": "Crusader Kings III: Silk & Silver"
     },
     "4570720": {
-      "rank": 483,
+      "rank": 480,
       "estimate": "80k+",
       "name": "DragonSword : Awakening"
     }

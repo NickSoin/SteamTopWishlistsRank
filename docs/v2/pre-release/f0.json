@@ -1,1 +1,203 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":27,"entries":{"2246340":{"rank":1,"estimate":"4m+","name":"Monster Hunter Wilds","releaseDate":"2025-02-27","source":"historical"},"3172310":{"rank":34,"estimate":"600k+","name":"Sex Desert: Mad Lust","releaseDate":"2025-03-29","source":"historical"},"1364780":{"rank":46,"estimate":"600k+","name":"Street Fighter™ 6","releaseDate":"2023-06-01","source":"historical"},"1548850":{"rank":49,"estimate":"600k+","name":"Six Days in Fallujah","releaseDate":"2023-06-22","source":"historical"},"1119980":{"rank":224,"estimate":"80k+","name":"In Sound Mind","releaseDate":"2021-09-28","source":"historical"},"1590910":{"rank":263,"estimate":"80k+","name":"Forgive Me Father","releaseDate":"2022-04-07","source":"historical"},"964020":{"rank":272,"estimate":"80k+","name":"Make Your Kingdom","releaseDate":"2022-01-20","source":"historical"},"1125510":{"rank":308,"estimate":"100k","actualWishlists":100000,"name":"Snacko","releaseDate":"2025-05-25","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5746109972546739340"},"1543280":{"rank":313,"estimate":"80k+","name":"Espresso Tycoon","releaseDate":"2023-06-07","source":"historical"},"2379910":{"rank":515,"estimate":"40k+","name":"Dystopika","releaseDate":"2024-06-21","source":"historical"},"2094910":{"rank":517,"estimate":"20k","actualWishlists":20000,"name":"Pile Up!","releaseDate":"2025-07-23","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4836332027667365288"},"1514950":{"rank":563,"estimate":"40k+","name":"Neodash","releaseDate":"2022-08-17","source":"historical"},"2383120":{"rank":677,"estimate":"40k+","name":"Garten of Banban 4","releaseDate":"2023-08-11","source":"historical"},"721700":{"rank":679,"estimate":"40k+","name":"Holomento","releaseDate":"2022-04-27","source":"historical"},"1782670":{"rank":682,"estimate":"40k+","name":"Tru Or Die","releaseDate":"2023-12-11","source":"historical"},"1793030":{"rank":823,"estimate":"40k+","name":"Romancing SaGa -Minstrel Song- Remastered","releaseDate":"2022-12-01","source":"historical"},"1450250":{"rank":875,"estimate":"40k+","name":"Distant Bloom","releaseDate":"2024-03-27","source":"historical"},"2100431":{"rank":893,"estimate":"40k+","name":"Solasta: Crown of the Magister - Palace of Ice","releaseDate":"2023-05-25","source":"historical"},"1320490":{"rank":1003,"estimate":"25k+","name":"Princess Farmer","releaseDate":"2022-03-31","source":"historical"},"2082320":{"rank":1203,"estimate":"25k+","name":"The Master's Pupil","releaseDate":"2023-07-28","source":"historical"},"1977610":{"rank":1267,"estimate":"200k","actualWishlists":200000,"name":"Long Gone","releaseDate":"2027-01-01","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1808601382522882"},"1360810":{"rank":1284,"estimate":"25k+","name":"Office Life","releaseDate":"2024-12-17","source":"historical"},"2643040":{"rank":1378,"estimate":"25k+","name":"Hunt: Showdown 1896 - The Shadow Under the Cowl","releaseDate":"2024-01-18","source":"historical"},"1608590":{"rank":1781,"estimate":"15k+","name":"Thyria","releaseDate":"2024-09-30","source":"historical"},"2906370":{"rank":1904,"estimate":"15k+","name":"Bright Lord","releaseDate":"2024-11-08","source":"historical"},"2475010":{"rank":2219,"estimate":"7k+","name":"Pizza Bandit","releaseDate":"2025-08-25","source":"historical"},"2544570":{"rank":2466,"estimate":"7k+","name":"LumineNight","releaseDate":"2024-11-28","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 27,
+  "entries": {
+    "721700": {
+      "rank": 679,
+      "estimate": "40k+",
+      "name": "Holomento",
+      "releaseDate": "2022-04-27",
+      "source": "historical"
+    },
+    "964020": {
+      "rank": 272,
+      "estimate": "80k+",
+      "name": "Make Your Kingdom",
+      "releaseDate": "2022-01-20",
+      "source": "historical"
+    },
+    "1119980": {
+      "rank": 224,
+      "estimate": "80k+",
+      "name": "In Sound Mind",
+      "releaseDate": "2021-09-28",
+      "source": "historical"
+    },
+    "1125510": {
+      "rank": 308,
+      "estimate": "100k",
+      "actualWishlists": 100000,
+      "name": "Snacko",
+      "releaseDate": "2025-05-25",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5746109972546739340"
+    },
+    "1320490": {
+      "rank": 1003,
+      "estimate": "25k+",
+      "name": "Princess Farmer",
+      "releaseDate": "2022-03-31",
+      "source": "historical"
+    },
+    "1360810": {
+      "rank": 1284,
+      "estimate": "25k+",
+      "name": "Office Life",
+      "releaseDate": "2024-12-17",
+      "source": "historical"
+    },
+    "1364780": {
+      "rank": 46,
+      "estimate": "600k+",
+      "name": "Street Fighter™ 6",
+      "releaseDate": "2023-06-01",
+      "source": "historical"
+    },
+    "1450250": {
+      "rank": 875,
+      "estimate": "40k+",
+      "name": "Distant Bloom",
+      "releaseDate": "2024-03-27",
+      "source": "historical"
+    },
+    "1514950": {
+      "rank": 563,
+      "estimate": "40k+",
+      "name": "Neodash",
+      "releaseDate": "2022-08-17",
+      "source": "historical"
+    },
+    "1543280": {
+      "rank": 313,
+      "estimate": "80k+",
+      "name": "Espresso Tycoon",
+      "releaseDate": "2023-06-07",
+      "source": "historical"
+    },
+    "1548850": {
+      "rank": 49,
+      "estimate": "600k+",
+      "name": "Six Days in Fallujah",
+      "releaseDate": "2023-06-22",
+      "source": "historical"
+    },
+    "1590910": {
+      "rank": 263,
+      "estimate": "80k+",
+      "name": "Forgive Me Father",
+      "releaseDate": "2022-04-07",
+      "source": "historical"
+    },
+    "1608590": {
+      "rank": 1781,
+      "estimate": "15k+",
+      "name": "Thyria",
+      "releaseDate": "2024-09-30",
+      "source": "historical"
+    },
+    "1782670": {
+      "rank": 682,
+      "estimate": "40k+",
+      "name": "Tru Or Die",
+      "releaseDate": "2023-12-11",
+      "source": "historical"
+    },
+    "1793030": {
+      "rank": 823,
+      "estimate": "40k+",
+      "name": "Romancing SaGa -Minstrel Song- Remastered",
+      "releaseDate": "2022-12-01",
+      "source": "historical"
+    },
+    "1977610": {
+      "rank": 1267,
+      "estimate": "200k",
+      "actualWishlists": 200000,
+      "name": "Long Gone",
+      "releaseDate": "2027-01-01",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1808601382522882"
+    },
+    "2082320": {
+      "rank": 1203,
+      "estimate": "25k+",
+      "name": "The Master's Pupil",
+      "releaseDate": "2023-07-28",
+      "source": "historical"
+    },
+    "2094910": {
+      "rank": 517,
+      "estimate": "20k",
+      "actualWishlists": 20000,
+      "name": "Pile Up!",
+      "releaseDate": "2025-07-23",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4836332027667365288"
+    },
+    "2100431": {
+      "rank": 893,
+      "estimate": "40k+",
+      "name": "Solasta: Crown of the Magister - Palace of Ice",
+      "releaseDate": "2023-05-25",
+      "source": "historical"
+    },
+    "2246340": {
+      "rank": 1,
+      "estimate": "4m+",
+      "name": "Monster Hunter Wilds",
+      "releaseDate": "2025-02-27",
+      "source": "historical"
+    },
+    "2379910": {
+      "rank": 515,
+      "estimate": "40k+",
+      "name": "Dystopika",
+      "releaseDate": "2024-06-21",
+      "source": "historical"
+    },
+    "2383120": {
+      "rank": 677,
+      "estimate": "40k+",
+      "name": "Garten of Banban 4",
+      "releaseDate": "2023-08-11",
+      "source": "historical"
+    },
+    "2475010": {
+      "rank": 2219,
+      "estimate": "7k+",
+      "name": "Pizza Bandit",
+      "releaseDate": "2025-08-25",
+      "source": "historical"
+    },
+    "2544570": {
+      "rank": 2466,
+      "estimate": "7k+",
+      "name": "LumineNight",
+      "releaseDate": "2024-11-28",
+      "source": "historical"
+    },
+    "2643040": {
+      "rank": 1378,
+      "estimate": "25k+",
+      "name": "Hunt: Showdown 1896 - The Shadow Under the Cowl",
+      "releaseDate": "2024-01-18",
+      "source": "historical"
+    },
+    "2906370": {
+      "rank": 1904,
+      "estimate": "15k+",
+      "name": "Bright Lord",
+      "releaseDate": "2024-11-08",
+      "source": "historical"
+    },
+    "3172310": {
+      "rank": 34,
+      "estimate": "600k+",
+      "name": "Sex Desert: Mad Lust",
+      "releaseDate": "2025-03-29",
+      "source": "historical"
+    }
+  }
+}

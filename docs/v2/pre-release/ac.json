@@ -1,1 +1,164 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":22,"entries":{"1088750":{"rank":15,"estimate":"800k+","name":"Soda Story - Brewing Tycoon","releaseDate":"2022-07-21","source":"historical"},"2917040":{"rank":30,"estimate":"600k+","name":"Garten of Banban 8: Anti Devil","releaseDate":"2025-08-28","source":"historical"},"1182900":{"rank":37,"estimate":"600k+","name":"A Plague Tale: Requiem","releaseDate":"2022-10-17","source":"historical"},"1469610":{"rank":76,"estimate":"300k+","name":"Last Train Home","releaseDate":"2023-11-28","source":"historical"},"1367590":{"rank":252,"estimate":"80k+","name":"Tormented Souls","releaseDate":"2021-08-26","source":"historical"},"978700":{"rank":273,"estimate":"80k+","name":"Ironsmith Medieval Simulator","releaseDate":"2022-03-09","source":"historical"},"1537830":{"rank":334,"estimate":"350k","actualWishlists":350000,"name":"Disney Speedstorm","releaseDate":"2023-04-18","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5125698536858145323"},"1668530":{"rank":634,"estimate":"40k+","name":"The Legend of Nayuta: Boundless Trails","releaseDate":"2021-12-10","source":"historical"},"1168690":{"rank":646,"estimate":"40k+","name":"HELLSEED: All Chapters","releaseDate":"2024-10-31","source":"historical"},"1778280":{"rank":686,"estimate":"40k+","name":"Rescuing You in the Infinite Loop","releaseDate":"2022-06-23","source":"historical"},"1162700":{"rank":903,"estimate":"40k+","name":"Midnight Protocol","releaseDate":"2021-10-13","source":"historical"},"1976950":{"rank":1026,"estimate":"25k+","name":"Desktop Dungeons: Rewind","releaseDate":"2023-04-18","source":"historical"},"2206270":{"rank":1067,"estimate":"25k+","name":"Vampire Hunters","releaseDate":"2024-10-30","source":"historical"},"977510":{"rank":1079,"estimate":"25k+","name":"Time to Morp","releaseDate":"2025-03-06","source":"historical"},"1234180":{"rank":1118,"estimate":"25k+","name":"Moons Of Darsalon","releaseDate":"2023-04-19","source":"historical"},"1506980":{"rank":1209,"estimate":"25k+","name":"Lay a Beauty to Rest: The Darkness Peach Blossom Spring","releaseDate":"2021-10-21","source":"historical"},"1295000":{"rank":1618,"estimate":"15k+","name":"The Last Shot","releaseDate":"2023-02-16","source":"historical"},"2589920":{"rank":1626,"estimate":"15k+","name":"SERAPH : In the Darkness","releaseDate":"2025-03-06","source":"historical"},"2532430":{"rank":1665,"estimate":"15k+","name":"Supernormal","releaseDate":"2024-01-08","source":"historical"},"2287970":{"rank":1962,"estimate":"15k+","name":"Dungeon's Legion","releaseDate":"2023-10-13","source":"historical"},"1969860":{"rank":2013,"estimate":"7k+","name":"MACHI KORO With Everyone","releaseDate":"2024-07-04","source":"historical"},"2092840":{"rank":2396,"estimate":"7k+","name":"The Occultist","releaseDate":"2026-04-08","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 22,
+  "entries": {
+    "977510": {
+      "rank": 1079,
+      "estimate": "25k+",
+      "name": "Time to Morp",
+      "releaseDate": "2025-03-06",
+      "source": "historical"
+    },
+    "978700": {
+      "rank": 273,
+      "estimate": "80k+",
+      "name": "Ironsmith Medieval Simulator",
+      "releaseDate": "2022-03-09",
+      "source": "historical"
+    },
+    "1088750": {
+      "rank": 15,
+      "estimate": "800k+",
+      "name": "Soda Story - Brewing Tycoon",
+      "releaseDate": "2022-07-21",
+      "source": "historical"
+    },
+    "1162700": {
+      "rank": 903,
+      "estimate": "40k+",
+      "name": "Midnight Protocol",
+      "releaseDate": "2021-10-13",
+      "source": "historical"
+    },
+    "1168690": {
+      "rank": 646,
+      "estimate": "40k+",
+      "name": "HELLSEED: All Chapters",
+      "releaseDate": "2024-10-31",
+      "source": "historical"
+    },
+    "1182900": {
+      "rank": 37,
+      "estimate": "600k+",
+      "name": "A Plague Tale: Requiem",
+      "releaseDate": "2022-10-17",
+      "source": "historical"
+    },
+    "1234180": {
+      "rank": 1118,
+      "estimate": "25k+",
+      "name": "Moons Of Darsalon",
+      "releaseDate": "2023-04-19",
+      "source": "historical"
+    },
+    "1295000": {
+      "rank": 1618,
+      "estimate": "15k+",
+      "name": "The Last Shot",
+      "releaseDate": "2023-02-16",
+      "source": "historical"
+    },
+    "1367590": {
+      "rank": 252,
+      "estimate": "80k+",
+      "name": "Tormented Souls",
+      "releaseDate": "2021-08-26",
+      "source": "historical"
+    },
+    "1469610": {
+      "rank": 76,
+      "estimate": "300k+",
+      "name": "Last Train Home",
+      "releaseDate": "2023-11-28",
+      "source": "historical"
+    },
+    "1506980": {
+      "rank": 1209,
+      "estimate": "25k+",
+      "name": "Lay a Beauty to Rest: The Darkness Peach Blossom Spring",
+      "releaseDate": "2021-10-21",
+      "source": "historical"
+    },
+    "1537830": {
+      "rank": 334,
+      "estimate": "350k",
+      "actualWishlists": 350000,
+      "name": "Disney Speedstorm",
+      "releaseDate": "2023-04-18",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5125698536858145323"
+    },
+    "1668530": {
+      "rank": 634,
+      "estimate": "40k+",
+      "name": "The Legend of Nayuta: Boundless Trails",
+      "releaseDate": "2021-12-10",
+      "source": "historical"
+    },
+    "1778280": {
+      "rank": 686,
+      "estimate": "40k+",
+      "name": "Rescuing You in the Infinite Loop",
+      "releaseDate": "2022-06-23",
+      "source": "historical"
+    },
+    "1969860": {
+      "rank": 2013,
+      "estimate": "7k+",
+      "name": "MACHI KORO With Everyone",
+      "releaseDate": "2024-07-04",
+      "source": "historical"
+    },
+    "1976950": {
+      "rank": 1026,
+      "estimate": "25k+",
+      "name": "Desktop Dungeons: Rewind",
+      "releaseDate": "2023-04-18",
+      "source": "historical"
+    },
+    "2092840": {
+      "rank": 2396,
+      "estimate": "7k+",
+      "name": "The Occultist",
+      "releaseDate": "2026-04-08",
+      "source": "historical"
+    },
+    "2206270": {
+      "rank": 1067,
+      "estimate": "25k+",
+      "name": "Vampire Hunters",
+      "releaseDate": "2024-10-30",
+      "source": "historical"
+    },
+    "2287970": {
+      "rank": 1962,
+      "estimate": "15k+",
+      "name": "Dungeon's Legion",
+      "releaseDate": "2023-10-13",
+      "source": "historical"
+    },
+    "2532430": {
+      "rank": 1665,
+      "estimate": "15k+",
+      "name": "Supernormal",
+      "releaseDate": "2024-01-08",
+      "source": "historical"
+    },
+    "2589920": {
+      "rank": 1626,
+      "estimate": "15k+",
+      "name": "SERAPH : In the Darkness",
+      "releaseDate": "2025-03-06",
+      "source": "historical"
+    },
+    "2917040": {
+      "rank": 30,
+      "estimate": "600k+",
+      "name": "Garten of Banban 8: Anti Devil",
+      "releaseDate": "2025-08-28",
+      "source": "historical"
+    }
+  }
+}

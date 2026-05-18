@@ -1,36 +1,38 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-17T19:37:56.564Z",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
   "entryCount": 16,
   "entries": {
     "951770": {
-      "rank": 433,
+      "rank": 434,
       "estimate": "80k+",
-      "name": "Forsaken Realms: Vahrin's Call"
+      "name": "Forsaken Realms: Vahrin's Call",
+      "actualWishlists": 10000,
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4038025325473072318"
     },
     "1143910": {
-      "rank": 2483,
+      "rank": 2484,
       "estimate": "7k+",
       "name": "DeathTower"
     },
     "1730460": {
-      "rank": 2213,
+      "rank": 2217,
       "estimate": "7k+",
       "name": "Nainai’s Recipe"
     },
     "1736220": {
-      "rank": 1167,
+      "rank": 1169,
       "estimate": "25k+",
       "name": "Might of Merchants"
     },
     "1784650": {
-      "rank": 2291,
+      "rank": 2292,
       "estimate": "7k+",
       "name": "BOSS FIGHTERS"
     },
     "1916800": {
-      "rank": 2726,
+      "rank": 2728,
       "estimate": "7k+",
       "name": "More Ore - The Incremental Idle RPG"
     },
@@ -40,22 +42,22 @@
       "name": "Timeless Heart VR"
     },
     "2344680": {
-      "rank": 3185,
+      "rank": 3183,
       "estimate": "<7k",
       "name": "Super VHS"
     },
     "2390780": {
-      "rank": 3219,
+      "rank": 3218,
       "estimate": "<7k",
       "name": "1984"
     },
     "2559370": {
-      "rank": 482,
+      "rank": 484,
       "estimate": "80k+",
       "name": "The Scramble Vice"
     },
     "3072120": {
-      "rank": 1961,
+      "rank": 1962,
       "estimate": "15k+",
       "name": "Backrooms Lost Runners"
     },
@@ -65,7 +67,7 @@
       "name": "Rhythm Hotel"
     },
     "3312130": {
-      "rank": 1385,
+      "rank": 1387,
       "estimate": "25k+",
       "name": "Factory Town 2: Paradise"
     },
@@ -80,7 +82,7 @@
       "name": "Parasensor"
     },
     "3772190": {
-      "rank": 1554,
+      "rank": 1553,
       "estimate": "15k+",
       "name": "HALLOW BLADE"
     }

@@ -1,1 +1,157 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":21,"entries":{"1206560":{"rank":5,"estimate":"1.5m+","name":"WorldBox - God Simulator","releaseDate":"2021-12-02","source":"historical"},"1203620":{"rank":8,"estimate":"1.5m+","name":"Enshrouded","releaseDate":"2024-01-24","source":"historical"},"3894440":{"rank":10,"estimate":"1.5m+","name":"NO BACKUP","releaseDate":"2026-05-09","source":"historical"},"2104890":{"rank":17,"estimate":"800k+","name":"RoadCraft","releaseDate":"2025-05-20","source":"historical"},"1172470":{"rank":18,"estimate":"800k+","name":"Apex Legends™","releaseDate":"2020-11-04","source":"historical"},"1545560":{"rank":87,"estimate":"300k+","name":"Shadow Gambit: The Cursed Crew","releaseDate":"2023-08-17","source":"historical"},"1979440":{"rank":136,"estimate":"200k+","name":"SAND LAND","releaseDate":"2024-04-25","source":"historical"},"1794960":{"rank":273,"estimate":"80k+","name":"Sonic Origins","releaseDate":"2022-06-22","source":"historical"},"1328840":{"rank":515,"estimate":"40k+","name":"Lost in Play","releaseDate":"2022-08-10","source":"historical"},"2609610":{"rank":548,"estimate":"40k+","name":"CONVRGENCE","releaseDate":"2024-04-22","source":"historical"},"2210520":{"rank":564,"estimate":"100k","actualWishlists":100000,"name":"COPA CITY","releaseDate":"2026-06-16","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012614030400"},"1726150":{"rank":651,"estimate":"40k+","name":"Planet Zoo: Europe Pack","releaseDate":"2021-12-14","source":"historical"},"1471780":{"rank":828,"estimate":"40k+","name":"Almastriga: Relics of Azathoth","releaseDate":"2023-07-24","source":"historical"},"1937820":{"rank":1368,"estimate":"25k+","name":"Tavernacle!","releaseDate":"2023-09-11","source":"historical"},"2177430":{"rank":1486,"estimate":"25k+","name":"Jurassic World Evolution 2: Dominion Malta Expansion","releaseDate":"2022-12-08","source":"historical"},"2604600":{"rank":1967,"estimate":"15k+","name":"Loi The Lover","releaseDate":"2024-05-13","source":"historical"},"1795570":{"rank":1973,"estimate":"15k+","name":"Aground Zero","releaseDate":"2025-04-04","source":"historical"},"2438090":{"rank":2224,"estimate":"7k+","name":"A Void Hope","releaseDate":"2024-02-29","source":"historical"},"2700610":{"rank":2479,"estimate":"7k+","name":"Assetto Corsa Competizione - 24H Nürburgring Pack","releaseDate":"2024-04-01","source":"historical"},"2334330":{"rank":2911,"estimate":"7k+","name":"CASSETTE BOY","releaseDate":"2026-01-14","source":"historical"},"2068190":{"rank":3072,"estimate":"<7k","name":"Almost My Floor: Duality","releaseDate":"2026-01-01","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 21,
+  "entries": {
+    "1172470": {
+      "rank": 18,
+      "estimate": "800k+",
+      "name": "Apex Legends™",
+      "releaseDate": "2020-11-04",
+      "source": "historical"
+    },
+    "1203620": {
+      "rank": 8,
+      "estimate": "1.5m+",
+      "name": "Enshrouded",
+      "releaseDate": "2024-01-24",
+      "source": "historical"
+    },
+    "1206560": {
+      "rank": 5,
+      "estimate": "1.5m+",
+      "name": "WorldBox - God Simulator",
+      "releaseDate": "2021-12-02",
+      "source": "historical"
+    },
+    "1328840": {
+      "rank": 515,
+      "estimate": "40k+",
+      "name": "Lost in Play",
+      "releaseDate": "2022-08-10",
+      "source": "historical"
+    },
+    "1471780": {
+      "rank": 828,
+      "estimate": "40k+",
+      "name": "Almastriga: Relics of Azathoth",
+      "releaseDate": "2023-07-24",
+      "source": "historical"
+    },
+    "1545560": {
+      "rank": 87,
+      "estimate": "300k+",
+      "name": "Shadow Gambit: The Cursed Crew",
+      "releaseDate": "2023-08-17",
+      "source": "historical"
+    },
+    "1726150": {
+      "rank": 651,
+      "estimate": "40k+",
+      "name": "Planet Zoo: Europe Pack",
+      "releaseDate": "2021-12-14",
+      "source": "historical"
+    },
+    "1794960": {
+      "rank": 273,
+      "estimate": "80k+",
+      "name": "Sonic Origins",
+      "releaseDate": "2022-06-22",
+      "source": "historical"
+    },
+    "1795570": {
+      "rank": 1973,
+      "estimate": "15k+",
+      "name": "Aground Zero",
+      "releaseDate": "2025-04-04",
+      "source": "historical"
+    },
+    "1937820": {
+      "rank": 1368,
+      "estimate": "25k+",
+      "name": "Tavernacle!",
+      "releaseDate": "2023-09-11",
+      "source": "historical"
+    },
+    "1979440": {
+      "rank": 136,
+      "estimate": "200k+",
+      "name": "SAND LAND",
+      "releaseDate": "2024-04-25",
+      "source": "historical"
+    },
+    "2068190": {
+      "rank": 3072,
+      "estimate": "<7k",
+      "name": "Almost My Floor: Duality",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2104890": {
+      "rank": 17,
+      "estimate": "800k+",
+      "name": "RoadCraft",
+      "releaseDate": "2025-05-20",
+      "source": "historical"
+    },
+    "2177430": {
+      "rank": 1486,
+      "estimate": "25k+",
+      "name": "Jurassic World Evolution 2: Dominion Malta Expansion",
+      "releaseDate": "2022-12-08",
+      "source": "historical"
+    },
+    "2210520": {
+      "rank": 564,
+      "estimate": "100k",
+      "actualWishlists": 100000,
+      "name": "COPA CITY",
+      "releaseDate": "2026-06-16",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012614030400"
+    },
+    "2334330": {
+      "rank": 2911,
+      "estimate": "7k+",
+      "name": "CASSETTE BOY",
+      "releaseDate": "2026-01-14",
+      "source": "historical"
+    },
+    "2438090": {
+      "rank": 2224,
+      "estimate": "7k+",
+      "name": "A Void Hope",
+      "releaseDate": "2024-02-29",
+      "source": "historical"
+    },
+    "2604600": {
+      "rank": 1967,
+      "estimate": "15k+",
+      "name": "Loi The Lover",
+      "releaseDate": "2024-05-13",
+      "source": "historical"
+    },
+    "2609610": {
+      "rank": 548,
+      "estimate": "40k+",
+      "name": "CONVRGENCE",
+      "releaseDate": "2024-04-22",
+      "source": "historical"
+    },
+    "2700610": {
+      "rank": 2479,
+      "estimate": "7k+",
+      "name": "Assetto Corsa Competizione - 24H Nürburgring Pack",
+      "releaseDate": "2024-04-01",
+      "source": "historical"
+    },
+    "3894440": {
+      "rank": 10,
+      "estimate": "1.5m+",
+      "name": "NO BACKUP",
+      "releaseDate": "2026-05-09",
+      "source": "historical"
+    }
+  }
+}

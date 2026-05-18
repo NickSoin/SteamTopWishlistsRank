@@ -1,1 +1,171 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":23,"entries":{"924970":{"rank":3,"estimate":"1.5m+","name":"Back 4 Blood","releaseDate":"2021-10-12","source":"historical"},"645390":{"rank":11,"estimate":"800k+","name":"Factorio: Space Age","releaseDate":"2024-10-21","source":"historical"},"1231840":{"rank":27,"estimate":"600k+","name":"Climber: Sky is the Limit","releaseDate":"2022-11-21","source":"historical"},"2753930":{"rank":42,"estimate":"600k+","name":"Vikings Dynasty","releaseDate":"2026-01-01","source":"historical"},"986040":{"rank":43,"estimate":"600k+","name":"The Unliving","releaseDate":"2023-10-26","source":"historical"},"1337760":{"rank":46,"estimate":"600k+","name":"Potion Permit","releaseDate":"2022-09-22","source":"historical"},"2201710":{"rank":201,"estimate":"80k+","name":"Three Kingdoms Zhao Yun","releaseDate":"2024-01-17","source":"historical"},"2497900":{"rank":240,"estimate":"80k+","name":"DON'T SCREAM","releaseDate":"2024-10-28","source":"historical"},"2325830":{"rank":491,"estimate":"80k+","name":"Total War: WARHAMMER III - Shadows of Change","releaseDate":"2023-08-31","source":"historical"},"423640":{"rank":509,"estimate":"40k+","name":"Maid Cafe","releaseDate":"2023-08-25","source":"historical"},"1320140":{"rank":528,"estimate":"40k+","name":"Small Saga","releaseDate":"2023-11-16","source":"historical"},"1016180":{"rank":532,"estimate":"40k+","name":"Terror of Hemasaurus","releaseDate":"2022-10-17","source":"historical"},"1608040":{"rank":597,"estimate":"40k+","name":"Castle Morihisa","releaseDate":"2022-02-10","source":"historical"},"2100020":{"rank":658,"estimate":"40k+","name":"Lou's Lagoon","releaseDate":"2026-01-01","source":"historical"},"1802880":{"rank":666,"estimate":"40k+","name":"The Devil Within: Satgat","releaseDate":"2024-11-20","source":"historical"},"1550840":{"rank":1372,"estimate":"25k+","name":"RATUZ","releaseDate":"2022-04-22","source":"historical"},"981830":{"rank":1481,"estimate":"25k+","name":"GIGABUSTER","releaseDate":"2022-10-03","source":"historical"},"1850050":{"rank":1506,"estimate":"15k+","name":"Alien: Rogue Incursion VR","releaseDate":"2024-12-19","source":"historical"},"2355150":{"rank":1537,"estimate":"1k","actualWishlists":1000,"name":"Mudborne: Frog Management Sim","releaseDate":"2025-03-20","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5133583642665074251"},"2340130":{"rank":1915,"estimate":"15k+","name":"Ground Zero","releaseDate":"2026-04-16","source":"historical"},"1926980":{"rank":2075,"estimate":"7k+","name":"King of Meat","releaseDate":"2025-10-02","source":"historical"},"1827650":{"rank":2475,"estimate":"7k+","name":"Star Knightess Aura","releaseDate":"2025-02-07","source":"historical"},"2794610":{"rank":2743,"estimate":"7k+","name":"Massacre At The Mirage","releaseDate":"2024-10-28","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 23,
+  "entries": {
+    "423640": {
+      "rank": 509,
+      "estimate": "40k+",
+      "name": "Maid Cafe",
+      "releaseDate": "2023-08-25",
+      "source": "historical"
+    },
+    "645390": {
+      "rank": 11,
+      "estimate": "800k+",
+      "name": "Factorio: Space Age",
+      "releaseDate": "2024-10-21",
+      "source": "historical"
+    },
+    "924970": {
+      "rank": 3,
+      "estimate": "1.5m+",
+      "name": "Back 4 Blood",
+      "releaseDate": "2021-10-12",
+      "source": "historical"
+    },
+    "981830": {
+      "rank": 1481,
+      "estimate": "25k+",
+      "name": "GIGABUSTER",
+      "releaseDate": "2022-10-03",
+      "source": "historical"
+    },
+    "986040": {
+      "rank": 43,
+      "estimate": "600k+",
+      "name": "The Unliving",
+      "releaseDate": "2023-10-26",
+      "source": "historical"
+    },
+    "1016180": {
+      "rank": 532,
+      "estimate": "40k+",
+      "name": "Terror of Hemasaurus",
+      "releaseDate": "2022-10-17",
+      "source": "historical"
+    },
+    "1231840": {
+      "rank": 27,
+      "estimate": "600k+",
+      "name": "Climber: Sky is the Limit",
+      "releaseDate": "2022-11-21",
+      "source": "historical"
+    },
+    "1320140": {
+      "rank": 528,
+      "estimate": "40k+",
+      "name": "Small Saga",
+      "releaseDate": "2023-11-16",
+      "source": "historical"
+    },
+    "1337760": {
+      "rank": 46,
+      "estimate": "600k+",
+      "name": "Potion Permit",
+      "releaseDate": "2022-09-22",
+      "source": "historical"
+    },
+    "1550840": {
+      "rank": 1372,
+      "estimate": "25k+",
+      "name": "RATUZ",
+      "releaseDate": "2022-04-22",
+      "source": "historical"
+    },
+    "1608040": {
+      "rank": 597,
+      "estimate": "40k+",
+      "name": "Castle Morihisa",
+      "releaseDate": "2022-02-10",
+      "source": "historical"
+    },
+    "1802880": {
+      "rank": 666,
+      "estimate": "40k+",
+      "name": "The Devil Within: Satgat",
+      "releaseDate": "2024-11-20",
+      "source": "historical"
+    },
+    "1827650": {
+      "rank": 2475,
+      "estimate": "7k+",
+      "name": "Star Knightess Aura",
+      "releaseDate": "2025-02-07",
+      "source": "historical"
+    },
+    "1850050": {
+      "rank": 1506,
+      "estimate": "15k+",
+      "name": "Alien: Rogue Incursion VR",
+      "releaseDate": "2024-12-19",
+      "source": "historical"
+    },
+    "1926980": {
+      "rank": 2075,
+      "estimate": "7k+",
+      "name": "King of Meat",
+      "releaseDate": "2025-10-02",
+      "source": "historical"
+    },
+    "2100020": {
+      "rank": 658,
+      "estimate": "40k+",
+      "name": "Lou's Lagoon",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2201710": {
+      "rank": 201,
+      "estimate": "80k+",
+      "name": "Three Kingdoms Zhao Yun",
+      "releaseDate": "2024-01-17",
+      "source": "historical"
+    },
+    "2325830": {
+      "rank": 491,
+      "estimate": "80k+",
+      "name": "Total War: WARHAMMER III - Shadows of Change",
+      "releaseDate": "2023-08-31",
+      "source": "historical"
+    },
+    "2340130": {
+      "rank": 1915,
+      "estimate": "15k+",
+      "name": "Ground Zero",
+      "releaseDate": "2026-04-16",
+      "source": "historical"
+    },
+    "2355150": {
+      "rank": 1537,
+      "estimate": "1k",
+      "actualWishlists": 1000,
+      "name": "Mudborne: Frog Management Sim",
+      "releaseDate": "2025-03-20",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5133583642665074251"
+    },
+    "2497900": {
+      "rank": 240,
+      "estimate": "80k+",
+      "name": "DON'T SCREAM",
+      "releaseDate": "2024-10-28",
+      "source": "historical"
+    },
+    "2753930": {
+      "rank": 42,
+      "estimate": "600k+",
+      "name": "Vikings Dynasty",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2794610": {
+      "rank": 2743,
+      "estimate": "7k+",
+      "name": "Massacre At The Mirage",
+      "releaseDate": "2024-10-28",
+      "source": "historical"
+    }
+  }
+}

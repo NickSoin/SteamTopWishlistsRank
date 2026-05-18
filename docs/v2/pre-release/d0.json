@@ -1,1 +1,134 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":18,"entries":{"3679080":{"rank":6,"estimate":"1.5m+","name":"The Seven Deadly Sins: Origin","releaseDate":"2026-03-16","source":"historical"},"803330":{"rank":19,"estimate":"800k+","name":"Destroy All Humans!","releaseDate":"2020-07-28","source":"historical"},"1164940":{"rank":74,"estimate":"300k+","name":"Trepang2","releaseDate":"2023-06-21","source":"historical"},"1574260":{"rank":231,"estimate":"80k+","name":"My Friendly Neighborhood","releaseDate":"2023-07-18","source":"historical"},"2460070":{"rank":372,"estimate":"80k+","name":"Half-Demon Shinobi","releaseDate":"2024-12-17","source":"historical"},"1672670":{"rank":521,"estimate":"40k+","name":"彷徨之街 The Street of Adrift","releaseDate":"2024-05-20","source":"historical"},"1840800":{"rank":589,"estimate":"40k+","name":"Headquarters: World War II","releaseDate":"2024-04-11","source":"historical"},"2303850":{"rank":631,"estimate":"40k+","name":"Toxic Crusaders","releaseDate":"2026-01-01","source":"historical"},"1779030":{"rank":732,"estimate":"40k+","name":"So to Speak","releaseDate":"2025-03-31","source":"historical"},"1254670":{"rank":734,"estimate":"40k+","name":"Night Reverie","releaseDate":"2021-10-08","source":"historical"},"1638070":{"rank":792,"estimate":"40k+","name":"Fishbowl","releaseDate":"2026-04-02","source":"historical"},"2512450":{"rank":990,"estimate":"40k+","name":"SoulQuest","releaseDate":"2026-05-01","source":"historical"},"1539160":{"rank":1085,"estimate":"25k+","name":"Horny Warp: Hentai Fantasy","releaseDate":"2023-02-17","source":"historical"},"1829470":{"rank":1249,"estimate":"25k+","name":"Melody's Escape 2","releaseDate":"2022-09-30","source":"historical"},"2593570":{"rank":1372,"estimate":"25k+","name":"DDS x Narcos","releaseDate":"2026-01-01","source":"historical"},"2253470":{"rank":1615,"estimate":"15k+","name":"Capoo Pals","releaseDate":"2023-03-31","source":"historical"},"1082190":{"rank":2286,"estimate":"7k+","name":"Elroy and the Aliens","releaseDate":"2025-04-02","source":"historical"},"2152740":{"rank":2305,"estimate":"7k+","name":"ADEN","releaseDate":"2024-12-11","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 18,
+  "entries": {
+    "803330": {
+      "rank": 19,
+      "estimate": "800k+",
+      "name": "Destroy All Humans!",
+      "releaseDate": "2020-07-28",
+      "source": "historical"
+    },
+    "1082190": {
+      "rank": 2286,
+      "estimate": "7k+",
+      "name": "Elroy and the Aliens",
+      "releaseDate": "2025-04-02",
+      "source": "historical"
+    },
+    "1164940": {
+      "rank": 74,
+      "estimate": "300k+",
+      "name": "Trepang2",
+      "releaseDate": "2023-06-21",
+      "source": "historical"
+    },
+    "1254670": {
+      "rank": 734,
+      "estimate": "40k+",
+      "name": "Night Reverie",
+      "releaseDate": "2021-10-08",
+      "source": "historical"
+    },
+    "1539160": {
+      "rank": 1085,
+      "estimate": "25k+",
+      "name": "Horny Warp: Hentai Fantasy",
+      "releaseDate": "2023-02-17",
+      "source": "historical"
+    },
+    "1574260": {
+      "rank": 231,
+      "estimate": "80k+",
+      "name": "My Friendly Neighborhood",
+      "releaseDate": "2023-07-18",
+      "source": "historical"
+    },
+    "1638070": {
+      "rank": 792,
+      "estimate": "40k+",
+      "name": "Fishbowl",
+      "releaseDate": "2026-04-02",
+      "source": "historical"
+    },
+    "1672670": {
+      "rank": 521,
+      "estimate": "40k+",
+      "name": "彷徨之街 The Street of Adrift",
+      "releaseDate": "2024-05-20",
+      "source": "historical"
+    },
+    "1779030": {
+      "rank": 732,
+      "estimate": "40k+",
+      "name": "So to Speak",
+      "releaseDate": "2025-03-31",
+      "source": "historical"
+    },
+    "1829470": {
+      "rank": 1249,
+      "estimate": "25k+",
+      "name": "Melody's Escape 2",
+      "releaseDate": "2022-09-30",
+      "source": "historical"
+    },
+    "1840800": {
+      "rank": 589,
+      "estimate": "40k+",
+      "name": "Headquarters: World War II",
+      "releaseDate": "2024-04-11",
+      "source": "historical"
+    },
+    "2152740": {
+      "rank": 2305,
+      "estimate": "7k+",
+      "name": "ADEN",
+      "releaseDate": "2024-12-11",
+      "source": "historical"
+    },
+    "2253470": {
+      "rank": 1615,
+      "estimate": "15k+",
+      "name": "Capoo Pals",
+      "releaseDate": "2023-03-31",
+      "source": "historical"
+    },
+    "2303850": {
+      "rank": 631,
+      "estimate": "40k+",
+      "name": "Toxic Crusaders",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2460070": {
+      "rank": 372,
+      "estimate": "80k+",
+      "name": "Half-Demon Shinobi",
+      "releaseDate": "2024-12-17",
+      "source": "historical"
+    },
+    "2512450": {
+      "rank": 990,
+      "estimate": "40k+",
+      "name": "SoulQuest",
+      "releaseDate": "2026-05-01",
+      "source": "historical"
+    },
+    "2593570": {
+      "rank": 1372,
+      "estimate": "25k+",
+      "name": "DDS x Narcos",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "3679080": {
+      "rank": 6,
+      "estimate": "1.5m+",
+      "name": "The Seven Deadly Sins: Origin",
+      "releaseDate": "2026-03-16",
+      "source": "historical"
+    }
+  }
+}

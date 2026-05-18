@@ -1,1 +1,155 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":21,"entries":{"482400":{"rank":6,"estimate":"1.5m+","name":"System Shock","releaseDate":"2023-05-30","source":"historical"},"1817070":{"rank":9,"estimate":"1.5m+","name":"Marvel’s Spider-Man Remastered","releaseDate":"2022-08-12","source":"historical"},"1244090":{"rank":21,"estimate":"600k+","name":"Sea of Stars","releaseDate":"2023-08-28","source":"historical"},"1525700":{"rank":125,"estimate":"200k+","name":"Tavern Master","releaseDate":"2021-11-16","source":"historical"},"1454970":{"rank":387,"estimate":"80k+","name":"New Tales from the Borderlands","releaseDate":"2022-10-20","source":"historical"},"1312960":{"rank":393,"estimate":"80k+","name":"Epic Chef","releaseDate":"2021-11-11","source":"historical"},"1968840":{"rank":437,"estimate":"80k+","name":"Scarlet Maiden","releaseDate":"2023-09-15","source":"historical"},"2185060":{"rank":610,"estimate":"40k+","name":"Two Point Museum","releaseDate":"2025-03-04","source":"historical"},"2253970":{"rank":968,"estimate":"40k+","name":"Yusha Prototype","releaseDate":"2024-05-23","source":"historical"},"1282760":{"rank":1110,"estimate":"25k+","name":"Mad Streets","releaseDate":"2022-03-14","source":"historical"},"1129520":{"rank":1161,"estimate":"25k+","name":"The Lewd Knight","releaseDate":"2026-01-01","source":"historical"},"2424440":{"rank":1400,"estimate":"25k+","name":"Lilith Rising - Season 1","releaseDate":"2023-09-20","source":"historical"},"1988150":{"rank":1478,"estimate":"25k+","name":"Harem of Monster Girls","releaseDate":"2023-05-16","source":"historical"},"2255330":{"rank":1485,"estimate":"25k+","name":"The Tenants - Pets DLC","releaseDate":"2023-08-31","source":"historical"},"2474940":{"rank":1524,"estimate":"15k+","name":"Nope Nope Nope Nope Nurses","releaseDate":"2023-10-12","source":"historical"},"1986390":{"rank":1566,"estimate":"15k+","name":"Passed Out","releaseDate":"2023-03-13","source":"historical"},"1683370":{"rank":1818,"estimate":"15k+","name":"Blocky Dungeon","releaseDate":"2023-04-06","source":"historical"},"1749010":{"rank":1973,"estimate":"15k+","name":"Royal Order","releaseDate":"2024-03-29","source":"historical"},"2591230":{"rank":2342,"estimate":"7k+","name":"MEAT-GRINDER","releaseDate":"2026-01-01","source":"historical"},"2811530":{"rank":2527,"estimate":"7k+","name":"Candy Shop Simulator","releaseDate":"2025-09-09","source":"historical"},"3022810":{"rank":2681,"estimate":"7k+","name":"HackHub: Free Trial","releaseDate":"2024-11-04","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 21,
+  "entries": {
+    "482400": {
+      "rank": 6,
+      "estimate": "1.5m+",
+      "name": "System Shock",
+      "releaseDate": "2023-05-30",
+      "source": "historical"
+    },
+    "1129520": {
+      "rank": 1161,
+      "estimate": "25k+",
+      "name": "The Lewd Knight",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "1244090": {
+      "rank": 21,
+      "estimate": "600k+",
+      "name": "Sea of Stars",
+      "releaseDate": "2023-08-28",
+      "source": "historical"
+    },
+    "1282760": {
+      "rank": 1110,
+      "estimate": "25k+",
+      "name": "Mad Streets",
+      "releaseDate": "2022-03-14",
+      "source": "historical"
+    },
+    "1312960": {
+      "rank": 393,
+      "estimate": "80k+",
+      "name": "Epic Chef",
+      "releaseDate": "2021-11-11",
+      "source": "historical"
+    },
+    "1454970": {
+      "rank": 387,
+      "estimate": "80k+",
+      "name": "New Tales from the Borderlands",
+      "releaseDate": "2022-10-20",
+      "source": "historical"
+    },
+    "1525700": {
+      "rank": 125,
+      "estimate": "200k+",
+      "name": "Tavern Master",
+      "releaseDate": "2021-11-16",
+      "source": "historical"
+    },
+    "1683370": {
+      "rank": 1818,
+      "estimate": "15k+",
+      "name": "Blocky Dungeon",
+      "releaseDate": "2023-04-06",
+      "source": "historical"
+    },
+    "1749010": {
+      "rank": 1973,
+      "estimate": "15k+",
+      "name": "Royal Order",
+      "releaseDate": "2024-03-29",
+      "source": "historical"
+    },
+    "1817070": {
+      "rank": 9,
+      "estimate": "1.5m+",
+      "name": "Marvel’s Spider-Man Remastered",
+      "releaseDate": "2022-08-12",
+      "source": "historical"
+    },
+    "1968840": {
+      "rank": 437,
+      "estimate": "80k+",
+      "name": "Scarlet Maiden",
+      "releaseDate": "2023-09-15",
+      "source": "historical"
+    },
+    "1986390": {
+      "rank": 1566,
+      "estimate": "15k+",
+      "name": "Passed Out",
+      "releaseDate": "2023-03-13",
+      "source": "historical"
+    },
+    "1988150": {
+      "rank": 1478,
+      "estimate": "25k+",
+      "name": "Harem of Monster Girls",
+      "releaseDate": "2023-05-16",
+      "source": "historical"
+    },
+    "2185060": {
+      "rank": 610,
+      "estimate": "40k+",
+      "name": "Two Point Museum",
+      "releaseDate": "2025-03-04",
+      "source": "historical"
+    },
+    "2253970": {
+      "rank": 968,
+      "estimate": "40k+",
+      "name": "Yusha Prototype",
+      "releaseDate": "2024-05-23",
+      "source": "historical"
+    },
+    "2255330": {
+      "rank": 1485,
+      "estimate": "25k+",
+      "name": "The Tenants - Pets DLC",
+      "releaseDate": "2023-08-31",
+      "source": "historical"
+    },
+    "2424440": {
+      "rank": 1400,
+      "estimate": "25k+",
+      "name": "Lilith Rising - Season 1",
+      "releaseDate": "2023-09-20",
+      "source": "historical"
+    },
+    "2474940": {
+      "rank": 1524,
+      "estimate": "15k+",
+      "name": "Nope Nope Nope Nope Nurses",
+      "releaseDate": "2023-10-12",
+      "source": "historical"
+    },
+    "2591230": {
+      "rank": 2342,
+      "estimate": "7k+",
+      "name": "MEAT-GRINDER",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "2811530": {
+      "rank": 2527,
+      "estimate": "7k+",
+      "name": "Candy Shop Simulator",
+      "releaseDate": "2025-09-09",
+      "source": "historical"
+    },
+    "3022810": {
+      "rank": 2681,
+      "estimate": "7k+",
+      "name": "HackHub: Free Trial",
+      "releaseDate": "2024-11-04",
+      "source": "historical"
+    }
+  }
+}

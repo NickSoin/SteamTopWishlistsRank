@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-17T19:37:56.564Z",
-  "entryCount": 15,
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 16,
   "entries": {
     "1845250": {
       "rank": 326,
@@ -10,7 +10,7 @@
       "name": "Rubinite"
     },
     "1946380": {
-      "rank": 4578,
+      "rank": 4577,
       "estimate": "<7k",
       "name": "Eternal Remnant: The First Chapter"
     },
@@ -20,19 +20,24 @@
       "name": "The Eternal Life of Goldman"
     },
     "2322260": {
-      "rank": 1013,
+      "rank": 1016,
       "estimate": "25k+",
       "name": "Don't Kill Them All"
     },
     "2331530": {
-      "rank": 4482,
+      "rank": 4481,
       "estimate": "<7k",
       "name": "Pirate Island"
     },
     "2459560": {
-      "rank": 3004,
+      "rank": 3006,
       "estimate": "<7k",
       "name": "Paris Transylvania"
+    },
+    "2707980": {
+      "rank": 4627,
+      "estimate": "<7k",
+      "name": "PUNK"
     },
     "2719590": {
       "rank": 3,
@@ -45,7 +50,7 @@
       "name": "中国式网游：序章"
     },
     "3063890": {
-      "rank": 4240,
+      "rank": 4242,
       "estimate": "<7k",
       "name": "SKIDRUSH : Drift City"
     },
@@ -55,7 +60,7 @@
       "name": "MIGHTREYA"
     },
     "3154550": {
-      "rank": 1659,
+      "rank": 1662,
       "estimate": "15k+",
       "name": "Aegis Force: The Scorian War"
     },
@@ -65,17 +70,17 @@
       "name": "BrokenLore: DON’T LIE"
     },
     "4420980": {
-      "rank": 1015,
+      "rank": 1008,
       "estimate": "25k+",
       "name": "Drunkslop: Pub crawl COOP"
     },
     "4504970": {
-      "rank": 2177,
+      "rank": 2142,
       "estimate": "7k+",
       "name": "AetherCycle"
     },
     "4540260": {
-      "rank": 2206,
+      "rank": 2207,
       "estimate": "7k+",
       "name": "Project Ants"
     }

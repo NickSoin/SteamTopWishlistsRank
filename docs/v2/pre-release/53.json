@@ -1,1 +1,150 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":20,"entries":{"2072450":{"rank":78,"estimate":"300k+","name":"Like a Dragon: Infinite Wealth","releaseDate":"2024-01-25","source":"historical"},"1206610":{"rank":98,"estimate":"300k+","name":"Rubber Bandits","releaseDate":"2021-12-02","source":"historical"},"2187220":{"rank":142,"estimate":"200k+","name":"Apollo Justice: Ace Attorney Trilogy","releaseDate":"2024-01-24","source":"historical"},"2445690":{"rank":164,"estimate":"200k","actualWishlists":200000,"name":"Lost Castle 2","releaseDate":"2024-07-24","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5842939267338255236"},"1782150":{"rank":270,"estimate":"80k+","name":"OVERLORD: ESCAPE FROM NAZARICK","releaseDate":"2022-06-15","source":"historical"},"2442390":{"rank":741,"estimate":"40k+","name":"Escape from the Room of the Serving Doll","releaseDate":"2024-06-18","source":"historical"},"991740":{"rank":751,"estimate":"40k+","name":"Era Of Newborns","releaseDate":"2021-09-14","source":"historical"},"1970030":{"rank":876,"estimate":"40k+","name":"Touhou Blooming Soul","releaseDate":"2026-01-30","source":"historical"},"1142080":{"rank":913,"estimate":"40k+","name":"Pawnbarian","releaseDate":"2021-09-24","source":"historical"},"2488510":{"rank":1255,"estimate":"25k+","name":"FatalZone","releaseDate":"2024-09-17","source":"historical"},"2140100":{"rank":1258,"estimate":"25k+","name":"Whisker Squadron: Survivor","releaseDate":"2025-02-21","source":"historical"},"1793440":{"rank":1396,"estimate":"25k+","name":"Shale Hill Secrets","releaseDate":"2025-05-08","source":"historical"},"883230":{"rank":1500,"estimate":"25k+","name":"Times and Galaxy","releaseDate":"2024-06-21","source":"historical"},"2710060":{"rank":1580,"estimate":"15k+","name":"西门立志传","releaseDate":"2024-07-31","source":"historical"},"1977530":{"rank":1645,"estimate":"15k+","name":"One-armed cook","releaseDate":"2022-08-30","source":"historical"},"1813430":{"rank":1872,"estimate":"15k+","name":"Beat Banger","releaseDate":"2023-04-24","source":"historical"},"1905980":{"rank":1914,"estimate":"15k+","name":"Farmer's Father: Save the Innocence","releaseDate":"2024-03-25","source":"historical"},"2430690":{"rank":1979,"estimate":"15k+","name":"Clover Day's Plus","releaseDate":"2023-08-18","source":"historical"},"1613281":{"rank":2061,"estimate":"7k+","name":"Forza Horizon 5 Rally Adventure","releaseDate":"2023-03-29","source":"historical"},"2212410":{"rank":2246,"estimate":"7k+","name":"Shadowkin","releaseDate":"2024-02-23","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 20,
+  "entries": {
+    "883230": {
+      "rank": 1500,
+      "estimate": "25k+",
+      "name": "Times and Galaxy",
+      "releaseDate": "2024-06-21",
+      "source": "historical"
+    },
+    "991740": {
+      "rank": 751,
+      "estimate": "40k+",
+      "name": "Era Of Newborns",
+      "releaseDate": "2021-09-14",
+      "source": "historical"
+    },
+    "1142080": {
+      "rank": 913,
+      "estimate": "40k+",
+      "name": "Pawnbarian",
+      "releaseDate": "2021-09-24",
+      "source": "historical"
+    },
+    "1206610": {
+      "rank": 98,
+      "estimate": "300k+",
+      "name": "Rubber Bandits",
+      "releaseDate": "2021-12-02",
+      "source": "historical"
+    },
+    "1613281": {
+      "rank": 2061,
+      "estimate": "7k+",
+      "name": "Forza Horizon 5 Rally Adventure",
+      "releaseDate": "2023-03-29",
+      "source": "historical"
+    },
+    "1782150": {
+      "rank": 270,
+      "estimate": "80k+",
+      "name": "OVERLORD: ESCAPE FROM NAZARICK",
+      "releaseDate": "2022-06-15",
+      "source": "historical"
+    },
+    "1793440": {
+      "rank": 1396,
+      "estimate": "25k+",
+      "name": "Shale Hill Secrets",
+      "releaseDate": "2025-05-08",
+      "source": "historical"
+    },
+    "1813430": {
+      "rank": 1872,
+      "estimate": "15k+",
+      "name": "Beat Banger",
+      "releaseDate": "2023-04-24",
+      "source": "historical"
+    },
+    "1905980": {
+      "rank": 1914,
+      "estimate": "15k+",
+      "name": "Farmer's Father: Save the Innocence",
+      "releaseDate": "2024-03-25",
+      "source": "historical"
+    },
+    "1970030": {
+      "rank": 876,
+      "estimate": "40k+",
+      "name": "Touhou Blooming Soul",
+      "releaseDate": "2026-01-30",
+      "source": "historical"
+    },
+    "1977530": {
+      "rank": 1645,
+      "estimate": "15k+",
+      "name": "One-armed cook",
+      "releaseDate": "2022-08-30",
+      "source": "historical"
+    },
+    "2072450": {
+      "rank": 78,
+      "estimate": "300k+",
+      "name": "Like a Dragon: Infinite Wealth",
+      "releaseDate": "2024-01-25",
+      "source": "historical"
+    },
+    "2140100": {
+      "rank": 1258,
+      "estimate": "25k+",
+      "name": "Whisker Squadron: Survivor",
+      "releaseDate": "2025-02-21",
+      "source": "historical"
+    },
+    "2187220": {
+      "rank": 142,
+      "estimate": "200k+",
+      "name": "Apollo Justice: Ace Attorney Trilogy",
+      "releaseDate": "2024-01-24",
+      "source": "historical"
+    },
+    "2212410": {
+      "rank": 2246,
+      "estimate": "7k+",
+      "name": "Shadowkin",
+      "releaseDate": "2024-02-23",
+      "source": "historical"
+    },
+    "2430690": {
+      "rank": 1979,
+      "estimate": "15k+",
+      "name": "Clover Day's Plus",
+      "releaseDate": "2023-08-18",
+      "source": "historical"
+    },
+    "2442390": {
+      "rank": 741,
+      "estimate": "40k+",
+      "name": "Escape from the Room of the Serving Doll",
+      "releaseDate": "2024-06-18",
+      "source": "historical"
+    },
+    "2445690": {
+      "rank": 164,
+      "estimate": "200k",
+      "actualWishlists": 200000,
+      "name": "Lost Castle 2",
+      "releaseDate": "2024-07-24",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5842939267338255236"
+    },
+    "2488510": {
+      "rank": 1255,
+      "estimate": "25k+",
+      "name": "FatalZone",
+      "releaseDate": "2024-09-17",
+      "source": "historical"
+    },
+    "2710060": {
+      "rank": 1580,
+      "estimate": "15k+",
+      "name": "西门立志传",
+      "releaseDate": "2024-07-31",
+      "source": "historical"
+    }
+  }
+}

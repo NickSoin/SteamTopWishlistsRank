@@ -1,1 +1,213 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":29,"entries":{"997070":{"rank":17,"estimate":"800k+","name":"Marvel's Avengers - The Definitive Edition","releaseDate":"2020-09-04","source":"historical"},"2102450":{"rank":29,"estimate":"600k+","name":"Enotria: The Last Song","releaseDate":"2024-09-16","source":"historical"},"436780":{"rank":31,"estimate":"600k+","name":"Tavern Keeper 🍻","releaseDate":"2025-11-03","source":"historical"},"1237320":{"rank":48,"estimate":"600k+","name":"Sonic Frontiers","releaseDate":"2022-11-07","source":"historical"},"872670":{"rank":83,"estimate":"300k+","name":"SCP: 5K","releaseDate":"2022-02-22","source":"historical"},"2106670":{"rank":98,"estimate":"300k+","name":"Gatekeeper","releaseDate":"2025-08-01","source":"historical"},"597180":{"rank":104,"estimate":"200k+","name":"Old World","releaseDate":"2022-05-18","source":"historical"},"1731080":{"rank":235,"estimate":"80k+","name":"Resident Evil Village - Winters’ Expansion","releaseDate":"2022-10-27","source":"historical"},"2277860":{"rank":292,"estimate":"80k+","name":"Stellaris: First Contact Story Pack","releaseDate":"2023-03-14","source":"historical"},"2711030":{"rank":433,"estimate":"60k","actualWishlists":60000,"name":"Sugardew Island - Your cozy farm shop","releaseDate":"2025-03-07","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5746109972545242329"},"2088020":{"rank":508,"estimate":"40k+","name":"UNDEFEATED: Genesis","releaseDate":"2027-01-01","source":"historical"},"1615290":{"rank":579,"estimate":"40k+","name":"Ravenous Devils","releaseDate":"2022-04-29","source":"historical"},"1934140":{"rank":618,"estimate":"40k+","name":"Planet Zoo: Wetlands Animal Pack","releaseDate":"2022-04-12","source":"historical"},"1579280":{"rank":623,"estimate":"40k+","name":"The Last Worker","releaseDate":"2023-03-30","source":"historical"},"1585180":{"rank":667,"estimate":"40k+","name":"Drova - Forsaken Kin","releaseDate":"2024-10-15","source":"historical"},"1488430":{"rank":685,"estimate":"40k+","name":"Fueled Up","releaseDate":"2022-10-13","source":"historical"},"1295900":{"rank":780,"estimate":"40k+","name":"Draconia","releaseDate":"2022-01-13","source":"historical"},"2881610":{"rank":858,"estimate":"40k+","name":"Mohrta","releaseDate":"2025-10-14","source":"historical"},"1665280":{"rank":919,"estimate":"40k+","name":"Skábma™ - Snowfall","releaseDate":"2022-04-22","source":"historical"},"2454960":{"rank":1294,"estimate":"25k+","name":"The Great Villainess: Strategy of Lily","releaseDate":"2025-07-23","source":"historical"},"1760330":{"rank":1360,"estimate":"25k+","name":"Noreya: The Gold Project","releaseDate":"2024-06-21","source":"historical"},"2002880":{"rank":1747,"estimate":"15k+","name":"Rhapsody III: Memories of Marl Kingdom","releaseDate":"2023-08-29","source":"historical"},"1375750":{"rank":2096,"estimate":"7k+","name":"Regions of Ruin: Runegate","releaseDate":"2026-04-14","source":"historical"},"2547750":{"rank":2223,"estimate":"7k+","name":"E-Startup 2 : Business Tycoon","releaseDate":"2024-05-14","source":"historical"},"2845320":{"rank":2325,"estimate":"7k+","name":"Cats and Seek: Kyoto","releaseDate":"2024-06-16","source":"historical"},"2088770":{"rank":2694,"estimate":"7k+","name":"Deck of Souls","releaseDate":"2024-12-10","source":"historical"},"2693530":{"rank":2933,"estimate":"7k+","name":"Witching Stone","releaseDate":"2024-09-16","source":"historical"},"2901150":{"rank":2982,"estimate":"7k+","name":"Yoru ga Kuru! -Square of the Moon- Remastered","releaseDate":"2025-05-30","source":"historical"},"2954080":{"rank":3008,"estimate":"<7k","name":"Painted In Blood","releaseDate":"2025-10-23","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 29,
+  "entries": {
+    "436780": {
+      "rank": 31,
+      "estimate": "600k+",
+      "name": "Tavern Keeper 🍻",
+      "releaseDate": "2025-11-03",
+      "source": "historical"
+    },
+    "597180": {
+      "rank": 104,
+      "estimate": "200k+",
+      "name": "Old World",
+      "releaseDate": "2022-05-18",
+      "source": "historical"
+    },
+    "872670": {
+      "rank": 83,
+      "estimate": "300k+",
+      "name": "SCP: 5K",
+      "releaseDate": "2022-02-22",
+      "source": "historical"
+    },
+    "997070": {
+      "rank": 17,
+      "estimate": "800k+",
+      "name": "Marvel's Avengers - The Definitive Edition",
+      "releaseDate": "2020-09-04",
+      "source": "historical"
+    },
+    "1237320": {
+      "rank": 48,
+      "estimate": "600k+",
+      "name": "Sonic Frontiers",
+      "releaseDate": "2022-11-07",
+      "source": "historical"
+    },
+    "1295900": {
+      "rank": 780,
+      "estimate": "40k+",
+      "name": "Draconia",
+      "releaseDate": "2022-01-13",
+      "source": "historical"
+    },
+    "1375750": {
+      "rank": 2096,
+      "estimate": "7k+",
+      "name": "Regions of Ruin: Runegate",
+      "releaseDate": "2026-04-14",
+      "source": "historical"
+    },
+    "1488430": {
+      "rank": 685,
+      "estimate": "40k+",
+      "name": "Fueled Up",
+      "releaseDate": "2022-10-13",
+      "source": "historical"
+    },
+    "1579280": {
+      "rank": 623,
+      "estimate": "40k+",
+      "name": "The Last Worker",
+      "releaseDate": "2023-03-30",
+      "source": "historical"
+    },
+    "1585180": {
+      "rank": 667,
+      "estimate": "40k+",
+      "name": "Drova - Forsaken Kin",
+      "releaseDate": "2024-10-15",
+      "source": "historical"
+    },
+    "1615290": {
+      "rank": 579,
+      "estimate": "40k+",
+      "name": "Ravenous Devils",
+      "releaseDate": "2022-04-29",
+      "source": "historical"
+    },
+    "1665280": {
+      "rank": 919,
+      "estimate": "40k+",
+      "name": "Skábma™ - Snowfall",
+      "releaseDate": "2022-04-22",
+      "source": "historical"
+    },
+    "1731080": {
+      "rank": 235,
+      "estimate": "80k+",
+      "name": "Resident Evil Village - Winters’ Expansion",
+      "releaseDate": "2022-10-27",
+      "source": "historical"
+    },
+    "1760330": {
+      "rank": 1360,
+      "estimate": "25k+",
+      "name": "Noreya: The Gold Project",
+      "releaseDate": "2024-06-21",
+      "source": "historical"
+    },
+    "1934140": {
+      "rank": 618,
+      "estimate": "40k+",
+      "name": "Planet Zoo: Wetlands Animal Pack",
+      "releaseDate": "2022-04-12",
+      "source": "historical"
+    },
+    "2002880": {
+      "rank": 1747,
+      "estimate": "15k+",
+      "name": "Rhapsody III: Memories of Marl Kingdom",
+      "releaseDate": "2023-08-29",
+      "source": "historical"
+    },
+    "2088020": {
+      "rank": 508,
+      "estimate": "40k+",
+      "name": "UNDEFEATED: Genesis",
+      "releaseDate": "2027-01-01",
+      "source": "historical"
+    },
+    "2088770": {
+      "rank": 2694,
+      "estimate": "7k+",
+      "name": "Deck of Souls",
+      "releaseDate": "2024-12-10",
+      "source": "historical"
+    },
+    "2102450": {
+      "rank": 29,
+      "estimate": "600k+",
+      "name": "Enotria: The Last Song",
+      "releaseDate": "2024-09-16",
+      "source": "historical"
+    },
+    "2106670": {
+      "rank": 98,
+      "estimate": "300k+",
+      "name": "Gatekeeper",
+      "releaseDate": "2025-08-01",
+      "source": "historical"
+    },
+    "2277860": {
+      "rank": 292,
+      "estimate": "80k+",
+      "name": "Stellaris: First Contact Story Pack",
+      "releaseDate": "2023-03-14",
+      "source": "historical"
+    },
+    "2454960": {
+      "rank": 1294,
+      "estimate": "25k+",
+      "name": "The Great Villainess: Strategy of Lily",
+      "releaseDate": "2025-07-23",
+      "source": "historical"
+    },
+    "2547750": {
+      "rank": 2223,
+      "estimate": "7k+",
+      "name": "E-Startup 2 : Business Tycoon",
+      "releaseDate": "2024-05-14",
+      "source": "historical"
+    },
+    "2693530": {
+      "rank": 2933,
+      "estimate": "7k+",
+      "name": "Witching Stone",
+      "releaseDate": "2024-09-16",
+      "source": "historical"
+    },
+    "2711030": {
+      "rank": 433,
+      "estimate": "60k",
+      "actualWishlists": 60000,
+      "name": "Sugardew Island - Your cozy farm shop",
+      "releaseDate": "2025-03-07",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5746109972545242329"
+    },
+    "2845320": {
+      "rank": 2325,
+      "estimate": "7k+",
+      "name": "Cats and Seek: Kyoto",
+      "releaseDate": "2024-06-16",
+      "source": "historical"
+    },
+    "2881610": {
+      "rank": 858,
+      "estimate": "40k+",
+      "name": "Mohrta",
+      "releaseDate": "2025-10-14",
+      "source": "historical"
+    },
+    "2901150": {
+      "rank": 2982,
+      "estimate": "7k+",
+      "name": "Yoru ga Kuru! -Square of the Moon- Remastered",
+      "releaseDate": "2025-05-30",
+      "source": "historical"
+    },
+    "2954080": {
+      "rank": 3008,
+      "estimate": "<7k",
+      "name": "Painted In Blood",
+      "releaseDate": "2025-10-23",
+      "source": "historical"
+    }
+  }
+}

@@ -1,1 +1,164 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":22,"entries":{"1118010":{"rank":15,"estimate":"800k+","name":"Monster Hunter World: Iceborne","releaseDate":"2020-01-09","source":"historical"},"1658150":{"rank":50,"estimate":"600k+","name":"Moonstone Island","releaseDate":"2023-09-20","source":"historical"},"1637320":{"rank":106,"estimate":"200k+","name":"Dome Keeper","releaseDate":"2022-09-27","source":"historical"},"830580":{"rank":135,"estimate":"200k+","name":"BattleBeasts","releaseDate":"2021-05-10","source":"historical"},"1547890":{"rank":194,"estimate":"200k+","name":"Let's Build a Zoo","releaseDate":"2021-11-05","source":"historical"},"1319420":{"rank":440,"estimate":"80k+","name":"Chasing Static","releaseDate":"2021-10-14","source":"historical"},"2669360":{"rank":448,"estimate":"80k+","name":"ASTLIBRA Gaiden: The Cave of Phantom Mist","releaseDate":"2024-02-13","source":"historical"},"1433340":{"rank":472,"estimate":"80k+","name":"Happy's Humble Burger Farm","releaseDate":"2021-12-03","source":"historical"},"1867510":{"rank":485,"estimate":"80k+","name":"WrestleQuest","releaseDate":"2023-08-21","source":"historical"},"3110760":{"rank":489,"estimate":"250k","actualWishlists":250000,"name":"Alabaster Dawn","releaseDate":"2026-05-07","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365097824"},"1263620":{"rank":493,"estimate":"80k+","name":"Yacht Mechanic Simulator","releaseDate":"2022-07-28","source":"historical"},"1920480":{"rank":738,"estimate":"40k+","name":"River City Girls 2","releaseDate":"2022-12-14","source":"historical"},"1966420":{"rank":838,"estimate":"40k+","name":"Harmony: The Fall of Reverie","releaseDate":"2023-06-08","source":"historical"},"1229020":{"rank":882,"estimate":"40k+","name":"Kona II: Brume","releaseDate":"2023-10-18","source":"historical"},"1781890":{"rank":1137,"estimate":"25k+","name":"The Coma 2B: Catacomb","releaseDate":"2024-10-25","source":"historical"},"1550010":{"rank":1191,"estimate":"25k+","name":"The Witch of Fern Island","releaseDate":"2024-02-27","source":"historical"},"1707650":{"rank":1368,"estimate":"25k+","name":"Swords and Sandals Immortals","releaseDate":"2023-03-09","source":"historical"},"2052720":{"rank":1602,"estimate":"15k+","name":"Farming Simulator 22: Pumps n' Hoses Pack","releaseDate":"2022-09-26","source":"historical"},"1292440":{"rank":1771,"estimate":"15k+","name":"Night and Day","releaseDate":"2022-11-13","source":"historical"},"2175210":{"rank":1817,"estimate":"15k+","name":"Winter Survival: Prologue","releaseDate":"2023-02-15","source":"historical"},"2696120":{"rank":2478,"estimate":"7k+","name":"Shadow Album","releaseDate":"2024-06-20","source":"historical"},"2784920":{"rank":2824,"estimate":"7k+","name":"Infinity Knights: Xross","releaseDate":"2026-01-01","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 22,
+  "entries": {
+    "830580": {
+      "rank": 135,
+      "estimate": "200k+",
+      "name": "BattleBeasts",
+      "releaseDate": "2021-05-10",
+      "source": "historical"
+    },
+    "1118010": {
+      "rank": 15,
+      "estimate": "800k+",
+      "name": "Monster Hunter World: Iceborne",
+      "releaseDate": "2020-01-09",
+      "source": "historical"
+    },
+    "1229020": {
+      "rank": 882,
+      "estimate": "40k+",
+      "name": "Kona II: Brume",
+      "releaseDate": "2023-10-18",
+      "source": "historical"
+    },
+    "1263620": {
+      "rank": 493,
+      "estimate": "80k+",
+      "name": "Yacht Mechanic Simulator",
+      "releaseDate": "2022-07-28",
+      "source": "historical"
+    },
+    "1292440": {
+      "rank": 1771,
+      "estimate": "15k+",
+      "name": "Night and Day",
+      "releaseDate": "2022-11-13",
+      "source": "historical"
+    },
+    "1319420": {
+      "rank": 440,
+      "estimate": "80k+",
+      "name": "Chasing Static",
+      "releaseDate": "2021-10-14",
+      "source": "historical"
+    },
+    "1433340": {
+      "rank": 472,
+      "estimate": "80k+",
+      "name": "Happy's Humble Burger Farm",
+      "releaseDate": "2021-12-03",
+      "source": "historical"
+    },
+    "1547890": {
+      "rank": 194,
+      "estimate": "200k+",
+      "name": "Let's Build a Zoo",
+      "releaseDate": "2021-11-05",
+      "source": "historical"
+    },
+    "1550010": {
+      "rank": 1191,
+      "estimate": "25k+",
+      "name": "The Witch of Fern Island",
+      "releaseDate": "2024-02-27",
+      "source": "historical"
+    },
+    "1637320": {
+      "rank": 106,
+      "estimate": "200k+",
+      "name": "Dome Keeper",
+      "releaseDate": "2022-09-27",
+      "source": "historical"
+    },
+    "1658150": {
+      "rank": 50,
+      "estimate": "600k+",
+      "name": "Moonstone Island",
+      "releaseDate": "2023-09-20",
+      "source": "historical"
+    },
+    "1707650": {
+      "rank": 1368,
+      "estimate": "25k+",
+      "name": "Swords and Sandals Immortals",
+      "releaseDate": "2023-03-09",
+      "source": "historical"
+    },
+    "1781890": {
+      "rank": 1137,
+      "estimate": "25k+",
+      "name": "The Coma 2B: Catacomb",
+      "releaseDate": "2024-10-25",
+      "source": "historical"
+    },
+    "1867510": {
+      "rank": 485,
+      "estimate": "80k+",
+      "name": "WrestleQuest",
+      "releaseDate": "2023-08-21",
+      "source": "historical"
+    },
+    "1920480": {
+      "rank": 738,
+      "estimate": "40k+",
+      "name": "River City Girls 2",
+      "releaseDate": "2022-12-14",
+      "source": "historical"
+    },
+    "1966420": {
+      "rank": 838,
+      "estimate": "40k+",
+      "name": "Harmony: The Fall of Reverie",
+      "releaseDate": "2023-06-08",
+      "source": "historical"
+    },
+    "2052720": {
+      "rank": 1602,
+      "estimate": "15k+",
+      "name": "Farming Simulator 22: Pumps n' Hoses Pack",
+      "releaseDate": "2022-09-26",
+      "source": "historical"
+    },
+    "2175210": {
+      "rank": 1817,
+      "estimate": "15k+",
+      "name": "Winter Survival: Prologue",
+      "releaseDate": "2023-02-15",
+      "source": "historical"
+    },
+    "2669360": {
+      "rank": 448,
+      "estimate": "80k+",
+      "name": "ASTLIBRA Gaiden: The Cave of Phantom Mist",
+      "releaseDate": "2024-02-13",
+      "source": "historical"
+    },
+    "2696120": {
+      "rank": 2478,
+      "estimate": "7k+",
+      "name": "Shadow Album",
+      "releaseDate": "2024-06-20",
+      "source": "historical"
+    },
+    "2784920": {
+      "rank": 2824,
+      "estimate": "7k+",
+      "name": "Infinity Knights: Xross",
+      "releaseDate": "2026-01-01",
+      "source": "historical"
+    },
+    "3110760": {
+      "rank": 489,
+      "estimate": "250k",
+      "actualWishlists": 250000,
+      "name": "Alabaster Dawn",
+      "releaseDate": "2026-05-07",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365097824"
+    }
+  }
+}

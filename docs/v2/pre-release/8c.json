@@ -1,1 +1,180 @@
-{"schemaVersion":2,"kind":"pre_release","updatedAt":"2026-05-18T00:17:27.000Z","entryCount":24,"entries":{"2767030":{"rank":3,"estimate":"1.5m+","name":"Marvel Rivals","releaseDate":"2024-12-05","source":"historical"},"1277400":{"rank":10,"estimate":"1.5m+","name":"Monster Hunter Stories 2: Wings of Ruin","releaseDate":"2021-07-08","source":"historical"},"2432860":{"rank":15,"estimate":"600k","actualWishlists":600000,"name":"MENACE","releaseDate":"2026-02-05","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1823825466496748"},"1373960":{"rank":43,"estimate":"600k+","name":"INDIKA","releaseDate":"2024-05-02","source":"historical"},"1373090":{"rank":204,"estimate":"100k","actualWishlists":100000,"name":"Yes, Your Grace 2: Snowfall","releaseDate":"2025-05-08","source":"historical","wishlistUrl":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5756237364308717502"},"2543180":{"rank":392,"estimate":"80k+","name":"POPUCOM","releaseDate":"2025-06-01","source":"historical"},"1252830":{"rank":420,"estimate":"80k+","name":"A Juggler's Tale","releaseDate":"2021-09-29","source":"historical"},"1427340":{"rank":421,"estimate":"80k+","name":"Witchy Life Story","releaseDate":"2022-09-30","source":"historical"},"1467450":{"rank":466,"estimate":"80k+","name":"The Chronicles Of Myrtana: Archolos","releaseDate":"2021-12-10","source":"historical"},"1148490":{"rank":654,"estimate":"40k+","name":"Second Front","releaseDate":"2023-01-31","source":"historical"},"1087760":{"rank":665,"estimate":"40k+","name":"The Gunk","releaseDate":"2022-04-29","source":"historical"},"1417880":{"rank":738,"estimate":"40k+","name":"Winter Ember","releaseDate":"2022-04-18","source":"historical"},"1581040":{"rank":785,"estimate":"40k+","name":"El Shaddai ASCENSION OF THE METATRON HD Remaster","releaseDate":"2021-09-01","source":"historical"},"659960":{"rank":821,"estimate":"40k+","name":"Legends of Hidden Sword","releaseDate":"2022-04-24","source":"historical"},"1358530":{"rank":829,"estimate":"40k+","name":"Saint Kotar","releaseDate":"2021-10-28","source":"historical"},"2904660":{"rank":876,"estimate":"40k+","name":"Call to Arms - Gates of Hell: Airborne","releaseDate":"2024-10-17","source":"historical"},"1449230":{"rank":932,"estimate":"40k+","name":"Glitchhikers: The Spaces Between","releaseDate":"2022-03-31","source":"historical"},"1689500":{"rank":992,"estimate":"40k+","name":"Dune: Imperium","releaseDate":"2024-03-13","source":"historical"},"2555420":{"rank":1365,"estimate":"25k+","name":"Age of Empires II: Definitive Edition - The Mountain Royals","releaseDate":"2023-10-31","source":"historical"},"1667180":{"rank":1376,"estimate":"25k+","name":"No Man's Island","releaseDate":"2023-05-04","source":"historical"},"687800":{"rank":1409,"estimate":"25k+","name":"Heads Will Roll: Reforged","releaseDate":"2023-10-04","source":"historical"},"2248430":{"rank":1699,"estimate":"15k+","name":"Touhou Artificial Dream in Arcadia","releaseDate":"2023-09-22","source":"historical"},"2583430":{"rank":2047,"estimate":"7k+","name":"Alice in the Nightmare Land","releaseDate":"2024-06-07","source":"historical"},"1674830":{"rank":2317,"estimate":"7k+","name":"Victory at Sea Atlantic - World War II Naval Warfare","releaseDate":"2025-04-25","source":"historical"}}}
+{
+  "schemaVersion": 2,
+  "kind": "pre_release",
+  "updatedAt": "2026-05-18T04:43:37.946Z",
+  "entryCount": 24,
+  "entries": {
+    "659960": {
+      "rank": 821,
+      "estimate": "40k+",
+      "name": "Legends of Hidden Sword",
+      "releaseDate": "2022-04-24",
+      "source": "historical"
+    },
+    "687800": {
+      "rank": 1409,
+      "estimate": "25k+",
+      "name": "Heads Will Roll: Reforged",
+      "releaseDate": "2023-10-04",
+      "source": "historical"
+    },
+    "1087760": {
+      "rank": 665,
+      "estimate": "40k+",
+      "name": "The Gunk",
+      "releaseDate": "2022-04-29",
+      "source": "historical"
+    },
+    "1148490": {
+      "rank": 654,
+      "estimate": "40k+",
+      "name": "Second Front",
+      "releaseDate": "2023-01-31",
+      "source": "historical"
+    },
+    "1252830": {
+      "rank": 420,
+      "estimate": "80k+",
+      "name": "A Juggler's Tale",
+      "releaseDate": "2021-09-29",
+      "source": "historical"
+    },
+    "1277400": {
+      "rank": 10,
+      "estimate": "1.5m+",
+      "name": "Monster Hunter Stories 2: Wings of Ruin",
+      "releaseDate": "2021-07-08",
+      "source": "historical"
+    },
+    "1358530": {
+      "rank": 829,
+      "estimate": "40k+",
+      "name": "Saint Kotar",
+      "releaseDate": "2021-10-28",
+      "source": "historical"
+    },
+    "1373090": {
+      "rank": 204,
+      "estimate": "100k",
+      "actualWishlists": 100000,
+      "name": "Yes, Your Grace 2: Snowfall",
+      "releaseDate": "2025-05-08",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5756237364308717502"
+    },
+    "1373960": {
+      "rank": 43,
+      "estimate": "600k+",
+      "name": "INDIKA",
+      "releaseDate": "2024-05-02",
+      "source": "historical"
+    },
+    "1417880": {
+      "rank": 738,
+      "estimate": "40k+",
+      "name": "Winter Ember",
+      "releaseDate": "2022-04-18",
+      "source": "historical"
+    },
+    "1427340": {
+      "rank": 421,
+      "estimate": "80k+",
+      "name": "Witchy Life Story",
+      "releaseDate": "2022-09-30",
+      "source": "historical"
+    },
+    "1449230": {
+      "rank": 932,
+      "estimate": "40k+",
+      "name": "Glitchhikers: The Spaces Between",
+      "releaseDate": "2022-03-31",
+      "source": "historical"
+    },
+    "1467450": {
+      "rank": 466,
+      "estimate": "80k+",
+      "name": "The Chronicles Of Myrtana: Archolos",
+      "releaseDate": "2021-12-10",
+      "source": "historical"
+    },
+    "1581040": {
+      "rank": 785,
+      "estimate": "40k+",
+      "name": "El Shaddai ASCENSION OF THE METATRON HD Remaster",
+      "releaseDate": "2021-09-01",
+      "source": "historical"
+    },
+    "1667180": {
+      "rank": 1376,
+      "estimate": "25k+",
+      "name": "No Man's Island",
+      "releaseDate": "2023-05-04",
+      "source": "historical"
+    },
+    "1674830": {
+      "rank": 2317,
+      "estimate": "7k+",
+      "name": "Victory at Sea Atlantic - World War II Naval Warfare",
+      "releaseDate": "2025-04-25",
+      "source": "historical"
+    },
+    "1689500": {
+      "rank": 992,
+      "estimate": "40k+",
+      "name": "Dune: Imperium",
+      "releaseDate": "2024-03-13",
+      "source": "historical"
+    },
+    "2248430": {
+      "rank": 1699,
+      "estimate": "15k+",
+      "name": "Touhou Artificial Dream in Arcadia",
+      "releaseDate": "2023-09-22",
+      "source": "historical"
+    },
+    "2432860": {
+      "rank": 15,
+      "estimate": "600k",
+      "actualWishlists": 600000,
+      "name": "MENACE",
+      "releaseDate": "2026-02-05",
+      "source": "historical",
+      "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1823825466496748"
+    },
+    "2543180": {
+      "rank": 392,
+      "estimate": "80k+",
+      "name": "POPUCOM",
+      "releaseDate": "2025-06-01",
+      "source": "historical"
+    },
+    "2555420": {
+      "rank": 1365,
+      "estimate": "25k+",
+      "name": "Age of Empires II: Definitive Edition - The Mountain Royals",
+      "releaseDate": "2023-10-31",
+      "source": "historical"
+    },
+    "2583430": {
+      "rank": 2047,
+      "estimate": "7k+",
+      "name": "Alice in the Nightmare Land",
+      "releaseDate": "2024-06-07",
+      "source": "historical"
+    },
+    "2767030": {
+      "rank": 3,
+      "estimate": "1.5m+",
+      "name": "Marvel Rivals",
+      "releaseDate": "2024-12-05",
+      "source": "historical"
+    },
+    "2904660": {
+      "rank": 876,
+      "estimate": "40k+",
+      "name": "Call to Arms - Gates of Hell: Airborne",
+      "releaseDate": "2024-10-17",
+      "source": "historical"
+    }
+  }
+}
