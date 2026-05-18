@@ -1,7 +1,7 @@
 # Steam Wishlist Rank — Project Status & Architecture
 
-**Version:** 2.4.0  
-**Last updated:** 2026-05-16
+**Version:** 2.5.2  
+**Last updated:** 2026-05-18
 
 ---
 
@@ -163,26 +163,69 @@ trigger: push to main (только при изменении скрипта и�
 
 ---
 
-## Синхронизация dist/unpacked
+## Release Pipeline (ОБЯЗАТЕЛЬНО соблюдать)
 
-Пользователь загружает расширение локально из `dist/unpacked/`.  
-**При изменении любого src/* файла нужно:**
+### Правила версионирования
+
+- Формат: `MAJOR.MINOR.PATCH`
+  - PATCH (2.5.0 → 2.5.1): баг-фикс, мелкие правки
+  - MINOR (2.5.x → 2.6.0): новая фича или значимое изменение
+  - MAJOR (2.x → 3.0): полная переработка архитектуры
+- **Бампать версию при каждом изменении** — чтобы можно было подтвердить загрузку расширения
+
+### Что обновлять при каждом релизе
+
+1. **`manifest.json`** — поле `"version"` (это то, что Chrome показывает в панели расширений)
+2. **`src/content-hover.js`** — `const V = "vX.Y.Z"` (для логов в консоли)
+3. Если есть — другие JS файлы с version-константами
+
+### Синхронизация src/ → dist/unpacked/
+
+**Правило:** после любого изменения `src/*` или `manifest.json` — синхронизировать в `dist/unpacked/`.
 
 ```bash
+# Конкретные файлы (предпочтительно):
 cp src/background.js dist/unpacked/src/background.js
 cp src/shared.js dist/unpacked/src/shared.js
 cp src/content-steam.js dist/unpacked/src/content-steam.js
+cp src/content-hover.js dist/unpacked/src/content-hover.js
+cp src/content-hover.css dist/unpacked/src/content-hover.css
 cp src/popup.js dist/unpacked/src/popup.js
 cp src/popup.html dist/unpacked/src/popup.html
 cp src/feed-config.js dist/unpacked/src/feed-config.js
+cp manifest.json dist/unpacked/manifest.json
 ```
 
-После синхронизации — перезагрузить расширение в `chrome://extensions` (кнопка ↻).
+После синхронизации:
+1. `chrome://extensions` → кнопка ↻ (Reload) на расширении
+2. Убедиться что панель показывает **новую версию** (MAJOR.MINOR.PATCH)
 
-**Zip для стора:**
+### Zip для Chrome Web Store
+
 ```bash
-cd dist/unpacked && zip -r ../steam-wishlist-rank-2.4.0.zip .
+cd dist/unpacked && zip -r ../steam-wishlist-rank-X.Y.Z.zip . && cd ../..
 ```
+
+Имя zip файла должно совпадать с версией в manifest.json.
+
+### Публикация в Chrome Web Store
+
+1. Открыть [Chrome Developer Dashboard](https://chrome.google.com/webstore/devconsole)
+2. Выбрать расширение "Steam Wishlist Rank"
+3. Package → Upload new package → выбрать zip из `dist/`
+4. Store listing → проверить описание если нужно
+5. Submit for review
+
+**Важно:** Chrome Web Store review занимает 1–3 рабочих дня. Локальная версия в `dist/unpacked/` обновляется сразу.
+
+### Чеклист перед релизом
+
+- [ ] Версия обновлена в `manifest.json`
+- [ ] Версия обновлена в JS-файлах (`const V`)
+- [ ] Все изменённые файлы скопированы в `dist/unpacked/`
+- [ ] Расширение перезагружено, панель показывает новую версию
+- [ ] Фича протестирована локально
+- [ ] Zip пересобран с новой версией в имени
 
 ---
 

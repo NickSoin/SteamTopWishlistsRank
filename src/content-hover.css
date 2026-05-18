@@ -1,0 +1,53 @@
+.swr-hover-rank {
+  display: flex;
+  padding: 4px;
+  background: #d4d9dd;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  margin: 6px;
+}
+
+.swr-hover-rank--found {
+  border-color: #4a9a2a;
+}
+
+.swr-hover-rank--none {
+  border-color: #c04040;
+}
+
+.swr-hover-rank-chip {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  width: 100%;
+  background: #4a6782;
+  border-radius: 3px;
+  padding: 4px 8px;
+  font-size: 12px;
+}
+
+.swr-hover-rank-label {
+  color: #c6d4df;
+  white-space: nowrap;
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 0.03em;
+}
+
+.swr-hover-rank-value {
+  color: #66c0f4;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.swr-hover-rank-est {
+  color: #8bc53f;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.swr-hover-rank-muted {
+  color: #acb2b8;
+  white-space: nowrap;
+}
