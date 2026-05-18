@@ -25,3 +25,16 @@
   color: #acb2b8;
   font-weight: 400;
 }
+
+/* Source link: underline entire "(N wishlists)" to show it's clickable */
+.steamdb-wishlist-rank-value .steamdb-wishlist-source-link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: #5a7a90;
+  text-underline-offset: 2px;
+}
+
+.steamdb-wishlist-rank-value .steamdb-wishlist-source-link:hover {
+  color: inherit;
+  text-decoration-color: #c6d4df;
+}
