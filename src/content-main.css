@@ -1,0 +1,29 @@
+.swr-main-badge {
+  position: absolute;
+  bottom: 4px;
+  left: 4px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 6px;
+  background: #1b2838;
+  border: 1px solid #4a90b8;
+  border-radius: 3px;
+  z-index: 10;
+  pointer-events: none;
+  line-height: 1.4;
+}
+
+.swr-main-badge-rank {
+  color: #7ed4ff;
+  font-size: 11px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.swr-main-badge-est {
+  color: #a4d653;
+  font-size: 10px;
+  font-weight: bold;
+  white-space: nowrap;
+}

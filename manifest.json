@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Steam Wishlist Rank",
-  "version": "2.5.8",
+  "version": "2.6.0",
   "description": "Shows current and pre-release Steam wishlist rank estimates on Steam app pages.",
   "permissions": ["storage"],
   "host_permissions": [
@@ -19,6 +19,12 @@
       "matches": ["https://store.steampowered.com/*"],
       "js": ["src/content-hover.js"],
       "css": ["src/content-hover.css"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://store.steampowered.com/*"],
+      "js": ["src/content-main.js"],
+      "css": ["src/content-main.css"],
       "run_at": "document_idle"
     }
   ],
