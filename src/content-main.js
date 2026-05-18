@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const V = "v2.6.4";
+  const V = "v2.6.5";
   const log = (...a) => console.log("[SWR Main " + V + "]", ...a);
 
   // ── Settings gate ──────────────────────────────────────────────
@@ -18,6 +18,7 @@
     badgesEnabled = changes.swr_show_badges.newValue;
     if (!badgesEnabled) {
       document.querySelectorAll(".swr-main-badge").forEach((el) => el.remove());
+      processed = new WeakSet();
     } else {
       init();
     }
@@ -38,7 +39,7 @@
   // appId -> entry (object) | false (not in top)
   const cache = new Map();
   // DOM elements already processed (badge injected or fetch triggered)
-  const processed = new WeakSet();
+  let processed = new WeakSet();
 
   let _scanObserver = null;
 
