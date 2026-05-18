@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-18T10:41:48.866Z",
-  "entryCount": 40,
+  "updatedAt": "2026-05-18T15:57:28.387Z",
+  "entryCount": 41,
   "entries": {
     "748020": {
       "rank": 911,
@@ -289,6 +289,13 @@
       "name": "Assetto Corsa EVO",
       "releaseDate": "2025-01-16",
       "source": "historical"
+    },
+    "4078200": {
+      "rank": 857,
+      "estimate": "40k+",
+      "name": "Dwarf Eats Mountain",
+      "releaseDate": "2026-05-18",
+      "source": "tracked"
     }
   }
 }

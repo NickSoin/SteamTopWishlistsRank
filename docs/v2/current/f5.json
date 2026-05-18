@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-18T10:41:48.866Z",
-  "entryCount": 17,
+  "updatedAt": "2026-05-18T15:57:28.387Z",
+  "entryCount": 18,
   "entries": {
     "1324400": {
-      "rank": 1590,
+      "rank": 1589,
       "estimate": "15k+",
       "name": "Crimepunk Detective"
     },
     "1617760": {
-      "rank": 3347,
+      "rank": 3346,
       "estimate": "<7k",
       "name": "Vikings: Age Of The Axe"
     },
@@ -20,12 +20,12 @@
       "name": "Illusion Lands"
     },
     "2124500": {
-      "rank": 2175,
+      "rank": 2177,
       "estimate": "7k+",
       "name": "Forlorn Memories"
     },
     "2201470": {
-      "rank": 950,
+      "rank": 949,
       "estimate": "40k+",
       "name": "Remnant Protocol"
     },
@@ -40,7 +40,7 @@
       "name": "Phantom Line"
     },
     "2466350": {
-      "rank": 3483,
+      "rank": 3482,
       "estimate": "<7k",
       "name": "Space"
     },
@@ -50,17 +50,17 @@
       "name": "Astromeda"
     },
     "2642390": {
-      "rank": 1617,
+      "rank": 1620,
       "estimate": "15k+",
       "name": "The Whims of the Gods"
     },
     "2669450": {
-      "rank": 2891,
+      "rank": 2890,
       "estimate": "7k+",
       "name": "My Child New Beginnings"
     },
     "2770330": {
-      "rank": 1876,
+      "rank": 1875,
       "estimate": "15k+",
       "name": "Chaos Front"
     },
@@ -70,24 +70,29 @@
       "name": "Citystate Metropolis"
     },
     "2994600": {
-      "rank": 2271,
+      "rank": 2269,
       "estimate": "7k+",
       "name": "Lysward"
     },
     "3165050": {
-      "rank": 4630,
+      "rank": 4631,
       "estimate": "<7k",
       "name": "OUTCLAW"
     },
     "3325720": {
-      "rank": 3627,
+      "rank": 3628,
       "estimate": "<7k",
       "name": "Animas"
     },
     "4030360": {
-      "rank": 2299,
+      "rank": 2300,
       "estimate": "7k+",
       "name": "Undertaker"
+    },
+    "4532930": {
+      "rank": 4622,
+      "estimate": "<7k",
+      "name": "Rogue Fantasy: Ever-Shifting Worlds"
     }
   }
 }
