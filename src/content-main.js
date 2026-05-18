@@ -1,10 +1,7 @@
 (function () {
   "use strict";
 
-  const MAIN_RANKS_ENABLED = true;
-  if (!MAIN_RANKS_ENABLED) return;
-
-  const V = "v2.6.3";
+  const V = "v2.6.4";
   const log = (...a) => console.log("[SWR Main " + V + "]", ...a);
 
   // ── Settings gate ──────────────────────────────────────────────
@@ -28,18 +25,22 @@
 
   function init() {
     log("init");
+    if (_scanObserver) _scanObserver.disconnect();
     scan();
     let scanTimer = null;
-    new MutationObserver(() => {
+    _scanObserver = new MutationObserver(() => {
       clearTimeout(scanTimer);
       scanTimer = setTimeout(scan, 200);
-    }).observe(document.body, { childList: true, subtree: true });
+    });
+    _scanObserver.observe(document.body, { childList: true, subtree: true });
   }
 
   // appId -> entry (object) | false (not in top)
   const cache = new Map();
   // DOM elements already processed (badge injected or fetch triggered)
   const processed = new WeakSet();
+
+  let _scanObserver = null;
 
   // --- Data fetch ---
 

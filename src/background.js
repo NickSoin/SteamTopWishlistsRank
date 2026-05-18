@@ -231,11 +231,21 @@ async function writeCache(key, cache) {
 }
 
 function storageGet(keys) {
-  return new Promise((resolve) => chrome.storage.local.get(keys, resolve));
+  return new Promise((resolve, reject) =>
+    chrome.storage.local.get(keys, (result) => {
+      if (chrome.runtime.lastError) reject(new Error(chrome.runtime.lastError.message));
+      else resolve(result);
+    })
+  );
 }
 
 function storageSet(items) {
-  return new Promise((resolve) => chrome.storage.local.set(items, resolve));
+  return new Promise((resolve, reject) =>
+    chrome.storage.local.set(items, () => {
+      if (chrome.runtime.lastError) reject(new Error(chrome.runtime.lastError.message));
+      else resolve();
+    })
+  );
 }
 
 function getErrorMessage(error) {

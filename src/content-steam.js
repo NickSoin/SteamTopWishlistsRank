@@ -85,6 +85,7 @@
 
   function renderStatusRow(message, title, isSteamDbLink) {
     waitForSteamDetails((target) => {
+      if (hasFinalResult) return;
       const row = buildShellRow(null);
       const value = row.querySelector(".steamdb-wishlist-rank-value");
       const element = isSteamDbLink ? document.createElement("a") : document.createElement("span");

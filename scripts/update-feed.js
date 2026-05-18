@@ -357,7 +357,7 @@ async function fetchWishlistPage(start) {
       signal: controller.signal,
       headers: {
         accept: "application/json,text/javascript,*/*;q=0.01",
-        "user-agent": "Steam Wishlist Rank feed updater (+https://github.com/)"
+        "user-agent": "Steam Wishlist Rank feed updater (+https://github.com/nicksoin/SteamTopWishlistsRank)"
       }
     });
   } finally {
@@ -416,7 +416,7 @@ async function fetchReleaseInfo(appId) {
       signal: controller.signal,
       headers: {
         accept: "application/json",
-        "user-agent": "Steam Wishlist Rank feed updater (+https://github.com/)"
+        "user-agent": "Steam Wishlist Rank feed updater (+https://github.com/nicksoin/SteamTopWishlistsRank)"
       }
     });
   } finally {
@@ -468,6 +468,10 @@ async function readJsonIfExists(filePath, fallback) {
     return JSON.parse(text);
   } catch (error) {
     if (error?.code === "ENOENT") return cloneJson(fallback);
+    if (error instanceof SyntaxError) {
+      console.warn(`Corrupted JSON at ${filePath}, using fallback: ${error.message}`);
+      return cloneJson(fallback);
+    }
     throw error;
   }
 }
