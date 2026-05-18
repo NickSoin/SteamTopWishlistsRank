@@ -1,45 +1,36 @@
 (function () {
   "use strict";
 
-  const MAIN_RANKS_ENABLED = true;
-  if (!MAIN_RANKS_ENABLED) return;
-
-  const V = "v2.6.3";
+  const V = "v2.6.7";
   const log = (...a) => console.log("[SWR Main " + V + "]", ...a);
 
+  const pageAppIdMatch = location.pathname.match(/\/app\/(\d{1,12})\b/);
+  const pageAppId = pageAppIdMatch ? pageAppIdMatch[1] : null;
+
   // ── Settings gate ──────────────────────────────────────────────
-  // Start only if "Show badges" is enabled; also react to live changes.
-  let badgesEnabled = true;
-
+  // Check "Show badges" once at page load; changes apply on next navigation.
   chrome.storage.sync.get({ swr_show_badges: true }, (prefs) => {
-    badgesEnabled = prefs.swr_show_badges;
-    if (badgesEnabled) init();
-  });
-
-  chrome.storage.onChanged.addListener((changes, area) => {
-    if (area !== "sync" || !("swr_show_badges" in changes)) return;
-    badgesEnabled = changes.swr_show_badges.newValue;
-    if (!badgesEnabled) {
-      document.querySelectorAll(".swr-main-badge").forEach((el) => el.remove());
-    } else {
-      init();
-    }
+    if (prefs.swr_show_badges) init();
   });
 
   function init() {
     log("init");
+    if (_scanObserver) _scanObserver.disconnect();
     scan();
     let scanTimer = null;
-    new MutationObserver(() => {
+    _scanObserver = new MutationObserver(() => {
       clearTimeout(scanTimer);
       scanTimer = setTimeout(scan, 200);
-    }).observe(document.body, { childList: true, subtree: true });
+    });
+    _scanObserver.observe(document.body, { childList: true, subtree: true });
   }
 
   // appId -> entry (object) | false (not in top)
   const cache = new Map();
   // DOM elements already processed (badge injected or fetch triggered)
   const processed = new WeakSet();
+
+  let _scanObserver = null;
 
   // --- Data fetch ---
 
@@ -66,6 +57,7 @@
   // --- Badge rendering ---
 
   function injectBadge(capsule, appId) {
+    if (appId === pageAppId) return;
     if (processed.has(capsule)) return;
     processed.add(capsule);
 

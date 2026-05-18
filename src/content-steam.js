@@ -85,6 +85,7 @@
 
   function renderStatusRow(message, title, isSteamDbLink) {
     waitForSteamDetails((target) => {
+      if (hasFinalResult) return;
       const row = buildShellRow(null);
       const value = row.querySelector(".steamdb-wishlist-rank-value");
       const element = isSteamDbLink ? document.createElement("a") : document.createElement("span");
@@ -133,23 +134,25 @@
   }
 
   function buildWishlistDisplay(entry) {
-    const wrapper = document.createElement("span");
-
     if (entry.actualWishlists) {
-      // Confirmed count from developer announcement
-      wrapper.append(document.createTextNode("("));
-
-      const countEl = entry.wishlistUrl
+      // Confirmed count — wrap entire "(N wishlists)" in a link if URL is known
+      const wrapper = entry.wishlistUrl
         ? document.createElement("a")
         : document.createElement("span");
+
+      if (entry.wishlistUrl) {
+        wrapper.href = entry.wishlistUrl;
+        wrapper.target = "_blank";
+        wrapper.rel = "noreferrer";
+        wrapper.title = "View developer announcement";
+        wrapper.className = "steamdb-wishlist-source-link";
+      }
+
+      wrapper.append(document.createTextNode("("));
+
+      const countEl = document.createElement("span");
       countEl.className = "steamdb-wishlist-estimate";
       countEl.textContent = formatWishlists(entry.actualWishlists);
-      if (entry.wishlistUrl) {
-        countEl.href = entry.wishlistUrl;
-        countEl.target = "_blank";
-        countEl.rel = "noreferrer";
-        countEl.title = "View developer announcement";
-      }
       wrapper.append(countEl);
 
       const suffix = document.createElement("span");
@@ -157,23 +160,25 @@
       suffix.textContent = " wishlists)";
       wrapper.append(suffix);
 
-    } else {
-      // Band-based estimate — velocity rank, not total count
-      const estimate = entry.estimate || globalThis.SteamWishlistRankShared?.estimateWishlists(entry.rank);
-      if (!estimate) return null;
-
-      wrapper.append(document.createTextNode("("));
-
-      const estSpan = document.createElement("span");
-      estSpan.className = "steamdb-wishlist-estimate";
-      estSpan.textContent = estimate;
-      wrapper.append(estSpan);
-
-      const suffix = document.createElement("span");
-      suffix.className = "steamdb-wishlist-muted";
-      suffix.textContent = " wishlists, estimated)";
-      wrapper.append(suffix);
+      return wrapper;
     }
+
+    // Band-based estimate — velocity rank, not total count
+    const estimate = entry.estimate || globalThis.SteamWishlistRankShared?.estimateWishlists(entry.rank);
+    if (!estimate) return null;
+
+    const wrapper = document.createElement("span");
+    wrapper.append(document.createTextNode("("));
+
+    const estSpan = document.createElement("span");
+    estSpan.className = "steamdb-wishlist-estimate";
+    estSpan.textContent = estimate;
+    wrapper.append(estSpan);
+
+    const suffix = document.createElement("span");
+    suffix.className = "steamdb-wishlist-muted";
+    suffix.textContent = " wishlists, estimated)";
+    wrapper.append(suffix);
 
     return wrapper;
   }
@@ -194,7 +199,7 @@
   function getRowLabel(entry) {
     if (mode === "current") return "Top Wishlisted:";
     if (entry?.source === "tracked") return "On-Release Top Wish:";
-    return "Peak TopWish tracked:";
+    return "Max Wishlist Record:";
   }
 
   function buildShellRow(entry) {
