@@ -1,8 +1,11 @@
 (function () {
   "use strict";
 
-  const V = "v2.6.5";
+  const V = "v2.6.6";
   const log = (...a) => console.log("[SWR Main " + V + "]", ...a);
+
+  const pageAppIdMatch = location.pathname.match(/\/app\/(\d{1,12})\b/);
+  const pageAppId = pageAppIdMatch ? pageAppIdMatch[1] : null;
 
   // ── Settings gate ──────────────────────────────────────────────
   // Start only if "Show badges" is enabled; also react to live changes.
@@ -18,8 +21,8 @@
     badgesEnabled = changes.swr_show_badges.newValue;
     if (!badgesEnabled) {
       document.querySelectorAll(".swr-main-badge").forEach((el) => el.remove());
-      processed = new WeakSet();
     } else {
+      processed = new WeakSet();
       init();
     }
   });
@@ -68,6 +71,7 @@
   // --- Badge rendering ---
 
   function injectBadge(capsule, appId) {
+    if (appId === pageAppId) return;
     if (processed.has(capsule)) return;
     processed.add(capsule);
 
@@ -115,6 +119,7 @@
   // --- DOM scanning ---
 
   function scan() {
+    if (!badgesEnabled) return;
     // Method 1: data-ds-appid — search results, main page, wishlists
     document.querySelectorAll("[data-ds-appid]").forEach((el) => {
       if (processed.has(el)) return;
