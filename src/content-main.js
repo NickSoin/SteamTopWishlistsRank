@@ -1,30 +1,16 @@
 (function () {
   "use strict";
 
-  const V = "v2.6.6";
+  const V = "v2.6.7";
   const log = (...a) => console.log("[SWR Main " + V + "]", ...a);
 
   const pageAppIdMatch = location.pathname.match(/\/app\/(\d{1,12})\b/);
   const pageAppId = pageAppIdMatch ? pageAppIdMatch[1] : null;
 
   // ── Settings gate ──────────────────────────────────────────────
-  // Start only if "Show badges" is enabled; also react to live changes.
-  let badgesEnabled = true;
-
+  // Check "Show badges" once at page load; changes apply on next navigation.
   chrome.storage.sync.get({ swr_show_badges: true }, (prefs) => {
-    badgesEnabled = prefs.swr_show_badges;
-    if (badgesEnabled) init();
-  });
-
-  chrome.storage.onChanged.addListener((changes, area) => {
-    if (area !== "sync" || !("swr_show_badges" in changes)) return;
-    badgesEnabled = changes.swr_show_badges.newValue;
-    if (!badgesEnabled) {
-      document.querySelectorAll(".swr-main-badge").forEach((el) => el.remove());
-    } else {
-      processed = new WeakSet();
-      init();
-    }
+    if (prefs.swr_show_badges) init();
   });
 
   function init() {
@@ -42,7 +28,7 @@
   // appId -> entry (object) | false (not in top)
   const cache = new Map();
   // DOM elements already processed (badge injected or fetch triggered)
-  let processed = new WeakSet();
+  const processed = new WeakSet();
 
   let _scanObserver = null;
 
@@ -119,7 +105,6 @@
   // --- DOM scanning ---
 
   function scan() {
-    if (!badgesEnabled) return;
     // Method 1: data-ds-appid — search results, main page, wishlists
     document.querySelectorAll("[data-ds-appid]").forEach((el) => {
       if (processed.has(el)) return;
