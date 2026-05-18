@@ -10,7 +10,7 @@ const LEDGER_META_PATH =
 const V2_OUTPUT_DIR = process.env.STEAM_WISHLIST_V2_OUTPUT_DIR || "docs/v2";
 const PAGE_SIZE = Number(process.env.STEAM_WISHLIST_PAGE_SIZE || 100);
 const MAX_RANK = Number(process.env.STEAM_WISHLIST_MAX_RANK || 10000);
-const REQUEST_DELAY_MS = Number(process.env.STEAM_WISHLIST_REQUEST_DELAY_MS || 1500);
+const REQUEST_DELAY_MS = Number(process.env.STEAM_WISHLIST_REQUEST_DELAY_MS || 0); // 0 = use randomPageDelay()
 const FETCH_TIMEOUT_MS = Number(process.env.STEAM_WISHLIST_FETCH_TIMEOUT_MS || 10000);
 const FETCH_RETRIES = Number(process.env.STEAM_WISHLIST_FETCH_RETRIES || 3);
 const RETRY_DELAY_MS = Number(process.env.STEAM_WISHLIST_RETRY_DELAY_MS || 5000);
@@ -97,7 +97,7 @@ async function scrapeWishlistFeed(startedAt) {
     nextStart += rowCount;
     if (nextStart >= Math.min(totalCount || MAX_RANK, MAX_RANK)) break;
 
-    await delay(REQUEST_DELAY_MS);
+    await delay(REQUEST_DELAY_MS || randomPageDelay());
   }
 
   const feed = {
@@ -221,7 +221,7 @@ async function writeV2Artifacts({ ledger, currentEntries, outputDir, updatedAt, 
     };
     if (confirmed?.actualWishlists) {
       shardEntry.actualWishlists = confirmed.actualWishlists;
-      if (confirmed.wishlistUrl) shardEntry.wishlistUrl = confirmed.wishlistUrl;
+      if (confirmed.wishlistUrl && isTrustedWishlistUrl(confirmed.wishlistUrl)) shardEntry.wishlistUrl = confirmed.wishlistUrl;
     }
     const shardId = shared.getShardId(appId);
     currentShards[shardId][appId] = shardEntry;
@@ -243,7 +243,7 @@ async function writeV2Artifacts({ ledger, currentEntries, outputDir, updatedAt, 
     };
     if (confirmed?.actualWishlists) {
       shardEntry.actualWishlists = confirmed.actualWishlists;
-      if (confirmed.wishlistUrl) shardEntry.wishlistUrl = confirmed.wishlistUrl;
+      if (confirmed.wishlistUrl && isTrustedWishlistUrl(confirmed.wishlistUrl)) shardEntry.wishlistUrl = confirmed.wishlistUrl;
     }
     const shardId = shared.getShardId(appId);
     preReleaseShards[shardId][appId] = shardEntry;
@@ -488,6 +488,30 @@ function cloneJson(value) {
 
 function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// Non-linear page delay: triangular base 3-7s, 15% chance of a long 0-8s spike.
+// Median ≈ 5s, max ≈ 15s — mimics natural browsing pauses.
+function randomPageDelay() {
+  const base = (Math.random() + Math.random()) / 2; // triangular [0,1], peak at 0.5
+  const spike = Math.random() < 0.15 ? Math.random() * 8000 : 0;
+  return Math.round(3000 + base * 4000 + spike);
+}
+
+// Only allow wishlist source links that go through Steam / Valve CDN.
+// Prevents injecting arbitrary third-party URLs into published shards.
+const TRUSTED_WISHLIST_HOSTS = new Set([
+  "steamstore-a.akamaihd.net",
+  "store.steampowered.com",
+  "steamcommunity.com",
+]);
+
+function isTrustedWishlistUrl(url) {
+  try {
+    return TRUSTED_WISHLIST_HOSTS.has(new URL(String(url)).hostname);
+  } catch {
+    return false;
+  }
 }
 
 if (require.main === module) {
