@@ -199,7 +199,7 @@
   function getRowLabel(entry) {
     if (mode === "current") return "Top Wishlisted:";
     if (entry?.source === "tracked") return "On-Release Top Wish:";
-    return "Peak TopWish tracked:";
+    return "Peak Wishlisted:";
   }
 
   function buildShellRow(entry) {

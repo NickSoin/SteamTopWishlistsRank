@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Steam Wishlist Rank",
-  "version": "2.7.0",
+  "version": "2.7.1",
   "minimum_chrome_version": "88",
   "description": "Shows current and pre-release Steam wishlist rank estimates on Steam app pages.",
   "permissions": ["storage"],
