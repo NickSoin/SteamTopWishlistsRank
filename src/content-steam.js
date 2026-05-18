@@ -10,8 +10,20 @@
   let retryTimer = null;
   let hasFinalResult = false;
 
-  renderStatusRow("Syncing...");
-  requestWishlistRank();
+  // Check "Show historical data" setting before rendering pre-release data
+  if (mode === "preRelease") {
+    chrome.storage.sync.get({ swr_show_historical: true }, (prefs) => {
+      if (!prefs.swr_show_historical) {
+        renderStatusRow("Game released", "Historical wishlist data is disabled in extension settings.");
+      } else {
+        renderStatusRow("Syncing...");
+        requestWishlistRank();
+      }
+    });
+  } else {
+    renderStatusRow("Syncing...");
+    requestWishlistRank();
+  }
 
   function requestWishlistRank(options = {}) {
     window.clearTimeout(retryTimer);

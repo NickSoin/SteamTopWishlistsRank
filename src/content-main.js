@@ -4,10 +4,37 @@
   const MAIN_RANKS_ENABLED = true;
   if (!MAIN_RANKS_ENABLED) return;
 
-  const V = "v2.6.0";
+  const V = "v2.6.3";
   const log = (...a) => console.log("[SWR Main " + V + "]", ...a);
 
-  log("init");
+  // ── Settings gate ──────────────────────────────────────────────
+  // Start only if "Show badges" is enabled; also react to live changes.
+  let badgesEnabled = true;
+
+  chrome.storage.sync.get({ swr_show_badges: true }, (prefs) => {
+    badgesEnabled = prefs.swr_show_badges;
+    if (badgesEnabled) init();
+  });
+
+  chrome.storage.onChanged.addListener((changes, area) => {
+    if (area !== "sync" || !("swr_show_badges" in changes)) return;
+    badgesEnabled = changes.swr_show_badges.newValue;
+    if (!badgesEnabled) {
+      document.querySelectorAll(".swr-main-badge").forEach((el) => el.remove());
+    } else {
+      init();
+    }
+  });
+
+  function init() {
+    log("init");
+    scan();
+    let scanTimer = null;
+    new MutationObserver(() => {
+      clearTimeout(scanTimer);
+      scanTimer = setTimeout(scan, 200);
+    }).observe(document.body, { childList: true, subtree: true });
+  }
 
   // appId -> entry (object) | false (not in top)
   const cache = new Map();
@@ -86,21 +113,25 @@
   // --- DOM scanning ---
 
   function scan() {
+    // Method 1: data-ds-appid — search results, main page, wishlists
     document.querySelectorAll("[data-ds-appid]").forEach((el) => {
       if (processed.has(el)) return;
-      // Skip capsules that are already on /app/ pages (handled by content-steam.js)
       const appId = el.dataset.dsAppid?.split(",")[0];
       if (appId) injectBadge(el, appId);
     });
+
+    // Method 2: <a href="/app/NNNN/"> wrapping an image
+    // Covers publisher pages, curator pages, tag pages, etc.
+    document.querySelectorAll('a[href*="/app/"]').forEach((el) => {
+      if (processed.has(el)) return;
+      // Only target links that contain a capsule image
+      if (!el.querySelector("img")) return;
+      // Skip if already captured by data-ds-appid above
+      if (el.closest("[data-ds-appid]")) return;
+      const m = el.href.match(/\/app\/(\d{1,12})\b/);
+      if (!m) return;
+      injectBadge(el, m[1]);
+    });
   }
 
-  // Initial scan after DOM settles
-  scan();
-
-  // Re-scan when Steam dynamically loads new sections
-  let scanTimer = null;
-  new MutationObserver(() => {
-    clearTimeout(scanTimer);
-    scanTimer = setTimeout(scan, 200);
-  }).observe(document.body, { childList: true, subtree: true });
 })();
