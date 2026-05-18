@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-18T15:57:28.387Z",
+  "updatedAt": "2026-05-18T20:03:02.253Z",
   "entryCount": 24,
   "entries": {
     "1001520": {
@@ -138,11 +138,11 @@
       "source": "historical"
     },
     "2397510": {
-      "rank": 2783,
-      "estimate": "7k+",
+      "rank": 1061,
+      "estimate": "25k+",
       "name": "Corsairs - Battle of the Caribbean",
       "releaseDate": "2026-05-18",
-      "source": "historical"
+      "source": "tracked"
     },
     "2398490": {
       "rank": 475,
