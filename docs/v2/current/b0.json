@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-18T04:43:37.946Z",
-  "entryCount": 23,
+  "updatedAt": "2026-05-18T10:41:48.866Z",
+  "entryCount": 24,
   "entries": {
     "592380": {
-      "rank": 3770,
+      "rank": 3771,
       "estimate": "<7k",
       "name": "Apocalypse Cow"
     },
@@ -20,7 +20,7 @@
       "name": "Afterconflict"
     },
     "1353030": {
-      "rank": 3248,
+      "rank": 3249,
       "estimate": "<7k",
       "name": "Eloquence"
     },
@@ -30,7 +30,7 @@
       "name": "Wanderlost"
     },
     "2002610": {
-      "rank": 3896,
+      "rank": 3899,
       "estimate": "<7k",
       "name": "Delilah"
     },
@@ -40,17 +40,17 @@
       "name": "Custom Fire"
     },
     "2138340": {
-      "rank": 2261,
+      "rank": 2263,
       "estimate": "7k+",
       "name": "Ships Simulator 2024"
     },
     "2870130": {
-      "rank": 2547,
+      "rank": 2548,
       "estimate": "7k+",
       "name": "ENDS"
     },
     "2943470": {
-      "rank": 3661,
+      "rank": 3664,
       "estimate": "<7k",
       "name": "Contract Cafe"
     },
@@ -60,7 +60,7 @@
       "name": "Campfire Cozy Friends"
     },
     "3161220": {
-      "rank": 483,
+      "rank": 481,
       "estimate": "80k+",
       "name": "Coffee Talk Tokyo"
     },
@@ -70,17 +70,17 @@
       "name": "Ruina Remake"
     },
     "3201450": {
-      "rank": 931,
+      "rank": 932,
       "estimate": "40k+",
       "name": "Darkfallen Survivors"
     },
     "3484950": {
-      "rank": 2923,
+      "rank": 2924,
       "estimate": "7k+",
       "name": "AfterQuest"
     },
     "3552590": {
-      "rank": 3767,
+      "rank": 3766,
       "estimate": "<7k",
       "name": "Animal Bakery"
     },
@@ -100,12 +100,12 @@
       "name": "Dark Craft"
     },
     "4109980": {
-      "rank": 2226,
+      "rank": 2224,
       "estimate": "7k+",
       "name": "Riftwalker"
     },
     "4160880": {
-      "rank": 3297,
+      "rank": 3294,
       "estimate": "<7k",
       "name": "Ember Seeker"
     },
@@ -118,6 +118,11 @@
       "rank": 340,
       "estimate": "80k+",
       "name": "Brotato: Primal Dread"
+    },
+    "4556180": {
+      "rank": 4631,
+      "estimate": "<7k",
+      "name": "RuneKeeper"
     }
   }
 }
