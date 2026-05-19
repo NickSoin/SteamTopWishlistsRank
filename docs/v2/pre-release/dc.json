@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-18T20:03:02.253Z",
+  "updatedAt": "2026-05-19T23:03:44.954Z",
   "entryCount": 18,
   "entries": {
     "1097350": {
@@ -98,11 +98,11 @@
       "source": "historical"
     },
     "2483190": {
-      "rank": 1,
-      "estimate": "4m+",
+      "rank": 2,
+      "estimate": "1.5m+",
       "name": "Forza Horizon 6",
       "releaseDate": "2026-05-18",
-      "source": "historical"
+      "source": "tracked"
     },
     "2581410": {
       "rank": 764,

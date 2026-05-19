@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-18T20:03:02.253Z",
-  "entryCount": 28,
+  "updatedAt": "2026-05-19T23:03:44.954Z",
+  "entryCount": 29,
   "entries": {
     "930280": {
       "rank": 438,
@@ -205,6 +205,13 @@
       "name": "Crime Simulator",
       "releaseDate": "2025-06-17",
       "source": "historical"
+    },
+    "4275420": {
+      "rank": 3098,
+      "estimate": "<7k",
+      "name": "93, Kuindzhi",
+      "releaseDate": "2026-05-19",
+      "source": "tracked"
     }
   }
 }

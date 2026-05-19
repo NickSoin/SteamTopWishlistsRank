@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-18T20:03:02.253Z",
-  "entryCount": 26,
+  "updatedAt": "2026-05-19T23:03:44.954Z",
+  "entryCount": 27,
   "entries": {
     "338820": {
       "rank": 1245,
@@ -187,6 +187,13 @@
       "name": "Tiny Garden",
       "releaseDate": "2025-04-08",
       "source": "historical"
+    },
+    "4165620": {
+      "rank": 1903,
+      "estimate": "15k+",
+      "name": "R-Type Dimensions III",
+      "releaseDate": "2026-05-18",
+      "source": "tracked"
     }
   }
 }

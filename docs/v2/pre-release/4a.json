@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-18T20:03:02.253Z",
-  "entryCount": 30,
+  "updatedAt": "2026-05-19T23:03:44.954Z",
+  "entryCount": 31,
   "entries": {
     "1113030": {
       "rank": 437,
@@ -219,6 +219,13 @@
       "name": "Megabonk",
       "releaseDate": "2025-09-18",
       "source": "historical"
+    },
+    "3690270": {
+      "rank": 3754,
+      "estimate": "<7k",
+      "name": "Girls' Dorm -Managing an all-girls' dormitory- After",
+      "releaseDate": "2026-05-18",
+      "source": "tracked"
     }
   }
 }

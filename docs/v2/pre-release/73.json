@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-18T20:03:02.253Z",
-  "entryCount": 17,
+  "updatedAt": "2026-05-19T23:03:44.954Z",
+  "entryCount": 18,
   "entries": {
     "427940": {
       "rank": 24,
@@ -122,6 +122,13 @@
       "name": "Dosa Divas",
       "releaseDate": "2026-04-14",
       "source": "historical"
+    },
+    "3690260": {
+      "rank": 2547,
+      "estimate": "7k+",
+      "name": "Girls' Dorm -Managing an all-girls' dormitory-",
+      "releaseDate": "2026-05-18",
+      "source": "tracked"
     }
   }
 }

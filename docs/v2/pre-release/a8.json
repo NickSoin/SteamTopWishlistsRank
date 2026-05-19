@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-18T20:03:02.253Z",
-  "entryCount": 20,
+  "updatedAt": "2026-05-19T23:03:44.954Z",
+  "entryCount": 21,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -145,6 +145,13 @@
       "name": "Nymphomaniac - Sex Addict",
       "releaseDate": "2024-10-02",
       "source": "historical"
+    },
+    "3542380": {
+      "rank": 581,
+      "estimate": "40k+",
+      "name": "Rune Dice",
+      "releaseDate": "2026-05-19",
+      "source": "tracked"
     }
   }
 }

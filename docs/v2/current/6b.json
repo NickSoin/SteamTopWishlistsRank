@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-18T20:03:02.253Z",
-  "entryCount": 13,
+  "updatedAt": "2026-05-19T23:03:44.954Z",
+  "entryCount": 14,
   "entries": {
     "463940": {
       "rank": 4047,
@@ -10,17 +10,17 @@
       "name": "Shadow Over Isolation"
     },
     "718550": {
-      "rank": 3560,
+      "rank": 3564,
       "estimate": "<7k",
       "name": "Usurpator"
     },
     "1159390": {
-      "rank": 451,
+      "rank": 452,
       "estimate": "80k+",
       "name": "Taxi Simulator"
     },
     "1179020": {
-      "rank": 1181,
+      "rank": 1179,
       "estimate": "25k+",
       "name": "Red Frost"
     },
@@ -30,42 +30,47 @@
       "name": "Midwest 90: Rapid City"
     },
     "2388920": {
-      "rank": 4088,
+      "rank": 4091,
       "estimate": "<7k",
       "name": "Soulers"
     },
     "2744160": {
-      "rank": 836,
+      "rank": 832,
       "estimate": "40k+",
       "name": "Construction Simulator: Evolution"
     },
     "2783280": {
-      "rank": 3099,
+      "rank": 3101,
       "estimate": "<7k",
       "name": "Cat Secretary"
     },
     "2898700": {
-      "rank": 3248,
+      "rank": 3247,
       "estimate": "<7k",
       "name": "Wanna Sleep All Day,But"
     },
     "2950790": {
-      "rank": 161,
+      "rank": 158,
       "estimate": "200k+",
       "name": "IRON NEST: Heavy Turret Simulator"
     },
     "3429280": {
-      "rank": 2468,
+      "rank": 2457,
       "estimate": "7k+",
       "name": "ATOM RPG 2"
     },
+    "3875670": {
+      "rank": 4638,
+      "estimate": "<7k",
+      "name": "Winemaker Simulator"
+    },
     "4289470": {
-      "rank": 3603,
+      "rank": 3605,
       "estimate": "<7k",
       "name": "DREAMTONE"
     },
     "4498500": {
-      "rank": 4027,
+      "rank": 4011,
       "estimate": "<7k",
       "name": "Kopno: Blightfall"
     }

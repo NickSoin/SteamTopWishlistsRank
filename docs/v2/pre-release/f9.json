@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-18T20:03:02.253Z",
+  "updatedAt": "2026-05-19T23:03:44.954Z",
   "entryCount": 24,
   "entries": {
     "257420": {
@@ -117,12 +117,12 @@
       "source": "historical"
     },
     "2383130": {
-      "rank": 14,
-      "estimate": "180k",
-      "actualWishlists": 180000,
+      "rank": 272,
+      "estimate": "80k+",
       "name": "Project: Mist",
       "releaseDate": "2026-05-19",
-      "source": "historical",
+      "source": "tracked",
+      "actualWishlists": 180000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365096308"
     },
     "2396240": {
