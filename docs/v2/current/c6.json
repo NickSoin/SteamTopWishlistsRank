@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-19T23:03:44.954Z",
-  "entryCount": 15,
+  "updatedAt": "2026-05-20T04:55:45.397Z",
+  "entryCount": 16,
   "entries": {
     "1510710": {
-      "rank": 4051,
+      "rank": 4050,
       "estimate": "<7k",
       "name": "dev_hell"
     },
@@ -15,9 +15,14 @@
       "name": "What Lives Below"
     },
     "1667010": {
-      "rank": 4477,
+      "rank": 4479,
       "estimate": "<7k",
       "name": "Pirates Job"
+    },
+    "2097940": {
+      "rank": 3561,
+      "estimate": "<7k",
+      "name": "Theatre of War: Rearmed"
     },
     "2184280": {
       "rank": 900,
@@ -25,7 +30,7 @@
       "name": "Vexlands"
     },
     "2388440": {
-      "rank": 2148,
+      "rank": 2149,
       "estimate": "7k+",
       "name": "Battlecore Robots"
     },
@@ -40,22 +45,22 @@
       "name": "Tales Of Wakana"
     },
     "2682980": {
-      "rank": 2312,
+      "rank": 2311,
       "estimate": "7k+",
       "name": "The Bunny Graveyard II"
     },
     "2814880": {
-      "rank": 1898,
+      "rank": 1901,
       "estimate": "15k+",
       "name": "Synchro"
     },
     "3045520": {
-      "rank": 2807,
+      "rank": 2809,
       "estimate": "7k+",
       "name": "Sea Sniffers"
     },
     "3166630": {
-      "rank": 4609,
+      "rank": 4607,
       "estimate": "<7k",
       "name": "MARS"
     },
@@ -70,12 +75,12 @@
       "name": "Euro Truck Simulator 2 - Iceland"
     },
     "4148080": {
-      "rank": 4049,
+      "rank": 4047,
       "estimate": "<7k",
       "name": "泥舟と罪人"
     },
     "4487060": {
-      "rank": 1397,
+      "rank": 1388,
       "estimate": "25k+",
       "name": "Northgard Battlegrounds"
     }
