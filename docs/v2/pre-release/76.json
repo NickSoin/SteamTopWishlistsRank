@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-20T04:55:45.397Z",
-  "entryCount": 25,
+  "updatedAt": "2026-05-20T08:43:19.863Z",
+  "entryCount": 26,
   "entries": {
     "578650": {
       "rank": 2,
@@ -182,6 +182,13 @@
       "releaseDate": "2026-04-14",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1829528821307462"
+    },
+    "4535880": {
+      "rank": 3775,
+      "estimate": "<7k",
+      "name": "Dice Have No Eyes",
+      "releaseDate": "2026-05-19",
+      "source": "tracked"
     }
   }
 }

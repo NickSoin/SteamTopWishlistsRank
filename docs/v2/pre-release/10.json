@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-20T04:55:45.397Z",
+  "updatedAt": "2026-05-20T08:43:19.863Z",
   "entryCount": 24,
   "entries": {
     "378690": {
@@ -131,11 +131,11 @@
       "source": "historical"
     },
     "2223420": {
-      "rank": 1694,
-      "estimate": "15k+",
+      "rank": 1372,
+      "estimate": "25k+",
       "name": "Voice of Belldona",
       "releaseDate": "2026-05-20",
-      "source": "historical"
+      "source": "tracked"
     },
     "2234200": {
       "rank": 1316,

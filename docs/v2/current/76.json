@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-20T04:55:45.397Z",
-  "entryCount": 12,
+  "updatedAt": "2026-05-20T08:43:19.863Z",
+  "entryCount": 11,
   "entries": {
     "1167110": {
-      "rank": 1972,
+      "rank": 1971,
       "estimate": "15k+",
       "name": "Rubi: The Wayward Mira"
     },
     "1545510": {
-      "rank": 2516,
+      "rank": 2515,
       "estimate": "7k+",
       "name": "Camping Builder"
     },
@@ -40,7 +40,7 @@
       "name": "Fallen Fates"
     },
     "3432980": {
-      "rank": 1488,
+      "rank": 1487,
       "estimate": "25k+",
       "name": "Ballistic.exe"
     },
@@ -50,19 +50,14 @@
       "name": "Frostrail"
     },
     "4119600": {
-      "rank": 3543,
+      "rank": 3541,
       "estimate": "<7k",
       "name": "UK Politics Simulator"
     },
     "4337710": {
-      "rank": 2010,
+      "rank": 2009,
       "estimate": "7k+",
       "name": "The Abased"
-    },
-    "4535880": {
-      "rank": 3775,
-      "estimate": "<7k",
-      "name": "Dice Have No Eyes"
     }
   }
 }
