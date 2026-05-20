@@ -1,31 +1,36 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-20T12:41:22.485Z",
-  "entryCount": 19,
+  "updatedAt": "2026-05-20T18:33:09.341Z",
+  "entryCount": 20,
   "entries": {
     "895160": {
-      "rank": 188,
+      "rank": 186,
       "estimate": "200k+",
       "name": "Autonomica"
     },
     "1503170": {
-      "rank": 1005,
+      "rank": 1003,
       "estimate": "25k+",
       "name": "Liegecraft"
     },
+    "1536660": {
+      "rank": 4640,
+      "estimate": "<7k",
+      "name": "Ancient Arenas: Chariots"
+    },
     "1689340": {
-      "rank": 1734,
+      "rank": 1732,
       "estimate": "15k+",
       "name": "Island of Winds"
     },
     "2704310": {
-      "rank": 3997,
+      "rank": 3993,
       "estimate": "<7k",
       "name": "HARM Weather Warfare"
     },
     "2802740": {
-      "rank": 3365,
+      "rank": 3360,
       "estimate": "<7k",
       "name": "Heave Ho 2"
     },
@@ -35,67 +40,67 @@
       "name": "NEVERLANDER: An Awfully Big Adventure"
     },
     "2925520": {
-      "rank": 2061,
+      "rank": 2051,
       "estimate": "7k+",
       "name": "AOKAKI"
     },
     "3195360": {
-      "rank": 960,
+      "rank": 957,
       "estimate": "40k+",
       "name": "Coromon: Rogue Planet"
     },
     "3284200": {
-      "rank": 1381,
+      "rank": 1379,
       "estimate": "25k+",
       "name": "Muri: Wildwoods"
     },
     "3607230": {
-      "rank": 4227,
+      "rank": 4228,
       "estimate": "<7k",
       "name": "Ridiculous Space Battles"
     },
     "3707530": {
-      "rank": 478,
+      "rank": 475,
       "estimate": "80k+",
       "name": "The Vernyhorn"
     },
     "3774860": {
-      "rank": 1231,
+      "rank": 1228,
       "estimate": "25k+",
       "name": "BOMMY"
     },
     "3855060": {
-      "rank": 3156,
+      "rank": 3153,
       "estimate": "<7k",
       "name": "Dice Throne Digital"
     },
     "3980340": {
-      "rank": 3287,
+      "rank": 3283,
       "estimate": "<7k",
       "name": "Imprinted"
     },
     "4177730": {
-      "rank": 3748,
+      "rank": 3706,
       "estimate": "<7k",
       "name": "NICE TO MEET YOU, AGAIN"
     },
     "4183580": {
-      "rank": 3733,
+      "rank": 3730,
       "estimate": "<7k",
       "name": "Stationbreak"
     },
     "4278150": {
-      "rank": 2985,
+      "rank": 2979,
       "estimate": "7k+",
       "name": "One Iced Latte: Milk Song"
     },
     "4328840": {
-      "rank": 2743,
+      "rank": 2675,
       "estimate": "7k+",
       "name": "Tideborne Haven"
     },
     "4525180": {
-      "rank": 4184,
+      "rank": 4172,
       "estimate": "<7k",
       "name": "Angel Zero"
     }

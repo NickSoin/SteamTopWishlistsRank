@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-20T12:41:22.485Z",
-  "entryCount": 22,
+  "updatedAt": "2026-05-20T18:33:09.341Z",
+  "entryCount": 23,
   "entries": {
     "977510": {
       "rank": 1079,
@@ -159,6 +159,13 @@
       "name": "Garten of Banban 8: Anti Devil",
       "releaseDate": "2025-08-28",
       "source": "historical"
+    },
+    "4179280": {
+      "rank": 1755,
+      "estimate": "15k+",
+      "name": "Moonshiner Simulator",
+      "releaseDate": "2026-05-20",
+      "source": "tracked"
     }
   }
 }

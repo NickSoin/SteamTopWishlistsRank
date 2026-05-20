@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-20T12:41:22.485Z",
+  "updatedAt": "2026-05-20T18:33:09.341Z",
   "entryCount": 29,
   "entries": {
     "930280": {
@@ -26,12 +26,12 @@
       "source": "historical"
     },
     "1206070": {
-      "rank": 642,
-      "estimate": "100k",
-      "actualWishlists": 100000,
+      "rank": 432,
+      "estimate": "80k+",
       "name": "Phonopolis",
       "releaseDate": "2026-05-20",
-      "source": "historical",
+      "source": "tracked",
+      "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155565204"
     },
     "1239300": {

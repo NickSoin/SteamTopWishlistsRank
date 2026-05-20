@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-20T12:41:22.485Z",
-  "entryCount": 18,
+  "updatedAt": "2026-05-20T18:33:09.341Z",
+  "entryCount": 19,
   "entries": {
     "832360": {
       "rank": 188,
@@ -129,6 +129,13 @@
       "name": "Wild Assault",
       "releaseDate": "2025-04-11",
       "source": "historical"
+    },
+    "3123540": {
+      "rank": 2074,
+      "estimate": "7k+",
+      "name": "Lover's Enigma",
+      "releaseDate": "2026-05-20",
+      "source": "tracked"
     }
   }
 }

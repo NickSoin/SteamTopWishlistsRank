@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-20T12:41:22.485Z",
+  "updatedAt": "2026-05-20T18:33:09.341Z",
   "entryCount": 15,
   "entries": {
     "1454160": {
@@ -75,11 +75,11 @@
       "source": "historical"
     },
     "2605790": {
-      "rank": 31,
+      "rank": 23,
       "estimate": "600k+",
       "name": "Deep Rock Galactic: Rogue Core",
       "releaseDate": "2026-05-20",
-      "source": "historical"
+      "source": "tracked"
     },
     "2668290": {
       "rank": 553,
