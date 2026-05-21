@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-21T17:47:14.885Z",
-  "entryCount": 18,
+  "updatedAt": "2026-05-21T21:58:51.717Z",
+  "entryCount": 19,
   "entries": {
     "649560": {
-      "rank": 2475,
+      "rank": 2481,
       "estimate": "7k+",
       "name": "L.A.P.D. 2195"
     },
@@ -15,27 +15,27 @@
       "name": "WRAITH OPS"
     },
     "1355680": {
-      "rank": 4416,
+      "rank": 4423,
       "estimate": "<7k",
       "name": "Ardent Seas"
     },
     "1547010": {
-      "rank": 2570,
+      "rank": 2575,
       "estimate": "7k+",
       "name": "NEET"
     },
     "1999930": {
-      "rank": 1102,
+      "rank": 1103,
       "estimate": "25k+",
       "name": "Never's End"
     },
     "2521170": {
-      "rank": 2517,
+      "rank": 2522,
       "estimate": "7k+",
       "name": "Looking For Fael"
     },
     "2615420": {
-      "rank": 1806,
+      "rank": 1808,
       "estimate": "15k+",
       "name": "Portal: Ambition"
     },
@@ -50,32 +50,32 @@
       "name": "Catly"
     },
     "3008890": {
-      "rank": 3790,
+      "rank": 3794,
       "estimate": "<7k",
       "name": "Rolus in the Outskirts"
     },
     "3009440": {
-      "rank": 4382,
+      "rank": 4381,
       "estimate": "<7k",
       "name": "Dungeon Baller"
     },
     "3158070": {
-      "rank": 4628,
+      "rank": 4634,
       "estimate": "<7k",
       "name": "Deadline Savior"
     },
     "3636930": {
-      "rank": 1120,
+      "rank": 1118,
       "estimate": "25k+",
       "name": "Professional Ship Simulator"
     },
     "3699850": {
-      "rank": 3042,
+      "rank": 3043,
       "estimate": "<7k",
       "name": "The Devil's Due"
     },
     "3709430": {
-      "rank": 900,
+      "rank": 899,
       "estimate": "40k+",
       "name": "Witch's Apocalyptic Journey"
     },
@@ -85,14 +85,19 @@
       "name": "P.O.N."
     },
     "4098030": {
-      "rank": 4069,
+      "rank": 4071,
       "estimate": "<7k",
       "name": "Shipping Store Simulator 2037"
     },
     "4314170": {
-      "rank": 2499,
+      "rank": 2505,
       "estimate": "7k+",
       "name": "Jibbers"
+    },
+    "4476320": {
+      "rank": 4387,
+      "estimate": "<7k",
+      "name": "Feed The Void"
     }
   }
 }

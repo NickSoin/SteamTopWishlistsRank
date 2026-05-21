@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T17:47:14.885Z",
-  "entryCount": 15,
+  "updatedAt": "2026-05-21T21:58:51.717Z",
+  "entryCount": 16,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -114,6 +114,13 @@
       "name": "Castle Crashers - Painter Boss Paradise",
       "releaseDate": "2025-08-06",
       "source": "historical"
+    },
+    "4128400": {
+      "rank": 4450,
+      "estimate": "<7k",
+      "name": "eBaseball™: PRO SPIRIT",
+      "releaseDate": "2026-03-04",
+      "source": "tracked"
     }
   }
 }

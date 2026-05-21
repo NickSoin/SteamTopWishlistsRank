@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-21T17:47:14.885Z",
-  "entryCount": 16,
+  "updatedAt": "2026-05-21T21:58:51.717Z",
+  "entryCount": 17,
   "entries": {
     "777210": {
-      "rank": 2429,
+      "rank": 2435,
       "estimate": "7k+",
       "name": "Vulpine"
     },
@@ -15,32 +15,32 @@
       "name": "Wild Blue Skies"
     },
     "2290870": {
-      "rank": 1629,
+      "rank": 1632,
       "estimate": "15k+",
       "name": "Clown Meat"
     },
     "2383240": {
-      "rank": 1720,
+      "rank": 1723,
       "estimate": "15k+",
       "name": "Ecumene Aztec"
     },
     "2679710": {
-      "rank": 4194,
+      "rank": 4198,
       "estimate": "<7k",
       "name": "Mages Arena"
     },
     "2868080": {
-      "rank": 3249,
+      "rank": 3253,
       "estimate": "<7k",
       "name": "ICEBOUND"
     },
     "3124600": {
-      "rank": 2953,
+      "rank": 2952,
       "estimate": "7k+",
       "name": "of the Devil - Episode 3"
     },
     "3171790": {
-      "rank": 4549,
+      "rank": 4555,
       "estimate": "<7k",
       "name": "Astra Sentinel"
     },
@@ -50,39 +50,44 @@
       "name": "Jigrift"
     },
     "3357600": {
-      "rank": 1937,
+      "rank": 1941,
       "estimate": "15k+",
       "name": "MOTHERLAND"
     },
     "3491690": {
-      "rank": 2544,
+      "rank": 2548,
       "estimate": "7k+",
       "name": "lovebyte.exe"
     },
     "3677850": {
-      "rank": 3716,
+      "rank": 3719,
       "estimate": "<7k",
       "name": "Springs, Eternal"
     },
     "3679760": {
-      "rank": 3436,
+      "rank": 3441,
       "estimate": "<7k",
       "name": "Paper Dungeon - Deep Down"
     },
     "4144090": {
-      "rank": 1933,
+      "rank": 1936,
       "estimate": "15k+",
       "name": "Shores of Vaelithar"
     },
     "4193300": {
-      "rank": 4359,
+      "rank": 4363,
       "estimate": "<7k",
       "name": "Fleshborn"
     },
     "4271680": {
-      "rank": 3524,
+      "rank": 3528,
       "estimate": "<7k",
       "name": "outpost4"
+    },
+    "4736790": {
+      "rank": 4348,
+      "estimate": "<7k",
+      "name": "Tactics Wanderer"
     }
   }
 }
