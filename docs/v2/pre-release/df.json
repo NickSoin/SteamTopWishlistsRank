@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T13:57:10.386Z",
+  "updatedAt": "2026-05-21T17:47:14.885Z",
   "entryCount": 24,
   "entries": {
     "990080": {
@@ -161,11 +161,11 @@
       "source": "historical"
     },
     "2532480": {
-      "rank": 228,
-      "estimate": "80k+",
+      "rank": 146,
+      "estimate": "200k+",
       "name": "Warhammer 40,000: Mechanicus II",
       "releaseDate": "2026-05-21",
-      "source": "historical"
+      "source": "tracked"
     },
     "2715650": {
       "rank": 1187,

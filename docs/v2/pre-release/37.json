@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T13:57:10.386Z",
+  "updatedAt": "2026-05-21T17:47:14.885Z",
   "entryCount": 26,
   "entries": {
     "863500": {
@@ -89,11 +89,11 @@
       "source": "historical"
     },
     "1933000": {
-      "rank": 290,
+      "rank": 301,
       "estimate": "80k+",
       "name": "Luna Abyss",
       "releaseDate": "2026-05-21",
-      "source": "historical"
+      "source": "tracked"
     },
     "1965270": {
       "rank": 2019,

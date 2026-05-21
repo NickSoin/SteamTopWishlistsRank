@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T13:57:10.386Z",
-  "entryCount": 30,
+  "updatedAt": "2026-05-21T17:47:14.885Z",
+  "entryCount": 31,
   "entries": {
     "529340": {
       "rank": 19,
@@ -152,6 +152,13 @@
       "name": "Lunar Mirror:The Pavilion of Desire",
       "releaseDate": "2023-03-04",
       "source": "historical"
+    },
+    "2199080": {
+      "rank": 906,
+      "estimate": "40k+",
+      "name": "STARBITES",
+      "releaseDate": "2026-05-21",
+      "source": "tracked"
     },
     "2205750": {
       "rank": 43,

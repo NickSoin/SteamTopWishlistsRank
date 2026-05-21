@@ -1,46 +1,46 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-21T13:57:10.386Z",
-  "entryCount": 20,
+  "updatedAt": "2026-05-21T17:47:14.885Z",
+  "entryCount": 21,
   "entries": {
     "771800": {
-      "rank": 697,
+      "rank": 694,
       "estimate": "40k+",
       "name": "Deadstick - Bush Flight Simulator"
     },
     "1101370": {
-      "rank": 795,
+      "rank": 792,
       "estimate": "40k+",
       "name": "Wind Runners"
     },
     "1680800": {
-      "rank": 4151,
+      "rank": 4147,
       "estimate": "<7k",
       "name": "Biwar Legend of Dragon Slayer"
     },
     "1690100": {
-      "rank": 2069,
+      "rank": 2063,
       "estimate": "7k+",
       "name": "Cosminers"
     },
     "1823210": {
-      "rank": 1551,
+      "rank": 1548,
       "estimate": "15k+",
       "name": "Breeze in the Clouds"
     },
     "2159260": {
-      "rank": 939,
+      "rank": 935,
       "estimate": "40k+",
       "name": "Vampire Rancher"
     },
     "2193150": {
-      "rank": 577,
+      "rank": 575,
       "estimate": "40k+",
       "name": "Kibu"
     },
     "2287550": {
-      "rank": 4327,
+      "rank": 4321,
       "estimate": "<7k",
       "name": "Farm RPG"
     },
@@ -50,59 +50,64 @@
       "name": "Unrecord"
     },
     "2404870": {
-      "rank": 4281,
+      "rank": 4274,
       "estimate": "<7k",
       "name": "Camping Park Simulator"
     },
     "2549980": {
-      "rank": 3143,
+      "rank": 3134,
       "estimate": "<7k",
       "name": "RANGER COMMANDO"
     },
     "2669200": {
-      "rank": 4386,
+      "rank": 4380,
       "estimate": "<7k",
       "name": "Catffee Time!"
     },
     "2687200": {
-      "rank": 974,
+      "rank": 971,
       "estimate": "40k+",
       "name": "100 London Cats"
     },
     "2753000": {
-      "rank": 895,
+      "rank": 892,
       "estimate": "40k+",
       "name": "GOALS"
     },
     "3152750": {
-      "rank": 2687,
+      "rank": 2679,
       "estimate": "7k+",
       "name": "Taival"
     },
     "3309550": {
-      "rank": 990,
+      "rank": 986,
       "estimate": "40k+",
       "name": "Skarven"
     },
     "3558600": {
-      "rank": 1245,
+      "rank": 1238,
       "estimate": "25k+",
       "name": "Leafy Corner"
     },
     "3606970": {
-      "rank": 566,
+      "rank": 564,
       "estimate": "40k+",
       "name": "Brass Rain"
     },
     "3696210": {
-      "rank": 3664,
+      "rank": 3656,
       "estimate": "<7k",
       "name": "On Donuts and Holes"
     },
     "3699390": {
-      "rank": 3700,
+      "rank": 3694,
       "estimate": "<7k",
       "name": "Little Mage"
+    },
+    "4668890": {
+      "rank": 4608,
+      "estimate": "<7k",
+      "name": "Mall Together"
     }
   }
 }

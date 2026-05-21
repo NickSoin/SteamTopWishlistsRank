@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T13:57:10.386Z",
-  "entryCount": 33,
+  "updatedAt": "2026-05-21T17:47:14.885Z",
+  "entryCount": 34,
   "entries": {
     "871540": {
       "rank": 824,
@@ -227,6 +227,13 @@
       "name": "Exorcist Onmyoji",
       "releaseDate": "2024-11-07",
       "source": "historical"
+    },
+    "3412160": {
+      "rank": 993,
+      "estimate": "40k+",
+      "name": "The House Always Wins",
+      "releaseDate": "2026-05-21",
+      "source": "tracked"
     },
     "3710840": {
       "rank": 29,

@@ -1,73 +1,78 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-21T13:57:10.386Z",
-  "entryCount": 13,
+  "updatedAt": "2026-05-21T17:47:14.885Z",
+  "entryCount": 14,
   "entries": {
     "850870": {
-      "rank": 2594,
+      "rank": 2589,
       "estimate": "7k+",
       "name": "Hard-Life"
     },
     "1352140": {
-      "rank": 870,
+      "rank": 867,
       "estimate": "40k+",
       "name": "VUP-Simulator"
     },
     "1454370": {
-      "rank": 170,
+      "rank": 169,
       "estimate": "200k+",
       "name": "STARSEEKER: Astroneer Expeditions"
     },
     "1633850": {
-      "rank": 913,
+      "rank": 909,
       "estimate": "40k+",
       "name": "Jianghu Simulator"
     },
     "1777480": {
-      "rank": 493,
+      "rank": 492,
       "estimate": "80k+",
       "name": "Pathbreakers: Roaming Blades"
     },
     "1833210": {
-      "rank": 2326,
+      "rank": 2318,
       "estimate": "7k+",
       "name": "Astromine"
     },
     "2160070": {
-      "rank": 685,
+      "rank": 682,
       "estimate": "40k+",
       "name": "Forge of the Fae"
     },
     "2527970": {
-      "rank": 2208,
+      "rank": 2202,
       "estimate": "7k+",
       "name": "Sea Of Rifts"
     },
     "2712590": {
-      "rank": 549,
+      "rank": 547,
       "estimate": "40k+",
       "name": "Dragon Shelter"
     },
     "3164310": {
-      "rank": 3399,
+      "rank": 3392,
       "estimate": "<7k",
       "name": "Verde"
     },
     "3522600": {
-      "rank": 335,
+      "rank": 333,
       "estimate": "80k+",
       "name": "Demon Bluff"
     },
     "3635740": {
-      "rank": 3848,
+      "rank": 3841,
       "estimate": "<7k",
       "name": "Subjectivation"
     },
     "3829400": {
-      "rank": 1230,
+      "rank": 1225,
       "estimate": "25k+",
       "name": "Grand Tactician: Napoleonic Wars (1792-1815)"
+    },
+    "4355580": {
+      "rank": 3438,
+      "estimate": "<7k",
+      "name": "Warhammer 40,000: Darktide - Skitarii Class Deluxe Edition"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T13:57:10.386Z",
-  "entryCount": 21,
+  "updatedAt": "2026-05-21T17:47:14.885Z",
+  "entryCount": 22,
   "entries": {
     "716350": {
       "rank": 688,
@@ -156,6 +156,13 @@
       "releaseDate": "2026-02-11",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466508767"
+    },
+    "3585520": {
+      "rank": 2190,
+      "estimate": "7k+",
+      "name": "Hillshade Farm",
+      "releaseDate": "2026-05-21",
+      "source": "tracked"
     }
   }
 }
