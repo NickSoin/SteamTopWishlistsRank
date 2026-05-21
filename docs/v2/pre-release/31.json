@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T05:10:42.437Z",
-  "entryCount": 17,
+  "updatedAt": "2026-05-21T08:45:46.196Z",
+  "entryCount": 18,
   "entries": {
     "747660": {
       "rank": 193,
@@ -124,6 +124,13 @@
       "name": "Amanda the Adventurer 2",
       "releaseDate": "2024-10-22",
       "source": "historical"
+    },
+    "4337210": {
+      "rank": 2756,
+      "estimate": "7k+",
+      "name": "Berserker Onslaught",
+      "releaseDate": "2026-05-20",
+      "source": "tracked"
     }
   }
 }
