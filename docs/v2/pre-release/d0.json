@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T08:45:46.196Z",
-  "entryCount": 18,
+  "updatedAt": "2026-05-21T13:57:10.386Z",
+  "entryCount": 19,
   "entries": {
     "803330": {
       "rank": 19,
@@ -80,6 +80,13 @@
       "name": "Headquarters: World War II",
       "releaseDate": "2024-04-11",
       "source": "historical"
+    },
+    "2111550": {
+      "rank": 700,
+      "estimate": "40k+",
+      "name": "Schrodinger's Cat Burglar",
+      "releaseDate": "2026-05-21",
+      "source": "tracked"
     },
     "2152740": {
       "rank": 2305,

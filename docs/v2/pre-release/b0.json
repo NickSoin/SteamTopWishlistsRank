@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T08:45:46.196Z",
-  "entryCount": 29,
+  "updatedAt": "2026-05-21T13:57:10.386Z",
+  "entryCount": 30,
   "entries": {
     "490110": {
       "rank": 24,
@@ -206,6 +206,13 @@
       "name": "SHINONOME ABYSS The Maiden Exorcist",
       "releaseDate": "2026-03-25",
       "source": "historical"
+    },
+    "3161220": {
+      "rank": 463,
+      "estimate": "80k+",
+      "name": "Coffee Talk Tokyo",
+      "releaseDate": "2026-05-21",
+      "source": "tracked"
     }
   }
 }

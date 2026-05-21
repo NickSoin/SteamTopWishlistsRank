@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T08:45:46.196Z",
-  "entryCount": 18,
+  "updatedAt": "2026-05-21T13:57:10.386Z",
+  "entryCount": 19,
   "entries": {
     "427940": {
       "rank": 24,
@@ -128,6 +128,13 @@
       "estimate": "7k+",
       "name": "Girls' Dorm -Managing an all-girls' dormitory-",
       "releaseDate": "2026-05-18",
+      "source": "tracked"
+    },
+    "4351410": {
+      "rank": 619,
+      "estimate": "40k+",
+      "name": "House Flipper 2 - Sakura DLC",
+      "releaseDate": "2026-05-21",
       "source": "tracked"
     }
   }

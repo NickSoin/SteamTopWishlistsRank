@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T08:45:46.196Z",
-  "entryCount": 18,
+  "updatedAt": "2026-05-21T13:57:10.386Z",
+  "entryCount": 19,
   "entries": {
     "813230": {
       "rank": 13,
@@ -131,6 +131,13 @@
       "name": "Food Devils",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4399460": {
+      "rank": 871,
+      "estimate": "40k+",
+      "name": "Total War: WARHAMMER III - Bhashiva – Character Pack",
+      "releaseDate": "2026-05-21",
+      "source": "tracked"
     }
   }
 }

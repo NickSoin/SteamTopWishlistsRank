@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T08:45:46.196Z",
-  "entryCount": 27,
+  "updatedAt": "2026-05-21T13:57:10.386Z",
+  "entryCount": 28,
   "entries": {
     "812910": {
       "rank": 1037,
@@ -173,6 +173,13 @@
       "name": "Follow the meaning",
       "releaseDate": "2024-11-22",
       "source": "historical"
+    },
+    "2863680": {
+      "rank": 95,
+      "estimate": "300k+",
+      "name": "ZERO PARADES: For Dead Spies",
+      "releaseDate": "2026-05-21",
+      "source": "tracked"
     },
     "2902570": {
       "rank": 2992,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-21T08:45:46.196Z",
-  "entryCount": 27,
+  "updatedAt": "2026-05-21T13:57:10.386Z",
+  "entryCount": 28,
   "entries": {
     "292000": {
       "rank": 29,
@@ -198,6 +198,13 @@
       "name": "Lilja and Natsuka Painting Lies",
       "releaseDate": "2024-07-24",
       "source": "historical"
+    },
+    "3126340": {
+      "rank": 1425,
+      "estimate": "25k+",
+      "name": "Burden Street Station",
+      "releaseDate": "2026-05-21",
+      "source": "tracked"
     }
   }
 }
