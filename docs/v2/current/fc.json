@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-20T22:23:07.628Z",
-  "entryCount": 13,
+  "updatedAt": "2026-05-21T05:10:42.437Z",
+  "entryCount": 14,
   "entries": {
     "907500": {
-      "rank": 1860,
+      "rank": 1861,
       "estimate": "15k+",
       "name": "The Peterson Case"
     },
     "1201470": {
-      "rank": 4278,
+      "rank": 4280,
       "estimate": "<7k",
       "name": "Solar Baron"
     },
     "1601870": {
-      "rank": 4139,
+      "rank": 4142,
       "estimate": "<7k",
       "name": "Evade The Light"
     },
     "1883830": {
-      "rank": 1711,
+      "rank": 1712,
       "estimate": "15k+",
       "name": "Directorate Novitiate"
     },
     "2379820": {
-      "rank": 1131,
+      "rank": 1128,
       "estimate": "25k+",
       "name": "Forty-Niner"
     },
@@ -40,24 +40,29 @@
       "name": "Decadent Heir"
     },
     "3265290": {
-      "rank": 2947,
+      "rank": 2948,
       "estimate": "7k+",
       "name": "Swan Song"
     },
     "3346320": {
-      "rank": 4620,
+      "rank": 4622,
       "estimate": "<7k",
       "name": "RE:Choice"
     },
     "3572310": {
-      "rank": 1402,
+      "rank": 1404,
       "estimate": "25k+",
       "name": "Ministry of Order"
     },
     "3586920": {
-      "rank": 2701,
+      "rank": 2702,
       "estimate": "7k+",
       "name": "Extreme Cleaning Simulator"
+    },
+    "3728470": {
+      "rank": 4647,
+      "estimate": "<7k",
+      "name": "Gin's Gunstore"
     },
     "4218680": {
       "rank": 960,
@@ -65,7 +70,7 @@
       "name": "Bird Game 3"
     },
     "4421440": {
-      "rank": 2079,
+      "rank": 2080,
       "estimate": "7k+",
       "name": "Pierrot"
     }

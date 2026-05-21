@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-20T22:23:07.628Z",
-  "entryCount": 22,
+  "updatedAt": "2026-05-21T05:10:42.437Z",
+  "entryCount": 23,
   "entries": {
     "753640": {
       "rank": 18,
@@ -163,6 +163,13 @@
       "name": "Grave Seasons",
       "releaseDate": "2026-08-14",
       "source": "historical"
+    },
+    "3397120": {
+      "rank": 3968,
+      "estimate": "<7k",
+      "name": "Holy Valkyrie ExS-TIA P",
+      "releaseDate": "2026-05-20",
+      "source": "tracked"
     }
   }
 }
