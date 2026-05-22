@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-22T17:37:23.521Z",
-  "entryCount": 13,
+  "updatedAt": "2026-05-22T21:42:05.506Z",
+  "entryCount": 14,
   "entries": {
     "1103820": {
-      "rank": 1599,
+      "rank": 1601,
       "estimate": "15k+",
       "name": "Siege of Irdor"
     },
     "1440570": {
-      "rank": 3642,
+      "rank": 3645,
       "estimate": "<7k",
       "name": "Angelic: Dark Symphony"
     },
@@ -20,7 +20,7 @@
       "name": "Roman Empire Wars"
     },
     "1652580": {
-      "rank": 1608,
+      "rank": 1609,
       "estimate": "15k+",
       "name": "Imperial Grace"
     },
@@ -30,12 +30,12 @@
       "name": "RASKOPNIK: The Trench Warrior"
     },
     "2402500": {
-      "rank": 1874,
+      "rank": 1876,
       "estimate": "15k+",
       "name": "Hayaku! Island of Darkness"
     },
     "2431920": {
-      "rank": 4435,
+      "rank": 4438,
       "estimate": "<7k",
       "name": "Heir of the Dog"
     },
@@ -45,7 +45,7 @@
       "name": "Burnin' Rubber 6"
     },
     "3340890": {
-      "rank": 3831,
+      "rank": 3832,
       "estimate": "<7k",
       "name": "Necrowhisper"
     },
@@ -55,17 +55,22 @@
       "name": "Trifolium: The Adventures of Gary Pretzelneck"
     },
     "3664060": {
-      "rank": 4129,
+      "rank": 4131,
       "estimate": "<7k",
       "name": "Starweaver Express ~Per aspera ad astra~"
     },
     "3765020": {
-      "rank": 654,
+      "rank": 655,
       "estimate": "40k+",
       "name": "S.T.A.L.K.E.R. 2: Cost of Hope"
     },
+    "4272020": {
+      "rank": 4641,
+      "estimate": "<7k",
+      "name": "WOIM"
+    },
     "4521700": {
-      "rank": 1744,
+      "rank": 1743,
       "estimate": "15k+",
       "name": "The Miner Was Replaced"
     }
