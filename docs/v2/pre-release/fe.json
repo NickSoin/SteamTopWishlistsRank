@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-22T08:36:14.571Z",
-  "entryCount": 21,
+  "updatedAt": "2026-05-22T12:57:47.982Z",
+  "entryCount": 22,
   "entries": {
     "773370": {
       "rank": 126,
@@ -154,6 +154,13 @@
       "name": "REPOSE",
       "releaseDate": "2025-04-14",
       "source": "historical"
+    },
+    "3237970": {
+      "rank": 543,
+      "estimate": "40k+",
+      "name": "Bubsy 4D",
+      "releaseDate": "2026-05-22",
+      "source": "tracked"
     }
   }
 }
