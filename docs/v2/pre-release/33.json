@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-22T04:46:39.391Z",
-  "entryCount": 23,
+  "updatedAt": "2026-05-22T08:36:14.571Z",
+  "entryCount": 24,
   "entries": {
     "1154090": {
       "rank": 1108,
@@ -166,6 +166,13 @@
       "name": "Adorable Adventures",
       "releaseDate": "2026-04-30",
       "source": "historical"
+    },
+    "4282710": {
+      "rank": 2617,
+      "estimate": "7k+",
+      "name": "The Rebirth Tale of Broken Horn Demon Lord Alice",
+      "releaseDate": "2026-05-22",
+      "source": "tracked"
     }
   }
 }

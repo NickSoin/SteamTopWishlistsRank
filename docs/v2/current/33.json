@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-22T04:46:39.391Z",
-  "entryCount": 15,
+  "updatedAt": "2026-05-22T08:36:14.571Z",
+  "entryCount": 14,
   "entries": {
     "1060850": {
-      "rank": 4000,
+      "rank": 4001,
       "estimate": "<7k",
       "name": "Spleen"
     },
@@ -15,7 +15,7 @@
       "name": "Forever Ago"
     },
     "1334230": {
-      "rank": 1653,
+      "rank": 1654,
       "estimate": "15k+",
       "name": "Revolution: The Spark"
     },
@@ -30,12 +30,12 @@
       "name": "TOUCHSTARVED"
     },
     "2346870": {
-      "rank": 963,
+      "rank": 966,
       "estimate": "40k+",
       "name": "The Big Lez Video Game"
     },
     "2517940": {
-      "rank": 984,
+      "rank": 986,
       "estimate": "40k+",
       "name": "Century of Steam"
     },
@@ -45,12 +45,12 @@
       "name": "Mansion of Memories: Prologue"
     },
     "2588830": {
-      "rank": 3364,
+      "rank": 3366,
       "estimate": "<7k",
       "name": "FATHER"
     },
     "2591630": {
-      "rank": 1656,
+      "rank": 1652,
       "estimate": "15k+",
       "name": "The Edge of Water"
     },
@@ -60,24 +60,19 @@
       "name": "Combo Devils"
     },
     "3226830": {
-      "rank": 3770,
+      "rank": 3772,
       "estimate": "<7k",
       "name": "Canvas City"
     },
     "3456660": {
-      "rank": 2550,
+      "rank": 2552,
       "estimate": "7k+",
       "name": "PAYDAY: Aces High"
     },
     "3685330": {
-      "rank": 3892,
+      "rank": 3893,
       "estimate": "<7k",
       "name": "Orbifold"
-    },
-    "4282710": {
-      "rank": 2617,
-      "estimate": "7k+",
-      "name": "The Rebirth Tale of Broken Horn Demon Lord Alice"
     }
   }
 }

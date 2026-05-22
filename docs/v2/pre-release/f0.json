@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-22T04:46:39.391Z",
-  "entryCount": 27,
+  "updatedAt": "2026-05-22T08:36:14.571Z",
+  "entryCount": 28,
   "entries": {
     "721700": {
       "rank": 679,
@@ -198,6 +198,13 @@
       "name": "Sex Desert: Mad Lust",
       "releaseDate": "2025-03-29",
       "source": "historical"
+    },
+    "4175330": {
+      "rank": 3825,
+      "estimate": "<7k",
+      "name": "halfmoon",
+      "releaseDate": "2026-05-21",
+      "source": "tracked"
     }
   }
 }
