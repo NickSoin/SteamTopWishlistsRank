@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-23T16:46:17.426Z",
+  "updatedAt": "2026-05-23T21:20:15.185Z",
   "entryCount": 16,
   "entries": {
     "806750": {
-      "rank": 3367,
+      "rank": 3369,
       "estimate": "<7k",
       "name": "Lovecraft Tales"
     },
@@ -15,12 +15,12 @@
       "name": "Just a Chest"
     },
     "2019620": {
-      "rank": 741,
+      "rank": 742,
       "estimate": "40k+",
       "name": "GERONIMO"
     },
     "2953940": {
-      "rank": 2984,
+      "rank": 2983,
       "estimate": "7k+",
       "name": "Ancient Wars: Sparta HD"
     },
@@ -40,7 +40,7 @@
       "name": "Fantasy World Manager"
     },
     "3483820": {
-      "rank": 1016,
+      "rank": 1017,
       "estimate": "25k+",
       "name": "Infinite Borders: Three Kingdoms"
     },
@@ -50,12 +50,12 @@
       "name": "Frutiger Space"
     },
     "4038160": {
-      "rank": 4516,
+      "rank": 4498,
       "estimate": "<7k",
       "name": "FPV Labs - Drone Simulator"
     },
     "4113160": {
-      "rank": 1357,
+      "rank": 1358,
       "estimate": "25k+",
       "name": "Begraved"
     },
@@ -65,22 +65,22 @@
       "name": "Mega Man: Dual Override"
     },
     "4226770": {
-      "rank": 609,
+      "rank": 597,
       "estimate": "40k+",
       "name": "Warhammer 40,000: Rogue Trader - The Infinite Museion"
     },
     "4358660": {
-      "rank": 870,
+      "rank": 869,
       "estimate": "40k+",
       "name": "Hull Rupture"
     },
     "4465980": {
-      "rank": 2335,
+      "rank": 2336,
       "estimate": "7k+",
       "name": "The Declutterers : No Dumpster Left Empty"
     },
     "4640600": {
-      "rank": 4398,
+      "rank": 4399,
       "estimate": "<7k",
       "name": "In Us"
     }

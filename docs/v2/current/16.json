@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-23T16:46:17.426Z",
+  "updatedAt": "2026-05-23T21:20:15.185Z",
   "entryCount": 19,
   "entries": {
     "904510": {
@@ -10,12 +10,12 @@
       "name": "ARTIFICIAL"
     },
     "952100": {
-      "rank": 3553,
+      "rank": 3554,
       "estimate": "<7k",
       "name": "Bad Pixels"
     },
     "1271440": {
-      "rank": 2558,
+      "rank": 2559,
       "estimate": "7k+",
       "name": "HP Reverb G2"
     },
@@ -25,7 +25,7 @@
       "name": "Forester Simulator"
     },
     "1707680": {
-      "rank": 943,
+      "rank": 944,
       "estimate": "40k+",
       "name": "Referee Simulator"
     },
@@ -35,7 +35,7 @@
       "name": "Szrot"
     },
     "2118890": {
-      "rank": 1450,
+      "rank": 1452,
       "estimate": "25k+",
       "name": "Backrooms VHS"
     },
@@ -45,32 +45,32 @@
       "name": "Stormbinders"
     },
     "2229910": {
-      "rank": 1986,
+      "rank": 1988,
       "estimate": "15k+",
       "name": "Demiurgos"
     },
     "2538870": {
-      "rank": 1548,
+      "rank": 1547,
       "estimate": "15k+",
       "name": "False Hero"
     },
     "3279330": {
-      "rank": 3202,
+      "rank": 3203,
       "estimate": "<7k",
       "name": "Home Wars: Battlefield"
     },
     "3398880": {
-      "rank": 2713,
+      "rank": 2715,
       "estimate": "7k+",
       "name": "Castle V Castle"
     },
     "3570350": {
-      "rank": 4163,
+      "rank": 4165,
       "estimate": "<7k",
       "name": "Silkgrove"
     },
     "3582320": {
-      "rank": 4234,
+      "rank": 4237,
       "estimate": "<7k",
       "name": "Inazuma Eleven Team Builder"
     },
@@ -95,8 +95,8 @@
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 1008,
-      "estimate": "25k+",
+      "rank": 996,
+      "estimate": "40k+",
       "name": "Project Rabbit"
     }
   }
