@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-22T21:42:05.506Z",
-  "entryCount": 32,
+  "updatedAt": "2026-05-23T04:40:59.562Z",
+  "entryCount": 33,
   "entries": {
     "858820": {
       "rank": 1,
@@ -227,6 +227,13 @@
       "name": "Super Loco World - Cozy Train Automation",
       "releaseDate": "2025-07-14",
       "source": "historical"
+    },
+    "4237210": {
+      "rank": 3946,
+      "estimate": "<7k",
+      "name": "Afternoon Affairs & Helpless Housewives",
+      "releaseDate": "2026-05-23",
+      "source": "tracked"
     }
   }
 }

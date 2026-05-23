@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-22T21:42:05.506Z",
-  "entryCount": 28,
+  "updatedAt": "2026-05-23T04:40:59.562Z",
+  "entryCount": 29,
   "entries": {
     "729000": {
       "rank": 169,
@@ -201,6 +201,13 @@
       "name": "Diablo® IV: Vessel of Hatred™",
       "releaseDate": "2024-10-07",
       "source": "historical"
+    },
+    "3174500": {
+      "rank": 2864,
+      "estimate": "7k+",
+      "name": "Winter Survivor Protocol",
+      "releaseDate": "2026-05-22",
+      "source": "tracked"
     }
   }
 }
