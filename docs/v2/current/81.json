@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-24T11:46:08.669Z",
+  "updatedAt": "2026-05-24T16:44:19.137Z",
   "entryCount": 13,
   "entries": {
     "989350": {
-      "rank": 4061,
+      "rank": 4065,
       "estimate": "<7k",
       "name": "Running Rogue"
     },
     "1043110": {
-      "rank": 2441,
+      "rank": 2442,
       "estimate": "7k+",
       "name": "Kaiju Fishing"
     },
     "1185380": {
-      "rank": 2444,
+      "rank": 2445,
       "estimate": "7k+",
       "name": "The Season of the Warlock"
     },
@@ -32,19 +32,19 @@
       "name": "Once,in Times of Chaos"
     },
     "2362070": {
-      "rank": 1227,
+      "rank": 1228,
       "estimate": "25k+",
       "name": "Hollow Home",
       "actualWishlists": 30000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800991756305442"
     },
     "2390660": {
-      "rank": 4008,
+      "rank": 4010,
       "estimate": "<7k",
       "name": "Collapsed Galaxy 2"
     },
     "2932150": {
-      "rank": 1074,
+      "rank": 1069,
       "estimate": "25k+",
       "name": "Life Below"
     },
@@ -54,7 +54,7 @@
       "name": "POLYARIS"
     },
     "3653890": {
-      "rank": 3873,
+      "rank": 3874,
       "estimate": "<7k",
       "name": "SPRKLS.exe"
     },
@@ -69,8 +69,8 @@
       "name": "Birds of War"
     },
     "4664240": {
-      "rank": 3087,
-      "estimate": "<7k",
+      "rank": 2978,
+      "estimate": "7k+",
       "name": "Hard Worker"
     }
   }
