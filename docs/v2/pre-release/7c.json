@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-24T21:31:26.079Z",
-  "entryCount": 41,
+  "updatedAt": "2026-05-25T05:26:48.053Z",
+  "entryCount": 42,
   "entries": {
     "748020": {
       "rank": 911,
@@ -295,6 +295,13 @@
       "estimate": "40k+",
       "name": "Dwarf Eats Mountain",
       "releaseDate": "2026-05-18",
+      "source": "tracked"
+    },
+    "4630570": {
+      "rank": 1381,
+      "estimate": "25k+",
+      "name": "RUNNING TRAIN | 走ル列車！",
+      "releaseDate": "2026-05-24",
       "source": "tracked"
     }
   }

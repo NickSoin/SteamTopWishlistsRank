@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-24T21:31:26.079Z",
-  "entryCount": 16,
+  "updatedAt": "2026-05-25T05:26:48.053Z",
+  "entryCount": 18,
   "entries": {
     "951770": {
       "rank": 436,
@@ -17,37 +17,37 @@
       "name": "DeathTower"
     },
     "1730460": {
-      "rank": 2234,
+      "rank": 2237,
       "estimate": "7k+",
       "name": "Nainai’s Recipe"
     },
     "1736220": {
-      "rank": 1172,
+      "rank": 1173,
       "estimate": "25k+",
       "name": "Might of Merchants"
     },
     "1784650": {
-      "rank": 2312,
+      "rank": 2313,
       "estimate": "7k+",
       "name": "BOSS FIGHTERS"
     },
     "1916800": {
-      "rank": 2742,
+      "rank": 2743,
       "estimate": "7k+",
       "name": "More Ore - The Incremental Idle RPG"
     },
     "1977100": {
-      "rank": 4174,
+      "rank": 4177,
       "estimate": "<7k",
       "name": "Timeless Heart VR"
     },
     "2344680": {
-      "rank": 3189,
+      "rank": 3191,
       "estimate": "<7k",
       "name": "Super VHS"
     },
     "2390780": {
-      "rank": 3219,
+      "rank": 3218,
       "estimate": "<7k",
       "name": "1984"
     },
@@ -57,17 +57,22 @@
       "name": "The Scramble Vice"
     },
     "3072120": {
-      "rank": 1879,
+      "rank": 1869,
       "estimate": "15k+",
       "name": "Backrooms Lost Runners"
     },
+    "3235570": {
+      "rank": 4669,
+      "estimate": "<7k",
+      "name": "How Was Your Day?"
+    },
     "3253930": {
-      "rank": 2880,
+      "rank": 2881,
       "estimate": "7k+",
       "name": "Rhythm Hotel"
     },
     "3312130": {
-      "rank": 1379,
+      "rank": 1380,
       "estimate": "25k+",
       "name": "Factory Town 2: Paradise"
     },
@@ -77,14 +82,19 @@
       "name": "DREADMOOR"
     },
     "3722090": {
-      "rank": 2454,
+      "rank": 2455,
       "estimate": "7k+",
       "name": "Parasensor"
     },
     "3772190": {
-      "rank": 1536,
+      "rank": 1535,
       "estimate": "15k+",
       "name": "HALLOW BLADE"
+    },
+    "4362170": {
+      "rank": 4673,
+      "estimate": "<7k",
+      "name": "Feed The Forest"
     }
   }
 }
