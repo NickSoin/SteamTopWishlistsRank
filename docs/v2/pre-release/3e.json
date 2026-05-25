@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-25T09:30:15.200Z",
-  "entryCount": 35,
+  "updatedAt": "2026-05-25T14:05:34.965Z",
+  "entryCount": 36,
   "entries": {
     "690370": {
       "rank": 17,
@@ -248,6 +248,13 @@
       "name": "Revelation of Decay",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4135750": {
+      "rank": 2053,
+      "estimate": "7k+",
+      "name": "FEED THE QUEEN",
+      "releaseDate": "2026-05-25",
+      "source": "tracked"
     }
   }
 }

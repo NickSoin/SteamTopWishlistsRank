@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-25T09:30:15.200Z",
-  "entryCount": 23,
+  "updatedAt": "2026-05-25T14:05:34.965Z",
+  "entryCount": 24,
   "entries": {
     "1063030": {
       "rank": 621,
@@ -168,6 +168,13 @@
       "releaseDate": "2026-04-30",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758778784"
+    },
+    "3496890": {
+      "rank": 3300,
+      "estimate": "<7k",
+      "name": "Slot or Not",
+      "releaseDate": "2026-05-25",
+      "source": "tracked"
     }
   }
 }
