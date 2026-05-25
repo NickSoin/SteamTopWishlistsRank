@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-25T14:05:34.965Z",
+  "updatedAt": "2026-05-25T17:31:01.502Z",
   "entryCount": 23,
   "entries": {
     "941460": {
@@ -12,11 +12,11 @@
       "source": "historical"
     },
     "1118520": {
-      "rank": 4,
-      "estimate": "1.5m+",
+      "rank": 19,
+      "estimate": "800k+",
       "name": "Paralives",
-      "releaseDate": "2026-05-25",
-      "source": "historical"
+      "releaseDate": "2026-05-26",
+      "source": "tracked"
     },
     "1183850": {
       "rank": 724,

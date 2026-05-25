@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-25T14:05:34.965Z",
-  "entryCount": 16,
+  "updatedAt": "2026-05-25T17:31:01.502Z",
+  "entryCount": 17,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -47,6 +47,13 @@
       "releaseDate": "2022-03-04",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4103335143101177012"
+    },
+    "1634360": {
+      "rank": 2050,
+      "estimate": "7k+",
+      "name": "EMUUROM",
+      "releaseDate": "2026-05-25",
+      "source": "tracked"
     },
     "1691970": {
       "rank": 1493,

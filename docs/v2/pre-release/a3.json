@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-25T14:05:34.965Z",
+  "updatedAt": "2026-05-25T17:31:01.502Z",
   "entryCount": 27,
   "entries": {
     "782250": {
@@ -75,11 +75,11 @@
       "source": "historical"
     },
     "1969810": {
-      "rank": 941,
+      "rank": 561,
       "estimate": "40k+",
       "name": "Enter the Chronosphere",
       "releaseDate": "2026-05-25",
-      "source": "historical"
+      "source": "tracked"
     },
     "1996430": {
       "rank": 824,

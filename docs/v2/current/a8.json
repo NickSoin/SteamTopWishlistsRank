@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-25T14:05:34.965Z",
-  "entryCount": 24,
+  "updatedAt": "2026-05-25T17:31:01.502Z",
+  "entryCount": 25,
   "entries": {
     "913170": {
-      "rank": 4480,
+      "rank": 4479,
       "estimate": "<7k",
       "name": "LetsGal"
     },
@@ -15,17 +15,17 @@
       "name": "Knights Province"
     },
     "1222150": {
-      "rank": 2671,
+      "rank": 2670,
       "estimate": "7k+",
       "name": "Her War"
     },
     "1285720": {
-      "rank": 1920,
+      "rank": 1919,
       "estimate": "15k+",
       "name": "The Hauntings"
     },
     "1303400": {
-      "rank": 1433,
+      "rank": 1432,
       "estimate": "25k+",
       "name": "Whisker Squadron: Untitled Space Game"
     },
@@ -35,27 +35,32 @@
       "name": "We Harvest Shadows"
     },
     "2052710": {
-      "rank": 2654,
+      "rank": 2653,
       "estimate": "7k+",
       "name": "Hello Again"
     },
     "2321890": {
-      "rank": 1969,
+      "rank": 1968,
       "estimate": "15k+",
       "name": "Swordeye"
     },
     "2356360": {
-      "rank": 701,
+      "rank": 700,
       "estimate": "40k+",
       "name": "Build the Garden of Easden"
     },
+    "2606850": {
+      "rank": 4650,
+      "estimate": "<7k",
+      "name": "Mimic"
+    },
     "3058740": {
-      "rank": 2813,
+      "rank": 2814,
       "estimate": "7k+",
       "name": "Odds Chronicles"
     },
     "3103620": {
-      "rank": 1532,
+      "rank": 1530,
       "estimate": "15k+",
       "name": "Witch the Showdown"
     },
@@ -75,12 +80,12 @@
       "name": "The Vast White"
     },
     "3419080": {
-      "rank": 1571,
+      "rank": 1569,
       "estimate": "15k+",
       "name": "The Regreening"
     },
     "3740010": {
-      "rank": 2794,
+      "rank": 2789,
       "estimate": "7k+",
       "name": "Underchoice"
     },
@@ -95,12 +100,12 @@
       "name": "Moulder"
     },
     "4002450": {
-      "rank": 4293,
+      "rank": 4294,
       "estimate": "<7k",
       "name": "Italian Pizza Simulator"
     },
     "4094350": {
-      "rank": 4182,
+      "rank": 3577,
       "estimate": "<7k",
       "name": "Online: 404"
     },
@@ -115,12 +120,12 @@
       "name": "Scars of Honor"
     },
     "4255580": {
-      "rank": 3119,
+      "rank": 3115,
       "estimate": "<7k",
       "name": "Mouse X"
     },
     "4279630": {
-      "rank": 832,
+      "rank": 831,
       "estimate": "40k+",
       "name": "Friendly Steps"
     }
