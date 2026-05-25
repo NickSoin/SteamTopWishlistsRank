@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-25T05:26:48.053Z",
-  "entryCount": 15,
+  "updatedAt": "2026-05-25T09:30:15.200Z",
+  "entryCount": 16,
   "entries": {
     "850870": {
-      "rank": 2616,
+      "rank": 2613,
       "estimate": "7k+",
       "name": "Hard-Life"
     },
     "1352140": {
-      "rank": 879,
+      "rank": 878,
       "estimate": "40k+",
       "name": "VUP-Simulator"
     },
@@ -20,7 +20,7 @@
       "name": "STARSEEKER: Astroneer Expeditions"
     },
     "1633850": {
-      "rank": 916,
+      "rank": 915,
       "estimate": "40k+",
       "name": "Jianghu Simulator"
     },
@@ -30,7 +30,7 @@
       "name": "Pathbreakers: Roaming Blades"
     },
     "1833210": {
-      "rank": 2328,
+      "rank": 2326,
       "estimate": "7k+",
       "name": "Astromine"
     },
@@ -40,17 +40,17 @@
       "name": "Forge of the Fae"
     },
     "2527970": {
-      "rank": 2175,
+      "rank": 2171,
       "estimate": "7k+",
       "name": "Sea Of Rifts"
     },
     "2712590": {
-      "rank": 546,
+      "rank": 547,
       "estimate": "40k+",
       "name": "Dragon Shelter"
     },
     "3164310": {
-      "rank": 3418,
+      "rank": 3417,
       "estimate": "<7k",
       "name": "Verde"
     },
@@ -65,17 +65,22 @@
       "name": "Subjectivation"
     },
     "3829400": {
-      "rank": 1234,
+      "rank": 1233,
       "estimate": "25k+",
       "name": "Grand Tactician: Napoleonic Wars (1792-1815)"
     },
+    "3902750": {
+      "rank": 4660,
+      "estimate": "<7k",
+      "name": "Until Then: Afterimages"
+    },
     "4355580": {
-      "rank": 965,
+      "rank": 955,
       "estimate": "40k+",
       "name": "Warhammer 40,000: Darktide - Skitarii Class Deluxe Edition"
     },
     "4686110": {
-      "rank": 1525,
+      "rank": 1510,
       "estimate": "15k+",
       "name": "Agents 404"
     }

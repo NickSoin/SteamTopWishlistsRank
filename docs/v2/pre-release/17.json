@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-25T05:26:48.053Z",
-  "entryCount": 23,
+  "updatedAt": "2026-05-25T09:30:15.200Z",
+  "entryCount": 24,
   "entries": {
     "950620": {
       "rank": 254,
@@ -170,6 +170,13 @@
       "name": "VR-Kanojo",
       "releaseDate": "2025-07-30",
       "source": "historical"
+    },
+    "4194550": {
+      "rank": 1705,
+      "estimate": "15k+",
+      "name": "ElectroFix Simulator",
+      "releaseDate": "2026-05-25",
+      "source": "tracked"
     }
   }
 }

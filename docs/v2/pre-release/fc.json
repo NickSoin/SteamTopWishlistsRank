@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-25T05:26:48.053Z",
-  "entryCount": 18,
+  "updatedAt": "2026-05-25T09:30:15.200Z",
+  "entryCount": 19,
   "entries": {
     "604540": {
       "rank": 12,
@@ -131,6 +131,13 @@
       "name": "Truckful",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4218680": {
+      "rank": 851,
+      "estimate": "40k+",
+      "name": "Bird Game 3",
+      "releaseDate": "2026-05-25",
+      "source": "tracked"
     }
   }
 }
