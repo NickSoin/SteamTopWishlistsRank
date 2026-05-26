@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T09:16:00.973Z",
-  "entryCount": 26,
+  "updatedAt": "2026-05-26T13:45:54.058Z",
+  "entryCount": 27,
   "entries": {
     "440000": {
       "rank": 459,
@@ -185,6 +185,13 @@
       "name": "Solateria",
       "releaseDate": "2026-03-12",
       "source": "historical"
+    },
+    "4033080": {
+      "rank": 1929,
+      "estimate": "15k+",
+      "name": "Deep Corp",
+      "releaseDate": "2026-05-26",
+      "source": "tracked"
     }
   }
 }

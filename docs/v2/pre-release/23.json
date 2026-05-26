@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T09:16:00.973Z",
+  "updatedAt": "2026-05-26T13:45:54.058Z",
   "entryCount": 38,
   "entries": {
     "454120": {
@@ -138,11 +138,11 @@
       "source": "historical"
     },
     "1816640": {
-      "rank": 485,
-      "estimate": "80k+",
+      "rank": 506,
+      "estimate": "40k+",
       "name": "Modern Naval Warfare",
-      "releaseDate": "2026-05-18",
-      "source": "historical"
+      "releaseDate": "2026-05-26",
+      "source": "tracked"
     },
     "1866980": {
       "rank": 1313,
