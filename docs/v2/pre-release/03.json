@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T18:27:11.372Z",
-  "entryCount": 29,
+  "updatedAt": "2026-05-26T22:09:41.509Z",
+  "entryCount": 30,
   "entries": {
     "979690": {
       "rank": 26,
@@ -206,6 +206,13 @@
       "name": "Karate Survivor",
       "releaseDate": "2024-10-30",
       "source": "historical"
+    },
+    "4371500": {
+      "rank": 1253,
+      "estimate": "25k+",
+      "name": "MechWarrior 5: Mercenaries - Chaos Reign",
+      "releaseDate": "2026-05-26",
+      "source": "tracked"
     }
   }
 }
