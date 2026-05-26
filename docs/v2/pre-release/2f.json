@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T13:45:54.058Z",
+  "updatedAt": "2026-05-26T18:27:11.372Z",
   "entryCount": 32,
   "entries": {
     "787510": {
@@ -154,12 +154,12 @@
       "source": "historical"
     },
     "2261430": {
-      "rank": 490,
-      "estimate": "100k",
-      "actualWishlists": 100000,
+      "rank": 328,
+      "estimate": "80k+",
       "name": "LumenTale: Memories of Trey",
       "releaseDate": "2026-05-26",
-      "source": "historical",
+      "source": "tracked",
+      "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059924334"
     },
     "2389570": {

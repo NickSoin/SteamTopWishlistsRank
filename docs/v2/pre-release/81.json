@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T13:45:54.058Z",
-  "entryCount": 21,
+  "updatedAt": "2026-05-26T18:27:11.372Z",
+  "entryCount": 22,
   "entries": {
     "819190": {
       "rank": 3,
@@ -135,6 +135,13 @@
       "name": "PowerWash Simulator – Alice’s Adventures Special Pack",
       "releaseDate": "2024-07-02",
       "source": "historical"
+    },
+    "2932150": {
+      "rank": 1005,
+      "estimate": "25k+",
+      "name": "Life Below",
+      "releaseDate": "2026-05-26",
+      "source": "tracked"
     },
     "2979810": {
       "rank": 43,

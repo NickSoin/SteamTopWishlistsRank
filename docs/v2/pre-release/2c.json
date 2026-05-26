@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T13:45:54.058Z",
+  "updatedAt": "2026-05-26T18:27:11.372Z",
   "entryCount": 25,
   "entries": {
     "252190": {
@@ -174,11 +174,11 @@
     },
     "3768760": {
       "rank": 16,
-      "estimate": "3m",
-      "actualWishlists": 3000000,
+      "estimate": "800k+",
       "name": "007 First Light",
-      "releaseDate": "2026-05-27",
-      "source": "historical",
+      "releaseDate": "2026-05-26",
+      "source": "tracked",
+      "actualWishlists": 3000000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821318455"
     }
   }

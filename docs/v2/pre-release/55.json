@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T13:45:54.058Z",
+  "updatedAt": "2026-05-26T18:27:11.372Z",
   "entryCount": 15,
   "entries": {
     "699130": {
@@ -103,11 +103,11 @@
       "source": "historical"
     },
     "2982610": {
-      "rank": 1946,
-      "estimate": "15k+",
+      "rank": 497,
+      "estimate": "80k+",
       "name": "Stonemachia",
       "releaseDate": "2026-05-26",
-      "source": "historical"
+      "source": "tracked"
     }
   }
 }

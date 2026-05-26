@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T13:45:54.058Z",
-  "entryCount": 20,
+  "updatedAt": "2026-05-26T18:27:11.372Z",
+  "entryCount": 21,
   "entries": {
     "924980": {
       "rank": 34,
@@ -94,6 +94,13 @@
       "name": "Vengeance of Mr. Peppermint",
       "releaseDate": "2023-10-23",
       "source": "historical"
+    },
+    "2330110": {
+      "rank": 2112,
+      "estimate": "7k+",
+      "name": "Yerba Buena",
+      "releaseDate": "2026-05-26",
+      "source": "tracked"
     },
     "2342920": {
       "rank": 1925,

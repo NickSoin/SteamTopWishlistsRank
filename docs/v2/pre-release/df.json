@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T13:45:54.058Z",
-  "entryCount": 24,
+  "updatedAt": "2026-05-26T18:27:11.372Z",
+  "entryCount": 25,
   "entries": {
     "990080": {
       "rank": 1,
@@ -173,6 +173,13 @@
       "name": "Humans are not that against Lizardwomen",
       "releaseDate": "2024-04-06",
       "source": "historical"
+    },
+    "3454110": {
+      "rank": 3021,
+      "estimate": "<7k",
+      "name": "Starship Troopers: Terran Command - The Eradicators",
+      "releaseDate": "2026-05-26",
+      "source": "tracked"
     }
   }
 }
