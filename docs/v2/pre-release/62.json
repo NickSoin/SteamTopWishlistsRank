@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T05:04:26.287Z",
-  "entryCount": 27,
+  "updatedAt": "2026-05-26T09:16:00.973Z",
+  "entryCount": 28,
   "entries": {
     "261550": {
       "rank": 7,
@@ -131,6 +131,13 @@
       "name": "A Castle Full of Cats",
       "releaseDate": "2022-11-09",
       "source": "historical"
+    },
+    "2100280": {
+      "rank": 315,
+      "estimate": "80k+",
+      "name": "World of Tanks: HEAT",
+      "releaseDate": "2026-05-25",
+      "source": "tracked"
     },
     "2336881": {
       "rank": 887,

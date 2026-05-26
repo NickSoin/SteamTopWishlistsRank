@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-26T05:04:26.287Z",
-  "entryCount": 18,
+  "updatedAt": "2026-05-26T09:16:00.973Z",
+  "entryCount": 19,
   "entries": {
     "1345720": {
-      "rank": 2717,
+      "rank": 2716,
       "estimate": "7k+",
       "name": "FBI Agent Simulator"
     },
@@ -15,7 +15,7 @@
       "name": "Regeneration"
     },
     "1411900": {
-      "rank": 3266,
+      "rank": 3264,
       "estimate": "<7k",
       "name": "Mictlan: An Ancient Mythical Tale"
     },
@@ -30,24 +30,24 @@
       "name": "Scottside"
     },
     "2052300": {
-      "rank": 686,
+      "rank": 684,
       "estimate": "40k+",
       "name": "Glaciered",
       "actualWishlists": 40000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1783872411935485"
     },
     "2227100": {
-      "rank": 1646,
+      "rank": 1644,
       "estimate": "15k+",
       "name": "Jerma's Big Adventure 2"
     },
     "2248150": {
-      "rank": 790,
+      "rank": 788,
       "estimate": "40k+",
       "name": "Gunmetal Gothic"
     },
     "2275860": {
-      "rank": 687,
+      "rank": 685,
       "estimate": "40k+",
       "name": "BAKUDO"
     },
@@ -57,44 +57,49 @@
       "name": "Heart Agency"
     },
     "2468200": {
-      "rank": 568,
+      "rank": 566,
       "estimate": "40k+",
       "name": "DDoD"
     },
     "2570080": {
-      "rank": 3818,
+      "rank": 3817,
       "estimate": "<7k",
       "name": "Grow Your Guarden"
     },
     "2755270": {
-      "rank": 2104,
+      "rank": 2102,
       "estimate": "7k+",
       "name": "South Scrimshaw, Part Two"
     },
     "2789680": {
-      "rank": 622,
+      "rank": 621,
       "estimate": "40k+",
       "name": "Hello Neighbor 3"
     },
     "3417140": {
-      "rank": 2600,
+      "rank": 2599,
       "estimate": "7k+",
       "name": "IGS Classic Arcade Collection"
     },
     "3512720": {
-      "rank": 4271,
+      "rank": 4268,
       "estimate": "<7k",
       "name": "Unmasked Truths: Shattered Dreams"
     },
     "3600740": {
-      "rank": 2583,
+      "rank": 2582,
       "estimate": "7k+",
       "name": "万象之环"
     },
     "3826290": {
-      "rank": 2342,
+      "rank": 2341,
       "estimate": "7k+",
       "name": "组长！怨念请查收！"
+    },
+    "4000770": {
+      "rank": 3597,
+      "estimate": "<7k",
+      "name": "Swarmdustry"
     }
   }
 }

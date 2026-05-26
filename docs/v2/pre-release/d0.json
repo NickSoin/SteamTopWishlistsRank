@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T05:04:26.287Z",
-  "entryCount": 19,
+  "updatedAt": "2026-05-26T09:16:00.973Z",
+  "entryCount": 20,
   "entries": {
     "803330": {
       "rank": 19,
@@ -31,6 +31,13 @@
       "name": "Night Reverie",
       "releaseDate": "2021-10-08",
       "source": "historical"
+    },
+    "1431750": {
+      "rank": 3796,
+      "estimate": "<7k",
+      "name": "The Henchmen",
+      "releaseDate": "2026-05-26",
+      "source": "tracked"
     },
     "1539160": {
       "rank": 1085,

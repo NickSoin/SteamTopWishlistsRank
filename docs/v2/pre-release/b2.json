@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T05:04:26.287Z",
-  "entryCount": 22,
+  "updatedAt": "2026-05-26T09:16:00.973Z",
+  "entryCount": 23,
   "entries": {
     "761830": {
       "rank": 31,
@@ -80,6 +80,13 @@
       "name": "Koira",
       "releaseDate": "2025-04-01",
       "source": "historical"
+    },
+    "1805320": {
+      "rank": 138,
+      "estimate": "200k+",
+      "name": "Romestead",
+      "releaseDate": "2026-05-25",
+      "source": "tracked"
     },
     "1839060": {
       "rank": 1728,
