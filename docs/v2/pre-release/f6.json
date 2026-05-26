@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-25T22:07:54.690Z",
+  "updatedAt": "2026-05-26T05:04:26.287Z",
   "entryCount": 27,
   "entries": {
     "858710": {
@@ -180,12 +180,12 @@
       "source": "historical"
     },
     "3009300": {
-      "rank": 24,
-      "estimate": "100k",
-      "actualWishlists": 100000,
+      "rank": 444,
+      "estimate": "80k+",
       "name": "Teamfight Manager 2",
       "releaseDate": "2026-05-25",
-      "source": "historical",
+      "source": "tracked",
+      "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502819267"
     },
     "3119540": {
