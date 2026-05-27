@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-27T09:16:44.381Z",
-  "entryCount": 29,
+  "updatedAt": "2026-05-27T14:01:21.436Z",
+  "entryCount": 30,
   "entries": {
     "301280": {
       "rank": 574,
@@ -52,6 +52,13 @@
       "name": "Inkbound",
       "releaseDate": "2024-04-09",
       "source": "historical"
+    },
+    "1115990": {
+      "rank": 1448,
+      "estimate": "25k+",
+      "name": "Echo Generation 2",
+      "releaseDate": "2026-05-27",
+      "source": "tracked"
     },
     "1292510": {
       "rank": 2020,

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-27T09:16:44.381Z",
+  "updatedAt": "2026-05-27T14:01:21.436Z",
   "entryCount": 19,
   "entries": {
     "904510": {
@@ -10,7 +10,7 @@
       "name": "ARTIFICIAL"
     },
     "952100": {
-      "rank": 3561,
+      "rank": 3563,
       "estimate": "<7k",
       "name": "Bad Pixels"
     },
@@ -20,12 +20,12 @@
       "name": "HP Reverb G2"
     },
     "1418380": {
-      "rank": 3034,
+      "rank": 3035,
       "estimate": "<7k",
       "name": "Forester Simulator"
     },
     "1707680": {
-      "rank": 949,
+      "rank": 950,
       "estimate": "40k+",
       "name": "Referee Simulator"
     },
@@ -45,7 +45,7 @@
       "name": "Stormbinders"
     },
     "2229910": {
-      "rank": 1988,
+      "rank": 1987,
       "estimate": "15k+",
       "name": "Demiurgos"
     },
@@ -55,27 +55,27 @@
       "name": "False Hero"
     },
     "3279330": {
-      "rank": 3185,
+      "rank": 3186,
       "estimate": "<7k",
       "name": "Home Wars: Battlefield"
     },
     "3398880": {
-      "rank": 2712,
+      "rank": 2713,
       "estimate": "7k+",
       "name": "Castle V Castle"
     },
     "3570350": {
-      "rank": 4172,
+      "rank": 4173,
       "estimate": "<7k",
       "name": "Silkgrove"
     },
     "3582320": {
-      "rank": 4245,
+      "rank": 4246,
       "estimate": "<7k",
       "name": "Inazuma Eleven Team Builder"
     },
     "3730680": {
-      "rank": 2136,
+      "rank": 2138,
       "estimate": "7k+",
       "name": "Table Tactics: physics-driven tabletop battles"
     },
@@ -85,7 +85,7 @@
       "name": "Ethernia"
     },
     "3798840": {
-      "rank": 2308,
+      "rank": 2307,
       "estimate": "7k+",
       "name": "Reytrieve Odyssey"
     },
@@ -95,7 +95,7 @@
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 802,
+      "rank": 799,
       "estimate": "40k+",
       "name": "Project Rabbit"
     }
