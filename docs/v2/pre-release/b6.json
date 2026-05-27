@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-27T14:01:21.436Z",
+  "updatedAt": "2026-05-27T18:37:58.366Z",
   "entryCount": 30,
   "entries": {
     "780310": {
@@ -131,12 +131,12 @@
       "source": "historical"
     },
     "2090390": {
-      "rank": 2565,
-      "estimate": "100k",
-      "actualWishlists": 100000,
+      "rank": 495,
+      "estimate": "80k+",
       "name": "Schrödinger's Call",
       "releaseDate": "2026-05-27",
-      "source": "historical",
+      "source": "tracked",
+      "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237045"
     },
     "2095340": {

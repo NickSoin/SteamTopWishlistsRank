@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-27T14:01:21.436Z",
-  "entryCount": 18,
+  "updatedAt": "2026-05-27T18:37:58.366Z",
+  "entryCount": 19,
   "entries": {
     "969330": {
-      "rank": 610,
+      "rank": 608,
       "estimate": "40k+",
       "name": "The Way of Wrath"
     },
     "997090": {
-      "rank": 3278,
+      "rank": 3280,
       "estimate": "<7k",
       "name": "TheFlagship"
     },
     "1193170": {
-      "rank": 1790,
+      "rank": 1789,
       "estimate": "15k+",
       "name": "DEFICIT"
     },
     "1440340": {
-      "rank": 1882,
+      "rank": 1880,
       "estimate": "15k+",
       "name": "Cannon Foundry Simulator"
     },
     "2113960": {
-      "rank": 1125,
+      "rank": 1124,
       "estimate": "25k+",
       "name": "KVLT"
     },
     "2363330": {
-      "rank": 2252,
+      "rank": 2251,
       "estimate": "7k+",
       "name": "Witch World"
     },
     "2438120": {
-      "rank": 4351,
+      "rank": 4353,
       "estimate": "<7k",
       "name": "RunOut - Hothead Paws"
     },
@@ -45,7 +45,7 @@
       "name": "Drakantos"
     },
     "2680280": {
-      "rank": 482,
+      "rank": 480,
       "estimate": "80k+",
       "name": "PAPERHEAD"
     },
@@ -55,44 +55,49 @@
       "name": "Delverium"
     },
     "3012600": {
-      "rank": 525,
+      "rank": 523,
       "estimate": "40k+",
       "name": "Substructure"
     },
     "3258590": {
-      "rank": 2355,
+      "rank": 2353,
       "estimate": "7k+",
       "name": "Void Dungeon"
     },
     "3376580": {
-      "rank": 4366,
+      "rank": 4367,
       "estimate": "<7k",
       "name": "Raiders Rise"
     },
     "3377200": {
-      "rank": 3821,
+      "rank": 3820,
       "estimate": "<7k",
       "name": "Dragon Lands"
     },
     "3459050": {
-      "rank": 1645,
+      "rank": 1644,
       "estimate": "15k+",
       "name": "Acrolyte"
     },
     "3976340": {
-      "rank": 3469,
+      "rank": 3462,
       "estimate": "<7k",
       "name": "Cucina Stellata"
     },
     "4409870": {
-      "rank": 3612,
+      "rank": 3596,
       "estimate": "<7k",
       "name": "Slots & Diapers"
     },
     "4487450": {
-      "rank": 2242,
+      "rank": 2220,
       "estimate": "7k+",
       "name": "Cairn - On the Trail: Deep Water"
+    },
+    "4553760": {
+      "rank": 4525,
+      "estimate": "<7k",
+      "name": "TEVI: Fauna Arcana"
     }
   }
 }
