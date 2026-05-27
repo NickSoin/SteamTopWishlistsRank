@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-27T05:19:09.162Z",
-  "entryCount": 25,
+  "updatedAt": "2026-05-27T09:16:44.381Z",
+  "entryCount": 26,
   "entries": {
     "1003590": {
       "rank": 343,
@@ -178,6 +178,13 @@
       "name": "100 Romantic Cats",
       "releaseDate": "2025-02-13",
       "source": "historical"
+    },
+    "3678970": {
+      "rank": 2003,
+      "estimate": "7k+",
+      "name": "TBH: Task Bar Hero",
+      "releaseDate": "2026-05-27",
+      "source": "tracked"
     }
   }
 }
