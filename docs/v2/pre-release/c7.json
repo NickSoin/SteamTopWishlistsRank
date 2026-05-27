@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-27T18:37:58.366Z",
-  "entryCount": 25,
+  "updatedAt": "2026-05-27T22:16:32.149Z",
+  "entryCount": 26,
   "entries": {
     "1119840": {
       "rank": 247,
@@ -178,6 +178,13 @@
       "name": "Fantasy World Manager",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4038160": {
+      "rank": 3645,
+      "estimate": "<7k",
+      "name": "FPV Labs - Drone Simulator",
+      "releaseDate": "2026-05-27",
+      "source": "tracked"
     }
   }
 }
