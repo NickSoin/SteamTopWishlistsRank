@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-26T22:09:41.509Z",
-  "entryCount": 22,
+  "updatedAt": "2026-05-27T05:19:09.162Z",
+  "entryCount": 23,
   "entries": {
     "589940": {
       "rank": 1003,
@@ -159,6 +159,13 @@
       "releaseDate": "2026-03-31",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768297372"
+    },
+    "4111370": {
+      "rank": 998,
+      "estimate": "40k+",
+      "name": "Birdwatching Notebook",
+      "releaseDate": "2026-05-26",
+      "source": "tracked"
     }
   }
 }
