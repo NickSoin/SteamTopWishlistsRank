@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T09:23:49.281Z",
-  "entryCount": 16,
+  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "entryCount": 17,
   "entries": {
     "1086940": {
       "rank": 3,
@@ -115,6 +115,13 @@
       "name": "Master Detective Archives: RAIN CODE Plus",
       "releaseDate": "2024-07-17",
       "source": "historical"
+    },
+    "3198890": {
+      "rank": 343,
+      "estimate": "80k+",
+      "name": "Scale the Depths",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     }
   }
 }

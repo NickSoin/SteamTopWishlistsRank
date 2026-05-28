@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T09:23:49.281Z",
-  "entryCount": 20,
+  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "entryCount": 21,
   "entries": {
     "1159290": {
       "rank": 574,
@@ -145,6 +145,13 @@
       "name": "Dawnmaker",
       "releaseDate": "2024-07-31",
       "source": "historical"
+    },
+    "3887090": {
+      "rank": 2310,
+      "estimate": "7k+",
+      "name": "Airport Baggage Simulator",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     }
   }
 }

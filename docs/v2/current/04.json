@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-28T09:23:49.281Z",
-  "entryCount": 15,
+  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "entryCount": 14,
   "entries": {
     "1158600": {
-      "rank": 2876,
+      "rank": 2869,
       "estimate": "7k+",
       "name": "Sayri: The Beginning"
     },
     "1380980": {
-      "rank": 1569,
+      "rank": 1566,
       "estimate": "15k+",
       "name": "Sonzai"
     },
     "1448620": {
-      "rank": 3609,
+      "rank": 3599,
       "estimate": "<7k",
       "name": "BE Witches"
     },
     "1587600": {
-      "rank": 1931,
+      "rank": 1925,
       "estimate": "15k+",
       "name": "Broken Veil"
     },
     "1781190": {
-      "rank": 1890,
+      "rank": 1883,
       "estimate": "15k+",
       "name": "IMMORTAL: And the Death that Follows"
     },
     "1874090": {
-      "rank": 1031,
+      "rank": 1028,
       "estimate": "25k+",
       "name": "Half-Life Decay: Solo Mission"
     },
     "2257830": {
-      "rank": 2065,
+      "rank": 2061,
       "estimate": "7k+",
       "name": "Moth Kubit"
     },
@@ -45,12 +45,12 @@
       "name": "The Mound: Omen of Cthulhu"
     },
     "3327000": {
-      "rank": 2766,
+      "rank": 2755,
       "estimate": "7k+",
       "name": "Roguebound Pirates"
     },
     "3434180": {
-      "rank": 2691,
+      "rank": 2682,
       "estimate": "7k+",
       "name": "project; VIRAI: DOOMER’s LIFE ESCAPE"
     },
@@ -60,24 +60,19 @@
       "name": "Agefield High: Rock the School"
     },
     "3582810": {
-      "rank": 443,
+      "rank": 441,
       "estimate": "80k+",
       "name": "Dandelion Void"
     },
     "3763840": {
-      "rank": 390,
+      "rank": 387,
       "estimate": "80k+",
       "name": "Felt That: Boxing"
     },
     "3863760": {
-      "rank": 1619,
+      "rank": 1613,
       "estimate": "15k+",
       "name": "侠影录"
-    },
-    "3887090": {
-      "rank": 2310,
-      "estimate": "7k+",
-      "name": "Airport Baggage Simulator"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T09:23:49.281Z",
-  "entryCount": 25,
+  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "entryCount": 26,
   "entries": {
     "532790": {
       "rank": 3,
@@ -182,6 +182,13 @@
       "name": "Revenge of Black Bone",
       "releaseDate": "2024-12-10",
       "source": "historical"
+    },
+    "3583210": {
+      "rank": 326,
+      "estimate": "80k+",
+      "name": "Crashout Crew",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     }
   }
 }

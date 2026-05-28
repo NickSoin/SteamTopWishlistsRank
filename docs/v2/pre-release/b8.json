@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T09:23:49.281Z",
-  "entryCount": 25,
+  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "entryCount": 26,
   "entries": {
     "485400": {
       "rank": 112,
@@ -184,6 +184,13 @@
       "releaseDate": "2025-10-16",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772405362"
+    },
+    "4095490": {
+      "rank": 4392,
+      "estimate": "<7k",
+      "name": "What's the Password?",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     }
   }
 }

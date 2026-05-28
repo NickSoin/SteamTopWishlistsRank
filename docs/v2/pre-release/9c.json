@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T09:23:49.281Z",
+  "updatedAt": "2026-05-28T14:16:18.893Z",
   "entryCount": 27,
   "entries": {
     "649950": {
@@ -184,12 +184,12 @@
       "source": "historical"
     },
     "2904040": {
-      "rank": 7,
-      "estimate": "288k",
-      "actualWishlists": 288000,
+      "rank": 230,
+      "estimate": "80k+",
       "name": "Cheap Car Repair",
       "releaseDate": "2026-05-28",
-      "source": "historical",
+      "source": "tracked",
+      "actualWishlists": 288000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791908"
     },
     "3426150": {

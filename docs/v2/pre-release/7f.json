@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T09:23:49.281Z",
-  "entryCount": 26,
+  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "entryCount": 27,
   "entries": {
     "1167100": {
       "rank": 379,
@@ -187,6 +187,13 @@
       "name": "Wildermyth - Omenroad",
       "releaseDate": "2024-05-16",
       "source": "historical"
+    },
+    "3283310": {
+      "rank": 3722,
+      "estimate": "<7k",
+      "name": "Kioku: Last Summer",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     }
   }
 }

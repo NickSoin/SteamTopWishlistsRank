@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T09:23:49.281Z",
-  "entryCount": 23,
+  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "entryCount": 24,
   "entries": {
     "502050": {
       "rank": 1,
@@ -164,6 +164,13 @@
       "name": "ChromaGun 2: Dye Hard",
       "releaseDate": "2026-02-12",
       "source": "historical"
+    },
+    "4645760": {
+      "rank": 4654,
+      "estimate": "<7k",
+      "name": "How Much for the Body in the Freezer",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     }
   }
 }

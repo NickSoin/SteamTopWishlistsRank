@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T09:23:49.281Z",
-  "entryCount": 28,
+  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "entryCount": 29,
   "entries": {
     "338820": {
       "rank": 1245,
@@ -187,6 +187,13 @@
       "name": "Tiny Garden",
       "releaseDate": "2025-04-08",
       "source": "historical"
+    },
+    "3061390": {
+      "rank": 1714,
+      "estimate": "15k+",
+      "name": "Inkwellers",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     },
     "4077400": {
       "rank": 1638,

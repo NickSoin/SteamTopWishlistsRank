@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T09:23:49.281Z",
-  "entryCount": 29,
+  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "entryCount": 30,
   "entries": {
     "436780": {
       "rank": 31,
@@ -208,6 +208,13 @@
       "name": "Painted In Blood",
       "releaseDate": "2025-10-23",
       "source": "historical"
+    },
+    "3726370": {
+      "rank": 3055,
+      "estimate": "<7k",
+      "name": "Heavy Metal Death Can",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T09:23:49.281Z",
-  "entryCount": 24,
+  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "entryCount": 25,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -171,6 +171,13 @@
       "name": "The Thing: Remastered",
       "releaseDate": "2024-12-05",
       "source": "historical"
+    },
+    "3487240": {
+      "rank": 3897,
+      "estimate": "<7k",
+      "name": "Mistaken",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T09:23:49.281Z",
-  "entryCount": 22,
+  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "entryCount": 23,
   "entries": {
     "830580": {
       "rank": 135,
@@ -159,6 +159,13 @@
       "releaseDate": "2026-05-07",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365097824"
+    },
+    "3284290": {
+      "rank": 1606,
+      "estimate": "15k+",
+      "name": "Moonsigil Atlas",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     }
   }
 }
