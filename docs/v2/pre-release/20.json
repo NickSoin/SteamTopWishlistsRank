@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "updatedAt": "2026-05-28T18:44:34.676Z",
   "entryCount": 27,
   "entries": {
     "628740": {
@@ -166,11 +166,11 @@
       "source": "historical"
     },
     "2702260": {
-      "rank": 1843,
-      "estimate": "15k+",
+      "rank": 722,
+      "estimate": "40k+",
       "name": "Map Map - A Game About Maps",
       "releaseDate": "2026-05-28",
-      "source": "historical"
+      "source": "tracked"
     },
     "2735510": {
       "rank": 1402,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T14:16:18.893Z",
-  "entryCount": 30,
+  "updatedAt": "2026-05-28T18:44:34.676Z",
+  "entryCount": 31,
   "entries": {
     "307950": {
       "rank": 1484,
@@ -217,6 +217,13 @@
       "name": "Frontline Crisis",
       "releaseDate": "2024-08-14",
       "source": "historical"
+    },
+    "4008350": {
+      "rank": 3714,
+      "estimate": "<7k",
+      "name": "Beat The Champions",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T14:16:18.893Z",
+  "updatedAt": "2026-05-28T18:44:34.676Z",
   "entryCount": 30,
   "entries": {
     "936790": {
@@ -61,11 +61,11 @@
       "source": "historical"
     },
     "1536120": {
-      "rank": 1152,
-      "estimate": "25k+",
+      "rank": 2190,
+      "estimate": "7k+",
       "name": "Blueberry",
       "releaseDate": "2026-05-28",
-      "source": "historical"
+      "source": "tracked"
     },
     "1564790": {
       "rank": 1554,

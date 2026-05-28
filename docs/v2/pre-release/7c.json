@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T14:16:18.893Z",
-  "entryCount": 42,
+  "updatedAt": "2026-05-28T18:44:34.676Z",
+  "entryCount": 43,
   "entries": {
     "748020": {
       "rank": 911,
@@ -295,6 +295,13 @@
       "estimate": "40k+",
       "name": "Dwarf Eats Mountain",
       "releaseDate": "2026-05-18",
+      "source": "tracked"
+    },
+    "4258770": {
+      "rank": 3738,
+      "estimate": "<7k",
+      "name": "Dread Fields",
+      "releaseDate": "2026-05-28",
       "source": "tracked"
     },
     "4630570": {

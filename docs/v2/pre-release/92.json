@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T14:16:18.893Z",
-  "entryCount": 14,
+  "updatedAt": "2026-05-28T18:44:34.676Z",
+  "entryCount": 15,
   "entries": {
     "979110": {
       "rank": 38,
@@ -101,6 +101,13 @@
       "name": "Shantae Advance: Risky Revolution",
       "releaseDate": "2025-08-19",
       "source": "historical"
+    },
+    "3427850": {
+      "rank": 2735,
+      "estimate": "7k+",
+      "name": "Belts of Iron",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     }
   }
 }
