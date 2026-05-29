@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-29T05:17:39.935Z",
-  "entryCount": 20,
+  "updatedAt": "2026-05-29T09:04:37.041Z",
+  "entryCount": 21,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -143,6 +143,13 @@
       "name": "Miss Neko: Pirates",
       "releaseDate": "2024-03-22",
       "source": "historical"
+    },
+    "4515660": {
+      "rank": 1982,
+      "estimate": "15k+",
+      "name": "Control, I'm Not Coming Back",
+      "releaseDate": "2026-05-29",
+      "source": "tracked"
     }
   }
 }

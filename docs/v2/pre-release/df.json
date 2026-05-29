@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-29T05:17:39.935Z",
-  "entryCount": 25,
+  "updatedAt": "2026-05-29T09:04:37.041Z",
+  "entryCount": 26,
   "entries": {
     "990080": {
       "rank": 1,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "Starship Troopers: Terran Command - The Eradicators",
       "releaseDate": "2026-05-26",
+      "source": "tracked"
+    },
+    "3711170": {
+      "rank": 2999,
+      "estimate": "7k+",
+      "name": "SubZero",
+      "releaseDate": "2026-05-29",
       "source": "tracked"
     }
   }
