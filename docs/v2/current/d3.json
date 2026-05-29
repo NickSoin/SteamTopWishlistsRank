@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-29T18:37:24.629Z",
-  "entryCount": 17,
+  "updatedAt": "2026-05-29T22:28:43.248Z",
+  "entryCount": 18,
   "entries": {
     "1154960": {
       "rank": 501,
@@ -15,7 +15,7 @@
       "name": "Adventures of Ruby Rabbit"
     },
     "1415230": {
-      "rank": 801,
+      "rank": 802,
       "estimate": "40k+",
       "name": "For The Stars"
     },
@@ -35,7 +35,7 @@
       "name": "Corsairs Legacy: Naval Mission - Pirate Action RPG"
     },
     "2514620": {
-      "rank": 1480,
+      "rank": 1481,
       "estimate": "25k+",
       "name": "Touhou Dungeon Maker: The labyrinth of heart"
     },
@@ -45,7 +45,7 @@
       "name": "Scavenger T.O.M"
     },
     "2846530": {
-      "rank": 1783,
+      "rank": 1763,
       "estimate": "15k+",
       "name": "BrokenLore: FOLLOW"
     },
@@ -55,7 +55,7 @@
       "name": "NIGHTMARE OPERATOR"
     },
     "3277520": {
-      "rank": 4033,
+      "rank": 4034,
       "estimate": "<7k",
       "name": "Berserker's Domain"
     },
@@ -65,12 +65,12 @@
       "name": "MR DONALD"
     },
     "3453490": {
-      "rank": 1510,
+      "rank": 1508,
       "estimate": "15k+",
       "name": "Rootbound"
     },
     "3606780": {
-      "rank": 2381,
+      "rank": 2380,
       "estimate": "7k+",
       "name": "Chunky JUMP!"
     },
@@ -80,12 +80,17 @@
       "name": "Suikoden STAR LEAP"
     },
     "4251710": {
-      "rank": 3337,
+      "rank": 3334,
       "estimate": "<7k",
       "name": "EXSTETRA"
     },
+    "4318080": {
+      "rank": 4653,
+      "estimate": "<7k",
+      "name": "ALTEREDBLOOD+ [AB+]"
+    },
     "4512570": {
-      "rank": 3507,
+      "rank": 3438,
       "estimate": "<7k",
       "name": "A Game About Chopping Trees"
     }

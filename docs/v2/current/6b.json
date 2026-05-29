@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-29T18:37:24.629Z",
+  "updatedAt": "2026-05-29T22:28:43.248Z",
   "entryCount": 14,
   "entries": {
     "463940": {
-      "rank": 4071,
+      "rank": 4075,
       "estimate": "<7k",
       "name": "Shadow Over Isolation"
     },
     "718550": {
-      "rank": 3569,
+      "rank": 3570,
       "estimate": "<7k",
       "name": "Usurpator"
     },
@@ -20,7 +20,7 @@
       "name": "Taxi Simulator"
     },
     "1179020": {
-      "rank": 1171,
+      "rank": 1170,
       "estimate": "25k+",
       "name": "Red Frost"
     },
@@ -30,17 +30,17 @@
       "name": "Midwest 90: Rapid City"
     },
     "2388920": {
-      "rank": 4082,
+      "rank": 4069,
       "estimate": "<7k",
       "name": "Soulers"
     },
     "2744160": {
-      "rank": 790,
+      "rank": 788,
       "estimate": "40k+",
       "name": "Construction Simulator: Evolution"
     },
     "2783280": {
-      "rank": 3084,
+      "rank": 3085,
       "estimate": "<7k",
       "name": "Cat Secretary"
     },
@@ -60,18 +60,18 @@
       "name": "ATOM RPG 2"
     },
     "3875670": {
-      "rank": 3876,
+      "rank": 3868,
       "estimate": "<7k",
       "name": "Winemaker Simulator"
     },
     "4289470": {
-      "rank": 3604,
+      "rank": 3607,
       "estimate": "<7k",
       "name": "DREAMTONE"
     },
     "4498500": {
-      "rank": 3005,
-      "estimate": "<7k",
+      "rank": 2999,
+      "estimate": "7k+",
       "name": "Kopno: Blightfall"
     }
   }

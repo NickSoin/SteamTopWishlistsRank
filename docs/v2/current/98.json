@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-29T18:37:24.629Z",
+  "updatedAt": "2026-05-29T22:28:43.248Z",
   "entryCount": 20,
   "entries": {
     "1778150": {
-      "rank": 3540,
+      "rank": 3543,
       "estimate": "<7k",
       "name": "TRIP"
     },
@@ -30,12 +30,12 @@
       "name": "Engine Simulator"
     },
     "3008590": {
-      "rank": 1870,
+      "rank": 1871,
       "estimate": "15k+",
       "name": "Relics of the Oracle"
     },
     "3042790": {
-      "rank": 3674,
+      "rank": 3677,
       "estimate": "<7k",
       "name": "Scirocco Thugs"
     },
@@ -45,22 +45,22 @@
       "name": "Drivers of the Apocalypse"
     },
     "3433800": {
-      "rank": 2107,
+      "rank": 2106,
       "estimate": "7k+",
       "name": "Moonbrella"
     },
     "3445610": {
-      "rank": 1259,
+      "rank": 1260,
       "estimate": "25k+",
       "name": "BOMBSHELL BLITZ"
     },
     "3601630": {
-      "rank": 4514,
+      "rank": 4519,
       "estimate": "<7k",
       "name": "Cosmo Tales"
     },
     "3676140": {
-      "rank": 4420,
+      "rank": 4417,
       "estimate": "<7k",
       "name": "Trawler's Wake"
     },
@@ -70,7 +70,7 @@
       "name": "Sobakistan: The Land of Dogs"
     },
     "3749130": {
-      "rank": 4063,
+      "rank": 4065,
       "estimate": "<7k",
       "name": "Tower Tactics 2"
     },
@@ -80,7 +80,7 @@
       "name": "Total Tank Simulator 2"
     },
     "3985330": {
-      "rank": 3448,
+      "rank": 3451,
       "estimate": "<7k",
       "name": "BURNED HORIZONS"
     },
@@ -90,17 +90,17 @@
       "name": "SlashZero"
     },
     "4163030": {
-      "rank": 3731,
+      "rank": 3728,
       "estimate": "<7k",
       "name": "Cat Chess"
     },
     "4227400": {
-      "rank": 1070,
+      "rank": 1067,
       "estimate": "25k+",
       "name": "Sineus Arena Survivors"
     },
     "4517190": {
-      "rank": 2627,
+      "rank": 2629,
       "estimate": "7k+",
       "name": "DoDonPachi Resurrection Reignite"
     }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-29T18:37:24.629Z",
-  "entryCount": 27,
+  "updatedAt": "2026-05-29T22:28:43.248Z",
+  "entryCount": 28,
   "entries": {
     "628740": {
       "rank": 647,
@@ -136,6 +136,13 @@
       "name": "Forestrike",
       "releaseDate": "2025-11-17",
       "source": "historical"
+    },
+    "2345430": {
+      "rank": 2520,
+      "estimate": "7k+",
+      "name": "Escape From Crimson Manor: Trapped Together",
+      "releaseDate": "2026-05-29",
+      "source": "tracked"
     },
     "2350270": {
       "rank": 37,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-29T18:37:24.629Z",
-  "entryCount": 22,
+  "updatedAt": "2026-05-29T22:28:43.248Z",
+  "entryCount": 23,
   "entries": {
     "290100": {
       "rank": 249,
@@ -152,6 +152,13 @@
       "name": "Train Sim World® 5",
       "releaseDate": "2024-09-17",
       "source": "historical"
+    },
+    "3032150": {
+      "rank": 953,
+      "estimate": "40k+",
+      "name": "Frontier Legends",
+      "releaseDate": "2026-05-29",
+      "source": "tracked"
     },
     "3348640": {
       "rank": 46,
