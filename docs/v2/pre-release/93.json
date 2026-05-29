@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T22:18:09.492Z",
-  "entryCount": 22,
+  "updatedAt": "2026-05-29T05:17:39.935Z",
+  "entryCount": 23,
   "entries": {
     "473750": {
       "rank": 1164,
@@ -159,6 +159,13 @@
       "name": "Long Drive North: Co-Op RV Simulator",
       "releaseDate": "2025-11-18",
       "source": "historical"
+    },
+    "3561030": {
+      "rank": 2097,
+      "estimate": "7k+",
+      "name": "Rock Island",
+      "releaseDate": "2026-05-28",
+      "source": "tracked"
     }
   }
 }

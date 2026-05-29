@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-28T22:18:09.492Z",
+  "updatedAt": "2026-05-29T05:17:39.935Z",
   "entryCount": 19,
   "entries": {
     "843810": {
@@ -68,11 +68,11 @@
       "source": "historical"
     },
     "1875580": {
-      "rank": 34,
-      "estimate": "600k+",
+      "rank": 116,
+      "estimate": "200k+",
       "name": "Mina the Hollower",
       "releaseDate": "2026-05-28",
-      "source": "historical"
+      "source": "tracked"
     },
     "1931910": {
       "rank": 404,
