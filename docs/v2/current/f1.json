@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-29T13:45:51.330Z",
-  "entryCount": 17,
+  "updatedAt": "2026-05-29T18:37:24.629Z",
+  "entryCount": 16,
   "entries": {
     "1198690": {
       "rank": 1921,
@@ -15,7 +15,7 @@
       "name": "Antimatter"
     },
     "1735370": {
-      "rank": 1644,
+      "rank": 1642,
       "estimate": "15k+",
       "name": "Necrowave"
     },
@@ -25,17 +25,17 @@
       "name": "Demon Spore"
     },
     "1964860": {
-      "rank": 4384,
+      "rank": 4383,
       "estimate": "<7k",
       "name": "Titan Shell"
     },
     "1967050": {
-      "rank": 3163,
+      "rank": 3165,
       "estimate": "<7k",
       "name": "It Was You"
     },
     "2395960": {
-      "rank": 3037,
+      "rank": 3036,
       "estimate": "<7k",
       "name": "Ice Truckers"
     },
@@ -60,34 +60,29 @@
       "name": "PVKK: Planetenverteidigungskanonenkommandant"
     },
     "2962780": {
-      "rank": 2131,
+      "rank": 2121,
       "estimate": "7k+",
       "name": "BeastLink"
     },
     "3465440": {
-      "rank": 2674,
+      "rank": 2672,
       "estimate": "7k+",
       "name": "CitaDrill"
     },
     "3694190": {
-      "rank": 1676,
+      "rank": 1675,
       "estimate": "15k+",
       "name": "Deep Pixel Melancholy"
     },
     "3725830": {
-      "rank": 3388,
+      "rank": 3383,
       "estimate": "<7k",
       "name": "Citrus Summer"
     },
     "3921010": {
-      "rank": 3640,
+      "rank": 3637,
       "estimate": "<7k",
       "name": "War Alert"
-    },
-    "4194800": {
-      "rank": 785,
-      "estimate": "40k+",
-      "name": "Starvester"
     }
   }
 }
