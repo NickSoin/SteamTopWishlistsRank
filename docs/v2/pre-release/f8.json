@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-29T09:04:37.041Z",
-  "entryCount": 34,
+  "updatedAt": "2026-05-29T13:45:51.330Z",
+  "entryCount": 35,
   "entries": {
     "651490": {
       "rank": 270,
@@ -241,6 +241,13 @@
       "name": "Live Lens Bodycam",
       "releaseDate": "2025-07-30",
       "source": "historical"
+    },
+    "4149320": {
+      "rank": 2585,
+      "estimate": "7k+",
+      "name": "Don't Touch the Snail",
+      "releaseDate": "2026-05-29",
+      "source": "tracked"
     }
   }
 }

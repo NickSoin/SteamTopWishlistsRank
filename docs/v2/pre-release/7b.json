@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-29T09:04:37.041Z",
+  "updatedAt": "2026-05-29T13:45:51.330Z",
   "entryCount": 21,
   "entries": {
     "1060230": {
@@ -117,11 +117,11 @@
       "source": "historical"
     },
     "2418490": {
-      "rank": 2990,
+      "rank": 2827,
       "estimate": "7k+",
       "name": "Trakonius",
       "releaseDate": "2026-05-29",
-      "source": "historical"
+      "source": "tracked"
     },
     "2437750": {
       "rank": 1327,

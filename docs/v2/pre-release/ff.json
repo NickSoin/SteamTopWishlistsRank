@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-29T09:04:37.041Z",
-  "entryCount": 21,
+  "updatedAt": "2026-05-29T13:45:51.330Z",
+  "entryCount": 22,
   "entries": {
     "553540": {
       "rank": 73,
@@ -152,6 +152,13 @@
       "name": "Whimside",
       "releaseDate": "2025-08-07",
       "source": "historical"
+    },
+    "3484850": {
+      "rank": 2699,
+      "estimate": "7k+",
+      "name": "Scam Center Simulator: UnderKingdom",
+      "releaseDate": "2026-05-29",
+      "source": "tracked"
     }
   }
 }
