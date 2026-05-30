@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-30T16:47:36.921Z",
-  "entryCount": 19,
+  "updatedAt": "2026-05-30T21:43:48.916Z",
+  "entryCount": 20,
   "entries": {
     "741340": {
-      "rank": 2815,
+      "rank": 2818,
       "estimate": "7k+",
       "name": "Kingdom Workshop"
     },
@@ -15,22 +15,22 @@
       "name": "Global Conflagration"
     },
     "1363400": {
-      "rank": 1244,
+      "rank": 1246,
       "estimate": "25k+",
       "name": "No More Light"
     },
     "1828660": {
-      "rank": 3719,
+      "rank": 3725,
       "estimate": "<7k",
       "name": "Worst World"
     },
     "2216840": {
-      "rank": 2404,
+      "rank": 2406,
       "estimate": "7k+",
       "name": "BACKROOMS: NO RETURN"
     },
     "2329070": {
-      "rank": 1544,
+      "rank": 1543,
       "estimate": "15k+",
       "name": "POSTFROST"
     },
@@ -40,12 +40,12 @@
       "name": "Enter the Gungeon 2"
     },
     "2397440": {
-      "rank": 3045,
+      "rank": 3047,
       "estimate": "<7k",
       "name": "Momogatari"
     },
     "3273260": {
-      "rank": 1227,
+      "rank": 1230,
       "estimate": "25k+",
       "name": "Lost Host"
     },
@@ -55,17 +55,22 @@
       "name": "Legacy of Valor"
     },
     "3866080": {
-      "rank": 1776,
+      "rank": 1777,
       "estimate": "15k+",
       "name": "Stick A Round"
     },
     "3967130": {
-      "rank": 2228,
+      "rank": 2231,
       "estimate": "7k+",
       "name": "Wild West Miner Simulator"
     },
+    "4092130": {
+      "rank": 4671,
+      "estimate": "<7k",
+      "name": "Sacred: Last Pixel of Ancaria"
+    },
     "4130890": {
-      "rank": 4477,
+      "rank": 4482,
       "estimate": "<7k",
       "name": "SIRENS"
     },
@@ -75,27 +80,27 @@
       "name": "Another Eden Begins"
     },
     "4217690": {
-      "rank": 4168,
+      "rank": 4170,
       "estimate": "<7k",
       "name": "Uncanny Tales: The Watcher"
     },
     "4355570": {
-      "rank": 479,
+      "rank": 477,
       "estimate": "80k+",
       "name": "Warhammer 40,000: Darktide - Skitarii Class"
     },
     "4414860": {
-      "rank": 1647,
+      "rank": 1651,
       "estimate": "15k+",
       "name": "Direland"
     },
     "4463840": {
-      "rank": 1588,
+      "rank": 1593,
       "estimate": "15k+",
       "name": "Inquisitor Simulator"
     },
     "4483020": {
-      "rank": 4500,
+      "rank": 4499,
       "estimate": "<7k",
       "name": "Echoes of the Flame"
     }

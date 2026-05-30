@@ -1,16 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-30T16:47:36.921Z",
-  "entryCount": 22,
+  "updatedAt": "2026-05-30T21:43:48.916Z",
+  "entryCount": 23,
   "entries": {
+    "408200": {
+      "rank": 4655,
+      "estimate": "<7k",
+      "name": "Red Frame"
+    },
     "1298200": {
-      "rank": 2908,
+      "rank": 2914,
       "estimate": "7k+",
       "name": "Crazy Lemmings"
     },
     "1425660": {
-      "rank": 1726,
+      "rank": 1727,
       "estimate": "15k+",
       "name": "SCP : Forgotten Facility"
     },
@@ -20,32 +25,32 @@
       "name": "EVE Vanguard"
     },
     "2069890": {
-      "rank": 2553,
+      "rank": 2556,
       "estimate": "7k+",
       "name": "1-900-CULT"
     },
     "2295150": {
-      "rank": 3330,
+      "rank": 3332,
       "estimate": "<7k",
       "name": "Dragonfall"
     },
     "2483700": {
-      "rank": 2597,
+      "rank": 2599,
       "estimate": "7k+",
       "name": "HARMA"
     },
     "2750770": {
-      "rank": 1867,
+      "rank": 1869,
       "estimate": "15k+",
       "name": "Threads of You: Beyond the Bay"
     },
     "2782470": {
-      "rank": 2647,
+      "rank": 2649,
       "estimate": "7k+",
       "name": "Pharos Light"
     },
     "2829050": {
-      "rank": 3025,
+      "rank": 3026,
       "estimate": "<7k",
       "name": "东方夜雀食堂动画版 第一话 - 最强的是谁！？"
     },
@@ -55,22 +60,22 @@
       "name": "Sky Dust"
     },
     "3299450": {
-      "rank": 3418,
+      "rank": 3344,
       "estimate": "<7k",
       "name": "Calame"
     },
     "3387300": {
-      "rank": 2348,
+      "rank": 2349,
       "estimate": "7k+",
       "name": "Lost Ruins of Arnak"
     },
     "3473430": {
-      "rank": 1425,
+      "rank": 1426,
       "estimate": "25k+",
       "name": "All Our Broken Parts"
     },
     "3575220": {
-      "rank": 4181,
+      "rank": 4177,
       "estimate": "<7k",
       "name": "Guardians of the Wall"
     },
@@ -90,12 +95,12 @@
       "name": "Spot Zero"
     },
     "4089520": {
-      "rank": 2290,
+      "rank": 2291,
       "estimate": "7k+",
       "name": "Bronzebeard's Tavern 2"
     },
     "4137830": {
-      "rank": 2676,
+      "rank": 2679,
       "estimate": "7k+",
       "name": "Must be Feng Shui"
     },
