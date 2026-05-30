@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-29T22:28:43.248Z",
-  "entryCount": 17,
+  "updatedAt": "2026-05-30T05:00:39.422Z",
+  "entryCount": 18,
   "entries": {
     "1395380": {
-      "rank": 3128,
+      "rank": 3129,
       "estimate": "<7k",
       "name": "Evolutis: Duality"
     },
     "1402820": {
-      "rank": 730,
+      "rank": 731,
       "estimate": "40k+",
       "name": "Hostile Mars"
     },
     "1460950": {
-      "rank": 4102,
+      "rank": 4106,
       "estimate": "<7k",
       "name": "Schrodinger's Catgirl"
     },
     "2193530": {
-      "rank": 3592,
+      "rank": 3597,
       "estimate": "<7k",
       "name": "World of Titans MMORPG"
     },
@@ -30,27 +30,27 @@
       "name": "Holstin"
     },
     "2487190": {
-      "rank": 544,
+      "rank": 527,
       "estimate": "40k+",
       "name": "Main Sequence"
     },
     "2890240": {
-      "rank": 843,
+      "rank": 844,
       "estimate": "40k+",
       "name": "Capy Castaway"
     },
     "3009720": {
-      "rank": 2851,
+      "rank": 2854,
       "estimate": "7k+",
       "name": "Baltic Folk"
     },
     "3527020": {
-      "rank": 4404,
+      "rank": 4408,
       "estimate": "<7k",
       "name": "Shut the windows and don't look outside"
     },
     "3561930": {
-      "rank": 2284,
+      "rank": 2286,
       "estimate": "7k+",
       "name": "Liquid Lungs"
     },
@@ -60,17 +60,17 @@
       "name": "Darkhaven"
     },
     "3660860": {
-      "rank": 3419,
+      "rank": 3421,
       "estimate": "<7k",
       "name": "Turnip Boy Steals the Mail"
     },
     "3699910": {
-      "rank": 931,
+      "rank": 933,
       "estimate": "40k+",
       "name": "Lines of Battle"
     },
     "3938640": {
-      "rank": 1717,
+      "rank": 1718,
       "estimate": "15k+",
       "name": "Ugoku Sushi Bar"
     },
@@ -80,14 +80,19 @@
       "name": "Armaphract"
     },
     "4267800": {
-      "rank": 3090,
+      "rank": 3093,
       "estimate": "<7k",
       "name": "Bandit Simulator TD"
     },
     "4364910": {
-      "rank": 2336,
+      "rank": 2337,
       "estimate": "7k+",
       "name": "Ruins of Dawn"
+    },
+    "4450620": {
+      "rank": 3936,
+      "estimate": "<7k",
+      "name": "GRAIN ROT"
     }
   }
 }

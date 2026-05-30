@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-29T22:28:43.248Z",
-  "entryCount": 16,
+  "updatedAt": "2026-05-30T05:00:39.422Z",
+  "entryCount": 15,
   "entries": {
     "1936310": {
-      "rank": 1743,
+      "rank": 1746,
       "estimate": "15k+",
       "name": "Sugoi Adventure! DragonSlayer"
     },
@@ -15,22 +15,22 @@
       "name": "RUNNING WITH RIFLES: EASTERN FRONT"
     },
     "2200340": {
-      "rank": 3320,
+      "rank": 3321,
       "estimate": "<7k",
       "name": "To the Grave"
     },
     "2253300": {
-      "rank": 3624,
+      "rank": 3626,
       "estimate": "<7k",
       "name": "Upheaval"
     },
     "2287370": {
-      "rank": 2177,
+      "rank": 2147,
       "estimate": "7k+",
       "name": "Anima Song from the Abyss"
     },
     "2472530": {
-      "rank": 4004,
+      "rank": 4007,
       "estimate": "<7k",
       "name": "PILLORY"
     },
@@ -40,12 +40,12 @@
       "name": "Miss Paint"
     },
     "2860490": {
-      "rank": 1900,
+      "rank": 1901,
       "estimate": "15k+",
       "name": "Warota: I Live Next to The Demon King's Castle LOL"
     },
     "3164360": {
-      "rank": 1157,
+      "rank": 1158,
       "estimate": "25k+",
       "name": "Age of Respair"
     },
@@ -55,7 +55,7 @@
       "name": "Sinking Eternity"
     },
     "3820550": {
-      "rank": 3114,
+      "rank": 3115,
       "estimate": "<7k",
       "name": "IMPUNES"
     },
@@ -65,7 +65,7 @@
       "name": "Banana of Doom"
     },
     "3938440": {
-      "rank": 2289,
+      "rank": 2291,
       "estimate": "7k+",
       "name": "Twinkle’s Galactic Tour"
     },
@@ -75,14 +75,9 @@
       "name": "Treasure Beach"
     },
     "3940340": {
-      "rank": 1087,
+      "rank": 1085,
       "estimate": "25k+",
       "name": "Entropy"
-    },
-    "4216280": {
-      "rank": 3098,
-      "estimate": "<7k",
-      "name": "Dverghold"
     }
   }
 }
