@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-31T12:20:12.196Z",
+  "updatedAt": "2026-05-31T16:54:34.744Z",
   "entryCount": 19,
   "entries": {
     "971700": {
@@ -10,12 +10,12 @@
       "name": "ALARA Prime"
     },
     "1103610": {
-      "rank": 2534,
+      "rank": 2536,
       "estimate": "7k+",
       "name": "Sailor Simulator"
     },
     "1705720": {
-      "rank": 1505,
+      "rank": 1507,
       "estimate": "15k+",
       "name": "Aftermath"
     },
@@ -30,7 +30,7 @@
       "name": "STAR WARS Zero Company™"
     },
     "2078410": {
-      "rank": 4418,
+      "rank": 4422,
       "estimate": "<7k",
       "name": "Space Trucker"
     },
@@ -45,12 +45,12 @@
       "name": "Keep Those Bugs Away From the Bomb"
     },
     "2658740": {
-      "rank": 4411,
+      "rank": 4414,
       "estimate": "<7k",
       "name": "Island of Mine"
     },
     "2809120": {
-      "rank": 3764,
+      "rank": 3767,
       "estimate": "<7k",
       "name": "Red Snow"
     },
@@ -60,22 +60,22 @@
       "name": "Gang of Frogs"
     },
     "3100420": {
-      "rank": 4064,
+      "rank": 4066,
       "estimate": "<7k",
       "name": "The Fractured Shimmer"
     },
     "3144060": {
-      "rank": 2293,
+      "rank": 2296,
       "estimate": "7k+",
       "name": "World of the dead"
     },
     "3595710": {
-      "rank": 2990,
+      "rank": 2992,
       "estimate": "7k+",
       "name": "SCOPECREEP"
     },
     "3603020": {
-      "rank": 4351,
+      "rank": 4353,
       "estimate": "<7k",
       "name": "Auto Legends"
     },
@@ -85,17 +85,17 @@
       "name": "Soulforge Lost Path"
     },
     "4349170": {
-      "rank": 2850,
+      "rank": 2852,
       "estimate": "7k+",
       "name": "Virus Lab"
     },
     "4514310": {
-      "rank": 3000,
-      "estimate": "7k+",
+      "rank": 3002,
+      "estimate": "<7k",
       "name": "MOOSA: Dirty Fate"
     },
     "4623300": {
-      "rank": 1118,
+      "rank": 1117,
       "estimate": "25k+",
       "name": "Open Waters"
     }

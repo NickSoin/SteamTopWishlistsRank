@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-31T12:20:12.196Z",
-  "entryCount": 16,
+  "updatedAt": "2026-05-31T16:54:34.744Z",
+  "entryCount": 17,
   "entries": {
     "575020": {
-      "rank": 984,
+      "rank": 985,
       "estimate": "40k+",
       "name": "Outerra World Sandbox"
     },
     "668900": {
-      "rank": 2347,
+      "rank": 2350,
       "estimate": "7k+",
       "name": "Murder Miners X"
     },
     "992690": {
-      "rank": 2784,
+      "rank": 2786,
       "estimate": "7k+",
       "name": "We are the Plague"
     },
     "1094450": {
-      "rank": 2902,
+      "rank": 2903,
       "estimate": "7k+",
       "name": "Spies & Soldiers"
     },
@@ -30,12 +30,12 @@
       "name": "Drug Lord Simulator"
     },
     "1892100": {
-      "rank": 1362,
+      "rank": 1363,
       "estimate": "25k+",
       "name": "HEART ABYSS"
     },
     "2084210": {
-      "rank": 3172,
+      "rank": 3175,
       "estimate": "<7k",
       "name": "Alight: Lunar Survival"
     },
@@ -45,17 +45,17 @@
       "name": "Project Feline"
     },
     "2336690": {
-      "rank": 3376,
+      "rank": 3379,
       "estimate": "<7k",
       "name": "Magica Planta Botanica"
     },
     "2459890": {
-      "rank": 4262,
+      "rank": 4264,
       "estimate": "<7k",
       "name": "Bobls"
     },
     "2482560": {
-      "rank": 4667,
+      "rank": 4669,
       "estimate": "<7k",
       "name": "Lefka 空垣"
     },
@@ -65,7 +65,7 @@
       "name": "Across the Wonderlands"
     },
     "3351230": {
-      "rank": 3458,
+      "rank": 3464,
       "estimate": "<7k",
       "name": "Founders Legacy"
     },
@@ -75,7 +75,7 @@
       "name": "Police Stories 2"
     },
     "4315040": {
-      "rank": 680,
+      "rank": 679,
       "estimate": "40k+",
       "name": "Hearth and Hamlet"
     },
@@ -83,6 +83,11 @@
       "rank": 1029,
       "estimate": "25k+",
       "name": "Fantasy Blacksmith Simulator"
+    },
+    "4650840": {
+      "rank": 4681,
+      "estimate": "<7k",
+      "name": "Up-Beat!!"
     }
   }
 }

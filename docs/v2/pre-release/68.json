@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-31T12:20:12.196Z",
-  "entryCount": 18,
+  "updatedAt": "2026-05-31T16:54:34.744Z",
+  "entryCount": 19,
   "entries": {
     "949230": {
       "rank": 4,
@@ -129,6 +129,13 @@
       "name": "American Truck Simulator - Missouri",
       "releaseDate": "2025-04-03",
       "source": "historical"
+    },
+    "4045680": {
+      "rank": 3797,
+      "estimate": "<7k",
+      "name": "The Hand of the Crownbearer",
+      "releaseDate": "2026-05-31",
+      "source": "tracked"
     }
   }
 }
