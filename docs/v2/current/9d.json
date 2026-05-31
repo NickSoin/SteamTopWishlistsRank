@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-30T21:43:48.916Z",
-  "entryCount": 12,
+  "updatedAt": "2026-05-31T05:13:00.112Z",
+  "entryCount": 13,
   "entries": {
     "1236170": {
-      "rank": 1704,
+      "rank": 1706,
       "estimate": "15k+",
       "name": "The Fold: Ingression"
     },
     "1286230": {
-      "rank": 2086,
+      "rank": 2088,
       "estimate": "7k+",
       "name": "Fields of History: The Great War"
     },
     "1354450": {
-      "rank": 4007,
+      "rank": 4002,
       "estimate": "<7k",
       "name": "Dragonfield"
     },
     "1698530": {
-      "rank": 3519,
+      "rank": 3525,
       "estimate": "<7k",
       "name": "VTuber Beats"
     },
@@ -35,7 +35,7 @@
       "name": "Minecraft Dungeons II"
     },
     "2105260": {
-      "rank": 2358,
+      "rank": 2356,
       "estimate": "7k+",
       "name": "Pizza Kidd"
     },
@@ -45,12 +45,12 @@
       "name": "Ascent Quest"
     },
     "2744430": {
-      "rank": 1033,
+      "rank": 1034,
       "estimate": "25k+",
       "name": "Nightmare House"
     },
     "3154490": {
-      "rank": 3998,
+      "rank": 4001,
       "estimate": "<7k",
       "name": "Spell Candle"
     },
@@ -63,6 +63,11 @@
       "rank": 838,
       "estimate": "40k+",
       "name": "Hero's Hour 2"
+    },
+    "4182850": {
+      "rank": 4605,
+      "estimate": "<7k",
+      "name": "Tiebreakers"
     }
   }
 }

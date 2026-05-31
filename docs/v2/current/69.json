@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-30T21:43:48.916Z",
-  "entryCount": 10,
+  "updatedAt": "2026-05-31T05:13:00.112Z",
+  "entryCount": 11,
   "entries": {
     "1217180": {
-      "rank": 2843,
+      "rank": 2847,
       "estimate": "7k+",
       "name": "Fantamon"
     },
@@ -15,12 +15,12 @@
       "name": "Dungeons & Kingdoms: Prologue"
     },
     "1558030": {
-      "rank": 2067,
+      "rank": 2070,
       "estimate": "7k+",
       "name": "Tales of Anturia: Farathan"
     },
     "1879300": {
-      "rank": 4274,
+      "rank": 4277,
       "estimate": "<7k",
       "name": "简单修仙模拟"
     },
@@ -35,24 +35,29 @@
       "name": "We The People"
     },
     "2535850": {
-      "rank": 3119,
+      "rank": 3120,
       "estimate": "<7k",
       "name": "ADA: Tainted Soil"
     },
     "2545390": {
-      "rank": 3768,
+      "rank": 3771,
       "estimate": "<7k",
       "name": "FrostFire -Battle Frenzy-"
     },
     "2752020": {
-      "rank": 1345,
+      "rank": 1347,
       "estimate": "25k+",
       "name": "Lair of the Leviathan"
     },
     "2982540": {
-      "rank": 4362,
+      "rank": 4367,
       "estimate": "<7k",
       "name": "EMPTY SHELL: THE LOOP"
+    },
+    "4239660": {
+      "rank": 4672,
+      "estimate": "<7k",
+      "name": "Splash Divers"
     }
   }
 }
