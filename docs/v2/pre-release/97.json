@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-31T16:54:34.744Z",
-  "entryCount": 25,
+  "updatedAt": "2026-05-31T21:32:30.606Z",
+  "entryCount": 26,
   "entries": {
     "488860": {
       "rank": 116,
@@ -180,6 +180,13 @@
       "name": "Is This Seat Taken?",
       "releaseDate": "2025-08-07",
       "source": "historical"
+    },
+    "4204590": {
+      "rank": 3321,
+      "estimate": "<7k",
+      "name": "Reincarnated as a Dark Lord Before Taking Over the World with Power 999999999",
+      "releaseDate": "2026-05-31",
+      "source": "tracked"
     }
   }
 }

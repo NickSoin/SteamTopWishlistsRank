@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-31T16:54:34.744Z",
-  "entryCount": 12,
+  "updatedAt": "2026-05-31T21:32:30.606Z",
+  "entryCount": 13,
   "entries": {
     "311810": {
       "rank": 220,
@@ -10,12 +10,12 @@
       "name": "Operation: Black Mesa"
     },
     "1478260": {
-      "rank": 3771,
+      "rank": 3773,
       "estimate": "<7k",
       "name": "City of Rampage"
     },
     "1556850": {
-      "rank": 4120,
+      "rank": 4121,
       "estimate": "<7k",
       "name": "The Lunar Effect"
     },
@@ -35,22 +35,27 @@
       "name": "The Skyland Chronicles"
     },
     "3146440": {
-      "rank": 2045,
+      "rank": 2046,
       "estimate": "7k+",
       "name": "SPORTAL"
     },
     "3235670": {
-      "rank": 2502,
+      "rank": 2503,
       "estimate": "7k+",
       "name": "April 8th"
     },
+    "3302370": {
+      "rank": 4264,
+      "estimate": "<7k",
+      "name": "Crux Diaries RPG"
+    },
     "3794210": {
-      "rank": 2056,
+      "rank": 2061,
       "estimate": "7k+",
       "name": "Thousand Hells: The Underworld Heists"
     },
     "4175180": {
-      "rank": 535,
+      "rank": 533,
       "estimate": "40k+",
       "name": "DREADNOUGHT TARTARUS"
     },
@@ -60,7 +65,7 @@
       "name": "Supreme Experiment"
     },
     "4249850": {
-      "rank": 2997,
+      "rank": 2998,
       "estimate": "7k+",
       "name": "E-Shop Tycoon"
     }

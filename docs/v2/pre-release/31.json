@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-05-31T16:54:34.744Z",
-  "entryCount": 18,
+  "updatedAt": "2026-05-31T21:32:30.606Z",
+  "entryCount": 19,
   "entries": {
     "747660": {
       "rank": 193,
@@ -124,6 +124,13 @@
       "name": "Amanda the Adventurer 2",
       "releaseDate": "2024-10-22",
       "source": "historical"
+    },
+    "3583670": {
+      "rank": 1880,
+      "estimate": "15k+",
+      "name": "Where the forest ends",
+      "releaseDate": "2026-05-31",
+      "source": "tracked"
     },
     "4337210": {
       "rank": 2756,

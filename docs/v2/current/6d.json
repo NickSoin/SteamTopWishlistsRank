@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-31T16:54:34.744Z",
-  "entryCount": 19,
+  "updatedAt": "2026-05-31T21:32:30.606Z",
+  "entryCount": 20,
   "entries": {
     "1506730": {
-      "rank": 1951,
+      "rank": 1952,
       "estimate": "15k+",
       "name": "What Never Was: Chapter II"
     },
@@ -27,7 +27,7 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5766372999961581884"
     },
     "2184850": {
-      "rank": 2696,
+      "rank": 2697,
       "estimate": "7k+",
       "name": "Darwake: Awakening from the Nightmare"
     },
@@ -37,62 +37,62 @@
       "name": "Dino Run 2"
     },
     "2606880": {
-      "rank": 4577,
+      "rank": 4567,
       "estimate": "<7k",
       "name": "EV2"
     },
     "2802730": {
-      "rank": 4270,
+      "rank": 4273,
       "estimate": "<7k",
       "name": "Frieda is Changing"
     },
     "3202290": {
-      "rank": 2936,
+      "rank": 2938,
       "estimate": "7k+",
       "name": "Chess Arena"
     },
     "3370270": {
-      "rank": 1178,
+      "rank": 1180,
       "estimate": "25k+",
       "name": "Backrooms"
     },
     "3710210": {
-      "rank": 420,
+      "rank": 422,
       "estimate": "80k+",
       "name": "Mandrake"
     },
     "3779570": {
-      "rank": 4459,
+      "rank": 4461,
       "estimate": "<7k",
       "name": "Heavenly Island"
     },
     "3864450": {
-      "rank": 673,
+      "rank": 674,
       "estimate": "40k+",
       "name": "Goblin Company"
     },
     "3911400": {
-      "rank": 4557,
+      "rank": 4556,
       "estimate": "<7k",
       "name": "Super Blood Hockey: Rogue Manager"
     },
     "3963030": {
-      "rank": 3231,
+      "rank": 3230,
       "estimate": "<7k",
       "name": "Pickle Pete"
     },
     "4030830": {
-      "rank": 3460,
+      "rank": 3365,
       "estimate": "<7k",
       "name": "Focus Grove"
     },
     "4051310": {
-      "rank": 1301,
+      "rank": 1304,
       "estimate": "25k+",
       "name": "Blood West: Scavengers"
     },
     "4129440": {
-      "rank": 4356,
+      "rank": 4355,
       "estimate": "<7k",
       "name": "Aftermath Z: Red Pine Lake"
     },
@@ -100,6 +100,11 @@
       "rank": 2320,
       "estimate": "7k+",
       "name": "Archon Soul"
+    },
+    "4753780": {
+      "rank": 4673,
+      "estimate": "<7k",
+      "name": "Animal Rescue Network"
     }
   }
 }
