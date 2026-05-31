@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-31T08:32:42.442Z",
-  "entryCount": 20,
+  "updatedAt": "2026-05-31T12:20:12.196Z",
+  "entryCount": 21,
   "entries": {
     "741340": {
-      "rank": 2819,
+      "rank": 2823,
       "estimate": "7k+",
       "name": "Kingdom Workshop"
     },
@@ -25,12 +25,12 @@
       "name": "Worst World"
     },
     "2216840": {
-      "rank": 2409,
+      "rank": 2412,
       "estimate": "7k+",
       "name": "BACKROOMS: NO RETURN"
     },
     "2329070": {
-      "rank": 1547,
+      "rank": 1548,
       "estimate": "15k+",
       "name": "POSTFROST"
     },
@@ -40,7 +40,7 @@
       "name": "Enter the Gungeon 2"
     },
     "2397440": {
-      "rank": 3053,
+      "rank": 3055,
       "estimate": "<7k",
       "name": "Momogatari"
     },
@@ -54,8 +54,13 @@
       "estimate": "25k+",
       "name": "Legacy of Valor"
     },
+    "3628390": {
+      "rank": 4568,
+      "estimate": "<7k",
+      "name": "33 Days till Extraction"
+    },
     "3866080": {
-      "rank": 1778,
+      "rank": 1779,
       "estimate": "15k+",
       "name": "Stick A Round"
     },
@@ -70,7 +75,7 @@
       "name": "Sacred: Last Pixel of Ancaria"
     },
     "4130890": {
-      "rank": 4490,
+      "rank": 4494,
       "estimate": "<7k",
       "name": "SIRENS"
     },
@@ -80,17 +85,17 @@
       "name": "Another Eden Begins"
     },
     "4217690": {
-      "rank": 4171,
+      "rank": 4172,
       "estimate": "<7k",
       "name": "Uncanny Tales: The Watcher"
     },
     "4355570": {
-      "rank": 473,
+      "rank": 471,
       "estimate": "80k+",
       "name": "Warhammer 40,000: Darktide - Skitarii Class"
     },
     "4414860": {
-      "rank": 1652,
+      "rank": 1654,
       "estimate": "15k+",
       "name": "Direland"
     },
@@ -100,7 +105,7 @@
       "name": "Inquisitor Simulator"
     },
     "4483020": {
-      "rank": 4499,
+      "rank": 4498,
       "estimate": "<7k",
       "name": "Echoes of the Flame"
     }
