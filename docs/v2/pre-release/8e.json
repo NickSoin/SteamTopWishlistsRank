@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-01T10:38:32.003Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-01T20:16:47.717Z",
+  "entryCount": 25,
   "entries": {
     "1063030": {
       "rank": 621,
@@ -145,6 +145,13 @@
       "name": "Fast Food Simulator",
       "releaseDate": "2024-12-10",
       "source": "historical"
+    },
+    "3143910": {
+      "rank": 3239,
+      "estimate": "<7k",
+      "name": "Tattoo Removal Simulator",
+      "releaseDate": "2026-06-01",
+      "source": "tracked"
     },
     "3151760": {
       "rank": 15,

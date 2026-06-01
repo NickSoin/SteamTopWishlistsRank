@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-01T10:38:32.003Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-01T20:16:47.717Z",
+  "entryCount": 22,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -151,6 +151,13 @@
       "estimate": "40k+",
       "name": "Rune Dice",
       "releaseDate": "2026-05-19",
+      "source": "tracked"
+    },
+    "3740010": {
+      "rank": 2116,
+      "estimate": "7k+",
+      "name": "Underchoice",
+      "releaseDate": "2026-06-01",
       "source": "tracked"
     }
   }

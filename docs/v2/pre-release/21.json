@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-01T10:38:32.003Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-01T20:16:47.717Z",
+  "entryCount": 22,
   "entries": {
     "924980": {
       "rank": 34,
@@ -136,6 +136,13 @@
       "name": "THRASHER",
       "releaseDate": "2025-11-07",
       "source": "historical"
+    },
+    "2900050": {
+      "rank": 2640,
+      "estimate": "7k+",
+      "name": "Lost in Art: a Miniature Realm",
+      "releaseDate": "2026-06-01",
+      "source": "tracked"
     },
     "3047750": {
       "rank": 1915,

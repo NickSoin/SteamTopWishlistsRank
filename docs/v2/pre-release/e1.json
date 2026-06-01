@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-01T10:38:32.003Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-01T20:16:47.717Z",
+  "entryCount": 24,
   "entries": {
     "363860": {
       "rank": 339,
@@ -168,6 +168,13 @@
       "name": "Euro Truck Simulator 2 - Greece",
       "releaseDate": "2024-12-04",
       "source": "historical"
+    },
+    "3353390": {
+      "rank": 2926,
+      "estimate": "7k+",
+      "name": "Starforged Legacy",
+      "releaseDate": "2026-06-01",
+      "source": "tracked"
     }
   }
 }

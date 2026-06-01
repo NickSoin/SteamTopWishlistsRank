@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-01T10:38:32.003Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-01T20:16:47.717Z",
+  "entryCount": 26,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -171,6 +171,13 @@
       "name": "The Thing: Remastered",
       "releaseDate": "2024-12-05",
       "source": "historical"
+    },
+    "3200290": {
+      "rank": 1592,
+      "estimate": "15k+",
+      "name": "Sister Ray",
+      "releaseDate": "2026-06-01",
+      "source": "tracked"
     },
     "3487240": {
       "rank": 3897,

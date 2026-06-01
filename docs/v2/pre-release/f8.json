@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-01T10:38:32.003Z",
-  "entryCount": 35,
+  "updatedAt": "2026-06-01T20:16:47.717Z",
+  "entryCount": 36,
   "entries": {
     "651490": {
       "rank": 270,
@@ -241,6 +241,13 @@
       "name": "Live Lens Bodycam",
       "releaseDate": "2025-07-30",
       "source": "historical"
+    },
+    "4144510": {
+      "rank": 2722,
+      "estimate": "7k+",
+      "name": "Freefall '95",
+      "releaseDate": "2026-06-01",
+      "source": "tracked"
     },
     "4149320": {
       "rank": 2585,

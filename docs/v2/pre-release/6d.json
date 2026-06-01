@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-01T10:38:32.003Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-01T20:16:47.717Z",
+  "entryCount": 28,
   "entries": {
     "680420": {
       "rank": 15,
@@ -200,6 +200,13 @@
       "releaseDate": "2025-11-17",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963413728349923836"
+    },
+    "4030830": {
+      "rank": 3233,
+      "estimate": "<7k",
+      "name": "Focus Grove",
+      "releaseDate": "2026-06-01",
+      "source": "tracked"
     }
   }
 }

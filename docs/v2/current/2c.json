@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-01T10:38:32.003Z",
-  "entryCount": 13,
+  "updatedAt": "2026-06-01T20:16:47.717Z",
+  "entryCount": 14,
   "entries": {
     "744200": {
       "rank": 2841,
@@ -15,27 +15,27 @@
       "name": "Necrofugitive"
     },
     "1218780": {
-      "rank": 2854,
+      "rank": 2852,
       "estimate": "7k+",
       "name": "Little Shop of Junk"
     },
     "1795090": {
-      "rank": 3830,
+      "rank": 3828,
       "estimate": "<7k",
       "name": "Monastery Builder"
     },
     "1883360": {
-      "rank": 1482,
+      "rank": 1484,
       "estimate": "25k+",
       "name": "The White Raven"
     },
     "2482760": {
-      "rank": 1495,
+      "rank": 1494,
       "estimate": "25k+",
       "name": "Hunting Simulator 3"
     },
     "2792540": {
-      "rank": 2978,
+      "rank": 2975,
       "estimate": "7k+",
       "name": "Anima Keeper"
     },
@@ -55,17 +55,22 @@
       "name": "There Are No Ghosts at the Grand"
     },
     "3812830": {
-      "rank": 1148,
+      "rank": 1139,
       "estimate": "25k+",
       "name": "Tiny Delivery"
     },
     "4232910": {
-      "rank": 3787,
+      "rank": 3781,
       "estimate": "<7k",
       "name": "Crusader Kings III: Silk & Silver"
     },
+    "4508020": {
+      "rank": 4679,
+      "estimate": "<7k",
+      "name": "Hole Is Mine"
+    },
     "4570720": {
-      "rank": 430,
+      "rank": 429,
       "estimate": "80k+",
       "name": "DragonSword : Awakening"
     }

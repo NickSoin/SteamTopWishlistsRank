@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-01T10:38:32.003Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-01T20:16:47.717Z",
+  "entryCount": 23,
   "entries": {
     "743380": {
       "rank": 664,
@@ -157,6 +157,13 @@
       "name": "Garten of Banban 0",
       "releaseDate": "2025-02-21",
       "source": "historical"
+    },
+    "4304930": {
+      "rank": 2634,
+      "estimate": "7k+",
+      "name": "Chef Knight",
+      "releaseDate": "2026-06-01",
+      "source": "tracked"
     }
   }
 }
