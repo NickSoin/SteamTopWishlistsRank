@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-01T05:25:04.863Z",
+  "updatedAt": "2026-06-01T10:38:32.003Z",
   "entryCount": 13,
   "entries": {
     "311810": {
@@ -10,17 +10,17 @@
       "name": "Operation: Black Mesa"
     },
     "1478260": {
-      "rank": 3775,
+      "rank": 3774,
       "estimate": "<7k",
       "name": "City of Rampage"
     },
     "1556850": {
-      "rank": 4129,
+      "rank": 4130,
       "estimate": "<7k",
       "name": "The Lunar Effect"
     },
     "1773220": {
-      "rank": 1590,
+      "rank": 1589,
       "estimate": "15k+",
       "name": "Train Mechanic Simulator 2025"
     },
@@ -45,12 +45,12 @@
       "name": "April 8th"
     },
     "3302370": {
-      "rank": 4241,
+      "rank": 4223,
       "estimate": "<7k",
       "name": "Crux Diaries RPG"
     },
     "3794210": {
-      "rank": 2062,
+      "rank": 2063,
       "estimate": "7k+",
       "name": "Thousand Hells: The Underworld Heists"
     },
@@ -65,8 +65,8 @@
       "name": "Supreme Experiment"
     },
     "4249850": {
-      "rank": 3000,
-      "estimate": "7k+",
+      "rank": 3001,
+      "estimate": "<7k",
       "name": "E-Shop Tycoon"
     }
   }

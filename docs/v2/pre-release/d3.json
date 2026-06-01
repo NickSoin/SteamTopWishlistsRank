@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-01T05:25:04.863Z",
+  "updatedAt": "2026-06-01T10:38:32.003Z",
   "entryCount": 31,
   "entries": {
     "307950": {
@@ -198,11 +198,11 @@
       "source": "historical"
     },
     "2846530": {
-      "rank": 3055,
-      "estimate": "<7k",
+      "rank": 1571,
+      "estimate": "15k+",
       "name": "BrokenLore: FOLLOW",
       "releaseDate": "2026-05-31",
-      "source": "historical"
+      "source": "tracked"
     },
     "2869630": {
       "rank": 2756,
