@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-05-31T21:32:30.606Z",
+  "updatedAt": "2026-06-01T05:25:04.863Z",
   "entryCount": 20,
   "entries": {
     "1778150": {
-      "rank": 3565,
+      "rank": 3564,
       "estimate": "<7k",
       "name": "TRIP"
     },
     "1810070": {
-      "rank": 2195,
+      "rank": 2196,
       "estimate": "7k+",
       "name": "Aperture: Salt Mines"
     },
@@ -25,22 +25,22 @@
       "name": "ARK 2"
     },
     "2381500": {
-      "rank": 1595,
+      "rank": 1596,
       "estimate": "15k+",
       "name": "Engine Simulator"
     },
     "3008590": {
-      "rank": 1879,
+      "rank": 1881,
       "estimate": "15k+",
       "name": "Relics of the Oracle"
     },
     "3042790": {
-      "rank": 3699,
+      "rank": 3704,
       "estimate": "<7k",
       "name": "Scirocco Thugs"
     },
     "3260240": {
-      "rank": 1745,
+      "rank": 1746,
       "estimate": "15k+",
       "name": "Drivers of the Apocalypse"
     },
@@ -50,17 +50,17 @@
       "name": "Moonbrella"
     },
     "3445610": {
-      "rank": 1267,
+      "rank": 1268,
       "estimate": "25k+",
       "name": "BOMBSHELL BLITZ"
     },
     "3601630": {
-      "rank": 4532,
+      "rank": 4534,
       "estimate": "<7k",
       "name": "Cosmo Tales"
     },
     "3676140": {
-      "rank": 4371,
+      "rank": 4361,
       "estimate": "<7k",
       "name": "Trawler's Wake"
     },
@@ -70,7 +70,7 @@
       "name": "Sobakistan: The Land of Dogs"
     },
     "3749130": {
-      "rank": 4084,
+      "rank": 4093,
       "estimate": "<7k",
       "name": "Tower Tactics 2"
     },
@@ -80,27 +80,27 @@
       "name": "Total Tank Simulator 2"
     },
     "3985330": {
-      "rank": 3483,
+      "rank": 3486,
       "estimate": "<7k",
       "name": "BURNED HORIZONS"
     },
     "4061170": {
-      "rank": 948,
+      "rank": 949,
       "estimate": "40k+",
       "name": "SlashZero"
     },
     "4163030": {
-      "rank": 3698,
+      "rank": 3695,
       "estimate": "<7k",
       "name": "Cat Chess"
     },
     "4227400": {
-      "rank": 1055,
+      "rank": 1054,
       "estimate": "25k+",
       "name": "Sineus Arena Survivors"
     },
     "4517190": {
-      "rank": 2638,
+      "rank": 2641,
       "estimate": "7k+",
       "name": "DoDonPachi Resurrection Reignite"
     }
