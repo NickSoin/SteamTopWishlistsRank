@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-02T14:46:36.623Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-02T19:13:37.996Z",
+  "entryCount": 14,
   "entries": {
     "1060850": {
-      "rank": 4054,
+      "rank": 4051,
       "estimate": "<7k",
       "name": "Spleen"
     },
@@ -20,17 +20,17 @@
       "name": "Revolution: The Spark"
     },
     "1890310": {
-      "rank": 3003,
-      "estimate": "<7k",
+      "rank": 2997,
+      "estimate": "7k+",
       "name": "Rogue Blight"
     },
     "2185510": {
-      "rank": 352,
+      "rank": 351,
       "estimate": "80k+",
       "name": "TOUCHSTARVED"
     },
     "2346870": {
-      "rank": 975,
+      "rank": 973,
       "estimate": "40k+",
       "name": "The Big Lez Video Game"
     },
@@ -40,44 +40,39 @@
       "name": "Century of Steam"
     },
     "2576350": {
-      "rank": 4571,
+      "rank": 4566,
       "estimate": "<7k",
       "name": "Mansion of Memories: Prologue"
     },
     "2588830": {
-      "rank": 3393,
+      "rank": 3388,
       "estimate": "<7k",
       "name": "FATHER"
     },
     "2591630": {
-      "rank": 1474,
+      "rank": 1468,
       "estimate": "25k+",
       "name": "The Edge of Water"
     },
     "2697620": {
-      "rank": 1054,
+      "rank": 1053,
       "estimate": "25k+",
       "name": "Combo Devils"
     },
     "3226830": {
-      "rank": 3398,
+      "rank": 3372,
       "estimate": "<7k",
       "name": "Canvas City"
     },
     "3456660": {
-      "rank": 2502,
+      "rank": 2498,
       "estimate": "7k+",
       "name": "PAYDAY: Aces High"
     },
     "3685330": {
-      "rank": 3954,
+      "rank": 3948,
       "estimate": "<7k",
       "name": "Orbifold"
-    },
-    "3997970": {
-      "rank": 2694,
-      "estimate": "7k+",
-      "name": "Camelot Unchained"
     }
   }
 }

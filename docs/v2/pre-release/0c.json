@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-02T14:46:36.623Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-02T19:13:37.996Z",
+  "entryCount": 26,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -129,6 +129,13 @@
       "name": "Death or Treat",
       "releaseDate": "2023-05-11",
       "source": "historical"
+    },
+    "2186990": {
+      "rank": 25,
+      "estimate": "600k+",
+      "name": "Fatekeeper",
+      "releaseDate": "2026-06-02",
+      "source": "tracked"
     },
     "2247570": {
       "rank": 914,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-02T14:46:36.623Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-02T19:13:37.996Z",
+  "entryCount": 27,
   "entries": {
     "698670": {
       "rank": 24,
@@ -187,6 +187,13 @@
       "name": "#from #abandoned",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4656700": {
+      "rank": 1575,
+      "estimate": "15k+",
+      "name": "Papa's Mocharia Deluxe",
+      "releaseDate": "2026-06-02",
+      "source": "tracked"
     }
   }
 }

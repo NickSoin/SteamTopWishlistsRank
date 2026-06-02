@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-02T14:46:36.623Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-02T19:13:37.996Z",
+  "entryCount": 34,
   "entries": {
     "858820": {
       "rank": 1,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "Afternoon Affairs & Helpless Housewives",
       "releaseDate": "2026-05-23",
+      "source": "tracked"
+    },
+    "4731620": {
+      "rank": 1432,
+      "estimate": "25k+",
+      "name": "Fortune Mill",
+      "releaseDate": "2026-06-02",
       "source": "tracked"
     }
   }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-02T14:46:36.623Z",
+  "updatedAt": "2026-06-02T19:13:37.996Z",
   "entryCount": 21,
   "entries": {
     "377300": {
@@ -54,11 +54,11 @@
       "source": "historical"
     },
     "1525290": {
-      "rank": 1798,
+      "rank": 1800,
       "estimate": "15k+",
       "name": "OddFauna : Secret of the Terrabeast",
       "releaseDate": "2026-06-02",
-      "source": "historical"
+      "source": "tracked"
     },
     "1555150": {
       "rank": 828,

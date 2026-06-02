@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-02T14:46:36.623Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-02T19:13:37.996Z",
+  "entryCount": 24,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -89,6 +89,13 @@
       "name": "LONESTAR",
       "releaseDate": "2025-04-03",
       "source": "historical"
+    },
+    "2292160": {
+      "rank": 3363,
+      "estimate": "<7k",
+      "name": "Remorses",
+      "releaseDate": "2026-06-02",
+      "source": "tracked"
     },
     "2368470": {
       "rank": 1075,

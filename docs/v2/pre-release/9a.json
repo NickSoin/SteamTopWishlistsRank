@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-02T14:46:36.623Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-02T19:13:37.996Z",
+  "entryCount": 22,
   "entries": {
     "928000": {
       "rank": 773,
@@ -152,6 +152,13 @@
       "name": "Anno 117: Pax Romana",
       "releaseDate": "2025-11-12",
       "source": "historical"
+    },
+    "3708070": {
+      "rank": 1952,
+      "estimate": "15k+",
+      "name": "Campsite Hustle! - Management Simulator",
+      "releaseDate": "2026-06-02",
+      "source": "tracked"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-02T14:46:36.623Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-02T19:13:37.996Z",
+  "entryCount": 25,
   "entries": {
     "1154090": {
       "rank": 1108,
@@ -166,6 +166,13 @@
       "name": "Adorable Adventures",
       "releaseDate": "2026-04-30",
       "source": "historical"
+    },
+    "3997970": {
+      "rank": 2694,
+      "estimate": "7k+",
+      "name": "Camelot Unchained",
+      "releaseDate": "2026-06-02",
+      "source": "tracked"
     },
     "4282710": {
       "rank": 2617,
