@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-02T09:55:00.621Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-02T14:46:36.623Z",
+  "entryCount": 21,
   "entries": {
     "1368050": {
       "rank": 636,
@@ -15,12 +15,12 @@
       "name": "Potion Pipeline"
     },
     "1719700": {
-      "rank": 3664,
+      "rank": 3663,
       "estimate": "<7k",
       "name": "Super Simmer"
     },
     "1742740": {
-      "rank": 2951,
+      "rank": 2950,
       "estimate": "7k+",
       "name": "Ribby: The Game"
     },
@@ -30,37 +30,37 @@
       "name": "Farm Renovator"
     },
     "2280900": {
-      "rank": 4040,
+      "rank": 4041,
       "estimate": "<7k",
       "name": "Blood Rot: 1918"
     },
     "2666580": {
-      "rank": 672,
+      "rank": 673,
       "estimate": "40k+",
       "name": "Pathfinder: Abomination Vaults"
     },
     "3197360": {
-      "rank": 3518,
+      "rank": 3517,
       "estimate": "<7k",
       "name": "60 Seconds! Souper Scavenger"
     },
     "3297800": {
-      "rank": 2623,
+      "rank": 2622,
       "estimate": "7k+",
       "name": "GRIMPS"
     },
     "3327880": {
-      "rank": 4409,
+      "rank": 4410,
       "estimate": "<7k",
       "name": "Leap Galaxy"
     },
     "3399900": {
-      "rank": 1183,
+      "rank": 1182,
       "estimate": "25k+",
       "name": "HellSlave II: Judgment of the Archon"
     },
     "3622350": {
-      "rank": 1571,
+      "rank": 1570,
       "estimate": "15k+",
       "name": "Kill Joy"
     },
@@ -70,17 +70,17 @@
       "name": "Over the Radio"
     },
     "3793270": {
-      "rank": 4162,
+      "rank": 4158,
       "estimate": "<7k",
       "name": "Bygoner"
     },
     "3818450": {
-      "rank": 3867,
+      "rank": 3871,
       "estimate": "<7k",
       "name": "Everlast: Undying Tale"
     },
     "3847920": {
-      "rank": 776,
+      "rank": 764,
       "estimate": "40k+",
       "name": "Wild n Chill"
     },
@@ -89,18 +89,23 @@
       "estimate": "7k+",
       "name": "Crusaders Quest : MergeChess"
     },
+    "3939100": {
+      "rank": 4699,
+      "estimate": "<7k",
+      "name": "Insomnia: Chapter One"
+    },
     "4120310": {
       "rank": 3482,
       "estimate": "<7k",
       "name": "70s-style Robot Anime Geppy-X"
     },
     "4139020": {
-      "rank": 4319,
+      "rank": 4320,
       "estimate": "<7k",
       "name": "AUTOMA"
     },
     "4193590": {
-      "rank": 1754,
+      "rank": 1755,
       "estimate": "15k+",
       "name": "Salvation Denied"
     }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-02T09:55:00.621Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-02T14:46:36.623Z",
+  "entryCount": 31,
   "entries": {
     "436780": {
       "rank": 31,
@@ -208,6 +208,13 @@
       "name": "Painted In Blood",
       "releaseDate": "2025-10-23",
       "source": "historical"
+    },
+    "3367430": {
+      "rank": 1275,
+      "estimate": "25k+",
+      "name": "Battleship Command",
+      "releaseDate": "2026-06-02",
+      "source": "tracked"
     },
     "3726370": {
       "rank": 3055,

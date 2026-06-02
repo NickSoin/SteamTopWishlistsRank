@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-02T09:55:00.621Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-02T14:46:36.623Z",
+  "entryCount": 25,
   "entries": {
     "363860": {
       "rank": 339,
@@ -168,6 +168,13 @@
       "name": "Euro Truck Simulator 2 - Greece",
       "releaseDate": "2024-12-04",
       "source": "historical"
+    },
+    "3219140": {
+      "rank": 2275,
+      "estimate": "7k+",
+      "name": "Hobby Horse",
+      "releaseDate": "2026-06-02",
+      "source": "tracked"
     },
     "3353390": {
       "rank": 2926,
