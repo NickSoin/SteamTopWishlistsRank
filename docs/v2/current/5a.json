@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-01T22:44:16.815Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-02T05:24:29.844Z",
+  "entryCount": 13,
   "entries": {
     "1706100": {
-      "rank": 3511,
+      "rank": 3514,
       "estimate": "<7k",
       "name": "Untrue New World"
     },
@@ -15,7 +15,7 @@
       "name": "At Fate's End"
     },
     "2421080": {
-      "rank": 3446,
+      "rank": 3451,
       "estimate": "<7k",
       "name": "Synth Beasts"
     },
@@ -27,17 +27,17 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1783238125330044"
     },
     "3144340": {
-      "rank": 3870,
+      "rank": 3867,
       "estimate": "<7k",
       "name": "Cult of PiN"
     },
     "3262820": {
-      "rank": 793,
+      "rank": 794,
       "estimate": "40k+",
       "name": "Uncanny Valley: Checkpoint"
     },
     "3440260": {
-      "rank": 3939,
+      "rank": 3905,
       "estimate": "<7k",
       "name": "Alruna: End of History"
     },
@@ -47,24 +47,29 @@
       "name": "Fortress Connected"
     },
     "3586760": {
-      "rank": 4386,
+      "rank": 4389,
       "estimate": "<7k",
       "name": "Construction Crew"
     },
     "3597340": {
-      "rank": 2059,
+      "rank": 2060,
       "estimate": "7k+",
       "name": "After Hell Freezes Over"
     },
     "3789590": {
-      "rank": 4672,
+      "rank": 4677,
       "estimate": "<7k",
       "name": "100 Astro Cats"
     },
     "4004300": {
-      "rank": 3053,
+      "rank": 3056,
       "estimate": "<7k",
       "name": "100 Chernobyl Cats"
+    },
+    "4454510": {
+      "rank": 4695,
+      "estimate": "<7k",
+      "name": "Sock Puppet Superstar"
     }
   }
 }

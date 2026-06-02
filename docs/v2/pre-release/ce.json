@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-01T22:44:16.815Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-02T05:24:29.844Z",
+  "entryCount": 21,
   "entries": {
     "850170": {
       "rank": 394,
@@ -143,6 +143,13 @@
       "name": "Dale & Dawson Stationery Supplies",
       "releaseDate": "2024-08-30",
       "source": "historical"
+    },
+    "3898830": {
+      "rank": 1766,
+      "estimate": "15k+",
+      "name": "Banana of Doom",
+      "releaseDate": "2026-06-01",
+      "source": "tracked"
     }
   }
 }
