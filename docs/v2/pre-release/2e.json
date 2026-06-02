@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-02T05:24:29.844Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-02T09:55:00.621Z",
+  "entryCount": 16,
   "entries": {
     "1454160": {
       "rank": 1177,
@@ -110,6 +110,13 @@
       "name": "Dune: Imperium - Rise of Ix",
       "releaseDate": "2024-07-31",
       "source": "historical"
+    },
+    "4019180": {
+      "rank": 4694,
+      "estimate": "<7k",
+      "name": "ULTRA0",
+      "releaseDate": "2026-06-02",
+      "source": "tracked"
     }
   }
 }
