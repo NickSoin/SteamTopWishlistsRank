@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-03T15:10:17.029Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-03T19:02:46.807Z",
+  "entryCount": 25,
   "entries": {
     "467740": {
       "rank": 10,
@@ -173,6 +173,13 @@
       "releaseDate": "2026-09-08",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365112250"
+    },
+    "4305480": {
+      "rank": 4131,
+      "estimate": "<7k",
+      "name": "IncreKnight",
+      "releaseDate": "2026-06-03",
+      "source": "tracked"
     }
   }
 }

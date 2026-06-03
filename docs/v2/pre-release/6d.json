@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-03T15:10:17.029Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-03T19:02:46.807Z",
+  "entryCount": 29,
   "entries": {
     "680420": {
       "rank": 15,
@@ -206,6 +206,13 @@
       "estimate": "<7k",
       "name": "Focus Grove",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "4051310": {
+      "rank": 1300,
+      "estimate": "25k+",
+      "name": "Blood West: Scavengers",
+      "releaseDate": "2026-06-03",
       "source": "tracked"
     }
   }
