@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-03T19:02:46.807Z",
-  "entryCount": 13,
+  "updatedAt": "2026-06-03T22:35:43.016Z",
+  "entryCount": 14,
   "entries": {
     "311810": {
       "rank": 221,
@@ -10,17 +10,17 @@
       "name": "Operation: Black Mesa"
     },
     "1478260": {
-      "rank": 3786,
+      "rank": 3791,
       "estimate": "<7k",
       "name": "City of Rampage"
     },
     "1556850": {
-      "rank": 4148,
+      "rank": 4150,
       "estimate": "<7k",
       "name": "The Lunar Effect"
     },
     "1773220": {
-      "rank": 1594,
+      "rank": 1595,
       "estimate": "15k+",
       "name": "Train Mechanic Simulator 2025"
     },
@@ -30,24 +30,29 @@
       "name": "Rooted"
     },
     "2622460": {
-      "rank": 3519,
+      "rank": 3521,
       "estimate": "<7k",
       "name": "The Skyland Chronicles"
     },
     "3146440": {
-      "rank": 2055,
+      "rank": 2054,
       "estimate": "7k+",
       "name": "SPORTAL"
     },
     "3235670": {
-      "rank": 2506,
+      "rank": 2509,
       "estimate": "7k+",
       "name": "April 8th"
     },
     "3302370": {
-      "rank": 4127,
+      "rank": 4119,
       "estimate": "<7k",
       "name": "Crux Diaries RPG"
+    },
+    "3346460": {
+      "rank": 4700,
+      "estimate": "<7k",
+      "name": "Pottering"
     },
     "3794210": {
       "rank": 2062,
@@ -60,12 +65,12 @@
       "name": "DREADNOUGHT TARTARUS"
     },
     "4212050": {
-      "rank": 338,
+      "rank": 339,
       "estimate": "80k+",
       "name": "Supreme Experiment"
     },
     "4249850": {
-      "rank": 3001,
+      "rank": 3004,
       "estimate": "<7k",
       "name": "E-Shop Tycoon"
     }
