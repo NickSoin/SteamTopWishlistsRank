@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-03T10:17:29.835Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-03T15:10:17.029Z",
+  "entryCount": 33,
   "entries": {
     "809060": {
       "rank": 695,
@@ -159,6 +159,13 @@
       "name": "Mega City Force",
       "releaseDate": "2023-07-28",
       "source": "historical"
+    },
+    "2287550": {
+      "rank": 3860,
+      "estimate": "<7k",
+      "name": "Farm RPG",
+      "releaseDate": "2026-06-03",
+      "source": "tracked"
     },
     "2311990": {
       "rank": 2212,

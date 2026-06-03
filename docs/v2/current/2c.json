@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-03T10:17:29.835Z",
-  "entryCount": 14,
+  "updatedAt": "2026-06-03T15:10:17.029Z",
+  "entryCount": 15,
   "entries": {
     "744200": {
-      "rank": 2849,
+      "rank": 2848,
       "estimate": "7k+",
       "name": "Altiros"
     },
@@ -20,22 +20,22 @@
       "name": "Little Shop of Junk"
     },
     "1795090": {
-      "rank": 3847,
+      "rank": 3850,
       "estimate": "<7k",
       "name": "Monastery Builder"
     },
     "1883360": {
-      "rank": 1490,
+      "rank": 1491,
       "estimate": "25k+",
       "name": "The White Raven"
     },
     "2482760": {
-      "rank": 1499,
-      "estimate": "25k+",
+      "rank": 1502,
+      "estimate": "15k+",
       "name": "Hunting Simulator 3"
     },
     "2792540": {
-      "rank": 2987,
+      "rank": 2988,
       "estimate": "7k+",
       "name": "Anima Keeper"
     },
@@ -45,32 +45,37 @@
       "name": "over the hill"
     },
     "3100690": {
-      "rank": 695,
+      "rank": 694,
       "estimate": "40k+",
       "name": "Dust & Diesel: Deadland Delivery"
     },
     "3725190": {
-      "rank": 445,
+      "rank": 446,
       "estimate": "80k+",
       "name": "There Are No Ghosts at the Grand"
     },
     "3812830": {
-      "rank": 1128,
+      "rank": 1127,
       "estimate": "25k+",
       "name": "Tiny Delivery"
     },
     "4232910": {
-      "rank": 3783,
+      "rank": 3780,
       "estimate": "<7k",
       "name": "Crusader Kings III: Silk & Silver"
     },
     "4508020": {
-      "rank": 4604,
+      "rank": 4584,
       "estimate": "<7k",
       "name": "Hole Is Mine"
     },
+    "4529850": {
+      "rank": 4200,
+      "estimate": "<7k",
+      "name": "Runeward Online"
+    },
     "4570720": {
-      "rank": 424,
+      "rank": 422,
       "estimate": "80k+",
       "name": "DragonSword : Awakening"
     }

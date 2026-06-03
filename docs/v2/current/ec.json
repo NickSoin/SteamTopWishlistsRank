@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-03T10:17:29.835Z",
-  "entryCount": 11,
+  "updatedAt": "2026-06-03T15:10:17.029Z",
+  "entryCount": 12,
   "entries": {
     "1252720": {
-      "rank": 4550,
+      "rank": 4548,
       "estimate": "<7k",
       "name": "Visceratum"
     },
@@ -15,49 +15,54 @@
       "name": "Stars of Icarus"
     },
     "2664120": {
-      "rank": 2528,
+      "rank": 2529,
       "estimate": "7k+",
       "name": "Lonely Space"
     },
     "2769340": {
-      "rank": 3909,
+      "rank": 3910,
       "estimate": "<7k",
       "name": "Moonshot"
     },
     "3431190": {
-      "rank": 3823,
+      "rank": 3824,
       "estimate": "<7k",
       "name": "Galactic Realms: Quest for the Forgotten"
     },
     "3704270": {
-      "rank": 3522,
+      "rank": 3520,
       "estimate": "<7k",
       "name": "Magnavale: Eternal Soul"
     },
     "3746290": {
-      "rank": 2431,
+      "rank": 2429,
       "estimate": "7k+",
       "name": "Werewolf: The Apocalypse – Rageborn"
     },
     "3824840": {
-      "rank": 3441,
+      "rank": 3438,
       "estimate": "<7k",
       "name": "Nezori"
     },
     "4165740": {
-      "rank": 3456,
+      "rank": 3454,
       "estimate": "<7k",
       "name": "Vena"
     },
     "4300400": {
-      "rank": 2322,
+      "rank": 2321,
       "estimate": "7k+",
       "name": "Adventurers Shop"
     },
     "4475320": {
-      "rank": 3723,
+      "rank": 3727,
       "estimate": "<7k",
       "name": "你离开之后"
+    },
+    "4683590": {
+      "rank": 4668,
+      "estimate": "<7k",
+      "name": "Pale Tide"
     }
   }
 }

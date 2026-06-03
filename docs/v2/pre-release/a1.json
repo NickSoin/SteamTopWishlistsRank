@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-03T10:17:29.835Z",
-  "entryCount": 36,
+  "updatedAt": "2026-06-03T15:10:17.029Z",
+  "entryCount": 37,
   "entries": {
     "619390": {
       "rank": 926,
@@ -261,6 +261,13 @@
       "releaseDate": "2025-09-12",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758648545"
+    },
+    "4409870": {
+      "rank": 2674,
+      "estimate": "7k+",
+      "name": "Slots & Diapers",
+      "releaseDate": "2026-06-03",
+      "source": "tracked"
     }
   }
 }

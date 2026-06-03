@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-03T10:17:29.835Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-03T15:10:17.029Z",
+  "entryCount": 26,
   "entries": {
     "536270": {
       "rank": 17,
@@ -180,6 +180,13 @@
       "name": "ARK: Aquatica",
       "releaseDate": "2025-07-15",
       "source": "historical"
+    },
+    "4148930": {
+      "rank": 528,
+      "estimate": "40k+",
+      "name": "F1® 25: 2026 Season Pack",
+      "releaseDate": "2026-06-03",
+      "source": "tracked"
     }
   }
 }
