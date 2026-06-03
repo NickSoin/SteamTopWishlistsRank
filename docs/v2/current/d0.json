@@ -1,46 +1,51 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-02T23:00:42.788Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-03T05:38:47.135Z",
+  "entryCount": 24,
   "entries": {
     "1383660": {
-      "rank": 2812,
+      "rank": 2819,
       "estimate": "7k+",
       "name": "Guinea Pig Parkour®"
     },
     "1714710": {
-      "rank": 3719,
+      "rank": 3728,
       "estimate": "<7k",
       "name": "Castle Manager"
     },
     "1803500": {
-      "rank": 1935,
+      "rank": 1940,
       "estimate": "15k+",
       "name": "Runeforge"
     },
     "1858210": {
-      "rank": 2010,
+      "rank": 2013,
       "estimate": "7k+",
       "name": "Kindred Fates"
     },
     "1962010": {
-      "rank": 4266,
+      "rank": 4272,
       "estimate": "<7k",
       "name": "Space Scavenger 2"
     },
     "2303850": {
-      "rank": 808,
+      "rank": 809,
       "estimate": "40k+",
       "name": "Toxic Crusaders"
     },
     "2377930": {
-      "rank": 991,
+      "rank": 990,
       "estimate": "40k+",
       "name": "Destiny of Immortal"
     },
+    "2487330": {
+      "rank": 3018,
+      "estimate": "<7k",
+      "name": "Stuntman: Hollywood"
+    },
     "2525210": {
-      "rank": 1174,
+      "rank": 1175,
       "estimate": "25k+",
       "name": "Timespinner 2: Unwoven Dream"
     },
@@ -50,17 +55,17 @@
       "name": "DDS x Narcos"
     },
     "2627420": {
-      "rank": 4019,
+      "rank": 4025,
       "estimate": "<7k",
       "name": "The Coldest Winter"
     },
     "2796360": {
-      "rank": 3847,
+      "rank": 3857,
       "estimate": "<7k",
       "name": "100 Cats Beijing"
     },
     "3038500": {
-      "rank": 613,
+      "rank": 614,
       "estimate": "40k+",
       "name": "Cooking Simulator 2: Prologue"
     },
@@ -75,47 +80,47 @@
       "name": "A Waddleful Life"
     },
     "3307770": {
-      "rank": 1899,
+      "rank": 1901,
       "estimate": "15k+",
       "name": "NCORE"
     },
     "3397010": {
-      "rank": 4324,
+      "rank": 4331,
       "estimate": "<7k",
       "name": "EDEN’S FRONTIER™"
     },
     "3410670": {
-      "rank": 4610,
+      "rank": 4622,
       "estimate": "<7k",
       "name": "Fusty Dungeon"
     },
     "3428570": {
-      "rank": 1789,
+      "rank": 1786,
       "estimate": "15k+",
       "name": "Teller's Duty"
     },
     "3581910": {
-      "rank": 1509,
+      "rank": 1510,
       "estimate": "15k+",
       "name": "Victory Banner"
     },
     "3712080": {
-      "rank": 316,
+      "rank": 315,
       "estimate": "80k+",
       "name": "Funnel Runners"
     },
     "3717490": {
-      "rank": 4561,
+      "rank": 4571,
       "estimate": "<7k",
       "name": "Shattered Realms"
     },
     "3731270": {
-      "rank": 2737,
+      "rank": 2743,
       "estimate": "7k+",
       "name": "mobOS"
     },
     "3977340": {
-      "rank": 2557,
+      "rank": 2537,
       "estimate": "7k+",
       "name": "Poly Fighter"
     }

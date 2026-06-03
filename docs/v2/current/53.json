@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-02T23:00:42.788Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-03T05:38:47.135Z",
+  "entryCount": 18,
   "entries": {
     "611820": {
-      "rank": 4513,
+      "rank": 4521,
       "estimate": "<7k",
       "name": "Xenosis: Alien Infection"
     },
     "1478730": {
-      "rank": 1783,
+      "rank": 1784,
       "estimate": "15k+",
       "name": "Tune My Car"
     },
     "1587920": {
-      "rank": 4331,
+      "rank": 4338,
       "estimate": "<7k",
       "name": "Undead Development 2"
     },
     "1619870": {
-      "rank": 3270,
+      "rank": 3282,
       "estimate": "<7k",
       "name": "The Ballad of Bonky"
     },
     "2002840": {
-      "rank": 2815,
+      "rank": 2822,
       "estimate": "7k+",
       "name": "Gossamer Matrix"
     },
@@ -40,22 +40,22 @@
       "name": "Streets of Fortuna"
     },
     "2953540": {
-      "rank": 1802,
+      "rank": 1803,
       "estimate": "15k+",
       "name": "Neverseas"
     },
     "3126480": {
-      "rank": 4381,
+      "rank": 4390,
       "estimate": "<7k",
       "name": "Lord of Metal"
     },
     "3252240": {
-      "rank": 2336,
+      "rank": 2340,
       "estimate": "7k+",
       "name": "Mircea"
     },
     "3536500": {
-      "rank": 2279,
+      "rank": 2283,
       "estimate": "7k+",
       "name": "Tunguska 2: Whitefall"
     },
@@ -65,12 +65,12 @@
       "name": "OKU"
     },
     "3619300": {
-      "rank": 1966,
+      "rank": 1969,
       "estimate": "15k+",
       "name": "TONIN:兎忍"
     },
     "3720040": {
-      "rank": 1859,
+      "rank": 1860,
       "estimate": "15k+",
       "name": "Hide Zone"
     },
@@ -80,14 +80,19 @@
       "name": "Factomancer"
     },
     "4178790": {
-      "rank": 3486,
+      "rank": 3492,
       "estimate": "<7k",
       "name": "Clicky Islands"
     },
     "4190240": {
-      "rank": 4551,
+      "rank": 4559,
       "estimate": "<7k",
       "name": "Nuclear Design Bureau"
+    },
+    "4293910": {
+      "rank": 4346,
+      "estimate": "<7k",
+      "name": "XenoFeels"
     }
   }
 }
