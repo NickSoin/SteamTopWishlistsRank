@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-03T05:38:47.135Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-03T10:17:29.835Z",
+  "entryCount": 22,
   "entries": {
     "1145350": {
       "rank": 1,
@@ -126,6 +126,13 @@
       "name": "Zoo Park Story",
       "releaseDate": "2023-10-01",
       "source": "historical"
+    },
+    "2649860": {
+      "rank": 3178,
+      "estimate": "<7k",
+      "name": "Gombo",
+      "releaseDate": "2026-06-02",
+      "source": "tracked"
     },
     "2659050": {
       "rank": 1053,
