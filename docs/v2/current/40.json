@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-03T22:35:43.016Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-04T05:39:51.626Z",
+  "entryCount": 25,
   "entries": {
     "1058030": {
-      "rank": 3639,
+      "rank": 3649,
       "estimate": "<7k",
       "name": "Roskur's Run"
     },
     "1264390": {
-      "rank": 1913,
+      "rank": 1914,
       "estimate": "15k+",
       "name": "Dreamjob: Programmer Simulator - Learn Programming Games"
     },
     "1269700": {
-      "rank": 3833,
+      "rank": 3839,
       "estimate": "<7k",
       "name": "4 Minutes to the Apocalypse"
     },
     "1331290": {
-      "rank": 2829,
+      "rank": 2832,
       "estimate": "7k+",
       "name": "Shattered Soul"
     },
     "2219850": {
-      "rank": 3443,
+      "rank": 3446,
       "estimate": "<7k",
       "name": "Cartomantic"
     },
     "2354810": {
-      "rank": 4302,
+      "rank": 4304,
       "estimate": "<7k",
       "name": "Elysium"
     },
     "2358120": {
-      "rank": 3104,
+      "rank": 3107,
       "estimate": "<7k",
       "name": "Criminals Within"
     },
@@ -55,7 +55,7 @@
       "name": "Cozy Cleaner"
     },
     "2850910": {
-      "rank": 2530,
+      "rank": 2532,
       "estimate": "7k+",
       "name": "Prisma"
     },
@@ -65,7 +65,7 @@
       "name": "Colonies of The Remnant"
     },
     "3109590": {
-      "rank": 1058,
+      "rank": 1060,
       "estimate": "25k+",
       "name": "Cat Cafe Manager 2: Big City Bliss"
     },
@@ -85,7 +85,7 @@
       "name": "Star Garden"
     },
     "3375890": {
-      "rank": 2884,
+      "rank": 2869,
       "estimate": "7k+",
       "name": "Ogre Chambers 2222"
     },
@@ -95,7 +95,7 @@
       "name": "Car Wash Together"
     },
     "3591920": {
-      "rank": 4211,
+      "rank": 4212,
       "estimate": "<7k",
       "name": "Angels with Scaly Wings™, Part 2: The Strands of Fate"
     },
@@ -105,12 +105,12 @@
       "name": "Plant Tales"
     },
     "3740090": {
-      "rank": 3222,
+      "rank": 3220,
       "estimate": "<7k",
       "name": "Bruisers 2D Boxing"
     },
     "4122640": {
-      "rank": 2919,
+      "rank": 2921,
       "estimate": "7k+",
       "name": "Out To Deliver"
     },
@@ -123,6 +123,11 @@
       "rank": 2777,
       "estimate": "7k+",
       "name": "Mystical Demon Farm"
+    },
+    "4760110": {
+      "rank": 4687,
+      "estimate": "<7k",
+      "name": "Sauve le Shérif !"
     }
   }
 }
