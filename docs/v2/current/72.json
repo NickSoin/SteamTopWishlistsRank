@@ -1,93 +1,158 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 30,
   "entries": {
     "575020": {
-      "rank": 989,
-      "estimate": "40k+",
+      "rank": 5550,
+      "estimate": "<7k",
       "name": "Outerra World Sandbox"
     },
     "668900": {
-      "rank": 2353,
-      "estimate": "7k+",
+      "rank": 4654,
+      "estimate": "<7k",
       "name": "Murder Miners X"
     },
-    "992690": {
-      "rank": 2798,
-      "estimate": "7k+",
-      "name": "We are the Plague"
-    },
-    "1094450": {
-      "rank": 2922,
-      "estimate": "7k+",
-      "name": "Spies & Soldiers"
-    },
-    "1798110": {
-      "rank": 2388,
-      "estimate": "7k+",
-      "name": "Drug Lord Simulator"
+    "917820": {
+      "rank": 7780,
+      "estimate": "<7k",
+      "name": "Fairtravel Battle CCG"
     },
     "1892100": {
-      "rank": 1367,
-      "estimate": "25k+",
+      "rank": 3895,
+      "estimate": "<7k",
       "name": "HEART ABYSS"
     },
-    "2084210": {
-      "rank": 3194,
-      "estimate": "<7k",
-      "name": "Alight: Lunar Survival"
-    },
     "2214460": {
-      "rank": 1170,
-      "estimate": "25k+",
+      "rank": 5658,
+      "estimate": "<7k",
       "name": "Project Feline"
     },
-    "2336690": {
-      "rank": 3410,
-      "estimate": "<7k",
-      "name": "Magica Planta Botanica"
-    },
     "2459890": {
-      "rank": 4272,
+      "rank": 4265,
       "estimate": "<7k",
       "name": "Bobls"
     },
     "2482560": {
-      "rank": 4658,
+      "rank": 4493,
       "estimate": "<7k",
       "name": "Lefka 空垣"
     },
+    "2491490": {
+      "rank": 3108,
+      "estimate": "<7k",
+      "name": "Pit Panic"
+    },
     "2597200": {
-      "rank": 1742,
-      "estimate": "15k+",
+      "rank": 8070,
+      "estimate": "<7k",
       "name": "Across the Wonderlands"
     },
+    "2616750": {
+      "rank": 4376,
+      "estimate": "<7k",
+      "name": "Witchhammer"
+    },
     "3351230": {
-      "rank": 3484,
+      "rank": 9112,
       "estimate": "<7k",
       "name": "Founders Legacy"
     },
+    "3419240": {
+      "rank": 7596,
+      "estimate": "<7k",
+      "name": "Saintess of the Golden Bow"
+    },
+    "3459200": {
+      "rank": 8480,
+      "estimate": "<7k",
+      "name": "High Fantasy Idle"
+    },
+    "3603960": {
+      "rank": 6810,
+      "estimate": "<7k",
+      "name": "Sunyata CCG"
+    },
     "3620530": {
-      "rank": 907,
-      "estimate": "40k+",
+      "rank": 1548,
+      "estimate": "15k+",
       "name": "Police Stories 2"
     },
+    "3917850": {
+      "rank": 4164,
+      "estimate": "<7k",
+      "name": "Football Referee Life Simulator 26"
+    },
+    "3954460": {
+      "rank": 1011,
+      "estimate": "25k+",
+      "name": "Spiritus Sancti"
+    },
+    "4032860": {
+      "rank": 3461,
+      "estimate": "<7k",
+      "name": "Asa's Adventure"
+    },
+    "4125760": {
+      "rank": 5899,
+      "estimate": "<7k",
+      "name": "Legion Draft"
+    },
+    "4230110": {
+      "rank": 9205,
+      "estimate": "<7k",
+      "name": "Shadow Seeker"
+    },
+    "4233090": {
+      "rank": 7694,
+      "estimate": "<7k",
+      "name": "Catjong 6: Pawztec Temple"
+    },
+    "4273380": {
+      "rank": 8362,
+      "estimate": "<7k",
+      "name": "Chesscent"
+    },
+    "4280500": {
+      "rank": 7314,
+      "estimate": "<7k",
+      "name": "Dameido"
+    },
     "4315040": {
-      "rank": 657,
-      "estimate": "40k+",
+      "rank": 223,
+      "estimate": "80k+",
       "name": "Hearth and Hamlet"
     },
     "4461460": {
-      "rank": 1030,
-      "estimate": "25k+",
+      "rank": 600,
+      "estimate": "40k+",
       "name": "Fantasy Blacksmith Simulator"
     },
-    "4650840": {
-      "rank": 4296,
+    "4543500": {
+      "rank": 5474,
       "estimate": "<7k",
+      "name": "MicroMacro: Downtown Detective"
+    },
+    "4551150": {
+      "rank": 7334,
+      "estimate": "<7k",
+      "name": "Stamperor! The Jester's Decree"
+    },
+    "4588930": {
+      "rank": 4798,
+      "estimate": "<7k",
+      "name": "The Old Flesh of Nuraga"
+    },
+    "4650840": {
+      "rank": 695,
+      "estimate": "40k+",
       "name": "Up-Beat!!"
+    },
+    "4700280": {
+      "rank": 3738,
+      "estimate": "<7k",
+      "name": "Ironfields"
     }
   }
 }

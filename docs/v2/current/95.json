@@ -1,110 +1,210 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 40,
   "entries": {
-    "291750": {
-      "rank": 3459,
-      "estimate": "<7k",
-      "name": "The Last Crown: Blackenrock"
-    },
     "1192230": {
-      "rank": 1969,
-      "estimate": "15k+",
+      "rank": 6802,
+      "estimate": "<7k",
       "name": "Octopus City Blues"
     },
+    "1352290": {
+      "rank": 9219,
+      "estimate": "<7k",
+      "name": "Anime Squad"
+    },
     "1668340": {
-      "rank": 1542,
-      "estimate": "15k+",
+      "rank": 2700,
+      "estimate": "7k+",
       "name": "Eternal Tombs"
     },
     "1965470": {
-      "rank": 1377,
-      "estimate": "25k+",
+      "rank": 9890,
+      "estimate": "<7k",
       "name": "Barkhan"
     },
     "2217860": {
-      "rank": 2691,
-      "estimate": "7k+",
+      "rank": 9410,
+      "estimate": "<7k",
       "name": "Covert Ultra"
     },
     "2287780": {
-      "rank": 1785,
-      "estimate": "15k+",
+      "rank": 8152,
+      "estimate": "<7k",
       "name": "TouHou Legend of Fairy Souls"
     },
     "2377160": {
-      "rank": 3216,
+      "rank": 9808,
       "estimate": "<7k",
       "name": "Not Only Nine"
     },
     "2411280": {
-      "rank": 219,
-      "estimate": "80k+",
+      "rank": 2524,
+      "estimate": "7k+",
       "name": "The Bornless",
       "actualWishlists": 400000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365089395"
     },
+    "2680770": {
+      "rank": 2758,
+      "estimate": "7k+",
+      "name": "ForMind"
+    },
     "2988120": {
-      "rank": 346,
-      "estimate": "80k+",
+      "rank": 171,
+      "estimate": "200k+",
       "name": "Never Be Alone"
     },
+    "3121410": {
+      "rank": 6746,
+      "estimate": "<7k",
+      "name": "BackStreet"
+    },
     "3164790": {
-      "rank": 2639,
-      "estimate": "7k+",
+      "rank": 5442,
+      "estimate": "<7k",
       "name": "Overgrown Cleaner"
     },
     "3251940": {
-      "rank": 4106,
+      "rank": 8646,
       "estimate": "<7k",
       "name": "Sheltered from the Storm"
     },
     "3315060": {
-      "rank": 1225,
-      "estimate": "25k+",
+      "rank": 1663,
+      "estimate": "15k+",
       "name": "Ledgerbound"
     },
     "3492150": {
-      "rank": 3092,
+      "rank": 4688,
       "estimate": "<7k",
       "name": "Ministry of Truth: 1964"
     },
     "3521810": {
-      "rank": 4202,
+      "rank": 4640,
       "estimate": "<7k",
       "name": "Team Buddies"
     },
-    "3838820": {
-      "rank": 2014,
+    "3635490": {
+      "rank": 2543,
       "estimate": "7k+",
+      "name": "Orebits"
+    },
+    "3638660": {
+      "rank": 4759,
+      "estimate": "<7k",
+      "name": "Tyrant Tactics: Birth of Revolution"
+    },
+    "3647190": {
+      "rank": 1918,
+      "estimate": "15k+",
+      "name": "Malignant Survivors 2"
+    },
+    "3650950": {
+      "rank": 9418,
+      "estimate": "<7k",
+      "name": "CAR DEALER TYCOON"
+    },
+    "3743180": {
+      "rank": 5264,
+      "estimate": "<7k",
+      "name": "Dire Echo"
+    },
+    "3838820": {
+      "rank": 896,
+      "estimate": "40k+",
       "name": "Mirage Miracle Quest"
     },
+    "3839360": {
+      "rank": 5583,
+      "estimate": "<7k",
+      "name": "Tiny Birdtopia"
+    },
+    "3975280": {
+      "rank": 4162,
+      "estimate": "<7k",
+      "name": "TypeCaster"
+    },
     "4043810": {
-      "rank": 2072,
+      "rank": 2814,
       "estimate": "7k+",
       "name": "Syncblade"
     },
+    "4121220": {
+      "rank": 2048,
+      "estimate": "7k+",
+      "name": "Kosenki"
+    },
+    "4132310": {
+      "rank": 9488,
+      "estimate": "<7k",
+      "name": "Open Land"
+    },
     "4143000": {
-      "rank": 1037,
-      "estimate": "25k+",
+      "rank": 225,
+      "estimate": "80k+",
       "name": "FERRA"
     },
     "4214320": {
-      "rank": 2803,
-      "estimate": "7k+",
+      "rank": 3295,
+      "estimate": "<7k",
       "name": "我的美味丈夫 My Tasty Husband"
     },
+    "4222040": {
+      "rank": 2548,
+      "estimate": "7k+",
+      "name": "Detective INNA DUKE"
+    },
     "4235170": {
-      "rank": 3566,
-      "estimate": "<7k",
+      "rank": 282,
+      "estimate": "80k+",
       "name": "Fables of Dwale"
     },
     "4262800": {
-      "rank": 2237,
-      "estimate": "7k+",
+      "rank": 1919,
+      "estimate": "15k+",
       "name": "Pilot 6174: Orbital Survival"
+    },
+    "4285270": {
+      "rank": 4125,
+      "estimate": "<7k",
+      "name": "marblebuilds"
+    },
+    "4484770": {
+      "rank": 1602,
+      "estimate": "15k+",
+      "name": "Hoa 2"
+    },
+    "4586230": {
+      "rank": 9685,
+      "estimate": "<7k",
+      "name": "Last Inspection"
+    },
+    "4596990": {
+      "rank": 3277,
+      "estimate": "<7k",
+      "name": "Good Job"
+    },
+    "4620990": {
+      "rank": 8419,
+      "estimate": "<7k",
+      "name": "Digital Civilization: Evolution"
+    },
+    "4729330": {
+      "rank": 6038,
+      "estimate": "<7k",
+      "name": "EGGCONSOLE RELICS MSX2"
+    },
+    "4746250": {
+      "rank": 9592,
+      "estimate": "<7k",
+      "name": "Hyperspin"
+    },
+    "4764980": {
+      "rank": 8423,
+      "estimate": "<7k",
+      "name": "Crystal Siege"
     }
   }
 }

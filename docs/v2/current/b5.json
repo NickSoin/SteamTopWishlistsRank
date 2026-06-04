@@ -1,98 +1,193 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 37,
   "entries": {
-    "1130380": {
-      "rank": 4479,
-      "estimate": "<7k",
-      "name": "OZARK"
-    },
-    "1221260": {
-      "rank": 2642,
-      "estimate": "7k+",
-      "name": "Pope Simulator"
-    },
     "1641190": {
-      "rank": 4131,
+      "rank": 5758,
       "estimate": "<7k",
       "name": "Fallen Gods"
     },
     "2115210": {
-      "rank": 1430,
-      "estimate": "25k+",
+      "rank": 8427,
+      "estimate": "<7k",
       "name": "URBANO - Legends' Debut"
     },
     "2629670": {
-      "rank": 4476,
+      "rank": 8203,
       "estimate": "<7k",
       "name": "Life Blood"
     },
+    "2670430": {
+      "rank": 4791,
+      "estimate": "<7k",
+      "name": "Platverse: ABYA's Adventure"
+    },
     "2777560": {
-      "rank": 4194,
+      "rank": 4085,
       "estimate": "<7k",
       "name": "Escape the Script"
     },
     "2967710": {
-      "rank": 4638,
+      "rank": 7679,
       "estimate": "<7k",
       "name": "Game Designer Simulator"
     },
     "3021800": {
-      "rank": 4114,
+      "rank": 6362,
       "estimate": "<7k",
       "name": "Bleakwood"
     },
     "3032970": {
-      "rank": 4387,
+      "rank": 6751,
       "estimate": "<7k",
       "name": "HYPERFIGHT 2"
     },
     "3040830": {
-      "rank": 1934,
-      "estimate": "15k+",
+      "rank": 1130,
+      "estimate": "25k+",
       "name": "MU Legend: EVO"
     },
     "3129050": {
-      "rank": 4025,
+      "rank": 4924,
       "estimate": "<7k",
       "name": "Echoes of Mora"
     },
-    "3210060": {
-      "rank": 3983,
+    "3150450": {
+      "rank": 8301,
       "estimate": "<7k",
-      "name": "Skyfarm"
+      "name": "Dragon Spirits 0"
+    },
+    "3219760": {
+      "rank": 9260,
+      "estimate": "<7k",
+      "name": "The Almamula"
     },
     "3227040": {
-      "rank": 2756,
-      "estimate": "7k+",
+      "rank": 7700,
+      "estimate": "<7k",
       "name": "Dress the Duel"
     },
     "3448650": {
-      "rank": 533,
-      "estimate": "40k+",
+      "rank": 165,
+      "estimate": "200k+",
       "name": "Aliens: Fireteam Elite 2"
     },
     "3520750": {
-      "rank": 4230,
+      "rank": 6304,
       "estimate": "<7k",
       "name": "Hardkill System"
     },
+    "3540060": {
+      "rank": 2651,
+      "estimate": "7k+",
+      "name": "Carrier Cuties - Pets In Mechs!"
+    },
+    "3632370": {
+      "rank": 8319,
+      "estimate": "<7k",
+      "name": "Yoram - Question Arc"
+    },
     "3685570": {
-      "rank": 896,
-      "estimate": "40k+",
+      "rank": 2141,
+      "estimate": "7k+",
       "name": "FIGHT-QUEST"
     },
+    "3723090": {
+      "rank": 8581,
+      "estimate": "<7k",
+      "name": "Computer Manufacturer"
+    },
+    "3738120": {
+      "rank": 2908,
+      "estimate": "7k+",
+      "name": "First Age"
+    },
     "3756700": {
-      "rank": 600,
-      "estimate": "40k+",
+      "rank": 27,
+      "estimate": "600k+",
       "name": "Warhammer Age of Sigmar: Deathmaster"
     },
-    "4131500": {
-      "rank": 3185,
+    "3898970": {
+      "rank": 8402,
       "estimate": "<7k",
+      "name": "Better Minesweeper"
+    },
+    "3999040": {
+      "rank": 5459,
+      "estimate": "<7k",
+      "name": "Devoid"
+    },
+    "4131500": {
+      "rank": 562,
+      "estimate": "40k+",
       "name": "Feed the Giants"
+    },
+    "4164560": {
+      "rank": 8386,
+      "estimate": "<7k",
+      "name": "五重心跳 Five Heartbeats"
+    },
+    "4173520": {
+      "rank": 5769,
+      "estimate": "<7k",
+      "name": "Lawnpocalypse"
+    },
+    "4227090": {
+      "rank": 6496,
+      "estimate": "<7k",
+      "name": "Choice of Life: Floors"
+    },
+    "4390420": {
+      "rank": 5322,
+      "estimate": "<7k",
+      "name": "Atlanta TD"
+    },
+    "4407490": {
+      "rank": 8623,
+      "estimate": "<7k",
+      "name": "Project Prison: Prologue"
+    },
+    "4410890": {
+      "rank": 5361,
+      "estimate": "<7k",
+      "name": "Oh Ship!"
+    },
+    "4563910": {
+      "rank": 7855,
+      "estimate": "<7k",
+      "name": "The Bow: Ultimate weapon"
+    },
+    "4610980": {
+      "rank": 2093,
+      "estimate": "7k+",
+      "name": "Modern Wars"
+    },
+    "4657260": {
+      "rank": 8936,
+      "estimate": "<7k",
+      "name": "Kin Tandem"
+    },
+    "4668590": {
+      "rank": 3731,
+      "estimate": "<7k",
+      "name": "Mutation"
+    },
+    "4681630": {
+      "rank": 2201,
+      "estimate": "7k+",
+      "name": "The Looking Glass Wars: House of Cards"
+    },
+    "4730970": {
+      "rank": 9286,
+      "estimate": "<7k",
+      "name": "Center Of The Galaxy: Desktop Idle"
+    },
+    "4734350": {
+      "rank": 2180,
+      "estimate": "7k+",
+      "name": "SpellBlind"
     }
   }
 }

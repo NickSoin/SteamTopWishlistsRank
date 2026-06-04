@@ -1,103 +1,208 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 40,
   "entries": {
     "1228610": {
-      "rank": 49,
-      "estimate": "600k+",
+      "rank": 1074,
+      "estimate": "25k+",
       "name": "KARLSON"
     },
     "1532270": {
-      "rank": 4338,
+      "rank": 7899,
       "estimate": "<7k",
       "name": "The Maker Way"
     },
+    "1680630": {
+      "rank": 6420,
+      "estimate": "<7k",
+      "name": "Alignment Zero"
+    },
     "1963690": {
-      "rank": 726,
-      "estimate": "40k+",
+      "rank": 2129,
+      "estimate": "7k+",
       "name": "ENENRA: DΔEMON CORE"
     },
     "2052650": {
-      "rank": 712,
-      "estimate": "40k+",
+      "rank": 4987,
+      "estimate": "<7k",
       "name": "Sword & Shield Simulator"
     },
+    "2205960": {
+      "rank": 8828,
+      "estimate": "<7k",
+      "name": "RACE: Rocket Arena Car Extreme"
+    },
     "2325860": {
-      "rank": 2517,
-      "estimate": "7k+",
+      "rank": 5759,
+      "estimate": "<7k",
       "name": "Road 66"
     },
+    "2549910": {
+      "rank": 7903,
+      "estimate": "<7k",
+      "name": "Laura Bow and the Mechanical Codex"
+    },
     "2615600": {
-      "rank": 3340,
+      "rank": 6344,
       "estimate": "<7k",
       "name": "IL-2 Sturmovik: Fortresses and Focke-Wulfs - Dieppe"
     },
-    "2621030": {
-      "rank": 4161,
+    "2996150": {
+      "rank": 7912,
       "estimate": "<7k",
-      "name": "Your Holy & Virtuous Heretic"
+      "name": "Zodiac Mountain"
+    },
+    "3062700": {
+      "rank": 6390,
+      "estimate": "<7k",
+      "name": "Rebel Roar"
     },
     "3088700": {
-      "rank": 4218,
+      "rank": 3442,
       "estimate": "<7k",
       "name": "Driving Rogue"
     },
+    "3102950": {
+      "rank": 6660,
+      "estimate": "<7k",
+      "name": "Library of Meialia"
+    },
     "3107870": {
-      "rank": 543,
+      "rank": 774,
       "estimate": "40k+",
       "name": "Highland Keep"
     },
+    "3162390": {
+      "rank": 6354,
+      "estimate": "<7k",
+      "name": "CoffeeShop Simulator"
+    },
     "3245640": {
-      "rank": 530,
-      "estimate": "40k+",
+      "rank": 1633,
+      "estimate": "15k+",
       "name": "Starfinder: Afterlight"
     },
     "3296060": {
-      "rank": 1112,
+      "rank": 1287,
       "estimate": "25k+",
       "name": "Escape Academy 2: Back 2 School"
     },
     "3296990": {
-      "rank": 2537,
+      "rank": 2169,
       "estimate": "7k+",
       "name": "Fearwoods"
     },
     "3601680": {
-      "rank": 1796,
-      "estimate": "15k+",
+      "rank": 2892,
+      "estimate": "7k+",
       "name": "Slain 2: The Beast Within"
     },
     "3746310": {
-      "rank": 1045,
-      "estimate": "25k+",
+      "rank": 2514,
+      "estimate": "7k+",
       "name": "Chains of Lukomorye"
     },
     "3824760": {
-      "rank": 3698,
+      "rank": 3988,
       "estimate": "<7k",
       "name": "Kill Your Darlings"
     },
     "3845350": {
-      "rank": 4698,
-      "estimate": "<7k",
+      "rank": 2212,
+      "estimate": "7k+",
       "name": "Ignitement"
     },
+    "3860830": {
+      "rank": 9206,
+      "estimate": "<7k",
+      "name": "Victorian Dread"
+    },
     "3864940": {
-      "rank": 3499,
+      "rank": 4271,
       "estimate": "<7k",
       "name": "Trainwatch"
     },
+    "3874040": {
+      "rank": 959,
+      "estimate": "40k+",
+      "name": "Star Trek: Warp"
+    },
+    "3963300": {
+      "rank": 8167,
+      "estimate": "<7k",
+      "name": "REPOSSESSION: Mafia Debt"
+    },
     "3986110": {
-      "rank": 3400,
+      "rank": 3359,
       "estimate": "<7k",
       "name": "Escape from Ruin: Greymart Simulator"
     },
-    "4194770": {
-      "rank": 4594,
+    "3995060": {
+      "rank": 3328,
       "estimate": "<7k",
+      "name": "DeckWrecking Pirates"
+    },
+    "4165190": {
+      "rank": 6347,
+      "estimate": "<7k",
+      "name": "Tricolo"
+    },
+    "4165860": {
+      "rank": 5712,
+      "estimate": "<7k",
+      "name": "Ninja or Die 2 Die"
+    },
+    "4194770": {
+      "rank": 1873,
+      "estimate": "15k+",
       "name": "Sisters of Solitude"
+    },
+    "4321400": {
+      "rank": 3375,
+      "estimate": "<7k",
+      "name": "Gold Up"
+    },
+    "4373230": {
+      "rank": 3297,
+      "estimate": "<7k",
+      "name": "Woo Woo"
+    },
+    "4505440": {
+      "rank": 6527,
+      "estimate": "<7k",
+      "name": "Asobi: Remote Play"
+    },
+    "4580120": {
+      "rank": 4047,
+      "estimate": "<7k",
+      "name": "Sludge Department"
+    },
+    "4621230": {
+      "rank": 4154,
+      "estimate": "<7k",
+      "name": "问鼎仙台（Ascend to Immortal Throne）"
+    },
+    "4659840": {
+      "rank": 8309,
+      "estimate": "<7k",
+      "name": "Fantasy Weaponsmith Simulator"
+    },
+    "4672780": {
+      "rank": 3654,
+      "estimate": "<7k",
+      "name": "Dicempo"
+    },
+    "4700720": {
+      "rank": 3883,
+      "estimate": "<7k",
+      "name": "In Game Leader"
+    },
+    "4781990": {
+      "rank": 8356,
+      "estimate": "<7k",
+      "name": "Rain Station Z"
     }
   }
 }

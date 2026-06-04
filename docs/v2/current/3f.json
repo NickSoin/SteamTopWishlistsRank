@@ -1,83 +1,168 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 32,
   "entries": {
-    "1299070": {
-      "rank": 4454,
+    "1843480": {
+      "rank": 5579,
       "estimate": "<7k",
-      "name": "Blacksmith Bay"
-    },
-    "1918120": {
-      "rank": 4199,
-      "estimate": "<7k",
-      "name": "zakon"
+      "name": "Autobahn Racing"
     },
     "1967610": {
-      "rank": 222,
-      "estimate": "80k+",
+      "rank": 765,
+      "estimate": "40k+",
       "name": "Turok: Origins"
     },
-    "2098920": {
-      "rank": 2899,
-      "estimate": "7k+",
-      "name": "Inter Solar 83"
-    },
-    "2929040": {
-      "rank": 3510,
+    "2050090": {
+      "rank": 5622,
       "estimate": "<7k",
-      "name": "Fleetbreakers"
+      "name": "GROWTH"
+    },
+    "3093160": {
+      "rank": 3782,
+      "estimate": "<7k",
+      "name": "INTERSCAPE"
+    },
+    "3206780": {
+      "rank": 5974,
+      "estimate": "<7k",
+      "name": "The Disappearance of Emily Crowe"
+    },
+    "3370540": {
+      "rank": 6873,
+      "estimate": "<7k",
+      "name": "Street Chef Simulator"
     },
     "3393280": {
-      "rank": 514,
-      "estimate": "40k+",
+      "rank": 1604,
+      "estimate": "15k+",
       "name": "Anime Shop Simulator ✨"
     },
     "3396290": {
-      "rank": 1061,
-      "estimate": "25k+",
+      "rank": 699,
+      "estimate": "40k+",
       "name": "Puni the Florist"
     },
+    "3413490": {
+      "rank": 5957,
+      "estimate": "<7k",
+      "name": "The Misadventures of Magical Girl Luna"
+    },
     "3429190": {
-      "rank": 3069,
+      "rank": 7795,
       "estimate": "<7k",
       "name": "Pawsta - A Cozy Claymation Cooking Game"
     },
     "3447460": {
-      "rank": 1395,
-      "estimate": "25k+",
+      "rank": 64,
+      "estimate": "300k+",
       "name": "Gravity Circuit 2"
     },
+    "3449480": {
+      "rank": 4917,
+      "estimate": "<7k",
+      "name": "LouLan Kingdom"
+    },
     "3703630": {
-      "rank": 1813,
-      "estimate": "15k+",
+      "rank": 670,
+      "estimate": "40k+",
       "name": "The Talos Principle 3"
     },
     "3795570": {
-      "rank": 3429,
-      "estimate": "<7k",
+      "rank": 947,
+      "estimate": "40k+",
       "name": "Abyss Of Doom"
     },
     "3812790": {
-      "rank": 4322,
+      "rank": 3663,
       "estimate": "<7k",
       "name": "Live Translate"
     },
     "3906460": {
-      "rank": 3523,
+      "rank": 3457,
       "estimate": "<7k",
       "name": "The Last Flight"
     },
-    "4141710": {
-      "rank": 3291,
+    "3973990": {
+      "rank": 5469,
       "estimate": "<7k",
+      "name": "Kizoku no Kage"
+    },
+    "4141710": {
+      "rank": 2667,
+      "estimate": "7k+",
       "name": "Neko Station"
     },
     "4306890": {
-      "rank": 492,
+      "rank": 208,
       "estimate": "80k+",
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition)"
+    },
+    "4489700": {
+      "rank": 7113,
+      "estimate": "<7k",
+      "name": "Touhou: Beyond Gensokyo"
+    },
+    "4530390": {
+      "rank": 6261,
+      "estimate": "<7k",
+      "name": "TCG World"
+    },
+    "4553270": {
+      "rank": 7966,
+      "estimate": "<7k",
+      "name": "Rummy Attack"
+    },
+    "4566920": {
+      "rank": 7477,
+      "estimate": "<7k",
+      "name": "The Blackwood Project"
+    },
+    "4569330": {
+      "rank": 7888,
+      "estimate": "<7k",
+      "name": "TrueFlight : FPV Simulator"
+    },
+    "4573470": {
+      "rank": 7030,
+      "estimate": "<7k",
+      "name": "Supermaneuver"
+    },
+    "4588960": {
+      "rank": 2557,
+      "estimate": "7k+",
+      "name": "Dendrophobia"
+    },
+    "4594460": {
+      "rank": 4409,
+      "estimate": "<7k",
+      "name": "Mall Simulator Together"
+    },
+    "4616250": {
+      "rank": 6322,
+      "estimate": "<7k",
+      "name": "Lost City"
+    },
+    "4658450": {
+      "rank": 4423,
+      "estimate": "<7k",
+      "name": "House Of Trauma"
+    },
+    "4682080": {
+      "rank": 4881,
+      "estimate": "<7k",
+      "name": "Hormones of the Dead"
+    },
+    "4760700": {
+      "rank": 9597,
+      "estimate": "<7k",
+      "name": "Chronicles Of The Sinner"
+    },
+    "4769350": {
+      "rank": 1564,
+      "estimate": "15k+",
+      "name": "Pro Football Dynasty"
     }
   }
 }

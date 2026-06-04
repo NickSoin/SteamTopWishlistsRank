@@ -1,98 +1,178 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 34,
   "entries": {
     "1053900": {
-      "rank": 513,
-      "estimate": "40k+",
+      "rank": 4452,
+      "estimate": "<7k",
       "name": "Radio the Universe"
     },
     "1561740": {
-      "rank": 444,
-      "estimate": "80k+",
+      "rank": 3239,
+      "estimate": "<7k",
       "name": "Kriegsfront Tactics"
     },
-    "1725290": {
-      "rank": 4633,
+    "1664720": {
+      "rank": 4181,
       "estimate": "<7k",
-      "name": "Final Vanguard"
+      "name": "MOJITO Woody's Rescue"
     },
     "1879250": {
-      "rank": 679,
-      "estimate": "40k+",
+      "rank": 3851,
+      "estimate": "<7k",
       "name": "Teatopia"
     },
-    "2354640": {
-      "rank": 3675,
-      "estimate": "<7k",
-      "name": "DIESELDOME: Ultraviolent Gladiator Shooter"
-    },
     "2446660": {
-      "rank": 1524,
-      "estimate": "15k+",
+      "rank": 7283,
+      "estimate": "<7k",
       "name": "Dragonscale Monastery"
     },
     "2559740": {
-      "rank": 904,
-      "estimate": "40k+",
+      "rank": 1766,
+      "estimate": "15k+",
       "name": "Tower Of Tears"
     },
     "2568890": {
-      "rank": 3935,
+      "rank": 3660,
       "estimate": "<7k",
       "name": "DRINKRIME"
     },
     "2572040": {
-      "rank": 414,
-      "estimate": "80k+",
+      "rank": 1725,
+      "estimate": "15k+",
       "name": "Woodo"
     },
+    "2732420": {
+      "rank": 8914,
+      "estimate": "<7k",
+      "name": "BANG"
+    },
     "2862770": {
-      "rank": 3491,
+      "rank": 8897,
       "estimate": "<7k",
       "name": "星海乐章 | GALIX: NewHorizons | 星の旅：億万年の絆"
     },
-    "3067170": {
-      "rank": 4227,
+    "2907800": {
+      "rank": 7535,
       "estimate": "<7k",
+      "name": "The Conundrum: Helix"
+    },
+    "2983480": {
+      "rank": 5423,
+      "estimate": "<7k",
+      "name": "Cinema Manager Simulator"
+    },
+    "3012170": {
+      "rank": 4767,
+      "estimate": "<7k",
+      "name": "The Commentator"
+    },
+    "3067170": {
+      "rank": 1716,
+      "estimate": "15k+",
       "name": "Protagonist Complex one"
     },
     "3218570": {
-      "rank": 407,
-      "estimate": "80k+",
+      "rank": 1280,
+      "estimate": "25k+",
       "name": "TANUKI: Pon's Summer"
     },
     "3235140": {
-      "rank": 2047,
-      "estimate": "7k+",
+      "rank": 7581,
+      "estimate": "<7k",
       "name": "GANGSTALK"
     },
     "3532690": {
-      "rank": 3026,
+      "rank": 7945,
       "estimate": "<7k",
       "name": "Climbing Gym Simulator"
     },
+    "3628810": {
+      "rank": 3144,
+      "estimate": "<7k",
+      "name": "Decked Out"
+    },
     "3661400": {
-      "rank": 2745,
-      "estimate": "7k+",
+      "rank": 6837,
+      "estimate": "<7k",
       "name": "Gourdlets Together"
     },
+    "3732670": {
+      "rank": 9466,
+      "estimate": "<7k",
+      "name": "Annalynn MD"
+    },
+    "3750300": {
+      "rank": 9739,
+      "estimate": "<7k",
+      "name": "Orpheus"
+    },
     "3800010": {
-      "rank": 4688,
+      "rank": 6741,
       "estimate": "<7k",
       "name": "Abyssal Rust"
     },
+    "3950720": {
+      "rank": 8313,
+      "estimate": "<7k",
+      "name": "Wander Her Way VR"
+    },
+    "3962040": {
+      "rank": 7521,
+      "estimate": "<7k",
+      "name": "Ranchbound"
+    },
     "4133290": {
-      "rank": 1872,
-      "estimate": "15k+",
+      "rank": 4636,
+      "estimate": "<7k",
       "name": "DownSouth"
     },
-    "4598200": {
-      "rank": 4117,
+    "4337230": {
+      "rank": 2244,
+      "estimate": "7k+",
+      "name": "Midnight Train: New Moon"
+    },
+    "4390080": {
+      "rank": 1660,
+      "estimate": "15k+",
+      "name": "Bottled by Bears"
+    },
+    "4411240": {
+      "rank": 9308,
       "estimate": "<7k",
+      "name": "DEADRIFT"
+    },
+    "4435040": {
+      "rank": 9221,
+      "estimate": "<7k",
+      "name": "郑成功传 Clash of Armadas: Koxinga"
+    },
+    "4560290": {
+      "rank": 5850,
+      "estimate": "<7k",
+      "name": "Sweet Dance"
+    },
+    "4586760": {
+      "rank": 4499,
+      "estimate": "<7k",
+      "name": "Sphere TD"
+    },
+    "4598200": {
+      "rank": 351,
+      "estimate": "80k+",
       "name": "Dune: Imperium - Uprising"
+    },
+    "4709190": {
+      "rank": 8805,
+      "estimate": "<7k",
+      "name": "The UNDA Legacy"
+    },
+    "4739650": {
+      "rank": 9356,
+      "estimate": "<7k",
+      "name": "Rongu"
     }
   }
 }

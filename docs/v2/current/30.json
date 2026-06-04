@@ -1,135 +1,220 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 42,
   "entries": {
     "792610": {
-      "rank": 413,
-      "estimate": "80k+",
+      "rank": 2784,
+      "estimate": "7k+",
       "name": "King of the Dwarves: Underground City Builder"
     },
     "884670": {
-      "rank": 1859,
-      "estimate": "15k+",
+      "rank": 2126,
+      "estimate": "7k+",
       "name": "Codenames"
     },
     "925500": {
-      "rank": 835,
-      "estimate": "40k+",
+      "rank": 2966,
+      "estimate": "7k+",
       "name": "Innkeep"
     },
     "1215170": {
-      "rank": 3960,
+      "rank": 9249,
       "estimate": "<7k",
       "name": "Dawnthorn"
     },
     "1280190": {
-      "rank": 35,
-      "estimate": "600k+",
+      "rank": 339,
+      "estimate": "80k+",
       "name": "Falling Frontier"
     },
     "1350310": {
-      "rank": 3401,
+      "rank": 8058,
       "estimate": "<7k",
       "name": "Tachyons: Battles Across the Galaxy"
     },
-    "1556400": {
-      "rank": 3909,
-      "estimate": "<7k",
-      "name": "HIGHPOINT"
-    },
     "1616720": {
-      "rank": 3018,
+      "rank": 7515,
       "estimate": "<7k",
       "name": "Bunker Builder \"Atlantic Wall\""
     },
     "1752990": {
-      "rank": 403,
-      "estimate": "80k+",
+      "rank": 5029,
+      "estimate": "<7k",
       "name": "Class Zero Seven"
     },
-    "2073980": {
-      "rank": 3827,
-      "estimate": "<7k",
-      "name": "SUMMER ROAD 10-Minute Auto Roguelite"
-    },
     "2106150": {
-      "rank": 3335,
+      "rank": 7146,
       "estimate": "<7k",
       "name": "琉奈と悪夢の館"
     },
     "2333000": {
-      "rank": 326,
-      "estimate": "80k+",
+      "rank": 110,
+      "estimate": "200k+",
       "name": "Silver Pines"
     },
     "2361560": {
-      "rank": 1470,
-      "estimate": "25k+",
+      "rank": 3973,
+      "estimate": "<7k",
       "name": "Dr. Emmerson's Nocturnes",
       "actualWishlists": 32000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289596300"
     },
-    "2457920": {
-      "rank": 2289,
-      "estimate": "7k+",
-      "name": "gOnshit infarct"
-    },
     "2622180": {
-      "rank": 2273,
-      "estimate": "7k+",
+      "rank": 5205,
+      "estimate": "<7k",
       "name": "Detective Fantasia: EXCALIMURDER"
     },
-    "2823840": {
-      "rank": 3371,
-      "estimate": "<7k",
-      "name": "Killer Junkyard"
-    },
     "3000460": {
-      "rank": 329,
+      "rank": 311,
       "estimate": "80k+",
       "name": "The Path Into The Abyss"
     },
     "3268370": {
-      "rank": 603,
-      "estimate": "40k+",
+      "rank": 3040,
+      "estimate": "<7k",
       "name": "Tenkemo"
     },
+    "3317230": {
+      "rank": 8524,
+      "estimate": "<7k",
+      "name": "Killing Baby Hitler"
+    },
     "3450780": {
-      "rank": 2543,
-      "estimate": "7k+",
+      "rank": 1985,
+      "estimate": "15k+",
       "name": "Primordial Empire"
     },
     "3460400": {
-      "rank": 1214,
-      "estimate": "25k+",
+      "rank": 3815,
+      "estimate": "<7k",
       "name": "Harrowlands"
     },
+    "3553540": {
+      "rank": 9177,
+      "estimate": "<7k",
+      "name": "Prison Miners"
+    },
+    "3661580": {
+      "rank": 9940,
+      "estimate": "<7k",
+      "name": "Kill the Stream"
+    },
     "3731410": {
-      "rank": 4629,
+      "rank": 8543,
       "estimate": "<7k",
       "name": "hitogata"
     },
-    "3830320": {
-      "rank": 3521,
+    "3760980": {
+      "rank": 8409,
       "estimate": "<7k",
+      "name": "DeckTerra"
+    },
+    "3830320": {
+      "rank": 431,
+      "estimate": "80k+",
       "name": "Ballgame"
     },
+    "3978240": {
+      "rank": 5867,
+      "estimate": "<7k",
+      "name": "Wordless Forest"
+    },
     "4065440": {
-      "rank": 4685,
+      "rank": 6951,
       "estimate": "<7k",
       "name": "UNDERDEEP"
     },
+    "4070510": {
+      "rank": 8652,
+      "estimate": "<7k",
+      "name": "Luminids"
+    },
+    "4111710": {
+      "rank": 7538,
+      "estimate": "<7k",
+      "name": "Kinmen Kill"
+    },
+    "4139330": {
+      "rank": 6616,
+      "estimate": "<7k",
+      "name": "Particulitix"
+    },
+    "4172090": {
+      "rank": 5866,
+      "estimate": "<7k",
+      "name": "The Hundredth Floor"
+    },
     "4207990": {
-      "rank": 1918,
-      "estimate": "15k+",
+      "rank": 2151,
+      "estimate": "7k+",
       "name": "GemCraft - Legacy Collection"
     },
     "4235410": {
-      "rank": 2784,
-      "estimate": "7k+",
+      "rank": 5562,
+      "estimate": "<7k",
       "name": "Future Knight"
+    },
+    "4298200": {
+      "rank": 7280,
+      "estimate": "<7k",
+      "name": "The Caretakers"
+    },
+    "4302730": {
+      "rank": 3924,
+      "estimate": "<7k",
+      "name": "Fog"
+    },
+    "4353350": {
+      "rank": 4522,
+      "estimate": "<7k",
+      "name": "Meeple Incremental"
+    },
+    "4389810": {
+      "rank": 6963,
+      "estimate": "<7k",
+      "name": "Zoo Protocol"
+    },
+    "4402490": {
+      "rank": 7705,
+      "estimate": "<7k",
+      "name": "ScareZone: Haunted Attraction Tycoon"
+    },
+    "4403350": {
+      "rank": 7682,
+      "estimate": "<7k",
+      "name": "Nestify: Cozy Design"
+    },
+    "4439290": {
+      "rank": 327,
+      "estimate": "80k+",
+      "name": "Forza Horizon 6 Italian Passion Car Pack"
+    },
+    "4458440": {
+      "rank": 3009,
+      "estimate": "<7k",
+      "name": "Pelican Post"
+    },
+    "4601790": {
+      "rank": 6941,
+      "estimate": "<7k",
+      "name": "Mirage - Idle RPG"
+    },
+    "4612310": {
+      "rank": 9652,
+      "estimate": "<7k",
+      "name": "The Lewd Trap Tower: A Secretly Perverted Rookie Adventurer"
+    },
+    "4673650": {
+      "rank": 5221,
+      "estimate": "<7k",
+      "name": "Crown Control"
+    },
+    "4706020": {
+      "rank": 7967,
+      "estimate": "<7k",
+      "name": "PRO: Push React Outgun"
     }
   }
 }

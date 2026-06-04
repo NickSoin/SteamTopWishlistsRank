@@ -1,58 +1,143 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 10,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 27,
   "entries": {
-    "1536910": {
-      "rank": 2711,
-      "estimate": "7k+",
-      "name": "Snow Plow"
-    },
-    "2011180": {
-      "rank": 4495,
+    "1608370": {
+      "rank": 8892,
       "estimate": "<7k",
-      "name": "Terminus Historia"
+      "name": "End of Despair"
     },
     "2141160": {
-      "rank": 1375,
-      "estimate": "25k+",
+      "rank": 1832,
+      "estimate": "15k+",
       "name": "Alien Deathstorm"
     },
     "2617870": {
-      "rank": 2933,
-      "estimate": "7k+",
+      "rank": 7304,
+      "estimate": "<7k",
       "name": "PSYCHOFINGER"
     },
+    "2650400": {
+      "rank": 6881,
+      "estimate": "<7k",
+      "name": "Los Infernales"
+    },
     "2706790": {
-      "rank": 2374,
-      "estimate": "7k+",
+      "rank": 5751,
+      "estimate": "<7k",
       "name": "Quantic River"
     },
+    "2749250": {
+      "rank": 7925,
+      "estimate": "<7k",
+      "name": "L.OD"
+    },
+    "2986240": {
+      "rank": 8067,
+      "estimate": "<7k",
+      "name": "Sugar OVERDRIVE"
+    },
     "3356660": {
-      "rank": 887,
-      "estimate": "40k+",
+      "rank": 1002,
+      "estimate": "25k+",
       "name": "Game Quest: The Backlog Battler"
     },
+    "3458270": {
+      "rank": 5873,
+      "estimate": "<7k",
+      "name": "Type for Speed"
+    },
     "3489070": {
-      "rank": 3861,
+      "rank": 6320,
       "estimate": "<7k",
       "name": "Cozy Beach"
     },
+    "3617080": {
+      "rank": 2827,
+      "estimate": "7k+",
+      "name": "Short Short Fictions"
+    },
+    "3687830": {
+      "rank": 3530,
+      "estimate": "<7k",
+      "name": "Mulerun – Retro Bootlegger Simulator"
+    },
+    "3703200": {
+      "rank": 5235,
+      "estimate": "<7k",
+      "name": "Herb Tea Man"
+    },
     "3715690": {
-      "rank": 3414,
+      "rank": 5637,
       "estimate": "<7k",
       "name": "Rogue Rollers"
     },
     "4036130": {
-      "rank": 3307,
+      "rank": 5619,
       "estimate": "<7k",
       "name": "Mecha Force"
     },
-    "4385270": {
-      "rank": 3773,
+    "4195000": {
+      "rank": 9683,
       "estimate": "<7k",
+      "name": "SWOM"
+    },
+    "4225280": {
+      "rank": 9292,
+      "estimate": "<7k",
+      "name": "Corpus et Spiritus"
+    },
+    "4255070": {
+      "rank": 8554,
+      "estimate": "<7k",
+      "name": "UNFATED"
+    },
+    "4274260": {
+      "rank": 3275,
+      "estimate": "<7k",
+      "name": "Tales Of Glory 4 : Ragnarok"
+    },
+    "4278840": {
+      "rank": 3511,
+      "estimate": "<7k",
+      "name": "Call The Exterminator"
+    },
+    "4385270": {
+      "rank": 2932,
+      "estimate": "7k+",
       "name": "Stay: Your Forever Pet!"
+    },
+    "4514920": {
+      "rank": 6535,
+      "estimate": "<7k",
+      "name": "THORNSPELL"
+    },
+    "4540370": {
+      "rank": 3214,
+      "estimate": "<7k",
+      "name": "Rail Route - Expect Delays"
+    },
+    "4570940": {
+      "rank": 7715,
+      "estimate": "<7k",
+      "name": "Monster Flipper"
+    },
+    "4677430": {
+      "rank": 4647,
+      "estimate": "<7k",
+      "name": "Old School Motocross Championship"
+    },
+    "4724190": {
+      "rank": 5659,
+      "estimate": "<7k",
+      "name": "Into the Planet's Flesh"
+    },
+    "4761870": {
+      "rank": 8159,
+      "estimate": "<7k",
+      "name": "Buerokratie Idler: Germany"
     }
   }
 }

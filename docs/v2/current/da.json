@@ -1,103 +1,163 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 31,
   "entries": {
     "287820": {
-      "rank": 2342,
-      "estimate": "7k+",
+      "rank": 6525,
+      "estimate": "<7k",
       "name": "Silent Escape: Induction"
     },
     "1070500": {
-      "rank": 2170,
-      "estimate": "7k+",
+      "rank": 1034,
+      "estimate": "25k+",
       "name": "He Who Watches"
     },
     "1286190": {
-      "rank": 1050,
-      "estimate": "25k+",
+      "rank": 6110,
+      "estimate": "<7k",
       "name": "Art of the Rail"
     },
     "1555960": {
-      "rank": 2471,
-      "estimate": "7k+",
+      "rank": 7435,
+      "estimate": "<7k",
       "name": "Crime Scene Technician"
     },
     "1622130": {
-      "rank": 578,
-      "estimate": "40k+",
+      "rank": 1333,
+      "estimate": "25k+",
       "name": "Our Life: Now & Forever"
     },
+    "1710910": {
+      "rank": 8759,
+      "estimate": "<7k",
+      "name": "Sinfeld: Evil Resident"
+    },
     "2245130": {
-      "rank": 3878,
+      "rank": 9351,
       "estimate": "<7k",
       "name": "Handshakes: Hands On"
     },
     "2271050": {
-      "rank": 985,
-      "estimate": "40k+",
+      "rank": 7130,
+      "estimate": "<7k",
       "name": "RESISTOR"
     },
-    "2354580": {
-      "rank": 3816,
+    "2439500": {
+      "rank": 5471,
       "estimate": "<7k",
-      "name": "Spaceman Memories"
+      "name": "Overhours"
     },
     "2614590": {
-      "rank": 1889,
+      "rank": 1794,
       "estimate": "15k+",
       "name": "Online Obsession"
     },
+    "2704840": {
+      "rank": 8174,
+      "estimate": "<7k",
+      "name": "Poetry in Purgatory"
+    },
     "2752090": {
-      "rank": 2625,
-      "estimate": "7k+",
+      "rank": 3411,
+      "estimate": "<7k",
       "name": "SCP New Management"
     },
-    "2776540": {
-      "rank": 3955,
-      "estimate": "<7k",
-      "name": "Opaldune"
-    },
     "2783830": {
-      "rank": 2906,
-      "estimate": "7k+",
+      "rank": 6550,
+      "estimate": "<7k",
       "name": "Cozy Crest"
     },
-    "2848760": {
-      "rank": 4423,
+    "2847220": {
+      "rank": 6265,
       "estimate": "<7k",
-      "name": "Gravity Forge"
-    },
-    "2996650": {
-      "rank": 3318,
-      "estimate": "<7k",
-      "name": "True Vikings"
+      "name": "Kowloon Story 2 | 九龙诡录2"
     },
     "3082020": {
-      "rank": 2428,
-      "estimate": "7k+",
+      "rank": 3352,
+      "estimate": "<7k",
       "name": "Portal: Intrusion"
     },
+    "3182030": {
+      "rank": 8398,
+      "estimate": "<7k",
+      "name": "Zeleny Grimn"
+    },
+    "3232560": {
+      "rank": 8121,
+      "estimate": "<7k",
+      "name": "Hot Dog Simulator"
+    },
+    "3373410": {
+      "rank": 8147,
+      "estimate": "<7k",
+      "name": "Katakamuna Idle"
+    },
+    "3848130": {
+      "rank": 8906,
+      "estimate": "<7k",
+      "name": "Shark Up"
+    },
     "3869940": {
-      "rank": 2302,
-      "estimate": "7k+",
+      "rank": 1859,
+      "estimate": "15k+",
       "name": "War of Banners"
     },
     "3910680": {
-      "rank": 367,
-      "estimate": "80k+",
+      "rank": 935,
+      "estimate": "40k+",
       "name": "INARI"
     },
+    "4190900": {
+      "rank": 5653,
+      "estimate": "<7k",
+      "name": "Within His View"
+    },
     "4198610": {
-      "rank": 2750,
-      "estimate": "7k+",
+      "rank": 994,
+      "estimate": "40k+",
       "name": "A Fighter’s Nova: Mindara"
     },
+    "4464900": {
+      "rank": 3713,
+      "estimate": "<7k",
+      "name": "My Perfect Nails"
+    },
     "4508570": {
-      "rank": 1629,
-      "estimate": "15k+",
+      "rank": 139,
+      "estimate": "200k+",
       "name": "Veritas Tales: Witch of the Dark Castle"
+    },
+    "4577990": {
+      "rank": 8368,
+      "estimate": "<7k",
+      "name": "The Museum of Everything"
+    },
+    "4652060": {
+      "rank": 6241,
+      "estimate": "<7k",
+      "name": "VERteX-1: AINIA"
+    },
+    "4754740": {
+      "rank": 6706,
+      "estimate": "<7k",
+      "name": "Market Chain 98"
+    },
+    "4768660": {
+      "rank": 5184,
+      "estimate": "<7k",
+      "name": "Slice To Meet You"
+    },
+    "4796830": {
+      "rank": 2164,
+      "estimate": "7k+",
+      "name": "WE ARE SO DEAD"
+    },
+    "4798050": {
+      "rank": 6182,
+      "estimate": "<7k",
+      "name": "Beyond tht Rain Sound"
     }
   }
 }

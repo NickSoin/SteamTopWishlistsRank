@@ -1,123 +1,218 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 42,
   "entries": {
-    "408200": {
-      "rank": 3423,
+    "282370": {
+      "rank": 8345,
       "estimate": "<7k",
+      "name": "Future Perfect"
+    },
+    "408200": {
+      "rank": 336,
+      "estimate": "80k+",
       "name": "Red Frame"
     },
     "1298200": {
-      "rank": 2928,
-      "estimate": "7k+",
+      "rank": 6548,
+      "estimate": "<7k",
       "name": "Crazy Lemmings"
     },
     "1425660": {
-      "rank": 1745,
-      "estimate": "15k+",
+      "rank": 8312,
+      "estimate": "<7k",
       "name": "SCP : Forgotten Facility"
     },
     "1872800": {
-      "rank": 422,
-      "estimate": "80k+",
+      "rank": 1099,
+      "estimate": "25k+",
       "name": "EVE Vanguard"
     },
     "2069890": {
-      "rank": 2562,
-      "estimate": "7k+",
+      "rank": 7040,
+      "estimate": "<7k",
       "name": "1-900-CULT"
     },
     "2295150": {
-      "rank": 3366,
+      "rank": 8895,
       "estimate": "<7k",
       "name": "Dragonfall"
     },
     "2483700": {
-      "rank": 2605,
-      "estimate": "7k+",
+      "rank": 8228,
+      "estimate": "<7k",
       "name": "HARMA"
     },
+    "2654030": {
+      "rank": 4006,
+      "estimate": "<7k",
+      "name": "Kamilia"
+    },
     "2750770": {
-      "rank": 1873,
-      "estimate": "15k+",
+      "rank": 2713,
+      "estimate": "7k+",
       "name": "Threads of You: Beyond the Bay"
     },
     "2782470": {
-      "rank": 2662,
-      "estimate": "7k+",
+      "rank": 9042,
+      "estimate": "<7k",
       "name": "Pharos Light"
     },
     "2829050": {
-      "rank": 3041,
+      "rank": 5544,
       "estimate": "<7k",
       "name": "东方夜雀食堂动画版 第一话 - 最强的是谁！？"
     },
     "3066300": {
-      "rank": 774,
-      "estimate": "40k+",
+      "rank": 1641,
+      "estimate": "15k+",
       "name": "Sky Dust"
     },
-    "3299450": {
-      "rank": 2636,
+    "3227510": {
+      "rank": 2821,
       "estimate": "7k+",
+      "name": "Algorithm Prescription"
+    },
+    "3299450": {
+      "rank": 201,
+      "estimate": "80k+",
       "name": "Calame"
     },
+    "3316610": {
+      "rank": 3632,
+      "estimate": "<7k",
+      "name": "Orium"
+    },
+    "3324260": {
+      "rank": 8907,
+      "estimate": "<7k",
+      "name": "Shepherd's Plan"
+    },
     "3387300": {
-      "rank": 2352,
-      "estimate": "7k+",
+      "rank": 3296,
+      "estimate": "<7k",
       "name": "Lost Ruins of Arnak"
     },
     "3473430": {
-      "rank": 1379,
-      "estimate": "25k+",
+      "rank": 732,
+      "estimate": "40k+",
       "name": "All Our Broken Parts"
     },
-    "3575220": {
-      "rank": 4052,
+    "3496970": {
+      "rank": 7240,
       "estimate": "<7k",
+      "name": "GLOOPALAXY"
+    },
+    "3575220": {
+      "rank": 1022,
+      "estimate": "25k+",
       "name": "Guardians of the Wall"
     },
+    "3638860": {
+      "rank": 9662,
+      "estimate": "<7k",
+      "name": "CELESTIAL: FIRE & FORGE"
+    },
+    "3670460": {
+      "rank": 8488,
+      "estimate": "<7k",
+      "name": "BlackGate"
+    },
     "3677050": {
-      "rank": 260,
-      "estimate": "80k+",
+      "rank": 932,
+      "estimate": "40k+",
       "name": "HABROMANIA"
     },
     "3793200": {
-      "rank": 297,
-      "estimate": "80k+",
+      "rank": 1233,
+      "estimate": "25k+",
       "name": "American Truck Simulator - Ford Car Pack"
     },
     "3922000": {
-      "rank": 3081,
-      "estimate": "<7k",
+      "rank": 168,
+      "estimate": "200k+",
       "name": "Neighborhoods"
     },
     "3966570": {
-      "rank": 1782,
-      "estimate": "15k+",
+      "rank": 3879,
+      "estimate": "<7k",
       "name": "Spot Zero"
     },
     "4089520": {
-      "rank": 2260,
-      "estimate": "7k+",
+      "rank": 1083,
+      "estimate": "25k+",
       "name": "Bronzebeard's Tavern 2"
     },
     "4137830": {
-      "rank": 2690,
-      "estimate": "7k+",
+      "rank": 5696,
+      "estimate": "<7k",
       "name": "Must be Feng Shui"
     },
-    "4379870": {
-      "rank": 3680,
+    "4196130": {
+      "rank": 2580,
+      "estimate": "7k+",
+      "name": "Echoes of Above"
+    },
+    "4261850": {
+      "rank": 8474,
       "estimate": "<7k",
+      "name": "掌舵人 BIZ Helmsman"
+    },
+    "4309280": {
+      "rank": 2527,
+      "estimate": "7k+",
+      "name": "Caravan Village: Farming Life"
+    },
+    "4374510": {
+      "rank": 7200,
+      "estimate": "<7k",
+      "name": "WithoutEyes Chapter1"
+    },
+    "4379870": {
+      "rank": 1540,
+      "estimate": "15k+",
       "name": "23:61"
     },
+    "4419240": {
+      "rank": 4700,
+      "estimate": "<7k",
+      "name": "Under the Heavens: Warring States Saga"
+    },
+    "4462130": {
+      "rank": 2865,
+      "estimate": "7k+",
+      "name": "LOVE D3ATH LOVE"
+    },
+    "4491420": {
+      "rank": 8157,
+      "estimate": "<7k",
+      "name": "Hex Harmony"
+    },
+    "4511900": {
+      "rank": 4862,
+      "estimate": "<7k",
+      "name": "Sandwich +1"
+    },
+    "4598280": {
+      "rank": 6760,
+      "estimate": "<7k",
+      "name": "Draftula"
+    },
     "4623290": {
-      "rank": 494,
-      "estimate": "80k+",
+      "rank": 1018,
+      "estimate": "25k+",
       "name": "Painland"
+    },
+    "4742960": {
+      "rank": 1163,
+      "estimate": "25k+",
+      "name": "Wolfbane"
+    },
+    "4751340": {
+      "rank": 2889,
+      "estimate": "7k+",
+      "name": "Organize my Shop"
     }
   }
 }

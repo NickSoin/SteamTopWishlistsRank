@@ -1,103 +1,213 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 41,
   "entries": {
     "969330": {
-      "rank": 610,
-      "estimate": "40k+",
+      "rank": 2357,
+      "estimate": "7k+",
       "name": "The Way of Wrath"
     },
     "997090": {
-      "rank": 3321,
+      "rank": 6123,
       "estimate": "<7k",
       "name": "TheFlagship"
     },
-    "1193170": {
-      "rank": 1810,
-      "estimate": "15k+",
-      "name": "DEFICIT"
-    },
     "1440340": {
-      "rank": 1900,
-      "estimate": "15k+",
+      "rank": 5983,
+      "estimate": "<7k",
       "name": "Cannon Foundry Simulator"
     },
     "2113960": {
-      "rank": 1138,
-      "estimate": "25k+",
+      "rank": 5932,
+      "estimate": "<7k",
       "name": "KVLT"
     },
     "2363330": {
-      "rank": 2276,
-      "estimate": "7k+",
+      "rank": 7659,
+      "estimate": "<7k",
       "name": "Witch World"
     },
-    "2438120": {
-      "rank": 4390,
-      "estimate": "<7k",
-      "name": "RunOut - Hothead Paws"
-    },
     "2454980": {
-      "rank": 83,
-      "estimate": "300k+",
+      "rank": 29,
+      "estimate": "600k+",
       "name": "Drakantos"
     },
     "2680280": {
-      "rank": 471,
+      "rank": 458,
       "estimate": "80k+",
       "name": "PAPERHEAD"
     },
     "2710040": {
-      "rank": 607,
-      "estimate": "40k+",
+      "rank": 2343,
+      "estimate": "7k+",
       "name": "Delverium"
     },
+    "2834630": {
+      "rank": 4919,
+      "estimate": "<7k",
+      "name": "Unyverse"
+    },
+    "2972820": {
+      "rank": 5900,
+      "estimate": "<7k",
+      "name": "Vice: Magic City Mayhem"
+    },
+    "2985970": {
+      "rank": 5377,
+      "estimate": "<7k",
+      "name": "Brain Hack Squad"
+    },
+    "2991650": {
+      "rank": 8113,
+      "estimate": "<7k",
+      "name": "Dawn : Animated Aerowar Audioplay"
+    },
     "3012600": {
-      "rank": 526,
+      "rank": 931,
       "estimate": "40k+",
       "name": "Substructure"
     },
+    "3121810": {
+      "rank": 3079,
+      "estimate": "<7k",
+      "name": "ALARIC"
+    },
     "3258590": {
-      "rank": 2371,
-      "estimate": "7k+",
+      "rank": 4664,
+      "estimate": "<7k",
       "name": "Void Dungeon"
     },
     "3376580": {
-      "rank": 4389,
+      "rank": 3696,
       "estimate": "<7k",
       "name": "Raiders Rise"
     },
     "3377200": {
-      "rank": 3870,
+      "rank": 9880,
       "estimate": "<7k",
       "name": "Dragon Lands"
     },
+    "3381300": {
+      "rank": 5849,
+      "estimate": "<7k",
+      "name": "Steam & Iron. Battle of Port Arthur"
+    },
     "3459050": {
-      "rank": 1641,
-      "estimate": "15k+",
+      "rank": 2170,
+      "estimate": "7k+",
       "name": "Acrolyte"
     },
-    "3976340": {
-      "rank": 3290,
+    "3536520": {
+      "rank": 4547,
       "estimate": "<7k",
+      "name": "Warding Witches"
+    },
+    "3590670": {
+      "rank": 9874,
+      "estimate": "<7k",
+      "name": "Gloctopus"
+    },
+    "3720060": {
+      "rank": 4016,
+      "estimate": "<7k",
+      "name": "CONDEMNED: Nightfall"
+    },
+    "3736250": {
+      "rank": 3934,
+      "estimate": "<7k",
+      "name": "Snapshot!"
+    },
+    "3776070": {
+      "rank": 7487,
+      "estimate": "<7k",
+      "name": "Noctheria"
+    },
+    "3976340": {
+      "rank": 1104,
+      "estimate": "25k+",
       "name": "Cucina Stellata"
     },
     "4049180": {
-      "rank": 1531,
-      "estimate": "15k+",
+      "rank": 87,
+      "estimate": "300k+",
       "name": "Disney•Pixar Toy Story 3 Complete Edition"
     },
+    "4302940": {
+      "rank": 5466,
+      "estimate": "<7k",
+      "name": "Corner Market"
+    },
+    "4336770": {
+      "rank": 2097,
+      "estimate": "7k+",
+      "name": "War Commander"
+    },
+    "4352400": {
+      "rank": 7227,
+      "estimate": "<7k",
+      "name": "MageQuit Dungeons"
+    },
+    "4354460": {
+      "rank": 9305,
+      "estimate": "<7k",
+      "name": "Survivor's Notes"
+    },
+    "4380380": {
+      "rank": 9678,
+      "estimate": "<7k",
+      "name": "شاغر"
+    },
+    "4390190": {
+      "rank": 5569,
+      "estimate": "<7k",
+      "name": "ARKVAIN"
+    },
     "4487450": {
-      "rank": 1989,
-      "estimate": "15k+",
+      "rank": 598,
+      "estimate": "40k+",
       "name": "Cairn - On the Trail: Deep Water"
     },
-    "4553760": {
-      "rank": 3427,
+    "4500870": {
+      "rank": 4237,
       "estimate": "<7k",
+      "name": "What We Bring"
+    },
+    "4526760": {
+      "rank": 2432,
+      "estimate": "7k+",
+      "name": "Online Boxing 3D"
+    },
+    "4553760": {
+      "rank": 275,
+      "estimate": "80k+",
       "name": "TEVI: Fauna Arcana"
+    },
+    "4561840": {
+      "rank": 9591,
+      "estimate": "<7k",
+      "name": "Broken Masks"
+    },
+    "4572930": {
+      "rank": 9006,
+      "estimate": "<7k",
+      "name": "Just More Doors : REFRAMED & REDACTED"
+    },
+    "4574820": {
+      "rank": 2295,
+      "estimate": "7k+",
+      "name": "Rejected Draft"
+    },
+    "4579290": {
+      "rank": 9035,
+      "estimate": "<7k",
+      "name": "回声 E.C.H.O.S"
+    },
+    "4729730": {
+      "rank": 8072,
+      "estimate": "<7k",
+      "name": "DYLIA"
     }
   }
 }

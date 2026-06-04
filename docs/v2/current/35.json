@@ -1,118 +1,208 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 40,
   "entries": {
-    "490360": {
-      "rank": 3638,
-      "estimate": "<7k",
-      "name": "Hermodr"
-    },
-    "732970": {
-      "rank": 2478,
-      "estimate": "7k+",
-      "name": "Beyond Clouds"
-    },
     "1093810": {
-      "rank": 1052,
-      "estimate": "25k+",
+      "rank": 8567,
+      "estimate": "<7k",
       "name": "Savior"
     },
     "1143070": {
-      "rank": 1075,
-      "estimate": "25k+",
+      "rank": 9950,
+      "estimate": "<7k",
       "name": "Dynasty of the Sands"
     },
     "1570450": {
-      "rank": 2195,
-      "estimate": "7k+",
+      "rank": 1603,
+      "estimate": "15k+",
       "name": "Artificial Extinction 2"
     },
-    "1898110": {
-      "rank": 1777,
-      "estimate": "15k+",
-      "name": "MeetLight and the secrets of the universe"
-    },
     "2121510": {
-      "rank": 365,
+      "rank": 459,
       "estimate": "80k+",
       "name": "Tenebris Somnia"
     },
-    "2270610": {
-      "rank": 3912,
+    "2388580": {
+      "rank": 8219,
       "estimate": "<7k",
-      "name": "Whispers Of Yashan"
+      "name": "Forest of Deceit"
     },
     "2402680": {
-      "rank": 739,
+      "rank": 549,
       "estimate": "40k+",
       "name": "Dimraeth"
     },
+    "2722940": {
+      "rank": 2376,
+      "estimate": "7k+",
+      "name": "Agecraft"
+    },
     "2775830": {
-      "rank": 1244,
-      "estimate": "25k+",
+      "rank": 9977,
+      "estimate": "<7k",
       "name": "100 Pirate Cats"
     },
-    "2809380": {
-      "rank": 4473,
-      "estimate": "<7k",
-      "name": "Last Frontier"
-    },
     "2856410": {
-      "rank": 1437,
-      "estimate": "25k+",
+      "rank": 9283,
+      "estimate": "<7k",
       "name": "ALZARA Radiant Echoes"
     },
     "2884840": {
-      "rank": 4636,
+      "rank": 7816,
       "estimate": "<7k",
       "name": "Angel"
     },
     "3068230": {
-      "rank": 4031,
+      "rank": 9416,
       "estimate": "<7k",
       "name": "Mad Metal"
     },
     "3126990": {
-      "rank": 1276,
-      "estimate": "25k+",
+      "rank": 7312,
+      "estimate": "<7k",
       "name": "Sealubbers"
     },
-    "3133220": {
-      "rank": 3275,
-      "estimate": "<7k",
-      "name": "MAFATE"
-    },
     "3372500": {
-      "rank": 1848,
-      "estimate": "15k+",
+      "rank": 2981,
+      "estimate": "7k+",
       "name": "1000: The All-Mother's Embrace"
     },
     "3407480": {
-      "rank": 3945,
+      "rank": 7339,
       "estimate": "<7k",
       "name": "Magic Wands Workshop"
     },
     "3636510": {
-      "rank": 3022,
+      "rank": 8538,
       "estimate": "<7k",
       "name": "Into A Hearth Yonder"
     },
+    "3806120": {
+      "rank": 5223,
+      "estimate": "<7k",
+      "name": "Gluttony"
+    },
+    "3823020": {
+      "rank": 6112,
+      "estimate": "<7k",
+      "name": "Furry Defenders​​"
+    },
+    "3855560": {
+      "rank": 6128,
+      "estimate": "<7k",
+      "name": "侠影痴剑录"
+    },
     "3874910": {
-      "rank": 3477,
+      "rank": 3064,
       "estimate": "<7k",
       "name": "Watamari Part2 - A Fake Marriage?"
     },
-    "4232900": {
-      "rank": 3770,
+    "3886270": {
+      "rank": 3374,
       "estimate": "<7k",
+      "name": "Vanakan 405"
+    },
+    "3948110": {
+      "rank": 1729,
+      "estimate": "15k+",
+      "name": "Hashire HEBEREKE: EX"
+    },
+    "3991790": {
+      "rank": 1159,
+      "estimate": "25k+",
+      "name": "Attack of the Astrals"
+    },
+    "4168700": {
+      "rank": 6294,
+      "estimate": "<7k",
+      "name": "Landlord Simulator"
+    },
+    "4177300": {
+      "rank": 8232,
+      "estimate": "<7k",
+      "name": "Hive Factory"
+    },
+    "4194840": {
+      "rank": 6852,
+      "estimate": "<7k",
+      "name": "Mombo Combo Legacy"
+    },
+    "4232900": {
+      "rank": 1555,
+      "estimate": "15k+",
       "name": "Crusader Kings III: By God Alone"
     },
-    "4356400": {
-      "rank": 4556,
+    "4245340": {
+      "rank": 8582,
       "estimate": "<7k",
+      "name": "Dominocalypse"
+    },
+    "4289700": {
+      "rank": 2881,
+      "estimate": "7k+",
+      "name": "Flowers to Honey"
+    },
+    "4329200": {
+      "rank": 9921,
+      "estimate": "<7k",
+      "name": "Cube Grinder Factory"
+    },
+    "4356400": {
+      "rank": 825,
+      "estimate": "40k+",
       "name": "Eldor'idle"
+    },
+    "4396440": {
+      "rank": 5852,
+      "estimate": "<7k",
+      "name": "Dead Stop - No Vacancy"
+    },
+    "4529130": {
+      "rank": 8908,
+      "estimate": "<7k",
+      "name": "KEROGEN"
+    },
+    "4544140": {
+      "rank": 6020,
+      "estimate": "<7k",
+      "name": "Carnholt"
+    },
+    "4605050": {
+      "rank": 8998,
+      "estimate": "<7k",
+      "name": "Arcade World Cups"
+    },
+    "4617310": {
+      "rank": 3715,
+      "estimate": "<7k",
+      "name": "Fractured: Snowpine Strangers"
+    },
+    "4618320": {
+      "rank": 9953,
+      "estimate": "<7k",
+      "name": "Self-Replication /// Destruction"
+    },
+    "4621720": {
+      "rank": 8610,
+      "estimate": "<7k",
+      "name": "Sail Ho!"
+    },
+    "4700560": {
+      "rank": 4204,
+      "estimate": "<7k",
+      "name": "The Girl in the Window"
+    },
+    "4714590": {
+      "rank": 6588,
+      "estimate": "<7k",
+      "name": "Fix-it Corp."
+    },
+    "4785790": {
+      "rank": 7862,
+      "estimate": "<7k",
+      "name": "明末：甲申年"
     }
   }
 }

@@ -1,123 +1,218 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 42,
   "entries": {
     "1126210": {
-      "rank": 2489,
-      "estimate": "7k+",
+      "rank": 9119,
+      "estimate": "<7k",
       "name": "the machine that BREATHES"
     },
-    "1432340": {
-      "rank": 2959,
-      "estimate": "7k+",
-      "name": "Loveland"
-    },
-    "1441100": {
-      "rank": 3726,
-      "estimate": "<7k",
-      "name": "Anatine"
-    },
     "1672320": {
-      "rank": 200,
-      "estimate": "200k+",
+      "rank": 1014,
+      "estimate": "25k+",
       "name": "Fragile Existence"
     },
     "1961710": {
-      "rank": 4595,
+      "rank": 7472,
       "estimate": "<7k",
       "name": "Poker Warlords"
     },
     "1988900": {
-      "rank": 4435,
+      "rank": 6317,
       "estimate": "<7k",
       "name": "Cooking Crew"
     },
     "2083660": {
-      "rank": 803,
-      "estimate": "40k+",
+      "rank": 1654,
+      "estimate": "15k+",
       "name": "Littlelands"
     },
     "2152500": {
-      "rank": 391,
-      "estimate": "80k+",
+      "rank": 161,
+      "estimate": "200k+",
       "name": "Dig In"
     },
     "2556470": {
-      "rank": 445,
-      "estimate": "80k+",
+      "rank": 1809,
+      "estimate": "15k+",
       "name": "Fantastic Haven"
     },
-    "2741160": {
-      "rank": 4284,
+    "2603110": {
+      "rank": 5232,
       "estimate": "<7k",
-      "name": "Red Metal"
+      "name": "Fish Survivor : Feed and Grow and Evolve"
+    },
+    "2612620": {
+      "rank": 5200,
+      "estimate": "<7k",
+      "name": "秘封最后旅 ~ Edge of Realm"
+    },
+    "2952760": {
+      "rank": 7936,
+      "estimate": "<7k",
+      "name": "Witching Well"
     },
     "2960750": {
-      "rank": 4663,
+      "rank": 6622,
       "estimate": "<7k",
       "name": "Skylark 64"
     },
     "2984460": {
-      "rank": 3079,
+      "rank": 9443,
       "estimate": "<7k",
       "name": "amFM"
     },
     "3027810": {
-      "rank": 2983,
+      "rank": 2328,
       "estimate": "7k+",
       "name": "Touhou Infinite Nocturne"
     },
     "3050210": {
-      "rank": 4651,
+      "rank": 3474,
       "estimate": "<7k",
       "name": "Exjanitor: Data Cleanup"
     },
     "3199500": {
-      "rank": 125,
-      "estimate": "200k+",
+      "rank": 451,
+      "estimate": "80k+",
       "name": "My Time at Evershine"
     },
     "3222640": {
-      "rank": 485,
-      "estimate": "80k+",
+      "rank": 1101,
+      "estimate": "25k+",
       "name": "Wild West Pioneers"
     },
     "3348690": {
-      "rank": 2275,
-      "estimate": "7k+",
+      "rank": 6380,
+      "estimate": "<7k",
       "name": "Lionhearts"
     },
-    "3571380": {
-      "rank": 4610,
+    "3448000": {
+      "rank": 3125,
       "estimate": "<7k",
-      "name": "Travel Pack!"
+      "name": "Planted!"
+    },
+    "3538440": {
+      "rank": 7551,
+      "estimate": "<7k",
+      "name": "Fugue Shot"
+    },
+    "3576680": {
+      "rank": 9969,
+      "estimate": "<7k",
+      "name": "Postknight World"
+    },
+    "3579410": {
+      "rank": 4495,
+      "estimate": "<7k",
+      "name": "Monuments to Ruin"
+    },
+    "3655040": {
+      "rank": 2646,
+      "estimate": "7k+",
+      "name": "ESCAPE Protocol: Online"
     },
     "3664440": {
-      "rank": 588,
-      "estimate": "40k+",
+      "rank": 2314,
+      "estimate": "7k+",
       "name": "Red Rust Pioneers"
     },
+    "3700360": {
+      "rank": 4264,
+      "estimate": "<7k",
+      "name": "Princessfall"
+    },
     "3757140": {
-      "rank": 298,
-      "estimate": "80k+",
+      "rank": 196,
+      "estimate": "200k+",
       "name": "Of Peaks and Tides"
     },
+    "3808800": {
+      "rank": 8831,
+      "estimate": "<7k",
+      "name": "Fowl Brawl: When Chickens Fly"
+    },
+    "3913890": {
+      "rank": 3335,
+      "estimate": "<7k",
+      "name": "DeeSicks"
+    },
     "3922560": {
-      "rank": 1693,
-      "estimate": "15k+",
+      "rank": 160,
+      "estimate": "200k+",
       "name": "Rural Cat Trails"
     },
+    "3966120": {
+      "rank": 8136,
+      "estimate": "<7k",
+      "name": "Dungeon Errands"
+    },
+    "3992000": {
+      "rank": 9621,
+      "estimate": "<7k",
+      "name": "FC Tycoon 2027"
+    },
+    "4045080": {
+      "rank": 5595,
+      "estimate": "<7k",
+      "name": "Jezebel"
+    },
     "4174160": {
-      "rank": 722,
-      "estimate": "40k+",
+      "rank": 172,
+      "estimate": "200k+",
       "name": "Project: Doors"
     },
+    "4240070": {
+      "rank": 5364,
+      "estimate": "<7k",
+      "name": "她的掌门世代"
+    },
+    "4377350": {
+      "rank": 9220,
+      "estimate": "<7k",
+      "name": "Bravebones"
+    },
+    "4484670": {
+      "rank": 9550,
+      "estimate": "<7k",
+      "name": "KimuNote"
+    },
     "4536610": {
-      "rank": 431,
-      "estimate": "80k+",
+      "rank": 618,
+      "estimate": "40k+",
       "name": "City Masterplan"
+    },
+    "4546370": {
+      "rank": 9741,
+      "estimate": "<7k",
+      "name": "Starport Merchants"
+    },
+    "4549560": {
+      "rank": 8811,
+      "estimate": "<7k",
+      "name": "ShareNote Engine"
+    },
+    "4582730": {
+      "rank": 7449,
+      "estimate": "<7k",
+      "name": "THE AEON FALL"
+    },
+    "4593350": {
+      "rank": 7517,
+      "estimate": "<7k",
+      "name": "Dry Spring Monologue"
+    },
+    "4599110": {
+      "rank": 3287,
+      "estimate": "<7k",
+      "name": "Hotel Simulator"
+    },
+    "4641190": {
+      "rank": 9402,
+      "estimate": "<7k",
+      "name": "Idle Golf"
     }
   }
 }

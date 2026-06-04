@@ -1,113 +1,223 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 43,
   "entries": {
     "247710": {
-      "rank": 2414,
+      "rank": 2142,
       "estimate": "7k+",
       "name": "Battledroid"
     },
-    "1096090": {
-      "rank": 3338,
-      "estimate": "<7k",
-      "name": "Among Ripples: Shallow Waters"
-    },
-    "1112390": {
-      "rank": 3850,
-      "estimate": "<7k",
-      "name": "HyperCore : Rhythm Bullet Hell"
-    },
-    "1188850": {
-      "rank": 3424,
-      "estimate": "<7k",
-      "name": "Cyberpunk Bar Sim"
-    },
     "1376800": {
-      "rank": 4195,
+      "rank": 7095,
       "estimate": "<7k",
       "name": "Vaporwave"
     },
+    "1578970": {
+      "rank": 9516,
+      "estimate": "<7k",
+      "name": "JUST A GUY : Online Multiplayer Ragdoll Game"
+    },
     "1640990": {
-      "rank": 1950,
-      "estimate": "15k+",
+      "rank": 9555,
+      "estimate": "<7k",
       "name": "TRPG Workshop"
     },
+    "1892630": {
+      "rank": 3437,
+      "estimate": "<7k",
+      "name": "Occulto"
+    },
+    "1946320": {
+      "rank": 7712,
+      "estimate": "<7k",
+      "name": "Kenosis: The Liminal Tapes"
+    },
     "2541560": {
-      "rank": 2589,
+      "rank": 2189,
       "estimate": "7k+",
       "name": "ARCHETYPE BLUE"
     },
     "2618130": {
-      "rank": 1911,
-      "estimate": "15k+",
+      "rank": 686,
+      "estimate": "40k+",
       "name": "Partizan"
     },
+    "2671980": {
+      "rank": 7368,
+      "estimate": "<7k",
+      "name": "Conductor Cat"
+    },
     "2727360": {
-      "rank": 3109,
+      "rank": 7162,
       "estimate": "<7k",
       "name": "Wuxia Saga: Ten Thousand Paths"
     },
     "2929290": {
-      "rank": 1018,
-      "estimate": "25k+",
+      "rank": 568,
+      "estimate": "40k+",
       "name": "Stretchmancer"
     },
     "2933200": {
-      "rank": 950,
-      "estimate": "40k+",
+      "rank": 2508,
+      "estimate": "7k+",
       "name": "Tukoni: Forest Keepers"
     },
     "2986590": {
-      "rank": 1800,
-      "estimate": "15k+",
+      "rank": 4273,
+      "estimate": "<7k",
       "name": "HYPNOSYNC"
     },
+    "3041940": {
+      "rank": 8815,
+      "estimate": "<7k",
+      "name": "Decor Quest"
+    },
     "3218100": {
-      "rank": 775,
-      "estimate": "40k+",
+      "rank": 2503,
+      "estimate": "7k+",
       "name": "I AM RIPPER"
     },
     "3407450": {
-      "rank": 2657,
-      "estimate": "7k+",
+      "rank": 1972,
+      "estimate": "15k+",
       "name": "The Northern Path"
     },
     "3461050": {
-      "rank": 3204,
-      "estimate": "<7k",
+      "rank": 347,
+      "estimate": "80k+",
       "name": "Gambit"
     },
     "3479420": {
-      "rank": 2487,
-      "estimate": "7k+",
+      "rank": 4819,
+      "estimate": "<7k",
       "name": "Okko The Exiled"
     },
     "3485290": {
-      "rank": 3899,
+      "rank": 5262,
       "estimate": "<7k",
       "name": "Crimson Tale"
     },
     "3544430": {
-      "rank": 2560,
-      "estimate": "7k+",
+      "rank": 6257,
+      "estimate": "<7k",
       "name": "SOULGRAVE"
     },
+    "3605090": {
+      "rank": 1900,
+      "estimate": "15k+",
+      "name": "SLAMPUNKS"
+    },
     "3659460": {
-      "rank": 2726,
+      "rank": 2455,
       "estimate": "7k+",
       "name": "Gear.Club Unlimited 3"
     },
+    "3694100": {
+      "rank": 9525,
+      "estimate": "<7k",
+      "name": "Unshine Arcade"
+    },
+    "3805140": {
+      "rank": 4285,
+      "estimate": "<7k",
+      "name": "Butcher Life Simulator"
+    },
     "3816030": {
-      "rank": 276,
+      "rank": 343,
       "estimate": "80k+",
       "name": "DayZ Badlands"
     },
+    "3942630": {
+      "rank": 1699,
+      "estimate": "15k+",
+      "name": "Rogue Reigns"
+    },
+    "3962430": {
+      "rank": 5578,
+      "estimate": "<7k",
+      "name": "Gata Guressi"
+    },
+    "4172450": {
+      "rank": 3069,
+      "estimate": "<7k",
+      "name": "The Hidden Ones"
+    },
+    "4194890": {
+      "rank": 3537,
+      "estimate": "<7k",
+      "name": "Reel Tiny"
+    },
+    "4209750": {
+      "rank": 9115,
+      "estimate": "<7k",
+      "name": "Life's Too Short"
+    },
+    "4221600": {
+      "rank": 9054,
+      "estimate": "<7k",
+      "name": "Pripyat 0"
+    },
+    "4247730": {
+      "rank": 7180,
+      "estimate": "<7k",
+      "name": "BookStore Simulator"
+    },
+    "4265820": {
+      "rank": 8829,
+      "estimate": "<7k",
+      "name": "MEATBALLS FARM"
+    },
+    "4309740": {
+      "rank": 1870,
+      "estimate": "15k+",
+      "name": "Dash'n'Drops"
+    },
+    "4351990": {
+      "rank": 3733,
+      "estimate": "<7k",
+      "name": "Pond Keeper"
+    },
     "4358690": {
-      "rank": 51,
+      "rank": 80,
       "estimate": "300k+",
       "name": "Graveyard Keeper 2"
+    },
+    "4359200": {
+      "rank": 2764,
+      "estimate": "7k+",
+      "name": "Build It Up! - The Holy Roman Empire"
+    },
+    "4455920": {
+      "rank": 2672,
+      "estimate": "7k+",
+      "name": "NOL"
+    },
+    "4514120": {
+      "rank": 4904,
+      "estimate": "<7k",
+      "name": "Scenic"
+    },
+    "4554450": {
+      "rank": 7265,
+      "estimate": "<7k",
+      "name": "STAR WARS: Galactic Racer™ Pre-Order Bonus"
+    },
+    "4601350": {
+      "rank": 8778,
+      "estimate": "<7k",
+      "name": "GammaBoost+"
+    },
+    "4663800": {
+      "rank": 3816,
+      "estimate": "<7k",
+      "name": "One More Core"
+    },
+    "4667970": {
+      "rank": 9628,
+      "estimate": "<7k",
+      "name": "Coldline: Disconnect"
     }
   }
 }

@@ -1,108 +1,218 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 42,
   "entries": {
     "473750": {
-      "rank": 1576,
-      "estimate": "15k+",
+      "rank": 5010,
+      "estimate": "<7k",
       "name": "Feudums"
     },
     "1332100": {
-      "rank": 319,
-      "estimate": "80k+",
+      "rank": 1764,
+      "estimate": "15k+",
       "name": "Starship Simulator"
     },
-    "1460010": {
-      "rank": 2290,
-      "estimate": "7k+",
-      "name": "Cryospace - survival horror in space"
+    "1352890": {
+      "rank": 8939,
+      "estimate": "<7k",
+      "name": "Seekers Alliance: Hero's Journey"
+    },
+    "1425220": {
+      "rank": 7379,
+      "estimate": "<7k",
+      "name": "Farm Mechanic Simulator"
     },
     "1534720": {
-      "rank": 3685,
+      "rank": 6118,
       "estimate": "<7k",
       "name": "Space Boat"
     },
     "1556070": {
-      "rank": 2858,
-      "estimate": "7k+",
+      "rank": 9872,
+      "estimate": "<7k",
       "name": "Nihongo Quest"
     },
     "2243690": {
-      "rank": 1213,
-      "estimate": "25k+",
+      "rank": 3557,
+      "estimate": "<7k",
       "name": "B.C. Piezophile"
     },
     "2372240": {
-      "rank": 2531,
-      "estimate": "7k+",
+      "rank": 1656,
+      "estimate": "15k+",
       "name": "Re:Night"
     },
     "2415000": {
-      "rank": 1917,
-      "estimate": "15k+",
+      "rank": 1349,
+      "estimate": "25k+",
       "name": "BLACKOUT: Zero Point"
     },
+    "2453590": {
+      "rank": 7499,
+      "estimate": "<7k",
+      "name": "Latitude 76: Land of the Onkilons"
+    },
     "2593980": {
-      "rank": 1281,
-      "estimate": "25k+",
+      "rank": 4147,
+      "estimate": "<7k",
       "name": "Trainfort"
     },
     "2967950": {
-      "rank": 327,
-      "estimate": "80k+",
+      "rank": 103,
+      "estimate": "200k+",
       "name": "The Witch's Bakery"
     },
-    "3159860": {
-      "rank": 4351,
+    "3046540": {
+      "rank": 4309,
       "estimate": "<7k",
-      "name": "Feltopia"
+      "name": "10 Second Mixtape"
     },
-    "3168110": {
-      "rank": 3169,
+    "3116230": {
+      "rank": 4603,
       "estimate": "<7k",
-      "name": "SkyRig"
+      "name": "Abashed"
     },
     "3180000": {
-      "rank": 2718,
-      "estimate": "7k+",
+      "rank": 9079,
+      "estimate": "<7k",
       "name": "Blades For Hire"
     },
     "3219630": {
-      "rank": 218,
-      "estimate": "80k+",
+      "rank": 176,
+      "estimate": "200k+",
       "name": "Halloween: The Game"
     },
+    "3316900": {
+      "rank": 7949,
+      "estimate": "<7k",
+      "name": "Blade Blazer"
+    },
+    "3540660": {
+      "rank": 5353,
+      "estimate": "<7k",
+      "name": "Bibidi Bibidi!"
+    },
+    "3552090": {
+      "rank": 6630,
+      "estimate": "<7k",
+      "name": "Penguin Festival"
+    },
+    "3575710": {
+      "rank": 8650,
+      "estimate": "<7k",
+      "name": "Danmaku Unlimited 4 WYVER ULTRA"
+    },
+    "3585810": {
+      "rank": 8066,
+      "estimate": "<7k",
+      "name": "Nia and The Abyss"
+    },
+    "3630680": {
+      "rank": 6589,
+      "estimate": "<7k",
+      "name": "Galaxy Critter Co."
+    },
+    "3670950": {
+      "rank": 4479,
+      "estimate": "<7k",
+      "name": "Tales of the Withered"
+    },
     "3695630": {
-      "rank": 1671,
-      "estimate": "15k+",
+      "rank": 3235,
+      "estimate": "<7k",
       "name": "Project Landsword"
     },
     "3866230": {
-      "rank": 2521,
-      "estimate": "7k+",
+      "rank": 3747,
+      "estimate": "<7k",
       "name": "Way of Madness"
     },
+    "3913130": {
+      "rank": 1865,
+      "estimate": "15k+",
+      "name": "Witchlight Woods"
+    },
     "3946330": {
-      "rank": 3852,
+      "rank": 4238,
       "estimate": "<7k",
       "name": "Snap & Print"
     },
+    "3960990": {
+      "rank": 1636,
+      "estimate": "15k+",
+      "name": "Gallery Nocturnea"
+    },
     "4001890": {
-      "rank": 284,
-      "estimate": "80k+",
+      "rank": 57,
+      "estimate": "300k+",
       "name": "How to Fish"
     },
     "4003030": {
-      "rank": 1954,
-      "estimate": "15k+",
+      "rank": 1128,
+      "estimate": "25k+",
       "name": "Mojo Party"
     },
+    "4040480": {
+      "rank": 4932,
+      "estimate": "<7k",
+      "name": "桂冠之人 Laureate"
+    },
+    "4049230": {
+      "rank": 7695,
+      "estimate": "<7k",
+      "name": "颠倒世界 World Inverted"
+    },
+    "4056810": {
+      "rank": 5410,
+      "estimate": "<7k",
+      "name": "东北往事"
+    },
+    "4266820": {
+      "rank": 9623,
+      "estimate": "<7k",
+      "name": "Steam & Glory"
+    },
+    "4277440": {
+      "rank": 3679,
+      "estimate": "<7k",
+      "name": "Apathema"
+    },
+    "4307390": {
+      "rank": 7738,
+      "estimate": "<7k",
+      "name": "Cursed Gas Station"
+    },
+    "4368630": {
+      "rank": 8599,
+      "estimate": "<7k",
+      "name": "Hell's Beasts: Yama Wanted Me Dead, I Left Him Half-Dead"
+    },
+    "4494830": {
+      "rank": 3901,
+      "estimate": "<7k",
+      "name": "The Vaults Below Durn: A Field Study"
+    },
+    "4612760": {
+      "rank": 6023,
+      "estimate": "<7k",
+      "name": "GET RAMMED"
+    },
     "4643090": {
-      "rank": 2805,
-      "estimate": "7k+",
+      "rank": 173,
+      "estimate": "200k+",
       "name": "The NOexistenceN of Lilith"
+    },
+    "4727910": {
+      "rank": 9711,
+      "estimate": "<7k",
+      "name": "Tisis"
+    },
+    "4742450": {
+      "rank": 8019,
+      "estimate": "<7k",
+      "name": "NIGHT MULE"
     }
   }
 }

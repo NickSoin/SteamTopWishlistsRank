@@ -1,148 +1,253 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 49,
   "entries": {
     "1111740": {
-      "rank": 4251,
-      "estimate": "<7k",
+      "rank": 1414,
+      "estimate": "25k+",
       "name": "Cross Reverie"
     },
-    "1374750": {
-      "rank": 3809,
-      "estimate": "<7k",
-      "name": "Out of Place"
-    },
     "1403850": {
-      "rank": 732,
-      "estimate": "40k+",
+      "rank": 5080,
+      "estimate": "<7k",
       "name": "Mars Colony Builder"
     },
-    "1852360": {
-      "rank": 3038,
-      "estimate": "<7k",
-      "name": "Warpaws"
-    },
     "1926720": {
-      "rank": 3150,
+      "rank": 6481,
       "estimate": "<7k",
       "name": "The Adventures Of Bryan Scott"
     },
     "2092510": {
-      "rank": 1826,
-      "estimate": "15k+",
+      "rank": 4628,
+      "estimate": "<7k",
       "name": "Dome-King Cabbage"
     },
     "2166730": {
-      "rank": 992,
-      "estimate": "40k+",
+      "rank": 2923,
+      "estimate": "7k+",
       "name": "Electrokinetic"
     },
     "2398100": {
-      "rank": 3557,
+      "rank": 4052,
       "estimate": "<7k",
       "name": "ЭОН"
     },
-    "2596940": {
-      "rank": 3545,
+    "2508640": {
+      "rank": 8739,
       "estimate": "<7k",
-      "name": "Isometria"
+      "name": "TerranLands"
+    },
+    "2509870": {
+      "rank": 2598,
+      "estimate": "7k+",
+      "name": "Time To Wake Up"
     },
     "2617340": {
-      "rank": 127,
-      "estimate": "200k+",
+      "rank": 1033,
+      "estimate": "25k+",
       "name": "Terminator: Survivors"
     },
-    "2745050": {
-      "rank": 3008,
-      "estimate": "<7k",
-      "name": "Flow Factory"
-    },
     "2783360": {
-      "rank": 3485,
-      "estimate": "<7k",
+      "rank": 1763,
+      "estimate": "15k+",
       "name": "Age of Empires Mobile: PC Edition"
     },
     "2824520": {
-      "rank": 877,
-      "estimate": "40k+",
+      "rank": 5557,
+      "estimate": "<7k",
       "name": "Displacement"
     },
+    "2996900": {
+      "rank": 3379,
+      "estimate": "<7k",
+      "name": "Dungeons & Desserts"
+    },
+    "2998700": {
+      "rank": 7960,
+      "estimate": "<7k",
+      "name": "Playable Alpha"
+    },
+    "3083980": {
+      "rank": 9583,
+      "estimate": "<7k",
+      "name": "夜空色的魔法少女 - Nightsky Blue Magical Girl"
+    },
     "3139120": {
-      "rank": 2670,
-      "estimate": "7k+",
+      "rank": 5795,
+      "estimate": "<7k",
       "name": "THREE VERSES³"
     },
     "3202220": {
-      "rank": 2366,
-      "estimate": "7k+",
+      "rank": 5560,
+      "estimate": "<7k",
       "name": "Aldian of Ancients"
     },
     "3230430": {
-      "rank": 121,
-      "estimate": "200k+",
+      "rank": 607,
+      "estimate": "40k+",
       "name": "The CUBE"
     },
-    "3497800": {
-      "rank": 3672,
+    "3374640": {
+      "rank": 5218,
       "estimate": "<7k",
+      "name": "Crown Of Hispania"
+    },
+    "3436760": {
+      "rank": 9647,
+      "estimate": "<7k",
+      "name": "白垩纪-龙岛"
+    },
+    "3452670": {
+      "rank": 3403,
+      "estimate": "<7k",
+      "name": "妄生 - Wandering Souls"
+    },
+    "3462790": {
+      "rank": 983,
+      "estimate": "40k+",
+      "name": "Battle For Embolia"
+    },
+    "3497800": {
+      "rank": 2333,
+      "estimate": "7k+",
       "name": "Bonehold"
     },
     "3560360": {
-      "rank": 2752,
-      "estimate": "7k+",
+      "rank": 8104,
+      "estimate": "<7k",
       "name": "Forsworn"
     },
+    "3567000": {
+      "rank": 4355,
+      "estimate": "<7k",
+      "name": "深渊档案"
+    },
     "3767110": {
-      "rank": 4679,
+      "rank": 8365,
       "estimate": "<7k",
       "name": "Erulean Angel: Fantasy Commander"
     },
-    "4013270": {
-      "rank": 4385,
+    "3918640": {
+      "rank": 8220,
       "estimate": "<7k",
+      "name": "紅塵武俠"
+    },
+    "4013270": {
+      "rank": 2583,
+      "estimate": "7k+",
       "name": "The False Alice -Retold Tale-"
     },
+    "4048560": {
+      "rank": 3182,
+      "estimate": "<7k",
+      "name": "Stock Market Simulator"
+    },
+    "4077580": {
+      "rank": 2365,
+      "estimate": "7k+",
+      "name": "Chess Nuke"
+    },
+    "4110760": {
+      "rank": 6169,
+      "estimate": "<7k",
+      "name": "Snaip of Doomsday"
+    },
+    "4148440": {
+      "rank": 8168,
+      "estimate": "<7k",
+      "name": "Dadum The Dice"
+    },
+    "4169540": {
+      "rank": 9426,
+      "estimate": "<7k",
+      "name": "Super Bomba League"
+    },
     "4176140": {
-      "rank": 1702,
-      "estimate": "15k+",
+      "rank": 555,
+      "estimate": "40k+",
       "name": "End of Eden"
     },
     "4200980": {
-      "rank": 3161,
+      "rank": 4565,
       "estimate": "<7k",
       "name": "Ashen Seed"
     },
     "4201590": {
-      "rank": 3690,
-      "estimate": "<7k",
+      "rank": 2327,
+      "estimate": "7k+",
       "name": "KochiKame: Ryo-san's Billion-yen Beat"
     },
     "4242890": {
-      "rank": 2832,
-      "estimate": "7k+",
+      "rank": 367,
+      "estimate": "80k+",
       "name": "Encryptid"
     },
-    "4366330": {
-      "rank": 4011,
+    "4244180": {
+      "rank": 5836,
       "estimate": "<7k",
+      "name": "No Blink Allowed"
+    },
+    "4314670": {
+      "rank": 5798,
+      "estimate": "<7k",
+      "name": "Victoria 3: Century of Strife - Immersion Pack"
+    },
+    "4324840": {
+      "rank": 7412,
+      "estimate": "<7k",
+      "name": "Peace Under His Roof"
+    },
+    "4366330": {
+      "rank": 1622,
+      "estimate": "15k+",
       "name": "Rift Wizard 3"
     },
     "4375420": {
-      "rank": 2064,
-      "estimate": "7k+",
+      "rank": 999,
+      "estimate": "40k+",
       "name": "The Ashen OZ"
     },
+    "4485570": {
+      "rank": 4473,
+      "estimate": "<7k",
+      "name": "Punch Upon a Time"
+    },
+    "4513390": {
+      "rank": 4509,
+      "estimate": "<7k",
+      "name": "We Were Here Before"
+    },
     "4537820": {
-      "rank": 2262,
-      "estimate": "7k+",
+      "rank": 893,
+      "estimate": "40k+",
       "name": "Overcome Your Fears - Lighthouse"
     },
     "4540840": {
-      "rank": 2394,
-      "estimate": "7k+",
+      "rank": 124,
+      "estimate": "200k+",
       "name": "DIOXIDE"
+    },
+    "4550140": {
+      "rank": 6026,
+      "estimate": "<7k",
+      "name": "Flame Hunter: Zhong Kui"
+    },
+    "4608760": {
+      "rank": 5095,
+      "estimate": "<7k",
+      "name": "Garden Cleanup Simulator"
+    },
+    "4636570": {
+      "rank": 2926,
+      "estimate": "7k+",
+      "name": "Shadowrite"
+    },
+    "4708020": {
+      "rank": 9160,
+      "estimate": "<7k",
+      "name": "Follow like a shadow"
     }
   }
 }

@@ -1,78 +1,143 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 14,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 27,
   "entries": {
     "643370": {
-      "rank": 3805,
+      "rank": 4146,
       "estimate": "<7k",
       "name": "eSports Manager"
     },
-    "1446790": {
-      "rank": 3606,
-      "estimate": "<7k",
-      "name": "CRUDE"
-    },
     "1846570": {
-      "rank": 3061,
+      "rank": 8411,
       "estimate": "<7k",
       "name": "Sanctus"
     },
-    "2186440": {
-      "rank": 4362,
-      "estimate": "<7k",
-      "name": "間違った社員教育 まったく君の会社ではいったいどんな社員教育を(略)"
-    },
     "2418040": {
-      "rank": 2497,
-      "estimate": "7k+",
+      "rank": 1086,
+      "estimate": "25k+",
       "name": "Beyond The Plastic Wall"
     },
+    "2527940": {
+      "rank": 3202,
+      "estimate": "<7k",
+      "name": "Little Cheese Works"
+    },
     "2533000": {
-      "rank": 3439,
+      "rank": 7604,
       "estimate": "<7k",
       "name": "Small Kingdoms"
     },
     "2578180": {
-      "rank": 1736,
-      "estimate": "15k+",
+      "rank": 3781,
+      "estimate": "<7k",
       "name": "Save the Villainess: An Otome Isekai Roleplaying Game"
     },
     "2785740": {
-      "rank": 427,
-      "estimate": "80k+",
+      "rank": 837,
+      "estimate": "40k+",
       "name": "Diesel Knights"
     },
+    "3044350": {
+      "rank": 8022,
+      "estimate": "<7k",
+      "name": "Nazi Zombies"
+    },
     "3130220": {
-      "rank": 1209,
-      "estimate": "25k+",
+      "rank": 2439,
+      "estimate": "7k+",
       "name": "Sagas of Lumin"
     },
     "3238940": {
-      "rank": 248,
+      "rank": 373,
       "estimate": "80k+",
       "name": "A Simple Life with My Unobtrusive Sister"
     },
+    "3441010": {
+      "rank": 6488,
+      "estimate": "<7k",
+      "name": "Columbia Games' EastFront"
+    },
     "3639510": {
-      "rank": 3156,
+      "rank": 5608,
       "estimate": "<7k",
       "name": "Cutting Edge: Roots Of Mutation"
     },
     "3807690": {
-      "rank": 3858,
-      "estimate": "<7k",
+      "rank": 1385,
+      "estimate": "25k+",
       "name": "Yami Kids"
     },
     "3997960": {
-      "rank": 624,
-      "estimate": "40k+",
+      "rank": 1007,
+      "estimate": "25k+",
       "name": "Undead Chronicles"
     },
+    "4080010": {
+      "rank": 8090,
+      "estimate": "<7k",
+      "name": "Dravo's Twisted Show"
+    },
     "4228810": {
-      "rank": 66,
-      "estimate": "300k+",
+      "rank": 476,
+      "estimate": "80k+",
       "name": "Fourteen Years of Flames"
+    },
+    "4348370": {
+      "rank": 6325,
+      "estimate": "<7k",
+      "name": "Hemlon the Grey"
+    },
+    "4426010": {
+      "rank": 5015,
+      "estimate": "<7k",
+      "name": "Seven Nights Ghost 2"
+    },
+    "4449170": {
+      "rank": 8292,
+      "estimate": "<7k",
+      "name": "Skydeck Swords"
+    },
+    "4482070": {
+      "rank": 7938,
+      "estimate": "<7k",
+      "name": "Moonlit Dreams"
+    },
+    "4503540": {
+      "rank": 8837,
+      "estimate": "<7k",
+      "name": "Fomo-trading"
+    },
+    "4512810": {
+      "rank": 3155,
+      "estimate": "<7k",
+      "name": "Ares Inception"
+    },
+    "4562310": {
+      "rank": 7844,
+      "estimate": "<7k",
+      "name": "Ultimate Classic Car Racing 2"
+    },
+    "4626760": {
+      "rank": 2419,
+      "estimate": "7k+",
+      "name": "DEAD RIG"
+    },
+    "4651300": {
+      "rank": 9188,
+      "estimate": "<7k",
+      "name": "Hotel Paraíso"
+    },
+    "4660450": {
+      "rank": 1771,
+      "estimate": "15k+",
+      "name": "Caravana 2000"
+    },
+    "4691010": {
+      "rank": 6576,
+      "estimate": "<7k",
+      "name": "DAMNED"
     }
   }
 }

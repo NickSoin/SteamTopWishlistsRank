@@ -1,93 +1,208 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 40,
   "entries": {
     "306910": {
-      "rank": 236,
-      "estimate": "80k+",
+      "rank": 1135,
+      "estimate": "25k+",
       "name": "Vaultbreakers"
     },
+    "972450": {
+      "rank": 4232,
+      "estimate": "<7k",
+      "name": "The Zibbo Show"
+    },
+    "1312660": {
+      "rank": 8798,
+      "estimate": "<7k",
+      "name": "Be My Mom - maternity simulator, take care of your child"
+    },
     "1637460": {
-      "rank": 257,
+      "rank": 268,
       "estimate": "80k+",
       "name": "TankRat"
     },
     "1953430": {
-      "rank": 3040,
+      "rank": 7623,
       "estimate": "<7k",
       "name": "DearMyFriend"
     },
+    "2099450": {
+      "rank": 8445,
+      "estimate": "<7k",
+      "name": "CUBOID"
+    },
     "2184020": {
-      "rank": 1069,
-      "estimate": "25k+",
+      "rank": 930,
+      "estimate": "40k+",
       "name": "LIFTED"
     },
-    "2357970": {
-      "rank": 3744,
+    "2318030": {
+      "rank": 9316,
       "estimate": "<7k",
-      "name": "Finely Diced"
-    },
-    "2408290": {
-      "rank": 4660,
-      "estimate": "<7k",
-      "name": "Interlopers"
+      "name": "Omnificent"
     },
     "2521160": {
-      "rank": 3487,
+      "rank": 5821,
       "estimate": "<7k",
       "name": "The Merlies"
     },
+    "2573840": {
+      "rank": 5181,
+      "estimate": "<7k",
+      "name": "Humbug Tales: Keeper of the Swarm"
+    },
     "2610770": {
-      "rank": 147,
-      "estimate": "200k+",
+      "rank": 244,
+      "estimate": "80k+",
       "name": "Dust Front RTS"
     },
     "2637210": {
-      "rank": 2754,
-      "estimate": "7k+",
+      "rank": 3847,
+      "estimate": "<7k",
       "name": "Flow Of War"
     },
     "2665020": {
-      "rank": 982,
-      "estimate": "40k+",
+      "rank": 1271,
+      "estimate": "25k+",
       "name": "Milo"
     },
-    "2879320": {
-      "rank": 2706,
-      "estimate": "7k+",
-      "name": "The Night Wanderer"
+    "2893320": {
+      "rank": 6492,
+      "estimate": "<7k",
+      "name": "SKELET_666"
+    },
+    "3056850": {
+      "rank": 3984,
+      "estimate": "<7k",
+      "name": "Soulscape"
     },
     "3196750": {
-      "rank": 3667,
+      "rank": 4005,
       "estimate": "<7k",
       "name": "[Bober Bros] Happy House"
     },
-    "3374020": {
-      "rank": 3360,
-      "estimate": "<7k",
-      "name": "Buddy Bug"
+    "3285430": {
+      "rank": 2132,
+      "estimate": "7k+",
+      "name": "The Patient - can you escape?"
     },
     "3489490": {
-      "rank": 2607,
-      "estimate": "7k+",
+      "rank": 3426,
+      "estimate": "<7k",
       "name": "SourceWorld"
     },
+    "3742010": {
+      "rank": 2306,
+      "estimate": "7k+",
+      "name": "Yuna and the Spirit Forest"
+    },
+    "3777300": {
+      "rank": 4251,
+      "estimate": "<7k",
+      "name": "School Crisis"
+    },
     "3873770": {
-      "rank": 1819,
-      "estimate": "15k+",
+      "rank": 5347,
+      "estimate": "<7k",
       "name": "AXERAS"
     },
+    "3914510": {
+      "rank": 7772,
+      "estimate": "<7k",
+      "name": "SoundBoard"
+    },
+    "3929330": {
+      "rank": 3574,
+      "estimate": "<7k",
+      "name": "Relief"
+    },
     "4018550": {
-      "rank": 3055,
+      "rank": 3920,
       "estimate": "<7k",
       "name": "Cat Isle"
     },
+    "4160330": {
+      "rank": 9549,
+      "estimate": "<7k",
+      "name": "Sly Crow"
+    },
+    "4171800": {
+      "rank": 6710,
+      "estimate": "<7k",
+      "name": "Storm Grill"
+    },
+    "4183320": {
+      "rank": 9478,
+      "estimate": "<7k",
+      "name": "DETRUST"
+    },
+    "4229000": {
+      "rank": 9266,
+      "estimate": "<7k",
+      "name": "VALERIAN"
+    },
     "4342570": {
-      "rank": 4181,
+      "rank": 5081,
       "estimate": "<7k",
       "name": "Gospodar's Tales"
+    },
+    "4410730": {
+      "rank": 7996,
+      "estimate": "<7k",
+      "name": "The Rule of Adult"
+    },
+    "4425550": {
+      "rank": 974,
+      "estimate": "40k+",
+      "name": "Monkey Bizniz"
+    },
+    "4430260": {
+      "rank": 836,
+      "estimate": "40k+",
+      "name": "Beat For Speed"
+    },
+    "4434840": {
+      "rank": 9412,
+      "estimate": "<7k",
+      "name": "AI is Home - Survival Thriller"
+    },
+    "4460500": {
+      "rank": 9656,
+      "estimate": "<7k",
+      "name": "Last Cleanup"
+    },
+    "4505120": {
+      "rank": 8933,
+      "estimate": "<7k",
+      "name": "Director of Management: Football Club"
+    },
+    "4540970": {
+      "rank": 1950,
+      "estimate": "15k+",
+      "name": "Unhappening"
+    },
+    "4550070": {
+      "rank": 5561,
+      "estimate": "<7k",
+      "name": "Two Left Hands"
+    },
+    "4652730": {
+      "rank": 3418,
+      "estimate": "<7k",
+      "name": "Lost Vessel"
+    },
+    "4678330": {
+      "rank": 4874,
+      "estimate": "<7k",
+      "name": "Crazy Neighbour"
+    },
+    "4718850": {
+      "rank": 4079,
+      "estimate": "<7k",
+      "name": "Talk Insomnia"
     }
   }
 }

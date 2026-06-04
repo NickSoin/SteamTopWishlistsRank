@@ -1,93 +1,228 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 44,
   "entries": {
     "1158190": {
-      "rank": 843,
-      "estimate": "40k+",
+      "rank": 2466,
+      "estimate": "7k+",
       "name": "Do Not Buy This Game"
     },
     "1173980": {
-      "rank": 195,
-      "estimate": "200k+",
+      "rank": 596,
+      "estimate": "40k+",
       "name": "Shadow of the Road"
     },
     "1345910": {
-      "rank": 3907,
+      "rank": 9958,
       "estimate": "<7k",
       "name": "The Airline Project: Next Gen"
     },
+    "1376390": {
+      "rank": 9856,
+      "estimate": "<7k",
+      "name": "Apocrypha"
+    },
     "1501310": {
-      "rank": 152,
-      "estimate": "200k+",
+      "rank": 2000,
+      "estimate": "15k+",
       "name": "The Ranchers"
     },
     "1889700": {
-      "rank": 1869,
-      "estimate": "15k+",
+      "rank": 6733,
+      "estimate": "<7k",
       "name": "Archrebel Tactics"
     },
-    "2200940": {
-      "rank": 4092,
+    "2264780": {
+      "rank": 5814,
       "estimate": "<7k",
-      "name": "Sword of the Necromancer: Revenant"
+      "name": "Legion of Judgment: Fallen Angel"
     },
     "2551550": {
-      "rank": 343,
-      "estimate": "80k+",
+      "rank": 2089,
+      "estimate": "7k+",
       "name": "Goodbye Seoul"
     },
     "2592230": {
-      "rank": 2298,
-      "estimate": "7k+",
+      "rank": 6296,
+      "estimate": "<7k",
       "name": "Spectra"
     },
     "2621930": {
-      "rank": 2570,
-      "estimate": "7k+",
+      "rank": 3026,
+      "estimate": "<7k",
       "name": "Grim Trials"
     },
     "2787850": {
-      "rank": 826,
-      "estimate": "40k+",
+      "rank": 2374,
+      "estimate": "7k+",
       "name": "Runa"
     },
     "3088510": {
-      "rank": 2049,
-      "estimate": "7k+",
+      "rank": 3085,
+      "estimate": "<7k",
       "name": "Spellsided"
     },
-    "3155670": {
-      "rank": 3352,
+    "3234850": {
+      "rank": 4209,
       "estimate": "<7k",
-      "name": "ユメザメの仮説"
+      "name": "HYPERWIRED"
     },
     "3373500": {
-      "rank": 719,
-      "estimate": "40k+",
+      "rank": 1293,
+      "estimate": "25k+",
       "name": "Scavland"
     },
+    "3380380": {
+      "rank": 9331,
+      "estimate": "<7k",
+      "name": "Bits Of Love: An Otome Game"
+    },
+    "3389620": {
+      "rank": 4539,
+      "estimate": "<7k",
+      "name": "The Shadow Beneath"
+    },
+    "3417550": {
+      "rank": 9143,
+      "estimate": "<7k",
+      "name": "POLDERS"
+    },
+    "3519630": {
+      "rank": 8975,
+      "estimate": "<7k",
+      "name": "Live War"
+    },
     "3681340": {
-      "rank": 1534,
-      "estimate": "15k+",
+      "rank": 6389,
+      "estimate": "<7k",
       "name": "All Living Things"
     },
+    "3705620": {
+      "rank": 9609,
+      "estimate": "<7k",
+      "name": "Necromancer's Last Stand"
+    },
+    "3734080": {
+      "rank": 6539,
+      "estimate": "<7k",
+      "name": "Ganglands"
+    },
+    "3887120": {
+      "rank": 9935,
+      "estimate": "<7k",
+      "name": "Fechtbucher"
+    },
+    "3920300": {
+      "rank": 4634,
+      "estimate": "<7k",
+      "name": "Mothkeep"
+    },
+    "3927060": {
+      "rank": 9574,
+      "estimate": "<7k",
+      "name": "fulgor: i hate, therefore i am."
+    },
+    "3954390": {
+      "rank": 9523,
+      "estimate": "<7k",
+      "name": "Better Than Us"
+    },
     "3963860": {
-      "rank": 3511,
+      "rank": 4185,
       "estimate": "<7k",
       "name": "Tax It Easy"
     },
+    "3974640": {
+      "rank": 8270,
+      "estimate": "<7k",
+      "name": "Moomin Adventure VR"
+    },
+    "4024120": {
+      "rank": 4560,
+      "estimate": "<7k",
+      "name": "颂声·市井小神仙"
+    },
+    "4109210": {
+      "rank": 5014,
+      "estimate": "<7k",
+      "name": "Blood in the Panopticon"
+    },
+    "4201620": {
+      "rank": 4302,
+      "estimate": "<7k",
+      "name": "Spirit Of Phuji"
+    },
+    "4220720": {
+      "rank": 9432,
+      "estimate": "<7k",
+      "name": "Bird Game 3"
+    },
     "4243990": {
-      "rank": 1154,
+      "rank": 1142,
       "estimate": "25k+",
       "name": "Path of Idle: Old Gods Rising"
     },
-    "4360240": {
-      "rank": 3922,
+    "4251030": {
+      "rank": 6329,
       "estimate": "<7k",
+      "name": "Maledictum"
+    },
+    "4263170": {
+      "rank": 1240,
+      "estimate": "25k+",
+      "name": "Union Of Rivals"
+    },
+    "4287280": {
+      "rank": 9009,
+      "estimate": "<7k",
+      "name": "Dirty"
+    },
+    "4360240": {
+      "rank": 1714,
+      "estimate": "15k+",
       "name": "LOP: Whitefall"
+    },
+    "4410710": {
+      "rank": 3911,
+      "estimate": "<7k",
+      "name": "Fields of Aaru"
+    },
+    "4478910": {
+      "rank": 8639,
+      "estimate": "<7k",
+      "name": "HITORIASOBI"
+    },
+    "4505100": {
+      "rank": 7383,
+      "estimate": "<7k",
+      "name": "Aliens Go Home ReRun"
+    },
+    "4521890": {
+      "rank": 9981,
+      "estimate": "<7k",
+      "name": "Kingdoms in Arms"
+    },
+    "4530030": {
+      "rank": 1320,
+      "estimate": "25k+",
+      "name": "MURINO: The Fog Is Coming"
+    },
+    "4596070": {
+      "rank": 5527,
+      "estimate": "<7k",
+      "name": "Dice Crawler"
+    },
+    "4611210": {
+      "rank": 5267,
+      "estimate": "<7k",
+      "name": "Crimson Solstice"
+    },
+    "4671450": {
+      "rank": 804,
+      "estimate": "40k+",
+      "name": "World of Slime"
     }
   }
 }

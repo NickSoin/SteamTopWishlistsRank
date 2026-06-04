@@ -1,58 +1,143 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 10,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 27,
   "entries": {
-    "2197330": {
-      "rank": 4244,
+    "1984210": {
+      "rank": 8590,
       "estimate": "<7k",
-      "name": "CARD NOVA HYPER"
+      "name": "Dejar Ir - A Pandemic Soulful Tale"
     },
     "2441590": {
-      "rank": 981,
-      "estimate": "40k+",
+      "rank": 2317,
+      "estimate": "7k+",
       "name": "Ark：Release"
     },
     "2816730": {
-      "rank": 3721,
-      "estimate": "<7k",
+      "rank": 2597,
+      "estimate": "7k+",
       "name": "CONFINED: Leaving OKB-134"
     },
     "2822720": {
-      "rank": 832,
-      "estimate": "40k+",
+      "rank": 1757,
+      "estimate": "15k+",
       "name": "Echoes of Extinction"
     },
     "2853430": {
-      "rank": 1202,
-      "estimate": "25k+",
+      "rank": 3145,
+      "estimate": "<7k",
       "name": "Ravenwood Academy: A Wizard101 Story"
     },
+    "2938540": {
+      "rank": 3592,
+      "estimate": "<7k",
+      "name": "Crownbreakers"
+    },
     "3040930": {
-      "rank": 3223,
+      "rank": 4141,
       "estimate": "<7k",
       "name": "Just A Shadow Game"
     },
     "3151360": {
-      "rank": 1352,
-      "estimate": "25k+",
+      "rank": 353,
+      "estimate": "80k+",
       "name": "Agni: Village of Calamity"
     },
     "3271280": {
-      "rank": 283,
-      "estimate": "80k+",
+      "rank": 873,
+      "estimate": "40k+",
       "name": "Shroom and Gloom"
     },
     "3424730": {
-      "rank": 255,
-      "estimate": "80k+",
+      "rank": 188,
+      "estimate": "200k+",
       "name": "ORMOD: Directive"
     },
+    "3510640": {
+      "rank": 1861,
+      "estimate": "15k+",
+      "name": "Terra Trials"
+    },
+    "3579630": {
+      "rank": 8978,
+      "estimate": "<7k",
+      "name": "Terrible Life Expectancy"
+    },
     "3603740": {
-      "rank": 2462,
-      "estimate": "7k+",
+      "rank": 3797,
+      "estimate": "<7k",
       "name": "GCR4 Geoff Crammond"
+    },
+    "3700100": {
+      "rank": 3017,
+      "estimate": "<7k",
+      "name": "Bruma"
+    },
+    "3933180": {
+      "rank": 1466,
+      "estimate": "25k+",
+      "name": "Torii: Beyond The Gates"
+    },
+    "4081170": {
+      "rank": 7087,
+      "estimate": "<7k",
+      "name": "Phone Flipper Simulator"
+    },
+    "4119640": {
+      "rank": 5746,
+      "estimate": "<7k",
+      "name": "Piecewise! by ./badgames.zip (a daily puzzle game!)"
+    },
+    "4121610": {
+      "rank": 5151,
+      "estimate": "<7k",
+      "name": "Something to Drink?"
+    },
+    "4336490": {
+      "rank": 5841,
+      "estimate": "<7k",
+      "name": "Pay To Slay"
+    },
+    "4369890": {
+      "rank": 6363,
+      "estimate": "<7k",
+      "name": "Cup Or Die"
+    },
+    "4446870": {
+      "rank": 9071,
+      "estimate": "<7k",
+      "name": "Medieval Tavern Simulator"
+    },
+    "4452620": {
+      "rank": 8011,
+      "estimate": "<7k",
+      "name": "Thieves and Gold"
+    },
+    "4465510": {
+      "rank": 3719,
+      "estimate": "<7k",
+      "name": "Nimaat"
+    },
+    "4518500": {
+      "rank": 5321,
+      "estimate": "<7k",
+      "name": "Train Simulator: Colorado & Southern Alpine Tunnel: St. Elmo - Pitkin"
+    },
+    "4527300": {
+      "rank": 7422,
+      "estimate": "<7k",
+      "name": "Pet Cross"
+    },
+    "4588310": {
+      "rank": 7073,
+      "estimate": "<7k",
+      "name": "Mutie Headz"
+    },
+    "4690620": {
+      "rank": 3661,
+      "estimate": "<7k",
+      "name": "Most Scuffed Golf"
     }
   }
 }

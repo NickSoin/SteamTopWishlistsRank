@@ -1,132 +1,217 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 42,
   "entries": {
-    "1058030": {
-      "rank": 3641,
-      "estimate": "<7k",
-      "name": "Roskur's Run"
-    },
     "1264390": {
-      "rank": 1904,
-      "estimate": "15k+",
+      "rank": 6310,
+      "estimate": "<7k",
       "name": "Dreamjob: Programmer Simulator - Learn Programming Games"
     },
-    "1269700": {
-      "rank": 3826,
+    "1281320": {
+      "rank": 7134,
       "estimate": "<7k",
-      "name": "4 Minutes to the Apocalypse"
-    },
-    "1331290": {
-      "rank": 2831,
-      "estimate": "7k+",
-      "name": "Shattered Soul"
+      "name": "Lucky Heroes"
     },
     "2219850": {
-      "rank": 3445,
+      "rank": 7891,
       "estimate": "<7k",
       "name": "Cartomantic"
     },
     "2354810": {
-      "rank": 4294,
+      "rank": 4485,
       "estimate": "<7k",
       "name": "Elysium"
     },
-    "2358120": {
-      "rank": 3101,
-      "estimate": "<7k",
-      "name": "Criminals Within"
-    },
-    "2506060": {
-      "rank": 4621,
-      "estimate": "<7k",
-      "name": "Yusha Prototype -Family Friendly-"
-    },
     "2573060": {
-      "rank": 602,
-      "estimate": "40k+",
+      "rank": 1261,
+      "estimate": "25k+",
       "name": "Farmbotic"
     },
     "2742710": {
-      "rank": 1776,
-      "estimate": "15k+",
+      "rank": 891,
+      "estimate": "40k+",
       "name": "Cozy Cleaner"
     },
+    "2774760": {
+      "rank": 5007,
+      "estimate": "<7k",
+      "name": "PLAGUE DOCTOR"
+    },
     "2850910": {
-      "rank": 2524,
-      "estimate": "7k+",
+      "rank": 8376,
+      "estimate": "<7k",
       "name": "Prisma"
     },
     "2872600": {
-      "rank": 2926,
+      "rank": 2152,
       "estimate": "7k+",
       "name": "Colonies of The Remnant"
     },
+    "3042040": {
+      "rank": 4315,
+      "estimate": "<7k",
+      "name": "Project: Autumn"
+    },
     "3109590": {
-      "rank": 1059,
+      "rank": 1242,
       "estimate": "25k+",
       "name": "Cat Cafe Manager 2: Big City Bliss"
     },
+    "3161350": {
+      "rank": 6226,
+      "estimate": "<7k",
+      "name": "COSETTE: THE UNTITLED GAME"
+    },
     "3208930": {
-      "rank": 987,
-      "estimate": "40k+",
+      "rank": 1031,
+      "estimate": "25k+",
       "name": "Galvatein : Adventurers' Guild"
     },
+    "3230380": {
+      "rank": 5481,
+      "estimate": "<7k",
+      "name": "YARETA"
+    },
     "3284220": {
-      "rank": 2435,
-      "estimate": "7k+",
+      "rank": 5040,
+      "estimate": "<7k",
       "name": "Hyperwar"
     },
     "3370970": {
-      "rank": 865,
-      "estimate": "40k+",
+      "rank": 2717,
+      "estimate": "7k+",
       "name": "Star Garden"
     },
     "3375890": {
-      "rank": 2848,
-      "estimate": "7k+",
+      "rank": 915,
+      "estimate": "40k+",
       "name": "Ogre Chambers 2222"
     },
+    "3418090": {
+      "rank": 3849,
+      "estimate": "<7k",
+      "name": "Death's Legacy"
+    },
+    "3541590": {
+      "rank": 3959,
+      "estimate": "<7k",
+      "name": "Arcadie II: Cold Lands"
+    },
     "3542300": {
-      "rank": 2084,
+      "rank": 2551,
       "estimate": "7k+",
       "name": "Car Wash Together"
     },
     "3591920": {
-      "rank": 4203,
+      "rank": 7263,
       "estimate": "<7k",
       "name": "Angels with Scaly Wings™, Part 2: The Strands of Fate"
     },
+    "3652740": {
+      "rank": 6836,
+      "estimate": "<7k",
+      "name": "100% Clean Inc."
+    },
     "3693970": {
-      "rank": 2020,
-      "estimate": "7k+",
+      "rank": 3237,
+      "estimate": "<7k",
       "name": "Plant Tales"
     },
     "3740090": {
-      "rank": 3211,
-      "estimate": "<7k",
+      "rank": 1058,
+      "estimate": "25k+",
       "name": "Bruisers 2D Boxing"
     },
+    "3911300": {
+      "rank": 8084,
+      "estimate": "<7k",
+      "name": "Carrier Wing Ypsilon"
+    },
+    "3980360": {
+      "rank": 8377,
+      "estimate": "<7k",
+      "name": "Meow Familiar World"
+    },
+    "3985990": {
+      "rank": 4286,
+      "estimate": "<7k",
+      "name": "Wild Chorus"
+    },
+    "4099890": {
+      "rank": 8457,
+      "estimate": "<7k",
+      "name": "13 Germinal"
+    },
     "4122640": {
-      "rank": 2913,
-      "estimate": "7k+",
+      "rank": 3027,
+      "estimate": "<7k",
       "name": "Out To Deliver"
     },
     "4146000": {
-      "rank": 144,
-      "estimate": "200k+",
+      "rank": 1073,
+      "estimate": "25k+",
       "name": "GANG OF DRAGON"
     },
     "4201570": {
-      "rank": 2762,
-      "estimate": "7k+",
+      "rank": 1477,
+      "estimate": "25k+",
       "name": "Mystical Demon Farm"
     },
-    "4760110": {
-      "rank": 4573,
+    "4289310": {
+      "rank": 1079,
+      "estimate": "25k+",
+      "name": "ABIDE"
+    },
+    "4315550": {
+      "rank": 9358,
       "estimate": "<7k",
+      "name": "The Carcass"
+    },
+    "4408320": {
+      "rank": 4176,
+      "estimate": "<7k",
+      "name": "BATTLE BEARS GOLD"
+    },
+    "4428630": {
+      "rank": 1903,
+      "estimate": "15k+",
+      "name": "My Fire Is Bigger Than Yours"
+    },
+    "4433450": {
+      "rank": 7579,
+      "estimate": "<7k",
+      "name": "The Road Behind Us"
+    },
+    "4513370": {
+      "rank": 3659,
+      "estimate": "<7k",
+      "name": "Hypnagogia 壊れた夢 Broken Dreams"
+    },
+    "4640230": {
+      "rank": 6564,
+      "estimate": "<7k",
+      "name": "Counter Targets Clicker"
+    },
+    "4659250": {
+      "rank": 2416,
+      "estimate": "7k+",
+      "name": "A Game About Flipping Cards"
+    },
+    "4677610": {
+      "rank": 4976,
+      "estimate": "<7k",
+      "name": "Increbouncer"
+    },
+    "4683200": {
+      "rank": 6582,
+      "estimate": "<7k",
+      "name": "Little Forager"
+    },
+    "4760110": {
+      "rank": 312,
+      "estimate": "80k+",
       "name": "Sauve le Shérif !"
     }
   }

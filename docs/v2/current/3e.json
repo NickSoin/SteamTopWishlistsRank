@@ -1,93 +1,173 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 33,
   "entries": {
     "612400": {
-      "rank": 206,
-      "estimate": "80k+",
+      "rank": 2054,
+      "estimate": "7k+",
       "name": "The Last Night"
     },
-    "630440": {
-      "rank": 3953,
-      "estimate": "<7k",
-      "name": "Movie Studio Tycoon"
-    },
     "1157900": {
-      "rank": 1544,
-      "estimate": "15k+",
+      "rank": 3280,
+      "estimate": "<7k",
       "name": "Ten Thousand Coins: The Golden Merchant"
     },
     "1256270": {
-      "rank": 435,
-      "estimate": "80k+",
+      "rank": 817,
+      "estimate": "40k+",
       "name": "Kinstrife"
     },
     "1510440": {
-      "rank": 267,
-      "estimate": "80k+",
+      "rank": 879,
+      "estimate": "40k+",
       "name": "Honeycomb: The World Beyond"
     },
     "1649670": {
-      "rank": 3902,
+      "rank": 5975,
       "estimate": "<7k",
       "name": "Star Iliad"
     },
     "1826770": {
-      "rank": 2236,
-      "estimate": "7k+",
+      "rank": 5224,
+      "estimate": "<7k",
       "name": "Alice is Dead: Hearts and Diamonds"
     },
     "2718320": {
-      "rank": 1875,
-      "estimate": "15k+",
+      "rank": 5296,
+      "estimate": "<7k",
       "name": "Green Again"
     },
     "2771220": {
-      "rank": 4059,
+      "rank": 5245,
       "estimate": "<7k",
       "name": "The Tragedy at Deer Creek"
     },
+    "2889330": {
+      "rank": 8989,
+      "estimate": "<7k",
+      "name": "Veil of Madness"
+    },
     "2975680": {
-      "rank": 633,
-      "estimate": "40k+",
+      "rank": 2790,
+      "estimate": "7k+",
       "name": "Revelation of Decay"
     },
-    "3133210": {
-      "rank": 4448,
+    "3011820": {
+      "rank": 8355,
       "estimate": "<7k",
-      "name": "Bargan's Treasure"
+      "name": "ASDA STORY"
+    },
+    "3072180": {
+      "rank": 8338,
+      "estimate": "<7k",
+      "name": "Hope: A Sky Full of Ghosts"
     },
     "3142500": {
-      "rank": 3505,
+      "rank": 5753,
       "estimate": "<7k",
       "name": "The Last Viking"
     },
-    "3166960": {
-      "rank": 3584,
+    "3509080": {
+      "rank": 4676,
       "estimate": "<7k",
-      "name": "Armageddonica"
+      "name": "Forged: Reconquest"
     },
     "3547910": {
-      "rank": 1579,
-      "estimate": "15k+",
+      "rank": 3529,
+      "estimate": "<7k",
       "name": "Alisa: The Parting"
     },
+    "3636520": {
+      "rank": 8321,
+      "estimate": "<7k",
+      "name": "Harvest Scream"
+    },
     "3724300": {
-      "rank": 2568,
-      "estimate": "7k+",
+      "rank": 1768,
+      "estimate": "15k+",
       "name": "Toto's Journey"
     },
+    "3765790": {
+      "rank": 9679,
+      "estimate": "<7k",
+      "name": "coalescent || tidal rapture"
+    },
+    "3824510": {
+      "rank": 7391,
+      "estimate": "<7k",
+      "name": "Bodycam 1997"
+    },
     "3863960": {
-      "rank": 3404,
+      "rank": 7740,
       "estimate": "<7k",
       "name": "The Long March: 20000 Miles of Journey"
     },
-    "4264410": {
-      "rank": 3313,
+    "3911720": {
+      "rank": 9467,
       "estimate": "<7k",
+      "name": "100 Cats Lost in Russia Find & Color"
+    },
+    "4076770": {
+      "rank": 6399,
+      "estimate": "<7k",
+      "name": "Nomad"
+    },
+    "4264410": {
+      "rank": 2576,
+      "estimate": "7k+",
       "name": "STEP THEATER"
+    },
+    "4311310": {
+      "rank": 7450,
+      "estimate": "<7k",
+      "name": "苍灰残响"
+    },
+    "4335990": {
+      "rank": 6504,
+      "estimate": "<7k",
+      "name": "Plura Ingenia: Patient 16"
+    },
+    "4347270": {
+      "rank": 9002,
+      "estimate": "<7k",
+      "name": "The Hat Man"
+    },
+    "4465990": {
+      "rank": 2669,
+      "estimate": "7k+",
+      "name": "State of Command"
+    },
+    "4483910": {
+      "rank": 5214,
+      "estimate": "<7k",
+      "name": "Indignum"
+    },
+    "4508000": {
+      "rank": 7090,
+      "estimate": "<7k",
+      "name": "Hakurei Clicker"
+    },
+    "4529100": {
+      "rank": 9895,
+      "estimate": "<7k",
+      "name": "Idle DeepMiner"
+    },
+    "4635720": {
+      "rank": 4459,
+      "estimate": "<7k",
+      "name": "Fractal Soul"
+    },
+    "4700550": {
+      "rank": 5984,
+      "estimate": "<7k",
+      "name": "Handwalk"
+    },
+    "4710010": {
+      "rank": 1324,
+      "estimate": "25k+",
+      "name": "Triple Pairing"
     }
   }
 }

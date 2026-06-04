@@ -1,98 +1,168 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 32,
   "entries": {
+    "336290": {
+      "rank": 7866,
+      "estimate": "<7k",
+      "name": "Alien Isolation: Trauma"
+    },
     "673100": {
-      "rank": 2748,
+      "rank": 2624,
       "estimate": "7k+",
       "name": "Code of The Savage"
     },
     "958520": {
-      "rank": 740,
-      "estimate": "40k+",
+      "rank": 388,
+      "estimate": "80k+",
       "name": "33 Immortals"
     },
     "1065740": {
-      "rank": 1183,
-      "estimate": "25k+",
+      "rank": 3225,
+      "estimate": "<7k",
       "name": "REPO MAN"
     },
     "1522360": {
-      "rank": 1457,
-      "estimate": "25k+",
+      "rank": 7640,
+      "estimate": "<7k",
       "name": "Dinos Reborn"
     },
     "2114160": {
-      "rank": 3864,
+      "rank": 5716,
       "estimate": "<7k",
       "name": "Red Rebellion"
     },
-    "2727520": {
-      "rank": 3851,
+    "2347140": {
+      "rank": 8450,
       "estimate": "<7k",
+      "name": "The Perfect Tower II - Modding"
+    },
+    "2663970": {
+      "rank": 6331,
+      "estimate": "<7k",
+      "name": "House Designer 2"
+    },
+    "2727520": {
+      "rank": 1514,
+      "estimate": "15k+",
       "name": "Escape from CALYPSO"
     },
-    "2963650": {
-      "rank": 1823,
-      "estimate": "15k+",
-      "name": "Echo: Defy Death"
-    },
     "3094690": {
-      "rank": 628,
-      "estimate": "40k+",
+      "rank": 1417,
+      "estimate": "25k+",
       "name": "Elflock"
     },
     "3148560": {
-      "rank": 1290,
-      "estimate": "25k+",
+      "rank": 2782,
+      "estimate": "7k+",
       "name": "Project TurboBlast"
     },
     "3187240": {
-      "rank": 2242,
+      "rank": 2941,
       "estimate": "7k+",
       "name": "Voice Changer AI Engine"
     },
     "3223030": {
-      "rank": 4236,
+      "rank": 6953,
       "estimate": "<7k",
       "name": "RUIN: Beast City"
     },
+    "3257150": {
+      "rank": 7990,
+      "estimate": "<7k",
+      "name": "RoboGAL: Gaga Delta Lady"
+    },
     "3461580": {
-      "rank": 4115,
+      "rank": 5670,
       "estimate": "<7k",
       "name": "One More Bang"
     },
-    "3485410": {
-      "rank": 4580,
+    "3574840": {
+      "rank": 4602,
       "estimate": "<7k",
-      "name": "Chef of Sherwood"
+      "name": "My Pet Hooligan"
     },
     "3607300": {
-      "rank": 1809,
-      "estimate": "15k+",
+      "rank": 4786,
+      "estimate": "<7k",
       "name": "Pera Coda"
     },
     "3827740": {
-      "rank": 2505,
-      "estimate": "7k+",
+      "rank": 1775,
+      "estimate": "15k+",
       "name": "Tapestry"
     },
-    "4295960": {
-      "rank": 3372,
+    "3852160": {
+      "rank": 4718,
       "estimate": "<7k",
+      "name": "Baito Fight!!: Part-time Devil Hunter"
+    },
+    "4136430": {
+      "rank": 8972,
+      "estimate": "<7k",
+      "name": "War Pawns"
+    },
+    "4172180": {
+      "rank": 3888,
+      "estimate": "<7k",
+      "name": "Worship Demon"
+    },
+    "4276750": {
+      "rank": 5843,
+      "estimate": "<7k",
+      "name": "Party Club: Hangry Animals"
+    },
+    "4295960": {
+      "rank": 1154,
+      "estimate": "25k+",
       "name": "Manga Club Advisor wants to support Saeki Sasara"
     },
+    "4305030": {
+      "rank": 6287,
+      "estimate": "<7k",
+      "name": "Max Savage"
+    },
     "4327900": {
-      "rank": 1086,
+      "rank": 1041,
       "estimate": "25k+",
       "name": "Space Hauler"
     },
+    "4338180": {
+      "rank": 2675,
+      "estimate": "7k+",
+      "name": "Dearbnb"
+    },
+    "4369850": {
+      "rank": 2372,
+      "estimate": "7k+",
+      "name": "Good Folk Cafe"
+    },
+    "4393200": {
+      "rank": 5906,
+      "estimate": "<7k",
+      "name": "Poop Deck"
+    },
     "4417410": {
-      "rank": 1066,
-      "estimate": "25k+",
+      "rank": 346,
+      "estimate": "80k+",
       "name": "Rush B: Esports Manager"
+    },
+    "4524600": {
+      "rank": 7007,
+      "estimate": "<7k",
+      "name": "Kint"
+    },
+    "4605200": {
+      "rank": 3852,
+      "estimate": "<7k",
+      "name": "Hero of the Kingdom IV"
+    },
+    "4735640": {
+      "rank": 3346,
+      "estimate": "<7k",
+      "name": "Alarm112: Fire Unit"
     }
   }
 }

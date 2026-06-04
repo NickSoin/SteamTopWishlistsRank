@@ -1,60 +1,160 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 10,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 30,
   "entries": {
+    "1041050": {
+      "rank": 7508,
+      "estimate": "<7k",
+      "name": "Tokyo Re:Connect"
+    },
+    "1099510": {
+      "rank": 8826,
+      "estimate": "<7k",
+      "name": "Rap Simulator: The Rap Game"
+    },
     "1593010": {
-      "rank": 469,
-      "estimate": "80k+",
+      "rank": 3590,
+      "estimate": "<7k",
       "name": "The Store is Closed"
     },
     "1607300": {
-      "rank": 3481,
+      "rank": 9482,
       "estimate": "<7k",
       "name": "March March!"
     },
-    "1621890": {
-      "rank": 4643,
-      "estimate": "<7k",
-      "name": "Serial Killer Life"
-    },
     "1913120": {
-      "rank": 87,
-      "estimate": "300k+",
+      "rank": 597,
+      "estimate": "40k+",
       "name": "Tears of Metal",
       "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6339469370178879642"
     },
     "2079920": {
-      "rank": 1814,
+      "rank": 1842,
       "estimate": "15k+",
       "name": "NAME OF THE WILL"
     },
     "2319400": {
-      "rank": 4381,
+      "rank": 9561,
       "estimate": "<7k",
       "name": "Rootown"
     },
     "2491830": {
-      "rank": 1863,
-      "estimate": "15k+",
+      "rank": 4866,
+      "estimate": "<7k",
       "name": "Zero Losses"
     },
-    "2657580": {
-      "rank": 3800,
+    "2947100": {
+      "rank": 7804,
       "estimate": "<7k",
-      "name": "Anterris"
+      "name": "FRAMEWORK: Found Footage"
+    },
+    "3072050": {
+      "rank": 5939,
+      "estimate": "<7k",
+      "name": "Mesektet"
+    },
+    "3619460": {
+      "rank": 6052,
+      "estimate": "<7k",
+      "name": "Otherworld Chronicles"
+    },
+    "3768140": {
+      "rank": 8223,
+      "estimate": "<7k",
+      "name": "SeekOut"
+    },
+    "3776240": {
+      "rank": 9517,
+      "estimate": "<7k",
+      "name": "My Adorable Demon Story"
     },
     "3836490": {
-      "rank": 1378,
-      "estimate": "25k+",
+      "rank": 2753,
+      "estimate": "7k+",
       "name": "Lead The Dragon"
     },
+    "4050260": {
+      "rank": 4008,
+      "estimate": "<7k",
+      "name": "King's Haven"
+    },
+    "4074370": {
+      "rank": 2721,
+      "estimate": "7k+",
+      "name": "Zupay: Shadows of Independence"
+    },
+    "4075830": {
+      "rank": 3892,
+      "estimate": "<7k",
+      "name": "Evocation"
+    },
+    "4122020": {
+      "rank": 7607,
+      "estimate": "<7k",
+      "name": "Brave Saga: Artifact Reborn"
+    },
     "4221910": {
-      "rank": 264,
-      "estimate": "80k+",
+      "rank": 635,
+      "estimate": "40k+",
       "name": "Plague Doctor: Life in Pestilence"
+    },
+    "4242100": {
+      "rank": 8304,
+      "estimate": "<7k",
+      "name": "Major Hoof"
+    },
+    "4248810": {
+      "rank": 9962,
+      "estimate": "<7k",
+      "name": "FocusScape: Lofi Productivity"
+    },
+    "4255030": {
+      "rank": 3985,
+      "estimate": "<7k",
+      "name": "纤维"
+    },
+    "4305160": {
+      "rank": 8536,
+      "estimate": "<7k",
+      "name": "ZHITEN"
+    },
+    "4474330": {
+      "rank": 7796,
+      "estimate": "<7k",
+      "name": "Rotted - A Brain Rot Simulator"
+    },
+    "4487970": {
+      "rank": 8682,
+      "estimate": "<7k",
+      "name": "Don’t Return to Wonderland"
+    },
+    "4516180": {
+      "rank": 7559,
+      "estimate": "<7k",
+      "name": "100 Sherwood Cats"
+    },
+    "4583960": {
+      "rank": 2546,
+      "estimate": "7k+",
+      "name": "Sister Compass: Slow Life Loving with My Sisters on a Deserted Island"
+    },
+    "4617230": {
+      "rank": 4973,
+      "estimate": "<7k",
+      "name": "Retail Rivals"
+    },
+    "4622160": {
+      "rank": 859,
+      "estimate": "40k+",
+      "name": "Arise Dark Lord"
+    },
+    "4677470": {
+      "rank": 8681,
+      "estimate": "<7k",
+      "name": "My First Driving School"
     }
   }
 }

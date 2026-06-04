@@ -1,93 +1,183 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 35,
   "entries": {
     "1447250": {
-      "rank": 516,
-      "estimate": "40k+",
+      "rank": 1665,
+      "estimate": "15k+",
       "name": "Junxions"
     },
     "1468110": {
-      "rank": 1253,
-      "estimate": "25k+",
+      "rank": 5786,
+      "estimate": "<7k",
       "name": "Elements"
     },
     "2071630": {
-      "rank": 2199,
-      "estimate": "7k+",
+      "rank": 769,
+      "estimate": "40k+",
       "name": "ExpressLane"
     },
     "2365920": {
-      "rank": 3516,
+      "rank": 3165,
       "estimate": "<7k",
       "name": "Scarlet Record"
     },
     "2479090": {
-      "rank": 818,
+      "rank": 872,
       "estimate": "40k+",
       "name": "Prelude Dark Pain"
     },
     "2495320": {
-      "rank": 1158,
-      "estimate": "25k+",
+      "rank": 3824,
+      "estimate": "<7k",
       "name": "Monsterpatch"
     },
     "2822740": {
-      "rank": 4012,
-      "estimate": "<7k",
+      "rank": 967,
+      "estimate": "40k+",
       "name": "ONE FENIX DOWN"
     },
-    "2903980": {
-      "rank": 2651,
-      "estimate": "7k+",
-      "name": "Steel Effigy"
-    },
     "2974160": {
-      "rank": 593,
-      "estimate": "40k+",
+      "rank": 2174,
+      "estimate": "7k+",
       "name": "Blighted"
     },
     "3078140": {
-      "rank": 627,
-      "estimate": "40k+",
+      "rank": 2542,
+      "estimate": "7k+",
       "name": "Five Laps at Freddy's"
     },
-    "3144430": {
-      "rank": 3317,
+    "3122690": {
+      "rank": 3034,
       "estimate": "<7k",
+      "name": "Robo Dome"
+    },
+    "3125880": {
+      "rank": 6999,
+      "estimate": "<7k",
+      "name": "Far Realm"
+    },
+    "3144430": {
+      "rank": 1751,
+      "estimate": "15k+",
       "name": "Exovia"
     },
+    "3240620": {
+      "rank": 8052,
+      "estimate": "<7k",
+      "name": "Astoria"
+    },
+    "3252380": {
+      "rank": 7071,
+      "estimate": "<7k",
+      "name": "Git Gud"
+    },
+    "3276250": {
+      "rank": 9960,
+      "estimate": "<7k",
+      "name": "Mato Fragments"
+    },
+    "3293350": {
+      "rank": 9458,
+      "estimate": "<7k",
+      "name": "Dante's 9"
+    },
     "3553250": {
-      "rank": 4369,
+      "rank": 3163,
       "estimate": "<7k",
       "name": "Holey"
     },
     "3603720": {
-      "rank": 3535,
+      "rank": 5297,
       "estimate": "<7k",
       "name": "GCR2 Geoff Crammond"
     },
+    "3617170": {
+      "rank": 9269,
+      "estimate": "<7k",
+      "name": "东方求闻编年史～Ark of Eternal Recollection"
+    },
     "3642910": {
-      "rank": 142,
-      "estimate": "200k+",
+      "rank": 74,
+      "estimate": "300k+",
       "name": "Wyldheart"
     },
     "3664200": {
-      "rank": 3538,
+      "rank": 9707,
       "estimate": "<7k",
       "name": "Unhinged"
     },
+    "3725420": {
+      "rank": 7666,
+      "estimate": "<7k",
+      "name": "Vape Shop Simulator"
+    },
     "3758950": {
-      "rank": 1000,
-      "estimate": "40k+",
+      "rank": 1424,
+      "estimate": "25k+",
       "name": "Death at Fleming Manor"
     },
+    "3760140": {
+      "rank": 4217,
+      "estimate": "<7k",
+      "name": "Nocturnals: Cacti Coast"
+    },
     "3800200": {
-      "rank": 1886,
-      "estimate": "15k+",
+      "rank": 2368,
+      "estimate": "7k+",
       "name": "Ramshackle"
+    },
+    "3906090": {
+      "rank": 3488,
+      "estimate": "<7k",
+      "name": "Where's My Red Ball?"
+    },
+    "4055340": {
+      "rank": 6430,
+      "estimate": "<7k",
+      "name": "Doomed Dwarves"
+    },
+    "4132010": {
+      "rank": 2136,
+      "estimate": "7k+",
+      "name": "Death Pong"
+    },
+    "4302110": {
+      "rank": 8607,
+      "estimate": "<7k",
+      "name": "CHASM SHIFT"
+    },
+    "4371000": {
+      "rank": 8143,
+      "estimate": "<7k",
+      "name": "Place it Gently – Cozy Organizing"
+    },
+    "4454000": {
+      "rank": 9768,
+      "estimate": "<7k",
+      "name": "Desperate Gambling"
+    },
+    "4464380": {
+      "rank": 9529,
+      "estimate": "<7k",
+      "name": "Stellar Fixer"
+    },
+    "4572160": {
+      "rank": 6367,
+      "estimate": "<7k",
+      "name": "Water Margin: Defiance"
+    },
+    "4581030": {
+      "rank": 4577,
+      "estimate": "<7k",
+      "name": "Creepy Shift: Deer Farm"
+    },
+    "4725290": {
+      "rank": 5979,
+      "estimate": "<7k",
+      "name": "Escape Line"
     }
   }
 }

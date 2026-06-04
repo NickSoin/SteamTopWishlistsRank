@@ -1,68 +1,163 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 31,
   "entries": {
-    "526720": {
-      "rank": 2559,
-      "estimate": "7k+",
-      "name": "OFF GRID : Stealth Hacking"
-    },
-    "864930": {
-      "rank": 4407,
-      "estimate": "<7k",
-      "name": "ULTRABUGS"
-    },
-    "1369430": {
-      "rank": 3258,
-      "estimate": "<7k",
-      "name": "The Light of the Darkness: Renascence"
-    },
     "1426870": {
-      "rank": 3648,
+      "rank": 4937,
       "estimate": "<7k",
       "name": "Dune Mechanic : Survive The Steampunk Era"
     },
-    "1870550": {
-      "rank": 4299,
+    "1511790": {
+      "rank": 8991,
       "estimate": "<7k",
-      "name": "Pirate's Den Renovator"
+      "name": "BRUTALIST"
     },
     "2082570": {
-      "rank": 1539,
-      "estimate": "15k+",
+      "rank": 6270,
+      "estimate": "<7k",
       "name": "SCP - Containment Breach Reborn"
     },
     "2165040": {
-      "rank": 1476,
-      "estimate": "25k+",
+      "rank": 8833,
+      "estimate": "<7k",
       "name": "Sally"
     },
+    "2209340": {
+      "rank": 9553,
+      "estimate": "<7k",
+      "name": "Have You Herd?"
+    },
     "2257440": {
-      "rank": 1219,
-      "estimate": "25k+",
+      "rank": 4851,
+      "estimate": "<7k",
       "name": "Tom the postgirl"
     },
+    "2268240": {
+      "rank": 4512,
+      "estimate": "<7k",
+      "name": "The Razorform"
+    },
+    "3223200": {
+      "rank": 8893,
+      "estimate": "<7k",
+      "name": "The Tower to God"
+    },
     "3380990": {
-      "rank": 1824,
-      "estimate": "15k+",
+      "rank": 2446,
+      "estimate": "7k+",
       "name": "Starborn Phoenix Ship"
     },
+    "3502510": {
+      "rank": 7750,
+      "estimate": "<7k",
+      "name": "Moon Drop Miners"
+    },
+    "3729810": {
+      "rank": 8324,
+      "estimate": "<7k",
+      "name": "Yet Another Incremental Game (but this time about coding)"
+    },
+    "3765700": {
+      "rank": 5415,
+      "estimate": "<7k",
+      "name": "Clown Camp"
+    },
     "3787050": {
-      "rank": 574,
-      "estimate": "40k+",
+      "rank": 1243,
+      "estimate": "25k+",
       "name": "It Works: Electronics Repair Simulator"
     },
+    "3852400": {
+      "rank": 8350,
+      "estimate": "<7k",
+      "name": "Dig Deeper"
+    },
+    "3880410": {
+      "rank": 5456,
+      "estimate": "<7k",
+      "name": "Glisynth"
+    },
     "3910140": {
-      "rank": 3815,
+      "rank": 5167,
       "estimate": "<7k",
       "name": "残阳 1645/1937"
     },
+    "4038890": {
+      "rank": 7185,
+      "estimate": "<7k",
+      "name": "Total Destruction"
+    },
+    "4221670": {
+      "rank": 9797,
+      "estimate": "<7k",
+      "name": "S.L.O.P"
+    },
+    "4296290": {
+      "rank": 3692,
+      "estimate": "<7k",
+      "name": "Records of Searching for Gods in Mountains and Seas"
+    },
+    "4306780": {
+      "rank": 6559,
+      "estimate": "<7k",
+      "name": "Integrity"
+    },
+    "4335900": {
+      "rank": 7417,
+      "estimate": "<7k",
+      "name": "Mine Digger"
+    },
+    "4338420": {
+      "rank": 993,
+      "estimate": "40k+",
+      "name": "长乐夜前夕"
+    },
+    "4366980": {
+      "rank": 3990,
+      "estimate": "<7k",
+      "name": "Best Puppy Certificate"
+    },
+    "4420950": {
+      "rank": 9130,
+      "estimate": "<7k",
+      "name": "Farm Manager World - Halloween Pack"
+    },
+    "4446330": {
+      "rank": 3609,
+      "estimate": "<7k",
+      "name": "Iron Expedition"
+    },
+    "4559250": {
+      "rank": 8530,
+      "estimate": "<7k",
+      "name": "Oracle Seal"
+    },
+    "4601470": {
+      "rank": 903,
+      "estimate": "40k+",
+      "name": "Going my way?"
+    },
+    "4605940": {
+      "rank": 7692,
+      "estimate": "<7k",
+      "name": "DEMON'S REIGN"
+    },
     "4703930": {
-      "rank": 2329,
-      "estimate": "7k+",
+      "rank": 141,
+      "estimate": "200k+",
       "name": "Grilluminati"
+    },
+    "4725000": {
+      "rank": 8395,
+      "estimate": "<7k",
+      "name": "MyBiz: Pomodoro Desk Tycoon"
+    },
+    "4778060": {
+      "rank": 7213,
+      "estimate": "<7k",
+      "name": "SCP: Blink"
     }
   }
 }

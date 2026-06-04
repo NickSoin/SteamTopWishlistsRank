@@ -1,58 +1,123 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 10,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 23,
   "entries": {
     "1040240": {
-      "rank": 1703,
-      "estimate": "15k+",
+      "rank": 4134,
+      "estimate": "<7k",
       "name": "Transformice Adventures"
     },
     "1666480": {
-      "rank": 3650,
+      "rank": 4211,
       "estimate": "<7k",
       "name": "Astra: Fading Stars"
     },
     "1749400": {
-      "rank": 2809,
-      "estimate": "7k+",
+      "rank": 9852,
+      "estimate": "<7k",
       "name": "Lendas"
     },
-    "2503230": {
-      "rank": 1612,
+    "2481240": {
+      "rank": 1826,
       "estimate": "15k+",
+      "name": "HavenCraft"
+    },
+    "2503230": {
+      "rank": 6676,
+      "estimate": "<7k",
       "name": "Bogdan's Cross"
     },
+    "2746770": {
+      "rank": 9875,
+      "estimate": "<7k",
+      "name": "Expedition Astra"
+    },
+    "3018720": {
+      "rank": 7759,
+      "estimate": "<7k",
+      "name": "Websy and the Time Rogues"
+    },
     "3126410": {
-      "rank": 164,
-      "estimate": "200k+",
+      "rank": 963,
+      "estimate": "40k+",
       "name": "Expedition: Into Darkness"
+    },
+    "3194590": {
+      "rank": 8529,
+      "estimate": "<7k",
+      "name": "Tickets, Please!"
     },
     "3261450": {
       "rank": 951,
       "estimate": "40k+",
       "name": "Tangerine Antarctic"
     },
+    "3312590": {
+      "rank": 5774,
+      "estimate": "<7k",
+      "name": "Helrift"
+    },
+    "3410030": {
+      "rank": 5719,
+      "estimate": "<7k",
+      "name": "The Hidden Library"
+    },
     "3617990": {
-      "rank": 919,
-      "estimate": "40k+",
+      "rank": 1113,
+      "estimate": "25k+",
       "name": "Star Wrath"
     },
     "3677310": {
-      "rank": 3024,
+      "rank": 4348,
       "estimate": "<7k",
       "name": "Misty Valley: A Cozy Fishing Tale"
     },
     "3700980": {
-      "rank": 2738,
-      "estimate": "7k+",
+      "rank": 5477,
+      "estimate": "<7k",
       "name": "How to Make an Atomic Bomb in Your Garden"
     },
     "3858650": {
-      "rank": 882,
-      "estimate": "40k+",
+      "rank": 276,
+      "estimate": "80k+",
       "name": "Crushed In Time"
+    },
+    "4004630": {
+      "rank": 5031,
+      "estimate": "<7k",
+      "name": "Pizza Syndicate"
+    },
+    "4212280": {
+      "rank": 8800,
+      "estimate": "<7k",
+      "name": "UnderDark: Defense"
+    },
+    "4527520": {
+      "rank": 3286,
+      "estimate": "<7k",
+      "name": "Moral Dilemma: Breaking Character"
+    },
+    "4593710": {
+      "rank": 5959,
+      "estimate": "<7k",
+      "name": "Demon Princess Retreat"
+    },
+    "4673670": {
+      "rank": 7849,
+      "estimate": "<7k",
+      "name": "Bonkrush"
+    },
+    "4684830": {
+      "rank": 4533,
+      "estimate": "<7k",
+      "name": "Wildframe : A Creature Scrapbook"
+    },
+    "4733660": {
+      "rank": 3962,
+      "estimate": "<7k",
+      "name": "KRENDEL"
     }
   }
 }

@@ -1,118 +1,153 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 29,
   "entries": {
-    "1372650": {
-      "rank": 2939,
-      "estimate": "7k+",
-      "name": "DAMN!"
-    },
-    "1454220": {
-      "rank": 3621,
-      "estimate": "<7k",
-      "name": "Reign and Ruin"
-    },
-    "1530690": {
-      "rank": 3030,
-      "estimate": "<7k",
-      "name": "Dirty Cop Simulator"
-    },
     "1601130": {
-      "rank": 2887,
-      "estimate": "7k+",
+      "rank": 8087,
+      "estimate": "<7k",
       "name": "Rot In A Porcelain Dream"
     },
     "1757350": {
-      "rank": 11,
-      "estimate": "800k+",
+      "rank": 6,
+      "estimate": "1.5m+",
       "name": "ILL"
     },
+    "1922240": {
+      "rank": 7505,
+      "estimate": "<7k",
+      "name": "Crane Game - Claw Machine Simulator"
+    },
     "2144500": {
-      "rank": 2186,
-      "estimate": "7k+",
+      "rank": 6755,
+      "estimate": "<7k",
       "name": "Love n War: Warlord by Chance II"
     },
     "2151810": {
-      "rank": 1056,
-      "estimate": "25k+",
+      "rank": 4101,
+      "estimate": "<7k",
       "name": "darkwebSTREAMER"
     },
-    "2177230": {
-      "rank": 3114,
-      "estimate": "<7k",
-      "name": "Total World Liberation"
-    },
-    "2433790": {
-      "rank": 1862,
-      "estimate": "15k+",
-      "name": "Tiny Tires"
-    },
-    "2438180": {
-      "rank": 2397,
-      "estimate": "7k+",
-      "name": "Doggy Don't Care"
-    },
     "2540650": {
-      "rank": 2416,
+      "rank": 2227,
       "estimate": "7k+",
       "name": "Keyframes"
     },
     "2593320": {
-      "rank": 734,
-      "estimate": "40k+",
+      "rank": 1133,
+      "estimate": "25k+",
       "name": "Catechesis"
     },
+    "2594620": {
+      "rank": 4857,
+      "estimate": "<7k",
+      "name": "Figure Drawing Garden"
+    },
+    "2785620": {
+      "rank": 6349,
+      "estimate": "<7k",
+      "name": "Backrooms #999999999"
+    },
     "3075410": {
-      "rank": 1521,
-      "estimate": "15k+",
+      "rank": 3575,
+      "estimate": "<7k",
       "name": "Hand of Fate: Hordes"
     },
     "3151240": {
-      "rank": 3014,
+      "rank": 5073,
       "estimate": "<7k",
       "name": "Hacking The Moon to Find My Goddess"
     },
     "3343920": {
-      "rank": 4123,
-      "estimate": "<7k",
+      "rank": 2461,
+      "estimate": "7k+",
       "name": "My Recycling Center 2"
     },
     "3469420": {
-      "rank": 1248,
-      "estimate": "25k+",
+      "rank": 3371,
+      "estimate": "<7k",
       "name": "Biofactory"
     },
+    "3508260": {
+      "rank": 8731,
+      "estimate": "<7k",
+      "name": "Hex Town"
+    },
+    "3508530": {
+      "rank": 8032,
+      "estimate": "<7k",
+      "name": "Earthlings"
+    },
     "3561320": {
-      "rank": 967,
-      "estimate": "40k+",
+      "rank": 1745,
+      "estimate": "15k+",
       "name": "Open Fortress"
     },
     "3594610": {
-      "rank": 1208,
-      "estimate": "25k+",
+      "rank": 2608,
+      "estimate": "7k+",
       "name": "GET YOKED: Extreme Bodybuilding"
     },
+    "3617250": {
+      "rank": 4331,
+      "estimate": "<7k",
+      "name": "Cursed Apartment"
+    },
     "3715040": {
-      "rank": 2751,
-      "estimate": "7k+",
+      "rank": 798,
+      "estimate": "40k+",
       "name": "DekaDuck"
     },
     "3759400": {
-      "rank": 3279,
+      "rank": 3933,
       "estimate": "<7k",
       "name": "Ten trials of Babel 2: Tower and Aurora"
     },
+    "3821910": {
+      "rank": 8426,
+      "estimate": "<7k",
+      "name": "The Blind Warrior"
+    },
+    "4210300": {
+      "rank": 5650,
+      "estimate": "<7k",
+      "name": "Pawbay"
+    },
     "4302700": {
-      "rank": 1965,
-      "estimate": "15k+",
+      "rank": 815,
+      "estimate": "40k+",
       "name": "Helyana"
     },
     "4452700": {
-      "rank": 1106,
+      "rank": 1480,
       "estimate": "25k+",
       "name": "STAGE TOUR"
+    },
+    "4536370": {
+      "rank": 2563,
+      "estimate": "7k+",
+      "name": "Townspeople"
+    },
+    "4555760": {
+      "rank": 5931,
+      "estimate": "<7k",
+      "name": "Container Hunter Simulator"
+    },
+    "4560870": {
+      "rank": 8888,
+      "estimate": "<7k",
+      "name": "ガッチャ！サバイバー"
+    },
+    "4599470": {
+      "rank": 5862,
+      "estimate": "<7k",
+      "name": "Lost Media Agency"
+    },
+    "4751270": {
+      "rank": 968,
+      "estimate": "40k+",
+      "name": "KUMANO"
     }
   }
 }

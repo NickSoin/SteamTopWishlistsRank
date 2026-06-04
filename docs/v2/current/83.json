@@ -1,117 +1,247 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 48,
   "entries": {
     "1373910": {
-      "rank": 58,
-      "estimate": "300k+",
+      "rank": 462,
+      "estimate": "80k+",
       "name": "Anvil Empires"
     },
     "1576780": {
-      "rank": 1489,
-      "estimate": "25k+",
+      "rank": 2593,
+      "estimate": "7k+",
       "name": "WWII Online: Chokepoint"
     },
     "1586260": {
-      "rank": 65,
-      "estimate": "300k+",
+      "rank": 369,
+      "estimate": "80k+",
       "name": "BLACKFROST: The Long Dark 2"
     },
     "1614330": {
-      "rank": 79,
-      "estimate": "300k+",
+      "rank": 924,
+      "estimate": "40k+",
       "name": "Crowsworn"
     },
     "1661330": {
-      "rank": 243,
-      "estimate": "80k+",
+      "rank": 504,
+      "estimate": "40k+",
       "name": "SacriFire"
     },
-    "1670080": {
-      "rank": 3138,
-      "estimate": "<7k",
-      "name": "Tiny Room Stories: Rift Escape"
-    },
-    "1678350": {
-      "rank": 2228,
-      "estimate": "7k+",
-      "name": "EXOCIDE"
-    },
     "1735880": {
-      "rank": 1555,
-      "estimate": "15k+",
+      "rank": 6427,
+      "estimate": "<7k",
       "name": "Drake Frontier"
     },
     "1949610": {
-      "rank": 2255,
+      "rank": 2309,
       "estimate": "7k+",
       "name": "Luminous Nights"
     },
+    "2417950": {
+      "rank": 8291,
+      "estimate": "<7k",
+      "name": "Astra Noctis"
+    },
     "2500690": {
-      "rank": 3678,
+      "rank": 4939,
       "estimate": "<7k",
       "name": "Dumbriel: Magnificent Adventure in Hell"
     },
+    "3064500": {
+      "rank": 6668,
+      "estimate": "<7k",
+      "name": "DOBA - Dogs Battle Arena"
+    },
     "3176720": {
-      "rank": 3408,
+      "rank": 5009,
       "estimate": "<7k",
       "name": "Royalty Free-For-All"
     },
+    "3404780": {
+      "rank": 9929,
+      "estimate": "<7k",
+      "name": "Metronome"
+    },
     "3449440": {
-      "rank": 3448,
+      "rank": 4456,
       "estimate": "<7k",
       "name": "Bishojo Mangekyo Ibun Snow Woman"
     },
+    "3481840": {
+      "rank": 6074,
+      "estimate": "<7k",
+      "name": "Escape from Planet Pan: Scam Center"
+    },
+    "3687790": {
+      "rank": 6961,
+      "estimate": "<7k",
+      "name": "Deadliest Pigeon"
+    },
+    "3690400": {
+      "rank": 9692,
+      "estimate": "<7k",
+      "name": "Last Term, First Love"
+    },
+    "3724880": {
+      "rank": 4379,
+      "estimate": "<7k",
+      "name": "Battle Boss"
+    },
+    "3810240": {
+      "rank": 2750,
+      "estimate": "7k+",
+      "name": "In Full Bloom"
+    },
+    "3860250": {
+      "rank": 9818,
+      "estimate": "<7k",
+      "name": "Noah Simulator"
+    },
     "3929470": {
-      "rank": 857,
+      "rank": 918,
       "estimate": "40k+",
       "name": "Warhounds"
     },
     "3963670": {
-      "rank": 4678,
-      "estimate": "<7k",
+      "rank": 1522,
+      "estimate": "15k+",
       "name": "Inquisitor Shepherd"
     },
-    "4033680": {
-      "rank": 3986,
+    "3982150": {
+      "rank": 3753,
       "estimate": "<7k",
-      "name": "Escape: Immersion"
+      "name": "Low Level Hunters"
+    },
+    "4028510": {
+      "rank": 7710,
+      "estimate": "<7k",
+      "name": "King's Angel: Otome"
     },
     "4085850": {
-      "rank": 3377,
+      "rank": 3408,
       "estimate": "<7k",
       "name": "Tokyo Outbreak: Zero"
     },
+    "4102540": {
+      "rank": 6907,
+      "estimate": "<7k",
+      "name": "Ultimate Girlfriend Experience"
+    },
+    "4105040": {
+      "rank": 7612,
+      "estimate": "<7k",
+      "name": "Russian Village Business"
+    },
     "4145350": {
-      "rank": 2936,
-      "estimate": "7k+",
+      "rank": 3146,
+      "estimate": "<7k",
       "name": "Alice and the Devil's Prison"
     },
     "4187860": {
-      "rank": 2083,
-      "estimate": "7k+",
+      "rank": 5355,
+      "estimate": "<7k",
       "name": "Sunday Scaries"
     },
     "4203890": {
-      "rank": 1686,
-      "estimate": "15k+",
+      "rank": 4434,
+      "estimate": "<7k",
       "name": "Pirate Panic!"
     },
     "4244770": {
-      "rank": 1417,
-      "estimate": "25k+",
+      "rank": 274,
+      "estimate": "80k+",
       "name": "Midnight Watcher: Village"
     },
+    "4259930": {
+      "rank": 5909,
+      "estimate": "<7k",
+      "name": "Harpooner"
+    },
+    "4288200": {
+      "rank": 7311,
+      "estimate": "<7k",
+      "name": "Scrap Protocol"
+    },
+    "4311520": {
+      "rank": 7890,
+      "estimate": "<7k",
+      "name": "Tennis"
+    },
+    "4334910": {
+      "rank": 1994,
+      "estimate": "15k+",
+      "name": "Craving Wisps"
+    },
+    "4355700": {
+      "rank": 5131,
+      "estimate": "<7k",
+      "name": "Stellaris: Scenario Pack 2"
+    },
+    "4434670": {
+      "rank": 2440,
+      "estimate": "7k+",
+      "name": "Chattini Jetpack Project: A Hololive Fan Game"
+    },
+    "4460460": {
+      "rank": 2437,
+      "estimate": "7k+",
+      "name": "Miniature LAND -Four Seasons-"
+    },
+    "4508230": {
+      "rank": 1538,
+      "estimate": "15k+",
+      "name": "Fallbearers"
+    },
+    "4538080": {
+      "rank": 2729,
+      "estimate": "7k+",
+      "name": "Kingdom Inc."
+    },
+    "4539450": {
+      "rank": 7052,
+      "estimate": "<7k",
+      "name": "足球大玩家"
+    },
+    "4566010": {
+      "rank": 4033,
+      "estimate": "<7k",
+      "name": "Red Echoes: Berlin"
+    },
+    "4570530": {
+      "rank": 2255,
+      "estimate": "7k+",
+      "name": "TTT Classic"
+    },
+    "4584160": {
+      "rank": 5393,
+      "estimate": "<7k",
+      "name": "Deck of Potential"
+    },
+    "4600680": {
+      "rank": 7539,
+      "estimate": "<7k",
+      "name": "Eternal Hatred"
+    },
+    "4604200": {
+      "rank": 9948,
+      "estimate": "<7k",
+      "name": "Haedong Bisa: Secret Records of the East"
+    },
+    "4639370": {
+      "rank": 7846,
+      "estimate": "<7k",
+      "name": "Mobile Front"
+    },
     "4669960": {
-      "rank": 1426,
-      "estimate": "25k+",
+      "rank": 70,
+      "estimate": "300k+",
       "name": "Dungeon Lurker"
     },
     "4678470": {
-      "rank": 1960,
-      "estimate": "15k+",
+      "rank": 123,
+      "estimate": "200k+",
       "name": "The Magician's Hand"
     }
   }

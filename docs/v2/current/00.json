@@ -1,93 +1,203 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 39,
   "entries": {
     "1252070": {
-      "rank": 1137,
-      "estimate": "25k+",
+      "rank": 1812,
+      "estimate": "15k+",
       "name": "STARHOME"
     },
-    "1264620": {
-      "rank": 2632,
-      "estimate": "7k+",
-      "name": "Lucen"
-    },
     "1580740": {
-      "rank": 2890,
-      "estimate": "7k+",
+      "rank": 7160,
+      "estimate": "<7k",
       "name": "SHIBUYA SUSHI MASTER"
     },
     "1815150": {
-      "rank": 903,
-      "estimate": "40k+",
+      "rank": 1791,
+      "estimate": "15k+",
       "name": "NIGHT OF THE CONSUMERS"
     },
     "2425200": {
-      "rank": 1860,
-      "estimate": "15k+",
+      "rank": 4489,
+      "estimate": "<7k",
       "name": "HARUKA: Beyond the Stars"
     },
     "2527160": {
-      "rank": 925,
-      "estimate": "40k+",
+      "rank": 1325,
+      "estimate": "25k+",
       "name": "Desktop Explorer"
     },
     "2620450": {
-      "rank": 1053,
-      "estimate": "25k+",
+      "rank": 3053,
+      "estimate": "<7k",
       "name": "Highreach"
     },
+    "2645730": {
+      "rank": 9909,
+      "estimate": "<7k",
+      "name": "Death By Misstep"
+    },
+    "2669710": {
+      "rank": 6146,
+      "estimate": "<7k",
+      "name": "Tearoom of Terror"
+    },
+    "2761160": {
+      "rank": 9092,
+      "estimate": "<7k",
+      "name": "2007"
+    },
     "2875410": {
-      "rank": 4637,
+      "rank": 3854,
       "estimate": "<7k",
       "name": "Pinnacle Point"
     },
     "3002130": {
-      "rank": 3596,
-      "estimate": "<7k",
+      "rank": 241,
+      "estimate": "80k+",
       "name": "Theos: Cities Of Myth"
     },
     "3010270": {
-      "rank": 363,
-      "estimate": "80k+",
+      "rank": 12,
+      "estimate": "800k+",
       "name": "Warhammer 40,000: Chaos Gate – Deathwatch"
     },
+    "3098340": {
+      "rank": 9877,
+      "estimate": "<7k",
+      "name": "Shadow of the Matrix"
+    },
+    "3159560": {
+      "rank": 9234,
+      "estimate": "<7k",
+      "name": "Meow Cafe: Perfect Match"
+    },
+    "3325330": {
+      "rank": 9282,
+      "estimate": "<7k",
+      "name": "Eionis"
+    },
+    "3364720": {
+      "rank": 2139,
+      "estimate": "7k+",
+      "name": "Rich Flavors"
+    },
+    "3365680": {
+      "rank": 7578,
+      "estimate": "<7k",
+      "name": "NONEWORLD"
+    },
     "3445250": {
-      "rank": 759,
-      "estimate": "40k+",
+      "rank": 3486,
+      "estimate": "<7k",
       "name": "Daydream"
     },
+    "3539360": {
+      "rank": 6553,
+      "estimate": "<7k",
+      "name": "Full Gear Mong Kok"
+    },
     "3555780": {
-      "rank": 1552,
-      "estimate": "15k+",
+      "rank": 816,
+      "estimate": "40k+",
       "name": "Bookbinding – Dark Cozy Sim"
     },
+    "3667380": {
+      "rank": 3047,
+      "estimate": "<7k",
+      "name": "LAG KILLS"
+    },
+    "3711100": {
+      "rank": 8923,
+      "estimate": "<7k",
+      "name": "Depth of Mind"
+    },
     "3714280": {
-      "rank": 2449,
+      "rank": 2457,
       "estimate": "7k+",
       "name": "FLASK"
     },
-    "3842660": {
-      "rank": 4526,
+    "3756930": {
+      "rank": 5426,
       "estimate": "<7k",
+      "name": "Sweet Clockwork"
+    },
+    "3828970": {
+      "rank": 7232,
+      "estimate": "<7k",
+      "name": "Manic Pixie Dreamgirls"
+    },
+    "3842660": {
+      "rank": 850,
+      "estimate": "40k+",
       "name": "XX Fulfillment Center"
     },
+    "3850230": {
+      "rank": 4620,
+      "estimate": "<7k",
+      "name": "99Day Survival Guide"
+    },
+    "4045600": {
+      "rank": 6839,
+      "estimate": "<7k",
+      "name": "L'Agence - The Hearts of Paris"
+    },
     "4134650": {
-      "rank": 1977,
+      "rank": 1504,
       "estimate": "15k+",
       "name": "Bones and Coins"
     },
+    "4241170": {
+      "rank": 9733,
+      "estimate": "<7k",
+      "name": "The Herzbury Curse"
+    },
+    "4270530": {
+      "rank": 7558,
+      "estimate": "<7k",
+      "name": "Heart Cage Soundtrack"
+    },
     "4413070": {
-      "rank": 1592,
-      "estimate": "15k+",
+      "rank": 864,
+      "estimate": "40k+",
       "name": "Red Chat Ritual – TSUMIMI TIME"
     },
     "4430020": {
-      "rank": 838,
-      "estimate": "40k+",
+      "rank": 357,
+      "estimate": "80k+",
       "name": "Hamsteria"
+    },
+    "4453830": {
+      "rank": 6069,
+      "estimate": "<7k",
+      "name": "Channel 453"
+    },
+    "4475470": {
+      "rank": 9520,
+      "estimate": "<7k",
+      "name": "Holey Ship"
+    },
+    "4478640": {
+      "rank": 3227,
+      "estimate": "<7k",
+      "name": "Backpack Dungeon"
+    },
+    "4485020": {
+      "rank": 1165,
+      "estimate": "25k+",
+      "name": "The Crimson Hunt"
+    },
+    "4545940": {
+      "rank": 2652,
+      "estimate": "7k+",
+      "name": "Beencremental"
+    },
+    "4641260": {
+      "rank": 8370,
+      "estimate": "<7k",
+      "name": "All Night Ascension"
     }
   }
 }

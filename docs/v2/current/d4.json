@@ -1,103 +1,203 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 39,
   "entries": {
     "1171340": {
-      "rank": 1832,
-      "estimate": "15k+",
+      "rank": 5654,
+      "estimate": "<7k",
       "name": "A.I.M. War Protocol"
     },
-    "1535520": {
-      "rank": 1915,
-      "estimate": "15k+",
-      "name": "CyberTown"
-    },
-    "1888880": {
-      "rank": 3932,
+    "1526890": {
+      "rank": 4390,
       "estimate": "<7k",
-      "name": "Darkest Abyss"
+      "name": "Valiant Saga"
+    },
+    "2025420": {
+      "rank": 9889,
+      "estimate": "<7k",
+      "name": "Meet Cute: Beach 🐾"
     },
     "2177510": {
-      "rank": 306,
-      "estimate": "80k+",
+      "rank": 1608,
+      "estimate": "15k+",
       "name": "EthrA"
     },
     "2415500": {
-      "rank": 1091,
-      "estimate": "25k+",
+      "rank": 3834,
+      "estimate": "<7k",
       "name": "Black Finger JET"
     },
     "2478130": {
-      "rank": 1376,
-      "estimate": "25k+",
+      "rank": 5953,
+      "estimate": "<7k",
       "name": "PROJECT SURVIVAL #Working title"
     },
+    "2540620": {
+      "rank": 9897,
+      "estimate": "<7k",
+      "name": "Astro"
+    },
     "2548880": {
-      "rank": 830,
-      "estimate": "40k+",
+      "rank": 2482,
+      "estimate": "7k+",
       "name": "Divine Frequency"
     },
     "2845310": {
-      "rank": 2042,
-      "estimate": "7k+",
+      "rank": 3909,
+      "estimate": "<7k",
       "name": "Hoodies Squad: Alcoholypse"
     },
     "2881620": {
-      "rank": 1798,
-      "estimate": "15k+",
+      "rank": 4407,
+      "estimate": "<7k",
       "name": "Paraside: Duality Unbound"
     },
+    "3075460": {
+      "rank": 8584,
+      "estimate": "<7k",
+      "name": "Thrift Store Simulator"
+    },
     "3113580": {
-      "rank": 1179,
-      "estimate": "25k+",
+      "rank": 638,
+      "estimate": "40k+",
       "name": "Kaido Genkai: An Anime Racing RPG"
     },
     "3123060": {
-      "rank": 1473,
+      "rank": 1196,
       "estimate": "25k+",
       "name": "Warlord: Awaji"
     },
+    "3265900": {
+      "rank": 8358,
+      "estimate": "<7k",
+      "name": "Electronics Repair Shop"
+    },
     "3387240": {
-      "rank": 2548,
+      "rank": 2247,
       "estimate": "7k+",
       "name": "My Fairy Princess"
     },
     "3428350": {
-      "rank": 4462,
+      "rank": 3966,
       "estimate": "<7k",
       "name": "Airport Police Simulator"
     },
     "3438610": {
-      "rank": 3305,
-      "estimate": "<7k",
+      "rank": 1364,
+      "estimate": "25k+",
       "name": "Mach Speed Intercept"
     },
     "3446130": {
-      "rank": 3300,
+      "rank": 4753,
       "estimate": "<7k",
       "name": "Windwoven"
     },
+    "3554390": {
+      "rank": 4262,
+      "estimate": "<7k",
+      "name": "Shadow of Backrooms"
+    },
+    "3602240": {
+      "rank": 8002,
+      "estimate": "<7k",
+      "name": "Prime World Legends"
+    },
     "3713920": {
-      "rank": 3917,
+      "rank": 3245,
       "estimate": "<7k",
       "name": "Drug Dealer Schedule"
     },
+    "3738310": {
+      "rank": 6060,
+      "estimate": "<7k",
+      "name": "My Wife is a Spy?!"
+    },
+    "3836120": {
+      "rank": 1354,
+      "estimate": "25k+",
+      "name": "Land of Glarefall"
+    },
     "3979580": {
-      "rank": 2123,
+      "rank": 2731,
       "estimate": "7k+",
       "name": "ARBITER 131"
     },
     "4132890": {
-      "rank": 3184,
-      "estimate": "<7k",
+      "rank": 1583,
+      "estimate": "15k+",
       "name": "Fright Train"
     },
+    "4210370": {
+      "rank": 3234,
+      "estimate": "<7k",
+      "name": "Guardians Planetfall"
+    },
+    "4225020": {
+      "rank": 4332,
+      "estimate": "<7k",
+      "name": "SILVARN"
+    },
     "4312850": {
-      "rank": 1701,
-      "estimate": "15k+",
+      "rank": 472,
+      "estimate": "80k+",
       "name": "FISH"
+    },
+    "4335620": {
+      "rank": 4575,
+      "estimate": "<7k",
+      "name": "Lootborne"
+    },
+    "4362480": {
+      "rank": 1064,
+      "estimate": "25k+",
+      "name": "Castle Away"
+    },
+    "4365180": {
+      "rank": 3664,
+      "estimate": "<7k",
+      "name": "DEATH A LIVE"
+    },
+    "4415050": {
+      "rank": 3754,
+      "estimate": "<7k",
+      "name": "The Tram"
+    },
+    "4469040": {
+      "rank": 9976,
+      "estimate": "<7k",
+      "name": "Catollector"
+    },
+    "4549610": {
+      "rank": 2278,
+      "estimate": "7k+",
+      "name": "Three Kingdoms : Alias"
+    },
+    "4555040": {
+      "rank": 1501,
+      "estimate": "15k+",
+      "name": "Sushiamo"
+    },
+    "4561890": {
+      "rank": 8675,
+      "estimate": "<7k",
+      "name": "Pastry Pile Up"
+    },
+    "4673140": {
+      "rank": 1565,
+      "estimate": "15k+",
+      "name": "67 Minutes in Heaven"
+    },
+    "4706060": {
+      "rank": 4804,
+      "estimate": "<7k",
+      "name": "Peer Pressure"
+    },
+    "4712960": {
+      "rank": 7103,
+      "estimate": "<7k",
+      "name": "Rosebound"
     }
   }
 }

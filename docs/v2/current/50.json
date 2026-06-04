@@ -1,103 +1,258 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 50,
   "entries": {
-    "968770": {
-      "rank": 4368,
-      "estimate": "<7k",
-      "name": "Iron Vulture"
-    },
     "1188410": {
-      "rank": 2213,
-      "estimate": "7k+",
+      "rank": 655,
+      "estimate": "40k+",
       "name": "Mouseward"
     },
+    "1231680": {
+      "rank": 3018,
+      "estimate": "<7k",
+      "name": "The Magical Quest of Molly The Marble"
+    },
     "1670650": {
-      "rank": 174,
-      "estimate": "200k+",
+      "rank": 1046,
+      "estimate": "25k+",
       "name": "Espiocracy"
     },
     "1826400": {
-      "rank": 2829,
-      "estimate": "7k+",
+      "rank": 6446,
+      "estimate": "<7k",
       "name": "CRAVE"
     },
     "1891280": {
-      "rank": 440,
-      "estimate": "80k+",
+      "rank": 1962,
+      "estimate": "15k+",
       "name": "Everbloom"
     },
     "2184080": {
-      "rank": 2354,
+      "rank": 2539,
       "estimate": "7k+",
       "name": "Echo Weaver"
     },
+    "2298660": {
+      "rank": 5339,
+      "estimate": "<7k",
+      "name": "Fallen Symphony"
+    },
     "2326200": {
-      "rank": 341,
-      "estimate": "80k+",
+      "rank": 1723,
+      "estimate": "15k+",
       "name": "NEO BERLIN 2087"
     },
     "2340460": {
-      "rank": 1049,
-      "estimate": "25k+",
+      "rank": 6395,
+      "estimate": "<7k",
       "name": "ONE WAY HOME"
     },
     "2387740": {
-      "rank": 3173,
-      "estimate": "<7k",
+      "rank": 1947,
+      "estimate": "15k+",
       "name": "Light of Atlantis"
     },
     "2459030": {
-      "rank": 1368,
-      "estimate": "25k+",
+      "rank": 2434,
+      "estimate": "7k+",
       "name": "Locator"
     },
     "2536140": {
-      "rank": 2723,
-      "estimate": "7k+",
+      "rank": 1449,
+      "estimate": "25k+",
       "name": "Red Dust Colony"
     },
+    "2747810": {
+      "rank": 5197,
+      "estimate": "<7k",
+      "name": "Heartsworn Abyss"
+    },
+    "2775200": {
+      "rank": 3367,
+      "estimate": "<7k",
+      "name": "Vermilion Arcade - Horror Collection"
+    },
     "2842720": {
-      "rank": 3112,
+      "rank": 4690,
       "estimate": "<7k",
       "name": "TOONSOULS"
     },
     "2894990": {
-      "rank": 2527,
-      "estimate": "7k+",
+      "rank": 5728,
+      "estimate": "<7k",
       "name": "Trizna"
     },
     "3138060": {
-      "rank": 4275,
+      "rank": 4300,
       "estimate": "<7k",
       "name": "Esport Manager: Road To Major"
     },
     "3230960": {
-      "rank": 139,
-      "estimate": "200k+",
+      "rank": 293,
+      "estimate": "80k+",
       "name": "EXODUS"
     },
+    "3321020": {
+      "rank": 6700,
+      "estimate": "<7k",
+      "name": "Fluff'n'Roll"
+    },
     "3345260": {
-      "rank": 2052,
-      "estimate": "7k+",
+      "rank": 1623,
+      "estimate": "15k+",
       "name": "Empire in Decay"
     },
     "3509420": {
-      "rank": 369,
-      "estimate": "80k+",
+      "rank": 980,
+      "estimate": "40k+",
       "name": "Planetbase 2"
     },
+    "3722340": {
+      "rank": 5706,
+      "estimate": "<7k",
+      "name": "Isle of Finbari"
+    },
+    "3733250": {
+      "rank": 4354,
+      "estimate": "<7k",
+      "name": "Where the Chips Fall"
+    },
+    "3795320": {
+      "rank": 4741,
+      "estimate": "<7k",
+      "name": "PRSI"
+    },
+    "3876490": {
+      "rank": 3056,
+      "estimate": "<7k",
+      "name": "No Wings Required"
+    },
+    "3918930": {
+      "rank": 9912,
+      "estimate": "<7k",
+      "name": "Foreverthorn"
+    },
     "3973160": {
-      "rank": 1495,
-      "estimate": "25k+",
+      "rank": 2200,
+      "estimate": "7k+",
       "name": "Crimson Freedom"
     },
-    "4406740": {
-      "rank": 3303,
+    "3986630": {
+      "rank": 6534,
       "estimate": "<7k",
+      "name": "Fur and Fury: Bunny Seeks Revenge"
+    },
+    "4117730": {
+      "rank": 3033,
+      "estimate": "<7k",
+      "name": "Slayblade"
+    },
+    "4159000": {
+      "rank": 3465,
+      "estimate": "<7k",
+      "name": "BunnyBakery"
+    },
+    "4168440": {
+      "rank": 6878,
+      "estimate": "<7k",
+      "name": "Petrichor"
+    },
+    "4182440": {
+      "rank": 6552,
+      "estimate": "<7k",
+      "name": "Little Frontier"
+    },
+    "4230750": {
+      "rank": 4915,
+      "estimate": "<7k",
+      "name": "Alea"
+    },
+    "4246180": {
+      "rank": 8191,
+      "estimate": "<7k",
+      "name": "Overbit"
+    },
+    "4292970": {
+      "rank": 8911,
+      "estimate": "<7k",
+      "name": "SURA: Blade of Eternity"
+    },
+    "4359910": {
+      "rank": 8512,
+      "estimate": "<7k",
+      "name": "Card Maker Simulator"
+    },
+    "4365940": {
+      "rank": 1728,
+      "estimate": "15k+",
+      "name": "SCP"
+    },
+    "4394140": {
+      "rank": 8099,
+      "estimate": "<7k",
+      "name": "One Late Night: Remake"
+    },
+    "4406740": {
+      "rank": 877,
+      "estimate": "40k+",
       "name": "Clayton & Cayo"
+    },
+    "4486230": {
+      "rank": 8683,
+      "estimate": "<7k",
+      "name": "Dig n Fight"
+    },
+    "4522150": {
+      "rank": 6597,
+      "estimate": "<7k",
+      "name": "Crazy Caveman"
+    },
+    "4558120": {
+      "rank": 4076,
+      "estimate": "<7k",
+      "name": "Dust Bunny"
+    },
+    "4587010": {
+      "rank": 4263,
+      "estimate": "<7k",
+      "name": "Beggar's Road"
+    },
+    "4589320": {
+      "rank": 5451,
+      "estimate": "<7k",
+      "name": "Liminal Blue"
+    },
+    "4616840": {
+      "rank": 3430,
+      "estimate": "<7k",
+      "name": "Desk Space: Idle Spacefleet clicker"
+    },
+    "4639490": {
+      "rank": 5342,
+      "estimate": "<7k",
+      "name": "Custom Corner"
+    },
+    "4663310": {
+      "rank": 3616,
+      "estimate": "<7k",
+      "name": "Sea Runs Red"
+    },
+    "4671380": {
+      "rank": 2817,
+      "estimate": "7k+",
+      "name": "Scapewatch: Idle MMO"
+    },
+    "4677140": {
+      "rank": 523,
+      "estimate": "40k+",
+      "name": "RAGNAROK PROJECT"
+    },
+    "4766080": {
+      "rank": 6740,
+      "estimate": "<7k",
+      "name": "Stay: Ember's Desktop Adventures"
     }
   }
 }

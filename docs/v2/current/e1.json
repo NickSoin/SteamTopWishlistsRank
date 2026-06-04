@@ -1,152 +1,257 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 49,
   "entries": {
     "1896310": {
-      "rank": 2023,
-      "estimate": "7k+",
+      "rank": 7653,
+      "estimate": "<7k",
       "name": "Backrooms of Reality"
     },
     "1902860": {
-      "rank": 1411,
+      "rank": 1336,
       "estimate": "25k+",
       "name": "Light Odyssey"
     },
+    "2155320": {
+      "rank": 7641,
+      "estimate": "<7k",
+      "name": "BlackThorne Keep"
+    },
     "2223980": {
-      "rank": 821,
-      "estimate": "40k+",
+      "rank": 395,
+      "estimate": "80k+",
       "name": "Nomad Drive"
     },
     "2231020": {
-      "rank": 45,
-      "estimate": "600k+",
+      "rank": 157,
+      "estimate": "200k+",
       "name": "Chronicles: Medieval",
       "actualWishlists": 200000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289721820"
     },
     "2315050": {
-      "rank": 207,
+      "rank": 212,
       "estimate": "80k+",
       "name": "We Were Here Tomorrow"
     },
     "2324410": {
-      "rank": 1910,
-      "estimate": "15k+",
+      "rank": 6386,
+      "estimate": "<7k",
       "name": "Summerhill"
     },
-    "2371430": {
-      "rank": 2229,
-      "estimate": "7k+",
-      "name": "Lavrock：Last Fortress"
-    },
     "2412960": {
-      "rank": 149,
-      "estimate": "200k+",
+      "rank": 542,
+      "estimate": "40k+",
       "name": "Breathedge 2",
       "actualWishlists": 250000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1795283637818382"
     },
     "2649320": {
-      "rank": 2797,
-      "estimate": "7k+",
+      "rank": 6789,
+      "estimate": "<7k",
       "name": "Shuffle Waifu Cafe"
     },
     "2887580": {
-      "rank": 88,
-      "estimate": "300k+",
+      "rank": 159,
+      "estimate": "200k+",
       "name": "Active Matter"
     },
     "2920940": {
-      "rank": 4661,
+      "rank": 3556,
       "estimate": "<7k",
       "name": "SYNTAXIA"
     },
     "2945040": {
-      "rank": 1510,
-      "estimate": "15k+",
+      "rank": 743,
+      "estimate": "40k+",
       "name": "Shot One Fighters"
     },
+    "3096460": {
+      "rank": 2618,
+      "estimate": "7k+",
+      "name": "Flame, Forest & Flood"
+    },
     "3179370": {
-      "rank": 1925,
-      "estimate": "15k+",
+      "rank": 1222,
+      "estimate": "25k+",
       "name": "Ephemeris"
     },
-    "3254200": {
-      "rank": 2876,
-      "estimate": "7k+",
-      "name": "Xerxes Shadow"
+    "3187960": {
+      "rank": 5663,
+      "estimate": "<7k",
+      "name": "METACRAFT: Arena"
+    },
+    "3210640": {
+      "rank": 8246,
+      "estimate": "<7k",
+      "name": "Blessed with Death"
     },
     "3260830": {
-      "rank": 2737,
+      "rank": 2478,
       "estimate": "7k+",
       "name": "A Tiny Wander"
     },
+    "3352560": {
+      "rank": 9315,
+      "estimate": "<7k",
+      "name": "Night in Delirium"
+    },
+    "3388080": {
+      "rank": 8964,
+      "estimate": "<7k",
+      "name": "Crack In The Dark"
+    },
     "3441990": {
-      "rank": 1374,
-      "estimate": "25k+",
+      "rank": 3568,
+      "estimate": "<7k",
       "name": "Withering Realms"
     },
+    "3554960": {
+      "rank": 4587,
+      "estimate": "<7k",
+      "name": "Wish for Eternity"
+    },
     "3561740": {
-      "rank": 3390,
+      "rank": 3435,
       "estimate": "<7k",
       "name": "Detective Sherlock: Shadow Stalker"
     },
+    "3700350": {
+      "rank": 4905,
+      "estimate": "<7k",
+      "name": "Kokuhaku Confessional"
+    },
     "3714430": {
-      "rank": 3543,
+      "rank": 4752,
       "estimate": "<7k",
       "name": "SURANGAMA"
     },
     "3715770": {
-      "rank": 1627,
-      "estimate": "15k+",
+      "rank": 588,
+      "estimate": "40k+",
       "name": "Oh! Robot: Legendary Mechanic"
     },
     "3808690": {
-      "rank": 725,
+      "rank": 687,
       "estimate": "40k+",
       "name": "Pathogenic"
     },
+    "3841420": {
+      "rank": 5163,
+      "estimate": "<7k",
+      "name": "TOYA"
+    },
     "3859630": {
-      "rank": 211,
+      "rank": 222,
       "estimate": "80k+",
       "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.2"
     },
-    "4062420": {
-      "rank": 3581,
+    "3897830": {
+      "rank": 7948,
       "estimate": "<7k",
+      "name": "Frog Knight"
+    },
+    "3966110": {
+      "rank": 9235,
+      "estimate": "<7k",
+      "name": "ΔV: Rings of Saturn - Asteroid Opera"
+    },
+    "4062420": {
+      "rank": 1069,
+      "estimate": "25k+",
       "name": "Pill After Pill"
     },
+    "4069670": {
+      "rank": 4837,
+      "estimate": "<7k",
+      "name": "Spooky Fun Park"
+    },
     "4093640": {
-      "rank": 1707,
-      "estimate": "15k+",
+      "rank": 152,
+      "estimate": "200k+",
       "name": "Psych Rift"
     },
     "4137270": {
-      "rank": 2246,
-      "estimate": "7k+",
+      "rank": 1956,
+      "estimate": "15k+",
       "name": "RV"
     },
     "4138590": {
-      "rank": 2843,
-      "estimate": "7k+",
+      "rank": 779,
+      "estimate": "40k+",
       "name": "Gospel of Steel"
     },
+    "4158880": {
+      "rank": 2026,
+      "estimate": "7k+",
+      "name": "ZEROSEGI"
+    },
+    "4178200": {
+      "rank": 1199,
+      "estimate": "25k+",
+      "name": "V.A.U.L.T. PROTOCOL"
+    },
     "4228190": {
-      "rank": 3738,
-      "estimate": "<7k",
+      "rank": 997,
+      "estimate": "40k+",
       "name": "Spooky Tales"
     },
+    "4298650": {
+      "rank": 6833,
+      "estimate": "<7k",
+      "name": "Shothop"
+    },
+    "4332200": {
+      "rank": 5541,
+      "estimate": "<7k",
+      "name": "King’s Well"
+    },
+    "4368140": {
+      "rank": 9106,
+      "estimate": "<7k",
+      "name": "Boing Boing Bros"
+    },
     "4380740": {
-      "rank": 2055,
-      "estimate": "7k+",
+      "rank": 734,
+      "estimate": "40k+",
       "name": "Butcher Shop Simulator"
     },
     "4421670": {
-      "rank": 2269,
-      "estimate": "7k+",
+      "rank": 724,
+      "estimate": "40k+",
       "name": "The Kingsward"
+    },
+    "4434980": {
+      "rank": 6928,
+      "estimate": "<7k",
+      "name": "Don't Wake the Queen"
+    },
+    "4491130": {
+      "rank": 3969,
+      "estimate": "<7k",
+      "name": "Kings Call 2"
+    },
+    "4503040": {
+      "rank": 3211,
+      "estimate": "<7k",
+      "name": "The Fancy Pants Adventures Online"
+    },
+    "4593360": {
+      "rank": 6926,
+      "estimate": "<7k",
+      "name": "Yunyun Syndrome!? Rhythm Psychosis -All Songs Unlock (Base Game)"
+    },
+    "4628420": {
+      "rank": 7771,
+      "estimate": "<7k",
+      "name": "South of the March"
+    },
+    "4741530": {
+      "rank": 6037,
+      "estimate": "<7k",
+      "name": "BIOTONE."
     }
   }
 }

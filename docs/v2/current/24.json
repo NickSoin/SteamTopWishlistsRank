@@ -1,100 +1,175 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 33,
   "entries": {
     "951770": {
-      "rank": 399,
+      "rank": 229,
       "estimate": "80k+",
       "name": "Forsaken Realms: Vahrin's Call",
       "actualWishlists": 10000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4038025325473072318"
     },
-    "1143910": {
-      "rank": 2501,
-      "estimate": "7k+",
-      "name": "DeathTower"
-    },
     "1730460": {
-      "rank": 2245,
-      "estimate": "7k+",
+      "rank": 6001,
+      "estimate": "<7k",
       "name": "Nainai’s Recipe"
     },
     "1736220": {
-      "rank": 1174,
-      "estimate": "25k+",
+      "rank": 3065,
+      "estimate": "<7k",
       "name": "Might of Merchants"
     },
-    "1784650": {
-      "rank": 2327,
-      "estimate": "7k+",
-      "name": "BOSS FIGHTERS"
-    },
-    "1916800": {
-      "rank": 2758,
-      "estimate": "7k+",
-      "name": "More Ore - The Incremental Idle RPG"
-    },
     "1977100": {
-      "rank": 4193,
+      "rank": 5903,
       "estimate": "<7k",
       "name": "Timeless Heart VR"
     },
-    "2344680": {
-      "rank": 3210,
+    "2086690": {
+      "rank": 8870,
       "estimate": "<7k",
-      "name": "Super VHS"
+      "name": "Enoch"
     },
     "2390780": {
-      "rank": 3233,
+      "rank": 5516,
       "estimate": "<7k",
       "name": "1984"
     },
     "2559370": {
-      "rank": 482,
-      "estimate": "80k+",
+      "rank": 1804,
+      "estimate": "15k+",
       "name": "The Scramble Vice"
     },
+    "2713680": {
+      "rank": 8435,
+      "estimate": "<7k",
+      "name": "REVENGE CRYSTAL"
+    },
+    "3064880": {
+      "rank": 8735,
+      "estimate": "<7k",
+      "name": "Codebreakers VR"
+    },
     "3072120": {
-      "rank": 1639,
-      "estimate": "15k+",
+      "rank": 324,
+      "estimate": "80k+",
       "name": "Backrooms Lost Runners"
     },
+    "3166070": {
+      "rank": 8745,
+      "estimate": "<7k",
+      "name": "Passive Hero: Save the World in 100 Days!"
+    },
     "3235570": {
-      "rank": 4672,
+      "rank": 4895,
       "estimate": "<7k",
       "name": "How Was Your Day?"
     },
     "3253930": {
-      "rank": 2931,
-      "estimate": "7k+",
+      "rank": 1651,
+      "estimate": "15k+",
       "name": "Rhythm Hotel"
     },
     "3312130": {
-      "rank": 1342,
+      "rank": 1338,
       "estimate": "25k+",
       "name": "Factory Town 2: Paradise"
     },
+    "3382690": {
+      "rank": 6670,
+      "estimate": "<7k",
+      "name": "Cross the C"
+    },
+    "3414890": {
+      "rank": 9310,
+      "estimate": "<7k",
+      "name": "Road Island Adventure"
+    },
+    "3604040": {
+      "rank": 2876,
+      "estimate": "7k+",
+      "name": "Occult Trap"
+    },
     "3629430": {
-      "rank": 182,
-      "estimate": "200k+",
+      "rank": 40,
+      "estimate": "600k+",
       "name": "DREADMOOR"
     },
-    "3722090": {
-      "rank": 2455,
-      "estimate": "7k+",
-      "name": "Parasensor"
+    "3652920": {
+      "rank": 7778,
+      "estimate": "<7k",
+      "name": "Netherwake"
     },
     "3772190": {
-      "rank": 1526,
+      "rank": 1875,
       "estimate": "15k+",
       "name": "HALLOW BLADE"
     },
-    "4362170": {
-      "rank": 4418,
+    "3958390": {
+      "rank": 5384,
       "estimate": "<7k",
+      "name": "Project: Haste"
+    },
+    "4299210": {
+      "rank": 6662,
+      "estimate": "<7k",
+      "name": "Chibi Knight Classic"
+    },
+    "4329290": {
+      "rank": 9534,
+      "estimate": "<7k",
+      "name": "The Grimwood Hex"
+    },
+    "4354320": {
+      "rank": 9849,
+      "estimate": "<7k",
+      "name": "Crime Empire Idle"
+    },
+    "4362170": {
+      "rank": 1856,
+      "estimate": "15k+",
       "name": "Feed The Forest"
+    },
+    "4511350": {
+      "rank": 9393,
+      "estimate": "<7k",
+      "name": "GOBLINS! GOBLINS! GOBLINS!"
+    },
+    "4521410": {
+      "rank": 8259,
+      "estimate": "<7k",
+      "name": "Between the Shelves"
+    },
+    "4559930": {
+      "rank": 4931,
+      "estimate": "<7k",
+      "name": "Oboro no Ichi"
+    },
+    "4674310": {
+      "rank": 4990,
+      "estimate": "<7k",
+      "name": "Airport Mania: First Flight"
+    },
+    "4703900": {
+      "rank": 9671,
+      "estimate": "<7k",
+      "name": "Risk The Crown"
+    },
+    "4729250": {
+      "rank": 6750,
+      "estimate": "<7k",
+      "name": "Airline Founder"
+    },
+    "4740400": {
+      "rank": 9693,
+      "estimate": "<7k",
+      "name": "Pinewood Village"
+    },
+    "4761980": {
+      "rank": 6089,
+      "estimate": "<7k",
+      "name": "College Quest"
     }
   }
 }

@@ -1,113 +1,193 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 37,
   "entries": {
     "1066740": {
-      "rank": 1590,
-      "estimate": "15k+",
+      "rank": 9439,
+      "estimate": "<7k",
       "name": "Mercyful Flames: The Witches"
     },
-    "1159150": {
-      "rank": 1485,
-      "estimate": "25k+",
-      "name": "BOC: Birth of Cultures"
-    },
-    "1571260": {
-      "rank": 2491,
-      "estimate": "7k+",
-      "name": "fault - milestone two side: below"
-    },
     "2168070": {
-      "rank": 911,
-      "estimate": "40k+",
+      "rank": 4772,
+      "estimate": "<7k",
       "name": "Sorceress"
     },
     "2366250": {
-      "rank": 2555,
-      "estimate": "7k+",
+      "rank": 9653,
+      "estimate": "<7k",
       "name": "American Airport Simulator"
     },
-    "2368490": {
-      "rank": 2485,
-      "estimate": "7k+",
-      "name": "Montaro 2"
+    "2386090": {
+      "rank": 7716,
+      "estimate": "<7k",
+      "name": "Reincarnation"
     },
     "2397320": {
-      "rank": 794,
+      "rank": 823,
       "estimate": "40k+",
       "name": "Bus Simulator 27"
     },
     "2585710": {
-      "rank": 2063,
-      "estimate": "7k+",
+      "rank": 5028,
+      "estimate": "<7k",
       "name": "Curiosmos"
     },
     "2743260": {
-      "rank": 3757,
-      "estimate": "<7k",
+      "rank": 1937,
+      "estimate": "15k+",
       "name": "Nowhere"
     },
     "3055670": {
-      "rank": 229,
-      "estimate": "80k+",
+      "rank": 46,
+      "estimate": "600k+",
       "name": "Risk of Rain 2: Hallowed Concepts"
     },
+    "3103560": {
+      "rank": 6293,
+      "estimate": "<7k",
+      "name": "SideEye High"
+    },
     "3160570": {
-      "rank": 2792,
+      "rank": 2210,
       "estimate": "7k+",
       "name": "Runeomicon"
     },
     "3281970": {
-      "rank": 428,
+      "rank": 469,
       "estimate": "80k+",
       "name": "Deep Snow Delivery"
     },
     "3359110": {
-      "rank": 2830,
+      "rank": 2265,
       "estimate": "7k+",
       "name": "Total Victory: World Conflict 1939-1945"
     },
     "3417760": {
-      "rank": 3579,
+      "rank": 3383,
       "estimate": "<7k",
       "name": "Angstraum"
     },
+    "3434420": {
+      "rank": 9322,
+      "estimate": "<7k",
+      "name": "In Ashes"
+    },
     "3449370": {
-      "rank": 1802,
-      "estimate": "15k+",
+      "rank": 1082,
+      "estimate": "25k+",
       "name": "VANRAN"
     },
     "3613050": {
-      "rank": 2197,
+      "rank": 2181,
       "estimate": "7k+",
       "name": "Gravebound"
     },
     "3936270": {
-      "rank": 3988,
+      "rank": 4600,
       "estimate": "<7k",
       "name": "It's Fine"
     },
+    "3973310": {
+      "rank": 1987,
+      "estimate": "15k+",
+      "name": "Legacy of Pandora"
+    },
     "3993370": {
-      "rank": 1330,
-      "estimate": "25k+",
+      "rank": 4629,
+      "estimate": "<7k",
       "name": "Grand Pro Circuit"
     },
     "4006130": {
-      "rank": 2532,
+      "rank": 2995,
       "estimate": "7k+",
       "name": "Under The Rooftop"
     },
     "4018380": {
-      "rank": 1192,
+      "rank": 1374,
       "estimate": "25k+",
       "name": "Chronoscript: The Endless End"
     },
-    "4523820": {
-      "rank": 3704,
+    "4147170": {
+      "rank": 6189,
       "estimate": "<7k",
+      "name": "Late Order"
+    },
+    "4246460": {
+      "rank": 9868,
+      "estimate": "<7k",
+      "name": "iHorse™ G1 Leading Sire"
+    },
+    "4279790": {
+      "rank": 7042,
+      "estimate": "<7k",
+      "name": "RAZE"
+    },
+    "4296450": {
+      "rank": 8316,
+      "estimate": "<7k",
+      "name": "Shorekeeper"
+    },
+    "4314770": {
+      "rank": 2398,
+      "estimate": "7k+",
+      "name": "SnekromancY"
+    },
+    "4318020": {
+      "rank": 4732,
+      "estimate": "<7k",
+      "name": "Mystery Company"
+    },
+    "4328290": {
+      "rank": 8633,
+      "estimate": "<7k",
+      "name": "EagleRoad:WorldRise"
+    },
+    "4330750": {
+      "rank": 5596,
+      "estimate": "<7k",
+      "name": "Tiny Ramen Shop"
+    },
+    "4523820": {
+      "rank": 2310,
+      "estimate": "7k+",
       "name": "Broken Dagger"
+    },
+    "4542120": {
+      "rank": 5243,
+      "estimate": "<7k",
+      "name": "Neurospasm"
+    },
+    "4611990": {
+      "rank": 2591,
+      "estimate": "7k+",
+      "name": "日本事故物件監視協会3 -Japan Stigmatized Property-"
+    },
+    "4620680": {
+      "rank": 9833,
+      "estimate": "<7k",
+      "name": "時折記 -Tokioriki-"
+    },
+    "4632320": {
+      "rank": 9750,
+      "estimate": "<7k",
+      "name": "Ball Wizard"
+    },
+    "4668820": {
+      "rank": 6956,
+      "estimate": "<7k",
+      "name": "Model Kit Shop Simulator: Prologue"
+    },
+    "4692380": {
+      "rank": 2589,
+      "estimate": "7k+",
+      "name": "Invariant"
+    },
+    "4779300": {
+      "rank": 4481,
+      "estimate": "<7k",
+      "name": "Command the Dead"
     }
   }
 }

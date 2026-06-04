@@ -1,83 +1,228 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 44,
   "entries": {
     "1936310": {
-      "rank": 1761,
-      "estimate": "15k+",
+      "rank": 5170,
+      "estimate": "<7k",
       "name": "Sugoi Adventure! DragonSlayer"
     },
     "1962360": {
-      "rank": 2099,
-      "estimate": "7k+",
+      "rank": 7542,
+      "estimate": "<7k",
       "name": "RUNNING WITH RIFLES: EASTERN FRONT"
     },
-    "2200340": {
-      "rank": 3365,
-      "estimate": "<7k",
-      "name": "To the Grave"
-    },
     "2253300": {
-      "rank": 3671,
+      "rank": 4375,
       "estimate": "<7k",
       "name": "Upheaval"
     },
     "2287370": {
-      "rank": 1983,
-      "estimate": "15k+",
+      "rank": 544,
+      "estimate": "40k+",
       "name": "Anima Song from the Abyss"
     },
+    "2454170": {
+      "rank": 1606,
+      "estimate": "15k+",
+      "name": "Doodle Dice Monsters"
+    },
+    "2467200": {
+      "rank": 7509,
+      "estimate": "<7k",
+      "name": "Realms and Ruins: Abencor"
+    },
     "2472530": {
-      "rank": 4014,
+      "rank": 3416,
       "estimate": "<7k",
       "name": "PILLORY"
     },
+    "2556870": {
+      "rank": 7863,
+      "estimate": "<7k",
+      "name": "2nd child"
+    },
+    "2697670": {
+      "rank": 9452,
+      "estimate": "<7k",
+      "name": "Petal Crash 2"
+    },
     "2755990": {
-      "rank": 1278,
-      "estimate": "25k+",
+      "rank": 1827,
+      "estimate": "15k+",
       "name": "Miss Paint"
     },
     "2860490": {
-      "rank": 1909,
-      "estimate": "15k+",
+      "rank": 2850,
+      "estimate": "7k+",
       "name": "Warota: I Live Next to The Demon King's Castle LOL"
     },
+    "2995570": {
+      "rank": 2177,
+      "estimate": "7k+",
+      "name": "Croak and Solve"
+    },
     "3164360": {
-      "rank": 1169,
-      "estimate": "25k+",
+      "rank": 3046,
+      "estimate": "<7k",
       "name": "Age of Respair"
     },
+    "3430740": {
+      "rank": 9911,
+      "estimate": "<7k",
+      "name": "Pine Creek"
+    },
     "3715810": {
-      "rank": 3289,
+      "rank": 4123,
       "estimate": "<7k",
       "name": "Sinking Eternity"
     },
+    "3753320": {
+      "rank": 8874,
+      "estimate": "<7k",
+      "name": "长干里酒吧"
+    },
     "3820550": {
-      "rank": 3143,
+      "rank": 6201,
       "estimate": "<7k",
       "name": "IMPUNES"
     },
+    "3840260": {
+      "rank": 801,
+      "estimate": "40k+",
+      "name": "Forgotten Playland: Party Edition"
+    },
+    "3907910": {
+      "rank": 1876,
+      "estimate": "15k+",
+      "name": "Cutout Village"
+    },
     "3938440": {
-      "rank": 2116,
-      "estimate": "7k+",
+      "rank": 834,
+      "estimate": "40k+",
       "name": "Twinkle’s Galactic Tour"
     },
     "3939700": {
-      "rank": 1845,
-      "estimate": "15k+",
+      "rank": 875,
+      "estimate": "40k+",
       "name": "Treasure Beach"
     },
     "3940340": {
-      "rank": 964,
-      "estimate": "40k+",
+      "rank": 236,
+      "estimate": "80k+",
       "name": "Entropy"
     },
+    "3983200": {
+      "rank": 4210,
+      "estimate": "<7k",
+      "name": "FiresOut!"
+    },
+    "4073540": {
+      "rank": 2431,
+      "estimate": "7k+",
+      "name": "Wordbound"
+    },
+    "4111600": {
+      "rank": 4034,
+      "estimate": "<7k",
+      "name": "8AM: The Subway"
+    },
+    "4197390": {
+      "rank": 3226,
+      "estimate": "<7k",
+      "name": "FENDERSHOT"
+    },
     "4216280": {
-      "rank": 3111,
+      "rank": 3791,
       "estimate": "<7k",
       "name": "Dverghold"
+    },
+    "4238590": {
+      "rank": 7361,
+      "estimate": "<7k",
+      "name": "ECHOES OF THE GOLDEN BRANCH - M-501 Aberrant Emotion Evolution Report"
+    },
+    "4300860": {
+      "rank": 7037,
+      "estimate": "<7k",
+      "name": "Food Truck Together"
+    },
+    "4319660": {
+      "rank": 4157,
+      "estimate": "<7k",
+      "name": "Moon Garden"
+    },
+    "4321890": {
+      "rank": 8563,
+      "estimate": "<7k",
+      "name": "Coral Social Club"
+    },
+    "4380200": {
+      "rank": 9917,
+      "estimate": "<7k",
+      "name": "Shear Heaven"
+    },
+    "4414640": {
+      "rank": 7022,
+      "estimate": "<7k",
+      "name": "World's Greatest Author"
+    },
+    "4426050": {
+      "rank": 5343,
+      "estimate": "<7k",
+      "name": "Mycelium Protocol"
+    },
+    "4430840": {
+      "rank": 6494,
+      "estimate": "<7k",
+      "name": "GUN SOLVER"
+    },
+    "4509090": {
+      "rank": 3978,
+      "estimate": "<7k",
+      "name": "Room Craft"
+    },
+    "4512850": {
+      "rank": 8215,
+      "estimate": "<7k",
+      "name": "granny's toybox"
+    },
+    "4562880": {
+      "rank": 2561,
+      "estimate": "7k+",
+      "name": "Yodelee Golf"
+    },
+    "4563810": {
+      "rank": 1992,
+      "estimate": "15k+",
+      "name": "The MachinEGG"
+    },
+    "4567960": {
+      "rank": 5846,
+      "estimate": "<7k",
+      "name": "Tales from Davidstown: The Game"
+    },
+    "4643930": {
+      "rank": 3517,
+      "estimate": "<7k",
+      "name": "Serve Or Die"
+    },
+    "4676790": {
+      "rank": 7254,
+      "estimate": "<7k",
+      "name": "Old But Gold"
+    },
+    "4718560": {
+      "rank": 8021,
+      "estimate": "<7k",
+      "name": "Sword and Immortal"
+    },
+    "4734250": {
+      "rank": 7707,
+      "estimate": "<7k",
+      "name": "Enduro Unleashed"
     }
   }
 }

@@ -1,98 +1,188 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 36,
   "entries": {
-    "719160": {
-      "rank": 3004,
-      "estimate": "<7k",
-      "name": "Akhenaten: Rule as Pharaoh"
-    },
     "862750": {
-      "rank": 373,
+      "rank": 475,
       "estimate": "80k+",
       "name": "Lost Railway"
     },
     "1713730": {
-      "rank": 1479,
-      "estimate": "25k+",
+      "rank": 6140,
+      "estimate": "<7k",
       "name": "Moadra"
     },
+    "1802100": {
+      "rank": 6798,
+      "estimate": "<7k",
+      "name": "Sanity City"
+    },
     "1944040": {
-      "rank": 1096,
-      "estimate": "25k+",
+      "rank": 1554,
+      "estimate": "15k+",
       "name": "goblinAmerica"
     },
     "2233390": {
-      "rank": 1207,
-      "estimate": "25k+",
+      "rank": 3785,
+      "estimate": "<7k",
       "name": "Nuclear Sub"
     },
     "2304360": {
-      "rank": 1519,
-      "estimate": "15k+",
+      "rank": 3088,
+      "estimate": "<7k",
       "name": "Mainland"
     },
+    "2550420": {
+      "rank": 6768,
+      "estimate": "<7k",
+      "name": "Block_Up"
+    },
     "2605900": {
-      "rank": 1337,
-      "estimate": "25k+",
+      "rank": 3943,
+      "estimate": "<7k",
       "name": "DIGESTED"
     },
     "2686570": {
-      "rank": 1964,
-      "estimate": "15k+",
+      "rank": 4122,
+      "estimate": "<7k",
       "name": "Waltz and Jam"
     },
     "2958550": {
-      "rank": 1093,
-      "estimate": "25k+",
+      "rank": 740,
+      "estimate": "40k+",
       "name": "Deeper"
     },
     "3102220": {
-      "rank": 2426,
-      "estimate": "7k+",
+      "rank": 3570,
+      "estimate": "<7k",
       "name": "KARANEKO"
     },
-    "3255140": {
-      "rank": 2650,
+    "3301890": {
+      "rank": 2415,
       "estimate": "7k+",
-      "name": "CORPOREAL"
+      "name": "Emberfall"
     },
-    "3255610": {
-      "rank": 3729,
+    "3310870": {
+      "rank": 5291,
       "estimate": "<7k",
-      "name": "Tower of Silence"
+      "name": "DICTOCRACY"
+    },
+    "3505140": {
+      "rank": 4780,
+      "estimate": "<7k",
+      "name": "Pekla"
+    },
+    "3534100": {
+      "rank": 3164,
+      "estimate": "<7k",
+      "name": "Staged"
     },
     "3557060": {
-      "rank": 4297,
+      "rank": 4035,
       "estimate": "<7k",
       "name": "Lull: Rest After Crying"
     },
     "3563470": {
-      "rank": 1241,
-      "estimate": "25k+",
+      "rank": 4637,
+      "estimate": "<7k",
       "name": "RAEV: Kingdom on the Distant Shores"
     },
     "3751950": {
-      "rank": 20,
-      "estimate": "800k+",
+      "rank": 7,
+      "estimate": "1.5m+",
       "name": "Assassin's Creed Black Flag Resynced"
     },
-    "4040060": {
-      "rank": 3241,
+    "3814170": {
+      "rank": 8942,
       "estimate": "<7k",
+      "name": "Cross The Ages: Arise"
+    },
+    "3995930": {
+      "rank": 4909,
+      "estimate": "<7k",
+      "name": "Carpark Hero"
+    },
+    "4040060": {
+      "rank": 583,
+      "estimate": "40k+",
       "name": "Model Kit Studio"
     },
     "4056250": {
-      "rank": 3224,
-      "estimate": "<7k",
+      "rank": 631,
+      "estimate": "40k+",
       "name": "空想森林FANTASY FOREST"
     },
+    "4083300": {
+      "rank": 4933,
+      "estimate": "<7k",
+      "name": "RAT FARM"
+    },
+    "4256670": {
+      "rank": 2323,
+      "estimate": "7k+",
+      "name": "Picker Magnate Simulator"
+    },
+    "4322960": {
+      "rank": 4902,
+      "estimate": "<7k",
+      "name": "Trail & Error"
+    },
+    "4323130": {
+      "rank": 4617,
+      "estimate": "<7k",
+      "name": "Sniper Camouflage Orange Spy Warrior I Buried Two Bodies in the Garden and the Police Haven't Figured Out Yet That They're Missing Because They Were a Lonely Old Couple Who Had No Relatives Simulator 2026"
+    },
+    "4328540": {
+      "rank": 7775,
+      "estimate": "<7k",
+      "name": "唐宫诗与谋"
+    },
+    "4413420": {
+      "rank": 9193,
+      "estimate": "<7k",
+      "name": "SHIP SIMULATOR OCEAN FISHING"
+    },
+    "4457600": {
+      "rank": 9518,
+      "estimate": "<7k",
+      "name": "Colonial Winds"
+    },
     "4556110": {
-      "rank": 3339,
+      "rank": 3054,
       "estimate": "<7k",
       "name": "Kinetype"
+    },
+    "4609960": {
+      "rank": 3989,
+      "estimate": "<7k",
+      "name": "It Takes Paws"
+    },
+    "4613530": {
+      "rank": 9236,
+      "estimate": "<7k",
+      "name": "Cornerfall"
+    },
+    "4614320": {
+      "rank": 4573,
+      "estimate": "<7k",
+      "name": "Dead Night Highway"
+    },
+    "4668110": {
+      "rank": 6476,
+      "estimate": "<7k",
+      "name": "Time To Waste"
+    },
+    "4710590": {
+      "rank": 7850,
+      "estimate": "<7k",
+      "name": "Stall Tycoon: A Cozy English Word Game"
+    },
+    "4782900": {
+      "rank": 9436,
+      "estimate": "<7k",
+      "name": "Bullet Vendetta"
     }
   }
 }

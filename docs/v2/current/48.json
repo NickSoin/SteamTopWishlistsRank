@@ -1,88 +1,183 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 35,
   "entries": {
-    "1384180": {
-      "rank": 1119,
-      "estimate": "25k+",
-      "name": "Cloud Exiles"
-    },
     "1461470": {
-      "rank": 3463,
+      "rank": 6207,
       "estimate": "<7k",
       "name": "Airborne Ranger: FightOut"
     },
     "1622110": {
-      "rank": 2424,
-      "estimate": "7k+",
+      "rank": 6637,
+      "estimate": "<7k",
       "name": "Zoria and the Cursed Land"
     },
     "1895460": {
-      "rank": 1926,
-      "estimate": "15k+",
+      "rank": 2034,
+      "estimate": "7k+",
       "name": "D-topia"
     },
+    "2288760": {
+      "rank": 8901,
+      "estimate": "<7k",
+      "name": "Night Run"
+    },
     "2477470": {
-      "rank": 2410,
-      "estimate": "7k+",
+      "rank": 5362,
+      "estimate": "<7k",
       "name": "The Chronos Event"
     },
-    "2515110": {
-      "rank": 4377,
-      "estimate": "<7k",
-      "name": "About Cannons & Sparrows"
-    },
     "2526570": {
-      "rank": 411,
-      "estimate": "80k+",
+      "rank": 2135,
+      "estimate": "7k+",
       "name": "Band of Crusaders"
     },
+    "2563010": {
+      "rank": 4980,
+      "estimate": "<7k",
+      "name": "Hyper Sentinel Fusion"
+    },
     "2790850": {
-      "rank": 1031,
-      "estimate": "25k+",
+      "rank": 1964,
+      "estimate": "15k+",
       "name": "Wing Haven"
     },
     "2855360": {
-      "rank": 1537,
-      "estimate": "15k+",
+      "rank": 960,
+      "estimate": "40k+",
       "name": "Please Insert Disc"
     },
     "3104430": {
-      "rank": 3219,
+      "rank": 6413,
       "estimate": "<7k",
       "name": "Amikin Village"
     },
+    "3256450": {
+      "rank": 1643,
+      "estimate": "15k+",
+      "name": "Cards of Prophecy"
+    },
     "3358590": {
-      "rank": 2413,
-      "estimate": "7k+",
+      "rank": 6599,
+      "estimate": "<7k",
       "name": "Prolegomena To a Hyperdimensional Interface That Will Be Able to Manifest From Three-Minute Interchanges"
     },
+    "3444110": {
+      "rank": 3261,
+      "estimate": "<7k",
+      "name": "Cow Chess"
+    },
     "3480330": {
-      "rank": 4568,
+      "rank": 7426,
       "estimate": "<7k",
       "name": "TouHou Koishi's Enchanted Woods"
     },
-    "3570110": {
-      "rank": 2724,
-      "estimate": "7k+",
-      "name": "Summoner's Gambit"
+    "3511850": {
+      "rank": 7493,
+      "estimate": "<7k",
+      "name": "Hell Worlds Reinvigorated"
     },
     "3582120": {
-      "rank": 3412,
-      "estimate": "<7k",
+      "rank": 1087,
+      "estimate": "25k+",
       "name": "Cohen 1939"
     },
+    "3595890": {
+      "rank": 1682,
+      "estimate": "15k+",
+      "name": "Warp Knights"
+    },
     "3618320": {
-      "rank": 4612,
+      "rank": 6131,
       "estimate": "<7k",
       "name": "Life is a Journey"
     },
+    "3672980": {
+      "rank": 8855,
+      "estimate": "<7k",
+      "name": "Fishing Nightmares"
+    },
+    "3720580": {
+      "rank": 7630,
+      "estimate": "<7k",
+      "name": "Supermarket Guard Simulator"
+    },
+    "3843410": {
+      "rank": 2955,
+      "estimate": "7k+",
+      "name": "Flux Empyrean"
+    },
+    "3934510": {
+      "rank": 8236,
+      "estimate": "<7k",
+      "name": "A Cold Comfort"
+    },
+    "3944900": {
+      "rank": 6704,
+      "estimate": "<7k",
+      "name": "SUBSELF: Lies Deep"
+    },
     "4094660": {
-      "rank": 615,
-      "estimate": "40k+",
+      "rank": 471,
+      "estimate": "80k+",
       "name": "Rivage"
+    },
+    "4157200": {
+      "rank": 6563,
+      "estimate": "<7k",
+      "name": "Lavatro"
+    },
+    "4190780": {
+      "rank": 5118,
+      "estimate": "<7k",
+      "name": "BRINE"
+    },
+    "4229600": {
+      "rank": 7023,
+      "estimate": "<7k",
+      "name": "DON'T STOP SMILING"
+    },
+    "4233030": {
+      "rank": 3829,
+      "estimate": "<7k",
+      "name": "Special Meat"
+    },
+    "4366660": {
+      "rank": 7187,
+      "estimate": "<7k",
+      "name": "Tiny Planets: Dream Defender"
+    },
+    "4370490": {
+      "rank": 8346,
+      "estimate": "<7k",
+      "name": "Smerk: Wacky Autobattles"
+    },
+    "4404180": {
+      "rank": 2707,
+      "estimate": "7k+",
+      "name": "GOLF+"
+    },
+    "4456110": {
+      "rank": 2912,
+      "estimate": "7k+",
+      "name": "Planet No More"
+    },
+    "4492770": {
+      "rank": 3525,
+      "estimate": "<7k",
+      "name": "Scooter Universe"
+    },
+    "4565090": {
+      "rank": 8952,
+      "estimate": "<7k",
+      "name": "Hammerhead"
+    },
+    "4652040": {
+      "rank": 4192,
+      "estimate": "<7k",
+      "name": "Night Record: Thin Walls"
     }
   }
 }

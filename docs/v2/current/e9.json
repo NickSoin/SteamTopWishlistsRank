@@ -1,123 +1,208 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 40,
   "entries": {
     "1518180": {
-      "rank": 3830,
+      "rank": 7364,
       "estimate": "<7k",
       "name": "Car Mechanic Manager 2023"
     },
-    "1568600": {
-      "rank": 3203,
-      "estimate": "<7k",
-      "name": "ASSAULT SECTOR"
-    },
     "1625220": {
-      "rank": 2994,
-      "estimate": "7k+",
+      "rank": 4681,
+      "estimate": "<7k",
       "name": "Half-Life: Element 64"
     },
     "1636440": {
-      "rank": 179,
-      "estimate": "200k+",
+      "rank": 78,
+      "estimate": "300k+",
       "name": "SILENT HILL: Townfall"
     },
     "1727760": {
-      "rank": 237,
-      "estimate": "80k+",
+      "rank": 1151,
+      "estimate": "25k+",
       "name": "Mars Tactics"
     },
-    "1897300": {
-      "rank": 3292,
-      "estimate": "<7k",
-      "name": "Eaves"
-    },
     "2231820": {
-      "rank": 3327,
+      "rank": 9012,
       "estimate": "<7k",
       "name": "Sheep Lad"
     },
     "2284190": {
-      "rank": 2109,
-      "estimate": "7k+",
+      "rank": 8431,
+      "estimate": "<7k",
       "name": "Poglings"
     },
     "2348250": {
-      "rank": 523,
+      "rank": 744,
       "estimate": "40k+",
       "name": "13Z: The Zodiac Trials"
     },
+    "2411510": {
+      "rank": 9834,
+      "estimate": "<7k",
+      "name": "ABYSSAL"
+    },
     "2424420": {
-      "rank": 251,
-      "estimate": "80k+",
+      "rank": 66,
+      "estimate": "300k+",
       "name": "Avatar Legends: The Fighting Game"
     },
+    "2445270": {
+      "rank": 9353,
+      "estimate": "<7k",
+      "name": "Snow Cone: The Inside Scoop"
+    },
+    "2695260": {
+      "rank": 9871,
+      "estimate": "<7k",
+      "name": "The Crimson Maid"
+    },
     "2720780": {
-      "rank": 3392,
+      "rank": 5582,
       "estimate": "<7k",
       "name": "Artemis VR"
     },
     "2961860": {
-      "rank": 629,
-      "estimate": "40k+",
+      "rank": 1376,
+      "estimate": "25k+",
       "name": "Honcho"
     },
     "3150160": {
-      "rank": 2844,
-      "estimate": "7k+",
+      "rank": 3833,
+      "estimate": "<7k",
       "name": "Another Pint"
     },
     "3203190": {
-      "rank": 4150,
+      "rank": 4414,
       "estimate": "<7k",
       "name": "Laundry Service Simulator"
     },
     "3276190": {
-      "rank": 386,
+      "rank": 261,
       "estimate": "80k+",
       "name": "The War of the Worlds: Siberia"
     },
     "3314030": {
-      "rank": 3506,
+      "rank": 8281,
       "estimate": "<7k",
       "name": "In a World After People"
     },
     "3399240": {
-      "rank": 645,
-      "estimate": "40k+",
+      "rank": 2441,
+      "estimate": "7k+",
       "name": "Buster JAM!"
     },
+    "3561810": {
+      "rank": 6857,
+      "estimate": "<7k",
+      "name": "100 Cats Philippines"
+    },
     "3625060": {
-      "rank": 4021,
+      "rank": 3939,
       "estimate": "<7k",
       "name": "European War 4 - Napoleon Remastered"
     },
+    "3660290": {
+      "rank": 6708,
+      "estimate": "<7k",
+      "name": "Soul Containers"
+    },
     "3743140": {
-      "rank": 748,
-      "estimate": "40k+",
+      "rank": 1451,
+      "estimate": "25k+",
       "name": "Battleplan"
     },
     "3840650": {
-      "rank": 4529,
+      "rank": 7082,
       "estimate": "<7k",
       "name": "缘之绳"
     },
+    "3868010": {
+      "rank": 4959,
+      "estimate": "<7k",
+      "name": "Media Circus"
+    },
+    "3885770": {
+      "rank": 4253,
+      "estimate": "<7k",
+      "name": "Darkphobia"
+    },
+    "3966910": {
+      "rank": 8382,
+      "estimate": "<7k",
+      "name": "inBOX"
+    },
+    "4012830": {
+      "rank": 9571,
+      "estimate": "<7k",
+      "name": "Magic Tower: Legion"
+    },
     "4019220": {
-      "rank": 1145,
+      "rank": 1090,
       "estimate": "25k+",
       "name": "Dressmaker"
     },
-    "4262620": {
-      "rank": 3859,
+    "4067830": {
+      "rank": 3431,
       "estimate": "<7k",
+      "name": "Neighbor's Tea"
+    },
+    "4080460": {
+      "rank": 2602,
+      "estimate": "7k+",
+      "name": "Hagyo-gil: The Way Home"
+    },
+    "4262620": {
+      "rank": 1088,
+      "estimate": "25k+",
       "name": "The Alighieri Circle: Dante's Bloodline"
     },
-    "4467980": {
-      "rank": 3337,
+    "4270230": {
+      "rank": 4453,
       "estimate": "<7k",
+      "name": "Idle Bookstore"
+    },
+    "4310550": {
+      "rank": 9491,
+      "estimate": "<7k",
+      "name": "Shelter Prepare"
+    },
+    "4390280": {
+      "rank": 2448,
+      "estimate": "7k+",
+      "name": "Steel Command"
+    },
+    "4403780": {
+      "rank": 5991,
+      "estimate": "<7k",
+      "name": "InCowMental"
+    },
+    "4467980": {
+      "rank": 242,
+      "estimate": "80k+",
       "name": "theHunter: Call of the Wild™ - Peru Hunting Reserve"
+    },
+    "4531610": {
+      "rank": 9785,
+      "estimate": "<7k",
+      "name": "Goodbye Page"
+    },
+    "4560520": {
+      "rank": 7514,
+      "estimate": "<7k",
+      "name": "Saoirse"
+    },
+    "4660370": {
+      "rank": 7704,
+      "estimate": "<7k",
+      "name": "Astromental Incremental"
+    },
+    "4718150": {
+      "rank": 9446,
+      "estimate": "<7k",
+      "name": "The Floral Princes"
     }
   }
 }

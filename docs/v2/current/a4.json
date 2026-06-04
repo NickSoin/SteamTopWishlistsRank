@@ -1,118 +1,233 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 45,
   "entries": {
-    "1415600": {
-      "rank": 1979,
-      "estimate": "15k+",
-      "name": "Frequency: Chernobyl"
+    "1074890": {
+      "rank": 8129,
+      "estimate": "<7k",
+      "name": "Disney Mickey's Typing Adventure Gold"
     },
     "1655750": {
-      "rank": 3068,
+      "rank": 7792,
       "estimate": "<7k",
       "name": "Uboat Mechanic Simulator"
     },
     "1722610": {
-      "rank": 828,
-      "estimate": "40k+",
+      "rank": 6714,
+      "estimate": "<7k",
       "name": "Unawake"
     },
     "1993410": {
-      "rank": 3413,
+      "rank": 8294,
       "estimate": "<7k",
       "name": "Laws of Nadragia"
     },
     "2244210": {
-      "rank": 94,
+      "rank": 55,
       "estimate": "300k+",
       "name": "Echoes of Aincrad"
     },
     "2675650": {
-      "rank": 278,
-      "estimate": "80k+",
+      "rank": 1893,
+      "estimate": "15k+",
       "name": "Decrepit"
     },
     "3115160": {
-      "rank": 203,
-      "estimate": "80k+",
+      "rank": 61,
+      "estimate": "300k+",
       "name": "Warhammer 40,000: Boltgun 2"
     },
     "3129790": {
-      "rank": 3010,
+      "rank": 4223,
       "estimate": "<7k",
       "name": "Pocket Legend : Inventory Roguelike Deckbuilder"
     },
     "3301350": {
-      "rank": 2475,
-      "estimate": "7k+",
+      "rank": 6397,
+      "estimate": "<7k",
       "name": "Sleep Well Cemetery"
     },
+    "3474070": {
+      "rank": 756,
+      "estimate": "40k+",
+      "name": "Magnavis"
+    },
     "3486530": {
-      "rank": 287,
-      "estimate": "80k+",
+      "rank": 1657,
+      "estimate": "15k+",
       "name": "Stupid Never Dies"
     },
     "3539320": {
-      "rank": 2472,
-      "estimate": "7k+",
+      "rank": 1881,
+      "estimate": "15k+",
       "name": "Scribble Wolf"
     },
     "3560050": {
-      "rank": 564,
-      "estimate": "40k+",
+      "rank": 470,
+      "estimate": "80k+",
       "name": "Fourleaf Fields"
     },
+    "3631930": {
+      "rank": 3372,
+      "estimate": "<7k",
+      "name": "Grey Wake"
+    },
     "3640840": {
-      "rank": 1261,
-      "estimate": "25k+",
+      "rank": 2308,
+      "estimate": "7k+",
       "name": "LANDLORD"
     },
+    "3682820": {
+      "rank": 7075,
+      "estimate": "<7k",
+      "name": "I Want to Cook Like Mom"
+    },
     "3818090": {
-      "rank": 1343,
-      "estimate": "25k+",
+      "rank": 1600,
+      "estimate": "15k+",
       "name": "Haunted Room! Urami-chan"
     },
     "3869850": {
-      "rank": 1373,
-      "estimate": "25k+",
+      "rank": 2113,
+      "estimate": "7k+",
       "name": "Welcome to the Game III"
     },
-    "4039900": {
-      "rank": 2667,
+    "3897770": {
+      "rank": 8515,
+      "estimate": "<7k",
+      "name": "Occult Office: Lofi Rituals"
+    },
+    "3998040": {
+      "rank": 2807,
       "estimate": "7k+",
+      "name": "Fossilfuel 3"
+    },
+    "4039900": {
+      "rank": 494,
+      "estimate": "80k+",
       "name": "ZOMBUTCHER: Monster Business Simulator"
     },
+    "4088760": {
+      "rank": 8644,
+      "estimate": "<7k",
+      "name": "RoboDeal Simulator"
+    },
     "4099630": {
-      "rank": 1353,
-      "estimate": "25k+",
+      "rank": 938,
+      "estimate": "40k+",
       "name": "Tiling Town"
     },
+    "4144420": {
+      "rank": 8929,
+      "estimate": "<7k",
+      "name": "Ghosts in the City"
+    },
+    "4149030": {
+      "rank": 3991,
+      "estimate": "<7k",
+      "name": "Ad Iterum"
+    },
     "4189430": {
-      "rank": 4469,
+      "rank": 4750,
       "estimate": "<7k",
       "name": "HapgetaSocial"
     },
-    "4333200": {
-      "rank": 1816,
+    "4197200": {
+      "rank": 1929,
       "estimate": "15k+",
+      "name": "Last Night Last Call"
+    },
+    "4260290": {
+      "rank": 4184,
+      "estimate": "<7k",
+      "name": "Wonderful Body Wanted"
+    },
+    "4333200": {
+      "rank": 2044,
+      "estimate": "7k+",
       "name": "Lost & Found: A This Bed We Made Story"
     },
     "4350100": {
-      "rank": 3550,
+      "rank": 4043,
       "estimate": "<7k",
       "name": "Orbrix"
     },
+    "4375040": {
+      "rank": 4967,
+      "estimate": "<7k",
+      "name": "Dwarfspire"
+    },
+    "4416550": {
+      "rank": 7838,
+      "estimate": "<7k",
+      "name": "MeMoMi Remake"
+    },
+    "4426690": {
+      "rank": 6279,
+      "estimate": "<7k",
+      "name": "Checkpoint 19"
+    },
+    "4429620": {
+      "rank": 2579,
+      "estimate": "7k+",
+      "name": "BreakThrough"
+    },
     "4462580": {
-      "rank": 1891,
-      "estimate": "15k+",
+      "rank": 1437,
+      "estimate": "25k+",
       "name": "BLIGHTEN"
     },
+    "4485060": {
+      "rank": 8230,
+      "estimate": "<7k",
+      "name": "HAE Stack"
+    },
+    "4491090": {
+      "rank": 2973,
+      "estimate": "7k+",
+      "name": "Jirai-kei Girl: Vengeance"
+    },
+    "4541430": {
+      "rank": 2842,
+      "estimate": "7k+",
+      "name": "Sector Scavengers: Signal & Salvage"
+    },
+    "4582080": {
+      "rank": 4445,
+      "estimate": "<7k",
+      "name": "Goal Idle"
+    },
     "4657920": {
-      "rank": 1775,
-      "estimate": "15k+",
+      "rank": 113,
+      "estimate": "200k+",
       "name": "War Fantasy"
+    },
+    "4692040": {
+      "rank": 3771,
+      "estimate": "<7k",
+      "name": "Return to Firetop Mountain (Fighting Fantasy Classics)"
+    },
+    "4694950": {
+      "rank": 3982,
+      "estimate": "<7k",
+      "name": "Banban Isle Rangers"
+    },
+    "4743320": {
+      "rank": 8274,
+      "estimate": "<7k",
+      "name": "Busy Bar - World Tour"
+    },
+    "4745010": {
+      "rank": 4215,
+      "estimate": "<7k",
+      "name": "Costella Maid Cafe♡ : The 5 Love Recipe for you"
+    },
+    "4754650": {
+      "rank": 7191,
+      "estimate": "<7k",
+      "name": "Space Pew Pew"
     }
   }
 }

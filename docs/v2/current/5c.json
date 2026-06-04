@@ -1,105 +1,255 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 49,
   "entries": {
     "687440": {
-      "rank": 538,
-      "estimate": "40k+",
+      "rank": 4516,
+      "estimate": "<7k",
       "name": "In The Valley of Gods"
     },
     "905410": {
-      "rank": 4380,
+      "rank": 7017,
       "estimate": "<7k",
       "name": "SCREECH OF STEEL: GLADIATORS"
     },
-    "1122230": {
-      "rank": 2068,
-      "estimate": "7k+",
-      "name": "Knights & Outlaws"
-    },
     "1851420": {
-      "rank": 1360,
-      "estimate": "25k+",
+      "rank": 2802,
+      "estimate": "7k+",
       "name": "INITIAL D"
     },
+    "1906430": {
+      "rank": 9300,
+      "estimate": "<7k",
+      "name": "Halve"
+    },
     "1920290": {
-      "rank": 1033,
-      "estimate": "25k+",
+      "rank": 2962,
+      "estimate": "7k+",
       "name": "Barkour"
     },
     "2179480": {
-      "rank": 63,
+      "rank": 72,
       "estimate": "300k+",
       "name": "Ardem",
       "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1817483467046859"
     },
+    "2244650": {
+      "rank": 9694,
+      "estimate": "<7k",
+      "name": "HexLands"
+    },
+    "2350890": {
+      "rank": 5770,
+      "estimate": "<7k",
+      "name": "The Declassifier"
+    },
+    "2645200": {
+      "rank": 7111,
+      "estimate": "<7k",
+      "name": "The Transference"
+    },
+    "2705650": {
+      "rank": 3684,
+      "estimate": "<7k",
+      "name": "Mithra"
+    },
     "2841710": {
-      "rank": 1604,
-      "estimate": "15k+",
+      "rank": 5012,
+      "estimate": "<7k",
       "name": "Vermin"
     },
     "2873070": {
-      "rank": 4124,
+      "rank": 5110,
       "estimate": "<7k",
       "name": "Endless Tactics"
     },
+    "3029380": {
+      "rank": 8410,
+      "estimate": "<7k",
+      "name": "Cinnabar Nights"
+    },
+    "3106810": {
+      "rank": 9589,
+      "estimate": "<7k",
+      "name": "Shades"
+    },
+    "3196150": {
+      "rank": 7102,
+      "estimate": "<7k",
+      "name": "Lami: A Cup of Code and Coffee"
+    },
     "3216520": {
-      "rank": 622,
-      "estimate": "40k+",
+      "rank": 410,
+      "estimate": "80k+",
       "name": "Sandcastle"
     },
     "3255110": {
-      "rank": 61,
-      "estimate": "300k+",
+      "rank": 115,
+      "estimate": "200k+",
       "name": "Grave Seasons"
     },
     "3264150": {
-      "rank": 771,
-      "estimate": "40k+",
+      "rank": 3240,
+      "estimate": "<7k",
       "name": "Paloma Island"
     },
     "3269430": {
-      "rank": 3002,
+      "rank": 9114,
       "estimate": "<7k",
       "name": "Melted Time"
     },
     "3361950": {
-      "rank": 2924,
-      "estimate": "7k+",
+      "rank": 4260,
+      "estimate": "<7k",
       "name": "Inhuman"
     },
+    "3405140": {
+      "rank": 7452,
+      "estimate": "<7k",
+      "name": "MEDIX"
+    },
+    "3454630": {
+      "rank": 7748,
+      "estimate": "<7k",
+      "name": "Spaceship Idle: Design, Build, Explore & Battle"
+    },
     "3534150": {
-      "rank": 962,
-      "estimate": "40k+",
+      "rank": 2334,
+      "estimate": "7k+",
       "name": "POSTAL 2 VR"
     },
+    "3557030": {
+      "rank": 9208,
+      "estimate": "<7k",
+      "name": "Particles of Reality: Remembrance"
+    },
     "3621690": {
-      "rank": 1152,
-      "estimate": "25k+",
+      "rank": 2393,
+      "estimate": "7k+",
       "name": "My Eerie Lair"
     },
-    "3649050": {
-      "rank": 4069,
+    "3815660": {
+      "rank": 1925,
+      "estimate": "15k+",
+      "name": "ERROR143 - Day 6"
+    },
+    "3832380": {
+      "rank": 1931,
+      "estimate": "15k+",
+      "name": "Bao Bao's™ Cozy Cleaning Services"
+    },
+    "3877880": {
+      "rank": 1983,
+      "estimate": "15k+",
+      "name": "Scraptory"
+    },
+    "3940470": {
+      "rank": 1399,
+      "estimate": "25k+",
+      "name": "KILLSEC"
+    },
+    "3955780": {
+      "rank": 4322,
       "estimate": "<7k",
-      "name": "Coagulation Station: Fleshfall"
+      "name": "Psychotic Descent"
     },
     "3956640": {
-      "rank": 374,
-      "estimate": "80k+",
+      "rank": 722,
+      "estimate": "40k+",
       "name": "Another Hero's Adventure"
     },
+    "4127500": {
+      "rank": 9772,
+      "estimate": "<7k",
+      "name": "Mutagenic 2"
+    },
+    "4156540": {
+      "rank": 2405,
+      "estimate": "7k+",
+      "name": "Dread Disc"
+    },
     "4165890": {
-      "rank": 13,
-      "estimate": "800k+",
+      "rank": 81,
+      "estimate": "300k+",
       "name": "Steam Frame"
     },
+    "4170610": {
+      "rank": 7119,
+      "estimate": "<7k",
+      "name": "University Rush"
+    },
+    "4258060": {
+      "rank": 5444,
+      "estimate": "<7k",
+      "name": "Castle"
+    },
+    "4258990": {
+      "rank": 6889,
+      "estimate": "<7k",
+      "name": "Ambient Prologue"
+    },
     "4285930": {
-      "rank": 3283,
+      "rank": 3630,
       "estimate": "<7k",
       "name": "Rakshasa"
+    },
+    "4296480": {
+      "rank": 5115,
+      "estimate": "<7k",
+      "name": "They Cry"
+    },
+    "4395510": {
+      "rank": 9239,
+      "estimate": "<7k",
+      "name": "Beat Vector"
+    },
+    "4413470": {
+      "rank": 8042,
+      "estimate": "<7k",
+      "name": "Airport Police Contraband Simulator - Border Patrol"
+    },
+    "4423590": {
+      "rank": 2711,
+      "estimate": "7k+",
+      "name": "U TSU TSU TSU"
+    },
+    "4531330": {
+      "rank": 9954,
+      "estimate": "<7k",
+      "name": "GUTTERBORN"
+    },
+    "4610420": {
+      "rank": 4325,
+      "estimate": "<7k",
+      "name": "Stamp Collector"
+    },
+    "4619320": {
+      "rank": 2975,
+      "estimate": "7k+",
+      "name": "Slime Rivals"
+    },
+    "4629950": {
+      "rank": 7685,
+      "estimate": "<7k",
+      "name": "I am a Taxi Driver"
+    },
+    "4687860": {
+      "rank": 2815,
+      "estimate": "7k+",
+      "name": "Guns & Dragons"
+    },
+    "4716050": {
+      "rank": 5891,
+      "estimate": "<7k",
+      "name": "美偶人 Puppet"
+    },
+    "4745450": {
+      "rank": 7382,
+      "estimate": "<7k",
+      "name": "Cradle of the Dark Brood"
     }
   }
 }

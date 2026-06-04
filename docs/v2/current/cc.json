@@ -1,48 +1,128 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 8,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 24,
   "entries": {
     "1019932": {
-      "rank": 1448,
-      "estimate": "25k+",
+      "rank": 2469,
+      "estimate": "7k+",
       "name": "Dark Deception Chapter 5"
     },
-    "1428600": {
-      "rank": 1074,
-      "estimate": "25k+",
-      "name": "Stormrite"
+    "1909310": {
+      "rank": 3084,
+      "estimate": "<7k",
+      "name": "Snowtracked"
     },
-    "2517080": {
-      "rank": 1883,
-      "estimate": "15k+",
-      "name": "Psychotic Bathtub"
+    "2420580": {
+      "rank": 3629,
+      "estimate": "<7k",
+      "name": "ALYSSA"
+    },
+    "2733880": {
+      "rank": 8118,
+      "estimate": "<7k",
+      "name": "Guitar Maker"
     },
     "3053990": {
-      "rank": 1903,
-      "estimate": "15k+",
+      "rank": 6502,
+      "estimate": "<7k",
       "name": "To The Grave: The Wildlands of Faenora"
     },
-    "3084370": {
-      "rank": 3777,
-      "estimate": "<7k",
-      "name": "Ricochet Abyss"
-    },
     "3312310": {
-      "rank": 2815,
-      "estimate": "7k+",
+      "rank": 5359,
+      "estimate": "<7k",
       "name": "Devil Slayer - Raksasi 2"
     },
+    "3447010": {
+      "rank": 8258,
+      "estimate": "<7k",
+      "name": "Knightmared"
+    },
+    "3573740": {
+      "rank": 9636,
+      "estimate": "<7k",
+      "name": "Backrooms: The M.E.G."
+    },
     "3712480": {
-      "rank": 4155,
+      "rank": 9409,
       "estimate": "<7k",
       "name": "Oneirophobia"
     },
-    "4232550": {
-      "rank": 4235,
+    "3965350": {
+      "rank": 4929,
       "estimate": "<7k",
+      "name": "MONSTOPIA"
+    },
+    "4132960": {
+      "rank": 4656,
+      "estimate": "<7k",
+      "name": "Little Ghosties"
+    },
+    "4190300": {
+      "rank": 9952,
+      "estimate": "<7k",
+      "name": "Vastloop"
+    },
+    "4232550": {
+      "rank": 871,
+      "estimate": "40k+",
       "name": "Cages: Hidden Worlds"
+    },
+    "4254150": {
+      "rank": 9998,
+      "estimate": "<7k",
+      "name": "Pair at Sea"
+    },
+    "4377860": {
+      "rank": 1314,
+      "estimate": "25k+",
+      "name": "Bumpers & Dragons"
+    },
+    "4528170": {
+      "rank": 3005,
+      "estimate": "<7k",
+      "name": "Sting & Swing"
+    },
+    "4561090": {
+      "rank": 4910,
+      "estimate": "<7k",
+      "name": "The Last Dwarf"
+    },
+    "4569670": {
+      "rank": 2866,
+      "estimate": "7k+",
+      "name": "Keep Watering"
+    },
+    "4594740": {
+      "rank": 7765,
+      "estimate": "<7k",
+      "name": "Still Breathing"
+    },
+    "4622010": {
+      "rank": 6818,
+      "estimate": "<7k",
+      "name": "Road Defense Racing"
+    },
+    "4664470": {
+      "rank": 6232,
+      "estimate": "<7k",
+      "name": "Bookstore Incremental"
+    },
+    "4670220": {
+      "rank": 8430,
+      "estimate": "<7k",
+      "name": "Guilds of Mountgate"
+    },
+    "4707140": {
+      "rank": 5160,
+      "estimate": "<7k",
+      "name": "彭罗斯游戏"
+    },
+    "4707610": {
+      "rank": 8471,
+      "estimate": "<7k",
+      "name": "Bon Voyage"
     }
   }
 }

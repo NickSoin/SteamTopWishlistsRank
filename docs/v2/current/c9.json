@@ -1,113 +1,218 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 42,
   "entries": {
     "992840": {
-      "rank": 1302,
-      "estimate": "25k+",
+      "rank": 2942,
+      "estimate": "7k+",
       "name": "Car Wash Simulator"
     },
+    "1112630": {
+      "rank": 6965,
+      "estimate": "<7k",
+      "name": "Lost Vulcan"
+    },
+    "1256730": {
+      "rank": 7516,
+      "estimate": "<7k",
+      "name": "NO LIFE: Zombie Survivor"
+    },
     "1521250": {
-      "rank": 2914,
-      "estimate": "7k+",
+      "rank": 9264,
+      "estimate": "<7k",
       "name": "Offroad Delivery Service"
     },
     "1602300": {
-      "rank": 1339,
-      "estimate": "25k+",
+      "rank": 1575,
+      "estimate": "15k+",
       "name": "The Grotto Diary"
     },
-    "2009160": {
-      "rank": 4246,
-      "estimate": "<7k",
-      "name": "System Purge: Hollow Point"
-    },
     "2121640": {
-      "rank": 2372,
-      "estimate": "7k+",
+      "rank": 6713,
+      "estimate": "<7k",
       "name": "The War in Chiapas"
     },
     "2209900": {
-      "rank": 156,
-      "estimate": "200k+",
+      "rank": 205,
+      "estimate": "80k+",
       "name": "Moonlight Peaks"
     },
     "2301240": {
-      "rank": 1940,
-      "estimate": "15k+",
+      "rank": 1421,
+      "estimate": "25k+",
       "name": "Mutter"
     },
-    "2357610": {
-      "rank": 4465,
-      "estimate": "<7k",
-      "name": "Wrestle Story"
-    },
     "2616100": {
-      "rank": 728,
-      "estimate": "40k+",
+      "rank": 3559,
+      "estimate": "<7k",
       "name": "Plague Lords"
     },
     "2840000": {
-      "rank": 3405,
-      "estimate": "<7k",
+      "rank": 1849,
+      "estimate": "15k+",
       "name": "Lumina Veil"
     },
+    "2908160": {
+      "rank": 7993,
+      "estimate": "<7k",
+      "name": "Inseco"
+    },
     "2947860": {
-      "rank": 249,
-      "estimate": "80k+",
+      "rank": 181,
+      "estimate": "200k+",
       "name": "Untitled John Wick Game"
     },
     "2959830": {
-      "rank": 4328,
+      "rank": 7818,
       "estimate": "<7k",
       "name": "Sausage Legend: Arena"
     },
     "2994190": {
-      "rank": 1354,
+      "rank": 1178,
       "estimate": "25k+",
       "name": "Money Simulator"
     },
     "3115480": {
-      "rank": 2716,
-      "estimate": "7k+",
+      "rank": 6423,
+      "estimate": "<7k",
       "name": "Diviner"
     },
+    "3212310": {
+      "rank": 7929,
+      "estimate": "<7k",
+      "name": "Project Storm"
+    },
+    "3217490": {
+      "rank": 4494,
+      "estimate": "<7k",
+      "name": "Color Idle"
+    },
     "3330890": {
-      "rank": 2514,
-      "estimate": "7k+",
+      "rank": 5976,
+      "estimate": "<7k",
       "name": "Shiver"
     },
     "3396920": {
-      "rank": 2058,
-      "estimate": "7k+",
+      "rank": 5395,
+      "estimate": "<7k",
       "name": "Settler's Domain"
     },
-    "3567980": {
-      "rank": 3295,
+    "3412730": {
+      "rank": 9536,
       "estimate": "<7k",
+      "name": "UnFOrgettable Encounters"
+    },
+    "3567980": {
+      "rank": 2816,
+      "estimate": "7k+",
       "name": "Stan's Workshop"
     },
+    "3843620": {
+      "rank": 9216,
+      "estimate": "<7k",
+      "name": "Elemental Magic Wars"
+    },
     "3973220": {
-      "rank": 4467,
+      "rank": 8926,
       "estimate": "<7k",
       "name": "Cruise Control"
     },
-    "4198840": {
-      "rank": 2779,
+    "4033130": {
+      "rank": 2394,
       "estimate": "7k+",
+      "name": "Nobody Hears"
+    },
+    "4168300": {
+      "rank": 7914,
+      "estimate": "<7k",
+      "name": "6-7 Nights At Vicente's"
+    },
+    "4198840": {
+      "rank": 1307,
+      "estimate": "25k+",
       "name": "GlagStone"
     },
+    "4200970": {
+      "rank": 7465,
+      "estimate": "<7k",
+      "name": "Operation Eventide"
+    },
+    "4254900": {
+      "rank": 8144,
+      "estimate": "<7k",
+      "name": "The Cursed Ward"
+    },
+    "4320430": {
+      "rank": 3044,
+      "estimate": "<7k",
+      "name": "Lunar Chrysalis"
+    },
     "4346690": {
-      "rank": 1690,
-      "estimate": "15k+",
+      "rank": 2061,
+      "estimate": "7k+",
       "name": "Genigods: Nezha"
     },
+    "4381390": {
+      "rank": 3509,
+      "estimate": "<7k",
+      "name": "When I'm Not Drawing"
+    },
+    "4386980": {
+      "rank": 4999,
+      "estimate": "<7k",
+      "name": "Pro Soccer Manager 27"
+    },
     "4476270": {
-      "rank": 4645,
+      "rank": 4024,
       "estimate": "<7k",
       "name": "Crown & Coin: The Hundred Years"
+    },
+    "4481070": {
+      "rank": 6645,
+      "estimate": "<7k",
+      "name": "Nine to Never"
+    },
+    "4486440": {
+      "rank": 5610,
+      "estimate": "<7k",
+      "name": "Posthumors"
+    },
+    "4508760": {
+      "rank": 7141,
+      "estimate": "<7k",
+      "name": "Dinosaurium"
+    },
+    "4529660": {
+      "rank": 8519,
+      "estimate": "<7k",
+      "name": "Greedy Spin: Reel Roguelike"
+    },
+    "4547790": {
+      "rank": 5199,
+      "estimate": "<7k",
+      "name": "Afterschool Brawl Club"
+    },
+    "4600130": {
+      "rank": 6995,
+      "estimate": "<7k",
+      "name": "Harvest Looper"
+    },
+    "4694320": {
+      "rank": 8593,
+      "estimate": "<7k",
+      "name": "Yummy Yummy Honey"
+    },
+    "4756480": {
+      "rank": 5848,
+      "estimate": "<7k",
+      "name": "Cricket Captain 2026"
+    },
+    "4791980": {
+      "rank": 1502,
+      "estimate": "15k+",
+      "name": "SCREAM NOTE"
     }
   }
 }

@@ -1,90 +1,190 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 36,
   "entries": {
-    "924380": {
-      "rank": 2595,
-      "estimate": "7k+",
-      "name": "WoodZone"
-    },
-    "986520": {
-      "rank": 3034,
-      "estimate": "<7k",
-      "name": "Ultra Strangeness"
-    },
-    "1342150": {
-      "rank": 3569,
-      "estimate": "<7k",
-      "name": "The Cabbage Effect"
-    },
     "2141460": {
-      "rank": 4319,
+      "rank": 8727,
       "estimate": "<7k",
       "name": "Rising Star - The Horse Game"
     },
     "2545200": {
-      "rank": 883,
-      "estimate": "40k+",
+      "rank": 3685,
+      "estimate": "<7k",
       "name": "Animaloid Girl"
     },
     "2635440": {
-      "rank": 1622,
-      "estimate": "15k+",
+      "rank": 3208,
+      "estimate": "<7k",
       "name": "Team Fortress 2 Legacy"
     },
     "2665250": {
-      "rank": 1082,
-      "estimate": "25k+",
+      "rank": 1687,
+      "estimate": "15k+",
       "name": "Rancher: A new life"
     },
     "2713120": {
-      "rank": 3913,
-      "estimate": "<7k",
+      "rank": 493,
+      "estimate": "80k+",
       "name": "Furyball: Rogue Revenge"
     },
+    "2965130": {
+      "rank": 4725,
+      "estimate": "<7k",
+      "name": "Legend of Xenobbit"
+    },
+    "3001880": {
+      "rank": 6687,
+      "estimate": "<7k",
+      "name": "Over The Horizon"
+    },
+    "3029600": {
+      "rank": 8456,
+      "estimate": "<7k",
+      "name": "Story Crafter"
+    },
     "3092530": {
-      "rank": 91,
-      "estimate": "300k+",
+      "rank": 988,
+      "estimate": "40k+",
       "name": "Fate Trigger",
       "actualWishlists": 200000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6350729003489133847"
     },
-    "3412800": {
-      "rank": 4054,
+    "3095980": {
+      "rank": 5598,
       "estimate": "<7k",
-      "name": "Jawbone Hollow"
+      "name": "Retreat"
+    },
+    "3125430": {
+      "rank": 7164,
+      "estimate": "<7k",
+      "name": "HyperTyper 2000"
+    },
+    "3392720": {
+      "rank": 5403,
+      "estimate": "<7k",
+      "name": "Entity: Midnight’s Watcher"
+    },
+    "3509380": {
+      "rank": 2771,
+      "estimate": "7k+",
+      "name": "GrimKeep"
+    },
+    "3613500": {
+      "rank": 6957,
+      "estimate": "<7k",
+      "name": "Idle Fisher"
     },
     "3616280": {
-      "rank": 2984,
-      "estimate": "7k+",
+      "rank": 1907,
+      "estimate": "15k+",
       "name": "Mr. Magpie’s Harmless Card Game"
     },
+    "3876240": {
+      "rank": 6511,
+      "estimate": "<7k",
+      "name": "Minor Deity"
+    },
     "3918250": {
-      "rank": 2480,
+      "rank": 2024,
       "estimate": "7k+",
       "name": "Frutigeropolis: The Promised City"
     },
     "3934270": {
-      "rank": 238,
-      "estimate": "80k+",
+      "rank": 610,
+      "estimate": "40k+",
       "name": "How Many Dudes?"
     },
-    "4169820": {
-      "rank": 3540,
+    "4072250": {
+      "rank": 4623,
       "estimate": "<7k",
+      "name": "Sensual Adventures - Treasure Island (SFW)"
+    },
+    "4077240": {
+      "rank": 7222,
+      "estimate": "<7k",
+      "name": "Kaiju Princess Secret Pulse"
+    },
+    "4169820": {
+      "rank": 2163,
+      "estimate": "7k+",
       "name": "Our Brief Eternity"
     },
-    "4286040": {
-      "rank": 3857,
+    "4190860": {
+      "rank": 3937,
       "estimate": "<7k",
+      "name": "Neuralnx"
+    },
+    "4215660": {
+      "rank": 3693,
+      "estimate": "<7k",
+      "name": "TORAWASE: The Girl in the Mirror"
+    },
+    "4244640": {
+      "rank": 8045,
+      "estimate": "<7k",
+      "name": "Foghorns Drown"
+    },
+    "4274980": {
+      "rank": 8334,
+      "estimate": "<7k",
+      "name": "Vocal Horror Stories - Gaja"
+    },
+    "4286040": {
+      "rank": 2342,
+      "estimate": "7k+",
       "name": "Unicycle Together"
     },
-    "4575010": {
-      "rank": 3379,
+    "4315850": {
+      "rank": 3627,
       "estimate": "<7k",
+      "name": "Building 0: Hakuei University"
+    },
+    "4378370": {
+      "rank": 7018,
+      "estimate": "<7k",
+      "name": "Anomalous Cleaning Detail"
+    },
+    "4404930": {
+      "rank": 5381,
+      "estimate": "<7k",
+      "name": "Miaugical"
+    },
+    "4417800": {
+      "rank": 5027,
+      "estimate": "<7k",
+      "name": "Airline CEO"
+    },
+    "4505350": {
+      "rank": 9194,
+      "estimate": "<7k",
+      "name": "Pogopa"
+    },
+    "4533320": {
+      "rank": 2214,
+      "estimate": "7k+",
+      "name": "Car Crime Simulator: Prologue - Early Days"
+    },
+    "4545040": {
+      "rank": 5491,
+      "estimate": "<7k",
+      "name": "Unclaimed: Loot or Junk"
+    },
+    "4575010": {
+      "rank": 1188,
+      "estimate": "25k+",
       "name": "Too Hot to Be True"
+    },
+    "4653910": {
+      "rank": 5895,
+      "estimate": "<7k",
+      "name": "Bone Stuff"
+    },
+    "4738060": {
+      "rank": 9892,
+      "estimate": "<7k",
+      "name": "Pour Decisions"
     }
   }
 }

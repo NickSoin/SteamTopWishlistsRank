@@ -1,100 +1,185 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 35,
   "entries": {
     "1506730": {
-      "rank": 1958,
-      "estimate": "15k+",
+      "rank": 5157,
+      "estimate": "<7k",
       "name": "What Never Was: Chapter II"
     },
-    "1629660": {
-      "rank": 1944,
-      "estimate": "15k+",
-      "name": "Moonshell Island"
+    "1952920": {
+      "rank": 5035,
+      "estimate": "<7k",
+      "name": "Strikers Club"
     },
     "2077110": {
-      "rank": 3147,
+      "rank": 7318,
       "estimate": "<7k",
       "name": "Rise of Agon"
     },
     "2156390": {
-      "rank": 770,
-      "estimate": "40k+",
+      "rank": 2537,
+      "estimate": "7k+",
       "name": "WorldShards",
       "actualWishlists": 50000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5766372999961581884"
     },
-    "2184850": {
-      "rank": 2702,
-      "estimate": "7k+",
-      "name": "Darwake: Awakening from the Nightmare"
-    },
     "2590330": {
-      "rank": 1484,
-      "estimate": "25k+",
+      "rank": 3582,
+      "estimate": "<7k",
       "name": "Dino Run 2"
     },
     "2606880": {
-      "rank": 4308,
-      "estimate": "<7k",
+      "rank": 1444,
+      "estimate": "25k+",
       "name": "EV2"
     },
+    "2698960": {
+      "rank": 9492,
+      "estimate": "<7k",
+      "name": "Fleeting Shores"
+    },
+    "2753180": {
+      "rank": 6176,
+      "estimate": "<7k",
+      "name": "Feeling Death"
+    },
     "2802730": {
-      "rank": 4215,
+      "rank": 3859,
       "estimate": "<7k",
       "name": "Frieda is Changing"
     },
     "3202290": {
-      "rank": 2963,
-      "estimate": "7k+",
+      "rank": 7196,
+      "estimate": "<7k",
       "name": "Chess Arena"
     },
     "3370270": {
-      "rank": 1182,
+      "rank": 1134,
       "estimate": "25k+",
       "name": "Backrooms"
     },
+    "3605570": {
+      "rank": 4279,
+      "estimate": "<7k",
+      "name": "Hyper Bun Buster: Rocket Hammer Action"
+    },
+    "3680450": {
+      "rank": 7717,
+      "estimate": "<7k",
+      "name": "Junkyard Space Agency"
+    },
     "3710210": {
-      "rank": 423,
-      "estimate": "80k+",
+      "rank": 1285,
+      "estimate": "25k+",
       "name": "Mandrake"
     },
     "3779570": {
-      "rank": 4468,
+      "rank": 4646,
       "estimate": "<7k",
       "name": "Heavenly Island"
     },
     "3864450": {
-      "rank": 666,
+      "rank": 551,
       "estimate": "40k+",
       "name": "Goblin Company"
     },
     "3911400": {
-      "rank": 4539,
+      "rank": 3433,
       "estimate": "<7k",
       "name": "Super Blood Hockey: Rogue Manager"
     },
     "3963030": {
-      "rank": 3256,
+      "rank": 5797,
       "estimate": "<7k",
       "name": "Pickle Pete"
     },
     "4129440": {
-      "rank": 4330,
+      "rank": 4224,
       "estimate": "<7k",
       "name": "Aftermath Z: Red Pine Lake"
     },
     "4252700": {
-      "rank": 2277,
-      "estimate": "7k+",
+      "rank": 1787,
+      "estimate": "15k+",
       "name": "Archon Soul"
     },
-    "4753780": {
-      "rank": 4190,
+    "4254940": {
+      "rank": 6415,
       "estimate": "<7k",
+      "name": "Literalchemy"
+    },
+    "4255550": {
+      "rank": 7954,
+      "estimate": "<7k",
+      "name": "Voxel Throne"
+    },
+    "4264060": {
+      "rank": 3279,
+      "estimate": "<7k",
+      "name": "Town of Tinysville"
+    },
+    "4283650": {
+      "rank": 3118,
+      "estimate": "<7k",
+      "name": "Cozy Mining"
+    },
+    "4289340": {
+      "rank": 8921,
+      "estimate": "<7k",
+      "name": "UNHUMAN"
+    },
+    "4311760": {
+      "rank": 6409,
+      "estimate": "<7k",
+      "name": "Penguin"
+    },
+    "4311980": {
+      "rank": 484,
+      "estimate": "80k+",
+      "name": "DITTORI"
+    },
+    "4498300": {
+      "rank": 9765,
+      "estimate": "<7k",
+      "name": "Generations: Utopia"
+    },
+    "4525800": {
+      "rank": 2507,
+      "estimate": "7k+",
+      "name": "Avaria: Iron Rule"
+    },
+    "4534200": {
+      "rank": 6454,
+      "estimate": "<7k",
+      "name": "Incremental Retro Racing"
+    },
+    "4544470": {
+      "rank": 2666,
+      "estimate": "7k+",
+      "name": "veadotube"
+    },
+    "4547080": {
+      "rank": 9864,
+      "estimate": "<7k",
+      "name": "Minimon: Tiny Idle Tactics"
+    },
+    "4570020": {
+      "rank": 9471,
+      "estimate": "<7k",
+      "name": "FOURSAKEN"
+    },
+    "4753780": {
+      "rank": 349,
+      "estimate": "80k+",
       "name": "Animal Rescue Network"
+    },
+    "4757300": {
+      "rank": 8327,
+      "estimate": "<7k",
+      "name": "The Wheelchair Man"
     }
   }
 }

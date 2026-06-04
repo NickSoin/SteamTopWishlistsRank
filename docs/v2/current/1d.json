@@ -1,93 +1,238 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 46,
   "entries": {
-    "737340": {
-      "rank": 4640,
+    "712370": {
+      "rank": 6654,
       "estimate": "<7k",
-      "name": "Wild Light: Darkest Isles"
+      "name": "Fallen Sword II"
     },
     "772260": {
-      "rank": 2970,
-      "estimate": "7k+",
+      "rank": 8945,
+      "estimate": "<7k",
       "name": "NitorInc.: Touhou Microgames!"
     },
-    "1129360": {
-      "rank": 3093,
-      "estimate": "<7k",
-      "name": "Pocket Wheels"
-    },
     "1424540": {
-      "rank": 3823,
+      "rank": 6269,
       "estimate": "<7k",
       "name": "The Boo Croo"
     },
     "1799840": {
-      "rank": 291,
-      "estimate": "80k+",
+      "rank": 738,
+      "estimate": "40k+",
       "name": "Queen's Domain"
     },
+    "1877250": {
+      "rank": 4171,
+      "estimate": "<7k",
+      "name": "Nokai"
+    },
     "1976830": {
-      "rank": 395,
-      "estimate": "80k+",
+      "rank": 2118,
+      "estimate": "7k+",
       "name": "Vivaland"
     },
     "2126810": {
-      "rank": 2757,
+      "rank": 2172,
       "estimate": "7k+",
       "name": "Memory's Reach"
     },
-    "2191720": {
-      "rank": 3929,
-      "estimate": "<7k",
-      "name": "Carbonflesh"
-    },
     "2294230": {
-      "rank": 3011,
+      "rank": 5070,
       "estimate": "<7k",
       "name": "Backrooms: The Project"
     },
     "2302120": {
-      "rank": 673,
-      "estimate": "40k+",
+      "rank": 2450,
+      "estimate": "7k+",
       "name": "Infinitum: The Backrooms Story"
     },
     "2413800": {
-      "rank": 745,
-      "estimate": "40k+",
+      "rank": 3179,
+      "estimate": "<7k",
       "name": "Samurai Pizza Cats: Blast from the Past!"
     },
     "2605720": {
-      "rank": 2585,
-      "estimate": "7k+",
+      "rank": 5075,
+      "estimate": "<7k",
       "name": "Ys Foliage Ocean in Celceta : Kai"
     },
+    "2860240": {
+      "rank": 4616,
+      "estimate": "<7k",
+      "name": "City Bus Simulator 2026"
+    },
     "3018390": {
-      "rank": 1226,
-      "estimate": "25k+",
+      "rank": 719,
+      "estimate": "40k+",
       "name": "PSYCHO DEAD"
     },
+    "3127030": {
+      "rank": 2885,
+      "estimate": "7k+",
+      "name": "Hallowanderband"
+    },
     "3219180": {
-      "rank": 698,
+      "rank": 511,
       "estimate": "40k+",
       "name": "Cursemark"
     },
     "3309160": {
-      "rank": 2362,
-      "estimate": "7k+",
+      "rank": 4824,
+      "estimate": "<7k",
       "name": "Chronocracy"
     },
+    "3525160": {
+      "rank": 6715,
+      "estimate": "<7k",
+      "name": "Black Horizon: Armada"
+    },
+    "3615290": {
+      "rank": 1150,
+      "estimate": "25k+",
+      "name": "Outpour"
+    },
+    "3632020": {
+      "rank": 3441,
+      "estimate": "<7k",
+      "name": "Voyage Router"
+    },
+    "3650330": {
+      "rank": 5844,
+      "estimate": "<7k",
+      "name": "Ice Cream Shop Simulator"
+    },
+    "3738090": {
+      "rank": 4003,
+      "estimate": "<7k",
+      "name": "Deiity (Under Ice)"
+    },
+    "3748480": {
+      "rank": 5217,
+      "estimate": "<7k",
+      "name": "Homeostasis"
+    },
     "3868160": {
-      "rank": 2786,
-      "estimate": "7k+",
+      "rank": 1923,
+      "estimate": "15k+",
       "name": "The Mortal"
     },
     "3900950": {
-      "rank": 1562,
-      "estimate": "15k+",
+      "rank": 5571,
+      "estimate": "<7k",
       "name": "Too Many F*cking Nazis"
+    },
+    "3956540": {
+      "rank": 4677,
+      "estimate": "<7k",
+      "name": "Radio Decay"
+    },
+    "3994560": {
+      "rank": 4420,
+      "estimate": "<7k",
+      "name": "Sirin's Feather"
+    },
+    "4047160": {
+      "rank": 8305,
+      "estimate": "<7k",
+      "name": "I'm Making a Monster"
+    },
+    "4083670": {
+      "rank": 5261,
+      "estimate": "<7k",
+      "name": "Paddle Together"
+    },
+    "4133630": {
+      "rank": 3444,
+      "estimate": "<7k",
+      "name": "LineForgeBlackSmith"
+    },
+    "4155090": {
+      "rank": 6109,
+      "estimate": "<7k",
+      "name": "Flats Full of Cats: Bugs & Bolts"
+    },
+    "4240080": {
+      "rank": 9552,
+      "estimate": "<7k",
+      "name": "Bonereader"
+    },
+    "4270450": {
+      "rank": 4960,
+      "estimate": "<7k",
+      "name": "我喜欢的白毛美少女不可能是凶手"
+    },
+    "4297040": {
+      "rank": 9565,
+      "estimate": "<7k",
+      "name": "Aeternum Infecti"
+    },
+    "4361680": {
+      "rank": 4607,
+      "estimate": "<7k",
+      "name": "Home Store Simulator"
+    },
+    "4376950": {
+      "rank": 6773,
+      "estimate": "<7k",
+      "name": "Stickerino"
+    },
+    "4444910": {
+      "rank": 5714,
+      "estimate": "<7k",
+      "name": "Dr. Durge's Dental Clinic"
+    },
+    "4520490": {
+      "rank": 2922,
+      "estimate": "7k+",
+      "name": "Sayagatari - Promise of the Cursed Blade -"
+    },
+    "4527190": {
+      "rank": 9217,
+      "estimate": "<7k",
+      "name": "Kriegspiel Manager"
+    },
+    "4546380": {
+      "rank": 4193,
+      "estimate": "<7k",
+      "name": "Zero Sum"
+    },
+    "4549590": {
+      "rank": 7821,
+      "estimate": "<7k",
+      "name": "Night Duty Log: A Shōwa School Record"
+    },
+    "4572390": {
+      "rank": 8995,
+      "estimate": "<7k",
+      "name": "World Railway"
+    },
+    "4619420": {
+      "rank": 5454,
+      "estimate": "<7k",
+      "name": "Slot Grind"
+    },
+    "4631970": {
+      "rank": 9624,
+      "estimate": "<7k",
+      "name": "The Day I Started Harvesting"
+    },
+    "4711360": {
+      "rank": 6392,
+      "estimate": "<7k",
+      "name": "Where Control Ends"
+    },
+    "4715430": {
+      "rank": 2736,
+      "estimate": "7k+",
+      "name": "River Secret"
+    },
+    "4773290": {
+      "rank": 9506,
+      "estimate": "<7k",
+      "name": "LAKE STILLWATER"
     }
   }
 }

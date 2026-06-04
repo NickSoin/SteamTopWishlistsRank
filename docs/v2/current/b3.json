@@ -1,53 +1,128 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 9,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 24,
   "entries": {
     "1048250": {
-      "rank": 796,
-      "estimate": "40k+",
+      "rank": 4242,
+      "estimate": "<7k",
       "name": "Bowlbo: The Quest for Bing Bing"
     },
     "1579420": {
-      "rank": 96,
-      "estimate": "300k+",
+      "rank": 557,
+      "estimate": "40k+",
       "name": "Guardians of the Wild Sky"
     },
-    "2131290": {
-      "rank": 3057,
+    "1615760": {
+      "rank": 9562,
       "estimate": "<7k",
+      "name": "StoneHold MOBA"
+    },
+    "2131290": {
+      "rank": 1205,
+      "estimate": "25k+",
       "name": "Iron Frontier"
     },
-    "3768880": {
-      "rank": 3888,
+    "2953320": {
+      "rank": 7913,
       "estimate": "<7k",
+      "name": "One Minute To Close"
+    },
+    "3060830": {
+      "rank": 5970,
+      "estimate": "<7k",
+      "name": "Realm of Advent"
+    },
+    "3590360": {
+      "rank": 5920,
+      "estimate": "<7k",
+      "name": "Goodgame Empire"
+    },
+    "3607000": {
+      "rank": 7841,
+      "estimate": "<7k",
+      "name": "Workplace Stories"
+    },
+    "3768880": {
+      "rank": 1647,
+      "estimate": "15k+",
       "name": "Torebia: Island Odyssey"
     },
+    "3855650": {
+      "rank": 4077,
+      "estimate": "<7k",
+      "name": "Vessel"
+    },
+    "4075840": {
+      "rank": 3532,
+      "estimate": "<7k",
+      "name": "Front Page"
+    },
     "4162340": {
-      "rank": 418,
-      "estimate": "80k+",
+      "rank": 1346,
+      "estimate": "25k+",
       "name": "Verdant"
     },
     "4208770": {
-      "rank": 2244,
-      "estimate": "7k+",
+      "rank": 849,
+      "estimate": "40k+",
       "name": "Launch Window"
     },
+    "4209830": {
+      "rank": 3628,
+      "estimate": "<7k",
+      "name": "One Last Hand"
+    },
+    "4226600": {
+      "rank": 5023,
+      "estimate": "<7k",
+      "name": "Iron Muscle: Bodybuilding Game"
+    },
     "4336530": {
-      "rank": 2729,
-      "estimate": "7k+",
+      "rank": 5806,
+      "estimate": "<7k",
       "name": "There Are Millions of Goblins"
     },
-    "4446990": {
-      "rank": 4223,
+    "4433640": {
+      "rank": 3951,
       "estimate": "<7k",
+      "name": "HAWKER"
+    },
+    "4446990": {
+      "rank": 2712,
+      "estimate": "7k+",
       "name": "Menhera Maiden"
     },
+    "4461760": {
+      "rank": 5755,
+      "estimate": "<7k",
+      "name": "Cup Heroes"
+    },
+    "4489300": {
+      "rank": 1299,
+      "estimate": "25k+",
+      "name": "Blackout Jack"
+    },
+    "4580050": {
+      "rank": 3594,
+      "estimate": "<7k",
+      "name": "Sunrise Story"
+    },
+    "4622110": {
+      "rank": 2144,
+      "estimate": "7k+",
+      "name": "我的傲娇妹妹 MY TSUNDERE SISTER"
+    },
     "4704690": {
-      "rank": 162,
-      "estimate": "200k+",
+      "rank": 1,
+      "estimate": "4m+",
       "name": "MECCHA CHAMELEON"
+    },
+    "4738550": {
+      "rank": 8208,
+      "estimate": "<7k",
+      "name": "Dig into the core"
     }
   }
 }

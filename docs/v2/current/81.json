@@ -1,72 +1,157 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 29,
   "entries": {
-    "989350": {
-      "rank": 4116,
-      "estimate": "<7k",
-      "name": "Running Rogue"
-    },
-    "1043110": {
-      "rank": 2451,
-      "estimate": "7k+",
-      "name": "Kaiju Fishing"
-    },
     "1185380": {
-      "rank": 2450,
-      "estimate": "7k+",
+      "rank": 8781,
+      "estimate": "<7k",
       "name": "The Season of the Warlock"
     },
     "1297900": {
-      "rank": 12,
-      "estimate": "800k+",
+      "rank": 5,
+      "estimate": "1.5m+",
       "name": "Gothic 1 Remake",
       "actualWishlists": 1000000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1803527891896164"
     },
-    "1647220": {
-      "rank": 1575,
-      "estimate": "15k+",
-      "name": "Once,in Times of Chaos"
+    "1510210": {
+      "rank": 7469,
+      "estimate": "<7k",
+      "name": "Prizefighters 2"
+    },
+    "1643840": {
+      "rank": 7784,
+      "estimate": "<7k",
+      "name": "Antediluvial : Yalroc Island"
     },
     "2362070": {
-      "rank": 1217,
+      "rank": 1339,
       "estimate": "25k+",
       "name": "Hollow Home",
       "actualWishlists": 30000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800991756305442"
     },
     "2390660": {
-      "rank": 4042,
+      "rank": 8994,
       "estimate": "<7k",
       "name": "Collapsed Galaxy 2"
     },
+    "2482110": {
+      "rank": 7782,
+      "estimate": "<7k",
+      "name": "Rogue Mech"
+    },
+    "2544740": {
+      "rank": 2162,
+      "estimate": "7k+",
+      "name": "THANKS, LIGHT."
+    },
     "2979810": {
-      "rank": 638,
-      "estimate": "40k+",
+      "rank": 266,
+      "estimate": "80k+",
       "name": "POLYARIS"
     },
+    "2988490": {
+      "rank": 1189,
+      "estimate": "25k+",
+      "name": "神殺しの蒼銀"
+    },
+    "3003880": {
+      "rank": 7626,
+      "estimate": "<7k",
+      "name": "Obi3011"
+    },
+    "3392160": {
+      "rank": 6402,
+      "estimate": "<7k",
+      "name": "Coffee Simulator"
+    },
+    "3595390": {
+      "rank": 6323,
+      "estimate": "<7k",
+      "name": "Rixa"
+    },
+    "3636460": {
+      "rank": 6651,
+      "estimate": "<7k",
+      "name": "Miss Sasami is Losing Her Mind!"
+    },
     "3653890": {
-      "rank": 3855,
+      "rank": 3631,
       "estimate": "<7k",
       "name": "SPRKLS.exe"
     },
+    "3761610": {
+      "rank": 5933,
+      "estimate": "<7k",
+      "name": "Coin & Cauldron"
+    },
     "3839180": {
-      "rank": 824,
-      "estimate": "40k+",
+      "rank": 1160,
+      "estimate": "25k+",
       "name": "POSTAL 2 Redux"
     },
+    "3870910": {
+      "rank": 9363,
+      "estimate": "<7k",
+      "name": "NobleFront"
+    },
+    "4118350": {
+      "rank": 7511,
+      "estimate": "<7k",
+      "name": "100 Ramen Cats"
+    },
     "4223300": {
-      "rank": 689,
+      "rank": 580,
       "estimate": "40k+",
       "name": "Birds of War"
     },
-    "4664240": {
-      "rank": 1003,
+    "4242150": {
+      "rank": 6104,
+      "estimate": "<7k",
+      "name": "Fish Market"
+    },
+    "4287650": {
+      "rank": 2199,
+      "estimate": "7k+",
+      "name": "Boing Boing Animals"
+    },
+    "4399360": {
+      "rank": 1485,
       "estimate": "25k+",
+      "name": "时光餐厅"
+    },
+    "4501150": {
+      "rank": 2709,
+      "estimate": "7k+",
+      "name": "Backtrace: Mechanisms for Forgetting"
+    },
+    "4514930": {
+      "rank": 9576,
+      "estimate": "<7k",
+      "name": "The Undercut: Racing Manager"
+    },
+    "4588290": {
+      "rank": 5352,
+      "estimate": "<7k",
+      "name": "Rabbit Circle"
+    },
+    "4664240": {
+      "rank": 33,
+      "estimate": "600k+",
       "name": "Hard Worker"
+    },
+    "4724180": {
+      "rank": 7917,
+      "estimate": "<7k",
+      "name": "Reel Greed"
+    },
+    "4770970": {
+      "rank": 3625,
+      "estimate": "<7k",
+      "name": "Dark Side Void"
     }
   }
 }

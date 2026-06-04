@@ -1,98 +1,233 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 45,
   "entries": {
+    "1808150": {
+      "rank": 5097,
+      "estimate": "<7k",
+      "name": "Eggstinct!"
+    },
     "1845250": {
-      "rank": 305,
-      "estimate": "80k+",
+      "rank": 190,
+      "estimate": "200k+",
       "name": "Rubinite"
     },
     "1946380": {
-      "rank": 4226,
-      "estimate": "<7k",
+      "rank": 1707,
+      "estimate": "15k+",
       "name": "Eternal Remnant"
     },
+    "1950220": {
+      "rank": 9396,
+      "estimate": "<7k",
+      "name": "WE ARE BEING HUNTED 2"
+    },
+    "1980540": {
+      "rank": 5902,
+      "estimate": "<7k",
+      "name": "The Department / Trosedd"
+    },
     "2254950": {
-      "rank": 133,
-      "estimate": "200k+",
+      "rank": 700,
+      "estimate": "40k+",
       "name": "The Eternal Life of Goldman"
     },
     "2322260": {
-      "rank": 1017,
-      "estimate": "25k+",
+      "rank": 1681,
+      "estimate": "15k+",
       "name": "Don't Kill Them All"
     },
-    "2331530": {
-      "rank": 4546,
-      "estimate": "<7k",
-      "name": "Pirate Island"
-    },
     "2459560": {
-      "rank": 3025,
+      "rank": 8030,
       "estimate": "<7k",
       "name": "Paris Transylvania"
     },
     "2707980": {
-      "rank": 3828,
-      "estimate": "<7k",
+      "rank": 1471,
+      "estimate": "25k+",
       "name": "PUNK"
     },
     "2719590": {
-      "rank": 2,
-      "estimate": "1.5m+",
+      "rank": 83,
+      "estimate": "300k+",
       "name": "Light No Fire"
     },
-    "2947630": {
-      "rank": 2481,
-      "estimate": "7k+",
-      "name": "中国式网游：序章"
+    "2978940": {
+      "rank": 5173,
+      "estimate": "<7k",
+      "name": "Sauna Simulator"
     },
     "3063890": {
-      "rank": 4295,
+      "rank": 5832,
       "estimate": "<7k",
       "name": "SKIDRUSH : Drift City"
     },
     "3077640": {
-      "rank": 313,
-      "estimate": "80k+",
+      "rank": 1365,
+      "estimate": "25k+",
       "name": "MIGHTREYA"
     },
     "3154550": {
-      "rank": 1667,
-      "estimate": "15k+",
+      "rank": 3795,
+      "estimate": "<7k",
       "name": "Aegis Force: The Scorian War"
     },
-    "3725800": {
-      "rank": 4699,
+    "3426660": {
+      "rank": 9993,
       "estimate": "<7k",
+      "name": "Sprunki Rise of Horror"
+    },
+    "3476500": {
+      "rank": 3971,
+      "estimate": "<7k",
+      "name": "Thunder of the DemonKing"
+    },
+    "3698490": {
+      "rank": 5138,
+      "estimate": "<7k",
+      "name": "ACRODRIFT: FPV Drone Simulator"
+    },
+    "3725800": {
+      "rank": 559,
+      "estimate": "40k+",
       "name": "Island of Rebirth~NTR and Love~"
     },
+    "3772620": {
+      "rank": 9369,
+      "estimate": "<7k",
+      "name": "CryptidCam"
+    },
+    "3816920": {
+      "rank": 7889,
+      "estimate": "<7k",
+      "name": "Nightfall Cafe"
+    },
+    "3863090": {
+      "rank": 4110,
+      "estimate": "<7k",
+      "name": "Blood Lily: Killers Can't Sink a Yuri Ship"
+    },
     "3886200": {
-      "rank": 2091,
-      "estimate": "7k+",
+      "rank": 1220,
+      "estimate": "25k+",
       "name": "BrokenLore: DON’T LIE"
     },
+    "3942690": {
+      "rank": 7462,
+      "estimate": "<7k",
+      "name": "SCP 1985"
+    },
+    "4051610": {
+      "rank": 4111,
+      "estimate": "<7k",
+      "name": "Tacticauldron"
+    },
+    "4162260": {
+      "rank": 3678,
+      "estimate": "<7k",
+      "name": "Pizza Man Simulator"
+    },
+    "4188260": {
+      "rank": 8436,
+      "estimate": "<7k",
+      "name": "Cozy~Fishing Kitten"
+    },
+    "4274110": {
+      "rank": 6005,
+      "estimate": "<7k",
+      "name": "Hardware Simulator"
+    },
+    "4287840": {
+      "rank": 4307,
+      "estimate": "<7k",
+      "name": "Cold Decks"
+    },
+    "4289770": {
+      "rank": 7096,
+      "estimate": "<7k",
+      "name": "SEKEI"
+    },
+    "4320130": {
+      "rank": 4461,
+      "estimate": "<7k",
+      "name": "意仙途"
+    },
+    "4336300": {
+      "rank": 8458,
+      "estimate": "<7k",
+      "name": "Health Audit Simulator"
+    },
+    "4352900": {
+      "rank": 5734,
+      "estimate": "<7k",
+      "name": "Tiny Towers"
+    },
+    "4384590": {
+      "rank": 2985,
+      "estimate": "7k+",
+      "name": "Gravastar"
+    },
+    "4411690": {
+      "rank": 3398,
+      "estimate": "<7k",
+      "name": "Velanit: The Forgotten Cottage"
+    },
     "4420980": {
-      "rank": 928,
-      "estimate": "40k+",
+      "rank": 419,
+      "estimate": "80k+",
       "name": "Drunkslop: Pub crawl COOP"
     },
+    "4433760": {
+      "rank": 7155,
+      "estimate": "<7k",
+      "name": "Kung Fu Time Travel"
+    },
     "4435490": {
-      "rank": 442,
-      "estimate": "80k+",
+      "rank": 3,
+      "estimate": "1.5m+",
       "name": "Call of Duty®: Modern Warfare® 4"
     },
     "4504970": {
-      "rank": 1842,
-      "estimate": "15k+",
+      "rank": 852,
+      "estimate": "40k+",
       "name": "AetherCycle"
     },
+    "4528600": {
+      "rank": 7003,
+      "estimate": "<7k",
+      "name": "LINOVICTUS"
+    },
     "4540260": {
-      "rank": 2071,
-      "estimate": "7k+",
+      "rank": 1297,
+      "estimate": "25k+",
       "name": "Project Ants"
+    },
+    "4566710": {
+      "rank": 7963,
+      "estimate": "<7k",
+      "name": "Catapulteers"
+    },
+    "4575620": {
+      "rank": 1309,
+      "estimate": "25k+",
+      "name": "落幕之前 Before the Fall"
+    },
+    "4605020": {
+      "rank": 5628,
+      "estimate": "<7k",
+      "name": "Vem, Exu"
+    },
+    "4757060": {
+      "rank": 6381,
+      "estimate": "<7k",
+      "name": "Venture"
+    },
+    "4769490": {
+      "rank": 6893,
+      "estimate": "<7k",
+      "name": "Overhatched"
     }
   }
 }

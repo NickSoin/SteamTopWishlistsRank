@@ -1,68 +1,178 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 34,
   "entries": {
     "1737740": {
-      "rank": 3012,
+      "rank": 9635,
       "estimate": "<7k",
       "name": "Survival Bunker"
     },
     "1965550": {
-      "rank": 2767,
-      "estimate": "7k+",
+      "rank": 8786,
+      "estimate": "<7k",
       "name": "Wildaria"
     },
     "2415030": {
-      "rank": 965,
-      "estimate": "40k+",
+      "rank": 3097,
+      "estimate": "<7k",
       "name": "Crimson Hollow"
     },
     "2706660": {
-      "rank": 2386,
-      "estimate": "7k+",
+      "rank": 4945,
+      "estimate": "<7k",
       "name": "Dragon survival"
     },
+    "2764530": {
+      "rank": 3168,
+      "estimate": "<7k",
+      "name": "Purble Place 3D"
+    },
+    "2820760": {
+      "rank": 8801,
+      "estimate": "<7k",
+      "name": "Trivia Deal"
+    },
+    "2841390": {
+      "rank": 9965,
+      "estimate": "<7k",
+      "name": "Ava Hunt and Thieves of the Lost"
+    },
+    "2874350": {
+      "rank": 7667,
+      "estimate": "<7k",
+      "name": "Railpunk Mayhem"
+    },
+    "3170460": {
+      "rank": 9989,
+      "estimate": "<7k",
+      "name": "小先生 Little ShiFu"
+    },
     "3178820": {
-      "rank": 3350,
+      "rank": 5766,
       "estimate": "<7k",
       "name": "Gladiators of Citadelum"
     },
-    "3282600": {
-      "rank": 3348,
-      "estimate": "<7k",
-      "name": "Crowded - A Crow City Builder"
-    },
     "3355070": {
-      "rank": 1133,
-      "estimate": "25k+",
+      "rank": 713,
+      "estimate": "40k+",
       "name": "Ambroise Niflette & the Gleaned Bell"
     },
     "3376600": {
-      "rank": 3821,
+      "rank": 5146,
       "estimate": "<7k",
       "name": "Stormlander"
     },
+    "3473710": {
+      "rank": 3577,
+      "estimate": "<7k",
+      "name": "DARK IN LIGHT"
+    },
+    "3520120": {
+      "rank": 3828,
+      "estimate": "<7k",
+      "name": "UDONGEIN X2"
+    },
+    "3553030": {
+      "rank": 1872,
+      "estimate": "15k+",
+      "name": "Foreign Rim"
+    },
     "3555120": {
-      "rank": 2510,
-      "estimate": "7k+",
+      "rank": 3247,
+      "estimate": "<7k",
       "name": "Pre-Fortress 2"
     },
     "3599920": {
-      "rank": 2837,
+      "rank": 2065,
       "estimate": "7k+",
       "name": "ARTIUS: Pure Imagination"
     },
+    "3695600": {
+      "rank": 7983,
+      "estimate": "<7k",
+      "name": "Spin Blade Shop Simulator"
+    },
     "3699990": {
-      "rank": 2045,
-      "estimate": "7k+",
+      "rank": 4275,
+      "estimate": "<7k",
       "name": "SteelFront"
     },
+    "3714420": {
+      "rank": 998,
+      "estimate": "40k+",
+      "name": "Delta"
+    },
+    "3760470": {
+      "rank": 6765,
+      "estimate": "<7k",
+      "name": "Boy Escape from School"
+    },
+    "3796790": {
+      "rank": 6064,
+      "estimate": "<7k",
+      "name": "The Facility"
+    },
+    "3858810": {
+      "rank": 4018,
+      "estimate": "<7k",
+      "name": "SEMO"
+    },
+    "3859880": {
+      "rank": 9261,
+      "estimate": "<7k",
+      "name": "CRAWLER"
+    },
     "3983000": {
-      "rank": 286,
-      "estimate": "80k+",
+      "rank": 1164,
+      "estimate": "25k+",
       "name": "Parasite Mutant"
+    },
+    "4056820": {
+      "rank": 7946,
+      "estimate": "<7k",
+      "name": "Northgale"
+    },
+    "4144950": {
+      "rank": 5327,
+      "estimate": "<7k",
+      "name": "Picatso"
+    },
+    "4380750": {
+      "rank": 7167,
+      "estimate": "<7k",
+      "name": "Emerald Flower"
+    },
+    "4431100": {
+      "rank": 9295,
+      "estimate": "<7k",
+      "name": "Moonlight Apothecary"
+    },
+    "4438600": {
+      "rank": 2774,
+      "estimate": "7k+",
+      "name": "Tiny Capsule Collector"
+    },
+    "4494800": {
+      "rank": 4173,
+      "estimate": "<7k",
+      "name": "Void Rhythm"
+    },
+    "4552140": {
+      "rank": 2414,
+      "estimate": "7k+",
+      "name": "Malice in Wonderland"
+    },
+    "4712560": {
+      "rank": 7603,
+      "estimate": "<7k",
+      "name": "Pixel Darts: From Pub to Glory"
+    },
+    "4732870": {
+      "rank": 9825,
+      "estimate": "<7k",
+      "name": "Tidal Strings"
     }
   }
 }

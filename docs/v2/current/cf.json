@@ -1,83 +1,233 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 45,
   "entries": {
-    "705570": {
-      "rank": 4509,
+    "1188950": {
+      "rank": 8369,
       "estimate": "<7k",
-      "name": "Tayutama 2-you're the only one- ENG ver."
+      "name": "Airhack: Hacking"
     },
     "1234880": {
-      "rank": 3450,
+      "rank": 6058,
       "estimate": "<7k",
       "name": "Troll Hunter VR"
     },
     "1238390": {
-      "rank": 2500,
-      "estimate": "7k+",
+      "rank": 9975,
+      "estimate": "<7k",
       "name": "This Dead Winter"
     },
     "2021960": {
-      "rank": 2138,
-      "estimate": "7k+",
+      "rank": 1649,
+      "estimate": "15k+",
       "name": "Cozy Grove: Camp Spirit"
     },
     "2120560": {
-      "rank": 3822,
+      "rank": 8528,
       "estimate": "<7k",
       "name": "The Open World Survival Craft Hunters"
     },
+    "2172970": {
+      "rank": 6471,
+      "estimate": "<7k",
+      "name": "Lorne"
+    },
     "2353010": {
-      "rank": 1387,
-      "estimate": "25k+",
+      "rank": 5422,
+      "estimate": "<7k",
       "name": "Pale Dots"
     },
     "2508290": {
-      "rank": 3905,
+      "rank": 5178,
       "estimate": "<7k",
       "name": "Tax-Force"
     },
+    "2610290": {
+      "rank": 8407,
+      "estimate": "<7k",
+      "name": "Teacher Seduction"
+    },
     "2638890": {
-      "rank": 22,
-      "estimate": "600k+",
+      "rank": 10,
+      "estimate": "1.5m+",
       "name": "Onimusha: Way of the Sword"
     },
+    "2791900": {
+      "rank": 2242,
+      "estimate": "7k+",
+      "name": "Foul"
+    },
     "2924520": {
-      "rank": 114,
-      "estimate": "200k+",
+      "rank": 404,
+      "estimate": "80k+",
       "name": "ONTOS"
     },
+    "2933450": {
+      "rank": 4751,
+      "estimate": "<7k",
+      "name": "Ruhbaz"
+    },
     "2963950": {
-      "rank": 31,
-      "estimate": "600k+",
+      "rank": 117,
+      "estimate": "200k+",
       "name": "Persona 4 Revival"
     },
+    "2991520": {
+      "rank": 2480,
+      "estimate": "7k+",
+      "name": "Loop : Beginning Of Never Ending Journey"
+    },
     "3045530": {
-      "rank": 1772,
-      "estimate": "15k+",
+      "rank": 2830,
+      "estimate": "7k+",
       "name": "HEAVY AS STONE"
     },
-    "3606380": {
-      "rank": 3568,
+    "3074930": {
+      "rank": 2529,
+      "estimate": "7k+",
+      "name": "Blood Punk"
+    },
+    "3403590": {
+      "rank": 2741,
+      "estimate": "7k+",
+      "name": "Glimvale : My Mini Overworld"
+    },
+    "3414020": {
+      "rank": 5155,
       "estimate": "<7k",
+      "name": "Heroic Musical Chairs"
+    },
+    "3509340": {
+      "rank": 7620,
+      "estimate": "<7k",
+      "name": "Clean"
+    },
+    "3543070": {
+      "rank": 8850,
+      "estimate": "<7k",
+      "name": "Cordels & Spells"
+    },
+    "3606380": {
+      "rank": 2937,
+      "estimate": "7k+",
       "name": "Summer Days in the Joyful Countryside"
     },
+    "3672840": {
+      "rank": 6966,
+      "estimate": "<7k",
+      "name": "Joe & Mac Retro Collection"
+    },
+    "3678730": {
+      "rank": 9417,
+      "estimate": "<7k",
+      "name": "Ball Maze"
+    },
     "3733710": {
-      "rank": 2999,
-      "estimate": "7k+",
+      "rank": 8565,
+      "estimate": "<7k",
       "name": "FIRESTARTERS"
     },
+    "3768400": {
+      "rank": 753,
+      "estimate": "40k+",
+      "name": "Gridlords"
+    },
+    "3925900": {
+      "rank": 8608,
+      "estimate": "<7k",
+      "name": "TTRPG Simulator - Virtual Tabletop"
+    },
     "3969610": {
-      "rank": 4300,
+      "rank": 3096,
       "estimate": "<7k",
       "name": "Job Fit For a Devil"
     },
-    "4351810": {
-      "rank": 2993,
+    "4037190": {
+      "rank": 4766,
+      "estimate": "<7k",
+      "name": "Contenir"
+    },
+    "4091990": {
+      "rank": 7571,
+      "estimate": "<7k",
+      "name": "BUZZ QUIZ"
+    },
+    "4109480": {
+      "rank": 6300,
+      "estimate": "<7k",
+      "name": "MA 2 – President Simulator"
+    },
+    "4136730": {
+      "rank": 9307,
+      "estimate": "<7k",
+      "name": "Solitaire Deck"
+    },
+    "4198590": {
+      "rank": 8904,
+      "estimate": "<7k",
+      "name": "Age of Resistance"
+    },
+    "4236450": {
+      "rank": 2131,
       "estimate": "7k+",
+      "name": "Tattoo Shop Simulator"
+    },
+    "4244680": {
+      "rank": 7698,
+      "estimate": "<7k",
+      "name": "FPV Skyline"
+    },
+    "4280370": {
+      "rank": 5228,
+      "estimate": "<7k",
+      "name": "Distantia"
+    },
+    "4289870": {
+      "rank": 6185,
+      "estimate": "<7k",
+      "name": "Contract Cleaner"
+    },
+    "4340180": {
+      "rank": 5487,
+      "estimate": "<7k",
+      "name": "Ash of the Covenant"
+    },
+    "4351810": {
+      "rank": 4049,
+      "estimate": "<7k",
       "name": "A Short Quest"
+    },
+    "4522410": {
+      "rank": 1500,
+      "estimate": "25k+",
+      "name": "Ember Express"
+    },
+    "4550590": {
+      "rank": 7173,
+      "estimate": "<7k",
+      "name": "Tiny Cats vs Toys"
+    },
+    "4553340": {
+      "rank": 3881,
+      "estimate": "<7k",
+      "name": "SSR Wives: The Murder Of My Winter Crush"
+    },
+    "4573540": {
+      "rank": 3037,
+      "estimate": "<7k",
+      "name": "Shipolis"
+    },
+    "4622330": {
+      "rank": 5001,
+      "estimate": "<7k",
+      "name": "CD Market - Music Label Sim"
+    },
+    "4674900": {
+      "rank": 7038,
+      "estimate": "<7k",
+      "name": "Koshary Chaos"
     }
   }
 }

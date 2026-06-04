@@ -1,93 +1,243 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 47,
   "entries": {
+    "293800": {
+      "rank": 6316,
+      "estimate": "<7k",
+      "name": "Classroom Aquatic"
+    },
     "1120790": {
-      "rank": 1346,
-      "estimate": "25k+",
+      "rank": 5989,
+      "estimate": "<7k",
       "name": "We are Legion: Rome"
     },
     "1273980": {
-      "rank": 2458,
-      "estimate": "7k+",
+      "rank": 9004,
+      "estimate": "<7k",
       "name": "HeatWave"
     },
-    "1476040": {
-      "rank": 2739,
-      "estimate": "7k+",
-      "name": "Far North"
-    },
-    "1504820": {
-      "rank": 3437,
-      "estimate": "<7k",
-      "name": "Cloud Jumper"
-    },
-    "1572960": {
-      "rank": 4566,
-      "estimate": "<7k",
-      "name": "Train 113"
-    },
     "1636680": {
-      "rank": 1532,
-      "estimate": "15k+",
+      "rank": 4662,
+      "estimate": "<7k",
       "name": "Peachleaf Valley: Seeds of Love - a farming inspired otome"
     },
     "1826830": {
-      "rank": 4421,
+      "rank": 6762,
       "estimate": "<7k",
       "name": "Nova Squadron"
     },
+    "1858390": {
+      "rank": 1954,
+      "estimate": "15k+",
+      "name": "Pip Puzzle"
+    },
+    "2189590": {
+      "rank": 6780,
+      "estimate": "<7k",
+      "name": "Brutal Strike"
+    },
+    "2471020": {
+      "rank": 3150,
+      "estimate": "<7k",
+      "name": "Scramble Star Crossing"
+    },
     "2505590": {
-      "rank": 3170,
+      "rank": 5346,
       "estimate": "<7k",
       "name": "T.K. Punk - G.O.L.D"
     },
     "2626570": {
-      "rank": 1551,
-      "estimate": "15k+",
+      "rank": 2610,
+      "estimate": "7k+",
       "name": "GodsTV"
     },
+    "2794600": {
+      "rank": 7552,
+      "estimate": "<7k",
+      "name": "Echoes of the Unread"
+    },
     "2851800": {
-      "rank": 3623,
+      "rank": 9392,
       "estimate": "<7k",
       "name": "Headlice"
     },
-    "3710560": {
-      "rank": 2573,
+    "3201370": {
+      "rank": 3755,
+      "estimate": "<7k",
+      "name": "ON ANY JOURNEY"
+    },
+    "3279900": {
+      "rank": 5452,
+      "estimate": "<7k",
+      "name": "C.A.B.A."
+    },
+    "3539480": {
+      "rank": 7129,
+      "estimate": "<7k",
+      "name": "Back of Beyond"
+    },
+    "3570520": {
+      "rank": 2617,
       "estimate": "7k+",
+      "name": "乌合之罪"
+    },
+    "3710560": {
+      "rank": 4402,
+      "estimate": "<7k",
       "name": "Protocol: Terminate"
     },
     "3810510": {
-      "rank": 1726,
-      "estimate": "15k+",
+      "rank": 443,
+      "estimate": "80k+",
       "name": "DERELIKT"
     },
     "3824720": {
-      "rank": 1959,
-      "estimate": "15k+",
+      "rank": 2088,
+      "estimate": "7k+",
       "name": "Descent Of Lunaris"
     },
     "3828610": {
-      "rank": 1654,
-      "estimate": "15k+",
+      "rank": 1344,
+      "estimate": "25k+",
       "name": "Beauties and the Stranded"
     },
-    "3872910": {
-      "rank": 3355,
+    "3829280": {
+      "rank": 3095,
       "estimate": "<7k",
+      "name": "The Merchant's Eden"
+    },
+    "3872910": {
+      "rank": 2502,
+      "estimate": "7k+",
       "name": "Tanki Classic"
     },
+    "3877830": {
+      "rank": 3639,
+      "estimate": "<7k",
+      "name": "Beachside Cafe Simulator"
+    },
+    "4001490": {
+      "rank": 9757,
+      "estimate": "<7k",
+      "name": "Wildborne Online"
+    },
+    "4014180": {
+      "rank": 3965,
+      "estimate": "<7k",
+      "name": "Car Rental Simulator: Prologue - Early Days"
+    },
+    "4015770": {
+      "rank": 7569,
+      "estimate": "<7k",
+      "name": "Kingdom of Poland: 1410"
+    },
+    "4028060": {
+      "rank": 4230,
+      "estimate": "<7k",
+      "name": "Echo Zero"
+    },
+    "4040080": {
+      "rank": 8999,
+      "estimate": "<7k",
+      "name": "Lost Diver"
+    },
+    "4046370": {
+      "rank": 5585,
+      "estimate": "<7k",
+      "name": "Ling House: Echoes Within"
+    },
+    "4112440": {
+      "rank": 5480,
+      "estimate": "<7k",
+      "name": "RPG Map Maker"
+    },
+    "4126230": {
+      "rank": 4460,
+      "estimate": "<7k",
+      "name": "Mythologous"
+    },
+    "4141350": {
+      "rank": 6435,
+      "estimate": "<7k",
+      "name": "RUNT"
+    },
+    "4146650": {
+      "rank": 8114,
+      "estimate": "<7k",
+      "name": "MUPO"
+    },
+    "4153850": {
+      "rank": 7051,
+      "estimate": "<7k",
+      "name": "TiefenWolf"
+    },
     "4170840": {
-      "rank": 639,
-      "estimate": "40k+",
+      "rank": 79,
+      "estimate": "300k+",
       "name": "Akina"
     },
+    "4342700": {
+      "rank": 9066,
+      "estimate": "<7k",
+      "name": "These Roads are Terminal"
+    },
+    "4378770": {
+      "rank": 1563,
+      "estimate": "15k+",
+      "name": "Eternal Angler"
+    },
     "4423270": {
-      "rank": 2891,
-      "estimate": "7k+",
+      "rank": 1869,
+      "estimate": "15k+",
       "name": "Takeover 2"
+    },
+    "4448040": {
+      "rank": 7234,
+      "estimate": "<7k",
+      "name": "Biomechanical Toy (QUByte Classics)"
+    },
+    "4517160": {
+      "rank": 6914,
+      "estimate": "<7k",
+      "name": "Piroker"
+    },
+    "4526960": {
+      "rank": 1621,
+      "estimate": "15k+",
+      "name": "Unfree Freesia"
+    },
+    "4580160": {
+      "rank": 5999,
+      "estimate": "<7k",
+      "name": "Caravan Bazar"
+    },
+    "4615880": {
+      "rank": 9611,
+      "estimate": "<7k",
+      "name": "Cursed Clouds 64"
+    },
+    "4618670": {
+      "rank": 8320,
+      "estimate": "<7k",
+      "name": "Cultivation Legend"
+    },
+    "4636410": {
+      "rank": 8546,
+      "estimate": "<7k",
+      "name": "Flight Date"
+    },
+    "4685210": {
+      "rank": 8472,
+      "estimate": "<7k",
+      "name": "ROCKS.EXE"
+    },
+    "4686390": {
+      "rank": 4278,
+      "estimate": "<7k",
+      "name": "Redemption: The Sin Eternal"
     }
   }
 }

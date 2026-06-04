@@ -1,108 +1,213 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 41,
   "entries": {
-    "1682690": {
-      "rank": 3222,
-      "estimate": "<7k",
-      "name": "Awkward 2: The Party Game of Savage Secrets"
-    },
     "1761210": {
-      "rank": 905,
-      "estimate": "40k+",
+      "rank": 5504,
+      "estimate": "<7k",
       "name": "The Touhou Empires"
     },
     "2363840": {
-      "rank": 4063,
-      "estimate": "<7k",
+      "rank": 2960,
+      "estimate": "7k+",
       "name": "Aikyam"
     },
     "2476630": {
-      "rank": 1922,
-      "estimate": "15k+",
+      "rank": 5735,
+      "estimate": "<7k",
       "name": "扶摇录"
     },
     "2518790": {
-      "rank": 1517,
-      "estimate": "15k+",
+      "rank": 1435,
+      "estimate": "25k+",
       "name": "Hieronymus"
     },
-    "2570110": {
-      "rank": 2490,
-      "estimate": "7k+",
-      "name": "Angel of Death"
-    },
     "2830070": {
-      "rank": 1035,
-      "estimate": "25k+",
+      "rank": 4293,
+      "estimate": "<7k",
       "name": "SECOND-LOOP™"
     },
     "3055290": {
-      "rank": 4234,
-      "estimate": "<7k",
+      "rank": 1246,
+      "estimate": "25k+",
       "name": "Sunny Trails"
     },
     "3189450": {
-      "rank": 2162,
-      "estimate": "7k+",
+      "rank": 1176,
+      "estimate": "25k+",
       "name": "City of None"
     },
     "3225880": {
-      "rank": 704,
+      "rank": 787,
       "estimate": "40k+",
       "name": "Lenin Street Geek Shop"
     },
-    "3278190": {
-      "rank": 3845,
+    "3349290": {
+      "rank": 9174,
       "estimate": "<7k",
-      "name": "Project: AMICA"
+      "name": "Returnless"
+    },
+    "3559510": {
+      "rank": 3705,
+      "estimate": "<7k",
+      "name": "Capsule Lover"
     },
     "3577020": {
-      "rank": 1477,
-      "estimate": "25k+",
+      "rank": 2039,
+      "estimate": "7k+",
       "name": "Clean Start"
     },
+    "3599680": {
+      "rank": 4740,
+      "estimate": "<7k",
+      "name": "Party Champ"
+    },
+    "3615340": {
+      "rank": 9602,
+      "estimate": "<7k",
+      "name": "Pepper the Giant Purple Dog"
+    },
+    "3667460": {
+      "rank": 7363,
+      "estimate": "<7k",
+      "name": "Tails & Talons"
+    },
     "3669620": {
-      "rank": 132,
-      "estimate": "200k+",
+      "rank": 17,
+      "estimate": "800k+",
       "name": "Warhammer Survivors"
     },
     "3751260": {
-      "rank": 15,
-      "estimate": "800k+",
+      "rank": 88,
+      "estimate": "300k+",
       "name": "The Blood of Dawnwalker"
     },
+    "3813300": {
+      "rank": 1747,
+      "estimate": "15k+",
+      "name": "\"Erase -missing link-\" Cthulhu Mythos Card Game ADV"
+    },
     "3861510": {
-      "rank": 3362,
-      "estimate": "<7k",
+      "rank": 2178,
+      "estimate": "7k+",
       "name": "UGOMEKU NOTE"
     },
-    "3984400": {
-      "rank": 4232,
+    "3868900": {
+      "rank": 7260,
       "estimate": "<7k",
-      "name": "100% Accurate Youtuber Simulator"
+      "name": "Venison County"
+    },
+    "3993790": {
+      "rank": 4231,
+      "estimate": "<7k",
+      "name": "Star Catcher"
+    },
+    "4012160": {
+      "rank": 9938,
+      "estimate": "<7k",
+      "name": "Fire Crew Simulator"
+    },
+    "4045810": {
+      "rank": 4318,
+      "estimate": "<7k",
+      "name": "City God Alice：城隍愛麗絲"
+    },
+    "4056780": {
+      "rank": 3970,
+      "estimate": "<7k",
+      "name": "Padel Rivals"
+    },
+    "4067630": {
+      "rank": 7058,
+      "estimate": "<7k",
+      "name": "Wetland"
+    },
+    "4070700": {
+      "rank": 7253,
+      "estimate": "<7k",
+      "name": "Frontiers Reach : Mercenaries"
+    },
+    "4123840": {
+      "rank": 8668,
+      "estimate": "<7k",
+      "name": "恶意结核 (MechaBlight)"
     },
     "4181440": {
-      "rank": 2801,
+      "rank": 2413,
       "estimate": "7k+",
       "name": "RadCity: A Post-Apocalyptic Adventure"
     },
     "4216180": {
-      "rank": 3798,
+      "rank": 3890,
       "estimate": "<7k",
       "name": "IGNOBLE"
     },
     "4260530": {
-      "rank": 2143,
-      "estimate": "7k+",
+      "rank": 1173,
+      "estimate": "25k+",
       "name": "Rina's Undercover Train Operation"
     },
+    "4303660": {
+      "rank": 4250,
+      "estimate": "<7k",
+      "name": "Wartide"
+    },
     "4374950": {
-      "rank": 1023,
-      "estimate": "25k+",
+      "rank": 2312,
+      "estimate": "7k+",
       "name": "KAREN"
+    },
+    "4415200": {
+      "rank": 8765,
+      "estimate": "<7k",
+      "name": "Draw Party"
+    },
+    "4421870": {
+      "rank": 5079,
+      "estimate": "<7k",
+      "name": "Kill The Sea"
+    },
+    "4426660": {
+      "rank": 9842,
+      "estimate": "<7k",
+      "name": "Drone Gunner"
+    },
+    "4590950": {
+      "rank": 8073,
+      "estimate": "<7k",
+      "name": "El Shaddai: Zero Nine Reversi"
+    },
+    "4592130": {
+      "rank": 5612,
+      "estimate": "<7k",
+      "name": "The Blinking Room"
+    },
+    "4624130": {
+      "rank": 6501,
+      "estimate": "<7k",
+      "name": "Scourge of Eldryngard"
+    },
+    "4631110": {
+      "rank": 2779,
+      "estimate": "7k+",
+      "name": "Trashy Cashy"
+    },
+    "4642350": {
+      "rank": 8245,
+      "estimate": "<7k",
+      "name": "Pachinko Life"
+    },
+    "4698630": {
+      "rank": 6049,
+      "estimate": "<7k",
+      "name": "SCREAM you LOSE"
+    },
+    "4709420": {
+      "rank": 5737,
+      "estimate": "<7k",
+      "name": "HACKING INTO EREBUS"
     }
   }
 }

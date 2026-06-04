@@ -1,123 +1,178 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 34,
   "entries": {
-    "509950": {
-      "rank": 4430,
-      "estimate": "<7k",
-      "name": "Transmission"
-    },
-    "1090750": {
-      "rank": 4400,
-      "estimate": "<7k",
-      "name": "Dirty Jobs Simulator"
-    },
     "1108600": {
-      "rank": 820,
-      "estimate": "40k+",
+      "rank": 1664,
+      "estimate": "15k+",
       "name": "Last Moon"
     },
     "1179280": {
-      "rank": 1946,
-      "estimate": "15k+",
+      "rank": 3362,
+      "estimate": "<7k",
       "name": "PROJECT D : Human Risen"
     },
-    "1465620": {
-      "rank": 2781,
-      "estimate": "7k+",
-      "name": "Moses: From Egypt to the Promised Land"
-    },
-    "1530540": {
-      "rank": 4359,
-      "estimate": "<7k",
-      "name": "Lake Resort Simulator"
-    },
-    "1599170": {
-      "rank": 3324,
-      "estimate": "<7k",
-      "name": "5 Force Fighters"
-    },
     "1724990": {
-      "rank": 3615,
-      "estimate": "<7k",
+      "rank": 2282,
+      "estimate": "7k+",
       "name": "Handwriting Fantasy"
     },
-    "2214180": {
-      "rank": 4689,
-      "estimate": "<7k",
-      "name": "Grimfield Mystery"
-    },
     "2332150": {
-      "rank": 2854,
-      "estimate": "7k+",
+      "rank": 1858,
+      "estimate": "15k+",
       "name": "Frog Island"
     },
     "2420570": {
-      "rank": 784,
-      "estimate": "40k+",
+      "rank": 3128,
+      "estimate": "<7k",
       "name": "Portal BAGLEY"
     },
+    "2495880": {
+      "rank": 8049,
+      "estimate": "<7k",
+      "name": "Ultimate Fishing Simulator® - Italy DLC"
+    },
     "2587620": {
-      "rank": 376,
-      "estimate": "80k+",
+      "rank": 1454,
+      "estimate": "25k+",
       "name": "Dinolords"
     },
+    "2649120": {
+      "rank": 8782,
+      "estimate": "<7k",
+      "name": "Wildsite"
+    },
+    "2732600": {
+      "rank": 6204,
+      "estimate": "<7k",
+      "name": "Zurarararush!!!"
+    },
     "2864310": {
-      "rank": 1692,
-      "estimate": "15k+",
+      "rank": 4735,
+      "estimate": "<7k",
       "name": "Forest Hills: The Last Year"
     },
     "3035270": {
-      "rank": 1099,
-      "estimate": "25k+",
+      "rank": 183,
+      "estimate": "200k+",
       "name": "Backrooms"
     },
+    "3131620": {
+      "rank": 5613,
+      "estimate": "<7k",
+      "name": "The Oldest View: Rolling Giant"
+    },
     "3136320": {
-      "rank": 4522,
+      "rank": 5661,
       "estimate": "<7k",
       "name": "My Infamous Dungeon"
     },
+    "3170270": {
+      "rank": 4614,
+      "estimate": "<7k",
+      "name": "ウルトラジェットガール"
+    },
     "3218350": {
-      "rank": 375,
-      "estimate": "80k+",
+      "rank": 867,
+      "estimate": "40k+",
       "name": "Melvor Idle 2"
     },
     "3299160": {
-      "rank": 4077,
+      "rank": 4417,
       "estimate": "<7k",
       "name": "Weldiver"
     },
+    "3425190": {
+      "rank": 9580,
+      "estimate": "<7k",
+      "name": "RC Car Simulator"
+    },
+    "3503500": {
+      "rank": 3258,
+      "estimate": "<7k",
+      "name": "Appa"
+    },
+    "3526220": {
+      "rank": 8169,
+      "estimate": "<7k",
+      "name": "Imperiums: Fall of Rome"
+    },
     "3554290": {
-      "rank": 3005,
+      "rank": 6605,
       "estimate": "<7k",
       "name": "PASS Fortress"
     },
     "3674680": {
-      "rank": 3104,
+      "rank": 3887,
       "estimate": "<7k",
       "name": "Roguecraft DX"
     },
     "3830970": {
-      "rank": 3468,
-      "estimate": "<7k",
+      "rank": 2260,
+      "estimate": "7k+",
       "name": "Starshard Brigands"
     },
     "3856530": {
-      "rank": 611,
-      "estimate": "40k+",
+      "rank": 1003,
+      "estimate": "25k+",
       "name": "About Fishing"
     },
+    "3999820": {
+      "rank": 5303,
+      "estimate": "<7k",
+      "name": "Make The Dead Dead Again"
+    },
     "4121600": {
-      "rank": 1141,
+      "rank": 1387,
       "estimate": "25k+",
       "name": "Psychopomp 2"
     },
+    "4293110": {
+      "rank": 4645,
+      "estimate": "<7k",
+      "name": "Silan: Monster Girl Island!"
+    },
+    "4427630": {
+      "rank": 9186,
+      "estimate": "<7k",
+      "name": "Mystic Courtesan Stories: Trainee Maria♥ Original Soundtrack"
+    },
+    "4447720": {
+      "rank": 6242,
+      "estimate": "<7k",
+      "name": "Light From Within"
+    },
+    "4452630": {
+      "rank": 9026,
+      "estimate": "<7k",
+      "name": "Bradamante"
+    },
+    "4459590": {
+      "rank": 4554,
+      "estimate": "<7k",
+      "name": "Slotbound"
+    },
+    "4510950": {
+      "rank": 6783,
+      "estimate": "<7k",
+      "name": "Padel Impact Pro"
+    },
     "4555610": {
-      "rank": 3973,
+      "rank": 5413,
       "estimate": "<7k",
       "name": "LUNAR PULSE"
+    },
+    "4673710": {
+      "rank": 4058,
+      "estimate": "<7k",
+      "name": "Infinite Backrooms"
+    },
+    "4707800": {
+      "rank": 4734,
+      "estimate": "<7k",
+      "name": "AmaTisMo"
     }
   }
 }

@@ -1,78 +1,158 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 14,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 30,
   "entries": {
     "685560": {
-      "rank": 1357,
-      "estimate": "25k+",
+      "rank": 8834,
+      "estimate": "<7k",
       "name": "Arenus"
     },
-    "990970": {
-      "rank": 3637,
-      "estimate": "<7k",
-      "name": "Be the Ruler: Britannia"
-    },
     "1046920": {
-      "rank": 767,
-      "estimate": "40k+",
+      "rank": 4733,
+      "estimate": "<7k",
       "name": "Bushiden"
     },
-    "1478910": {
-      "rank": 3994,
+    "1422360": {
+      "rank": 9246,
       "estimate": "<7k",
-      "name": "Summer Camp"
+      "name": "The Woodworker"
     },
-    "2822110": {
-      "rank": 3631,
+    "2475640": {
+      "rank": 6547,
       "estimate": "<7k",
-      "name": "Planet Prospector"
+      "name": "Homeless Guy"
+    },
+    "2499750": {
+      "rank": 8307,
+      "estimate": "<7k",
+      "name": "Starstride"
     },
     "3012400": {
-      "rank": 1362,
-      "estimate": "25k+",
+      "rank": 6641,
+      "estimate": "<7k",
       "name": "Morriton Manor Stories: Nordic Whispers"
     },
+    "3046610": {
+      "rank": 4836,
+      "estimate": "<7k",
+      "name": "L8R SK8R"
+    },
     "3222720": {
-      "rank": 3703,
+      "rank": 8286,
       "estimate": "<7k",
       "name": "Dawn of the Abyss"
     },
     "3299010": {
-      "rank": 2221,
-      "estimate": "7k+",
+      "rank": 3341,
+      "estimate": "<7k",
       "name": "External"
     },
+    "3440010": {
+      "rank": 7520,
+      "estimate": "<7k",
+      "name": "Puzkin: Magnetic Odyssey"
+    },
     "3531220": {
-      "rank": 2909,
-      "estimate": "7k+",
+      "rank": 3180,
+      "estimate": "<7k",
       "name": "MECHBORN"
     },
+    "3573190": {
+      "rank": 1807,
+      "estimate": "15k+",
+      "name": "Revive! Onsen Town!"
+    },
+    "3604100": {
+      "rank": 8601,
+      "estimate": "<7k",
+      "name": "Et le grain mourut"
+    },
+    "3619490": {
+      "rank": 2823,
+      "estimate": "7k+",
+      "name": "Trickshotterz"
+    },
     "3718160": {
-      "rank": 1311,
-      "estimate": "25k+",
+      "rank": 2315,
+      "estimate": "7k+",
       "name": "EVILBANE"
     },
+    "3783410": {
+      "rank": 2559,
+      "estimate": "7k+",
+      "name": "Heroes of Anirea"
+    },
     "3788110": {
-      "rank": 993,
-      "estimate": "40k+",
+      "rank": 4800,
+      "estimate": "<7k",
       "name": "DungeonBox"
     },
+    "3917750": {
+      "rank": 9659,
+      "estimate": "<7k",
+      "name": "Resort Manager"
+    },
+    "3926480": {
+      "rank": 7544,
+      "estimate": "<7k",
+      "name": "Mission Mancala"
+    },
+    "4074850": {
+      "rank": 7202,
+      "estimate": "<7k",
+      "name": "Jaleco Arcade Collection Vol.2"
+    },
+    "4217820": {
+      "rank": 8372,
+      "estimate": "<7k",
+      "name": "Michael Test"
+    },
     "4254050": {
-      "rank": 3949,
+      "rank": 5864,
       "estimate": "<7k",
       "name": "Retroneer"
     },
     "4280150": {
-      "rank": 4182,
+      "rank": 7286,
       "estimate": "<7k",
       "name": "A Study in Blue"
     },
+    "4341550": {
+      "rank": 9792,
+      "estimate": "<7k",
+      "name": "After Hours"
+    },
+    "4370860": {
+      "rank": 7395,
+      "estimate": "<7k",
+      "name": "Black Plague"
+    },
+    "4394480": {
+      "rank": 1136,
+      "estimate": "25k+",
+      "name": "Bracer"
+    },
     "4406280": {
-      "rank": 2584,
-      "estimate": "7k+",
+      "rank": 463,
+      "estimate": "80k+",
       "name": "the cabin game"
+    },
+    "4500300": {
+      "rank": 8108,
+      "estimate": "<7k",
+      "name": "Pro Sports Boxing"
+    },
+    "4516170": {
+      "rank": 7661,
+      "estimate": "<7k",
+      "name": "100 Lunar Cats"
+    },
+    "4524580": {
+      "rank": 4361,
+      "estimate": "<7k",
+      "name": "Vecchio Furioso"
     }
   }
 }

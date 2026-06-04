@@ -1,113 +1,193 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 37,
   "entries": {
     "739790": {
-      "rank": 3384,
+      "rank": 5376,
       "estimate": "<7k",
       "name": "The Beauty Cult's NECTARMANCER"
     },
-    "896820": {
-      "rank": 4518,
+    "1024000": {
+      "rank": 8160,
       "estimate": "<7k",
-      "name": "Magic Trickery"
+      "name": "Choppy Waves"
     },
     "1127370": {
-      "rank": 3107,
+      "rank": 3903,
       "estimate": "<7k",
       "name": "Insignia"
     },
-    "1628240": {
-      "rank": 4019,
-      "estimate": "<7k",
-      "name": "Ships 2022"
-    },
-    "1714770": {
-      "rank": 4630,
-      "estimate": "<7k",
-      "name": "The Misanthropic Girl"
-    },
     "2154780": {
-      "rank": 1263,
-      "estimate": "25k+",
+      "rank": 5773,
+      "estimate": "<7k",
       "name": "Elation For The Wonder Box 6000"
     },
-    "2237320": {
-      "rank": 2281,
-      "estimate": "7k+",
-      "name": "Dwarf Delve"
-    },
     "2302770": {
-      "rank": 2126,
-      "estimate": "7k+",
+      "rank": 6342,
+      "estimate": "<7k",
       "name": "Space Gears"
     },
     "2488900": {
-      "rank": 3205,
-      "estimate": "<7k",
+      "rank": 2813,
+      "estimate": "7k+",
       "name": "Aquatia"
     },
     "2567320": {
-      "rank": 3016,
+      "rank": 4152,
       "estimate": "<7k",
       "name": "The Heirloom"
     },
     "2853830": {
-      "rank": 2883,
-      "estimate": "7k+",
+      "rank": 5016,
+      "estimate": "<7k",
       "name": "Folder Dungeon"
     },
-    "3018500": {
-      "rank": 4033,
-      "estimate": "<7k",
-      "name": "Broken Shell"
-    },
     "3129420": {
-      "rank": 2606,
-      "estimate": "7k+",
+      "rank": 4100,
+      "estimate": "<7k",
       "name": "ASPIS"
     },
     "3152440": {
-      "rank": 1146,
-      "estimate": "25k+",
+      "rank": 289,
+      "estimate": "80k+",
       "name": "The Florist"
     },
+    "3207340": {
+      "rank": 7223,
+      "estimate": "<7k",
+      "name": "Hide and Sheep"
+    },
+    "3333380": {
+      "rank": 1685,
+      "estimate": "15k+",
+      "name": "Dungeon Hotpot"
+    },
+    "3496340": {
+      "rank": 1991,
+      "estimate": "15k+",
+      "name": "Welcome to the Sharehouse! ~ domestic life with three cute girls~"
+    },
+    "3504050": {
+      "rank": 5648,
+      "estimate": "<7k",
+      "name": "Hillthorn"
+    },
+    "3748610": {
+      "rank": 8823,
+      "estimate": "<7k",
+      "name": "War and Magic: Kingdom Reborn"
+    },
+    "3803720": {
+      "rank": 8954,
+      "estimate": "<7k",
+      "name": "Meowniverse"
+    },
+    "3825870": {
+      "rank": 3843,
+      "estimate": "<7k",
+      "name": "Train Manager"
+    },
+    "3882150": {
+      "rank": 5246,
+      "estimate": "<7k",
+      "name": "Grim Axiom"
+    },
+    "3922300": {
+      "rank": 9946,
+      "estimate": "<7k",
+      "name": "Farmageddon"
+    },
+    "3957050": {
+      "rank": 9016,
+      "estimate": "<7k",
+      "name": "Ballatory"
+    },
     "4080520": {
-      "rank": 2483,
-      "estimate": "7k+",
+      "rank": 1558,
+      "estimate": "15k+",
       "name": "Horns of Deliverance"
     },
     "4138920": {
-      "rank": 2373,
-      "estimate": "7k+",
+      "rank": 4094,
+      "estimate": "<7k",
       "name": "Aliya: Timelink2 Dawn"
     },
+    "4154290": {
+      "rank": 8438,
+      "estimate": "<7k",
+      "name": "REC in Peace"
+    },
     "4218620": {
-      "rank": 2235,
-      "estimate": "7k+",
+      "rank": 323,
+      "estimate": "80k+",
       "name": "Double Dealers"
     },
-    "4261080": {
-      "rank": 4348,
+    "4236790": {
+      "rank": 5760,
       "estimate": "<7k",
+      "name": "GTJ: Grand Theft Japan"
+    },
+    "4261080": {
+      "rank": 396,
+      "estimate": "80k+",
       "name": "Expedition of the Guild"
     },
     "4285110": {
-      "rank": 2617,
+      "rank": 2041,
       "estimate": "7k+",
       "name": "Tunnel Escape Fates Entwined"
     },
     "4310270": {
-      "rank": 3436,
-      "estimate": "<7k",
+      "rank": 1535,
+      "estimate": "15k+",
       "name": "CAPTCHA Hell"
     },
+    "4336890": {
+      "rank": 3806,
+      "estimate": "<7k",
+      "name": "WorldLens VR"
+    },
+    "4348770": {
+      "rank": 2930,
+      "estimate": "7k+",
+      "name": "Canvas of Thoughts"
+    },
     "4369490": {
-      "rank": 1121,
-      "estimate": "25k+",
+      "rank": 68,
+      "estimate": "300k+",
       "name": "Soulbound: Online"
+    },
+    "4515550": {
+      "rank": 7658,
+      "estimate": "<7k",
+      "name": "不吃鱼 DonEatFish"
+    },
+    "4549300": {
+      "rank": 8161,
+      "estimate": "<7k",
+      "name": "My Dearest Direst Disaster"
+    },
+    "4615010": {
+      "rank": 9062,
+      "estimate": "<7k",
+      "name": "Kibble Cats"
+    },
+    "4641640": {
+      "rank": 5382,
+      "estimate": "<7k",
+      "name": "Only Humans On Board"
+    },
+    "4660050": {
+      "rank": 9123,
+      "estimate": "<7k",
+      "name": "Stop slacking"
+    },
+    "4777350": {
+      "rank": 7805,
+      "estimate": "<7k",
+      "name": "Sim Racing Telemetry - F1 26 (F1 25: 2026 Season Pack)"
     }
   }
 }

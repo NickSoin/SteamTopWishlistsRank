@@ -1,73 +1,188 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 13,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 36,
   "entries": {
-    "1036430": {
-      "rank": 2551,
-      "estimate": "7k+",
-      "name": "Neverdark"
+    "1561510": {
+      "rank": 9138,
+      "estimate": "<7k",
+      "name": "Immortal Space God"
+    },
+    "1720700": {
+      "rank": 3653,
+      "estimate": "<7k",
+      "name": "Illegal Plantation"
     },
     "1952620": {
-      "rank": 74,
-      "estimate": "300k+",
+      "rank": 26,
+      "estimate": "600k+",
       "name": "The Lost Wild"
     },
-    "1991250": {
-      "rank": 1833,
-      "estimate": "15k+",
-      "name": "Automation Station"
-    },
     "2085660": {
-      "rank": 4026,
+      "rank": 3443,
       "estimate": "<7k",
       "name": "Devices Tycoon"
     },
     "2192380": {
-      "rank": 216,
-      "estimate": "80k+",
+      "rank": 1848,
+      "estimate": "15k+",
       "name": "Begone Beast"
     },
+    "2531840": {
+      "rank": 1645,
+      "estimate": "15k+",
+      "name": "Goeland: Seagull Adventure"
+    },
     "2575040": {
-      "rank": 2743,
-      "estimate": "7k+",
+      "rank": 4000,
+      "estimate": "<7k",
       "name": "Mansion of Memories"
     },
     "2791260": {
-      "rank": 4138,
-      "estimate": "<7k",
+      "rank": 1908,
+      "estimate": "15k+",
       "name": "Iron Inc."
     },
-    "2902600": {
-      "rank": 3271,
+    "2809260": {
+      "rank": 9743,
       "estimate": "<7k",
-      "name": "Call of Elyndra"
+      "name": "The Dark Thicket"
+    },
+    "2847820": {
+      "rank": 3055,
+      "estimate": "<7k",
+      "name": "Elderwood Online"
     },
     "2989890": {
-      "rank": 2678,
-      "estimate": "7k+",
+      "rank": 3219,
+      "estimate": "<7k",
       "name": "Formula Circus"
     },
+    "3016940": {
+      "rank": 3212,
+      "estimate": "<7k",
+      "name": "Garden of Ants"
+    },
     "3070430": {
-      "rank": 2637,
-      "estimate": "7k+",
+      "rank": 8542,
+      "estimate": "<7k",
       "name": "Nova Era:Atom"
     },
+    "3217880": {
+      "rank": 1986,
+      "estimate": "15k+",
+      "name": "End of Ember"
+    },
+    "3547880": {
+      "rank": 2644,
+      "estimate": "7k+",
+      "name": "FeeBay Simulator"
+    },
+    "3648480": {
+      "rank": 4529,
+      "estimate": "<7k",
+      "name": "Endless War"
+    },
+    "3693620": {
+      "rank": 8034,
+      "estimate": "<7k",
+      "name": "137"
+    },
+    "3698540": {
+      "rank": 5268,
+      "estimate": "<7k",
+      "name": "30 DAYS. ALONE. ADRIFT."
+    },
+    "3776730": {
+      "rank": 4305,
+      "estimate": "<7k",
+      "name": "House of Heists"
+    },
     "3792170": {
-      "rank": 3972,
+      "rank": 7244,
       "estimate": "<7k",
       "name": "LOVE WMC"
     },
     "3894850": {
-      "rank": 1468,
-      "estimate": "25k+",
+      "rank": 1677,
+      "estimate": "15k+",
       "name": "Nothing To Declare"
     },
+    "3934280": {
+      "rank": 7349,
+      "estimate": "<7k",
+      "name": "Pledged to a Princess"
+    },
+    "4015380": {
+      "rank": 6016,
+      "estimate": "<7k",
+      "name": "雪楔——无尽序曲与终末之歌"
+    },
+    "4125630": {
+      "rank": 5461,
+      "estimate": "<7k",
+      "name": "四合 Quadrangle"
+    },
+    "4213960": {
+      "rank": 5676,
+      "estimate": "<7k",
+      "name": "Messenger of Death: Blood Bond"
+    },
+    "4274970": {
+      "rank": 6438,
+      "estimate": "<7k",
+      "name": "Summit Smash"
+    },
+    "4334670": {
+      "rank": 6464,
+      "estimate": "<7k",
+      "name": "ARTMESS"
+    },
     "4341010": {
-      "rank": 1171,
-      "estimate": "25k+",
+      "rank": 2382,
+      "estimate": "7k+",
       "name": "Lost Track"
+    },
+    "4370300": {
+      "rank": 2068,
+      "estimate": "7k+",
+      "name": "Exorcist Hotline"
+    },
+    "4500460": {
+      "rank": 9590,
+      "estimate": "<7k",
+      "name": "What The Dog Remembers"
+    },
+    "4506220": {
+      "rank": 1236,
+      "estimate": "25k+",
+      "name": "Sly Apes"
+    },
+    "4553370": {
+      "rank": 1266,
+      "estimate": "25k+",
+      "name": "SOMBRAS: negative frames"
+    },
+    "4573570": {
+      "rank": 6141,
+      "estimate": "<7k",
+      "name": "Echoes of Stella"
+    },
+    "4601260": {
+      "rank": 6445,
+      "estimate": "<7k",
+      "name": "The House Always Wins"
+    },
+    "4664030": {
+      "rank": 6442,
+      "estimate": "<7k",
+      "name": "Seven Seas Jewels 2 Collector's Edition"
+    },
+    "4725100": {
+      "rank": 6614,
+      "estimate": "<7k",
+      "name": "QR Code Generator"
     }
   }
 }

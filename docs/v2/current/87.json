@@ -1,143 +1,258 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 50,
   "entries": {
     "905240": {
-      "rank": 1419,
-      "estimate": "25k+",
+      "rank": 8273,
+      "estimate": "<7k",
       "name": "Street Tuning Evolution"
     },
     "1401370": {
-      "rank": 175,
-      "estimate": "200k+",
+      "rank": 3238,
+      "estimate": "<7k",
       "name": "Viking City Builder"
     },
     "1473960": {
-      "rank": 1546,
-      "estimate": "15k+",
+      "rank": 522,
+      "estimate": "40k+",
       "name": "Wreck Runners"
     },
-    "1771040": {
-      "rank": 4239,
-      "estimate": "<7k",
-      "name": "Quiet Farm"
+    "1644050": {
+      "rank": 1646,
+      "estimate": "15k+",
+      "name": "Bad Badger"
     },
-    "2156330": {
-      "rank": 4168,
+    "2174510": {
+      "rank": 3098,
       "estimate": "<7k",
-      "name": "The Unfettered"
+      "name": "Backseat Champions"
     },
     "2349840": {
-      "rank": 2349,
-      "estimate": "7k+",
+      "rank": 4437,
+      "estimate": "<7k",
       "name": "MOBA Esport Manager 25"
     },
-    "2448200": {
-      "rank": 3073,
-      "estimate": "<7k",
-      "name": "Aojuji Hospital: Tokyo Eidolic Anatomy Division"
-    },
     "2521660": {
-      "rank": 3115,
+      "rank": 9407,
       "estimate": "<7k",
       "name": "Mendacium"
     },
     "2528960": {
-      "rank": 4204,
+      "rank": 8729,
       "estimate": "<7k",
       "name": "O3: Hollow Descent"
     },
     "2539940": {
-      "rank": 3840,
+      "rank": 8439,
       "estimate": "<7k",
       "name": "Jinn"
     },
     "2681560": {
-      "rank": 943,
-      "estimate": "40k+",
+      "rank": 1613,
+      "estimate": "15k+",
       "name": "Train Station Project"
     },
     "2702430": {
-      "rank": 762,
-      "estimate": "40k+",
+      "rank": 3075,
+      "estimate": "<7k",
       "name": "Usual June"
     },
     "2705130": {
-      "rank": 138,
-      "estimate": "200k+",
+      "rank": 1917,
+      "estimate": "15k+",
       "name": "Exoborne"
     },
     "2776770": {
-      "rank": 4036,
-      "estimate": "<7k",
+      "rank": 1591,
+      "estimate": "15k+",
       "name": "Blocks for Babies"
     },
     "2783370": {
-      "rank": 1708,
-      "estimate": "15k+",
+      "rank": 3210,
+      "estimate": "<7k",
       "name": "Teeto"
     },
     "2847780": {
-      "rank": 999,
+      "rank": 784,
       "estimate": "40k+",
       "name": "Nocturnal 2"
     },
+    "2872850": {
+      "rank": 9758,
+      "estimate": "<7k",
+      "name": "Vietnam '66"
+    },
     "2893550": {
-      "rank": 3639,
+      "rank": 6843,
       "estimate": "<7k",
       "name": "CHORDIOID"
     },
     "3064250": {
-      "rank": 4628,
+      "rank": 4410,
       "estimate": "<7k",
       "name": "War Drone FPV Quad Simulator"
     },
     "3211560": {
-      "rank": 4281,
-      "estimate": "<7k",
+      "rank": 1618,
+      "estimate": "15k+",
       "name": "Die Deep"
     },
     "3314300": {
-      "rank": 4122,
+      "rank": 6365,
       "estimate": "<7k",
       "name": "Gnawer No. 44 Observation Report"
     },
     "3375110": {
-      "rank": 2207,
-      "estimate": "7k+",
+      "rank": 1814,
+      "estimate": "15k+",
       "name": "Tiny Eden"
     },
+    "3398160": {
+      "rank": 6124,
+      "estimate": "<7k",
+      "name": "SUPER DEBT"
+    },
     "3439410": {
-      "rank": 1669,
-      "estimate": "15k+",
+      "rank": 477,
+      "estimate": "80k+",
       "name": "HellHeart Breaker"
     },
+    "3462780": {
+      "rank": 5317,
+      "estimate": "<7k",
+      "name": "Bee Space"
+    },
     "3484670": {
-      "rank": 2974,
-      "estimate": "7k+",
+      "rank": 6229,
+      "estimate": "<7k",
       "name": "Blanksword"
     },
     "3867570": {
-      "rank": 694,
-      "estimate": "40k+",
+      "rank": 2020,
+      "estimate": "7k+",
       "name": "Stellar Trader"
     },
+    "3897300": {
+      "rank": 3153,
+      "estimate": "<7k",
+      "name": "A Line Held Tight"
+    },
+    "3927890": {
+      "rank": 6784,
+      "estimate": "<7k",
+      "name": "Fleet Craft"
+    },
+    "4060820": {
+      "rank": 7527,
+      "estimate": "<7k",
+      "name": "Shrouded Suns"
+    },
+    "4072650": {
+      "rank": 7307,
+      "estimate": "<7k",
+      "name": "What Was Found at Ravenhill"
+    },
     "4073860": {
-      "rank": 2808,
-      "estimate": "7k+",
+      "rank": 1676,
+      "estimate": "15k+",
       "name": "Sludgineers"
     },
-    "4076980": {
-      "rank": 3603,
+    "4094470": {
+      "rank": 8461,
       "estimate": "<7k",
-      "name": "ONE GIANT HOLE"
+      "name": "Senatus"
     },
     "4206080": {
-      "rank": 1649,
-      "estimate": "15k+",
+      "rank": 3246,
+      "estimate": "<7k",
       "name": "Neidfyre"
+    },
+    "4238140": {
+      "rank": 9968,
+      "estimate": "<7k",
+      "name": "Infant God"
+    },
+    "4307130": {
+      "rank": 9327,
+      "estimate": "<7k",
+      "name": "众星入海"
+    },
+    "4314660": {
+      "rank": 5576,
+      "estimate": "<7k",
+      "name": "Victoria 3: State and Revolution - Immersion Pack"
+    },
+    "4328890": {
+      "rank": 9614,
+      "estimate": "<7k",
+      "name": "Duck the Police"
+    },
+    "4381370": {
+      "rank": 2286,
+      "estimate": "7k+",
+      "name": "FEMBOY SLEEPOVER - Episode 1"
+    },
+    "4392550": {
+      "rank": 496,
+      "estimate": "80k+",
+      "name": "Wicked Night: Holy Knights"
+    },
+    "4483470": {
+      "rank": 5718,
+      "estimate": "<7k",
+      "name": "Outer Empires 2"
+    },
+    "4513380": {
+      "rank": 6607,
+      "estimate": "<7k",
+      "name": "Idle AI Factory"
+    },
+    "4529680": {
+      "rank": 4612,
+      "estimate": "<7k",
+      "name": "Book & Horn"
+    },
+    "4620130": {
+      "rank": 9201,
+      "estimate": "<7k",
+      "name": "Mechanocide: Fortress Omega"
+    },
+    "4647160": {
+      "rank": 8514,
+      "estimate": "<7k",
+      "name": "Raze The Realm"
+    },
+    "4651710": {
+      "rank": 6778,
+      "estimate": "<7k",
+      "name": "IN:DARK RECALL"
+    },
+    "4678290": {
+      "rank": 4721,
+      "estimate": "<7k",
+      "name": "Sudoku Cats"
+    },
+    "4688950": {
+      "rank": 3882,
+      "estimate": "<7k",
+      "name": "Choppageddon"
+    },
+    "4717870": {
+      "rank": 6129,
+      "estimate": "<7k",
+      "name": "Uchi No Heya!"
+    },
+    "4745330": {
+      "rank": 7845,
+      "estimate": "<7k",
+      "name": "Backrooms Complex"
+    },
+    "4767110": {
+      "rank": 6177,
+      "estimate": "<7k",
+      "name": "Wheelchair For Two"
     }
   }
 }

@@ -1,68 +1,198 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 38,
   "entries": {
     "1374860": {
-      "rank": 334,
-      "estimate": "80k+",
+      "rank": 195,
+      "estimate": "200k+",
       "name": "Nocturne"
     },
     "1766500": {
-      "rank": 1407,
-      "estimate": "25k+",
+      "rank": 6253,
+      "estimate": "<7k",
       "name": "Dread Pilots"
     },
     "1778860": {
-      "rank": 2907,
-      "estimate": "7k+",
+      "rank": 9380,
+      "estimate": "<7k",
       "name": "Drug Dealer Manager"
     },
-    "2518610": {
-      "rank": 3593,
+    "2760710": {
+      "rank": 2447,
+      "estimate": "7k+",
+      "name": "Return: Unknown"
+    },
+    "2957130": {
+      "rank": 5593,
       "estimate": "<7k",
-      "name": "Where Beasts Were Born"
+      "name": "Bugscraper"
+    },
+    "3005720": {
+      "rank": 9727,
+      "estimate": "<7k",
+      "name": "Ink Escape: Coven Conundrum"
     },
     "3062060": {
-      "rank": 2558,
-      "estimate": "7k+",
+      "rank": 9970,
+      "estimate": "<7k",
       "name": "Drive Thru Simulator"
     },
     "3153900": {
-      "rank": 3939,
+      "rank": 6470,
       "estimate": "<7k",
       "name": "Rolling Thunder: Vietnam"
     },
+    "3196370": {
+      "rank": 6617,
+      "estimate": "<7k",
+      "name": "Paperlands"
+    },
+    "3197180": {
+      "rank": 4088,
+      "estimate": "<7k",
+      "name": "Hack Fate"
+    },
+    "3242730": {
+      "rank": 4556,
+      "estimate": "<7k",
+      "name": "VERISMO"
+    },
     "3304010": {
-      "rank": 4312,
+      "rank": 6901,
       "estimate": "<7k",
       "name": "Blackblade Revenant"
     },
+    "3556510": {
+      "rank": 9967,
+      "estimate": "<7k",
+      "name": "DEEP SIX"
+    },
+    "3579980": {
+      "rank": 2799,
+      "estimate": "7k+",
+      "name": "Departure of Darkness"
+    },
+    "3601810": {
+      "rank": 4608,
+      "estimate": "<7k",
+      "name": "Clear the Snow"
+    },
+    "3650580": {
+      "rank": 3092,
+      "estimate": "<7k",
+      "name": "Golden Tides"
+    },
+    "3767620": {
+      "rank": 6666,
+      "estimate": "<7k",
+      "name": "Harvest Yuuka"
+    },
     "3789080": {
-      "rank": 3529,
+      "rank": 6376,
       "estimate": "<7k",
       "name": "HIROTONFA’s American Revolution Smuggler"
     },
+    "3825270": {
+      "rank": 5745,
+      "estimate": "<7k",
+      "name": "BOX GAME: SHOWDOWN"
+    },
+    "3845610": {
+      "rank": 7403,
+      "estimate": "<7k",
+      "name": "Bound by Destiny"
+    },
+    "3923910": {
+      "rank": 3576,
+      "estimate": "<7k",
+      "name": "Replica Club √D-レプリカクラブ ルートD"
+    },
+    "3929660": {
+      "rank": 3597,
+      "estimate": "<7k",
+      "name": "The Rules Kaidan: Night Watch"
+    },
+    "3930950": {
+      "rank": 9537,
+      "estimate": "<7k",
+      "name": "FARCRAFT"
+    },
     "3968160": {
-      "rank": 1971,
-      "estimate": "15k+",
+      "rank": 884,
+      "estimate": "40k+",
       "name": "Island Beekeeper"
     },
-    "4078110": {
-      "rank": 3190,
+    "3988870": {
+      "rank": 1127,
+      "estimate": "25k+",
+      "name": "SAMLA"
+    },
+    "3993140": {
+      "rank": 4755,
       "estimate": "<7k",
+      "name": "Crimson Rest"
+    },
+    "4037050": {
+      "rank": 8747,
+      "estimate": "<7k",
+      "name": "The Last Days of Reason"
+    },
+    "4048100": {
+      "rank": 2904,
+      "estimate": "7k+",
+      "name": "Hello World"
+    },
+    "4078110": {
+      "rank": 2735,
+      "estimate": "7k+",
       "name": "Suncraft"
     },
     "4105540": {
-      "rank": 2205,
-      "estimate": "7k+",
+      "rank": 485,
+      "estimate": "80k+",
       "name": "Fossil Quest"
     },
+    "4176450": {
+      "rank": 9937,
+      "estimate": "<7k",
+      "name": "Magic Island New Era"
+    },
     "4262380": {
-      "rank": 3604,
+      "rank": 3369,
       "estimate": "<7k",
       "name": "Sea Warden"
+    },
+    "4315950": {
+      "rank": 3746,
+      "estimate": "<7k",
+      "name": "Mars Colony Simulator"
+    },
+    "4445950": {
+      "rank": 4142,
+      "estimate": "<7k",
+      "name": "The Panic Pit"
+    },
+    "4671050": {
+      "rank": 3923,
+      "estimate": "<7k",
+      "name": "American Revolutionary War"
+    },
+    "4681880": {
+      "rank": 6962,
+      "estimate": "<7k",
+      "name": "Dragon Kisser"
+    },
+    "4745890": {
+      "rank": 8037,
+      "estimate": "<7k",
+      "name": "LastWatch"
+    },
+    "4748480": {
+      "rank": 8955,
+      "estimate": "<7k",
+      "name": "The Current Past"
     }
   }
 }

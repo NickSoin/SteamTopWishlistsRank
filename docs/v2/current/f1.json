@@ -1,88 +1,218 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 42,
   "entries": {
     "1198690": {
-      "rank": 1943,
-      "estimate": "15k+",
+      "rank": 6849,
+      "estimate": "<7k",
       "name": "REBORN: Survival"
     },
     "1343010": {
-      "rank": 1858,
-      "estimate": "15k+",
+      "rank": 9057,
+      "estimate": "<7k",
       "name": "Antimatter"
     },
     "1735370": {
-      "rank": 1658,
-      "estimate": "15k+",
+      "rank": 1455,
+      "estimate": "25k+",
       "name": "Necrowave"
     },
     "1808160": {
-      "rank": 963,
-      "estimate": "40k+",
+      "rank": 5472,
+      "estimate": "<7k",
       "name": "Demon Spore"
     },
-    "1964860": {
-      "rank": 4434,
+    "1908620": {
+      "rank": 8617,
       "estimate": "<7k",
-      "name": "Titan Shell"
+      "name": "Descend"
     },
     "1967050": {
-      "rank": 3191,
+      "rank": 6255,
       "estimate": "<7k",
       "name": "It Was You"
     },
+    "2096780": {
+      "rank": 7199,
+      "estimate": "<7k",
+      "name": "CRT7"
+    },
+    "2233660": {
+      "rank": 9484,
+      "estimate": "<7k",
+      "name": "Defaced: Dark Abyss"
+    },
     "2395960": {
-      "rank": 3066,
+      "rank": 8112,
       "estimate": "<7k",
       "name": "Ice Truckers"
     },
     "2536510": {
-      "rank": 208,
-      "estimate": "80k+",
+      "rank": 585,
+      "estimate": "40k+",
       "name": "The God Slayer"
     },
     "2616540": {
-      "rank": 668,
-      "estimate": "40k+",
+      "rank": 1175,
+      "estimate": "25k+",
       "name": "Croak"
     },
+    "2840310": {
+      "rank": 9455,
+      "estimate": "<7k",
+      "name": "Skid Island: Asphalt Mayhem"
+    },
+    "2867340": {
+      "rank": 6267,
+      "estimate": "<7k",
+      "name": "Nonu"
+    },
     "2904120": {
-      "rank": 2763,
-      "estimate": "7k+",
+      "rank": 6900,
+      "estimate": "<7k",
       "name": "Sand Nomads"
     },
     "2956040": {
-      "rank": 44,
-      "estimate": "600k+",
+      "rank": 480,
+      "estimate": "80k+",
       "name": "PVKK: Planetenverteidigungskanonenkommandant"
     },
     "2962780": {
-      "rank": 2090,
-      "estimate": "7k+",
+      "rank": 1072,
+      "estimate": "25k+",
       "name": "BeastLink"
     },
+    "3326570": {
+      "rank": 1513,
+      "estimate": "15k+",
+      "name": "Valefor 2"
+    },
     "3465440": {
-      "rank": 2665,
-      "estimate": "7k+",
+      "rank": 3189,
+      "estimate": "<7k",
       "name": "CitaDrill"
     },
+    "3475470": {
+      "rank": 4812,
+      "estimate": "<7k",
+      "name": "Supermarket"
+    },
+    "3485200": {
+      "rank": 2854,
+      "estimate": "7k+",
+      "name": "Whatever It Takes"
+    },
+    "3501180": {
+      "rank": 2875,
+      "estimate": "7k+",
+      "name": "MassEve"
+    },
+    "3537620": {
+      "rank": 9368,
+      "estimate": "<7k",
+      "name": "Friday Night"
+    },
+    "3691210": {
+      "rank": 6906,
+      "estimate": "<7k",
+      "name": "Awrak Deckbuilder"
+    },
     "3694190": {
-      "rank": 1687,
-      "estimate": "15k+",
+      "rank": 1038,
+      "estimate": "25k+",
       "name": "Deep Pixel Melancholy"
     },
     "3725830": {
-      "rank": 3428,
+      "rank": 3089,
       "estimate": "<7k",
       "name": "Citrus Summer"
     },
-    "3921010": {
-      "rank": 3594,
+    "3772140": {
+      "rank": 4834,
       "estimate": "<7k",
+      "name": "Beggar's Life"
+    },
+    "3875210": {
+      "rank": 8809,
+      "estimate": "<7k",
+      "name": "Cardtonia"
+    },
+    "3921010": {
+      "rank": 1754,
+      "estimate": "15k+",
       "name": "War Alert"
+    },
+    "3930650": {
+      "rank": 6121,
+      "estimate": "<7k",
+      "name": "Dream Liminal"
+    },
+    "4118400": {
+      "rank": 9297,
+      "estimate": "<7k",
+      "name": "100 Casino Cats"
+    },
+    "4129040": {
+      "rank": 8489,
+      "estimate": "<7k",
+      "name": "DEORUM"
+    },
+    "4248790": {
+      "rank": 965,
+      "estimate": "40k+",
+      "name": "Substrate: Emergence"
+    },
+    "4406440": {
+      "rank": 7039,
+      "estimate": "<7k",
+      "name": "Iron & Incense"
+    },
+    "4433750": {
+      "rank": 8484,
+      "estimate": "<7k",
+      "name": "Alice on Delivery"
+    },
+    "4528890": {
+      "rank": 8422,
+      "estimate": "<7k",
+      "name": "Incrementoad"
+    },
+    "4570770": {
+      "rank": 8865,
+      "estimate": "<7k",
+      "name": "Blast'N Bounty"
+    },
+    "4584470": {
+      "rank": 2708,
+      "estimate": "7k+",
+      "name": "Chess: Three Kingdom"
+    },
+    "4600400": {
+      "rank": 5727,
+      "estimate": "<7k",
+      "name": "HELLXORCIST"
+    },
+    "4662170": {
+      "rank": 7083,
+      "estimate": "<7k",
+      "name": "Larva"
+    },
+    "4674490": {
+      "rank": 6858,
+      "estimate": "<7k",
+      "name": "Anchor Protocol"
+    },
+    "4700520": {
+      "rank": 5496,
+      "estimate": "<7k",
+      "name": "Days Of Reckoning: Last Battle"
+    },
+    "4731160": {
+      "rank": 7284,
+      "estimate": "<7k",
+      "name": "Read of Mask"
     }
   }
 }

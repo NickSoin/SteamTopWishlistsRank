@@ -1,93 +1,208 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 40,
   "entries": {
     "1234990": {
-      "rank": 2877,
-      "estimate": "7k+",
+      "rank": 9598,
+      "estimate": "<7k",
       "name": "Pry Into The Void"
     },
     "1528950": {
-      "rank": 3989,
+      "rank": 6734,
       "estimate": "<7k",
       "name": "主播模拟器（Streamer Simulator）"
     },
-    "1661480": {
-      "rank": 3182,
-      "estimate": "<7k",
-      "name": "Fear Underground"
-    },
     "1717730": {
-      "rank": 1131,
+      "rank": 1237,
       "estimate": "25k+",
       "name": "LUCID"
     },
     "2211000": {
-      "rank": 1874,
-      "estimate": "15k+",
+      "rank": 4297,
+      "estimate": "<7k",
       "name": "INANIMA"
     },
     "2239770": {
-      "rank": 89,
-      "estimate": "300k+",
+      "rank": 154,
+      "estimate": "200k+",
       "name": "Don't Starve Elsewhere"
     },
-    "2269490": {
-      "rank": 4112,
+    "2335500": {
+      "rank": 6115,
       "estimate": "<7k",
-      "name": "Small Town Emo"
+      "name": "Pogona"
     },
     "2390130": {
-      "rank": 1408,
-      "estimate": "25k+",
+      "rank": 1584,
+      "estimate": "15k+",
       "name": "Design and Conjure"
     },
     "2707440": {
-      "rank": 3029,
+      "rank": 3161,
       "estimate": "<7k",
       "name": "Floralis"
     },
     "2838890": {
-      "rank": 3979,
-      "estimate": "<7k",
+      "rank": 1916,
+      "estimate": "15k+",
       "name": "Mithrall"
     },
+    "2986980": {
+      "rank": 3621,
+      "estimate": "<7k",
+      "name": "Enigma Heart"
+    },
+    "3072400": {
+      "rank": 9428,
+      "estimate": "<7k",
+      "name": "Arm Around!"
+    },
     "3079210": {
-      "rank": 30,
-      "estimate": "600k+",
+      "rank": 11,
+      "estimate": "800k+",
       "name": "Hell Let Loose: Vietnam"
     },
     "3145650": {
-      "rank": 2655,
-      "estimate": "7k+",
+      "rank": 9155,
+      "estimate": "<7k",
       "name": "ノナプルナイン：アシンプトート"
     },
     "3194740": {
-      "rank": 2127,
-      "estimate": "7k+",
+      "rank": 4151,
+      "estimate": "<7k",
       "name": "FUMEHEAD"
     },
     "3285390": {
-      "rank": 3183,
+      "rank": 4872,
       "estimate": "<7k",
       "name": "SeverLink"
     },
     "3462580": {
-      "rank": 3750,
+      "rank": 5248,
       "estimate": "<7k",
       "name": "Factory Life"
     },
-    "3736070": {
-      "rank": 4094,
+    "3590010": {
+      "rank": 3495,
       "estimate": "<7k",
+      "name": "Robot Hospice"
+    },
+    "3705780": {
+      "rank": 7764,
+      "estimate": "<7k",
+      "name": "O.S.A."
+    },
+    "3736070": {
+      "rank": 1503,
+      "estimate": "15k+",
       "name": "Survivors Guild"
     },
     "3925810": {
-      "rank": 3364,
+      "rank": 4269,
       "estimate": "<7k",
       "name": "The Lurking Fear"
+    },
+    "3953110": {
+      "rank": 9382,
+      "estimate": "<7k",
+      "name": "The Uninvited 2: Let Nothing You Dismay"
+    },
+    "3965670": {
+      "rank": 2479,
+      "estimate": "7k+",
+      "name": "Apollo Sonata"
+    },
+    "3979770": {
+      "rank": 7615,
+      "estimate": "<7k",
+      "name": "Gilt"
+    },
+    "4051800": {
+      "rank": 5880,
+      "estimate": "<7k",
+      "name": "Crime Scene Clean: Paranormal"
+    },
+    "4166360": {
+      "rank": 7212,
+      "estimate": "<7k",
+      "name": "ORKASTLE"
+    },
+    "4177120": {
+      "rank": 4030,
+      "estimate": "<7k",
+      "name": "BLOOD MALL: PART II"
+    },
+    "4182520": {
+      "rank": 8938,
+      "estimate": "<7k",
+      "name": "tinyfrog"
+    },
+    "4213310": {
+      "rank": 6053,
+      "estimate": "<7k",
+      "name": "Cardaver"
+    },
+    "4276210": {
+      "rank": 9476,
+      "estimate": "<7k",
+      "name": "Infinite Space: Mining"
+    },
+    "4358460": {
+      "rank": 8688,
+      "estimate": "<7k",
+      "name": "Card Homestead"
+    },
+    "4417060": {
+      "rank": 7257,
+      "estimate": "<7k",
+      "name": "Dark Roll 2"
+    },
+    "4420440": {
+      "rank": 7549,
+      "estimate": "<7k",
+      "name": "Legacy of Sail"
+    },
+    "4466110": {
+      "rank": 9509,
+      "estimate": "<7k",
+      "name": "Narcissist Tail"
+    },
+    "4498630": {
+      "rank": 6946,
+      "estimate": "<7k",
+      "name": "Commitment: Software Developer Life Simulator"
+    },
+    "4524120": {
+      "rank": 8875,
+      "estimate": "<7k",
+      "name": "Hollow Heart"
+    },
+    "4553500": {
+      "rank": 8987,
+      "estimate": "<7k",
+      "name": "Abyss Drifter"
+    },
+    "4569310": {
+      "rank": 1990,
+      "estimate": "15k+",
+      "name": "The Name Tide Left"
+    },
+    "4575870": {
+      "rank": 4571,
+      "estimate": "<7k",
+      "name": "Spheroll"
+    },
+    "4655060": {
+      "rank": 1628,
+      "estimate": "15k+",
+      "name": "Super Galaxy Gladiator"
+    },
+    "4793270": {
+      "rank": 4070,
+      "estimate": "<7k",
+      "name": "BERG"
     }
   }
 }

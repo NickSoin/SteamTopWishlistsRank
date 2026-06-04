@@ -1,93 +1,198 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 38,
   "entries": {
+    "1179640": {
+      "rank": 4366,
+      "estimate": "<7k",
+      "name": "Longtail!!"
+    },
     "1511480": {
-      "rank": 630,
-      "estimate": "40k+",
+      "rank": 4226,
+      "estimate": "<7k",
       "name": "AlterLife"
     },
     "1553590": {
-      "rank": 3021,
-      "estimate": "<7k",
+      "rank": 1122,
+      "estimate": "25k+",
       "name": "Saveseeker"
     },
     "1578870": {
-      "rank": 3171,
+      "rank": 5512,
       "estimate": "<7k",
       "name": "Shadowman®: Darque Legacy"
     },
     "1667040": {
-      "rank": 115,
-      "estimate": "200k+",
+      "rank": 264,
+      "estimate": "80k+",
       "name": "Under a Rock"
     },
     "1701160": {
-      "rank": 3421,
+      "rank": 7011,
       "estimate": "<7k",
       "name": "The Darkest Star"
     },
-    "1735080": {
-      "rank": 3539,
-      "estimate": "<7k",
-      "name": "High Elo Girls"
-    },
     "2054520": {
-      "rank": 2627,
-      "estimate": "7k+",
+      "rank": 7590,
+      "estimate": "<7k",
       "name": "Gawr Gura: Quest for Bread"
     },
     "2165130": {
-      "rank": 3265,
+      "rank": 9024,
       "estimate": "<7k",
       "name": "Hymn to the Earless God"
     },
     "2246370": {
-      "rank": 1564,
-      "estimate": "15k+",
+      "rank": 6758,
+      "estimate": "<7k",
       "name": "Music Power Up"
     },
     "2353050": {
-      "rank": 613,
-      "estimate": "40k+",
+      "rank": 341,
+      "estimate": "80k+",
       "name": "WTF - Waifu Tactical Force"
     },
     "2499260": {
-      "rank": 3141,
+      "rank": 9961,
       "estimate": "<7k",
       "name": "Menyr"
     },
     "2752350": {
-      "rank": 3177,
-      "estimate": "<7k",
+      "rank": 1084,
+      "estimate": "25k+",
       "name": "Deep Crafter"
     },
     "2876050": {
-      "rank": 3669,
+      "rank": 4416,
       "estimate": "<7k",
       "name": "宠物街金鱼姬 Pet Street Story"
     },
+    "2895390": {
+      "rank": 9230,
+      "estimate": "<7k",
+      "name": "Please dont wishlist this"
+    },
+    "3166130": {
+      "rank": 6327,
+      "estimate": "<7k",
+      "name": "AM Archaic Memories"
+    },
     "3188660": {
-      "rank": 1283,
-      "estimate": "25k+",
+      "rank": 2234,
+      "estimate": "7k+",
       "name": "Motocross The Game"
     },
+    "3400300": {
+      "rank": 4424,
+      "estimate": "<7k",
+      "name": "Madora"
+    },
+    "3590140": {
+      "rank": 4763,
+      "estimate": "<7k",
+      "name": "Rage & Relics"
+    },
+    "3727100": {
+      "rank": 7434,
+      "estimate": "<7k",
+      "name": "BRAINROT NIGHTMARES"
+    },
     "3778610": {
-      "rank": 2834,
-      "estimate": "7k+",
+      "rank": 1138,
+      "estimate": "25k+",
       "name": "Colorbound"
     },
+    "3877650": {
+      "rank": 4995,
+      "estimate": "<7k",
+      "name": "SMU News: Strange events recorded"
+    },
+    "3886140": {
+      "rank": 7241,
+      "estimate": "<7k",
+      "name": "Love and Lie"
+    },
+    "3910030": {
+      "rank": 8762,
+      "estimate": "<7k",
+      "name": "Late Ming Dynasty The Realm of Abyss Blood Message"
+    },
+    "3987430": {
+      "rank": 1626,
+      "estimate": "15k+",
+      "name": "Roads & Riches: Traveling Merchant Simulator"
+    },
     "4113050": {
-      "rank": 2357,
+      "rank": 2833,
       "estimate": "7k+",
       "name": "Wabisabi SushiDerby"
     },
+    "4140230": {
+      "rank": 3243,
+      "estimate": "<7k",
+      "name": "Trial By Magic"
+    },
+    "4207740": {
+      "rank": 7005,
+      "estimate": "<7k",
+      "name": "Drift Empire"
+    },
+    "4247630": {
+      "rank": 4878,
+      "estimate": "<7k",
+      "name": "Flip & Shop Simulator"
+    },
+    "4261120": {
+      "rank": 9677,
+      "estimate": "<7k",
+      "name": "Mascot Mayhem (Asymmetrical Horror)"
+    },
+    "4278580": {
+      "rank": 5501,
+      "estimate": "<7k",
+      "name": "Matchmaking for Ghosts"
+    },
+    "4280330": {
+      "rank": 8738,
+      "estimate": "<7k",
+      "name": "Sergius vs Evil Uninvited guests"
+    },
+    "4327330": {
+      "rank": 4099,
+      "estimate": "<7k",
+      "name": "Shanwen"
+    },
     "4417350": {
-      "rank": 1190,
-      "estimate": "25k+",
+      "rank": 1863,
+      "estimate": "15k+",
       "name": "Another Dead World"
+    },
+    "4519100": {
+      "rank": 7786,
+      "estimate": "<7k",
+      "name": "Hammer & Harvest: Dwarven Roots"
+    },
+    "4529950": {
+      "rank": 6210,
+      "estimate": "<7k",
+      "name": "Titanic Survival Simulator"
+    },
+    "4594370": {
+      "rank": 5809,
+      "estimate": "<7k",
+      "name": "GOLDEN MAGNET"
+    },
+    "4689360": {
+      "rank": 9499,
+      "estimate": "<7k",
+      "name": "We Pretend"
+    },
+    "4725170": {
+      "rank": 5085,
+      "estimate": "<7k",
+      "name": "Elven Huntress: Sunveil"
     }
   }
 }

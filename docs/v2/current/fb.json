@@ -1,68 +1,143 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 27,
   "entries": {
     "284080": {
-      "rank": 2530,
-      "estimate": "7k+",
+      "rank": 7093,
+      "estimate": "<7k",
       "name": "Lost Squad"
     },
     "1276510": {
-      "rank": 1036,
-      "estimate": "25k+",
+      "rank": 6370,
+      "estimate": "<7k",
       "name": "Human Farm"
     },
     "1553640": {
-      "rank": 2286,
-      "estimate": "7k+",
+      "rank": 5982,
+      "estimate": "<7k",
       "name": "There's no way that tsundere girl I met in the infirmary will be my girlfriend"
     },
     "2391610": {
-      "rank": 2223,
-      "estimate": "7k+",
+      "rank": 3404,
+      "estimate": "<7k",
       "name": "HORSE LIFE: find horses in open world, survive in wild nature as a foal or pony"
     },
-    "2684840": {
-      "rank": 3045,
+    "2536040": {
+      "rank": 9610,
       "estimate": "<7k",
-      "name": "Felbound"
+      "name": "Cozy Mozy"
     },
     "2922250": {
-      "rank": 2946,
+      "rank": 2284,
       "estimate": "7k+",
       "name": "Baptiste"
     },
-    "3045220": {
-      "rank": 3168,
+    "2980140": {
+      "rank": 7390,
       "estimate": "<7k",
+      "name": "Paul Bunyan Back to Bangor"
+    },
+    "3001790": {
+      "rank": 6369,
+      "estimate": "<7k",
+      "name": "Nuclear Sub: Prologue"
+    },
+    "3045220": {
+      "rank": 1620,
+      "estimate": "15k+",
       "name": "Mutant Hunter"
     },
-    "3351220": {
-      "rank": 4060,
+    "3620520": {
+      "rank": 7980,
       "estimate": "<7k",
-      "name": "The Rotting Chronicles"
+      "name": "IN SILICO"
     },
     "3705900": {
-      "rank": 2148,
-      "estimate": "7k+",
+      "rank": 1688,
+      "estimate": "15k+",
       "name": "President Simulator"
     },
+    "3921540": {
+      "rank": 7369,
+      "estimate": "<7k",
+      "name": "Dungeon Rumble"
+    },
     "3965610": {
-      "rank": 4365,
+      "rank": 6742,
       "estimate": "<7k",
       "name": "Stickman Fury"
     },
     "4090610": {
-      "rank": 4067,
+      "rank": 6196,
       "estimate": "<7k",
       "name": "Less Miserables"
     },
-    "4223760": {
-      "rank": 3253,
+    "4125770": {
+      "rank": 6431,
       "estimate": "<7k",
+      "name": "大侠狂想曲"
+    },
+    "4161510": {
+      "rank": 7979,
+      "estimate": "<7k",
+      "name": "红夏"
+    },
+    "4186870": {
+      "rank": 9560,
+      "estimate": "<7k",
+      "name": "Beso's Shawarma"
+    },
+    "4199140": {
+      "rank": 5998,
+      "estimate": "<7k",
+      "name": "Empires Edge"
+    },
+    "4203810": {
+      "rank": 3148,
+      "estimate": "<7k",
+      "name": "Raahi"
+    },
+    "4205430": {
+      "rank": 9069,
+      "estimate": "<7k",
+      "name": "Cursed Tails"
+    },
+    "4223760": {
+      "rank": 2240,
+      "estimate": "7k+",
       "name": "Foundation: Galactic Frontier"
+    },
+    "4237400": {
+      "rank": 9607,
+      "estimate": "<7k",
+      "name": "KOOO TO JUMP!"
+    },
+    "4464990": {
+      "rank": 1326,
+      "estimate": "25k+",
+      "name": "Rollout Inline"
+    },
+    "4573360": {
+      "rank": 7447,
+      "estimate": "<7k",
+      "name": "From Scratch"
+    },
+    "4634610": {
+      "rank": 7801,
+      "estimate": "<7k",
+      "name": "Malk"
+    },
+    "4658410": {
+      "rank": 7835,
+      "estimate": "<7k",
+      "name": "Mail Mares"
+    },
+    "4766180": {
+      "rank": 6840,
+      "estimate": "<7k",
+      "name": "Scallywhackers!"
     }
   }
 }

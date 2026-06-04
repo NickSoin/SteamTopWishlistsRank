@@ -1,87 +1,112 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 45,
   "entries": {
-    "809550": {
-      "rank": 1985,
-      "estimate": "15k+",
-      "name": "Death from Unknown: Survival"
-    },
     "1067360": {
-      "rank": 209,
-      "estimate": "80k+",
+      "rank": 665,
+      "estimate": "40k+",
       "name": "Pax Autocratica"
     },
     "1123240": {
-      "rank": 1913,
-      "estimate": "15k+",
+      "rank": 5391,
+      "estimate": "<7k",
       "name": "Greyskin"
     },
     "1335780": {
-      "rank": 1867,
-      "estimate": "15k+",
+      "rank": 5687,
+      "estimate": "<7k",
       "name": "Flight Attendant Simulator"
     },
-    "1477930": {
-      "rank": 4696,
+    "1492100": {
+      "rank": 6753,
       "estimate": "<7k",
-      "name": "Bike Messenger"
-    },
-    "1840280": {
-      "rank": 3984,
-      "estimate": "<7k",
-      "name": "Hiboka"
+      "name": "Fantasy Network"
     },
     "1994000": {
-      "rank": 275,
-      "estimate": "80k+",
+      "rank": 3500,
+      "estimate": "<7k",
       "name": "Rogue Soulstone"
     },
     "2193600": {
-      "rank": 272,
-      "estimate": "80k+",
+      "rank": 1674,
+      "estimate": "15k+",
       "name": "Paranormal Tales"
     },
     "2345340": {
-      "rank": 3533,
-      "estimate": "<7k",
+      "rank": 2606,
+      "estimate": "7k+",
       "name": "Space Travellers"
     },
     "2421750": {
-      "rank": 371,
-      "estimate": "80k+",
+      "rank": 745,
+      "estimate": "40k+",
       "name": "Gunman Contracts - Stand Alone"
     },
     "2589980": {
-      "rank": 590,
-      "estimate": "40k+",
+      "rank": 2345,
+      "estimate": "7k+",
       "name": "Eden's Guardian"
     },
     "2692660": {
-      "rank": 99,
-      "estimate": "300k+",
+      "rank": 4,
+      "estimate": "1.5m+",
       "name": "Car Mechanic Simulator 2026"
     },
     "2779310": {
-      "rank": 4270,
+      "rank": 5645,
       "estimate": "<7k",
       "name": "Stones Keeper II: Chaos Lord"
     },
+    "2815810": {
+      "rank": 9145,
+      "estimate": "<7k",
+      "name": "Golgothica"
+    },
+    "2928570": {
+      "rank": 6867,
+      "estimate": "<7k",
+      "name": "Néro & Sci ∫ Integral Edition"
+    },
     "3065940": {
-      "rank": 409,
-      "estimate": "80k+",
+      "rank": 548,
+      "estimate": "40k+",
       "name": "Gallipoli"
     },
+    "3071390": {
+      "rank": 4748,
+      "estimate": "<7k",
+      "name": "Bladesmith Shop Simulator"
+    },
+    "3076320": {
+      "rank": 6422,
+      "estimate": "<7k",
+      "name": "Chrono Commander"
+    },
     "3177760": {
-      "rank": 2437,
-      "estimate": "7k+",
+      "rank": 3409,
+      "estimate": "<7k",
       "name": "Critterville Goes Bankrupt"
     },
-    "3226060": {
-      "rank": 2919,
+    "3181660": {
+      "rank": 2699,
       "estimate": "7k+",
+      "name": "ASTHENIA"
+    },
+    "3202660": {
+      "rank": 7826,
+      "estimate": "<7k",
+      "name": "Football Owner 2025"
+    },
+    "3225850": {
+      "rank": 3429,
+      "estimate": "<7k",
+      "name": "Vending Machine Hero"
+    },
+    "3226060": {
+      "rank": 5143,
+      "estimate": "<7k",
       "name": "DreamEcho"
     },
     "3260750": {
@@ -90,14 +115,119 @@
       "name": "Stage Fright"
     },
     "3434920": {
-      "rank": 654,
-      "estimate": "40k+",
+      "rank": 1470,
+      "estimate": "25k+",
       "name": "SAGE"
     },
+    "3575850": {
+      "rank": 3283,
+      "estimate": "<7k",
+      "name": "Lone Pine"
+    },
+    "3656650": {
+      "rank": 7639,
+      "estimate": "<7k",
+      "name": "Music Producer Tycoon"
+    },
+    "3708210": {
+      "rank": 4312,
+      "estimate": "<7k",
+      "name": "Xenolocus"
+    },
+    "3815370": {
+      "rank": 7169,
+      "estimate": "<7k",
+      "name": "Talaka"
+    },
+    "4018060": {
+      "rank": 7752,
+      "estimate": "<7k",
+      "name": "Summer Delusion: The Girl Only I Can See"
+    },
+    "4046870": {
+      "rank": 8655,
+      "estimate": "<7k",
+      "name": "DAMex : DArk Matter Exodus"
+    },
+    "4110470": {
+      "rank": 9964,
+      "estimate": "<7k",
+      "name": "Aircraft Dispatcher: Ground Operations"
+    },
     "4180840": {
-      "rank": 2142,
-      "estimate": "7k+",
+      "rank": 1713,
+      "estimate": "15k+",
       "name": "Shadowstone"
+    },
+    "4314340": {
+      "rank": 8605,
+      "estimate": "<7k",
+      "name": "The Reflection"
+    },
+    "4321920": {
+      "rank": 4065,
+      "estimate": "<7k",
+      "name": "Topdeck Automat"
+    },
+    "4339590": {
+      "rank": 8635,
+      "estimate": "<7k",
+      "name": "No Clean Start"
+    },
+    "4340820": {
+      "rank": 2738,
+      "estimate": "7k+",
+      "name": "Isekai Villain"
+    },
+    "4422230": {
+      "rank": 5230,
+      "estimate": "<7k",
+      "name": "PolyTown"
+    },
+    "4457560": {
+      "rank": 6345,
+      "estimate": "<7k",
+      "name": "Play Faster"
+    },
+    "4539570": {
+      "rank": 9192,
+      "estimate": "<7k",
+      "name": "OVR Space Dragger"
+    },
+    "4572290": {
+      "rank": 7670,
+      "estimate": "<7k",
+      "name": "Spicy Content Creator"
+    },
+    "4590980": {
+      "rank": 4595,
+      "estimate": "<7k",
+      "name": "Doctor Pigeon Simulator"
+    },
+    "4642380": {
+      "rank": 5406,
+      "estimate": "<7k",
+      "name": "Nothing Ever Happens Here"
+    },
+    "4672840": {
+      "rank": 3796,
+      "estimate": "<7k",
+      "name": "The Last Slava"
+    },
+    "4692060": {
+      "rank": 6351,
+      "estimate": "<7k",
+      "name": "All Lanes Must Exit"
+    },
+    "4695230": {
+      "rank": 5692,
+      "estimate": "<7k",
+      "name": "Lunar Eclipse ~ Vol. 0"
+    },
+    "4754670": {
+      "rank": 6080,
+      "estimate": "<7k",
+      "name": "Japanese with Mayu"
     }
   }
 }

@@ -1,108 +1,178 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 34,
   "entries": {
     "270470": {
-      "rank": 3060,
+      "rank": 5535,
       "estimate": "<7k",
       "name": "Portal: Alive & Kicking"
     },
-    "1601770": {
-      "rank": 3712,
-      "estimate": "<7k",
-      "name": "RUNNER"
-    },
     "1865770": {
-      "rank": 1715,
-      "estimate": "15k+",
+      "rank": 5835,
+      "estimate": "<7k",
       "name": "Ragnarok V: Returns"
     },
-    "1979350": {
-      "rank": 2661,
-      "estimate": "7k+",
-      "name": "Astro World"
-    },
     "2073150": {
-      "rank": 1953,
-      "estimate": "15k+",
+      "rank": 6167,
+      "estimate": "<7k",
       "name": "Eldritch Empathy"
     },
-    "2083470": {
-      "rank": 4391,
-      "estimate": "<7k",
-      "name": "UTTER INVERSE"
-    },
     "2155140": {
-      "rank": 924,
-      "estimate": "40k+",
+      "rank": 2902,
+      "estimate": "7k+",
       "name": "Police Station Simulator"
     },
-    "2190640": {
-      "rank": 4405,
+    "2388030": {
+      "rank": 3905,
       "estimate": "<7k",
-      "name": "Cosmic Holidays"
-    },
-    "2522740": {
-      "rank": 3597,
-      "estimate": "<7k",
-      "name": "HoneySun"
+      "name": "LogiGolf"
     },
     "2896630": {
-      "rank": 3532,
+      "rank": 6531,
       "estimate": "<7k",
       "name": "Tomboy Adventure 2"
     },
     "2960250": {
-      "rank": 648,
-      "estimate": "40k+",
+      "rank": 1097,
+      "estimate": "25k+",
       "name": "Tempus Triad"
     },
+    "2988560": {
+      "rank": 4742,
+      "estimate": "<7k",
+      "name": "Savior Syndrome"
+    },
     "3078150": {
-      "rank": 104,
-      "estimate": "200k+",
+      "rank": 730,
+      "estimate": "40k+",
       "name": "Hawthorn"
     },
     "3131640": {
-      "rank": 349,
-      "estimate": "80k+",
+      "rank": 1259,
+      "estimate": "25k+",
       "name": "Deus Ex Remastered"
     },
     "3136340": {
-      "rank": 1257,
-      "estimate": "25k+",
+      "rank": 4597,
+      "estimate": "<7k",
       "name": "Echoes Below"
     },
+    "3157950": {
+      "rank": 5691,
+      "estimate": "<7k",
+      "name": "Hidalgo"
+    },
     "3335310": {
-      "rank": 1884,
-      "estimate": "15k+",
+      "rank": 672,
+      "estimate": "40k+",
       "name": "Remothered: Red Nun's Legacy"
     },
+    "3477520": {
+      "rank": 9688,
+      "estimate": "<7k",
+      "name": "Ragdoll Chimps"
+    },
+    "3574100": {
+      "rank": 9579,
+      "estimate": "<7k",
+      "name": "Xiaye's Doors of Magic: Lightchaser"
+    },
+    "3598450": {
+      "rank": 8872,
+      "estimate": "<7k",
+      "name": "A Story of Questions"
+    },
     "3603730": {
-      "rank": 3609,
+      "rank": 6006,
       "estimate": "<7k",
       "name": "GCR3 Geoff Crammond"
     },
     "3608090": {
-      "rank": 4489,
+      "rank": 7992,
       "estimate": "<7k",
       "name": "Ultimate Lemon Basket"
     },
     "3619580": {
-      "rank": 1324,
-      "estimate": "25k+",
+      "rank": 2565,
+      "estimate": "7k+",
       "name": "The Apocalypse"
     },
+    "3776830": {
+      "rank": 7085,
+      "estimate": "<7k",
+      "name": "Born for the Light ~Wavelength Radiant Collapse~"
+    },
+    "3783250": {
+      "rank": 7177,
+      "estimate": "<7k",
+      "name": "The Frutiger Utopia"
+    },
+    "3841640": {
+      "rank": 2058,
+      "estimate": "7k+",
+      "name": "PANGIT"
+    },
+    "4181770": {
+      "rank": 8903,
+      "estimate": "<7k",
+      "name": "KorrPadel"
+    },
     "4210250": {
-      "rank": 4542,
+      "rank": 5522,
       "estimate": "<7k",
       "name": "Logic Arrows"
     },
+    "4225360": {
+      "rank": 3523,
+      "estimate": "<7k",
+      "name": "RGB: EXECUTION"
+    },
+    "4301840": {
+      "rank": 4694,
+      "estimate": "<7k",
+      "name": "Operation Together VR"
+    },
+    "4403920": {
+      "rank": 5602,
+      "estimate": "<7k",
+      "name": "Crowcape Zero"
+    },
     "4421010": {
-      "rank": 2800,
-      "estimate": "7k+",
+      "rank": 861,
+      "estimate": "40k+",
       "name": "Bills Must Be Paid"
+    },
+    "4514880": {
+      "rank": 6372,
+      "estimate": "<7k",
+      "name": "Hyperlane Highway"
+    },
+    "4526690": {
+      "rank": 8495,
+      "estimate": "<7k",
+      "name": "Alcurist"
+    },
+    "4527820": {
+      "rank": 7815,
+      "estimate": "<7k",
+      "name": "LEVATE"
+    },
+    "4536440": {
+      "rank": 6135,
+      "estimate": "<7k",
+      "name": "失序的象牙塔/The Destruction of the Ivory Tower"
+    },
+    "4573090": {
+      "rank": 4203,
+      "estimate": "<7k",
+      "name": "Pibcremental"
+    },
+    "4722780": {
+      "rank": 4468,
+      "estimate": "<7k",
+      "name": "Sticks and Stones"
     }
   }
 }

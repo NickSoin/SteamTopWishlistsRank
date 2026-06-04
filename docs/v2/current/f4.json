@@ -1,113 +1,238 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 46,
   "entries": {
-    "1426350": {
-      "rank": 3817,
+    "1285690": {
+      "rank": 8265,
       "estimate": "<7k",
-      "name": "The Depths: Prehistoric Survival"
+      "name": "Adrorium"
     },
     "1532910": {
-      "rank": 2139,
-      "estimate": "7k+",
+      "rank": 3710,
+      "estimate": "<7k",
       "name": "Supermarket Simulator"
     },
     "1684370": {
-      "rank": 1266,
-      "estimate": "25k+",
+      "rank": 4426,
+      "estimate": "<7k",
       "name": "Drug Grower Simulator"
     },
     "1697770": {
-      "rank": 1717,
-      "estimate": "15k+",
+      "rank": 7706,
+      "estimate": "<7k",
       "name": "Doodle God Universe"
     },
     "1894140": {
-      "rank": 952,
-      "estimate": "40k+",
+      "rank": 319,
+      "estimate": "80k+",
       "name": "Seed of Nostalgia"
     },
     "2435810": {
-      "rank": 2110,
-      "estimate": "7k+",
+      "rank": 3209,
+      "estimate": "<7k",
       "name": "BLACK BOX LSS - The Merciful Savior"
     },
     "2551590": {
-      "rank": 3039,
+      "rank": 3716,
       "estimate": "<7k",
       "name": "Section Six Requiem"
     },
     "2661310": {
-      "rank": 1101,
+      "rank": 1076,
       "estimate": "25k+",
       "name": "Shovel Knight: Shovel of Hope DX"
     },
+    "2682270": {
+      "rank": 7611,
+      "estimate": "<7k",
+      "name": "Pight"
+    },
     "2744110": {
-      "rank": 2715,
-      "estimate": "7k+",
+      "rank": 7475,
+      "estimate": "<7k",
       "name": "VTumbler"
     },
     "2825330": {
-      "rank": 1984,
-      "estimate": "15k+",
+      "rank": 7852,
+      "estimate": "<7k",
       "name": "Dark Nest: Snake Contract"
     },
     "2825860": {
-      "rank": 321,
+      "rank": 491,
       "estimate": "80k+",
       "name": "The Sinking City 2"
     },
+    "2892400": {
+      "rank": 9453,
+      "estimate": "<7k",
+      "name": "KAI"
+    },
     "2898770": {
-      "rank": 2379,
+      "rank": 2632,
       "estimate": "7k+",
       "name": "Die Trying"
     },
     "2935710": {
-      "rank": 3248,
+      "rank": 4679,
       "estimate": "<7k",
       "name": "Disinherited"
     },
     "2975260": {
-      "rank": 361,
+      "rank": 216,
       "estimate": "80k+",
       "name": "PRISON OF HUSKS"
     },
     "2986110": {
-      "rank": 1358,
-      "estimate": "25k+",
+      "rank": 2692,
+      "estimate": "7k+",
       "name": "Rover's Tale"
     },
-    "3369020": {
-      "rank": 2582,
+    "3133520": {
+      "rank": 2430,
       "estimate": "7k+",
+      "name": "Re:Rite"
+    },
+    "3369020": {
+      "rank": 8478,
+      "estimate": "<7k",
       "name": "Death & Faeology"
     },
+    "3400460": {
+      "rank": 4722,
+      "estimate": "<7k",
+      "name": "Car For Sale Simulator 2023 - Classic Pack"
+    },
+    "3537960": {
+      "rank": 3864,
+      "estimate": "<7k",
+      "name": "Puppeteer: No Strings Attached"
+    },
+    "3544900": {
+      "rank": 4992,
+      "estimate": "<7k",
+      "name": "Davy Jones' Deckhand"
+    },
+    "3741170": {
+      "rank": 6079,
+      "estimate": "<7k",
+      "name": "Salvation: Echoes of War"
+    },
+    "3864570": {
+      "rank": 8322,
+      "estimate": "<7k",
+      "name": "元气桌面壁纸"
+    },
+    "3930370": {
+      "rank": 4596,
+      "estimate": "<7k",
+      "name": "The Newspapers of the day"
+    },
     "3948470": {
-      "rank": 2178,
-      "estimate": "7k+",
+      "rank": 1509,
+      "estimate": "15k+",
       "name": "RUNNING WITH RIFLES 2"
     },
     "3967280": {
-      "rank": 2766,
-      "estimate": "7k+",
+      "rank": 5669,
+      "estimate": "<7k",
       "name": "Furry Adventure Club and the Temple of Pawsion 🐱"
     },
     "3986670": {
-      "rank": 2324,
-      "estimate": "7k+",
+      "rank": 273,
+      "estimate": "80k+",
       "name": "YOU ARE THE MONSTER"
     },
     "4006670": {
-      "rank": 3570,
-      "estimate": "<7k",
+      "rank": 2428,
+      "estimate": "7k+",
       "name": "Titanic: Honor & Glory"
     },
+    "4028630": {
+      "rank": 7575,
+      "estimate": "<7k",
+      "name": "Hadal"
+    },
+    "4129300": {
+      "rank": 6364,
+      "estimate": "<7k",
+      "name": "Grim Path"
+    },
+    "4148590": {
+      "rank": 9848,
+      "estimate": "<7k",
+      "name": "Wild West Frontier"
+    },
+    "4171110": {
+      "rank": 3977,
+      "estimate": "<7k",
+      "name": "Timberflow: Sawmill Simulator"
+    },
     "4198090": {
-      "rank": 143,
-      "estimate": "200k+",
+      "rank": 2017,
+      "estimate": "7k+",
       "name": "Bradley the Badger"
+    },
+    "4226300": {
+      "rank": 7690,
+      "estimate": "<7k",
+      "name": "Remember, You Will Die"
+    },
+    "4233690": {
+      "rank": 4968,
+      "estimate": "<7k",
+      "name": "Kingdom Craft"
+    },
+    "4237540": {
+      "rank": 9700,
+      "estimate": "<7k",
+      "name": "The Dark Curiosity"
+    },
+    "4324770": {
+      "rank": 9746,
+      "estimate": "<7k",
+      "name": "BattleSpinners"
+    },
+    "4329100": {
+      "rank": 5621,
+      "estimate": "<7k",
+      "name": "Our Wonderland"
+    },
+    "4412590": {
+      "rank": 8516,
+      "estimate": "<7k",
+      "name": "Neofold"
+    },
+    "4492680": {
+      "rank": 6646,
+      "estimate": "<7k",
+      "name": "Hibera, Requiem for the Forgotten"
+    },
+    "4519660": {
+      "rank": 1427,
+      "estimate": "25k+",
+      "name": "Cloudpaws"
+    },
+    "4617670": {
+      "rank": 9815,
+      "estimate": "<7k",
+      "name": "ユレイシア英雄戦記 - Chronicle of Arstenia500 -"
+    },
+    "4636280": {
+      "rank": 9717,
+      "estimate": "<7k",
+      "name": "Ami's Pearl Dive"
+    },
+    "4669110": {
+      "rank": 8250,
+      "estimate": "<7k",
+      "name": "Scum's Errand"
+    },
+    "4710720": {
+      "rank": 9771,
+      "estimate": "<7k",
+      "name": "Lost/Secret A"
     }
   }
 }

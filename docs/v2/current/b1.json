@@ -1,93 +1,233 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 45,
   "entries": {
     "1257610": {
-      "rank": 82,
-      "estimate": "300k+",
+      "rank": 632,
+      "estimate": "40k+",
       "name": "Prison Architect 2"
     },
-    "1473900": {
-      "rank": 4004,
-      "estimate": "<7k",
-      "name": "Zealot"
-    },
-    "1966400": {
-      "rank": 4613,
-      "estimate": "<7k",
-      "name": "Glitch Hunt"
-    },
     "2261380": {
-      "rank": 507,
-      "estimate": "40k+",
+      "rank": 1284,
+      "estimate": "25k+",
       "name": "Croakwood"
     },
     "2316420": {
-      "rank": 4278,
+      "rank": 8752,
       "estimate": "<7k",
       "name": "Track Day: From Street to Circuit"
     },
+    "2339720": {
+      "rank": 7150,
+      "estimate": "<7k",
+      "name": "SCP: Distorted Spacetime"
+    },
+    "2367460": {
+      "rank": 5278,
+      "estimate": "<7k",
+      "name": "Outlaw Raiders"
+    },
+    "2530530": {
+      "rank": 5924,
+      "estimate": "<7k",
+      "name": "The Dark Cowboy"
+    },
     "2571410": {
-      "rank": 880,
-      "estimate": "40k+",
+      "rank": 3032,
+      "estimate": "<7k",
       "name": "500 CALIBER CONTRACTZ"
     },
     "2895680": {
-      "rank": 1697,
-      "estimate": "15k+",
+      "rank": 4592,
+      "estimate": "<7k",
       "name": "Below, Rusted Gods"
     },
+    "2921640": {
+      "rank": 5274,
+      "estimate": "<7k",
+      "name": "EMITIME"
+    },
+    "2943990": {
+      "rank": 7793,
+      "estimate": "<7k",
+      "name": "Eulogy of an Insect"
+    },
+    "3165740": {
+      "rank": 9451,
+      "estimate": "<7k",
+      "name": "Minato"
+    },
     "3202250": {
-      "rank": 3385,
+      "rank": 4072,
       "estimate": "<7k",
       "name": "Bosslife Office Manager"
     },
+    "3301010": {
+      "rank": 6703,
+      "estimate": "<7k",
+      "name": "Den-Den: Tokyo Horror"
+    },
     "3384570": {
-      "rank": 2981,
+      "rank": 2935,
       "estimate": "7k+",
       "name": "Planet Party Time"
     },
     "3392490": {
-      "rank": 4445,
+      "rank": 6127,
       "estimate": "<7k",
       "name": "Moon River"
     },
+    "3484610": {
+      "rank": 5781,
+      "estimate": "<7k",
+      "name": "Akashic Slingshot"
+    },
     "3515530": {
-      "rank": 2122,
-      "estimate": "7k+",
+      "rank": 791,
+      "estimate": "40k+",
       "name": "Ice Cream Simulator"
     },
+    "3746590": {
+      "rank": 3670,
+      "estimate": "<7k",
+      "name": "Red Dreams"
+    },
+    "3931600": {
+      "rank": 9126,
+      "estimate": "<7k",
+      "name": "Time to Pay the Bills"
+    },
+    "3947270": {
+      "rank": 4669,
+      "estimate": "<7k",
+      "name": "Road Survival: Bigger on the Inside"
+    },
     "3993200": {
-      "rank": 2174,
+      "rank": 2023,
       "estimate": "7k+",
       "name": "b-e-e-t-l-e: be right back!"
     },
     "4005900": {
-      "rank": 348,
+      "rank": 300,
       "estimate": "80k+",
       "name": "Froggin' Around"
     },
+    "4037530": {
+      "rank": 7236,
+      "estimate": "<7k",
+      "name": "Storm The House Collection"
+    },
+    "4072630": {
+      "rank": 9100,
+      "estimate": "<7k",
+      "name": "Neighborhood Video"
+    },
     "4117830": {
-      "rank": 2656,
-      "estimate": "7k+",
+      "rank": 288,
+      "estimate": "80k+",
       "name": "Your Painting, Sir"
     },
     "4146090": {
-      "rank": 3839,
+      "rank": 9003,
       "estimate": "<7k",
       "name": "Orken"
     },
+    "4160920": {
+      "rank": 9927,
+      "estimate": "<7k",
+      "name": "Cargo, Please!"
+    },
     "4211060": {
-      "rank": 2822,
+      "rank": 2009,
       "estimate": "7k+",
       "name": "Meaningless Random Numbers"
     },
     "4239080": {
-      "rank": 1189,
-      "estimate": "25k+",
+      "rank": 1733,
+      "estimate": "15k+",
       "name": "Veil of the Soulstones"
+    },
+    "4328320": {
+      "rank": 4243,
+      "estimate": "<7k",
+      "name": "OVER SAND"
+    },
+    "4344270": {
+      "rank": 9388,
+      "estimate": "<7k",
+      "name": "Tiny Misery"
+    },
+    "4372150": {
+      "rank": 3025,
+      "estimate": "<7k",
+      "name": "Thieves Guild Master"
+    },
+    "4378840": {
+      "rank": 5464,
+      "estimate": "<7k",
+      "name": "Virtuoso Skins Game"
+    },
+    "4398370": {
+      "rank": 2348,
+      "estimate": "7k+",
+      "name": "Sumire's Secret"
+    },
+    "4414270": {
+      "rank": 1712,
+      "estimate": "15k+",
+      "name": "PawMart Tiny Market"
+    },
+    "4436410": {
+      "rank": 9991,
+      "estimate": "<7k",
+      "name": "Thousands of Chroma"
+    },
+    "4457150": {
+      "rank": 5111,
+      "estimate": "<7k",
+      "name": "Chomp Garden"
+    },
+    "4475370": {
+      "rank": 8447,
+      "estimate": "<7k",
+      "name": "The story of her"
+    },
+    "4530110": {
+      "rank": 7310,
+      "estimate": "<7k",
+      "name": "Vaska"
+    },
+    "4537850": {
+      "rank": 5149,
+      "estimate": "<7k",
+      "name": "Jack The Reaper : Vagrants in the Mist"
+    },
+    "4604530": {
+      "rank": 4527,
+      "estimate": "<7k",
+      "name": "Demons of Asteborg DX"
+    },
+    "4658980": {
+      "rank": 3591,
+      "estimate": "<7k",
+      "name": "Wuxia Life"
+    },
+    "4685300": {
+      "rank": 8105,
+      "estimate": "<7k",
+      "name": "Primus Survivors"
+    },
+    "4708050": {
+      "rank": 3758,
+      "estimate": "<7k",
+      "name": "Order 13 VR"
+    },
+    "4759250": {
+      "rank": 1753,
+      "estimate": "15k+",
+      "name": "Warhammer 40,000: Dawn of War IV - Year 1 Expansion"
     }
   }
 }

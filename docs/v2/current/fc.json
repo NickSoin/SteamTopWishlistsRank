@@ -1,68 +1,138 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 26,
   "entries": {
-    "907500": {
-      "rank": 1895,
-      "estimate": "15k+",
-      "name": "The Peterson Case"
-    },
-    "1201470": {
-      "rank": 4357,
+    "2241550": {
+      "rank": 6644,
       "estimate": "<7k",
-      "name": "Solar Baron"
-    },
-    "1601870": {
-      "rank": 4206,
-      "estimate": "<7k",
-      "name": "Evade The Light"
+      "name": "Blackroot: Medieval Survival"
     },
     "2379820": {
-      "rank": 1128,
-      "estimate": "25k+",
+      "rank": 2769,
+      "estimate": "7k+",
       "name": "Forty-Niner"
     },
     "2434930": {
-      "rank": 4196,
-      "estimate": "<7k",
+      "rank": 1433,
+      "estimate": "25k+",
       "name": "Blue Ridge Hunting"
     },
     "3090810": {
-      "rank": 379,
-      "estimate": "80k+",
+      "rank": 1342,
+      "estimate": "25k+",
       "name": "Truckful"
     },
-    "3261140": {
-      "rank": 3196,
+    "3147840": {
+      "rank": 4743,
       "estimate": "<7k",
+      "name": "Supermarket Horizon"
+    },
+    "3261140": {
+      "rank": 882,
+      "estimate": "40k+",
       "name": "Decadent Heir"
     },
-    "3346320": {
-      "rank": 4683,
+    "3386030": {
+      "rank": 7562,
       "estimate": "<7k",
-      "name": "RE:Choice"
+      "name": "White Line Fever"
     },
     "3572310": {
-      "rank": 1402,
-      "estimate": "25k+",
+      "rank": 2406,
+      "estimate": "7k+",
       "name": "Ministry of Order"
     },
     "3586920": {
-      "rank": 2695,
-      "estimate": "7k+",
+      "rank": 3365,
+      "estimate": "<7k",
       "name": "Extreme Cleaning Simulator"
     },
-    "3728470": {
-      "rank": 4692,
+    "3654900": {
+      "rank": 9507,
       "estimate": "<7k",
-      "name": "Gin's Gunstore"
+      "name": "Monster Magnet"
+    },
+    "3794600": {
+      "rank": 4880,
+      "estimate": "<7k",
+      "name": "My Summer Love: Memories"
+    },
+    "3800110": {
+      "rank": 5186,
+      "estimate": "<7k",
+      "name": "BoB - Battle of Bots"
+    },
+    "3827320": {
+      "rank": 8247,
+      "estimate": "<7k",
+      "name": "Monterria"
+    },
+    "3844280": {
+      "rank": 5478,
+      "estimate": "<7k",
+      "name": "Fantasketch / ファンタスケッチ"
+    },
+    "3847850": {
+      "rank": 7288,
+      "estimate": "<7k",
+      "name": "Fear Below Zero"
+    },
+    "4054790": {
+      "rank": 5202,
+      "estimate": "<7k",
+      "name": "Beatrix"
+    },
+    "4057610": {
+      "rank": 5965,
+      "estimate": "<7k",
+      "name": "Camp Manager Simulator"
+    },
+    "4071430": {
+      "rank": 4240,
+      "estimate": "<7k",
+      "name": "Tame Me Hard!"
+    },
+    "4173970": {
+      "rank": 4787,
+      "estimate": "<7k",
+      "name": "Procelio"
+    },
+    "4192830": {
+      "rank": 5174,
+      "estimate": "<7k",
+      "name": "Once Upon a Throne of Thorns"
+    },
+    "4309120": {
+      "rank": 5226,
+      "estimate": "<7k",
+      "name": "Unquiet Grey"
     },
     "4421440": {
-      "rank": 2101,
-      "estimate": "7k+",
+      "rank": 8761,
+      "estimate": "<7k",
       "name": "Pierrot"
+    },
+    "4459850": {
+      "rank": 1945,
+      "estimate": "15k+",
+      "name": "NAMCO LEGENDARY Mountains"
+    },
+    "4563540": {
+      "rank": 7402,
+      "estimate": "<7k",
+      "name": "糺糺縁糸（きゅうきゅうえんし）"
+    },
+    "4564040": {
+      "rank": 8109,
+      "estimate": "<7k",
+      "name": "OfMiceAndMechs"
+    },
+    "4598120": {
+      "rank": 8354,
+      "estimate": "<7k",
+      "name": "The Syndicate: Classified Operations"
     }
   }
 }

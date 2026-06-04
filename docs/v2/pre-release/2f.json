@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 33,
   "entries": {
     "787510": {
       "rank": 1631,
@@ -231,6 +231,13 @@
       "name": "Shift At Midnight",
       "releaseDate": "2026-05-28",
       "source": "historical"
+    },
+    "3833760": {
+      "rank": 3442,
+      "estimate": "<7k",
+      "name": "You Know The Drill",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }

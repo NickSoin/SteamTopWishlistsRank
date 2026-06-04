@@ -1,143 +1,238 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 46,
   "entries": {
     "1502050": {
-      "rank": 3942,
+      "rank": 8887,
       "estimate": "<7k",
       "name": "Dracula's Castle"
     },
     "1792390": {
-      "rank": 1197,
-      "estimate": "25k+",
+      "rank": 4476,
+      "estimate": "<7k",
       "name": "Life After End"
     },
+    "1983620": {
+      "rank": 5640,
+      "estimate": "<7k",
+      "name": "Infinitevania"
+    },
+    "2053210": {
+      "rank": 8046,
+      "estimate": "<7k",
+      "name": "Super Hentai Racers"
+    },
     "2185250": {
-      "rank": 1619,
-      "estimate": "15k+",
+      "rank": 5869,
+      "estimate": "<7k",
       "name": "Iron Corbo: Kung Fu Janitor"
     },
     "2275300": {
-      "rank": 3193,
+      "rank": 7696,
       "estimate": "<7k",
       "name": "Folk Emerging"
     },
     "2288340": {
-      "rank": 52,
-      "estimate": "300k+",
+      "rank": 19,
+      "estimate": "800k+",
       "name": "ACE COMBAT 8: WINGS OF THEVE"
     },
     "2329690": {
-      "rank": 1565,
-      "estimate": "15k+",
+      "rank": 6436,
+      "estimate": "<7k",
       "name": "KOOK"
     },
+    "2330160": {
+      "rank": 6930,
+      "estimate": "<7k",
+      "name": "One More Try"
+    },
     "2400980": {
-      "rank": 642,
-      "estimate": "40k+",
+      "rank": 4299,
+      "estimate": "<7k",
       "name": "AMONG THE WILD"
     },
-    "2456820": {
-      "rank": 3090,
-      "estimate": "<7k",
-      "name": "Falling Limbs"
-    },
-    "2496590": {
-      "rank": 2018,
-      "estimate": "7k+",
-      "name": "Untraveled Lands: Chantico"
-    },
     "2527610": {
-      "rank": 4624,
+      "rank": 9082,
       "estimate": "<7k",
       "name": "Journey Record"
     },
     "2565010": {
-      "rank": 1022,
-      "estimate": "25k+",
+      "rank": 4288,
+      "estimate": "<7k",
       "name": "Tenet of the Spark"
     },
     "2676990": {
-      "rank": 4271,
+      "rank": 5365,
       "estimate": "<7k",
       "name": "Mighty Knight Legacy"
     },
-    "2799910": {
-      "rank": 2409,
-      "estimate": "7k+",
-      "name": "Illegal Football"
-    },
     "2806050": {
-      "rank": 85,
-      "estimate": "300k+",
+      "rank": 287,
+      "estimate": "80k+",
       "name": "Halo: Campaign Evolved"
     },
     "2854310": {
-      "rank": 2350,
-      "estimate": "7k+",
+      "rank": 9770,
+      "estimate": "<7k",
       "name": "Shenzhou Saga: Three Kingdoms"
     },
-    "2928040": {
-      "rank": 2270,
-      "estimate": "7k+",
-      "name": "The Legend of Baboo"
+    "2866290": {
+      "rank": 9385,
+      "estimate": "<7k",
+      "name": "Next Soul, Please!"
+    },
+    "2925890": {
+      "rank": 6613,
+      "estimate": "<7k",
+      "name": "Army Troop 2: Modern Guns"
     },
     "2948730": {
-      "rank": 217,
+      "rank": 391,
       "estimate": "80k+",
       "name": "THE JOY OF CREATION"
     },
     "3135380": {
-      "rank": 1150,
+      "rank": 1431,
       "estimate": "25k+",
       "name": "Verse Project"
     },
+    "3152710": {
+      "rank": 7045,
+      "estimate": "<7k",
+      "name": "House Of Horror: Outside Is Better"
+    },
+    "3211480": {
+      "rank": 7776,
+      "estimate": "<7k",
+      "name": "Hockey Computer League"
+    },
     "3248910": {
-      "rank": 2398,
-      "estimate": "7k+",
+      "rank": 1511,
+      "estimate": "15k+",
       "name": "Deserter"
     },
-    "3290380": {
-      "rank": 4457,
-      "estimate": "<7k",
-      "name": "Rusty Winter"
-    },
     "3295000": {
-      "rank": 330,
-      "estimate": "80k+",
+      "rank": 137,
+      "estimate": "200k+",
       "name": "ReVamp"
     },
     "3297110": {
-      "rank": 3645,
-      "estimate": "<7k",
+      "rank": 2641,
+      "estimate": "7k+",
       "name": "Anemorie"
     },
+    "3361000": {
+      "rank": 5911,
+      "estimate": "<7k",
+      "name": "Swing Swamp"
+    },
     "3397100": {
-      "rank": 4559,
+      "rank": 5046,
       "estimate": "<7k",
       "name": "Eye of the Incubus"
     },
     "3420280": {
-      "rank": 2583,
-      "estimate": "7k+",
+      "rank": 5287,
+      "estimate": "<7k",
       "name": "Idle Research 2"
     },
     "3640200": {
-      "rank": 1125,
-      "estimate": "25k+",
+      "rank": 651,
+      "estimate": "40k+",
       "name": "Dawson Oaks Trailer Park"
     },
-    "4005880": {
-      "rank": 3084,
+    "3842110": {
+      "rank": 6142,
       "estimate": "<7k",
+      "name": "Bookmark Hero"
+    },
+    "3861870": {
+      "rank": 8360,
+      "estimate": "<7k",
+      "name": "Future? No Thanks!"
+    },
+    "3985880": {
+      "rank": 8976,
+      "estimate": "<7k",
+      "name": "INTERVOID"
+    },
+    "4005880": {
+      "rank": 842,
+      "estimate": "40k+",
       "name": "DETOUR"
     },
+    "4088850": {
+      "rank": 3992,
+      "estimate": "<7k",
+      "name": "A Game About Opening A Chest"
+    },
+    "4099250": {
+      "rank": 6621,
+      "estimate": "<7k",
+      "name": "薪上人 Salaryman"
+    },
     "4110140": {
-      "rank": 1385,
-      "estimate": "25k+",
+      "rank": 1780,
+      "estimate": "15k+",
       "name": "Harvest Skies: Crop Dusting Simulator"
+    },
+    "4343450": {
+      "rank": 9370,
+      "estimate": "<7k",
+      "name": "Sushi Lick"
+    },
+    "4366240": {
+      "rank": 3764,
+      "estimate": "<7k",
+      "name": "Silent Still 3"
+    },
+    "4436240": {
+      "rank": 3861,
+      "estimate": "<7k",
+      "name": "Inversion Day"
+    },
+    "4448960": {
+      "rank": 8858,
+      "estimate": "<7k",
+      "name": "迷子公路"
+    },
+    "4537600": {
+      "rank": 9414,
+      "estimate": "<7k",
+      "name": "Dice Gun Commando"
+    },
+    "4576430": {
+      "rank": 4117,
+      "estimate": "<7k",
+      "name": "Breakdown: Silent Riot"
+    },
+    "4643570": {
+      "rank": 5905,
+      "estimate": "<7k",
+      "name": "Drowning Dream"
+    },
+    "4654040": {
+      "rank": 8737,
+      "estimate": "<7k",
+      "name": "Game Show But Evil"
+    },
+    "4659890": {
+      "rank": 9091,
+      "estimate": "<7k",
+      "name": "ShiftDeck"
+    },
+    "4661130": {
+      "rank": 1410,
+      "estimate": "25k+",
+      "name": "Dream of Corpse Lady - Deity's Three Egos"
+    },
+    "4684610": {
+      "rank": 4207,
+      "estimate": "<7k",
+      "name": "A Knight's Fury - The Vaults of Venom"
     }
   }
 }

@@ -1,118 +1,273 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 53,
   "entries": {
+    "1123990": {
+      "rank": 2778,
+      "estimate": "7k+",
+      "name": "Akeno no Yosuga - Twilight Loop"
+    },
     "1191960": {
-      "rank": 1234,
-      "estimate": "25k+",
+      "rank": 7218,
+      "estimate": "<7k",
       "name": "Detective Simulator"
     },
     "1327040": {
-      "rank": 202,
-      "estimate": "80k+",
+      "rank": 573,
+      "estimate": "40k+",
       "name": "Truck World: Australia"
     },
-    "1537810": {
-      "rank": 4356,
+    "1334440": {
+      "rank": 6701,
       "estimate": "<7k",
-      "name": "WarpedSpace"
+      "name": "Rise & Reign"
+    },
+    "1563240": {
+      "rank": 6538,
+      "estimate": "<7k",
+      "name": "Veterinary Clinic Simulator"
+    },
+    "1904360": {
+      "rank": 7032,
+      "estimate": "<7k",
+      "name": "Pawn Shop Simulator"
     },
     "2190700": {
-      "rank": 320,
-      "estimate": "80k+",
+      "rank": 1262,
+      "estimate": "25k+",
       "name": "Altered Alma"
     },
+    "2238400": {
+      "rank": 9050,
+      "estimate": "<7k",
+      "name": "PizzaBoy"
+    },
     "2299940": {
-      "rank": 2572,
+      "rank": 2059,
       "estimate": "7k+",
       "name": "The Button Effect"
     },
     "2324550": {
-      "rank": 3733,
+      "rank": 8397,
       "estimate": "<7k",
       "name": "Robo Frenzy"
     },
     "2586440": {
-      "rank": 1737,
-      "estimate": "15k+",
+      "rank": 1192,
+      "estimate": "25k+",
       "name": "House 2"
     },
     "2780040": {
-      "rank": 1655,
-      "estimate": "15k+",
+      "rank": 4161,
+      "estimate": "<7k",
       "name": "Kimekyawa♥GenkaiBeat-chan!!"
     },
-    "2868520": {
-      "rank": 3625,
+    "2919170": {
+      "rank": 5044,
       "estimate": "<7k",
-      "name": "Railway Life"
+      "name": "The Mystery Mist"
     },
     "2993240": {
-      "rank": 4252,
-      "estimate": "<7k",
+      "rank": 2002,
+      "estimate": "7k+",
       "name": "VacuuBot: Home Cleaning Simulator"
     },
     "3036360": {
-      "rank": 3599,
+      "rank": 3669,
       "estimate": "<7k",
       "name": "Heaven Crawler"
     },
+    "3116350": {
+      "rank": 4328,
+      "estimate": "<7k",
+      "name": "Foodomina"
+    },
+    "3200950": {
+      "rank": 6594,
+      "estimate": "<7k",
+      "name": "Heart of Artemisa"
+    },
     "3227900": {
-      "rank": 2146,
+      "rank": 2219,
       "estimate": "7k+",
       "name": "Nightmare Circus"
     },
     "3258010": {
-      "rank": 2003,
-      "estimate": "7k+",
+      "rank": 7754,
+      "estimate": "<7k",
       "name": "Tesera"
     },
+    "3294700": {
+      "rank": 5743,
+      "estimate": "<7k",
+      "name": "My Little Sister Is an Angel"
+    },
+    "3365660": {
+      "rank": 4384,
+      "estimate": "<7k",
+      "name": "Tidal Rush"
+    },
     "3448130": {
-      "rank": 4619,
+      "rank": 7009,
       "estimate": "<7k",
       "name": "Critterrupters"
     },
-    "3635640": {
-      "rank": 4511,
+    "3567790": {
+      "rank": 8743,
       "estimate": "<7k",
+      "name": "Catboy Sorcery"
+    },
+    "3577070": {
+      "rank": 6712,
+      "estimate": "<7k",
+      "name": "The Solace of Flowers"
+    },
+    "3589000": {
+      "rank": 5927,
+      "estimate": "<7k",
+      "name": "Children of Birch"
+    },
+    "3635640": {
+      "rank": 1359,
+      "estimate": "25k+",
       "name": "Stories of Somnia"
     },
     "3751230": {
-      "rank": 178,
-      "estimate": "200k+",
+      "rank": 320,
+      "estimate": "80k+",
       "name": "Danganronpa 2x2"
     },
     "3758170": {
-      "rank": 3775,
-      "estimate": "<7k",
+      "rank": 641,
+      "estimate": "40k+",
       "name": "Robot Rhapsody"
     },
+    "3785860": {
+      "rank": 6573,
+      "estimate": "<7k",
+      "name": "Mycopsychosys: Project Jupiter"
+    },
     "3814540": {
-      "rank": 4080,
+      "rank": 3622,
       "estimate": "<7k",
       "name": "Catio Simulator"
     },
+    "3846200": {
+      "rank": 6259,
+      "estimate": "<7k",
+      "name": "OTHERSIDE: Untamed Words"
+    },
     "3857800": {
-      "rank": 1806,
-      "estimate": "15k+",
+      "rank": 6509,
+      "estimate": "<7k",
       "name": "Outlaw's Vengeance"
     },
+    "3859060": {
+      "rank": 6251,
+      "estimate": "<7k",
+      "name": "SCP: Scavenger Project"
+    },
+    "3946250": {
+      "rank": 4897,
+      "estimate": "<7k",
+      "name": "痴情妹妹纱雪的兄控日记"
+    },
+    "3960140": {
+      "rank": 9774,
+      "estimate": "<7k",
+      "name": "Underpond"
+    },
+    "3971300": {
+      "rank": 9422,
+      "estimate": "<7k",
+      "name": "iNERTiA"
+    },
+    "3994680": {
+      "rank": 5105,
+      "estimate": "<7k",
+      "name": "Meat Grinder: Hotdog Simulator"
+    },
     "4123810": {
-      "rank": 2825,
-      "estimate": "7k+",
+      "rank": 1460,
+      "estimate": "25k+",
       "name": "Sonic Terror"
     },
-    "4181410": {
-      "rank": 3130,
+    "4155110": {
+      "rank": 6443,
       "estimate": "<7k",
+      "name": "Flats Full of Cats: Capes & Curses"
+    },
+    "4174010": {
+      "rank": 7350,
+      "estimate": "<7k",
+      "name": "Humanize Robotics"
+    },
+    "4181410": {
+      "rank": 1322,
+      "estimate": "25k+",
       "name": "The Alley"
     },
     "4189490": {
-      "rank": 3889,
-      "estimate": "<7k",
+      "rank": 1459,
+      "estimate": "25k+",
       "name": "Terrors to Unveil - Last Trace"
+    },
+    "4304820": {
+      "rank": 7343,
+      "estimate": "<7k",
+      "name": "Locktale"
+    },
+    "4310740": {
+      "rank": 7713,
+      "estimate": "<7k",
+      "name": "The Last Swordmaster"
+    },
+    "4398490": {
+      "rank": 5969,
+      "estimate": "<7k",
+      "name": "Horizon 1990"
+    },
+    "4414590": {
+      "rank": 2630,
+      "estimate": "7k+",
+      "name": "Car Sales Simulator"
+    },
+    "4424070": {
+      "rank": 3871,
+      "estimate": "<7k",
+      "name": "生生不息：烟火"
+    },
+    "4424900": {
+      "rank": 3866,
+      "estimate": "<7k",
+      "name": "WARD 107: SILENCE"
+    },
+    "4437140": {
+      "rank": 7446,
+      "estimate": "<7k",
+      "name": "if you stay"
+    },
+    "4458200": {
+      "rank": 8797,
+      "estimate": "<7k",
+      "name": "Mechawaii LEGENDS"
+    },
+    "4568910": {
+      "rank": 7524,
+      "estimate": "<7k",
+      "name": "FragMiner"
+    },
+    "4628700": {
+      "rank": 1632,
+      "estimate": "15k+",
+      "name": "Renegade Run"
+    },
+    "4711080": {
+      "rank": 3242,
+      "estimate": "<7k",
+      "name": "Cat Guardians(캣 가디언즈)"
     }
   }
 }

@@ -1,103 +1,198 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 38,
   "entries": {
     "1043850": {
-      "rank": 1650,
-      "estimate": "15k+",
+      "rank": 3638,
+      "estimate": "<7k",
       "name": "Project Warlock: Lost Chapters"
     },
     "1244620": {
-      "rank": 4456,
+      "rank": 9748,
       "estimate": "<7k",
       "name": "Psycho Simulator"
     },
     "1318190": {
-      "rank": 1435,
-      "estimate": "25k+",
+      "rank": 9200,
+      "estimate": "<7k",
       "name": "Gladiators Manager"
     },
+    "1459800": {
+      "rank": 5169,
+      "estimate": "<7k",
+      "name": "Fakutori"
+    },
+    "1572880": {
+      "rank": 9158,
+      "estimate": "<7k",
+      "name": "Gentle Club"
+    },
     "1774880": {
-      "rank": 3,
-      "estimate": "1.5m+",
+      "rank": 116,
+      "estimate": "200k+",
       "name": "Blight: Survival"
     },
-    "2183890": {
-      "rank": 3542,
+    "1879860": {
+      "rank": 5431,
       "estimate": "<7k",
-      "name": "Leak"
+      "name": "Fractured Worlds"
+    },
+    "2144240": {
+      "rank": 8963,
+      "estimate": "<7k",
+      "name": "Hellspawn"
     },
     "2446520": {
-      "rank": 3387,
+      "rank": 8199,
       "estimate": "<7k",
       "name": "Pixel Piracy Online"
     },
     "2671300": {
-      "rank": 716,
-      "estimate": "40k+",
+      "rank": 2331,
+      "estimate": "7k+",
       "name": "Trailblazers: Into the March"
     },
     "3024860": {
-      "rank": 4139,
+      "rank": 8081,
       "estimate": "<7k",
       "name": "Furry Farm"
     },
     "3195580": {
-      "rank": 858,
-      "estimate": "40k+",
+      "rank": 256,
+      "estimate": "80k+",
       "name": "lily's world XD"
     },
+    "3346410": {
+      "rank": 6574,
+      "estimate": "<7k",
+      "name": "Club Soko"
+    },
     "3446770": {
-      "rank": 2118,
-      "estimate": "7k+",
+      "rank": 1911,
+      "estimate": "15k+",
       "name": "Sakura Arms ~Radiant Duels~"
     },
+    "3537580": {
+      "rank": 9109,
+      "estimate": "<7k",
+      "name": "Lumara"
+    },
     "3688110": {
-      "rank": 1021,
-      "estimate": "25k+",
+      "rank": 1759,
+      "estimate": "15k+",
       "name": "Kaiju Cleaner Simulator"
     },
+    "3717140": {
+      "rank": 7880,
+      "estimate": "<7k",
+      "name": "Dumpster Divers"
+    },
     "3721530": {
-      "rank": 3269,
+      "rank": 4346,
       "estimate": "<7k",
       "name": "Motorcycle For Sale Simulator"
     },
+    "3736400": {
+      "rank": 8122,
+      "estimate": "<7k",
+      "name": "SkillWarz"
+    },
+    "3757070": {
+      "rank": 9930,
+      "estimate": "<7k",
+      "name": "Cleaning The Ocean"
+    },
     "3809270": {
-      "rank": 76,
-      "estimate": "300k+",
+      "rank": 405,
+      "estimate": "80k+",
       "name": "Euro Truck Simulator 2 - Coaches"
     },
     "3864190": {
-      "rank": 665,
-      "estimate": "40k+",
+      "rank": 2064,
+      "estimate": "7k+",
       "name": "MISHA"
     },
     "3917700": {
-      "rank": 1759,
-      "estimate": "15k+",
+      "rank": 3185,
+      "estimate": "<7k",
       "name": "DiceVaders"
     },
+    "3954950": {
+      "rank": 5805,
+      "estimate": "<7k",
+      "name": "Backrooms: Rogue 0"
+    },
+    "4057270": {
+      "rank": 2786,
+      "estimate": "7k+",
+      "name": "Truck Simulator 2026: USA"
+    },
+    "4064610": {
+      "rank": 6120,
+      "estimate": "<7k",
+      "name": "Legacy of the Gladiators"
+    },
+    "4104790": {
+      "rank": 4886,
+      "estimate": "<7k",
+      "name": "Drako: Blood Heist"
+    },
     "4114100": {
-      "rank": 927,
+      "rank": 535,
       "estimate": "40k+",
       "name": "Inkblood"
     },
+    "4139440": {
+      "rank": 9784,
+      "estimate": "<7k",
+      "name": "Botlings"
+    },
     "4214130": {
-      "rank": 3786,
+      "rank": 3801,
       "estimate": "<7k",
       "name": "Tihama | تهامة"
     },
     "4335460": {
-      "rank": 742,
-      "estimate": "40k+",
+      "rank": 294,
+      "estimate": "80k+",
       "name": "BOXROOM"
     },
+    "4365700": {
+      "rank": 1527,
+      "estimate": "15k+",
+      "name": "Sacred Exposure"
+    },
+    "4465330": {
+      "rank": 9431,
+      "estimate": "<7k",
+      "name": "Tally4: Operation MARY"
+    },
     "4554250": {
-      "rank": 847,
-      "estimate": "40k+",
+      "rank": 143,
+      "estimate": "200k+",
       "name": "Hellforged"
+    },
+    "4561140": {
+      "rank": 8578,
+      "estimate": "<7k",
+      "name": "Hypnos"
+    },
+    "4578450": {
+      "rank": 7561,
+      "estimate": "<7k",
+      "name": "MELI"
+    },
+    "4667460": {
+      "rank": 7563,
+      "estimate": "<7k",
+      "name": "汪里个狼 Wolf in Woof"
+    },
+    "4712470": {
+      "rank": 1630,
+      "estimate": "15k+",
+      "name": "Netherspire"
     }
   }
 }

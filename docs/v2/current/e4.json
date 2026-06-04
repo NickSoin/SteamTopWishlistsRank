@@ -1,108 +1,263 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 51,
   "entries": {
-    "1967440": {
-      "rank": 3924,
+    "1913700": {
+      "rank": 5531,
       "estimate": "<7k",
+      "name": "Netspectre"
+    },
+    "1967440": {
+      "rank": 1452,
+      "estimate": "25k+",
       "name": "God Help Us All"
     },
-    "2162310": {
-      "rank": 4475,
+    "2301540": {
+      "rank": 4045,
       "estimate": "<7k",
-      "name": "Existence: The Outer Reach"
+      "name": "Hunting Bigfoot"
     },
     "2327720": {
-      "rank": 258,
+      "rank": 231,
       "estimate": "80k+",
       "name": "City Car Driving 2.0"
     },
+    "2390410": {
+      "rank": 1403,
+      "estimate": "25k+",
+      "name": "1 Billion Spells"
+    },
+    "2453780": {
+      "rank": 8229,
+      "estimate": "<7k",
+      "name": "BitterSweet: Detectives' Tea Party"
+    },
+    "2610840": {
+      "rank": 9651,
+      "estimate": "<7k",
+      "name": "Daomei Village: Prologue"
+    },
     "2743810": {
-      "rank": 4343,
+      "rank": 3583,
       "estimate": "<7k",
       "name": "Kudo’s Kuppa"
     },
     "2766240": {
-      "rank": 2046,
-      "estimate": "7k+",
+      "rank": 4525,
+      "estimate": "<7k",
       "name": "Portal: System Failure"
     },
     "2928190": {
-      "rank": 2175,
+      "rank": 2722,
       "estimate": "7k+",
       "name": "There is NO PLAN B"
     },
-    "2976030": {
-      "rank": 1349,
-      "estimate": "25k+",
-      "name": "Spell Fragments"
+    "3133670": {
+      "rank": 8587,
+      "estimate": "<7k",
+      "name": "Hunter: The Reckoning — Day For Night"
     },
     "3161310": {
-      "rank": 62,
-      "estimate": "300k+",
+      "rank": 142,
+      "estimate": "200k+",
       "name": "Hela: of Mice & Magic"
     },
     "3195300": {
-      "rank": 4187,
+      "rank": 5240,
       "estimate": "<7k",
       "name": "Sins of a Solar Empire II - Harbinger"
     },
     "3220370": {
-      "rank": 3886,
+      "rank": 4507,
       "estimate": "<7k",
       "name": "Soul Injector Commando"
     },
     "3279440": {
-      "rank": 1123,
-      "estimate": "25k+",
+      "rank": 1720,
+      "estimate": "15k+",
       "name": "Drone Sector"
     },
+    "3284260": {
+      "rank": 6018,
+      "estimate": "<7k",
+      "name": "Blades & Battles"
+    },
     "3342470": {
-      "rank": 3178,
+      "rank": 6694,
       "estimate": "<7k",
       "name": "City of Voices"
     },
+    "3356000": {
+      "rank": 5702,
+      "estimate": "<7k",
+      "name": "The Traveller's Sight"
+    },
+    "3457990": {
+      "rank": 7486,
+      "estimate": "<7k",
+      "name": "MAFIA ROMANIA"
+    },
     "3499790": {
-      "rank": 452,
-      "estimate": "80k+",
+      "rank": 1107,
+      "estimate": "25k+",
       "name": "Ashes of the Singularity II"
     },
     "3752080": {
-      "rank": 4506,
+      "rank": 9229,
       "estimate": "<7k",
       "name": "Mr. Ashfish's Distant Rehab"
     },
+    "3774800": {
+      "rank": 5815,
+      "estimate": "<7k",
+      "name": "Atomic Age"
+    },
+    "3779560": {
+      "rank": 5208,
+      "estimate": "<7k",
+      "name": "Celeste Blue Wizard Luna"
+    },
     "3798860": {
-      "rank": 619,
+      "rank": 603,
       "estimate": "40k+",
       "name": "Shutter Story"
     },
-    "3930510": {
-      "rank": 4470,
+    "3848370": {
+      "rank": 8852,
       "estimate": "<7k",
+      "name": "Rival Soldier Front"
+    },
+    "3860970": {
+      "rank": 4391,
+      "estimate": "<7k",
+      "name": "VAL'TY"
+    },
+    "3930510": {
+      "rank": 735,
+      "estimate": "40k+",
       "name": "Don't Let It Starve"
     },
     "3964340": {
-      "rank": 3627,
+      "rank": 5980,
       "estimate": "<7k",
       "name": "MMORPG NPC Simulator"
     },
+    "4018480": {
+      "rank": 4381,
+      "estimate": "<7k",
+      "name": "Pistonica"
+    },
+    "4036350": {
+      "rank": 8094,
+      "estimate": "<7k",
+      "name": "Echoes of Tomorrow"
+    },
     "4084180": {
-      "rank": 2810,
+      "rank": 2211,
       "estimate": "7k+",
       "name": "TORNBLADE"
     },
+    "4100770": {
+      "rank": 2354,
+      "estimate": "7k+",
+      "name": "SongRunner"
+    },
+    "4254950": {
+      "rank": 8065,
+      "estimate": "<7k",
+      "name": "Hollow Faces"
+    },
+    "4256880": {
+      "rank": 7277,
+      "estimate": "<7k",
+      "name": "Hexagon Soup"
+    },
+    "4280850": {
+      "rank": 6984,
+      "estimate": "<7k",
+      "name": "Dig Too Deep"
+    },
+    "4286720": {
+      "rank": 6871,
+      "estimate": "<7k",
+      "name": "INK Mountains And Rivers"
+    },
     "4328820": {
-      "rank": 1028,
-      "estimate": "25k+",
+      "rank": 250,
+      "estimate": "80k+",
       "name": "Iron Bramble"
     },
     "4375480": {
-      "rank": 4354,
-      "estimate": "<7k",
+      "rank": 1537,
+      "estimate": "15k+",
       "name": "14 Days With You"
+    },
+    "4385740": {
+      "rank": 7580,
+      "estimate": "<7k",
+      "name": "SCP: Antimemetics Division"
+    },
+    "4428890": {
+      "rank": 2377,
+      "estimate": "7k+",
+      "name": "20 More, Somehow Even Smaller, Mazes"
+    },
+    "4534210": {
+      "rank": 8775,
+      "estimate": "<7k",
+      "name": "The Cryptobiosis Project"
+    },
+    "4551750": {
+      "rank": 8992,
+      "estimate": "<7k",
+      "name": "G-Vora"
+    },
+    "4580600": {
+      "rank": 1619,
+      "estimate": "15k+",
+      "name": "Animaly Bar: NO HUMANITY!"
+    },
+    "4605350": {
+      "rank": 7922,
+      "estimate": "<7k",
+      "name": "Cornered Cadavers"
+    },
+    "4621370": {
+      "rank": 4281,
+      "estimate": "<7k",
+      "name": "Orderbound"
+    },
+    "4632020": {
+      "rank": 3730,
+      "estimate": "<7k",
+      "name": "Historarium"
+    },
+    "4638930": {
+      "rank": 5094,
+      "estimate": "<7k",
+      "name": "Ember Legion"
+    },
+    "4639520": {
+      "rank": 3141,
+      "estimate": "<7k",
+      "name": "Mini Murder Mysteries"
+    },
+    "4677650": {
+      "rank": 2562,
+      "estimate": "7k+",
+      "name": "Buggin' Out!"
+    },
+    "4687990": {
+      "rank": 6820,
+      "estimate": "<7k",
+      "name": "VOID PROFIT"
+    },
+    "4708080": {
+      "rank": 5328,
+      "estimate": "<7k",
+      "name": "The Echoes"
     }
   }
 }

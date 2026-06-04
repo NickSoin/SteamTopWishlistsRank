@@ -1,158 +1,263 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 51,
   "entries": {
-    "616780": {
-      "rank": 1921,
-      "estimate": "15k+",
-      "name": "Age of Space"
-    },
     "1243550": {
-      "rank": 3981,
+      "rank": 7794,
       "estimate": "<7k",
       "name": "SilkRoad Project"
     },
-    "1390760": {
-      "rank": 842,
-      "estimate": "40k+",
-      "name": "Nanzou: The Divine Court"
+    "1270660": {
+      "rank": 7964,
+      "estimate": "<7k",
+      "name": "Dead Party"
     },
     "1445190": {
-      "rank": 1134,
-      "estimate": "25k+",
+      "rank": 5043,
+      "estimate": "<7k",
       "name": "DoubleShake"
     },
     "1493430": {
-      "rank": 1172,
-      "estimate": "25k+",
+      "rank": 5986,
+      "estimate": "<7k",
       "name": "Agony: Lords of Hell"
     },
-    "1655540": {
-      "rank": 3259,
+    "1608920": {
+      "rank": 6528,
       "estimate": "<7k",
-      "name": "Fishermen's Haven"
+      "name": "Future Fall"
     },
     "1678040": {
-      "rank": 2547,
-      "estimate": "7k+",
+      "rank": 7094,
+      "estimate": "<7k",
       "name": "Njorun's Will"
     },
+    "1860010": {
+      "rank": 8632,
+      "estimate": "<7k",
+      "name": "KEEPERS 1477"
+    },
     "1958160": {
-      "rank": 1114,
-      "estimate": "25k+",
+      "rank": 4849,
+      "estimate": "<7k",
       "name": "moorestech"
     },
-    "2258070": {
-      "rank": 3600,
+    "2316710": {
+      "rank": 9731,
       "estimate": "<7k",
-      "name": "Tire Boy"
-    },
-    "2362780": {
-      "rank": 4552,
-      "estimate": "<7k",
-      "name": "Curilemu"
+      "name": "Rootman: Bodycam Horror Footage"
     },
     "2397810": {
-      "rank": 3113,
+      "rank": 5584,
       "estimate": "<7k",
       "name": "Jet Attack"
     },
+    "2426280": {
+      "rank": 6759,
+      "estimate": "<7k",
+      "name": "Dwarf Legacy"
+    },
+    "2698140": {
+      "rank": 7224,
+      "estimate": "<7k",
+      "name": "Graalonline Worlds"
+    },
     "2704090": {
-      "rank": 1713,
-      "estimate": "15k+",
+      "rank": 2647,
+      "estimate": "7k+",
       "name": "Celestial Return"
     },
-    "2950750": {
-      "rank": 4662,
+    "2783240": {
+      "rank": 2874,
+      "estimate": "7k+",
+      "name": "Warlondor"
+    },
+    "2848910": {
+      "rank": 4523,
       "estimate": "<7k",
-      "name": "Shallow Pond"
+      "name": "Reggie, His Cousin, Two Scientists and Most Likely the End of the World"
+    },
+    "3057340": {
+      "rank": 8331,
+      "estimate": "<7k",
+      "name": "As The Leaves Fall"
+    },
+    "3115330": {
+      "rank": 2540,
+      "estimate": "7k+",
+      "name": "SHAROTANK - ROAD TO KYSHTYM"
     },
     "3119190": {
-      "rank": 4609,
+      "rank": 3945,
       "estimate": "<7k",
       "name": "koROBO"
     },
     "3234820": {
-      "rank": 2569,
-      "estimate": "7k+",
+      "rank": 7278,
+      "estimate": "<7k",
       "name": "Zitifono"
     },
+    "3449530": {
+      "rank": 3690,
+      "estimate": "<7k",
+      "name": "Apothecurse"
+    },
     "3551190": {
-      "rank": 1812,
-      "estimate": "15k+",
+      "rank": 1057,
+      "estimate": "25k+",
       "name": "The Last Salvage Squad"
     },
     "3633340": {
-      "rank": 3717,
+      "rank": 6675,
       "estimate": "<7k",
       "name": "Last Summer"
     },
-    "3824290": {
-      "rank": 3159,
+    "3719480": {
+      "rank": 5315,
       "estimate": "<7k",
+      "name": "Scared by Squares"
+    },
+    "3824290": {
+      "rank": 2119,
+      "estimate": "7k+",
       "name": "Ultrasound"
     },
     "3825600": {
-      "rank": 2225,
-      "estimate": "7k+",
+      "rank": 929,
+      "estimate": "40k+",
       "name": "Culdcept The First"
     },
     "3849000": {
-      "rank": 352,
+      "rank": 302,
       "estimate": "80k+",
       "name": "The Lantern of the Laughless Saint"
     },
+    "3867440": {
+      "rank": 5684,
+      "estimate": "<7k",
+      "name": "Backrooms M.E.G"
+    },
     "3873720": {
-      "rank": 2911,
-      "estimate": "7k+",
+      "rank": 8063,
+      "estimate": "<7k",
       "name": "Unboxing Mr. Coo"
     },
     "3959020": {
-      "rank": 3668,
+      "rank": 5511,
       "estimate": "<7k",
       "name": "Imagine Sisyphus Happy"
     },
+    "3967230": {
+      "rank": 1525,
+      "estimate": "15k+",
+      "name": "Alchemortis"
+    },
     "4009490": {
-      "rank": 1129,
+      "rank": 1016,
       "estimate": "25k+",
       "name": "Arctic Drive"
     },
+    "4135380": {
+      "rank": 5860,
+      "estimate": "<7k",
+      "name": "Wink Out"
+    },
     "4156710": {
-      "rank": 2976,
-      "estimate": "7k+",
+      "rank": 731,
+      "estimate": "40k+",
       "name": "Coin Maker Simulator"
     },
     "4171850": {
-      "rank": 228,
-      "estimate": "80k+",
+      "rank": 151,
+      "estimate": "200k+",
       "name": "Trees Hate You"
     },
+    "4184010": {
+      "rank": 9782,
+      "estimate": "<7k",
+      "name": "BUZZBITY"
+    },
+    "4198020": {
+      "rank": 3406,
+      "estimate": "<7k",
+      "name": "Fame Or Folly"
+    },
     "4200110": {
-      "rank": 1724,
-      "estimate": "15k+",
+      "rank": 2429,
+      "estimate": "7k+",
       "name": "Nekome: Nazi Hunter"
     },
     "4244910": {
-      "rank": 527,
+      "rank": 676,
       "estimate": "40k+",
       "name": "Horizon Hunters Gathering"
     },
     "4279510": {
-      "rank": 2664,
-      "estimate": "7k+",
+      "rank": 1655,
+      "estimate": "15k+",
       "name": "No Mortal Space"
     },
-    "4413930": {
-      "rank": 4010,
+    "4281360": {
+      "rank": 6855,
       "estimate": "<7k",
-      "name": "Bread and Blood"
+      "name": "Auto-Arcana"
+    },
+    "4286660": {
+      "rank": 1245,
+      "estimate": "25k+",
+      "name": "Defrag Incremental"
+    },
+    "4395010": {
+      "rank": 3274,
+      "estimate": "<7k",
+      "name": "Demon Touch!"
+    },
+    "4405120": {
+      "rank": 3432,
+      "estimate": "<7k",
+      "name": "Creepy Horrors: Blood Cult 2"
     },
     "4523310": {
-      "rank": 4035,
-      "estimate": "<7k",
+      "rank": 2720,
+      "estimate": "7k+",
       "name": "Megalophobia"
+    },
+    "4547640": {
+      "rank": 7326,
+      "estimate": "<7k",
+      "name": "盲盒指挥官"
+    },
+    "4608640": {
+      "rank": 7583,
+      "estimate": "<7k",
+      "name": "Harvest of Names"
+    },
+    "4621090": {
+      "rank": 4963,
+      "estimate": "<7k",
+      "name": "How 2D Girl Ends Up in Siberia"
+    },
+    "4654740": {
+      "rank": 5310,
+      "estimate": "<7k",
+      "name": "The Unnamed"
+    },
+    "4676960": {
+      "rank": 1784,
+      "estimate": "15k+",
+      "name": "Kiss or Kill"
+    },
+    "4692500": {
+      "rank": 5889,
+      "estimate": "<7k",
+      "name": "No One Returns"
+    },
+    "4745200": {
+      "rank": 9601,
+      "estimate": "<7k",
+      "name": "NUNBORA: Frostblind"
     }
   }
 }

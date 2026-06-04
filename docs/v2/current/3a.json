@@ -1,53 +1,118 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 9,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 22,
   "entries": {
-    "1280660": {
-      "rank": 1955,
-      "estimate": "15k+",
-      "name": "Rollercoaster Mechanic"
-    },
     "1605850": {
-      "rank": 304,
-      "estimate": "80k+",
+      "rank": 106,
+      "estimate": "200k+",
       "name": "ZeroSpace"
     },
+    "2332760": {
+      "rank": 5441,
+      "estimate": "<7k",
+      "name": "Toilet Hero: Epstein Files"
+    },
     "2377600": {
-      "rank": 2688,
-      "estimate": "7k+",
+      "rank": 8510,
+      "estimate": "<7k",
       "name": "Cozy Dungeons"
     },
+    "2747760": {
+      "rank": 6358,
+      "estimate": "<7k",
+      "name": "黒白のアヴェスター Refusal─拒絶"
+    },
+    "2792850": {
+      "rank": 5158,
+      "estimate": "<7k",
+      "name": "Smug Ally (voice assistant)"
+    },
+    "2907810": {
+      "rank": 3157,
+      "estimate": "<7k",
+      "name": "Tung Tung Tung Sahur"
+    },
     "3045340": {
-      "rank": 4125,
+      "rank": 9682,
       "estimate": "<7k",
       "name": "SHATTERFARMS"
     },
     "3235150": {
-      "rank": 2151,
-      "estimate": "7k+",
+      "rank": 8643,
+      "estimate": "<7k",
       "name": "Exile Protocol"
     },
     "3250960": {
-      "rank": 3146,
+      "rank": 4670,
       "estimate": "<7k",
       "name": "异世轮回录：If"
     },
     "3315700": {
-      "rank": 4179,
-      "estimate": "<7k",
+      "rank": 2853,
+      "estimate": "7k+",
       "name": "Unsound Love"
     },
+    "3387390": {
+      "rank": 3251,
+      "estimate": "<7k",
+      "name": "リクイッド・アビス - The Melted Jelly -"
+    },
     "3438920": {
-      "rank": 362,
+      "rank": 337,
       "estimate": "80k+",
       "name": "VOID DIVER: Escape from the Abyss"
     },
     "3654740": {
-      "rank": 3333,
-      "estimate": "<7k",
+      "rank": 727,
+      "estimate": "40k+",
       "name": "Stardream"
+    },
+    "3686880": {
+      "rank": 9329,
+      "estimate": "<7k",
+      "name": "DwarfHold: Tokens & Towers"
+    },
+    "3750310": {
+      "rank": 8733,
+      "estimate": "<7k",
+      "name": "Who Fart ?"
+    },
+    "3839400": {
+      "rank": 7268,
+      "estimate": "<7k",
+      "name": "WOLF OF THE DESERT"
+    },
+    "3950730": {
+      "rank": 6138,
+      "estimate": "<7k",
+      "name": "Tidy Tidy"
+    },
+    "4121430": {
+      "rank": 2473,
+      "estimate": "7k+",
+      "name": "Oh!Ware"
+    },
+    "4247350": {
+      "rank": 6529,
+      "estimate": "<7k",
+      "name": "HiroBot: Clean & Restore"
+    },
+    "4301580": {
+      "rank": 7921,
+      "estimate": "<7k",
+      "name": "Greedy"
+    },
+    "4384150": {
+      "rank": 5739,
+      "estimate": "<7k",
+      "name": "KUBIKA"
+    },
+    "4677850": {
+      "rank": 9655,
+      "estimate": "<7k",
+      "name": "Galaxy Pilgrim"
     }
   }
 }

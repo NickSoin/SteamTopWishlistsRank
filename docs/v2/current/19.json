@@ -1,73 +1,223 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 13,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 43,
   "entries": {
     "563530": {
-      "rank": 3440,
+      "rank": 7882,
       "estimate": "<7k",
       "name": "Insatia"
     },
-    "1251960": {
-      "rank": 3473,
-      "estimate": "<7k",
-      "name": "Deathtrap Dungeon: The Golden Room"
-    },
     "1566440": {
-      "rank": 3624,
+      "rank": 7271,
       "estimate": "<7k",
       "name": "Lords of Nether"
     },
+    "2243890": {
+      "rank": 7104,
+      "estimate": "<7k",
+      "name": "A Simpler World"
+    },
+    "2374990": {
+      "rank": 6203,
+      "estimate": "<7k",
+      "name": "Primeval Horizon"
+    },
     "2493130": {
-      "rank": 1714,
-      "estimate": "15k+",
+      "rank": 4399,
+      "estimate": "<7k",
       "name": "Train Planet"
     },
+    "2773630": {
+      "rank": 6863,
+      "estimate": "<7k",
+      "name": "Iron Hunters"
+    },
+    "2811190": {
+      "rank": 7671,
+      "estimate": "<7k",
+      "name": "click to ten 3D"
+    },
     "2981400": {
-      "rank": 1270,
-      "estimate": "25k+",
+      "rank": 3291,
+      "estimate": "<7k",
       "name": "Middle Ages: Peasants & Knights"
     },
+    "2996310": {
+      "rank": 7730,
+      "estimate": "<7k",
+      "name": "Manny's 2"
+    },
+    "3181720": {
+      "rank": 2383,
+      "estimate": "7k+",
+      "name": "Project:Null Hypothesis"
+    },
     "3325070": {
-      "rank": 741,
-      "estimate": "40k+",
+      "rank": 4345,
+      "estimate": "<7k",
       "name": "Forest Reigns"
     },
     "3383030": {
-      "rank": 3452,
+      "rank": 4720,
       "estimate": "<7k",
       "name": "Immortal Path(星河仙道)"
     },
     "3411810": {
-      "rank": 2441,
-      "estimate": "7k+",
+      "rank": 6003,
+      "estimate": "<7k",
       "name": "Cobra Strike"
     },
-    "3845640": {
-      "rank": 4358,
+    "3453900": {
+      "rank": 3912,
       "estimate": "<7k",
+      "name": "Micromega"
+    },
+    "3456820": {
+      "rank": 3743,
+      "estimate": "<7k",
+      "name": "Hockey Clash"
+    },
+    "3541140": {
+      "rank": 6258,
+      "estimate": "<7k",
+      "name": "BattleSail"
+    },
+    "3546790": {
+      "rank": 7648,
+      "estimate": "<7k",
+      "name": "Backrooms: Liminal Nightmare"
+    },
+    "3845640": {
+      "rank": 1221,
+      "estimate": "25k+",
       "name": "My Isekai Hotel"
     },
+    "3860450": {
+      "rank": 8982,
+      "estimate": "<7k",
+      "name": "No Knock"
+    },
     "3929630": {
-      "rank": 597,
-      "estimate": "40k+",
+      "rank": 240,
+      "estimate": "80k+",
       "name": "Terrinoth®: Heroes of Descent"
     },
-    "4148100": {
-      "rank": 4410,
+    "3970720": {
+      "rank": 5177,
       "estimate": "<7k",
+      "name": "MUAY THAI XTREME"
+    },
+    "4102010": {
+      "rank": 1184,
+      "estimate": "25k+",
+      "name": "Idle Chapel"
+    },
+    "4112330": {
+      "rank": 9788,
+      "estimate": "<7k",
+      "name": "Tenshis Teatime"
+    },
+    "4131870": {
+      "rank": 2153,
+      "estimate": "7k+",
+      "name": "Chain of Greed: Tower of Babel"
+    },
+    "4148100": {
+      "rank": 2133,
+      "estimate": "7k+",
       "name": "Splash Shot Golf Legend"
     },
-    "4425120": {
-      "rank": 2850,
+    "4250580": {
+      "rank": 2515,
       "estimate": "7k+",
+      "name": "Shells MMCCCXXXIV"
+    },
+    "4315900": {
+      "rank": 5985,
+      "estimate": "<7k",
+      "name": "LURRUNA - The Island of Towering Automatons"
+    },
+    "4360140": {
+      "rank": 9996,
+      "estimate": "<7k",
+      "name": "Sneaky Clean"
+    },
+    "4375120": {
+      "rank": 4938,
+      "estimate": "<7k",
+      "name": "Jigokuraku: BATTLE IN HELL'S PARADISE"
+    },
+    "4383730": {
+      "rank": 4433,
+      "estimate": "<7k",
+      "name": "MORKO"
+    },
+    "4388010": {
+      "rank": 3818,
+      "estimate": "<7k",
+      "name": "ALVAR"
+    },
+    "4410960": {
+      "rank": 5698,
+      "estimate": "<7k",
+      "name": "Nurtale Nesche"
+    },
+    "4425120": {
+      "rank": 1778,
+      "estimate": "15k+",
       "name": "Greetings from El Rey"
     },
     "4433800": {
-      "rank": 3393,
-      "estimate": "<7k",
+      "rank": 954,
+      "estimate": "40k+",
       "name": "There Is No Next Stop"
+    },
+    "4444510": {
+      "rank": 8965,
+      "estimate": "<7k",
+      "name": "Seeding The Wasteland"
+    },
+    "4499040": {
+      "rank": 5443,
+      "estimate": "<7k",
+      "name": "Tiny Slime Farm"
+    },
+    "4505200": {
+      "rank": 9949,
+      "estimate": "<7k",
+      "name": "Retro Music Player"
+    },
+    "4541910": {
+      "rank": 4221,
+      "estimate": "<7k",
+      "name": "Agari — Riichi Mahjong"
+    },
+    "4548940": {
+      "rank": 2010,
+      "estimate": "7k+",
+      "name": "KIRILMA: Helix Horizon"
+    },
+    "4567020": {
+      "rank": 5616,
+      "estimate": "<7k",
+      "name": "AMEN: The Quiet Exodus"
+    },
+    "4650100": {
+      "rank": 7956,
+      "estimate": "<7k",
+      "name": "幽囚の魔法使い"
+    },
+    "4718590": {
+      "rank": 6161,
+      "estimate": "<7k",
+      "name": "透明罪 - Blue Tears"
+    },
+    "4766300": {
+      "rank": 2776,
+      "estimate": "7k+",
+      "name": "Neverwood"
     }
   }
 }

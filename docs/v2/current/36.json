@@ -1,88 +1,228 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 44,
   "entries": {
     "706680": {
-      "rank": 2391,
-      "estimate": "7k+",
+      "rank": 7931,
+      "estimate": "<7k",
       "name": "Brave Earth: Prologue"
     },
-    "1253800": {
-      "rank": 1284,
-      "estimate": "25k+",
-      "name": "The Pope: Power & Sin"
-    },
     "1257480": {
-      "rank": 845,
-      "estimate": "40k+",
+      "rank": 4783,
+      "estimate": "<7k",
       "name": "American Motorcycle Simulator"
     },
-    "1693350": {
-      "rank": 3064,
+    "1572260": {
+      "rank": 7406,
       "estimate": "<7k",
-      "name": "Stellar Valkyrie"
+      "name": "Wild Ice"
     },
     "1741170": {
-      "rank": 233,
-      "estimate": "80k+",
+      "rank": 950,
+      "estimate": "40k+",
       "name": "Fools, Maniacs and Liars"
     },
+    "2369940": {
+      "rank": 7773,
+      "estimate": "<7k",
+      "name": "造 物 终 端"
+    },
+    "2518490": {
+      "rank": 6575,
+      "estimate": "<7k",
+      "name": "Dataminers"
+    },
+    "2577390": {
+      "rank": 7608,
+      "estimate": "<7k",
+      "name": "iF-22"
+    },
     "2713000": {
-      "rank": 201,
-      "estimate": "80k+",
+      "rank": 512,
+      "estimate": "40k+",
       "name": "Resonance: A Plague Tale Legacy"
     },
     "2725610": {
-      "rank": 2318,
-      "estimate": "7k+",
+      "rank": 1215,
+      "estimate": "25k+",
       "name": "Haunted Bloodlines"
     },
     "2902170": {
-      "rank": 918,
+      "rank": 899,
       "estimate": "40k+",
       "name": "Kernel Hearts"
     },
     "2932450": {
-      "rank": 1993,
-      "estimate": "15k+",
+      "rank": 1180,
+      "estimate": "25k+",
       "name": "Airsoft Online"
     },
     "3045270": {
-      "rank": 4404,
+      "rank": 3745,
       "estimate": "<7k",
       "name": "Insectile"
     },
+    "3114600": {
+      "rank": 8896,
+      "estimate": "<7k",
+      "name": "HeartWeaver"
+    },
     "3278290": {
-      "rank": 2580,
-      "estimate": "7k+",
+      "rank": 4701,
+      "estimate": "<7k",
       "name": "Feed The Pit"
     },
     "3279600": {
-      "rank": 2927,
-      "estimate": "7k+",
+      "rank": 4466,
+      "estimate": "<7k",
       "name": "The Thrill of the Fight 2 Spectator"
     },
+    "3302740": {
+      "rank": 2483,
+      "estimate": "7k+",
+      "name": "Supernatural Squad"
+    },
+    "3478560": {
+      "rank": 7522,
+      "estimate": "<7k",
+      "name": "Void Future: Hacking Protocol"
+    },
     "3564500": {
-      "rank": 789,
-      "estimate": "40k+",
+      "rank": 2235,
+      "estimate": "7k+",
       "name": "Lambda Fortress"
     },
-    "3949440": {
-      "rank": 3281,
+    "3596130": {
+      "rank": 6537,
       "estimate": "<7k",
+      "name": "Chaos Coin"
+    },
+    "3629270": {
+      "rank": 6679,
+      "estimate": "<7k",
+      "name": "SCP: Site Frostfall​"
+    },
+    "3678070": {
+      "rank": 7633,
+      "estimate": "<7k",
+      "name": "Connected"
+    },
+    "3863740": {
+      "rank": 7035,
+      "estimate": "<7k",
+      "name": "NeeNee Deskpals"
+    },
+    "3949440": {
+      "rank": 248,
+      "estimate": "80k+",
       "name": "Scalpers' Spoils"
     },
+    "4007910": {
+      "rank": 9861,
+      "estimate": "<7k",
+      "name": "ORE x TRACTOR"
+    },
+    "4066490": {
+      "rank": 6148,
+      "estimate": "<7k",
+      "name": "The Doors to Netherwhere"
+    },
     "4145380": {
-      "rank": 3643,
+      "rank": 4019,
       "estimate": "<7k",
       "name": "Avemary Rocket -Captain Patchwork-"
     },
+    "4177110": {
+      "rank": 4975,
+      "estimate": "<7k",
+      "name": "Blue Wyrm"
+    },
+    "4190760": {
+      "rank": 3419,
+      "estimate": "<7k",
+      "name": "The Fish Corner"
+    },
+    "4201950": {
+      "rank": 5400,
+      "estimate": "<7k",
+      "name": "Namiko"
+    },
+    "4213320": {
+      "rank": 5388,
+      "estimate": "<7k",
+      "name": "Wheel Make It"
+    },
+    "4280540": {
+      "rank": 975,
+      "estimate": "40k+",
+      "name": "Liminal Logistics"
+    },
+    "4283400": {
+      "rank": 9933,
+      "estimate": "<7k",
+      "name": "Little Otter's Fishing Life"
+    },
+    "4284580": {
+      "rank": 2665,
+      "estimate": "7k+",
+      "name": "CoinPit"
+    },
+    "4305470": {
+      "rank": 2604,
+      "estimate": "7k+",
+      "name": "Holonoptic"
+    },
+    "4341140": {
+      "rank": 7530,
+      "estimate": "<7k",
+      "name": "The Last Shot: Underworld"
+    },
+    "4373880": {
+      "rank": 8540,
+      "estimate": "<7k",
+      "name": "Tank General"
+    },
+    "4399400": {
+      "rank": 8337,
+      "estimate": "<7k",
+      "name": "RogueDesigner"
+    },
+    "4408450": {
+      "rank": 2257,
+      "estimate": "7k+",
+      "name": "Sports Card Collector Simulator"
+    },
     "4435340": {
-      "rank": 1060,
+      "rank": 1323,
       "estimate": "25k+",
       "name": "Anymaker"
+    },
+    "4461420": {
+      "rank": 7429,
+      "estimate": "<7k",
+      "name": "Kings Archer VR"
+    },
+    "4613180": {
+      "rank": 2825,
+      "estimate": "7k+",
+      "name": "Dog in the Machine"
+    },
+    "4650800": {
+      "rank": 7723,
+      "estimate": "<7k",
+      "name": "Mafia Boss Simulator"
+    },
+    "4707270": {
+      "rank": 9945,
+      "estimate": "<7k",
+      "name": "Hold The Gates"
+    },
+    "4738830": {
+      "rank": 5253,
+      "estimate": "<7k",
+      "name": "Cricket Management 26"
     }
   }
 }

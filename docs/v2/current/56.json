@@ -1,103 +1,223 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 43,
   "entries": {
     "1081830": {
-      "rank": 2093,
-      "estimate": "7k+",
+      "rank": 6975,
+      "estimate": "<7k",
       "name": "Blood And Mead"
     },
-    "1155850": {
-      "rank": 2331,
-      "estimate": "7k+",
-      "name": "Lost Viking: Kingdom of Women"
-    },
     "1307150": {
-      "rank": 4305,
-      "estimate": "<7k",
+      "rank": 2756,
+      "estimate": "7k+",
       "name": "MLF: Pro Catch"
     },
     "1572000": {
-      "rank": 100,
-      "estimate": "300k+",
+      "rank": 2662,
+      "estimate": "7k+",
       "name": "Derelicts"
     },
+    "1734130": {
+      "rank": 5438,
+      "estimate": "<7k",
+      "name": "Concerto on White"
+    },
     "1736200": {
-      "rank": 2730,
-      "estimate": "7k+",
+      "rank": 6772,
+      "estimate": "<7k",
       "name": "Sealed Gate"
     },
     "1941640": {
-      "rank": 1336,
-      "estimate": "25k+",
+      "rank": 4802,
+      "estimate": "<7k",
       "name": "4D Miner"
     },
+    "2120220": {
+      "rank": 8380,
+      "estimate": "<7k",
+      "name": "Kyubu Kyubu Dice"
+    },
     "2202650": {
-      "rank": 1057,
-      "estimate": "25k+",
+      "rank": 4089,
+      "estimate": "<7k",
       "name": "Crescent County"
     },
-    "2210240": {
-      "rank": 2957,
-      "estimate": "7k+",
-      "name": "Hoglands"
+    "2245790": {
+      "rank": 9708,
+      "estimate": "<7k",
+      "name": "Kendo Warrior"
     },
     "2254990": {
-      "rank": 111,
-      "estimate": "200k+",
+      "rank": 667,
+      "estimate": "40k+",
       "name": "Permafrost"
     },
     "2542170": {
-      "rank": 1393,
-      "estimate": "25k+",
+      "rank": 3957,
+      "estimate": "<7k",
       "name": "MOONSHIRE"
     },
     "2666160": {
-      "rank": 1151,
-      "estimate": "25k+",
+      "rank": 1867,
+      "estimate": "15k+",
       "name": "STARVEIL PROTOCOL A.A.A."
     },
-    "2946530": {
-      "rank": 3099,
+    "2738700": {
+      "rank": 7046,
       "estimate": "<7k",
+      "name": "Cloaked Protocol: Stealth Action Thriller"
+    },
+    "2892950": {
+      "rank": 5660,
+      "estimate": "<7k",
+      "name": "Recording"
+    },
+    "2946530": {
+      "rank": 2896,
+      "estimate": "7k+",
       "name": "Tornado Emergency"
     },
+    "3033190": {
+      "rank": 6639,
+      "estimate": "<7k",
+      "name": "Demon Still Alive"
+    },
     "3166050": {
-      "rank": 439,
-      "estimate": "80k+",
+      "rank": 1988,
+      "estimate": "15k+",
       "name": "Quite a Ride"
     },
     "3259000": {
-      "rank": 2846,
-      "estimate": "7k+",
+      "rank": 4695,
+      "estimate": "<7k",
       "name": "Crathos Deep"
     },
     "3266110": {
-      "rank": 731,
-      "estimate": "40k+",
+      "rank": 2505,
+      "estimate": "7k+",
       "name": "Black Pine: Incident Response"
     },
+    "3727200": {
+      "rank": 9288,
+      "estimate": "<7k",
+      "name": "a permanent echo"
+    },
+    "3791380": {
+      "rank": 8226,
+      "estimate": "<7k",
+      "name": "Magical Girl Fist Fight"
+    },
     "3819020": {
-      "rank": 4450,
+      "rank": 9157,
       "estimate": "<7k",
       "name": "DEADBOOT"
     },
+    "3824590": {
+      "rank": 8757,
+      "estimate": "<7k",
+      "name": "Decision Point: Battlegroup Operational Simulator"
+    },
+    "3834270": {
+      "rank": 6425,
+      "estimate": "<7k",
+      "name": "Pint Sized"
+    },
+    "3863050": {
+      "rank": 4762,
+      "estimate": "<7k",
+      "name": "Order of Wallachia"
+    },
     "3880400": {
-      "rank": 1718,
-      "estimate": "15k+",
+      "rank": 1043,
+      "estimate": "25k+",
       "name": "FRUKT"
     },
+    "4024580": {
+      "rank": 7322,
+      "estimate": "<7k",
+      "name": "Don't Eat Me, Granny"
+    },
+    "4050110": {
+      "rank": 8883,
+      "estimate": "<7k",
+      "name": "Custom Hero vs Epic Boss"
+    },
+    "4136610": {
+      "rank": 9454,
+      "estimate": "<7k",
+      "name": "Magnet Agent"
+    },
+    "4186460": {
+      "rank": 8749,
+      "estimate": "<7k",
+      "name": "The Hole Never Ends"
+    },
+    "4232750": {
+      "rank": 5701,
+      "estimate": "<7k",
+      "name": "Socket"
+    },
+    "4338360": {
+      "rank": 5677,
+      "estimate": "<7k",
+      "name": "Dynasty Rush"
+    },
+    "4370210": {
+      "rank": 754,
+      "estimate": "40k+",
+      "name": "Split Brain Samsara"
+    },
+    "4459720": {
+      "rank": 828,
+      "estimate": "40k+",
+      "name": "Cyber Demon Protocol"
+    },
     "4513480": {
-      "rank": 899,
+      "rank": 501,
       "estimate": "40k+",
       "name": "Scarlet Skips"
     },
-    "4689550": {
-      "rank": 4437,
+    "4514140": {
+      "rank": 1230,
+      "estimate": "25k+",
+      "name": "CHEW YOUR FOOD"
+    },
+    "4578230": {
+      "rank": 1553,
+      "estimate": "15k+",
+      "name": "Alaska Gold Fever - Bandits"
+    },
+    "4584480": {
+      "rank": 7380,
       "estimate": "<7k",
+      "name": "Casino Simulator: Vendetta"
+    },
+    "4605950": {
+      "rank": 4536,
+      "estimate": "<7k",
+      "name": "UNSIGHT"
+    },
+    "4645020": {
+      "rank": 6212,
+      "estimate": "<7k",
+      "name": "SpringTale"
+    },
+    "4674460": {
+      "rank": 6507,
+      "estimate": "<7k",
+      "name": "Human: Profit"
+    },
+    "4689550": {
+      "rank": 392,
+      "estimate": "80k+",
       "name": "RuneCipher"
+    },
+    "4754890": {
+      "rank": 9420,
+      "estimate": "<7k",
+      "name": "Meowdventure"
     }
   }
 }

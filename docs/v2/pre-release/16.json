@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 19,
   "entries": {
     "597820": {
       "rank": 2,
@@ -38,6 +38,13 @@
       "name": "Oddventure",
       "releaseDate": "2025-04-03",
       "source": "historical"
+    },
+    "1271440": {
+      "rank": 2574,
+      "estimate": "7k+",
+      "name": "HP Reverb G2",
+      "releaseDate": null,
+      "source": "tracked"
     },
     "1413370": {
       "rank": 723,

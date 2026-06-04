@@ -1,85 +1,215 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 41,
   "entries": {
     "1294620": {
-      "rank": 1388,
-      "estimate": "25k+",
+      "rank": 4985,
+      "estimate": "<7k",
       "name": "CrocApoca!! Crocodile maiden at the End of the World"
     },
-    "1578520": {
-      "rank": 3732,
-      "estimate": "<7k",
-      "name": "Samurai Zero"
-    },
     "1916410": {
-      "rank": 1386,
+      "rank": 1352,
       "estimate": "25k+",
       "name": "Drive Beyond Horizons: Prologue"
     },
-    "1931930": {
-      "rank": 2376,
-      "estimate": "7k+",
-      "name": "Wrekless™"
-    },
     "2068190": {
-      "rank": 3232,
+      "rank": 8629,
       "estimate": "<7k",
       "name": "Almost My Floor: Duality"
     },
     "2176770": {
-      "rank": 2215,
-      "estimate": "7k+",
+      "rank": 5782,
+      "estimate": "<7k",
       "name": "Ragnarok Begins"
     },
     "2210520": {
-      "rank": 436,
-      "estimate": "80k+",
+      "rank": 623,
+      "estimate": "40k+",
       "name": "COPA CITY",
       "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012614030400"
     },
     "2483030": {
-      "rank": 4152,
+      "rank": 6841,
       "estimate": "<7k",
       "name": "Whale Fall"
     },
     "2658410": {
-      "rank": 1268,
-      "estimate": "25k+",
+      "rank": 6083,
+      "estimate": "<7k",
       "name": "Soul Blade"
     },
+    "2720230": {
+      "rank": 5051,
+      "estimate": "<7k",
+      "name": "Xplorite"
+    },
+    "2902290": {
+      "rank": 4446,
+      "estimate": "<7k",
+      "name": "Edenfall"
+    },
     "2983860": {
-      "rank": 1260,
-      "estimate": "25k+",
+      "rank": 1800,
+      "estimate": "15k+",
       "name": "ISO-CORE"
     },
     "3460960": {
-      "rank": 1568,
-      "estimate": "15k+",
+      "rank": 270,
+      "estimate": "80k+",
       "name": "Echograph"
     },
+    "3572050": {
+      "rank": 5958,
+      "estimate": "<7k",
+      "name": "CatTrigger Horror Collection"
+    },
+    "3574140": {
+      "rank": 8240,
+      "estimate": "<7k",
+      "name": "The Cat: Tales of Istanbul"
+    },
     "3641000": {
-      "rank": 746,
+      "rank": 615,
       "estimate": "40k+",
       "name": "The Incident at Galley House"
     },
+    "3654590": {
+      "rank": 9663,
+      "estimate": "<7k",
+      "name": "Donut Shop Simulator"
+    },
+    "3700130": {
+      "rank": 1742,
+      "estimate": "15k+",
+      "name": "TELLURICENE"
+    },
     "3762660": {
-      "rank": 2473,
-      "estimate": "7k+",
+      "rank": 1216,
+      "estimate": "25k+",
       "name": "Trials Survivors"
     },
+    "3856240": {
+      "rank": 5195,
+      "estimate": "<7k",
+      "name": "Pieces of the Kingdom"
+    },
+    "3901610": {
+      "rank": 3282,
+      "estimate": "<7k",
+      "name": "Factory Default: Build, Trade, Repeat"
+    },
     "3902800": {
-      "rank": 2934,
-      "estimate": "7k+",
+      "rank": 3867,
+      "estimate": "<7k",
       "name": "[HERROR] Gas Station Case"
     },
     "4029090": {
-      "rank": 881,
-      "estimate": "40k+",
+      "rank": 1149,
+      "estimate": "25k+",
       "name": "Rizz Dungeon: Skeleton Key to My Heart"
+    },
+    "4062600": {
+      "rank": 8564,
+      "estimate": "<7k",
+      "name": "A Week in Paradise"
+    },
+    "4114080": {
+      "rank": 9098,
+      "estimate": "<7k",
+      "name": "StateOS: The Political Sandbox"
+    },
+    "4137450": {
+      "rank": 4477,
+      "estimate": "<7k",
+      "name": "Mimicry!"
+    },
+    "4254180": {
+      "rank": 1100,
+      "estimate": "25k+",
+      "name": "Zouhri: The Cursed Blood"
+    },
+    "4268240": {
+      "rank": 6159,
+      "estimate": "<7k",
+      "name": "Gravity Strikers"
+    },
+    "4305790": {
+      "rank": 3006,
+      "estimate": "<7k",
+      "name": "Huglings"
+    },
+    "4335520": {
+      "rank": 9744,
+      "estimate": "<7k",
+      "name": "Monty's Idle Mine"
+    },
+    "4339630": {
+      "rank": 3358,
+      "estimate": "<7k",
+      "name": "The Eye of Vala"
+    },
+    "4432380": {
+      "rank": 7699,
+      "estimate": "<7k",
+      "name": "Tsuki Journey"
+    },
+    "4439370": {
+      "rank": 3462,
+      "estimate": "<7k",
+      "name": "Mechs V Kaijus 2"
+    },
+    "4451800": {
+      "rank": 5521,
+      "estimate": "<7k",
+      "name": "Dream Fishing"
+    },
+    "4581060": {
+      "rank": 5792,
+      "estimate": "<7k",
+      "name": "Creepy Shift Online"
+    },
+    "4622790": {
+      "rank": 4962,
+      "estimate": "<7k",
+      "name": "Pin Money"
+    },
+    "4673730": {
+      "rank": 2076,
+      "estimate": "7k+",
+      "name": "Mym's Sword"
+    },
+    "4693800": {
+      "rank": 6137,
+      "estimate": "<7k",
+      "name": "Knock Again"
+    },
+    "4701930": {
+      "rank": 7453,
+      "estimate": "<7k",
+      "name": "Caracol - Wars of Religion in the 17th Century"
+    },
+    "4702900": {
+      "rank": 7591,
+      "estimate": "<7k",
+      "name": "Sunset Artisan Chocolate"
+    },
+    "4720360": {
+      "rank": 9463,
+      "estimate": "<7k",
+      "name": "VERLIES III - Resurrection"
+    },
+    "4724650": {
+      "rank": 7029,
+      "estimate": "<7k",
+      "name": "DEMON SIEGE"
+    },
+    "4729460": {
+      "rank": 6424,
+      "estimate": "<7k",
+      "name": "Wanderblue"
     }
   }
 }

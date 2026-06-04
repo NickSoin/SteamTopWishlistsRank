@@ -1,98 +1,218 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 42,
   "entries": {
-    "1279500": {
-      "rank": 4245,
-      "estimate": "<7k",
-      "name": "Nine Chronicles"
-    },
     "1292510": {
-      "rank": 1538,
-      "estimate": "15k+",
+      "rank": 3869,
+      "estimate": "<7k",
       "name": "Everstorm"
     },
     "1445480": {
-      "rank": 2404,
-      "estimate": "7k+",
+      "rank": 4412,
+      "estimate": "<7k",
       "name": "Determinant"
     },
-    "1628120": {
-      "rank": 4209,
-      "estimate": "<7k",
-      "name": "Rollers of the Realm: Reunion"
-    },
     "1636620": {
-      "rank": 3117,
+      "rank": 4594,
       "estimate": "<7k",
       "name": "Cognition Method"
     },
+    "2192080": {
+      "rank": 7371,
+      "estimate": "<7k",
+      "name": "Songs of the Chalice"
+    },
+    "2539850": {
+      "rank": 9171,
+      "estimate": "<7k",
+      "name": "Nightscape"
+    },
+    "2546650": {
+      "rank": 2300,
+      "estimate": "7k+",
+      "name": "Breach Signal"
+    },
     "2560540": {
-      "rank": 4429,
+      "rank": 9413,
       "estimate": "<7k",
       "name": "Historia Realis: Rome"
     },
     "2769570": {
-      "rank": 4,
-      "estimate": "1.5m+",
+      "rank": 86,
+      "estimate": "300k+",
       "name": "Fable"
     },
     "2805850": {
-      "rank": 920,
+      "rank": 747,
       "estimate": "40k+",
       "name": "Atre: Dominance Wars"
     },
+    "2908090": {
+      "rank": 6180,
+      "estimate": "<7k",
+      "name": "VITRIOL"
+    },
+    "3200520": {
+      "rank": 4538,
+      "estimate": "<7k",
+      "name": "Banban's Garten: Distorting Clay"
+    },
     "3325610": {
-      "rank": 2155,
-      "estimate": "7k+",
+      "rank": 5944,
+      "estimate": "<7k",
       "name": "IDET"
     },
+    "3444580": {
+      "rank": 4854,
+      "estimate": "<7k",
+      "name": "Taishō Romance Theater"
+    },
+    "3454620": {
+      "rank": 5525,
+      "estimate": "<7k",
+      "name": "Social Hook"
+    },
     "3493540": {
-      "rank": 106,
-      "estimate": "200k+",
+      "rank": 352,
+      "estimate": "80k+",
       "name": "Transport Fever 3"
     },
     "3547270": {
-      "rank": 1094,
-      "estimate": "25k+",
+      "rank": 750,
+      "estimate": "40k+",
       "name": "Worming from Home"
     },
     "3558670": {
-      "rank": 26,
+      "rank": 22,
       "estimate": "600k+",
       "name": "Tomb Raider: Legacy of Atlantis"
     },
-    "3581140": {
-      "rank": 2759,
-      "estimate": "7k+",
-      "name": "Clockwork Maiden"
+    "3559840": {
+      "rank": 4342,
+      "estimate": "<7k",
+      "name": "Sakura Hime 6"
     },
     "3591390": {
-      "rank": 3952,
-      "estimate": "<7k",
+      "rank": 2596,
+      "estimate": "7k+",
       "name": "Vivi and the Magical Island"
     },
-    "3994120": {
-      "rank": 4177,
+    "3815670": {
+      "rank": 2288,
+      "estimate": "7k+",
+      "name": "ERROR143 - Day 7"
+    },
+    "3905580": {
+      "rank": 7851,
       "estimate": "<7k",
+      "name": "Kart Racing World"
+    },
+    "3934180": {
+      "rank": 1340,
+      "estimate": "25k+",
+      "name": "Don Memo"
+    },
+    "3994120": {
+      "rank": 1120,
+      "estimate": "25k+",
       "name": "AI Pixel Battle"
     },
     "4001430": {
-      "rank": 4574,
-      "estimate": "<7k",
+      "rank": 1536,
+      "estimate": "15k+",
       "name": "Seres Universalis:Three Kingdoms"
     },
     "4004820": {
-      "rank": 2998,
-      "estimate": "7k+",
+      "rank": 521,
+      "estimate": "40k+",
       "name": "FreeStyle Football 2"
     },
+    "4040020": {
+      "rank": 5331,
+      "estimate": "<7k",
+      "name": "Bogeys, Ghosts & Gods"
+    },
+    "4047520": {
+      "rank": 3844,
+      "estimate": "<7k",
+      "name": "Demonbane: Ascension"
+    },
+    "4151050": {
+      "rank": 7510,
+      "estimate": "<7k",
+      "name": "Divided Empire: SENGOKU"
+    },
+    "4163060": {
+      "rank": 6815,
+      "estimate": "<7k",
+      "name": "My Paradise Lagoon Fishing Simulator"
+    },
+    "4200350": {
+      "rank": 4756,
+      "estimate": "<7k",
+      "name": "Twilight Haven"
+    },
+    "4242990": {
+      "rank": 7660,
+      "estimate": "<7k",
+      "name": "灰烬溪AshCreek"
+    },
+    "4348630": {
+      "rank": 3564,
+      "estimate": "<7k",
+      "name": "Bus Station Simulator"
+    },
+    "4386360": {
+      "rank": 4633,
+      "estimate": "<7k",
+      "name": "Death Denied"
+    },
+    "4413460": {
+      "rank": 7420,
+      "estimate": "<7k",
+      "name": "Airport Manager Simulator 2026"
+    },
     "4423580": {
-      "rank": 1710,
-      "estimate": "15k+",
+      "rank": 1168,
+      "estimate": "25k+",
       "name": "Shadow Dungeon"
+    },
+    "4429120": {
+      "rank": 8900,
+      "estimate": "<7k",
+      "name": "Ambitious Road"
+    },
+    "4441180": {
+      "rank": 3288,
+      "estimate": "<7k",
+      "name": "Understander"
+    },
+    "4509200": {
+      "rank": 9830,
+      "estimate": "<7k",
+      "name": "Grease Trap '99"
+    },
+    "4687870": {
+      "rank": 9354,
+      "estimate": "<7k",
+      "name": "Cyber: Dreamcore Girl"
+    },
+    "4692340": {
+      "rank": 2870,
+      "estimate": "7k+",
+      "name": "Coastal Summit Sports: College Athletics 27"
+    },
+    "4708740": {
+      "rank": 9168,
+      "estimate": "<7k",
+      "name": "CGCards"
+    },
+    "4716930": {
+      "rank": 4502,
+      "estimate": "<7k",
+      "name": "Ilequ"
     }
   }
 }

@@ -1,93 +1,168 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 32,
   "entries": {
-    "792380": {
-      "rank": 1770,
-      "estimate": "15k+",
-      "name": "Survival Journals"
-    },
     "931060": {
-      "rank": 2305,
-      "estimate": "7k+",
+      "rank": 1268,
+      "estimate": "25k+",
       "name": "Tormentum II"
     },
     "1051440": {
-      "rank": 318,
-      "estimate": "80k+",
+      "rank": 2718,
+      "estimate": "7k+",
       "name": "Ship Builder"
     },
-    "1393630": {
-      "rank": 2683,
-      "estimate": "7k+",
-      "name": "XGAMEX"
-    },
-    "1599490": {
-      "rank": 4411,
+    "1767620": {
+      "rank": 8838,
       "estimate": "<7k",
-      "name": "One Way Road"
-    },
-    "1812250": {
-      "rank": 4524,
-      "estimate": "<7k",
-      "name": "Dono's Tale"
+      "name": "CLOCKWORLD – Aroll's Legacy"
     },
     "2127980": {
-      "rank": 4652,
+      "rank": 3151,
       "estimate": "<7k",
       "name": "Project: Orc"
     },
     "2255360": {
-      "rank": 4501,
+      "rank": 6028,
       "estimate": "<7k",
       "name": "Throwia"
     },
+    "2263530": {
+      "rank": 6919,
+      "estimate": "<7k",
+      "name": "Paramedics! - EMS Simulator"
+    },
     "2338890": {
-      "rank": 4313,
+      "rank": 4988,
       "estimate": "<7k",
       "name": "Starship Colony"
     },
     "2421000": {
-      "rank": 957,
-      "estimate": "40k+",
+      "rank": 2462,
+      "estimate": "7k+",
       "name": "BANDIT KNIGHT"
     },
     "2607420": {
-      "rank": 2417,
-      "estimate": "7k+",
+      "rank": 5754,
+      "estimate": "<7k",
       "name": "Cat Life Simulator"
     },
     "2654990": {
-      "rank": 2622,
-      "estimate": "7k+",
+      "rank": 862,
+      "estimate": "40k+",
       "name": "Mythic Love: Iberian Legends"
     },
+    "3335690": {
+      "rank": 6156,
+      "estimate": "<7k",
+      "name": "Typing Valley"
+    },
+    "3492810": {
+      "rank": 5940,
+      "estimate": "<7k",
+      "name": "Remnant Blade: The Scarlet Edge"
+    },
+    "3497930": {
+      "rank": 6178,
+      "estimate": "<7k",
+      "name": "Gamba Gun"
+    },
+    "3498760": {
+      "rank": 5421,
+      "estimate": "<7k",
+      "name": "Unshelved"
+    },
     "3628440": {
-      "rank": 4439,
+      "rank": 3133,
       "estimate": "<7k",
       "name": "Abyss Saga"
     },
+    "3784140": {
+      "rank": 8674,
+      "estimate": "<7k",
+      "name": "Kuny-Kuny Hog"
+    },
+    "3818900": {
+      "rank": 1776,
+      "estimate": "15k+",
+      "name": "Putrika 2nd.cut:For the Exquisite Attire"
+    },
+    "3826710": {
+      "rank": 4406,
+      "estimate": "<7k",
+      "name": "Kiipluu"
+    },
+    "3844800": {
+      "rank": 5580,
+      "estimate": "<7k",
+      "name": "BLEEDING"
+    },
+    "3853440": {
+      "rank": 2033,
+      "estimate": "7k+",
+      "name": "Astra: Your Virtual Assistant"
+    },
     "3895110": {
-      "rank": 570,
-      "estimate": "40k+",
+      "rank": 366,
+      "estimate": "80k+",
       "name": "The Road of Dust and Sorrow"
     },
+    "3915360": {
+      "rank": 4562,
+      "estimate": "<7k",
+      "name": "The Night the Star Fell"
+    },
+    "4271540": {
+      "rank": 9391,
+      "estimate": "<7k",
+      "name": "Tile Tactics"
+    },
     "4285280": {
-      "rank": 4481,
+      "rank": 7758,
       "estimate": "<7k",
       "name": "Martyr"
     },
     "4382260": {
-      "rank": 1935,
-      "estimate": "15k+",
+      "rank": 2285,
+      "estimate": "7k+",
       "name": "Castaway Diary: Portal to the Unknown Isles"
     },
+    "4422960": {
+      "rank": 2339,
+      "estimate": "7k+",
+      "name": "Waters of Ragnarök"
+    },
+    "4429420": {
+      "rank": 6068,
+      "estimate": "<7k",
+      "name": "The Birdsong Tree"
+    },
+    "4502730": {
+      "rank": 7870,
+      "estimate": "<7k",
+      "name": "Savi's Tale: When White Petals Fall Like First Snow"
+    },
     "4562750": {
-      "rank": 4151,
+      "rank": 3263,
       "estimate": "<7k",
       "name": "Dungeon Sweeper Plus"
+    },
+    "4695960": {
+      "rank": 8836,
+      "estimate": "<7k",
+      "name": "Jurassic Genesis: We Are Aliens"
+    },
+    "4705500": {
+      "rank": 9498,
+      "estimate": "<7k",
+      "name": "Dumb Cartel"
+    },
+    "4711570": {
+      "rank": 9170,
+      "estimate": "<7k",
+      "name": "Sectron"
     }
   }
 }

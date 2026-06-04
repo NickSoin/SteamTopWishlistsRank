@@ -1,118 +1,228 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 44,
   "entries": {
     "860210": {
-      "rank": 535,
-      "estimate": "40k+",
+      "rank": 7439,
+      "estimate": "<7k",
       "name": "Return to Nangrim"
     },
     "1066390": {
-      "rank": 3071,
+      "rank": 6870,
       "estimate": "<7k",
       "name": "Chernobyl 1986"
     },
-    "1223030": {
-      "rank": 2124,
-      "estimate": "7k+",
-      "name": "Ami"
-    },
-    "1349460": {
-      "rank": 3314,
+    "1519940": {
+      "rank": 9925,
       "estimate": "<7k",
-      "name": "Bravers"
+      "name": "Restoration Master"
+    },
+    "1647670": {
+      "rank": 8736,
+      "estimate": "<7k",
+      "name": "Turbulence - Airplane Survival Simulator"
     },
     "1660440": {
-      "rank": 1981,
-      "estimate": "15k+",
+      "rank": 7484,
+      "estimate": "<7k",
       "name": "Way To The Woods"
     },
+    "1675860": {
+      "rank": 4643,
+      "estimate": "<7k",
+      "name": "Junkster"
+    },
     "2139040": {
-      "rank": 1602,
-      "estimate": "15k+",
+      "rank": 3215,
+      "estimate": "<7k",
       "name": "Cook, Serve, Delicious: Re-Mustard!"
     },
     "2268520": {
-      "rank": 3691,
+      "rank": 5938,
       "estimate": "<7k",
       "name": "Divided Land"
     },
     "2358630": {
-      "rank": 1730,
-      "estimate": "15k+",
+      "rank": 2805,
+      "estimate": "7k+",
       "name": "Western Rye"
     },
     "2387670": {
-      "rank": 336,
-      "estimate": "80k+",
+      "rank": 940,
+      "estimate": "40k+",
       "name": "As One We Survive"
     },
+    "2390160": {
+      "rank": 7683,
+      "estimate": "<7k",
+      "name": "琉璃烟火-Flame in Glass-"
+    },
+    "2531570": {
+      "rank": 1840,
+      "estimate": "15k+",
+      "name": "SOUNDGRASS"
+    },
     "2642850": {
-      "rank": 4463,
+      "rank": 9712,
       "estimate": "<7k",
       "name": "Serpens: Eternal Thievery"
     },
     "2691090": {
-      "rank": 2106,
-      "estimate": "7k+",
+      "rank": 1531,
+      "estimate": "15k+",
       "name": "14: Overmind"
     },
     "2861730": {
-      "rank": 1837,
-      "estimate": "15k+",
+      "rank": 1251,
+      "estimate": "25k+",
       "name": "Food Devils"
     },
     "2871520": {
-      "rank": 137,
-      "estimate": "200k+",
+      "rank": 237,
+      "estimate": "80k+",
       "name": "Deep Dish Dungeon"
     },
-    "2935130": {
-      "rank": 4449,
-      "estimate": "<7k",
-      "name": "Dice of Arcana"
-    },
     "3107530": {
-      "rank": 1267,
-      "estimate": "25k+",
+      "rank": 1888,
+      "estimate": "15k+",
       "name": "Danchi Days"
     },
     "3312710": {
-      "rank": 4160,
+      "rank": 3519,
       "estimate": "<7k",
       "name": "ALVR - Air Light VR"
     },
-    "3551090": {
-      "rank": 4043,
+    "3362490": {
+      "rank": 6256,
       "estimate": "<7k",
+      "name": "Komo: A Sunlit Journey"
+    },
+    "3509550": {
+      "rank": 6190,
+      "estimate": "<7k",
+      "name": "Pharmacy Management Simulator"
+    },
+    "3551090": {
+      "rank": 1025,
+      "estimate": "25k+",
       "name": "Charlatan"
     },
+    "3607470": {
+      "rank": 3490,
+      "estimate": "<7k",
+      "name": "The Swashbugglers"
+    },
+    "3693530": {
+      "rank": 6697,
+      "estimate": "<7k",
+      "name": "100 Cats World"
+    },
     "3926070": {
-      "rank": 4505,
+      "rank": 3205,
       "estimate": "<7k",
       "name": "The Bestest Alchemist"
     },
     "3934590": {
-      "rank": 3572,
+      "rank": 4977,
       "estimate": "<7k",
       "name": "Donjon: The Dark Fantasy"
     },
+    "3948760": {
+      "rank": 4139,
+      "estimate": "<7k",
+      "name": "Find My Frogs: Branches"
+    },
     "4020810": {
-      "rank": 1247,
-      "estimate": "25k+",
+      "rank": 1519,
+      "estimate": "15k+",
       "name": "NTL: No Time Left"
     },
+    "4114520": {
+      "rank": 7739,
+      "estimate": "<7k",
+      "name": "幻霓绮岛 Phantasmal Neon Island"
+    },
     "4141760": {
-      "rank": 4237,
+      "rank": 6908,
       "estimate": "<7k",
       "name": "NERO"
     },
     "4239670": {
-      "rank": 976,
+      "rank": 712,
       "estimate": "40k+",
       "name": "Steel Soul Shaper"
+    },
+    "4264290": {
+      "rank": 9444,
+      "estimate": "<7k",
+      "name": "MAPS (My Apocalyptic Plan for Survival)"
+    },
+    "4276240": {
+      "rank": 4371,
+      "estimate": "<7k",
+      "name": "My Girlfriend is a VAMP"
+    },
+    "4289570": {
+      "rank": 7251,
+      "estimate": "<7k",
+      "name": "kowareta"
+    },
+    "4320330": {
+      "rank": 9888,
+      "estimate": "<7k",
+      "name": "Maze 95 Ultimate"
+    },
+    "4354650": {
+      "rank": 4625,
+      "estimate": "<7k",
+      "name": "请神"
+    },
+    "4501430": {
+      "rank": 6744,
+      "estimate": "<7k",
+      "name": "8 Ball Pool: Play Together"
+    },
+    "4569340": {
+      "rank": 7295,
+      "estimate": "<7k",
+      "name": "Banana OST"
+    },
+    "4600630": {
+      "rank": 2496,
+      "estimate": "7k+",
+      "name": "Spectrakin"
+    },
+    "4613890": {
+      "rank": 4057,
+      "estimate": "<7k",
+      "name": "Lazy Kickers"
+    },
+    "4618590": {
+      "rank": 4761,
+      "estimate": "<7k",
+      "name": "The Silver Crow"
+    },
+    "4653120": {
+      "rank": 5237,
+      "estimate": "<7k",
+      "name": "Touhou Desktop Pet"
+    },
+    "4655030": {
+      "rank": 5801,
+      "estimate": "<7k",
+      "name": "Legend of Gaia: Rebirth"
+    },
+    "4757660": {
+      "rank": 5063,
+      "estimate": "<7k",
+      "name": "Demon Ark: Idle RPG"
+    },
+    "4760770": {
+      "rank": 5098,
+      "estimate": "<7k",
+      "name": "7Komada"
     }
   }
 }

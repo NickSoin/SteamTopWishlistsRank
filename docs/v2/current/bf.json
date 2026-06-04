@@ -1,88 +1,233 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 45,
   "entries": {
     "347460": {
-      "rank": 1791,
-      "estimate": "15k+",
+      "rank": 7702,
+      "estimate": "<7k",
       "name": "Heart Forth, Alicia"
     },
-    "782940": {
-      "rank": 1372,
-      "estimate": "25k+",
-      "name": "RAWMEN: Food Fighter Arena 🍜"
+    "828570": {
+      "rank": 8570,
+      "estimate": "<7k",
+      "name": "Canvas"
     },
     "896250": {
-      "rank": 1558,
-      "estimate": "15k+",
+      "rank": 2739,
+      "estimate": "7k+",
       "name": "Liquidation"
     },
-    "2284840": {
-      "rank": 2351,
-      "estimate": "7k+",
-      "name": "Across the Wilds"
+    "1932340": {
+      "rank": 5630,
+      "estimate": "<7k",
+      "name": "Party Fowl"
+    },
+    "2177890": {
+      "rank": 6823,
+      "estimate": "<7k",
+      "name": "God Machines"
+    },
+    "2242240": {
+      "rank": 7875,
+      "estimate": "<7k",
+      "name": "Seed in"
     },
     "2427980": {
-      "rank": 1394,
-      "estimate": "25k+",
+      "rank": 5838,
+      "estimate": "<7k",
       "name": "Monterona"
     },
     "2591230": {
-      "rank": 1067,
-      "estimate": "25k+",
+      "rank": 3041,
+      "estimate": "<7k",
       "name": "MEAT-GRINDER"
     },
     "2780230": {
-      "rank": 1333,
-      "estimate": "25k+",
+      "rank": 3579,
+      "estimate": "<7k",
       "name": "PIGGY ONE SUPER SPARK"
     },
+    "2890560": {
+      "rank": 8163,
+      "estimate": "<7k",
+      "name": "KART"
+    },
     "3023880": {
-      "rank": 3607,
+      "rank": 5542,
       "estimate": "<7k",
       "name": "Yellow House"
     },
     "3227240": {
-      "rank": 1929,
-      "estimate": "15k+",
+      "rank": 1465,
+      "estimate": "25k+",
       "name": "MineGeon: Renegades"
     },
+    "3238420": {
+      "rank": 3249,
+      "estimate": "<7k",
+      "name": "Torment Hexus"
+    },
     "3273960": {
-      "rank": 2519,
-      "estimate": "7k+",
+      "rank": 8024,
+      "estimate": "<7k",
       "name": "The Dark Crown: Genesis"
     },
+    "3309070": {
+      "rank": 5457,
+      "estimate": "<7k",
+      "name": "Zombie Must Dead!"
+    },
     "3323210": {
-      "rank": 1609,
-      "estimate": "15k+",
+      "rank": 3192,
+      "estimate": "<7k",
       "name": "The Age of Bhaarat"
     },
+    "3328040": {
+      "rank": 6671,
+      "estimate": "<7k",
+      "name": "Horse Evolutions"
+    },
+    "3334100": {
+      "rank": 5250,
+      "estimate": "<7k",
+      "name": "Shippin"
+    },
     "3411360": {
-      "rank": 3898,
+      "rank": 6092,
       "estimate": "<7k",
       "name": "Train Jumble"
     },
+    "3416660": {
+      "rank": 7781,
+      "estimate": "<7k",
+      "name": "Full Moon Guildhouse Simulator"
+    },
+    "3491720": {
+      "rank": 5874,
+      "estimate": "<7k",
+      "name": "MOP’N SPARK"
+    },
     "3497960": {
-      "rank": 3618,
+      "rank": 4964,
       "estimate": "<7k",
       "name": "The Symbiant II"
     },
     "3504310": {
-      "rank": 2747,
-      "estimate": "7k+",
+      "rank": 1683,
+      "estimate": "15k+",
       "name": "Ghost Sector"
     },
-    "3935530": {
-      "rank": 3246,
+    "3577240": {
+      "rank": 9944,
       "estimate": "<7k",
+      "name": "Northern Waters - Fishing & Restaurant Simulator"
+    },
+    "3640430": {
+      "rank": 1973,
+      "estimate": "15k+",
+      "name": "Worlds Upon The Wind"
+    },
+    "3670110": {
+      "rank": 2555,
+      "estimate": "7k+",
+      "name": "AlcheMice"
+    },
+    "3743670": {
+      "rank": 9445,
+      "estimate": "<7k",
+      "name": "Franky's World The Last City"
+    },
+    "3799750": {
+      "rank": 8389,
+      "estimate": "<7k",
+      "name": "School Janitor Simulator"
+    },
+    "3844300": {
+      "rank": 3993,
+      "estimate": "<7k",
+      "name": "Frame of Suffering"
+    },
+    "3935530": {
+      "rank": 1438,
+      "estimate": "25k+",
       "name": "Frutiger Home"
     },
-    "4307930": {
-      "rank": 2395,
+    "3937370": {
+      "rank": 7048,
+      "estimate": "<7k",
+      "name": "Onomatopoja"
+    },
+    "4001230": {
+      "rank": 6917,
+      "estimate": "<7k",
+      "name": "In My Orbit"
+    },
+    "4014320": {
+      "rank": 5943,
+      "estimate": "<7k",
+      "name": "100 Underwater Cats"
+    },
+    "4061320": {
+      "rank": 8383,
+      "estimate": "<7k",
+      "name": "Retromine"
+    },
+    "4067300": {
+      "rank": 9338,
+      "estimate": "<7k",
+      "name": "Mirrors Castle"
+    },
+    "4218700": {
+      "rank": 2197,
       "estimate": "7k+",
+      "name": "WIRED TOKYO 2007"
+    },
+    "4303400": {
+      "rank": 9661,
+      "estimate": "<7k",
+      "name": "Bun G Bop"
+    },
+    "4307930": {
+      "rank": 5052,
+      "estimate": "<7k",
       "name": "MECH OPS 2092"
+    },
+    "4482330": {
+      "rank": 9330,
+      "estimate": "<7k",
+      "name": "Death Eclipse: Reign of the Undying"
+    },
+    "4579890": {
+      "rank": 7279,
+      "estimate": "<7k",
+      "name": "Disease"
+    },
+    "4596930": {
+      "rank": 8043,
+      "estimate": "<7k",
+      "name": "Mysteries of the House"
+    },
+    "4607560": {
+      "rank": 8375,
+      "estimate": "<7k",
+      "name": "Crabbin' Crew"
+    },
+    "4612870": {
+      "rank": 5839,
+      "estimate": "<7k",
+      "name": "Hard Edge - War Zone"
+    },
+    "4644200": {
+      "rank": 9843,
+      "estimate": "<7k",
+      "name": "Shadow Play: Nezha"
+    },
+    "4748140": {
+      "rank": 4097,
+      "estimate": "<7k",
+      "name": "MatchMaker95 - A Programming Simulator"
     }
   }
 }

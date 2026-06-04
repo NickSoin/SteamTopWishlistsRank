@@ -1,87 +1,227 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 44,
   "entries": {
     "492540": {
-      "rank": 1211,
-      "estimate": "25k+",
+      "rank": 9641,
+      "estimate": "<7k",
       "name": "She Dreams Elsewhere"
     },
     "2451390": {
-      "rank": 2166,
+      "rank": 2723,
       "estimate": "7k+",
       "name": "Witchmarsh: Tea Party of the Damned"
     },
+    "2708230": {
+      "rank": 6244,
+      "estimate": "<7k",
+      "name": "Dungeon Tells"
+    },
     "2749880": {
-      "rank": 3892,
+      "rank": 5360,
       "estimate": "<7k",
       "name": "Surviwall"
     },
+    "2845610": {
+      "rank": 8545,
+      "estimate": "<7k",
+      "name": "Dodo Peak"
+    },
     "2961930": {
-      "rank": 490,
-      "estimate": "80k+",
+      "rank": 858,
+      "estimate": "40k+",
       "name": "Temtem: Pioneers"
     },
     "2974510": {
-      "rank": 1988,
-      "estimate": "15k+",
+      "rank": 247,
+      "estimate": "80k+",
       "name": "Lie of Caelum: Spirit"
     },
+    "3039960": {
+      "rank": 3649,
+      "estimate": "<7k",
+      "name": "Near The Sun"
+    },
     "3116700": {
-      "rank": 2579,
-      "estimate": "7k+",
+      "rank": 5277,
+      "estimate": "<7k",
       "name": "Reap and Rush"
     },
+    "3159150": {
+      "rank": 9577,
+      "estimate": "<7k",
+      "name": "ARMED DECOBOT"
+    },
     "3167920": {
-      "rank": 47,
-      "estimate": "600k+",
+      "rank": 213,
+      "estimate": "80k+",
       "name": "Low-Budget Repairs"
     },
     "3175790": {
-      "rank": 949,
+      "rank": 847,
       "estimate": "40k+",
       "name": "Mecha Legends"
     },
     "3282300": {
-      "rank": 131,
-      "estimate": "200k+",
+      "rank": 207,
+      "estimate": "80k+",
       "name": "Mistfall Hunter"
     },
+    "3327980": {
+      "rank": 8916,
+      "estimate": "<7k",
+      "name": "Fight Life: Vanguard Prologue"
+    },
     "3332120": {
-      "rank": 2211,
+      "rank": 2660,
       "estimate": "7k+",
       "name": "Dark Island: Faded Memories"
     },
+    "3350740": {
+      "rank": 7791,
+      "estimate": "<7k",
+      "name": "Dreaded Wunder"
+    },
+    "3397060": {
+      "rank": 3666,
+      "estimate": "<7k",
+      "name": "Cubic Annihilation"
+    },
+    "3407680": {
+      "rank": 8170,
+      "estimate": "<7k",
+      "name": "Time Breaking: Dino Breach"
+    },
     "3500880": {
-      "rank": 1184,
-      "estimate": "25k+",
+      "rank": 381,
+      "estimate": "80k+",
       "name": "Tavern Talk Stories: Dreamwalker"
     },
+    "3588790": {
+      "rank": 6233,
+      "estimate": "<7k",
+      "name": "Tree's Love Crossing Above"
+    },
+    "3624090": {
+      "rank": 3868,
+      "estimate": "<7k",
+      "name": "Patient Zero: Plague Idle"
+    },
+    "3630150": {
+      "rank": 7652,
+      "estimate": "<7k",
+      "name": "Last Front"
+    },
+    "3650170": {
+      "rank": 3515,
+      "estimate": "<7k",
+      "name": "Marsupilami 2 - Salsa Palombia"
+    },
+    "3716320": {
+      "rank": 592,
+      "estimate": "40k+",
+      "name": "RuneSmith"
+    },
+    "3801750": {
+      "rank": 5566,
+      "estimate": "<7k",
+      "name": "Exile 2097: Space Odyssey"
+    },
     "3826670": {
-      "rank": 1764,
-      "estimate": "15k+",
+      "rank": 1377,
+      "estimate": "25k+",
       "name": "Flipping is Hard"
     },
+    "3859430": {
+      "rank": 8064,
+      "estimate": "<7k",
+      "name": "Waterpunk: Through the Rust"
+    },
+    "3960460": {
+      "rank": 5830,
+      "estimate": "<7k",
+      "name": "SCP: Hellfire"
+    },
+    "3975350": {
+      "rank": 5057,
+      "estimate": "<7k",
+      "name": "Jinro Burger"
+    },
+    "4025980": {
+      "rank": 2040,
+      "estimate": "7k+",
+      "name": "APART™"
+    },
     "4042330": {
-      "rank": 4674,
+      "rank": 7737,
       "estimate": "<7k",
       "name": "Be Missed and Remembered: The Letter from Mayoiga"
     },
+    "4079400": {
+      "rank": 4576,
+      "estimate": "<7k",
+      "name": "The Masked Vengeance: Chapter 1"
+    },
+    "4138930": {
+      "rank": 7636,
+      "estimate": "<7k",
+      "name": "GameZone"
+    },
+    "4139890": {
+      "rank": 3975,
+      "estimate": "<7k",
+      "name": "TROLLHEIM: GNOMES"
+    },
+    "4236780": {
+      "rank": 1782,
+      "estimate": "15k+",
+      "name": "Outpath VR"
+    },
     "4348760": {
-      "rank": 118,
-      "estimate": "200k+",
+      "rank": 249,
+      "estimate": "80k+",
       "name": "Totally Secure Airport"
     },
-    "4431400": {
-      "rank": 4268,
+    "4352280": {
+      "rank": 9803,
       "estimate": "<7k",
+      "name": "Verminsteel"
+    },
+    "4424420": {
+      "rank": 5514,
+      "estimate": "<7k",
+      "name": "Alterum"
+    },
+    "4431400": {
+      "rank": 350,
+      "estimate": "80k+",
       "name": "Smersh: Wolfhound"
     },
-    "4691530": {
-      "rank": 4262,
+    "4438850": {
+      "rank": 2449,
+      "estimate": "7k+",
+      "name": "Dreams on a Pillow"
+    },
+    "4515540": {
+      "rank": 6829,
       "estimate": "<7k",
+      "name": "Error: Love - Human Bug Eradication Project"
+    },
+    "4521680": {
+      "rank": 4504,
+      "estimate": "<7k",
+      "name": "Painting PC"
+    },
+    "4598190": {
+      "rank": 4064,
+      "estimate": "<7k",
+      "name": "Fill The Void"
+    },
+    "4691530": {
+      "rank": 1594,
+      "estimate": "15k+",
       "name": "Keyboard Warrior Stickman - Typing Beat Em Up"
     }
   }

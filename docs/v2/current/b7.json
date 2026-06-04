@@ -1,73 +1,193 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 13,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 37,
   "entries": {
-    "1423820": {
-      "rank": 3779,
+    "1894390": {
+      "rank": 9349,
       "estimate": "<7k",
-      "name": "Miner's Hell"
+      "name": "God Simulator"
     },
-    "2224060": {
-      "rank": 4382,
+    "2113470": {
+      "rank": 9514,
       "estimate": "<7k",
-      "name": "Catrophy Trail"
+      "name": "Furry VTuber 🎭"
+    },
+    "2221830": {
+      "rank": 8819,
+      "estimate": "<7k",
+      "name": "Market Simulator"
+    },
+    "2358590": {
+      "rank": 9883,
+      "estimate": "<7k",
+      "name": "ASMR Food Experience: Prologue"
     },
     "2471330": {
-      "rank": 2842,
-      "estimate": "7k+",
+      "rank": 4806,
+      "estimate": "<7k",
       "name": "Cathedral: Crow's Curse"
     },
     "2791980": {
-      "rank": 2945,
-      "estimate": "7k+",
+      "rank": 7901,
+      "estimate": "<7k",
       "name": "Delivery Driver Service: Prologue"
     },
     "2819400": {
-      "rank": 1936,
-      "estimate": "15k+",
+      "rank": 2637,
+      "estimate": "7k+",
       "name": "Disc Golf Masters"
     },
     "2836740": {
-      "rank": 4488,
+      "rank": 5064,
       "estimate": "<7k",
       "name": "Olga - Episode 1"
     },
     "2976440": {
-      "rank": 3100,
+      "rank": 3750,
       "estimate": "<7k",
       "name": "War of the Western Deep"
     },
     "3125320": {
-      "rank": 995,
-      "estimate": "40k+",
+      "rank": 1886,
+      "estimate": "15k+",
       "name": "Isadora's Edge"
     },
+    "3161760": {
+      "rank": 9139,
+      "estimate": "<7k",
+      "name": "CHEATING? ABSOLUTELY NOT！"
+    },
     "3201730": {
-      "rank": 761,
+      "rank": 736,
       "estimate": "40k+",
       "name": "Flamecraft"
     },
-    "3337130": {
-      "rank": 3094,
+    "3243350": {
+      "rank": 4439,
       "estimate": "<7k",
+      "name": "Slumbering Woods"
+    },
+    "3337130": {
+      "rank": 1276,
+      "estimate": "25k+",
       "name": "RMF's Ragdoll Physics Experiments"
     },
-    "3618570": {
-      "rank": 4684,
+    "3422230": {
+      "rank": 9250,
       "estimate": "<7k",
+      "name": "Death Comes Skiing"
+    },
+    "3462340": {
+      "rank": 8197,
+      "estimate": "<7k",
+      "name": "Monkey Testing"
+    },
+    "3590180": {
+      "rank": 8466,
+      "estimate": "<7k",
+      "name": "Hoard's LLC: Limited Labyrinth Corporation"
+    },
+    "3618570": {
+      "rank": 793,
+      "estimate": "40k+",
       "name": "The Detective's Apprentice"
     },
+    "3734940": {
+      "rank": 7998,
+      "estimate": "<7k",
+      "name": "Hextalia"
+    },
+    "3812930": {
+      "rank": 7384,
+      "estimate": "<7k",
+      "name": "Caribbean Tide"
+    },
     "3855320": {
-      "rank": 2259,
-      "estimate": "7k+",
+      "rank": 3463,
+      "estimate": "<7k",
       "name": "ABYSS REBEL"
     },
-    "4508340": {
-      "rank": 583,
+    "3890020": {
+      "rank": 6144,
+      "estimate": "<7k",
+      "name": "Murky"
+    },
+    "3911910": {
+      "rank": 4956,
+      "estimate": "<7k",
+      "name": "Gym Simulator 2 Together"
+    },
+    "4051020": {
+      "rank": 8618,
+      "estimate": "<7k",
+      "name": "Wiztyle"
+    },
+    "4159290": {
+      "rank": 5349,
+      "estimate": "<7k",
+      "name": "The Rusted"
+    },
+    "4192080": {
+      "rank": 920,
       "estimate": "40k+",
+      "name": "POLYMORPH"
+    },
+    "4231600": {
+      "rank": 8481,
+      "estimate": "<7k",
+      "name": "みちくさワンダラー"
+    },
+    "4290780": {
+      "rank": 4333,
+      "estimate": "<7k",
+      "name": "Orbital Outbreak"
+    },
+    "4320090": {
+      "rank": 9485,
+      "estimate": "<7k",
+      "name": "HELLEVATOR"
+    },
+    "4412960": {
+      "rank": 509,
+      "estimate": "40k+",
+      "name": "光与影之恋 Chiaroscuro Lovers"
+    },
+    "4417840": {
+      "rank": 2509,
+      "estimate": "7k+",
+      "name": "The Book of Prosperity"
+    },
+    "4433910": {
+      "rank": 3884,
+      "estimate": "<7k",
+      "name": "CITADEL"
+    },
+    "4508340": {
+      "rank": 9,
+      "estimate": "1.5m+",
       "name": "NTE: Neverness to Everness"
+    },
+    "4557490": {
+      "rank": 3236,
+      "estimate": "<7k",
+      "name": "DarkStone Restoration"
+    },
+    "4659660": {
+      "rank": 9144,
+      "estimate": "<7k",
+      "name": "Graveyard Cabin"
+    },
+    "4671110": {
+      "rank": 6585,
+      "estimate": "<7k",
+      "name": "The Wyndfinder"
+    },
+    "4731030": {
+      "rank": 7689,
+      "estimate": "<7k",
+      "name": "Webs of Reverie"
     }
   }
 }

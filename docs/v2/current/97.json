@@ -1,93 +1,163 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 31,
   "entries": {
     "1325580": {
-      "rank": 1497,
-      "estimate": "25k+",
+      "rank": 2208,
+      "estimate": "7k+",
       "name": "The Mighty Eighth VR"
     },
     "1362620": {
-      "rank": 2316,
-      "estimate": "7k+",
+      "rank": 8854,
+      "estimate": "<7k",
       "name": "Camper Renovator"
     },
     "1537440": {
-      "rank": 1721,
-      "estimate": "15k+",
+      "rank": 1367,
+      "estimate": "25k+",
       "name": "Bosslords"
     },
     "1574290": {
-      "rank": 1305,
-      "estimate": "25k+",
+      "rank": 3392,
+      "estimate": "<7k",
       "name": "Steel Bounty"
     },
-    "1691180": {
-      "rank": 4586,
+    "2023540": {
+      "rank": 7831,
       "estimate": "<7k",
-      "name": "BITTER"
+      "name": "Tapes of Fear: Smile"
     },
     "2295060": {
-      "rank": 227,
-      "estimate": "80k+",
+      "rank": 659,
+      "estimate": "40k+",
       "name": "Beyond These Stars"
     },
     "2379160": {
-      "rank": 2853,
-      "estimate": "7k+",
+      "rank": 989,
+      "estimate": "40k+",
       "name": "Signy & Mino: Against All Gods"
     },
     "2700560": {
-      "rank": 935,
-      "estimate": "40k+",
+      "rank": 1416,
+      "estimate": "25k+",
       "name": "Expedition: Backrooms"
     },
     "2979500": {
-      "rank": 1998,
-      "estimate": "15k+",
+      "rank": 1075,
+      "estimate": "25k+",
       "name": "Serial World"
     },
     "2988030": {
-      "rank": 404,
-      "estimate": "80k+",
+      "rank": 515,
+      "estimate": "40k+",
       "name": "Into the Fire"
     },
     "3004810": {
-      "rank": 3846,
+      "rank": 3348,
       "estimate": "<7k",
       "name": "OPERATIVES: Revolve"
     },
     "3023930": {
-      "rank": 230,
+      "rank": 416,
       "estimate": "80k+",
       "name": "UFL™"
     },
-    "3408340": {
-      "rank": 3212,
+    "3247390": {
+      "rank": 5417,
       "estimate": "<7k",
-      "name": "Inferno Cafe"
+      "name": "Little Repair Shop"
+    },
+    "3318450": {
+      "rank": 5785,
+      "estimate": "<7k",
+      "name": "Havenlocked"
     },
     "3531170": {
-      "rank": 3347,
+      "rank": 8014,
       "estimate": "<7k",
       "name": "GAL BOCCHI"
     },
-    "3634550": {
-      "rank": 4648,
+    "3623370": {
+      "rank": 4087,
       "estimate": "<7k",
+      "name": "Stand By Me: Otome Isekai RPG"
+    },
+    "3634550": {
+      "rank": 2689,
+      "estimate": "7k+",
       "name": "Ninja Game"
     },
+    "3675540": {
+      "rank": 2124,
+      "estimate": "7k+",
+      "name": "The Darkness Delivers"
+    },
+    "3762240": {
+      "rank": 3799,
+      "estimate": "<7k",
+      "name": "Rail Estate"
+    },
     "3793190": {
-      "rank": 446,
-      "estimate": "80k+",
+      "rank": 762,
+      "estimate": "40k+",
       "name": "American Truck Simulator - RAM & Dodge Car Pack"
     },
+    "3837870": {
+      "rank": 9775,
+      "estimate": "<7k",
+      "name": "Crimson Seer"
+    },
+    "3847860": {
+      "rank": 9957,
+      "estimate": "<7k",
+      "name": "Starlorn: Rise of the Awakened"
+    },
+    "3901560": {
+      "rank": 6175,
+      "estimate": "<7k",
+      "name": "Killer Chat! Expanded Edition - The Slaughterhouse Files: Art and Lore Book"
+    },
+    "3976610": {
+      "rank": 6864,
+      "estimate": "<7k",
+      "name": "Myth of Valderit"
+    },
+    "4055060": {
+      "rank": 9626,
+      "estimate": "<7k",
+      "name": "Dream Eater"
+    },
+    "4186100": {
+      "rank": 7820,
+      "estimate": "<7k",
+      "name": "Blocking Blocks"
+    },
+    "4196970": {
+      "rank": 8025,
+      "estimate": "<7k",
+      "name": "Asumi: Little Ones"
+    },
+    "4349150": {
+      "rank": 8928,
+      "estimate": "<7k",
+      "name": "Newbie: Become a Skateboarder"
+    },
     "4402200": {
-      "rank": 2214,
-      "estimate": "7k+",
+      "rank": 1693,
+      "estimate": "15k+",
       "name": "Project Tomorrow"
+    },
+    "4500700": {
+      "rank": 7198,
+      "estimate": "<7k",
+      "name": "Amalgam"
+    },
+    "4735210": {
+      "rank": 8968,
+      "estimate": "<7k",
+      "name": "The Supper Club"
     }
   }
 }

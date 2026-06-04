@@ -1,140 +1,265 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 51,
   "entries": {
-    "594230": {
-      "rank": 2125,
-      "estimate": "7k+",
-      "name": "GLITCHED"
-    },
-    "612660": {
-      "rank": 1380,
-      "estimate": "25k+",
-      "name": "Just Us"
-    },
     "1285050": {
-      "rank": 2484,
-      "estimate": "7k+",
+      "rank": 8115,
+      "estimate": "<7k",
       "name": "Noah's Ark"
     },
     "1536440": {
-      "rank": 2445,
-      "estimate": "7k+",
+      "rank": 8891,
+      "estimate": "<7k",
       "name": "Platoon Commander"
     },
-    "1692120": {
-      "rank": 1849,
-      "estimate": "15k+",
-      "name": "Airtight City 2.0 : Awakening"
-    },
     "1801140": {
-      "rank": 1647,
-      "estimate": "15k+",
+      "rank": 6631,
+      "estimate": "<7k",
       "name": "Guns Undarkness"
     },
     "1959890": {
-      "rank": 4401,
+      "rank": 9401,
       "estimate": "<7k",
       "name": "Mandate Eternal"
     },
+    "2168710": {
+      "rank": 7621,
+      "estimate": "<7k",
+      "name": "ANVIL"
+    },
+    "2181320": {
+      "rank": 6498,
+      "estimate": "<7k",
+      "name": "樱梦海"
+    },
     "2464520": {
-      "rank": 667,
-      "estimate": "40k+",
+      "rank": 2847,
+      "estimate": "7k+",
       "name": "Surviving Deponia"
     },
     "2530250": {
-      "rank": 1779,
-      "estimate": "15k+",
+      "rank": 4683,
+      "estimate": "<7k",
       "name": "PARKSIDE: DECAYED SOUL MANIPULATION"
     },
     "2638080": {
-      "rank": 487,
-      "estimate": "80k+",
+      "rank": 922,
+      "estimate": "40k+",
       "name": "Annihilated",
       "actualWishlists": 70000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059917121"
     },
-    "2753400": {
-      "rank": 4347,
-      "estimate": "<7k",
-      "name": "Demon Crush"
+    "2675700": {
+      "rank": 2378,
+      "estimate": "7k+",
+      "name": "Dark Lessons"
     },
     "2795590": {
-      "rank": 1235,
-      "estimate": "25k+",
+      "rank": 5050,
+      "estimate": "<7k",
       "name": "Compensation Not Guaranteed"
     },
     "2893250": {
-      "rank": 1199,
-      "estimate": "25k+",
+      "rank": 2686,
+      "estimate": "7k+",
       "name": "AGRONOM"
     },
     "2904640": {
-      "rank": 1746,
-      "estimate": "15k+",
+      "rank": 6542,
+      "estimate": "<7k",
       "name": "Click Click Dig: Idle Mine"
     },
     "3001740": {
-      "rank": 489,
-      "estimate": "80k+",
+      "rank": 4788,
+      "estimate": "<7k",
       "name": "Pelican Harbor"
     },
     "3082730": {
-      "rank": 1216,
-      "estimate": "25k+",
+      "rank": 488,
+      "estimate": "80k+",
       "name": "HYPERyuki: Snowboard Syndicate"
     },
+    "3280150": {
+      "rank": 1337,
+      "estimate": "25k+",
+      "name": "Lone Chef"
+    },
+    "3342670": {
+      "rank": 6677,
+      "estimate": "<7k",
+      "name": "Crypts Of Carith"
+    },
     "3519500": {
-      "rank": 1626,
-      "estimate": "15k+",
+      "rank": 2530,
+      "estimate": "7k+",
       "name": "Elusive"
     },
+    "3564580": {
+      "rank": 6593,
+      "estimate": "<7k",
+      "name": "Tricky and the Dream Caster"
+    },
+    "3636850": {
+      "rank": 7354,
+      "estimate": "<7k",
+      "name": "Love You to Bits"
+    },
     "3810210": {
-      "rank": 4078,
+      "rank": 4781,
       "estimate": "<7k",
       "name": "North Shore"
     },
     "3832030": {
-      "rank": 1425,
-      "estimate": "25k+",
+      "rank": 3760,
+      "estimate": "<7k",
       "name": "BOOST VECTOR EX"
     },
+    "3848800": {
+      "rank": 7064,
+      "estimate": "<7k",
+      "name": "DEATHMOON"
+    },
     "3963620": {
-      "rank": 522,
-      "estimate": "40k+",
+      "rank": 1123,
+      "estimate": "25k+",
       "name": "妹居物语"
     },
+    "3967310": {
+      "rank": 2684,
+      "estimate": "7k+",
+      "name": "Treetopians"
+    },
+    "4002100": {
+      "rank": 2249,
+      "estimate": "7k+",
+      "name": "Spirit Talk - Cozy Visual Novel"
+    },
     "4013410": {
-      "rank": 3714,
-      "estimate": "<7k",
+      "rank": 2663,
+      "estimate": "7k+",
       "name": "Escape the Riddlerock Ruins"
     },
+    "4077320": {
+      "rank": 752,
+      "estimate": "40k+",
+      "name": "Cardaire: Eternal Aces"
+    },
     "4252280": {
-      "rank": 3417,
-      "estimate": "<7k",
+      "rank": 338,
+      "estimate": "80k+",
       "name": "Quack Hunters"
     },
+    "4264270": {
+      "rank": 4066,
+      "estimate": "<7k",
+      "name": "Fuyukuru. - Winter winds, adieu? -"
+    },
     "4286120": {
-      "rank": 2370,
-      "estimate": "7k+",
+      "rank": 1789,
+      "estimate": "15k+",
       "name": "Photomaly"
     },
+    "4314010": {
+      "rank": 2944,
+      "estimate": "7k+",
+      "name": "Command by Voice: World Conquest"
+    },
     "4324480": {
-      "rank": 691,
-      "estimate": "40k+",
+      "rank": 170,
+      "estimate": "200k+",
       "name": "Dirty Business"
     },
+    "4396830": {
+      "rank": 3602,
+      "estimate": "<7k",
+      "name": "Dfiance: Dominance"
+    },
+    "4410020": {
+      "rank": 3565,
+      "estimate": "<7k",
+      "name": "Witherspring Wilds"
+    },
+    "4483600": {
+      "rank": 2763,
+      "estimate": "7k+",
+      "name": "Non-League Football Manager"
+    },
+    "4509920": {
+      "rank": 6075,
+      "estimate": "<7k",
+      "name": "Sunrise Isles"
+    },
+    "4525650": {
+      "rank": 3803,
+      "estimate": "<7k",
+      "name": "Weaponized"
+    },
     "4533950": {
-      "rank": 454,
-      "estimate": "80k+",
+      "rank": 550,
+      "estimate": "40k+",
       "name": "Prove You're Human"
     },
+    "4534780": {
+      "rank": 4380,
+      "estimate": "<7k",
+      "name": "Ashikai"
+    },
+    "4538960": {
+      "rank": 1904,
+      "estimate": "15k+",
+      "name": "ZENONIA 1"
+    },
+    "4540480": {
+      "rank": 446,
+      "estimate": "80k+",
+      "name": "SATURN. LEGACY"
+    },
+    "4577060": {
+      "rank": 7975,
+      "estimate": "<7k",
+      "name": "Desktop Maid Haru"
+    },
+    "4597800": {
+      "rank": 5072,
+      "estimate": "<7k",
+      "name": "Gutsy Grid"
+    },
+    "4616990": {
+      "rank": 8551,
+      "estimate": "<7k",
+      "name": "GemPals"
+    },
     "4618570": {
-      "rank": 1162,
-      "estimate": "25k+",
+      "rank": 321,
+      "estimate": "80k+",
       "name": "Booster Pack Heroes"
+    },
+    "4632620": {
+      "rank": 6757,
+      "estimate": "<7k",
+      "name": "Gamble Inc."
+    },
+    "4650350": {
+      "rank": 9429,
+      "estimate": "<7k",
+      "name": "BCKSPCE"
+    },
+    "4677090": {
+      "rank": 8679,
+      "estimate": "<7k",
+      "name": "The Flame and the Fart"
+    },
+    "4687570": {
+      "rank": 9000,
+      "estimate": "<7k",
+      "name": "DIG! DIG! DIG!"
+    },
+    "4719000": {
+      "rank": 1436,
+      "estimate": "25k+",
+      "name": "Nightmare Journey 1135"
     }
   }
 }

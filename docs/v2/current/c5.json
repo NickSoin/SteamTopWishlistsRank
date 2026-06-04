@@ -1,85 +1,190 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 36,
   "entries": {
-    "1057630": {
-      "rank": 2764,
-      "estimate": "7k+",
-      "name": "Restaurant Renovator"
+    "1236800": {
+      "rank": 9838,
+      "estimate": "<7k",
+      "name": "WILDLAND: Initial Attack"
     },
     "1553260": {
-      "rank": 683,
-      "estimate": "40k+",
+      "rank": 4383,
+      "estimate": "<7k",
       "name": "Scarlet Deer Inn"
     },
-    "1643800": {
-      "rank": 2940,
-      "estimate": "7k+",
-      "name": "HeartLinks: A Puzzle Called Love"
-    },
     "1748280": {
-      "rank": 601,
-      "estimate": "40k+",
+      "rank": 2687,
+      "estimate": "7k+",
       "name": "Gate Zero"
     },
-    "1930630": {
-      "rank": 2980,
-      "estimate": "7k+",
-      "name": "Witch Maker"
-    },
     "2141130": {
-      "rank": 154,
-      "estimate": "200k+",
+      "rank": 519,
+      "estimate": "40k+",
       "name": "Road Kings"
     },
-    "2183820": {
-      "rank": 3472,
+    "2337560": {
+      "rank": 5779,
       "estimate": "<7k",
-      "name": "ノロワレサイクル"
-    },
-    "2365350": {
-      "rank": 4608,
-      "estimate": "<7k",
-      "name": "Training and War Simulation (TWS)"
+      "name": "Spanky \"Bat-a-Swing\""
     },
     "2501620": {
-      "rank": 1297,
-      "estimate": "25k+",
+      "rank": 6268,
+      "estimate": "<7k",
       "name": "Kandyland"
     },
     "2731030": {
-      "rank": 1490,
-      "estimate": "25k+",
+      "rank": 616,
+      "estimate": "40k+",
       "name": "Algolemeth",
       "actualWishlists": 20000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365112739"
     },
+    "2932110": {
+      "rank": 3501,
+      "estimate": "<7k",
+      "name": "Asbak"
+    },
+    "3079100": {
+      "rank": 1281,
+      "estimate": "25k+",
+      "name": "Island Architect"
+    },
+    "3166860": {
+      "rank": 5117,
+      "estimate": "<7k",
+      "name": "Aye Aye Captain!"
+    },
+    "3244160": {
+      "rank": 8661,
+      "estimate": "<7k",
+      "name": "Skingdom"
+    },
     "3435610": {
-      "rank": 2645,
-      "estimate": "7k+",
+      "rank": 818,
+      "estimate": "40k+",
       "name": "Exark"
     },
+    "3543960": {
+      "rank": 5825,
+      "estimate": "<7k",
+      "name": "问题偶像的养成计划"
+    },
+    "3722660": {
+      "rank": 5244,
+      "estimate": "<7k",
+      "name": "Cosmodrill"
+    },
     "3738890": {
-      "rank": 1256,
-      "estimate": "25k+",
+      "rank": 622,
+      "estimate": "40k+",
       "name": "Frontline Logistics: Isarian Warfare"
     },
     "3764730": {
-      "rank": 2807,
-      "estimate": "7k+",
+      "rank": 5207,
+      "estimate": "<7k",
       "name": "Winter Resort Simulator 3"
     },
+    "3779710": {
+      "rank": 7021,
+      "estimate": "<7k",
+      "name": "CINESCAPE VR"
+    },
+    "3797660": {
+      "rank": 3152,
+      "estimate": "<7k",
+      "name": "Taigotchu"
+    },
     "3834590": {
-      "rank": 4129,
+      "rank": 7736,
       "estimate": "<7k",
       "name": "Now THAT'S a Big Dragon!"
     },
-    "4516190": {
-      "rank": 2446,
+    "3965960": {
+      "rank": 6152,
+      "estimate": "<7k",
+      "name": "千禧年梦游指南 Guide to the Millennium Dawn"
+    },
+    "4036160": {
+      "rank": 5411,
+      "estimate": "<7k",
+      "name": "Backrooms Lost Dimension"
+    },
+    "4206910": {
+      "rank": 2519,
       "estimate": "7k+",
+      "name": "Kimbap Heaven Simulator"
+    },
+    "4209850": {
+      "rank": 5741,
+      "estimate": "<7k",
+      "name": "Rustown"
+    },
+    "4487960": {
+      "rank": 6059,
+      "estimate": "<7k",
+      "name": "Low Effort Romance"
+    },
+    "4516190": {
+      "rank": 1357,
+      "estimate": "25k+",
       "name": "My Beautiful Faraway, Please Don't Be Cruel To Me"
+    },
+    "4522210": {
+      "rank": 5145,
+      "estimate": "<7k",
+      "name": "Junkyard Stories: Rebirth"
+    },
+    "4528700": {
+      "rank": 7444,
+      "estimate": "<7k",
+      "name": "Afternoon Patient"
+    },
+    "4552990": {
+      "rank": 3826,
+      "estimate": "<7k",
+      "name": "VR Secretary-1st DLC"
+    },
+    "4553140": {
+      "rank": 7573,
+      "estimate": "<7k",
+      "name": "Scratch Off!"
+    },
+    "4558440": {
+      "rank": 7106,
+      "estimate": "<7k",
+      "name": "Dream Domain"
+    },
+    "4559380": {
+      "rank": 3390,
+      "estimate": "<7k",
+      "name": "ChibiMation"
+    },
+    "4566430": {
+      "rank": 9546,
+      "estimate": "<7k",
+      "name": "Daughter of Dawn"
+    },
+    "4580030": {
+      "rank": 860,
+      "estimate": "40k+",
+      "name": "Papaya Plaza"
+    },
+    "4622880": {
+      "rank": 9102,
+      "estimate": "<7k",
+      "name": "疾擎速骋Rapid Engine Speed"
+    },
+    "4670160": {
+      "rank": 9956,
+      "estimate": "<7k",
+      "name": "Ember Folks"
+    },
+    "4697170": {
+      "rank": 6996,
+      "estimate": "<7k",
+      "name": "Memo R.I.P."
     }
   }
 }

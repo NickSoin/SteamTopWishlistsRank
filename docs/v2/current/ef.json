@@ -1,113 +1,213 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 41,
   "entries": {
     "1442520": {
-      "rank": 303,
-      "estimate": "80k+",
+      "rank": 1456,
+      "estimate": "25k+",
       "name": "Akatori"
     },
     "1659360": {
-      "rank": 863,
-      "estimate": "40k+",
+      "rank": 3952,
+      "estimate": "<7k",
       "name": "Townseek"
     },
-    "1839980": {
-      "rank": 3302,
-      "estimate": "<7k",
-      "name": "Gloomy Juncture"
-    },
-    "1975640": {
-      "rank": 3863,
-      "estimate": "<7k",
-      "name": "Fast Food On The Beach!"
-    },
     "2216850": {
-      "rank": 3695,
+      "rank": 7576,
       "estimate": "<7k",
       "name": "Battle Vision Network"
     },
     "2271570": {
-      "rank": 2654,
-      "estimate": "7k+",
+      "rank": 4598,
+      "estimate": "<7k",
       "name": "REFLEXIA"
     },
-    "2760720": {
-      "rank": 2674,
+    "2327350": {
+      "rank": 9709,
+      "estimate": "<7k",
+      "name": "FURY"
+    },
+    "2733180": {
+      "rank": 2147,
       "estimate": "7k+",
+      "name": "DECAYED"
+    },
+    "2760720": {
+      "rank": 1316,
+      "estimate": "25k+",
       "name": "Bestiario"
     },
     "2798330": {
-      "rank": 441,
-      "estimate": "80k+",
+      "rank": 95,
+      "estimate": "300k+",
       "name": "Dungeon Settlers"
     },
     "2828710": {
-      "rank": 71,
-      "estimate": "300k+",
+      "rank": 368,
+      "estimate": "80k+",
       "name": "Valor Mortis"
     },
     "2869850": {
-      "rank": 779,
-      "estimate": "40k+",
+      "rank": 3917,
+      "estimate": "<7k",
       "name": "Lorn Vale"
     },
+    "2913540": {
+      "rank": 1457,
+      "estimate": "25k+",
+      "name": "Jupiter Junkworks"
+    },
+    "2921530": {
+      "rank": 4133,
+      "estimate": "<7k",
+      "name": "The Tennis Academy"
+    },
+    "3104660": {
+      "rank": 9051,
+      "estimate": "<7k",
+      "name": "Metro Station Designer"
+    },
     "3139440": {
-      "rank": 377,
-      "estimate": "80k+",
+      "rank": 1081,
+      "estimate": "25k+",
       "name": "GunZ: The Duel"
     },
     "3384820": {
-      "rank": 3837,
+      "rank": 5175,
       "estimate": "<7k",
       "name": "Broken Relic"
     },
     "3437690": {
-      "rank": 3772,
+      "rank": 5136,
       "estimate": "<7k",
       "name": "Project Red Sun"
     },
+    "3445440": {
+      "rank": 9547,
+      "estimate": "<7k",
+      "name": "Fablery"
+    },
+    "3612950": {
+      "rank": 9141,
+      "estimate": "<7k",
+      "name": "Conflict of Interest"
+    },
+    "3626540": {
+      "rank": 4429,
+      "estimate": "<7k",
+      "name": "Cinderline"
+    },
+    "3709760": {
+      "rank": 3896,
+      "estimate": "<7k",
+      "name": "Cozy Potions: The Alchemist's Shop"
+    },
     "3749870": {
-      "rank": 416,
-      "estimate": "80k+",
+      "rank": 1065,
+      "estimate": "25k+",
       "name": "American Truck Simulator - South Dakota"
     },
+    "3830080": {
+      "rank": 3413,
+      "estimate": "<7k",
+      "name": "Twilight Requiem"
+    },
+    "3845620": {
+      "rank": 7027,
+      "estimate": "<7k",
+      "name": "My Days with a Clueless Demon Lord"
+    },
     "3867130": {
-      "rank": 834,
-      "estimate": "40k+",
+      "rank": 1223,
+      "estimate": "25k+",
       "name": "Rance 01 + 02"
     },
     "3873360": {
-      "rank": 4543,
+      "rank": 4450,
       "estimate": "<7k",
       "name": "Chumaky"
     },
-    "4008840": {
-      "rank": 3813,
+    "3946190": {
+      "rank": 6969,
       "estimate": "<7k",
+      "name": "THE GUTTER"
+    },
+    "3959460": {
+      "rank": 9987,
+      "estimate": "<7k",
+      "name": "Stellar Mole"
+    },
+    "4008840": {
+      "rank": 2495,
+      "estimate": "7k+",
       "name": "Erehwon(エレフォーン)"
     },
+    "4083140": {
+      "rank": 5547,
+      "estimate": "<7k",
+      "name": "Red Season"
+    },
+    "4098360": {
+      "rank": 6139,
+      "estimate": "<7k",
+      "name": "Squid Hunt 1923"
+    },
+    "4169060": {
+      "rank": 4853,
+      "estimate": "<7k",
+      "name": "Office Manager"
+    },
     "4176460": {
-      "rank": 738,
-      "estimate": "40k+",
+      "rank": 1152,
+      "estimate": "25k+",
       "name": "Dungeons of DUSK"
     },
+    "4270610": {
+      "rank": 7724,
+      "estimate": "<7k",
+      "name": "idle:Doodle Realm"
+    },
     "4285690": {
-      "rank": 500,
-      "estimate": "80k+",
+      "rank": 126,
+      "estimate": "200k+",
       "name": "Airport Security Sucks!"
     },
+    "4304980": {
+      "rank": 7885,
+      "estimate": "<7k",
+      "name": "Drilling"
+    },
     "4425140": {
-      "rank": 2707,
-      "estimate": "7k+",
+      "rank": 582,
+      "estimate": "40k+",
       "name": "Welcome, Dear Human"
     },
-    "4595980": {
-      "rank": 3309,
+    "4475970": {
+      "rank": 6805,
       "estimate": "<7k",
+      "name": "Prerolled"
+    },
+    "4563880": {
+      "rank": 3626,
+      "estimate": "<7k",
+      "name": "walk"
+    },
+    "4595980": {
+      "rank": 1185,
+      "estimate": "25k+",
       "name": "Ship or Burn! Coop express"
+    },
+    "4731830": {
+      "rank": 5083,
+      "estimate": "<7k",
+      "name": "Nahualli"
+    },
+    "4755090": {
+      "rank": 3039,
+      "estimate": "<7k",
+      "name": "Snapshot Survivor"
     }
   }
 }

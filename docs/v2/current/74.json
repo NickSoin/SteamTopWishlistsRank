@@ -1,98 +1,168 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 32,
   "entries": {
-    "1122160": {
-      "rank": 2968,
-      "estimate": "7k+",
-      "name": "On Air"
-    },
-    "1601320": {
-      "rank": 2894,
-      "estimate": "7k+",
-      "name": "Leshy"
+    "1334150": {
+      "rank": 7055,
+      "estimate": "<7k",
+      "name": "SugarWinds"
     },
     "1638030": {
-      "rank": 2526,
-      "estimate": "7k+",
+      "rank": 6114,
+      "estimate": "<7k",
       "name": "Generation Ship"
     },
+    "1721790": {
+      "rank": 9986,
+      "estimate": "<7k",
+      "name": "Summon, then build an invincible harem"
+    },
+    "1772220": {
+      "rank": 9344,
+      "estimate": "<7k",
+      "name": "FRONTLINE"
+    },
     "1968940": {
-      "rank": 848,
-      "estimate": "40k+",
+      "rank": 4890,
+      "estimate": "<7k",
       "name": "Nazralath: The Fallen World"
     },
     "1973760": {
-      "rank": 2007,
-      "estimate": "7k+",
+      "rank": 9664,
+      "estimate": "<7k",
       "name": "Shell Soldier"
     },
-    "2066740": {
-      "rank": 2226,
-      "estimate": "7k+",
-      "name": "ASMR Food Experience"
-    },
     "2242340": {
-      "rank": 1269,
-      "estimate": "25k+",
+      "rank": 2084,
+      "estimate": "7k+",
       "name": "Car Rental Simulator"
     },
     "2280360": {
-      "rank": 2760,
-      "estimate": "7k+",
+      "rank": 8290,
+      "estimate": "<7k",
       "name": "Scarecrow"
     },
-    "2852750": {
-      "rank": 2534,
+    "2290880": {
+      "rank": 9212,
+      "estimate": "<7k",
+      "name": "Knightly Routine"
+    },
+    "2370290": {
+      "rank": 8111,
+      "estimate": "<7k",
+      "name": "EBOLA 4"
+    },
+    "2763250": {
+      "rank": 5935,
+      "estimate": "<7k",
+      "name": "Unconventional Fantasy"
+    },
+    "3034760": {
+      "rank": 2116,
       "estimate": "7k+",
-      "name": "The Games You Make"
+      "name": "STONEFEATHER"
     },
     "3056650": {
-      "rank": 3520,
+      "rank": 9442,
       "estimate": "<7k",
       "name": "Cult Of Blood"
     },
+    "3300050": {
+      "rank": 5996,
+      "estimate": "<7k",
+      "name": "System Breakdown"
+    },
     "3376860": {
-      "rank": 3707,
+      "rank": 4109,
       "estimate": "<7k",
       "name": "The Retrospection Of Tomorrow"
     },
     "3522360": {
-      "rank": 2561,
-      "estimate": "7k+",
+      "rank": 3349,
+      "estimate": "<7k",
       "name": "WARSHIFT 2"
     },
     "3557360": {
-      "rank": 1370,
-      "estimate": "25k+",
+      "rank": 1518,
+      "estimate": "15k+",
       "name": "Second Stone: The Legend of the Hidden World"
     },
+    "3593470": {
+      "rank": 1017,
+      "estimate": "25k+",
+      "name": "1992: Rasputie"
+    },
     "3610180": {
-      "rank": 3238,
+      "rank": 5503,
       "estimate": "<7k",
       "name": "Olympus Rangers"
     },
     "3645160": {
-      "rank": 274,
+      "rank": 234,
       "estimate": "80k+",
       "name": "Frostpunk: 1886"
     },
+    "3685050": {
+      "rank": 3456,
+      "estimate": "<7k",
+      "name": "Stardust Frontier"
+    },
     "3814050": {
-      "rank": 3476,
+      "rank": 5545,
       "estimate": "<7k",
       "name": "Janitor Simulator"
     },
+    "3820000": {
+      "rank": 8335,
+      "estimate": "<7k",
+      "name": "BOT.VINNIK Chess Masters Academy"
+    },
+    "3891880": {
+      "rank": 4728,
+      "estimate": "<7k",
+      "name": "Orbital"
+    },
     "3952820": {
-      "rank": 4446,
+      "rank": 6263,
       "estimate": "<7k",
       "name": "Desserted"
     },
+    "4275920": {
+      "rank": 6896,
+      "estimate": "<7k",
+      "name": "Pickochet"
+    },
+    "4301410": {
+      "rank": 7308,
+      "estimate": "<7k",
+      "name": "Contract Cooks"
+    },
     "4437450": {
-      "rank": 2156,
-      "estimate": "7k+",
+      "rank": 1871,
+      "estimate": "15k+",
       "name": "Nekopara Sekai Connect"
+    },
+    "4442560": {
+      "rank": 4324,
+      "estimate": "<7k",
+      "name": "Crownmarch TD"
+    },
+    "4458840": {
+      "rank": 1464,
+      "estimate": "25k+",
+      "name": "T.W.I.R.L."
+    },
+    "4641660": {
+      "rank": 9900,
+      "estimate": "<7k",
+      "name": "Dob x Dob"
+    },
+    "4660070": {
+      "rank": 6931,
+      "estimate": "<7k",
+      "name": "Destructor2D"
     }
   }
 }

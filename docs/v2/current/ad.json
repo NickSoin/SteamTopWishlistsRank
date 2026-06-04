@@ -1,61 +1,61 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 47,
   "entries": {
     "1148130": {
-      "rank": 1259,
-      "estimate": "25k+",
+      "rank": 1966,
+      "estimate": "15k+",
       "name": "Divinum"
     },
     "1203170": {
-      "rank": 153,
-      "estimate": "200k+",
+      "rank": 586,
+      "estimate": "40k+",
       "name": "Darksiders 4"
     },
     "1373530": {
-      "rank": 176,
-      "estimate": "200k+",
+      "rank": 1112,
+      "estimate": "25k+",
       "name": "Militsioner"
     },
-    "1589700": {
-      "rank": 3844,
-      "estimate": "<7k",
-      "name": "Trash"
-    },
     "1821600": {
-      "rank": 2069,
-      "estimate": "7k+",
+      "rank": 4632,
+      "estimate": "<7k",
       "name": "Glyde The Dragon™"
     },
     "2083940": {
-      "rank": 2144,
-      "estimate": "7k+",
+      "rank": 7512,
+      "estimate": "<7k",
       "name": "DROSS"
     },
     "2144810": {
-      "rank": 4259,
+      "rank": 5816,
       "estimate": "<7k",
       "name": "Last Look along Woodward Boulevard"
     },
     "2175890": {
-      "rank": 1856,
-      "estimate": "15k+",
+      "rank": 6533,
+      "estimate": "<7k",
       "name": "Medieval Builders: Strongholds & Castles"
     },
     "2306490": {
-      "rank": 3513,
-      "estimate": "<7k",
+      "rank": 2969,
+      "estimate": "7k+",
       "name": "GNAW"
     },
+    "2469690": {
+      "rank": 6195,
+      "estimate": "<7k",
+      "name": "Isekai'd"
+    },
     "2613150": {
-      "rank": 812,
-      "estimate": "40k+",
+      "rank": 1211,
+      "estimate": "25k+",
       "name": "Bendy and the Ink Factory"
     },
     "2618160": {
-      "rank": 3958,
+      "rank": 8873,
       "estimate": "<7k",
       "name": "Legends of Starkadia"
     },
@@ -65,79 +65,179 @@
       "name": "Imperium Eternal"
     },
     "2657240": {
-      "rank": 3762,
+      "rank": 8841,
       "estimate": "<7k",
       "name": "Detective: Ritual of the Sea"
     },
     "2748140": {
-      "rank": 1195,
-      "estimate": "25k+",
+      "rank": 5204,
+      "estimate": "<7k",
       "name": "Lands of Koastalia"
     },
-    "2902720": {
-      "rank": 2783,
-      "estimate": "7k+",
-      "name": "SPAM"
+    "2831170": {
+      "rank": 3320,
+      "estimate": "<7k",
+      "name": "Color Fear"
     },
     "2990190": {
-      "rank": 3334,
-      "estimate": "<7k",
+      "rank": 1679,
+      "estimate": "15k+",
       "name": "Magi Scapes"
     },
-    "2997490": {
-      "rank": 3959,
-      "estimate": "<7k",
-      "name": "Kiki"
-    },
     "3011890": {
-      "rank": 3342,
+      "rank": 4259,
       "estimate": "<7k",
       "name": "Clown Around"
     },
+    "3089860": {
+      "rank": 9214,
+      "estimate": "<7k",
+      "name": "Food Delivery Simulator 2026"
+    },
+    "3400030": {
+      "rank": 3049,
+      "estimate": "<7k",
+      "name": "Match! The 12 CZ Wars"
+    },
     "3529090": {
-      "rank": 3453,
+      "rank": 4846,
       "estimate": "<7k",
       "name": "Astra Bestiary"
     },
     "3596430": {
-      "rank": 900,
-      "estimate": "40k+",
+      "rank": 34,
+      "estimate": "600k+",
       "name": "Bancho the Chef"
     },
+    "3624610": {
+      "rank": 8750,
+      "estimate": "<7k",
+      "name": "Hazmob FPS: Online Shooter"
+    },
+    "3642210": {
+      "rank": 9638,
+      "estimate": "<7k",
+      "name": "Rhythm Rat Rampage"
+    },
     "3694600": {
-      "rank": 544,
-      "estimate": "40k+",
+      "rank": 1042,
+      "estimate": "25k+",
       "name": "Humblets"
     },
     "3713620": {
-      "rank": 2879,
-      "estimate": "7k+",
+      "rank": 3385,
+      "estimate": "<7k",
       "name": "RouteWhom／ルートフーム"
     },
     "3725650": {
-      "rank": 2017,
-      "estimate": "7k+",
+      "rank": 821,
+      "estimate": "40k+",
       "name": "Deliria"
     },
     "3883570": {
-      "rank": 781,
-      "estimate": "40k+",
+      "rank": 227,
+      "estimate": "80k+",
       "name": "Invokyr"
     },
+    "3962460": {
+      "rank": 8534,
+      "estimate": "<7k",
+      "name": "THE CANON OF BALLS"
+    },
+    "3976010": {
+      "rank": 9753,
+      "estimate": "<7k",
+      "name": "Survival Tech"
+    },
+    "3987560": {
+      "rank": 490,
+      "estimate": "80k+",
+      "name": "Love in Summer"
+    },
+    "4031280": {
+      "rank": 3498,
+      "estimate": "<7k",
+      "name": "Boku Boku"
+    },
     "4121170": {
-      "rank": 518,
-      "estimate": "40k+",
+      "rank": 121,
+      "estimate": "200k+",
       "name": "Fears to Fathom® - Scratch Creek"
     },
+    "4122830": {
+      "rank": 6649,
+      "estimate": "<7k",
+      "name": "8AM: The Warehouse"
+    },
     "4124340": {
-      "rank": 684,
+      "rank": 527,
       "estimate": "40k+",
       "name": "Perceptum"
     },
     "4136620": {
-      "rank": 2734,
+      "rank": 2313,
       "estimate": "7k+",
       "name": "Emissary One"
+    },
+    "4162290": {
+      "rank": 766,
+      "estimate": "40k+",
+      "name": "OK👍 Boomer"
+    },
+    "4255190": {
+      "rank": 6371,
+      "estimate": "<7k",
+      "name": "Cats Around Us: Yarn Ball"
+    },
+    "4272720": {
+      "rank": 7330,
+      "estimate": "<7k",
+      "name": "Pickupbal"
+    },
+    "4276900": {
+      "rank": 5799,
+      "estimate": "<7k",
+      "name": "Silent Mainland"
+    },
+    "4327260": {
+      "rank": 4017,
+      "estimate": "<7k",
+      "name": "LocoMo"
+    },
+    "4334530": {
+      "rank": 3855,
+      "estimate": "<7k",
+      "name": "Cold Rails"
+    },
+    "4488990": {
+      "rank": 7997,
+      "estimate": "<7k",
+      "name": "Carmilla : Crimson Moon"
+    },
+    "4489580": {
+      "rank": 5898,
+      "estimate": "<7k",
+      "name": "Scales of Silence"
+    },
+    "4524380": {
+      "rank": 8789,
+      "estimate": "<7k",
+      "name": "我们纯真的青春 Our innocent youth"
+    },
+    "4534190": {
+      "rank": 8185,
+      "estimate": "<7k",
+      "name": "Dave's House"
+    },
+    "4616560": {
+      "rank": 7024,
+      "estimate": "<7k",
+      "name": "Little Detektiv"
+    },
+    "4653880": {
+      "rank": 9530,
+      "estimate": "<7k",
+      "name": "My Quiet Coffee Shop"
     }
   }
 }

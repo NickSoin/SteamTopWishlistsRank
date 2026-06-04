@@ -1,98 +1,198 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 38,
   "entries": {
-    "1061210": {
-      "rank": 3003,
-      "estimate": "<7k",
-      "name": "Trucker's Dynasty - Cuba Libre"
-    },
-    "1355160": {
-      "rank": 2196,
-      "estimate": "7k+",
-      "name": "Dad by the Sword"
-    },
     "1635640": {
-      "rank": 1657,
-      "estimate": "15k+",
+      "rank": 6620,
+      "estimate": "<7k",
       "name": "Rhythm Quest"
     },
     "1684460": {
-      "rank": 3547,
+      "rank": 9778,
       "estimate": "<7k",
       "name": "Hollowsk 1999 3D"
     },
     "1825030": {
-      "rank": 1306,
-      "estimate": "25k+",
+      "rank": 3722,
+      "estimate": "<7k",
       "name": "Daomei Village"
     },
     "2173770": {
-      "rank": 1157,
-      "estimate": "25k+",
+      "rank": 3171,
+      "estimate": "<7k",
       "name": "The Wings of Dawn"
     },
     "2398920": {
-      "rank": 2806,
-      "estimate": "7k+",
+      "rank": 4408,
+      "estimate": "<7k",
       "name": "PREDATORS"
     },
-    "2518320": {
-      "rank": 4653,
+    "2691410": {
+      "rank": 7674,
       "estimate": "<7k",
-      "name": "Dead Underworld"
+      "name": "Gossip & Potions: Tales from the Witch Shop"
     },
     "2888960": {
-      "rank": 1447,
-      "estimate": "25k+",
+      "rank": 566,
+      "estimate": "40k+",
       "name": "Graytail"
     },
     "3017770": {
-      "rank": 1754,
-      "estimate": "15k+",
+      "rank": 2622,
+      "estimate": "7k+",
       "name": "Zlin City: Arch Moderna"
     },
+    "3059040": {
+      "rank": 8763,
+      "estimate": "<7k",
+      "name": "Cat-Astrophy"
+    },
     "3305930": {
-      "rank": 941,
-      "estimate": "40k+",
+      "rank": 461,
+      "estimate": "80k+",
       "name": "Panzer Strike"
     },
     "3452720": {
-      "rank": 3833,
-      "estimate": "<7k",
+      "rank": 2844,
+      "estimate": "7k+",
       "name": "Realm of Taiwu"
     },
     "3530280": {
-      "rank": 3284,
-      "estimate": "<7k",
+      "rank": 1898,
+      "estimate": "15k+",
       "name": "Bus Simulator : Ultimate"
     },
+    "3692670": {
+      "rank": 5458,
+      "estimate": "<7k",
+      "name": "Illusive Domain"
+    },
     "3702100": {
-      "rank": 464,
-      "estimate": "80k+",
+      "rank": 1360,
+      "estimate": "25k+",
       "name": "The Secret of Weepstone"
     },
+    "3723390": {
+      "rank": 7321,
+      "estimate": "<7k",
+      "name": "Ecliptica"
+    },
     "3831680": {
-      "rank": 1100,
-      "estimate": "25k+",
+      "rank": 885,
+      "estimate": "40k+",
       "name": "SCP Containment Breach"
     },
     "3897280": {
-      "rank": 2399,
-      "estimate": "7k+",
+      "rank": 1648,
+      "estimate": "15k+",
       "name": "Totopia"
     },
+    "3931720": {
+      "rank": 3514,
+      "estimate": "<7k",
+      "name": "All That Time"
+    },
+    "3936220": {
+      "rank": 9527,
+      "estimate": "<7k",
+      "name": "The Grand Praetor"
+    },
+    "4151970": {
+      "rank": 6162,
+      "estimate": "<7k",
+      "name": "Путь Героя"
+    },
+    "4176230": {
+      "rank": 8207,
+      "estimate": "<7k",
+      "name": "Milkraid"
+    },
+    "4206100": {
+      "rank": 9017,
+      "estimate": "<7k",
+      "name": "SlotsNStocks"
+    },
+    "4229200": {
+      "rank": 567,
+      "estimate": "40k+",
+      "name": "Muchi Muchi Pork! & PinkSweets Boosted"
+    },
     "4237900": {
-      "rank": 3522,
+      "rank": 8913,
       "estimate": "<7k",
       "name": "Point Zero: Victoria"
     },
+    "4323810": {
+      "rank": 9675,
+      "estimate": "<7k",
+      "name": "nonogram"
+    },
+    "4326170": {
+      "rank": 6199,
+      "estimate": "<7k",
+      "name": "Esports Manager: FPS"
+    },
+    "4408900": {
+      "rank": 9759,
+      "estimate": "<7k",
+      "name": "Terra Nova: Legend of the Runes"
+    },
+    "4512580": {
+      "rank": 2549,
+      "estimate": "7k+",
+      "name": "The Fire Must Be Fed"
+    },
+    "4545470": {
+      "rank": 9013,
+      "estimate": "<7k",
+      "name": "The Totemist"
+    },
     "4576490": {
-      "rank": 345,
-      "estimate": "80k+",
+      "rank": 41,
+      "estimate": "600k+",
       "name": "Casualties: Unknown"
+    },
+    "4585580": {
+      "rank": 8575,
+      "estimate": "<7k",
+      "name": "Game of Warriors"
+    },
+    "4597240": {
+      "rank": 7143,
+      "estimate": "<7k",
+      "name": "Ark Atlas"
+    },
+    "4635560": {
+      "rank": 4884,
+      "estimate": "<7k",
+      "name": "FEED IT"
+    },
+    "4650730": {
+      "rank": 6777,
+      "estimate": "<7k",
+      "name": "Split Happens!"
+    },
+    "4662700": {
+      "rank": 8535,
+      "estimate": "<7k",
+      "name": "Bounce On 2: Drallo's Demise"
+    },
+    "4668870": {
+      "rank": 626,
+      "estimate": "40k+",
+      "name": "Medieval Juice Crafter"
+    },
+    "4738450": {
+      "rank": 5307,
+      "estimate": "<7k",
+      "name": "Necro Pop"
+    },
+    "4762800": {
+      "rank": 8818,
+      "estimate": "<7k",
+      "name": "Monitoball"
     }
   }
 }

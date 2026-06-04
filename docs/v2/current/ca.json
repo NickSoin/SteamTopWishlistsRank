@@ -1,73 +1,208 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 13,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 40,
   "entries": {
+    "1420310": {
+      "rank": 4021,
+      "estimate": "<7k",
+      "name": "Quiet Rehabilitation"
+    },
     "1620420": {
-      "rank": 3357,
+      "rank": 4879,
       "estimate": "<7k",
       "name": "Redemption of the Damned"
     },
     "1687540": {
-      "rank": 50,
-      "estimate": "600k+",
+      "rank": 945,
+      "estimate": "40k+",
       "name": "Showa American Story"
     },
+    "2343580": {
+      "rank": 8264,
+      "estimate": "<7k",
+      "name": "Ghoul Fright"
+    },
     "2444760": {
-      "rank": 752,
-      "estimate": "40k+",
+      "rank": 2872,
+      "estimate": "7k+",
       "name": "Nexomon 3"
     },
     "2542310": {
-      "rank": 1243,
-      "estimate": "25k+",
+      "rank": 4252,
+      "estimate": "<7k",
       "name": "Fatal Run 2089"
     },
+    "2657010": {
+      "rank": 5375,
+      "estimate": "<7k",
+      "name": "Club House on Haunted Hill"
+    },
     "2820270": {
-      "rank": 2361,
-      "estimate": "7k+",
+      "rank": 4290,
+      "estimate": "<7k",
       "name": "Weeny Wise"
     },
+    "2853100": {
+      "rank": 8412,
+      "estimate": "<7k",
+      "name": "Slay Goblins"
+    },
     "2882850": {
-      "rank": 2184,
-      "estimate": "7k+",
+      "rank": 3922,
+      "estimate": "<7k",
       "name": "Portal: Singularity Collapse"
     },
+    "3004130": {
+      "rank": 2868,
+      "estimate": "7k+",
+      "name": "Solace Creek"
+    },
     "3144010": {
-      "rank": 802,
-      "estimate": "40k+",
+      "rank": 2619,
+      "estimate": "7k+",
       "name": "Usagi Shima: Bunny Island"
     },
+    "3147820": {
+      "rank": 8145,
+      "estimate": "<7k",
+      "name": "Neko"
+    },
     "3179120": {
-      "rank": 4066,
+      "rank": 5502,
       "estimate": "<7k",
       "name": "Monastery: Ora et Labora"
     },
     "3294300": {
-      "rank": 3655,
+      "rank": 3676,
       "estimate": "<7k",
       "name": "Dinosaur"
     },
-    "3925150": {
-      "rank": 598,
+    "3340720": {
+      "rank": 9068,
+      "estimate": "<7k",
+      "name": "Distant Colony"
+    },
+    "3346340": {
+      "rank": 3434,
+      "estimate": "<7k",
+      "name": "Grill'd: The Vanishing"
+    },
+    "3531890": {
+      "rank": 990,
       "estimate": "40k+",
+      "name": "D-BEAT HEROES"
+    },
+    "3634500": {
+      "rank": 6455,
+      "estimate": "<7k",
+      "name": "LIMINAL CAT"
+    },
+    "3638070": {
+      "rank": 2913,
+      "estimate": "7k+",
+      "name": "Hermit Computer"
+    },
+    "3686000": {
+      "rank": 6385,
+      "estimate": "<7k",
+      "name": "Earth Atlantis 2"
+    },
+    "3925150": {
+      "rank": 4581,
+      "estimate": "<7k",
       "name": "AUDIOMECH: your music transformed"
     },
-    "4119150": {
-      "rank": 4436,
+    "3991140": {
+      "rank": 1841,
+      "estimate": "15k+",
+      "name": "The Hambagu Shop"
+    },
+    "4035810": {
+      "rank": 1635,
+      "estimate": "15k+",
+      "name": "Train Sim World® 6: West Coast Main Line Trent Valley: Milton Keynes - Crewe Route Add-On"
+    },
+    "4055030": {
+      "rank": 6254,
       "estimate": "<7k",
+      "name": "Red Moon Cafe"
+    },
+    "4071450": {
+      "rank": 2513,
+      "estimate": "7k+",
+      "name": "Pink Light"
+    },
+    "4103580": {
+      "rank": 4649,
+      "estimate": "<7k",
+      "name": "Mystery of the Mysterious Futayuri Mystery Dungeon"
+    },
+    "4119150": {
+      "rank": 2655,
+      "estimate": "7k+",
       "name": "Seina: a Tale Of Spirits"
     },
+    "4202560": {
+      "rank": 8728,
+      "estimate": "<7k",
+      "name": "SATAN II"
+    },
+    "4210130": {
+      "rank": 7971,
+      "estimate": "<7k",
+      "name": "Zaya: Rise to the Gods"
+    },
+    "4316540": {
+      "rank": 8048,
+      "estimate": "<7k",
+      "name": "The Anomaly Department"
+    },
     "4402250": {
-      "rank": 2425,
-      "estimate": "7k+",
+      "rank": 1746,
+      "estimate": "15k+",
       "name": "Disgaea Mayhem"
     },
-    "4583360": {
-      "rank": 3286,
+    "4438880": {
+      "rank": 2907,
+      "estimate": "7k+",
+      "name": "Tex Murphy: Under a killing moon Remake"
+    },
+    "4459830": {
+      "rank": 4589,
       "estimate": "<7k",
+      "name": "Ball Buster Breakout"
+    },
+    "4466850": {
+      "rank": 3662,
+      "estimate": "<7k",
+      "name": "Where is My Pet?"
+    },
+    "4521650": {
+      "rank": 2094,
+      "estimate": "7k+",
+      "name": "Farm & Feast"
+    },
+    "4583360": {
+      "rank": 1934,
+      "estimate": "15k+",
       "name": "SAMURAI BRINGER - RAMPAGE -"
+    },
+    "4660090": {
+      "rank": 680,
+      "estimate": "40k+",
+      "name": "Bloodwoven"
+    },
+    "4684580": {
+      "rank": 4958,
+      "estimate": "<7k",
+      "name": "Birdwatching Notebook Soundtrack"
+    },
+    "4780280": {
+      "rank": 1445,
+      "estimate": "25k+",
+      "name": "Ornament Tower"
     }
   }
 }

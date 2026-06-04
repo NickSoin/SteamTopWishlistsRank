@@ -1,68 +1,183 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 35,
   "entries": {
     "247970": {
-      "rank": 1027,
-      "estimate": "25k+",
+      "rank": 608,
+      "estimate": "40k+",
       "name": "Korea. IL-2 Series"
     },
     "782260": {
-      "rank": 1762,
+      "rank": 1890,
       "estimate": "15k+",
       "name": "Rogue Eclipse"
     },
     "1410470": {
-      "rank": 3164,
+      "rank": 9894,
       "estimate": "<7k",
       "name": "Sauna2000"
     },
+    "1472430": {
+      "rank": 1569,
+      "estimate": "15k+",
+      "name": "Sketchy Fables"
+    },
     "1725710": {
-      "rank": 2310,
-      "estimate": "7k+",
+      "rank": 3068,
+      "estimate": "<7k",
       "name": "Demi and the Fractured Dream"
     },
     "1779540": {
-      "rank": 787,
-      "estimate": "40k+",
+      "rank": 32,
+      "estimate": "600k+",
       "name": "Starpath"
     },
+    "2296950": {
+      "rank": 8672,
+      "estimate": "<7k",
+      "name": "Out of the Ashes"
+    },
+    "2360040": {
+      "rank": 8311,
+      "estimate": "<7k",
+      "name": "Fool's Gold"
+    },
     "2476150": {
-      "rank": 2944,
-      "estimate": "7k+",
+      "rank": 7953,
+      "estimate": "<7k",
       "name": "Stickfigurez"
     },
-    "2716980": {
-      "rank": 3336,
+    "2589960": {
+      "rank": 8225,
       "estimate": "<7k",
-      "name": "City of Ashes"
+      "name": "Grimrain MMORPG"
+    },
+    "2601150": {
+      "rank": 9786,
+      "estimate": "<7k",
+      "name": "Darkworld"
+    },
+    "2612730": {
+      "rank": 7408,
+      "estimate": "<7k",
+      "name": "CYBER-ASSASSIN™"
+    },
+    "2708150": {
+      "rank": 7194,
+      "estimate": "<7k",
+      "name": "Four Lights"
     },
     "2939170": {
-      "rank": 2586,
-      "estimate": "7k+",
+      "rank": 1481,
+      "estimate": "25k+",
       "name": "Galactic Disharmony"
     },
+    "3227960": {
+      "rank": 4749,
+      "estimate": "<7k",
+      "name": "Stip"
+    },
     "3295420": {
-      "rank": 3976,
+      "rank": 6171,
       "estimate": "<7k",
       "name": "Escape Memoirs: Bank Heist"
     },
+    "3310280": {
+      "rank": 6990,
+      "estimate": "<7k",
+      "name": "New Active Object"
+    },
+    "3334350": {
+      "rank": 7296,
+      "estimate": "<7k",
+      "name": "Mech Log Zero"
+    },
+    "3530950": {
+      "rank": 7525,
+      "estimate": "<7k",
+      "name": "Zombie Blocks: Pixel Shooter Gun"
+    },
     "3589910": {
-      "rank": 2929,
-      "estimate": "7k+",
+      "rank": 6275,
+      "estimate": "<7k",
       "name": "Voivod: The Nuclear Warrior"
     },
+    "3808950": {
+      "rank": 9184,
+      "estimate": "<7k",
+      "name": "WARSTATION"
+    },
+    "3895310": {
+      "rank": 9059,
+      "estimate": "<7k",
+      "name": "Till Checkout Do Us Part"
+    },
+    "3907840": {
+      "rank": 9978,
+      "estimate": "<7k",
+      "name": "Out Of Water"
+    },
+    "3915120": {
+      "rank": 9617,
+      "estimate": "<7k",
+      "name": "SENARA: The Sacrament"
+    },
     "4012150": {
-      "rank": 1951,
+      "rank": 1721,
       "estimate": "15k+",
       "name": "BREKEKEKEX"
     },
-    "4049330": {
-      "rank": 4631,
+    "4080650": {
+      "rank": 5193,
       "estimate": "<7k",
-      "name": "Gobble Fantasy 2003"
+      "name": "DeVILSTOPIA"
+    },
+    "4178540": {
+      "rank": 3475,
+      "estimate": "<7k",
+      "name": "END US"
+    },
+    "4251290": {
+      "rank": 1761,
+      "estimate": "15k+",
+      "name": "Skinator"
+    },
+    "4436790": {
+      "rank": 9720,
+      "estimate": "<7k",
+      "name": "Gym Fitness Empire: Build, Coach, Expand"
+    },
+    "4560710": {
+      "rank": 9176,
+      "estimate": "<7k",
+      "name": "Spacebolt"
+    },
+    "4624650": {
+      "rank": 1483,
+      "estimate": "25k+",
+      "name": "Moonlight Pale"
+    },
+    "4641930": {
+      "rank": 4398,
+      "estimate": "<7k",
+      "name": "DeadWeight: A Lullaby"
+    },
+    "4660540": {
+      "rank": 6903,
+      "estimate": "<7k",
+      "name": "Bloody Cleanup TOGHETER"
+    },
+    "4746060": {
+      "rank": 6754,
+      "estimate": "<7k",
+      "name": "The Organ Woman | 臓器女"
+    },
+    "4746910": {
+      "rank": 5144,
+      "estimate": "<7k",
+      "name": "+=- Under control"
     }
   }
 }

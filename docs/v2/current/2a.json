@@ -1,103 +1,223 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 43,
   "entries": {
     "771800": {
-      "rank": 481,
-      "estimate": "80k+",
+      "rank": 58,
+      "estimate": "300k+",
       "name": "Deadstick - Bush Pilot Simulator"
     },
     "1101370": {
-      "rank": 804,
-      "estimate": "40k+",
+      "rank": 2761,
+      "estimate": "7k+",
       "name": "Wind Runners"
     },
-    "1680800": {
-      "rank": 4221,
-      "estimate": "<7k",
-      "name": "Biwar Legend of Dragon Slayer"
-    },
     "1690100": {
-      "rank": 2089,
-      "estimate": "7k+",
+      "rank": 5008,
+      "estimate": "<7k",
       "name": "Cosminers"
     },
+    "1767350": {
+      "rank": 6736,
+      "estimate": "<7k",
+      "name": "Water Fall"
+    },
     "1823210": {
-      "rank": 1570,
-      "estimate": "15k+",
+      "rank": 7174,
+      "estimate": "<7k",
       "name": "Breeze in the Clouds"
     },
     "2159260": {
-      "rank": 956,
-      "estimate": "40k+",
+      "rank": 3260,
+      "estimate": "<7k",
       "name": "Vampire Rancher"
     },
     "2193150": {
-      "rank": 579,
-      "estimate": "40k+",
+      "rank": 4899,
+      "estimate": "<7k",
       "name": "Kibu"
     },
     "2381520": {
-      "rank": 10,
-      "estimate": "1.5m+",
+      "rank": 460,
+      "estimate": "80k+",
       "name": "Unrecord"
     },
     "2404870": {
-      "rank": 4321,
+      "rank": 5685,
       "estimate": "<7k",
       "name": "Camping Park Simulator"
     },
     "2549980": {
-      "rank": 3165,
+      "rank": 6686,
       "estimate": "<7k",
       "name": "RANGER COMMANDO"
     },
-    "2669200": {
-      "rank": 4459,
+    "2555000": {
+      "rank": 7534,
       "estimate": "<7k",
-      "name": "Catffee Time!"
+      "name": "Waaaaaa: A Prehistoric Adventure With Aliens"
     },
-    "2687200": {
-      "rank": 998,
-      "estimate": "40k+",
-      "name": "100 London Cats"
+    "2787180": {
+      "rank": 5824,
+      "estimate": "<7k",
+      "name": "Wardens of Chaos"
     },
     "3152750": {
-      "rank": 2614,
+      "rank": 2104,
       "estimate": "7k+",
       "name": "Taival"
     },
     "3309550": {
-      "rank": 986,
-      "estimate": "40k+",
+      "rank": 1627,
+      "estimate": "15k+",
       "name": "Skarven"
     },
+    "3405120": {
+      "rank": 8986,
+      "estimate": "<7k",
+      "name": "Hide The Corpse"
+    },
     "3558600": {
-      "rank": 1098,
-      "estimate": "25k+",
+      "rank": 277,
+      "estimate": "80k+",
       "name": "Leafy Corner"
     },
     "3606970": {
-      "rank": 552,
-      "estimate": "40k+",
+      "rank": 454,
+      "estimate": "80k+",
       "name": "Brass Rain"
     },
+    "3625960": {
+      "rank": 7672,
+      "estimate": "<7k",
+      "name": "UNRETURNING"
+    },
+    "3671460": {
+      "rank": 6847,
+      "estimate": "<7k",
+      "name": "Dragon Fields"
+    },
     "3696210": {
-      "rank": 3619,
+      "rank": 3001,
       "estimate": "<7k",
       "name": "On Donuts and Holes"
     },
-    "3699390": {
-      "rank": 3759,
+    "3868550": {
+      "rank": 2305,
+      "estimate": "7k+",
+      "name": "Mini Shopkeeper"
+    },
+    "3884660": {
+      "rank": 9646,
       "estimate": "<7k",
-      "name": "Little Mage"
+      "name": "My Cozy BookShop"
+    },
+    "3930480": {
+      "rank": 3405,
+      "estimate": "<7k",
+      "name": "Dungeon Tourists"
+    },
+    "4018330": {
+      "rank": 6856,
+      "estimate": "<7k",
+      "name": "Lord of Undead"
+    },
+    "4052840": {
+      "rank": 8586,
+      "estimate": "<7k",
+      "name": "AINUR"
+    },
+    "4328570": {
+      "rank": 2996,
+      "estimate": "7k+",
+      "name": "WE ARE FOOTBALL 2027"
+    },
+    "4391710": {
+      "rank": 8405,
+      "estimate": "<7k",
+      "name": "_archive"
+    },
+    "4405880": {
+      "rank": 2552,
+      "estimate": "7k+",
+      "name": "Moon Corona"
+    },
+    "4413410": {
+      "rank": 7729,
+      "estimate": "<7k",
+      "name": "Dinosaur Survival Simulator - Prehistoric RPG"
+    },
+    "4436200": {
+      "rank": 3506,
+      "estimate": "<7k",
+      "name": "FluxWerks"
+    },
+    "4502510": {
+      "rank": 7089,
+      "estimate": "<7k",
+      "name": "Eerie Dossier:the Haunted House Observation Log"
+    },
+    "4533680": {
+      "rank": 3983,
+      "estimate": "<7k",
+      "name": "My Protogen Engineer 2 ⚙️"
+    },
+    "4537640": {
+      "rank": 9504,
+      "estimate": "<7k",
+      "name": "Black Powder Box"
+    },
+    "4548710": {
+      "rank": 5185,
+      "estimate": "<7k",
+      "name": "Physician Simulator"
+    },
+    "4609950": {
+      "rank": 9383,
+      "estimate": "<7k",
+      "name": "Rock, Paper, Severed"
+    },
+    "4641550": {
+      "rank": 3779,
+      "estimate": "<7k",
+      "name": "Kegs of Eternity"
+    },
+    "4661170": {
+      "rank": 6937,
+      "estimate": "<7k",
+      "name": "Headquarters: Cold War - Operation Pacify"
+    },
+    "4661620": {
+      "rank": 9309,
+      "estimate": "<7k",
+      "name": "King's Deck"
+    },
+    "4668670": {
+      "rank": 3043,
+      "estimate": "<7k",
+      "name": "探偵Rと預言者J"
     },
     "4668890": {
-      "rank": 3059,
-      "estimate": "<7k",
+      "rank": 365,
+      "estimate": "80k+",
       "name": "Mall Together"
+    },
+    "4672710": {
+      "rank": 7874,
+      "estimate": "<7k",
+      "name": "海潮之汐：引路人"
+    },
+    "4676570": {
+      "rank": 7362,
+      "estimate": "<7k",
+      "name": "新盗墓笔记（官方正版）"
+    },
+    "4708730": {
+      "rank": 8425,
+      "estimate": "<7k",
+      "name": "Magic Circle Generator"
     }
   }
 }

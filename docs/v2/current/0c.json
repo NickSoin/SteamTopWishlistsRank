@@ -1,123 +1,208 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 40,
   "entries": {
     "1003900": {
-      "rank": 3518,
+      "rank": 7256,
       "estimate": "<7k",
       "name": "CHROMATOSE"
     },
-    "1794750": {
-      "rank": 3766,
-      "estimate": "<7k",
-      "name": "Stay with Me! Alien Abduction Story"
-    },
-    "1906690": {
-      "rank": 4003,
-      "estimate": "<7k",
-      "name": "Strange Tales of Tei-Shan"
-    },
     "2284140": {
-      "rank": 1491,
-      "estimate": "25k+",
+      "rank": 4212,
+      "estimate": "<7k",
       "name": "GREENFIELD"
     },
     "2542020": {
-      "rank": 465,
+      "rank": 423,
       "estimate": "80k+",
       "name": "Duskfade"
     },
+    "2598580": {
+      "rank": 1726,
+      "estimate": "15k+",
+      "name": "Seekers of the Ancient"
+    },
     "2627590": {
-      "rank": 4408,
+      "rank": 4865,
       "estimate": "<7k",
       "name": "Endless Monday: In Progress"
     },
     "2648900": {
-      "rank": 1973,
-      "estimate": "15k+",
+      "rank": 5065,
+      "estimate": "<7k",
       "name": "The World Well: Blood of Caro"
     },
+    "2764310": {
+      "rank": 9906,
+      "estimate": "<7k",
+      "name": "EXS3～EthnologySister3：Culture and Personality"
+    },
+    "2796250": {
+      "rank": 9434,
+      "estimate": "<7k",
+      "name": "Beware the Depths"
+    },
+    "3156910": {
+      "rank": 8260,
+      "estimate": "<7k",
+      "name": "Sepulchron"
+    },
     "3322630": {
-      "rank": 1789,
-      "estimate": "15k+",
+      "rank": 1063,
+      "estimate": "25k+",
       "name": "Culdcept BEGINS"
     },
-    "3323970": {
-      "rank": 3250,
-      "estimate": "<7k",
-      "name": "Pinbleton Park"
-    },
     "3347910": {
-      "rank": 1790,
-      "estimate": "15k+",
+      "rank": 3394,
+      "estimate": "<7k",
       "name": "Rat Game"
     },
     "3367710": {
-      "rank": 2112,
-      "estimate": "7k+",
+      "rank": 1053,
+      "estimate": "25k+",
       "name": "The Abyss Break"
     },
     "3440200": {
-      "rank": 874,
-      "estimate": "40k+",
+      "rank": 1241,
+      "estimate": "25k+",
       "name": "The Holy Fool"
     },
+    "3525790": {
+      "rank": 4368,
+      "estimate": "<7k",
+      "name": "PAW Patrol™: Dino World"
+    },
     "3574200": {
-      "rank": 2938,
-      "estimate": "7k+",
+      "rank": 556,
+      "estimate": "40k+",
       "name": "HIPS N NOSES"
     },
     "3595630": {
-      "rank": 4502,
-      "estimate": "<7k",
+      "rank": 2158,
+      "estimate": "7k+",
       "name": "SchoolBoy OutDoors"
     },
     "3634340": {
-      "rank": 2542,
-      "estimate": "7k+",
+      "rank": 1835,
+      "estimate": "15k+",
       "name": "吾皇万岁"
     },
+    "3801690": {
+      "rank": 5180,
+      "estimate": "<7k",
+      "name": "Var Game Simulator"
+    },
+    "3846710": {
+      "rank": 5484,
+      "estimate": "<7k",
+      "name": "The Wake: A Lovecraftian Fishing Tale"
+    },
     "3878760": {
-      "rank": 791,
-      "estimate": "40k+",
+      "rank": 1203,
+      "estimate": "25k+",
       "name": "Migration"
     },
     "3888420": {
-      "rank": 3255,
-      "estimate": "<7k",
+      "rank": 1037,
+      "estimate": "25k+",
       "name": "Kumarn: The Wandering Spirit"
     },
     "3907570": {
-      "rank": 4483,
-      "estimate": "<7k",
+      "rank": 2572,
+      "estimate": "7k+",
       "name": "Silent Authority: Blood & Bourbon"
     },
+    "3915380": {
+      "rank": 9232,
+      "estimate": "<7k",
+      "name": "Manaftory"
+    },
     "3950130": {
-      "rank": 2355,
-      "estimate": "7k+",
+      "rank": 1675,
+      "estimate": "15k+",
       "name": "Database Detective: Minor Crimes Division"
     },
     "3978110": {
-      "rank": 3751,
+      "rank": 7513,
       "estimate": "<7k",
       "name": "Neuron Activation"
     },
+    "4008580": {
+      "rank": 6247,
+      "estimate": "<7k",
+      "name": "Vapor Strange"
+    },
+    "4061390": {
+      "rank": 6220,
+      "estimate": "<7k",
+      "name": "Dohyo Dreams: Rise to Yokozuna"
+    },
     "4095380": {
-      "rank": 33,
-      "estimate": "600k+",
+      "rank": 85,
+      "estimate": "300k+",
       "name": "Soulframe"
     },
     "4202430": {
-      "rank": 1472,
-      "estimate": "25k+",
+      "rank": 854,
+      "estimate": "40k+",
       "name": "Veterans: Napoleonic Wars"
     },
+    "4235160": {
+      "rank": 6090,
+      "estimate": "<7k",
+      "name": "Traders Life Simulator"
+    },
+    "4277500": {
+      "rank": 9472,
+      "estimate": "<7k",
+      "name": "Snooker Billiard"
+    },
+    "4332870": {
+      "rank": 2452,
+      "estimate": "7k+",
+      "name": "Bunderkin: The Ocular Eclipse"
+    },
     "4418080": {
-      "rank": 1750,
-      "estimate": "15k+",
+      "rank": 164,
+      "estimate": "200k+",
       "name": "False Echo"
+    },
+    "4484760": {
+      "rank": 8862,
+      "estimate": "<7k",
+      "name": "Spright"
+    },
+    "4527650": {
+      "rank": 7291,
+      "estimate": "<7k",
+      "name": "Cardmare: Descent"
+    },
+    "4599710": {
+      "rank": 1642,
+      "estimate": "15k+",
+      "name": "IDLE_DIRECTIVE"
+    },
+    "4615360": {
+      "rank": 5594,
+      "estimate": "<7k",
+      "name": "Redacted by the Sadistic Princess from Another World?!"
+    },
+    "4623570": {
+      "rank": 1384,
+      "estimate": "25k+",
+      "name": "Deskrawl: Idle ARPG"
+    },
+    "4660870": {
+      "rank": 7884,
+      "estimate": "<7k",
+      "name": "DarkCage"
+    },
+    "4684490": {
+      "rank": 5693,
+      "estimate": "<7k",
+      "name": "BURI"
     }
   }
 }

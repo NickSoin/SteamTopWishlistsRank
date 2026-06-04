@@ -1,83 +1,163 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 31,
   "entries": {
+    "884100": {
+      "rank": 9065,
+      "estimate": "<7k",
+      "name": "SCP: 5K Original Soundtrack Vol. 1"
+    },
     "1167820": {
-      "rank": 768,
-      "estimate": "40k+",
+      "rank": 1361,
+      "estimate": "25k+",
       "name": "Airport Contraband"
     },
     "1368540": {
-      "rank": 4171,
+      "rank": 9885,
       "estimate": "<7k",
       "name": "Dead Horizon"
     },
     "1842040": {
-      "rank": 1077,
+      "rank": 1370,
       "estimate": "25k+",
       "name": "Soul Split"
     },
     "1922500": {
-      "rank": 3711,
+      "rank": 7135,
       "estimate": "<7k",
       "name": "World of Stickman Classic RTS"
     },
+    "2421840": {
+      "rank": 9603,
+      "estimate": "<7k",
+      "name": "Terrors of War"
+    },
     "2494660": {
-      "rank": 4073,
+      "rank": 9284,
       "estimate": "<7k",
       "name": "Love Tavern 2: Beastmen Kingdoms"
     },
     "2514890": {
-      "rank": 2594,
-      "estimate": "7k+",
+      "rank": 6982,
+      "estimate": "<7k",
       "name": "Reverb"
     },
     "2636060": {
-      "rank": 2152,
-      "estimate": "7k+",
+      "rank": 4618,
+      "estimate": "<7k",
       "name": "Dark Continent"
     },
     "2708040": {
-      "rank": 669,
+      "rank": 955,
       "estimate": "40k+",
       "name": "Triarchy"
     },
+    "2741120": {
+      "rank": 3904,
+      "estimate": "<7k",
+      "name": "Sunset Magna Carta"
+    },
+    "2930030": {
+      "rank": 8741,
+      "estimate": "<7k",
+      "name": "Oath of the Necromancer"
+    },
     "3031880": {
-      "rank": 477,
-      "estimate": "80k+",
+      "rank": 1197,
+      "estimate": "25k+",
       "name": "Car Park Capital"
     },
-    "3169910": {
-      "rank": 4090,
-      "estimate": "<7k",
-      "name": "Weapons Arena"
-    },
-    "3261300": {
-      "rank": 3947,
-      "estimate": "<7k",
-      "name": "Card Draw"
-    },
     "3276050": {
-      "rank": 78,
-      "estimate": "300k+",
+      "rank": 133,
+      "estimate": "200k+",
       "name": "SpaceCraft"
     },
+    "3495910": {
+      "rank": 9022,
+      "estimate": "<7k",
+      "name": "Smalltown Architect"
+    },
+    "3566230": {
+      "rank": 7421,
+      "estimate": "<7k",
+      "name": "Become Barista!"
+    },
     "3788210": {
-      "rank": 3936,
+      "rank": 4358,
       "estimate": "<7k",
       "name": "Fortress-Life"
     },
     "3895950": {
-      "rank": 2461,
+      "rank": 2397,
       "estimate": "7k+",
       "name": "Garten of Banban: Last Ticket to the Abyss"
     },
-    "4642050": {
-      "rank": 3133,
+    "3976910": {
+      "rank": 2275,
+      "estimate": "7k+",
+      "name": "Age of Wonders 4: Secrets of the Archmages"
+    },
+    "4079160": {
+      "rank": 9072,
       "estimate": "<7k",
+      "name": "Super Basketball Classics"
+    },
+    "4132210": {
+      "rank": 6355,
+      "estimate": "<7k",
+      "name": "Zombie Hamsters"
+    },
+    "4164330": {
+      "rank": 2485,
+      "estimate": "7k+",
+      "name": "Book Nook"
+    },
+    "4219700": {
+      "rank": 5967,
+      "estimate": "<7k",
+      "name": "BLOODFALL: The First Temple"
+    },
+    "4293320": {
+      "rank": 5314,
+      "estimate": "<7k",
+      "name": "D3LIGHT"
+    },
+    "4319390": {
+      "rank": 9538,
+      "estimate": "<7k",
+      "name": "Resort Simulator"
+    },
+    "4380730": {
+      "rank": 5603,
+      "estimate": "<7k",
+      "name": "Red Passport: Deported"
+    },
+    "4421600": {
+      "rank": 7161,
+      "estimate": "<7k",
+      "name": "PANAME"
+    },
+    "4431630": {
+      "rank": 9926,
+      "estimate": "<7k",
+      "name": "Wizard Cleaning Simulator"
+    },
+    "4609330": {
+      "rank": 5570,
+      "estimate": "<7k",
+      "name": "Spirit Axis"
+    },
+    "4642050": {
+      "rank": 2878,
+      "estimate": "7k+",
       "name": "Infogrind"
+    },
+    "4718090": {
+      "rank": 8277,
+      "estimate": "<7k",
+      "name": "Pathogen"
     }
   }
 }

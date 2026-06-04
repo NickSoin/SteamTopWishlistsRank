@@ -1,48 +1,153 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 8,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 29,
   "entries": {
-    "1104800": {
-      "rank": 2553,
-      "estimate": "7k+",
-      "name": "Radiance"
+    "1404520": {
+      "rank": 7895,
+      "estimate": "<7k",
+      "name": "Death Blonde"
+    },
+    "1841750": {
+      "rank": 9195,
+      "estimate": "<7k",
+      "name": "Black Room"
     },
     "2545880": {
-      "rank": 2457,
+      "rank": 2656,
       "estimate": "7k+",
       "name": "HistoriCity: Florence"
     },
     "2932680": {
-      "rank": 2648,
-      "estimate": "7k+",
+      "rank": 3482,
+      "estimate": "<7k",
       "name": "Nomori"
     },
+    "3024560": {
+      "rank": 6992,
+      "estimate": "<7k",
+      "name": "Dungeon Master"
+    },
     "3086670": {
-      "rank": 1391,
-      "estimate": "25k+",
+      "rank": 3464,
+      "estimate": "<7k",
       "name": "SKINWALKER: First Blood"
     },
-    "3588150": {
-      "rank": 1332,
+    "3213120": {
+      "rank": 1363,
       "estimate": "25k+",
+      "name": "Machinefall"
+    },
+    "3514920": {
+      "rank": 3181,
+      "estimate": "<7k",
+      "name": "Pin-Crawl"
+    },
+    "3588150": {
+      "rank": 7352,
+      "estimate": "<7k",
       "name": "The Bureau of Fantastical & Arcane Affairs"
     },
     "3597200": {
-      "rank": 3120,
-      "estimate": "<7k",
+      "rank": 1885,
+      "estimate": "15k+",
       "name": "Grail"
     },
+    "3637250": {
+      "rank": 1244,
+      "estimate": "25k+",
+      "name": "The Well's Blessing"
+    },
+    "3778740": {
+      "rank": 6391,
+      "estimate": "<7k",
+      "name": "Nightpyre"
+    },
+    "3787030": {
+      "rank": 6801,
+      "estimate": "<7k",
+      "name": "Mawang: Dark Lord Defense"
+    },
     "3891160": {
-      "rank": 996,
+      "rank": 516,
       "estimate": "40k+",
       "name": "CRYMELIGHT"
     },
+    "3925340": {
+      "rank": 7340,
+      "estimate": "<7k",
+      "name": "Incoherence: Dark Rooms"
+    },
+    "4036920": {
+      "rank": 1375,
+      "estimate": "25k+",
+      "name": "Everbrew"
+    },
+    "4050160": {
+      "rank": 5528,
+      "estimate": "<7k",
+      "name": "Cold Case: The Red Dress Murder"
+    },
+    "4123600": {
+      "rank": 4457,
+      "estimate": "<7k",
+      "name": "Alisa’s Incident Report"
+    },
+    "4194880": {
+      "rank": 6453,
+      "estimate": "<7k",
+      "name": "Laser_Inc"
+    },
+    "4237680": {
+      "rank": 6101,
+      "estimate": "<7k",
+      "name": "Gulovacka"
+    },
     "4261650": {
-      "rank": 2882,
-      "estimate": "7k+",
+      "rank": 219,
+      "estimate": "80k+",
       "name": "MASAKRE"
+    },
+    "4265830": {
+      "rank": 2812,
+      "estimate": "7k+",
+      "name": "Spyder: Agent 8"
+    },
+    "4347280": {
+      "rank": 9796,
+      "estimate": "<7k",
+      "name": "GAS"
+    },
+    "4369110": {
+      "rank": 9528,
+      "estimate": "<7k",
+      "name": "DEMØNS GATE & Paintball Ops"
+    },
+    "4461810": {
+      "rank": 7504,
+      "estimate": "<7k",
+      "name": "Galloping Dream"
+    },
+    "4558570": {
+      "rank": 7879,
+      "estimate": "<7k",
+      "name": "The Membrane"
+    },
+    "4622260": {
+      "rank": 4044,
+      "estimate": "<7k",
+      "name": "放置斩魔录"
+    },
+    "4633420": {
+      "rank": 5150,
+      "estimate": "<7k",
+      "name": "Death's Life 2"
+    },
+    "4701400": {
+      "rank": 6469,
+      "estimate": "<7k",
+      "name": "Rustbuckets"
     }
   }
 }

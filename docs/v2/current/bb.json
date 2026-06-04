@@ -1,123 +1,228 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 44,
   "entries": {
     "760250": {
-      "rank": 4480,
+      "rank": 7126,
       "estimate": "<7k",
       "name": "MUKTI"
     },
-    "816070": {
-      "rank": 1588,
-      "estimate": "15k+",
-      "name": "Blunt Force"
-    },
     "1467110": {
-      "rank": 2785,
-      "estimate": "7k+",
+      "rank": 8953,
+      "estimate": "<7k",
       "name": "Treasure Hunter Simulator 2"
     },
+    "1508770": {
+      "rank": 9094,
+      "estimate": "<7k",
+      "name": "Selfpolis"
+    },
     "1689130": {
-      "rank": 1620,
-      "estimate": "15k+",
+      "rank": 6197,
+      "estimate": "<7k",
       "name": "MaguSphere - Magical Cannon Girls"
     },
     "1830110": {
-      "rank": 1071,
-      "estimate": "25k+",
+      "rank": 6396,
+      "estimate": "<7k",
       "name": "THE SIGNAL: Stranded on Sirenis"
     },
     "2318330": {
-      "rank": 57,
-      "estimate": "300k+",
+      "rank": 200,
+      "estimate": "200k+",
       "name": "Neverway"
     },
-    "2776910": {
-      "rank": 1483,
-      "estimate": "25k+",
-      "name": "100 Paris Cats"
-    },
     "2781660": {
-      "rank": 599,
-      "estimate": "40k+",
+      "rank": 1383,
+      "estimate": "25k+",
       "name": "Dawn Of Defense"
     },
     "2824880": {
-      "rank": 1843,
-      "estimate": "15k+",
+      "rank": 2087,
+      "estimate": "7k+",
       "name": "SHRIMP GAME: OVERKRILL"
     },
     "2934330": {
-      "rank": 2937,
-      "estimate": "7k+",
+      "rank": 5587,
+      "estimate": "<7k",
       "name": "RADIOSOL"
     },
+    "2948690": {
+      "rank": 6510,
+      "estimate": "<7k",
+      "name": "Enigma Of Forest"
+    },
     "2999670": {
-      "rank": 908,
-      "estimate": "40k+",
+      "rank": 1303,
+      "estimate": "25k+",
       "name": "Front Edge"
     },
+    "3062160": {
+      "rank": 3106,
+      "estimate": "<7k",
+      "name": "Car Service Simulator : Prologue"
+    },
+    "3206300": {
+      "rank": 9419,
+      "estimate": "<7k",
+      "name": "Joey's Shisha Simulator"
+    },
     "3209950": {
-      "rank": 1320,
-      "estimate": "25k+",
+      "rank": 6324,
+      "estimate": "<7k",
       "name": "MARINES VS GOD"
     },
+    "3305870": {
+      "rank": 8793,
+      "estimate": "<7k",
+      "name": "Mindwarp: Island Detective"
+    },
+    "3338180": {
+      "rank": 4908,
+      "estimate": "<7k",
+      "name": "Inconceivable Rat Endeavour"
+    },
     "3411900": {
-      "rank": 1679,
-      "estimate": "15k+",
+      "rank": 4091,
+      "estimate": "<7k",
       "name": "Kero Quest 64"
     },
     "3545560": {
-      "rank": 332,
-      "estimate": "80k+",
+      "rank": 1499,
+      "estimate": "25k+",
       "name": "Ironclad"
     },
     "3752650": {
-      "rank": 777,
+      "rank": 630,
       "estimate": "40k+",
       "name": "Tale's Edge"
     },
     "3796290": {
-      "rank": 2544,
-      "estimate": "7k+",
+      "rank": 921,
+      "estimate": "40k+",
       "name": "Theater Pack - Hearts of Iron IV: Thunder at our Gates"
     },
     "3828500": {
-      "rank": 3517,
+      "rank": 6298,
       "estimate": "<7k",
       "name": "Deck & Conn"
     },
+    "3948970": {
+      "rank": 6356,
+      "estimate": "<7k",
+      "name": "Space Salvage: Ship Happens"
+    },
+    "4077060": {
+      "rank": 5812,
+      "estimate": "<7k",
+      "name": "Void Pachinko"
+    },
+    "4083250": {
+      "rank": 5926,
+      "estimate": "<7k",
+      "name": "艾尔蒂的晚宴 ALTY'S DINNER"
+    },
+    "4112530": {
+      "rank": 704,
+      "estimate": "40k+",
+      "name": "Miracle Bullet"
+    },
     "4165910": {
-      "rank": 7,
-      "estimate": "1.5m+",
+      "rank": 44,
+      "estimate": "600k+",
       "name": "Steam Machine"
     },
     "4183770": {
-      "rank": 3047,
-      "estimate": "<7k",
+      "rank": 1295,
+      "estimate": "25k+",
       "name": "CELESTAY Craft&Slowlife"
     },
+    "4233570": {
+      "rank": 8173,
+      "estimate": "<7k",
+      "name": "Litmustest"
+    },
     "4244460": {
-      "rank": 1672,
-      "estimate": "15k+",
+      "rank": 401,
+      "estimate": "80k+",
       "name": "Sealbreakers"
     },
+    "4310080": {
+      "rank": 2730,
+      "estimate": "7k+",
+      "name": "Oxygen Not Included: The Aquatic Planet Pack"
+    },
+    "4348580": {
+      "rank": 2408,
+      "estimate": "7k+",
+      "name": "SPLIT FPV: Drone Racing"
+    },
     "4425980": {
-      "rank": 4563,
-      "estimate": "<7k",
+      "rank": 1755,
+      "estimate": "15k+",
       "name": "Legion Breaker"
     },
+    "4481230": {
+      "rank": 7564,
+      "estimate": "<7k",
+      "name": "Terra: The Voracious"
+    },
+    "4509390": {
+      "rank": 5453,
+      "estimate": "<7k",
+      "name": "◒ Mini Motion Animator"
+    },
+    "4525370": {
+      "rank": 8018,
+      "estimate": "<7k",
+      "name": "Master Alchemist Simulator: Arcane Workshop"
+    },
     "4529020": {
-      "rank": 4494,
+      "rank": 3136,
       "estimate": "<7k",
       "name": "Neo Kinetic"
     },
     "4539340": {
-      "rank": 3119,
+      "rank": 3683,
       "estimate": "<7k",
       "name": "The Spaces We Share"
+    },
+    "4550370": {
+      "rank": 3307,
+      "estimate": "<7k",
+      "name": "Tower Realm"
+    },
+    "4597410": {
+      "rank": 6541,
+      "estimate": "<7k",
+      "name": "Midnight Hotel"
+    },
+    "4636700": {
+      "rank": 8282,
+      "estimate": "<7k",
+      "name": "Fishing Fever"
+    },
+    "4676490": {
+      "rank": 7041,
+      "estimate": "<7k",
+      "name": "青云录：官海浮沉"
+    },
+    "4744210": {
+      "rank": 8795,
+      "estimate": "<7k",
+      "name": "Sumeeper"
+    },
+    "4763730": {
+      "rank": 7430,
+      "estimate": "<7k",
+      "name": "Hunk Battle Gems"
+    },
+    "4768230": {
+      "rank": 4859,
+      "estimate": "<7k",
+      "name": "Dark Pals: Desktop Companions"
     }
   }
 }

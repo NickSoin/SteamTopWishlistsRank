@@ -1,128 +1,193 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 37,
   "entries": {
-    "640010": {
-      "rank": 2602,
-      "estimate": "7k+",
-      "name": "Forsaken Castle"
-    },
     "1207360": {
-      "rank": 546,
-      "estimate": "40k+",
+      "rank": 2259,
+      "estimate": "7k+",
       "name": "Medieval Frontiers"
     },
     "1561080": {
-      "rank": 1463,
-      "estimate": "25k+",
+      "rank": 8600,
+      "estimate": "<7k",
       "name": "A Frog's Tale"
     },
-    "1612560": {
-      "rank": 3810,
-      "estimate": "<7k",
-      "name": "Dreamland Confectionery"
-    },
-    "1741440": {
-      "rank": 3767,
-      "estimate": "<7k",
-      "name": "Koru"
-    },
     "1752530": {
-      "rank": 1062,
-      "estimate": "25k+",
+      "rank": 3643,
+      "estimate": "<7k",
       "name": "B-17 Flying Fortress The Bloody 100th"
     },
     "1826020": {
-      "rank": 1102,
-      "estimate": "25k+",
+      "rank": 4641,
+      "estimate": "<7k",
       "name": "Shred & Tear: Explosive Kajun"
     },
-    "1861450": {
-      "rank": 3386,
-      "estimate": "<7k",
-      "name": "The Courier"
-    },
     "1892580": {
-      "rank": 1623,
-      "estimate": "15k+",
+      "rank": 3077,
+      "estimate": "<7k",
       "name": "Zombotron Re-Boot"
     },
     "2105070": {
-      "rank": 2325,
-      "estimate": "7k+",
+      "rank": 5956,
+      "estimate": "<7k",
       "name": "Another Space Opera - Episode 1: The Wake of The Giant"
     },
     "2139330": {
-      "rank": 3085,
+      "rank": 6727,
       "estimate": "<7k",
       "name": "Auto Immune"
     },
     "2236190": {
-      "rank": 1095,
-      "estimate": "25k+",
+      "rank": 7276,
+      "estimate": "<7k",
       "name": "Vigilancer 2099"
     },
-    "2491810": {
-      "rank": 4650,
+    "2406810": {
+      "rank": 9400,
       "estimate": "<7k",
-      "name": "Shadow of Mammon"
+      "name": "Emblems: Sunless Vow"
     },
     "2499780": {
-      "rank": 1632,
-      "estimate": "15k+",
+      "rank": 2857,
+      "estimate": "7k+",
       "name": "Garten of Banban 5"
     },
-    "2544730": {
-      "rank": 3587,
-      "estimate": "<7k",
-      "name": "Gateworlds"
-    },
     "2688960": {
-      "rank": 2668,
-      "estimate": "7k+",
+      "rank": 4875,
+      "estimate": "<7k",
       "name": "Eternity's Echo: Patient Zero"
     },
-    "2882560": {
-      "rank": 3944,
-      "estimate": "<7k",
-      "name": "CAMPS"
-    },
     "2965300": {
-      "rank": 3524,
+      "rank": 4050,
       "estimate": "<7k",
       "name": "Three Kingdoms: The Legend of Zhuge Kongming HD2D"
     },
     "2977260": {
-      "rank": 247,
+      "rank": 255,
       "estimate": "80k+",
       "name": "The Guild - Europa 1410"
     },
-    "3582500": {
-      "rank": 4537,
+    "3107020": {
+      "rank": 7137,
       "estimate": "<7k",
-      "name": "Medieval Contrast"
+      "name": "Shadows of The Lost"
+    },
+    "3287810": {
+      "rank": 6684,
+      "estimate": "<7k",
+      "name": "Burning Squad"
+    },
+    "3419510": {
+      "rank": 3831,
+      "estimate": "<7k",
+      "name": "CE-III Protocol: Last Drop"
+    },
+    "3509800": {
+      "rank": 6770,
+      "estimate": "<7k",
+      "name": "◒ Flow Motion Animator"
+    },
+    "3529110": {
+      "rank": 2754,
+      "estimate": "7k+",
+      "name": "Bushcraft Survival"
     },
     "3624790": {
-      "rank": 2036,
-      "estimate": "7k+",
+      "rank": 786,
+      "estimate": "40k+",
       "name": "Letter Lost"
     },
+    "3746010": {
+      "rank": 7553,
+      "estimate": "<7k",
+      "name": "Warehouse Simulator"
+    },
+    "3761130": {
+      "rank": 9361,
+      "estimate": "<7k",
+      "name": "Ash and Flame"
+    },
+    "3965280": {
+      "rank": 3617,
+      "estimate": "<7k",
+      "name": "Sovietwave"
+    },
     "3991690": {
-      "rank": 3635,
+      "rank": 3354,
       "estimate": "<7k",
       "name": "Black Orchestra: Worldfront 37-54"
     },
     "4154830": {
-      "rank": 4207,
-      "estimate": "<7k",
+      "rank": 1467,
+      "estimate": "25k+",
       "name": "Immortal Wayfarer"
     },
     "4213030": {
-      "rank": 350,
-      "estimate": "80k+",
+      "rank": 1052,
+      "estimate": "25k+",
       "name": "Deadhikers"
+    },
+    "4259520": {
+      "rank": 9095,
+      "estimate": "<7k",
+      "name": "Hamster, Eat, Run"
+    },
+    "4272440": {
+      "rank": 3748,
+      "estimate": "<7k",
+      "name": "Pump Crew"
+    },
+    "4320620": {
+      "rank": 3489,
+      "estimate": "<7k",
+      "name": "Delegatory"
+    },
+    "4385210": {
+      "rank": 5704,
+      "estimate": "<7k",
+      "name": "CastleOn Scriptum"
+    },
+    "4399310": {
+      "rank": 5767,
+      "estimate": "<7k",
+      "name": "5 Blocks of Happiness"
+    },
+    "4411580": {
+      "rank": 4389,
+      "estimate": "<7k",
+      "name": "Geareo"
+    },
+    "4461730": {
+      "rank": 3466,
+      "estimate": "<7k",
+      "name": "Project Looking Glass"
+    },
+    "4538520": {
+      "rank": 6088,
+      "estimate": "<7k",
+      "name": "Shape Sift"
+    },
+    "4540310": {
+      "rank": 5054,
+      "estimate": "<7k",
+      "name": "Bus Terminal Simulator"
+    },
+    "4617210": {
+      "rank": 3109,
+      "estimate": "<7k",
+      "name": "I Am Hercules"
+    },
+    "4679180": {
+      "rank": 8379,
+      "estimate": "<7k",
+      "name": "The Abyss Below"
+    },
+    "4683710": {
+      "rank": 4666,
+      "estimate": "<7k",
+      "name": "空匣子 Empty Box"
     }
   }
 }

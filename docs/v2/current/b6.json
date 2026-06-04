@@ -1,83 +1,188 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 36,
   "entries": {
     "1171980": {
-      "rank": 717,
-      "estimate": "40k+",
+      "rank": 4580,
+      "estimate": "<7k",
       "name": "Neverlooted Dungeon"
     },
     "1181550": {
-      "rank": 181,
-      "estimate": "200k+",
+      "rank": 1218,
+      "estimate": "25k+",
       "name": "Carnival Hunt"
     },
     "1313230": {
-      "rank": 42,
-      "estimate": "600k+",
+      "rank": 296,
+      "estimate": "80k+",
       "name": "Beautiful Light"
     },
+    "1372190": {
+      "rank": 8766,
+      "estimate": "<7k",
+      "name": "Focus Train: Lofi Journey"
+    },
     "1609270": {
-      "rank": 2082,
-      "estimate": "7k+",
+      "rank": 5397,
+      "estimate": "<7k",
       "name": "Touhou Koi-Mystery: Legend and Fantasy of Monsters"
     },
     "1730790": {
-      "rank": 1511,
-      "estimate": "15k+",
+      "rank": 4491,
+      "estimate": "<7k",
       "name": "A Sister's Journey"
     },
     "2067820": {
-      "rank": 589,
-      "estimate": "40k+",
+      "rank": 2055,
+      "estimate": "7k+",
       "name": "RetroSpace"
     },
     "2528170": {
-      "rank": 1399,
-      "estimate": "25k+",
+      "rank": 2194,
+      "estimate": "7k+",
       "name": "The Hearth and Harbour"
     },
     "2582310": {
-      "rank": 3653,
+      "rank": 6021,
       "estimate": "<7k",
       "name": "MetroSim - The Subway Simulator"
     },
+    "2729830": {
+      "rank": 2063,
+      "estimate": "7k+",
+      "name": "Pumpkin Woods"
+    },
+    "2784170": {
+      "rank": 7376,
+      "estimate": "<7k",
+      "name": "Poof!"
+    },
+    "2789520": {
+      "rank": 6205,
+      "estimate": "<7k",
+      "name": "Welcome to Chirpvenience"
+    },
     "2886300": {
-      "rank": 3799,
+      "rank": 7566,
       "estimate": "<7k",
       "name": "Gunny Ascend"
     },
     "3260040": {
-      "rank": 1893,
-      "estimate": "15k+",
+      "rank": 6478,
+      "estimate": "<7k",
       "name": "Cold Abyss"
     },
+    "3275060": {
+      "rank": 9107,
+      "estimate": "<7k",
+      "name": "Blackstar Ranger"
+    },
+    "3316150": {
+      "rank": 8408,
+      "estimate": "<7k",
+      "name": "the doll museum"
+    },
+    "3361620": {
+      "rank": 7860,
+      "estimate": "<7k",
+      "name": "Motorcycle Sales Simulator"
+    },
     "3367950": {
-      "rank": 4286,
+      "rank": 3350,
       "estimate": "<7k",
       "name": "Five More Minutes"
     },
+    "3376930": {
+      "rank": 6434,
+      "estimate": "<7k",
+      "name": "ROGUE PROTOCOL"
+    },
     "3498720": {
-      "rank": 744,
-      "estimate": "40k+",
+      "rank": 214,
+      "estimate": "80k+",
       "name": "Rain98"
     },
+    "3555210": {
+      "rank": 9311,
+      "estimate": "<7k",
+      "name": "Beekeeper Simulator"
+    },
+    "3689210": {
+      "rank": 3213,
+      "estimate": "<7k",
+      "name": "HYPERFIST"
+    },
     "3695930": {
-      "rank": 1614,
-      "estimate": "15k+",
+      "rank": 1461,
+      "estimate": "25k+",
       "name": "Penguin Colony"
     },
+    "3842330": {
+      "rank": 8742,
+      "estimate": "<7k",
+      "name": "Dungeon Dreams Wanderers"
+    },
+    "3923570": {
+      "rank": 4314,
+      "estimate": "<7k",
+      "name": "Reliquiae"
+    },
     "3983860": {
-      "rank": 2859,
+      "rank": 2120,
       "estimate": "7k+",
       "name": "Nightwater"
     },
-    "4211340": {
-      "rank": 3739,
+    "3992310": {
+      "rank": 5532,
       "estimate": "<7k",
-      "name": "Biryado"
+      "name": "Cats and Seek: Zoo"
+    },
+    "4014330": {
+      "rank": 6065,
+      "estimate": "<7k",
+      "name": "100 Laboratory Cats"
+    },
+    "4020690": {
+      "rank": 5077,
+      "estimate": "<7k",
+      "name": "FERAL BLOOD DOLL"
+    },
+    "4211810": {
+      "rank": 7016,
+      "estimate": "<7k",
+      "name": "Valkyrie Tune: Synthesis of Souls"
+    },
+    "4303410": {
+      "rank": 3197,
+      "estimate": "<7k",
+      "name": "You're Gonna Be Famous!"
+    },
+    "4337080": {
+      "rank": 7237,
+      "estimate": "<7k",
+      "name": "Draconite"
+    },
+    "4386170": {
+      "rank": 4940,
+      "estimate": "<7k",
+      "name": "Zenith Expanse"
+    },
+    "4422920": {
+      "rank": 8202,
+      "estimate": "<7k",
+      "name": "Divooka™ Explore"
+    },
+    "4494730": {
+      "rank": 2734,
+      "estimate": "7k+",
+      "name": "DEATH CASINO"
+    },
+    "4725890": {
+      "rank": 4838,
+      "estimate": "<7k",
+      "name": "永眠之匣，雪上之樱"
     }
   }
 }

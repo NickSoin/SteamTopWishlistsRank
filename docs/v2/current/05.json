@@ -1,103 +1,168 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 32,
   "entries": {
     "971700": {
-      "rank": 1078,
-      "estimate": "25k+",
+      "rank": 3752,
+      "estimate": "<7k",
       "name": "ALARA Prime"
     },
-    "1103610": {
-      "rank": 2540,
-      "estimate": "7k+",
-      "name": "Sailor Simulator"
-    },
     "1705720": {
-      "rank": 1522,
-      "estimate": "15k+",
+      "rank": 6200,
+      "estimate": "<7k",
       "name": "Aftermath"
     },
     "1996090": {
-      "rank": 972,
-      "estimate": "40k+",
+      "rank": 1488,
+      "estimate": "25k+",
       "name": "Vapor World: Over The Mind"
     },
     "2075800": {
-      "rank": 81,
-      "estimate": "300k+",
+      "rank": 192,
+      "estimate": "200k+",
       "name": "STAR WARS Zero Company™"
     },
-    "2078410": {
-      "rank": 4440,
-      "estimate": "<7k",
-      "name": "Space Trucker"
-    },
     "2090210": {
-      "rank": 93,
-      "estimate": "300k+",
+      "rank": 177,
+      "estimate": "200k+",
       "name": "Threads of Time"
     },
-    "2133500": {
-      "rank": 4192,
+    "2710530": {
+      "rank": 8531,
       "estimate": "<7k",
-      "name": "Keep Those Bugs Away From the Bomb"
-    },
-    "2658740": {
-      "rank": 4431,
-      "estimate": "<7k",
-      "name": "Island of Mine"
-    },
-    "2809120": {
-      "rank": 3790,
-      "estimate": "<7k",
-      "name": "Red Snow"
+      "name": "Rug Cleaning Simulator"
     },
     "3081510": {
-      "rank": 419,
+      "rank": 295,
       "estimate": "80k+",
       "name": "Gang of Frogs"
     },
-    "3100420": {
-      "rank": 4086,
+    "3137840": {
+      "rank": 9730,
       "estimate": "<7k",
-      "name": "The Fractured Shimmer"
+      "name": "Fishing Valley"
     },
     "3144060": {
-      "rank": 2304,
-      "estimate": "7k+",
+      "rank": 8016,
+      "estimate": "<7k",
       "name": "World of the dead"
     },
+    "3224540": {
+      "rank": 1896,
+      "estimate": "15k+",
+      "name": "VOIDFACE"
+    },
+    "3443480": {
+      "rank": 7924,
+      "estimate": "<7k",
+      "name": "蛊真人 GU ZHEN REN Reverend Insanity"
+    },
     "3595710": {
-      "rank": 3009,
+      "rank": 6935,
       "estimate": "<7k",
       "name": "SCOPECREEP"
     },
     "3603020": {
-      "rank": 4370,
+      "rank": 6366,
       "estimate": "<7k",
       "name": "Auto Legends"
     },
+    "3827330": {
+      "rank": 8211,
+      "estimate": "<7k",
+      "name": "GameShop Simulator"
+    },
     "3839250": {
-      "rank": 4386,
+      "rank": 4112,
       "estimate": "<7k",
       "name": "Soulforge Lost Path"
     },
+    "3839500": {
+      "rank": 3113,
+      "estimate": "<7k",
+      "name": "Cliff Kingdom"
+    },
+    "3844290": {
+      "rank": 5590,
+      "estimate": "<7k",
+      "name": "Twin Soul"
+    },
+    "4011130": {
+      "rank": 6693,
+      "estimate": "<7k",
+      "name": "Ants Megapolis"
+    },
+    "4012290": {
+      "rank": 7651,
+      "estimate": "<7k",
+      "name": "Reality Break - Ship Types"
+    },
+    "4210140": {
+      "rank": 3060,
+      "estimate": "<7k",
+      "name": "Brofish: Fishing Autobattler"
+    },
+    "4221320": {
+      "rank": 8039,
+      "estimate": "<7k",
+      "name": "Bird Wars"
+    },
+    "4261030": {
+      "rank": 3673,
+      "estimate": "<7k",
+      "name": "Orb Breaker"
+    },
     "4349170": {
-      "rank": 2868,
-      "estimate": "7k+",
+      "rank": 3729,
+      "estimate": "<7k",
       "name": "Virus Lab"
     },
-    "4514310": {
-      "rank": 3006,
+    "4371450": {
+      "rank": 3686,
       "estimate": "<7k",
+      "name": "Arctic Shift: Fuel Station"
+    },
+    "4491390": {
+      "rank": 6194,
+      "estimate": "<7k",
+      "name": "Miliarium"
+    },
+    "4514310": {
+      "rank": 2531,
+      "estimate": "7k+",
       "name": "MOOSA: Dirty Fate"
     },
-    "4623300": {
-      "rank": 1113,
+    "4601120": {
+      "rank": 1265,
       "estimate": "25k+",
+      "name": "Endless Rails"
+    },
+    "4623300": {
+      "rank": 259,
+      "estimate": "80k+",
       "name": "Open Waters"
+    },
+    "4642770": {
+      "rank": 6441,
+      "estimate": "<7k",
+      "name": "Rock Diver"
+    },
+    "4664820": {
+      "rank": 3878,
+      "estimate": "<7k",
+      "name": "Dead Awake"
+    },
+    "4681270": {
+      "rank": 8922,
+      "estimate": "<7k",
+      "name": "Pitch & Pixel"
+    },
+    "4706900": {
+      "rank": 9273,
+      "estimate": "<7k",
+      "name": "Clankerfront"
     }
   }
 }

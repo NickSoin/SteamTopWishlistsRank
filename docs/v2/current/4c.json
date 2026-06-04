@@ -1,128 +1,228 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 44,
   "entries": {
+    "672660": {
+      "rank": 6184,
+      "estimate": "<7k",
+      "name": "Army Ops"
+    },
     "1163350": {
-      "rank": 1254,
-      "estimate": "25k+",
+      "rank": 9014,
+      "estimate": "<7k",
       "name": "Property Tycoon"
     },
     "1596350": {
-      "rank": 2258,
-      "estimate": "7k+",
+      "rank": 6834,
+      "estimate": "<7k",
       "name": "Spiritlink Tactics"
     },
-    "1625630": {
-      "rank": 3897,
-      "estimate": "<7k",
-      "name": "AB AETERNO"
-    },
-    "1639510": {
-      "rank": 2272,
-      "estimate": "7k+",
-      "name": "Primal Dominion: Aftermath"
-    },
     "1675680": {
-      "rank": 324,
-      "estimate": "80k+",
+      "rank": 2705,
+      "estimate": "7k+",
       "name": "INSTINCTION"
     },
     "2294530": {
-      "rank": 4452,
+      "rank": 3424,
       "estimate": "<7k",
       "name": "幻夜图书馆 - Library of Phantom Night"
     },
     "2323140": {
-      "rank": 3406,
-      "estimate": "<7k",
+      "rank": 2992,
+      "estimate": "7k+",
       "name": "Ringash"
     },
     "2373130": {
-      "rank": 3575,
+      "rank": 7543,
       "estimate": "<7k",
       "name": "Dungeons of Edera 2"
     },
     "2404960": {
-      "rank": 2100,
-      "estimate": "7k+",
+      "rank": 9648,
+      "estimate": "<7k",
       "name": "Paranormal Records"
     },
     "2454600": {
-      "rank": 1907,
-      "estimate": "15k+",
+      "rank": 3667,
+      "estimate": "<7k",
       "name": "Ironsand"
     },
     "2484890": {
-      "rank": 4163,
-      "estimate": "<7k",
+      "rank": 2337,
+      "estimate": "7k+",
       "name": "Deeper Still"
     },
     "2629170": {
-      "rank": 2649,
-      "estimate": "7k+",
+      "rank": 8523,
+      "estimate": "<7k",
       "name": "FreeJack Online"
     },
-    "2828650": {
-      "rank": 3670,
+    "2854200": {
+      "rank": 5433,
       "estimate": "<7k",
-      "name": "The Oversight Bureau"
+      "name": "Own Time Own Target"
+    },
+    "3027430": {
+      "rank": 9680,
+      "estimate": "<7k",
+      "name": "Sheep Lass: Quest Zero"
     },
     "3150620": {
-      "rank": 1734,
-      "estimate": "15k+",
+      "rank": 683,
+      "estimate": "40k+",
       "name": "SOVIET SPOOKY TALES: Green Eyes"
     },
     "3156330": {
-      "rank": 864,
-      "estimate": "40k+",
+      "rank": 1639,
+      "estimate": "15k+",
       "name": "Anomaly President"
     },
     "3168520": {
-      "rank": 1834,
-      "estimate": "15k+",
+      "rank": 2681,
+      "estimate": "7k+",
       "name": "BloomTale"
     },
+    "3192550": {
+      "rank": 6393,
+      "estimate": "<7k",
+      "name": "DEEPLANDERS"
+    },
+    "3205520": {
+      "rank": 3388,
+      "estimate": "<7k",
+      "name": "Kooeh: A Timeless Delight"
+    },
     "3232690": {
-      "rank": 3853,
+      "rank": 3601,
       "estimate": "<7k",
       "name": "Maid Cafe Simulator"
     },
     "3237240": {
-      "rank": 2782,
-      "estimate": "7k+",
+      "rank": 3067,
+      "estimate": "<7k",
       "name": "The Soul"
     },
     "3275400": {
-      "rank": 2369,
-      "estimate": "7k+",
+      "rank": 3253,
+      "estimate": "<7k",
       "name": "PATLABOR the Case Files"
     },
+    "3424930": {
+      "rank": 3572,
+      "estimate": "<7k",
+      "name": "Tome of the Damned"
+    },
+    "3442970": {
+      "rank": 8181,
+      "estimate": "<7k",
+      "name": "Barracks Simulator"
+    },
+    "3612160": {
+      "rank": 7523,
+      "estimate": "<7k",
+      "name": "Ashen Dungeon"
+    },
     "3699590": {
-      "rank": 840,
-      "estimate": "40k+",
+      "rank": 466,
+      "estimate": "80k+",
       "name": "Well Dweller"
     },
     "3708010": {
-      "rank": 292,
+      "rank": 487,
       "estimate": "80k+",
       "name": "Darkwood 2"
     },
     "3730310": {
-      "rank": 405,
-      "estimate": "80k+",
+      "rank": 2071,
+      "estimate": "7k+",
       "name": "Fractured Blooms"
     },
-    "3908940": {
-      "rank": 2284,
+    "3814270": {
+      "rank": 2386,
       "estimate": "7k+",
+      "name": "Froggy Brews"
+    },
+    "3908940": {
+      "rank": 3817,
+      "estimate": "<7k",
       "name": "Inferno Protocol"
     },
-    "4413210": {
-      "rank": 923,
+    "3919340": {
+      "rank": 7627,
+      "estimate": "<7k",
+      "name": "Eco Volunteer"
+    },
+    "3941680": {
+      "rank": 976,
       "estimate": "40k+",
+      "name": "BATARA: FATE UNBOUND"
+    },
+    "3947040": {
+      "rank": 3707,
+      "estimate": "<7k",
+      "name": "Pegfinity"
+    },
+    "4047400": {
+      "rank": 8299,
+      "estimate": "<7k",
+      "name": "企布斯大冒險"
+    },
+    "4111800": {
+      "rank": 7470,
+      "estimate": "<7k",
+      "name": "Cosmist"
+    },
+    "4179060": {
+      "rank": 8179,
+      "estimate": "<7k",
+      "name": "Microwave Simulator"
+    },
+    "4179990": {
+      "rank": 6187,
+      "estimate": "<7k",
+      "name": "Agromatic"
+    },
+    "4241440": {
+      "rank": 3675,
+      "estimate": "<7k",
+      "name": "Stellaris: Willpower"
+    },
+    "4288780": {
+      "rank": 7678,
+      "estimate": "<7k",
+      "name": "Morvex"
+    },
+    "4395460": {
+      "rank": 5099,
+      "estimate": "<7k",
+      "name": "Guns, Princess and Braves"
+    },
+    "4413210": {
+      "rank": 252,
+      "estimate": "80k+",
       "name": "Tachyon Flow"
+    },
+    "4426320": {
+      "rank": 3650,
+      "estimate": "<7k",
+      "name": "AikoMate"
+    },
+    "4560130": {
+      "rank": 8107,
+      "estimate": "<7k",
+      "name": "Still Warm"
+    },
+    "4614240": {
+      "rank": 8239,
+      "estimate": "<7k",
+      "name": "Fantasy Grounds - Dungeons & Dragons Ravenloft The Horrors Within"
+    },
+    "4782370": {
+      "rank": 5888,
+      "estimate": "<7k",
+      "name": "Millenium State: Path of Hegemony"
     }
   }
 }

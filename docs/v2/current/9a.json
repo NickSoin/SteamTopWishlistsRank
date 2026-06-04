@@ -1,152 +1,212 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 41,
   "entries": {
     "1255020": {
-      "rank": 4393,
+      "rank": 5344,
       "estimate": "<7k",
       "name": "An Elaborate History of Chess"
     },
     "1368140": {
-      "rank": 215,
-      "estimate": "80k+",
+      "rank": 18,
+      "estimate": "800k+",
       "name": "Corsair Cove"
     },
-    "1568520": {
-      "rank": 3940,
-      "estimate": "<7k",
-      "name": "Blue June"
-    },
     "1714510": {
-      "rank": 945,
-      "estimate": "40k+",
+      "rank": 1491,
+      "estimate": "25k+",
       "name": "Kusan: City of Wolves"
     },
-    "1847850": {
-      "rank": 3659,
-      "estimate": "<7k",
-      "name": "Myth Caller: The Nightmare Shaman"
-    },
     "2152830": {
-      "rank": 2098,
-      "estimate": "7k+",
+      "rank": 7351,
+      "estimate": "<7k",
       "name": "BadSmith"
     },
     "2168390": {
-      "rank": 235,
+      "rank": 479,
       "estimate": "80k+",
       "name": "Away Team"
     },
-    "2194090": {
-      "rank": 2885,
-      "estimate": "7k+",
-      "name": "Subspace Hunter Legacy"
-    },
-    "2275010": {
-      "rank": 3149,
-      "estimate": "<7k",
-      "name": "Ardent Wilds"
-    },
     "2339000": {
-      "rank": 3378,
-      "estimate": "<7k",
+      "rank": 2346,
+      "estimate": "7k+",
       "name": "Portabellows"
     },
     "2450350": {
-      "rank": 2201,
-      "estimate": "7k+",
+      "rank": 3322,
+      "estimate": "<7k",
       "name": "Fat Goblins"
     },
-    "2529960": {
-      "rank": 3836,
+    "2515480": {
+      "rank": 4503,
       "estimate": "<7k",
+      "name": "Frame of Mind - A game of thoughts."
+    },
+    "2529960": {
+      "rank": 2588,
+      "estimate": "7k+",
       "name": "Alpha Nomos"
     },
-    "2557020": {
-      "rank": 4570,
-      "estimate": "<7k",
-      "name": "Eon Rush"
-    },
     "2591710": {
-      "rank": 4508,
+      "rank": 3786,
       "estimate": "<7k",
       "name": "Pirates of the Caribbean: Tides of War"
     },
     "2600920": {
-      "rank": 822,
+      "rank": 721,
       "estimate": "40k+",
       "name": "When Sirens Fall Silent"
     },
+    "2779620": {
+      "rank": 4894,
+      "estimate": "<7k",
+      "name": "Adrian's Quest"
+    },
     "2841600": {
-      "rank": 2618,
-      "estimate": "7k+",
+      "rank": 5703,
+      "estimate": "<7k",
       "name": "The Vigilante Diaries"
     },
+    "2966330": {
+      "rank": 5577,
+      "estimate": "<7k",
+      "name": "Jordi & Oslo: The Lost Tail"
+    },
     "3115870": {
-      "rank": 548,
-      "estimate": "40k+",
+      "rank": 1279,
+      "estimate": "25k+",
       "name": "TrophyRC"
     },
+    "3278690": {
+      "rank": 7536,
+      "estimate": "<7k",
+      "name": "Gravy the gravedigger"
+    },
     "3337380": {
-      "rank": 466,
+      "rank": 272,
       "estimate": "80k+",
       "name": "Tabletop Tavern"
     },
+    "3345680": {
+      "rank": 9011,
+      "estimate": "<7k",
+      "name": "Re: Spin. Die. Repeat."
+    },
     "3546610": {
-      "rank": 1245,
-      "estimate": "25k+",
+      "rank": 2221,
+      "estimate": "7k+",
       "name": "Wielders of the Essence"
     },
+    "3639640": {
+      "rank": 2407,
+      "estimate": "7k+",
+      "name": "Resurface"
+    },
     "3689540": {
-      "rank": 1230,
-      "estimate": "25k+",
+      "rank": 1795,
+      "estimate": "15k+",
       "name": "KING's RAID"
     },
     "3743260": {
-      "rank": 2157,
-      "estimate": "7k+",
+      "rank": 1450,
+      "estimate": "25k+",
       "name": "Virtue and a Sledgehammer"
     },
-    "3936190": {
-      "rank": 2987,
+    "3824680": {
+      "rank": 2800,
       "estimate": "7k+",
+      "name": "Quantum Quartz"
+    },
+    "3936190": {
+      "rank": 3207,
+      "estimate": "<7k",
       "name": "Freshly Folded: Laundry Shop"
     },
     "3992440": {
-      "rank": 3561,
+      "rank": 3721,
       "estimate": "<7k",
       "name": "ExoTrain"
     },
+    "4060180": {
+      "rank": 8287,
+      "estimate": "<7k",
+      "name": "Backroom Collector"
+    },
     "4073320": {
-      "rank": 2190,
-      "estimate": "7k+",
+      "rank": 5168,
+      "estimate": "<7k",
       "name": "Funus: The Climb"
     },
+    "4131930": {
+      "rank": 5731,
+      "estimate": "<7k",
+      "name": "Silent Trip: Until We Meet"
+    },
     "4184400": {
-      "rank": 1968,
-      "estimate": "15k+",
+      "rank": 773,
+      "estimate": "40k+",
       "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
     },
     "4189120": {
-      "rank": 389,
+      "rank": 260,
       "estimate": "80k+",
       "name": "Debauchery & Magic"
     },
+    "4228230": {
+      "rank": 8663,
+      "estimate": "<7k",
+      "name": "General Chaos - MAJOR SNAFU"
+    },
     "4241420": {
-      "rank": 2708,
-      "estimate": "7k+",
+      "rank": 889,
+      "estimate": "40k+",
       "name": "Stellaris: Nomads"
     },
     "4258880": {
-      "rank": 1186,
-      "estimate": "25k+",
+      "rank": 112,
+      "estimate": "200k+",
       "name": "Basement To The Sky"
     },
-    "4699920": {
-      "rank": 4565,
+    "4344770": {
+      "rank": 5625,
       "estimate": "<7k",
+      "name": "Kuroba: Oghuz"
+    },
+    "4541890": {
+      "rank": 9865,
+      "estimate": "<7k",
+      "name": "Sneakin Femboy"
+    },
+    "4562930": {
+      "rank": 5069,
+      "estimate": "<7k",
+      "name": "侦探R和预言者J"
+    },
+    "4591910": {
+      "rank": 772,
+      "estimate": "40k+",
+      "name": "Star Junkers"
+    },
+    "4626650": {
+      "rank": 5176,
+      "estimate": "<7k",
+      "name": "Evil Maiden: The Noble Warrior and the Demon Armor"
+    },
+    "4672620": {
+      "rank": 9135,
+      "estimate": "<7k",
+      "name": "Fanos"
+    },
+    "4693650": {
+      "rank": 8453,
+      "estimate": "<7k",
+      "name": "Fish Companions"
+    },
+    "4699920": {
+      "rank": 541,
+      "estimate": "40k+",
       "name": "天平游戏1:抉择"
     }
   }

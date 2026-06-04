@@ -1,138 +1,228 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 44,
   "entries": {
-    "1033540": {
-      "rank": 2034,
-      "estimate": "7k+",
-      "name": "Arvita"
-    },
-    "1202340": {
-      "rank": 3236,
-      "estimate": "<7k",
-      "name": "Paparazzi Simulator"
-    },
     "1372780": {
-      "rank": 2663,
-      "estimate": "7k+",
+      "rank": 6979,
+      "estimate": "<7k",
       "name": "Quantum Paradox"
     },
     "1482470": {
-      "rank": 1083,
-      "estimate": "25k+",
+      "rank": 5973,
+      "estimate": "<7k",
       "name": "Pirates Republic"
     },
-    "1982510": {
-      "rank": 4316,
-      "estimate": "<7k",
-      "name": "大戦略SSB"
-    },
     "2111430": {
-      "rank": 2950,
-      "estimate": "7k+",
+      "rank": 8162,
+      "estimate": "<7k",
       "name": "Forgotten house"
     },
     "2231460": {
-      "rank": 1663,
-      "estimate": "15k+",
+      "rank": 5954,
+      "estimate": "<7k",
       "name": "Roman Sands RE:Build"
     },
     "2262020": {
-      "rank": 1317,
-      "estimate": "25k+",
+      "rank": 2794,
+      "estimate": "7k+",
       "name": "Exo Rally Championship"
     },
     "2295170": {
-      "rank": 136,
-      "estimate": "200k+",
+      "rank": 564,
+      "estimate": "40k+",
       "name": "Emberville"
     },
     "2403250": {
-      "rank": 3730,
+      "rank": 7872,
       "estimate": "<7k",
       "name": "Armor Attack"
     },
     "2430010": {
-      "rank": 3186,
-      "estimate": "<7k",
+      "rank": 1408,
+      "estimate": "25k+",
       "name": "Gennady"
     },
     "2561460": {
-      "rank": 827,
-      "estimate": "40k+",
+      "rank": 4604,
+      "estimate": "<7k",
       "name": "Burning Sword: Death Sun"
     },
     "2646170": {
-      "rank": 1410,
-      "estimate": "25k+",
+      "rank": 533,
+      "estimate": "40k+",
       "name": "My Arms Are Longer Now"
     },
     "2732480": {
-      "rank": 3180,
-      "estimate": "<7k",
+      "rank": 513,
+      "estimate": "40k+",
       "name": "Emery Hearts"
     },
     "2799050": {
-      "rank": 2628,
+      "rank": 2095,
       "estimate": "7k+",
       "name": "Mourning Tide"
     },
-    "3044610": {
-      "rank": 4034,
+    "2955180": {
+      "rank": 5733,
       "estimate": "<7k",
-      "name": "Avalon Crew"
+      "name": "Elfie"
+    },
+    "3013320": {
+      "rank": 4086,
+      "estimate": "<7k",
+      "name": "SONGBOY: Play Music"
+    },
+    "3151840": {
+      "rank": 6600,
+      "estimate": "<7k",
+      "name": "Umblight"
+    },
+    "3191170": {
+      "rank": 2615,
+      "estimate": "7k+",
+      "name": "Clover's Quadrants"
+    },
+    "3297850": {
+      "rank": 6845,
+      "estimate": "<7k",
+      "name": "Froggo's Adventure: Drifting Sky"
     },
     "3353800": {
-      "rank": 2268,
+      "rank": 2983,
       "estimate": "7k+",
       "name": "Golden Swirl"
     },
+    "3406890": {
+      "rank": 8041,
+      "estimate": "<7k",
+      "name": "Touhou: Divine Land -Majesty in Game-"
+    },
+    "3533170": {
+      "rank": 6787,
+      "estimate": "<7k",
+      "name": "Garuda Emblem"
+    },
+    "3713880": {
+      "rank": 1051,
+      "estimate": "25k+",
+      "name": "Lost Arsenal"
+    },
     "3751600": {
-      "rank": 3257,
+      "rank": 4071,
       "estimate": "<7k",
       "name": "Dunwich Horror"
     },
+    "3760370": {
+      "rank": 8195,
+      "estimate": "<7k",
+      "name": "Kick"
+    },
     "3789230": {
-      "rank": 1758,
-      "estimate": "15k+",
+      "rank": 2003,
+      "estimate": "7k+",
       "name": "Kalit"
     },
     "3804760": {
-      "rank": 1316,
-      "estimate": "25k+",
+      "rank": 417,
+      "estimate": "80k+",
       "name": "Feather's Edge"
     },
     "3850800": {
-      "rank": 3658,
-      "estimate": "<7k",
+      "rank": 1060,
+      "estimate": "25k+",
       "name": "WakuWaku Park"
     },
     "3857430": {
-      "rank": 1147,
-      "estimate": "25k+",
+      "rank": 645,
+      "estimate": "40k+",
       "name": "Interdimensional Vending Machine"
     },
+    "3990560": {
+      "rank": 6598,
+      "estimate": "<7k",
+      "name": "Wanted Shadows: Unchained"
+    },
     "3991970": {
-      "rank": 2860,
-      "estimate": "7k+",
+      "rank": 5380,
+      "estimate": "<7k",
       "name": "30 Days in Garage"
     },
     "4026510": {
-      "rank": 3160,
-      "estimate": "<7k",
+      "rank": 640,
+      "estimate": "40k+",
       "name": "Lucid Falls"
     },
+    "4055170": {
+      "rank": 8500,
+      "estimate": "<7k",
+      "name": "Cherry on Top"
+    },
+    "4065560": {
+      "rank": 3022,
+      "estimate": "<7k",
+      "name": "Sign of Silence: 99 Nights"
+    },
+    "4079550": {
+      "rank": 8560,
+      "estimate": "<7k",
+      "name": "Optico"
+    },
+    "4080200": {
+      "rank": 9104,
+      "estimate": "<7k",
+      "name": "Once Upon a Swagman"
+    },
     "4124920": {
-      "rank": 2554,
-      "estimate": "7k+",
+      "rank": 3024,
+      "estimate": "<7k",
       "name": "Some of You May Die"
     },
-    "4374530": {
-      "rank": 3576,
+    "4196110": {
+      "rank": 5665,
       "estimate": "<7k",
+      "name": "WOBBLY HEIST"
+    },
+    "4308560": {
+      "rank": 5646,
+      "estimate": "<7k",
+      "name": "Heritage"
+    },
+    "4374530": {
+      "rank": 315,
+      "estimate": "80k+",
       "name": "Keep It Up!"
+    },
+    "4568490": {
+      "rank": 6483,
+      "estimate": "<7k",
+      "name": "TurtleSkate"
+    },
+    "4599560": {
+      "rank": 1970,
+      "estimate": "15k+",
+      "name": "Torizon Telecom"
+    },
+    "4644400": {
+      "rank": 6012,
+      "estimate": "<7k",
+      "name": "Unstable Nuclear Reactor"
+    },
+    "4657750": {
+      "rank": 9352,
+      "estimate": "<7k",
+      "name": "Hardhats : Some Survival Required"
+    },
+    "4720690": {
+      "rank": 7332,
+      "estimate": "<7k",
+      "name": "Apology Video"
+    },
+    "4742940": {
+      "rank": 4530,
+      "estimate": "<7k",
+      "name": "The Stinky Adventures of DungDung"
     }
   }
 }

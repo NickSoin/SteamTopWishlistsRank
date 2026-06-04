@@ -1,107 +1,177 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 34,
   "entries": {
     "904510": {
-      "rank": 1224,
-      "estimate": "25k+",
+      "rank": 5182,
+      "estimate": "<7k",
       "name": "ARTIFICIAL"
     },
     "952100": {
-      "rank": 3595,
+      "rank": 8459,
       "estimate": "<7k",
       "name": "Bad Pixels"
     },
-    "1271440": {
-      "rank": 2574,
-      "estimate": "7k+",
-      "name": "HP Reverb G2"
-    },
-    "1418380": {
-      "rank": 3051,
-      "estimate": "<7k",
-      "name": "Forester Simulator"
-    },
     "1707680": {
-      "rank": 961,
-      "estimate": "40k+",
+      "rank": 2518,
+      "estimate": "7k+",
       "name": "Referee Simulator"
     },
     "1890780": {
-      "rank": 1621,
-      "estimate": "15k+",
+      "rank": 6544,
+      "estimate": "<7k",
       "name": "Szrot"
     },
     "2118890": {
-      "rank": 1458,
-      "estimate": "25k+",
+      "rank": 2362,
+      "estimate": "7k+",
       "name": "Backrooms VHS"
     },
     "2134720": {
-      "rank": 1445,
-      "estimate": "25k+",
+      "rank": 6024,
+      "estimate": "<7k",
       "name": "Stormbinders"
     },
     "2229910": {
-      "rank": 2001,
-      "estimate": "7k+",
+      "rank": 6340,
+      "estimate": "<7k",
       "name": "Demiurgos"
     },
     "2538870": {
-      "rank": 1501,
-      "estimate": "15k+",
+      "rank": 987,
+      "estimate": "40k+",
       "name": "False Hero"
     },
-    "3154150": {
-      "rank": 4616,
+    "2596030": {
+      "rank": 9043,
       "estimate": "<7k",
+      "name": "Titans Clinic"
+    },
+    "2596760": {
+      "rank": 7905,
+      "estimate": "<7k",
+      "name": "Inside"
+    },
+    "2950410": {
+      "rank": 5292,
+      "estimate": "<7k",
+      "name": "Gear Up Einstein!"
+    },
+    "3088400": {
+      "rank": 3139,
+      "estimate": "<7k",
+      "name": "Deadly Trick"
+    },
+    "3154150": {
+      "rank": 2584,
+      "estimate": "7k+",
       "name": "Spook-A-Boo"
     },
+    "3244370": {
+      "rank": 8333,
+      "estimate": "<7k",
+      "name": "Bounty Fusion"
+    },
     "3279330": {
-      "rank": 3198,
+      "rank": 3528,
       "estimate": "<7k",
       "name": "Home Wars: Battlefield"
     },
     "3398880": {
-      "rank": 2728,
-      "estimate": "7k+",
+      "rank": 7303,
+      "estimate": "<7k",
       "name": "Castle V Castle"
     },
     "3570350": {
-      "rank": 4184,
+      "rank": 3222,
       "estimate": "<7k",
       "name": "Silkgrove"
     },
     "3582320": {
-      "rank": 4309,
+      "rank": 5390,
       "estimate": "<7k",
       "name": "Inazuma Eleven Team Builder"
     },
+    "3606400": {
+      "rank": 4864,
+      "estimate": "<7k",
+      "name": "Dungeon Repeater"
+    },
     "3730680": {
-      "rank": 2161,
-      "estimate": "7k+",
+      "rank": 5771,
+      "estimate": "<7k",
       "name": "Table Tactics: physics-driven tabletop battles"
     },
     "3746560": {
-      "rank": 1287,
-      "estimate": "25k+",
+      "rank": 7306,
+      "estimate": "<7k",
       "name": "Ethernia"
     },
     "3798840": {
-      "rank": 2263,
+      "rank": 2232,
       "estimate": "7k+",
       "name": "Reytrieve Odyssey"
     },
+    "3949970": {
+      "rank": 7731,
+      "estimate": "<7k",
+      "name": "Gloom Punks"
+    },
+    "4051320": {
+      "rank": 9600,
+      "estimate": "<7k",
+      "name": "Cap 'n Barr's Adventure"
+    },
+    "4141230": {
+      "rank": 4876,
+      "estimate": "<7k",
+      "name": "Space Delivery"
+    },
+    "4233960": {
+      "rank": 805,
+      "estimate": "40k+",
+      "name": "Do Disciplinary Committee Members Dream of Succubi?"
+    },
+    "4329670": {
+      "rank": 7333,
+      "estimate": "<7k",
+      "name": "Loot Dungeon"
+    },
+    "4393370": {
+      "rank": 4877,
+      "estimate": "<7k",
+      "name": "The Only Droid"
+    },
+    "4489170": {
+      "rank": 7813,
+      "estimate": "<7k",
+      "name": "Idle Fishing at Crater Lake"
+    },
+    "4540130": {
+      "rank": 1769,
+      "estimate": "15k+",
+      "name": "KUNFU"
+    },
+    "4548480": {
+      "rank": 6927,
+      "estimate": "<7k",
+      "name": "25 Days in the DARK"
+    },
+    "4611300": {
+      "rank": 7080,
+      "estimate": "<7k",
+      "name": "AudioLabs"
+    },
     "4614080": {
-      "rank": 128,
-      "estimate": "200k+",
+      "rank": 65,
+      "estimate": "300k+",
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 656,
-      "estimate": "40k+",
+      "rank": 69,
+      "estimate": "300k+",
       "name": "Project Rabbit"
     }
   }

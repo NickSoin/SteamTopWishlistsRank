@@ -1,102 +1,202 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 39,
   "entries": {
     "993960": {
-      "rank": 1821,
-      "estimate": "15k+",
+      "rank": 4760,
+      "estimate": "<7k",
       "name": "The Faceless Double"
     },
-    "1321160": {
-      "rank": 3601,
-      "estimate": "<7k",
-      "name": "Wuppo: Breft Festival (Forever)"
-    },
     "1699050": {
-      "rank": 295,
-      "estimate": "80k+",
+      "rank": 1546,
+      "estimate": "15k+",
       "name": "Sanctuary: Shattered Sun"
     },
     "1834220": {
-      "rank": 1398,
-      "estimate": "25k+",
+      "rank": 3704,
+      "estimate": "<7k",
       "name": "Rooster"
     },
     "1879270": {
-      "rank": 4361,
-      "estimate": "<7k",
+      "rank": 1843,
+      "estimate": "15k+",
       "name": "Into the Crypt"
     },
     "1931040": {
-      "rank": 1087,
-      "estimate": "25k+",
+      "rank": 5994,
+      "estimate": "<7k",
       "name": "Dreamsettler"
     },
     "2003070": {
-      "rank": 2692,
-      "estimate": "7k+",
+      "rank": 5497,
+      "estimate": "<7k",
       "name": "Orc Warchief: Prologue"
     },
     "2154420": {
-      "rank": 1265,
-      "estimate": "25k+",
+      "rank": 4873,
+      "estimate": "<7k",
       "name": "Never Alone 2"
     },
     "2572060": {
-      "rank": 4484,
-      "estimate": "<7k",
+      "rank": 1116,
+      "estimate": "25k+",
       "name": "Pixel Washer"
     },
     "2749950": {
-      "rank": 468,
+      "rank": 438,
       "estimate": "80k+",
       "name": "Esports Manager 2026"
     },
+    "3151130": {
+      "rank": 7248,
+      "estimate": "<7k",
+      "name": "After the end"
+    },
+    "3199080": {
+      "rank": 2401,
+      "estimate": "7k+",
+      "name": "HellPunk: Purgatorium"
+    },
     "3251540": {
-      "rank": 1044,
-      "estimate": "25k+",
+      "rank": 2150,
+      "estimate": "7k+",
       "name": "Oil Rig Simulator"
     },
+    "3312670": {
+      "rank": 7152,
+      "estimate": "<7k",
+      "name": "Seasons of Solitude"
+    },
     "3438910": {
-      "rank": 2975,
+      "rank": 2787,
       "estimate": "7k+",
       "name": "Project RR"
     },
+    "3483260": {
+      "rank": 7419,
+      "estimate": "<7k",
+      "name": "HEMOHOUND"
+    },
     "3501540": {
-      "rank": 2243,
-      "estimate": "7k+",
+      "rank": 1770,
+      "estimate": "15k+",
       "name": "Spiritstead"
     },
     "3594090": {
-      "rank": 4140,
+      "rank": 5112,
       "estimate": "<7k",
       "name": "The Great Wastes"
     },
     "3673500": {
-      "rank": 2040,
-      "estimate": "7k+",
+      "rank": 457,
+      "estimate": "80k+",
       "name": "BACKROOMS"
     },
+    "3675340": {
+      "rank": 2516,
+      "estimate": "7k+",
+      "name": "Killing Things With Your Friends"
+    },
+    "3694550": {
+      "rank": 7950,
+      "estimate": "<7k",
+      "name": "Kholin Echo"
+    },
     "3718500": {
-      "rank": 1711,
-      "estimate": "15k+",
+      "rank": 2964,
+      "estimate": "7k+",
       "name": "The Bagman"
     },
+    "3739350": {
+      "rank": 9752,
+      "estimate": "<7k",
+      "name": "Path of the Yaoguai"
+    },
+    "3830590": {
+      "rank": 3979,
+      "estimate": "<7k",
+      "name": "Stealing Them Softly"
+    },
+    "3900280": {
+      "rank": 5039,
+      "estimate": "<7k",
+      "name": "Date A Catboy"
+    },
     "3942260": {
-      "rank": 232,
-      "estimate": "80k+",
+      "rank": 24,
+      "estimate": "600k+",
       "name": "KingFish"
     },
-    "4199960": {
-      "rank": 3661,
+    "3952540": {
+      "rank": 7518,
       "estimate": "<7k",
+      "name": "Birdseed"
+    },
+    "3976520": {
+      "rank": 8705,
+      "estimate": "<7k",
+      "name": "Meme Wars"
+    },
+    "3992580": {
+      "rank": 3720,
+      "estimate": "<7k",
+      "name": "7 Nights with Vroombi"
+    },
+    "4120490": {
+      "rank": 9328,
+      "estimate": "<7k",
+      "name": "Coastline Courier"
+    },
+    "4172750": {
+      "rank": 4714,
+      "estimate": "<7k",
+      "name": "4DEAD"
+    },
+    "4199960": {
+      "rank": 811,
+      "estimate": "40k+",
       "name": "The Jackbox Party Pack 12"
     },
-    "4704920": {
-      "rank": 2344,
+    "4338750": {
+      "rank": 2316,
       "estimate": "7k+",
+      "name": "Stack Order"
+    },
+    "4426280": {
+      "rank": 7483,
+      "estimate": "<7k",
+      "name": "Echoes of Sin: Confusion"
+    },
+    "4595230": {
+      "rank": 5286,
+      "estimate": "<7k",
+      "name": "Headpat Special Taskforce"
+    },
+    "4616160": {
+      "rank": 6642,
+      "estimate": "<7k",
+      "name": "Vellar"
+    },
+    "4634560": {
+      "rank": 4340,
+      "estimate": "<7k",
+      "name": "Carpet Cleaning Simulator"
+    },
+    "4644480": {
+      "rank": 9259,
+      "estimate": "<7k",
+      "name": "Dungeonery"
+    },
+    "4701040": {
+      "rank": 5533,
+      "estimate": "<7k",
+      "name": "Arms Dealer Simulator"
+    },
+    "4704920": {
+      "rank": 226,
+      "estimate": "80k+",
       "name": "Prison Pocket Patrol"
     }
   }

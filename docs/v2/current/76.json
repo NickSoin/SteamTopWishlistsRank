@@ -1,68 +1,128 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 24,
   "entries": {
-    "1167110": {
-      "rank": 1987,
-      "estimate": "15k+",
-      "name": "Rubi: The Wayward Mira"
-    },
-    "1545510": {
-      "rank": 2535,
-      "estimate": "7k+",
-      "name": "Camping Builder"
-    },
-    "2197370": {
-      "rank": 3980,
+    "411090": {
+      "rank": 6219,
       "estimate": "<7k",
-      "name": "Reversed Front"
+      "name": "Witness the Dark - Episode 1 - Bloody Burger"
     },
-    "2241660": {
-      "rank": 3053,
+    "1215020": {
+      "rank": 9790,
       "estimate": "<7k",
-      "name": "SESSIONS"
+      "name": "Free Agency"
     },
     "2359600": {
-      "rank": 172,
-      "estimate": "200k+",
+      "rank": 2988,
+      "estimate": "7k+",
       "name": "Perfect New World"
     },
     "2978690": {
-      "rank": 2647,
+      "rank": 2801,
       "estimate": "7k+",
       "name": "Poolrooms"
     },
+    "3020330": {
+      "rank": 9974,
+      "estimate": "<7k",
+      "name": "iPanzer 44"
+    },
+    "3258810": {
+      "rank": 6285,
+      "estimate": "<7k",
+      "name": "Celestial of Dolls"
+    },
     "3276270": {
-      "rank": 1384,
-      "estimate": "25k+",
+      "rank": 3073,
+      "estimate": "<7k",
       "name": "Fallen Fates"
     },
     "3432980": {
-      "rank": 1494,
-      "estimate": "25k+",
+      "rank": 8378,
+      "estimate": "<7k",
       "name": "Ballistic.exe"
     },
+    "3440130": {
+      "rank": 7226,
+      "estimate": "<7k",
+      "name": "Songs of the Shore"
+    },
     "3517740": {
-      "rank": 84,
-      "estimate": "300k+",
+      "rank": 304,
+      "estimate": "80k+",
       "name": "Frostrail"
     },
+    "3651840": {
+      "rank": 1811,
+      "estimate": "15k+",
+      "name": "Socialiskigrad"
+    },
+    "3747880": {
+      "rank": 4388,
+      "estimate": "<7k",
+      "name": "Void : EMMA | 空：艾玛"
+    },
+    "4038790": {
+      "rank": 8255,
+      "estimate": "<7k",
+      "name": "404 Survivor"
+    },
+    "4113790": {
+      "rank": 3195,
+      "estimate": "<7k",
+      "name": "Floral Flowlove"
+    },
     "4119600": {
-      "rank": 3554,
+      "rank": 4782,
       "estimate": "<7k",
       "name": "UK Politics Simulator"
     },
+    "4139530": {
+      "rank": 4983,
+      "estimate": "<7k",
+      "name": "Frank and Stein"
+    },
+    "4174810": {
+      "rank": 6291,
+      "estimate": "<7k",
+      "name": "PREHISTORIA"
+    },
+    "4245590": {
+      "rank": 2792,
+      "estimate": "7k+",
+      "name": "Cupid Parasite"
+    },
     "4337710": {
-      "rank": 1982,
-      "estimate": "15k+",
+      "rank": 2683,
+      "estimate": "7k+",
       "name": "The Abased"
     },
-    "4681770": {
-      "rank": 4002,
+    "4514650": {
+      "rank": 6179,
       "estimate": "<7k",
+      "name": "Jewels of the Wild West: Match 3 to Build Your City"
+    },
+    "4551680": {
+      "rank": 5470,
+      "estimate": "<7k",
+      "name": "Bounced: Not Tonight"
+    },
+    "4658880": {
+      "rank": 5552,
+      "estimate": "<7k",
+      "name": "夏のしっぽをおいかけて"
+    },
+    "4681770": {
+      "rank": 439,
+      "estimate": "80k+",
       "name": "Everfront"
+    },
+    "4703560": {
+      "rank": 6466,
+      "estimate": "<7k",
+      "name": "Soviet Backrooms"
     }
   }
 }

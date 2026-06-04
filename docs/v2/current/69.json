@@ -1,63 +1,143 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 11,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 27,
   "entries": {
-    "1217180": {
-      "rank": 2869,
-      "estimate": "7k+",
-      "name": "Fantamon"
-    },
-    "1434840": {
-      "rank": 2947,
-      "estimate": "7k+",
-      "name": "Dungeons & Kingdoms: Prologue"
+    "965190": {
+      "rank": 3331,
+      "estimate": "<7k",
+      "name": "Night Rolls Cozy Store"
     },
     "1558030": {
-      "rank": 2078,
-      "estimate": "7k+",
+      "rank": 6330,
+      "estimate": "<7k",
       "name": "Tales of Anturia: Farathan"
     },
-    "1879300": {
-      "rank": 4318,
-      "estimate": "<7k",
-      "name": "简单修仙模拟"
-    },
     "2251170": {
-      "rank": 678,
-      "estimate": "40k+",
+      "rank": 1362,
+      "estimate": "25k+",
       "name": "ZWAARD"
     },
     "2261560": {
-      "rank": 604,
-      "estimate": "40k+",
+      "rank": 4922,
+      "estimate": "<7k",
       "name": "We The People"
     },
-    "2535850": {
-      "rank": 3144,
+    "2365750": {
+      "rank": 5802,
       "estimate": "<7k",
-      "name": "ADA: Tainted Soil"
+      "name": "Lurkers"
     },
     "2545390": {
-      "rank": 3801,
+      "rank": 6822,
       "estimate": "<7k",
       "name": "FrostFire -Battle Frenzy-"
     },
+    "2585480": {
+      "rank": 7533,
+      "estimate": "<7k",
+      "name": "Space Station Multiverse"
+    },
     "2752020": {
-      "rank": 1355,
-      "estimate": "25k+",
+      "rank": 7610,
+      "estimate": "<7k",
       "name": "Lair of the Leviathan"
     },
+    "2963350": {
+      "rank": 7411,
+      "estimate": "<7k",
+      "name": "Streamers Cleaning Simulator"
+    },
     "2982540": {
-      "rank": 4378,
+      "rank": 8637,
       "estimate": "<7k",
       "name": "EMPTY SHELL: THE LOOP"
     },
-    "4239660": {
-      "rank": 4597,
+    "3214330": {
+      "rank": 7002,
       "estimate": "<7k",
+      "name": "Valkyrie Rising: Hordes of Ragnarök"
+    },
+    "3702590": {
+      "rank": 5259,
+      "estimate": "<7k",
+      "name": "Desktop Akari ~my cute companion~"
+    },
+    "3724820": {
+      "rank": 8699,
+      "estimate": "<7k",
+      "name": "DATA BREACH"
+    },
+    "3987230": {
+      "rank": 2775,
+      "estimate": "7k+",
+      "name": "Mining and Dwarves"
+    },
+    "4104070": {
+      "rank": 1213,
+      "estimate": "25k+",
+      "name": "Devlog: A Post-Modern College Experience"
+    },
+    "4226930": {
+      "rank": 6779,
+      "estimate": "<7k",
+      "name": "Home Share"
+    },
+    "4239660": {
+      "rank": 2239,
+      "estimate": "7k+",
       "name": "Splash Divers"
+    },
+    "4259990": {
+      "rank": 8651,
+      "estimate": "<7k",
+      "name": "Corner King: Boxing Tycoon"
+    },
+    "4272100": {
+      "rank": 3589,
+      "estimate": "<7k",
+      "name": "Grass"
+    },
+    "4404110": {
+      "rank": 4944,
+      "estimate": "<7k",
+      "name": "Goblins Can Conquer"
+    },
+    "4508290": {
+      "rank": 3091,
+      "estimate": "<7k",
+      "name": "Lucky Punk: a push your luck Deckbuilder"
+    },
+    "4573410": {
+      "rank": 3503,
+      "estimate": "<7k",
+      "name": "Apple Picker"
+    },
+    "4600620": {
+      "rank": 6042,
+      "estimate": "<7k",
+      "name": "Twinkle Seek"
+    },
+    "4638520": {
+      "rank": 4037,
+      "estimate": "<7k",
+      "name": "THE OMEGA REACH"
+    },
+    "4683070": {
+      "rank": 5936,
+      "estimate": "<7k",
+      "name": "你予我的羽翼和星辰 -Your Astrum, My Alae-"
+    },
+    "4689230": {
+      "rank": 8764,
+      "estimate": "<7k",
+      "name": "Market Manager Simulator"
+    },
+    "4689960": {
+      "rank": 8189,
+      "estimate": "<7k",
+      "name": "CarSim Racing"
     }
   }
 }

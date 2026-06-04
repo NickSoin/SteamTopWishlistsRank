@@ -1,93 +1,253 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 49,
   "entries": {
     "669270": {
-      "rank": 959,
-      "estimate": "40k+",
+      "rank": 2670,
+      "estimate": "7k+",
       "name": "Momentum Mod"
     },
     "1153750": {
-      "rank": 3908,
+      "rank": 7077,
       "estimate": "<7k",
       "name": "Food Industry"
     },
-    "1313110": {
-      "rank": 4256,
-      "estimate": "<7k",
-      "name": "Sky Beneath"
-    },
     "1356250": {
-      "rank": 1420,
-      "estimate": "25k+",
+      "rank": 6098,
+      "estimate": "<7k",
       "name": "Airport Renovator"
     },
     "1568550": {
-      "rank": 1974,
-      "estimate": "15k+",
+      "rank": 4026,
+      "estimate": "<7k",
       "name": "FIRST"
     },
-    "2219390": {
-      "rank": 2010,
+    "1944880": {
+      "rank": 2520,
       "estimate": "7k+",
+      "name": "Drop Command"
+    },
+    "2136420": {
+      "rank": 5971,
+      "estimate": "<7k",
+      "name": "FIRE The First Dreamer"
+    },
+    "2219390": {
+      "rank": 6172,
+      "estimate": "<7k",
       "name": "Imperial Ambitions"
     },
+    "2259400": {
+      "rank": 7375,
+      "estimate": "<7k",
+      "name": "Oathbound: Arena"
+    },
     "2470010": {
-      "rank": 180,
-      "estimate": "200k+",
+      "rank": 694,
+      "estimate": "40k+",
       "name": "DEFECT"
     },
-    "2723370": {
-      "rank": 3229,
+    "2604820": {
+      "rank": 5592,
       "estimate": "<7k",
-      "name": "Voiceless"
+      "name": "Airport Contraband Police"
     },
     "2879790": {
-      "rank": 4158,
+      "rank": 3841,
       "estimate": "<7k",
       "name": "Son of Thanjai"
     },
+    "2934480": {
+      "rank": 3340,
+      "estimate": "<7k",
+      "name": "Zombie Tower Survivor"
+    },
     "3051160": {
-      "rank": 478,
-      "estimate": "80k+",
+      "rank": 2297,
+      "estimate": "7k+",
       "name": "Black State"
     },
-    "3164260": {
-      "rank": 1937,
-      "estimate": "15k+",
-      "name": "GORECORE"
+    "3275410": {
+      "rank": 7414,
+      "estimate": "<7k",
+      "name": "Puppetsite"
+    },
+    "3304800": {
+      "rank": 8806,
+      "estimate": "<7k",
+      "name": "F20 Eclipse"
+    },
+    "3397260": {
+      "rank": 6346,
+      "estimate": "<7k",
+      "name": "Liminal City: Axiom of Maria - Chapter One"
     },
     "3464670": {
-      "rank": 878,
-      "estimate": "40k+",
+      "rank": 1029,
+      "estimate": "25k+",
       "name": "Dead Watch"
     },
     "3474240": {
-      "rank": 4466,
+      "rank": 3038,
       "estimate": "<7k",
       "name": "Dracula: The Disciple"
     },
     "3516100": {
-      "rank": 119,
-      "estimate": "200k+",
+      "rank": 520,
+      "estimate": "40k+",
       "name": "Tenebyss"
     },
+    "3569850": {
+      "rank": 8479,
+      "estimate": "<7k",
+      "name": "TCG Banlist Simulator"
+    },
+    "3669020": {
+      "rank": 9489,
+      "estimate": "<7k",
+      "name": "Tiny Monster Haven"
+    },
+    "3681800": {
+      "rank": 9350,
+      "estimate": "<7k",
+      "name": "水浒：豪杰风云传"
+    },
+    "3829310": {
+      "rank": 3858,
+      "estimate": "<7k",
+      "name": "Sublight"
+    },
     "3919400": {
-      "rank": 2333,
-      "estimate": "7k+",
+      "rank": 3393,
+      "estimate": "<7k",
       "name": "黄莓C HuangmeiC"
     },
-    "4156370": {
-      "rank": 4311,
+    "3956980": {
+      "rank": 6681,
       "estimate": "<7k",
+      "name": "Apidya' Special"
+    },
+    "3972410": {
+      "rank": 3078,
+      "estimate": "<7k",
+      "name": "Black Cat Book Club"
+    },
+    "4131940": {
+      "rank": 5101,
+      "estimate": "<7k",
+      "name": "Shattered Chess"
+    },
+    "4156370": {
+      "rank": 1798,
+      "estimate": "15k+",
       "name": "Antivirus Girl"
     },
-    "4661070": {
-      "rank": 1440,
+    "4158480": {
+      "rank": 8056,
+      "estimate": "<7k",
+      "name": "Pizza Agent"
+    },
+    "4164810": {
+      "rank": 5567,
+      "estimate": "<7k",
+      "name": "谍：玫瑰"
+    },
+    "4227270": {
+      "rank": 3100,
+      "estimate": "<7k",
+      "name": "Litany"
+    },
+    "4241450": {
+      "rank": 5047,
+      "estimate": "<7k",
+      "name": "Stellaris: Scenario Pack 1"
+    },
+    "4270740": {
+      "rank": 2951,
+      "estimate": "7k+",
+      "name": "Island Of Ash"
+    },
+    "4333980": {
+      "rank": 5071,
+      "estimate": "<7k",
+      "name": "Selfie Worm"
+    },
+    "4360900": {
+      "rank": 6125,
+      "estimate": "<7k",
+      "name": "Rails & Rivals"
+    },
+    "4413550": {
+      "rank": 6463,
+      "estimate": "<7k",
+      "name": "Echoes of Ash"
+    },
+    "4414700": {
+      "rank": 9876,
+      "estimate": "<7k",
+      "name": "Unclouded"
+    },
+    "4442710": {
+      "rank": 3345,
+      "estimate": "<7k",
+      "name": "Spirit Dungeon"
+    },
+    "4509370": {
+      "rank": 9789,
+      "estimate": "<7k",
+      "name": "Shit Buddies"
+    },
+    "4562940": {
+      "rank": 1286,
       "estimate": "25k+",
+      "name": "HOPE 01"
+    },
+    "4567860": {
+      "rank": 9081,
+      "estimate": "<7k",
+      "name": "G.H.O.S.T. Ghost Hunt Ops Special Team"
+    },
+    "4610760": {
+      "rank": 6578,
+      "estimate": "<7k",
+      "name": "Cart by Cart: Supermarket Simulator"
+    },
+    "4628820": {
+      "rank": 8589,
+      "estimate": "<7k",
+      "name": "Beam it up, Blorp!"
+    },
+    "4631660": {
+      "rank": 9568,
+      "estimate": "<7k",
+      "name": "Crimsooon Sun"
+    },
+    "4661070": {
+      "rank": 71,
+      "estimate": "300k+",
       "name": "HANDS OVER"
+    },
+    "4678780": {
+      "rank": 6682,
+      "estimate": "<7k",
+      "name": "Solar Drift"
+    },
+    "4715320": {
+      "rank": 2038,
+      "estimate": "7k+",
+      "name": "Loop Miner"
+    },
+    "4736510": {
+      "rank": 605,
+      "estimate": "40k+",
+      "name": "Gunvolt Chronicles: Luminous Avenger iX 3"
+    },
+    "4763080": {
+      "rank": 3635,
+      "estimate": "<7k",
+      "name": "Pick Ball"
     }
   }
 }

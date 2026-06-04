@@ -1,98 +1,228 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 44,
   "entries": {
-    "1088610": {
-      "rank": 4641,
-      "estimate": "<7k",
-      "name": "Aurora: The Lost Medallion - The Cave"
-    },
     "1846700": {
-      "rank": 8,
-      "estimate": "1.5m+",
+      "rank": 136,
+      "estimate": "200k+",
       "name": "Witchbrook"
     },
-    "1947890": {
-      "rank": 3504,
+    "2099750": {
+      "rank": 7933,
       "estimate": "<7k",
-      "name": "Coffeehouse Simulator"
+      "name": "GOD PLEASE HELP ME"
     },
-    "2244350": {
-      "rank": 3245,
+    "2220200": {
+      "rank": 9764,
       "estimate": "<7k",
-      "name": "Red Sunrise"
+      "name": "Drift With Your Pals"
     },
     "2294210": {
-      "rank": 3363,
+      "rank": 9633,
       "estimate": "<7k",
       "name": "Ultra Pro Wrestling"
     },
+    "2570200": {
+      "rank": 8237,
+      "estimate": "<7k",
+      "name": "MedCom Origin"
+    },
+    "2869560": {
+      "rank": 3668,
+      "estimate": "<7k",
+      "name": "Amnea28: Two Eternities"
+    },
+    "3038710": {
+      "rank": 5747,
+      "estimate": "<7k",
+      "name": "Ashigaru Tactics"
+    },
     "3170490": {
-      "rank": 2039,
-      "estimate": "7k+",
+      "rank": 1599,
+      "estimate": "15k+",
       "name": "Cat Me If You Can"
     },
     "3233300": {
-      "rank": 4693,
+      "rank": 9473,
       "estimate": "<7k",
       "name": "The House of Hamelin"
     },
-    "3238240": {
-      "rank": 4188,
+    "3237630": {
+      "rank": 8715,
       "estimate": "<7k",
-      "name": "Scaravan 66"
+      "name": "Nightmare Busters Rebirth"
+    },
+    "3344550": {
+      "rank": 9399,
+      "estimate": "<7k",
+      "name": "THE NEW TENANT"
     },
     "3348640": {
-      "rank": 780,
+      "rank": 808,
       "estimate": "40k+",
       "name": "TSAREVNA. Age of Tales"
     },
+    "3411430": {
+      "rank": 8154,
+      "estimate": "<7k",
+      "name": "Border Patrol Simulator"
+    },
     "3474620": {
-      "rank": 3033,
+      "rank": 4698,
       "estimate": "<7k",
       "name": "EXONAUTIS"
     },
     "3495980": {
-      "rank": 4243,
+      "rank": 7837,
       "estimate": "<7k",
       "name": "Wanted 3D: Dead or Alive"
     },
+    "3531390": {
+      "rank": 9618,
+      "estimate": "<7k",
+      "name": "乌托邦的钥匙/The key of Utopia"
+    },
     "3598180": {
-      "rank": 2863,
-      "estimate": "7k+",
+      "rank": 358,
+      "estimate": "80k+",
       "name": "Midnight Souls"
     },
-    "3715790": {
-      "rank": 3835,
+    "3677780": {
+      "rank": 7955,
       "estimate": "<7k",
+      "name": "V-Monsters Forgotten Link"
+    },
+    "3715790": {
+      "rank": 2939,
+      "estimate": "7k+",
       "name": "Decklings"
     },
+    "3756870": {
+      "rank": 9854,
+      "estimate": "<7k",
+      "name": "Project DeepWeb: Eternal Nightmare"
+    },
     "3767320": {
-      "rank": 134,
-      "estimate": "200k+",
+      "rank": 450,
+      "estimate": "80k+",
       "name": "Animula Nook"
     },
+    "3767470": {
+      "rank": 6273,
+      "estimate": "<7k",
+      "name": "Fishing Girl's Fantasy"
+    },
+    "3789610": {
+      "rank": 6002,
+      "estimate": "<7k",
+      "name": "100 Lisbon Cats"
+    },
+    "3805880": {
+      "rank": 3960,
+      "estimate": "<7k",
+      "name": "南亭湖 Dependent Origination"
+    },
     "3878840": {
-      "rank": 3812,
+      "rank": 8117,
       "estimate": "<7k",
       "name": "Have You Seen This Cat?"
     },
+    "3913840": {
+      "rank": 9669,
+      "estimate": "<7k",
+      "name": "Drink Factory Simulator"
+    },
     "3976980": {
-      "rank": 4379,
+      "rank": 4201,
       "estimate": "<7k",
       "name": "Velo Victory"
     },
+    "4001300": {
+      "rank": 7910,
+      "estimate": "<7k",
+      "name": "异星漂流"
+    },
+    "4005630": {
+      "rank": 4795,
+      "estimate": "<7k",
+      "name": "Tide Of Tactics"
+    },
+    "4108300": {
+      "rank": 7148,
+      "estimate": "<7k",
+      "name": "You Remembered"
+    },
+    "4184160": {
+      "rank": 3699,
+      "estimate": "<7k",
+      "name": "A.N.R.S - Heroes Assemble"
+    },
+    "4231860": {
+      "rank": 3029,
+      "estimate": "<7k",
+      "name": "Might & Mushroom"
+    },
     "4267870": {
-      "rank": 2703,
-      "estimate": "7k+",
+      "rank": 359,
+      "estimate": "80k+",
       "name": "Washington Prime"
     },
+    "4277480": {
+      "rank": 6485,
+      "estimate": "<7k",
+      "name": "Dawnsbury Days - The Four-Leaf Clover"
+    },
     "4413130": {
-      "rank": 852,
-      "estimate": "40k+",
+      "rank": 75,
+      "estimate": "300k+",
       "name": "Battlespace Command"
+    },
+    "4449300": {
+      "rank": 4883,
+      "estimate": "<7k",
+      "name": "JDM: American Classics"
+    },
+    "4537100": {
+      "rank": 8642,
+      "estimate": "<7k",
+      "name": "diffiCULT"
+    },
+    "4563790": {
+      "rank": 1348,
+      "estimate": "25k+",
+      "name": "Easy Red 2: Blood on the Danube"
+    },
+    "4593380": {
+      "rank": 6405,
+      "estimate": "<7k",
+      "name": "イケ勘 - イケメンになるかどうか勘で付き合うゲーム -"
+    },
+    "4610300": {
+      "rank": 6526,
+      "estimate": "<7k",
+      "name": "模联人"
+    },
+    "4629700": {
+      "rank": 3648,
+      "estimate": "<7k",
+      "name": "Kuiper Wanderer"
+    },
+    "4632960": {
+      "rank": 2835,
+      "estimate": "7k+",
+      "name": "나의 별난 스트리머!"
+    },
+    "4651130": {
+      "rank": 8262,
+      "estimate": "<7k",
+      "name": "Cleaning Simulator: Ultimate Mess"
+    },
+    "4780540": {
+      "rank": 9798,
+      "estimate": "<7k",
+      "name": "Killing Slime"
     }
   }
 }

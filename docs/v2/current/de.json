@@ -1,108 +1,223 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 43,
   "entries": {
-    "905540": {
-      "rank": 1995,
-      "estimate": "15k+",
-      "name": "FRIGID"
-    },
     "942220": {
-      "rank": 1415,
-      "estimate": "25k+",
+      "rank": 7616,
+      "estimate": "<7k",
       "name": "Ambulance Simulator"
     },
-    "1133700": {
-      "rank": 3218,
-      "estimate": "<7k",
-      "name": "Curve Fever Pro"
-    },
     "1387640": {
-      "rank": 1441,
-      "estimate": "25k+",
+      "rank": 2934,
+      "estimate": "7k+",
       "name": "Where Birds Sleep"
     },
     "1473260": {
-      "rank": 1541,
-      "estimate": "15k+",
+      "rank": 3451,
+      "estimate": "<7k",
       "name": "Black Gold: Oil Drilling Simulator"
     },
     "1477750": {
-      "rank": 3734,
-      "estimate": "<7k",
+      "rank": 1005,
+      "estimate": "25k+",
       "name": "SunderBound"
     },
-    "1497910": {
-      "rank": 2030,
-      "estimate": "7k+",
-      "name": "Eastern Tactics"
-    },
-    "2244780": {
-      "rank": 2309,
-      "estimate": "7k+",
-      "name": "Abyss World : Apocalypse"
+    "1917470": {
+      "rank": 1523,
+      "estimate": "15k+",
+      "name": "Into The Haunted Land"
     },
     "2509360": {
-      "rank": 501,
-      "estimate": "40k+",
+      "rank": 1312,
+      "estimate": "25k+",
       "name": "Water Me & You"
     },
+    "2555390": {
+      "rank": 3987,
+      "estimate": "<7k",
+      "name": "Xanthiom 2"
+    },
     "2595260": {
-      "rank": 183,
-      "estimate": "200k+",
+      "rank": 569,
+      "estimate": "40k+",
       "name": "RECUR"
     },
     "2799820": {
-      "rank": 2297,
-      "estimate": "7k+",
+      "rank": 4248,
+      "estimate": "<7k",
       "name": "FSA DRIVING"
     },
     "2920220": {
-      "rank": 2135,
-      "estimate": "7k+",
+      "rank": 1932,
+      "estimate": "15k+",
       "name": "Terrible Lizards"
     },
+    "2968000": {
+      "rank": 4738,
+      "estimate": "<7k",
+      "name": "House Of Slendrina Remake"
+    },
+    "2993550": {
+      "rank": 3724,
+      "estimate": "<7k",
+      "name": "Stellar Poetry"
+    },
     "2994490": {
-      "rank": 4569,
+      "rank": 5776,
       "estimate": "<7k",
       "name": "REV UP"
     },
+    "3049700": {
+      "rank": 5744,
+      "estimate": "<7k",
+      "name": "Covenant Tower"
+    },
     "3130880": {
-      "rank": 1753,
-      "estimate": "15k+",
+      "rank": 3972,
+      "estimate": "<7k",
       "name": "Solaria"
     },
+    "3199870": {
+      "rank": 5037,
+      "estimate": "<7k",
+      "name": "Road Diner Simulator: Prologue"
+    },
+    "3336620": {
+      "rank": 4500,
+      "estimate": "<7k",
+      "name": "Liminal Shroud"
+    },
+    "3399120": {
+      "rank": 6477,
+      "estimate": "<7k",
+      "name": "Jaleco Sports: Goal! 2"
+    },
     "3411060": {
-      "rank": 3764,
+      "rank": 7625,
       "estimate": "<7k",
       "name": "Broomstick Exorcist"
     },
     "3424910": {
-      "rank": 1446,
-      "estimate": "25k+",
+      "rank": 1704,
+      "estimate": "15k+",
       "name": "Mushroom Hunter Simulator"
     },
     "3499590": {
-      "rank": 504,
+      "rank": 788,
       "estimate": "40k+",
       "name": "Code RAPID"
     },
     "3516660": {
-      "rank": 2503,
+      "rank": 2140,
       "estimate": "7k+",
       "name": "WORK WORK WORK"
     },
+    "3567260": {
+      "rank": 5510,
+      "estimate": "<7k",
+      "name": "Herbalist Roman"
+    },
+    "3606840": {
+      "rank": 3964,
+      "estimate": "<7k",
+      "name": "Evolution Of The Ancients"
+    },
+    "3665520": {
+      "rank": 1609,
+      "estimate": "15k+",
+      "name": "Catto Pew Pew!"
+    },
+    "3730460": {
+      "rank": 5865,
+      "estimate": "<7k",
+      "name": "Wall"
+    },
+    "3850070": {
+      "rank": 8017,
+      "estimate": "<7k",
+      "name": "BunkerZ"
+    },
+    "3872430": {
+      "rank": 8973,
+      "estimate": "<7k",
+      "name": "SCP: Project Pneuma"
+    },
+    "3919430": {
+      "rank": 4137,
+      "estimate": "<7k",
+      "name": "Urbexophobia"
+    },
+    "3982690": {
+      "rank": 9898,
+      "estimate": "<7k",
+      "name": "Pocket Racer Shop Sim"
+    },
+    "4005260": {
+      "rank": 4969,
+      "estimate": "<7k",
+      "name": "You Don't Belong Here"
+    },
     "4045480": {
-      "rank": 933,
-      "estimate": "40k+",
+      "rank": 280,
+      "estimate": "80k+",
       "name": "Drawquarium"
     },
+    "4047420": {
+      "rank": 7056,
+      "estimate": "<7k",
+      "name": "斗罗大陆：猎魂世界"
+    },
+    "4179040": {
+      "rank": 6653,
+      "estimate": "<7k",
+      "name": "鸚鵡團 AuditionsGo"
+    },
+    "4234330": {
+      "rank": 2701,
+      "estimate": "7k+",
+      "name": "Monster Mercs"
+    },
+    "4300950": {
+      "rank": 5295,
+      "estimate": "<7k",
+      "name": "Around The Core"
+    },
     "4328440": {
-      "rank": 213,
+      "rank": 235,
       "estimate": "80k+",
       "name": "Cat Parents"
+    },
+    "4386260": {
+      "rank": 8437,
+      "estimate": "<7k",
+      "name": "REDSTREAM DISPATCH"
+    },
+    "4453300": {
+      "rank": 7909,
+      "estimate": "<7k",
+      "name": "Cup and Counter: Coffee Shop Simulator"
+    },
+    "4596780": {
+      "rank": 4757,
+      "estimate": "<7k",
+      "name": "The Defective One"
+    },
+    "4708680": {
+      "rank": 8777,
+      "estimate": "<7k",
+      "name": "Otpisani: Nightingale"
+    },
+    "4730580": {
+      "rank": 6174,
+      "estimate": "<7k",
+      "name": "Before the Tee"
+    },
+    "4736520": {
+      "rank": 6266,
+      "estimate": "<7k",
+      "name": "TIAN NUO"
     }
   }
 }

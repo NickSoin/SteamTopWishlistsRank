@@ -1,123 +1,178 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 34,
   "entries": {
-    "1465790": {
-      "rank": 2712,
-      "estimate": "7k+",
-      "name": "Dark Moonlight"
-    },
-    "1474060": {
-      "rank": 4126,
-      "estimate": "<7k",
-      "name": "PitBots"
-    },
     "1487570": {
-      "rank": 1456,
-      "estimate": "25k+",
+      "rank": 9564,
+      "estimate": "<7k",
       "name": "Far North Survival"
     },
     "1617230": {
-      "rank": 1041,
-      "estimate": "25k+",
+      "rank": 4505,
+      "estimate": "<7k",
       "name": "Paper Sky"
     },
     "1818660": {
-      "rank": 1012,
-      "estimate": "25k+",
+      "rank": 1680,
+      "estimate": "15k+",
       "name": "Kalyskah"
     },
-    "2368030": {
-      "rank": 4579,
+    "2477750": {
+      "rank": 9366,
       "estimate": "<7k",
-      "name": "Delusion Out of Space"
+      "name": "Dunderbeck"
     },
     "2521800": {
-      "rank": 2866,
-      "estimate": "7k+",
+      "rank": 3742,
+      "estimate": "<7k",
       "name": "Boxing Underdog"
     },
     "2564450": {
-      "rank": 1019,
-      "estimate": "25k+",
+      "rank": 6206,
+      "estimate": "<7k",
       "name": "Auroria"
     },
     "2611600": {
-      "rank": 1661,
-      "estimate": "15k+",
+      "rank": 7176,
+      "estimate": "<7k",
       "name": "Bumpkin and Sprout"
     },
     "2664600": {
-      "rank": 1016,
-      "estimate": "25k+",
+      "rank": 3691,
+      "estimate": "<7k",
       "name": "The Last Hour of an Epic TO THE MOON RPG"
     },
-    "2678670": {
-      "rank": 1898,
-      "estimate": "15k+",
-      "name": "END OF BACK WORLD"
-    },
     "2686820": {
-      "rank": 3058,
+      "rank": 6577,
       "estimate": "<7k",
       "name": "isekizima: Ruins and Tails Journey"
     },
     "2711690": {
-      "rank": 1010,
-      "estimate": "25k+",
+      "rank": 3387,
+      "estimate": "<7k",
       "name": "VanLife Simulator"
     },
+    "2818920": {
+      "rank": 8038,
+      "estimate": "<7k",
+      "name": "World Turned Stone"
+    },
     "2838030": {
-      "rank": 2323,
+      "rank": 2459,
       "estimate": "7k+",
       "name": "Witherbloom"
     },
-    "3083730": {
-      "rank": 4557,
-      "estimate": "<7k",
-      "name": "Neckbreaker: Visceral Pro Wrestling"
-    },
     "3196270": {
-      "rank": 2436,
-      "estimate": "7k+",
+      "rank": 5796,
+      "estimate": "<7k",
       "name": "Fishing Shop Simulator"
     },
+    "3226070": {
+      "rank": 6004,
+      "estimate": "<7k",
+      "name": "Belatoris"
+    },
     "3275210": {
-      "rank": 1766,
-      "estimate": "15k+",
+      "rank": 1289,
+      "estimate": "25k+",
       "name": "Pionero Capital"
     },
-    "3452800": {
-      "rank": 4133,
+    "3349900": {
+      "rank": 3910,
       "estimate": "<7k",
-      "name": "Sniper at Work"
+      "name": "CORING"
     },
     "3576070": {
-      "rank": 913,
-      "estimate": "40k+",
+      "rank": 1837,
+      "estimate": "15k+",
       "name": "Sudden Attack Zero Point"
     },
-    "3846290": {
-      "rank": 4128,
+    "3576720": {
+      "rank": 7807,
       "estimate": "<7k",
+      "name": "Echoes Of Night: The Exodus of the Stars"
+    },
+    "3609280": {
+      "rank": 9747,
+      "estimate": "<7k",
+      "name": "Dicewayfarer"
+    },
+    "3656640": {
+      "rank": 8424,
+      "estimate": "<7k",
+      "name": "Gun Shop Manager"
+    },
+    "3684360": {
+      "rank": 3115,
+      "estimate": "<7k",
+      "name": "Marshals of War: Orcblood"
+    },
+    "3846290": {
+      "rank": 2915,
+      "estimate": "7k+",
       "name": "Doomsday Diner"
     },
+    "3978490": {
+      "rank": 8684,
+      "estimate": "<7k",
+      "name": "Diatonic"
+    },
     "4049810": {
-      "rank": 983,
-      "estimate": "40k+",
+      "rank": 1350,
+      "estimate": "25k+",
       "name": "Lancer Tactics"
     },
+    "4095820": {
+      "rank": 8501,
+      "estimate": "<7k",
+      "name": "Sí Jefe"
+    },
+    "4167930": {
+      "rank": 5216,
+      "estimate": "<7k",
+      "name": "Spiriki: Tiny Island"
+    },
     "4317690": {
-      "rank": 565,
+      "rank": 904,
       "estimate": "40k+",
       "name": "Crimson Moon"
     },
     "4444800": {
-      "rank": 2137,
-      "estimate": "7k+",
+      "rank": 1805,
+      "estimate": "15k+",
       "name": "Obey Me! Sinner's Choice: Lucifer"
+    },
+    "4516880": {
+      "rank": 9735,
+      "estimate": "<7k",
+      "name": "Unusual Tales: After Bark"
+    },
+    "4532550": {
+      "rank": 6977,
+      "estimate": "<7k",
+      "name": "Keep Her Safe"
+    },
+    "4549480": {
+      "rank": 2102,
+      "estimate": "7k+",
+      "name": "BrokenLore: DON'T PLAY"
+    },
+    "4567170": {
+      "rank": 2585,
+      "estimate": "7k+",
+      "name": "Soul Ampz"
+    },
+    "4568980": {
+      "rank": 8249,
+      "estimate": "<7k",
+      "name": "Fu-Fu-Chan -way up!-"
+    },
+    "4745770": {
+      "rank": 1846,
+      "estimate": "15k+",
+      "name": "DreamRace"
     }
   }
 }

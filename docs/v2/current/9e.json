@@ -1,88 +1,163 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 31,
   "entries": {
-    "1339490": {
-      "rank": 2248,
-      "estimate": "7k+",
-      "name": "American Camper Simulator"
-    },
-    "1562030": {
-      "rank": 1919,
-      "estimate": "15k+",
-      "name": "Ronin: Samurai Redemption"
-    },
-    "1664110": {
-      "rank": 3174,
+    "1075020": {
+      "rank": 9007,
       "estimate": "<7k",
-      "name": "City of Robots"
+      "name": "Because We're Here - Act III + Act IV"
     },
     "2071870": {
-      "rank": 4084,
+      "rank": 7219,
       "estimate": "<7k",
       "name": "SCPCB: Unity"
     },
+    "2483570": {
+      "rank": 2685,
+      "estimate": "7k+",
+      "name": "Castillon"
+    },
     "2561630": {
-      "rank": 1781,
-      "estimate": "15k+",
+      "rank": 1204,
+      "estimate": "25k+",
       "name": "Moonfrost"
     },
     "2646720": {
-      "rank": 390,
-      "estimate": "80k+",
+      "rank": 697,
+      "estimate": "40k+",
       "name": "Dead Weight"
     },
     "2764460": {
-      "rank": 456,
-      "estimate": "80k+",
+      "rank": 1802,
+      "estimate": "15k+",
       "name": "Sandustry"
     },
+    "2886380": {
+      "rank": 6036,
+      "estimate": "<7k",
+      "name": "Cryptica"
+    },
+    "2900990": {
+      "rank": 2066,
+      "estimate": "7k+",
+      "name": "Eternal Haunt"
+    },
     "3094870": {
-      "rank": 1055,
-      "estimate": "25k+",
+      "rank": 3563,
+      "estimate": "<7k",
       "name": "Amarillo's Desktop Pets"
     },
-    "3236340": {
-      "rank": 4592,
+    "3140780": {
+      "rank": 6305,
       "estimate": "<7k",
-      "name": "Lilith's Game"
+      "name": "Between sky and earth"
+    },
+    "3204820": {
+      "rank": 6357,
+      "estimate": "<7k",
+      "name": "RippleLoop"
+    },
+    "3254380": {
+      "rank": 8100,
+      "estimate": "<7k",
+      "name": "We Grew Up in War"
     },
     "3441490": {
-      "rank": 2621,
-      "estimate": "7k+",
+      "rank": 4267,
+      "estimate": "<7k",
       "name": "Zeizen"
     },
+    "3553630": {
+      "rank": 8156,
+      "estimate": "<7k",
+      "name": "Indigo's Dreams"
+    },
+    "3638650": {
+      "rank": 9665,
+      "estimate": "<7k",
+      "name": "The Internal"
+    },
     "3660260": {
-      "rank": 929,
+      "rank": 565,
       "estimate": "40k+",
       "name": "Out Fishing"
     },
     "3834300": {
-      "rank": 4420,
-      "estimate": "<7k",
+      "rank": 1235,
+      "estimate": "25k+",
       "name": "Sin & Siege"
     },
-    "4298170": {
-      "rank": 3683,
+    "3878740": {
+      "rank": 1825,
+      "estimate": "15k+",
+      "name": "Tiny Chills - Not From Ear"
+    },
+    "3932330": {
+      "rank": 3671,
       "estimate": "<7k",
+      "name": "Zanerdin: The Unbound"
+    },
+    "3939340": {
+      "rank": 8328,
+      "estimate": "<7k",
+      "name": "Tales of Kathay"
+    },
+    "4087550": {
+      "rank": 9480,
+      "estimate": "<7k",
+      "name": "Mystery Adventure The Maid Did It"
+    },
+    "4191110": {
+      "rank": 3010,
+      "estimate": "<7k",
+      "name": "Vampire: The Masquerade - Oaths & Ashes"
+    },
+    "4275100": {
+      "rank": 5247,
+      "estimate": "<7k",
+      "name": "Game Breaker: Divine Error"
+    },
+    "4298170": {
+      "rank": 553,
+      "estimate": "40k+",
       "name": "Carry the Pack Rack"
     },
     "4317460": {
-      "rank": 700,
+      "rank": 957,
       "estimate": "40k+",
       "name": "Bel's Fanfare"
     },
     "4564150": {
-      "rank": 785,
+      "rank": 696,
       "estimate": "40k+",
       "name": "Titan Hunters"
     },
+    "4579800": {
+      "rank": 7049,
+      "estimate": "<7k",
+      "name": "Odixel Studio"
+    },
     "4644290": {
-      "rank": 4496,
+      "rank": 3012,
       "estimate": "<7k",
       "name": "春はあけぼの、我はバケモノ。 - Spring at Dawn, I Am a Monster."
+    },
+    "4703120": {
+      "rank": 3334,
+      "estimate": "<7k",
+      "name": "The Miki Komori Project"
+    },
+    "4751660": {
+      "rank": 3188,
+      "estimate": "<7k",
+      "name": "Screamcorp"
+    },
+    "4777080": {
+      "rank": 6557,
+      "estimate": "<7k",
+      "name": "Hannibal"
     }
   }
 }

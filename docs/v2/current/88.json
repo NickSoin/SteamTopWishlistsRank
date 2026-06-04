@@ -1,93 +1,183 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 35,
   "entries": {
-    "765700": {
-      "rank": 3434,
-      "estimate": "<7k",
-      "name": "Tactical Galactical"
-    },
     "1570660": {
-      "rank": 4375,
+      "rank": 9541,
       "estimate": "<7k",
       "name": "Medieval Apocalypse"
     },
-    "1619660": {
-      "rank": 4024,
+    "1763860": {
+      "rank": 3304,
       "estimate": "<7k",
-      "name": "Kambulin"
+      "name": "Rabbit's Tale"
+    },
+    "2068100": {
+      "rank": 4682,
+      "estimate": "<7k",
+      "name": "Ultimate Fishing® Online"
+    },
+    "2135000": {
+      "rank": 2639,
+      "estimate": "7k+",
+      "name": "Norigin"
     },
     "2321960": {
-      "rank": 1413,
-      "estimate": "25k+",
+      "rank": 1512,
+      "estimate": "15k+",
       "name": "Spirit Crossing"
     },
     "2786710": {
-      "rank": 331,
-      "estimate": "80k+",
+      "rank": 644,
+      "estimate": "40k+",
       "name": "Zarya"
     },
     "2871010": {
-      "rank": 1807,
-      "estimate": "15k+",
+      "rank": 4029,
+      "estimate": "<7k",
       "name": "VanySlash"
     },
+    "2927490": {
+      "rank": 8102,
+      "estimate": "<7k",
+      "name": "Dwellink: War of the Nine"
+    },
     "3004280": {
-      "rank": 1769,
+      "rank": 1975,
       "estimate": "15k+",
       "name": "World of Magic: Rise of Magic"
     },
     "3097730": {
-      "rank": 1640,
-      "estimate": "15k+",
+      "rank": 4703,
+      "estimate": "<7k",
       "name": "Re:VER PROJECT -TOKYO-"
     },
+    "3105060": {
+      "rank": 6911,
+      "estimate": "<7k",
+      "name": "☙ The Hawkers ❧"
+    },
     "3143530": {
-      "rank": 1811,
-      "estimate": "15k+",
+      "rank": 4458,
+      "estimate": "<7k",
       "name": "Shadow Project"
     },
-    "3241270": {
-      "rank": 3319,
-      "estimate": "<7k",
-      "name": "Into the Void"
-    },
     "3299820": {
-      "rank": 1277,
-      "estimate": "25k+",
+      "rank": 912,
+      "estimate": "40k+",
       "name": "Gretel & Hansel"
     },
     "3372060": {
-      "rank": 594,
-      "estimate": "40k+",
+      "rank": 2056,
+      "estimate": "7k+",
       "name": "Hell Maiden"
     },
+    "3377830": {
+      "rank": 1922,
+      "estimate": "15k+",
+      "name": "Backroom Cleaners"
+    },
+    "3465810": {
+      "rank": 6484,
+      "estimate": "<7k",
+      "name": "Snatch Squad"
+    },
+    "3589190": {
+      "rank": 9846,
+      "estimate": "<7k",
+      "name": "COCOBOY"
+    },
+    "3780630": {
+      "rank": 8486,
+      "estimate": "<7k",
+      "name": "A Cat in the Cangaço"
+    },
     "3886530": {
-      "rank": 410,
-      "estimate": "80k+",
+      "rank": 1616,
+      "estimate": "15k+",
       "name": "Westlanders"
     },
     "3891400": {
-      "rank": 1738,
-      "estimate": "15k+",
+      "rank": 2021,
+      "estimate": "7k+",
       "name": "Mixed Spirits: Bartender"
     },
+    "3901680": {
+      "rank": 4472,
+      "estimate": "<7k",
+      "name": "Hapervil"
+    },
+    "3932790": {
+      "rank": 3455,
+      "estimate": "<7k",
+      "name": "Garfield - Escape from Monday"
+    },
+    "3971290": {
+      "rank": 9241,
+      "estimate": "<7k",
+      "name": "The Money Pit"
+    },
     "4090310": {
-      "rank": 769,
+      "rank": 673,
       "estimate": "40k+",
       "name": "Primal Repairs"
     },
+    "4177660": {
+      "rank": 6309,
+      "estimate": "<7k",
+      "name": "Soulflame"
+    },
+    "4214950": {
+      "rank": 4957,
+      "estimate": "<7k",
+      "name": "世界终焉之时 - Endfaryth"
+    },
     "4226560": {
-      "rank": 3249,
+      "rank": 3476,
       "estimate": "<7k",
       "name": "ALATURKA"
     },
     "4317790": {
-      "rank": 1185,
-      "estimate": "25k+",
+      "rank": 178,
+      "estimate": "200k+",
       "name": "Last Pirates: Die Together"
+    },
+    "4331130": {
+      "rank": 2143,
+      "estimate": "7k+",
+      "name": "Abyss Horde"
+    },
+    "4417470": {
+      "rank": 5674,
+      "estimate": "<7k",
+      "name": "Pathotaxia: PANDORA"
+    },
+    "4420050": {
+      "rank": 4839,
+      "estimate": "<7k",
+      "name": "The Unrealtor"
+    },
+    "4489910": {
+      "rank": 3355,
+      "estimate": "<7k",
+      "name": "Where the Echo Sleeps"
+    },
+    "4565450": {
+      "rank": 7788,
+      "estimate": "<7k",
+      "name": "Bait Ball Party"
+    },
+    "4669370": {
+      "rank": 3759,
+      "estimate": "<7k",
+      "name": "Cult Inc."
+    },
+    "4775970": {
+      "rank": 6890,
+      "estimate": "<7k",
+      "name": "0.5%"
     }
   }
 }

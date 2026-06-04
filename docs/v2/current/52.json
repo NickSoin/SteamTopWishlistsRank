@@ -1,108 +1,208 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 40,
   "entries": {
-    "785050": {
-      "rank": 3531,
+    "603680": {
+      "rank": 8497,
       "estimate": "<7k",
-      "name": "Massive Galaxy"
+      "name": "One helluva day"
+    },
+    "897980": {
+      "rank": 8625,
+      "estimate": "<7k",
+      "name": "Camoflux: Levels & Bosses"
     },
     "2069170": {
-      "rank": 1890,
-      "estimate": "15k+",
+      "rank": 5372,
+      "estimate": "<7k",
       "name": "Obsidian Legion"
     },
     "2601530": {
-      "rank": 890,
-      "estimate": "40k+",
+      "rank": 3299,
+      "estimate": "<7k",
       "name": "Regular Home Renovation Simulator"
     },
     "2603550": {
-      "rank": 3370,
-      "estimate": "<7k",
+      "rank": 2984,
+      "estimate": "7k+",
       "name": "Eclipse 2: Invasion of Darkness"
     },
     "2636460": {
-      "rank": 1335,
+      "rank": 1301,
       "estimate": "25k+",
       "name": "Dungeons Deep"
     },
     "2708530": {
-      "rank": 3814,
+      "rank": 4128,
       "estimate": "<7k",
       "name": "AstroTechs"
     },
     "2823200": {
-      "rank": 3036,
-      "estimate": "<7k",
+      "rank": 2704,
+      "estimate": "7k+",
       "name": "Mousebusters"
     },
     "2827820": {
-      "rank": 475,
-      "estimate": "80k+",
+      "rank": 926,
+      "estimate": "40k+",
       "name": "The Relic: First Guardian"
     },
     "2939510": {
-      "rank": 1365,
-      "estimate": "25k+",
+      "rank": 2156,
+      "estimate": "7k+",
       "name": "Under Canopies"
     },
+    "3031750": {
+      "rank": 6480,
+      "estimate": "<7k",
+      "name": "Dino Cleanup"
+    },
     "3184960": {
-      "rank": 483,
-      "estimate": "80k+",
+      "rank": 1401,
+      "estimate": "25k+",
       "name": "The Defiant"
     },
     "3222280": {
-      "rank": 2795,
+      "rank": 2079,
       "estimate": "7k+",
       "name": "Infinitory"
     },
     "3227500": {
-      "rank": 2941,
-      "estimate": "7k+",
+      "rank": 483,
+      "estimate": "80k+",
       "name": "Blades of Mirage"
     },
     "3270430": {
-      "rank": 347,
-      "estimate": "80k+",
+      "rank": 1013,
+      "estimate": "25k+",
       "name": "Systemic War"
     },
     "3297860": {
-      "rank": 3666,
+      "rank": 6610,
       "estimate": "<7k",
       "name": "MachineClad"
     },
+    "3394800": {
+      "rank": 3510,
+      "estimate": "<7k",
+      "name": "Koko's Cafe"
+    },
     "3477910": {
-      "rank": 720,
-      "estimate": "40k+",
+      "rank": 1392,
+      "estimate": "25k+",
       "name": "The Willowmist Emporium of Antiques & Curiosities"
     },
-    "3624840": {
-      "rank": 4367,
+    "3584920": {
+      "rank": 5655,
       "estimate": "<7k",
-      "name": "Lady Dracula"
+      "name": "Chinese Street Food Legend"
+    },
+    "3609610": {
+      "rank": 9166,
+      "estimate": "<7k",
+      "name": "Meat Market"
+    },
+    "3753100": {
+      "rank": 7485,
+      "estimate": "<7k",
+      "name": "Drift.Wav II"
+    },
+    "3784470": {
+      "rank": 7159,
+      "estimate": "<7k",
+      "name": "Burakku Jakku Samurai"
+    },
+    "3892850": {
+      "rank": 6732,
+      "estimate": "<7k",
+      "name": "The Bright Future Village"
     },
     "4004160": {
-      "rank": 3346,
+      "rank": 4172,
       "estimate": "<7k",
       "name": "Depth Loop"
     },
+    "4017050": {
+      "rank": 7098,
+      "estimate": "<7k",
+      "name": "DDD: Demons Double Down"
+    },
+    "4026270": {
+      "rank": 2668,
+      "estimate": "7k+",
+      "name": "Dystopia VS Distortion"
+    },
+    "4196120": {
+      "rank": 3176,
+      "estimate": "<7k",
+      "name": "The Name I Wear"
+    },
     "4204610": {
-      "rank": 1274,
+      "rank": 1179,
       "estimate": "25k+",
       "name": "Gentleman's Violence"
     },
-    "4257900": {
-      "rank": 4373,
+    "4235360": {
+      "rank": 6555,
       "estimate": "<7k",
+      "name": "Elegon"
+    },
+    "4257900": {
+      "rank": 868,
+      "estimate": "40k+",
       "name": "棋桜"
     },
+    "4302440": {
+      "rank": 6334,
+      "estimate": "<7k",
+      "name": "Unmixable Syrup"
+    },
+    "4308550": {
+      "rank": 9169,
+      "estimate": "<7k",
+      "name": "Mine or Burn"
+    },
+    "4332670": {
+      "rank": 9294,
+      "estimate": "<7k",
+      "name": "Oniros"
+    },
     "4403510": {
-      "rank": 631,
-      "estimate": "40k+",
+      "rank": 1209,
+      "estimate": "25k+",
       "name": "Sensory Overload"
+    },
+    "4438260": {
+      "rank": 8499,
+      "estimate": "<7k",
+      "name": "Train Valley 2: Workshop Gems - Amber"
+    },
+    "4454280": {
+      "rank": 4483,
+      "estimate": "<7k",
+      "name": "Cozy Archivist Simulator"
+    },
+    "4536900": {
+      "rank": 6350,
+      "estimate": "<7k",
+      "name": "Next Reign: Kingdom"
+    },
+    "4598940": {
+      "rank": 4943,
+      "estimate": "<7k",
+      "name": "Last Dive: Echo Trench"
+    },
+    "4691230": {
+      "rank": 3894,
+      "estimate": "<7k",
+      "name": "Encore"
+    },
+    "4715000": {
+      "rank": 3891,
+      "estimate": "<7k",
+      "name": "Patience Balls"
     }
   }
 }

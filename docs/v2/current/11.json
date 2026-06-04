@@ -1,108 +1,243 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 47,
   "entries": {
     "672890": {
-      "rank": 2396,
+      "rank": 2971,
       "estimate": "7k+",
       "name": "Sparkball"
     },
-    "1234330": {
-      "rank": 3220,
+    "1438800": {
+      "rank": 6612,
       "estimate": "<7k",
-      "name": "INTO THE BACKROOMS"
+      "name": "Safari Park Ranger"
     },
-    "1427080": {
-      "rank": 3743,
+    "1449840": {
+      "rank": 8106,
       "estimate": "<7k",
-      "name": "Cinema Manager"
+      "name": "Escape Together"
     },
     "1490020": {
-      "rank": 3500,
+      "rank": 3496,
       "estimate": "<7k",
       "name": "TIC-TAC: Twelve o'clock"
     },
-    "1505850": {
-      "rank": 4397,
+    "2353980": {
+      "rank": 9699,
       "estimate": "<7k",
-      "name": "FRIGID VR"
-    },
-    "2276810": {
-      "rank": 1252,
-      "estimate": "25k+",
-      "name": "JunkTok: Paranormal Investigators Challenge"
+      "name": "Levity Race"
     },
     "2436870": {
-      "rank": 1949,
-      "estimate": "15k+",
+      "rank": 4850,
+      "estimate": "<7k",
       "name": "Sigilfarer: A Dice-Rolling Roguelite"
     },
+    "2509440": {
+      "rank": 4986,
+      "estimate": "<7k",
+      "name": "Nightborn"
+    },
+    "2512660": {
+      "rank": 7262,
+      "estimate": "<7k",
+      "name": "VectorBall"
+    },
     "2537430": {
-      "rank": 1920,
+      "rank": 1530,
       "estimate": "15k+",
       "name": "Solar Smash: Annihilation"
     },
     "2557740": {
-      "rank": 3121,
+      "rank": 6359,
       "estimate": "<7k",
       "name": "Fairune: Fragment Isles"
     },
-    "2681940": {
-      "rank": 2638,
-      "estimate": "7k+",
-      "name": "Crush at first sight🍓"
+    "2611440": {
+      "rank": 5717,
+      "estimate": "<7k",
+      "name": "Steel Chaos"
     },
     "2709910": {
-      "rank": 1962,
-      "estimate": "15k+",
+      "rank": 5068,
+      "estimate": "<7k",
       "name": "Five Nights at Cobson's"
     },
+    "2784210": {
+      "rank": 5299,
+      "estimate": "<7k",
+      "name": "100 Cats Greece"
+    },
     "2789020": {
-      "rank": 1422,
-      "estimate": "25k+",
+      "rank": 4546,
+      "estimate": "<7k",
       "name": "Hibernaculum"
     },
+    "2987990": {
+      "rank": 7930,
+      "estimate": "<7k",
+      "name": "Ropuka"
+    },
+    "3065710": {
+      "rank": 6595,
+      "estimate": "<7k",
+      "name": "Lucky Coin Pusher"
+    },
     "3183450": {
-      "rank": 4267,
+      "rank": 9162,
       "estimate": "<7k",
       "name": "魔法之境 Magic Realm"
     },
+    "3325870": {
+      "rank": 6696,
+      "estimate": "<7k",
+      "name": "The Knight of The Kingdom"
+    },
     "3363050": {
-      "rank": 2266,
-      "estimate": "7k+",
+      "rank": 3120,
+      "estimate": "<7k",
       "name": "Piñata Puppy World"
     },
-    "3380880": {
-      "rank": 3488,
+    "3399150": {
+      "rank": 6160,
       "estimate": "<7k",
-      "name": "Keep"
+      "name": "Miko no Kanata: Curious Tales from Oguni Shrine -Zero-"
     },
     "3474200": {
-      "rank": 2502,
-      "estimate": "7k+",
+      "rank": 1581,
+      "estimate": "15k+",
       "name": "Burn the Midnight Oil"
     },
+    "3520570": {
+      "rank": 8434,
+      "estimate": "<7k",
+      "name": "Agent of Veil"
+    },
+    "3580060": {
+      "rank": 3955,
+      "estimate": "<7k",
+      "name": "Karma and Jonar - The Rock Trolls"
+    },
+    "3730340": {
+      "rank": 9111,
+      "estimate": "<7k",
+      "name": "Cannabiz: Weed Shop Owner"
+    },
     "3770380": {
-      "rank": 1389,
-      "estimate": "25k+",
+      "rank": 6246,
+      "estimate": "<7k",
       "name": "Please Serve Only the Most Delicious Garbage"
     },
+    "3842050": {
+      "rank": 499,
+      "estimate": "80k+",
+      "name": "Ornelia"
+    },
+    "3850970": {
+      "rank": 2436,
+      "estimate": "7k+",
+      "name": "Mystery Egg Shop Simulator"
+    },
     "3935020": {
-      "rank": 946,
-      "estimate": "40k+",
+      "rank": 427,
+      "estimate": "80k+",
       "name": "Backyard Baseball"
     },
+    "3939950": {
+      "rank": 2978,
+      "estimate": "7k+",
+      "name": "Ballisticards"
+    },
+    "3975150": {
+      "rank": 7415,
+      "estimate": "<7k",
+      "name": "Traveler Stories: Journeys of Real People"
+    },
+    "3985540": {
+      "rank": 1653,
+      "estimate": "15k+",
+      "name": "Raining Lead"
+    },
+    "4013910": {
+      "rank": 1137,
+      "estimate": "25k+",
+      "name": "Some Puzzles"
+    },
+    "4088910": {
+      "rank": 7250,
+      "estimate": "<7k",
+      "name": "Flesh Fossil"
+    },
+    "4092940": {
+      "rank": 6580,
+      "estimate": "<7k",
+      "name": "Lucky Shot"
+    },
+    "4142520": {
+      "rank": 3637,
+      "estimate": "<7k",
+      "name": "MANIFESTO"
+    },
+    "4179030": {
+      "rank": 5859,
+      "estimate": "<7k",
+      "name": "Skycore Reboot"
+    },
+    "4229580": {
+      "rank": 6735,
+      "estimate": "<7k",
+      "name": "I Am Bird"
+    },
     "4383190": {
-      "rank": 823,
+      "rank": 661,
       "estimate": "40k+",
       "name": "Intravenous 3"
     },
+    "4388810": {
+      "rank": 8619,
+      "estimate": "<7k",
+      "name": "Reptilarium"
+    },
     "4442750": {
-      "rank": 1304,
+      "rank": 1012,
       "estimate": "25k+",
       "name": "Void Hunters"
+    },
+    "4531250": {
+      "rank": 5088,
+      "estimate": "<7k",
+      "name": "Tiny Dwellings"
+    },
+    "4570680": {
+      "rank": 5087,
+      "estimate": "<7k",
+      "name": "Tiny Farmie"
+    },
+    "4591920": {
+      "rank": 782,
+      "estimate": "40k+",
+      "name": "Dead Reckoning: Reborn"
+    },
+    "4614210": {
+      "rank": 4167,
+      "estimate": "<7k",
+      "name": "Crack the Pack"
+    },
+    "4672140": {
+      "rank": 9347,
+      "estimate": "<7k",
+      "name": "WinBolo"
+    },
+    "4681960": {
+      "rank": 8455,
+      "estimate": "<7k",
+      "name": "Last Squad Alive"
+    },
+    "4748560": {
+      "rank": 6530,
+      "estimate": "<7k",
+      "name": "Fall of Days"
     }
   }
 }

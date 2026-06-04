@@ -1,63 +1,168 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 11,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 32,
   "entries": {
     "1389140": {
-      "rank": 4325,
+      "rank": 8098,
       "estimate": "<7k",
       "name": "Jury Trial"
     },
     "1488490": {
-      "rank": 43,
-      "estimate": "600k+",
+      "rank": 709,
+      "estimate": "40k+",
       "name": "Nivalis"
     },
     "1924600": {
-      "rank": 1047,
-      "estimate": "25k+",
+      "rank": 3838,
+      "estimate": "<7k",
       "name": "March of Giants"
     },
     "2007430": {
-      "rank": 2291,
-      "estimate": "7k+",
+      "rank": 6997,
+      "estimate": "<7k",
       "name": "Blast Cats"
     },
+    "2112170": {
+      "rank": 9881,
+      "estimate": "<7k",
+      "name": "Bravehood"
+    },
     "2376260": {
-      "rank": 151,
-      "estimate": "200k+",
+      "rank": 674,
+      "estimate": "40k+",
       "name": "Mariachi Legends"
     },
-    "2946140": {
-      "rank": 1780,
-      "estimate": "15k+",
-      "name": "Windpunk"
+    "2845380": {
+      "rank": 7868,
+      "estimate": "<7k",
+      "name": "Colony Break"
+    },
+    "3043880": {
+      "rank": 8868,
+      "estimate": "<7k",
+      "name": "Surreal 98"
     },
     "3169300": {
-      "rank": 3548,
+      "rank": 6245,
       "estimate": "<7k",
       "name": "Rainchaser"
     },
     "3188510": {
-      "rank": 1648,
-      "estimate": "15k+",
+      "rank": 2463,
+      "estimate": "7k+",
       "name": "Project SEVER"
     },
     "3283240": {
-      "rank": 103,
-      "estimate": "200k+",
+      "rank": 409,
+      "estimate": "80k+",
       "name": "THE LIFT: Supernatural Handyman Simulator"
     },
+    "3367490": {
+      "rank": 6458,
+      "estimate": "<7k",
+      "name": "Color Escape 🌈"
+    },
     "3510740": {
-      "rank": 2188,
-      "estimate": "7k+",
+      "rank": 209,
+      "estimate": "80k+",
       "name": "Normal Golf Game"
     },
+    "3615180": {
+      "rank": 978,
+      "estimate": "40k+",
+      "name": "Infect: The Last Stand"
+    },
+    "3637650": {
+      "rank": 9913,
+      "estimate": "<7k",
+      "name": "Don't Fall"
+    },
+    "3732830": {
+      "rank": 1901,
+      "estimate": "15k+",
+      "name": "Dark Cards of Candlewood"
+    },
+    "3780530": {
+      "rank": 6680,
+      "estimate": "<7k",
+      "name": "American Cooking Simulator: Multiplayer"
+    },
     "3788800": {
-      "rank": 77,
-      "estimate": "300k+",
+      "rank": 342,
+      "estimate": "80k+",
       "name": "Atomic Heart 2"
+    },
+    "4155380": {
+      "rank": 2205,
+      "estimate": "7k+",
+      "name": "HAUS"
+    },
+    "4174280": {
+      "rank": 8947,
+      "estimate": "<7k",
+      "name": "Dungeon Potato"
+    },
+    "4295860": {
+      "rank": 8525,
+      "estimate": "<7k",
+      "name": "Yami Mura"
+    },
+    "4308490": {
+      "rank": 7455,
+      "estimate": "<7k",
+      "name": "Mighty Mahjong"
+    },
+    "4411310": {
+      "rank": 6912,
+      "estimate": "<7k",
+      "name": "Climb to the Moon"
+    },
+    "4439240": {
+      "rank": 1077,
+      "estimate": "25k+",
+      "name": "Forza Horizon 6 Expansion 1"
+    },
+    "4447090": {
+      "rank": 5882,
+      "estimate": "<7k",
+      "name": "Master of Chaos: Beat or Break the Game"
+    },
+    "4459350": {
+      "rank": 6876,
+      "estimate": "<7k",
+      "name": "HADALYTH ZERO: ただ転生したらペンギンの異世界釣りスローライフだった件"
+    },
+    "4581370": {
+      "rank": 574,
+      "estimate": "40k+",
+      "name": "Where Dolls Hang"
+    },
+    "4589020": {
+      "rank": 5114,
+      "estimate": "<7k",
+      "name": "Mother Zina"
+    },
+    "4653310": {
+      "rank": 6312,
+      "estimate": "<7k",
+      "name": "石中剑"
+    },
+    "4704850": {
+      "rank": 3233,
+      "estimate": "<7k",
+      "name": "Necrotel: No Checkout"
+    },
+    "4769110": {
+      "rank": 8653,
+      "estimate": "<7k",
+      "name": "The Confined: Basement"
+    },
+    "4773180": {
+      "rank": 6341,
+      "estimate": "<7k",
+      "name": "For The Cat! Sorcerer's Revenge"
     }
   }
 }

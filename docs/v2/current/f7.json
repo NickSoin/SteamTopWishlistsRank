@@ -1,113 +1,228 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 44,
   "entries": {
-    "1485640": {
-      "rank": 2348,
-      "estimate": "7k+",
-      "name": "The Day After"
+    "438210": {
+      "rank": 9134,
+      "estimate": "<7k",
+      "name": "MULE Returns"
+    },
+    "1708400": {
+      "rank": 3114,
+      "estimate": "<7k",
+      "name": "TS FANTASY"
     },
     "1751950": {
-      "rank": 3642,
+      "rank": 6361,
       "estimate": "<7k",
       "name": "THE GREAT CIRCLE"
     },
     "2165530": {
-      "rank": 1799,
-      "estimate": "15k+",
+      "rank": 3099,
+      "estimate": "<7k",
       "name": "Make me Float"
     },
     "2314460": {
-      "rank": 3409,
+      "rank": 6084,
       "estimate": "<7k",
       "name": "CultureHouse"
     },
+    "2332060": {
+      "rank": 8813,
+      "estimate": "<7k",
+      "name": "BLIGHTWRECK"
+    },
     "2396130": {
-      "rank": 1976,
-      "estimate": "15k+",
+      "rank": 9438,
+      "estimate": "<7k",
       "name": "Australia Did It"
     },
+    "2479640": {
+      "rank": 3472,
+      "estimate": "<7k",
+      "name": "Daybreakers"
+    },
     "2820080": {
-      "rank": 4498,
+      "rank": 7654,
       "estimate": "<7k",
       "name": "Mad Skills Motocross: Chasing the Dream"
     },
     "2911270": {
-      "rank": 3231,
-      "estimate": "<7k",
+      "rank": 239,
+      "estimate": "80k+",
       "name": "SNAP JAW"
     },
     "2938460": {
-      "rank": 909,
+      "rank": 684,
       "estimate": "40k+",
       "name": "Police Chief Simulator"
     },
     "3015360": {
-      "rank": 2319,
-      "estimate": "7k+",
+      "rank": 6497,
+      "estimate": "<7k",
       "name": "Shiba Sweet"
     },
+    "3070310": {
+      "rank": 7359,
+      "estimate": "<7k",
+      "name": "Tiny Fishing Club"
+    },
     "3073940": {
-      "rank": 112,
-      "estimate": "200k+",
+      "rank": 1158,
+      "estimate": "25k+",
       "name": "God Save Birmingham"
     },
-    "3144750": {
-      "rank": 4499,
+    "3137370": {
+      "rank": 5066,
       "estimate": "<7k",
-      "name": "Maui the Shapeshifter"
+      "name": "Trap with Furry Femboy"
+    },
+    "3224920": {
+      "rank": 4610,
+      "estimate": "<7k",
+      "name": "Skyward Masters"
     },
     "3299920": {
-      "rank": 437,
+      "rank": 467,
       "estimate": "80k+",
       "name": "Liminal Point"
     },
     "3366370": {
-      "rank": 1851,
+      "rank": 1572,
       "estimate": "15k+",
       "name": "UnderMire"
     },
     "3408450": {
-      "rank": 1160,
-      "estimate": "25k+",
+      "rank": 4280,
+      "estimate": "<7k",
       "name": "Tiny Hero Courier"
     },
+    "3476110": {
+      "rank": 5893,
+      "estimate": "<7k",
+      "name": "Narco Express"
+    },
+    "3510760": {
+      "rank": 2476,
+      "estimate": "7k+",
+      "name": "MODULE:BERSERK (모듈 버서크)"
+    },
     "3544130": {
-      "rank": 1255,
-      "estimate": "25k+",
+      "rank": 878,
+      "estimate": "40k+",
       "name": "Soul Chained"
     },
     "3588570": {
-      "rank": 4154,
+      "rank": 3963,
       "estimate": "<7k",
       "name": "Spookitchen"
     },
     "3610790": {
-      "rank": 3911,
-      "estimate": "<7k",
+      "rank": 1691,
+      "estimate": "15k+",
       "name": "Hope in the City"
     },
+    "3617290": {
+      "rank": 4996,
+      "estimate": "<7k",
+      "name": "Runix: Pinball Roguelike"
+    },
     "3673490": {
-      "rank": 3530,
+      "rank": 4113,
       "estimate": "<7k",
       "name": "Eldramoor: Haven in the Mist"
     },
+    "3713240": {
+      "rank": 2634,
+      "estimate": "7k+",
+      "name": "Last Drone War"
+    },
+    "3834750": {
+      "rank": 7592,
+      "estimate": "<7k",
+      "name": "Nitro & Necros"
+    },
+    "3901920": {
+      "rank": 7179,
+      "estimate": "<7k",
+      "name": "SGS Burning Banners"
+    },
     "3965430": {
-      "rank": 3806,
+      "rank": 6536,
       "estimate": "<7k",
       "name": "The Mailroom"
     },
     "4057480": {
-      "rank": 506,
+      "rank": 789,
       "estimate": "40k+",
       "name": "American Truck Simulator - British Columbia"
     },
+    "4119760": {
+      "rank": 6227,
+      "estimate": "<7k",
+      "name": "In Search of Freedom"
+    },
     "4125860": {
-      "rank": 2536,
-      "estimate": "7k+",
+      "rank": 3808,
+      "estimate": "<7k",
       "name": "Eternity Breaker"
+    },
+    "4177830": {
+      "rank": 6236,
+      "estimate": "<7k",
+      "name": "Life of a Cockroach"
+    },
+    "4221560": {
+      "rank": 7457,
+      "estimate": "<7k",
+      "name": "Puzzle Rogue"
+    },
+    "4369260": {
+      "rank": 4765,
+      "estimate": "<7k",
+      "name": "Act! Autonomy: Cell-Tones"
+    },
+    "4459420": {
+      "rank": 2621,
+      "estimate": "7k+",
+      "name": "Moonlight Cornelia"
+    },
+    "4553700": {
+      "rank": 5988,
+      "estimate": "<7k",
+      "name": "Broken Frontier"
+    },
+    "4571010": {
+      "rank": 9873,
+      "estimate": "<7k",
+      "name": "Dungeon Stew"
+    },
+    "4679730": {
+      "rank": 6804,
+      "estimate": "<7k",
+      "name": "Estancia Protocol Zero"
+    },
+    "4696180": {
+      "rank": 8216,
+      "estimate": "<7k",
+      "name": "Ballad of the Magic Wand"
+    },
+    "4704870": {
+      "rank": 5793,
+      "estimate": "<7k",
+      "name": "Pegote"
+    },
+    "4771290": {
+      "rank": 2101,
+      "estimate": "7k+",
+      "name": "Hands Up, G!"
+    },
+    "4793030": {
+      "rank": 9005,
+      "estimate": "<7k",
+      "name": "The Labyrinth At The End Of Time"
     }
   }
 }

@@ -1,113 +1,173 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 33,
   "entries": {
     "1368050": {
-      "rank": 636,
-      "estimate": "40k+",
+      "rank": 3204,
+      "estimate": "<7k",
       "name": "La Mer La Guerre"
     },
-    "1598150": {
-      "rank": 4577,
-      "estimate": "<7k",
-      "name": "Potion Pipeline"
-    },
-    "1719700": {
-      "rank": 3677,
-      "estimate": "<7k",
-      "name": "Super Simmer"
-    },
     "1742740": {
-      "rank": 2961,
-      "estimate": "7k+",
+      "rank": 8631,
+      "estimate": "<7k",
       "name": "Ribby: The Game"
     },
     "1779610": {
-      "rank": 580,
-      "estimate": "40k+",
+      "rank": 1405,
+      "estimate": "25k+",
       "name": "Farm Renovator"
     },
-    "2280900": {
-      "rank": 4050,
+    "1911760": {
+      "rank": 9202,
       "estimate": "<7k",
-      "name": "Blood Rot: 1918"
+      "name": "SeaDogs Of Nassau"
     },
     "2666580": {
-      "rank": 675,
-      "estimate": "40k+",
+      "rank": 1912,
+      "estimate": "15k+",
       "name": "Pathfinder: Abomination Vaults"
     },
     "3197360": {
-      "rank": 3519,
-      "estimate": "<7k",
+      "rank": 2411,
+      "estimate": "7k+",
       "name": "60 Seconds! Souper Scavenger"
     },
+    "3268910": {
+      "rank": 8967,
+      "estimate": "<7k",
+      "name": "Dear Brother: Beware of the Witch"
+    },
     "3297800": {
-      "rank": 2616,
+      "rank": 2360,
       "estimate": "7k+",
       "name": "GRIMPS"
     },
-    "3327880": {
-      "rank": 4413,
+    "3363800": {
+      "rank": 9673,
       "estimate": "<7k",
-      "name": "Leap Galaxy"
+      "name": "Echo of Souls"
     },
     "3399900": {
-      "rank": 1166,
-      "estimate": "25k+",
+      "rank": 506,
+      "estimate": "40k+",
       "name": "HellSlave II: Judgment of the Archon"
     },
+    "3473440": {
+      "rank": 9869,
+      "estimate": "<7k",
+      "name": "Sparrow Warfare"
+    },
     "3622350": {
-      "rank": 1574,
-      "estimate": "15k+",
+      "rank": 4266,
+      "estimate": "<7k",
       "name": "Kill Joy"
     },
+    "3750820": {
+      "rank": 7798,
+      "estimate": "<7k",
+      "name": "Plush Shop Simulator"
+    },
     "3790280": {
-      "rank": 4541,
+      "rank": 5401,
       "estimate": "<7k",
       "name": "Over the Radio"
     },
-    "3793270": {
-      "rank": 4169,
-      "estimate": "<7k",
-      "name": "Bygoner"
-    },
     "3818450": {
-      "rank": 3879,
+      "rank": 4261,
       "estimate": "<7k",
       "name": "Everlast: Undying Tale"
     },
     "3847920": {
-      "rank": 650,
-      "estimate": "40k+",
+      "rank": 20,
+      "estimate": "800k+",
       "name": "Wild n Chill"
     },
     "3853110": {
-      "rank": 2299,
-      "estimate": "7k+",
+      "rank": 3407,
+      "estimate": "<7k",
       "name": "Crusaders Quest : MergeChess"
     },
     "3939100": {
-      "rank": 4649,
-      "estimate": "<7k",
+      "rank": 2859,
+      "estimate": "7k+",
       "name": "Insomnia: Chapter One"
     },
+    "3994800": {
+      "rank": 5288,
+      "estimate": "<7k",
+      "name": "White Whisper"
+    },
+    "4042450": {
+      "rank": 7503,
+      "estimate": "<7k",
+      "name": "Street Life: It’s Mine Now!"
+    },
     "4120310": {
-      "rank": 3454,
+      "rank": 3421,
       "estimate": "<7k",
       "name": "70s-style Robot Anime Geppy-X"
     },
     "4139020": {
-      "rank": 4315,
-      "estimate": "<7k",
+      "rank": 2251,
+      "estimate": "7k+",
       "name": "AUTOMA"
     },
     "4193590": {
-      "rank": 1752,
-      "estimate": "15k+",
+      "rank": 1379,
+      "estimate": "25k+",
       "name": "Salvation Denied"
+    },
+    "4196140": {
+      "rank": 5209,
+      "estimate": "<7k",
+      "name": "Off Gridders"
+    },
+    "4317130": {
+      "rank": 5791,
+      "estimate": "<7k",
+      "name": "FishPond"
+    },
+    "4353570": {
+      "rank": 4888,
+      "estimate": "<7k",
+      "name": "Ember Glimmer"
+    },
+    "4560260": {
+      "rank": 3929,
+      "estimate": "<7k",
+      "name": "Backrooms Anomaly: Pools"
+    },
+    "4562150": {
+      "rank": 6813,
+      "estimate": "<7k",
+      "name": "How To Grow a Black Hole"
+    },
+    "4606070": {
+      "rank": 7201,
+      "estimate": "<7k",
+      "name": "Deadly Obsession"
+    },
+    "4664980": {
+      "rank": 9982,
+      "estimate": "<7k",
+      "name": "Fox Two Protocol"
+    },
+    "4673070": {
+      "rank": 8948,
+      "estimate": "<7k",
+      "name": "LUCREA: LABAN"
+    },
+    "4705850": {
+      "rank": 8912,
+      "estimate": "<7k",
+      "name": "JOB"
+    },
+    "4712810": {
+      "rank": 7441,
+      "estimate": "<7k",
+      "name": "Hungry Hangry Doodles"
     }
   }
 }

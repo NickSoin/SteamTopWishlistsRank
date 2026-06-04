@@ -1,88 +1,163 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T18:03:09.476Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-04T22:02:09.354Z",
+  "entryCount": 31,
   "entries": {
     "864170": {
-      "rank": 2145,
-      "estimate": "7k+",
+      "rank": 1351,
+      "estimate": "25k+",
       "name": "Midnight Horde"
     },
     "1142570": {
-      "rank": 1118,
-      "estimate": "25k+",
+      "rank": 9036,
+      "estimate": "<7k",
       "name": "We Stay Behind"
     },
     "1362000": {
-      "rank": 807,
-      "estimate": "40k+",
+      "rank": 4405,
+      "estimate": "<7k",
       "name": "Skyclimbers"
     },
-    "1429620": {
-      "rank": 3134,
+    "1902970": {
+      "rank": 7622,
       "estimate": "<7k",
-      "name": "Tales of Herring Lake"
+      "name": "Castle Come"
+    },
+    "2231660": {
+      "rank": 4074,
+      "estimate": "<7k",
+      "name": "Descent Horizon"
     },
     "2272360": {
-      "rank": 17,
-      "estimate": "800k+",
+      "rank": 8,
+      "estimate": "1.5m+",
       "name": "Warhammer 40,000: Dawn of War IV"
     },
-    "2436490": {
-      "rank": 4282,
+    "2778220": {
+      "rank": 4202,
       "estimate": "<7k",
-      "name": "VEIL"
+      "name": "Palm Sugar: A Village Story"
     },
     "2796220": {
-      "rank": 473,
-      "estimate": "80k+",
+      "rank": 1495,
+      "estimate": "25k+",
       "name": "Apogea"
     },
+    "3004670": {
+      "rank": 5925,
+      "estimate": "<7k",
+      "name": "Casino Tycoon"
+    },
+    "3047590": {
+      "rank": 4188,
+      "estimate": "<7k",
+      "name": "Max Gentlemen: Escape From Moriarty Mansion"
+    },
     "3050460": {
-      "rank": 4053,
+      "rank": 4833,
       "estimate": "<7k",
       "name": "Mafia Life Simulator"
     },
     "3126170": {
-      "rank": 4657,
+      "rank": 4638,
       "estimate": "<7k",
       "name": "Cyber Paranoia"
     },
     "3219010": {
-      "rank": 660,
+      "rank": 897,
       "estimate": "40k+",
       "name": "Fogpiercer"
     },
-    "3353590": {
-      "rank": 2204,
-      "estimate": "7k+",
-      "name": "Jinn Hunter"
+    "3347960": {
+      "rank": 9780,
+      "estimate": "<7k",
+      "name": "BackRooms X"
     },
     "3501050": {
-      "rank": 4374,
-      "estimate": "<7k",
+      "rank": 1206,
+      "estimate": "25k+",
       "name": "Total Incremental Battle"
     },
-    "3657070": {
-      "rank": 3617,
-      "estimate": "<7k",
-      "name": "Quartermaster"
-    },
     "3743810": {
-      "rank": 2538,
-      "estimate": "7k+",
+      "rank": 1598,
+      "estimate": "15k+",
       "name": "Pact, Passion, Puchimon!"
     },
-    "3897090": {
-      "rank": 2567,
+    "3782390": {
+      "rank": 6690,
+      "estimate": "<7k",
+      "name": "Prime World: Nova"
+    },
+    "3850590": {
+      "rank": 2154,
       "estimate": "7k+",
+      "name": "Project Revenant"
+    },
+    "3878710": {
+      "rank": 5019,
+      "estimate": "<7k",
+      "name": "Gridiron Remastered"
+    },
+    "3882900": {
+      "rank": 9866,
+      "estimate": "<7k",
+      "name": "No Space For Salad"
+    },
+    "3897090": {
+      "rank": 1056,
+      "estimate": "25k+",
       "name": "Temple Maker 64"
     },
-    "4210670": {
-      "rank": 3613,
+    "4067890": {
+      "rank": 9049,
       "estimate": "<7k",
+      "name": "Tulip Season"
+    },
+    "4130400": {
+      "rank": 8700,
+      "estimate": "<7k",
+      "name": "Weed Empire"
+    },
+    "4174620": {
+      "rank": 9650,
+      "estimate": "<7k",
+      "name": "Market Moe"
+    },
+    "4210670": {
+      "rank": 1821,
+      "estimate": "15k+",
       "name": "Forgotten Terror"
+    },
+    "4212650": {
+      "rank": 8979,
+      "estimate": "<7k",
+      "name": "Horns"
+    },
+    "4222950": {
+      "rank": 5419,
+      "estimate": "<7k",
+      "name": "Eyetrainer - FPS Reaction & Aim"
+    },
+    "4335140": {
+      "rank": 5045,
+      "estimate": "<7k",
+      "name": "Quarantine"
+    },
+    "4559140": {
+      "rank": 5543,
+      "estimate": "<7k",
+      "name": "Godius Eternal War"
+    },
+    "4579120": {
+      "rank": 7147,
+      "estimate": "<7k",
+      "name": "归墟GuiXu"
+    },
+    "4660800": {
+      "rank": 5239,
+      "estimate": "<7k",
+      "name": "Blooming Canvas"
     }
   }
 }
