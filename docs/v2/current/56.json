@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T05:39:51.626Z",
+  "updatedAt": "2026-06-04T09:07:55.696Z",
   "entryCount": 19,
   "entries": {
     "1081830": {
@@ -30,7 +30,7 @@
       "name": "Sealed Gate"
     },
     "1941640": {
-      "rank": 1339,
+      "rank": 1338,
       "estimate": "25k+",
       "name": "4D Miner"
     },
@@ -40,7 +40,7 @@
       "name": "Crescent County"
     },
     "2210240": {
-      "rank": 2960,
+      "rank": 2964,
       "estimate": "7k+",
       "name": "Hoglands"
     },
@@ -65,12 +65,12 @@
       "name": "Tornado Emergency"
     },
     "3166050": {
-      "rank": 438,
+      "rank": 439,
       "estimate": "80k+",
       "name": "Quite a Ride"
     },
     "3259000": {
-      "rank": 2846,
+      "rank": 2849,
       "estimate": "7k+",
       "name": "Crathos Deep"
     },
@@ -80,22 +80,22 @@
       "name": "Black Pine: Incident Response"
     },
     "3819020": {
-      "rank": 4463,
+      "rank": 4462,
       "estimate": "<7k",
       "name": "DEADBOOT"
     },
     "3880400": {
-      "rank": 1724,
+      "rank": 1723,
       "estimate": "15k+",
       "name": "FRUKT"
     },
     "4513480": {
-      "rank": 902,
+      "rank": 903,
       "estimate": "40k+",
       "name": "Scarlet Skips"
     },
     "4689550": {
-      "rank": 4493,
+      "rank": 4482,
       "estimate": "<7k",
       "name": "RuneCipher"
     }

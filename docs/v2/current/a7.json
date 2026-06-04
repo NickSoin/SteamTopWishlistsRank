@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T05:39:51.626Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-04T09:07:55.696Z",
+  "entryCount": 13,
   "entries": {
     "1241390": {
       "rank": 2037,
@@ -15,9 +15,14 @@
       "name": "Route 66 Simulator"
     },
     "1985940": {
-      "rank": 2996,
+      "rank": 2998,
       "estimate": "7k+",
       "name": "Abyss Fantasia"
+    },
+    "2457640": {
+      "rank": 4701,
+      "estimate": "<7k",
+      "name": "HEARTRENDER"
     },
     "2647870": {
       "rank": 2208,
@@ -30,12 +35,12 @@
       "name": "ANDALAS : Realms of Eternal Lights"
     },
     "3794700": {
-      "rank": 3974,
+      "rank": 3973,
       "estimate": "<7k",
       "name": "The Second Reality Room: Unspoken Truths"
     },
     "3896040": {
-      "rank": 4509,
+      "rank": 4508,
       "estimate": "<7k",
       "name": "WOODROT"
     },
@@ -50,7 +55,7 @@
       "name": "Forts - Firebird"
     },
     "4193010": {
-      "rank": 3816,
+      "rank": 3817,
       "estimate": "<7k",
       "name": "Hypernet Explorer"
     },
@@ -60,7 +65,7 @@
       "name": "Sister Other Paranoia"
     },
     "4349020": {
-      "rank": 2436,
+      "rank": 2435,
       "estimate": "7k+",
       "name": "Late Night Manifest"
     }
