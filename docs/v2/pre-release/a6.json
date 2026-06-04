@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T13:45:50.552Z",
+  "updatedAt": "2026-06-04T18:03:09.476Z",
   "entryCount": 34,
   "entries": {
     "871540": {
@@ -236,12 +236,12 @@
       "source": "tracked"
     },
     "3710840": {
-      "rank": 29,
-      "estimate": "100k",
-      "actualWishlists": 100000,
+      "rank": 366,
+      "estimate": "80k+",
       "name": "House Flipper Remastered Collection",
       "releaseDate": "2026-06-04",
-      "source": "historical",
+      "source": "tracked",
+      "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623110217"
     }
   }

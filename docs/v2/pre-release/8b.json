@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T13:45:50.552Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-04T18:03:09.476Z",
+  "entryCount": 23,
   "entries": {
     "736590": {
       "rank": 75,
@@ -159,6 +159,13 @@
       "name": "UMIGARI | ウミガリ",
       "releaseDate": "2026-02-04",
       "source": "historical"
+    },
+    "4341060": {
+      "rank": 2256,
+      "estimate": "7k+",
+      "name": "Songs of Conquest - Yulan",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T13:45:50.552Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-04T18:03:09.476Z",
+  "entryCount": 27,
   "entries": {
     "924750": {
       "rank": 198,
@@ -191,6 +191,13 @@
       "releaseDate": "2025-07-22",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289606637"
+    },
+    "3618850": {
+      "rank": 2640,
+      "estimate": "7k+",
+      "name": "Pronoun Palace",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }

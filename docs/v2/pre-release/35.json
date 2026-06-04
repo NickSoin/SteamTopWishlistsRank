@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T13:45:50.552Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-04T18:03:09.476Z",
+  "entryCount": 38,
   "entries": {
     "671860": {
       "rank": 22,
@@ -45,6 +45,13 @@
       "name": "Cosplay Club",
       "releaseDate": "2025-04-29",
       "source": "historical"
+    },
+    "1281640": {
+      "rank": 581,
+      "estimate": "40k+",
+      "name": "Medic: Pacific War",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     },
     "1510470": {
       "rank": 845,

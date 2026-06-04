@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T13:45:50.552Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T18:03:09.476Z",
+  "entryCount": 18,
   "entries": {
     "897730": {
       "rank": 9,
@@ -122,6 +122,13 @@
       "name": "Dungeons of Eternity",
       "releaseDate": "2025-09-11",
       "source": "historical"
+    },
+    "4429870": {
+      "rank": 1652,
+      "estimate": "15k+",
+      "name": "There's Nothing Down There",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }

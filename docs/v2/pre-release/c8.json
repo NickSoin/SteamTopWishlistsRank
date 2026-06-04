@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T13:45:50.552Z",
+  "updatedAt": "2026-06-04T18:03:09.476Z",
   "entryCount": 26,
   "entries": {
     "349470": {
@@ -119,12 +119,12 @@
       "source": "historical"
     },
     "1902940": {
-      "rank": 1871,
-      "estimate": "1k",
-      "actualWishlists": 1000,
+      "rank": 1389,
+      "estimate": "25k+",
       "name": "Snacktorio",
       "releaseDate": "2026-06-04",
-      "source": "historical",
+      "source": "tracked",
+      "actualWishlists": 1000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5133583642665074249"
     },
     "1961600": {

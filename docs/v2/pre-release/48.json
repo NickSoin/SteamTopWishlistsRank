@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T13:45:50.552Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-04T18:03:09.476Z",
+  "entryCount": 24,
   "entries": {
     "1170080": {
       "rank": 986,
@@ -164,6 +164,13 @@
       "name": "Class of '09: The Flip Side",
       "releaseDate": "2024-09-23",
       "source": "historical"
+    },
+    "4046960": {
+      "rank": 1131,
+      "estimate": "25k+",
+      "name": "Car Dealer Simulator - Up 2 You DLC",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }
