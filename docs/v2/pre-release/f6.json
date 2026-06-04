@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T09:07:55.696Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-04T13:45:50.552Z",
+  "entryCount": 28,
   "entries": {
     "858710": {
       "rank": 35,
@@ -196,6 +196,13 @@
       "releaseDate": "2026-04-16",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806718596"
+    },
+    "4157170": {
+      "rank": 3802,
+      "estimate": "<7k",
+      "name": "Sports Card Shop Simulator",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }

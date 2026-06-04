@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T09:07:55.696Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-04T13:45:50.552Z",
+  "entryCount": 18,
   "entries": {
     "388860": {
       "rank": 116,
@@ -15,12 +15,12 @@
       "name": "Bright Red Skies"
     },
     "1368160": {
-      "rank": 1986,
+      "rank": 1987,
       "estimate": "15k+",
       "name": "Heart Of Muriet"
     },
     "1464330": {
-      "rank": 2387,
+      "rank": 2386,
       "estimate": "7k+",
       "name": "I am Your Lawyer"
     },
@@ -35,17 +35,17 @@
       "name": "Untamed Isles"
     },
     "2056130": {
-      "rank": 3466,
+      "rank": 3468,
       "estimate": "<7k",
       "name": "Grand Arms: March of the Red Dragon"
     },
     "2371060": {
-      "rank": 3926,
+      "rank": 3924,
       "estimate": "<7k",
       "name": "It Consumes"
     },
     "2699230": {
-      "rank": 838,
+      "rank": 835,
       "estimate": "40k+",
       "name": "Grim Dawn - Fangs of Asterkarn"
     },
@@ -55,39 +55,44 @@
       "name": "THE IRONY"
     },
     "3168560": {
-      "rank": 1642,
+      "rank": 1641,
       "estimate": "15k+",
       "name": "Dragon's Brew"
     },
     "3297040": {
-      "rank": 3714,
+      "rank": 3712,
       "estimate": "<7k",
       "name": "Adventurers Guild Inc."
     },
     "3393850": {
-      "rank": 2237,
+      "rank": 2236,
       "estimate": "7k+",
       "name": "Dicewood"
     },
     "3421740": {
-      "rank": 4495,
+      "rank": 4491,
       "estimate": "<7k",
       "name": "Garden Ink"
     },
     "3462190": {
-      "rank": 488,
+      "rank": 489,
       "estimate": "80k+",
       "name": "PHASE ZERO"
     },
     "3832490": {
-      "rank": 1151,
+      "rank": 1152,
       "estimate": "25k+",
       "name": "Antivirus Survivors 2003 Professional"
     },
     "4142530": {
-      "rank": 4421,
+      "rank": 4419,
       "estimate": "<7k",
       "name": "Tsumamigui 3"
+    },
+    "4656000": {
+      "rank": 4218,
+      "estimate": "<7k",
+      "name": "BOMBANANA!"
     }
   }
 }

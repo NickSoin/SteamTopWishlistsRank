@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T09:07:55.696Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-04T13:45:50.552Z",
+  "entryCount": 26,
   "entries": {
     "990630": {
       "rank": 139,
@@ -182,6 +182,13 @@
       "name": "ARK: Bob's Tall Tales",
       "releaseDate": "2024-04-01",
       "source": "historical"
+    },
+    "3440260": {
+      "rank": 3217,
+      "estimate": "<7k",
+      "name": "Alruna: End of History",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }
