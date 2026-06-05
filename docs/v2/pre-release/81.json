@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T13:33:11.746Z",
+  "updatedAt": "2026-06-05T17:40:19.078Z",
   "entryCount": 22,
   "entries": {
     "819190": {
@@ -33,12 +33,12 @@
       "source": "historical"
     },
     "1297900": {
-      "rank": 11,
-      "estimate": "1m",
-      "actualWishlists": 1000000,
+      "rank": 3,
+      "estimate": "1.5m+",
       "name": "Gothic 1 Remake",
       "releaseDate": "2026-06-05",
-      "source": "historical",
+      "source": "tracked",
+      "actualWishlists": 1000000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1803527891896164"
     },
     "1426010": {

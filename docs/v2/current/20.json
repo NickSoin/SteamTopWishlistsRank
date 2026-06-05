@@ -1,251 +1,261 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T13:33:11.746Z",
-  "entryCount": 49,
+  "updatedAt": "2026-06-05T17:40:19.078Z",
+  "entryCount": 51,
   "entries": {
+    "2138410": {
+      "rank": 9797,
+      "estimate": "<7k",
+      "name": "Turnip Mountain"
+    },
     "2301940": {
-      "rank": 5203,
+      "rank": 5202,
       "estimate": "<7k",
       "name": "BLOW-UP: AVENGE HUMANITY"
     },
     "2401440": {
-      "rank": 3565,
+      "rank": 3112,
       "estimate": "<7k",
       "name": "NEO TITAN"
     },
     "2406140": {
-      "rank": 4340,
+      "rank": 4365,
       "estimate": "<7k",
       "name": "AIKODE"
     },
     "2493050": {
-      "rank": 7124,
+      "rank": 7232,
       "estimate": "<7k",
       "name": "Method Of Entry"
     },
     "2509380": {
-      "rank": 5269,
+      "rank": 5283,
       "estimate": "<7k",
       "name": "Hear My Cult"
     },
     "2526130": {
-      "rank": 9141,
+      "rank": 8813,
       "estimate": "<7k",
       "name": "Straycloud"
     },
     "2577730": {
-      "rank": 4775,
+      "rank": 4816,
       "estimate": "<7k",
       "name": "Golel"
     },
     "2578050": {
-      "rank": 2637,
+      "rank": 2448,
       "estimate": "7k+",
       "name": "Fishing Echoes"
     },
     "2681730": {
-      "rank": 9455,
+      "rank": 9531,
       "estimate": "<7k",
       "name": "Magical Warrior Diamond Heart"
     },
     "2715880": {
-      "rank": 6189,
+      "rank": 6243,
       "estimate": "<7k",
       "name": "Farmer's Diary"
     },
     "2751080": {
-      "rank": 8552,
+      "rank": 8557,
       "estimate": "<7k",
       "name": "Visagens"
     },
     "2776270": {
-      "rank": 585,
+      "rank": 594,
       "estimate": "40k+",
       "name": "Beetleball"
     },
     "2784280": {
-      "rank": 7677,
+      "rank": 7738,
       "estimate": "<7k",
       "name": "100 Cats Pakistan"
     },
     "2836510": {
-      "rank": 8805,
+      "rank": 8855,
       "estimate": "<7k",
       "name": "Warfare Ultimatum"
     },
     "2860900": {
-      "rank": 4964,
+      "rank": 4930,
       "estimate": "<7k",
       "name": "Super Dark Deception - Chapter 2"
     },
     "2944480": {
-      "rank": 6107,
+      "rank": 5923,
       "estimate": "<7k",
       "name": "Thief Simulator 2 VR"
     },
     "2981340": {
-      "rank": 1462,
+      "rank": 1460,
       "estimate": "25k+",
       "name": "Yosuga no Sora"
     },
     "3064040": {
-      "rank": 2449,
+      "rank": 2475,
       "estimate": "7k+",
       "name": "Bluey's Happy Snaps"
     },
     "3106050": {
-      "rank": 4743,
+      "rank": 4784,
       "estimate": "<7k",
       "name": "Dark Queen of Samobor"
     },
     "3111960": {
-      "rank": 5270,
+      "rank": 5191,
       "estimate": "<7k",
       "name": "Fortress Warfare"
     },
     "3192590": {
-      "rank": 5321,
+      "rank": 5368,
       "estimate": "<7k",
       "name": "Labyrinth of the Crystal Princess"
     },
     "3232650": {
-      "rank": 2042,
+      "rank": 2071,
       "estimate": "7k+",
       "name": "The Funskin Project"
     },
     "3361860": {
-      "rank": 5735,
+      "rank": 5723,
       "estimate": "<7k",
       "name": "Army Troop Remastered"
     },
     "3371050": {
-      "rank": 1064,
+      "rank": 1094,
       "estimate": "25k+",
       "name": "Zeverland"
     },
     "3415350": {
-      "rank": 6141,
+      "rank": 6197,
       "estimate": "<7k",
       "name": "Badassgard"
     },
     "3430180": {
-      "rank": 9307,
+      "rank": 9315,
       "estimate": "<7k",
       "name": "Dungeons of Ironshade"
     },
     "3433000": {
-      "rank": 4795,
+      "rank": 4804,
       "estimate": "<7k",
       "name": "DOWNHILL"
     },
     "3466240": {
-      "rank": 2760,
+      "rank": 2784,
       "estimate": "7k+",
       "name": "Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator"
     },
     "3545200": {
-      "rank": 2469,
+      "rank": 2495,
       "estimate": "7k+",
       "name": "Space Dingus"
     },
     "3560670": {
-      "rank": 285,
+      "rank": 278,
       "estimate": "80k+",
       "name": "OpenFront"
     },
     "3746940": {
-      "rank": 6779,
+      "rank": 6789,
       "estimate": "<7k",
       "name": "HELLBOUND INC"
     },
     "3807560": {
-      "rank": 5302,
+      "rank": 5346,
       "estimate": "<7k",
       "name": "Crimson Horn"
     },
     "3948940": {
-      "rank": 9680,
+      "rank": 9681,
       "estimate": "<7k",
       "name": "Isekai HKV"
     },
     "3982670": {
-      "rank": 2762,
+      "rank": 2623,
       "estimate": "7k+",
       "name": "CHOPSTICKS: Stick Figure Fighting"
     },
+    "4039250": {
+      "rank": 9970,
+      "estimate": "<7k",
+      "name": "The Towering Dungeon"
+    },
     "4052060": {
-      "rank": 7234,
+      "rank": 7204,
       "estimate": "<7k",
       "name": "DaoAdvanture"
     },
     "4126510": {
-      "rank": 234,
+      "rank": 221,
       "estimate": "80k+",
       "name": "My Otter Friends"
     },
     "4157110": {
-      "rank": 2920,
+      "rank": 2935,
       "estimate": "7k+",
       "name": "Terminator: Dark Fate - Defiance: Evolution"
     },
     "4282830": {
-      "rank": 6601,
+      "rank": 6680,
       "estimate": "<7k",
       "name": "Cozy Farm"
     },
     "4373420": {
-      "rank": 8129,
+      "rank": 7845,
       "estimate": "<7k",
       "name": "All Haul the King"
     },
     "4401110": {
-      "rank": 9469,
+      "rank": 9439,
       "estimate": "<7k",
       "name": "Keyboard Hero"
     },
     "4434200": {
-      "rank": 8204,
+      "rank": 8160,
       "estimate": "<7k",
       "name": "REMNANT: Rebirth"
     },
     "4476000": {
-      "rank": 5079,
+      "rank": 5021,
       "estimate": "<7k",
       "name": "Remagotchi"
     },
     "4492330": {
-      "rank": 5428,
+      "rank": 5470,
       "estimate": "<7k",
       "name": "Land of Nod"
     },
     "4541830": {
-      "rank": 2344,
+      "rank": 2372,
       "estimate": "7k+",
       "name": "DEATH FROM BELOW"
     },
     "4542750": {
-      "rank": 4219,
+      "rank": 4214,
       "estimate": "<7k",
       "name": "VELATO"
     },
     "4544910": {
-      "rank": 6923,
+      "rank": 6979,
       "estimate": "<7k",
       "name": "Block Crime"
     },
     "4639050": {
-      "rank": 1169,
+      "rank": 1202,
       "estimate": "25k+",
       "name": "Battle Queen"
     },
     "4687020": {
-      "rank": 5656,
+      "rank": 5553,
       "estimate": "<7k",
       "name": "Guncrypt"
     },
     "4710320": {
-      "rank": 4240,
+      "rank": 4176,
       "estimate": "<7k",
       "name": "onRails"
     }

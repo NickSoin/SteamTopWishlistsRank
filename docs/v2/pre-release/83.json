@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T13:33:11.746Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-05T17:40:19.078Z",
+  "entryCount": 28,
   "entries": {
     "867210": {
       "rank": 90,
@@ -191,6 +191,13 @@
       "estimate": "7k+",
       "name": "Alchemist: Journey of the Soul",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4346450": {
+      "rank": 9948,
+      "estimate": "<7k",
+      "name": "Stoned to Death",
+      "releaseDate": "2026-06-05",
       "source": "tracked"
     }
   }

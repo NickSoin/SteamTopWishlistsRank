@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T13:33:11.746Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-05T17:40:19.078Z",
+  "entryCount": 25,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -171,6 +171,13 @@
       "name": "Heretical",
       "releaseDate": "2024-10-30",
       "source": "historical"
+    },
+    "4661910": {
+      "rank": 7839,
+      "estimate": "<7k",
+      "name": "Nexus Legacy",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     }
   }
 }

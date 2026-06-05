@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T13:33:11.746Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-05T17:40:19.078Z",
+  "entryCount": 28,
   "entries": {
     "698670": {
       "rank": 24,
@@ -187,6 +187,13 @@
       "name": "#from #abandoned",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4131940": {
+      "rank": 4598,
+      "estimate": "<7k",
+      "name": "Shattered Chess",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     },
     "4656700": {
       "rank": 1575,

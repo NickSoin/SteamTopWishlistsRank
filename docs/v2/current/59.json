@@ -1,211 +1,221 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T13:33:11.746Z",
-  "entryCount": 41,
+  "updatedAt": "2026-06-05T17:40:19.078Z",
+  "entryCount": 43,
   "entries": {
     "983680": {
-      "rank": 7162,
+      "rank": 7171,
       "estimate": "<7k",
       "name": "SILENT DOOM"
     },
     "1113080": {
-      "rank": 7303,
+      "rank": 7327,
       "estimate": "<7k",
       "name": "Dog Trainer"
     },
     "1238190": {
-      "rank": 969,
+      "rank": 987,
       "estimate": "40k+",
       "name": "Ant Colony: Wild Forest"
     },
     "1571790": {
-      "rank": 8747,
+      "rank": 8748,
       "estimate": "<7k",
       "name": "Dust Walkers"
     },
     "1868210": {
-      "rank": 5058,
+      "rank": 5085,
       "estimate": "<7k",
       "name": "Bunker Builder Simulator"
     },
     "2211130": {
-      "rank": 2292,
+      "rank": 2320,
       "estimate": "7k+",
       "name": "SOULBOUND"
     },
     "2251220": {
-      "rank": 2322,
+      "rank": 2236,
       "estimate": "7k+",
       "name": "High Times - Dating/Cooking Sim"
     },
     "2405340": {
-      "rank": 8728,
+      "rank": 8781,
       "estimate": "<7k",
       "name": "Dead On Arrival"
     },
     "2537980": {
-      "rank": 4789,
+      "rank": 4825,
       "estimate": "<7k",
       "name": "Drăculești"
     },
     "2626770": {
-      "rank": 2639,
+      "rank": 2659,
       "estimate": "7k+",
       "name": "Yellowcake"
     },
     "2897710": {
-      "rank": 2862,
+      "rank": 2875,
       "estimate": "7k+",
       "name": "Truck Manager"
     },
     "2934080": {
-      "rank": 7701,
+      "rank": 7713,
       "estimate": "<7k",
       "name": "Travellin Cats in England"
     },
     "2943190": {
-      "rank": 1723,
+      "rank": 1742,
       "estimate": "15k+",
       "name": "Realm of Ink: Prologue"
     },
     "2949750": {
-      "rank": 2472,
+      "rank": 2502,
       "estimate": "7k+",
       "name": "Margin of the Strange"
     },
+    "3235850": {
+      "rank": 6012,
+      "estimate": "<7k",
+      "name": "Misspell"
+    },
     "3279520": {
-      "rank": 9259,
+      "rank": 9348,
       "estimate": "<7k",
       "name": "Anime Girls: Stellar Invasion"
     },
     "3412110": {
-      "rank": 5748,
+      "rank": 5691,
       "estimate": "<7k",
       "name": "Severed Love"
     },
     "3478860": {
-      "rank": 2026,
-      "estimate": "7k+",
+      "rank": 1871,
+      "estimate": "15k+",
       "name": "Ghatika"
     },
     "3720330": {
-      "rank": 324,
+      "rank": 332,
       "estimate": "80k+",
       "name": "Infinite Alliance"
     },
     "3734010": {
-      "rank": 2726,
+      "rank": 2758,
       "estimate": "7k+",
       "name": "Project Retrograde: The Becoming"
     },
     "3779440": {
-      "rank": 4136,
+      "rank": 4057,
       "estimate": "<7k",
       "name": "Deluge"
     },
     "3890260": {
-      "rank": 5358,
+      "rank": 5386,
       "estimate": "<7k",
       "name": "Edenwound"
     },
     "4039680": {
-      "rank": 5215,
+      "rank": 5260,
       "estimate": "<7k",
       "name": "Craft. Sell. Goblin. Repeat."
     },
     "4072920": {
-      "rank": 7606,
+      "rank": 7574,
       "estimate": "<7k",
       "name": "True Nightmare - Diner Loop"
     },
     "4112680": {
-      "rank": 8567,
+      "rank": 8595,
       "estimate": "<7k",
       "name": "青羽沉梦-终霰篇"
     },
     "4129350": {
-      "rank": 7023,
+      "rank": 7040,
       "estimate": "<7k",
       "name": "Motocross The Force"
     },
     "4171610": {
-      "rank": 4021,
+      "rank": 3908,
       "estimate": "<7k",
       "name": "Mutate! Fight! Purr!"
     },
     "4200880": {
-      "rank": 6302,
+      "rank": 6340,
       "estimate": "<7k",
       "name": "Unbowed"
     },
     "4207100": {
-      "rank": 3476,
+      "rank": 3336,
       "estimate": "<7k",
       "name": "I Know a Spot"
     },
     "4306070": {
-      "rank": 3645,
+      "rank": 3670,
       "estimate": "<7k",
       "name": "Catch Meow If You Can"
     },
     "4321680": {
-      "rank": 9181,
+      "rank": 9280,
       "estimate": "<7k",
       "name": "Healer"
     },
     "4479150": {
-      "rank": 9682,
+      "rank": 9711,
       "estimate": "<7k",
       "name": "Kādomon: Incremental Eclipse"
     },
     "4486220": {
-      "rank": 3739,
+      "rank": 3699,
       "estimate": "<7k",
       "name": "Touhou Brawl"
     },
     "4488590": {
-      "rank": 5962,
+      "rank": 5963,
       "estimate": "<7k",
       "name": "Turbo Hatchback Time Attack"
     },
     "4528300": {
-      "rank": 9951,
+      "rank": 9818,
       "estimate": "<7k",
       "name": "Mammon’s Wager"
     },
     "4540720": {
-      "rank": 9824,
+      "rank": 9959,
       "estimate": "<7k",
       "name": "Lucky Again"
     },
     "4584940": {
-      "rank": 7452,
+      "rank": 7386,
       "estimate": "<7k",
       "name": "Frog Climb"
     },
     "4604390": {
-      "rank": 7169,
+      "rank": 7230,
       "estimate": "<7k",
       "name": "ReliCursed"
     },
     "4652780": {
-      "rank": 4673,
+      "rank": 4695,
       "estimate": "<7k",
       "name": "Black Ledger: The Antique Mafia"
     },
     "4663300": {
-      "rank": 1961,
+      "rank": 1987,
       "estimate": "15k+",
       "name": "Apocalypse: The Last RV"
     },
+    "4675040": {
+      "rank": 7886,
+      "estimate": "<7k",
+      "name": "Kemonauts Planet"
+    },
     "4719870": {
-      "rank": 8000,
+      "rank": 8094,
       "estimate": "<7k",
       "name": "Ore Legacy"
     },
     "4738930": {
-      "rank": 2961,
+      "rank": 2991,
       "estimate": "7k+",
       "name": "REDLINE — Strings of Fate"
     }

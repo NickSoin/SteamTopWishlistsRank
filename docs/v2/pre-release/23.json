@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T13:33:11.746Z",
-  "entryCount": 38,
+  "updatedAt": "2026-06-05T17:40:19.078Z",
+  "entryCount": 39,
   "entries": {
     "454120": {
       "rank": 35,
@@ -269,6 +269,13 @@
       "name": "Moomintroll: Winter's Warmth",
       "releaseDate": "2026-04-27",
       "source": "historical"
+    },
+    "4220350": {
+      "rank": 7602,
+      "estimate": "<7k",
+      "name": "Lord Of Anatolia",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     }
   }
 }

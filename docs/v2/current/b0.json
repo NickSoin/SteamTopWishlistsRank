@@ -1,226 +1,231 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T13:33:11.746Z",
-  "entryCount": 44,
+  "updatedAt": "2026-06-05T17:40:19.078Z",
+  "entryCount": 45,
   "entries": {
     "494240": {
-      "rank": 6620,
+      "rank": 6644,
       "estimate": "<7k",
       "name": "Pengame"
     },
     "939530": {
-      "rank": 1277,
+      "rank": 1295,
       "estimate": "25k+",
       "name": "The Free Shepherd"
     },
     "1009410": {
-      "rank": 6085,
+      "rank": 6108,
       "estimate": "<7k",
       "name": "Eternal Exodus"
     },
     "1030780": {
-      "rank": 2915,
+      "rank": 2948,
       "estimate": "7k+",
       "name": "Afterconflict"
     },
     "1403030": {
-      "rank": 8506,
+      "rank": 8545,
       "estimate": "<7k",
       "name": "Wanderlost"
     },
     "2138340": {
-      "rank": 9600,
+      "rank": 9585,
       "estimate": "<7k",
       "name": "Ships Simulator 2024"
     },
     "2393460": {
-      "rank": 7140,
+      "rank": 7226,
       "estimate": "<7k",
       "name": "City Of Corals"
     },
     "2477360": {
-      "rank": 6239,
+      "rank": 6230,
       "estimate": "<7k",
       "name": "Shin Sophstar"
     },
     "2870130": {
-      "rank": 9097,
+      "rank": 9141,
       "estimate": "<7k",
       "name": "ENDS"
     },
     "2943470": {
-      "rank": 8835,
+      "rank": 8501,
       "estimate": "<7k",
       "name": "Contract Cafe"
     },
     "3185060": {
-      "rank": 754,
+      "rank": 764,
       "estimate": "40k+",
       "name": "Ruina Remake"
     },
     "3201450": {
-      "rank": 4398,
+      "rank": 4416,
       "estimate": "<7k",
       "name": "Darkfallen Survivors"
     },
     "3220200": {
-      "rank": 740,
+      "rank": 757,
       "estimate": "40k+",
       "name": "Rise of Lambs : Awakening"
     },
     "3418160": {
-      "rank": 1873,
+      "rank": 1894,
       "estimate": "15k+",
       "name": "Radiotext"
     },
     "3453420": {
-      "rank": 8926,
+      "rank": 8969,
       "estimate": "<7k",
       "name": "Shroud of Gloom"
     },
     "3484950": {
-      "rank": 1435,
+      "rank": 1319,
       "estimate": "25k+",
       "name": "AfterQuest"
     },
     "3534190": {
-      "rank": 6175,
+      "rank": 6173,
       "estimate": "<7k",
       "name": "YOKAI HUNTERS"
     },
     "3552590": {
-      "rank": 3313,
+      "rank": 3315,
       "estimate": "<7k",
       "name": "Animal Bakery"
     },
     "3600170": {
-      "rank": 4894,
+      "rank": 4881,
       "estimate": "<7k",
       "name": "Escape the Scam Compound"
     },
     "3680220": {
-      "rank": 8594,
+      "rank": 8668,
       "estimate": "<7k",
       "name": "Totally Nutz: An 80s Adventure"
     },
     "3777140": {
-      "rank": 9915,
+      "rank": 9965,
       "estimate": "<7k",
       "name": "The Face Horror Game"
     },
     "3806350": {
-      "rank": 4890,
+      "rank": 4892,
       "estimate": "<7k",
       "name": "Harventure"
     },
     "3964520": {
-      "rank": 9442,
+      "rank": 9461,
       "estimate": "<7k",
       "name": "Punch TV"
     },
     "3973300": {
-      "rank": 762,
+      "rank": 776,
       "estimate": "40k+",
       "name": "Dark Craft"
     },
     "3986120": {
-      "rank": 2303,
+      "rank": 2328,
       "estimate": "7k+",
       "name": "The Goddess's Will"
     },
     "4030280": {
-      "rank": 4434,
+      "rank": 4447,
       "estimate": "<7k",
       "name": "飞花剑"
     },
     "4077630": {
-      "rank": 5112,
+      "rank": 5153,
       "estimate": "<7k",
       "name": "Super Real AI"
     },
     "4088360": {
-      "rank": 1653,
+      "rank": 1685,
       "estimate": "15k+",
       "name": "Funeral for the Sun"
     },
     "4109980": {
-      "rank": 2937,
+      "rank": 2956,
       "estimate": "7k+",
       "name": "Riftwalker"
     },
+    "4160880": {
+      "rank": 775,
+      "estimate": "40k+",
+      "name": "Ember Seeker"
+    },
     "4296440": {
-      "rank": 6512,
+      "rank": 6260,
       "estimate": "<7k",
       "name": "Sunset Hills - Wickel Chapter"
     },
     "4326130": {
-      "rank": 4669,
+      "rank": 4681,
       "estimate": "<7k",
       "name": "Spooky Market"
     },
     "4364330": {
-      "rank": 9747,
+      "rank": 9827,
       "estimate": "<7k",
       "name": "Corridors"
     },
     "4448980": {
-      "rank": 8788,
+      "rank": 8740,
       "estimate": "<7k",
       "name": "Auntie Heroes"
     },
     "4463680": {
-      "rank": 5094,
+      "rank": 5108,
       "estimate": "<7k",
       "name": "Dorts : A Darts Roguelike"
     },
     "4492060": {
-      "rank": 429,
+      "rank": 440,
       "estimate": "80k+",
       "name": "Crime Scene Cleaner - Biohazard"
     },
     "4498220": {
-      "rank": 187,
+      "rank": 188,
       "estimate": "200k+",
       "name": "Brotato: Primal Dread"
     },
     "4540020": {
-      "rank": 6696,
+      "rank": 5962,
       "estimate": "<7k",
       "name": "IRON-PLUNDER"
     },
     "4556180": {
-      "rank": 7746,
+      "rank": 7776,
       "estimate": "<7k",
       "name": "RuneKeeper"
     },
     "4608850": {
-      "rank": 8811,
+      "rank": 8849,
       "estimate": "<7k",
       "name": "Aetheris Core"
     },
     "4648890": {
-      "rank": 5808,
+      "rank": 5800,
       "estimate": "<7k",
       "name": "Intergalactic Puzzle Touchdown"
     },
     "4682760": {
-      "rank": 9667,
+      "rank": 9661,
       "estimate": "<7k",
       "name": "Silk Home: echoes of the forbidden"
     },
     "4683420": {
-      "rank": 2975,
+      "rank": 2997,
       "estimate": "7k+",
       "name": "Toypunk"
     },
     "4744400": {
-      "rank": 4391,
+      "rank": 4408,
       "estimate": "<7k",
       "name": "Verdant Requiem"
     },
     "4752890": {
-      "rank": 8561,
+      "rank": 8608,
       "estimate": "<7k",
       "name": "KNOCKOUT ARCADE"
     }

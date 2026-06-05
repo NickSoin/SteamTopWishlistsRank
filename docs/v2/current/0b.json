@@ -1,203 +1,198 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T13:33:11.746Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-05T17:40:19.078Z",
+  "entryCount": 38,
   "entries": {
     "826640": {
-      "rank": 7831,
+      "rank": 7881,
       "estimate": "<7k",
       "name": "EARTHLOCK 2"
     },
     "881940": {
-      "rank": 1547,
+      "rank": 1545,
       "estimate": "15k+",
       "name": "Guns 'n Goblins"
     },
     "1205660": {
-      "rank": 448,
+      "rank": 469,
       "estimate": "80k+",
       "name": "WOLFHOUND"
     },
     "1848610": {
-      "rank": 4139,
+      "rank": 4159,
       "estimate": "<7k",
       "name": "Rogue Mansion"
     },
     "1851810": {
-      "rank": 5041,
+      "rank": 5079,
       "estimate": "<7k",
       "name": "The Holdouts"
     },
     "1917990": {
-      "rank": 2493,
+      "rank": 2522,
       "estimate": "7k+",
       "name": "Being and Becoming"
     },
     "2027030": {
-      "rank": 2897,
+      "rank": 2932,
       "estimate": "7k+",
       "name": "Power Drill Massacre"
     },
     "2027760": {
-      "rank": 2428,
+      "rank": 2427,
       "estimate": "7k+",
       "name": "Bridgebourn"
     },
     "2067210": {
-      "rank": 584,
+      "rank": 539,
       "estimate": "40k+",
       "name": "Serious Sam: Shatterverse"
     },
     "2101420": {
-      "rank": 2431,
+      "rank": 2463,
       "estimate": "7k+",
       "name": "GIMMIKO"
     },
     "2198310": {
-      "rank": 5693,
+      "rank": 5716,
       "estimate": "<7k",
       "name": "PALEOPHAGE"
     },
     "2371490": {
-      "rank": 3726,
+      "rank": 3762,
       "estimate": "<7k",
       "name": "Pasture: The Livestock Simulator"
     },
     "2582960": {
-      "rank": 210,
+      "rank": 213,
       "estimate": "80k+",
       "name": "NAKWON: LAST PARADISE"
     },
     "2640750": {
-      "rank": 1163,
+      "rank": 1191,
       "estimate": "25k+",
       "name": "NightFall Shade"
     },
     "2852140": {
-      "rank": 2665,
+      "rank": 2692,
       "estimate": "7k+",
       "name": "Dumb Ways to Party"
     },
     "2912550": {
-      "rank": 628,
+      "rank": 639,
       "estimate": "40k+",
       "name": "Dark Scrolls"
     },
     "3120460": {
-      "rank": 4565,
+      "rank": 4570,
       "estimate": "<7k",
       "name": "Night Club Simulator: Party King"
     },
     "3339280": {
-      "rank": 5001,
+      "rank": 5040,
       "estimate": "<7k",
       "name": "From Basement with Love"
     },
     "3491100": {
-      "rank": 9164,
+      "rank": 9233,
       "estimate": "<7k",
       "name": "Roadside Motel Simulator"
     },
     "3530630": {
-      "rank": 3633,
+      "rank": 3666,
       "estimate": "<7k",
       "name": "Bless You Again"
     },
-    "3626210": {
-      "rank": 9946,
-      "estimate": "<7k",
-      "name": "Chesstro"
-    },
     "3689860": {
-      "rank": 3865,
+      "rank": 3898,
       "estimate": "<7k",
       "name": "Mount Lomyst"
     },
     "3903610": {
-      "rank": 3587,
+      "rank": 3627,
       "estimate": "<7k",
       "name": "Hear The Bell Toll"
     },
     "3923270": {
-      "rank": 9412,
+      "rank": 9074,
       "estimate": "<7k",
       "name": "Pimalai Mansion: หอนี้ ผีไม่ดุ"
     },
     "3932580": {
-      "rank": 622,
+      "rank": 635,
       "estimate": "40k+",
       "name": "Diorama Break"
     },
     "3966800": {
-      "rank": 7633,
+      "rank": 7695,
       "estimate": "<7k",
       "name": "VINCIT"
     },
     "4052410": {
-      "rank": 3551,
+      "rank": 3568,
       "estimate": "<7k",
       "name": "EP.9"
     },
+    "4170220": {
+      "rank": 7812,
+      "estimate": "<7k",
+      "name": "Dave.EXE"
+    },
     "4200020": {
-      "rank": 6382,
+      "rank": 6393,
       "estimate": "<7k",
       "name": "Chess You"
     },
     "4231820": {
-      "rank": 225,
+      "rank": 230,
       "estimate": "80k+",
       "name": "Castlevania: Belmont's Curse"
     },
     "4238320": {
-      "rank": 4430,
+      "rank": 4393,
       "estimate": "<7k",
       "name": "Game Jam Watercooler Sim"
     },
     "4269050": {
-      "rank": 9749,
+      "rank": 9847,
       "estimate": "<7k",
       "name": "Cars on Mars"
     },
     "4270360": {
-      "rank": 8977,
+      "rank": 8920,
       "estimate": "<7k",
       "name": "Stack Haven"
     },
     "4310440": {
-      "rank": 750,
+      "rank": 752,
       "estimate": "40k+",
       "name": "Crown Siege"
     },
     "4350620": {
-      "rank": 5495,
+      "rank": 5530,
       "estimate": "<7k",
       "name": "Voxel Playground"
     },
     "4425610": {
-      "rank": 2096,
-      "estimate": "7k+",
+      "rank": 1931,
+      "estimate": "15k+",
       "name": "KILLFLOW"
     },
     "4560650": {
-      "rank": 2158,
+      "rank": 2191,
       "estimate": "7k+",
       "name": "BACKROOMS"
     },
     "4567710": {
-      "rank": 1206,
+      "rank": 1228,
       "estimate": "25k+",
       "name": "Template!! An Angel's Gift"
     },
     "4661520": {
-      "rank": 3834,
+      "rank": 3872,
       "estimate": "<7k",
       "name": "MUSO"
-    },
-    "4681580": {
-      "rank": 9967,
-      "estimate": "<7k",
-      "name": "Nobody's Erde"
     }
   }
 }

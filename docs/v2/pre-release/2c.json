@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T13:33:11.746Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-05T17:40:19.078Z",
+  "entryCount": 26,
   "entries": {
     "252190": {
       "rank": 1772,
@@ -180,6 +180,13 @@
       "source": "tracked",
       "actualWishlists": 3000000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821318455"
+    },
+    "4182710": {
+      "rank": 8523,
+      "estimate": "<7k",
+      "name": "Dustin Sunset",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     }
   }
 }
