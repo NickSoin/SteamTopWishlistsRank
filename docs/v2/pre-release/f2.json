@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T04:55:35.039Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-05T09:22:18.789Z",
+  "entryCount": 34,
   "entries": {
     "931060": {
       "rank": 1426,
@@ -236,6 +236,13 @@
       "name": "Days Gone - Broken Road DLC",
       "releaseDate": "2025-04-24",
       "source": "historical"
+    },
+    "3818900": {
+      "rank": 1412,
+      "estimate": "25k+",
+      "name": "Putrika 2nd.cut:For the Exquisite Attire",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }

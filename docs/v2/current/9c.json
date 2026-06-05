@@ -1,216 +1,221 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T04:55:35.039Z",
-  "entryCount": 42,
+  "updatedAt": "2026-06-05T09:22:18.789Z",
+  "entryCount": 43,
   "entries": {
     "811760": {
-      "rank": 6033,
+      "rank": 6057,
       "estimate": "<7k",
       "name": "The Last Exterminator"
     },
     "1695530": {
-      "rank": 6181,
+      "rank": 6130,
       "estimate": "<7k",
       "name": "Seen 2"
     },
     "2245600": {
-      "rank": 3033,
+      "rank": 3071,
       "estimate": "<7k",
       "name": "Case 0 - The Witch"
     },
     "2270150": {
-      "rank": 7491,
+      "rank": 7506,
       "estimate": "<7k",
       "name": "Mental Harm"
     },
     "2524200": {
-      "rank": 2091,
+      "rank": 2114,
       "estimate": "7k+",
       "name": "KILLA"
     },
     "2606300": {
-      "rank": 7627,
+      "rank": 7698,
       "estimate": "<7k",
       "name": "Sticker Kittens"
     },
     "2660230": {
-      "rank": 2445,
+      "rank": 2465,
       "estimate": "7k+",
       "name": "Kill The Shadow"
     },
     "2941630": {
-      "rank": 870,
+      "rank": 824,
       "estimate": "40k+",
       "name": "Dungeons and Dining Tables"
     },
     "2976470": {
-      "rank": 2072,
-      "estimate": "7k+",
+      "rank": 1939,
+      "estimate": "15k+",
       "name": "Shape Sender Deluxe"
     },
     "3008640": {
-      "rank": 900,
+      "rank": 917,
       "estimate": "40k+",
       "name": "Onikura"
     },
     "3074980": {
-      "rank": 99,
-      "estimate": "300k+",
+      "rank": 101,
+      "estimate": "200k+",
       "name": "Earths Edge"
     },
     "3113690": {
-      "rank": 1035,
-      "estimate": "25k+",
+      "rank": 983,
+      "estimate": "40k+",
       "name": "Ship Miner"
     },
     "3162900": {
-      "rank": 2719,
+      "rank": 2723,
       "estimate": "7k+",
       "name": "遥かなる円形世界"
     },
     "3194080": {
-      "rank": 7783,
+      "rank": 7695,
       "estimate": "<7k",
       "name": "Calvar - The Darkest Gate"
     },
     "3287720": {
-      "rank": 9939,
+      "rank": 9674,
       "estimate": "<7k",
       "name": "ELISSA ：Body in the bedroom"
     },
     "3305750": {
-      "rank": 3290,
+      "rank": 3337,
       "estimate": "<7k",
       "name": "TIMEMOON"
     },
     "3326670": {
-      "rank": 409,
+      "rank": 418,
       "estimate": "80k+",
       "name": "Dreamstranded"
     },
     "3426150": {
-      "rank": 13,
+      "rank": 14,
       "estimate": "800k+",
       "name": "I Have No Change"
     },
     "3565390": {
-      "rank": 8205,
+      "rank": 8301,
       "estimate": "<7k",
       "name": "SIGILLUM"
     },
     "3596910": {
-      "rank": 8757,
+      "rank": 8852,
       "estimate": "<7k",
       "name": "UNBOXING: 1-BIT PARADOX"
     },
     "3643250": {
-      "rank": 2814,
+      "rank": 2516,
       "estimate": "7k+",
       "name": "Chiklet's Human Products"
     },
     "3772990": {
-      "rank": 3140,
+      "rank": 3069,
       "estimate": "<7k",
       "name": "Solbrand"
     },
     "3963730": {
-      "rank": 9744,
+      "rank": 9832,
       "estimate": "<7k",
       "name": "Overland Journey"
     },
     "4091920": {
-      "rank": 1625,
+      "rank": 1659,
       "estimate": "15k+",
       "name": "Schedule Store Simulator"
     },
     "4122240": {
-      "rank": 7113,
+      "rank": 7171,
       "estimate": "<7k",
       "name": "Veiled Shadows"
     },
     "4122510": {
-      "rank": 4874,
+      "rank": 4886,
       "estimate": "<7k",
       "name": "Nostalgic Joe - And The Fairy Whispers"
     },
     "4135110": {
-      "rank": 8344,
+      "rank": 8400,
       "estimate": "<7k",
       "name": "8AM: The Graveyard"
     },
     "4245970": {
-      "rank": 9101,
+      "rank": 9121,
       "estimate": "<7k",
       "name": "WINGMINE"
     },
     "4273540": {
-      "rank": 7470,
+      "rank": 7487,
       "estimate": "<7k",
       "name": "Mono"
     },
     "4327490": {
-      "rank": 707,
+      "rank": 718,
       "estimate": "40k+",
       "name": "Alarial's Blessing"
     },
     "4364730": {
-      "rank": 901,
+      "rank": 922,
       "estimate": "40k+",
       "name": "IGTAP: an Incremental Game That's Also a Platformer"
     },
     "4373600": {
-      "rank": 9844,
+      "rank": 9627,
       "estimate": "<7k",
       "name": "我主沉浮-Master of Fate's Tides"
     },
     "4401370": {
-      "rank": 1346,
+      "rank": 1336,
       "estimate": "25k+",
       "name": "Skills & Raids"
     },
     "4404940": {
-      "rank": 4017,
+      "rank": 4050,
       "estimate": "<7k",
       "name": "Slime in the Ice Machine"
     },
     "4405420": {
-      "rank": 6581,
+      "rank": 6617,
       "estimate": "<7k",
       "name": "Slice Art Engine"
     },
     "4411090": {
-      "rank": 6574,
+      "rank": 6571,
       "estimate": "<7k",
       "name": "SCP: Pale Weaver"
     },
     "4456600": {
-      "rank": 8439,
+      "rank": 8399,
       "estimate": "<7k",
       "name": "Deliverage"
     },
     "4525520": {
-      "rank": 5352,
+      "rank": 5333,
       "estimate": "<7k",
       "name": "Jarred Defense"
     },
     "4540550": {
-      "rank": 5325,
+      "rank": 5373,
       "estimate": "<7k",
       "name": "Corocoro Friends"
     },
     "4621600": {
-      "rank": 4558,
+      "rank": 4591,
       "estimate": "<7k",
       "name": "LEGION OF HONOR"
     },
     "4650950": {
-      "rank": 3213,
-      "estimate": "<7k",
+      "rank": 1540,
+      "estimate": "15k+",
       "name": "COCORO"
     },
+    "4707580": {
+      "rank": 9909,
+      "estimate": "<7k",
+      "name": "War in Asia"
+    },
     "4775570": {
-      "rank": 6340,
+      "rank": 6364,
       "estimate": "<7k",
       "name": "Hunter: Space Pirates - Chapter 4"
     }

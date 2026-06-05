@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T04:55:35.039Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-05T09:22:18.789Z",
+  "entryCount": 27,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -191,6 +191,13 @@
       "name": "Nightmare Kart",
       "releaseDate": "2024-06-05",
       "source": "historical"
+    },
+    "3634340": {
+      "rank": 1171,
+      "estimate": "25k+",
+      "name": "吾皇万岁",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     }
   }
 }

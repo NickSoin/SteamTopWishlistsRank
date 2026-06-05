@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T04:55:35.039Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-05T09:22:18.789Z",
+  "entryCount": 30,
   "entries": {
     "719040": {
       "rank": 20,
@@ -207,6 +207,13 @@
       "estimate": "7k+",
       "name": "Budgie's Bug Shop",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "4748570": {
+      "rank": 6314,
+      "estimate": "<7k",
+      "name": "NGL Biathlon 2026 - Summer",
+      "releaseDate": "2026-06-04",
       "source": "tracked"
     }
   }

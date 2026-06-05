@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T04:55:35.039Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-05T09:22:18.789Z",
+  "entryCount": 21,
   "entries": {
     "950180": {
       "rank": 218,
@@ -145,6 +145,13 @@
       "name": "GeoGuessr Steam Edition",
       "releaseDate": "2025-05-08",
       "source": "historical"
+    },
+    "4522150": {
+      "rank": 6597,
+      "estimate": "<7k",
+      "name": "Crazy Caveman",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }

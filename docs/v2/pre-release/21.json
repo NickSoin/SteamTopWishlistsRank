@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T04:55:35.039Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-05T09:22:18.789Z",
+  "entryCount": 23,
   "entries": {
     "924980": {
       "rank": 34,
@@ -157,6 +157,13 @@
       "name": "Assassin's Creed Black Flag Resynced",
       "releaseDate": "2026-07-09",
       "source": "historical"
+    },
+    "4556110": {
+      "rank": 2441,
+      "estimate": "7k+",
+      "name": "Kinetype",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     }
   }
 }
