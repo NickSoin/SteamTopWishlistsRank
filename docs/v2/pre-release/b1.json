@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T09:22:18.789Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-05T13:33:11.746Z",
+  "entryCount": 23,
   "entries": {
     "844260": {
       "rank": 74,
@@ -161,6 +161,13 @@
       "name": "Tavern Manager Simulator 🍻",
       "releaseDate": "2024-08-13",
       "source": "historical"
+    },
+    "3515530": {
+      "rank": 605,
+      "estimate": "40k+",
+      "name": "Ice Cream Simulator",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     }
   }
 }

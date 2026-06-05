@@ -1,216 +1,226 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T09:22:18.789Z",
-  "entryCount": 42,
+  "updatedAt": "2026-06-05T13:33:11.746Z",
+  "entryCount": 44,
   "entries": {
+    "812910": {
+      "rank": 9934,
+      "estimate": "<7k",
+      "name": "Zodiac Legion"
+    },
     "1610360": {
-      "rank": 5700,
+      "rank": 5709,
       "estimate": "<7k",
       "name": "UKIYO"
     },
     "2022610": {
-      "rank": 1915,
+      "rank": 1957,
       "estimate": "15k+",
       "name": "CRETE"
     },
     "2054000": {
-      "rank": 5074,
+      "rank": 5066,
       "estimate": "<7k",
       "name": "Presentable Liberty Remake"
     },
     "2614150": {
-      "rank": 8646,
+      "rank": 8645,
       "estimate": "<7k",
       "name": "Privateer"
     },
     "2684630": {
-      "rank": 2149,
+      "rank": 2172,
       "estimate": "7k+",
       "name": "Endacopia"
     },
     "2746680": {
-      "rank": 5110,
+      "rank": 5118,
       "estimate": "<7k",
       "name": "DARKWATCH"
     },
     "2850840": {
-      "rank": 9558,
+      "rank": 9655,
       "estimate": "<7k",
       "name": "Tokyo Mafia Simulator"
     },
     "2882410": {
-      "rank": 5103,
+      "rank": 5110,
       "estimate": "<7k",
       "name": "Vanlife Camping Simulator"
     },
     "2982660": {
-      "rank": 6721,
+      "rank": 6456,
       "estimate": "<7k",
       "name": "Rakeo"
     },
     "3014650": {
-      "rank": 560,
+      "rank": 575,
       "estimate": "40k+",
       "name": ".45 PARABELLUM BLOODHOUND - Cyberpunk Active Time Action"
     },
     "3015910": {
-      "rank": 2013,
+      "rank": 2030,
       "estimate": "7k+",
       "name": "iScoot: Scooter Sim"
     },
     "3223070": {
-      "rank": 385,
+      "rank": 394,
       "estimate": "80k+",
       "name": "Thief Simulator 3"
     },
     "3358170": {
-      "rank": 1621,
+      "rank": 1549,
       "estimate": "15k+",
       "name": "Dodo Duckie"
     },
     "3447070": {
-      "rank": 2141,
+      "rank": 2152,
       "estimate": "7k+",
       "name": "Emergency Call - The Firefighting Simulation 3"
     },
     "3450100": {
-      "rank": 4979,
+      "rank": 5005,
       "estimate": "<7k",
       "name": "Gretel's Honesty"
     },
     "3548810": {
-      "rank": 1211,
+      "rank": 1231,
       "estimate": "25k+",
       "name": "Ritual Tides"
     },
     "3736530": {
-      "rank": 956,
+      "rank": 980,
       "estimate": "40k+",
       "name": "Stigmatum"
     },
     "3883290": {
-      "rank": 3547,
+      "rank": 3559,
       "estimate": "<7k",
       "name": "LABYRINTHOS: The Depths Want You"
     },
     "3910330": {
-      "rank": 782,
+      "rank": 786,
       "estimate": "40k+",
       "name": "Mayak"
     },
     "3976200": {
-      "rank": 3484,
+      "rank": 3518,
       "estimate": "<7k",
       "name": "Punch Lunch: Foodtruck Fighter"
     },
     "4029770": {
-      "rank": 519,
+      "rank": 535,
       "estimate": "40k+",
       "name": "THERMOCLINE"
     },
     "4071810": {
-      "rank": 4166,
+      "rank": 4183,
       "estimate": "<7k",
       "name": "F1 Simulator"
     },
     "4074040": {
-      "rank": 8056,
+      "rank": 7941,
       "estimate": "<7k",
       "name": "Vivian Wade: Danger Down The Aisle"
     },
     "4195110": {
-      "rank": 1192,
+      "rank": 1176,
       "estimate": "25k+",
       "name": "Ultrapool"
     },
     "4223460": {
-      "rank": 3389,
+      "rank": 3398,
       "estimate": "<7k",
       "name": "Taj Mod"
     },
     "4232530": {
-      "rank": 8870,
+      "rank": 8875,
       "estimate": "<7k",
       "name": "Bajan Ball Z"
     },
     "4259450": {
-      "rank": 7769,
+      "rank": 7786,
       "estimate": "<7k",
       "name": "Showrunners"
     },
     "4295090": {
-      "rank": 3884,
+      "rank": 3908,
       "estimate": "<7k",
       "name": "Horses of Gavarnie"
     },
     "4331110": {
-      "rank": 4921,
+      "rank": 4925,
       "estimate": "<7k",
       "name": "O EMPIRE! WARD OFF THY ROT"
     },
     "4339680": {
-      "rank": 365,
+      "rank": 377,
       "estimate": "80k+",
       "name": "Totally Safe Moon Project"
     },
+    "4489930": {
+      "rank": 9991,
+      "estimate": "<7k",
+      "name": "Memory Brew: Tales of Underworld"
+    },
     "4490200": {
-      "rank": 2470,
+      "rank": 2451,
       "estimate": "7k+",
       "name": "Love n Life: Happy Student - Secret Edicts"
     },
     "4571310": {
-      "rank": 2243,
+      "rank": 2288,
       "estimate": "7k+",
       "name": "Spooker"
     },
     "4579480": {
-      "rank": 7067,
+      "rank": 7089,
       "estimate": "<7k",
       "name": "TAMBOURINE"
     },
     "4587210": {
-      "rank": 7322,
+      "rank": 7214,
       "estimate": "<7k",
       "name": "Mayor Quake"
     },
     "4605240": {
-      "rank": 6054,
+      "rank": 6109,
       "estimate": "<7k",
       "name": "Make my Sandwich"
     },
     "4625800": {
-      "rank": 1707,
+      "rank": 1730,
       "estimate": "15k+",
       "name": "Black Plague: Survival"
     },
     "4645200": {
-      "rank": 3557,
+      "rank": 3575,
       "estimate": "<7k",
       "name": "Rogue Realm: Guardian Grids"
     },
     "4669350": {
-      "rank": 8689,
+      "rank": 8777,
       "estimate": "<7k",
       "name": "WinHack 95"
     },
     "4725520": {
-      "rank": 5930,
+      "rank": 6006,
       "estimate": "<7k",
       "name": "Atlantis Fantasy: Reborn"
     },
     "4735600": {
-      "rank": 8729,
+      "rank": 8803,
       "estimate": "<7k",
       "name": "Chess Peace"
     },
     "4740600": {
-      "rank": 8405,
+      "rank": 8434,
       "estimate": "<7k",
       "name": "Ouch! Cargo!"
     },
     "4771190": {
-      "rank": 8029,
+      "rank": 7958,
       "estimate": "<7k",
       "name": "Storage 8 VR"
     }

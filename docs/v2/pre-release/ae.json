@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T09:22:18.789Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-05T13:33:11.746Z",
+  "entryCount": 27,
   "entries": {
     "593150": {
       "rank": 72,
@@ -191,6 +191,13 @@
       "releaseDate": "2026-04-30",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770236720"
+    },
+    "4688470": {
+      "rank": 4233,
+      "estimate": "<7k",
+      "name": "Donlan Men's Athletic Academy: Before the Line",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     }
   }
 }

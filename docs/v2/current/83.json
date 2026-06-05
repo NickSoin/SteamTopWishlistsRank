@@ -1,141 +1,141 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T09:22:18.789Z",
-  "entryCount": 45,
+  "updatedAt": "2026-06-05T13:33:11.746Z",
+  "entryCount": 46,
   "entries": {
     "1373910": {
-      "rank": 488,
-      "estimate": "80k+",
+      "rank": 504,
+      "estimate": "40k+",
       "name": "Anvil Empires"
     },
     "1576780": {
-      "rank": 2665,
+      "rank": 2693,
       "estimate": "7k+",
       "name": "WWII Online: Chokepoint"
     },
     "1586260": {
-      "rank": 395,
+      "rank": 406,
       "estimate": "80k+",
       "name": "BLACKFROST: The Long Dark 2"
     },
     "1614330": {
-      "rank": 1011,
+      "rank": 1032,
       "estimate": "25k+",
       "name": "Crowsworn"
     },
     "1661330": {
-      "rank": 573,
+      "rank": 592,
       "estimate": "40k+",
       "name": "SacriFire"
     },
     "1670080": {
-      "rank": 9874,
+      "rank": 9862,
       "estimate": "<7k",
       "name": "Tiny Room Stories: Rift Escape"
     },
     "1735880": {
-      "rank": 6437,
+      "rank": 6358,
       "estimate": "<7k",
       "name": "Drake Frontier"
     },
     "1949610": {
-      "rank": 2344,
+      "rank": 2348,
       "estimate": "7k+",
       "name": "Luminous Nights"
     },
     "2417950": {
-      "rank": 7887,
+      "rank": 7927,
       "estimate": "<7k",
       "name": "Astra Noctis"
     },
     "2500690": {
-      "rank": 5043,
+      "rank": 5060,
       "estimate": "<7k",
       "name": "Dumbriel: Magnificent Adventure in Hell"
     },
     "3064500": {
-      "rank": 6599,
+      "rank": 6635,
       "estimate": "<7k",
       "name": "DOBA - Dogs Battle Arena"
     },
     "3176720": {
-      "rank": 5658,
+      "rank": 5702,
       "estimate": "<7k",
       "name": "Royalty Free-For-All"
     },
     "3449440": {
-      "rank": 4470,
+      "rank": 4425,
       "estimate": "<7k",
       "name": "Bishojo Mangekyo Ibun Snow Woman"
     },
     "3481840": {
-      "rank": 5916,
+      "rank": 5943,
       "estimate": "<7k",
       "name": "Escape from Planet Pan: Scam Center"
     },
     "3687790": {
-      "rank": 6496,
+      "rank": 6489,
       "estimate": "<7k",
       "name": "Deadliest Pigeon"
     },
     "3724880": {
-      "rank": 4374,
+      "rank": 4407,
       "estimate": "<7k",
       "name": "Battle Boss"
     },
     "3810240": {
-      "rank": 1959,
+      "rank": 1779,
       "estimate": "15k+",
       "name": "In Full Bloom"
     },
     "3929470": {
-      "rank": 933,
+      "rank": 956,
       "estimate": "40k+",
       "name": "Warhounds"
     },
     "3963670": {
-      "rank": 1581,
+      "rank": 1603,
       "estimate": "15k+",
       "name": "Inquisitor Shepherd"
     },
     "3982150": {
-      "rank": 3766,
+      "rank": 3797,
       "estimate": "<7k",
       "name": "Low Level Hunters"
     },
     "4028510": {
-      "rank": 7777,
+      "rank": 7814,
       "estimate": "<7k",
       "name": "King's Angel: Otome"
     },
     "4085850": {
-      "rank": 3492,
+      "rank": 3509,
       "estimate": "<7k",
       "name": "Tokyo Outbreak: Zero"
     },
     "4102540": {
-      "rank": 7002,
+      "rank": 7057,
       "estimate": "<7k",
       "name": "Ultimate Girlfriend Experience"
     },
     "4105040": {
-      "rank": 7768,
+      "rank": 7711,
       "estimate": "<7k",
       "name": "Russian Village Business"
     },
     "4145350": {
-      "rank": 3218,
+      "rank": 3226,
       "estimate": "<7k",
       "name": "Alice and the Devil's Prison"
     },
     "4187860": {
-      "rank": 5425,
+      "rank": 5486,
       "estimate": "<7k",
       "name": "Sunday Scaries"
     },
     "4203890": {
-      "rank": 4529,
+      "rank": 4569,
       "estimate": "<7k",
       "name": "Pirate Panic!"
     },
@@ -145,87 +145,92 @@
       "name": "Midnight Watcher: Village"
     },
     "4259930": {
-      "rank": 6139,
+      "rank": 6177,
       "estimate": "<7k",
       "name": "Harpooner"
     },
     "4288200": {
-      "rank": 7872,
+      "rank": 7947,
       "estimate": "<7k",
       "name": "Scrap Protocol"
     },
     "4311520": {
-      "rank": 7988,
+      "rank": 7998,
       "estimate": "<7k",
       "name": "Tennis"
     },
     "4334910": {
-      "rank": 2045,
+      "rank": 2090,
       "estimate": "7k+",
       "name": "Craving Wisps"
     },
+    "4346450": {
+      "rank": 9948,
+      "estimate": "<7k",
+      "name": "Stoned to Death"
+    },
     "4355700": {
-      "rank": 5214,
+      "rank": 5208,
       "estimate": "<7k",
       "name": "Stellaris: Scenario Pack 2"
     },
     "4434670": {
-      "rank": 2413,
+      "rank": 2434,
       "estimate": "7k+",
       "name": "Chattini Jetpack Project: A Hololive Fan Game"
     },
     "4460460": {
-      "rank": 2750,
+      "rank": 2785,
       "estimate": "7k+",
       "name": "Miniature LAND -Four Seasons-"
     },
     "4508230": {
-      "rank": 1886,
+      "rank": 1917,
       "estimate": "15k+",
       "name": "Fallbearers"
     },
     "4538080": {
-      "rank": 3099,
+      "rank": 3123,
       "estimate": "<7k",
       "name": "Kingdom Inc."
     },
     "4539450": {
-      "rank": 6750,
+      "rank": 5620,
       "estimate": "<7k",
       "name": "足球大玩家"
     },
     "4566010": {
-      "rank": 3907,
+      "rank": 3938,
       "estimate": "<7k",
       "name": "Red Echoes: Berlin"
     },
     "4570530": {
-      "rank": 2486,
+      "rank": 2511,
       "estimate": "7k+",
       "name": "TTT Classic"
     },
     "4584160": {
-      "rank": 4037,
+      "rank": 3909,
       "estimate": "<7k",
       "name": "Deck of Potential"
     },
     "4600680": {
-      "rank": 7395,
+      "rank": 7223,
       "estimate": "<7k",
       "name": "Eternal Hatred"
     },
     "4639370": {
-      "rank": 6355,
+      "rank": 5817,
       "estimate": "<7k",
       "name": "Mobile Front"
     },
     "4669960": {
-      "rank": 50,
-      "estimate": "600k+",
+      "rank": 51,
+      "estimate": "300k+",
       "name": "Dungeon Lurker"
     },
     "4678470": {
-      "rank": 122,
+      "rank": 127,
       "estimate": "200k+",
       "name": "The Magician's Hand"
     }

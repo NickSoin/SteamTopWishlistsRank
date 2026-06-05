@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T09:22:18.789Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-05T13:33:11.746Z",
+  "entryCount": 20,
   "entries": {
     "820520": {
       "rank": 553,
@@ -136,6 +136,13 @@
       "name": "Folie Fatale",
       "releaseDate": "2024-05-30",
       "source": "historical"
+    },
+    "3014580": {
+      "rank": 1584,
+      "estimate": "15k+",
+      "name": "Follow Us",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     }
   }
 }

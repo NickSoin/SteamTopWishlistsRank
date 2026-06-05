@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T09:22:18.789Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-05T13:33:11.746Z",
+  "entryCount": 16,
   "entries": {
     "589450": {
       "rank": 1113,
@@ -94,6 +94,13 @@
       "name": "Dog Brew",
       "releaseDate": "2024-04-30",
       "source": "historical"
+    },
+    "3324250": {
+      "rank": 743,
+      "estimate": "40k+",
+      "name": "Astral Lords",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     },
     "3503790": {
       "rank": 2734,

@@ -1,208 +1,203 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T09:22:18.789Z",
-  "entryCount": 40,
+  "updatedAt": "2026-06-05T13:33:11.746Z",
+  "entryCount": 39,
   "entries": {
     "1509800": {
-      "rank": 3563,
+      "rank": 3604,
       "estimate": "<7k",
       "name": "MAK: Survival"
     },
     "1551980": {
-      "rank": 215,
-      "estimate": "80k+",
+      "rank": 199,
+      "estimate": "200k+",
       "name": "Clive Barker's Hellraiser: Revival"
     },
     "1606970": {
-      "rank": 4658,
+      "rank": 4688,
       "estimate": "<7k",
       "name": "Ronin Trail"
     },
     "1977610": {
-      "rank": 744,
+      "rank": 760,
       "estimate": "40k+",
       "name": "Long Gone",
       "actualWishlists": 200000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1808601382522882"
     },
     "1979810": {
-      "rank": 291,
+      "rank": 297,
       "estimate": "80k+",
       "name": "AdventureQuest Worlds: Infinity"
     },
     "2210840": {
-      "rank": 9720,
+      "rank": 9726,
       "estimate": "<7k",
       "name": "Kaiju Cleaner"
     },
     "2749070": {
-      "rank": 8477,
+      "rank": 8463,
       "estimate": "<7k",
       "name": "Sword and Fairy: Far Beyond Time"
     },
     "2791970": {
-      "rank": 7457,
+      "rank": 7567,
       "estimate": "<7k",
       "name": "Delivery Driver Service"
     },
     "2809220": {
-      "rank": 6885,
+      "rank": 6946,
       "estimate": "<7k",
       "name": "Status Entropos"
     },
     "2985520": {
-      "rank": 1852,
+      "rank": 1894,
       "estimate": "15k+",
       "name": "The Player Who Can't Level Up"
     },
     "3137010": {
-      "rank": 6307,
+      "rank": 6356,
       "estimate": "<7k",
       "name": "Meat Engine"
     },
     "3241560": {
-      "rank": 2366,
+      "rank": 2259,
       "estimate": "7k+",
       "name": "Tossdown"
     },
     "3450410": {
-      "rank": 9612,
+      "rank": 9496,
       "estimate": "<7k",
       "name": "Free Castle: Survival Store"
     },
-    "3459400": {
-      "rank": 9919,
-      "estimate": "<7k",
-      "name": "Tell Me Owl"
-    },
     "3564490": {
-      "rank": 1264,
+      "rank": 1259,
       "estimate": "25k+",
       "name": "Hell Express"
     },
     "3596730": {
-      "rank": 692,
+      "rank": 714,
       "estimate": "40k+",
       "name": "Painted Kingdoms: Tower Defense & Firefighting"
     },
     "3620240": {
-      "rank": 6645,
+      "rank": 6699,
       "estimate": "<7k",
       "name": "Yots"
     },
     "3624110": {
-      "rank": 2235,
+      "rank": 2287,
       "estimate": "7k+",
       "name": "Prophet Margin"
     },
     "3722850": {
-      "rank": 7914,
+      "rank": 7942,
       "estimate": "<7k",
       "name": "Desktropolis"
     },
     "3765640": {
-      "rank": 59,
+      "rank": 61,
       "estimate": "300k+",
       "name": "Car For Sale Together"
     },
     "3778620": {
-      "rank": 5451,
+      "rank": 5456,
       "estimate": "<7k",
       "name": "Raccoons to Riches"
     },
     "3792880": {
-      "rank": 5871,
+      "rank": 5890,
       "estimate": "<7k",
       "name": "Star Tower"
     },
     "3910750": {
-      "rank": 1866,
+      "rank": 1892,
       "estimate": "15k+",
       "name": "DONUT PANIC"
     },
     "3950840": {
-      "rank": 5244,
+      "rank": 5277,
       "estimate": "<7k",
       "name": "Grannies on Wheels"
     },
     "3955960": {
-      "rank": 1779,
+      "rank": 1801,
       "estimate": "15k+",
       "name": "Chant Wizard"
     },
     "3965750": {
-      "rank": 3325,
+      "rank": 3323,
       "estimate": "<7k",
       "name": "DEBUG NEPHEMEE"
     },
     "4091090": {
-      "rank": 2703,
+      "rank": 2724,
       "estimate": "7k+",
       "name": "Cropageddon"
     },
     "4169890": {
-      "rank": 9881,
+      "rank": 9927,
       "estimate": "<7k",
       "name": "5th ERA"
     },
     "4259360": {
-      "rank": 397,
+      "rank": 395,
       "estimate": "80k+",
       "name": "Milki Delivery"
     },
     "4289800": {
-      "rank": 8780,
+      "rank": 8881,
       "estimate": "<7k",
       "name": "Tag!"
     },
     "4327300": {
-      "rank": 3829,
+      "rank": 3832,
       "estimate": "<7k",
       "name": "Silicon Gate"
     },
     "4498790": {
-      "rank": 5578,
+      "rank": 5577,
       "estimate": "<7k",
       "name": "Hazard Suits"
     },
     "4519130": {
-      "rank": 2426,
+      "rank": 2255,
       "estimate": "7k+",
       "name": "MOLDRISE"
     },
     "4526330": {
-      "rank": 5432,
+      "rank": 5485,
       "estimate": "<7k",
       "name": "Deep Space Remnant"
     },
     "4645710": {
-      "rank": 9326,
+      "rank": 9360,
       "estimate": "<7k",
       "name": "Mother ZERO"
     },
     "4683190": {
-      "rank": 3255,
+      "rank": 3284,
       "estimate": "<7k",
       "name": "Last Bullet"
     },
     "4689350": {
-      "rank": 7936,
+      "rank": 8025,
       "estimate": "<7k",
       "name": "Iron Dogs"
     },
     "4728730": {
-      "rank": 3116,
+      "rank": 3153,
       "estimate": "<7k",
       "name": "Digital Pinball: Last Gladiators"
     },
     "4739040": {
-      "rank": 2572,
+      "rank": 2485,
       "estimate": "7k+",
       "name": "DISCIPLINE SIMULATOR"
     },
     "4750100": {
-      "rank": 7051,
+      "rank": 7047,
       "estimate": "<7k",
       "name": "FERALPALS"
     }

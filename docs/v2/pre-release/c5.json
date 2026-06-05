@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T09:22:18.789Z",
-  "entryCount": 36,
+  "updatedAt": "2026-06-05T13:33:11.746Z",
+  "entryCount": 37,
   "entries": {
     "595500": {
       "rank": 511,
@@ -258,6 +258,13 @@
       "estimate": "15k+",
       "name": "Drive Together",
       "releaseDate": "2026-05-15",
+      "source": "tracked"
+    },
+    "4552990": {
+      "rank": 3768,
+      "estimate": "<7k",
+      "name": "VR Secretary-1st DLC",
+      "releaseDate": "2026-06-05",
       "source": "tracked"
     }
   }

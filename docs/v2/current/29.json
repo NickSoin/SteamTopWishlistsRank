@@ -1,151 +1,156 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T09:22:18.789Z",
-  "entryCount": 59,
+  "updatedAt": "2026-06-05T13:33:11.746Z",
+  "entryCount": 60,
   "entries": {
     "1044700": {
-      "rank": 8839,
+      "rank": 8734,
       "estimate": "<7k",
       "name": "Forsaken Realm"
     },
     "1387810": {
-      "rank": 6265,
+      "rank": 6298,
       "estimate": "<7k",
       "name": "Soup Pot"
     },
     "1408890": {
-      "rank": 9537,
+      "rank": 9464,
       "estimate": "<7k",
       "name": "Starboard"
     },
     "1418820": {
-      "rank": 5889,
+      "rank": 5851,
       "estimate": "<7k",
       "name": "Aquapark Simulator"
     },
     "1808960": {
-      "rank": 4479,
+      "rank": 4501,
       "estimate": "<7k",
       "name": "Firearms Factory"
     },
     "2203410": {
-      "rank": 8281,
+      "rank": 8317,
       "estimate": "<7k",
       "name": "Truck Simulator: WORLD"
     },
     "2259390": {
-      "rank": 2133,
+      "rank": 2177,
       "estimate": "7k+",
       "name": "NINE ROUNDS RAPID"
     },
     "2455330": {
-      "rank": 3085,
+      "rank": 3111,
       "estimate": "<7k",
       "name": "Operation Highjump: The Fall of Berlin"
     },
     "2464640": {
-      "rank": 2534,
+      "rank": 2551,
       "estimate": "7k+",
       "name": "Forsaken Lands"
     },
     "2513270": {
-      "rank": 362,
+      "rank": 372,
       "estimate": "80k+",
       "name": "UvsU: You vs You"
     },
     "2515430": {
-      "rank": 5431,
+      "rank": 5472,
       "estimate": "<7k",
       "name": "Sanctua"
     },
     "2847100": {
-      "rank": 8827,
+      "rank": 8741,
       "estimate": "<7k",
       "name": "Wick & Slate"
     },
     "2950200": {
-      "rank": 9804,
+      "rank": 9833,
       "estimate": "<7k",
       "name": "Parliament of Hell 1796"
     },
     "3011050": {
-      "rank": 6583,
+      "rank": 6563,
       "estimate": "<7k",
       "name": "Poison is Served!"
     },
     "3114850": {
-      "rank": 5292,
+      "rank": 5288,
       "estimate": "<7k",
       "name": "FLS"
     },
     "3199880": {
-      "rank": 4065,
+      "rank": 3989,
       "estimate": "<7k",
       "name": "Airport Contraband: Prologue"
     },
     "3211720": {
-      "rank": 193,
+      "rank": 194,
       "estimate": "200k+",
       "name": "Erosion"
     },
     "3274530": {
-      "rank": 1295,
+      "rank": 1318,
       "estimate": "25k+",
       "name": "Epitome"
     },
     "3314580": {
-      "rank": 844,
+      "rank": 864,
       "estimate": "40k+",
       "name": "Trash Day"
     },
     "3349520": {
-      "rank": 1713,
+      "rank": 1731,
       "estimate": "15k+",
       "name": "Iris Dissolution"
     },
     "3362130": {
-      "rank": 1551,
+      "rank": 1586,
       "estimate": "15k+",
       "name": "Room 502 : School Mystery Game"
     },
     "3383610": {
-      "rank": 7631,
+      "rank": 7682,
       "estimate": "<7k",
       "name": "Soulchain"
     },
+    "3396560": {
+      "rank": 9440,
+      "estimate": "<7k",
+      "name": "The Blessed Fool"
+    },
     "3499560": {
-      "rank": 4234,
+      "rank": 4268,
       "estimate": "<7k",
       "name": "HMUR"
     },
     "3633760": {
-      "rank": 2129,
+      "rank": 2160,
       "estimate": "7k+",
       "name": "KAZ"
     },
     "3667880": {
-      "rank": 4081,
+      "rank": 4122,
       "estimate": "<7k",
       "name": "Forestia"
     },
     "3692710": {
-      "rank": 2799,
+      "rank": 2644,
       "estimate": "7k+",
       "name": "Dream Delirio's"
     },
     "3746950": {
-      "rank": 4436,
+      "rank": 4364,
       "estimate": "<7k",
       "name": "Life, the Universe, and Restaurants"
     },
     "3779800": {
-      "rank": 4360,
+      "rank": 4373,
       "estimate": "<7k",
       "name": "EONA"
     },
     "3815560": {
-      "rank": 5964,
+      "rank": 5910,
       "estimate": "<7k",
       "name": "Ashfield Hollow"
     },
@@ -155,147 +160,147 @@
       "name": "Parsector"
     },
     "3876710": {
-      "rank": 7215,
+      "rank": 7170,
       "estimate": "<7k",
       "name": "Pigeon: A Love Story"
     },
     "3968040": {
-      "rank": 2268,
+      "rank": 2205,
       "estimate": "7k+",
       "name": "Hollow Stories: Lockdown"
     },
     "3985290": {
-      "rank": 9439,
+      "rank": 9457,
       "estimate": "<7k",
       "name": "Samara"
     },
     "4034690": {
-      "rank": 9532,
+      "rank": 9415,
       "estimate": "<7k",
       "name": "夢迷 -Mumei-"
     },
     "4085430": {
-      "rank": 2153,
+      "rank": 2192,
       "estimate": "7k+",
       "name": "Cozy Campfire Club"
     },
     "4102890": {
-      "rank": 2653,
+      "rank": 2663,
       "estimate": "7k+",
       "name": "The Many Sins of House Ocampo"
     },
     "4127280": {
-      "rank": 1649,
+      "rank": 1675,
       "estimate": "15k+",
       "name": "Elestrals Awakened"
     },
     "4149590": {
-      "rank": 7855,
+      "rank": 7951,
       "estimate": "<7k",
       "name": "Project Exodus"
     },
     "4165930": {
-      "rank": 5370,
+      "rank": 5396,
       "estimate": "<7k",
       "name": "Dawn of the Dying"
     },
     "4255950": {
-      "rank": 6662,
+      "rank": 6674,
       "estimate": "<7k",
       "name": "Eclipse"
     },
     "4286510": {
-      "rank": 3383,
+      "rank": 3374,
       "estimate": "<7k",
       "name": "Plobania 47/B"
     },
     "4326740": {
-      "rank": 8233,
+      "rank": 8149,
       "estimate": "<7k",
       "name": "Node Crown"
     },
     "4340340": {
-      "rank": 1976,
+      "rank": 1997,
       "estimate": "15k+",
       "name": "Black Omens: House of Crimson Silk"
     },
     "4383640": {
-      "rank": 9515,
+      "rank": 9578,
       "estimate": "<7k",
       "name": "Last Chance"
     },
     "4398190": {
-      "rank": 3586,
+      "rank": 3621,
       "estimate": "<7k",
       "name": "INK MAZE"
     },
     "4460000": {
-      "rank": 9739,
+      "rank": 9132,
       "estimate": "<7k",
       "name": "Overvoid"
     },
     "4470900": {
-      "rank": 6216,
+      "rank": 6263,
       "estimate": "<7k",
       "name": "Up'N'Up: Mountain Express"
     },
     "4498850": {
-      "rank": 6205,
+      "rank": 6256,
       "estimate": "<7k",
       "name": "RIPCORE"
     },
     "4508100": {
-      "rank": 7180,
+      "rank": 7096,
       "estimate": "<7k",
       "name": "StellarUniversity:FurryHearts"
     },
     "4542740": {
-      "rank": 7885,
+      "rank": 7955,
       "estimate": "<7k",
       "name": "Dinghai: The Ocean Pillar"
     },
     "4585280": {
-      "rank": 2790,
+      "rank": 2830,
       "estimate": "7k+",
       "name": "Grillhouse Protocol"
     },
     "4607690": {
-      "rank": 6766,
+      "rank": 6775,
       "estimate": "<7k",
       "name": "Math-Havoc"
     },
     "4608930": {
-      "rank": 2746,
+      "rank": 2770,
       "estimate": "7k+",
       "name": "Friendship vs The World"
     },
     "4632210": {
-      "rank": 7723,
+      "rank": 7573,
       "estimate": "<7k",
       "name": "Heroes, Warlords and Ruin"
     },
     "4632540": {
-      "rank": 3477,
+      "rank": 3510,
       "estimate": "<7k",
       "name": "Fellwood"
     },
     "4639040": {
-      "rank": 1151,
+      "rank": 1165,
       "estimate": "25k+",
       "name": "MINERALS: Deep Core Mining"
     },
     "4652340": {
-      "rank": 5015,
+      "rank": 5043,
       "estimate": "<7k",
       "name": "Cloudrooms"
     },
     "4767390": {
-      "rank": 5849,
+      "rank": 5795,
       "estimate": "<7k",
       "name": "Game About Botting in an MMORPG"
     },
     "4774840": {
-      "rank": 9310,
+      "rank": 9450,
       "estimate": "<7k",
       "name": "End's Reach II: Wake of Reason"
     }

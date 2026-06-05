@@ -1,201 +1,206 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T09:22:18.789Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-05T13:33:11.746Z",
+  "entryCount": 40,
   "entries": {
     "1215940": {
-      "rank": 1114,
+      "rank": 1132,
       "estimate": "25k+",
       "name": "Forever Ago"
     },
     "1890310": {
-      "rank": 2156,
+      "rank": 2199,
       "estimate": "7k+",
       "name": "Rogue Blight"
     },
     "2185510": {
-      "rank": 1526,
+      "rank": 1553,
       "estimate": "15k+",
       "name": "TOUCHSTARVED"
     },
     "2346870": {
-      "rank": 2248,
+      "rank": 2274,
       "estimate": "7k+",
       "name": "The Big Lez Video Game"
     },
     "2398510": {
-      "rank": 6593,
+      "rank": 6531,
       "estimate": "<7k",
       "name": "ホワイトクロス ピュリファイ！"
     },
     "2517940": {
-      "rank": 3624,
+      "rank": 3635,
       "estimate": "<7k",
       "name": "Century of Steam"
     },
     "2576350": {
-      "rank": 6914,
+      "rank": 6953,
       "estimate": "<7k",
       "name": "Mansion of Memories: Prologue"
     },
     "2588830": {
-      "rank": 5211,
+      "rank": 5214,
       "estimate": "<7k",
       "name": "FATHER"
     },
     "2591630": {
-      "rank": 423,
+      "rank": 431,
       "estimate": "80k+",
       "name": "The Edge of Water"
     },
     "2623270": {
-      "rank": 8938,
+      "rank": 8952,
       "estimate": "<7k",
       "name": "War Trigger"
     },
     "2697620": {
-      "rank": 2918,
+      "rank": 2943,
       "estimate": "7k+",
       "name": "Combo Devils"
     },
     "2818630": {
-      "rank": 6966,
+      "rank": 6981,
       "estimate": "<7k",
       "name": "Trucker Joe 2"
     },
     "3051030": {
-      "rank": 8098,
+      "rank": 8180,
       "estimate": "<7k",
       "name": "LEENIE'S TALE"
     },
     "3181960": {
-      "rank": 7952,
+      "rank": 7900,
       "estimate": "<7k",
       "name": "Hobnobbers"
     },
     "3184620": {
-      "rank": 4325,
+      "rank": 4335,
       "estimate": "<7k",
       "name": "Meet the Master"
     },
     "3226830": {
-      "rank": 847,
+      "rank": 824,
       "estimate": "40k+",
       "name": "Canvas City"
     },
     "3456660": {
-      "rank": 2117,
+      "rank": 2149,
       "estimate": "7k+",
       "name": "PAYDAY: Aces High"
     },
     "3568020": {
-      "rank": 5528,
+      "rank": 5525,
       "estimate": "<7k",
       "name": "Backrooms:The Liminal Space"
     },
     "3730210": {
-      "rank": 6999,
+      "rank": 6904,
       "estimate": "<7k",
       "name": "Metal Soldiers 3D"
     },
     "3766240": {
-      "rank": 8284,
+      "rank": 8183,
       "estimate": "<7k",
       "name": "Rust Rides"
     },
     "3937950": {
-      "rank": 9236,
+      "rank": 9277,
       "estimate": "<7k",
       "name": "My Dear Farm"
     },
     "4083180": {
-      "rank": 6820,
+      "rank": 6830,
       "estimate": "<7k",
       "name": "My Adorable Ghost Story"
     },
     "4087940": {
-      "rank": 4442,
+      "rank": 4472,
       "estimate": "<7k",
       "name": "Veyora"
     },
     "4108160": {
-      "rank": 9114,
+      "rank": 9178,
       "estimate": "<7k",
       "name": "No More Heroes"
     },
     "4142360": {
-      "rank": 3486,
+      "rank": 3528,
       "estimate": "<7k",
       "name": "Paradox Tower"
     },
     "4179890": {
-      "rank": 7690,
+      "rank": 7686,
       "estimate": "<7k",
       "name": "Monarchs at Play"
     },
     "4234210": {
-      "rank": 4848,
+      "rank": 4844,
       "estimate": "<7k",
       "name": "Gido Gido: Kaiju Battle Party"
     },
     "4300180": {
-      "rank": 9756,
+      "rank": 9633,
       "estimate": "<7k",
       "name": "Fruitbearer"
     },
     "4317870": {
-      "rank": 8102,
+      "rank": 8198,
       "estimate": "<7k",
       "name": "Pemkie Island"
     },
     "4321390": {
-      "rank": 3946,
+      "rank": 3979,
       "estimate": "<7k",
       "name": "The Last Opening"
     },
     "4345150": {
-      "rank": 8991,
+      "rank": 8230,
       "estimate": "<7k",
       "name": "Dark Reaper Shoots! 2"
     },
     "4429720": {
-      "rank": 2225,
+      "rank": 2261,
       "estimate": "7k+",
       "name": "Deductopia"
     },
     "4437730": {
-      "rank": 3176,
+      "rank": 3198,
       "estimate": "<7k",
       "name": "MONji"
     },
+    "4463890": {
+      "rank": 9725,
+      "estimate": "<7k",
+      "name": "Nodwar"
+    },
     "4484350": {
-      "rank": 8332,
+      "rank": 8392,
       "estimate": "<7k",
       "name": "Hatarake! - Working Hard! Even though I getting isekai'd!"
     },
     "4567080": {
-      "rank": 9895,
+      "rank": 9848,
       "estimate": "<7k",
       "name": "Cluster - Roguelike Tower Defense"
     },
     "4678690": {
-      "rank": 3240,
+      "rank": 3257,
       "estimate": "<7k",
       "name": "Holdfast: American Revolution"
     },
     "4752330": {
-      "rank": 5994,
+      "rank": 6057,
       "estimate": "<7k",
       "name": "Hall Pass"
     },
     "4777740": {
-      "rank": 6723,
+      "rank": 6750,
       "estimate": "<7k",
       "name": "Soulscale"
     },
     "4790750": {
-      "rank": 7398,
+      "rank": 7379,
       "estimate": "<7k",
       "name": "Birds of Ascent"
     }
