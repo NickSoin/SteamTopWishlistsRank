@@ -1,201 +1,206 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 40,
   "entries": {
     "17750": {
-      "rank": 5813,
+      "rank": 5903,
       "estimate": "<7k",
       "name": "Obsidian Conflict"
     },
     "432120": {
-      "rank": 2218,
+      "rank": 2551,
       "estimate": "7k+",
       "name": "Age After Age"
     },
     "1111840": {
-      "rank": 6797,
+      "rank": 6881,
       "estimate": "<7k",
       "name": "Urban Explorer"
     },
     "1474910": {
-      "rank": 9083,
+      "rank": 9222,
       "estimate": "<7k",
       "name": "Frequency: Chernobyl — First Signal"
     },
     "2024400": {
-      "rank": 9032,
+      "rank": 9521,
       "estimate": "<7k",
       "name": "Rygrad"
     },
     "2292780": {
-      "rank": 9303,
+      "rank": 9227,
       "estimate": "<7k",
       "name": "Nqc : Non Qualia Character"
     },
     "2455710": {
-      "rank": 8634,
+      "rank": 9223,
       "estimate": "<7k",
       "name": "Golembert"
     },
     "2498890": {
-      "rank": 6964,
+      "rank": 7034,
       "estimate": "<7k",
       "name": "BOOM! Buster"
     },
     "2506890": {
-      "rank": 3642,
+      "rank": 3692,
       "estimate": "<7k",
       "name": "S: Lost Chapters"
     },
     "2524410": {
-      "rank": 7769,
+      "rank": 8049,
       "estimate": "<7k",
       "name": "It's Hot Pot Time!"
     },
     "2543660": {
-      "rank": 6318,
+      "rank": 6274,
       "estimate": "<7k",
       "name": "Legends Of Elementia"
     },
     "2572930": {
-      "rank": 6619,
+      "rank": 6420,
       "estimate": "<7k",
       "name": "project silver shield 银色盾牌"
     },
     "2889030": {
-      "rank": 839,
+      "rank": 874,
       "estimate": "40k+",
       "name": "MUDANG: Two Hearts"
     },
     "2941990": {
-      "rank": 1982,
+      "rank": 1937,
       "estimate": "15k+",
       "name": "Unhomely"
     },
     "2965400": {
-      "rank": 7437,
+      "rank": 7273,
       "estimate": "<7k",
       "name": "EQUIRE"
     },
+    "3014370": {
+      "rank": 9966,
+      "estimate": "<7k",
+      "name": "VAMPIRE SANDWICH"
+    },
     "3330210": {
-      "rank": 925,
+      "rank": 991,
       "estimate": "40k+",
       "name": "Kinny and the Cosmic Cauldron"
     },
     "3345210": {
-      "rank": 1311,
+      "rank": 1362,
       "estimate": "25k+",
       "name": "The Hidden Ones"
     },
     "3618000": {
-      "rank": 3306,
+      "rank": 3293,
       "estimate": "<7k",
       "name": "Hordeguard: Winds of the North"
     },
     "3649680": {
-      "rank": 328,
+      "rank": 342,
       "estimate": "80k+",
       "name": "Tiny Shop: make it cozy"
     },
     "3710850": {
-      "rank": 895,
+      "rank": 946,
       "estimate": "40k+",
       "name": "Become"
     },
     "3722330": {
-      "rank": 138,
+      "rank": 134,
       "estimate": "200k+",
       "name": "Shift At Midnight"
     },
     "3729700": {
-      "rank": 175,
-      "estimate": "200k+",
+      "rank": 216,
+      "estimate": "80k+",
       "name": "Kaiju Cleanup"
     },
     "3903580": {
-      "rank": 3703,
+      "rank": 3807,
       "estimate": "<7k",
       "name": "Titanic"
     },
     "3924020": {
-      "rank": 9681,
+      "rank": 9734,
       "estimate": "<7k",
       "name": "Until North Ends"
     },
     "3926130": {
-      "rank": 4998,
+      "rank": 5198,
       "estimate": "<7k",
       "name": "INKARO"
     },
     "4170390": {
-      "rank": 8614,
+      "rank": 8471,
       "estimate": "<7k",
       "name": "Goal Gang"
     },
     "4171670": {
-      "rank": 9247,
+      "rank": 9467,
       "estimate": "<7k",
       "name": "Veil of Mist"
     },
     "4177030": {
-      "rank": 9710,
+      "rank": 9698,
       "estimate": "<7k",
       "name": "Cinema Business Simulator"
     },
     "4233840": {
-      "rank": 6368,
+      "rank": 6136,
       "estimate": "<7k",
       "name": "FOQUES"
     },
     "4394130": {
-      "rank": 4773,
+      "rank": 4864,
       "estimate": "<7k",
       "name": "Unbox the Room 2"
     },
     "4417620": {
-      "rank": 2427,
+      "rank": 2465,
       "estimate": "7k+",
       "name": "Good Catch!"
     },
     "4428510": {
-      "rank": 8882,
+      "rank": 9079,
       "estimate": "<7k",
       "name": "99 Nights"
     },
     "4526450": {
-      "rank": 7952,
+      "rank": 8138,
       "estimate": "<7k",
       "name": "Incremental RTS"
     },
     "4566850": {
-      "rank": 1860,
+      "rank": 1581,
       "estimate": "15k+",
       "name": "Sepak U - Sports Fighting Game"
     },
     "4591580": {
-      "rank": 5964,
+      "rank": 6238,
       "estimate": "<7k",
       "name": "Gensokyo Survivors: Return of the Scarlet Devil"
     },
     "4621010": {
-      "rank": 6626,
+      "rank": 6514,
       "estimate": "<7k",
       "name": "Not Today: Homeless Survival"
     },
     "4668390": {
-      "rank": 8235,
+      "rank": 8643,
       "estimate": "<7k",
       "name": "Your Own Cozy Motel"
     },
     "4669670": {
-      "rank": 2626,
+      "rank": 2745,
       "estimate": "7k+",
       "name": "Curse of the Crimson Stag"
     },
     "4730280": {
-      "rank": 7947,
+      "rank": 7839,
       "estimate": "<7k",
       "name": "Hellsino Pokerlike"
     }

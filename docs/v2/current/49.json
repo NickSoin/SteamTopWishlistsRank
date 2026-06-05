@@ -1,228 +1,238 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 44,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 46,
   "entries": {
     "1372780": {
-      "rank": 6979,
+      "rank": 7206,
       "estimate": "<7k",
       "name": "Quantum Paradox"
     },
+    "1475450": {
+      "rank": 9781,
+      "estimate": "<7k",
+      "name": "Monsters, Briefcase and Road"
+    },
     "1482470": {
-      "rank": 5973,
+      "rank": 6012,
       "estimate": "<7k",
       "name": "Pirates Republic"
     },
     "2111430": {
-      "rank": 8162,
+      "rank": 8298,
       "estimate": "<7k",
       "name": "Forgotten house"
     },
     "2231460": {
-      "rank": 5954,
+      "rank": 6015,
       "estimate": "<7k",
       "name": "Roman Sands RE:Build"
     },
     "2262020": {
-      "rank": 2794,
+      "rank": 2269,
       "estimate": "7k+",
       "name": "Exo Rally Championship"
     },
     "2295170": {
-      "rank": 564,
+      "rank": 591,
       "estimate": "40k+",
       "name": "Emberville"
     },
     "2403250": {
-      "rank": 7872,
+      "rank": 8045,
       "estimate": "<7k",
       "name": "Armor Attack"
     },
     "2430010": {
-      "rank": 1408,
+      "rank": 1404,
       "estimate": "25k+",
       "name": "Gennady"
     },
     "2561460": {
-      "rank": 4604,
+      "rank": 4592,
       "estimate": "<7k",
       "name": "Burning Sword: Death Sun"
     },
     "2646170": {
-      "rank": 533,
+      "rank": 556,
       "estimate": "40k+",
       "name": "My Arms Are Longer Now"
     },
     "2732480": {
-      "rank": 513,
+      "rank": 523,
       "estimate": "40k+",
       "name": "Emery Hearts"
     },
     "2799050": {
-      "rank": 2095,
+      "rank": 2038,
       "estimate": "7k+",
       "name": "Mourning Tide"
     },
     "2955180": {
-      "rank": 5733,
+      "rank": 5999,
       "estimate": "<7k",
       "name": "Elfie"
     },
     "3013320": {
-      "rank": 4086,
+      "rank": 4119,
       "estimate": "<7k",
       "name": "SONGBOY: Play Music"
     },
     "3151840": {
-      "rank": 6600,
+      "rank": 6618,
       "estimate": "<7k",
       "name": "Umblight"
     },
     "3191170": {
-      "rank": 2615,
+      "rank": 2677,
       "estimate": "7k+",
       "name": "Clover's Quadrants"
     },
     "3297850": {
-      "rank": 6845,
+      "rank": 6759,
       "estimate": "<7k",
       "name": "Froggo's Adventure: Drifting Sky"
     },
     "3353800": {
-      "rank": 2983,
-      "estimate": "7k+",
+      "rank": 3004,
+      "estimate": "<7k",
       "name": "Golden Swirl"
     },
     "3406890": {
-      "rank": 8041,
+      "rank": 8030,
       "estimate": "<7k",
       "name": "Touhou: Divine Land -Majesty in Game-"
     },
     "3533170": {
-      "rank": 6787,
+      "rank": 6875,
       "estimate": "<7k",
       "name": "Garuda Emblem"
     },
     "3713880": {
-      "rank": 1051,
+      "rank": 1038,
       "estimate": "25k+",
       "name": "Lost Arsenal"
     },
     "3751600": {
-      "rank": 4071,
+      "rank": 4236,
       "estimate": "<7k",
       "name": "Dunwich Horror"
     },
     "3760370": {
-      "rank": 8195,
+      "rank": 8358,
       "estimate": "<7k",
       "name": "Kick"
     },
     "3789230": {
-      "rank": 2003,
+      "rank": 2045,
       "estimate": "7k+",
       "name": "Kalit"
     },
     "3804760": {
-      "rank": 417,
+      "rank": 482,
       "estimate": "80k+",
       "name": "Feather's Edge"
     },
     "3850800": {
-      "rank": 1060,
+      "rank": 1130,
       "estimate": "25k+",
       "name": "WakuWaku Park"
     },
     "3857430": {
-      "rank": 645,
+      "rank": 527,
       "estimate": "40k+",
       "name": "Interdimensional Vending Machine"
     },
     "3990560": {
-      "rank": 6598,
+      "rank": 6542,
       "estimate": "<7k",
       "name": "Wanted Shadows: Unchained"
     },
     "3991970": {
-      "rank": 5380,
+      "rank": 5416,
       "estimate": "<7k",
       "name": "30 Days in Garage"
     },
     "4026510": {
-      "rank": 640,
+      "rank": 511,
       "estimate": "40k+",
       "name": "Lucid Falls"
     },
     "4055170": {
-      "rank": 8500,
+      "rank": 8221,
       "estimate": "<7k",
       "name": "Cherry on Top"
     },
     "4065560": {
-      "rank": 3022,
+      "rank": 3134,
       "estimate": "<7k",
       "name": "Sign of Silence: 99 Nights"
     },
     "4079550": {
-      "rank": 8560,
+      "rank": 8870,
       "estimate": "<7k",
       "name": "Optico"
     },
     "4080200": {
-      "rank": 9104,
+      "rank": 9535,
       "estimate": "<7k",
       "name": "Once Upon a Swagman"
     },
     "4124920": {
-      "rank": 3024,
+      "rank": 3139,
       "estimate": "<7k",
       "name": "Some of You May Die"
     },
     "4196110": {
-      "rank": 5665,
+      "rank": 5541,
       "estimate": "<7k",
       "name": "WOBBLY HEIST"
     },
     "4308560": {
-      "rank": 5646,
+      "rank": 5568,
       "estimate": "<7k",
       "name": "Heritage"
     },
     "4374530": {
-      "rank": 315,
+      "rank": 309,
       "estimate": "80k+",
       "name": "Keep It Up!"
     },
     "4568490": {
-      "rank": 6483,
+      "rank": 6494,
       "estimate": "<7k",
       "name": "TurtleSkate"
     },
     "4599560": {
-      "rank": 1970,
-      "estimate": "15k+",
+      "rank": 2383,
+      "estimate": "7k+",
       "name": "Torizon Telecom"
     },
     "4644400": {
-      "rank": 6012,
+      "rank": 5971,
       "estimate": "<7k",
       "name": "Unstable Nuclear Reactor"
     },
     "4657750": {
-      "rank": 9352,
+      "rank": 9678,
       "estimate": "<7k",
       "name": "Hardhats : Some Survival Required"
     },
     "4720690": {
-      "rank": 7332,
+      "rank": 7252,
       "estimate": "<7k",
       "name": "Apology Video"
     },
     "4742940": {
-      "rank": 4530,
+      "rank": 4448,
       "estimate": "<7k",
       "name": "The Stinky Adventures of DungDung"
+    },
+    "4773720": {
+      "rank": 9893,
+      "estimate": "<7k",
+      "name": "A Real Life Party"
     }
   }
 }

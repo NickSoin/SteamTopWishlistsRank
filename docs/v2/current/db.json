@@ -1,226 +1,236 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 44,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 46,
   "entries": {
     "1209970": {
-      "rank": 1067,
-      "estimate": "25k+",
+      "rank": 957,
+      "estimate": "40k+",
       "name": "Blind Descent"
     },
     "1700930": {
-      "rank": 9172,
+      "rank": 9228,
       "estimate": "<7k",
       "name": "Furcifer's Fungeon"
     },
     "1747470": {
-      "rank": 2230,
+      "rank": 2343,
       "estimate": "7k+",
       "name": "Road Diner Simulator"
     },
     "1770010": {
-      "rank": 7856,
+      "rank": 8071,
       "estimate": "<7k",
       "name": "Airport Renovator: Prologue"
     },
     "1992100": {
-      "rank": 4081,
+      "rank": 4179,
       "estimate": "<7k",
       "name": "Gas Station Simulator - Shady Deals DLC"
     },
     "2113070": {
-      "rank": 3646,
+      "rank": 3677,
       "estimate": "<7k",
       "name": "Newton's Playground"
     },
     "2320980": {
-      "rank": 128,
+      "rank": 127,
       "estimate": "200k+",
       "name": "Loftia"
     },
     "2439770": {
-      "rank": 2237,
+      "rank": 2346,
       "estimate": "7k+",
       "name": "PROJECT MIX"
     },
     "2469560": {
-      "rank": 5555,
+      "rank": 5559,
       "estimate": "<7k",
       "name": "Coloniser"
     },
     "2742720": {
-      "rank": 5620,
+      "rank": 5665,
       "estimate": "<7k",
       "name": "After the Wane"
     },
     "2771630": {
-      "rank": 5611,
+      "rank": 5642,
       "estimate": "<7k",
       "name": "Project C██████"
     },
     "2819880": {
-      "rank": 6913,
+      "rank": 7306,
       "estimate": "<7k",
       "name": "The Magic World 2: Curse of the Ancients"
     },
     "2870250": {
-      "rank": 5492,
+      "rank": 5442,
       "estimate": "<7k",
       "name": "Layers Deep"
     },
+    "2925530": {
+      "rank": 9738,
+      "estimate": "<7k",
+      "name": "Cat Cafe Simulator"
+    },
     "2997030": {
-      "rank": 8506,
+      "rank": 8579,
       "estimate": "<7k",
       "name": "Age of the Deep"
     },
     "3080520": {
-      "rank": 217,
-      "estimate": "80k+",
+      "rank": 195,
+      "estimate": "200k+",
       "name": "Farsight"
     },
     "3176500": {
-      "rank": 1980,
-      "estimate": "15k+",
+      "rank": 2028,
+      "estimate": "7k+",
       "name": "Wizard Cats"
     },
     "3301900": {
-      "rank": 4517,
+      "rank": 4744,
       "estimate": "<7k",
       "name": "VenusBlood RAGNAROK International"
     },
     "3383450": {
-      "rank": 4102,
+      "rank": 4228,
       "estimate": "<7k",
       "name": "RPG Chess"
     },
     "3405080": {
-      "rank": 8284,
+      "rank": 8092,
       "estimate": "<7k",
       "name": "Smile Thief"
     },
     "3542330": {
-      "rank": 5783,
+      "rank": 6112,
       "estimate": "<7k",
       "name": "Station Command"
     },
     "3564990": {
-      "rank": 1260,
+      "rank": 1199,
       "estimate": "25k+",
       "name": "Vale's Echo"
     },
     "3636660": {
-      "rank": 8755,
+      "rank": 8929,
       "estimate": "<7k",
       "name": "Mini Racer: Mini 4WD"
     },
     "3763470": {
-      "rank": 5649,
+      "rank": 5745,
       "estimate": "<7k",
       "name": "Wu-Tang: Rise of the Deceiver"
     },
     "3770540": {
-      "rank": 9270,
+      "rank": 8833,
       "estimate": "<7k",
       "name": "Hexborn"
     },
     "3864430": {
-      "rank": 3899,
+      "rank": 3855,
       "estimate": "<7k",
       "name": "100 Lives"
     },
     "3887240": {
-      "rank": 7742,
+      "rank": 7732,
       "estimate": "<7k",
       "name": "Palm Simulator 2"
     },
     "3963050": {
-      "rank": 1708,
+      "rank": 1788,
       "estimate": "15k+",
       "name": "Eyes Of The ElderWood"
     },
     "4028770": {
-      "rank": 4626,
+      "rank": 4588,
       "estimate": "<7k",
       "name": "OBVERSE"
     },
     "4118110": {
-      "rank": 8950,
+      "rank": 8976,
       "estimate": "<7k",
       "name": "Curse the Cursor"
     },
     "4146760": {
-      "rank": 5302,
+      "rank": 5401,
       "estimate": "<7k",
       "name": "Apocalypter"
     },
+    "4169590": {
+      "rank": 9795,
+      "estimate": "<7k",
+      "name": "Casino Casualty"
+    },
     "4264000": {
-      "rank": 2841,
+      "rank": 2983,
       "estimate": "7k+",
       "name": "Orion Blue"
     },
     "4283160": {
-      "rank": 3822,
-      "estimate": "<7k",
+      "rank": 2567,
+      "estimate": "7k+",
       "name": "Void's Rage"
     },
     "4358310": {
-      "rank": 2098,
+      "rank": 2186,
       "estimate": "7k+",
       "name": "Coin Tavern"
     },
     "4383350": {
-      "rank": 3580,
-      "estimate": "<7k",
+      "rank": 2518,
+      "estimate": "7k+",
       "name": "Travelling Light"
     },
     "4383880": {
-      "rank": 2105,
+      "rank": 2201,
       "estimate": "7k+",
       "name": "Huntin' Buddies"
     },
     "4399160": {
-      "rank": 4979,
+      "rank": 4909,
       "estimate": "<7k",
       "name": "INORIGAMI HACK DOWN"
     },
     "4417710": {
-      "rank": 9616,
+      "rank": 9446,
       "estimate": "<7k",
       "name": "13 BONES"
     },
     "4428600": {
-      "rank": 1071,
+      "rank": 1097,
       "estimate": "25k+",
       "name": "Pikku Adventure"
     },
     "4433460": {
-      "rank": 9634,
+      "rank": 9341,
       "estimate": "<7k",
       "name": "Is This the Way"
     },
     "4524720": {
-      "rank": 8513,
+      "rank": 8315,
       "estimate": "<7k",
       "name": "Baby Carbonara"
     },
     "4534260": {
-      "rank": 3889,
+      "rank": 3831,
       "estimate": "<7k",
       "name": "Kodama: Slumber of the Gods"
     },
     "4611880": {
-      "rank": 9430,
+      "rank": 9609,
       "estimate": "<7k",
       "name": "XiaoLuo's English War"
     },
     "4650490": {
-      "rank": 7059,
+      "rank": 7656,
       "estimate": "<7k",
       "name": "Idle Immortal Sentinel"
     },
     "4688060": {
-      "rank": 9304,
+      "rank": 9432,
       "estimate": "<7k",
       "name": "Complexia, A Ballet of Blades"
     }

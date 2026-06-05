@@ -1,226 +1,211 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 44,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 41,
   "entries": {
     "1163020": {
-      "rank": 5002,
+      "rank": 4989,
       "estimate": "<7k",
       "name": "The Looter"
     },
     "1255460": {
-      "rank": 800,
+      "rank": 821,
       "estimate": "40k+",
       "name": "Space Station 14"
     },
     "1356660": {
-      "rank": 9197,
+      "rank": 9231,
       "estimate": "<7k",
       "name": "Starlit World"
     },
     "1368580": {
-      "rank": 9585,
+      "rank": 9466,
       "estimate": "<7k",
       "name": "Play with Me 2: On the other side"
     },
     "1487300": {
-      "rank": 8760,
+      "rank": 8650,
       "estimate": "<7k",
       "name": "Follow My Steps"
     },
     "1577230": {
-      "rank": 1098,
+      "rank": 1017,
       "estimate": "25k+",
       "name": "City of Atlantis"
     },
     "1848600": {
-      "rank": 8013,
+      "rank": 7954,
       "estimate": "<7k",
       "name": "Sang: The Desert Blade"
     },
     "1911340": {
-      "rank": 8186,
+      "rank": 8032,
       "estimate": "<7k",
       "name": "Dimakerus"
     },
     "2136340": {
-      "rank": 8917,
+      "rank": 9077,
       "estimate": "<7k",
       "name": "KAKURIYO"
     },
     "2231090": {
-      "rank": 7669,
+      "rank": 7763,
       "estimate": "<7k",
       "name": "Number Machine: Math Factory"
     },
     "2584510": {
-      "rank": 6604,
+      "rank": 7702,
       "estimate": "<7k",
       "name": "Telegraphist 1920: Beats of War"
     },
     "2629550": {
-      "rank": 7309,
+      "rank": 7082,
       "estimate": "<7k",
       "name": "Threshold of Awakening"
     },
     "2659980": {
-      "rank": 5338,
+      "rank": 5255,
       "estimate": "<7k",
       "name": "V.E.D.A: The Awakening of Souls"
     },
     "3065360": {
-      "rank": 6029,
+      "rank": 6235,
       "estimate": "<7k",
       "name": "Chop Chop Together"
     },
     "3158860": {
-      "rank": 5605,
+      "rank": 5523,
       "estimate": "<7k",
       "name": "Fragmented Echoes: Veil of Memories"
     },
     "3200110": {
-      "rank": 6950,
+      "rank": 6828,
       "estimate": "<7k",
       "name": "Stuff to do"
     },
     "3571850": {
-      "rank": 8638,
+      "rank": 8369,
       "estimate": "<7k",
       "name": "Selve"
     },
     "3635550": {
-      "rank": 8279,
+      "rank": 8398,
       "estimate": "<7k",
       "name": "Breezevale"
     },
     "3656720": {
-      "rank": 5061,
+      "rank": 4942,
       "estimate": "<7k",
       "name": "Dungeon Raid"
     },
-    "3753540": {
-      "rank": 9691,
-      "estimate": "<7k",
-      "name": "Thalassic Dice"
-    },
     "3767420": {
-      "rank": 2018,
+      "rank": 2117,
       "estimate": "7k+",
       "name": "Hope of Elements"
     },
     "3844970": {
-      "rank": 15,
+      "rank": 12,
       "estimate": "800k+",
       "name": "Burglin' Gnomes"
     },
     "3862790": {
-      "rank": 5256,
+      "rank": 5231,
       "estimate": "<7k",
       "name": "Skate Style"
     },
     "3902140": {
-      "rank": 4585,
+      "rank": 4471,
       "estimate": "<7k",
       "name": "银河七日生存法则—Seven Days on the Edge: Galactic Fringe"
     },
     "3904850": {
-      "rank": 437,
+      "rank": 476,
       "estimate": "80k+",
       "name": "Approximately Up"
     },
     "3947460": {
-      "rank": 578,
+      "rank": 594,
       "estimate": "40k+",
       "name": "Creator Chronicles"
     },
     "4001350": {
-      "rank": 3644,
+      "rank": 3755,
       "estimate": "<7k",
       "name": "Iron Blight"
     },
-    "4054990": {
-      "rank": 9501,
-      "estimate": "<7k",
-      "name": "Crystal Realms"
-    },
     "4089080": {
-      "rank": 8594,
+      "rank": 8817,
       "estimate": "<7k",
       "name": "My Family Chronicle"
     },
-    "4116560": {
-      "rank": 9903,
-      "estimate": "<7k",
-      "name": "Battle Tanks Online"
-    },
     "4184130": {
-      "rank": 1596,
+      "rank": 1724,
       "estimate": "15k+",
       "name": "Foxy Dumplings"
     },
     "4256150": {
-      "rank": 7783,
+      "rank": 7729,
       "estimate": "<7k",
       "name": "Erratum"
     },
     "4319800": {
-      "rank": 4292,
+      "rank": 4392,
       "estimate": "<7k",
       "name": "Final Orbit"
     },
     "4343160": {
-      "rank": 9619,
+      "rank": 9676,
       "estimate": "<7k",
       "name": "Canter Cove"
     },
     "4364930": {
-      "rank": 2989,
-      "estimate": "7k+",
+      "rank": 3059,
+      "estimate": "<7k",
       "name": "Birb"
     },
     "4425600": {
-      "rank": 9481,
+      "rank": 9482,
       "estimate": "<7k",
       "name": "GODBOX"
     },
     "4450600": {
-      "rank": 2905,
-      "estimate": "7k+",
+      "rank": 3017,
+      "estimate": "<7k",
       "name": "Crackheads"
     },
     "4484810": {
-      "rank": 218,
+      "rank": 231,
       "estimate": "80k+",
       "name": "Winter Whiskers"
     },
     "4509630": {
-      "rank": 3897,
+      "rank": 3942,
       "estimate": "<7k",
       "name": "The Eternal Woods"
     },
     "4644870": {
-      "rank": 424,
+      "rank": 455,
       "estimate": "80k+",
       "name": "Green Mist over Portland"
     },
     "4676130": {
-      "rank": 3343,
+      "rank": 3535,
       "estimate": "<7k",
       "name": "That Time I Got Reincarnated as a Tyrant God"
     },
     "4715440": {
-      "rank": 6669,
+      "rank": 6638,
       "estimate": "<7k",
       "name": "Aether-07"
     },
     "4727720": {
-      "rank": 9386,
+      "rank": 9453,
       "estimate": "<7k",
       "name": "Crowned Sun"
     },
     "4730100": {
-      "rank": 902,
+      "rank": 992,
       "estimate": "40k+",
       "name": "Lizard Slayer"
     }

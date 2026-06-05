@@ -1,221 +1,226 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 43,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 44,
   "entries": {
     "1466520": {
-      "rank": 2925,
-      "estimate": "7k+",
+      "rank": 3002,
+      "estimate": "<7k",
       "name": "Omen Exitio: Hunger"
     },
     "1597080": {
-      "rank": 114,
-      "estimate": "200k+",
+      "rank": 87,
+      "estimate": "300k+",
       "name": "Killer Bean"
     },
     "1897450": {
-      "rank": 5332,
+      "rank": 5474,
       "estimate": "<7k",
       "name": "U-Boot: The Board Game - Digital Edition"
     },
     "2099730": {
-      "rank": 7918,
+      "rank": 7682,
       "estimate": "<7k",
       "name": "BURN THE WITCH"
     },
+    "2280420": {
+      "rank": 9949,
+      "estimate": "<7k",
+      "name": "Mouse Trap"
+    },
     "2494690": {
-      "rank": 8780,
+      "rank": 8682,
       "estimate": "<7k",
       "name": "Wolf Simulator RPG"
     },
     "2514330": {
-      "rank": 1605,
-      "estimate": "15k+",
+      "rank": 1153,
+      "estimate": "25k+",
       "name": "The Rabbit Haul"
     },
     "2686260": {
-      "rank": 8787,
+      "rank": 8638,
       "estimate": "<7k",
       "name": "Grid Tweaker"
     },
     "2728050": {
-      "rank": 1748,
+      "rank": 1836,
       "estimate": "15k+",
       "name": "Scratchin' Melodii"
     },
     "2761220": {
-      "rank": 8714,
+      "rank": 8998,
       "estimate": "<7k",
       "name": "Escape from 8-Bit High"
     },
     "3002740": {
-      "rank": 2072,
+      "rank": 2196,
       "estimate": "7k+",
       "name": "Project Solaris"
     },
     "3091410": {
-      "rank": 9118,
+      "rank": 9306,
       "estimate": "<7k",
       "name": "SCP: Run For Freedom"
     },
     "3209660": {
-      "rank": 204,
+      "rank": 228,
       "estimate": "80k+",
       "name": "Golf With Your Friends 2"
     },
     "3255500": {
-      "rank": 2043,
-      "estimate": "7k+",
+      "rank": 1751,
+      "estimate": "15k+",
       "name": "Ved: Recure"
     },
     "3270840": {
-      "rank": 8443,
+      "rank": 8408,
       "estimate": "<7k",
       "name": "How to God"
     },
     "3275120": {
-      "rank": 3548,
+      "rank": 3654,
       "estimate": "<7k",
       "name": "Wasteland Travelers"
     },
     "3314140": {
-      "rank": 6806,
+      "rank": 6644,
       "estimate": "<7k",
       "name": "Fevercide"
     },
     "3410390": {
-      "rank": 2994,
-      "estimate": "7k+",
+      "rank": 3001,
+      "estimate": "<7k",
       "name": "Hear Tell of Hauntings"
     },
     "3428090": {
-      "rank": 6743,
+      "rank": 6554,
       "estimate": "<7k",
       "name": "Jaleco Sports: Bases Loaded 2"
     },
     "3456460": {
-      "rank": 8204,
+      "rank": 8711,
       "estimate": "<7k",
       "name": "Sailor Simulator: World War II"
     },
     "3561920": {
-      "rank": 4396,
+      "rank": 4364,
       "estimate": "<7k",
       "name": "Graveyard Simulator"
     },
     "3649530": {
-      "rank": 2358,
+      "rank": 2034,
       "estimate": "7k+",
       "name": "4PGP"
     },
     "3671740": {
-      "rank": 3906,
+      "rank": 4480,
       "estimate": "<7k",
       "name": "KARATE ROGUE"
     },
     "3689840": {
-      "rank": 7832,
+      "rank": 7793,
       "estimate": "<7k",
       "name": "INSPEKTOR"
     },
     "3822320": {
-      "rank": 1624,
+      "rank": 1665,
       "estimate": "15k+",
       "name": "Dream Hollow"
     },
     "3831210": {
-      "rank": 1631,
+      "rank": 1803,
       "estimate": "15k+",
       "name": "Lawn Mowing Simulator 2"
     },
     "3849330": {
-      "rank": 7036,
+      "rank": 7040,
       "estimate": "<7k",
       "name": "Chaos The Devil"
     },
     "3850440": {
-      "rank": 3787,
+      "rank": 3952,
       "estimate": "<7k",
       "name": "Godzone 6"
     },
     "3913820": {
-      "rank": 9435,
+      "rank": 9402,
       "estimate": "<7k",
       "name": "Vegelypse"
     },
     "4042840": {
-      "rank": 7097,
+      "rank": 6775,
       "estimate": "<7k",
       "name": "Vquarium"
     },
     "4047890": {
-      "rank": 8670,
+      "rank": 8743,
       "estimate": "<7k",
       "name": "Digging Out"
     },
     "4070690": {
-      "rank": 8940,
+      "rank": 8840,
       "estimate": "<7k",
       "name": "HeroesSagaZero"
     },
     "4151300": {
-      "rank": 281,
+      "rank": 286,
       "estimate": "80k+",
       "name": "Sublustrum"
     },
     "4228110": {
-      "rank": 5950,
+      "rank": 5984,
       "estimate": "<7k",
       "name": "Snowkissed Romance"
     },
     "4240790": {
-      "rank": 4041,
-      "estimate": "<7k",
+      "rank": 2691,
+      "estimate": "7k+",
       "name": "Cooking For MA!"
     },
     "4307330": {
-      "rank": 8824,
+      "rank": 8999,
       "estimate": "<7k",
       "name": "ROUTE16R"
     },
     "4361820": {
-      "rank": 4808,
+      "rank": 5003,
       "estimate": "<7k",
       "name": "Hotel Cleaner Simulator"
     },
     "4379520": {
-      "rank": 5600,
+      "rank": 5528,
       "estimate": "<7k",
       "name": "Catnip Cosmos"
     },
     "4463500": {
-      "rank": 7828,
+      "rank": 7730,
       "estimate": "<7k",
       "name": "DesktopSaurs"
     },
     "4475550": {
-      "rank": 5032,
+      "rank": 5144,
       "estimate": "<7k",
       "name": "The Unfinished Melody: Prologue"
     },
     "4502050": {
-      "rank": 9210,
+      "rank": 9517,
       "estimate": "<7k",
       "name": "Retire in the Fairy Mountains"
     },
     "4548250": {
-      "rank": 7471,
+      "rank": 7337,
       "estimate": "<7k",
       "name": "Past Due: Midnight"
     },
     "4626170": {
-      "rank": 4501,
+      "rank": 4768,
       "estimate": "<7k",
       "name": "LISIA"
     },
     "4709570": {
-      "rank": 9776,
+      "rank": 9240,
       "estimate": "<7k",
       "name": "MageTender"
     }

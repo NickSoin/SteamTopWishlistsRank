@@ -1,178 +1,183 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 34,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 35,
   "entries": {
     "1005180": {
-      "rank": 4778,
+      "rank": 3409,
       "estimate": "<7k",
       "name": "Sente"
     },
     "1368180": {
-      "rank": 4163,
+      "rank": 4203,
       "estimate": "<7k",
       "name": "Wildekin"
     },
     "1630450": {
-      "rank": 4622,
+      "rank": 4612,
       "estimate": "<7k",
       "name": "EDEN.schemata();"
     },
     "1897950": {
-      "rank": 5141,
+      "rank": 5117,
       "estimate": "<7k",
       "name": "Sirenhead: Southpoint"
     },
     "1898920": {
-      "rank": 1585,
+      "rank": 1648,
       "estimate": "15k+",
       "name": "War of the Worlds"
     },
     "1996680": {
-      "rank": 6308,
+      "rank": 6085,
       "estimate": "<7k",
       "name": "Fowl Scourge"
     },
     "2244700": {
-      "rank": 1335,
+      "rank": 1452,
       "estimate": "25k+",
       "name": "Glasshouse"
     },
     "2349630": {
-      "rank": 5337,
+      "rank": 5488,
       "estimate": "<7k",
       "name": "Litchi Town"
     },
     "2352230": {
-      "rank": 6489,
+      "rank": 6430,
       "estimate": "<7k",
       "name": "Little Big Adventure - Purple Empire"
     },
     "2513200": {
-      "rank": 3255,
+      "rank": 3326,
       "estimate": "<7k",
       "name": "Mystic Land: The Search for Maphaldo"
     },
     "2640090": {
-      "rank": 1321,
-      "estimate": "25k+",
+      "rank": 956,
+      "estimate": "40k+",
       "name": "Arcane Eats"
     },
     "3017130": {
-      "rank": 2380,
-      "estimate": "7k+",
+      "rank": 1970,
+      "estimate": "15k+",
       "name": "Bashful Adoration"
     },
     "3110510": {
-      "rank": 3706,
+      "rank": 3603,
       "estimate": "<7k",
       "name": "迷途梦境 Lost Dream Chronicle"
     },
     "3301510": {
-      "rank": 425,
+      "rank": 424,
       "estimate": "80k+",
       "name": "Tomo: Endless Blue"
     },
     "3305820": {
-      "rank": 2276,
+      "rank": 2466,
       "estimate": "7k+",
       "name": "Infinite Ball Well"
     },
     "3328490": {
-      "rank": 1155,
+      "rank": 1269,
       "estimate": "25k+",
       "name": "Airport Control 27"
     },
     "3424990": {
-      "rank": 6673,
+      "rank": 6784,
       "estimate": "<7k",
       "name": "Together in Forgotten Lands"
     },
     "3462170": {
-      "rank": 7619,
+      "rank": 7697,
       "estimate": "<7k",
       "name": "Obsidian Moon"
     },
     "3685900": {
-      "rank": 3544,
+      "rank": 3530,
       "estimate": "<7k",
       "name": "Creepy Support"
     },
     "3807500": {
-      "rank": 5599,
+      "rank": 5540,
       "estimate": "<7k",
       "name": "Zortch 2"
     },
     "3848440": {
-      "rank": 4090,
+      "rank": 4195,
       "estimate": "<7k",
       "name": "Mimic Sleuth"
     },
     "3850980": {
-      "rank": 4635,
+      "rank": 4639,
       "estimate": "<7k",
       "name": "687 Days on Mars"
     },
     "3857790": {
-      "rank": 4719,
+      "rank": 4666,
       "estimate": "<7k",
       "name": "Kami Quest: Enter the Imagynasium"
     },
     "3869540": {
-      "rank": 3301,
+      "rank": 3493,
       "estimate": "<7k",
       "name": "Summer☆Dash: Our Track Team's Summer Training Trip"
     },
     "4113970": {
-      "rank": 9787,
+      "rank": 9567,
       "estimate": "<7k",
       "name": "Lostade"
     },
     "4158360": {
-      "rank": 2620,
+      "rank": 2581,
       "estimate": "7k+",
       "name": "Craftiny"
     },
     "4281060": {
-      "rank": 2299,
+      "rank": 2532,
       "estimate": "7k+",
       "name": "Police Officer"
     },
     "4296370": {
-      "rank": 1406,
-      "estimate": "25k+",
+      "rank": 670,
+      "estimate": "40k+",
       "name": "Every Wednesday"
     },
     "4355220": {
-      "rank": 7054,
+      "rank": 7265,
       "estimate": "<7k",
       "name": "Heritage Flipper"
     },
     "4372700": {
-      "rank": 2948,
-      "estimate": "7k+",
+      "rank": 3053,
+      "estimate": "<7k",
       "name": "Narco Check"
     },
     "4460070": {
-      "rank": 6558,
+      "rank": 6839,
       "estimate": "<7k",
       "name": "Ibru"
     },
     "4539310": {
-      "rank": 8339,
+      "rank": 7623,
       "estimate": "<7k",
       "name": "Guild of Three"
     },
     "4654310": {
-      "rank": 2207,
+      "rank": 2347,
       "estimate": "7k+",
       "name": "The Crane Rider's Tale"
     },
     "4759400": {
-      "rank": 6725,
+      "rank": 6490,
       "estimate": "<7k",
       "name": "Atelier's Key"
+    },
+    "4766420": {
+      "rank": 9061,
+      "estimate": "<7k",
+      "name": "Uncle Otto's Mansion"
     }
   }
 }

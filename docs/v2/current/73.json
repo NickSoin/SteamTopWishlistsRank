@@ -1,221 +1,216 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 43,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 42,
   "entries": {
     "649560": {
-      "rank": 6848,
+      "rank": 6672,
       "estimate": "<7k",
       "name": "L.A.P.D. 2195"
     },
     "744960": {
-      "rank": 5929,
+      "rank": 5967,
       "estimate": "<7k",
       "name": "GUITAR WORKSHOP"
     },
     "950660": {
-      "rank": 1386,
+      "rank": 1428,
       "estimate": "25k+",
       "name": "WRAITH OPS"
     },
     "1520440": {
-      "rank": 5919,
+      "rank": 4063,
       "estimate": "<7k",
       "name": "Himig"
     },
     "1547010": {
-      "rank": 7347,
+      "rank": 7481,
       "estimate": "<7k",
       "name": "NEET"
     },
     "1999930": {
-      "rank": 1139,
+      "rank": 1159,
       "estimate": "25k+",
       "name": "Never's End"
     },
     "2513540": {
-      "rank": 9403,
+      "rank": 9207,
       "estimate": "<7k",
       "name": "Dreadnought"
     },
     "2521170": {
-      "rank": 803,
+      "rank": 812,
       "estimate": "40k+",
       "name": "Looking For Fael"
     },
     "2615420": {
-      "rank": 4027,
+      "rank": 4086,
       "estimate": "<7k",
       "name": "Portal: Ambition"
     },
     "2660420": {
-      "rank": 5790,
+      "rank": 5700,
       "estimate": "<7k",
       "name": "Stratego® Online"
     },
     "2713380": {
-      "rank": 2916,
+      "rank": 2991,
       "estimate": "7k+",
       "name": "Shadows of Chroma Tower"
     },
     "2859970": {
-      "rank": 8353,
+      "rank": 7998,
       "estimate": "<7k",
       "name": "Omen"
     },
     "2888060": {
-      "rank": 9045,
+      "rank": 8919,
       "estimate": "<7k",
       "name": "Destruction Simulator"
     },
     "2987350": {
-      "rank": 4323,
+      "rank": 4388,
       "estimate": "<7k",
       "name": "Catly"
     },
     "3008890": {
-      "rank": 6628,
+      "rank": 6455,
       "estimate": "<7k",
       "name": "Rolus in the Outskirts"
     },
     "3009440": {
-      "rank": 1263,
+      "rank": 1299,
       "estimate": "25k+",
       "name": "Dungeon Baller"
     },
     "3069820": {
-      "rank": 2818,
+      "rank": 2831,
       "estimate": "7k+",
       "name": "Good News"
     },
     "3158070": {
-      "rank": 3827,
+      "rank": 3813,
       "estimate": "<7k",
       "name": "Deadline Savior"
     },
     "3398670": {
-      "rank": 3101,
+      "rank": 3082,
       "estimate": "<7k",
       "name": "Ripple Park"
     },
     "3493340": {
-      "rank": 6650,
+      "rank": 6852,
       "estimate": "<7k",
       "name": "Carrier Deck 2"
     },
     "3636930": {
-      "rank": 914,
+      "rank": 974,
       "estimate": "40k+",
       "name": "Professional Ship Simulator"
     },
     "3699850": {
-      "rank": 2283,
+      "rank": 2362,
       "estimate": "7k+",
       "name": "The Devil's Due"
     },
-    "3709430": {
-      "rank": 100,
-      "estimate": "300k+",
-      "name": "Witch's Apocalyptic Journey"
-    },
     "3723650": {
-      "rank": 4010,
+      "rank": 4050,
       "estimate": "<7k",
       "name": "Yandere Sacrifice"
     },
     "3724710": {
-      "rank": 1880,
+      "rank": 1825,
       "estimate": "15k+",
       "name": "Gunstoppable"
     },
     "3864580": {
-      "rank": 179,
+      "rank": 162,
       "estimate": "200k+",
       "name": "P.O.N."
     },
     "3927050": {
-      "rank": 3942,
-      "estimate": "<7k",
+      "rank": 2772,
+      "estimate": "7k+",
       "name": "Radio Heart: Lofi Hours"
     },
     "3930380": {
-      "rank": 8000,
+      "rank": 7992,
       "estimate": "<7k",
       "name": "Kitty Haven"
     },
     "4072030": {
-      "rank": 3736,
+      "rank": 3719,
       "estimate": "<7k",
       "name": "Straying Rules"
     },
     "4098030": {
-      "rank": 723,
+      "rank": 700,
       "estimate": "40k+",
       "name": "Shipping Store Simulator 2037"
     },
     "4115320": {
-      "rank": 3921,
-      "estimate": "<7k",
+      "rank": 2832,
+      "estimate": "7k+",
       "name": "Project Foxx"
     },
     "4252830": {
-      "rank": 2840,
+      "rank": 2821,
       "estimate": "7k+",
       "name": "Type or Die"
     },
     "4296610": {
-      "rank": 4463,
+      "rank": 4512,
       "estimate": "<7k",
       "name": "Sinesperia"
     },
     "4300540": {
-      "rank": 502,
+      "rank": 503,
       "estimate": "40k+",
       "name": "The Demon Party"
     },
     "4314170": {
-      "rank": 4187,
+      "rank": 4351,
       "estimate": "<7k",
       "name": "Jibbers"
     },
     "4413970": {
-      "rank": 3305,
+      "rank": 3318,
       "estimate": "<7k",
       "name": "DriveLine"
     },
     "4425540": {
-      "rank": 4805,
+      "rank": 4812,
       "estimate": "<7k",
       "name": "HOMEWAVE"
     },
     "4476320": {
-      "rank": 563,
+      "rank": 754,
       "estimate": "40k+",
       "name": "Feed The Void"
     },
     "4481850": {
-      "rank": 5878,
+      "rank": 5850,
       "estimate": "<7k",
       "name": "Garisani Detective Agency"
     },
     "4600910": {
-      "rank": 4841,
+      "rank": 5647,
       "estimate": "<7k",
       "name": "Dendron 64"
     },
     "4604330": {
-      "rank": 3300,
+      "rank": 3034,
       "estimate": "<7k",
       "name": "CYBER92 DATAWAR"
     },
     "4650230": {
-      "rank": 8832,
+      "rank": 8640,
       "estimate": "<7k",
       "name": "Faze: Sin"
     },
     "4661450": {
-      "rank": 3802,
+      "rank": 3773,
       "estimate": "<7k",
       "name": "MAREGROSSO"
     }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 32,
   "entries": {
     "467700": {
       "rank": 1203,
@@ -224,6 +224,13 @@
       "name": "Maliki : Poison Of The Past",
       "releaseDate": "2025-04-22",
       "source": "historical"
+    },
+    "4220150": {
+      "rank": 5966,
+      "estimate": "<7k",
+      "name": "Deep Board Go",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }

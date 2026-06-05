@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 29,
   "entries": {
     "1171690": {
       "rank": 23,
@@ -201,6 +201,13 @@
       "rank": 1857,
       "estimate": "15k+",
       "name": "Comatose",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4340820": {
+      "rank": 2738,
+      "estimate": "7k+",
+      "name": "Isekai Villain",
       "releaseDate": "2026-06-04",
       "source": "tracked"
     }

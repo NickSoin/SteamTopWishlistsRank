@@ -1,201 +1,211 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 41,
   "entries": {
     "791630": {
-      "rank": 7203,
+      "rank": 7262,
       "estimate": "<7k",
       "name": "Tale of Ronin"
     },
     "1333620": {
-      "rank": 8088,
+      "rank": 8295,
       "estimate": "<7k",
       "name": "Project Prison"
     },
     "1372450": {
-      "rank": 9756,
+      "rank": 9417,
       "estimate": "<7k",
       "name": "Iron Reich"
     },
     "1422450": {
-      "rank": 39,
+      "rank": 37,
       "estimate": "600k+",
       "name": "Deadlock"
     },
     "1496970": {
-      "rank": 2426,
-      "estimate": "7k+",
+      "rank": 1798,
+      "estimate": "15k+",
       "name": "Masters of Mayhem"
     },
     "1648360": {
-      "rank": 2351,
+      "rank": 2400,
       "estimate": "7k+",
       "name": "Luminary"
     },
     "2382810": {
-      "rank": 2695,
+      "rank": 2829,
       "estimate": "7k+",
       "name": "Dream Channel Zero"
     },
     "2684730": {
-      "rank": 9285,
+      "rank": 9108,
       "estimate": "<7k",
       "name": "Dangidice"
     },
     "2831000": {
-      "rank": 6326,
+      "rank": 6576,
       "estimate": "<7k",
       "name": "Faraway"
     },
     "2849490": {
-      "rank": 92,
+      "rank": 88,
       "estimate": "300k+",
       "name": "Outward 2"
     },
     "2871130": {
-      "rank": 6976,
+      "rank": 7039,
       "estimate": "<7k",
       "name": "Unscripted Fate"
     },
     "3271120": {
-      "rank": 7298,
+      "rank": 7260,
       "estimate": "<7k",
       "name": "Dragon Khan"
     },
     "3327380": {
-      "rank": 9218,
+      "rank": 8996,
       "estimate": "<7k",
       "name": "午前五時にピアノを弾く ENCORE"
     },
     "3357310": {
-      "rank": 5520,
+      "rank": 5767,
       "estimate": "<7k",
       "name": "ASUKA x Redline Reverie"
     },
     "3440070": {
-      "rank": 456,
-      "estimate": "80k+",
+      "rank": 515,
+      "estimate": "40k+",
       "name": "Dinoblade"
     },
     "3503300": {
-      "rank": 6611,
+      "rank": 6692,
       "estimate": "<7k",
       "name": "Toxic Yuri"
     },
     "3507960": {
-      "rank": 1551,
+      "rank": 1550,
       "estimate": "15k+",
       "name": "Idlemancer"
     },
     "3508910": {
-      "rank": 1095,
+      "rank": 1160,
       "estimate": "25k+",
       "name": "Abyss Kitchen"
     },
     "3595350": {
-      "rank": 4726,
+      "rank": 4732,
       "estimate": "<7k",
       "name": "UnGodly"
     },
     "3760770": {
-      "rank": 3687,
+      "rank": 3973,
       "estimate": "<7k",
       "name": "Space Savory"
     },
     "3834510": {
-      "rank": 5725,
+      "rank": 5874,
       "estimate": "<7k",
       "name": "Hypnotique : Beyond Death"
     },
     "3858040": {
-      "rank": 8326,
+      "rank": 8427,
       "estimate": "<7k",
       "name": "Spiny & Chilly"
     },
     "3881510": {
-      "rank": 1439,
+      "rank": 1458,
       "estimate": "25k+",
       "name": "Reverse T-gotchi"
     },
     "3979330": {
-      "rank": 1473,
+      "rank": 1303,
       "estimate": "25k+",
       "name": "nophenia"
     },
     "4086800": {
-      "rank": 4349,
+      "rank": 4478,
       "estimate": "<7k",
       "name": "Critical Attraction"
     },
     "4166690": {
-      "rank": 5686,
+      "rank": 5622,
       "estimate": "<7k",
       "name": "Isekai Life: Restaurant&General Store"
     },
     "4209160": {
-      "rank": 8276,
+      "rank": 8642,
       "estimate": "<7k",
       "name": "Idyll Isle"
     },
     "4225250": {
-      "rank": 2901,
+      "rank": 2964,
       "estimate": "7k+",
       "name": "DarkBazaar"
     },
+    "4276180": {
+      "rank": 9896,
+      "estimate": "<7k",
+      "name": "Game Company Simulator"
+    },
     "4299460": {
-      "rank": 8428,
+      "rank": 8350,
       "estimate": "<7k",
       "name": "Sweepcremental"
     },
     "4304740": {
-      "rank": 8730,
+      "rank": 8935,
       "estimate": "<7k",
       "name": "Escape from Ashville"
     },
+    "4331960": {
+      "rank": 7076,
+      "estimate": "<7k",
+      "name": "Spectral Map"
+    },
     "4353810": {
-      "rank": 8302,
+      "rank": 8314,
       "estimate": "<7k",
       "name": "A Toast for the End Times"
     },
     "4358190": {
-      "rank": 9228,
+      "rank": 9537,
       "estimate": "<7k",
       "name": "Zero Trust"
     },
     "4406930": {
-      "rank": 4510,
+      "rank": 4420,
       "estimate": "<7k",
       "name": "Oh Apollo!"
     },
     "4465450": {
-      "rank": 6414,
+      "rank": 6363,
       "estimate": "<7k",
       "name": "My Ransomware Can't Be This Cute?!"
     },
     "4568010": {
-      "rank": 5030,
+      "rank": 4971,
       "estimate": "<7k",
       "name": "Manafinder II"
     },
     "4586410": {
-      "rank": 5258,
+      "rank": 5318,
       "estimate": "<7k",
       "name": "The Little Crumb"
     },
     "4653530": {
-      "rank": 1793,
+      "rank": 1945,
       "estimate": "15k+",
       "name": "Red Rising"
     },
     "4667450": {
-      "rank": 1946,
+      "rank": 1999,
       "estimate": "15k+",
       "name": "Backrooms: Savior"
     },
     "4726270": {
-      "rank": 8666,
+      "rank": 8476,
       "estimate": "<7k",
       "name": "Sushi Courier!"
     }

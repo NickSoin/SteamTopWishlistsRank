@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 25,
   "entries": {
     "429380": {
       "rank": 36,
@@ -177,6 +177,13 @@
       "name": "Assassin’s Creed Shadows",
       "releaseDate": "2025-03-19",
       "source": "historical"
+    },
+    "4718440": {
+      "rank": 7387,
+      "estimate": "<7k",
+      "name": "Lords Of Heck",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }

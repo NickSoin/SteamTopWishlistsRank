@@ -1,236 +1,231 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 46,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 45,
   "entries": {
     "850870": {
-      "rank": 4557,
+      "rank": 4821,
       "estimate": "<7k",
       "name": "Hard-Life"
     },
     "1046760": {
-      "rank": 7165,
+      "rank": 7209,
       "estimate": "<7k",
       "name": "Hyperstacks"
     },
     "1162660": {
-      "rank": 8710,
+      "rank": 8689,
       "estimate": "<7k",
       "name": "SCAV"
     },
     "1352140": {
-      "rank": 9056,
+      "rank": 9097,
       "estimate": "<7k",
       "name": "VUP-Simulator"
     },
     "1412080": {
-      "rank": 3308,
+      "rank": 3392,
       "estimate": "<7k",
       "name": "Mixology"
     },
     "1454370": {
-      "rank": 131,
+      "rank": 146,
       "estimate": "200k+",
       "name": "STARSEEKER: Astroneer Expeditions"
     },
     "1633850": {
-      "rank": 4120,
+      "rank": 4285,
       "estimate": "<7k",
       "name": "Jianghu Simulator"
     },
     "1777480": {
-      "rank": 671,
+      "rank": 687,
       "estimate": "40k+",
       "name": "Pathbreakers: Roaming Blades"
     },
     "1833210": {
-      "rank": 3958,
+      "rank": 4307,
       "estimate": "<7k",
       "name": "Astromine"
     },
     "2160070": {
-      "rank": 1463,
+      "rank": 1478,
       "estimate": "25k+",
       "name": "Forge of the Fae"
     },
     "2302340": {
-      "rank": 7210,
+      "rank": 7091,
       "estimate": "<7k",
       "name": "Mech Tech"
     },
     "2527970": {
-      "rank": 2107,
+      "rank": 2539,
       "estimate": "7k+",
       "name": "Sea Of Rifts"
     },
     "2640150": {
-      "rank": 1515,
-      "estimate": "15k+",
+      "rank": 1467,
+      "estimate": "25k+",
       "name": "Venus: The Last Ascent"
     },
     "2712590": {
-      "rank": 628,
+      "rank": 562,
       "estimate": "40k+",
       "name": "Dragon Shelter"
     },
     "3010130": {
-      "rank": 6301,
+      "rank": 6151,
       "estimate": "<7k",
       "name": "Monster Mayhem"
     },
     "3164310": {
-      "rank": 3584,
-      "estimate": "<7k",
+      "rank": 2718,
+      "estimate": "7k+",
       "name": "Verde"
     },
     "3227750": {
-      "rank": 8470,
+      "rank": 8225,
       "estimate": "<7k",
       "name": "Spartacus Blood Arena"
     },
     "3361540": {
-      "rank": 3672,
+      "rank": 3715,
       "estimate": "<7k",
       "name": "TYRONE vs COPS 2"
     },
     "3520620": {
-      "rank": 8267,
+      "rank": 8667,
       "estimate": "<7k",
       "name": "Computer Store Simulator"
     },
     "3522600": {
-      "rank": 147,
+      "rank": 145,
       "estimate": "200k+",
       "name": "Demon Bluff"
     },
     "3552940": {
-      "rank": 8647,
+      "rank": 8663,
       "estimate": "<7k",
       "name": "春日落幕爱物语Spring's Finale:Tales of Love"
     },
     "3587450": {
-      "rank": 1989,
+      "rank": 1990,
       "estimate": "15k+",
       "name": "Crispy Circuits"
     },
     "3611760": {
-      "rank": 5732,
+      "rank": 5936,
       "estimate": "<7k",
       "name": "Hypnostasis"
     },
     "3635740": {
-      "rank": 8725,
+      "rank": 8659,
       "estimate": "<7k",
       "name": "Subjectivation"
     },
-    "3697380": {
-      "rank": 9936,
-      "estimate": "<7k",
-      "name": "Little Retreat"
-    },
     "3789050": {
-      "rank": 9512,
+      "rank": 9745,
       "estimate": "<7k",
       "name": "The INDIGO Initiative"
     },
     "3829400": {
-      "rank": 2224,
+      "rank": 2313,
       "estimate": "7k+",
       "name": "Grand Tactician: Napoleonic Wars (1792-1815)"
     },
     "3902750": {
-      "rank": 785,
+      "rank": 839,
       "estimate": "40k+",
       "name": "Until Then: Afterimages"
     },
     "3985430": {
-      "rank": 2933,
-      "estimate": "7k+",
+      "rank": 3205,
+      "estimate": "<7k",
       "name": "Angie Magica"
     },
     "3988640": {
-      "rank": 9902,
+      "rank": 9603,
       "estimate": "<7k",
       "name": "Forbidden Love"
     },
     "4026060": {
-      "rank": 6209,
+      "rank": 6471,
       "estimate": "<7k",
       "name": "All Roads Connected"
     },
     "4083810": {
-      "rank": 8200,
+      "rank": 8353,
       "estimate": "<7k",
       "name": "WotaBeats: Code Aria"
     },
     "4153580": {
-      "rank": 7208,
+      "rank": 7096,
       "estimate": "<7k",
       "name": "Boundless Evil: Awakening"
     },
     "4303020": {
-      "rank": 5752,
+      "rank": 5827,
       "estimate": "<7k",
       "name": "Grafton Mansion"
     },
     "4355580": {
-      "rank": 48,
-      "estimate": "600k+",
+      "rank": 77,
+      "estimate": "300k+",
       "name": "Warhammer 40,000: Darktide - Skitarii Class Deluxe Edition"
     },
     "4421960": {
-      "rank": 6769,
+      "rank": 6637,
       "estimate": "<7k",
       "name": "Flesh Blossom"
     },
     "4503570": {
-      "rank": 4754,
+      "rank": 4800,
       "estimate": "<7k",
       "name": "MOLOKAUST"
     },
     "4591810": {
-      "rank": 7139,
+      "rank": 6933,
       "estimate": "<7k",
       "name": "バッターボックスに立ちなよ -Batter Bear-"
     },
     "4595960": {
-      "rank": 2629,
+      "rank": 2660,
       "estimate": "7k+",
       "name": "Blooming in Budbury"
     },
     "4626750": {
-      "rank": 7574,
+      "rank": 8018,
       "estimate": "<7k",
       "name": "Deep Diving Adventures 2"
     },
     "4636690": {
-      "rank": 8598,
+      "rank": 8458,
       "estimate": "<7k",
       "name": "夏日重奏"
     },
     "4644620": {
-      "rank": 5498,
+      "rank": 5236,
       "estimate": "<7k",
       "name": "Streamchat: Horror Live"
     },
     "4686110": {
-      "rank": 37,
+      "rank": 50,
       "estimate": "600k+",
       "name": "Agents 404"
     },
     "4706360": {
-      "rank": 8035,
+      "rank": 7768,
       "estimate": "<7k",
       "name": "PLAYBACK"
     },
     "4752310": {
-      "rank": 9728,
+      "rank": 9508,
       "estimate": "<7k",
       "name": "Black Hole Idle"
     },
     "4787190": {
-      "rank": 2982,
+      "rank": 2962,
       "estimate": "7k+",
       "name": "The Legend of Mala Tokmachka"
     }

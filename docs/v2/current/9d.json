@@ -1,216 +1,211 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 42,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 41,
   "entries": {
     "616580": {
-      "rank": 7675,
+      "rank": 7688,
       "estimate": "<7k",
       "name": "War Girl"
     },
     "1286230": {
-      "rank": 2187,
+      "rank": 2285,
       "estimate": "7k+",
       "name": "Fields of History: The Great War"
     },
     "1354450": {
-      "rank": 2465,
+      "rank": 2514,
       "estimate": "7k+",
       "name": "Dragonfield"
     },
     "1798230": {
-      "rank": 313,
+      "rank": 332,
       "estimate": "80k+",
       "name": "ATMOSFAR"
     },
     "1883020": {
-      "rank": 7896,
+      "rank": 7907,
       "estimate": "<7k",
       "name": "Minima"
     },
     "1912410": {
-      "rank": 162,
+      "rank": 169,
       "estimate": "200k+",
       "name": "Minecraft Dungeons II"
     },
     "2105260": {
-      "rank": 2379,
+      "rank": 2467,
       "estimate": "7k+",
       "name": "Pizza Kidd"
     },
     "2412740": {
-      "rank": 5370,
+      "rank": 5353,
       "estimate": "<7k",
       "name": "Ascent Quest"
     },
     "2524290": {
-      "rank": 8597,
+      "rank": 8674,
       "estimate": "<7k",
       "name": "Kanji Kitchen: Learn Japanese"
     },
     "2744430": {
-      "rank": 1487,
-      "estimate": "25k+",
+      "rank": 1504,
+      "estimate": "15k+",
       "name": "Nightmare House"
     },
     "2876030": {
-      "rank": 8060,
+      "rank": 8002,
       "estimate": "<7k",
       "name": "Archery Pro VR"
     },
     "3008180": {
-      "rank": 6728,
+      "rank": 6507,
       "estimate": "<7k",
       "name": "Dice Showdown"
     },
     "3070420": {
-      "rank": 8341,
+      "rank": 8384,
       "estimate": "<7k",
       "name": "Martial Realms"
     },
     "3154490": {
-      "rank": 6688,
+      "rank": 6841,
       "estimate": "<7k",
       "name": "Spell Candle"
     },
     "3327120": {
-      "rank": 1389,
+      "rank": 1370,
       "estimate": "25k+",
       "name": "Dreadline Express"
     },
     "3425440": {
-      "rank": 6274,
+      "rank": 6243,
       "estimate": "<7k",
       "name": "The Mirrion"
     },
+    "3503810": {
+      "rank": 9833,
+      "estimate": "<7k",
+      "name": "「TERROR」type:【A.L.C.H.E.M.Y.】"
+    },
     "3624140": {
-      "rank": 664,
+      "rank": 706,
       "estimate": "40k+",
       "name": "Wanderburg"
     },
     "3703720": {
-      "rank": 7407,
+      "rank": 7379,
       "estimate": "<7k",
       "name": "HOST"
     },
     "3765610": {
-      "rank": 2541,
+      "rank": 2611,
       "estimate": "7k+",
       "name": "Desktop Pet Engine"
     },
     "3780970": {
-      "rank": 3712,
+      "rank": 3709,
       "estimate": "<7k",
       "name": "Killer Aces Volleyball"
     },
     "3891010": {
-      "rank": 9567,
+      "rank": 9702,
       "estimate": "<7k",
       "name": "Blue Detective: A Hotel in Scarlet"
     },
     "3944330": {
-      "rank": 9335,
+      "rank": 9195,
       "estimate": "<7k",
       "name": "Sundae Drive"
     },
     "3965050": {
-      "rank": 7877,
+      "rank": 7689,
       "estimate": "<7k",
       "name": "Chrysanthemum: On the Way to Sweet Dreams"
     },
     "3965700": {
-      "rank": 2077,
-      "estimate": "7k+",
+      "rank": 1993,
+      "estimate": "15k+",
       "name": "Moonlight Cradle"
     },
     "4043740": {
-      "rank": 913,
+      "rank": 948,
       "estimate": "40k+",
       "name": "Hero's Hour 2"
     },
     "4100290": {
-      "rank": 5772,
+      "rank": 6548,
       "estimate": "<7k",
       "name": "Insecta Vindicta"
     },
     "4119270": {
-      "rank": 7977,
+      "rank": 7953,
       "estimate": "<7k",
       "name": "Kitty Burger"
     },
     "4172570": {
-      "rank": 8110,
+      "rank": 7747,
       "estimate": "<7k",
       "name": "Chess & Chapter/棋子与章节"
     },
     "4182850": {
-      "rank": 363,
+      "rank": 358,
       "estimate": "80k+",
       "name": "Tiebreakers"
     },
     "4242730": {
-      "rank": 6418,
+      "rank": 6415,
       "estimate": "<7k",
       "name": "Sound System"
     },
     "4247100": {
-      "rank": 6554,
+      "rank": 6572,
       "estimate": "<7k",
       "name": "Exone Rift"
     },
     "4287030": {
-      "rank": 9189,
+      "rank": 9062,
       "estimate": "<7k",
       "name": "TOYCAMP"
     },
     "4330930": {
-      "rank": 6108,
+      "rank": 6050,
       "estimate": "<7k",
       "name": "The Ammonite’s Whisper"
     },
-    "4402170": {
-      "rank": 9831,
-      "estimate": "<7k",
-      "name": "Neon Pulsefire"
-    },
     "4404060": {
-      "rank": 9738,
+      "rank": 9469,
       "estimate": "<7k",
       "name": "Lead Coffin"
     },
-    "4528520": {
-      "rank": 9486,
-      "estimate": "<7k",
-      "name": "Scarlet Beret - Murder at the Orphanage"
-    },
     "4529930": {
-      "rank": 9405,
+      "rank": 9430,
       "estimate": "<7k",
       "name": "Mafia Business Simulator"
     },
     "4558880": {
-      "rank": 1059,
-      "estimate": "25k+",
+      "rank": 940,
+      "estimate": "40k+",
       "name": "Joey's Nightmare II"
     },
     "4575900": {
-      "rank": 6918,
+      "rank": 7046,
       "estimate": "<7k",
       "name": "失序之地"
     },
     "4616300": {
-      "rank": 7825,
+      "rank": 7480,
       "estimate": "<7k",
       "name": "Celestial Routes"
     },
     "4663520": {
-      "rank": 9891,
+      "rank": 9681,
       "estimate": "<7k",
       "name": "eXSert"
     },
     "4731090": {
-      "rank": 7961,
+      "rank": 7775,
       "estimate": "<7k",
       "name": "Etymancy"
     }

@@ -1,206 +1,201 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 40,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 39,
   "entries": {
     "1589820": {
-      "rank": 6008,
+      "rank": 6172,
       "estimate": "<7k",
       "name": "Denari"
     },
     "1894560": {
-      "rank": 5449,
+      "rank": 5654,
       "estimate": "<7k",
       "name": "HomeGrown"
     },
     "2068700": {
-      "rank": 3701,
+      "rank": 3762,
       "estimate": "<7k",
       "name": "Fly Free"
     },
     "2165810": {
-      "rank": 1396,
+      "rank": 1448,
       "estimate": "25k+",
       "name": "Streets of Rogue 2"
     },
     "2362040": {
-      "rank": 4599,
+      "rank": 4604,
       "estimate": "<7k",
       "name": "Into the Underworld"
     },
     "2434370": {
-      "rank": 5336,
+      "rank": 5775,
       "estimate": "<7k",
       "name": "Auto Dungeon:Idle Adventure"
     },
     "2666920": {
-      "rank": 3508,
-      "estimate": "<7k",
+      "rank": 2666,
+      "estimate": "7k+",
       "name": "Building Relationships"
     },
     "2795110": {
-      "rank": 1304,
+      "rank": 1207,
       "estimate": "25k+",
       "name": "Petal Runner"
     },
     "2851050": {
-      "rank": 6338,
+      "rank": 5264,
       "estimate": "<7k",
       "name": "Mops & Mobs: A Sweeping Dungeon Adventure"
     },
     "2895410": {
-      "rank": 1520,
+      "rank": 1680,
       "estimate": "15k+",
       "name": "Monsterest"
     },
     "2938870": {
-      "rank": 482,
+      "rank": 420,
       "estimate": "80k+",
       "name": "Maseylia : Echoes of the Past"
     },
     "2940460": {
-      "rank": 5074,
+      "rank": 5021,
       "estimate": "<7k",
       "name": "Kitty Kart 64"
     },
     "3015820": {
-      "rank": 2014,
-      "estimate": "7k+",
+      "rank": 1604,
+      "estimate": "15k+",
       "name": "To Kill a God"
     },
     "3079170": {
-      "rank": 2659,
+      "rank": 2703,
       "estimate": "7k+",
       "name": "ASKET"
     },
     "3510590": {
-      "rank": 5192,
+      "rank": 5328,
       "estimate": "<7k",
       "name": "Purr-fect Chef: Kitchen Chaos"
     },
     "3613860": {
-      "rank": 1313,
+      "rank": 1329,
       "estimate": "25k+",
       "name": "The Prisonbreak"
     },
     "3690850": {
-      "rank": 4454,
+      "rank": 4149,
       "estimate": "<7k",
       "name": "Asterika: Phantom Rose Refrain"
     },
     "3713500": {
-      "rank": 7491,
+      "rank": 7451,
       "estimate": "<7k",
       "name": "Pain-T"
     },
     "3729930": {
-      "rank": 6033,
+      "rank": 6080,
       "estimate": "<7k",
       "name": "The Mirage Project"
     },
     "3778820": {
-      "rank": 473,
+      "rank": 481,
       "estimate": "80k+",
       "name": "Architect of Ruin"
     },
     "3851680": {
-      "rank": 7300,
+      "rank": 7227,
       "estimate": "<7k",
       "name": "The Doll Shop"
     },
     "3855640": {
-      "rank": 4096,
+      "rank": 4498,
       "estimate": "<7k",
       "name": "Harvest Dice: Abundia’s Blessing"
     },
     "3863810": {
-      "rank": 1882,
-      "estimate": "15k+",
+      "rank": 2173,
+      "estimate": "7k+",
       "name": "NAMMO"
     },
     "3870090": {
-      "rank": 9424,
+      "rank": 9229,
       "estimate": "<7k",
       "name": "星星魔法和女巫STAR MAGIC AND WITCHES"
     },
     "3891200": {
-      "rank": 4011,
+      "rank": 4132,
       "estimate": "<7k",
       "name": "Cosplaying in Costalia: The Tororo Sisters!"
     },
     "3954990": {
-      "rank": 7181,
+      "rank": 6353,
       "estimate": "<7k",
       "name": "S.A.N.D.Y. - Beach Cleaner"
     },
     "4051540": {
-      "rank": 7136,
+      "rank": 7264,
       "estimate": "<7k",
       "name": "破禁 Limbo Break"
     },
     "4118360": {
-      "rank": 8124,
+      "rank": 8117,
       "estimate": "<7k",
       "name": "100 Kingdom Cats"
     },
     "4175840": {
-      "rank": 6737,
+      "rank": 6538,
       "estimate": "<7k",
       "name": "Dimension Core: Amethyst"
     },
-    "4186590": {
-      "rank": 9713,
-      "estimate": "<7k",
-      "name": "Captain Contraption’s Safari Park"
-    },
-    "4195990": {
-      "rank": 9376,
-      "estimate": "<7k",
-      "name": "风吟战记：巨龙残歌"
-    },
     "4248870": {
-      "rank": 7325,
+      "rank": 7229,
       "estimate": "<7k",
       "name": "Incremental Ragebait"
     },
+    "4336520": {
+      "rank": 9598,
+      "estimate": "<7k",
+      "name": "AntiMatcher"
+    },
     "4370100": {
-      "rank": 4736,
+      "rank": 5798,
       "estimate": "<7k",
       "name": "Cute Country"
     },
     "4394410": {
-      "rank": 6155,
+      "rank": 6142,
       "estimate": "<7k",
       "name": "Inner Rooms"
     },
     "4432910": {
-      "rank": 1347,
+      "rank": 1349,
       "estimate": "25k+",
       "name": "Spell Knight: Abyss Cleaver"
     },
     "4461770": {
-      "rank": 5024,
+      "rank": 5059,
       "estimate": "<7k",
       "name": "Bag Fight"
     },
     "4464430": {
-      "rank": 7656,
+      "rank": 7629,
       "estimate": "<7k",
       "name": "Basement Server Simulator"
     },
     "4570960": {
-      "rank": 7824,
+      "rank": 7774,
       "estimate": "<7k",
       "name": "GigaTroubleS"
     },
     "4589630": {
-      "rank": 718,
+      "rank": 958,
       "estimate": "40k+",
       "name": "Sonnet"
     },
     "4663990": {
-      "rank": 4921,
+      "rank": 4926,
       "estimate": "<7k",
       "name": "Art Collage"
     }

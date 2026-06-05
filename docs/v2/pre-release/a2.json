@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 28,
   "entries": {
     "406160": {
       "rank": 927,
@@ -194,6 +194,13 @@
       "name": "SPLITGATE: Arena Reloaded ",
       "releaseDate": "2025-05-22",
       "source": "historical"
+    },
+    "4726950": {
+      "rank": 7299,
+      "estimate": "<7k",
+      "name": "天门问剑",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }

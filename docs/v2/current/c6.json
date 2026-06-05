@@ -1,178 +1,183 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 34,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 35,
   "entries": {
     "798470": {
-      "rank": 8381,
+      "rank": 8116,
       "estimate": "<7k",
       "name": "Idle Craft"
     },
     "1557140": {
-      "rank": 6398,
+      "rank": 6441,
       "estimate": "<7k",
       "name": "What Lives Below"
     },
     "2097940": {
-      "rank": 1129,
+      "rank": 1267,
       "estimate": "25k+",
       "name": "Theatre of War: Rearmed"
     },
     "2184280": {
-      "rank": 846,
+      "rank": 861,
       "estimate": "40k+",
       "name": "Vexlands"
     },
     "2388440": {
-      "rank": 5538,
+      "rank": 4843,
       "estimate": "<7k",
       "name": "Battlecore Robots"
     },
     "2409060": {
-      "rank": 5881,
+      "rank": 6289,
       "estimate": "<7k",
       "name": "Tacticool"
     },
     "2489950": {
-      "rank": 1315,
+      "rank": 1285,
       "estimate": "25k+",
       "name": "Tales Of Wakana"
     },
     "2590490": {
-      "rank": 6816,
+      "rank": 6977,
       "estimate": "<7k",
       "name": "Late Amusement"
     },
     "2682980": {
-      "rank": 4411,
+      "rank": 4404,
       "estimate": "<7k",
       "name": "The Bunny Graveyard II"
     },
     "2814880": {
-      "rank": 1484,
-      "estimate": "25k+",
+      "rank": 1515,
+      "estimate": "15k+",
       "name": "Synchro"
     },
     "3045520": {
-      "rank": 7618,
+      "rank": 8156,
       "estimate": "<7k",
       "name": "Sea Sniffers"
     },
     "3166630": {
-      "rank": 8492,
+      "rank": 9103,
       "estimate": "<7k",
       "name": "MARS"
     },
     "3380100": {
-      "rank": 1023,
+      "rank": 1066,
       "estimate": "25k+",
       "name": "Estella"
     },
     "3596750": {
-      "rank": 2688,
+      "rank": 2696,
       "estimate": "7k+",
       "name": "Elegy of St. Godhrkar"
     },
     "3796990": {
-      "rank": 440,
+      "rank": 464,
       "estimate": "80k+",
       "name": "Euro Truck Simulator 2 - Iceland"
     },
     "3819770": {
-      "rank": 7697,
+      "rank": 7751,
       "estimate": "<7k",
       "name": "Dragon Ruins II: Aftermath"
     },
     "3891020": {
-      "rank": 4774,
+      "rank": 4769,
       "estimate": "<7k",
       "name": "SRPG Studio EX"
     },
     "3925240": {
-      "rank": 831,
+      "rank": 833,
       "estimate": "40k+",
       "name": "Otaku Love Story"
     },
     "3929590": {
-      "rank": 2568,
+      "rank": 2612,
       "estimate": "7k+",
       "name": "Bio Doll"
     },
     "4140530": {
-      "rank": 6719,
+      "rank": 6717,
       "estimate": "<7k",
       "name": "The Plant Shop"
     },
     "4148080": {
-      "rank": 9245,
+      "rank": 9179,
       "estimate": "<7k",
       "name": "泥舟と罪人"
     },
     "4160590": {
-      "rank": 2694,
+      "rank": 2750,
       "estimate": "7k+",
       "name": "Abyss of Kings"
     },
     "4183180": {
-      "rank": 1021,
+      "rank": 1027,
       "estimate": "25k+",
       "name": "Touhou Sousenkyou ~ Land of Oracular Zeitgeist"
     },
     "4340190": {
-      "rank": 3793,
+      "rank": 3804,
       "estimate": "<7k",
       "name": "BattleVox"
     },
     "4358700": {
-      "rank": 6290,
+      "rank": 6132,
       "estimate": "<7k",
       "name": "Project Blue Files: Classified"
     },
     "4448490": {
-      "rank": 2369,
+      "rank": 2507,
       "estimate": "7k+",
       "name": "Planet Harvester: Incremental Odyssey"
     },
     "4459070": {
-      "rank": 6126,
+      "rank": 6032,
       "estimate": "<7k",
       "name": "The Backrooms: Travel"
     },
     "4468540": {
-      "rank": 5005,
+      "rank": 5422,
       "estimate": "<7k",
       "name": "It's About Pirates"
     },
     "4487060": {
-      "rank": 715,
+      "rank": 751,
       "estimate": "40k+",
       "name": "Northgard Battlegrounds"
     },
     "4507690": {
-      "rank": 4769,
+      "rank": 4889,
       "estimate": "<7k",
       "name": "Blind Touch VR"
     },
     "4575930": {
-      "rank": 8788,
+      "rank": 9350,
       "estimate": "<7k",
       "name": "Blau"
     },
     "4587610": {
-      "rank": 4170,
+      "rank": 4151,
       "estimate": "<7k",
       "name": "Dice Tavern: Farkle Roguelike"
     },
     "4669400": {
-      "rank": 8580,
+      "rank": 9033,
       "estimate": "<7k",
       "name": "Bramble Bay"
     },
     "4735370": {
-      "rank": 8604,
+      "rank": 9161,
       "estimate": "<7k",
       "name": "ZDSimulator - Kyiv-Vasylkiv2 Route"
+    },
+    "4793330": {
+      "rank": 9779,
+      "estimate": "<7k",
+      "name": "RogueScape"
     }
   }
 }

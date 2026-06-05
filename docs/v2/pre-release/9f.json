@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 26,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -180,6 +180,13 @@
       "name": "Mount & Blade II: Bannerlord - War Sails",
       "releaseDate": "2025-11-26",
       "source": "historical"
+    },
+    "4749110": {
+      "rank": 6711,
+      "estimate": "<7k",
+      "name": "再见犹丽迪茜",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }

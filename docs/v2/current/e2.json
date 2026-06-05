@@ -1,216 +1,221 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 42,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 43,
   "entries": {
     "1399870": {
-      "rank": 8206,
+      "rank": 8322,
       "estimate": "<7k",
       "name": "Bedtime Horror Stories"
     },
     "2189430": {
-      "rank": 1256,
+      "rank": 1286,
       "estimate": "25k+",
       "name": "Gilded Destiny"
     },
     "2217010": {
-      "rank": 6702,
+      "rank": 6781,
       "estimate": "<7k",
       "name": "Titanic Terror"
     },
     "2364190": {
-      "rank": 4685,
+      "rank": 4840,
       "estimate": "<7k",
       "name": "METRO PENGUIN EUTOPIA"
     },
     "2547010": {
-      "rank": 2702,
+      "rank": 2834,
       "estimate": "7k+",
       "name": "Mik"
     },
     "2657090": {
-      "rank": 2506,
+      "rank": 2530,
       "estimate": "7k+",
       "name": "Teardown: Relics of Barkuna"
     },
     "2883390": {
-      "rank": 6699,
+      "rank": 6639,
       "estimate": "<7k",
       "name": "WARROCK2"
     },
     "2930250": {
-      "rank": 8712,
+      "rank": 8489,
       "estimate": "<7k",
       "name": "幻想郷大激突 : Touhou Impact"
     },
     "2974540": {
-      "rank": 3111,
+      "rank": 3194,
       "estimate": "<7k",
       "name": "Night Machine"
     },
     "2983740": {
-      "rank": 840,
+      "rank": 904,
       "estimate": "40k+",
       "name": "Animal Game"
     },
     "3066040": {
-      "rank": 996,
+      "rank": 998,
       "estimate": "40k+",
       "name": "Fosoria"
     },
     "3091860": {
-      "rank": 7397,
+      "rank": 7332,
       "estimate": "<7k",
       "name": "Aether Singularity"
     },
     "3155830": {
-      "rank": 6659,
+      "rank": 6413,
       "estimate": "<7k",
       "name": "白创纪 - Genesis of Pure White"
     },
     "3525600": {
-      "rank": 4974,
+      "rank": 4176,
       "estimate": "<7k",
       "name": "[ Content Deleted ]"
     },
     "3535270": {
-      "rank": 3000,
+      "rank": 2987,
       "estimate": "7k+",
       "name": "Bolt & Whalington"
     },
     "3540450": {
-      "rank": 2852,
+      "rank": 2926,
       "estimate": "7k+",
       "name": "Shan Hai : Mythic Origins"
     },
     "3587020": {
-      "rank": 966,
-      "estimate": "40k+",
+      "rank": 1034,
+      "estimate": "25k+",
       "name": "Dream Eaters.exe"
     },
     "3602040": {
-      "rank": 7189,
+      "rank": 7170,
       "estimate": "<7k",
       "name": "The Life Together Online"
     },
     "3639060": {
-      "rank": 943,
-      "estimate": "40k+",
+      "rank": 1016,
+      "estimate": "25k+",
       "name": "DELIVERY MUST COMPLETE"
     },
     "3682750": {
-      "rank": 9306,
+      "rank": 9208,
       "estimate": "<7k",
       "name": "Echo Bastion"
     },
     "3695350": {
-      "rank": 905,
-      "estimate": "40k+",
+      "rank": 1003,
+      "estimate": "25k+",
       "name": "Hounded"
     },
     "3738640": {
-      "rank": 3400,
+      "rank": 3523,
       "estimate": "<7k",
       "name": "Portal: Divinity"
     },
     "3826170": {
-      "rank": 4659,
+      "rank": 5034,
       "estimate": "<7k",
       "name": "Storm Horse Simulator"
     },
     "3842950": {
-      "rank": 6516,
+      "rank": 6283,
       "estimate": "<7k",
       "name": "Shrike"
     },
     "3871800": {
-      "rank": 8015,
+      "rank": 7858,
       "estimate": "<7k",
       "name": "Oathguard"
     },
     "3900560": {
-      "rank": 3540,
+      "rank": 3546,
       "estimate": "<7k",
       "name": "Fallen Blades"
     },
     "3935230": {
-      "rank": 5724,
+      "rank": 6944,
       "estimate": "<7k",
       "name": "Bodybuilder Simulator"
     },
     "4021110": {
-      "rank": 5631,
+      "rank": 5552,
       "estimate": "<7k",
       "name": "Factory Time"
     },
     "4022090": {
-      "rank": 1853,
+      "rank": 1952,
       "estimate": "15k+",
       "name": "Monk Took Book"
     },
     "4035340": {
-      "rank": 9447,
+      "rank": 9133,
       "estimate": "<7k",
       "name": "甲午：北洋风云"
     },
     "4235250": {
-      "rank": 6902,
+      "rank": 6955,
       "estimate": "<7k",
       "name": "STAR WARS: Galactic Racer™ Deluxe Upgrade"
     },
     "4339240": {
-      "rank": 8756,
+      "rank": 8504,
       "estimate": "<7k",
       "name": "Pixelwave Off"
     },
     "4353640": {
-      "rank": 2341,
+      "rank": 2475,
       "estimate": "7k+",
       "name": "The Dungeon of Lulu Farea: Rebirth"
     },
     "4424470": {
-      "rank": 9423,
+      "rank": 9383,
       "estimate": "<7k",
       "name": "Molluscarium"
     },
+    "4516490": {
+      "rank": 9895,
+      "estimate": "<7k",
+      "name": "nudge"
+    },
     "4549890": {
-      "rank": 6230,
+      "rank": 6517,
       "estimate": "<7k",
       "name": "Juufuutei Raden™'s Guide for Pixel Museum - Hakone Travelogue -"
     },
     "4642780": {
-      "rank": 8613,
+      "rank": 9082,
       "estimate": "<7k",
       "name": "SAKIMORI"
     },
     "4660010": {
-      "rank": 9702,
+      "rank": 9742,
       "estimate": "<7k",
       "name": "Every Legend"
     },
     "4665390": {
-      "rank": 1078,
+      "rank": 1079,
       "estimate": "25k+",
       "name": "Wolf Commando"
     },
     "4709070": {
-      "rank": 5038,
+      "rank": 5374,
       "estimate": "<7k",
       "name": "Forensic Finish"
     },
     "4729090": {
-      "rank": 6416,
+      "rank": 7312,
       "estimate": "<7k",
       "name": "Senti Metrica"
     },
     "4751080": {
-      "rank": 7904,
+      "rank": 8346,
       "estimate": "<7k",
       "name": "Reflections at Frostkorn"
     },
     "4764800": {
-      "rank": 8416,
+      "rank": 8199,
       "estimate": "<7k",
       "name": "Chaos Combat"
     }

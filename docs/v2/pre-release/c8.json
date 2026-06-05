@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-04T22:02:09.354Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-05T04:55:35.039Z",
+  "entryCount": 27,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -191,6 +191,13 @@
       "name": "Hypnosis Card 2",
       "releaseDate": "2024-12-06",
       "source": "historical"
+    },
+    "4427240": {
+      "rank": 4471,
+      "estimate": "<7k",
+      "name": "The Reserve",
+      "releaseDate": "2026-06-04",
+      "source": "tracked"
     }
   }
 }
