@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-06T12:17:53.626Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-06T16:37:01.529Z",
+  "entryCount": 28,
   "entries": {
     "649950": {
       "rank": 19,
@@ -198,6 +198,13 @@
       "name": "I Have No Change",
       "releaseDate": "2027-01-01",
       "source": "historical"
+    },
+    "4775570": {
+      "rank": 6451,
+      "estimate": "<7k",
+      "name": "Hunter: Space Pirates - Chapter 4",
+      "releaseDate": "2026-06-06",
+      "source": "tracked"
     }
   }
 }

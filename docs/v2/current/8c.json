@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-06T12:17:53.626Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-06T16:37:01.529Z",
+  "entryCount": 16,
   "entries": {
     "1151980": {
-      "rank": 3374,
+      "rank": 3380,
       "estimate": "<7k",
       "name": "Magnet Fishing Simulator"
     },
     "1187990": {
-      "rank": 3273,
+      "rank": 3278,
       "estimate": "<7k",
       "name": "Horribunnies"
     },
@@ -20,27 +20,27 @@
       "name": "SPINE - This is Gun Fu"
     },
     "2012040": {
-      "rank": 3296,
+      "rank": 3302,
       "estimate": "<7k",
       "name": "Enemy of the State"
     },
     "2082980": {
-      "rank": 605,
+      "rank": 606,
       "estimate": "40k+",
       "name": "Persist Online"
     },
     "2508170": {
-      "rank": 2544,
+      "rank": 2545,
       "estimate": "7k+",
       "name": "Homespace"
     },
     "2866670": {
-      "rank": 677,
+      "rank": 673,
       "estimate": "40k+",
       "name": "NBA THE RUN"
     },
     "3182050": {
-      "rank": 2080,
+      "rank": 2083,
       "estimate": "7k+",
       "name": "Free as birds : UAZO"
     },
@@ -50,17 +50,17 @@
       "name": "Rogue Stradale"
     },
     "3646950": {
-      "rank": 2999,
-      "estimate": "7k+",
+      "rank": 3002,
+      "estimate": "<7k",
       "name": "Ghost Hunting Journal"
     },
     "3702540": {
-      "rank": 3722,
+      "rank": 3725,
       "estimate": "<7k",
       "name": "Between Adventures IDLE"
     },
     "3936530": {
-      "rank": 3076,
+      "rank": 3069,
       "estimate": "<7k",
       "name": "Pro Cycling Manager 26"
     },
@@ -70,14 +70,19 @@
       "name": "Fallosophy"
     },
     "4183270": {
-      "rank": 2282,
+      "rank": 2285,
       "estimate": "7k+",
       "name": "StellarDrive"
     },
     "4290680": {
-      "rank": 2192,
+      "rank": 2193,
       "estimate": "7k+",
       "name": "Flock of the Seraphim"
+    },
+    "4517460": {
+      "rank": 4748,
+      "estimate": "<7k",
+      "name": "Total Football Online"
     }
   }
 }

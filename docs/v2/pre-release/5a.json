@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-06T12:17:53.626Z",
+  "updatedAt": "2026-06-06T16:37:01.529Z",
   "entryCount": 26,
   "entries": {
     "990630": {
@@ -140,12 +140,12 @@
       "source": "historical"
     },
     "2474770": {
-      "rank": 380,
-      "estimate": "100k",
-      "actualWishlists": 100000,
+      "rank": 364,
+      "estimate": "80k+",
       "name": "Momento",
-      "releaseDate": "2026-01-01",
-      "source": "historical",
+      "releaseDate": "2026-06-06",
+      "source": "tracked",
+      "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1783238125330044"
     },
     "2580020": {
