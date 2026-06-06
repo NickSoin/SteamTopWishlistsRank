@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-06T08:04:57.307Z",
-  "entryCount": 14,
+  "updatedAt": "2026-06-06T12:17:53.626Z",
+  "entryCount": 15,
   "entries": {
     "463940": {
-      "rank": 4190,
+      "rank": 4195,
       "estimate": "<7k",
       "name": "Shadow Over Isolation"
     },
     "718550": {
-      "rank": 3670,
+      "rank": 3678,
       "estimate": "<7k",
       "name": "Usurpator"
     },
     "1159390": {
-      "rank": 467,
+      "rank": 468,
       "estimate": "80k+",
       "name": "Taxi Simulator"
     },
@@ -25,52 +25,57 @@
       "name": "Red Frost"
     },
     "1818480": {
-      "rank": 3863,
+      "rank": 3870,
       "estimate": "<7k",
       "name": "Midwest 90: Rapid City"
     },
     "2388920": {
-      "rank": 4156,
+      "rank": 4160,
       "estimate": "<7k",
       "name": "Soulers"
     },
     "2744160": {
-      "rank": 779,
+      "rank": 782,
       "estimate": "40k+",
       "name": "Construction Simulator: Evolution"
     },
     "2783280": {
-      "rank": 3156,
+      "rank": 3163,
       "estimate": "<7k",
       "name": "Cat Secretary"
     },
     "2898700": {
-      "rank": 3335,
+      "rank": 3345,
       "estimate": "<7k",
       "name": "Wanna Sleep All Day,But"
     },
+    "2932260": {
+      "rank": 4548,
+      "estimate": "<7k",
+      "name": "Trine 6: Together in Time"
+    },
     "2950790": {
-      "rank": 126,
+      "rank": 127,
       "estimate": "200k+",
       "name": "IRON NEST: Heavy Turret Simulator"
     },
     "3429280": {
-      "rank": 2361,
+      "rank": 2363,
       "estimate": "7k+",
       "name": "ATOM RPG 2"
     },
     "3875670": {
-      "rank": 3779,
+      "rank": 3786,
       "estimate": "<7k",
       "name": "Winemaker Simulator"
     },
     "4289470": {
-      "rank": 3685,
+      "rank": 3692,
       "estimate": "<7k",
       "name": "DREAMTONE"
     },
     "4498500": {
-      "rank": 2950,
+      "rank": 2953,
       "estimate": "7k+",
       "name": "Kopno: Blightfall"
     }

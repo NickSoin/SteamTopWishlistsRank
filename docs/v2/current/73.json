@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-06T08:04:57.307Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-06T12:17:53.626Z",
+  "entryCount": 21,
   "entries": {
     "649560": {
-      "rank": 2535,
+      "rank": 2537,
       "estimate": "7k+",
       "name": "L.A.P.D. 2195"
     },
     "950660": {
-      "rank": 361,
+      "rank": 362,
       "estimate": "80k+",
       "name": "WRAITH OPS"
     },
     "1355680": {
-      "rank": 4557,
+      "rank": 4563,
       "estimate": "<7k",
       "name": "Ardent Seas"
     },
     "1547010": {
-      "rank": 2645,
+      "rank": 2648,
       "estimate": "7k+",
       "name": "NEET"
     },
@@ -30,12 +30,12 @@
       "name": "Never's End"
     },
     "2521170": {
-      "rank": 2260,
+      "rank": 2266,
       "estimate": "7k+",
       "name": "Looking For Fael"
     },
     "2615420": {
-      "rank": 1866,
+      "rank": 1870,
       "estimate": "15k+",
       "name": "Portal: Ambition"
     },
@@ -45,27 +45,27 @@
       "name": "Shadows of Chroma Tower"
     },
     "2987350": {
-      "rank": 549,
+      "rank": 553,
       "estimate": "40k+",
       "name": "Catly"
     },
     "3008890": {
-      "rank": 3902,
+      "rank": 3904,
       "estimate": "<7k",
       "name": "Rolus in the Outskirts"
     },
     "3009440": {
-      "rank": 3858,
+      "rank": 3860,
       "estimate": "<7k",
       "name": "Dungeon Baller"
     },
     "3069820": {
-      "rank": 4737,
+      "rank": 4743,
       "estimate": "<7k",
       "name": "Good News"
     },
     "3158070": {
-      "rank": 4644,
+      "rank": 4647,
       "estimate": "<7k",
       "name": "Deadline Savior"
     },
@@ -75,12 +75,12 @@
       "name": "Professional Ship Simulator"
     },
     "3699850": {
-      "rank": 3008,
+      "rank": 3014,
       "estimate": "<7k",
       "name": "The Devil's Due"
     },
     "3724710": {
-      "rank": 4410,
+      "rank": 4408,
       "estimate": "<7k",
       "name": "Gunstoppable"
     },
@@ -90,17 +90,22 @@
       "name": "P.O.N."
     },
     "4098030": {
-      "rank": 3041,
-      "estimate": "<7k",
+      "rank": 2992,
+      "estimate": "7k+",
       "name": "Shipping Store Simulator 2037"
     },
+    "4300540": {
+      "rank": 4742,
+      "estimate": "<7k",
+      "name": "The Demon Party"
+    },
     "4314170": {
-      "rank": 2563,
+      "rank": 2567,
       "estimate": "7k+",
       "name": "Jibbers"
     },
     "4476320": {
-      "rank": 3071,
+      "rank": 3077,
       "estimate": "<7k",
       "name": "Feed The Void"
     }
