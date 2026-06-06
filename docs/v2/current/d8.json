@@ -1,208 +1,118 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 40,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 22,
   "entries": {
-    "1570220": {
-      "rank": 9540,
+    "1412810": {
+      "rank": 2110,
+      "estimate": "7k+",
+      "name": "Kokopa's Atlas"
+    },
+    "1516130": {
+      "rank": 4656,
       "estimate": "<7k",
+      "name": "Delares"
+    },
+    "1570220": {
+      "rank": 1889,
+      "estimate": "15k+",
       "name": "Mythos: Build & Survive"
     },
+    "1583020": {
+      "rank": 3003,
+      "estimate": "<7k",
+      "name": "Bunker Survival"
+    },
+    "1602620": {
+      "rank": 4139,
+      "estimate": "<7k",
+      "name": "Deadzoned"
+    },
     "1792460": {
-      "rank": 2396,
-      "estimate": "7k+",
+      "rank": 367,
+      "estimate": "80k+",
       "name": "We Kill Monsters"
     },
     "2731550": {
-      "rank": 5892,
-      "estimate": "<7k",
+      "rank": 2804,
+      "estimate": "7k+",
       "name": "Ocean Gap"
     },
     "2792320": {
-      "rank": 4328,
-      "estimate": "<7k",
+      "rank": 804,
+      "estimate": "40k+",
       "name": "Critter Crosser"
     },
     "2794160": {
-      "rank": 6457,
-      "estimate": "<7k",
+      "rank": 2564,
+      "estimate": "7k+",
       "name": "Beyond The Board"
     },
     "2814860": {
-      "rank": 638,
-      "estimate": "40k+",
+      "rank": 21,
+      "estimate": "600k+",
       "name": "Vindictus: Defying Fate"
     },
     "2819470": {
-      "rank": 2673,
-      "estimate": "7k+",
+      "rank": 1115,
+      "estimate": "25k+",
       "name": "Aquapark Tycoon"
     },
-    "3008600": {
-      "rank": 6893,
-      "estimate": "<7k",
-      "name": "Heavenly Parasite"
-    },
     "3025300": {
-      "rank": 5551,
-      "estimate": "<7k",
+      "rank": 1999,
+      "estimate": "15k+",
       "name": "TRUST"
     },
     "3063720": {
-      "rank": 4080,
+      "rank": 3686,
       "estimate": "<7k",
       "name": "Monster Chef"
     },
     "3106270": {
-      "rank": 1541,
-      "estimate": "15k+",
+      "rank": 1243,
+      "estimate": "25k+",
       "name": "HELLCARD II"
     },
     "3157290": {
-      "rank": 3716,
-      "estimate": "<7k",
+      "rank": 2276,
+      "estimate": "7k+",
       "name": "The Wicker Devil"
     },
-    "3212010": {
-      "rank": 7477,
-      "estimate": "<7k",
-      "name": "When We Disappear"
-    },
-    "3403560": {
-      "rank": 3831,
-      "estimate": "<7k",
-      "name": "Tiny Tree Talk"
-    },
-    "3485830": {
-      "rank": 7086,
-      "estimate": "<7k",
-      "name": "Backrooms Fishing"
-    },
-    "3524740": {
-      "rank": 2802,
-      "estimate": "7k+",
-      "name": "Talystro"
-    },
     "3565480": {
-      "rank": 661,
-      "estimate": "40k+",
+      "rank": 2325,
+      "estimate": "7k+",
       "name": "Roadhouse Simulator"
     },
     "3683940": {
-      "rank": 3759,
-      "estimate": "<7k",
+      "rank": 2641,
+      "estimate": "7k+",
       "name": "Replay Value: Second Hand Games"
     },
     "3710600": {
-      "rank": 60,
-      "estimate": "300k+",
+      "rank": 33,
+      "estimate": "600k+",
       "name": "Warhammer 40,000: Dark Heresy"
     },
     "3729550": {
-      "rank": 4197,
+      "rank": 4101,
       "estimate": "<7k",
       "name": "Stackmon"
     },
-    "3864710": {
-      "rank": 7758,
-      "estimate": "<7k",
-      "name": "Cut The Grass: Farm Defense Survival"
-    },
-    "3929570": {
-      "rank": 2652,
-      "estimate": "7k+",
-      "name": "General Tactics: An Shi Rebellion"
-    },
-    "3986410": {
-      "rank": 7629,
-      "estimate": "<7k",
-      "name": "Shifting Sands"
-    },
     "3989240": {
-      "rank": 3590,
-      "estimate": "<7k",
+      "rank": 620,
+      "estimate": "40k+",
       "name": "FPS Quest"
     },
-    "4015340": {
-      "rank": 5024,
-      "estimate": "<7k",
-      "name": "Now Hiring"
-    },
-    "4028450": {
-      "rank": 4506,
-      "estimate": "<7k",
-      "name": "Dark Stream"
-    },
     "4112070": {
-      "rank": 582,
+      "rank": 899,
       "estimate": "40k+",
       "name": "An Eggstremely Hard Game"
     },
-    "4169160": {
-      "rank": 5954,
-      "estimate": "<7k",
-      "name": "妹控计划"
-    },
-    "4215650": {
-      "rank": 4130,
-      "estimate": "<7k",
-      "name": "Gyaru Fiction"
-    },
-    "4223800": {
-      "rank": 6255,
-      "estimate": "<7k",
-      "name": "A Rat's Quest - The Way Back Home | Season 2"
-    },
-    "4232820": {
-      "rank": 9900,
-      "estimate": "<7k",
-      "name": "Mahfam: The Cursed Village"
-    },
-    "4247680": {
-      "rank": 4013,
-      "estimate": "<7k",
-      "name": "FirstPlate"
-    },
-    "4341780": {
-      "rank": 5226,
-      "estimate": "<7k",
-      "name": "Settle"
-    },
-    "4436840": {
-      "rank": 1082,
-      "estimate": "25k+",
-      "name": "Barbie™ Horse Ride & Rescue"
-    },
-    "4616480": {
-      "rank": 5652,
-      "estimate": "<7k",
-      "name": "Tiny Leaf Kingdom"
-    },
-    "4634080": {
-      "rank": 7112,
-      "estimate": "<7k",
-      "name": "Ice Scream"
-    },
     "4670880": {
-      "rank": 345,
-      "estimate": "80k+",
+      "rank": 3729,
+      "estimate": "<7k",
       "name": "Bathory - Heritage of Blood"
-    },
-    "4738050": {
-      "rank": 2435,
-      "estimate": "7k+",
-      "name": "MansionDungeon"
-    },
-    "4754940": {
-      "rank": 4378,
-      "estimate": "<7k",
-      "name": "MACH BRUTALE"
-    },
-    "4769580": {
-      "rank": 8283,
-      "estimate": "<7k",
-      "name": "The Ferryman's Trial"
     }
   }
 }

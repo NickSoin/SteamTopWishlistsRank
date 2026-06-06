@@ -1,148 +1,93 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 17,
   "entries": {
-    "1466310": {
-      "rank": 7214,
+    "304770": {
+      "rank": 3334,
       "estimate": "<7k",
+      "name": "IAH: INTERNET WAR"
+    },
+    "1313210": {
+      "rank": 1683,
+      "estimate": "15k+",
+      "name": "Nimoyd - Survival Sandbox"
+    },
+    "1327200": {
+      "rank": 2230,
+      "estimate": "7k+",
+      "name": "Redneck Party"
+    },
+    "1466310": {
+      "rank": 1906,
+      "estimate": "15k+",
       "name": "AC-130 Gunship Operator"
     },
-    "1814690": {
-      "rank": 7118,
-      "estimate": "<7k",
-      "name": "Zid Journey"
-    },
     "1917160": {
-      "rank": 4539,
+      "rank": 4507,
       "estimate": "<7k",
       "name": "Data Center Simulator Game"
     },
     "2111370": {
-      "rank": 8444,
+      "rank": 3750,
       "estimate": "<7k",
       "name": "Covert Critter"
     },
-    "2371730": {
-      "rank": 9326,
-      "estimate": "<7k",
-      "name": "THE NEW BOSS: FOOTBALL CLUB"
-    },
-    "2454240": {
-      "rank": 5508,
-      "estimate": "<7k",
-      "name": "CATS GAME: stray cat, pet kitty, dog simulation adventure"
+    "2413960": {
+      "rank": 2726,
+      "estimate": "7k+",
+      "name": "Dark"
     },
     "2708860": {
-      "rank": 21,
-      "estimate": "600k+",
+      "rank": 165,
+      "estimate": "200k+",
       "name": "Canyons"
     },
-    "2780200": {
-      "rank": 5007,
-      "estimate": "<7k",
-      "name": "Chikaro"
-    },
     "2784150": {
-      "rank": 6258,
-      "estimate": "<7k",
+      "rank": 2954,
+      "estimate": "7k+",
       "name": "The Last Rose"
     },
     "2823570": {
-      "rank": 1041,
-      "estimate": "25k+",
+      "rank": 3329,
+      "estimate": "<7k",
       "name": "Netcode Warriors"
     },
     "3091260": {
-      "rank": 2221,
+      "rank": 2777,
       "estimate": "7k+",
       "name": "Darkbound"
     },
-    "3298430": {
-      "rank": 3807,
+    "3205960": {
+      "rank": 3125,
       "estimate": "<7k",
-      "name": "Flaregate Network"
-    },
-    "3498700": {
-      "rank": 7936,
-      "estimate": "<7k",
-      "name": "Appulse"
-    },
-    "3627670": {
-      "rank": 5058,
-      "estimate": "<7k",
-      "name": "Galaxy Empires Online"
+      "name": "Succubus Memories"
     },
     "3630010": {
-      "rank": 2008,
-      "estimate": "7k+",
+      "rank": 1596,
+      "estimate": "15k+",
       "name": "CoopRooms"
     },
-    "3829010": {
-      "rank": 8623,
-      "estimate": "<7k",
-      "name": "Ancient Shadows Awakening"
-    },
-    "3909330": {
-      "rank": 7599,
-      "estimate": "<7k",
-      "name": "Derelict"
-    },
-    "4005150": {
-      "rank": 2144,
-      "estimate": "7k+",
-      "name": "Melted Kingdoms"
-    },
-    "4014310": {
-      "rank": 5782,
-      "estimate": "<7k",
-      "name": "100 Bakery Cats"
-    },
     "4055780": {
-      "rank": 2515,
-      "estimate": "7k+",
+      "rank": 1818,
+      "estimate": "15k+",
       "name": "Gunship Origins"
     },
-    "4065790": {
-      "rank": 3513,
-      "estimate": "<7k",
-      "name": "Choo Choo Defenders"
-    },
     "4131730": {
-      "rank": 1646,
-      "estimate": "15k+",
+      "rank": 971,
+      "estimate": "40k+",
       "name": "VHOLUME"
     },
     "4271520": {
-      "rank": 487,
-      "estimate": "80k+",
+      "rank": 1428,
+      "estimate": "25k+",
       "name": "The Pines"
     },
     "4502750": {
-      "rank": 154,
-      "estimate": "200k+",
+      "rank": 576,
+      "estimate": "40k+",
       "name": "Infamous Keepers"
-    },
-    "4532850": {
-      "rank": 4028,
-      "estimate": "<7k",
-      "name": "Weave & Wander"
-    },
-    "4590270": {
-      "rank": 3128,
-      "estimate": "<7k",
-      "name": "Fallgrade"
-    },
-    "4690280": {
-      "rank": 7678,
-      "estimate": "<7k",
-      "name": "Social Space"
-    },
-    "4713130": {
-      "rank": 9384,
-      "estimate": "<7k",
-      "name": "Undercover Love - Where Shadows Meet"
     }
   }
 }

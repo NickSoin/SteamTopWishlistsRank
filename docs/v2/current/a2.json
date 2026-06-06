@@ -1,188 +1,88 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 36,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 16,
   "entries": {
-    "1085830": {
-      "rank": 6482,
+    "709010": {
+      "rank": 4371,
       "estimate": "<7k",
+      "name": "Offroad Transport Simulator"
+    },
+    "1085830": {
+      "rank": 2209,
+      "estimate": "7k+",
       "name": "Knights of Frontier Valley"
     },
     "1540720": {
-      "rank": 503,
-      "estimate": "40k+",
+      "rank": 344,
+      "estimate": "80k+",
       "name": "Forgery Craft"
     },
-    "1730220": {
-      "rank": 9485,
-      "estimate": "<7k",
-      "name": "PIGFACE MASSACRE"
-    },
     "1733690": {
-      "rank": 774,
+      "rank": 639,
       "estimate": "40k+",
       "name": "Mandate Order"
     },
     "2120350": {
-      "rank": 7443,
-      "estimate": "<7k",
+      "rank": 2018,
+      "estimate": "7k+",
       "name": "WRONGED US"
     },
-    "2359510": {
-      "rank": 8958,
-      "estimate": "<7k",
-      "name": "My Furry Girlfriend 🐾"
-    },
     "2363160": {
-      "rank": 7725,
-      "estimate": "<7k",
+      "rank": 2360,
+      "estimate": "7k+",
       "name": "Haphazard Angel"
     },
     "2433560": {
-      "rank": 376,
-      "estimate": "80k+",
+      "rank": 1599,
+      "estimate": "15k+",
       "name": "Meadgard"
     },
     "2881370": {
-      "rank": 308,
-      "estimate": "80k+",
+      "rank": 776,
+      "estimate": "40k+",
       "name": "Thank You For Your Application"
     },
-    "3012410": {
-      "rank": 1206,
-      "estimate": "25k+",
-      "name": "Everise"
-    },
-    "3175050": {
-      "rank": 9309,
-      "estimate": "<7k",
-      "name": "Space Cat Solitaire"
-    },
     "3401960": {
-      "rank": 890,
-      "estimate": "40k+",
+      "rank": 162,
+      "estimate": "200k+",
       "name": "JOIN US"
     },
-    "3446730": {
-      "rank": 6490,
-      "estimate": "<7k",
-      "name": "WildRoot"
-    },
-    "3447180": {
-      "rank": 9225,
-      "estimate": "<7k",
-      "name": "The Seal Game"
-    },
     "3450900": {
-      "rank": 3467,
+      "rank": 4253,
       "estimate": "<7k",
       "name": "DOSMIC"
     },
-    "3533500": {
-      "rank": 6735,
-      "estimate": "<7k",
-      "name": "Leaforia"
-    },
-    "3610270": {
-      "rank": 8447,
-      "estimate": "<7k",
-      "name": "Tiny Plushie Story"
-    },
-    "3732310": {
-      "rank": 6716,
-      "estimate": "<7k",
-      "name": "Dark Succubus"
-    },
-    "3754970": {
-      "rank": 7217,
-      "estimate": "<7k",
-      "name": "Mysticore: Towers & Timber"
-    },
     "3851600": {
-      "rank": 437,
-      "estimate": "80k+",
+      "rank": 1650,
+      "estimate": "15k+",
       "name": "Pulsebreaker"
     },
-    "3917740": {
-      "rank": 4093,
-      "estimate": "<7k",
-      "name": "The 7th Shift"
-    },
-    "4020320": {
-      "rank": 3132,
-      "estimate": "<7k",
-      "name": "STARVAULT"
-    },
-    "4020470": {
-      "rank": 8712,
-      "estimate": "<7k",
-      "name": "Echograve"
-    },
-    "4074840": {
-      "rank": 6603,
-      "estimate": "<7k",
-      "name": "Jaleco Arcade Collection Vol.1"
-    },
     "4161140": {
-      "rank": 1846,
-      "estimate": "15k+",
+      "rank": 4551,
+      "estimate": "<7k",
       "name": "Finding Polka"
     },
     "4168190": {
-      "rank": 2364,
+      "rank": 2309,
       "estimate": "7k+",
       "name": "Crimson Banner: War of Liberation"
     },
     "4182190": {
-      "rank": 208,
+      "rank": 337,
       "estimate": "80k+",
       "name": "Too Deep To Quit"
     },
-    "4239290": {
-      "rank": 9732,
-      "estimate": "<7k",
-      "name": "Gravity Grove"
-    },
     "4247440": {
-      "rank": 1234,
-      "estimate": "25k+",
+      "rank": 4393,
+      "estimate": "<7k",
       "name": "Leafborn"
     },
     "4514070": {
-      "rank": 984,
-      "estimate": "40k+",
+      "rank": 4176,
+      "estimate": "<7k",
       "name": "Barely Breathing"
-    },
-    "4516160": {
-      "rank": 7578,
-      "estimate": "<7k",
-      "name": "100 Panda Cats"
-    },
-    "4552960": {
-      "rank": 8142,
-      "estimate": "<7k",
-      "name": "AAA Island Hotline"
-    },
-    "4568060": {
-      "rank": 3523,
-      "estimate": "<7k",
-      "name": "Click Build Repeat"
-    },
-    "4747050": {
-      "rank": 5639,
-      "estimate": "<7k",
-      "name": "Bibdu"
-    },
-    "4760390": {
-      "rank": 9873,
-      "estimate": "<7k",
-      "name": "ABSOLUTE TOFU"
-    },
-    "4778760": {
-      "rank": 8290,
-      "estimate": "<7k",
-      "name": "プトリカ 2nd.cut:For the Exquisite Attire Soundtrack"
     }
   }
 }

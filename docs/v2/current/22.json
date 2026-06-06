@@ -1,218 +1,88 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 42,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 16,
   "entries": {
-    "948820": {
-      "rank": 6314,
-      "estimate": "<7k",
-      "name": "Nevergrind"
-    },
     "1456830": {
-      "rank": 6435,
-      "estimate": "<7k",
+      "rank": 1214,
+      "estimate": "25k+",
       "name": "Sea Dogs: Legendary Edition"
     },
     "1460790": {
-      "rank": 6483,
-      "estimate": "<7k",
+      "rank": 2999,
+      "estimate": "7k+",
       "name": "Bartender Simulator"
     },
     "1769200": {
-      "rank": 9046,
+      "rank": 3926,
       "estimate": "<7k",
       "name": "Vividerie"
     },
-    "2221060": {
-      "rank": 4620,
-      "estimate": "<7k",
-      "name": "Nephilite"
-    },
-    "2258330": {
-      "rank": 9072,
-      "estimate": "<7k",
-      "name": "VALOROUS"
-    },
-    "2259580": {
-      "rank": 8256,
-      "estimate": "<7k",
-      "name": "XANNIBAN"
-    },
-    "2590700": {
-      "rank": 8795,
-      "estimate": "<7k",
-      "name": "Soulbond"
+    "1993210": {
+      "rank": 1780,
+      "estimate": "15k+",
+      "name": "Abyssals"
     },
     "2639270": {
-      "rank": 5396,
-      "estimate": "<7k",
+      "rank": 1473,
+      "estimate": "25k+",
       "name": "Photography Simulator Wildlife Prologue"
     },
     "2669060": {
-      "rank": 2088,
-      "estimate": "7k+",
+      "rank": 499,
+      "estimate": "80k+",
       "name": "Beyond Astra"
     },
     "2755950": {
-      "rank": 3371,
-      "estimate": "<7k",
+      "rank": 2435,
+      "estimate": "7k+",
       "name": "Tidebound"
     },
-    "2776360": {
-      "rank": 8344,
-      "estimate": "<7k",
-      "name": "Luz Mala"
-    },
     "2900640": {
-      "rank": 822,
+      "rank": 716,
       "estimate": "40k+",
       "name": "TOEM 2"
     },
-    "3206220": {
-      "rank": 7447,
+    "2999130": {
+      "rank": 4595,
       "estimate": "<7k",
-      "name": "BRAINSHELL"
+      "name": "Flex Riders"
     },
     "3393720": {
-      "rank": 3001,
-      "estimate": "<7k",
+      "rank": 2131,
+      "estimate": "7k+",
       "name": "Ramen Shop Simulator"
     },
-    "3474890": {
-      "rank": 9206,
-      "estimate": "<7k",
-      "name": "Super Citycon"
-    },
     "3512750": {
-      "rank": 2002,
-      "estimate": "7k+",
+      "rank": 1402,
+      "estimate": "25k+",
       "name": "Vampire's Veil"
     },
-    "3646660": {
-      "rank": 1040,
-      "estimate": "25k+",
-      "name": "After the End"
-    },
-    "3751490": {
-      "rank": 6452,
-      "estimate": "<7k",
-      "name": "Sitter"
-    },
-    "3796150": {
-      "rank": 1088,
-      "estimate": "25k+",
-      "name": "Curse of Resthaven"
-    },
-    "3818690": {
-      "rank": 8645,
-      "estimate": "<7k",
-      "name": "AIRA & Van's Last Journey"
-    },
     "3867160": {
-      "rank": 1878,
+      "rank": 1755,
       "estimate": "15k+",
       "name": "Rance Quest Magnum"
     },
-    "3873330": {
-      "rank": 3357,
-      "estimate": "<7k",
-      "name": "Redhowl"
-    },
     "3927750": {
-      "rank": 6972,
+      "rank": 4158,
       "estimate": "<7k",
       "name": "Sherpa's Caravan"
     },
     "4039300": {
-      "rank": 4038,
+      "rank": 3923,
       "estimate": "<7k",
       "name": "GUNGRAVE G.O.R.E: BLOOD HEAT"
     },
     "4066670": {
-      "rank": 453,
-      "estimate": "80k+",
+      "rank": 1520,
+      "estimate": "15k+",
       "name": "Love & Fool's Gold"
     },
-    "4088120": {
-      "rank": 4521,
-      "estimate": "<7k",
-      "name": "SCP: ReEnter"
-    },
-    "4088670": {
-      "rank": 3217,
-      "estimate": "<7k",
-      "name": "Ludus Magnatus: Gladiator Manager Simulator"
-    },
-    "4198430": {
-      "rank": 6684,
-      "estimate": "<7k",
-      "name": "The Last Camp : Dawn"
-    },
-    "4279900": {
-      "rank": 8364,
-      "estimate": "<7k",
-      "name": "Wanderer Wheels"
-    },
-    "4282780": {
-      "rank": 587,
-      "estimate": "40k+",
-      "name": "Duelist: Idle Expedition"
-    },
     "4288030": {
-      "rank": 5501,
+      "rank": 4196,
       "estimate": "<7k",
       "name": "Stuck in a Well with a Frog"
-    },
-    "4376090": {
-      "rank": 2765,
-      "estimate": "7k+",
-      "name": "Strong-Willed Wife"
-    },
-    "4383700": {
-      "rank": 6989,
-      "estimate": "<7k",
-      "name": "Echobreaker"
-    },
-    "4413380": {
-      "rank": 7164,
-      "estimate": "<7k",
-      "name": "SCP Foundation: Universe Horror"
-    },
-    "4414820": {
-      "rank": 9238,
-      "estimate": "<7k",
-      "name": "Peppermint Academy"
-    },
-    "4448700": {
-      "rank": 7958,
-      "estimate": "<7k",
-      "name": "Agraria"
-    },
-    "4485620": {
-      "rank": 4532,
-      "estimate": "<7k",
-      "name": "Artesnaut"
-    },
-    "4541920": {
-      "rank": 1917,
-      "estimate": "15k+",
-      "name": "GRIDLANDS"
-    },
-    "4585340": {
-      "rank": 1546,
-      "estimate": "15k+",
-      "name": "Horse Magnifier: The Full Horse"
-    },
-    "4652950": {
-      "rank": 7903,
-      "estimate": "<7k",
-      "name": "Airlock"
-    },
-    "4756070": {
-      "rank": 9541,
-      "estimate": "<7k",
-      "name": "SCROLLBOUND"
     }
   }
 }

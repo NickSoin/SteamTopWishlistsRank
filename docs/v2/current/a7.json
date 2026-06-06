@@ -1,173 +1,73 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 13,
   "entries": {
-    "1435900": {
-      "rank": 2583,
+    "1241390": {
+      "rank": 2054,
       "estimate": "7k+",
+      "name": "HAUNTED SPACE"
+    },
+    "1435900": {
+      "rank": 1246,
+      "estimate": "25k+",
       "name": "Route 66 Simulator"
     },
-    "1465220": {
-      "rank": 3479,
+    "1985940": {
+      "rank": 3010,
       "estimate": "<7k",
-      "name": "Magna Regna"
-    },
-    "2297040": {
-      "rank": 9251,
-      "estimate": "<7k",
-      "name": "Custom Desktop Pet-自定义桌面宠物"
+      "name": "Abyss Fantasia"
     },
     "2457640": {
-      "rank": 9912,
+      "rank": 4731,
       "estimate": "<7k",
       "name": "HEARTRENDER"
     },
     "2647870": {
-      "rank": 9509,
-      "estimate": "<7k",
+      "rank": 2220,
+      "estimate": "7k+",
       "name": "Defenders of Etheria"
     },
-    "3018460": {
-      "rank": 6796,
-      "estimate": "<7k",
-      "name": "Fatal Dopamine/ 致命多巴胺"
-    },
-    "3150180": {
-      "rank": 7759,
-      "estimate": "<7k",
-      "name": "Hopping Girl Kohane EX"
-    },
-    "3303670": {
-      "rank": 3882,
-      "estimate": "<7k",
-      "name": "The Dropouts"
-    },
-    "3329410": {
-      "rank": 4906,
-      "estimate": "<7k",
-      "name": "Beak Island Visitor Center"
-    },
     "3367720": {
-      "rank": 4577,
+      "rank": 3909,
       "estimate": "<7k",
       "name": "ANDALAS : Realms of Eternal Lights"
     },
-    "3387160": {
-      "rank": 7311,
-      "estimate": "<7k",
-      "name": "United Heist: Facility Zero"
-    },
     "3794700": {
-      "rank": 5921,
+      "rank": 3993,
       "estimate": "<7k",
       "name": "The Second Reality Room: Unspoken Truths"
     },
-    "3818280": {
-      "rank": 8577,
+    "3896040": {
+      "rank": 4539,
       "estimate": "<7k",
-      "name": "Carry the Patient Together"
-    },
-    "3871050": {
-      "rank": 8970,
-      "estimate": "<7k",
-      "name": "Ascend and Fall"
+      "name": "WOODROT"
     },
     "3946550": {
-      "rank": 3775,
+      "rank": 4339,
       "estimate": "<7k",
       "name": "Sunny Orchard"
     },
     "3977280": {
-      "rank": 2880,
+      "rank": 2854,
       "estimate": "7k+",
       "name": "Forts - Firebird"
     },
-    "4132330": {
-      "rank": 1767,
-      "estimate": "15k+",
-      "name": "Pizza House Simulator🍕"
-    },
     "4193010": {
-      "rank": 8102,
+      "rank": 3833,
       "estimate": "<7k",
       "name": "Hypernet Explorer"
     },
-    "4222910": {
-      "rank": 3722,
-      "estimate": "<7k",
-      "name": "Boreal Tenebrae Act 0: Sundowning"
-    },
     "4240150": {
-      "rank": 4210,
-      "estimate": "<7k",
+      "rank": 1543,
+      "estimate": "15k+",
       "name": "Sister Other Paranoia"
     },
-    "4275860": {
-      "rank": 5496,
-      "estimate": "<7k",
-      "name": "Sugar Shatter"
-    },
-    "4298160": {
-      "rank": 8565,
-      "estimate": "<7k",
-      "name": "你的日常"
-    },
-    "4304540": {
-      "rank": 4938,
-      "estimate": "<7k",
-      "name": "I MUST FIND HER"
-    },
     "4349020": {
-      "rank": 2050,
+      "rank": 2446,
       "estimate": "7k+",
       "name": "Late Night Manifest"
-    },
-    "4431750": {
-      "rank": 4958,
-      "estimate": "<7k",
-      "name": "Restitutor: Empire Restored"
-    },
-    "4595540": {
-      "rank": 3726,
-      "estimate": "<7k",
-      "name": "Touhou Erosion ~ The Fallen Shrine Maiden of Paradise"
-    },
-    "4612650": {
-      "rank": 288,
-      "estimate": "80k+",
-      "name": "Metro Anomaly"
-    },
-    "4696540": {
-      "rank": 7899,
-      "estimate": "<7k",
-      "name": "Working95"
-    },
-    "4724890": {
-      "rank": 3228,
-      "estimate": "<7k",
-      "name": "Nastrond:Rhythm Shaker"
-    },
-    "4732930": {
-      "rank": 5811,
-      "estimate": "<7k",
-      "name": "Don't mess with Er Kui"
-    },
-    "4771500": {
-      "rank": 8647,
-      "estimate": "<7k",
-      "name": "Last Zone: Quarantine"
-    },
-    "4778860": {
-      "rank": 9146,
-      "estimate": "<7k",
-      "name": "真弓-Mayumi-"
-    },
-    "4784720": {
-      "rank": 9948,
-      "estimate": "<7k",
-      "name": "Blacktower"
     }
   }
 }

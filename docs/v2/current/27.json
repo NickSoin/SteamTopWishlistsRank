@@ -1,183 +1,113 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 35,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 21,
   "entries": {
     "395830": {
-      "rank": 7791,
-      "estimate": "<7k",
+      "rank": 744,
+      "estimate": "40k+",
       "name": "LOW-FI"
     },
     "796530": {
-      "rank": 9618,
-      "estimate": "<7k",
+      "rank": 2713,
+      "estimate": "7k+",
       "name": "ALTERA"
     },
-    "1569890": {
-      "rank": 9086,
+    "827210": {
+      "rank": 4574,
       "estimate": "<7k",
-      "name": "Mumbai Gullies"
+      "name": "Death Carnival"
+    },
+    "1300880": {
+      "rank": 4137,
+      "estimate": "<7k",
+      "name": "Glitchphobia"
+    },
+    "1354980": {
+      "rank": 1614,
+      "estimate": "15k+",
+      "name": "Decimated"
+    },
+    "1503490": {
+      "rank": 2044,
+      "estimate": "7k+",
+      "name": "FarmZone"
+    },
+    "1836400": {
+      "rank": 1469,
+      "estimate": "25k+",
+      "name": "Mossfield Origins"
     },
     "1867240": {
-      "rank": 38,
-      "estimate": "600k+",
+      "rank": 65,
+      "estimate": "300k+",
       "name": "WARDOGS"
     },
     "1927360": {
-      "rank": 4312,
-      "estimate": "<7k",
+      "rank": 955,
+      "estimate": "40k+",
       "name": "Mira and the Legend of the Djinns"
     },
     "2161710": {
-      "rank": 233,
-      "estimate": "80k+",
+      "rank": 86,
+      "estimate": "300k+",
       "name": "NO LAW"
     },
-    "2426150": {
-      "rank": 8745,
+    "2337180": {
+      "rank": 3019,
       "estimate": "<7k",
-      "name": "Collapsed State"
+      "name": "I NEED SPACE"
     },
     "2459840": {
-      "rank": 6185,
+      "rank": 3927,
       "estimate": "<7k",
       "name": "Barbarian Saga: The Beastmaster"
     },
     "2541950": {
-      "rank": 408,
-      "estimate": "80k+",
+      "rank": 975,
+      "estimate": "40k+",
       "name": "Sirens"
     },
-    "2571610": {
-      "rank": 8100,
-      "estimate": "<7k",
-      "name": "Vitrified"
-    },
     "3068720": {
-      "rank": 2660,
-      "estimate": "7k+",
+      "rank": 855,
+      "estimate": "40k+",
       "name": "I Am Security"
     },
     "3145850": {
-      "rank": 7789,
+      "rank": 3267,
       "estimate": "<7k",
       "name": "Rootmare"
     },
     "3195150": {
-      "rank": 6861,
+      "rank": 3604,
       "estimate": "<7k",
       "name": "Clowned King"
     },
-    "3444810": {
-      "rank": 854,
-      "estimate": "40k+",
-      "name": "Wonderfall"
-    },
-    "3480890": {
-      "rank": 3776,
-      "estimate": "<7k",
-      "name": "Feudal Craft"
-    },
     "3560110": {
-      "rank": 6688,
+      "rank": 4028,
       "estimate": "<7k",
       "name": "Fracture Point"
     },
     "3565980": {
-      "rank": 4677,
+      "rank": 3732,
       "estimate": "<7k",
       "name": "The Stalked 3"
     },
     "3723830": {
-      "rank": 3606,
-      "estimate": "<7k",
+      "rank": 2529,
+      "estimate": "7k+",
       "name": "群魔死欲之山"
     },
-    "3791620": {
-      "rank": 6955,
-      "estimate": "<7k",
-      "name": "Mimi's Restaurant Helper"
-    },
-    "3917880": {
-      "rank": 5939,
-      "estimate": "<7k",
-      "name": "Protogen Inc."
-    },
-    "3982110": {
-      "rank": 7249,
-      "estimate": "<7k",
-      "name": "ATYPIAN"
-    },
-    "4194370": {
-      "rank": 637,
-      "estimate": "40k+",
-      "name": "Godless Avalon"
-    },
-    "4201720": {
-      "rank": 6391,
-      "estimate": "<7k",
-      "name": "RatSpiderFrog"
-    },
-    "4244730": {
-      "rank": 7185,
-      "estimate": "<7k",
-      "name": "SliceShot Padel"
-    },
     "4252290": {
-      "rank": 383,
-      "estimate": "80k+",
+      "rank": 697,
+      "estimate": "40k+",
       "name": "Meowgic"
     },
-    "4273350": {
-      "rank": 8024,
-      "estimate": "<7k",
-      "name": "Herd"
-    },
-    "4329080": {
-      "rank": 4970,
-      "estimate": "<7k",
-      "name": "Gun Repair Shop"
-    },
     "4400930": {
-      "rank": 319,
+      "rank": 397,
       "estimate": "80k+",
       "name": "Euro Truck Simulator 2 - Soul of Anatolia"
-    },
-    "4434630": {
-      "rank": 7068,
-      "estimate": "<7k",
-      "name": "Fengshua Farm Story"
-    },
-    "4539410": {
-      "rank": 6772,
-      "estimate": "<7k",
-      "name": "Cubie"
-    },
-    "4577070": {
-      "rank": 4765,
-      "estimate": "<7k",
-      "name": "Falling Apart"
-    },
-    "4580450": {
-      "rank": 4221,
-      "estimate": "<7k",
-      "name": "おかゆにゅ～～む！R ~Okayunyumu！R~"
-    },
-    "4613110": {
-      "rank": 8382,
-      "estimate": "<7k",
-      "name": "High Walk"
-    },
-    "4621810": {
-      "rank": 6806,
-      "estimate": "<7k",
-      "name": "Livin' the Cream: Ice Cream Simulator"
-    },
-    "4666950": {
-      "rank": 1831,
-      "estimate": "15k+",
-      "name": "Hank Shaw: Animal Investigator"
     }
   }
 }

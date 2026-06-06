@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 28,
   "entries": {
     "593150": {
       "rank": 72,
@@ -191,6 +191,13 @@
       "releaseDate": "2026-04-30",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770236720"
+    },
+    "4094820": {
+      "rank": 8373,
+      "estimate": "<7k",
+      "name": "Space Evolver",
+      "releaseDate": "2027-06-08",
+      "source": "tracked"
     },
     "4688470": {
       "rank": 4233,

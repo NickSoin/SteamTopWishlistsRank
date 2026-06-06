@@ -1,258 +1,108 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 50,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 20,
   "entries": {
+    "937450": {
+      "rank": 761,
+      "estimate": "40k+",
+      "name": "Metropolisim"
+    },
     "1221950": {
-      "rank": 2205,
+      "rank": 2225,
       "estimate": "7k+",
       "name": "Nighthawks"
     },
-    "1327090": {
-      "rank": 9697,
+    "1303720": {
+      "rank": 4724,
       "estimate": "<7k",
+      "name": "Charge Blade Hero"
+    },
+    "1327090": {
+      "rank": 2570,
+      "estimate": "7k+",
       "name": "Solar System Colonist"
     },
     "1490930": {
-      "rank": 1374,
-      "estimate": "25k+",
+      "rank": 273,
+      "estimate": "80k+",
       "name": "Capital Command"
     },
     "1685310": {
-      "rank": 805,
-      "estimate": "40k+",
+      "rank": 180,
+      "estimate": "200k+",
       "name": "The Wayward Realms"
     },
     "2116200": {
-      "rank": 9212,
+      "rank": 4381,
       "estimate": "<7k",
       "name": "ECO BREAKER"
     },
     "2220860": {
-      "rank": 3833,
-      "estimate": "<7k",
+      "rank": 715,
+      "estimate": "40k+",
       "name": "TSURUGIHIME"
     },
     "2477710": {
-      "rank": 2206,
+      "rank": 2232,
       "estimate": "7k+",
       "name": "Nimbit Frontier"
     },
     "2659600": {
-      "rank": 9986,
-      "estimate": "<7k",
+      "rank": 1916,
+      "estimate": "15k+",
       "name": "Ammossum"
     },
     "2873440": {
-      "rank": 436,
-      "estimate": "80k+",
+      "rank": 17,
+      "estimate": "800k+",
       "name": "Chrono Odyssey"
     },
     "2994220": {
-      "rank": 8999,
-      "estimate": "<7k",
+      "rank": 2902,
+      "estimate": "7k+",
       "name": "Azaran: Islands of the Jinn"
     },
     "3054550": {
-      "rank": 2445,
-      "estimate": "7k+",
+      "rank": 1072,
+      "estimate": "25k+",
       "name": "Sil and the Fading World"
     },
     "3056390": {
-      "rank": 2768,
-      "estimate": "7k+",
+      "rank": 3768,
+      "estimate": "<7k",
       "name": "HAELE 3D - Portrait Studio Pro - Drawing References"
     },
-    "3101780": {
-      "rank": 762,
-      "estimate": "40k+",
-      "name": "Starless Umbra"
-    },
-    "3177730": {
-      "rank": 9843,
-      "estimate": "<7k",
-      "name": "Rottenroots"
-    },
-    "3379860": {
-      "rank": 5478,
-      "estimate": "<7k",
-      "name": "Chinese Strange Stories"
-    },
     "3393110": {
-      "rank": 100,
-      "estimate": "300k+",
+      "rank": 284,
+      "estimate": "80k+",
       "name": "AION 2"
     },
-    "3469680": {
-      "rank": 8803,
-      "estimate": "<7k",
-      "name": "Story of Leaves"
-    },
     "3551820": {
-      "rank": 1788,
-      "estimate": "15k+",
+      "rank": 3273,
+      "estimate": "<7k",
       "name": "Castlebound"
     },
     "3581230": {
-      "rank": 59,
-      "estimate": "300k+",
+      "rank": 269,
+      "estimate": "80k+",
       "name": "Cozy Game Restoration"
     },
-    "3849530": {
-      "rank": 9887,
-      "estimate": "<7k",
-      "name": "Spine Lasher"
-    },
     "3893230": {
-      "rank": 3196,
+      "rank": 3420,
       "estimate": "<7k",
       "name": "Bifröst: Prelude to the Storm"
     },
-    "3893560": {
-      "rank": 4913,
-      "estimate": "<7k",
-      "name": "Patisserie Simulator"
-    },
     "3936610": {
-      "rank": 1013,
-      "estimate": "25k+",
+      "rank": 3878,
+      "estimate": "<7k",
       "name": "Monopoly: Star Wars™ Heroes vs. Villains"
     },
-    "3946950": {
-      "rank": 9369,
-      "estimate": "<7k",
-      "name": "Click the Button"
-    },
-    "3960860": {
-      "rank": 4985,
-      "estimate": "<7k",
-      "name": "Bloomino"
-    },
-    "3972980": {
-      "rank": 2919,
-      "estimate": "7k+",
-      "name": "Mirklurk: Every Step Matters"
-    },
     "3975750": {
-      "rank": 1848,
-      "estimate": "15k+",
+      "rank": 3163,
+      "estimate": "<7k",
       "name": "The Gate Must Stand"
-    },
-    "3996490": {
-      "rank": 2588,
-      "estimate": "7k+",
-      "name": "Polly's Puzzle Box"
-    },
-    "4008790": {
-      "rank": 5989,
-      "estimate": "<7k",
-      "name": "King's Courier"
-    },
-    "4040750": {
-      "rank": 3548,
-      "estimate": "<7k",
-      "name": "Paradoxical"
-    },
-    "4085920": {
-      "rank": 2262,
-      "estimate": "7k+",
-      "name": "AlterMage"
-    },
-    "4149040": {
-      "rank": 4218,
-      "estimate": "<7k",
-      "name": "Drillbound"
-    },
-    "4165420": {
-      "rank": 6624,
-      "estimate": "<7k",
-      "name": "Omnisight"
-    },
-    "4240680": {
-      "rank": 5993,
-      "estimate": "<7k",
-      "name": "Tiny Train Tycoon"
-    },
-    "4258520": {
-      "rank": 8181,
-      "estimate": "<7k",
-      "name": "GoSifu(师傅快出招)"
-    },
-    "4375030": {
-      "rank": 6417,
-      "estimate": "<7k",
-      "name": "Strawberry Cafe"
-    },
-    "4387480": {
-      "rank": 5385,
-      "estimate": "<7k",
-      "name": "R.E.G.O"
-    },
-    "4422260": {
-      "rank": 2666,
-      "estimate": "7k+",
-      "name": "Hakoniwa Electric"
-    },
-    "4436720": {
-      "rank": 9944,
-      "estimate": "<7k",
-      "name": "Masterworks of Horror: The Prologue"
-    },
-    "4475440": {
-      "rank": 8707,
-      "estimate": "<7k",
-      "name": "Chromium Dino"
-    },
-    "4483720": {
-      "rank": 9050,
-      "estimate": "<7k",
-      "name": "レイドオブタイタン"
-    },
-    "4541440": {
-      "rank": 2332,
-      "estimate": "7k+",
-      "name": "Spider Lily"
-    },
-    "4603670": {
-      "rank": 5610,
-      "estimate": "<7k",
-      "name": "[Bober Bros] Last Pill Bar"
-    },
-    "4609580": {
-      "rank": 7150,
-      "estimate": "<7k",
-      "name": "Pastelo"
-    },
-    "4629490": {
-      "rank": 3169,
-      "estimate": "<7k",
-      "name": "The Demon King: Harem"
-    },
-    "4651040": {
-      "rank": 6737,
-      "estimate": "<7k",
-      "name": "Gear Notes -ogre slayer-"
-    },
-    "4692760": {
-      "rank": 4409,
-      "estimate": "<7k",
-      "name": "ASWANG HUNTER"
-    },
-    "4695530": {
-      "rank": 9978,
-      "estimate": "<7k",
-      "name": "A Game About Getting Bigger"
-    },
-    "4708360": {
-      "rank": 6942,
-      "estimate": "<7k",
-      "name": "Break Point: Brace & Breach"
-    },
-    "4755380": {
-      "rank": 7708,
-      "estimate": "<7k",
-      "name": "The Wickers House"
     }
   }
 }

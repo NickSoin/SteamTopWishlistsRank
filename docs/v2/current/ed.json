@@ -1,173 +1,93 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 17,
   "entries": {
     "912000": {
-      "rank": 708,
-      "estimate": "40k+",
+      "rank": 1179,
+      "estimate": "25k+",
       "name": "Mike goes on hike"
     },
-    "1575790": {
-      "rank": 2710,
+    "1156490": {
+      "rank": 3293,
+      "estimate": "<7k",
+      "name": "Ring of Fire"
+    },
+    "1333930": {
+      "rank": 2024,
       "estimate": "7k+",
+      "name": "World's Worst Handyman"
+    },
+    "1575790": {
+      "rank": 1114,
+      "estimate": "25k+",
       "name": "Flawless Abbey"
     },
-    "1954210": {
-      "rank": 6549,
-      "estimate": "<7k",
-      "name": "Speedboat League"
-    },
-    "2073330": {
-      "rank": 2263,
-      "estimate": "7k+",
-      "name": "FORKLIFT FLOWERPOT: Botanical Investigator"
-    },
     "2363280": {
-      "rank": 6174,
-      "estimate": "<7k",
+      "rank": 1651,
+      "estimate": "15k+",
       "name": "NULLSPACE"
     },
     "2522120": {
-      "rank": 1971,
-      "estimate": "15k+",
+      "rank": 565,
+      "estimate": "40k+",
       "name": "Airframe Ultra"
     },
     "2601540": {
-      "rank": 2254,
-      "estimate": "7k+",
+      "rank": 478,
+      "estimate": "80k+",
       "name": "Drowned Lake"
     },
-    "2796060": {
-      "rank": 6283,
-      "estimate": "<7k",
-      "name": "Climb Jump"
-    },
-    "3031720": {
-      "rank": 5642,
-      "estimate": "<7k",
-      "name": "Kamikaze Empire"
-    },
     "3041730": {
-      "rank": 1600,
-      "estimate": "15k+",
+      "rank": 4029,
+      "estimate": "<7k",
       "name": "Go North"
     },
     "3303870": {
-      "rank": 3913,
+      "rank": 4254,
       "estimate": "<7k",
       "name": "Underground Security Inc"
     },
-    "3353840": {
-      "rank": 6828,
-      "estimate": "<7k",
-      "name": "Priestess·女祭司"
-    },
-    "3517060": {
-      "rank": 7099,
-      "estimate": "<7k",
-      "name": "Fantasy Shop Simulator ⚔️"
-    },
-    "3555440": {
-      "rank": 5817,
-      "estimate": "<7k",
-      "name": "Lich Lords"
-    },
     "3592940": {
-      "rank": 1409,
+      "rank": 1347,
       "estimate": "25k+",
       "name": "Flesh & Wire"
     },
     "3669820": {
-      "rank": 8764,
+      "rank": 4002,
       "estimate": "<7k",
       "name": "CatchMaker"
     },
-    "3679850": {
-      "rank": 4049,
-      "estimate": "<7k",
-      "name": "Fatal: Unleashed Darkness"
-    },
-    "3726260": {
-      "rank": 9683,
-      "estimate": "<7k",
-      "name": "Catch&Cargo"
-    },
-    "3728280": {
-      "rank": 3031,
-      "estimate": "<7k",
-      "name": "Kisaragi"
-    },
-    "3732690": {
-      "rank": 3486,
-      "estimate": "<7k",
-      "name": "Master of Cladia"
-    },
     "3756340": {
-      "rank": 2357,
-      "estimate": "7k+",
+      "rank": 4252,
+      "estimate": "<7k",
       "name": "Cheat Death"
     },
-    "3820740": {
-      "rank": 9973,
-      "estimate": "<7k",
-      "name": "Stick Together! - Co-op Frog Parkour"
-    },
     "3854080": {
-      "rank": 3705,
+      "rank": 4322,
       "estimate": "<7k",
       "name": "隐梦交织"
     },
     "3892370": {
-      "rank": 1111,
-      "estimate": "25k+",
+      "rank": 1652,
+      "estimate": "15k+",
       "name": "Distant Shore: BRETAGNE"
     },
     "3966510": {
-      "rank": 4569,
+      "rank": 4188,
       "estimate": "<7k",
       "name": "Feed the Scorchpot"
     },
     "4119090": {
-      "rank": 3245,
-      "estimate": "<7k",
+      "rank": 556,
+      "estimate": "40k+",
       "name": "The Daughter"
     },
-    "4143220": {
-      "rank": 2994,
-      "estimate": "7k+",
-      "name": "金宵公寓事件"
-    },
-    "4196150": {
-      "rank": 7265,
-      "estimate": "<7k",
-      "name": "Kinetic TwinZ"
-    },
-    "4236690": {
-      "rank": 9371,
-      "estimate": "<7k",
-      "name": "Hypersonic GP"
-    },
     "4402390": {
-      "rank": 6905,
+      "rank": 3365,
       "estimate": "<7k",
       "name": "CaveDive"
-    },
-    "4451570": {
-      "rank": 4871,
-      "estimate": "<7k",
-      "name": "Land of Ruins"
-    },
-    "4568380": {
-      "rank": 9055,
-      "estimate": "<7k",
-      "name": "Sea You Around"
-    },
-    "4646910": {
-      "rank": 5324,
-      "estimate": "<7k",
-      "name": "Indian Street Food Simulator"
     }
   }
 }

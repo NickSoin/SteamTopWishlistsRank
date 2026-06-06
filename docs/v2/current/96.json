@@ -1,223 +1,113 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 43,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 21,
   "entries": {
-    "385740": {
-      "rank": 5450,
-      "estimate": "<7k",
-      "name": "SteelGuard"
-    },
     "1468400": {
-      "rank": 6114,
-      "estimate": "<7k",
+      "rank": 1175,
+      "estimate": "25k+",
       "name": "Dreamhouse: The Game"
     },
     "2068380": {
-      "rank": 7042,
-      "estimate": "<7k",
+      "rank": 2150,
+      "estimate": "7k+",
       "name": "SCP: Directive Nine"
     },
     "2266890": {
-      "rank": 1100,
-      "estimate": "25k+",
+      "rank": 732,
+      "estimate": "40k+",
       "name": "BECROWNED"
     },
-    "2609400": {
-      "rank": 2402,
+    "2337990": {
+      "rank": 2933,
       "estimate": "7k+",
+      "name": "Kohlrabi Starship"
+    },
+    "2609400": {
+      "rank": 3981,
+      "estimate": "<7k",
       "name": "Dreaminal"
     },
     "2984150": {
-      "rank": 2014,
-      "estimate": "7k+",
+      "rank": 1869,
+      "estimate": "15k+",
       "name": "Pirofauna"
     },
     "3003430": {
-      "rank": 2572,
+      "rank": 2359,
       "estimate": "7k+",
       "name": "TINY METAL 2"
     },
     "3123130": {
-      "rank": 1260,
-      "estimate": "25k+",
+      "rank": 767,
+      "estimate": "40k+",
       "name": "Moon Princess"
     },
     "3188490": {
-      "rank": 6159,
+      "rank": 4203,
       "estimate": "<7k",
       "name": "Epoch Reset"
     },
     "3340830": {
-      "rank": 3011,
-      "estimate": "<7k",
+      "rank": 1910,
+      "estimate": "15k+",
       "name": "Idle Cave Miner 2"
     },
     "3394840": {
-      "rank": 605,
-      "estimate": "40k+",
+      "rank": 322,
+      "estimate": "80k+",
       "name": "Clawed"
     },
-    "3532640": {
-      "rank": 6491,
-      "estimate": "<7k",
-      "name": "Waste Force"
-    },
     "3536680": {
-      "rank": 5232,
-      "estimate": "<7k",
+      "rank": 2308,
+      "estimate": "7k+",
       "name": "wYzards"
     },
     "3620480": {
-      "rank": 1474,
-      "estimate": "25k+",
+      "rank": 187,
+      "estimate": "200k+",
       "name": "Pal♡world! ~More Than Just Pals~"
     },
-    "3622370": {
-      "rank": 2565,
-      "estimate": "7k+",
-      "name": "Trick Eight"
-    },
     "3660710": {
-      "rank": 536,
-      "estimate": "40k+",
+      "rank": 253,
+      "estimate": "80k+",
       "name": "Armatus"
     },
-    "3714170": {
-      "rank": 4806,
-      "estimate": "<7k",
-      "name": "Automated Ranch Simulator"
-    },
     "3716910": {
-      "rank": 4168,
-      "estimate": "<7k",
+      "rank": 1535,
+      "estimate": "15k+",
       "name": "Whispers in the fog"
     },
-    "3753140": {
-      "rank": 4662,
-      "estimate": "<7k",
-      "name": "BRAMBLEFORT"
-    },
     "3756370": {
-      "rank": 1822,
-      "estimate": "15k+",
+      "rank": 2573,
+      "estimate": "7k+",
       "name": "Räfven"
     },
-    "3816490": {
-      "rank": 8823,
-      "estimate": "<7k",
-      "name": "Redact"
-    },
     "3884970": {
-      "rank": 982,
-      "estimate": "40k+",
+      "rank": 2576,
+      "estimate": "7k+",
       "name": "Layer Land"
     },
-    "3885230": {
-      "rank": 9997,
-      "estimate": "<7k",
-      "name": "Nitronic Rush"
-    },
     "3891680": {
-      "rank": 3740,
+      "rank": 4167,
       "estimate": "<7k",
       "name": "Spirit Rancher"
     },
-    "3942290": {
-      "rank": 7285,
-      "estimate": "<7k",
-      "name": "Casino Tycoon: Sin & Win"
-    },
     "3979490": {
-      "rank": 1426,
-      "estimate": "25k+",
+      "rank": 3846,
+      "estimate": "<7k",
       "name": "AZUR"
     },
-    "3994820": {
-      "rank": 9001,
-      "estimate": "<7k",
-      "name": "DreadBound"
-    },
     "4031890": {
-      "rank": 735,
-      "estimate": "40k+",
+      "rank": 119,
+      "estimate": "200k+",
       "name": "Palworld: Palfarm"
     },
-    "4044410": {
-      "rank": 9613,
-      "estimate": "<7k",
-      "name": "Climb Of Death"
-    },
-    "4114690": {
-      "rank": 9357,
-      "estimate": "<7k",
-      "name": "ZuOnline"
-    },
-    "4196160": {
-      "rank": 6059,
-      "estimate": "<7k",
-      "name": "Haunt Out"
-    },
-    "4222250": {
-      "rank": 7275,
-      "estimate": "<7k",
-      "name": "BurgerJoint: Fast Food Simulator"
-    },
-    "4265480": {
-      "rank": 7148,
-      "estimate": "<7k",
-      "name": "No Mercy, No Sanctuary"
-    },
-    "4280690": {
-      "rank": 6553,
-      "estimate": "<7k",
-      "name": "Cafe Life Simulator"
-    },
-    "4377400": {
-      "rank": 4743,
-      "estimate": "<7k",
-      "name": "Pale Abyss"
-    },
-    "4438220": {
-      "rank": 5789,
-      "estimate": "<7k",
-      "name": "My Necromancer's Library"
-    },
-    "4606050": {
-      "rank": 9815,
-      "estimate": "<7k",
-      "name": "Super Slots"
-    },
     "4633090": {
-      "rank": 1503,
-      "estimate": "15k+",
+      "rank": 1197,
+      "estimate": "25k+",
       "name": "Misa Online"
-    },
-    "4693540": {
-      "rank": 5464,
-      "estimate": "<7k",
-      "name": "The Last Tale"
-    },
-    "4707380": {
-      "rank": 8710,
-      "estimate": "<7k",
-      "name": "Jolly and Whimsy"
-    },
-    "4725780": {
-      "rank": 6763,
-      "estimate": "<7k",
-      "name": "死写ZERO -SHISYA ZERO-"
-    },
-    "4739680": {
-      "rank": 4479,
-      "estimate": "<7k",
-      "name": "Textorio"
-    },
-    "4777530": {
-      "rank": 4640,
-      "estimate": "<7k",
-      "name": "HYPERCUT"
     }
   }
 }

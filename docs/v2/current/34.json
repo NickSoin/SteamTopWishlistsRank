@@ -1,148 +1,73 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 13,
   "entries": {
     "1244600": {
-      "rank": 6980,
-      "estimate": "<7k",
+      "rank": 2699,
+      "estimate": "7k+",
       "name": "Let's Drive - learn driving simulator"
     },
+    "2817960": {
+      "rank": 3962,
+      "estimate": "<7k",
+      "name": "Button Man"
+    },
     "2960460": {
-      "rank": 595,
+      "rank": 522,
       "estimate": "40k+",
       "name": "Spaceflight Simulator 2"
     },
     "3078760": {
-      "rank": 743,
+      "rank": 851,
       "estimate": "40k+",
       "name": "LIVING HELL"
     },
     "3079190": {
-      "rank": 1344,
-      "estimate": "25k+",
+      "rank": 188,
+      "estimate": "200k+",
       "name": "PACS - Post Apocalypse Courier Service: Co-op Delivery Simulator"
     },
-    "3257970": {
-      "rank": 7594,
-      "estimate": "<7k",
-      "name": "Strike Force Damocles"
-    },
     "3355360": {
-      "rank": 1522,
-      "estimate": "15k+",
+      "rank": 264,
+      "estimate": "80k+",
       "name": "4:LOOP"
     },
     "3395320": {
-      "rank": 5019,
-      "estimate": "<7k",
+      "rank": 1416,
+      "estimate": "25k+",
       "name": "Critical Shift"
     },
     "3485580": {
-      "rank": 2453,
-      "estimate": "7k+",
+      "rank": 1867,
+      "estimate": "15k+",
       "name": "Bodybuilder Simulator CO-OP"
     },
     "3610210": {
-      "rank": 4420,
-      "estimate": "<7k",
+      "rank": 2528,
+      "estimate": "7k+",
       "name": "Klostyn"
     },
     "3623050": {
-      "rank": 9766,
+      "rank": 4526,
       "estimate": "<7k",
       "name": "Ending the Happy Route"
     },
-    "3673110": {
-      "rank": 5407,
-      "estimate": "<7k",
-      "name": "Backrooms: Prop Hunt"
-    },
     "3688130": {
-      "rank": 586,
-      "estimate": "40k+",
+      "rank": 1184,
+      "estimate": "25k+",
       "name": "Moldwasher"
     },
-    "3734480": {
-      "rank": 7632,
-      "estimate": "<7k",
-      "name": "Frost World"
-    },
     "3788160": {
-      "rank": 256,
-      "estimate": "80k+",
+      "rank": 1695,
+      "estimate": "15k+",
       "name": "Terminal War"
     },
     "3950440": {
-      "rank": 5979,
-      "estimate": "<7k",
+      "rank": 1944,
+      "estimate": "15k+",
       "name": "Lootbane"
-    },
-    "4011630": {
-      "rank": 4829,
-      "estimate": "<7k",
-      "name": "Not My Base!"
-    },
-    "4118380": {
-      "rank": 8842,
-      "estimate": "<7k",
-      "name": "100 Library Cats"
-    },
-    "4154670": {
-      "rank": 4400,
-      "estimate": "<7k",
-      "name": "Heavy Duty Inc."
-    },
-    "4221990": {
-      "rank": 2022,
-      "estimate": "7k+",
-      "name": "Fish Lab"
-    },
-    "4336290": {
-      "rank": 5668,
-      "estimate": "<7k",
-      "name": "Tyrania Enforcers - Visual Novel"
-    },
-    "4358180": {
-      "rank": 4544,
-      "estimate": "<7k",
-      "name": "Shadow Rush"
-    },
-    "4455810": {
-      "rank": 6326,
-      "estimate": "<7k",
-      "name": "WPCA: World Phasebound Control Authority"
-    },
-    "4490130": {
-      "rank": 6872,
-      "estimate": "<7k",
-      "name": "Eternal Sword Tomb"
-    },
-    "4595750": {
-      "rank": 3474,
-      "estimate": "<7k",
-      "name": "The Spirit Apprentice"
-    },
-    "4669280": {
-      "rank": 2120,
-      "estimate": "7k+",
-      "name": "Dusk Hunters"
-    },
-    "4680960": {
-      "rank": 5662,
-      "estimate": "<7k",
-      "name": "Fire Lookout: Abandoned Post"
-    },
-    "4742550": {
-      "rank": 4771,
-      "estimate": "<7k",
-      "name": "Road to Omaha: College Baseball Dynasty"
-    },
-    "4765070": {
-      "rank": 6990,
-      "estimate": "<7k",
-      "name": "Nova Swarm"
     }
   }
 }

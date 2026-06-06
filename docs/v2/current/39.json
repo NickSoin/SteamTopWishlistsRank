@@ -1,168 +1,108 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 20,
   "entries": {
-    "1196230": {
-      "rank": 7032,
+    "980700": {
+      "rank": 3415,
       "estimate": "<7k",
+      "name": "Unsung Warriors"
+    },
+    "1196230": {
+      "rank": 939,
+      "estimate": "40k+",
       "name": "Book of Aliens"
     },
     "1787230": {
-      "rank": 1360,
-      "estimate": "25k+",
+      "rank": 360,
+      "estimate": "80k+",
       "name": "Ahoy"
     },
     "1896000": {
-      "rank": 7945,
+      "rank": 3674,
       "estimate": "<7k",
       "name": "Construction Manager"
     },
-    "2761800": {
-      "rank": 3538,
+    "2017040": {
+      "rank": 4034,
       "estimate": "<7k",
+      "name": "NeuroSquad - Slay the Horde"
+    },
+    "2483140": {
+      "rank": 4458,
+      "estimate": "<7k",
+      "name": "Containcorp"
+    },
+    "2761800": {
+      "rank": 1953,
+      "estimate": "15k+",
       "name": "COMBAT PILOT: CARRIER QUALIFICATION"
     },
     "2765790": {
-      "rank": 5585,
-      "estimate": "<7k",
+      "rank": 2202,
+      "estimate": "7k+",
       "name": "Dreadweave"
     },
     "2768300": {
-      "rank": 254,
-      "estimate": "80k+",
+      "rank": 192,
+      "estimate": "200k+",
       "name": "SCP"
     },
     "2778110": {
-      "rank": 6800,
-      "estimate": "<7k",
+      "rank": 2417,
+      "estimate": "7k+",
       "name": "Project ZETA"
     },
     "2796640": {
-      "rank": 2307,
-      "estimate": "7k+",
+      "rank": 270,
+      "estimate": "80k+",
       "name": "The Magus Circle"
     },
-    "2974040": {
-      "rank": 6734,
-      "estimate": "<7k",
-      "name": "Glintland"
-    },
-    "3012680": {
-      "rank": 3019,
-      "estimate": "<7k",
-      "name": "You Go First!"
-    },
     "3075430": {
-      "rank": 6619,
+      "rank": 3452,
       "estimate": "<7k",
       "name": "Bat Galaxy"
     },
-    "3087040": {
-      "rank": 6587,
-      "estimate": "<7k",
-      "name": "Roleplay Passion"
-    },
     "3121890": {
-      "rank": 2107,
-      "estimate": "7k+",
+      "rank": 1277,
+      "estimate": "25k+",
       "name": "Erased"
     },
     "3333190": {
-      "rank": 2424,
-      "estimate": "7k+",
+      "rank": 1769,
+      "estimate": "15k+",
       "name": "Road Truckers: New Beginning"
     },
-    "3437700": {
-      "rank": 7583,
-      "estimate": "<7k",
-      "name": "Fishing Alone"
-    },
-    "3602210": {
-      "rank": 7452,
-      "estimate": "<7k",
-      "name": "Deus Exia"
-    },
-    "3738340": {
-      "rank": 2697,
+    "3360150": {
+      "rank": 2603,
       "estimate": "7k+",
-      "name": "Mirria"
+      "name": "Morning Star"
     },
     "3787470": {
-      "rank": 3475,
+      "rank": 3133,
       "estimate": "<7k",
       "name": "Hermit"
     },
     "3817250": {
-      "rank": 2358,
-      "estimate": "7k+",
+      "rank": 1018,
+      "estimate": "25k+",
       "name": "CICADAMATA\""
     },
     "3834910": {
-      "rank": 1212,
-      "estimate": "25k+",
+      "rank": 4550,
+      "estimate": "<7k",
       "name": "Dungeon Pizza"
     },
-    "3984600": {
-      "rank": 6608,
-      "estimate": "<7k",
-      "name": "Memo to the Underlord"
-    },
     "3991390": {
-      "rank": 3163,
-      "estimate": "<7k",
+      "rank": 2023,
+      "estimate": "7k+",
       "name": "A Kingdom of Soil"
     },
-    "4174510": {
-      "rank": 1763,
-      "estimate": "15k+",
-      "name": "Looking Up I See Only A Ceiling: The Recall"
-    },
-    "4397780": {
-      "rank": 3824,
-      "estimate": "<7k",
-      "name": "Roll Together"
-    },
-    "4468080": {
-      "rank": 6933,
-      "estimate": "<7k",
-      "name": "Tiny Lands 2 - Diorama set 1"
-    },
-    "4574370": {
-      "rank": 1974,
-      "estimate": "15k+",
-      "name": "Sword & Banner"
-    },
-    "4579540": {
-      "rank": 6331,
-      "estimate": "<7k",
-      "name": "Arc of Icarus"
-    },
-    "4583570": {
-      "rank": 7149,
-      "estimate": "<7k",
-      "name": "Stravaeger"
-    },
     "4586810": {
-      "rank": 2446,
-      "estimate": "7k+",
+      "rank": 4457,
+      "estimate": "<7k",
       "name": "The Concrete Sutra #1"
-    },
-    "4599450": {
-      "rank": 4608,
-      "estimate": "<7k",
-      "name": "轮回登仙录"
-    },
-    "4667670": {
-      "rank": 9559,
-      "estimate": "<7k",
-      "name": "lovely bakery"
-    },
-    "4751250": {
-      "rank": 7218,
-      "estimate": "<7k",
-      "name": "The Twisted Zone"
     }
   }
 }

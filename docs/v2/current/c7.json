@@ -1,213 +1,83 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 41,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 15,
   "entries": {
+    "806750": {
+      "rank": 3437,
+      "estimate": "<7k",
+      "name": "Lovecraft Tales"
+    },
     "1866720": {
-      "rank": 5670,
+      "rank": 3319,
       "estimate": "<7k",
       "name": "Just a Chest"
     },
     "2019620": {
-      "rank": 5528,
-      "estimate": "<7k",
+      "rank": 753,
+      "estimate": "40k+",
       "name": "GERONIMO"
     },
-    "2876160": {
-      "rank": 8296,
-      "estimate": "<7k",
-      "name": "Dynamite Flare"
-    },
-    "2902780": {
-      "rank": 7756,
-      "estimate": "<7k",
-      "name": "Ghost Villa"
-    },
     "2953940": {
-      "rank": 3044,
-      "estimate": "<7k",
+      "rank": 2969,
+      "estimate": "7k+",
       "name": "Ancient Wars: Sparta HD"
     },
     "3016620": {
-      "rank": 140,
-      "estimate": "200k+",
+      "rank": 34,
+      "estimate": "600k+",
       "name": "Alkahest"
     },
-    "3085710": {
-      "rank": 2674,
-      "estimate": "7k+",
-      "name": "Trifoil"
-    },
     "3125540": {
-      "rank": 3277,
-      "estimate": "<7k",
+      "rank": 2824,
+      "estimate": "7k+",
       "name": "Blade of Wiz"
     },
-    "3220700": {
-      "rank": 2150,
-      "estimate": "7k+",
-      "name": "Timebound"
-    },
     "3447280": {
-      "rank": 1399,
-      "estimate": "25k+",
+      "rank": 577,
+      "estimate": "40k+",
       "name": "Fantasy World Manager"
     },
     "3483820": {
-      "rank": 1487,
+      "rank": 1017,
       "estimate": "25k+",
       "name": "Infinite Borders: Three Kingdoms"
     },
-    "3564330": {
-      "rank": 5113,
-      "estimate": "<7k",
-      "name": "The Core"
-    },
     "3591510": {
-      "rank": 218,
-      "estimate": "80k+",
+      "rank": 596,
+      "estimate": "40k+",
       "name": "Frutiger Space"
     },
-    "3691520": {
-      "rank": 4254,
-      "estimate": "<7k",
-      "name": "Library Simulator"
-    },
-    "3768750": {
-      "rank": 8211,
-      "estimate": "<7k",
-      "name": "War On Wheels"
-    },
-    "3906280": {
-      "rank": 9545,
-      "estimate": "<7k",
-      "name": "Anubria"
-    },
-    "3911730": {
-      "rank": 9147,
-      "estimate": "<7k",
-      "name": "100 Cats Lost in Undersea Wonders"
-    },
-    "4051640": {
-      "rank": 2131,
-      "estimate": "7k+",
-      "name": "KartOne"
-    },
-    "4060200": {
-      "rank": 6375,
-      "estimate": "<7k",
-      "name": "Ghost Node"
-    },
     "4113160": {
-      "rank": 3177,
-      "estimate": "<7k",
+      "rank": 1370,
+      "estimate": "25k+",
       "name": "Begraved"
     },
-    "4129770": {
-      "rank": 3808,
-      "estimate": "<7k",
-      "name": "Dream about yoU"
-    },
-    "4191980": {
-      "rank": 7054,
-      "estimate": "<7k",
-      "name": "Zip Up"
-    },
-    "4207450": {
-      "rank": 4833,
-      "estimate": "<7k",
-      "name": "FlockSol"
-    },
     "4223290": {
-      "rank": 648,
+      "rank": 562,
       "estimate": "40k+",
       "name": "Mega Man: Dual Override"
     },
     "4226770": {
-      "rank": 122,
-      "estimate": "200k+",
+      "rank": 520,
+      "estimate": "40k+",
       "name": "Warhammer 40,000: Rogue Trader - The Infinite Museion"
     },
-    "4252430": {
-      "rank": 3859,
-      "estimate": "<7k",
-      "name": "Atana"
-    },
-    "4255130": {
-      "rank": 8587,
-      "estimate": "<7k",
-      "name": "CONDOMINIUM: NO EXIT"
-    },
-    "4265380": {
-      "rank": 1845,
-      "estimate": "15k+",
-      "name": "Meowstery Wisp"
-    },
-    "4273440": {
-      "rank": 9071,
-      "estimate": "<7k",
-      "name": "Drop Not Allowed"
-    },
-    "4305280": {
-      "rank": 7441,
-      "estimate": "<7k",
-      "name": "Factory Simulator"
-    },
     "4358660": {
-      "rank": 397,
-      "estimate": "80k+",
+      "rank": 808,
+      "estimate": "40k+",
       "name": "Hull Rupture"
     },
-    "4402950": {
-      "rank": 7593,
-      "estimate": "<7k",
-      "name": "HEXSTORM: Tears of Arcadia"
-    },
-    "4428200": {
-      "rank": 3690,
-      "estimate": "<7k",
-      "name": "DNOWHERE"
-    },
-    "4433730": {
-      "rank": 5871,
-      "estimate": "<7k",
-      "name": "DEBRISVERSE"
-    },
     "4465980": {
-      "rank": 2942,
+      "rank": 2356,
       "estimate": "7k+",
       "name": "The Declutterers : No Dumpster Left Empty"
     },
-    "4470810": {
-      "rank": 8891,
-      "estimate": "<7k",
-      "name": "Gate Breaker: Ascension"
-    },
-    "4483900": {
-      "rank": 1635,
-      "estimate": "15k+",
-      "name": "The Tower Must Fall"
-    },
-    "4540230": {
-      "rank": 9570,
-      "estimate": "<7k",
-      "name": "Road To Glory"
-    },
-    "4618300": {
-      "rank": 9443,
-      "estimate": "<7k",
-      "name": "Beat the Ads"
-    },
     "4640600": {
-      "rank": 4387,
+      "rank": 4442,
       "estimate": "<7k",
       "name": "In Us"
-    },
-    "4754800": {
-      "rank": 1086,
-      "estimate": "25k+",
-      "name": "Aura Farming"
     }
   }
 }

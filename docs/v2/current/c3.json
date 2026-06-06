@@ -1,193 +1,103 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 19,
   "entries": {
     "499170": {
-      "rank": 967,
-      "estimate": "40k+",
+      "rank": 379,
+      "estimate": "80k+",
       "name": "Order of the Sinking Star"
     },
-    "838360": {
-      "rank": 7399,
+    "1105470": {
+      "rank": 3942,
       "estimate": "<7k",
-      "name": "Life Goals"
+      "name": "Fist of the Forgotten"
     },
-    "1397440": {
-      "rank": 5607,
+    "1161780": {
+      "rank": 2182,
+      "estimate": "7k+",
+      "name": "OTHER: Her Loving Embrace"
+    },
+    "1899120": {
+      "rank": 4564,
       "estimate": "<7k",
-      "name": "EXOMECHA"
+      "name": "Shyftrs"
+    },
+    "2142890": {
+      "rank": 3995,
+      "estimate": "<7k",
+      "name": "Trophy Knight"
     },
     "2266750": {
-      "rank": 4471,
+      "rank": 3805,
       "estimate": "<7k",
       "name": "LightSup!"
     },
     "2331340": {
-      "rank": 8548,
+      "rank": 3040,
       "estimate": "<7k",
       "name": "Tales of Three Kingdoms: The Mortal World"
     },
     "2409320": {
-      "rank": 1349,
-      "estimate": "25k+",
+      "rank": 521,
+      "estimate": "40k+",
       "name": "Drill Keeper"
     },
     "2738170": {
-      "rank": 303,
+      "rank": 458,
       "estimate": "80k+",
       "name": "Edge of Memories"
     },
-    "3018190": {
-      "rank": 2960,
-      "estimate": "7k+",
-      "name": "Light Devourer"
-    },
-    "3070000": {
-      "rank": 5677,
-      "estimate": "<7k",
-      "name": "Oguzok Horror"
-    },
     "3198610": {
-      "rank": 5559,
+      "rank": 4363,
       "estimate": "<7k",
       "name": "Plastic Spouse Interrogation"
     },
     "3250400": {
-      "rank": 4099,
-      "estimate": "<7k",
+      "rank": 2740,
+      "estimate": "7k+",
       "name": "Age of History 3: Multiplayer"
     },
     "3447730": {
-      "rank": 2139,
-      "estimate": "7k+",
+      "rank": 1200,
+      "estimate": "25k+",
       "name": "Boomer Simulator"
     },
     "3617830": {
-      "rank": 1659,
-      "estimate": "15k+",
+      "rank": 311,
+      "estimate": "80k+",
       "name": "Scary Cargo"
     },
     "3642010": {
-      "rank": 231,
-      "estimate": "80k+",
+      "rank": 1478,
+      "estimate": "25k+",
       "name": "Truck-kun is Supporting Me from Another World?!"
     },
-    "3673960": {
-      "rank": 4557,
-      "estimate": "<7k",
-      "name": "Akiiwan: Relaxing Survival"
-    },
     "3764970": {
-      "rank": 1225,
+      "rank": 1447,
       "estimate": "25k+",
       "name": "Mexican Ninja"
     },
-    "3802610": {
-      "rank": 8787,
-      "estimate": "<7k",
-      "name": "Pieceful"
-    },
-    "3883280": {
-      "rank": 6746,
-      "estimate": "<7k",
-      "name": "CO-OP TWINS"
-    },
-    "3944440": {
-      "rank": 7345,
-      "estimate": "<7k",
-      "name": "Legends of Aria Eternal"
-    },
     "4064510": {
-      "rank": 485,
-      "estimate": "80k+",
+      "rank": 1500,
+      "estimate": "25k+",
       "name": "MOLE"
     },
-    "4097620": {
-      "rank": 7865,
-      "estimate": "<7k",
-      "name": "Cartefact"
-    },
-    "4125200": {
-      "rank": 6788,
-      "estimate": "<7k",
-      "name": "Brewgether"
-    },
-    "4166740": {
-      "rank": 4809,
-      "estimate": "<7k",
-      "name": "Ore & Odds"
-    },
     "4177650": {
-      "rank": 1348,
-      "estimate": "25k+",
+      "rank": 3266,
+      "estimate": "<7k",
       "name": "INSANIO"
     },
-    "4185750": {
-      "rank": 3930,
-      "estimate": "<7k",
-      "name": "BONETOX"
-    },
     "4209900": {
-      "rank": 3835,
+      "rank": 3746,
       "estimate": "<7k",
       "name": "Let Me In"
     },
-    "4247520": {
-      "rank": 4601,
-      "estimate": "<7k",
-      "name": "Morbus: The Burden Of The Apothecary"
-    },
-    "4291840": {
-      "rank": 9637,
-      "estimate": "<7k",
-      "name": "Floors of Fate"
-    },
-    "4331100": {
-      "rank": 3923,
-      "estimate": "<7k",
-      "name": "Warena"
-    },
     "4420730": {
-      "rank": 1092,
+      "rank": 1460,
       "estimate": "25k+",
       "name": "GACHIAKUTA: The Game"
-    },
-    "4427810": {
-      "rank": 3156,
-      "estimate": "<7k",
-      "name": "DRAWCERY"
-    },
-    "4465580": {
-      "rank": 2578,
-      "estimate": "7k+",
-      "name": "Victor's Video Vault"
-    },
-    "4557340": {
-      "rank": 5204,
-      "estimate": "<7k",
-      "name": "Dead Reckoning: The Long Drift"
-    },
-    "4587200": {
-      "rank": 9179,
-      "estimate": "<7k",
-      "name": "Shepherd"
-    },
-    "4606790": {
-      "rank": 6288,
-      "estimate": "<7k",
-      "name": "Biosphere Simulator"
-    },
-    "4707660": {
-      "rank": 948,
-      "estimate": "40k+",
-      "name": "R.override"
-    },
-    "4771830": {
-      "rank": 3837,
-      "estimate": "<7k",
-      "name": "Angel Investor Simulator™"
     }
   }
 }

@@ -1,173 +1,83 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 15,
   "entries": {
+    "1158600": {
+      "rank": 2926,
+      "estimate": "7k+",
+      "name": "Sayri: The Beginning"
+    },
     "1380980": {
-      "rank": 988,
-      "estimate": "40k+",
+      "rank": 1513,
+      "estimate": "15k+",
       "name": "Sonzai"
     },
     "1448620": {
-      "rank": 7268,
+      "rank": 3662,
       "estimate": "<7k",
       "name": "BE Witches"
     },
     "1587600": {
-      "rank": 7760,
-      "estimate": "<7k",
+      "rank": 1964,
+      "estimate": "15k+",
       "name": "Broken Veil"
     },
     "1781190": {
-      "rank": 8837,
-      "estimate": "<7k",
+      "rank": 1919,
+      "estimate": "15k+",
       "name": "IMMORTAL: And the Death that Follows"
     },
-    "1867920": {
-      "rank": 6656,
-      "estimate": "<7k",
-      "name": "No Humanity - Internship"
-    },
     "1874090": {
-      "rank": 3362,
-      "estimate": "<7k",
+      "rank": 1046,
+      "estimate": "25k+",
       "name": "Half-Life Decay: Solo Mission"
     },
-    "2218130": {
-      "rank": 5581,
-      "estimate": "<7k",
-      "name": "Threadbound"
+    "2257830": {
+      "rank": 2107,
+      "estimate": "7k+",
+      "name": "Moth Kubit"
     },
     "2569760": {
-      "rank": 101,
-      "estimate": "200k+",
+      "rank": 94,
+      "estimate": "300k+",
       "name": "The Mound: Omen of Cthulhu"
     },
-    "3143000": {
-      "rank": 2540,
-      "estimate": "7k+",
-      "name": "Dr. Priori’s Time Escape"
-    },
     "3327000": {
-      "rank": 1151,
-      "estimate": "25k+",
+      "rank": 2663,
+      "estimate": "7k+",
       "name": "Roguebound Pirates"
     },
     "3434180": {
-      "rank": 6364,
-      "estimate": "<7k",
+      "rank": 2728,
+      "estimate": "7k+",
       "name": "project; VIRAI: DOOMER’s LIFE ESCAPE"
     },
-    "3453020": {
-      "rank": 8746,
-      "estimate": "<7k",
-      "name": "The Planetary Archive"
-    },
     "3562580": {
-      "rank": 563,
-      "estimate": "40k+",
+      "rank": 293,
+      "estimate": "80k+",
       "name": "Agefield High: Rock the School"
     },
     "3564520": {
-      "rank": 2116,
-      "estimate": "7k+",
+      "rank": 4462,
+      "estimate": "<7k",
       "name": "Back In Time"
     },
     "3582810": {
-      "rank": 3010,
-      "estimate": "<7k",
+      "rank": 449,
+      "estimate": "80k+",
       "name": "Dandelion Void"
     },
-    "3620550": {
-      "rank": 6479,
-      "estimate": "<7k",
-      "name": "BIOMEAT HUSKWORLD"
-    },
-    "3701310": {
-      "rank": 9356,
-      "estimate": "<7k",
-      "name": "Swanfield Survival"
-    },
-    "3727710": {
-      "rank": 3238,
-      "estimate": "<7k",
-      "name": "Gothic Hell: Survivors"
-    },
     "3763840": {
-      "rank": 3416,
-      "estimate": "<7k",
+      "rank": 398,
+      "estimate": "80k+",
       "name": "Felt That: Boxing"
     },
     "3863760": {
-      "rank": 2049,
-      "estimate": "7k+",
+      "rank": 1631,
+      "estimate": "15k+",
       "name": "侠影录"
-    },
-    "3911120": {
-      "rank": 3605,
-      "estimate": "<7k",
-      "name": "Date Survivor"
-    },
-    "4220870": {
-      "rank": 7379,
-      "estimate": "<7k",
-      "name": "Ball Busters"
-    },
-    "4272150": {
-      "rank": 9836,
-      "estimate": "<7k",
-      "name": "Beyond The Cupola: ISS Simulator"
-    },
-    "4294860": {
-      "rank": 2531,
-      "estimate": "7k+",
-      "name": "Loot Frog"
-    },
-    "4329030": {
-      "rank": 7026,
-      "estimate": "<7k",
-      "name": "Edge of Divinity"
-    },
-    "4400980": {
-      "rank": 2936,
-      "estimate": "7k+",
-      "name": "Blood Gauntlet"
-    },
-    "4435830": {
-      "rank": 7421,
-      "estimate": "<7k",
-      "name": "Ajayu"
-    },
-    "4528400": {
-      "rank": 8264,
-      "estimate": "<7k",
-      "name": "方寸海洋物语"
-    },
-    "4553510": {
-      "rank": 840,
-      "estimate": "40k+",
-      "name": "DEVIL GATE"
-    },
-    "4600670": {
-      "rank": 5382,
-      "estimate": "<7k",
-      "name": "Life in Tudorofka"
-    },
-    "4605530": {
-      "rank": 3868,
-      "estimate": "<7k",
-      "name": "Project Motor Racing: GT Icons Pack"
-    },
-    "4666010": {
-      "rank": 7123,
-      "estimate": "<7k",
-      "name": "Coredump"
-    },
-    "4689930": {
-      "rank": 3620,
-      "estimate": "<7k",
-      "name": "Spin Cycle"
     }
   }
 }

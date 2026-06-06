@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 30,
   "entries": {
     "928960": {
       "rank": 577,
@@ -208,6 +208,13 @@
       "name": "MARINES VS GOD",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4768230": {
+      "rank": 4585,
+      "estimate": "<7k",
+      "name": "Dark Pals: Desktop Companions",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     }
   }
 }

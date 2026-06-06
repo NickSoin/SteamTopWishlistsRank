@@ -1,238 +1,98 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 46,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 18,
   "entries": {
     "669270": {
-      "rank": 2926,
-      "estimate": "7k+",
+      "rank": 962,
+      "estimate": "40k+",
       "name": "Momentum Mod"
     },
     "1153750": {
-      "rank": 7002,
+      "rank": 3934,
       "estimate": "<7k",
       "name": "Food Industry"
     },
-    "1356250": {
-      "rank": 6203,
+    "1313110": {
+      "rank": 4298,
       "estimate": "<7k",
+      "name": "Sky Beneath"
+    },
+    "1356250": {
+      "rank": 1437,
+      "estimate": "25k+",
       "name": "Airport Renovator"
     },
     "1568550": {
-      "rank": 4342,
-      "estimate": "<7k",
+      "rank": 1994,
+      "estimate": "15k+",
       "name": "FIRST"
     },
-    "1944880": {
-      "rank": 2677,
-      "estimate": "7k+",
-      "name": "Drop Command"
-    },
-    "2136420": {
-      "rank": 4439,
-      "estimate": "<7k",
-      "name": "FIRE The First Dreamer"
-    },
     "2219390": {
-      "rank": 6575,
-      "estimate": "<7k",
+      "rank": 2034,
+      "estimate": "7k+",
       "name": "Imperial Ambitions"
     },
-    "2259400": {
-      "rank": 7341,
-      "estimate": "<7k",
-      "name": "Oathbound: Arena"
-    },
     "2470010": {
-      "rank": 778,
-      "estimate": "40k+",
+      "rank": 182,
+      "estimate": "200k+",
       "name": "DEFECT"
     },
-    "2604820": {
-      "rank": 5804,
+    "2723370": {
+      "rank": 3257,
       "estimate": "<7k",
-      "name": "Airport Contraband Police"
+      "name": "Voiceless"
     },
     "2879790": {
-      "rank": 3710,
+      "rank": 4186,
       "estimate": "<7k",
       "name": "Son of Thanjai"
     },
-    "2934480": {
-      "rank": 3334,
-      "estimate": "<7k",
-      "name": "Zombie Tower Survivor"
-    },
     "3051160": {
-      "rank": 2508,
-      "estimate": "7k+",
+      "rank": 480,
+      "estimate": "80k+",
       "name": "Black State"
     },
-    "3275410": {
-      "rank": 7414,
-      "estimate": "<7k",
-      "name": "Puppetsite"
-    },
-    "3304800": {
-      "rank": 9216,
-      "estimate": "<7k",
-      "name": "F20 Eclipse"
-    },
-    "3397260": {
-      "rank": 6542,
-      "estimate": "<7k",
-      "name": "Liminal City: Axiom of Maria - Chapter One"
+    "3164260": {
+      "rank": 1954,
+      "estimate": "15k+",
+      "name": "GORECORE"
     },
     "3464670": {
-      "rank": 1118,
-      "estimate": "25k+",
+      "rank": 882,
+      "estimate": "40k+",
       "name": "Dead Watch"
     },
     "3474240": {
-      "rank": 3212,
+      "rank": 4496,
       "estimate": "<7k",
       "name": "Dracula: The Disciple"
     },
     "3516100": {
-      "rank": 598,
-      "estimate": "40k+",
+      "rank": 120,
+      "estimate": "200k+",
       "name": "Tenebyss"
     },
-    "3569850": {
-      "rank": 8715,
-      "estimate": "<7k",
-      "name": "TCG Banlist Simulator"
-    },
-    "3669020": {
-      "rank": 9452,
-      "estimate": "<7k",
-      "name": "Tiny Monster Haven"
-    },
-    "3681800": {
-      "rank": 9032,
-      "estimate": "<7k",
-      "name": "水浒：豪杰风云传"
-    },
-    "3829310": {
-      "rank": 4525,
-      "estimate": "<7k",
-      "name": "Sublight"
-    },
     "3919400": {
-      "rank": 3338,
-      "estimate": "<7k",
+      "rank": 2346,
+      "estimate": "7k+",
       "name": "黄莓C HuangmeiC"
     },
-    "3956980": {
-      "rank": 6749,
-      "estimate": "<7k",
-      "name": "Apidya' Special"
-    },
-    "3972410": {
-      "rank": 3111,
-      "estimate": "<7k",
-      "name": "Black Cat Book Club"
-    },
     "4156370": {
-      "rank": 1977,
-      "estimate": "15k+",
+      "rank": 4325,
+      "estimate": "<7k",
       "name": "Antivirus Girl"
     },
-    "4158480": {
-      "rank": 8285,
-      "estimate": "<7k",
-      "name": "Pizza Agent"
-    },
-    "4164810": {
-      "rank": 5492,
-      "estimate": "<7k",
-      "name": "谍：玫瑰"
-    },
-    "4227270": {
-      "rank": 1133,
-      "estimate": "25k+",
-      "name": "Litany"
-    },
-    "4241450": {
-      "rank": 5121,
-      "estimate": "<7k",
-      "name": "Stellaris: Scenario Pack 1"
-    },
-    "4270740": {
-      "rank": 3053,
-      "estimate": "<7k",
-      "name": "Island Of Ash"
-    },
-    "4333980": {
-      "rank": 4814,
-      "estimate": "<7k",
-      "name": "Selfie Worm"
-    },
-    "4360900": {
-      "rank": 6284,
-      "estimate": "<7k",
-      "name": "Rails & Rivals"
-    },
-    "4413550": {
-      "rank": 6408,
-      "estimate": "<7k",
-      "name": "Echoes of Ash"
-    },
-    "4414700": {
-      "rank": 9737,
-      "estimate": "<7k",
-      "name": "Unclouded"
-    },
-    "4442710": {
-      "rank": 3463,
-      "estimate": "<7k",
-      "name": "Spirit Dungeon"
-    },
     "4562940": {
-      "rank": 1244,
-      "estimate": "25k+",
+      "rank": 4434,
+      "estimate": "<7k",
       "name": "HOPE 01"
     },
-    "4567860": {
-      "rank": 8338,
-      "estimate": "<7k",
-      "name": "G.H.O.S.T. Ghost Hunt Ops Special Team"
-    },
-    "4610760": {
-      "rank": 6519,
-      "estimate": "<7k",
-      "name": "Cart by Cart: Supermarket Simulator"
-    },
-    "4631660": {
-      "rank": 8974,
-      "estimate": "<7k",
-      "name": "Crimsooon Sun"
-    },
     "4661070": {
-      "rank": 61,
-      "estimate": "300k+",
-      "name": "HANDS OVER"
-    },
-    "4678780": {
-      "rank": 7240,
-      "estimate": "<7k",
-      "name": "Solar Drift"
-    },
-    "4715320": {
-      "rank": 2118,
-      "estimate": "7k+",
-      "name": "Loop Miner"
-    },
-    "4736510": {
-      "rank": 1102,
+      "rank": 1300,
       "estimate": "25k+",
-      "name": "Gunvolt Chronicles: Luminous Avenger iX 3"
-    },
-    "4763080": {
-      "rank": 3696,
-      "estimate": "<7k",
-      "name": "Pick Ball"
+      "name": "HANDS OVER"
     }
   }
 }

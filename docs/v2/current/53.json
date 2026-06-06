@@ -1,178 +1,98 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 34,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 18,
   "entries": {
-    "1478730": {
-      "rank": 9176,
+    "611820": {
+      "rank": 4557,
       "estimate": "<7k",
+      "name": "Xenosis: Alien Infection"
+    },
+    "1478730": {
+      "rank": 1803,
+      "estimate": "15k+",
       "name": "Tune My Car"
     },
-    "2002840": {
-      "rank": 9278,
+    "1587920": {
+      "rank": 4372,
       "estimate": "<7k",
+      "name": "Undead Development 2"
+    },
+    "1619870": {
+      "rank": 3321,
+      "estimate": "<7k",
+      "name": "The Ballad of Bonky"
+    },
+    "2002840": {
+      "rank": 2848,
+      "estimate": "7k+",
       "name": "Gossamer Matrix"
     },
     "2437390": {
-      "rank": 39,
-      "estimate": "600k+",
+      "rank": 147,
+      "estimate": "200k+",
       "name": "Enginefall"
     },
-    "2552370": {
-      "rank": 9157,
-      "estimate": "<7k",
-      "name": "Chief Surgeon Simulator"
-    },
     "2946850": {
-      "rank": 3043,
-      "estimate": "<7k",
+      "rank": 609,
+      "estimate": "40k+",
       "name": "Streets of Fortuna"
     },
     "2953540": {
-      "rank": 2099,
-      "estimate": "7k+",
+      "rank": 1819,
+      "estimate": "15k+",
       "name": "Neverseas"
     },
-    "2980870": {
-      "rank": 9029,
+    "3126480": {
+      "rank": 4426,
       "estimate": "<7k",
-      "name": "The Mage Slayer"
-    },
-    "3071810": {
-      "rank": 3267,
-      "estimate": "<7k",
-      "name": "Project Solar"
+      "name": "Lord of Metal"
     },
     "3252240": {
-      "rank": 4969,
-      "estimate": "<7k",
+      "rank": 2355,
+      "estimate": "7k+",
       "name": "Mircea"
     },
-    "3302570": {
-      "rank": 2683,
-      "estimate": "7k+",
-      "name": "BACKROOMS 0"
-    },
-    "3488670": {
-      "rank": 9191,
-      "estimate": "<7k",
-      "name": "Villainville"
-    },
     "3536500": {
-      "rank": 4730,
-      "estimate": "<7k",
+      "rank": 2297,
+      "estimate": "7k+",
       "name": "Tunguska 2: Whitefall"
     },
     "3590650": {
-      "rank": 2468,
-      "estimate": "7k+",
+      "rank": 160,
+      "estimate": "200k+",
       "name": "OKU"
     },
     "3619300": {
-      "rank": 6848,
-      "estimate": "<7k",
+      "rank": 1986,
+      "estimate": "15k+",
       "name": "TONIN:兎忍"
     },
-    "3701140": {
-      "rank": 1604,
-      "estimate": "15k+",
-      "name": "Mirealle"
-    },
     "3720040": {
-      "rank": 1634,
+      "rank": 1879,
       "estimate": "15k+",
       "name": "Hide Zone"
     },
-    "3761450": {
-      "rank": 5098,
-      "estimate": "<7k",
-      "name": "Money WASTE"
-    },
-    "3838400": {
-      "rank": 8312,
-      "estimate": "<7k",
-      "name": "The Serpent & The Seed"
-    },
-    "3881710": {
-      "rank": 8101,
-      "estimate": "<7k",
-      "name": "Night Errand"
-    },
     "3979570": {
-      "rank": 801,
-      "estimate": "40k+",
+      "rank": 3231,
+      "estimate": "<7k",
       "name": "Factomancer"
     },
     "4178790": {
-      "rank": 6923,
+      "rank": 3524,
       "estimate": "<7k",
       "name": "Clicky Islands"
     },
     "4190240": {
-      "rank": 8877,
+      "rank": 4602,
       "estimate": "<7k",
       "name": "Nuclear Design Bureau"
     },
     "4293910": {
-      "rank": 139,
-      "estimate": "200k+",
+      "rank": 2087,
+      "estimate": "7k+",
       "name": "XenoFeels"
-    },
-    "4295800": {
-      "rank": 3655,
-      "estimate": "<7k",
-      "name": "BLACKWELL"
-    },
-    "4409120": {
-      "rank": 8882,
-      "estimate": "<7k",
-      "name": "Ashen Sky"
-    },
-    "4551870": {
-      "rank": 1373,
-      "estimate": "25k+",
-      "name": "Ruffed Up"
-    },
-    "4553740": {
-      "rank": 4576,
-      "estimate": "<7k",
-      "name": "Memory Studio"
-    },
-    "4554020": {
-      "rank": 8728,
-      "estimate": "<7k",
-      "name": "Mind Mirror"
-    },
-    "4634470": {
-      "rank": 4285,
-      "estimate": "<7k",
-      "name": "Dance of the Butterflies"
-    },
-    "4645360": {
-      "rank": 4813,
-      "estimate": "<7k",
-      "name": "Titanic Escape Simulator™"
-    },
-    "4653370": {
-      "rank": 7720,
-      "estimate": "<7k",
-      "name": "West & Guns"
-    },
-    "4704830": {
-      "rank": 1299,
-      "estimate": "25k+",
-      "name": "Reus 2 - Jurassic"
-    },
-    "4720010": {
-      "rank": 6147,
-      "estimate": "<7k",
-      "name": "Miracle Brave: Beast Defense Line"
-    },
-    "4726580": {
-      "rank": 9911,
-      "estimate": "<7k",
-      "name": "Cielle is Not Happy"
     }
   }
 }

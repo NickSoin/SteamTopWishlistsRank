@@ -1,128 +1,83 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 15,
   "entries": {
-    "1443980": {
-      "rank": 6094,
+    "1103820": {
+      "rank": 1640,
+      "estimate": "15k+",
+      "name": "Siege of Irdor"
+    },
+    "1440570": {
+      "rank": 3725,
       "estimate": "<7k",
+      "name": "Angelic: Dark Symphony"
+    },
+    "1443980": {
+      "rank": 613,
+      "estimate": "40k+",
       "name": "Roman Empire Wars"
     },
     "1652580": {
-      "rank": 4971,
-      "estimate": "<7k",
+      "rank": 1644,
+      "estimate": "15k+",
       "name": "Imperial Grace"
     },
-    "2402500": {
-      "rank": 7926,
+    "1748650": {
+      "rank": 4643,
       "estimate": "<7k",
+      "name": "RASKOPNIK: The Trench Warrior"
+    },
+    "2402500": {
+      "rank": 1924,
+      "estimate": "15k+",
       "name": "Hayaku! Island of Darkness"
     },
     "2431920": {
-      "rank": 5135,
+      "rank": 4481,
       "estimate": "<7k",
       "name": "Heir of the Dog"
     },
     "2881750": {
-      "rank": 7478,
+      "rank": 4645,
       "estimate": "<7k",
       "name": "Burnin' Rubber 6"
     },
-    "3026640": {
-      "rank": 9127,
-      "estimate": "<7k",
-      "name": "Orca Insurgency"
-    },
     "3340890": {
-      "rank": 5209,
+      "rank": 3919,
       "estimate": "<7k",
       "name": "Necrowhisper"
     },
     "3350860": {
-      "rank": 2085,
-      "estimate": "7k+",
+      "rank": 4036,
+      "estimate": "<7k",
       "name": "Trifolium: The Adventures of Gary Pretzelneck"
     },
     "3549280": {
-      "rank": 634,
-      "estimate": "40k+",
+      "rank": 3368,
+      "estimate": "<7k",
       "name": "Bulbo's Belief System"
     },
-    "3617350": {
-      "rank": 8234,
-      "estimate": "<7k",
-      "name": "BoomerPunk"
-    },
     "3664060": {
-      "rank": 4003,
+      "rank": 4144,
       "estimate": "<7k",
       "name": "Starweaver Express ~Per aspera ad astra~"
     },
-    "3713120": {
-      "rank": 9247,
-      "estimate": "<7k",
-      "name": "DRAGUN"
-    },
-    "3739300": {
-      "rank": 1861,
-      "estimate": "15k+",
-      "name": "Cat Squeeze"
-    },
     "3765020": {
-      "rank": 701,
+      "rank": 638,
       "estimate": "40k+",
       "name": "S.T.A.L.K.E.R. 2: Cost of Hope"
     },
-    "3778400": {
-      "rank": 5278,
-      "estimate": "<7k",
-      "name": "Master of the Mow"
-    },
-    "4071500": {
-      "rank": 3758,
-      "estimate": "<7k",
-      "name": "Lilim Clicker"
-    },
     "4272020": {
-      "rank": 1400,
-      "estimate": "25k+",
+      "rank": 4222,
+      "estimate": "<7k",
       "name": "WOIM"
     },
-    "4327630": {
-      "rank": 5437,
-      "estimate": "<7k",
-      "name": "Glamour Photographer"
-    },
-    "4402300": {
-      "rank": 8088,
-      "estimate": "<7k",
-      "name": "Derby Life: Ranch & Race"
-    },
-    "4438280": {
-      "rank": 8168,
-      "estimate": "<7k",
-      "name": "Train Valley 2: Workshop Gems - Onyx"
-    },
     "4521700": {
-      "rank": 686,
-      "estimate": "40k+",
+      "rank": 1611,
+      "estimate": "15k+",
       "name": "The Miner Was Replaced"
-    },
-    "4535730": {
-      "rank": 8229,
-      "estimate": "<7k",
-      "name": "Throttle Trace"
-    },
-    "4623260": {
-      "rank": 7271,
-      "estimate": "<7k",
-      "name": "slimes!"
-    },
-    "4704970": {
-      "rank": 9417,
-      "estimate": "<7k",
-      "name": "Tides of Destiny"
     }
   }
 }

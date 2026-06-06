@@ -1,198 +1,118 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 38,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 22,
   "entries": {
-    "868160": {
-      "rank": 2741,
-      "estimate": "7k+",
-      "name": "Code: Terraform"
-    },
-    "1123600": {
-      "rank": 8086,
-      "estimate": "<7k",
-      "name": "SCP: Maintain & Control"
-    },
     "1146670": {
-      "rank": 3574,
-      "estimate": "<7k",
+      "rank": 461,
+      "estimate": "80k+",
       "name": "Beauty And Violence: Valkyries"
     },
+    "1199520": {
+      "rank": 4218,
+      "estimate": "<7k",
+      "name": "Joker & Teacher"
+    },
+    "1993980": {
+      "rank": 2634,
+      "estimate": "7k+",
+      "name": "Astortion"
+    },
     "2100020": {
-      "rank": 368,
+      "rank": 496,
       "estimate": "80k+",
       "name": "Lou's Lagoon"
     },
     "2208810": {
-      "rank": 280,
-      "estimate": "80k+",
+      "rank": 134,
+      "estimate": "200k+",
       "name": "Jurassic Park: Survival"
     },
     "2233430": {
-      "rank": 5000,
+      "rank": 3957,
       "estimate": "<7k",
       "name": "Horse Reality"
     },
-    "2248300": {
-      "rank": 1311,
-      "estimate": "25k+",
-      "name": "Concrete Abyss"
-    },
     "2318250": {
-      "rank": 5393,
+      "rank": 4387,
       "estimate": "<7k",
       "name": "Everybody's Stranger"
     },
-    "2329610": {
-      "rank": 6395,
-      "estimate": "<7k",
-      "name": "EVERDATE: The Let's Play Dating Game"
-    },
     "2351990": {
-      "rank": 4991,
-      "estimate": "<7k",
+      "rank": 2927,
+      "estimate": "7k+",
       "name": "Anseion - Fantasy MMORPG"
     },
-    "2469440": {
-      "rank": 8038,
-      "estimate": "<7k",
-      "name": "Martial Law: Our Spring"
-    },
     "2526200": {
-      "rank": 4762,
-      "estimate": "<7k",
+      "rank": 974,
+      "estimate": "40k+",
       "name": "Eyes Never Wake"
     },
-    "2562590": {
-      "rank": 6976,
-      "estimate": "<7k",
-      "name": "COMPLEX HIRO（コンプレックスヒーロ）"
-    },
-    "2570580": {
-      "rank": 2171,
-      "estimate": "7k+",
-      "name": "Ground Zero Hero"
-    },
-    "2639700": {
-      "rank": 9522,
-      "estimate": "<7k",
-      "name": "A Mermaid's Paradoxical Tale"
-    },
     "2753930": {
-      "rank": 1454,
-      "estimate": "25k+",
+      "rank": 310,
+      "estimate": "80k+",
       "name": "Vikings Dynasty"
     },
     "3444260": {
-      "rank": 5327,
-      "estimate": "<7k",
+      "rank": 2781,
+      "estimate": "7k+",
       "name": "NeverLight"
     },
     "3489340": {
-      "rank": 1062,
-      "estimate": "25k+",
+      "rank": 492,
+      "estimate": "80k+",
       "name": "ReBlade: The Death Spiral"
     },
+    "3529910": {
+      "rank": 1970,
+      "estimate": "15k+",
+      "name": "The Great Coffee Caper"
+    },
     "3562050": {
-      "rank": 4983,
+      "rank": 3736,
       "estimate": "<7k",
       "name": "FREE DUNK"
     },
-    "3842190": {
-      "rank": 6463,
+    "3899460": {
+      "rank": 4482,
       "estimate": "<7k",
-      "name": "Die or Die"
+      "name": "CARGO: Co-Op Delivery Simulator in Post Apocalyptic World"
     },
     "3919900": {
-      "rank": 2494,
-      "estimate": "7k+",
+      "rank": 3801,
+      "estimate": "<7k",
       "name": "Dead Zone Revive"
     },
-    "3968650": {
-      "rank": 8568,
+    "3994190": {
+      "rank": 4361,
       "estimate": "<7k",
-      "name": "Drug Life: Gangster Simulator"
+      "name": "Lands of Ma'at"
     },
     "4051470": {
-      "rank": 1595,
-      "estimate": "15k+",
+      "rank": 3694,
+      "estimate": "<7k",
       "name": "BrokenLore: ASCEND"
     },
-    "4063080": {
-      "rank": 9314,
-      "estimate": "<7k",
-      "name": "Farm"
-    },
-    "4088300": {
-      "rank": 5071,
-      "estimate": "<7k",
-      "name": "The Last Mothership"
-    },
-    "4110830": {
-      "rank": 3417,
-      "estimate": "<7k",
-      "name": "Material Maker"
-    },
     "4135570": {
-      "rank": 2580,
-      "estimate": "7k+",
+      "rank": 3756,
+      "estimate": "<7k",
       "name": "4x4 in a Furniture Store"
     },
     "4147100": {
-      "rank": 2027,
-      "estimate": "7k+",
+      "rank": 3843,
+      "estimate": "<7k",
       "name": "Knights of Fiona"
     },
     "4162040": {
-      "rank": 111,
-      "estimate": "200k+",
+      "rank": 231,
+      "estimate": "80k+",
       "name": "Zenless Zone Zero"
     },
-    "4258930": {
-      "rank": 4910,
-      "estimate": "<7k",
-      "name": "Modified Girl Eurie!"
-    },
-    "4311660": {
-      "rank": 9922,
-      "estimate": "<7k",
-      "name": "Welcome, [Employee Name]"
-    },
-    "4382480": {
-      "rank": 3747,
-      "estimate": "<7k",
-      "name": "灵劫变"
-    },
-    "4383050": {
-      "rank": 9591,
-      "estimate": "<7k",
-      "name": "100 Mushroom Cats"
-    },
-    "4608830": {
-      "rank": 7313,
-      "estimate": "<7k",
-      "name": "Synapse"
-    },
     "4632350": {
-      "rank": 304,
-      "estimate": "80k+",
+      "rank": 607,
+      "estimate": "40k+",
       "name": "Hot Dogs, Horseshoes & Hand Grenades 2"
-    },
-    "4638820": {
-      "rank": 5326,
-      "estimate": "<7k",
-      "name": "Contested Space"
-    },
-    "4694530": {
-      "rank": 7247,
-      "estimate": "<7k",
-      "name": "Under Tower Idle"
-    },
-    "4763650": {
-      "rank": 9379,
-      "estimate": "<7k",
-      "name": "Crown Caps Soccer"
     }
   }
 }

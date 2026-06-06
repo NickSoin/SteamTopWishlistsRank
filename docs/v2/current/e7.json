@@ -1,253 +1,108 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 49,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 20,
   "entries": {
     "694320": {
-      "rank": 1793,
-      "estimate": "15k+",
+      "rank": 766,
+      "estimate": "40k+",
       "name": "UnderRail 2: Infusion"
     },
     "763310": {
-      "rank": 1625,
-      "estimate": "15k+",
+      "rank": 240,
+      "estimate": "80k+",
       "name": "Projekt Z: Beyond Order"
     },
-    "827580": {
-      "rank": 9634,
-      "estimate": "<7k",
-      "name": "A.S.H."
-    },
-    "1314430": {
-      "rank": 5752,
-      "estimate": "<7k",
-      "name": "Still Rooms"
-    },
     "1345450": {
-      "rank": 6883,
-      "estimate": "<7k",
+      "rank": 1749,
+      "estimate": "15k+",
       "name": "Phantom Doctrine: The Cabal"
     },
     "1449820": {
-      "rank": 9600,
-      "estimate": "<7k",
+      "rank": 1706,
+      "estimate": "15k+",
       "name": "Police Interceptors"
     },
-    "1517550": {
-      "rank": 8935,
-      "estimate": "<7k",
-      "name": "Lost Relics"
-    },
     "1662050": {
-      "rank": 8068,
-      "estimate": "<7k",
+      "rank": 1359,
+      "estimate": "25k+",
       "name": "Noble's Life: Kingdom Reborn"
     },
     "2001760": {
-      "rank": 89,
+      "rank": 67,
       "estimate": "300k+",
       "name": "Beast of Reincarnation"
     },
     "2287430": {
-      "rank": 565,
-      "estimate": "40k+",
+      "rank": 405,
+      "estimate": "80k+",
       "name": "Metropolis 1998"
     },
-    "2600970": {
-      "rank": 7650,
+    "2525040": {
+      "rank": 4640,
       "estimate": "<7k",
-      "name": "Flawed Tactics"
+      "name": "ETOS"
     },
     "2724650": {
-      "rank": 1024,
-      "estimate": "25k+",
+      "rank": 38,
+      "estimate": "600k+",
       "name": "The Bustling World"
     },
-    "2784520": {
-      "rank": 6697,
-      "estimate": "<7k",
-      "name": "100 Cats Argentina"
-    },
     "2841650": {
-      "rank": 1937,
-      "estimate": "15k+",
+      "rank": 2117,
+      "estimate": "7k+",
       "name": "Sniper Dan"
     },
     "2859220": {
-      "rank": 8651,
+      "rank": 3070,
       "estimate": "<7k",
       "name": "Vuntra City"
     },
     "3005660": {
-      "rank": 2509,
-      "estimate": "7k+",
+      "rank": 3135,
+      "estimate": "<7k",
       "name": "Scribe RPG"
     },
-    "3033980": {
-      "rank": 7479,
-      "estimate": "<7k",
-      "name": "IVOR"
-    },
-    "3102370": {
-      "rank": 4738,
-      "estimate": "<7k",
-      "name": "Fixer Undercover"
-    },
     "3281420": {
-      "rank": 445,
-      "estimate": "80k+",
+      "rank": 58,
+      "estimate": "300k+",
       "name": "Paradise"
     },
-    "3294800": {
-      "rank": 4613,
-      "estimate": "<7k",
-      "name": "Astra Village"
-    },
     "3316500": {
-      "rank": 4135,
-      "estimate": "<7k",
+      "rank": 1288,
+      "estimate": "25k+",
       "name": "DMZ: Nuclear Survival"
     },
-    "3379640": {
-      "rank": 5998,
-      "estimate": "<7k",
-      "name": "Evil Crops"
-    },
-    "3559990": {
-      "rank": 4845,
-      "estimate": "<7k",
-      "name": "Sinweaver"
-    },
-    "3576940": {
-      "rank": 3901,
-      "estimate": "<7k",
-      "name": "Sara"
-    },
-    "3749720": {
-      "rank": 1752,
-      "estimate": "15k+",
-      "name": "The Division Resurgence"
-    },
     "3859210": {
-      "rank": 5996,
-      "estimate": "<7k",
+      "rank": 2058,
+      "estimate": "7k+",
       "name": "Rhythm Animal Café"
     },
     "3867080": {
-      "rank": 2803,
+      "rank": 2102,
       "estimate": "7k+",
       "name": "Darklord's Tower"
     },
-    "3932900": {
-      "rank": 5933,
-      "estimate": "<7k",
-      "name": "Warrior Is Just Going"
-    },
-    "4108740": {
-      "rank": 8348,
-      "estimate": "<7k",
-      "name": "Animagi"
-    },
-    "4134390": {
-      "rank": 5243,
-      "estimate": "<7k",
-      "name": "Thornetica"
-    },
-    "4189170": {
-      "rank": 8092,
-      "estimate": "<7k",
-      "name": "Love in Translation"
-    },
     "4234320": {
-      "rank": 2554,
+      "rank": 2161,
       "estimate": "7k+",
       "name": "Dithered"
     },
-    "4317900": {
-      "rank": 3144,
-      "estimate": "<7k",
-      "name": "Infinite Ruins"
-    },
-    "4343220": {
-      "rank": 8159,
-      "estimate": "<7k",
-      "name": "SCP Studies"
-    },
-    "4424600": {
-      "rank": 9232,
-      "estimate": "<7k",
-      "name": "REQUIRED SYNERGY WORKSHOP: Deja Damnation"
-    },
-    "4548120": {
-      "rank": 4177,
-      "estimate": "<7k",
-      "name": "Tumblebee"
-    },
-    "4556750": {
-      "rank": 5582,
-      "estimate": "<7k",
-      "name": "Slots & Sword & Magic"
-    },
     "4610740": {
-      "rank": 953,
-      "estimate": "40k+",
+      "rank": 3470,
+      "estimate": "<7k",
       "name": "Driftborn"
     },
     "4619040": {
-      "rank": 807,
-      "estimate": "40k+",
+      "rank": 3948,
+      "estimate": "<7k",
       "name": "Valken"
     },
-    "4620790": {
-      "rank": 9407,
-      "estimate": "<7k",
-      "name": "Cargo Lines"
-    },
-    "4629890": {
-      "rank": 8657,
-      "estimate": "<7k",
-      "name": "SHOWHAND"
-    },
-    "4636920": {
-      "rank": 6425,
-      "estimate": "<7k",
-      "name": "Hyperline"
-    },
-    "4698410": {
-      "rank": 9397,
-      "estimate": "<7k",
-      "name": "Heirs of the Moon"
-    },
     "4702700": {
-      "rank": 360,
-      "estimate": "80k+",
-      "name": "Heathen"
-    },
-    "4708690": {
-      "rank": 9699,
-      "estimate": "<7k",
-      "name": "Final Buzzer : Idle Basketball Manager 🏀"
-    },
-    "4731980": {
-      "rank": 2218,
-      "estimate": "7k+",
-      "name": "Toziuha Night: Nosferatu's Curse"
-    },
-    "4741110": {
-      "rank": 1650,
+      "rank": 1547,
       "estimate": "15k+",
-      "name": "Pangy: Into The City"
-    },
-    "4756820": {
-      "rank": 1146,
-      "estimate": "25k+",
-      "name": "Crosswinds"
-    },
-    "4767370": {
-      "rank": 9936,
-      "estimate": "<7k",
-      "name": "Supercar Dealer Simulator"
+      "name": "Heathen"
     }
   }
 }

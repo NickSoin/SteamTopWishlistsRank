@@ -1,213 +1,103 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 41,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 19,
   "entries": {
     "895160": {
-      "rank": 1760,
-      "estimate": "15k+",
+      "rank": 186,
+      "estimate": "200k+",
       "name": "Autonomica"
     },
     "1503170": {
-      "rank": 7173,
-      "estimate": "<7k",
+      "rank": 1023,
+      "estimate": "25k+",
       "name": "Liegecraft"
     },
+    "1536660": {
+      "rank": 4739,
+      "estimate": "<7k",
+      "name": "Ancient Arenas: Chariots"
+    },
     "1689340": {
-      "rank": 2141,
-      "estimate": "7k+",
+      "rank": 1736,
+      "estimate": "15k+",
       "name": "Island of Winds"
     },
     "2704310": {
-      "rank": 9801,
+      "rank": 4079,
       "estimate": "<7k",
       "name": "HARM Weather Warfare"
     },
     "2802740": {
-      "rank": 1668,
-      "estimate": "15k+",
+      "rank": 3173,
+      "estimate": "<7k",
       "name": "Heave Ho 2"
     },
     "2894840": {
-      "rank": 7848,
+      "rank": 4155,
       "estimate": "<7k",
       "name": "NEVERLANDER: An Awfully Big Adventure"
     },
     "2925520": {
-      "rank": 2337,
+      "rank": 2014,
       "estimate": "7k+",
       "name": "AOKAKI"
     },
-    "2936920": {
-      "rank": 6511,
-      "estimate": "<7k",
-      "name": "Effective Immediately"
-    },
-    "2965560": {
-      "rank": 3893,
-      "estimate": "<7k",
-      "name": "Alpha Spectrum"
-    },
-    "3014500": {
-      "rank": 9195,
-      "estimate": "<7k",
-      "name": "Peasants Love Magic"
-    },
-    "3114420": {
-      "rank": 5447,
-      "estimate": "<7k",
-      "name": "UNCRACKED"
-    },
     "3195360": {
-      "rank": 1816,
-      "estimate": "15k+",
+      "rank": 956,
+      "estimate": "40k+",
       "name": "Coromon: Rogue Planet"
     },
     "3284200": {
-      "rank": 608,
-      "estimate": "40k+",
+      "rank": 1256,
+      "estimate": "25k+",
       "name": "Muri: Wildwoods"
     },
-    "3431620": {
-      "rank": 5258,
-      "estimate": "<7k",
-      "name": "Kowloon 666"
-    },
-    "3591900": {
-      "rank": 558,
-      "estimate": "40k+",
-      "name": "Chivalware"
-    },
     "3607230": {
-      "rank": 8156,
+      "rank": 4330,
       "estimate": "<7k",
       "name": "Ridiculous Space Battles"
     },
     "3707530": {
-      "rank": 1976,
-      "estimate": "15k+",
+      "rank": 482,
+      "estimate": "80k+",
       "name": "The Vernyhorn"
     },
-    "3729660": {
-      "rank": 8303,
-      "estimate": "<7k",
-      "name": "Secrets of the Burrow: Vixoria's Quest"
-    },
     "3774860": {
-      "rank": 3025,
-      "estimate": "<7k",
+      "rank": 1245,
+      "estimate": "25k+",
       "name": "BOMMY"
     },
     "3855060": {
-      "rank": 3078,
+      "rank": 3113,
       "estimate": "<7k",
       "name": "Dice Throne Digital"
     },
-    "3926630": {
-      "rank": 5363,
-      "estimate": "<7k",
-      "name": "Crapshoot"
-    },
     "3980340": {
-      "rank": 8058,
+      "rank": 3342,
       "estimate": "<7k",
       "name": "Imprinted"
     },
-    "4028760": {
-      "rank": 2242,
-      "estimate": "7k+",
-      "name": "Cosmo Cargo"
-    },
-    "4104570": {
-      "rank": 7237,
-      "estimate": "<7k",
-      "name": "程序员的刻板印象"
-    },
-    "4113400": {
-      "rank": 4385,
-      "estimate": "<7k",
-      "name": "Slaughterhouse"
-    },
-    "4156490": {
-      "rank": 1513,
-      "estimate": "15k+",
-      "name": "Mekururi: Dizzying Witch"
-    },
-    "4162620": {
-      "rank": 7847,
-      "estimate": "<7k",
-      "name": "Theme Park Simulator"
-    },
     "4183580": {
-      "rank": 6233,
+      "rank": 3778,
       "estimate": "<7k",
       "name": "Stationbreak"
     },
-    "4242850": {
-      "rank": 7852,
-      "estimate": "<7k",
-      "name": "Deluge: Raintime"
-    },
     "4278150": {
-      "rank": 2731,
+      "rank": 2913,
       "estimate": "7k+",
       "name": "One Iced Latte: Milk Song"
     },
-    "4327830": {
-      "rank": 1055,
-      "estimate": "25k+",
-      "name": "永恒地牢与刹那之恋"
-    },
     "4328840": {
-      "rank": 145,
-      "estimate": "200k+",
+      "rank": 1358,
+      "estimate": "25k+",
       "name": "Tideborne Haven"
     },
-    "4410640": {
-      "rank": 8396,
-      "estimate": "<7k",
-      "name": "Crimson Broadcast"
-    },
-    "4434040": {
-      "rank": 9855,
-      "estimate": "<7k",
-      "name": "Unseen - Someone"
-    },
-    "4441710": {
-      "rank": 3743,
-      "estimate": "<7k",
-      "name": "Staged: Open House"
-    },
-    "4481040": {
-      "rank": 1162,
-      "estimate": "25k+",
-      "name": "The Land Forgotten"
-    },
-    "4524730": {
-      "rank": 5583,
-      "estimate": "<7k",
-      "name": "ZDSimulator - ER9e Electric Train"
-    },
     "4525180": {
-      "rank": 3520,
+      "rank": 4111,
       "estimate": "<7k",
       "name": "Angel Zero"
-    },
-    "4535930": {
-      "rank": 5164,
-      "estimate": "<7k",
-      "name": "Pax Astra"
-    },
-    "4649910": {
-      "rank": 6928,
-      "estimate": "<7k",
-      "name": "VISE"
-    },
-    "4762950": {
-      "rank": 9293,
-      "estimate": "<7k",
-      "name": "Trials of Tenebrae"
     }
   }
 }

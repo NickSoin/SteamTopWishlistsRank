@@ -1,273 +1,133 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 53,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 25,
   "entries": {
     "1104600": {
-      "rank": 4006,
-      "estimate": "<7k",
+      "rank": 622,
+      "estimate": "40k+",
       "name": "Rune Fencer Illyia"
     },
-    "2026730": {
-      "rank": 5749,
+    "1563250": {
+      "rank": 3683,
       "estimate": "<7k",
-      "name": "Hollowmoor"
-    },
-    "2156950": {
-      "rank": 8149,
-      "estimate": "<7k",
-      "name": "Always in Mind"
+      "name": "Beast Hour"
     },
     "2275750": {
-      "rank": 3945,
-      "estimate": "<7k",
+      "rank": 1445,
+      "estimate": "25k+",
       "name": "Ascendance"
     },
     "2411790": {
-      "rank": 8913,
+      "rank": 4228,
       "estimate": "<7k",
       "name": "AMYGDALA: Prelude"
     },
     "2445430": {
-      "rank": 6448,
+      "rank": 3331,
       "estimate": "<7k",
       "name": "Tensei Brave"
     },
     "2874540": {
-      "rank": 504,
-      "estimate": "40k+",
+      "rank": 1887,
+      "estimate": "15k+",
       "name": "Symbiosis"
     },
     "2939100": {
-      "rank": 5383,
+      "rank": 3157,
       "estimate": "<7k",
       "name": "Apomo District"
     },
     "2968270": {
-      "rank": 3292,
+      "rank": 4257,
       "estimate": "<7k",
       "name": "Toymaker: Threads of Joy"
     },
     "3010280": {
-      "rank": 3418,
+      "rank": 3637,
       "estimate": "<7k",
       "name": "Powerplay"
     },
-    "3205770": {
-      "rank": 9670,
-      "estimate": "<7k",
-      "name": "Dawn Girl"
-    },
     "3216150": {
-      "rank": 4801,
+      "rank": 3610,
       "estimate": "<7k",
       "name": "Scourge of the Reptiles"
     },
-    "3291120": {
-      "rank": 3164,
-      "estimate": "<7k",
-      "name": "Book of Abominations"
-    },
     "3307340": {
-      "rank": 1276,
-      "estimate": "25k+",
+      "rank": 3570,
+      "estimate": "<7k",
       "name": "Cast Outs"
     },
     "3309290": {
-      "rank": 2300,
-      "estimate": "7k+",
+      "rank": 1312,
+      "estimate": "25k+",
       "name": "Black Raven"
     },
     "3639470": {
-      "rank": 740,
-      "estimate": "40k+",
+      "rank": 1321,
+      "estimate": "25k+",
       "name": "Besiege: The Broken Beyond"
     },
     "3670730": {
-      "rank": 5981,
+      "rank": 3601,
       "estimate": "<7k",
       "name": "Horror Tales Eats The World"
     },
-    "3700200": {
-      "rank": 5622,
-      "estimate": "<7k",
-      "name": "The Last Captain"
-    },
     "3749580": {
-      "rank": 1084,
-      "estimate": "25k+",
+      "rank": 434,
+      "estimate": "80k+",
       "name": "He-Man and the Masters of the Universe™: Dragon Pearl of Destruction"
     },
-    "3804010": {
-      "rank": 5601,
-      "estimate": "<7k",
-      "name": "Industronaut"
-    },
-    "3813890": {
-      "rank": 9676,
-      "estimate": "<7k",
-      "name": "Codex Lost 2"
-    },
     "3818020": {
-      "rank": 2667,
-      "estimate": "7k+",
+      "rank": 3829,
+      "estimate": "<7k",
       "name": "Evil School"
     },
     "3818770": {
-      "rank": 1070,
-      "estimate": "25k+",
+      "rank": 2820,
+      "estimate": "7k+",
       "name": "SuperWEIRD: Automation Roguelite"
     },
-    "3828980": {
-      "rank": 2333,
-      "estimate": "7k+",
-      "name": "7 Days To Think About It"
-    },
     "3846210": {
-      "rank": 3854,
-      "estimate": "<7k",
+      "rank": 2329,
+      "estimate": "7k+",
       "name": "The Last Poem"
     },
-    "3857810": {
-      "rank": 5198,
-      "estimate": "<7k",
-      "name": "Potions, Please!"
-    },
     "3866890": {
-      "rank": 4914,
+      "rank": 3056,
       "estimate": "<7k",
       "name": "Mona: The Endless Journey"
     },
     "3878040": {
-      "rank": 6148,
+      "rank": 4379,
       "estimate": "<7k",
       "name": "Box or Void"
     },
     "3907830": {
-      "rank": 2380,
+      "rank": 2310,
       "estimate": "7k+",
       "name": "Car Crime Simulator"
     },
     "3957530": {
-      "rank": 3140,
+      "rank": 3721,
       "estimate": "<7k",
       "name": "Shenmue III Enhanced"
     },
-    "4093040": {
-      "rank": 2441,
-      "estimate": "7k+",
-      "name": "Saimin Gakuen: Intrusion Edition"
-    },
-    "4111540": {
-      "rank": 3205,
-      "estimate": "<7k",
-      "name": "Night Hike"
-    },
     "4123800": {
-      "rank": 668,
+      "rank": 810,
       "estimate": "40k+",
       "name": "The Road"
     },
-    "4155100": {
-      "rank": 6418,
-      "estimate": "<7k",
-      "name": "Flats Full of Cats: Gold & Candles"
-    },
-    "4163480": {
-      "rank": 8254,
-      "estimate": "<7k",
-      "name": "Dewdrop"
-    },
-    "4262460": {
-      "rank": 5648,
-      "estimate": "<7k",
-      "name": "ROB RUN"
-    },
     "4298700": {
-      "rank": 1653,
-      "estimate": "15k+",
+      "rank": 2318,
+      "estimate": "7k+",
       "name": "Escape By Spoon"
     },
-    "4301910": {
-      "rank": 8527,
-      "estimate": "<7k",
-      "name": "The War Disorder Hexa"
-    },
-    "4371830": {
-      "rank": 7901,
-      "estimate": "<7k",
-      "name": "Run & Dungeon"
-    },
     "4391380": {
-      "rank": 2208,
-      "estimate": "7k+",
+      "rank": 3476,
+      "estimate": "<7k",
       "name": "Artillery Miner"
-    },
-    "4437150": {
-      "rank": 8288,
-      "estimate": "<7k",
-      "name": "SOMIA"
-    },
-    "4440750": {
-      "rank": 7073,
-      "estimate": "<7k",
-      "name": "Aftertaste"
-    },
-    "4502180": {
-      "rank": 8028,
-      "estimate": "<7k",
-      "name": "CHEMISTS: Dead Zone"
-    },
-    "4520500": {
-      "rank": 8251,
-      "estimate": "<7k",
-      "name": "Puzzle"
-    },
-    "4546540": {
-      "rank": 3086,
-      "estimate": "<7k",
-      "name": "Afterlight"
-    },
-    "4609540": {
-      "rank": 8841,
-      "estimate": "<7k",
-      "name": "ScaMMO"
-    },
-    "4629450": {
-      "rank": 7069,
-      "estimate": "<7k",
-      "name": "Guitar Practice Mate"
-    },
-    "4637040": {
-      "rank": 2685,
-      "estimate": "7k+",
-      "name": "Saga · The Circle"
-    },
-    "4641290": {
-      "rank": 4635,
-      "estimate": "<7k",
-      "name": "C.A.G.E."
-    },
-    "4698120": {
-      "rank": 9038,
-      "estimate": "<7k",
-      "name": "FAST FOOD FUNKIN'"
-    },
-    "4727820": {
-      "rank": 2075,
-      "estimate": "7k+",
-      "name": "content moderator."
-    },
-    "4733960": {
-      "rank": 2868,
-      "estimate": "7k+",
-      "name": "Heim"
-    },
-    "4767680": {
-      "rank": 7122,
-      "estimate": "<7k",
-      "name": "Stonemachia Soundtrack"
     }
   }
 }

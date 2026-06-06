@@ -1,238 +1,103 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 46,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 19,
   "entries": {
     "1400830": {
-      "rank": 1134,
-      "estimate": "25k+",
+      "rank": 123,
+      "estimate": "200k+",
       "name": "Billie Bust Up"
     },
     "1409460": {
-      "rank": 6325,
-      "estimate": "<7k",
+      "rank": 1149,
+      "estimate": "25k+",
       "name": "Brutal Fate"
     },
     "1460810": {
-      "rank": 1230,
-      "estimate": "25k+",
+      "rank": 2371,
+      "estimate": "7k+",
       "name": "Dungeon Munchies 2"
     },
-    "1727740": {
-      "rank": 9412,
-      "estimate": "<7k",
-      "name": "Vita Fighters"
-    },
     "1817030": {
-      "rank": 1174,
-      "estimate": "25k+",
+      "rank": 1668,
+      "estimate": "15k+",
       "name": "Swordcery"
     },
     "2127730": {
-      "rank": 4696,
-      "estimate": "<7k",
+      "rank": 1540,
+      "estimate": "15k+",
       "name": "Tactics Returners"
     },
     "2133850": {
-      "rank": 2757,
+      "rank": 2233,
       "estimate": "7k+",
       "name": "Broken Reality 2000"
     },
     "2445980": {
-      "rank": 4589,
-      "estimate": "<7k",
+      "rank": 894,
+      "estimate": "40k+",
       "name": "G-Rebels"
     },
     "2497020": {
-      "rank": 4869,
-      "estimate": "<7k",
+      "rank": 1564,
+      "estimate": "15k+",
       "name": "Sick Samurai"
     },
     "2931720": {
-      "rank": 6228,
+      "rank": 4469,
       "estimate": "<7k",
       "name": "Neighbor's Wife"
     },
     "3002610": {
-      "rank": 8743,
-      "estimate": "<7k",
+      "rank": 2352,
+      "estimate": "7k+",
       "name": "Pebbles Quest"
     },
     "3034660": {
-      "rank": 2249,
+      "rank": 2413,
       "estimate": "7k+",
       "name": "Dunebound Tactics"
     },
     "3183760": {
-      "rank": 1125,
-      "estimate": "25k+",
+      "rank": 250,
+      "estimate": "80k+",
       "name": "SpeedRunners 2: King of Speed"
     },
     "3219960": {
-      "rank": 4908,
-      "estimate": "<7k",
+      "rank": 2721,
+      "estimate": "7k+",
       "name": "ICE on the EDGE"
     },
-    "3324750": {
-      "rank": 9875,
-      "estimate": "<7k",
-      "name": "r/nosleep: The Night Shift at Paradise Valley Pool"
-    },
-    "3332700": {
-      "rank": 9009,
-      "estimate": "<7k",
-      "name": "BACKROOMS INSIDE THE ESCAPE"
-    },
     "3376960": {
-      "rank": 2274,
-      "estimate": "7k+",
+      "rank": 756,
+      "estimate": "40k+",
       "name": "Nighthold"
     },
-    "3557530": {
-      "rank": 5866,
-      "estimate": "<7k",
-      "name": "Bug Cleaners"
-    },
     "3575440": {
-      "rank": 2581,
-      "estimate": "7k+",
+      "rank": 4342,
+      "estimate": "<7k",
       "name": "Being Food"
     },
     "3638680": {
-      "rank": 4268,
-      "estimate": "<7k",
+      "rank": 1836,
+      "estimate": "15k+",
       "name": "Sanctum:Whispers of Qingcheng"
     },
-    "3645730": {
-      "rank": 6589,
-      "estimate": "<7k",
-      "name": "Backrooms: Imposter"
-    },
-    "3782840": {
-      "rank": 1884,
-      "estimate": "15k+",
-      "name": "Mingle"
-    },
-    "3789500": {
-      "rank": 9466,
-      "estimate": "<7k",
-      "name": "SCP [REDACTED]"
-    },
     "3809080": {
-      "rank": 618,
-      "estimate": "40k+",
+      "rank": 1623,
+      "estimate": "15k+",
       "name": "Never Wither"
     },
     "3846900": {
-      "rank": 6252,
-      "estimate": "<7k",
-      "name": "Sword Sage: Awakening"
-    },
-    "3882980": {
-      "rank": 8753,
-      "estimate": "<7k",
-      "name": "Space Tail: Definitive Edition"
-    },
-    "3909340": {
-      "rank": 3453,
-      "estimate": "<7k",
-      "name": "For Nora"
-    },
-    "3937330": {
-      "rank": 8042,
-      "estimate": "<7k",
-      "name": "No Walls In Heaven"
-    },
-    "3977910": {
-      "rank": 8827,
-      "estimate": "<7k",
-      "name": "AD: Campus Dynasty"
-    },
-    "3992340": {
-      "rank": 4353,
-      "estimate": "<7k",
-      "name": "One Arrow"
-    },
-    "4010900": {
-      "rank": 5746,
-      "estimate": "<7k",
-      "name": "Retro Arcade Shop Simulator"
-    },
-    "4012810": {
-      "rank": 377,
-      "estimate": "80k+",
-      "name": "STEINS;GATE RE:BOOT"
-    },
-    "4084970": {
-      "rank": 6419,
-      "estimate": "<7k",
-      "name": "Backrooms: Eternals"
-    },
-    "4116220": {
-      "rank": 5345,
-      "estimate": "<7k",
-      "name": "Microbian"
-    },
-    "4325220": {
-      "rank": 9782,
-      "estimate": "<7k",
-      "name": "Girl In Darkness"
-    },
-    "4374200": {
       "rank": 2379,
       "estimate": "7k+",
-      "name": "Snack Factory Together"
+      "name": "Sword Sage: Awakening"
     },
-    "4422970": {
-      "rank": 8742,
-      "estimate": "<7k",
-      "name": "Morse Depths: WWII"
-    },
-    "4429430": {
-      "rank": 4231,
-      "estimate": "<7k",
-      "name": "Origins TCG"
-    },
-    "4437370": {
-      "rank": 8212,
-      "estimate": "<7k",
-      "name": "Pop! Pachinko"
-    },
-    "4438090": {
-      "rank": 7573,
-      "estimate": "<7k",
-      "name": "Mechanical Granny"
-    },
-    "4457970": {
-      "rank": 5812,
-      "estimate": "<7k",
-      "name": "FENRIR"
-    },
-    "4458900": {
-      "rank": 8765,
-      "estimate": "<7k",
-      "name": "Gensokyo Odyssey: Kakkoi's Laundromat Soundtrack"
-    },
-    "4660350": {
-      "rank": 6151,
-      "estimate": "<7k",
-      "name": "Agro Tycoon"
-    },
-    "4672520": {
-      "rank": 2519,
-      "estimate": "7k+",
-      "name": "Impulse Response"
-    },
-    "4724380": {
-      "rank": 556,
-      "estimate": "40k+",
-      "name": "Project Sentinel - Zero Tolerance"
-    },
-    "4764960": {
-      "rank": 8195,
-      "estimate": "<7k",
-      "name": "Desktop Mascot Nunu-nui"
+    "4012810": {
+      "rank": 190,
+      "estimate": "200k+",
+      "name": "STEINS;GATE RE:BOOT"
     }
   }
 }

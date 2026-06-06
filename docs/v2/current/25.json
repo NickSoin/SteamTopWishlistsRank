@@ -1,158 +1,83 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 15,
   "entries": {
+    "1462160": {
+      "rank": 2151,
+      "estimate": "7k+",
+      "name": "Arclands"
+    },
     "1742440": {
-      "rank": 1381,
+      "rank": 1268,
       "estimate": "25k+",
       "name": "COP BASTARD"
     },
     "2026040": {
-      "rank": 7039,
+      "rank": 4209,
       "estimate": "<7k",
       "name": "Dig Dig Boom"
     },
     "2152570": {
-      "rank": 791,
-      "estimate": "40k+",
+      "rank": 1600,
+      "estimate": "15k+",
       "name": "Noble"
     },
     "2601980": {
-      "rank": 2080,
-      "estimate": "7k+",
+      "rank": 1014,
+      "estimate": "25k+",
       "name": "Space Scum"
     },
     "2750400": {
-      "rank": 2400,
-      "estimate": "7k+",
+      "rank": 903,
+      "estimate": "40k+",
       "name": "Spearhead 2"
     },
-    "2833910": {
-      "rank": 7591,
-      "estimate": "<7k",
-      "name": "Ares Breathes"
-    },
     "3027860": {
-      "rank": 3832,
-      "estimate": "<7k",
+      "rank": 2498,
+      "estimate": "7k+",
       "name": "Thief Simulator 2: Cruise Ship DLC"
     },
     "3193330": {
-      "rank": 1614,
+      "rank": 1556,
       "estimate": "15k+",
       "name": "Tia:weird hunter"
     },
     "3205880": {
-      "rank": 3858,
-      "estimate": "<7k",
+      "rank": 2966,
+      "estimate": "7k+",
       "name": "CORPSE CARNIVAL"
     },
-    "3281790": {
-      "rank": 4676,
-      "estimate": "<7k",
-      "name": "Vape Store Miami"
-    },
-    "3316960": {
-      "rank": 4481,
-      "estimate": "<7k",
-      "name": "Ashes of Morgravia"
-    },
     "3448070": {
-      "rank": 2801,
+      "rank": 2069,
       "estimate": "7k+",
       "name": "BPM Bitcrushed"
     },
-    "3452990": {
-      "rank": 7072,
-      "estimate": "<7k",
-      "name": "Knight's Errand"
-    },
     "3468090": {
-      "rank": 8571,
+      "rank": 4337,
       "estimate": "<7k",
       "name": "Wanderdawn"
     },
     "3660360": {
-      "rank": 1690,
-      "estimate": "15k+",
+      "rank": 2140,
+      "estimate": "7k+",
       "name": "Deadly Deals"
     },
-    "3677720": {
-      "rank": 8845,
-      "estimate": "<7k",
-      "name": "Seas of Raesenia"
-    },
     "3805820": {
-      "rank": 1239,
-      "estimate": "25k+",
+      "rank": 4546,
+      "estimate": "<7k",
       "name": "Zangyou"
     },
     "3957240": {
-      "rank": 2621,
-      "estimate": "7k+",
+      "rank": 3701,
+      "estimate": "<7k",
       "name": "Sail Girl"
     },
-    "4004550": {
-      "rank": 6153,
-      "estimate": "<7k",
-      "name": "Crystals Bureau"
-    },
-    "4099790": {
-      "rank": 8848,
-      "estimate": "<7k",
-      "name": "Koko Loco Block Blast"
-    },
     "4111300": {
-      "rank": 617,
-      "estimate": "40k+",
+      "rank": 4109,
+      "estimate": "<7k",
       "name": "MegaGum"
-    },
-    "4260370": {
-      "rank": 8575,
-      "estimate": "<7k",
-      "name": "Prism Wilds"
-    },
-    "4403010": {
-      "rank": 4893,
-      "estimate": "<7k",
-      "name": "Pegs X Stickers"
-    },
-    "4414490": {
-      "rank": 4770,
-      "estimate": "<7k",
-      "name": "RavenStar"
-    },
-    "4484150": {
-      "rank": 6181,
-      "estimate": "<7k",
-      "name": "Dungeon4X"
-    },
-    "4562470": {
-      "rank": 4799,
-      "estimate": "<7k",
-      "name": "The Immortal John Triptych: Weird Extra Content Art Gallery DLC Thingy ¯\\_(ツ)_/¯"
-    },
-    "4625320": {
-      "rank": 9313,
-      "estimate": "<7k",
-      "name": "Quadium 4004 Workbench"
-    },
-    "4660240": {
-      "rank": 6524,
-      "estimate": "<7k",
-      "name": "Tempest of Nations"
-    },
-    "4732820": {
-      "rank": 3644,
-      "estimate": "<7k",
-      "name": "Select Kiss +Plus"
-    },
-    "4741570": {
-      "rank": 8178,
-      "estimate": "<7k",
-      "name": "Forge Cat"
     }
   }
 }

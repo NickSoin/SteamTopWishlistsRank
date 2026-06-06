@@ -1,173 +1,98 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 18,
   "entries": {
-    "1334150": {
-      "rank": 7487,
-      "estimate": "<7k",
-      "name": "SugarWinds"
+    "1122160": {
+      "rank": 2991,
+      "estimate": "7k+",
+      "name": "On Air"
+    },
+    "1601320": {
+      "rank": 2917,
+      "estimate": "7k+",
+      "name": "Leshy"
     },
     "1638030": {
-      "rank": 6343,
-      "estimate": "<7k",
+      "rank": 2544,
+      "estimate": "7k+",
       "name": "Generation Ship"
     },
-    "1721790": {
-      "rank": 9572,
-      "estimate": "<7k",
-      "name": "Summon, then build an invincible harem"
-    },
-    "1772220": {
-      "rank": 9492,
-      "estimate": "<7k",
-      "name": "FRONTLINE"
-    },
     "1968940": {
-      "rank": 4972,
-      "estimate": "<7k",
+      "rank": 856,
+      "estimate": "40k+",
       "name": "Nazralath: The Fallen World"
     },
-    "2242340": {
-      "rank": 2184,
+    "1973760": {
+      "rank": 2030,
       "estimate": "7k+",
+      "name": "Shell Soldier"
+    },
+    "2066740": {
+      "rank": 2239,
+      "estimate": "7k+",
+      "name": "ASMR Food Experience"
+    },
+    "2242340": {
+      "rank": 1270,
+      "estimate": "25k+",
       "name": "Car Rental Simulator"
     },
     "2280360": {
-      "rank": 8098,
-      "estimate": "<7k",
+      "rank": 2789,
+      "estimate": "7k+",
       "name": "Scarecrow"
     },
-    "2290880": {
-      "rank": 9226,
-      "estimate": "<7k",
-      "name": "Knightly Routine"
-    },
-    "2370290": {
-      "rank": 8226,
-      "estimate": "<7k",
-      "name": "EBOLA 4"
-    },
-    "2763250": {
-      "rank": 4718,
-      "estimate": "<7k",
-      "name": "Unconventional Fantasy"
-    },
-    "3034760": {
-      "rank": 2271,
+    "2852750": {
+      "rank": 2557,
       "estimate": "7k+",
-      "name": "STONEFEATHER"
+      "name": "The Games You Make"
     },
     "3056650": {
-      "rank": 9795,
+      "rank": 3544,
       "estimate": "<7k",
       "name": "Cult Of Blood"
     },
-    "3300050": {
-      "rank": 5973,
-      "estimate": "<7k",
-      "name": "System Breakdown"
-    },
     "3376860": {
-      "rank": 4248,
+      "rank": 3733,
       "estimate": "<7k",
       "name": "The Retrospection Of Tomorrow"
     },
     "3522360": {
-      "rank": 3571,
-      "estimate": "<7k",
+      "rank": 2584,
+      "estimate": "7k+",
       "name": "WARSHIFT 2"
     },
     "3557360": {
-      "rank": 1727,
-      "estimate": "15k+",
+      "rank": 1380,
+      "estimate": "25k+",
       "name": "Second Stone: The Legend of the Hidden World"
     },
-    "3593470": {
-      "rank": 1205,
-      "estimate": "25k+",
-      "name": "1992: Rasputie"
-    },
     "3610180": {
-      "rank": 5719,
+      "rank": 3264,
       "estimate": "<7k",
       "name": "Olympus Rangers"
     },
     "3645160": {
-      "rank": 271,
+      "rank": 275,
       "estimate": "80k+",
       "name": "Frostpunk: 1886"
     },
-    "3685050": {
-      "rank": 3468,
-      "estimate": "<7k",
-      "name": "Stardust Frontier"
-    },
     "3814050": {
-      "rank": 5497,
+      "rank": 3505,
       "estimate": "<7k",
       "name": "Janitor Simulator"
     },
-    "3820000": {
-      "rank": 8140,
-      "estimate": "<7k",
-      "name": "BOT.VINNIK Chess Masters Academy"
-    },
-    "3891880": {
-      "rank": 4394,
-      "estimate": "<7k",
-      "name": "Orbital"
-    },
     "3952820": {
-      "rank": 6379,
+      "rank": 4486,
       "estimate": "<7k",
       "name": "Desserted"
     },
-    "4275920": {
-      "rank": 6562,
-      "estimate": "<7k",
-      "name": "Pickochet"
-    },
-    "4301410": {
-      "rank": 6692,
-      "estimate": "<7k",
-      "name": "Contract Cooks"
-    },
     "4437450": {
-      "rank": 1949,
-      "estimate": "15k+",
+      "rank": 2169,
+      "estimate": "7k+",
       "name": "Nekopara Sekai Connect"
-    },
-    "4442560": {
-      "rank": 4523,
-      "estimate": "<7k",
-      "name": "Crownmarch TD"
-    },
-    "4458840": {
-      "rank": 761,
-      "estimate": "40k+",
-      "name": "T.W.I.R.L."
-    },
-    "4641660": {
-      "rank": 9707,
-      "estimate": "<7k",
-      "name": "Dob x Dob"
-    },
-    "4660070": {
-      "rank": 6775,
-      "estimate": "<7k",
-      "name": "Destructor2D"
-    },
-    "4725980": {
-      "rank": 9775,
-      "estimate": "<7k",
-      "name": "101 Dogs Hidden in Milan"
-    },
-    "4748040": {
-      "rank": 9647,
-      "estimate": "<7k",
-      "name": "我的修仙日志 Cultivation Journal"
     }
   }
 }

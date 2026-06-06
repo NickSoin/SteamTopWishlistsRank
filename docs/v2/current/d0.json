@@ -1,208 +1,128 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 40,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 24,
   "entries": {
     "1383660": {
-      "rank": 6513,
-      "estimate": "<7k",
+      "rank": 2846,
+      "estimate": "7k+",
       "name": "Guinea Pig Parkour®"
     },
-    "1858210": {
-      "rank": 8172,
+    "1714710": {
+      "rank": 3758,
       "estimate": "<7k",
+      "name": "Castle Manager"
+    },
+    "1803500": {
+      "rank": 1955,
+      "estimate": "15k+",
+      "name": "Runeforge"
+    },
+    "1858210": {
+      "rank": 2035,
+      "estimate": "7k+",
       "name": "Kindred Fates"
     },
     "1962010": {
-      "rank": 8936,
+      "rank": 4299,
       "estimate": "<7k",
       "name": "Space Scavenger 2"
     },
-    "2062380": {
-      "rank": 9962,
-      "estimate": "<7k",
-      "name": "Roots in the Sky - The Hand of Glory 2"
-    },
     "2303850": {
-      "rank": 2394,
-      "estimate": "7k+",
+      "rank": 814,
+      "estimate": "40k+",
       "name": "Toxic Crusaders"
     },
     "2377930": {
-      "rank": 2166,
-      "estimate": "7k+",
+      "rank": 993,
+      "estimate": "40k+",
       "name": "Destiny of Immortal"
     },
     "2487330": {
-      "rank": 66,
-      "estimate": "300k+",
+      "rank": 1237,
+      "estimate": "25k+",
       "name": "Stuntman: Hollywood"
     },
     "2525210": {
-      "rank": 3461,
-      "estimate": "<7k",
+      "rank": 1183,
+      "estimate": "25k+",
       "name": "Timespinner 2: Unwoven Dream"
     },
     "2593570": {
-      "rank": 4903,
-      "estimate": "<7k",
+      "rank": 1309,
+      "estimate": "25k+",
       "name": "DDS x Narcos"
     },
     "2627420": {
-      "rank": 9587,
+      "rank": 4063,
       "estimate": "<7k",
       "name": "The Coldest Winter"
     },
     "2796360": {
-      "rank": 7895,
+      "rank": 3890,
       "estimate": "<7k",
       "name": "100 Cats Beijing"
     },
-    "2868030": {
-      "rank": 2887,
-      "estimate": "7k+",
-      "name": "Game is Full of Bugs"
-    },
     "3038500": {
-      "rank": 1662,
-      "estimate": "15k+",
+      "rank": 615,
+      "estimate": "40k+",
       "name": "Cooking Simulator 2: Prologue"
     },
-    "3048990": {
-      "rank": 5537,
-      "estimate": "<7k",
-      "name": "Silicium"
-    },
-    "3049140": {
-      "rank": 6780,
-      "estimate": "<7k",
-      "name": "Choice of Life: Modern Ages"
-    },
     "3130110": {
-      "rank": 3587,
-      "estimate": "<7k",
+      "rank": 1095,
+      "estimate": "25k+",
       "name": "Haruka na Sora"
     },
-    "3219820": {
-      "rank": 9486,
-      "estimate": "<7k",
-      "name": "Road Motel Simulator"
-    },
     "3238520": {
-      "rank": 6999,
-      "estimate": "<7k",
+      "rank": 1299,
+      "estimate": "25k+",
       "name": "A Waddleful Life"
     },
     "3307770": {
-      "rank": 3919,
-      "estimate": "<7k",
+      "rank": 1915,
+      "estimate": "15k+",
       "name": "NCORE"
     },
-    "3354200": {
-      "rank": 4007,
-      "estimate": "<7k",
-      "name": "Bakso Simulator 2"
-    },
     "3397010": {
-      "rank": 5082,
+      "rank": 4366,
       "estimate": "<7k",
       "name": "EDEN’S FRONTIER™"
     },
     "3410670": {
-      "rank": 5940,
+      "rank": 4655,
       "estimate": "<7k",
       "name": "Fusty Dungeon"
     },
     "3428570": {
-      "rank": 619,
-      "estimate": "40k+",
+      "rank": 1708,
+      "estimate": "15k+",
       "name": "Teller's Duty"
     },
     "3581910": {
-      "rank": 2700,
-      "estimate": "7k+",
+      "rank": 1525,
+      "estimate": "15k+",
       "name": "Victory Banner"
     },
     "3712080": {
-      "rank": 264,
+      "rank": 317,
       "estimate": "80k+",
       "name": "Funnel Runners"
     },
     "3717490": {
-      "rank": 3756,
+      "rank": 4600,
       "estimate": "<7k",
       "name": "Shattered Realms"
     },
     "3731270": {
-      "rank": 5084,
-      "estimate": "<7k",
+      "rank": 2769,
+      "estimate": "7k+",
       "name": "mobOS"
     },
     "3977340": {
-      "rank": 611,
-      "estimate": "40k+",
-      "name": "Poly Fighter"
-    },
-    "3992240": {
-      "rank": 5721,
-      "estimate": "<7k",
-      "name": "Sidekick AI"
-    },
-    "4057180": {
-      "rank": 1669,
-      "estimate": "15k+",
-      "name": "ESSOMENIC"
-    },
-    "4240270": {
-      "rank": 5667,
-      "estimate": "<7k",
-      "name": "Nomnomia"
-    },
-    "4301300": {
-      "rank": 6383,
-      "estimate": "<7k",
-      "name": "Incrempire"
-    },
-    "4382510": {
-      "rank": 4685,
-      "estimate": "<7k",
-      "name": "Monster Girls Dice Board"
-    },
-    "4453540": {
-      "rank": 853,
-      "estimate": "40k+",
-      "name": "Minesweeper: Next-Gen"
-    },
-    "4579060": {
-      "rank": 3640,
-      "estimate": "<7k",
-      "name": "Brimvahl Crown"
-    },
-    "4626300": {
-      "rank": 7522,
-      "estimate": "<7k",
-      "name": "Valdrax Beyond the Rift"
-    },
-    "4693300": {
-      "rank": 908,
-      "estimate": "40k+",
-      "name": "Hole Punch Cocktail"
-    },
-    "4703690": {
-      "rank": 7309,
-      "estimate": "<7k",
-      "name": "Do Not Press That Button"
-    },
-    "4777330": {
-      "rank": 2169,
+      "rank": 2255,
       "estimate": "7k+",
-      "name": "Link Cameras"
-    },
-    "4785890": {
-      "rank": 3379,
-      "estimate": "<7k",
-      "name": "Eldread :Horrors of a Dark Moon"
+      "name": "Poly Fighter"
     }
   }
 }

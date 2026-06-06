@@ -1,228 +1,123 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 44,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 23,
   "entries": {
     "888780": {
-      "rank": 670,
-      "estimate": "40k+",
+      "rank": 345,
+      "estimate": "80k+",
       "name": "Adapt"
     },
     "1015370": {
-      "rank": 6063,
-      "estimate": "<7k",
+      "rank": 2422,
+      "estimate": "7k+",
       "name": "eXpanSIM"
     },
     "1518330": {
-      "rank": 6305,
-      "estimate": "<7k",
+      "rank": 1121,
+      "estimate": "25k+",
       "name": "Pirate Simulator"
     },
+    "1545080": {
+      "rank": 2179,
+      "estimate": "7k+",
+      "name": "Arran: The Book of Heroes"
+    },
+    "1835570": {
+      "rank": 3407,
+      "estimate": "<7k",
+      "name": "BioCrisis : Return 2 the Lab"
+    },
     "1853440": {
-      "rank": 413,
+      "rank": 262,
       "estimate": "80k+",
       "name": "Tropico 7"
     },
     "1983910": {
-      "rank": 4291,
-      "estimate": "<7k",
+      "rank": 1757,
+      "estimate": "15k+",
       "name": "Prison Survival: Architect of Crime Simulator"
     },
+    "2026450": {
+      "rank": 2774,
+      "estimate": "7k+",
+      "name": "Stunt Derby"
+    },
     "2106730": {
-      "rank": 6693,
-      "estimate": "<7k",
+      "rank": 794,
+      "estimate": "40k+",
       "name": "Phantom Hellcat"
     },
-    "2164370": {
-      "rank": 8115,
-      "estimate": "<7k",
-      "name": "Slender Myth"
-    },
-    "2164820": {
-      "rank": 3188,
-      "estimate": "<7k",
-      "name": "Eons Away"
-    },
-    "2411940": {
-      "rank": 7928,
-      "estimate": "<7k",
-      "name": "Urban Legend Hunters: Ghosts in the Circuit"
-    },
-    "2470840": {
-      "rank": 9100,
-      "estimate": "<7k",
-      "name": "Cyber Cafe Simulator"
-    },
-    "2510210": {
-      "rank": 8661,
-      "estimate": "<7k",
-      "name": "TRUCK SIM USA"
-    },
     "2697940": {
-      "rank": 1416,
-      "estimate": "25k+",
+      "rank": 663,
+      "estimate": "40k+",
       "name": "Ascend to ZERO"
     },
-    "3150710": {
-      "rank": 9419,
-      "estimate": "<7k",
-      "name": "PhantomZone labyrinthos ファントムゾーン・ラビュリントス"
-    },
-    "3151850": {
-      "rank": 5500,
-      "estimate": "<7k",
-      "name": "Tricky Castle"
-    },
     "3156020": {
-      "rank": 999,
-      "estimate": "40k+",
+      "rank": 1394,
+      "estimate": "25k+",
       "name": "Gloomveil"
     },
     "3251280": {
-      "rank": 8167,
-      "estimate": "<7k",
+      "rank": 1920,
+      "estimate": "15k+",
       "name": "Rivals Hover League"
     },
-    "3504650": {
-      "rank": 7312,
-      "estimate": "<7k",
-      "name": "My Husband is a Stranger"
-    },
-    "3508430": {
-      "rank": 4322,
-      "estimate": "<7k",
-      "name": "BlueLine"
-    },
     "3520410": {
-      "rank": 3578,
-      "estimate": "<7k",
+      "rank": 2370,
+      "estimate": "7k+",
       "name": "10hit"
     },
     "3579070": {
-      "rank": 7080,
-      "estimate": "<7k",
+      "rank": 2098,
+      "estimate": "7k+",
       "name": "Disposable Corps: Tactical Trench Warfare"
     },
     "3669870": {
-      "rank": 22,
+      "rank": 37,
       "estimate": "600k+",
       "name": "CONTROL Resonant"
     },
     "3760360": {
-      "rank": 4656,
+      "rank": 3577,
       "estimate": "<7k",
       "name": "My Little Farm"
     },
-    "3766700": {
-      "rank": 1766,
-      "estimate": "15k+",
-      "name": "Mark The Headless Chicken"
-    },
     "3851260": {
-      "rank": 475,
+      "rank": 300,
       "estimate": "80k+",
       "name": "Euro Truck Simulator 2 - Isle of Ireland"
     },
-    "3853150": {
-      "rank": 9078,
-      "estimate": "<7k",
-      "name": "Nui Goes to Town!"
-    },
-    "3892320": {
-      "rank": 4299,
-      "estimate": "<7k",
-      "name": "Iron Circus × INDIEPOCALYPSE Game Jam"
-    },
     "3978820": {
-      "rank": 50,
+      "rank": 39,
       "estimate": "600k+",
       "name": "Rules of Engagement: The Grey State"
     },
-    "3994840": {
-      "rank": 7454,
-      "estimate": "<7k",
-      "name": "The Whisker Watch"
-    },
     "4026250": {
-      "rank": 1550,
-      "estimate": "15k+",
+      "rank": 1074,
+      "estimate": "25k+",
       "name": "Project P.I.T.T."
     },
-    "4111040": {
-      "rank": 8538,
-      "estimate": "<7k",
-      "name": "Grégoire Lefèbvre Investigations : The Vow of Hate"
-    },
     "4178100": {
-      "rank": 1108,
+      "rank": 1336,
       "estimate": "25k+",
       "name": "Whiskers Tale"
     },
     "4210060": {
-      "rank": 125,
-      "estimate": "200k+",
+      "rank": 288,
+      "estimate": "80k+",
       "name": "ZERO Sievert 2"
     },
     "4212480": {
-      "rank": 157,
-      "estimate": "200k+",
+      "rank": 1507,
+      "estimate": "15k+",
       "name": "Ragnarok: The New World"
     },
-    "4225190": {
-      "rank": 3613,
-      "estimate": "<7k",
-      "name": "BoomScroll"
-    },
-    "4272990": {
-      "rank": 5801,
-      "estimate": "<7k",
-      "name": "No More Pesticide"
-    },
-    "4415740": {
-      "rank": 2715,
-      "estimate": "7k+",
-      "name": "The Pale Mimic"
-    },
-    "4451520": {
-      "rank": 9140,
-      "estimate": "<7k",
-      "name": "Ocean Cleaner Idle"
-    },
-    "4462650": {
-      "rank": 9039,
-      "estimate": "<7k",
-      "name": "Infinity Lancer"
-    },
     "4465790": {
-      "rank": 163,
-      "estimate": "200k+",
-      "name": "Deadzone Rogue 2"
-    },
-    "4520880": {
-      "rank": 8809,
-      "estimate": "<7k",
-      "name": "ウォーキング エイト"
-    },
-    "4536920": {
-      "rank": 2600,
-      "estimate": "7k+",
-      "name": "Cards & Cannons"
-    },
-    "4625460": {
-      "rank": 2604,
-      "estimate": "7k+",
-      "name": "SkyVeil"
-    },
-    "4709120": {
-      "rank": 914,
+      "rank": 686,
       "estimate": "40k+",
-      "name": "METAXIA"
-    },
-    "4737950": {
-      "rank": 2561,
-      "estimate": "7k+",
-      "name": "One-Time Trigger"
+      "name": "Deadzone Rogue 2"
     }
   }
 }

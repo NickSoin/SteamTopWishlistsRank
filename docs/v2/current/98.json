@@ -1,203 +1,108 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 20,
   "entries": {
-    "1713980": {
-      "rank": 2983,
-      "estimate": "7k+",
-      "name": "Verbal Void"
-    },
     "1778150": {
-      "rank": 7465,
+      "rank": 3606,
       "estimate": "<7k",
       "name": "TRIP"
     },
     "1810070": {
-      "rank": 6378,
-      "estimate": "<7k",
+      "rank": 2217,
+      "estimate": "7k+",
       "name": "Aperture: Salt Mines"
     },
+    "1953850": {
+      "rank": 2512,
+      "estimate": "7k+",
+      "name": "VICE Undercover"
+    },
     "2050420": {
-      "rank": 490,
-      "estimate": "80k+",
+      "rank": 6,
+      "estimate": "1.5m+",
       "name": "ARK 2"
     },
-    "2378140": {
-      "rank": 3598,
-      "estimate": "<7k",
-      "name": "Blackthorn Winter"
-    },
     "2381500": {
-      "rank": 2247,
-      "estimate": "7k+",
+      "rank": 1609,
+      "estimate": "15k+",
       "name": "Engine Simulator"
     },
-    "2386000": {
-      "rank": 6065,
-      "estimate": "<7k",
-      "name": "Machina of the Farthest"
+    "3008590": {
+      "rank": 1907,
+      "estimate": "15k+",
+      "name": "Relics of the Oracle"
     },
-    "2763360": {
-      "rank": 8471,
+    "3042790": {
+      "rank": 3747,
       "estimate": "<7k",
-      "name": "TTR 2025"
-    },
-    "3057420": {
-      "rank": 8703,
-      "estimate": "<7k",
-      "name": "Unsolved Case Soundtrack"
-    },
-    "3209160": {
-      "rank": 3449,
-      "estimate": "<7k",
-      "name": "Grandpa's Bee Haven"
+      "name": "Scirocco Thugs"
     },
     "3260240": {
-      "rank": 5061,
-      "estimate": "<7k",
+      "rank": 1770,
+      "estimate": "15k+",
       "name": "Drivers of the Apocalypse"
     },
     "3433800": {
-      "rank": 1672,
-      "estimate": "15k+",
+      "rank": 2113,
+      "estimate": "7k+",
       "name": "Moonbrella"
     },
-    "3442310": {
-      "rank": 2743,
-      "estimate": "7k+",
-      "name": "Trauma Record"
-    },
     "3445610": {
-      "rank": 5488,
-      "estimate": "<7k",
+      "rank": 1278,
+      "estimate": "25k+",
       "name": "BOMBSHELL BLITZ"
     },
-    "3585240": {
-      "rank": 5974,
-      "estimate": "<7k",
-      "name": "Tomodakill"
-    },
     "3601630": {
-      "rank": 4628,
+      "rank": 4582,
       "estimate": "<7k",
       "name": "Cosmo Tales"
     },
     "3676140": {
-      "rank": 1525,
-      "estimate": "15k+",
+      "rank": 4246,
+      "estimate": "<7k",
       "name": "Trawler's Wake"
     },
-    "3708630": {
-      "rank": 8796,
-      "estimate": "<7k",
-      "name": "Copperfell"
-    },
     "3742720": {
-      "rank": 5986,
+      "rank": 3007,
       "estimate": "<7k",
       "name": "Sobakistan: The Land of Dogs"
     },
     "3749130": {
-      "rank": 6357,
+      "rank": 4130,
       "estimate": "<7k",
       "name": "Tower Tactics 2"
     },
     "3981460": {
-      "rank": 3037,
-      "estimate": "<7k",
+      "rank": 2380,
+      "estimate": "7k+",
       "name": "Total Tank Simulator 2"
     },
     "3985330": {
-      "rank": 7907,
+      "rank": 3528,
       "estimate": "<7k",
       "name": "BURNED HORIZONS"
     },
-    "4005330": {
-      "rank": 6567,
-      "estimate": "<7k",
-      "name": "Spell Trigger"
-    },
-    "4016910": {
-      "rank": 5562,
-      "estimate": "<7k",
-      "name": "Over & Out!"
-    },
-    "4028090": {
-      "rank": 4629,
-      "estimate": "<7k",
-      "name": "President's Ambition - Project Beauty"
-    },
     "4061170": {
-      "rank": 262,
-      "estimate": "80k+",
+      "rank": 815,
+      "estimate": "40k+",
       "name": "SlashZero"
     },
-    "4108460": {
-      "rank": 1704,
-      "estimate": "15k+",
-      "name": "PatriotMemoirs"
-    },
-    "4156500": {
-      "rank": 1578,
-      "estimate": "15k+",
-      "name": "Rekindled: Cozy Tavern Life"
-    },
     "4163030": {
-      "rank": 1377,
-      "estimate": "25k+",
+      "rank": 3603,
+      "estimate": "<7k",
       "name": "Cat Chess"
     },
-    "4179600": {
-      "rank": 6561,
-      "estimate": "<7k",
-      "name": "DELVERS"
-    },
     "4227400": {
-      "rank": 459,
-      "estimate": "80k+",
+      "rank": 1036,
+      "estimate": "25k+",
       "name": "Sineus Arena Survivors"
     },
-    "4250370": {
-      "rank": 7768,
-      "estimate": "<7k",
-      "name": "Sol Protocol"
-    },
-    "4285970": {
-      "rank": 2966,
-      "estimate": "7k+",
-      "name": "图灵证言 Turing Testimony"
-    },
-    "4416020": {
-      "rank": 4486,
-      "estimate": "<7k",
-      "name": "Food Factory Coop: Build, Cook, Craft"
-    },
     "4517190": {
-      "rank": 3971,
-      "estimate": "<7k",
+      "rank": 2656,
+      "estimate": "7k+",
       "name": "DoDonPachi Resurrection Reignite"
-    },
-    "4553990": {
-      "rank": 3819,
-      "estimate": "<7k",
-      "name": "Fuman Ghoul"
-    },
-    "4567210": {
-      "rank": 3187,
-      "estimate": "<7k",
-      "name": "One Coin Museum"
-    },
-    "4631560": {
-      "rank": 5163,
-      "estimate": "<7k",
-      "name": "Ball Guys: Merge Party"
-    },
-    "4641570": {
-      "rank": 6098,
-      "estimate": "<7k",
-      "name": "蓝琥珀"
     }
   }
 }

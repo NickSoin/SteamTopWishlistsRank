@@ -1,193 +1,103 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 19,
   "entries": {
+    "1122170": {
+      "rank": 2654,
+      "estimate": "7k+",
+      "name": "Mech Hunter"
+    },
+    "1366200": {
+      "rank": 3540,
+      "estimate": "<7k",
+      "name": "Rog & Roll"
+    },
     "1460210": {
-      "rank": 1886,
-      "estimate": "15k+",
+      "rank": 587,
+      "estimate": "40k+",
       "name": "Compound Fracture"
     },
     "1779060": {
-      "rank": 8702,
-      "estimate": "<7k",
+      "rank": 1897,
+      "estimate": "15k+",
       "name": "The Age of Hell"
     },
     "1925650": {
-      "rank": 1196,
-      "estimate": "25k+",
+      "rank": 689,
+      "estimate": "40k+",
       "name": "Stars Reach"
     },
-    "1932250": {
-      "rank": 9841,
-      "estimate": "<7k",
-      "name": "FURRY TOWER DEFENSE"
-    },
-    "2143600": {
-      "rank": 2032,
-      "estimate": "7k+",
-      "name": "Axom: Conquest"
-    },
     "2370280": {
-      "rank": 5975,
-      "estimate": "<7k",
+      "rank": 938,
+      "estimate": "40k+",
       "name": "Nobody's Left"
     },
-    "2392420": {
-      "rank": 1676,
-      "estimate": "15k+",
-      "name": "Wisplight"
-    },
     "2431790": {
-      "rank": 7843,
-      "estimate": "<7k",
+      "rank": 1835,
+      "estimate": "15k+",
       "name": "Cyber Paradise"
     },
-    "2527570": {
-      "rank": 7721,
-      "estimate": "<7k",
-      "name": "Gunship Global Operations"
-    },
     "2584270": {
-      "rank": 110,
-      "estimate": "200k+",
+      "rank": 71,
+      "estimate": "300k+",
       "name": "Mortal Shell II"
     },
     "2603850": {
-      "rank": 3018,
-      "estimate": "<7k",
+      "rank": 2652,
+      "estimate": "7k+",
       "name": "Shadow mate ~小さな竜と適合者~"
     },
     "2640200": {
-      "rank": 3927,
-      "estimate": "<7k",
+      "rank": 1720,
+      "estimate": "15k+",
       "name": "Project D████"
     },
-    "2693950": {
-      "rank": 5743,
-      "estimate": "<7k",
-      "name": "Rifted Worlds"
-    },
     "2886060": {
-      "rank": 5348,
+      "rank": 3114,
       "estimate": "<7k",
       "name": "The Backrooms Company"
     },
-    "3155840": {
-      "rank": 1854,
-      "estimate": "15k+",
-      "name": "Grim Hope"
-    },
     "3397040": {
-      "rank": 1557,
-      "estimate": "15k+",
+      "rank": 647,
+      "estimate": "40k+",
       "name": "Bellatores"
     },
     "3441510": {
-      "rank": 3623,
-      "estimate": "<7k",
+      "rank": 2930,
+      "estimate": "7k+",
       "name": "Egypt"
     },
-    "3550670": {
-      "rank": 7356,
-      "estimate": "<7k",
-      "name": "拂晓之诗Dawn's Poem"
-    },
     "3568570": {
-      "rank": 6609,
+      "rank": 4150,
       "estimate": "<7k",
       "name": "Anode Heart 2"
     },
     "3609530": {
-      "rank": 6312,
+      "rank": 4303,
       "estimate": "<7k",
       "name": "Ego League"
     },
-    "3630170": {
-      "rank": 7710,
+    "3645170": {
+      "rank": 4323,
       "estimate": "<7k",
-      "name": "SCP: Echoes"
-    },
-    "3650150": {
-      "rank": 1577,
-      "estimate": "15k+",
-      "name": "Teeko"
-    },
-    "3685040": {
-      "rank": 4832,
-      "estimate": "<7k",
-      "name": "Type & Magic"
-    },
-    "3837160": {
-      "rank": 5097,
-      "estimate": "<7k",
-      "name": "Strawberry Flavor Sci-Fi"
+      "name": "Blood Sword"
     },
     "3907380": {
-      "rank": 3435,
+      "rank": 3518,
       "estimate": "<7k",
       "name": "The Prince of Tennis Doki Doki Survival ~eternal passion! Tie break ♡ game~"
     },
-    "3913420": {
-      "rank": 4030,
-      "estimate": "<7k",
-      "name": "Stabjack"
-    },
-    "3939020": {
-      "rank": 2835,
-      "estimate": "7k+",
-      "name": "囚笼之诗"
-    },
     "3971950": {
-      "rank": 1421,
-      "estimate": "25k+",
+      "rank": 763,
+      "estimate": "40k+",
       "name": "In Falsus"
     },
-    "4008240": {
-      "rank": 2404,
-      "estimate": "7k+",
-      "name": "FEAR OF SLEEP"
-    },
-    "4047670": {
-      "rank": 3741,
-      "estimate": "<7k",
-      "name": "Chonky Cat"
-    },
-    "4310240": {
-      "rank": 8867,
-      "estimate": "<7k",
-      "name": "Hastilude Clash"
-    },
     "4353630": {
-      "rank": 688,
-      "estimate": "40k+",
-      "name": "Summer Sisters"
-    },
-    "4559090": {
-      "rank": 7140,
-      "estimate": "<7k",
-      "name": "Dispell"
-    },
-    "4590400": {
-      "rank": 4745,
-      "estimate": "<7k",
-      "name": "Raccoon Packer: A Cozy Puzzle Game"
-    },
-    "4619240": {
-      "rank": 4715,
-      "estimate": "<7k",
-      "name": "Gambiarra Garage"
-    },
-    "4624510": {
-      "rank": 2414,
+      "rank": 2850,
       "estimate": "7k+",
-      "name": "RoofTown"
-    },
-    "4742180": {
-      "rank": 4063,
-      "estimate": "<7k",
-      "name": "開かないランドリー"
+      "name": "Summer Sisters"
     }
   }
 }

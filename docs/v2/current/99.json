@@ -1,163 +1,78 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 14,
   "entries": {
     "311810": {
-      "rank": 1232,
-      "estimate": "25k+",
+      "rank": 221,
+      "estimate": "80k+",
       "name": "Operation: Black Mesa"
     },
     "1478260": {
-      "rank": 6116,
+      "rank": 3813,
       "estimate": "<7k",
       "name": "City of Rampage"
     },
     "1556850": {
-      "rank": 9568,
+      "rank": 4184,
       "estimate": "<7k",
       "name": "The Lunar Effect"
     },
     "1773220": {
-      "rank": 4968,
-      "estimate": "<7k",
+      "rank": 1610,
+      "estimate": "15k+",
       "name": "Train Mechanic Simulator 2025"
     },
-    "1841660": {
-      "rank": 3242,
-      "estimate": "<7k",
-      "name": "nanos world™"
-    },
     "1940080": {
-      "rank": 786,
-      "estimate": "40k+",
+      "rank": 27,
+      "estimate": "600k+",
       "name": "Rooted"
     },
-    "2719670": {
-      "rank": 5635,
+    "2622460": {
+      "rank": 3550,
       "estimate": "<7k",
-      "name": "The Milgram Experiment"
-    },
-    "3128000": {
-      "rank": 9118,
-      "estimate": "<7k",
-      "name": "Fishing Hero"
+      "name": "The Skyland Chronicles"
     },
     "3146440": {
-      "rank": 2895,
+      "rank": 2053,
       "estimate": "7k+",
       "name": "SPORTAL"
     },
     "3235670": {
-      "rank": 2590,
+      "rank": 2523,
       "estimate": "7k+",
       "name": "April 8th"
     },
     "3302370": {
-      "rank": 1257,
-      "estimate": "25k+",
+      "rank": 4108,
+      "estimate": "<7k",
       "name": "Crux Diaries RPG"
     },
     "3346460": {
-      "rank": 449,
-      "estimate": "80k+",
+      "rank": 4584,
+      "estimate": "<7k",
       "name": "Pottering"
     },
-    "3500590": {
-      "rank": 5697,
-      "estimate": "<7k",
-      "name": "Cicada Communication"
-    },
-    "3651250": {
-      "rank": 9192,
-      "estimate": "<7k",
-      "name": "Innocence Rewrite"
-    },
-    "3655100": {
-      "rank": 5408,
-      "estimate": "<7k",
-      "name": "Worker: 7549"
-    },
-    "3687370": {
-      "rank": 7325,
-      "estimate": "<7k",
-      "name": "The Borderless"
-    },
-    "3727380": {
-      "rank": 2257,
-      "estimate": "7k+",
-      "name": "Oniria"
-    },
-    "3780790": {
-      "rank": 5103,
-      "estimate": "<7k",
-      "name": "BattleshipCrafting"
-    },
-    "3792380": {
-      "rank": 6462,
-      "estimate": "<7k",
-      "name": "Shovel Lands"
-    },
     "3794210": {
-      "rank": 1286,
-      "estimate": "25k+",
+      "rank": 1943,
+      "estimate": "15k+",
       "name": "Thousand Hells: The Underworld Heists"
     },
-    "3965270": {
-      "rank": 5187,
-      "estimate": "<7k",
-      "name": "Project Jazzgame"
-    },
-    "3979370": {
-      "rank": 3026,
-      "estimate": "<7k",
-      "name": "Shit-Stealing Gnomes"
-    },
     "4175180": {
-      "rank": 578,
+      "rank": 529,
       "estimate": "40k+",
       "name": "DREADNOUGHT TARTARUS"
     },
     "4212050": {
-      "rank": 945,
-      "estimate": "40k+",
+      "rank": 338,
+      "estimate": "80k+",
       "name": "Supreme Experiment"
     },
-    "4214610": {
-      "rank": 6104,
-      "estimate": "<7k",
-      "name": "100FRIENDS"
-    },
     "4249850": {
-      "rank": 3171,
+      "rank": 3012,
       "estimate": "<7k",
       "name": "E-Shop Tycoon"
-    },
-    "4409320": {
-      "rank": 7360,
-      "estimate": "<7k",
-      "name": "Money Under the Bed"
-    },
-    "4516150": {
-      "rank": 7407,
-      "estimate": "<7k",
-      "name": "100 Swamp Cats"
-    },
-    "4680930": {
-      "rank": 4346,
-      "estimate": "<7k",
-      "name": "Garbage Growth"
-    },
-    "4750370": {
-      "rank": 7050,
-      "estimate": "<7k",
-      "name": "Crimson Grace"
-    },
-    "4772190": {
-      "rank": 7127,
-      "estimate": "<7k",
-      "name": "Master of the Ages: Foundations of History"
     }
   }
 }

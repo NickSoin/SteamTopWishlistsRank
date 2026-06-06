@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 28,
   "entries": {
     "541310": {
       "rank": 21,
@@ -202,6 +202,13 @@
       "name": "Jotunnslayer: Hordes of Hel",
       "releaseDate": "2025-09-03",
       "source": "historical"
+    },
+    "4610100": {
+      "rank": 742,
+      "estimate": "40k+",
+      "name": "Sinner Maker",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     }
   }
 }

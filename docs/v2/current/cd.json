@@ -1,223 +1,93 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 43,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 17,
   "entries": {
-    "651310": {
-      "rank": 9033,
-      "estimate": "<7k",
-      "name": "Hentami: Vendetta"
-    },
-    "828190": {
-      "rank": 5738,
-      "estimate": "<7k",
-      "name": "M.E.C.H.A.: Memory Erasure Control of Hover Attractor"
-    },
     "1113400": {
-      "rank": 6932,
-      "estimate": "<7k",
+      "rank": 502,
+      "estimate": "40k+",
       "name": "Alliance of the Sacred Suns"
     },
     "1231210": {
-      "rank": 3406,
-      "estimate": "<7k",
+      "rank": 2665,
+      "estimate": "7k+",
       "name": "Midair 2"
     },
+    "1353150": {
+      "rank": 2827,
+      "estimate": "7k+",
+      "name": "The Path of Calydra"
+    },
     "1547540": {
-      "rank": 1597,
-      "estimate": "15k+",
+      "rank": 475,
+      "estimate": "80k+",
       "name": "They Are Here: Alien Abduction Horror"
     },
-    "1707380": {
-      "rank": 7286,
-      "estimate": "<7k",
-      "name": "Afterlife Pharmaceuticals"
-    },
-    "2099330": {
-      "rank": 5571,
-      "estimate": "<7k",
-      "name": "妖睨之境The Sight of Darkness"
+    "1630460": {
+      "rank": 2818,
+      "estimate": "7k+",
+      "name": "iii: Revolving Wonderland"
     },
     "2163660": {
-      "rank": 8424,
-      "estimate": "<7k",
+      "rank": 2670,
+      "estimate": "7k+",
       "name": "Loading..."
     },
+    "2228000": {
+      "rank": 4096,
+      "estimate": "<7k",
+      "name": "Hazuki Dies: She Has No Name"
+    },
     "2410360": {
-      "rank": 1632,
-      "estimate": "15k+",
+      "rank": 2200,
+      "estimate": "7k+",
       "name": "Mirth Island"
     },
     "2712460": {
-      "rank": 1437,
-      "estimate": "25k+",
+      "rank": 2651,
+      "estimate": "7k+",
       "name": "DUNGEON SLASHER"
     },
-    "2879710": {
-      "rank": 7413,
-      "estimate": "<7k",
-      "name": "Sleep Terror"
-    },
-    "3017100": {
-      "rank": 2182,
-      "estimate": "7k+",
-      "name": "LavaLoop"
-    },
     "3256040": {
-      "rank": 2096,
-      "estimate": "7k+",
+      "rank": 1301,
+      "estimate": "25k+",
       "name": "Shardbreakers"
     },
-    "3301520": {
-      "rank": 7527,
-      "estimate": "<7k",
-      "name": "Cozy Cooking: Lo-fi Beats"
-    },
-    "3449060": {
-      "rank": 6947,
-      "estimate": "<7k",
-      "name": "Starbright Agency"
-    },
-    "3545250": {
-      "rank": 8774,
-      "estimate": "<7k",
-      "name": "Imperial Bureaucracy Hero"
-    },
-    "3570470": {
-      "rank": 4602,
-      "estimate": "<7k",
-      "name": "Dark Farts: Parody Smell Edition"
-    },
     "3899920": {
-      "rank": 3508,
+      "rank": 3587,
       "estimate": "<7k",
       "name": "Recycling Shift"
     },
     "3929700": {
-      "rank": 1308,
-      "estimate": "25k+",
+      "rank": 4738,
+      "estimate": "<7k",
       "name": "Pixel Formation"
     },
-    "3943450": {
-      "rank": 5984,
-      "estimate": "<7k",
-      "name": "Island Keeper"
-    },
-    "3948910": {
-      "rank": 8983,
-      "estimate": "<7k",
-      "name": "Sloop"
-    },
-    "3963500": {
-      "rank": 1404,
-      "estimate": "25k+",
-      "name": "Bedrotting Simulator"
-    },
     "4024440": {
-      "rank": 2551,
-      "estimate": "7k+",
+      "rank": 950,
+      "estimate": "40k+",
       "name": "Haunted Heist"
     },
     "4061090": {
-      "rank": 1808,
-      "estimate": "15k+",
+      "rank": 731,
+      "estimate": "40k+",
       "name": "Rift Fishing"
     },
     "4113940": {
-      "rank": 434,
-      "estimate": "80k+",
+      "rank": 675,
+      "estimate": "40k+",
       "name": "Sovereign Tower"
     },
     "4167200": {
-      "rank": 402,
-      "estimate": "80k+",
+      "rank": 1472,
+      "estimate": "25k+",
       "name": "UN:Me"
     },
-    "4244350": {
-      "rank": 6968,
-      "estimate": "<7k",
-      "name": "Lydia Was Here"
-    },
-    "4313160": {
-      "rank": 3385,
-      "estimate": "<7k",
-      "name": "Castle of the Winds"
-    },
-    "4330040": {
-      "rank": 9831,
-      "estimate": "<7k",
-      "name": "Waterfowl"
-    },
-    "4375230": {
-      "rank": 1540,
-      "estimate": "15k+",
-      "name": "Sangokushi BOND"
-    },
-    "4398680": {
-      "rank": 2011,
-      "estimate": "7k+",
-      "name": "Moon Reader"
-    },
-    "4428170": {
-      "rank": 8507,
-      "estimate": "<7k",
-      "name": "Sefton Asylum"
-    },
-    "4443160": {
-      "rank": 6997,
-      "estimate": "<7k",
-      "name": "Lux Anima"
-    },
-    "4463900": {
-      "rank": 9076,
-      "estimate": "<7k",
-      "name": "Casse-Croute Deckbuilder"
-    },
-    "4483120": {
-      "rank": 3518,
-      "estimate": "<7k",
-      "name": "Tales Beyond The Tomb - No Witnesses"
-    },
-    "4508140": {
-      "rank": 4882,
-      "estimate": "<7k",
-      "name": "Celestial Reverie"
-    },
-    "4539870": {
-      "rank": 6675,
-      "estimate": "<7k",
-      "name": "Khaldun: Text Based Strategy"
-    },
     "4547970": {
-      "rank": 768,
-      "estimate": "40k+",
-      "name": "Pih 2"
-    },
-    "4577340": {
-      "rank": 2108,
+      "rank": 2328,
       "estimate": "7k+",
-      "name": "Haunted Cleaner"
-    },
-    "4646190": {
-      "rank": 6673,
-      "estimate": "<7k",
-      "name": "Just Dying"
-    },
-    "4671710": {
-      "rank": 8223,
-      "estimate": "<7k",
-      "name": "Valkyrie Girl"
-    },
-    "4682460": {
-      "rank": 4261,
-      "estimate": "<7k",
-      "name": "G-MODEアーカイブス+ パックマン"
-    },
-    "4699060": {
-      "rank": 7715,
-      "estimate": "<7k",
-      "name": "Air War General - WW2 Air Force Wargame"
+      "name": "Pih 2"
     }
   }
 }

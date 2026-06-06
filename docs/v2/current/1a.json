@@ -1,228 +1,128 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 44,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 24,
   "entries": {
     "812910": {
-      "rank": 9747,
-      "estimate": "<7k",
+      "rank": 1595,
+      "estimate": "15k+",
       "name": "Zodiac Legion"
     },
     "1610360": {
-      "rank": 5755,
-      "estimate": "<7k",
+      "rank": 2019,
+      "estimate": "7k+",
       "name": "UKIYO"
     },
+    "1645560": {
+      "rank": 3382,
+      "estimate": "<7k",
+      "name": "Coffee Bar Renovator"
+    },
     "2022610": {
-      "rank": 1993,
-      "estimate": "15k+",
+      "rank": 1164,
+      "estimate": "25k+",
       "name": "CRETE"
     },
     "2054000": {
-      "rank": 5087,
-      "estimate": "<7k",
+      "rank": 2619,
+      "estimate": "7k+",
       "name": "Presentable Liberty Remake"
     },
-    "2614150": {
-      "rank": 8730,
+    "2250330": {
+      "rank": 3888,
       "estimate": "<7k",
-      "name": "Privateer"
+      "name": "Play Rough"
     },
     "2684630": {
-      "rank": 2202,
-      "estimate": "7k+",
+      "rank": 712,
+      "estimate": "40k+",
       "name": "Endacopia"
     },
     "2746680": {
-      "rank": 5123,
+      "rank": 3466,
       "estimate": "<7k",
       "name": "DARKWATCH"
     },
     "2850840": {
-      "rank": 9557,
-      "estimate": "<7k",
+      "rank": 2476,
+      "estimate": "7k+",
       "name": "Tokyo Mafia Simulator"
     },
     "2882410": {
-      "rank": 5105,
-      "estimate": "<7k",
+      "rank": 2626,
+      "estimate": "7k+",
       "name": "Vanlife Camping Simulator"
     },
-    "2982660": {
-      "rank": 5835,
-      "estimate": "<7k",
-      "name": "Rakeo"
-    },
     "3014650": {
-      "rank": 588,
-      "estimate": "40k+",
+      "rank": 301,
+      "estimate": "80k+",
       "name": ".45 PARABELLUM BLOODHOUND - Cyberpunk Active Time Action"
     },
-    "3015910": {
-      "rank": 2033,
-      "estimate": "7k+",
-      "name": "iScoot: Scooter Sim"
+    "3143510": {
+      "rank": 3122,
+      "estimate": "<7k",
+      "name": "Pixel Frenzy"
     },
     "3223070": {
-      "rank": 406,
+      "rank": 451,
       "estimate": "80k+",
       "name": "Thief Simulator 3"
     },
     "3358170": {
-      "rank": 1502,
-      "estimate": "15k+",
+      "rank": 2555,
+      "estimate": "7k+",
       "name": "Dodo Duckie"
     },
     "3447070": {
-      "rank": 2170,
+      "rank": 2020,
       "estimate": "7k+",
       "name": "Emergency Call - The Firefighting Simulation 3"
     },
     "3450100": {
-      "rank": 5053,
-      "estimate": "<7k",
+      "rank": 2893,
+      "estimate": "7k+",
       "name": "Gretel's Honesty"
     },
     "3548810": {
-      "rank": 1241,
-      "estimate": "25k+",
+      "rank": 2635,
+      "estimate": "7k+",
       "name": "Ritual Tides"
     },
-    "3736530": {
-      "rank": 1004,
-      "estimate": "25k+",
-      "name": "Stigmatum"
-    },
     "3883290": {
-      "rank": 3554,
+      "rank": 3667,
       "estimate": "<7k",
       "name": "LABYRINTHOS: The Depths Want You"
     },
     "3910330": {
-      "rank": 796,
-      "estimate": "40k+",
+      "rank": 2666,
+      "estimate": "7k+",
       "name": "Mayak"
     },
-    "3976200": {
-      "rank": 3553,
-      "estimate": "<7k",
-      "name": "Punch Lunch: Foodtruck Fighter"
-    },
     "4029770": {
-      "rank": 543,
-      "estimate": "40k+",
+      "rank": 4199,
+      "estimate": "<7k",
       "name": "THERMOCLINE"
     },
-    "4071810": {
-      "rank": 4185,
-      "estimate": "<7k",
-      "name": "F1 Simulator"
-    },
-    "4074040": {
-      "rank": 8003,
-      "estimate": "<7k",
-      "name": "Vivian Wade: Danger Down The Aisle"
-    },
     "4195110": {
-      "rank": 1175,
-      "estimate": "25k+",
+      "rank": 1620,
+      "estimate": "15k+",
       "name": "Ultrapool"
     },
-    "4223460": {
-      "rank": 3401,
-      "estimate": "<7k",
-      "name": "Taj Mod"
-    },
-    "4232530": {
-      "rank": 8893,
-      "estimate": "<7k",
-      "name": "Bajan Ball Z"
-    },
-    "4259450": {
-      "rank": 7842,
-      "estimate": "<7k",
-      "name": "Showrunners"
-    },
     "4295090": {
-      "rank": 3914,
+      "rank": 3367,
       "estimate": "<7k",
       "name": "Horses of Gavarnie"
     },
     "4331110": {
-      "rank": 4939,
-      "estimate": "<7k",
+      "rank": 2653,
+      "estimate": "7k+",
       "name": "O EMPIRE! WARD OFF THY ROT"
     },
     "4339680": {
-      "rank": 388,
-      "estimate": "80k+",
-      "name": "Totally Safe Moon Project"
-    },
-    "4489930": {
-      "rank": 9718,
-      "estimate": "<7k",
-      "name": "Memory Brew: Tales of Underworld"
-    },
-    "4490200": {
-      "rank": 2418,
-      "estimate": "7k+",
-      "name": "Love n Life: Happy Student - Secret Edicts"
-    },
-    "4571310": {
-      "rank": 2317,
-      "estimate": "7k+",
-      "name": "Spooker"
-    },
-    "4579480": {
-      "rank": 7120,
-      "estimate": "<7k",
-      "name": "TAMBOURINE"
-    },
-    "4587210": {
-      "rank": 7208,
-      "estimate": "<7k",
-      "name": "Mayor Quake"
-    },
-    "4605240": {
-      "rank": 6117,
-      "estimate": "<7k",
-      "name": "Make my Sandwich"
-    },
-    "4625800": {
-      "rank": 1761,
+      "rank": 1746,
       "estimate": "15k+",
-      "name": "Black Plague: Survival"
-    },
-    "4645200": {
-      "rank": 3576,
-      "estimate": "<7k",
-      "name": "Rogue Realm: Guardian Grids"
-    },
-    "4669350": {
-      "rank": 8670,
-      "estimate": "<7k",
-      "name": "WinHack 95"
-    },
-    "4725520": {
-      "rank": 6034,
-      "estimate": "<7k",
-      "name": "Atlantis Fantasy: Reborn"
-    },
-    "4735600": {
-      "rank": 8899,
-      "estimate": "<7k",
-      "name": "Chess Peace"
-    },
-    "4740600": {
-      "rank": 8429,
-      "estimate": "<7k",
-      "name": "Ouch! Cargo!"
-    },
-    "4771190": {
-      "rank": 7956,
-      "estimate": "<7k",
-      "name": "Storage 8 VR"
+      "name": "Totally Safe Moon Project"
     }
   }
 }

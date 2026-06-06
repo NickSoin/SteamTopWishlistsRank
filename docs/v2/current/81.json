@@ -1,155 +1,65 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 11,
   "entries": {
-    "1185380": {
-      "rank": 9059,
+    "989350": {
+      "rank": 4173,
       "estimate": "<7k",
+      "name": "Running Rogue"
+    },
+    "1043110": {
+      "rank": 2470,
+      "estimate": "7k+",
+      "name": "Kaiju Fishing"
+    },
+    "1185380": {
+      "rank": 2469,
+      "estimate": "7k+",
       "name": "The Season of the Warlock"
     },
-    "1510210": {
-      "rank": 7700,
-      "estimate": "<7k",
-      "name": "Prizefighters 2"
-    },
-    "1643840": {
-      "rank": 6709,
-      "estimate": "<7k",
-      "name": "Antediluvial : Yalroc Island"
+    "1647220": {
+      "rank": 1585,
+      "estimate": "15k+",
+      "name": "Once,in Times of Chaos"
     },
     "2362070": {
-      "rank": 1480,
+      "rank": 1219,
       "estimate": "25k+",
       "name": "Hollow Home",
       "actualWishlists": 30000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800991756305442"
     },
     "2390660": {
-      "rank": 8979,
+      "rank": 4080,
       "estimate": "<7k",
       "name": "Collapsed Galaxy 2"
     },
-    "2482110": {
-      "rank": 7744,
-      "estimate": "<7k",
-      "name": "Rogue Mech"
-    },
-    "2544740": {
-      "rank": 2368,
-      "estimate": "7k+",
-      "name": "THANKS, LIGHT."
-    },
     "2979810": {
-      "rank": 286,
-      "estimate": "80k+",
+      "rank": 645,
+      "estimate": "40k+",
       "name": "POLYARIS"
     },
-    "2988490": {
-      "rank": 1207,
-      "estimate": "25k+",
-      "name": "神殺しの蒼銀"
-    },
-    "3003880": {
-      "rank": 7543,
-      "estimate": "<7k",
-      "name": "Obi3011"
-    },
-    "3392160": {
-      "rank": 6370,
-      "estimate": "<7k",
-      "name": "Coffee Simulator"
-    },
-    "3595390": {
-      "rank": 7105,
-      "estimate": "<7k",
-      "name": "Rixa"
-    },
-    "3636460": {
-      "rank": 6724,
-      "estimate": "<7k",
-      "name": "Miss Sasami is Losing Her Mind!"
-    },
     "3653890": {
-      "rank": 3732,
+      "rank": 3875,
       "estimate": "<7k",
       "name": "SPRKLS.exe"
     },
-    "3761610": {
-      "rank": 6743,
-      "estimate": "<7k",
-      "name": "Coin & Cauldron"
-    },
     "3839180": {
-      "rank": 1309,
-      "estimate": "25k+",
+      "rank": 829,
+      "estimate": "40k+",
       "name": "POSTAL 2 Redux"
     },
-    "3870910": {
-      "rank": 9015,
-      "estimate": "<7k",
-      "name": "NobleFront"
-    },
-    "4118350": {
-      "rank": 7381,
-      "estimate": "<7k",
-      "name": "100 Ramen Cats"
-    },
-    "4154840": {
-      "rank": 9224,
-      "estimate": "<7k",
-      "name": "Money Laundering Raccoon"
-    },
     "4223300": {
-      "rank": 695,
+      "rank": 693,
       "estimate": "40k+",
       "name": "Birds of War"
     },
-    "4242150": {
-      "rank": 5952,
-      "estimate": "<7k",
-      "name": "Fish Market"
-    },
-    "4287650": {
-      "rank": 2344,
-      "estimate": "7k+",
-      "name": "Boing Boing Animals"
-    },
-    "4399360": {
-      "rank": 1601,
-      "estimate": "15k+",
-      "name": "时光餐厅"
-    },
-    "4501150": {
-      "rank": 3206,
-      "estimate": "<7k",
-      "name": "Backtrace: Mechanisms for Forgetting"
-    },
-    "4514930": {
-      "rank": 9738,
-      "estimate": "<7k",
-      "name": "The Undercut: Racing Manager"
-    },
-    "4588290": {
-      "rank": 5638,
-      "estimate": "<7k",
-      "name": "Rabbit Circle"
-    },
     "4664240": {
-      "rank": 29,
-      "estimate": "600k+",
+      "rank": 880,
+      "estimate": "40k+",
       "name": "Hard Worker"
-    },
-    "4724180": {
-      "rank": 8255,
-      "estimate": "<7k",
-      "name": "Reel Greed"
-    },
-    "4770970": {
-      "rank": 3584,
-      "estimate": "<7k",
-      "name": "Dark Side Void"
     }
   }
 }

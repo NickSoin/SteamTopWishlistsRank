@@ -1,227 +1,117 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 44,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 22,
   "entries": {
-    "968530": {
-      "rank": 1990,
+    "1141060": {
+      "rank": 4133,
+      "estimate": "<7k",
+      "name": "Spirit of Midnight"
+    },
+    "1207690": {
+      "rank": 1503,
       "estimate": "15k+",
-      "name": "Decks of Dexterity"
+      "name": "My Work Is Not Yet Done"
     },
     "1287610": {
-      "rank": 1183,
+      "rank": 1070,
       "estimate": "25k+",
       "name": "Nirvana Noir"
     },
+    "1501510": {
+      "rank": 3752,
+      "estimate": "<7k",
+      "name": "Parallel Olympus"
+    },
     "1701840": {
-      "rank": 1180,
-      "estimate": "25k+",
+      "rank": 141,
+      "estimate": "200k+",
       "name": "ExeKiller"
     },
     "1732910": {
-      "rank": 4366,
-      "estimate": "<7k",
+      "rank": 917,
+      "estimate": "40k+",
       "name": "Photography Simulator"
     },
-    "2182440": {
-      "rank": 9943,
-      "estimate": "<7k",
-      "name": "Twin Soul"
-    },
     "2362260": {
-      "rank": 2362,
-      "estimate": "7k+",
+      "rank": 427,
+      "estimate": "80k+",
       "name": "Decadent"
     },
     "2515620": {
-      "rank": 6966,
+      "rank": 3461,
       "estimate": "<7k",
       "name": "The Perfect Tower"
     },
     "2530870": {
-      "rank": 3269,
-      "estimate": "<7k",
+      "rank": 679,
+      "estimate": "40k+",
       "name": "GARBAGE COUNTRY"
     },
-    "2893100": {
-      "rank": 6605,
-      "estimate": "<7k",
-      "name": "City Game Studio: Supporter pack"
+    "2551970": {
+      "rank": 2302,
+      "estimate": "7k+",
+      "name": "Outcast Tales"
     },
-    "2999000": {
-      "rank": 3738,
+    "3257590": {
+      "rank": 4644,
       "estimate": "<7k",
-      "name": "后室迷失之境Backrooms：The Lost"
-    },
-    "3133320": {
-      "rank": 6882,
-      "estimate": "<7k",
-      "name": "Eternal Skies TCG"
-    },
-    "3267760": {
-      "rank": 4138,
-      "estimate": "<7k",
-      "name": "One More Mix"
+      "name": "猫咪漂移 Cat Drift"
     },
     "3306920": {
-      "rank": 1199,
+      "rank": 1467,
       "estimate": "25k+",
       "name": "Cosmic Fear"
     },
-    "3510990": {
-      "rank": 7937,
+    "3337120": {
+      "rank": 3889,
       "estimate": "<7k",
-      "name": "Dead Rails"
+      "name": "Wandaria"
+    },
+    "3524720": {
+      "rank": 1719,
+      "estimate": "15k+",
+      "name": "HAEX"
     },
     "3672160": {
-      "rank": 1059,
-      "estimate": "25k+",
+      "rank": 3484,
+      "estimate": "<7k",
       "name": "The Perilous North"
     },
     "3705150": {
-      "rank": 1941,
-      "estimate": "15k+",
+      "rank": 4221,
+      "estimate": "<7k",
       "name": "Into The Depths"
     },
     "3918200": {
-      "rank": 759,
+      "rank": 698,
       "estimate": "40k+",
       "name": "港警成雙：來自城寨 Dual Fire Walled City"
     },
-    "3973720": {
-      "rank": 7523,
-      "estimate": "<7k",
-      "name": "Night Lurker"
-    },
     "4038080": {
-      "rank": 6090,
+      "rank": 4566,
       "estimate": "<7k",
       "name": "Entity Research Group"
     },
-    "4077210": {
-      "rank": 5856,
-      "estimate": "<7k",
-      "name": "My Wet Leto Comic : Fan Anthem of Deduction"
-    },
-    "4094820": {
-      "rank": 8373,
-      "estimate": "<7k",
-      "name": "Space Evolver"
-    },
-    "4115510": {
-      "rank": 5630,
-      "estimate": "<7k",
-      "name": "Meowzic Survivor"
-    },
-    "4158610": {
-      "rank": 2557,
-      "estimate": "7k+",
-      "name": "TFC2: Collapse of The Bronze Age"
-    },
-    "4182640": {
-      "rank": 4120,
-      "estimate": "<7k",
-      "name": "Babu Me Baby!"
-    },
-    "4188570": {
-      "rank": 5023,
-      "estimate": "<7k",
-      "name": "Biovoid"
-    },
     "4230950": {
-      "rank": 709,
+      "rank": 586,
       "estimate": "40k+",
       "name": "Street-Spec: 日本"
     },
-    "4246300": {
-      "rank": 9999,
-      "estimate": "<7k",
-      "name": "Chainsaw"
-    },
-    "4274730": {
-      "rank": 8873,
-      "estimate": "<7k",
-      "name": "Roguefort"
-    },
-    "4276390": {
-      "rank": 5618,
-      "estimate": "<7k",
-      "name": "Kaiju Inc."
-    },
-    "4287080": {
-      "rank": 6002,
-      "estimate": "<7k",
-      "name": "Crabgrass"
-    },
-    "4358780": {
-      "rank": 6878,
-      "estimate": "<7k",
-      "name": "HuntCore"
-    },
     "4373620": {
-      "rank": 1697,
-      "estimate": "15k+",
+      "rank": 907,
+      "estimate": "40k+",
       "name": "Fresco"
     },
     "4412000": {
-      "rank": 2318,
+      "rank": 2327,
       "estimate": "7k+",
       "name": "Zad Archery"
     },
-    "4466090": {
-      "rank": 2552,
-      "estimate": "7k+",
-      "name": "The Forbidden Tomes of Olipos"
-    },
-    "4504840": {
-      "rank": 5355,
-      "estimate": "<7k",
-      "name": "Secret Files: Tunguska - Remastered"
-    },
-    "4506950": {
-      "rank": 3427,
-      "estimate": "<7k",
-      "name": "Lucky Duckies"
-    },
-    "4509810": {
-      "rank": 3271,
-      "estimate": "<7k",
-      "name": "Onii-chan Continue! -Secret Love With Yuri-"
-    },
-    "4513750": {
-      "rank": 4793,
-      "estimate": "<7k",
-      "name": "The Void"
-    },
-    "4522480": {
-      "rank": 2627,
-      "estimate": "7k+",
-      "name": "Slime Slayer: Endless Loot"
-    },
-    "4533370": {
-      "rank": 6852,
-      "estimate": "<7k",
-      "name": "DiDiDiG"
-    },
-    "4566130": {
-      "rank": 3618,
-      "estimate": "<7k",
-      "name": "Gold ’n Goal"
-    },
-    "4662250": {
-      "rank": 8384,
-      "estimate": "<7k",
-      "name": "Resurgis: Rise of the Dead"
-    },
-    "4754920": {
-      "rank": 5248,
-      "estimate": "<7k",
-      "name": "TOHOTOPIA - faction expansion pack 1"
-    },
     "4762680": {
-      "rank": 422,
-      "estimate": "80k+",
+      "rank": 4470,
+      "estimate": "<7k",
       "name": "The Undergrowth"
     }
   }

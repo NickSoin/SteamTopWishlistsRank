@@ -1,143 +1,73 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 13,
   "entries": {
-    "450240": {
-      "rank": 8214,
-      "estimate": "<7k",
-      "name": "Bullet Force"
-    },
-    "663330": {
-      "rank": 7999,
-      "estimate": "<7k",
-      "name": "Janusz - A 90's adventure game"
-    },
     "1376880": {
-      "rank": 4419,
-      "estimate": "<7k",
+      "rank": 942,
+      "estimate": "40k+",
       "name": "Ultimate Hunting®"
     },
-    "1986290": {
-      "rank": 5366,
+    "1386300": {
+      "rank": 4202,
       "estimate": "<7k",
-      "name": "Countryballs: The Heist"
+      "name": "Animal Trainer"
+    },
+    "2059070": {
+      "rank": 3370,
+      "estimate": "<7k",
+      "name": "Isotopia"
     },
     "2085080": {
-      "rank": 2136,
-      "estimate": "7k+",
+      "rank": 783,
+      "estimate": "40k+",
       "name": "Princess Hunter"
     },
     "2175840": {
-      "rank": 2783,
-      "estimate": "7k+",
+      "rank": 364,
+      "estimate": "80k+",
       "name": "Sunkissed City"
     },
-    "2482980": {
-      "rank": 9779,
-      "estimate": "<7k",
-      "name": "Just in Crime"
-    },
-    "2531000": {
-      "rank": 9083,
-      "estimate": "<7k",
-      "name": "Five Night at Scapegoat"
-    },
     "2836460": {
-      "rank": 1841,
-      "estimate": "15k+",
+      "rank": 2265,
+      "estimate": "7k+",
       "name": "Cozy Marbles"
     },
     "2856440": {
-      "rank": 7007,
+      "rank": 3161,
       "estimate": "<7k",
       "name": "The Temple of Children"
     },
     "2872240": {
-      "rank": 654,
+      "rank": 623,
       "estimate": "40k+",
       "name": "Lost in the Roots"
     },
-    "3345570": {
-      "rank": 7938,
+    "2895500": {
+      "rank": 3507,
       "estimate": "<7k",
-      "name": "MAD TOYS"
+      "name": "ANOTHEREAL"
     },
     "3392040": {
-      "rank": 986,
-      "estimate": "40k+",
+      "rank": 402,
+      "estimate": "80k+",
       "name": "OMEGA PHENEX COMMENCED PROJECT SIX"
     },
-    "3507880": {
-      "rank": 5916,
-      "estimate": "<7k",
-      "name": "My Fav Chill Streamer Dies a Million Times｜ゆるゆる生配信する推しは100万回死ぬ"
-    },
-    "3514000": {
-      "rank": 9886,
-      "estimate": "<7k",
-      "name": "Crazy Life"
-    },
     "3514750": {
-      "rank": 3510,
-      "estimate": "<7k",
+      "rank": 1896,
+      "estimate": "15k+",
       "name": "Fantasy Burger"
     },
     "3564340": {
-      "rank": 1052,
-      "estimate": "25k+",
+      "rank": 2738,
+      "estimate": "7k+",
       "name": "Hold Your King"
     },
-    "3869670": {
-      "rank": 5499,
-      "estimate": "<7k",
-      "name": "Shovel Game"
-    },
-    "3930640": {
-      "rank": 8929,
-      "estimate": "<7k",
-      "name": "Farmers Market"
-    },
-    "4025220": {
-      "rank": 7597,
-      "estimate": "<7k",
-      "name": "Anonymous Hacker Simulator - Temporal Reckoning"
-    },
-    "4124390": {
-      "rank": 2657,
-      "estimate": "7k+",
-      "name": "COLORFLY"
-    },
-    "4212790": {
-      "rank": 4023,
-      "estimate": "<7k",
-      "name": "DIEATHLON"
-    },
-    "4220360": {
-      "rank": 8510,
-      "estimate": "<7k",
-      "name": "Full Course Mayhem"
-    },
     "4221820": {
-      "rank": 3413,
-      "estimate": "<7k",
+      "rank": 2079,
+      "estimate": "7k+",
       "name": "Die for Pay"
-    },
-    "4236280": {
-      "rank": 9651,
-      "estimate": "<7k",
-      "name": "Magic Cauldron - Dungeons II"
-    },
-    "4432800": {
-      "rank": 8005,
-      "estimate": "<7k",
-      "name": "Donboz Jailbreak"
-    },
-    "4694770": {
-      "rank": 8646,
-      "estimate": "<7k",
-      "name": "HELLBENT"
     }
   }
 }

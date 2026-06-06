@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 18,
   "entries": {
     "1173790": {
       "rank": 382,
@@ -115,6 +115,13 @@
       "name": "Day of the Shell",
       "releaseDate": "2025-07-29",
       "source": "historical"
+    },
+    "4358260": {
+      "rank": 4792,
+      "estimate": "<7k",
+      "name": "Drawn Together",
+      "releaseDate": "2026-06-05",
+      "source": "tracked"
     },
     "4466620": {
       "rank": 1149,

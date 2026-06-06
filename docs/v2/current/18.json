@@ -1,168 +1,93 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 17,
   "entries": {
+    "1420420": {
+      "rank": 3814,
+      "estimate": "<7k",
+      "name": "Fret Smasher"
+    },
     "1570840": {
-      "rank": 8343,
+      "rank": 3355,
       "estimate": "<7k",
       "name": "Tides of Tethys"
     },
     "1699710": {
-      "rank": 3174,
-      "estimate": "<7k",
+      "rank": 2907,
+      "estimate": "7k+",
       "name": "The Dream Of A Cockspur"
     },
     "2427530": {
-      "rank": 5013,
-      "estimate": "<7k",
+      "rank": 1847,
+      "estimate": "15k+",
       "name": "The Nightscarred: Forgotten Gods"
     },
     "2707630": {
-      "rank": 1735,
-      "estimate": "15k+",
+      "rank": 4241,
+      "estimate": "<7k",
       "name": "Twins of Olus"
     },
     "2748420": {
-      "rank": 8075,
+      "rank": 3944,
       "estimate": "<7k",
       "name": "Ascent: Rivals"
     },
-    "2817050": {
-      "rank": 8050,
-      "estimate": "<7k",
-      "name": "FOOL'S PARADISE"
-    },
-    "2911200": {
-      "rank": 9047,
-      "estimate": "<7k",
-      "name": "Lost Call"
-    },
     "2915730": {
-      "rank": 1363,
-      "estimate": "25k+",
+      "rank": 563,
+      "estimate": "40k+",
       "name": "Travelling At Night"
     },
-    "2946110": {
-      "rank": 4278,
+    "2951510": {
+      "rank": 4198,
       "estimate": "<7k",
-      "name": "The Festival Isn't Over"
+      "name": "Spyrit Walker"
     },
     "3024130": {
-      "rank": 985,
+      "rank": 668,
       "estimate": "40k+",
       "name": "Pao Pao"
     },
-    "3045030": {
-      "rank": 9533,
-      "estimate": "<7k",
-      "name": "Flooded Burials"
+    "3137450": {
+      "rank": 2920,
+      "estimate": "7k+",
+      "name": "ROOST"
     },
     "3258580": {
-      "rank": 5930,
-      "estimate": "<7k",
+      "rank": 1143,
+      "estimate": "25k+",
       "name": "Don't Wake the Beast"
     },
-    "3414340": {
-      "rank": 6315,
-      "estimate": "<7k",
-      "name": "KAMI 2"
-    },
     "3488640": {
-      "rank": 664,
-      "estimate": "40k+",
+      "rank": 1863,
+      "estimate": "15k+",
       "name": "Magical Blush"
     },
     "3536530": {
-      "rank": 8593,
+      "rank": 4711,
       "estimate": "<7k",
       "name": "Örnöga: Idle & Loot"
     },
-    "3713230": {
-      "rank": 8043,
+    "3661500": {
+      "rank": 3803,
       "estimate": "<7k",
-      "name": "Ultimate Gym Simulator: Prologue"
+      "name": "Middle Management"
     },
-    "3946090": {
-      "rank": 2684,
-      "estimate": "7k+",
-      "name": "HINO"
-    },
-    "4007040": {
-      "rank": 8900,
+    "3847450": {
+      "rank": 3776,
       "estimate": "<7k",
-      "name": "Maximum Pile-Up!"
+      "name": "Project S.U.N.D.I.A.L"
     },
     "4011300": {
-      "rank": 497,
-      "estimate": "80k+",
+      "rank": 3860,
+      "estimate": "<7k",
       "name": "Super Shout Showdown"
     },
-    "4119710": {
-      "rank": 3976,
-      "estimate": "<7k",
-      "name": "Give Us A Sign"
-    },
     "4164790": {
-      "rank": 1680,
-      "estimate": "15k+",
+      "rank": 1285,
+      "estimate": "25k+",
       "name": "Survival Log"
-    },
-    "4223570": {
-      "rank": 4230,
-      "estimate": "<7k",
-      "name": "Requiem for Ocean and Continent"
-    },
-    "4236860": {
-      "rank": 5172,
-      "estimate": "<7k",
-      "name": "Witch’s Atelier"
-    },
-    "4305630": {
-      "rank": 3977,
-      "estimate": "<7k",
-      "name": "Stray Night"
-    },
-    "4339080": {
-      "rank": 3926,
-      "estimate": "<7k",
-      "name": "Slot or Die"
-    },
-    "4384040": {
-      "rank": 7841,
-      "estimate": "<7k",
-      "name": "Age Of GoldFarmers"
-    },
-    "4390180": {
-      "rank": 9907,
-      "estimate": "<7k",
-      "name": "Hue Factory"
-    },
-    "4526770": {
-      "rank": 5443,
-      "estimate": "<7k",
-      "name": "Declutterer"
-    },
-    "4568220": {
-      "rank": 2261,
-      "estimate": "7k+",
-      "name": "Panchofobia"
-    },
-    "4598450": {
-      "rank": 8539,
-      "estimate": "<7k",
-      "name": "Forklift Basketball"
-    },
-    "4653340": {
-      "rank": 4708,
-      "estimate": "<7k",
-      "name": "Damn Exam"
-    },
-    "4750540": {
-      "rank": 3569,
-      "estimate": "<7k",
-      "name": "Hapunan"
     }
   }
 }

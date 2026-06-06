@@ -1,198 +1,118 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 38,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 22,
   "entries": {
+    "1607930": {
+      "rank": 2758,
+      "estimate": "7k+",
+      "name": "Drake's Odds: Survive"
+    },
     "2271150": {
-      "rank": 3243,
-      "estimate": "<7k",
+      "rank": 2049,
+      "estimate": "7k+",
       "name": "Loya"
     },
     "2549040": {
-      "rank": 7897,
-      "estimate": "<7k",
+      "rank": 1641,
+      "estimate": "15k+",
       "name": "Night of the Slayers"
     },
-    "2650780": {
-      "rank": 7301,
-      "estimate": "<7k",
-      "name": "Cavern"
-    },
     "2685100": {
-      "rank": 625,
-      "estimate": "40k+",
+      "rank": 1671,
+      "estimate": "15k+",
       "name": "NOIR BLOOM"
     },
-    "2846770": {
-      "rank": 6560,
-      "estimate": "<7k",
-      "name": "Stop The F"
-    },
     "2855020": {
-      "rank": 2650,
-      "estimate": "7k+",
+      "rank": 4055,
+      "estimate": "<7k",
       "name": "Haymaker"
     },
     "2876290": {
-      "rank": 917,
-      "estimate": "40k+",
+      "rank": 4026,
+      "estimate": "<7k",
       "name": "Sojourn Past"
     },
     "2885380": {
-      "rank": 269,
+      "rank": 242,
       "estimate": "80k+",
       "name": "Gold Mining Simulator 2"
     },
     "2914820": {
-      "rank": 387,
-      "estimate": "80k+",
+      "rank": 505,
+      "estimate": "40k+",
       "name": "M.I.N.S.K."
     },
     "2985880": {
-      "rank": 2389,
-      "estimate": "7k+",
+      "rank": 1892,
+      "estimate": "15k+",
       "name": "Farming Camp"
     },
     "3058660": {
-      "rank": 2094,
-      "estimate": "7k+",
+      "rank": 560,
+      "estimate": "40k+",
       "name": "HARK THE GHOUL"
     },
-    "3211250": {
-      "rank": 8892,
-      "estimate": "<7k",
-      "name": "Morphing"
-    },
-    "3330920": {
-      "rank": 5321,
-      "estimate": "<7k",
-      "name": "Those NPC's love stories"
-    },
     "3370490": {
-      "rank": 2886,
-      "estimate": "7k+",
+      "rank": 624,
+      "estimate": "40k+",
       "name": "Giggleland"
     },
     "3541250": {
-      "rank": 5206,
-      "estimate": "<7k",
+      "rank": 1439,
+      "estimate": "25k+",
       "name": "Welcome to Brightville"
     },
     "3562200": {
-      "rank": 644,
-      "estimate": "40k+",
+      "rank": 1878,
+      "estimate": "15k+",
       "name": "Cloudscrapers"
     },
     "3581760": {
-      "rank": 2597,
-      "estimate": "7k+",
+      "rank": 1911,
+      "estimate": "15k+",
       "name": "Out of Love"
     },
-    "3631050": {
-      "rank": 5589,
-      "estimate": "<7k",
-      "name": "End the Endless"
-    },
     "3690240": {
-      "rank": 5256,
+      "rank": 4493,
       "estimate": "<7k",
       "name": "Project Android"
     },
     "3887130": {
-      "rank": 4296,
+      "rank": 4375,
       "estimate": "<7k",
       "name": "Fluffy Escape: Cryptic Cube"
     },
-    "3936450": {
-      "rank": 9597,
-      "estimate": "<7k",
-      "name": "Cult of Shadows"
-    },
-    "3945720": {
-      "rank": 4540,
-      "estimate": "<7k",
-      "name": "Tribal Trouble: Resurrected"
-    },
-    "3998560": {
-      "rank": 7623,
-      "estimate": "<7k",
-      "name": "Trainz Simulator World Tour"
-    },
     "4115300": {
-      "rank": 561,
+      "rank": 696,
       "estimate": "40k+",
       "name": "A Date with Death 2: REMNANTS"
     },
-    "4148210": {
-      "rank": 7503,
-      "estimate": "<7k",
-      "name": "界玄牌"
-    },
     "4156770": {
-      "rank": 1332,
-      "estimate": "25k+",
+      "rank": 4229,
+      "estimate": "<7k",
       "name": "Mysarium"
     },
     "4157430": {
-      "rank": 7366,
-      "estimate": "<7k",
+      "rank": 2947,
+      "estimate": "7k+",
       "name": "Diggin"
     },
-    "4192680": {
-      "rank": 3434,
-      "estimate": "<7k",
-      "name": "7 Trials"
-    },
     "4200800": {
-      "rank": 3905,
-      "estimate": "<7k",
+      "rank": 2874,
+      "estimate": "7k+",
       "name": "Alice at the End of Her Life"
     },
-    "4220730": {
-      "rank": 8385,
-      "estimate": "<7k",
-      "name": "Medals Of Valor: Last Stand"
-    },
     "4246640": {
-      "rank": 1208,
-      "estimate": "25k+",
+      "rank": 3823,
+      "estimate": "<7k",
       "name": "Dungeon Brawls"
     },
     "4259190": {
-      "rank": 307,
-      "estimate": "80k+",
+      "rank": 566,
+      "estimate": "40k+",
       "name": "Kingdom Rush 6: Genesis TD"
-    },
-    "4448200": {
-      "rank": 3311,
-      "estimate": "<7k",
-      "name": "Coffee Raccoons"
-    },
-    "4611200": {
-      "rank": 4160,
-      "estimate": "<7k",
-      "name": "SCP RP"
-    },
-    "4632100": {
-      "rank": 6081,
-      "estimate": "<7k",
-      "name": "PLACE TO FIT"
-    },
-    "4716660": {
-      "rank": 3452,
-      "estimate": "<7k",
-      "name": "Skroyder Rumble"
-    },
-    "4718860": {
-      "rank": 7727,
-      "estimate": "<7k",
-      "name": "Deep Shift"
-    },
-    "4772280": {
-      "rank": 6287,
-      "estimate": "<7k",
-      "name": "Astral Dive"
     }
   }
 }

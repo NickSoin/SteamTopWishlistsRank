@@ -1,203 +1,68 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 12,
   "entries": {
-    "1356950": {
-      "rank": 2699,
-      "estimate": "7k+",
-      "name": "Edentopia"
-    },
-    "1822660": {
-      "rank": 7728,
+    "1252720": {
+      "rank": 4590,
       "estimate": "<7k",
-      "name": "KOTOMASHO: I Can't Believe This NEET Guy Turned Into a Magical Girl!"
+      "name": "Visceratum"
     },
     "2278950": {
-      "rank": 2314,
-      "estimate": "7k+",
+      "rank": 1333,
+      "estimate": "25k+",
       "name": "Stars of Icarus"
     },
-    "2846470": {
-      "rank": 7562,
-      "estimate": "<7k",
-      "name": "Aposis: Infinity Hero"
+    "2664120": {
+      "rank": 2543,
+      "estimate": "7k+",
+      "name": "Lonely Space"
     },
-    "2928640": {
-      "rank": 8123,
+    "2769340": {
+      "rank": 3941,
       "estimate": "<7k",
-      "name": "Countryball: World 1930"
-    },
-    "3287360": {
-      "rank": 6863,
-      "estimate": "<7k",
-      "name": "Project II: Silent Valley"
-    },
-    "3301710": {
-      "rank": 9254,
-      "estimate": "<7k",
-      "name": "Labyrinth of Aetheria"
-    },
-    "3429340": {
-      "rank": 4887,
-      "estimate": "<7k",
-      "name": "Bittersweet Blossoms"
+      "name": "Moonshot"
     },
     "3431190": {
-      "rank": 4002,
+      "rank": 3842,
       "estimate": "<7k",
       "name": "Galactic Realms: Quest for the Forgotten"
     },
-    "3436010": {
-      "rank": 4441,
-      "estimate": "<7k",
-      "name": "Medieval Horse Simulator"
-    },
-    "3523150": {
-      "rank": 4625,
-      "estimate": "<7k",
-      "name": "Five Nights with Froggy"
-    },
     "3704270": {
-      "rank": 3122,
+      "rank": 3514,
       "estimate": "<7k",
       "name": "Magnavale: Eternal Soul"
     },
     "3746290": {
-      "rank": 1393,
-      "estimate": "25k+",
+      "rank": 2431,
+      "estimate": "7k+",
       "name": "Werewolf: The Apocalypse – Rageborn"
     },
-    "3763480": {
-      "rank": 5376,
-      "estimate": "<7k",
-      "name": "The Last Raccoon"
-    },
-    "3764180": {
-      "rank": 3424,
-      "estimate": "<7k",
-      "name": "Lone City"
-    },
     "3824840": {
-      "rank": 7557,
+      "rank": 3469,
       "estimate": "<7k",
       "name": "Nezori"
     },
-    "3879550": {
-      "rank": 9903,
-      "estimate": "<7k",
-      "name": "My Bookshop Dreams"
-    },
-    "3908250": {
-      "rank": 4860,
-      "estimate": "<7k",
-      "name": "CREATION OF THE GODS: Rebellion at Five Passes"
-    },
-    "3911490": {
-      "rank": 8400,
-      "estimate": "<7k",
-      "name": "Forge the Fates"
-    },
-    "3930590": {
-      "rank": 1684,
-      "estimate": "15k+",
-      "name": "Dimension Rift : Otaku Save The World"
-    },
-    "4099120": {
-      "rank": 7211,
-      "estimate": "<7k",
-      "name": "My Darling Dark Elf"
-    },
-    "4117190": {
-      "rank": 2629,
-      "estimate": "7k+",
-      "name": "Silly Suspects"
-    },
-    "4149720": {
-      "rank": 7647,
-      "estimate": "<7k",
-      "name": "Wavewright"
-    },
-    "4163320": {
-      "rank": 9006,
-      "estimate": "<7k",
-      "name": "The Band"
-    },
     "4165740": {
-      "rank": 3337,
+      "rank": 3482,
       "estimate": "<7k",
       "name": "Vena"
     },
-    "4179770": {
-      "rank": 8993,
-      "estimate": "<7k",
-      "name": "Kindling Hour"
-    },
-    "4251610": {
-      "rank": 7559,
-      "estimate": "<7k",
-      "name": "交叠之夏"
-    },
     "4300400": {
-      "rank": 832,
-      "estimate": "40k+",
+      "rank": 2320,
+      "estimate": "7k+",
       "name": "Adventurers Shop"
     },
-    "4307100": {
-      "rank": 8021,
-      "estimate": "<7k",
-      "name": "Steel Swarm: SURVIVOR"
-    },
-    "4346110": {
-      "rank": 8525,
-      "estimate": "<7k",
-      "name": "Blood Arena Path of Steel"
-    },
-    "4348800": {
-      "rank": 2681,
-      "estimate": "7k+",
-      "name": "Farming Simulator 25: SKY Agriculture Pack"
-    },
-    "4443350": {
-      "rank": 2646,
-      "estimate": "7k+",
-      "name": "Zombuds"
-    },
     "4475320": {
-      "rank": 1702,
-      "estimate": "15k+",
+      "rank": 3742,
+      "estimate": "<7k",
       "name": "你离开之后"
     },
-    "4537800": {
-      "rank": 8769,
-      "estimate": "<7k",
-      "name": "Snuggle Nightmare"
-    },
-    "4613340": {
-      "rank": 7810,
-      "estimate": "<7k",
-      "name": "Bannerlings"
-    },
-    "4656220": {
-      "rank": 5586,
-      "estimate": "<7k",
-      "name": "Haunted Uni Love"
-    },
-    "4671560": {
-      "rank": 3341,
-      "estimate": "<7k",
-      "name": "PicoBellum"
-    },
     "4683590": {
-      "rank": 189,
-      "estimate": "200k+",
+      "rank": 2394,
+      "estimate": "7k+",
       "name": "Pale Tide"
-    },
-    "4727230": {
-      "rank": 6186,
-      "estimate": "<7k",
-      "name": "Cultivation Idle"
     }
   }
 }

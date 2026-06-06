@@ -1,168 +1,83 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 15,
   "entries": {
+    "744200": {
+      "rank": 2882,
+      "estimate": "7k+",
+      "name": "Altiros"
+    },
     "1166890": {
-      "rank": 3233,
-      "estimate": "<7k",
+      "rank": 421,
+      "estimate": "80k+",
       "name": "Necrofugitive"
     },
-    "1883360": {
-      "rank": 2851,
+    "1218780": {
+      "rank": 2896,
       "estimate": "7k+",
+      "name": "Little Shop of Junk"
+    },
+    "1795090": {
+      "rank": 3886,
+      "estimate": "<7k",
+      "name": "Monastery Builder"
+    },
+    "1883360": {
+      "rank": 1501,
+      "estimate": "15k+",
       "name": "The White Raven"
     },
-    "1998280": {
-      "rank": 8037,
-      "estimate": "<7k",
-      "name": "Astrophobia"
-    },
-    "2458280": {
-      "rank": 8780,
-      "estimate": "<7k",
-      "name": "Tribe Quest"
-    },
     "2482760": {
-      "rank": 2729,
-      "estimate": "7k+",
+      "rank": 1515,
+      "estimate": "15k+",
       "name": "Hunting Simulator 3"
     },
     "2792540": {
-      "rank": 9456,
+      "rank": 3009,
       "estimate": "<7k",
       "name": "Anima Keeper"
     },
     "2929250": {
-      "rank": 315,
-      "estimate": "80k+",
+      "rank": 25,
+      "estimate": "600k+",
       "name": "over the hill"
     },
     "3100690": {
-      "rank": 2982,
-      "estimate": "7k+",
+      "rank": 701,
+      "estimate": "40k+",
       "name": "Dust & Diesel: Deadland Delivery"
     },
-    "3542700": {
-      "rank": 8490,
-      "estimate": "<7k",
-      "name": "Mermaid Life"
-    },
     "3725190": {
-      "rank": 849,
-      "estimate": "40k+",
+      "rank": 446,
+      "estimate": "80k+",
       "name": "There Are No Ghosts at the Grand"
     },
     "3812830": {
-      "rank": 207,
-      "estimate": "80k+",
+      "rank": 965,
+      "estimate": "40k+",
       "name": "Tiny Delivery"
     },
-    "3905730": {
-      "rank": 5565,
-      "estimate": "<7k",
-      "name": "Nekopedia: Find Her Tail"
-    },
-    "3921710": {
-      "rank": 9273,
-      "estimate": "<7k",
-      "name": "HUSH Prototype"
-    },
-    "4006300": {
-      "rank": 2882,
-      "estimate": "7k+",
-      "name": "Something Meaningful"
-    },
-    "4074510": {
-      "rank": 5395,
-      "estimate": "<7k",
-      "name": "Fleet Hunters"
-    },
-    "4075900": {
-      "rank": 6414,
-      "estimate": "<7k",
-      "name": "Flyra: FPV Drone Simulator"
-    },
-    "4157020": {
-      "rank": 7175,
-      "estimate": "<7k",
-      "name": "MEAT"
-    },
-    "4159350": {
-      "rank": 5175,
-      "estimate": "<7k",
-      "name": "a Dogs Dream"
-    },
-    "4187450": {
-      "rank": 1843,
-      "estimate": "15k+",
-      "name": "Gothic Steel"
-    },
     "4232910": {
-      "rank": 1721,
-      "estimate": "15k+",
+      "rank": 3749,
+      "estimate": "<7k",
       "name": "Crusader Kings III: Silk & Silver"
     },
-    "4306730": {
-      "rank": 5802,
-      "estimate": "<7k",
-      "name": "TrainSim: Point & Call"
-    },
-    "4341810": {
-      "rank": 8662,
-      "estimate": "<7k",
-      "name": "LarsGadiel"
-    },
-    "4406340": {
-      "rank": 7132,
-      "estimate": "<7k",
-      "name": "Jade Simulator"
-    },
-    "4495630": {
-      "rank": 9954,
-      "estimate": "<7k",
-      "name": "The Slopstar 2: Slop Wars"
-    },
     "4508020": {
-      "rank": 1427,
-      "estimate": "25k+",
+      "rank": 4555,
+      "estimate": "<7k",
       "name": "Hole Is Mine"
     },
-    "4517370": {
-      "rank": 5778,
-      "estimate": "<7k",
-      "name": "EULA"
-    },
-    "4529120": {
-      "rank": 1008,
-      "estimate": "25k+",
-      "name": "Alice's Gaze"
-    },
     "4529850": {
-      "rank": 124,
-      "estimate": "200k+",
+      "rank": 1827,
+      "estimate": "15k+",
       "name": "Runeward Online"
     },
     "4570720": {
-      "rank": 141,
-      "estimate": "200k+",
+      "rank": 394,
+      "estimate": "80k+",
       "name": "DragonSword : Awakening"
-    },
-    "4605040": {
-      "rank": 9436,
-      "estimate": "<7k",
-      "name": "Drown World"
-    },
-    "4669550": {
-      "rank": 5280,
-      "estimate": "<7k",
-      "name": "Orbital Drift"
-    },
-    "4687330": {
-      "rank": 6432,
-      "estimate": "<7k",
-      "name": "Ultimate Blacksmith Tycoon ~The Appraiser-Shopkeeper Conquers the Blacksmith Trade~"
     }
   }
 }

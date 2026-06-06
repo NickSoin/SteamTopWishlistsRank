@@ -1,218 +1,88 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 42,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 16,
   "entries": {
-    "1097560": {
-      "rank": 6237,
-      "estimate": "<7k",
-      "name": "Light of the Locked World"
-    },
     "1149450": {
-      "rank": 8536,
-      "estimate": "<7k",
+      "rank": 555,
+      "estimate": "40k+",
       "name": "Tree of Life 2"
     },
     "1361090": {
-      "rank": 1467,
-      "estimate": "25k+",
+      "rank": 791,
+      "estimate": "40k+",
       "name": "Restitched"
     },
     "1439270": {
-      "rank": 152,
-      "estimate": "200k+",
+      "rank": 1328,
+      "estimate": "25k+",
       "name": "Full Circle"
     },
     "1686230": {
-      "rank": 1341,
+      "rank": 1475,
       "estimate": "25k+",
       "name": "Mayday: The Survival Island"
     },
-    "1795260": {
-      "rank": 4790,
+    "2446020": {
+      "rank": 3215,
       "estimate": "<7k",
-      "name": "Home Renovator"
-    },
-    "2117300": {
-      "rank": 7446,
-      "estimate": "<7k",
-      "name": "Gang"
-    },
-    "2151140": {
-      "rank": 5484,
-      "estimate": "<7k",
-      "name": "Horizonite"
+      "name": "Orpheus: Tale of a Lover"
     },
     "2449700": {
-      "rank": 6216,
-      "estimate": "<7k",
+      "rank": 2780,
+      "estimate": "7k+",
       "name": "HIGHWAY PATROL SIMULATOR"
     },
-    "2475170": {
-      "rank": 2044,
-      "estimate": "7k+",
-      "name": "Cosmic Race: Galactic Showdown"
-    },
     "2747660": {
-      "rank": 1588,
+      "rank": 1528,
       "estimate": "15k+",
       "name": "Zombie Assault: Resurgence"
     },
     "3039980": {
-      "rank": 1210,
-      "estimate": "25k+",
+      "rank": 1576,
+      "estimate": "15k+",
       "name": "Sigils of Nightfall"
     },
-    "3169670": {
-      "rank": 8988,
-      "estimate": "<7k",
-      "name": "The Golden Caravan"
-    },
     "3264980": {
-      "rank": 3773,
-      "estimate": "<7k",
+      "rank": 861,
+      "estimate": "40k+",
       "name": "HELL YEAH simulator"
     },
-    "3276730": {
-      "rank": 6915,
-      "estimate": "<7k",
-      "name": "No Rest For The Witches"
-    },
-    "3335040": {
-      "rank": 4526,
-      "estimate": "<7k",
-      "name": "Throne of Valoria"
-    },
     "3347690": {
-      "rank": 1342,
-      "estimate": "25k+",
+      "rank": 2423,
+      "estimate": "7k+",
       "name": "Among the Waves"
     },
     "3423280": {
-      "rank": 265,
+      "rank": 249,
       "estimate": "80k+",
       "name": "Shark Dentist"
     },
-    "3584640": {
-      "rank": 6636,
-      "estimate": "<7k",
-      "name": "Oil Worker: The Empty Quarter | موظف النفط : الربع الخالي"
-    },
     "3589430": {
-      "rank": 2897,
+      "rank": 2250,
       "estimate": "7k+",
       "name": "Heidi's Legacy: Mountains Calling"
     },
-    "3650190": {
-      "rank": 9370,
-      "estimate": "<7k",
-      "name": "Hot Potato: Tag Out"
-    },
-    "3694460": {
-      "rank": 6683,
-      "estimate": "<7k",
-      "name": "The Rift Machine"
-    },
-    "3760200": {
-      "rank": 3290,
-      "estimate": "<7k",
-      "name": "Cubex"
-    },
-    "3836750": {
-      "rank": 5359,
-      "estimate": "<7k",
-      "name": "Uncivilized"
-    },
-    "3846630": {
-      "rank": 3117,
-      "estimate": "<7k",
-      "name": "SKY LEGENDS - An Aeropostal Epic"
-    },
-    "3971730": {
-      "rank": 8446,
-      "estimate": "<7k",
-      "name": "Donutal"
-    },
-    "4043670": {
-      "rank": 2594,
-      "estimate": "7k+",
-      "name": "Super Tacky Astro Ranger - S.T.A.R."
-    },
     "4044990": {
-      "rank": 1236,
-      "estimate": "25k+",
+      "rank": 2596,
+      "estimate": "7k+",
       "name": "DEG"
     },
     "4071460": {
-      "rank": 2231,
-      "estimate": "7k+",
+      "rank": 4463,
+      "estimate": "<7k",
       "name": "Tentacle Locker 2"
     },
-    "4137010": {
-      "rank": 8592,
-      "estimate": "<7k",
-      "name": "A Courting of Curses"
-    },
     "4196910": {
-      "rank": 1145,
-      "estimate": "25k+",
+      "rank": 3726,
+      "estimate": "<7k",
       "name": "Rewindead"
     },
-    "4248260": {
-      "rank": 7761,
-      "estimate": "<7k",
-      "name": "Land and Sword"
-    },
-    "4308630": {
-      "rank": 8854,
-      "estimate": "<7k",
-      "name": "Dopamine rogue"
-    },
     "4332910": {
-      "rank": 5342,
+      "rank": 3780,
       "estimate": "<7k",
       "name": "Blindshot Arena"
-    },
-    "4335050": {
-      "rank": 4560,
-      "estimate": "<7k",
-      "name": "众神的礼物"
-    },
-    "4458890": {
-      "rank": 3332,
-      "estimate": "<7k",
-      "name": "Invisum Piscium 嫌魚"
-    },
-    "4560490": {
-      "rank": 3466,
-      "estimate": "<7k",
-      "name": "REWIND"
-    },
-    "4588650": {
-      "rank": 9243,
-      "estimate": "<7k",
-      "name": "Castle of the Zephyr"
-    },
-    "4601160": {
-      "rank": 3184,
-      "estimate": "<7k",
-      "name": "Just Keep Fishing"
-    },
-    "4642730": {
-      "rank": 6726,
-      "estimate": "<7k",
-      "name": "Optical Shop Simulator"
-    },
-    "4667050": {
-      "rank": 9245,
-      "estimate": "<7k",
-      "name": "The Last Show"
-    },
-    "4740270": {
-      "rank": 7138,
-      "estimate": "<7k",
-      "name": "stardozing"
     }
   }
 }

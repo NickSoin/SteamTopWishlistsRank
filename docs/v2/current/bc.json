@@ -1,165 +1,60 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 10,
   "entries": {
-    "1041050": {
-      "rank": 7662,
-      "estimate": "<7k",
-      "name": "Tokyo Re:Connect"
-    },
-    "1099510": {
-      "rank": 8921,
-      "estimate": "<7k",
-      "name": "Rap Simulator: The Rap Game"
-    },
     "1593010": {
-      "rank": 3622,
-      "estimate": "<7k",
+      "rank": 471,
+      "estimate": "80k+",
       "name": "The Store is Closed"
     },
     "1607300": {
-      "rank": 9717,
+      "rank": 3510,
       "estimate": "<7k",
       "name": "March March!"
     },
+    "1621890": {
+      "rank": 4689,
+      "estimate": "<7k",
+      "name": "Serial Killer Life"
+    },
     "1913120": {
-      "rank": 645,
-      "estimate": "40k+",
+      "rank": 87,
+      "estimate": "300k+",
       "name": "Tears of Metal",
       "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6339469370178879642"
     },
     "2079920": {
-      "rank": 1879,
+      "rank": 1826,
       "estimate": "15k+",
       "name": "NAME OF THE WILL"
     },
     "2319400": {
-      "rank": 9864,
+      "rank": 4423,
       "estimate": "<7k",
       "name": "Rootown"
     },
     "2491830": {
-      "rank": 4864,
-      "estimate": "<7k",
+      "rank": 1880,
+      "estimate": "15k+",
       "name": "Zero Losses"
     },
-    "2947100": {
-      "rank": 8087,
+    "2657580": {
+      "rank": 3831,
       "estimate": "<7k",
-      "name": "FRAMEWORK: Found Footage"
-    },
-    "3072050": {
-      "rank": 5970,
-      "estimate": "<7k",
-      "name": "Mesektet"
-    },
-    "3619460": {
-      "rank": 5851,
-      "estimate": "<7k",
-      "name": "Otherworld Chronicles"
-    },
-    "3768140": {
-      "rank": 7788,
-      "estimate": "<7k",
-      "name": "SeekOut"
-    },
-    "3776240": {
-      "rank": 9490,
-      "estimate": "<7k",
-      "name": "My Adorable Demon Story"
+      "name": "Anterris"
     },
     "3836490": {
-      "rank": 2904,
-      "estimate": "7k+",
+      "rank": 1389,
+      "estimate": "25k+",
       "name": "Lead The Dragon"
     },
-    "4050260": {
-      "rank": 4097,
-      "estimate": "<7k",
-      "name": "King's Haven"
-    },
-    "4074370": {
-      "rank": 2979,
-      "estimate": "7k+",
-      "name": "Zupay: Shadows of Independence"
-    },
-    "4075830": {
-      "rank": 4074,
-      "estimate": "<7k",
-      "name": "Evocation"
-    },
-    "4122020": {
-      "rank": 8118,
-      "estimate": "<7k",
-      "name": "Brave Saga: Artifact Reborn"
-    },
     "4221910": {
-      "rank": 712,
-      "estimate": "40k+",
+      "rank": 263,
+      "estimate": "80k+",
       "name": "Plague Doctor: Life in Pestilence"
-    },
-    "4242100": {
-      "rank": 8041,
-      "estimate": "<7k",
-      "name": "Major Hoof"
-    },
-    "4248810": {
-      "rank": 9984,
-      "estimate": "<7k",
-      "name": "FocusScape: Lofi Productivity"
-    },
-    "4255030": {
-      "rank": 4061,
-      "estimate": "<7k",
-      "name": "纤维"
-    },
-    "4305160": {
-      "rank": 8477,
-      "estimate": "<7k",
-      "name": "ZHITEN"
-    },
-    "4474330": {
-      "rank": 6988,
-      "estimate": "<7k",
-      "name": "Rotted - A Brain Rot Simulator"
-    },
-    "4487970": {
-      "rank": 8902,
-      "estimate": "<7k",
-      "name": "Don’t Return to Wonderland"
-    },
-    "4516180": {
-      "rank": 7635,
-      "estimate": "<7k",
-      "name": "100 Sherwood Cats"
-    },
-    "4583960": {
-      "rank": 2836,
-      "estimate": "7k+",
-      "name": "Sister Compass: Slow Life Loving with My Sisters on a Deserted Island"
-    },
-    "4617230": {
-      "rank": 4926,
-      "estimate": "<7k",
-      "name": "Retail Rivals"
-    },
-    "4622160": {
-      "rank": 935,
-      "estimate": "40k+",
-      "name": "Arise Dark Lord"
-    },
-    "4677470": {
-      "rank": 9227,
-      "estimate": "<7k",
-      "name": "My First Driving School"
-    },
-    "4720280": {
-      "rank": 3478,
-      "estimate": "<7k",
-      "name": "I'M YOUR HOST"
     }
   }
 }

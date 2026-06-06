@@ -1,188 +1,83 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 36,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 15,
   "entries": {
-    "783550": {
-      "rank": 9662,
-      "estimate": "<7k",
-      "name": "Obscurity: Unknown Threat"
-    },
     "1739080": {
-      "rank": 983,
-      "estimate": "40k+",
+      "rank": 170,
+      "estimate": "200k+",
       "name": "Sword Hero"
     },
-    "1919480": {
-      "rank": 8839,
-      "estimate": "<7k",
-      "name": "Skate Shop Simulator"
-    },
     "2004680": {
-      "rank": 81,
-      "estimate": "300k+",
+      "rank": 142,
+      "estimate": "200k+",
       "name": "Voidling Bound"
     },
     "2022640": {
-      "rank": 507,
-      "estimate": "40k+",
+      "rank": 1296,
+      "estimate": "25k+",
       "name": "CALX"
     },
-    "2187390": {
-      "rank": 9896,
-      "estimate": "<7k",
-      "name": "Conqueror of the Seas"
-    },
     "2283250": {
-      "rank": 3567,
+      "rank": 4120,
       "estimate": "<7k",
       "name": "BrokenLore: DARK DAWN"
     },
-    "2451750": {
-      "rank": 6172,
-      "estimate": "<7k",
-      "name": "NOK"
-    },
     "2535690": {
-      "rank": 7795,
+      "rank": 3495,
       "estimate": "<7k",
       "name": "Offroad Survival"
     },
     "2663960": {
-      "rank": 1529,
-      "estimate": "15k+",
+      "rank": 578,
+      "estimate": "40k+",
       "name": "Bendy: The Cage"
     },
     "2786760": {
-      "rank": 9028,
+      "rank": 3091,
       "estimate": "<7k",
       "name": "Another Door"
     },
-    "2895710": {
-      "rank": 8896,
-      "estimate": "<7k",
-      "name": "Hana"
-    },
     "3299850": {
-      "rank": 3706,
-      "estimate": "<7k",
+      "rank": 2237,
+      "estimate": "7k+",
       "name": "The Last Phoenix"
     },
-    "3495250": {
-      "rank": 6235,
-      "estimate": "<7k",
-      "name": "Glory On Pluto"
-    },
     "3508880": {
-      "rank": 8718,
+      "rank": 4042,
       "estimate": "<7k",
       "name": "Outpost Simulator"
     },
-    "3583470": {
-      "rank": 8582,
-      "estimate": "<7k",
-      "name": "Prison Escape io"
-    },
-    "3734500": {
-      "rank": 5785,
-      "estimate": "<7k",
-      "name": "Thingamajigs"
-    },
     "3778290": {
-      "rank": 5498,
+      "rank": 4487,
       "estimate": "<7k",
       "name": "Scrutator Tenebris"
     },
-    "3847550": {
-      "rank": 6625,
-      "estimate": "<7k",
-      "name": "NEVER SAFE IN DELAWARE"
-    },
-    "3875010": {
-      "rank": 5064,
-      "estimate": "<7k",
-      "name": "Dawn of Piracy: Caribbean Tides"
-    },
     "3875960": {
-      "rank": 1446,
+      "rank": 1498,
       "estimate": "25k+",
       "name": "Dragon Raja the farewell passage"
     },
-    "3891470": {
-      "rank": 4671,
-      "estimate": "<7k",
-      "name": "Construction Store Simulator"
-    },
-    "4023230": {
-      "rank": 5156,
-      "estimate": "<7k",
-      "name": "Seventh Seal"
-    },
     "4074010": {
-      "rank": 959,
+      "rank": 857,
       "estimate": "40k+",
       "name": "Dig, Dig, Die"
     },
     "4090360": {
-      "rank": 703,
-      "estimate": "40k+",
+      "rank": 1432,
+      "estimate": "25k+",
       "name": "Forest Escape: Last Train"
     },
     "4150860": {
-      "rank": 864,
+      "rank": 850,
       "estimate": "40k+",
       "name": "The Loopler"
     },
-    "4172190": {
-      "rank": 6413,
-      "estimate": "<7k",
-      "name": "Stay Quiet"
-    },
     "4195140": {
-      "rank": 3604,
-      "estimate": "<7k",
-      "name": "PIX Football Manager"
-    },
-    "4272270": {
-      "rank": 6429,
-      "estimate": "<7k",
-      "name": "It's Chopping Time!"
-    },
-    "4327060": {
-      "rank": 7426,
-      "estimate": "<7k",
-      "name": "Elzypon"
-    },
-    "4370020": {
-      "rank": 2614,
-      "estimate": "7k+",
-      "name": "Stained Roses & Lilies"
-    },
-    "4417400": {
-      "rank": 6914,
-      "estimate": "<7k",
-      "name": "Bloomvale: Bouquets & Scents"
-    },
-    "4461140": {
-      "rank": 5370,
-      "estimate": "<7k",
-      "name": "Squadika"
-    },
-    "4602710": {
-      "rank": 9581,
-      "estimate": "<7k",
-      "name": "Glassbound"
-    },
-    "4605210": {
-      "rank": 1558,
+      "rank": 1871,
       "estimate": "15k+",
-      "name": "Pet the Cat"
-    },
-    "4700830": {
-      "rank": 3181,
-      "estimate": "<7k",
-      "name": "Project Phoenix 涅槃计划"
+      "name": "PIX Football Manager"
     }
   }
 }

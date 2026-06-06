@@ -1,198 +1,78 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 38,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 14,
   "entries": {
     "914210": {
-      "rank": 2517,
-      "estimate": "7k+",
+      "rank": 204,
+      "estimate": "80k+",
       "name": "N1RV Ann-A: Cyberpunk Bartender Action"
     },
-    "1335320": {
-      "rank": 8107,
-      "estimate": "<7k",
-      "name": "DesktopMMD5"
-    },
     "1840880": {
-      "rank": 3034,
-      "estimate": "<7k",
+      "rank": 373,
+      "estimate": "80k+",
       "name": "Freaked Fleapit"
     },
-    "1919030": {
-      "rank": 9301,
-      "estimate": "<7k",
-      "name": "Trench Warfare"
-    },
     "2231980": {
-      "rank": 1510,
-      "estimate": "15k+",
+      "rank": 1030,
+      "estimate": "25k+",
       "name": "HELLREAPER"
     },
     "2402470": {
-      "rank": 146,
-      "estimate": "200k+",
+      "rank": 503,
+      "estimate": "40k+",
       "name": "World of Anterra"
     },
     "2429600": {
-      "rank": 1263,
-      "estimate": "25k+",
+      "rank": 4585,
+      "estimate": "<7k",
       "name": "Herdles"
     },
     "2431740": {
-      "rank": 3875,
+      "rank": 4394,
       "estimate": "<7k",
       "name": "Couch Planes"
     },
     "2644100": {
-      "rank": 2005,
-      "estimate": "7k+",
+      "rank": 3224,
+      "estimate": "<7k",
       "name": "Allogloom"
     },
     "2706400": {
-      "rank": 9300,
-      "estimate": "<7k",
+      "rank": 984,
+      "estimate": "40k+",
       "name": "A Silent Desolation"
     },
-    "2833430": {
-      "rank": 4316,
-      "estimate": "<7k",
-      "name": "A Journey's End"
-    },
-    "2969250": {
-      "rank": 9145,
-      "estimate": "<7k",
-      "name": "Dubscr's Murder Mystery"
-    },
-    "3035150": {
-      "rank": 3730,
-      "estimate": "<7k",
-      "name": "Welding Simulator"
-    },
     "3048060": {
-      "rank": 1671,
-      "estimate": "15k+",
+      "rank": 1236,
+      "estimate": "25k+",
       "name": "Trivia Murder Party 3"
     },
     "3149550": {
-      "rank": 9502,
-      "estimate": "<7k",
+      "rank": 2600,
+      "estimate": "7k+",
       "name": "Comix Zero"
     },
-    "3276720": {
-      "rank": 4943,
+    "3344890": {
+      "rank": 4415,
       "estimate": "<7k",
-      "name": "Castle In The Darkness 2"
-    },
-    "3299510": {
-      "rank": 1812,
-      "estimate": "15k+",
-      "name": "Soul Walker"
+      "name": "NetEscape"
     },
     "3787240": {
-      "rank": 176,
+      "rank": 198,
       "estimate": "200k+",
       "name": "MARVEL Tōkon: Fighting Souls"
     },
-    "3894960": {
-      "rank": 9373,
-      "estimate": "<7k",
-      "name": "Desktop Snail Assassin"
-    },
     "3907350": {
-      "rank": 3318,
+      "rank": 3474,
       "estimate": "<7k",
       "name": "The Prince of Tennis Sweet School Festival ~♡-40 and more...~"
     },
     "3952330": {
-      "rank": 6007,
+      "rank": 3917,
       "estimate": "<7k",
       "name": "Cosmo Vulpes"
-    },
-    "3981590": {
-      "rank": 7315,
-      "estimate": "<7k",
-      "name": "NIGHT TAXI"
-    },
-    "4069400": {
-      "rank": 4852,
-      "estimate": "<7k",
-      "name": "Chill Planet"
-    },
-    "4071470": {
-      "rank": 4345,
-      "estimate": "<7k",
-      "name": "DepraviA"
-    },
-    "4101290": {
-      "rank": 2492,
-      "estimate": "7k+",
-      "name": "Overtrick"
-    },
-    "4191040": {
-      "rank": 8799,
-      "estimate": "<7k",
-      "name": "Punk Runner"
-    },
-    "4202540": {
-      "rank": 995,
-      "estimate": "40k+",
-      "name": "Anhedonia: Sanctuary of Ash"
-    },
-    "4236770": {
-      "rank": 9425,
-      "estimate": "<7k",
-      "name": "Idle Cult"
-    },
-    "4310290": {
-      "rank": 1511,
-      "estimate": "15k+",
-      "name": "Crime and Punishment: Lost in Nightmares"
-    },
-    "4317220": {
-      "rank": 8437,
-      "estimate": "<7k",
-      "name": "Hundred Nights: DIFU"
-    },
-    "4371400": {
-      "rank": 8018,
-      "estimate": "<7k",
-      "name": "Kintsugi"
-    },
-    "4500770": {
-      "rank": 5041,
-      "estimate": "<7k",
-      "name": "KeyFortress"
-    },
-    "4595350": {
-      "rank": 8205,
-      "estimate": "<7k",
-      "name": "Isolation Edge"
-    },
-    "4599880": {
-      "rank": 5157,
-      "estimate": "<7k",
-      "name": "Grandma Left Me A Building"
-    },
-    "4642720": {
-      "rank": 7358,
-      "estimate": "<7k",
-      "name": "Unitra: Real-Time Voice Translation For Gamers"
-    },
-    "4709920": {
-      "rank": 5001,
-      "estimate": "<7k",
-      "name": "Donna the Firebreather"
-    },
-    "4712700": {
-      "rank": 8629,
-      "estimate": "<7k",
-      "name": "Cozy Up!"
-    },
-    "4733420": {
-      "rank": 8222,
-      "estimate": "<7k",
-      "name": "Metro Architect"
     }
   }
 }

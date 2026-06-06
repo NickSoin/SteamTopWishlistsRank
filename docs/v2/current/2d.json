@@ -1,213 +1,98 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 41,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 18,
   "entries": {
     "1163160": {
-      "rank": 6004,
+      "rank": 3887,
       "estimate": "<7k",
       "name": "Ronin 2072"
     },
-    "1395930": {
-      "rank": 3264,
-      "estimate": "<7k",
-      "name": "Break The Chain"
-    },
-    "1486940": {
-      "rank": 8257,
-      "estimate": "<7k",
-      "name": "EarthX 2"
+    "1520600": {
+      "rank": 2486,
+      "estimate": "7k+",
+      "name": "Build and Discover: America"
     },
     "1533060": {
-      "rank": 8716,
+      "rank": 3538,
       "estimate": "<7k",
       "name": "Winery Simulator"
     },
+    "1742390": {
+      "rank": 3537,
+      "estimate": "<7k",
+      "name": "Ayna: Shattered Truth"
+    },
     "1766240": {
-      "rank": 7162,
+      "rank": 3446,
       "estimate": "<7k",
       "name": "Mazey Village"
     },
-    "2830090": {
-      "rank": 4541,
+    "1983360": {
+      "rank": 3272,
       "estimate": "<7k",
-      "name": "Sixth Force"
+      "name": "Mana Valley"
+    },
+    "2745510": {
+      "rank": 3672,
+      "estimate": "<7k",
+      "name": "GROWTH EXPERIMENT"
+    },
+    "2910280": {
+      "rank": 4315,
+      "estimate": "<7k",
+      "name": "Peasant"
     },
     "3165340": {
-      "rank": 6702,
-      "estimate": "<7k",
+      "rank": 2723,
+      "estimate": "7k+",
       "name": "All Will Rise"
     },
     "3222890": {
-      "rank": 6706,
-      "estimate": "<7k",
+      "rank": 2186,
+      "estimate": "7k+",
       "name": "Taste of the Wind"
     },
-    "3278170": {
-      "rank": 7913,
-      "estimate": "<7k",
-      "name": "Pirate Survivors"
-    },
     "3323490": {
-      "rank": 3717,
-      "estimate": "<7k",
+      "rank": 2691,
+      "estimate": "7k+",
       "name": "Truxton Extreme"
     },
     "3427370": {
-      "rank": 3039,
+      "rank": 4037,
       "estimate": "<7k",
       "name": "A Passing in the Night"
     },
-    "3427820": {
-      "rank": 4873,
-      "estimate": "<7k",
-      "name": "Lemonade Apocalypse 2: The Great Filter"
-    },
-    "3442050": {
-      "rank": 2576,
-      "estimate": "7k+",
-      "name": "KUU"
-    },
     "3456950": {
-      "rank": 936,
+      "rank": 836,
       "estimate": "40k+",
       "name": "Pixel Gun 2"
     },
-    "3516870": {
-      "rank": 8738,
-      "estimate": "<7k",
-      "name": "Chronicles of Fantasy Heroes"
-    },
-    "3667480": {
-      "rank": 3261,
-      "estimate": "<7k",
-      "name": "TOKENS"
-    },
     "3938720": {
-      "rank": 7620,
+      "rank": 4544,
       "estimate": "<7k",
       "name": "Fractured Library"
     },
-    "3985720": {
-      "rank": 8590,
-      "estimate": "<7k",
-      "name": "ChickOut!"
-    },
     "4059000": {
-      "rank": 977,
-      "estimate": "40k+",
+      "rank": 3184,
+      "estimate": "<7k",
       "name": "Cozy Builder"
     },
     "4120090": {
-      "rank": 6440,
+      "rank": 3998,
       "estimate": "<7k",
       "name": "Ashbound: Crown of Sin"
     },
     "4134600": {
-      "rank": 1096,
+      "rank": 1066,
       "estimate": "25k+",
       "name": "EverRail"
     },
-    "4197210": {
-      "rank": 7052,
-      "estimate": "<7k",
-      "name": "它说山雨欲来"
-    },
-    "4250430": {
-      "rank": 4700,
-      "estimate": "<7k",
-      "name": "SKULD"
-    },
     "4253570": {
-      "rank": 316,
-      "estimate": "80k+",
-      "name": "Reshine"
-    },
-    "4267780": {
-      "rank": 1391,
+      "rank": 1176,
       "estimate": "25k+",
-      "name": "Acting Out"
-    },
-    "4303680": {
-      "rank": 9177,
-      "estimate": "<7k",
-      "name": "Car Factory Tycoon"
-    },
-    "4376680": {
-      "rank": 8991,
-      "estimate": "<7k",
-      "name": "Mushroom Trip"
-    },
-    "4381040": {
-      "rank": 5171,
-      "estimate": "<7k",
-      "name": "MADDMADD"
-    },
-    "4391870": {
-      "rank": 7130,
-      "estimate": "<7k",
-      "name": "Bounty Pro Pulling"
-    },
-    "4442130": {
-      "rank": 2132,
-      "estimate": "7k+",
-      "name": "Kawashima Internship ~A Boy's Isolated Island Life~"
-    },
-    "4453680": {
-      "rank": 1693,
-      "estimate": "15k+",
-      "name": "Dawn Bell"
-    },
-    "4456940": {
-      "rank": 579,
-      "estimate": "40k+",
-      "name": "INORI"
-    },
-    "4485070": {
-      "rank": 5114,
-      "estimate": "<7k",
-      "name": "Cloudsphere"
-    },
-    "4515090": {
-      "rank": 3099,
-      "estimate": "<7k",
-      "name": "Crazy Localization"
-    },
-    "4530240": {
-      "rank": 4095,
-      "estimate": "<7k",
-      "name": "Dissolution of the Silent Union"
-    },
-    "4541420": {
-      "rank": 3052,
-      "estimate": "<7k",
-      "name": "Khaos Keys"
-    },
-    "4656520": {
-      "rank": 7879,
-      "estimate": "<7k",
-      "name": "Palingenesia"
-    },
-    "4676610": {
-      "rank": 9724,
-      "estimate": "<7k",
-      "name": "A Mountain Called Hope"
-    },
-    "4682370": {
-      "rank": 4165,
-      "estimate": "<7k",
-      "name": "Eraser - Level 2"
-    },
-    "4727880": {
-      "rank": 9810,
-      "estimate": "<7k",
-      "name": "Hold The Line"
-    },
-    "4755830": {
-      "rank": 5066,
-      "estimate": "<7k",
-      "name": "Gooner Studio"
+      "name": "Reshine"
     }
   }
 }

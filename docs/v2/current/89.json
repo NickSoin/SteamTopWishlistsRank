@@ -1,203 +1,123 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 23,
   "entries": {
     "1402940": {
-      "rank": 9311,
+      "rank": 3685,
       "estimate": "<7k",
       "name": "Graveless™"
     },
     "1502460": {
-      "rank": 5704,
-      "estimate": "<7k",
+      "rank": 1771,
+      "estimate": "15k+",
       "name": "B-17 Squadron"
     },
     "1636170": {
-      "rank": 5958,
+      "rank": 3159,
       "estimate": "<7k",
       "name": "Bike Mechanic Simulator 2023"
     },
     "1692950": {
-      "rank": 9437,
+      "rank": 3910,
       "estimate": "<7k",
       "name": "Ninja Simulator: Prologue"
     },
-    "2282790": {
-      "rank": 6509,
+    "2058070": {
+      "rank": 4187,
       "estimate": "<7k",
+      "name": "Stellar Watch"
+    },
+    "2282790": {
+      "rank": 1134,
+      "estimate": "25k+",
       "name": "RIFTSTORM"
     },
     "2466000": {
-      "rank": 9619,
-      "estimate": "<7k",
+      "rank": 2565,
+      "estimate": "7k+",
       "name": "Superstore Simulator"
     },
     "2537650": {
-      "rank": 5417,
-      "estimate": "<7k",
+      "rank": 1308,
+      "estimate": "25k+",
       "name": "MEATSHOT"
     },
     "2628880": {
-      "rank": 3032,
+      "rank": 3687,
       "estimate": "<7k",
       "name": "Blood & Chaos"
     },
     "2994200": {
-      "rank": 4670,
+      "rank": 3580,
       "estimate": "<7k",
       "name": "Ritter & Rotwein"
     },
     "3116870": {
-      "rank": 7260,
+      "rank": 4671,
       "estimate": "<7k",
       "name": "Deus Mantle"
     },
     "3177710": {
-      "rank": 2066,
-      "estimate": "7k+",
+      "rank": 1545,
+      "estimate": "15k+",
       "name": "On The Train"
     },
     "3301300": {
-      "rank": 5872,
-      "estimate": "<7k",
+      "rank": 2737,
+      "estimate": "7k+",
       "name": "Wild Terrain"
     },
     "3336070": {
-      "rank": 6082,
-      "estimate": "<7k",
+      "rank": 1419,
+      "estimate": "25k+",
       "name": "CYBRLICH and the Death Cult of Labor"
     },
     "3420630": {
-      "rank": 7831,
+      "rank": 4542,
       "estimate": "<7k",
       "name": "Alchemy and Weldcraft"
     },
     "3631230": {
-      "rank": 1172,
-      "estimate": "25k+",
+      "rank": 564,
+      "estimate": "40k+",
       "name": "CastleMiner Z : Resurrection"
     },
-    "3684300": {
-      "rank": 9777,
-      "estimate": "<7k",
-      "name": "War of the Worlds: New York"
-    },
     "3812600": {
-      "rank": 133,
+      "rank": 117,
       "estimate": "200k+",
       "name": "ReStory: Chill Electronics Repairs"
     },
     "3813870": {
-      "rank": 1755,
+      "rank": 1942,
       "estimate": "15k+",
       "name": "BLOK"
     },
-    "3828230": {
-      "rank": 8249,
-      "estimate": "<7k",
-      "name": "KATAMI: A Paper Story"
-    },
     "3848900": {
-      "rank": 838,
-      "estimate": "40k+",
+      "rank": 1588,
+      "estimate": "15k+",
       "name": "Sucker for Love: Crush Landing"
     },
-    "3912030": {
-      "rank": 7177,
-      "estimate": "<7k",
-      "name": "Gnomageddon: Forge of Infinity"
-    },
     "3915840": {
-      "rank": 2354,
-      "estimate": "7k+",
+      "rank": 664,
+      "estimate": "40k+",
       "name": "Steel Ark"
     },
-    "4008910": {
-      "rank": 6815,
-      "estimate": "<7k",
-      "name": "Little Samson"
-    },
-    "4018740": {
-      "rank": 3008,
-      "estimate": "<7k",
-      "name": "Hariti"
-    },
-    "4039950": {
-      "rank": 4707,
-      "estimate": "<7k",
-      "name": "RENNSPORT Pre-Order Bonus"
-    },
     "4047270": {
-      "rank": 246,
-      "estimate": "80k+",
+      "rank": 2697,
+      "estimate": "7k+",
       "name": "Orc Incremental"
     },
-    "4059710": {
-      "rank": 7456,
-      "estimate": "<7k",
-      "name": "MineEngineer"
-    },
     "4105860": {
-      "rank": 8655,
-      "estimate": "<7k",
+      "rank": 2879,
+      "estimate": "7k+",
       "name": "Rising Sun"
     },
-    "4108940": {
-      "rank": 9659,
-      "estimate": "<7k",
-      "name": "Vitavania"
-    },
-    "4138420": {
-      "rank": 3540,
-      "estimate": "<7k",
-      "name": "Kingspath"
-    },
-    "4262480": {
-      "rank": 7011,
-      "estimate": "<7k",
-      "name": "Sneaker Store Simulator"
-    },
-    "4325460": {
-      "rank": 9629,
-      "estimate": "<7k",
-      "name": "ᴛᴜᴍᴏʀ ɴᴇᴄʀᴏꜱɪꜱ ꜰᴀᴄᴛᴏʀ:// αᴍᴇɴ"
-    },
-    "4373900": {
-      "rank": 8316,
-      "estimate": "<7k",
-      "name": "WESTLINE"
-    },
     "4414560": {
-      "rank": 294,
-      "estimate": "80k+",
+      "rank": 1077,
+      "estimate": "25k+",
       "name": "CORDURA"
-    },
-    "4429670": {
-      "rank": 7912,
-      "estimate": "<7k",
-      "name": "The Ayna"
-    },
-    "4444330": {
-      "rank": 8604,
-      "estimate": "<7k",
-      "name": "Quackoban"
-    },
-    "4485030": {
-      "rank": 9688,
-      "estimate": "<7k",
-      "name": "Femboys in Parkour"
-    },
-    "4512020": {
-      "rank": 5235,
-      "estimate": "<7k",
-      "name": "Ivy‘s Dream Cafe"
-    },
-    "4682860": {
-      "rank": 5694,
-      "estimate": "<7k",
-      "name": "Kamiya Detective Agency: High School Girl Vanished in The Summer"
     }
   }
 }

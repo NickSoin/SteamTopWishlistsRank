@@ -1,233 +1,103 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 45,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 19,
   "entries": {
-    "646030": {
-      "rank": 8292,
+    "981720": {
+      "rank": 2701,
+      "estimate": "7k+",
+      "name": "Lore Finder"
+    },
+    "1068220": {
+      "rank": 3073,
       "estimate": "<7k",
-      "name": "Redneck Rampage: Possum Bayou"
+      "name": "My Little Army"
     },
     "1174510": {
-      "rank": 8337,
-      "estimate": "<7k",
+      "rank": 2425,
+      "estimate": "7k+",
       "name": "Call of Saregnar"
     },
     "1355900": {
-      "rank": 2392,
-      "estimate": "7k+",
+      "rank": 1484,
+      "estimate": "25k+",
       "name": "Tattered Banners"
     },
     "1547880": {
-      "rank": 8973,
+      "rank": 3134,
       "estimate": "<7k",
       "name": "Aurascope"
     },
     "1685630": {
-      "rank": 9770,
+      "rank": 4572,
       "estimate": "<7k",
       "name": "浊之铃"
     },
+    "1874980": {
+      "rank": 2497,
+      "estimate": "7k+",
+      "name": "Ready for Riot"
+    },
     "2288520": {
-      "rank": 1384,
-      "estimate": "25k+",
+      "rank": 2101,
+      "estimate": "7k+",
       "name": "The Quiet Things"
     },
     "2340970": {
-      "rank": 348,
-      "estimate": "80k+",
+      "rank": 45,
+      "estimate": "600k+",
       "name": "Railborn"
     },
-    "2596900": {
-      "rank": 3698,
-      "estimate": "<7k",
-      "name": "Disarray"
-    },
-    "2606690": {
-      "rank": 1890,
-      "estimate": "15k+",
-      "name": "Protocol Non-Human"
-    },
-    "2672020": {
-      "rank": 1063,
-      "estimate": "25k+",
-      "name": "Llewl and the Lyre of Two Worlds"
-    },
     "2861080": {
-      "rank": 467,
-      "estimate": "80k+",
+      "rank": 48,
+      "estimate": "600k+",
       "name": "Haunted Paws"
     },
     "2921670": {
-      "rank": 1700,
-      "estimate": "15k+",
+      "rank": 4306,
+      "estimate": "<7k",
       "name": "Cultivation Realm: Card Survival"
     },
     "3002550": {
-      "rank": 1441,
-      "estimate": "25k+",
+      "rank": 1800,
+      "estimate": "15k+",
       "name": "Shadow Sacrament: The Roots of Evil"
     },
     "3058760": {
-      "rank": 6035,
+      "rank": 3137,
       "estimate": "<7k",
       "name": "Lost in Limbo"
     },
-    "3083210": {
-      "rank": 1468,
-      "estimate": "25k+",
-      "name": "Block 17"
-    },
-    "3182290": {
-      "rank": 4647,
-      "estimate": "<7k",
-      "name": "Arctis"
-    },
-    "3375140": {
-      "rank": 9750,
-      "estimate": "<7k",
-      "name": "PROBABILITY KING"
-    },
     "3475880": {
-      "rank": 1490,
-      "estimate": "25k+",
+      "rank": 973,
+      "estimate": "40k+",
       "name": "Train Goes Right"
     },
-    "3745860": {
-      "rank": 2410,
-      "estimate": "7k+",
-      "name": "Space Revolver"
-    },
-    "3850650": {
-      "rank": 6814,
-      "estimate": "<7k",
-      "name": "Mini Dash"
-    },
-    "3961370": {
-      "rank": 2773,
-      "estimate": "7k+",
-      "name": "Tornado Hunter"
-    },
     "3989790": {
-      "rank": 733,
-      "estimate": "40k+",
+      "rank": 3259,
+      "estimate": "<7k",
       "name": "Cranked"
     },
-    "4024980": {
-      "rank": 5621,
-      "estimate": "<7k",
-      "name": "MIA: Memory Fragments"
-    },
-    "4034440": {
-      "rank": 1781,
-      "estimate": "15k+",
-      "name": "Unseal"
-    },
     "4048520": {
-      "rank": 390,
-      "estimate": "80k+",
+      "rank": 961,
+      "estimate": "40k+",
       "name": "HAELE 3D - Pose Studio Max - Anatomy Drawing References"
     },
-    "4084160": {
-      "rank": 9712,
-      "estimate": "<7k",
-      "name": "Conqueror's Stage"
-    },
-    "4098600": {
-      "rank": 7264,
-      "estimate": "<7k",
-      "name": "Idle Harem Guild"
-    },
-    "4105630": {
-      "rank": 8187,
-      "estimate": "<7k",
-      "name": "Island Way Too Nice"
-    },
     "4110720": {
-      "rank": 3433,
-      "estimate": "<7k",
+      "rank": 2994,
+      "estimate": "7k+",
       "name": "Shardpunk 2"
     },
-    "4159680": {
-      "rank": 5134,
-      "estimate": "<7k",
-      "name": "Barfender"
-    },
-    "4228450": {
-      "rank": 4911,
-      "estimate": "<7k",
-      "name": "Corner Arcade"
-    },
-    "4260850": {
-      "rank": 9555,
-      "estimate": "<7k",
-      "name": "Till & Toast"
-    },
-    "4287480": {
-      "rank": 3920,
-      "estimate": "<7k",
-      "name": "Backrooms Protocol"
-    },
-    "4311790": {
-      "rank": 5092,
-      "estimate": "<7k",
-      "name": "Pool"
-    },
-    "4347780": {
-      "rank": 8517,
-      "estimate": "<7k",
-      "name": "Code Tycoon"
-    },
-    "4358380": {
-      "rank": 4206,
-      "estimate": "<7k",
-      "name": "Qianli: The Vastscape Scroll"
-    },
-    "4443330": {
-      "rank": 4029,
-      "estimate": "<7k",
-      "name": "Blood Arena Path of Steel: Prologue"
-    },
     "4483420": {
-      "rank": 1514,
-      "estimate": "15k+",
+      "rank": 3376,
+      "estimate": "<7k",
       "name": "Luna Has Gone"
     },
-    "4485530": {
-      "rank": 7539,
-      "estimate": "<7k",
-      "name": "SVAMP"
-    },
-    "4513880": {
-      "rank": 6298,
-      "estimate": "<7k",
-      "name": "Could You Be a Gal Master?"
-    },
-    "4556010": {
-      "rank": 2606,
-      "estimate": "7k+",
-      "name": "Hunt: Showdown 1896 - It Takes a Rogue"
-    },
-    "4576210": {
-      "rank": 8666,
-      "estimate": "<7k",
-      "name": "Wild Combat"
-    },
     "4668010": {
-      "rank": 2083,
-      "estimate": "7k+",
+      "rank": 4358,
+      "estimate": "<7k",
       "name": "Full Belly Breakout"
-    },
-    "4705650": {
-      "rank": 3200,
-      "estimate": "<7k",
-      "name": "Silent Shark"
-    },
-    "4730360": {
-      "rank": 7657,
-      "estimate": "<7k",
-      "name": "LIMINALITY"
     }
   }
 }

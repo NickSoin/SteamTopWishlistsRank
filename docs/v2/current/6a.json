@@ -1,218 +1,108 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 42,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 20,
   "entries": {
     "1776200": {
-      "rank": 3500,
-      "estimate": "<7k",
+      "rank": 1682,
+      "estimate": "15k+",
       "name": "The Inn Between"
     },
     "1797850": {
-      "rank": 8076,
-      "estimate": "<7k",
+      "rank": 1352,
+      "estimate": "25k+",
       "name": "Goodlands"
     },
     "2134470": {
-      "rank": 3221,
-      "estimate": "<7k",
+      "rank": 868,
+      "estimate": "40k+",
       "name": "34EVERLAST"
     },
     "2228250": {
-      "rank": 2053,
-      "estimate": "7k+",
+      "rank": 801,
+      "estimate": "40k+",
       "name": "Endurance Motorsport Series"
     },
     "2408030": {
-      "rank": 4382,
-      "estimate": "<7k",
+      "rank": 1493,
+      "estimate": "25k+",
       "name": "Anime Tokyo"
     },
     "2688780": {
-      "rank": 632,
-      "estimate": "40k+",
+      "rank": 1727,
+      "estimate": "15k+",
       "name": "Odd Town"
     },
     "2838950": {
-      "rank": 620,
-      "estimate": "40k+",
+      "rank": 189,
+      "estimate": "200k+",
       "name": "Game of Thrones: War for Westeros"
     },
     "2849910": {
-      "rank": 7115,
+      "rank": 4035,
       "estimate": "<7k",
       "name": "Blood Crossroad"
     },
-    "2957950": {
-      "rank": 8963,
-      "estimate": "<7k",
-      "name": "Whale Singer: Rise of the Leviathan"
-    },
     "2999040": {
-      "rank": 3991,
-      "estimate": "<7k",
+      "rank": 1723,
+      "estimate": "15k+",
       "name": "Times of Survival"
     },
-    "3016700": {
-      "rank": 9899,
-      "estimate": "<7k",
-      "name": "Miss Mantis 螳螂小姐"
-    },
     "3086590": {
-      "rank": 462,
+      "rank": 294,
       "estimate": "80k+",
       "name": "Gods, Death & Reapers"
     },
-    "3095020": {
-      "rank": 6111,
-      "estimate": "<7k",
-      "name": "Madness Afloat"
-    },
     "3154460": {
-      "rank": 2391,
-      "estimate": "7k+",
+      "rank": 637,
+      "estimate": "40k+",
       "name": "Office Party"
     },
     "3245140": {
-      "rank": 301,
+      "rank": 282,
       "estimate": "80k+",
       "name": "Hello Sunshine"
     },
     "3280240": {
-      "rank": 544,
-      "estimate": "40k+",
+      "rank": 2481,
+      "estimate": "7k+",
       "name": "Nailcrown"
     },
-    "3306960": {
-      "rank": 9319,
-      "estimate": "<7k",
-      "name": "Tinymon RPG"
-    },
-    "3403540": {
-      "rank": 9423,
-      "estimate": "<7k",
-      "name": "Space Grunts: Chrono Shard"
-    },
-    "3426840": {
-      "rank": 7348,
-      "estimate": "<7k",
-      "name": "Banquet of Nausea"
-    },
     "3485810": {
-      "rank": 333,
+      "rank": 392,
       "estimate": "80k+",
       "name": "Kena: Scars of Kosmora"
     },
-    "3490760": {
-      "rank": 8773,
-      "estimate": "<7k",
-      "name": "Song of Maka"
-    },
-    "3603380": {
-      "rank": 8922,
-      "estimate": "<7k",
-      "name": "Death Kitchen"
-    },
-    "3652470": {
-      "rank": 7838,
-      "estimate": "<7k",
-      "name": "Max Madness"
-    },
     "3736800": {
-      "rank": 2929,
-      "estimate": "7k+",
+      "rank": 1686,
+      "estimate": "15k+",
       "name": "Dungeon Picnic"
     },
-    "3792820": {
-      "rank": 2855,
-      "estimate": "7k+",
-      "name": "Wedding Planic!"
-    },
     "3914860": {
-      "rank": 156,
-      "estimate": "200k+",
+      "rank": 1318,
+      "estimate": "25k+",
       "name": "Moss: The Forgotten Relic"
     },
+    "3930130": {
+      "rank": 4087,
+      "estimate": "<7k",
+      "name": "Basalt: The Cursed Vein"
+    },
     "4031300": {
-      "rank": 2070,
+      "rank": 2382,
       "estimate": "7k+",
       "name": "WORLD WAR V: LAST CALL"
     },
     "4072240": {
-      "rank": 964,
+      "rank": 737,
       "estimate": "40k+",
       "name": "Woman Simulator"
     },
-    "4075740": {
-      "rank": 6534,
-      "estimate": "<7k",
-      "name": "Little Sheep Valley"
-    },
-    "4157310": {
-      "rank": 5233,
-      "estimate": "<7k",
-      "name": "Observer The Cat"
-    },
-    "4182600": {
-      "rank": 2987,
-      "estimate": "7k+",
-      "name": "Dark Engines"
-    },
     "4274990": {
-      "rank": 523,
-      "estimate": "40k+",
+      "rank": 2548,
+      "estimate": "7k+",
       "name": "Minibus Simulator"
-    },
-    "4286050": {
-      "rank": 4493,
-      "estimate": "<7k",
-      "name": "Redast"
-    },
-    "4500480": {
-      "rank": 5398,
-      "estimate": "<7k",
-      "name": "Then They Came for Me"
-    },
-    "4517570": {
-      "rank": 3871,
-      "estimate": "<7k",
-      "name": "STARCULT. Night: Twisted Age"
-    },
-    "4529210": {
-      "rank": 7569,
-      "estimate": "<7k",
-      "name": "Iman"
-    },
-    "4558690": {
-      "rank": 5354,
-      "estimate": "<7k",
-      "name": "SkyChart: Airline Executive"
-    },
-    "4632750": {
-      "rank": 5604,
-      "estimate": "<7k",
-      "name": "Coldblooded"
-    },
-    "4655810": {
-      "rank": 8720,
-      "estimate": "<7k",
-      "name": "Decide Your Fate"
-    },
-    "4700420": {
-      "rank": 6781,
-      "estimate": "<7k",
-      "name": "SKEW"
-    },
-    "4723320": {
-      "rank": 6523,
-      "estimate": "<7k",
-      "name": "Eternal Dread"
-    },
-    "4728970": {
-      "rank": 9958,
-      "estimate": "<7k",
-      "name": "Escape, Chef Danegade!"
     }
   }
 }

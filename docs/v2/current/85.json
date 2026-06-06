@@ -1,273 +1,168 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 53,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 32,
   "entries": {
-    "1342400": {
-      "rank": 8966,
+    "1235470": {
+      "rank": 3500,
       "estimate": "<7k",
+      "name": "Lotus Knight"
+    },
+    "1287930": {
+      "rank": 3449,
+      "estimate": "<7k",
+      "name": "Silent Santicado"
+    },
+    "1319310": {
+      "rank": 4059,
+      "estimate": "<7k",
+      "name": "Meor"
+    },
+    "1342400": {
+      "rank": 1191,
+      "estimate": "25k+",
       "name": "Burning Lands"
     },
-    "1792100": {
-      "rank": 3464,
+    "1398920": {
+      "rank": 4451,
       "estimate": "<7k",
+      "name": "Virtuverse"
+    },
+    "1564060": {
+      "rank": 4318,
+      "estimate": "<7k",
+      "name": "Lighthouse of Madness"
+    },
+    "1792100": {
+      "rank": 542,
+      "estimate": "40k+",
       "name": "Motel Simulator"
     },
     "1826380": {
-      "rank": 3694,
-      "estimate": "<7k",
+      "rank": 1806,
+      "estimate": "15k+",
       "name": "Mayhem Brawler II: Best of Both Worlds"
     },
+    "1827440": {
+      "rank": 2617,
+      "estimate": "7k+",
+      "name": "Sailors: Age of Corsairs"
+    },
+    "1891250": {
+      "rank": 3582,
+      "estimate": "<7k",
+      "name": "Android Simulator"
+    },
     "2124360": {
-      "rank": 1972,
-      "estimate": "15k+",
+      "rank": 4721,
+      "estimate": "<7k",
       "name": "HYPER PRIMATE"
     },
     "2125820": {
-      "rank": 6337,
+      "rank": 4382,
       "estimate": "<7k",
       "name": "Shortcuit"
     },
     "2327640": {
-      "rank": 6613,
-      "estimate": "<7k",
+      "rank": 1839,
+      "estimate": "15k+",
       "name": "Deadlock Station"
     },
-    "2399700": {
-      "rank": 5839,
-      "estimate": "<7k",
-      "name": "荷莱Horae"
-    },
     "2491550": {
-      "rank": 5056,
+      "rank": 4553,
       "estimate": "<7k",
       "name": "Wandersky"
     },
     "2539340": {
-      "rank": 1619,
+      "rank": 1550,
       "estimate": "15k+",
       "name": "PlanetSmith"
     },
-    "2551250": {
-      "rank": 5415,
+    "2571560": {
+      "rank": 3965,
       "estimate": "<7k",
-      "name": "Hexforger"
+      "name": "ARCANA"
     },
     "2590240": {
-      "rank": 46,
+      "rank": 32,
       "estimate": "600k+",
       "name": "METRO 2039"
     },
     "2641720": {
-      "rank": 8971,
+      "rank": 4719,
       "estimate": "<7k",
       "name": "Summer at the Edge of the Universe"
     },
     "2893350": {
-      "rank": 2564,
-      "estimate": "7k+",
+      "rank": 545,
+      "estimate": "40k+",
       "name": "Liftlands"
     },
     "2993920": {
-      "rank": 2906,
+      "rank": 2847,
       "estimate": "7k+",
       "name": "Revived House"
     },
     "2999500": {
-      "rank": 1983,
-      "estimate": "15k+",
+      "rank": 3598,
+      "estimate": "<7k",
       "name": "STUNTBOOST"
     },
-    "3069130": {
-      "rank": 5815,
-      "estimate": "<7k",
-      "name": "FLASHLOOP"
-    },
-    "3230260": {
-      "rank": 8340,
-      "estimate": "<7k",
-      "name": "Grow Wild"
-    },
-    "3277320": {
-      "rank": 3610,
-      "estimate": "<7k",
-      "name": "Tumbles"
-    },
     "3396160": {
-      "rank": 2449,
+      "rank": 2258,
       "estimate": "7k+",
       "name": "Warfactory: Automation RTS"
     },
-    "3569410": {
-      "rank": 1050,
-      "estimate": "25k+",
-      "name": "Abigail"
-    },
-    "3644010": {
-      "rank": 9260,
+    "3480500": {
+      "rank": 3383,
       "estimate": "<7k",
-      "name": "Zjawa: Bloodstained Soul"
+      "name": "Anomalous City"
     },
-    "3648960": {
-      "rank": 3345,
+    "3693380": {
+      "rank": 4650,
       "estimate": "<7k",
-      "name": "Ko-Ops"
+      "name": "Richat Structure"
     },
     "3745920": {
-      "rank": 3465,
-      "estimate": "<7k",
+      "rank": 1103,
+      "estimate": "25k+",
       "name": "Safeguard Saga"
     },
-    "3845510": {
-      "rank": 9002,
-      "estimate": "<7k",
-      "name": "Vexcell"
-    },
     "3875690": {
-      "rank": 321,
-      "estimate": "80k+",
+      "rank": 194,
+      "estimate": "200k+",
       "name": "Totally Legit Wheeler Seller"
     },
-    "4013510": {
-      "rank": 4195,
-      "estimate": "<7k",
-      "name": "Monster Alchemy"
-    },
     "4030030": {
-      "rank": 2654,
-      "estimate": "7k+",
+      "rank": 4562,
+      "estimate": "<7k",
       "name": "bloodlust.exe"
     },
-    "4033970": {
-      "rank": 4044,
-      "estimate": "<7k",
-      "name": "Terra Traveler"
-    },
-    "4084020": {
-      "rank": 3151,
-      "estimate": "<7k",
-      "name": "盛夏症候群"
-    },
-    "4149910": {
-      "rank": 8224,
-      "estimate": "<7k",
-      "name": "Guildamation"
-    },
     "4165660": {
-      "rank": 4931,
-      "estimate": "<7k",
+      "rank": 2105,
+      "estimate": "7k+",
       "name": "Dungeon Treaders"
     },
     "4167640": {
-      "rank": 2069,
-      "estimate": "7k+",
+      "rank": 1692,
+      "estimate": "15k+",
       "name": "Horde of Distraction"
     },
-    "4176000": {
-      "rank": 3611,
-      "estimate": "<7k",
-      "name": "False Myth 2"
-    },
     "4220770": {
-      "rank": 2633,
-      "estimate": "7k+",
+      "rank": 4136,
+      "estimate": "<7k",
       "name": "Static Between Stations"
     },
-    "4244040": {
-      "rank": 1626,
-      "estimate": "15k+",
-      "name": "Sector 13: Haunted Woods"
-    },
     "4297840": {
-      "rank": 1589,
-      "estimate": "15k+",
+      "rank": 3025,
+      "estimate": "<7k",
       "name": "Rock Bottom"
     },
-    "4347680": {
-      "rank": 6346,
-      "estimate": "<7k",
-      "name": "DEADWAVE"
-    },
-    "4375520": {
-      "rank": 5825,
-      "estimate": "<7k",
-      "name": "PlanetForge Protocol"
-    },
-    "4395030": {
-      "rank": 3719,
-      "estimate": "<7k",
-      "name": "B-Prison Unchain"
-    },
-    "4436560": {
-      "rank": 2914,
-      "estimate": "7k+",
-      "name": "We Need More Humans!"
-    },
-    "4448240": {
-      "rank": 4687,
-      "estimate": "<7k",
-      "name": "Thunder Hoop Collection (QUByte Classics)"
-    },
-    "4492610": {
-      "rank": 866,
-      "estimate": "40k+",
-      "name": "Their Story."
-    },
     "4505150": {
-      "rank": 1061,
-      "estimate": "25k+",
+      "rank": 3654,
+      "estimate": "<7k",
       "name": "THE WELL IS NOT EMPTY"
-    },
-    "4540900": {
-      "rank": 7107,
-      "estimate": "<7k",
-      "name": "Reclaim: Earth Protocol"
-    },
-    "4550750": {
-      "rank": 5715,
-      "estimate": "<7k",
-      "name": "Makoa Shelf"
-    },
-    "4551090": {
-      "rank": 8659,
-      "estimate": "<7k",
-      "name": "Unwoven"
-    },
-    "4576840": {
-      "rank": 3943,
-      "estimate": "<7k",
-      "name": "MayDay MayDie"
-    },
-    "4600970": {
-      "rank": 8146,
-      "estimate": "<7k",
-      "name": "Medium Chronicles: Room 644"
-    },
-    "4605490": {
-      "rank": 1290,
-      "estimate": "25k+",
-      "name": "Kirk Mephisto"
-    },
-    "4611240": {
-      "rank": 6146,
-      "estimate": "<7k",
-      "name": "Music Manager"
-    },
-    "4678340": {
-      "rank": 6437,
-      "estimate": "<7k",
-      "name": "Eternal Quest"
-    },
-    "4719360": {
-      "rank": 6794,
-      "estimate": "<7k",
-      "name": "Duel Mahjong"
-    },
-    "4761550": {
-      "rank": 3531,
-      "estimate": "<7k",
-      "name": "ABSOLUTELY NOTHING GOOD"
     }
   }
 }

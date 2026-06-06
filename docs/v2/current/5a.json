@@ -1,160 +1,70 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 12,
   "entries": {
+    "1706100": {
+      "rank": 3557,
+      "estimate": "<7k",
+      "name": "Untrue New World"
+    },
     "2210150": {
-      "rank": 1606,
-      "estimate": "15k+",
+      "rank": 510,
+      "estimate": "40k+",
       "name": "At Fate's End"
     },
+    "2421080": {
+      "rank": 3493,
+      "estimate": "<7k",
+      "name": "Synth Beasts"
+    },
     "2474770": {
-      "rank": 418,
+      "rank": 359,
       "estimate": "80k+",
       "name": "Momento",
       "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1783238125330044"
     },
-    "2837780": {
-      "rank": 4194,
-      "estimate": "<7k",
-      "name": "KARJALA"
-    },
     "3144340": {
-      "rank": 5338,
+      "rank": 3914,
       "estimate": "<7k",
       "name": "Cult of PiN"
     },
-    "3163400": {
-      "rank": 8329,
-      "estimate": "<7k",
-      "name": "Milkman"
-    },
     "3262820": {
-      "rank": 942,
+      "rank": 802,
       "estimate": "40k+",
       "name": "Uncanny Valley: Checkpoint"
     },
-    "3332970": {
-      "rank": 8751,
-      "estimate": "<7k",
-      "name": "Twisted Grove"
-    },
-    "3360270": {
-      "rank": 3505,
-      "estimate": "<7k",
-      "name": "Potion Promise"
-    },
-    "3367020": {
-      "rank": 2577,
-      "estimate": "7k+",
-      "name": "UNGALAND!"
-    },
-    "3367990": {
-      "rank": 9267,
-      "estimate": "<7k",
-      "name": "Delicious - Taste of Truth"
-    },
-    "3492120": {
-      "rank": 3953,
-      "estimate": "<7k",
-      "name": "Legion Was Here"
-    },
-    "3501040": {
-      "rank": 8362,
-      "estimate": "<7k",
-      "name": "Ortomnia - Broken Trinity"
-    },
     "3561600": {
-      "rank": 3865,
-      "estimate": "<7k",
+      "rank": 2561,
+      "estimate": "7k+",
       "name": "Fortress Connected"
     },
     "3586760": {
-      "rank": 6348,
+      "rank": 4430,
       "estimate": "<7k",
       "name": "Construction Crew"
     },
     "3597340": {
-      "rank": 1005,
-      "estimate": "25k+",
+      "rank": 2064,
+      "estimate": "7k+",
       "name": "After Hell Freezes Over"
     },
-    "3634320": {
-      "rank": 3787,
-      "estimate": "<7k",
-      "name": "NebulArena"
-    },
-    "3726940": {
-      "rank": 3172,
-      "estimate": "<7k",
-      "name": "Pickle Panic"
-    },
     "3789590": {
-      "rank": 7736,
+      "rank": 4727,
       "estimate": "<7k",
       "name": "100 Astro Cats"
     },
-    "3851460": {
-      "rank": 3259,
-      "estimate": "<7k",
-      "name": "Smash 'N Grab"
-    },
-    "3897080": {
-      "rank": 3116,
-      "estimate": "<7k",
-      "name": "Dimenshot"
-    },
     "4004300": {
-      "rank": 2821,
-      "estimate": "7k+",
+      "rank": 3086,
+      "estimate": "<7k",
       "name": "100 Chernobyl Cats"
     },
-    "4211380": {
-      "rank": 4737,
-      "estimate": "<7k",
-      "name": "Loop Tower"
-    },
-    "4262870": {
-      "rank": 6835,
-      "estimate": "<7k",
-      "name": "Pack and Ship: Warehouse Simulator"
-    },
-    "4298130": {
-      "rank": 8012,
-      "estimate": "<7k",
-      "name": "Paper Rogue"
-    },
     "4454510": {
-      "rank": 1272,
-      "estimate": "25k+",
+      "rank": 4548,
+      "estimate": "<7k",
       "name": "Sock Puppet Superstar"
-    },
-    "4628270": {
-      "rank": 2774,
-      "estimate": "7k+",
-      "name": "Hollowed Oath"
-    },
-    "4642670": {
-      "rank": 4818,
-      "estimate": "<7k",
-      "name": "超时空怪盗"
-    },
-    "4673230": {
-      "rank": 5442,
-      "estimate": "<7k",
-      "name": "Breeze Of Adventure"
-    },
-    "4681420": {
-      "rank": 4748,
-      "estimate": "<7k",
-      "name": "EA SPORTS™ MVP Bundle (College Football 27 Deluxe Edition & Madden NFL 27 Deluxe Edition) Pre-order Content"
-    },
-    "4732960": {
-      "rank": 8903,
-      "estimate": "<7k",
-      "name": "Don't Go to the Bathroom"
     }
   }
 }

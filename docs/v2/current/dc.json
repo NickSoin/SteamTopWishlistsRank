@@ -1,193 +1,103 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 19,
   "entries": {
-    "1389820": {
-      "rank": 9255,
-      "estimate": "<7k",
-      "name": "Animal Rescue"
-    },
     "1651400": {
-      "rank": 8456,
-      "estimate": "<7k",
+      "rank": 2967,
+      "estimate": "7k+",
       "name": "Touhou: the Unreachable Oneiroborder"
     },
     "1847180": {
-      "rank": 6638,
-      "estimate": "<7k",
+      "rank": 1567,
+      "estimate": "15k+",
       "name": "MORTAL CRUX"
     },
     "1937070": {
-      "rank": 663,
+      "rank": 659,
       "estimate": "40k+",
       "name": "Engines Of Destruction"
     },
     "2446760": {
-      "rank": 8030,
-      "estimate": "<7k",
+      "rank": 2155,
+      "estimate": "7k+",
       "name": "YASUKE: A Lost Descendant"
     },
     "2707670": {
-      "rank": 2840,
-      "estimate": "7k+",
+      "rank": 1349,
+      "estimate": "25k+",
       "name": "SCP: Valravn"
     },
     "2710740": {
-      "rank": 1851,
-      "estimate": "15k+",
+      "rank": 532,
+      "estimate": "40k+",
       "name": "Lost Legions"
     },
     "2850600": {
-      "rank": 6141,
+      "rank": 4502,
       "estimate": "<7k",
       "name": "Mystical Tactics"
     },
     "2864290": {
-      "rank": 1824,
-      "estimate": "15k+",
+      "rank": 4103,
+      "estimate": "<7k",
       "name": "Aggelos 2"
     },
     "2867800": {
-      "rank": 1438,
-      "estimate": "25k+",
+      "rank": 3063,
+      "estimate": "<7k",
       "name": "DEPERSON"
     },
     "2882720": {
-      "rank": 99,
-      "estimate": "300k+",
+      "rank": 472,
+      "estimate": "80k+",
       "name": "Koshmar: The Last Reverie"
     },
     "2915770": {
-      "rank": 1336,
-      "estimate": "25k+",
+      "rank": 589,
+      "estimate": "40k+",
       "name": "Rescue Ops: Wildfire"
     },
     "2975130": {
-      "rank": 9023,
+      "rank": 3398,
       "estimate": "<7k",
       "name": "ULTRA MUSHROOM"
     },
     "3037040": {
-      "rank": 4205,
-      "estimate": "<7k",
+      "rank": 2532,
+      "estimate": "7k+",
       "name": "Board Game Society"
     },
     "3045070": {
-      "rank": 6410,
+      "rank": 3506,
       "estimate": "<7k",
       "name": "MetalMercs"
     },
-    "3096940": {
-      "rank": 9595,
-      "estimate": "<7k",
-      "name": "Club Defenders"
-    },
     "3235000": {
-      "rank": 3074,
-      "estimate": "<7k",
+      "rank": 1049,
+      "estimate": "25k+",
       "name": "Kagura Survivors x Summer Memories"
     },
-    "3259730": {
-      "rank": 6831,
-      "estimate": "<7k",
-      "name": "Beautiful Life Show"
-    },
     "3357160": {
-      "rank": 7857,
+      "rank": 3457,
       "estimate": "<7k",
       "name": "HOLLOW MIRE"
     },
-    "3543400": {
-      "rank": 3167,
-      "estimate": "<7k",
-      "name": "Knightstones"
-    },
-    "3780520": {
-      "rank": 5332,
-      "estimate": "<7k",
-      "name": "Mercy Incore"
-    },
-    "3833620": {
-      "rank": 8070,
-      "estimate": "<7k",
-      "name": "Ariokan - create your cards, break the Meta"
-    },
     "3846480": {
-      "rank": 4579,
-      "estimate": "<7k",
+      "rank": 2592,
+      "estimate": "7k+",
       "name": "PLATONICA SPACE"
     },
     "3925750": {
-      "rank": 2253,
+      "rank": 2291,
       "estimate": "7k+",
       "name": "Generic Fighter Maybe"
     },
-    "4007000": {
-      "rank": 4204,
-      "estimate": "<7k",
-      "name": "Derby Creek"
-    },
-    "4212260": {
-      "rank": 7466,
-      "estimate": "<7k",
-      "name": "Saga of the Imperial Academy"
-    },
     "4272370": {
-      "rank": 889,
-      "estimate": "40k+",
+      "rank": 3569,
+      "estimate": "<7k",
       "name": "Coal Duty"
-    },
-    "4370670": {
-      "rank": 9489,
-      "estimate": "<7k",
-      "name": "To the Stars: Do Maid Robots Dream of Electric Grapefruit"
-    },
-    "4439250": {
-      "rank": 1900,
-      "estimate": "15k+",
-      "name": "Forza Horizon 6 Expansion 2"
-    },
-    "4446010": {
-      "rank": 4966,
-      "estimate": "<7k",
-      "name": "The First Million"
-    },
-    "4461220": {
-      "rank": 8578,
-      "estimate": "<7k",
-      "name": "WHISPERWOOD"
-    },
-    "4480100": {
-      "rank": 9164,
-      "estimate": "<7k",
-      "name": "Dynamine"
-    },
-    "4500150": {
-      "rank": 3100,
-      "estimate": "<7k",
-      "name": "Table 9"
-    },
-    "4511660": {
-      "rank": 4330,
-      "estimate": "<7k",
-      "name": "盛夏离与合 - 2K视频"
-    },
-    "4524800": {
-      "rank": 3983,
-      "estimate": "<7k",
-      "name": "Shellshock"
-    },
-    "4528220": {
-      "rank": 2963,
-      "estimate": "7k+",
-      "name": "MEOWMI: City Cat Chaos"
-    },
-    "4747540": {
-      "rank": 9135,
-      "estimate": "<7k",
-      "name": "Frontline Total Warfare"
     }
   }
 }

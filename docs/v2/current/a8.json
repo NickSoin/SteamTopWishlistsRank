@@ -1,293 +1,128 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 57,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 24,
   "entries": {
-    "858200": {
-      "rank": 9966,
-      "estimate": "<7k",
-      "name": "Scratch The Cat"
-    },
     "913170": {
-      "rank": 9328,
+      "rank": 4554,
       "estimate": "<7k",
       "name": "LetsGal"
     },
     "1026220": {
-      "rank": 9992,
+      "rank": 3735,
       "estimate": "<7k",
       "name": "Knights Province"
     },
+    "1222150": {
+      "rank": 2706,
+      "estimate": "7k+",
+      "name": "Her War"
+    },
+    "1285720": {
+      "rank": 1956,
+      "estimate": "15k+",
+      "name": "The Hauntings"
+    },
     "1303400": {
-      "rank": 7608,
-      "estimate": "<7k",
+      "rank": 1455,
+      "estimate": "25k+",
       "name": "Whisker Squadron: Untitled Space Game"
     },
     "1559720": {
-      "rank": 1458,
-      "estimate": "25k+",
+      "rank": 158,
+      "estimate": "200k+",
       "name": "We Harvest Shadows"
     },
-    "1678650": {
-      "rank": 2642,
-      "estimate": "7k+",
-      "name": "Box Knight"
-    },
     "2052710": {
-      "rank": 1827,
-      "estimate": "15k+",
+      "rank": 2547,
+      "estimate": "7k+",
       "name": "Hello Again"
     },
     "2321890": {
-      "rank": 2944,
-      "estimate": "7k+",
+      "rank": 1985,
+      "estimate": "15k+",
       "name": "Swordeye"
     },
     "2356360": {
-      "rank": 4293,
-      "estimate": "<7k",
+      "rank": 714,
+      "estimate": "40k+",
       "name": "Build the Garden of Easden"
     },
     "2606850": {
-      "rank": 1221,
-      "estimate": "25k+",
+      "rank": 4445,
+      "estimate": "<7k",
       "name": "Mimic"
     },
     "3058740": {
-      "rank": 6318,
-      "estimate": "<7k",
+      "rank": 2861,
+      "estimate": "7k+",
       "name": "Odds Chronicles"
     },
     "3103620": {
-      "rank": 2012,
-      "estimate": "7k+",
+      "rank": 1529,
+      "estimate": "15k+",
       "name": "Witch the Showdown"
     },
     "3105190": {
-      "rank": 8949,
-      "estimate": "<7k",
+      "rank": 2462,
+      "estimate": "7k+",
       "name": "CHILDREN OF SATURN"
     },
-    "3234920": {
-      "rank": 6747,
-      "estimate": "<7k",
-      "name": "Hexpand"
-    },
     "3273860": {
-      "rank": 2545,
-      "estimate": "7k+",
+      "rank": 3523,
+      "estimate": "<7k",
       "name": "MAW"
     },
     "3301000": {
-      "rank": 8265,
+      "rank": 4383,
       "estimate": "<7k",
       "name": "The Vast White"
     },
-    "3411260": {
-      "rank": 7070,
-      "estimate": "<7k",
-      "name": "Wallace & Gromit in The Grand Getaway"
-    },
     "3419080": {
-      "rank": 409,
-      "estimate": "80k+",
+      "rank": 1330,
+      "estimate": "25k+",
       "name": "The Regreening"
     },
-    "3552240": {
-      "rank": 7365,
-      "estimate": "<7k",
-      "name": "LEKANO WORLD ONLINE"
-    },
-    "3632940": {
-      "rank": 9069,
-      "estimate": "<7k",
-      "name": "Frost Kin"
-    },
-    "3697880": {
-      "rank": 5042,
-      "estimate": "<7k",
-      "name": "Legends Esport Manager"
-    },
-    "3704230": {
-      "rank": 5816,
-      "estimate": "<7k",
-      "name": "House of Petals"
-    },
-    "3737720": {
-      "rank": 4904,
-      "estimate": "<7k",
-      "name": "Pact of Blood"
-    },
-    "3745840": {
-      "rank": 1315,
-      "estimate": "25k+",
-      "name": "Hunger Lane"
-    },
     "3845210": {
-      "rank": 3166,
-      "estimate": "<7k",
+      "rank": 1517,
+      "estimate": "15k+",
       "name": "Papa Needs a Headshot"
     },
-    "3872160": {
-      "rank": 2026,
-      "estimate": "7k+",
-      "name": "Envido"
-    },
-    "3872810": {
-      "rank": 8566,
-      "estimate": "<7k",
-      "name": "Mythic Yi"
-    },
     "3919810": {
-      "rank": 4383,
-      "estimate": "<7k",
+      "rank": 1443,
+      "estimate": "25k+",
       "name": "Moulder"
     },
-    "3938910": {
-      "rank": 8534,
-      "estimate": "<7k",
-      "name": "Against All Skies"
-    },
-    "3949990": {
-      "rank": 7985,
-      "estimate": "<7k",
-      "name": "Evenfall"
-    },
-    "3985060": {
-      "rank": 3676,
-      "estimate": "<7k",
-      "name": "FLASH AND DIE"
-    },
     "4002450": {
-      "rank": 4780,
+      "rank": 4360,
       "estimate": "<7k",
       "name": "Italian Pizza Simulator"
     },
-    "4048250": {
-      "rank": 3906,
-      "estimate": "<7k",
-      "name": "Jiří Kára Simulátor"
-    },
-    "4056370": {
-      "rank": 2912,
-      "estimate": "7k+",
-      "name": "Magical Girl Yusya-chan and the Labyrinth of Lust"
-    },
     "4094350": {
-      "rank": 10,
-      "estimate": "1.5m+",
+      "rank": 537,
+      "estimate": "40k+",
       "name": "Online: 404"
     },
-    "4146080": {
-      "rank": 6646,
-      "estimate": "<7k",
-      "name": "Bring It"
-    },
     "4188680": {
-      "rank": 6595,
-      "estimate": "<7k",
+      "rank": 1764,
+      "estimate": "15k+",
       "name": "Walled Haven"
     },
-    "4234660": {
-      "rank": 7846,
-      "estimate": "<7k",
-      "name": "After-State:WoLong"
-    },
     "4253010": {
-      "rank": 651,
-      "estimate": "40k+",
+      "rank": 268,
+      "estimate": "80k+",
       "name": "Scars of Honor"
     },
     "4255580": {
-      "rank": 1603,
-      "estimate": "15k+",
+      "rank": 3016,
+      "estimate": "<7k",
       "name": "Mouse X"
     },
     "4279630": {
-      "rank": 229,
-      "estimate": "80k+",
+      "rank": 779,
+      "estimate": "40k+",
       "name": "Friendly Steps"
-    },
-    "4366350": {
-      "rank": 5943,
-      "estimate": "<7k",
-      "name": "Neon Null"
-    },
-    "4385780": {
-      "rank": 6428,
-      "estimate": "<7k",
-      "name": "Maldhalla"
-    },
-    "4398360": {
-      "rank": 2810,
-      "estimate": "7k+",
-      "name": "Reverse Dream of the Menasphere"
-    },
-    "4450440": {
-      "rank": 1122,
-      "estimate": "25k+",
-      "name": "Crownwarden"
-    },
-    "4496240": {
-      "rank": 4031,
-      "estimate": "<7k",
-      "name": "Suicide Mr. Fury"
-    },
-    "4498480": {
-      "rank": 8370,
-      "estimate": "<7k",
-      "name": "Hold My Thing"
-    },
-    "4530650": {
-      "rank": 3583,
-      "estimate": "<7k",
-      "name": "Reroll or Die"
-    },
-    "4540820": {
-      "rank": 1455,
-      "estimate": "25k+",
-      "name": "Kin and Conquest"
-    },
-    "4607460": {
-      "rank": 9296,
-      "estimate": "<7k",
-      "name": "Gauchesca"
-    },
-    "4614060": {
-      "rank": 7889,
-      "estimate": "<7k",
-      "name": "Exium: Theia"
-    },
-    "4614910": {
-      "rank": 9644,
-      "estimate": "<7k",
-      "name": "Sun Catcher"
-    },
-    "4620140": {
-      "rank": 6766,
-      "estimate": "<7k",
-      "name": "iMic - Voice Changer"
-    },
-    "4630400": {
-      "rank": 8476,
-      "estimate": "<7k",
-      "name": "Directors cut: Train"
-    },
-    "4753000": {
-      "rank": 4255,
-      "estimate": "<7k",
-      "name": "Surface Tension: Eclipse"
-    },
-    "4767160": {
-      "rank": 7860,
-      "estimate": "<7k",
-      "name": "Fox Wanderer"
-    },
-    "4794830": {
-      "rank": 2377,
-      "estimate": "7k+",
-      "name": "Crime Simulator - Ashen Creek DLC"
     }
   }
 }

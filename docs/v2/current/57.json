@@ -1,190 +1,115 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 36,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 21,
   "entries": {
+    "824840": {
+      "rank": 3502,
+      "estimate": "<7k",
+      "name": "Oi, Innkeep!"
+    },
+    "878210": {
+      "rank": 3463,
+      "estimate": "<7k",
+      "name": "MATCHO"
+    },
     "903930": {
-      "rank": 547,
+      "rank": 652,
       "estimate": "40k+",
       "name": "Brigador Killers"
     },
     "1236820": {
-      "rank": 9354,
+      "rank": 3970,
       "estimate": "<7k",
       "name": "Where The Clouds End"
     },
     "1349300": {
-      "rank": 5088,
-      "estimate": "<7k",
+      "rank": 725,
+      "estimate": "40k+",
       "name": "Yakuza Empire"
     },
     "1800250": {
-      "rank": 2051,
+      "rank": 2007,
       "estimate": "7k+",
       "name": "Void Soul Awakening"
     },
     "1905580": {
-      "rank": 3890,
-      "estimate": "<7k",
+      "rank": 1033,
+      "estimate": "25k+",
       "name": "Kloa - Child of the Forest"
     },
-    "1916980": {
-      "rank": 4856,
-      "estimate": "<7k",
-      "name": "Grotesk"
-    },
     "2014520": {
-      "rank": 5182,
-      "estimate": "<7k",
+      "rank": 1710,
+      "estimate": "15k+",
       "name": "Tails of Fate"
     },
     "2218540": {
-      "rank": 7266,
-      "estimate": "<7k",
+      "rank": 1592,
+      "estimate": "15k+",
       "name": "Heavy Duty Construction"
     },
     "2229030": {
-      "rank": 8928,
+      "rank": 4350,
       "estimate": "<7k",
       "name": "Little Nemo and the Nightmare Fiends"
     },
     "2361950": {
-      "rank": 6361,
+      "rank": 4282,
       "estimate": "<7k",
       "name": "Varsity High School Football"
     },
-    "2391940": {
-      "rank": 4253,
-      "estimate": "<7k",
-      "name": "ETRE"
-    },
-    "2490890": {
-      "rank": 9866,
-      "estimate": "<7k",
-      "name": "The Light of the Darkness: Origins"
-    },
     "2736370": {
-      "rank": 2923,
+      "rank": 2709,
       "estimate": "7k+",
       "name": "Helix: Descent N Ascent"
     },
     "2738660": {
-      "rank": 4107,
-      "estimate": "<7k",
+      "rank": 1093,
+      "estimate": "25k+",
       "name": "Mecha Simultactics",
       "actualWishlists": 6000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5842939267339000931"
     },
     "2872300": {
-      "rank": 671,
-      "estimate": "40k+",
+      "rank": 291,
+      "estimate": "80k+",
       "name": "ABYSS X ZERO"
     },
     "3061730": {
-      "rank": 5048,
-      "estimate": "<7k",
+      "rank": 2176,
+      "estimate": "7k+",
       "name": "Skateboard Knight"
     },
     "3100970": {
-      "rank": 1369,
-      "estimate": "25k+",
+      "rank": 2350,
+      "estimate": "7k+",
       "name": "Isle of Reveries"
     },
     "3312250": {
-      "rank": 6069,
+      "rank": 3608,
       "estimate": "<7k",
       "name": "FEAR OF FAITH"
     },
     "3431300": {
-      "rank": 1066,
-      "estimate": "25k+",
+      "rank": 923,
+      "estimate": "40k+",
       "name": "Slow Roads"
     },
-    "3542600": {
-      "rank": 6222,
-      "estimate": "<7k",
-      "name": "Rodobus Simulador"
-    },
     "3680100": {
-      "rank": 424,
+      "rank": 494,
       "estimate": "80k+",
       "name": "House Flipper 2 - Pets DLC"
     },
     "3741500": {
-      "rank": 5967,
-      "estimate": "<7k",
+      "rank": 2983,
+      "estimate": "7k+",
       "name": "LIMP KNIGHT"
     },
-    "3754050": {
-      "rank": 1512,
-      "estimate": "15k+",
-      "name": "Silvanis"
-    },
-    "3780770": {
-      "rank": 3841,
-      "estimate": "<7k",
-      "name": "Koromi"
-    },
-    "3911600": {
-      "rank": 9878,
-      "estimate": "<7k",
-      "name": "SCRATCH CO."
-    },
-    "4074890": {
-      "rank": 4986,
-      "estimate": "<7k",
-      "name": "Sibling Steelers ~Forge & Family~"
-    },
-    "4206930": {
-      "rank": 6725,
-      "estimate": "<7k",
-      "name": "Dyadem"
-    },
-    "4278830": {
-      "rank": 1569,
-      "estimate": "15k+",
-      "name": "New Times"
-    },
-    "4402820": {
-      "rank": 7200,
-      "estimate": "<7k",
-      "name": "WuLin Showdown"
-    },
-    "4498100": {
-      "rank": 4335,
-      "estimate": "<7k",
-      "name": "黄泉園（Yomi no Sono）"
-    },
-    "4528070": {
-      "rank": 3049,
-      "estimate": "<7k",
-      "name": "Before Darkness Falls™"
-    },
-    "4534000": {
-      "rank": 9552,
-      "estimate": "<7k",
-      "name": "PROFITS 2167: Planetary Resource Optimization & Freight Infrastructure Technician Simulator"
-    },
-    "4573760": {
-      "rank": 2848,
-      "estimate": "7k+",
-      "name": "Dissolution of My Self"
-    },
     "4594150": {
-      "rank": 68,
-      "estimate": "300k+",
+      "rank": 888,
+      "estimate": "40k+",
       "name": "Sir, We Have an Orc Problem"
-    },
-    "4670140": {
-      "rank": 7612,
-      "estimate": "<7k",
-      "name": "Mosaica: Goblin Girl"
-    },
-    "4728560": {
-      "rank": 8120,
-      "estimate": "<7k",
-      "name": "Solis"
     }
   }
 }

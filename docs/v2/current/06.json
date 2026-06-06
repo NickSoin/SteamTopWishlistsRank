@@ -1,193 +1,123 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 23,
   "entries": {
-    "1350370": {
-      "rank": 1107,
-      "estimate": "25k+",
-      "name": "Daybreak Slam"
-    },
     "1512190": {
-      "rank": 4183,
-      "estimate": "<7k",
+      "rank": 1415,
+      "estimate": "25k+",
       "name": "Hunternet Starfighter"
     },
     "1531180": {
-      "rank": 4260,
-      "estimate": "<7k",
+      "rank": 1090,
+      "estimate": "25k+",
       "name": "Lost Isle"
     },
     "1752080": {
-      "rank": 439,
-      "estimate": "80k+",
+      "rank": 108,
+      "estimate": "200k+",
       "name": "HUNGER"
     },
     "1871640": {
-      "rank": 2228,
-      "estimate": "7k+",
+      "rank": 751,
+      "estimate": "40k+",
       "name": "The Backworld"
     },
-    "2077890": {
-      "rank": 3685,
+    "1914710": {
+      "rank": 3116,
       "estimate": "<7k",
+      "name": "MikoVerse"
+    },
+    "2077890": {
+      "rank": 1207,
+      "estimate": "25k+",
       "name": "Green Hawk Platoon"
     },
     "2262630": {
-      "rank": 322,
-      "estimate": "80k+",
+      "rank": 594,
+      "estimate": "40k+",
       "name": "Wish Upon A Llama"
     },
     "2379350": {
-      "rank": 1109,
+      "rank": 1430,
       "estimate": "25k+",
       "name": "Scramble Knights Online"
     },
     "2483660": {
-      "rank": 7680,
+      "rank": 3301,
       "estimate": "<7k",
       "name": "A Story in Bronze Ware"
     },
     "2640920": {
-      "rank": 3407,
-      "estimate": "<7k",
+      "rank": 1825,
+      "estimate": "15k+",
       "name": "Network Engineer Simulator"
     },
     "2823820": {
-      "rank": 3673,
-      "estimate": "<7k",
+      "rank": 2210,
+      "estimate": "7k+",
       "name": "Category 6"
     },
-    "2830910": {
-      "rank": 5876,
-      "estimate": "<7k",
-      "name": "Comando Rio"
-    },
     "3128610": {
-      "rank": 8268,
-      "estimate": "<7k",
+      "rank": 2712,
+      "estimate": "7k+",
       "name": "Plane Graveyard Simulator"
     },
     "3258560": {
-      "rank": 2530,
-      "estimate": "7k+",
+      "rank": 4159,
+      "estimate": "<7k",
       "name": "I'm No Demonlord"
     },
     "3333850": {
-      "rank": 680,
-      "estimate": "40k+",
+      "rank": 237,
+      "estimate": "80k+",
       "name": "Arkheron"
     },
     "3343970": {
-      "rank": 5937,
+      "rank": 3160,
       "estimate": "<7k",
       "name": "Simulario"
     },
     "3352150": {
-      "rank": 4822,
-      "estimate": "<7k",
+      "rank": 1900,
+      "estimate": "15k+",
       "name": "Bushcraft Simulator"
     },
     "3574750": {
-      "rank": 147,
-      "estimate": "200k+",
+      "rank": 678,
+      "estimate": "40k+",
       "name": "The Dark West"
     },
     "3664840": {
-      "rank": 1359,
-      "estimate": "25k+",
+      "rank": 3142,
+      "estimate": "<7k",
       "name": "Compress(space)"
     },
-    "3701190": {
-      "rank": 4655,
-      "estimate": "<7k",
-      "name": "Mycofall"
-    },
-    "3774190": {
-      "rank": 9891,
-      "estimate": "<7k",
-      "name": "Whispers of Elenrod"
-    },
     "3802950": {
-      "rank": 4341,
-      "estimate": "<7k",
+      "rank": 2731,
+      "estimate": "7k+",
       "name": "Trinity 64"
     },
-    "3871570": {
-      "rank": 8273,
-      "estimate": "<7k",
-      "name": "Eilean Mor: The Lost Keepers"
-    },
-    "3885340": {
-      "rank": 3298,
-      "estimate": "<7k",
-      "name": "Project AIRI"
-    },
     "4049170": {
-      "rank": 121,
-      "estimate": "200k+",
+      "rank": 1788,
+      "estimate": "15k+",
       "name": "Disney•Pixar Toy Story: Retro Roundup!"
     },
     "4152490": {
-      "rank": 7491,
+      "rank": 3921,
       "estimate": "<7k",
       "name": "Spy Drops Gaiden"
     },
-    "4155330": {
-      "rank": 6632,
-      "estimate": "<7k",
-      "name": "Pulse Citadel"
-    },
     "4202300": {
-      "rank": 3451,
+      "rank": 4088,
       "estimate": "<7k",
       "name": "VIFA"
     },
     "4353330": {
-      "rank": 1624,
+      "rank": 1861,
       "estimate": "15k+",
       "name": "Rinthine"
-    },
-    "4390630": {
-      "rank": 734,
-      "estimate": "40k+",
-      "name": "Eyes On You"
-    },
-    "4431270": {
-      "rank": 4329,
-      "estimate": "<7k",
-      "name": "Dark Fantasy"
-    },
-    "4465600": {
-      "rank": 7261,
-      "estimate": "<7k",
-      "name": "Bowling Alley Simulator"
-    },
-    "4515240": {
-      "rank": 6407,
-      "estimate": "<7k",
-      "name": "Heart of Ural"
-    },
-    "4565900": {
-      "rank": 9834,
-      "estimate": "<7k",
-      "name": "SkateFPS"
-    },
-    "4609770": {
-      "rank": 3204,
-      "estimate": "<7k",
-      "name": "Not Quite Dead: Open World Survival"
-    },
-    "4625750": {
-      "rank": 3967,
-      "estimate": "<7k",
-      "name": "You Are Family"
-    },
-    "4737840": {
-      "rank": 1906,
-      "estimate": "15k+",
-      "name": "Ukrainian Warfare: Gostomel Heroes - Battle Unfinished"
     }
   }
 }

@@ -1,215 +1,105 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 41,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 19,
   "entries": {
     "1345720": {
-      "rank": 7506,
-      "estimate": "<7k",
+      "rank": 2749,
+      "estimate": "7k+",
       "name": "FBI Agent Simulator"
     },
     "1374320": {
-      "rank": 4361,
-      "estimate": "<7k",
+      "rank": 2443,
+      "estimate": "7k+",
       "name": "Regeneration"
     },
+    "1411900": {
+      "rank": 3326,
+      "estimate": "<7k",
+      "name": "Mictlan: An Ancient Mythical Tale"
+    },
     "1455100": {
-      "rank": 5193,
+      "rank": 3014,
       "estimate": "<7k",
       "name": "SuperHero"
     },
-    "1939390": {
-      "rank": 9289,
+    "1696950": {
+      "rank": 4696,
       "estimate": "<7k",
-      "name": "Dino Party"
+      "name": "Scottside"
     },
     "2052300": {
-      "rank": 2752,
-      "estimate": "7k+",
+      "rank": 691,
+      "estimate": "40k+",
       "name": "Glaciered",
       "actualWishlists": 40000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1783872411935485"
     },
-    "2220080": {
-      "rank": 9837,
-      "estimate": "<7k",
-      "name": "Crystal Ball Critters"
-    },
     "2227100": {
-      "rank": 7801,
-      "estimate": "<7k",
+      "rank": 1674,
+      "estimate": "15k+",
       "name": "Jerma's Big Adventure 2"
     },
     "2248150": {
-      "rank": 1284,
-      "estimate": "25k+",
+      "rank": 785,
+      "estimate": "40k+",
       "name": "Gunmetal Gothic"
     },
     "2275860": {
-      "rank": 1934,
-      "estimate": "15k+",
+      "rank": 694,
+      "estimate": "40k+",
       "name": "BAKUDO"
     },
     "2293190": {
-      "rank": 6247,
+      "rank": 4286,
       "estimate": "<7k",
       "name": "Heart Agency"
     },
     "2468200": {
-      "rank": 186,
-      "estimate": "200k+",
+      "rank": 536,
+      "estimate": "40k+",
       "name": "DDoD"
     },
-    "2477600": {
-      "rank": 9528,
-      "estimate": "<7k",
-      "name": "Offscreen"
-    },
-    "2553270": {
-      "rank": 4654,
-      "estimate": "<7k",
-      "name": "Heart Knots"
-    },
     "2570080": {
-      "rank": 3231,
+      "rank": 3816,
       "estimate": "<7k",
       "name": "Grow Your Guarden"
     },
     "2755270": {
-      "rank": 4927,
-      "estimate": "<7k",
+      "rank": 2125,
+      "estimate": "7k+",
       "name": "South Scrimshaw, Part Two"
     },
     "2789680": {
-      "rank": 726,
+      "rank": 618,
       "estimate": "40k+",
       "name": "Hello Neighbor 3"
     },
-    "2812050": {
-      "rank": 7359,
-      "estimate": "<7k",
-      "name": "Kary"
-    },
-    "3364150": {
-      "rank": 4047,
-      "estimate": "<7k",
-      "name": "Whack-A-Monster"
-    },
-    "3371170": {
-      "rank": 9082,
-      "estimate": "<7k",
-      "name": "CHARK"
-    },
-    "3398250": {
-      "rank": 2865,
-      "estimate": "7k+",
-      "name": "Honekawa Marionette"
-    },
     "3417140": {
-      "rank": 2989,
+      "rank": 2597,
       "estimate": "7k+",
       "name": "IGS Classic Arcade Collection"
     },
     "3512720": {
-      "rank": 4136,
+      "rank": 4332,
       "estimate": "<7k",
       "name": "Unmasked Truths: Shattered Dreams"
     },
-    "3681000": {
-      "rank": 2523,
+    "3600740": {
+      "rank": 2614,
       "estimate": "7k+",
-      "name": "Kaguya"
+      "name": "万象之环"
     },
     "3826290": {
-      "rank": 2467,
+      "rank": 2347,
       "estimate": "7k+",
       "name": "组长！怨念请查收！"
     },
-    "3865000": {
-      "rank": 8667,
-      "estimate": "<7k",
-      "name": "Neko Diary🐾 猫愿日记"
-    },
-    "3916470": {
-      "rank": 6884,
-      "estimate": "<7k",
-      "name": "Dungeon Forge"
-    },
     "4000770": {
-      "rank": 1526,
-      "estimate": "15k+",
+      "rank": 3347,
+      "estimate": "<7k",
       "name": "Swarmdustry"
-    },
-    "4019790": {
-      "rank": 7660,
-      "estimate": "<7k",
-      "name": "Echoes From Ciudadela"
-    },
-    "4112370": {
-      "rank": 4815,
-      "estimate": "<7k",
-      "name": "Hijinks High"
-    },
-    "4179870": {
-      "rank": 9928,
-      "estimate": "<7k",
-      "name": "All Tomorrows: Invasion"
-    },
-    "4218830": {
-      "rank": 6356,
-      "estimate": "<7k",
-      "name": "Mad Tilly's - Magical Amulets"
-    },
-    "4227120": {
-      "rank": 4131,
-      "estimate": "<7k",
-      "name": "Mama"
-    },
-    "4437080": {
-      "rank": 8436,
-      "estimate": "<7k",
-      "name": "Eldritch Tactics: Apocalypse Rising"
-    },
-    "4444200": {
-      "rank": 3511,
-      "estimate": "<7k",
-      "name": "Fsh"
-    },
-    "4447890": {
-      "rank": 4250,
-      "estimate": "<7k",
-      "name": "Soccer Kid Collection (QUByte Classics)"
-    },
-    "4451790": {
-      "rank": 7071,
-      "estimate": "<7k",
-      "name": "师姐别急，我抽卡就变强"
-    },
-    "4483010": {
-      "rank": 6484,
-      "estimate": "<7k",
-      "name": "Nightwatch at The Museum"
-    },
-    "4492500": {
-      "rank": 9474,
-      "estimate": "<7k",
-      "name": "The Cinder Throne"
-    },
-    "4639170": {
-      "rank": 1570,
-      "estimate": "15k+",
-      "name": "Tileburg"
-    },
-    "4685050": {
-      "rank": 8754,
-      "estimate": "<7k",
-      "name": "Sharkarama"
-    },
-    "4754110": {
-      "rank": 9607,
-      "estimate": "<7k",
-      "name": "INKUBO"
     }
   }
 }

@@ -1,198 +1,93 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 38,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 17,
   "entries": {
     "748810": {
-      "rank": 2422,
-      "estimate": "7k+",
+      "rank": 1885,
+      "estimate": "15k+",
       "name": "Vikings On Trampolines"
     },
+    "1785630": {
+      "rank": 3525,
+      "estimate": "<7k",
+      "name": "Gedda Cake"
+    },
     "1878730": {
-      "rank": 905,
-      "estimate": "40k+",
+      "rank": 2520,
+      "estimate": "7k+",
       "name": "Terror: Endless Night"
     },
-    "2300960": {
-      "rank": 8420,
+    "2317700": {
+      "rank": 3074,
       "estimate": "<7k",
-      "name": "GT and the Evil Factory"
+      "name": "SPRYDITE"
     },
     "2578510": {
-      "rank": 2562,
-      "estimate": "7k+",
+      "rank": 357,
+      "estimate": "80k+",
       "name": "20MTD: Emberpath"
     },
     "2734480": {
-      "rank": 2421,
-      "estimate": "7k+",
+      "rank": 1211,
+      "estimate": "25k+",
       "name": "Trade Tales"
     },
     "2735850": {
-      "rank": 1167,
-      "estimate": "25k+",
+      "rank": 3645,
+      "estimate": "<7k",
       "name": "Wilderdark"
     },
-    "2931690": {
-      "rank": 8894,
-      "estimate": "<7k",
-      "name": "Project Werewolf"
-    },
-    "2950400": {
-      "rank": 2245,
-      "estimate": "7k+",
-      "name": "Equiverse"
-    },
     "2971500": {
-      "rank": 6756,
-      "estimate": "<7k",
+      "rank": 2159,
+      "estimate": "7k+",
       "name": "Fast Food - Restaurant Simulator"
     },
-    "3083910": {
-      "rank": 4551,
-      "estimate": "<7k",
-      "name": "Social Democracy: An Alternate History"
-    },
-    "3345140": {
-      "rank": 4179,
-      "estimate": "<7k",
-      "name": "あなたに花束を"
-    },
-    "3426270": {
-      "rank": 9577,
-      "estimate": "<7k",
-      "name": "スーパーフックガール ウルトラチャレンジ!!"
-    },
     "3432860": {
-      "rank": 2484,
-      "estimate": "7k+",
+      "rank": 1700,
+      "estimate": "15k+",
       "name": "Psycho-Sleuth"
     },
     "3489220": {
-      "rank": 1186,
-      "estimate": "25k+",
+      "rank": 4694,
+      "estimate": "<7k",
       "name": "Kkokko Industry"
     },
     "3530380": {
-      "rank": 6931,
-      "estimate": "<7k",
+      "rank": 2912,
+      "estimate": "7k+",
       "name": "Bloodbreaker: Labyrinth of the Witch"
     },
-    "3608830": {
-      "rank": 1989,
-      "estimate": "15k+",
-      "name": "Flip-Flop Fury"
-    },
     "3676080": {
-      "rank": 2584,
-      "estimate": "7k+",
+      "rank": 1931,
+      "estimate": "15k+",
       "name": "World In The Abyss"
     },
     "3680470": {
-      "rank": 4326,
-      "estimate": "<7k",
+      "rank": 2134,
+      "estimate": "7k+",
       "name": "Touhou Dream Duel"
     },
     "3742840": {
-      "rank": 1651,
-      "estimate": "15k+",
+      "rank": 4077,
+      "estimate": "<7k",
       "name": "RatScum"
     },
     "3782080": {
-      "rank": 2397,
-      "estimate": "7k+",
+      "rank": 4695,
+      "estimate": "<7k",
       "name": "中国式地雷女"
     },
     "3797460": {
-      "rank": 1803,
-      "estimate": "15k+",
+      "rank": 2152,
+      "estimate": "7k+",
       "name": "frutiger aero"
     },
-    "4034490": {
-      "rank": 6265,
-      "estimate": "<7k",
-      "name": "Driving Test Simulator"
-    },
-    "4060640": {
-      "rank": 2734,
-      "estimate": "7k+",
-      "name": "Hoosegow: Prison Survival"
-    },
-    "4114860": {
-      "rank": 4962,
-      "estimate": "<7k",
-      "name": "SCP The Beginning"
-    },
-    "4127480": {
-      "rank": 9110,
-      "estimate": "<7k",
-      "name": "Shimmer"
-    },
-    "4162670": {
-      "rank": 6324,
-      "estimate": "<7k",
-      "name": "Look to the Birds"
-    },
     "4230650": {
-      "rank": 737,
-      "estimate": "40k+",
+      "rank": 4138,
+      "estimate": "<7k",
       "name": "Black Sailors: Bay Of All Saints"
-    },
-    "4241690": {
-      "rank": 4102,
-      "estimate": "<7k",
-      "name": "Hydra Heli 2"
-    },
-    "4281210": {
-      "rank": 5717,
-      "estimate": "<7k",
-      "name": "SUBJECT 404"
-    },
-    "4297910": {
-      "rank": 4321,
-      "estimate": "<7k",
-      "name": "Chess Tales"
-    },
-    "4386090": {
-      "rank": 7959,
-      "estimate": "<7k",
-      "name": "How To Destroy A City"
-    },
-    "4399120": {
-      "rank": 2023,
-      "estimate": "7k+",
-      "name": "Smart Train Simulator"
-    },
-    "4486370": {
-      "rank": 4134,
-      "estimate": "<7k",
-      "name": "Banana Life Sim"
-    },
-    "4533070": {
-      "rank": 7303,
-      "estimate": "<7k",
-      "name": "Billion Citizens"
-    },
-    "4535960": {
-      "rank": 4027,
-      "estimate": "<7k",
-      "name": "Voxie Survivor"
-    },
-    "4542210": {
-      "rank": 5455,
-      "estimate": "<7k",
-      "name": "War Room: Tactical Sandbox"
-    },
-    "4655750": {
-      "rank": 5344,
-      "estimate": "<7k",
-      "name": "Trucker: Master Drivers"
-    },
-    "4683520": {
-      "rank": 7732,
-      "estimate": "<7k",
-      "name": "Late Ming: County Magistrate Simulation & Management"
     }
   }
 }

@@ -1,188 +1,88 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 36,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 16,
   "entries": {
     "355750": {
-      "rank": 6171,
-      "estimate": "<7k",
+      "rank": 1687,
+      "estimate": "15k+",
       "name": "Miegakure: Hide & Reveal"
     },
     "443190": {
-      "rank": 4691,
-      "estimate": "<7k",
+      "rank": 593,
+      "estimate": "40k+",
       "name": "Project Haven"
     },
     "1774190": {
-      "rank": 1986,
-      "estimate": "15k+",
+      "rank": 906,
+      "estimate": "40k+",
       "name": "Elysian Eclipse"
     },
     "2103500": {
-      "rank": 6057,
+      "rank": 3796,
       "estimate": "<7k",
       "name": "Sombionic"
     },
+    "2225260": {
+      "rank": 3851,
+      "estimate": "<7k",
+      "name": "Shark Rain"
+    },
     "2372120": {
-      "rank": 2210,
-      "estimate": "7k+",
+      "rank": 3802,
+      "estimate": "<7k",
       "name": "Arkem"
     },
     "2396760": {
-      "rank": 3985,
-      "estimate": "<7k",
+      "rank": 1377,
+      "estimate": "25k+",
       "name": "ShellShot Arena"
     },
-    "2458370": {
-      "rank": 6739,
-      "estimate": "<7k",
-      "name": "Zankoi's Chronicles"
-    },
     "2478710": {
-      "rank": 4538,
-      "estimate": "<7k",
+      "rank": 2878,
+      "estimate": "7k+",
       "name": "Football, Tactics & Glory 2"
     },
-    "2707850": {
-      "rank": 6270,
-      "estimate": "<7k",
-      "name": "Heptic Arena"
-    },
     "2710920": {
-      "rank": 2822,
-      "estimate": "7k+",
+      "rank": 1607,
+      "estimate": "15k+",
       "name": "Aeterna Lucis"
     },
-    "2949960": {
-      "rank": 3846,
-      "estimate": "<7k",
-      "name": "Re:Connect"
-    },
-    "3381130": {
-      "rank": 9925,
-      "estimate": "<7k",
-      "name": "World of Eggs: Idle Adventures"
-    },
-    "3425920": {
-      "rank": 7882,
-      "estimate": "<7k",
-      "name": "Laws of Cultivation"
-    },
     "3470140": {
-      "rank": 240,
+      "rank": 399,
       "estimate": "80k+",
       "name": "METAMORPHOSIS"
     },
-    "3503350": {
-      "rank": 7955,
-      "estimate": "<7k",
-      "name": "Stick N' Sheep"
-    },
     "3574020": {
-      "rank": 5357,
+      "rank": 3029,
       "estimate": "<7k",
       "name": "Ramen Simulator"
     },
     "3595450": {
-      "rank": 47,
-      "estimate": "600k+",
+      "rank": 790,
+      "estimate": "40k+",
       "name": "Object Impermanence"
     },
     "3610500": {
-      "rank": 5931,
-      "estimate": "<7k",
+      "rank": 2803,
+      "estimate": "7k+",
       "name": "MEGANAUT"
     },
     "3727390": {
-      "rank": 79,
-      "estimate": "300k+",
+      "rank": 23,
+      "estimate": "600k+",
       "name": "The Expanse: Osiris Reborn"
     },
     "3761680": {
-      "rank": 3306,
-      "estimate": "<7k",
+      "rank": 2949,
+      "estimate": "7k+",
       "name": "Urban Yuri: A Lady's Romance Manifesto"
     },
-    "4125380": {
-      "rank": 7323,
-      "estimate": "<7k",
-      "name": "Devil Lift"
-    },
-    "4130610": {
-      "rank": 4514,
-      "estimate": "<7k",
-      "name": "Galactic Civilizations IV: Federations & Empires"
-    },
-    "4191350": {
-      "rank": 7193,
-      "estimate": "<7k",
-      "name": "Tales of Fear - Episode Zero"
-    },
     "4243330": {
-      "rank": 4858,
+      "rank": 4476,
       "estimate": "<7k",
       "name": "全网有点怪"
-    },
-    "4295100": {
-      "rank": 9162,
-      "estimate": "<7k",
-      "name": "PEGTURE: Peg Solitaire Roguelike"
-    },
-    "4435760": {
-      "rank": 8832,
-      "estimate": "<7k",
-      "name": "Hellbridge"
-    },
-    "4439030": {
-      "rank": 7244,
-      "estimate": "<7k",
-      "name": "Rogue Slime: PC Edition"
-    },
-    "4480760": {
-      "rank": 4034,
-      "estimate": "<7k",
-      "name": "Surf Sandbox"
-    },
-    "4514050": {
-      "rank": 8722,
-      "estimate": "<7k",
-      "name": "Tokyo Wave Rush"
-    },
-    "4553190": {
-      "rank": 4752,
-      "estimate": "<7k",
-      "name": "Cellular Soup"
-    },
-    "4583050": {
-      "rank": 3911,
-      "estimate": "<7k",
-      "name": "非常规放送部 Mika & Luna"
-    },
-    "4586440": {
-      "rank": 9940,
-      "estimate": "<7k",
-      "name": "Tales Of The Lost Captain | The Castaway's New Quest"
-    },
-    "4663080": {
-      "rank": 5948,
-      "estimate": "<7k",
-      "name": "Escape the Grind"
-    },
-    "4703320": {
-      "rank": 2100,
-      "estimate": "7k+",
-      "name": "Endless Silent Night"
-    },
-    "4703870": {
-      "rank": 8319,
-      "estimate": "<7k",
-      "name": "NIGHTMIST"
-    },
-    "4742510": {
-      "rank": 4323,
-      "estimate": "<7k",
-      "name": "Liminal Dreams"
     }
   }
 }

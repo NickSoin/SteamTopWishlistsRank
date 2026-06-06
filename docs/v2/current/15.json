@@ -1,175 +1,85 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 15,
   "entries": {
-    "1869110": {
-      "rank": 2975,
+    "1421190": {
+      "rank": 2270,
       "estimate": "7k+",
-      "name": "Last Chance Market"
+      "name": "Security Guard"
+    },
+    "1612190": {
+      "rank": 2439,
+      "estimate": "7k+",
+      "name": "Exodus"
+    },
+    "1677010": {
+      "rank": 2695,
+      "estimate": "7k+",
+      "name": "Wood & Weather"
+    },
+    "1710960": {
+      "rank": 3818,
+      "estimate": "<7k",
+      "name": "No longer human"
+    },
+    "2113270": {
+      "rank": 2112,
+      "estimate": "7k+",
+      "name": "DISDAIN"
     },
     "2139090": {
-      "rank": 7655,
-      "estimate": "<7k",
+      "rank": 2517,
+      "estimate": "7k+",
       "name": "Project ETHOS"
     },
-    "2281720": {
-      "rank": 8520,
-      "estimate": "<7k",
-      "name": "ULTIMATE CHICKEN PATH"
-    },
     "2365790": {
-      "rank": 1723,
-      "estimate": "15k+",
+      "rank": 265,
+      "estimate": "80k+",
       "name": "Let's Build a Dungeon",
       "actualWishlists": 150000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813041031161329"
     },
-    "2480480": {
-      "rank": 9748,
-      "estimate": "<7k",
-      "name": "Tomorrow Will Be Dying"
-    },
     "2709420": {
-      "rank": 1488,
-      "estimate": "25k+",
+      "rank": 3314,
+      "estimate": "<7k",
       "name": "Vasya Run"
     },
     "2815020": {
-      "rank": 5340,
+      "rank": 3592,
       "estimate": "<7k",
       "name": "Slender: The Arrival VR"
     },
-    "2875530": {
-      "rank": 8537,
-      "estimate": "<7k",
-      "name": "Wrong Elevator"
-    },
     "2950600": {
-      "rank": 4410,
+      "rank": 3785,
       "estimate": "<7k",
       "name": "Train Simulator"
     },
-    "2996620": {
-      "rank": 5599,
-      "estimate": "<7k",
-      "name": "Godforged: Origins of Ozgalor"
-    },
-    "3313880": {
-      "rank": 1405,
-      "estimate": "25k+",
-      "name": "Hexborn"
-    },
     "3502970": {
-      "rank": 5659,
-      "estimate": "<7k",
+      "rank": 1657,
+      "estimate": "15k+",
       "name": "DO NOT PLAY"
     },
-    "3541320": {
-      "rank": 7627,
-      "estimate": "<7k",
-      "name": "Scarlet Hunt"
-    },
-    "3562510": {
-      "rank": 7616,
-      "estimate": "<7k",
-      "name": "Tomebound"
-    },
-    "3616480": {
-      "rank": 4607,
-      "estimate": "<7k",
-      "name": "Grimdelve"
-    },
     "3702550": {
-      "rank": 1698,
-      "estimate": "15k+",
+      "rank": 3170,
+      "estimate": "<7k",
       "name": "SOS Recordings"
     },
-    "3941360": {
-      "rank": 6792,
-      "estimate": "<7k",
-      "name": "Cooking Fist"
-    },
-    "4066420": {
-      "rank": 9428,
-      "estimate": "<7k",
-      "name": "Meet Again: Heartwell"
-    },
-    "4105020": {
-      "rank": 7803,
-      "estimate": "<7k",
-      "name": "Wild Shapers"
-    },
-    "4153760": {
-      "rank": 9360,
-      "estimate": "<7k",
-      "name": "BOLD: Networked Newt Action"
-    },
     "4186890": {
-      "rank": 62,
-      "estimate": "300k+",
+      "rank": 952,
+      "estimate": "40k+",
       "name": "Kitman"
     },
     "4241920": {
-      "rank": 590,
-      "estimate": "40k+",
+      "rank": 1186,
+      "estimate": "25k+",
       "name": "BRAZILIAN DRUG DEALER BEFORE 4: DEMONS FROM THE PORTAL TO HELL I OPENED ARE STILL IN THE FAVELA AND NOW I HAVE TO SAVE MAMADAS FROM RONALDO"
     },
-    "4264240": {
-      "rank": 8671,
-      "estimate": "<7k",
-      "name": "King of Pickaxe"
-    },
-    "4273370": {
-      "rank": 2101,
-      "estimate": "7k+",
-      "name": "Peak or Die"
-    },
-    "4286110": {
-      "rank": 1500,
-      "estimate": "25k+",
-      "name": "妹调教日记"
-    },
-    "4401250": {
-      "rank": 9567,
-      "estimate": "<7k",
-      "name": "Harvest Hollow"
-    },
-    "4416430": {
-      "rank": 9658,
-      "estimate": "<7k",
-      "name": "Tales of the Trade"
-    },
     "4434610": {
-      "rank": 878,
+      "rank": 610,
       "estimate": "40k+",
       "name": "Hunter: The Reckoning – Deathwish"
-    },
-    "4485320": {
-      "rank": 9202,
-      "estimate": "<7k",
-      "name": "Blazing Strike: R.Evolution"
-    },
-    "4662350": {
-      "rank": 2154,
-      "estimate": "7k+",
-      "name": "Chess 2"
-    },
-    "4682020": {
-      "rank": 6708,
-      "estimate": "<7k",
-      "name": "Voxborn"
-    },
-    "4761460": {
-      "rank": 6554,
-      "estimate": "<7k",
-      "name": "Super Monsterdoom"
-    },
-    "4766160": {
-      "rank": 8346,
-      "estimate": "<7k",
-      "name": "Rock,Paper,Scissors,SHOOT!"
     }
   }
 }

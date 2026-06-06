@@ -1,207 +1,112 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 40,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 21,
   "entries": {
-    "2089890": {
-      "rank": 8955,
+    "1324400": {
+      "rank": 1617,
+      "estimate": "15k+",
+      "name": "Crimepunk Detective"
+    },
+    "1617760": {
+      "rank": 3424,
       "estimate": "<7k",
-      "name": "REPLICORE"
+      "name": "Vikings: Age Of The Axe"
+    },
+    "1823840": {
+      "rank": 3112,
+      "estimate": "<7k",
+      "name": "Illusion Lands"
     },
     "2124500": {
-      "rank": 3015,
-      "estimate": "<7k",
+      "rank": 2183,
+      "estimate": "7k+",
       "name": "Forlorn Memories"
     },
-    "2141790": {
-      "rank": 8890,
-      "estimate": "<7k",
-      "name": "The Boundary Condition"
-    },
-    "2192800": {
-      "rank": 5695,
-      "estimate": "<7k",
-      "name": "From_."
-    },
     "2201470": {
-      "rank": 2349,
-      "estimate": "7k+",
+      "rank": 954,
+      "estimate": "40k+",
       "name": "Remnant Protocol"
     },
     "2336170": {
-      "rank": 5611,
+      "rank": 4005,
       "estimate": "<7k",
       "name": "PC Futbol 8"
     },
-    "2384980": {
-      "rank": 6802,
-      "estimate": "<7k",
-      "name": "Cafe Simulator"
-    },
     "2400840": {
-      "rank": 1411,
-      "estimate": "25k+",
+      "rank": 281,
+      "estimate": "80k+",
       "name": "Phantom Line"
     },
     "2466350": {
-      "rank": 3073,
+      "rank": 3481,
       "estimate": "<7k",
       "name": "Space"
     },
-    "2590860": {
-      "rank": 9828,
-      "estimate": "<7k",
-      "name": "Monst"
+    "2560210": {
+      "rank": 2395,
+      "estimate": "7k+",
+      "name": "Astromeda"
     },
     "2642390": {
-      "rank": 6123,
-      "estimate": "<7k",
+      "rank": 1648,
+      "estimate": "15k+",
       "name": "The Whims of the Gods"
     },
     "2669450": {
-      "rank": 2047,
+      "rank": 2831,
       "estimate": "7k+",
       "name": "My Child New Beginnings"
     },
     "2770330": {
-      "rank": 4812,
-      "estimate": "<7k",
+      "rank": 1912,
+      "estimate": "15k+",
       "name": "Chaos Front"
     },
     "2828020": {
-      "rank": 593,
-      "estimate": "40k+",
+      "rank": 193,
+      "estimate": "200k+",
       "name": "Citystate Metropolis"
     },
-    "2846460": {
-      "rank": 4453,
-      "estimate": "<7k",
-      "name": "Unknown Operations : The Habitus"
-    },
     "2994600": {
-      "rank": 2993,
+      "rank": 2243,
       "estimate": "7k+",
       "name": "Lysward"
     },
     "3165050": {
-      "rank": 3552,
+      "rank": 4605,
       "estimate": "<7k",
       "name": "OUTCLAW"
     },
-    "3230350": {
-      "rank": 9605,
-      "estimate": "<7k",
-      "name": "Monsterful Tavern"
-    },
     "3325720": {
-      "rank": 6677,
+      "rank": 3700,
       "estimate": "<7k",
       "name": "Animas"
     },
-    "3362800": {
-      "rank": 7954,
-      "estimate": "<7k",
-      "name": "Project Neon"
-    },
-    "3445110": {
-      "rank": 2111,
-      "estimate": "7k+",
-      "name": "Ice Cream Together: A Cozy Parlor Simulator"
-    },
     "3484100": {
-      "rank": 3589,
+      "rank": 4706,
       "estimate": "<7k",
       "name": "Bait Soul"
     },
-    "3516430": {
-      "rank": 2407,
-      "estimate": "7k+",
-      "name": "Management In Space"
-    },
-    "3649710": {
-      "rank": 9519,
-      "estimate": "<7k",
-      "name": "Bluff Roulette"
-    },
-    "3690370": {
-      "rank": 9223,
-      "estimate": "<7k",
-      "name": "Senior Survival Club"
-    },
-    "3742150": {
-      "rank": 2273,
-      "estimate": "7k+",
-      "name": "Night Shift: 1999"
-    },
-    "3919130": {
-      "rank": 3295,
-      "estimate": "<7k",
-      "name": "Final Formation"
-    },
-    "3936340": {
-      "rank": 2040,
-      "estimate": "7k+",
-      "name": "Hell Wait"
-    },
     "4030360": {
-      "rank": 3727,
-      "estimate": "<7k",
+      "rank": 2316,
+      "estimate": "7k+",
       "name": "Undertaker"
     },
     "4184360": {
-      "rank": 2303,
-      "estimate": "7k+",
+      "rank": 4638,
+      "estimate": "<7k",
       "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version"
     },
-    "4227560": {
-      "rank": 3701,
-      "estimate": "<7k",
-      "name": "Legends of Rock"
-    },
-    "4264950": {
-      "rank": 7143,
-      "estimate": "<7k",
-      "name": "Farewells clicker"
-    },
-    "4428800": {
-      "rank": 8953,
-      "estimate": "<7k",
-      "name": "The Derailed: Devour the Harvest"
-    },
     "4532930": {
-      "rank": 3400,
+      "rank": 4410,
       "estimate": "<7k",
       "name": "Rogue Fantasy: Ever-Shifting Worlds"
     },
-    "4540870": {
-      "rank": 7786,
-      "estimate": "<7k",
-      "name": "Pact of the Black Tide"
-    },
-    "4580690": {
-      "rank": 9395,
-      "estimate": "<7k",
-      "name": "Neo Capitalist - Stock Market Survival Simulator"
-    },
-    "4608750": {
-      "rank": 1307,
-      "estimate": "25k+",
-      "name": "60病 The 60-Second Syndrome"
-    },
-    "4687900": {
-      "rank": 7207,
-      "estimate": "<7k",
-      "name": "My New Car"
-    },
-    "4705620": {
-      "rank": 4303,
-      "estimate": "<7k",
-      "name": "WHERE the F$CK is my BITCOIN ⁉️"
-    },
     "4717850": {
-      "rank": 55,
-      "estimate": "300k+",
+      "rank": 1251,
+      "estimate": "25k+",
       "name": "Magical Girl Taboo Village"
     }
   }

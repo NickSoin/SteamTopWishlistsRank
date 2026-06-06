@@ -1,193 +1,73 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 13,
   "entries": {
+    "1181040": {
+      "rank": 3664,
+      "estimate": "<7k",
+      "name": "LAZR - A Clothformer"
+    },
     "1212030": {
-      "rank": 6862,
+      "rank": 4642,
       "estimate": "<7k",
       "name": "ARIDA 2: Rise of the Brave"
     },
     "1803140": {
-      "rank": 235,
-      "estimate": "80k+",
+      "rank": 561,
+      "estimate": "40k+",
       "name": "Deer & Boy"
     },
     "1837730": {
-      "rank": 600,
-      "estimate": "40k+",
+      "rank": 1950,
+      "estimate": "15k+",
       "name": "Loot List: Thief Sim"
     },
     "2217470": {
-      "rank": 450,
-      "estimate": "80k+",
+      "rank": 1811,
+      "estimate": "15k+",
       "name": "Wilderings: The Lost Spring"
     },
     "2324660": {
-      "rank": 8701,
-      "estimate": "<7k",
+      "rank": 2830,
+      "estimate": "7k+",
       "name": "Cart Life"
     },
-    "2406690": {
-      "rank": 9333,
-      "estimate": "<7k",
-      "name": "Space Crafter"
-    },
     "2701030": {
-      "rank": 1496,
-      "estimate": "25k+",
+      "rank": 223,
+      "estimate": "80k+",
       "name": "MINDWAVE"
     },
-    "2873720": {
-      "rank": 7263,
-      "estimate": "<7k",
-      "name": "Post Soviet Strike: Chernobyl Legacy"
-    },
     "2936290": {
-      "rank": 1820,
-      "estimate": "15k+",
+      "rank": 625,
+      "estimate": "40k+",
       "name": "The Life and Suffering of Prince Jerian"
     },
-    "3090270": {
-      "rank": 3398,
-      "estimate": "<7k",
-      "name": "TakeDogs"
-    },
-    "3152110": {
-      "rank": 6011,
-      "estimate": "<7k",
-      "name": "Founders"
-    },
     "3399610": {
-      "rank": 717,
-      "estimate": "40k+",
+      "rank": 2579,
+      "estimate": "7k+",
       "name": "Tokatonton: One-Armed Blacksmith"
     },
-    "3497280": {
-      "rank": 1915,
-      "estimate": "15k+",
-      "name": "Canvas Infernum"
-    },
-    "3578550": {
-      "rank": 2707,
-      "estimate": "7k+",
-      "name": "Hood Tales Part 1: Morocco"
-    },
-    "3611770": {
-      "rank": 8455,
-      "estimate": "<7k",
-      "name": "The Great Indian Safari"
-    },
     "3645410": {
-      "rank": 2805,
-      "estimate": "7k+",
+      "rank": 4075,
+      "estimate": "<7k",
       "name": "Midgardr"
     },
-    "3681780": {
-      "rank": 8978,
-      "estimate": "<7k",
-      "name": "WinMon"
-    },
-    "3690690": {
-      "rank": 1733,
-      "estimate": "15k+",
-      "name": "Infinite Loop:Backrooms"
-    },
-    "3879680": {
-      "rank": 7923,
-      "estimate": "<7k",
-      "name": "Cells of Division"
-    },
-    "3889540": {
-      "rank": 2675,
-      "estimate": "7k+",
-      "name": "I Need to Fix My Dream Car (But I Work at a Junkyard)"
-    },
-    "3895440": {
-      "rank": 5460,
-      "estimate": "<7k",
-      "name": "Trailquest MTB"
-    },
-    "3939760": {
-      "rank": 9197,
-      "estimate": "<7k",
-      "name": "Path to Tamer Town"
-    },
     "3946810": {
-      "rank": 1494,
-      "estimate": "25k+",
+      "rank": 3895,
+      "estimate": "<7k",
       "name": "The seven days i spent with you"
     },
-    "3981150": {
-      "rank": 6849,
-      "estimate": "<7k",
-      "name": "Bhangarh: The Untold Story"
-    },
     "3988100": {
-      "rank": 7966,
+      "rank": 3709,
       "estimate": "<7k",
       "name": "Star Dust: Grim Offensive (SDGO)"
     },
-    "4049910": {
-      "rank": 7877,
-      "estimate": "<7k",
-      "name": "Nuclear Epoch"
-    },
-    "4080030": {
-      "rank": 7428,
-      "estimate": "<7k",
-      "name": "The Message from Deep Space"
-    },
-    "4355590": {
-      "rank": 831,
-      "estimate": "40k+",
-      "name": "Warhammer 40,000: Darktide - Skitarii Class Cosmetic Upgrade"
-    },
-    "4418400": {
-      "rank": 9459,
-      "estimate": "<7k",
-      "name": "Elegy of the Vast Land"
-    },
-    "4429710": {
-      "rank": 7031,
-      "estimate": "<7k",
-      "name": "Spellogger"
-    },
     "4440650": {
-      "rank": 132,
-      "estimate": "200k+",
+      "rank": 408,
+      "estimate": "80k+",
       "name": "KAGE"
-    },
-    "4451740": {
-      "rank": 7481,
-      "estimate": "<7k",
-      "name": "Soul Reaper: Endless Harvest"
-    },
-    "4537400": {
-      "rank": 3419,
-      "estimate": "<7k",
-      "name": "Paper2Galgame"
-    },
-    "4585830": {
-      "rank": 3881,
-      "estimate": "<7k",
-      "name": "Barbecue"
-    },
-    "4656880": {
-      "rank": 8812,
-      "estimate": "<7k",
-      "name": "PATIENCE IS A VIRTUE"
-    },
-    "4660470": {
-      "rank": 6070,
-      "estimate": "<7k",
-      "name": "Near Mint"
-    },
-    "4761690": {
-      "rank": 7288,
-      "estimate": "<7k",
-      "name": "Stellar Conquest"
     }
   }
 }

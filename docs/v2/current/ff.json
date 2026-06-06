@@ -1,243 +1,123 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 47,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 23,
   "entries": {
     "433970": {
-      "rank": 5626,
-      "estimate": "<7k",
+      "rank": 1189,
+      "estimate": "25k+",
       "name": "Destroyed Aperture"
     },
-    "2195490": {
-      "rank": 4422,
+    "1374920": {
+      "rank": 4604,
       "estimate": "<7k",
-      "name": "The Great Sassanelli – An Interactive Novel"
+      "name": "StoryArcana"
+    },
+    "1953770": {
+      "rank": 2421,
+      "estimate": "7k+",
+      "name": "Soulitaire"
     },
     "2298250": {
-      "rank": 5222,
-      "estimate": "<7k",
+      "rank": 1171,
+      "estimate": "25k+",
       "name": "GearGrit"
     },
-    "2325200": {
-      "rank": 8129,
-      "estimate": "<7k",
-      "name": "Legends of Castile"
-    },
     "2506520": {
-      "rank": 353,
-      "estimate": "80k+",
+      "rank": 3712,
+      "estimate": "<7k",
       "name": "GHOSTLESS"
     },
+    "2704450": {
+      "rank": 2621,
+      "estimate": "7k+",
+      "name": "Stoneguard"
+    },
     "2805070": {
-      "rank": 863,
-      "estimate": "40k+",
+      "rank": 366,
+      "estimate": "80k+",
       "name": "Screenbound"
     },
     "2866330": {
-      "rank": 7807,
-      "estimate": "<7k",
+      "rank": 2463,
+      "estimate": "7k+",
       "name": "Astera"
     },
     "2913610": {
-      "rank": 5425,
-      "estimate": "<7k",
+      "rank": 2166,
+      "estimate": "7k+",
       "name": "What Awaits, Aleksey?"
     },
     "3014860": {
-      "rank": 2279,
+      "rank": 2012,
       "estimate": "7k+",
       "name": "Icy Tower"
     },
     "3160640": {
-      "rank": 5806,
+      "rank": 3385,
       "estimate": "<7k",
       "name": "Don't Drop The Cake"
     },
-    "3206340": {
-      "rank": 2091,
-      "estimate": "7k+",
-      "name": "Plum Road Tea Dream"
-    },
-    "3208500": {
-      "rank": 3785,
-      "estimate": "<7k",
-      "name": "Dream Team Supreme"
-    },
     "3378100": {
-      "rank": 1561,
-      "estimate": "15k+",
+      "rank": 1293,
+      "estimate": "25k+",
       "name": "Killer Chat! - Expanded Edition"
     },
     "3383670": {
-      "rank": 3368,
-      "estimate": "<7k",
+      "rank": 2133,
+      "estimate": "7k+",
       "name": "Hotel Investigation 09"
     },
-    "3391000": {
-      "rank": 9924,
-      "estimate": "<7k",
-      "name": "UNDISCLOSED"
-    },
     "3397910": {
-      "rank": 3215,
+      "rank": 3350,
       "estimate": "<7k",
       "name": "Lootlands: Idle ARPG"
     },
-    "3411940": {
-      "rank": 3499,
-      "estimate": "<7k",
-      "name": "Post Apo Tycoon: Idle Builder"
-    },
     "3451980": {
-      "rank": 6402,
+      "rank": 3852,
       "estimate": "<7k",
       "name": "Soul's Remnant"
     },
-    "3644540": {
-      "rank": 1844,
-      "estimate": "15k+",
-      "name": "lunr.rdio.taxi"
-    },
-    "3646700": {
-      "rank": 6829,
+    "3493410": {
+      "rank": 3366,
       "estimate": "<7k",
-      "name": "Battles For Glory"
-    },
-    "3874130": {
-      "rank": 7773,
-      "estimate": "<7k",
-      "name": "Micro Solar Punk"
+      "name": "We Will Be Gods"
     },
     "3905450": {
-      "rank": 201,
+      "rank": 260,
       "estimate": "80k+",
       "name": "WheelMates"
     },
-    "3909490": {
-      "rank": 7851,
-      "estimate": "<7k",
-      "name": "Chronicle of the States: Qin Shi Huang"
-    },
-    "4002600": {
-      "rank": 3900,
-      "estimate": "<7k",
-      "name": "My Helpers"
-    },
     "4012490": {
-      "rank": 4244,
-      "estimate": "<7k",
+      "rank": 2632,
+      "estimate": "7k+",
       "name": "MONOPHOBIA"
     },
     "4017880": {
-      "rank": 129,
-      "estimate": "200k+",
+      "rank": 1193,
+      "estimate": "25k+",
       "name": "ANOMALITH"
     },
-    "4060150": {
-      "rank": 9279,
-      "estimate": "<7k",
-      "name": "阎罗索命"
-    },
     "4084710": {
-      "rank": 15,
-      "estimate": "800k+",
+      "rank": 617,
+      "estimate": "40k+",
       "name": "Rayman Legends Retold"
     },
-    "4116840": {
-      "rank": 8599,
-      "estimate": "<7k",
-      "name": "Dirtlight"
-    },
-    "4148630": {
-      "rank": 5352,
-      "estimate": "<7k",
-      "name": "Dragon Dinner"
-    },
-    "4157160": {
-      "rank": 9840,
-      "estimate": "<7k",
-      "name": "PonySide"
-    },
     "4158420": {
-      "rank": 3004,
-      "estimate": "<7k",
+      "rank": 1995,
+      "estimate": "15k+",
       "name": "Starship Command: Orion Spur"
     },
     "4244420": {
-      "rank": 3982,
+      "rank": 4157,
       "estimate": "<7k",
       "name": "DreadHaven: The Last Colony"
     },
-    "4260790": {
-      "rank": 4499,
-      "estimate": "<7k",
-      "name": "Ascent of the Last Colossus"
-    },
-    "4286220": {
-      "rank": 1536,
-      "estimate": "15k+",
-      "name": "Crosshair"
-    },
     "4287960": {
-      "rank": 2613,
-      "estimate": "7k+",
+      "rank": 3436,
+      "estimate": "<7k",
       "name": "Fractal Foundry"
-    },
-    "4311050": {
-      "rank": 5353,
-      "estimate": "<7k",
-      "name": "Legend of Idle"
-    },
-    "4333920": {
-      "rank": 5924,
-      "estimate": "<7k",
-      "name": "Harlequinade"
-    },
-    "4364270": {
-      "rank": 4542,
-      "estimate": "<7k",
-      "name": "CardForge"
-    },
-    "4424680": {
-      "rank": 2610,
-      "estimate": "7k+",
-      "name": "Colonus"
-    },
-    "4434520": {
-      "rank": 7619,
-      "estimate": "<7k",
-      "name": "Office Leveling"
-    },
-    "4448620": {
-      "rank": 6192,
-      "estimate": "<7k",
-      "name": "Rovi's Diary"
-    },
-    "4476070": {
-      "rank": 3838,
-      "estimate": "<7k",
-      "name": "Astrophobia"
-    },
-    "4525330": {
-      "rank": 2359,
-      "estimate": "7k+",
-      "name": "三位一体の単一点"
-    },
-    "4590680": {
-      "rank": 9609,
-      "estimate": "<7k",
-      "name": "Darkest Path"
-    },
-    "4621450": {
-      "rank": 5828,
-      "estimate": "<7k",
-      "name": "Lofi Cozy Room"
-    },
-    "4678720": {
-      "rank": 7203,
-      "estimate": "<7k",
-      "name": "Witchworker"
     }
   }
 }

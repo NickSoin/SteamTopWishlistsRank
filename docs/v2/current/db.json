@@ -1,238 +1,138 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T17:40:19.078Z",
-  "entryCount": 46,
+  "updatedAt": "2026-06-05T22:06:20.881Z",
+  "entryCount": 26,
   "entries": {
+    "801140": {
+      "rank": 2633,
+      "estimate": "7k+",
+      "name": "Unitystation"
+    },
     "1209970": {
-      "rank": 813,
-      "estimate": "40k+",
+      "rank": 184,
+      "estimate": "200k+",
       "name": "Blind Descent"
     },
-    "1700930": {
-      "rank": 9310,
+    "1355060": {
+      "rank": 1882,
+      "estimate": "15k+",
+      "name": "Supermarket Manager"
+    },
+    "1657050": {
+      "rank": 3630,
       "estimate": "<7k",
+      "name": "Worlds Of The Future"
+    },
+    "1700930": {
+      "rank": 2048,
+      "estimate": "7k+",
       "name": "Furcifer's Fungeon"
     },
     "1747470": {
-      "rank": 2409,
-      "estimate": "7k+",
+      "rank": 403,
+      "estimate": "80k+",
       "name": "Road Diner Simulator"
     },
-    "1770010": {
-      "rank": 8144,
-      "estimate": "<7k",
-      "name": "Airport Renovator: Prologue"
-    },
     "1992100": {
-      "rank": 4223,
-      "estimate": "<7k",
+      "rank": 1111,
+      "estimate": "25k+",
       "name": "Gas Station Simulator - Shady Deals DLC"
     },
-    "2113070": {
-      "rank": 3686,
-      "estimate": "<7k",
-      "name": "Newton's Playground"
-    },
     "2320980": {
-      "rank": 126,
-      "estimate": "200k+",
+      "rank": 213,
+      "estimate": "80k+",
       "name": "Loftia"
     },
     "2439770": {
-      "rank": 2437,
-      "estimate": "7k+",
+      "rank": 396,
+      "estimate": "80k+",
       "name": "PROJECT MIX"
     },
     "2469560": {
-      "rank": 5676,
+      "rank": 3356,
       "estimate": "<7k",
       "name": "Coloniser"
     },
     "2742720": {
-      "rank": 5564,
+      "rank": 4657,
       "estimate": "<7k",
       "name": "After the Wane"
     },
     "2771630": {
-      "rank": 5647,
-      "estimate": "<7k",
+      "rank": 1329,
+      "estimate": "25k+",
       "name": "Project C██████"
     },
-    "2819880": {
-      "rank": 7242,
+    "2787060": {
+      "rank": 4084,
       "estimate": "<7k",
-      "name": "The Magic World 2: Curse of the Ancients"
+      "name": "Another Hour Another Planet"
     },
     "2870250": {
-      "rank": 5446,
-      "estimate": "<7k",
+      "rank": 1356,
+      "estimate": "25k+",
       "name": "Layers Deep"
     },
-    "2925530": {
-      "rank": 9868,
-      "estimate": "<7k",
-      "name": "Cat Cafe Simulator"
-    },
-    "2997030": {
-      "rank": 8598,
-      "estimate": "<7k",
-      "name": "Age of the Deep"
-    },
     "3080520": {
-      "rank": 178,
-      "estimate": "200k+",
+      "rank": 2342,
+      "estimate": "7k+",
       "name": "Farsight"
     },
     "3176500": {
-      "rank": 2137,
-      "estimate": "7k+",
+      "rank": 571,
+      "estimate": "40k+",
       "name": "Wizard Cats"
     },
     "3301900": {
-      "rank": 4699,
+      "rank": 3916,
       "estimate": "<7k",
       "name": "VenusBlood RAGNAROK International"
     },
     "3383450": {
-      "rank": 4351,
+      "rank": 4265,
       "estimate": "<7k",
       "name": "RPG Chess"
     },
-    "3405080": {
-      "rank": 8152,
-      "estimate": "<7k",
-      "name": "Smile Thief"
-    },
-    "3542330": {
-      "rank": 6250,
-      "estimate": "<7k",
-      "name": "Station Command"
-    },
     "3564990": {
-      "rank": 1137,
-      "estimate": "25k+",
+      "rank": 2796,
+      "estimate": "7k+",
       "name": "Vale's Echo"
     },
-    "3636660": {
-      "rank": 9031,
-      "estimate": "<7k",
-      "name": "Mini Racer: Mini 4WD"
-    },
     "3763470": {
-      "rank": 5680,
-      "estimate": "<7k",
+      "rank": 1124,
+      "estimate": "25k+",
       "name": "Wu-Tang: Rise of the Deceiver"
     },
-    "3770540": {
-      "rank": 8904,
-      "estimate": "<7k",
-      "name": "Hexborn"
-    },
-    "3864430": {
-      "rank": 3992,
-      "estimate": "<7k",
-      "name": "100 Lives"
-    },
-    "3887240": {
-      "rank": 7809,
-      "estimate": "<7k",
-      "name": "Palm Simulator 2"
-    },
     "3963050": {
-      "rank": 1834,
-      "estimate": "15k+",
+      "rank": 4127,
+      "estimate": "<7k",
       "name": "Eyes Of The ElderWood"
     },
-    "4028770": {
-      "rank": 4650,
-      "estimate": "<7k",
-      "name": "OBVERSE"
-    },
-    "4118110": {
-      "rank": 9181,
-      "estimate": "<7k",
-      "name": "Curse the Cursor"
-    },
     "4146760": {
-      "rank": 5454,
+      "rank": 3298,
       "estimate": "<7k",
       "name": "Apocalypter"
     },
-    "4169590": {
-      "rank": 9655,
-      "estimate": "<7k",
-      "name": "Casino Casualty"
-    },
     "4264000": {
-      "rank": 3083,
-      "estimate": "<7k",
+      "rank": 2168,
+      "estimate": "7k+",
       "name": "Orion Blue"
     },
-    "4283160": {
-      "rank": 2272,
-      "estimate": "7k+",
-      "name": "Void's Rage"
-    },
     "4358310": {
-      "rank": 2225,
-      "estimate": "7k+",
+      "rank": 4614,
+      "estimate": "<7k",
       "name": "Coin Tavern"
     },
-    "4383350": {
-      "rank": 1889,
-      "estimate": "15k+",
-      "name": "Travelling Light"
-    },
     "4383880": {
-      "rank": 2269,
-      "estimate": "7k+",
+      "rank": 4043,
+      "estimate": "<7k",
       "name": "Huntin' Buddies"
     },
-    "4399160": {
-      "rank": 4996,
-      "estimate": "<7k",
-      "name": "INORIGAMI HACK DOWN"
-    },
-    "4417710": {
-      "rank": 9349,
-      "estimate": "<7k",
-      "name": "13 BONES"
-    },
     "4428600": {
-      "rank": 1169,
-      "estimate": "25k+",
+      "rank": 2783,
+      "estimate": "7k+",
       "name": "Pikku Adventure"
-    },
-    "4433460": {
-      "rank": 9578,
-      "estimate": "<7k",
-      "name": "Is This the Way"
-    },
-    "4524720": {
-      "rank": 8457,
-      "estimate": "<7k",
-      "name": "Baby Carbonara"
-    },
-    "4534260": {
-      "rank": 3907,
-      "estimate": "<7k",
-      "name": "Kodama: Slumber of the Gods"
-    },
-    "4611880": {
-      "rank": 9850,
-      "estimate": "<7k",
-      "name": "XiaoLuo's English War"
-    },
-    "4650490": {
-      "rank": 7763,
-      "estimate": "<7k",
-      "name": "Idle Immortal Sentinel"
-    },
-    "4688060": {
-      "rank": 9230,
-      "estimate": "<7k",
-      "name": "Complexia, A Ballet of Blades"
     }
   }
 }
