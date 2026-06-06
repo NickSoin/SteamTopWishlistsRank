@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-05T22:06:20.881Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-06T04:45:23.890Z",
+  "entryCount": 30,
   "entries": {
     "1171690": {
       "rank": 23,
@@ -209,6 +209,13 @@
       "estimate": "7k+",
       "name": "Isekai Villain",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4692060": {
+      "rank": 6201,
+      "estimate": "<7k",
+      "name": "All Lanes Must Exit",
+      "releaseDate": "2026-06-05",
       "source": "tracked"
     }
   }

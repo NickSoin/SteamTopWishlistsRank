@@ -1,66 +1,81 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T22:06:20.881Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-06T04:45:23.890Z",
+  "entryCount": 15,
   "entries": {
     "526720": {
-      "rank": 2582,
+      "rank": 2597,
       "estimate": "7k+",
       "name": "OFF GRID : Stealth Hacking"
     },
     "864930": {
-      "rank": 4453,
+      "rank": 4478,
       "estimate": "<7k",
       "name": "ULTRABUGS"
     },
     "1369430": {
-      "rank": 3283,
+      "rank": 3303,
       "estimate": "<7k",
       "name": "The Light of the Darkness: Renascence"
     },
     "1426870": {
-      "rank": 3665,
+      "rank": 3688,
       "estimate": "<7k",
       "name": "Dune Mechanic : Survive The Steampunk Era"
     },
     "1870550": {
-      "rank": 4338,
+      "rank": 4361,
       "estimate": "<7k",
       "name": "Pirate's Den Renovator"
     },
+    "1884870": {
+      "rank": 3934,
+      "estimate": "<7k",
+      "name": "The Wolf Among Us 2"
+    },
     "2082570": {
-      "rank": 1552,
+      "rank": 1564,
       "estimate": "15k+",
       "name": "SCP - Containment Breach Reborn"
     },
     "2165040": {
-      "rank": 1491,
-      "estimate": "25k+",
+      "rank": 1505,
+      "estimate": "15k+",
       "name": "Sally"
     },
     "2257440": {
-      "rank": 1221,
+      "rank": 1233,
       "estimate": "25k+",
       "name": "Tom the postgirl"
     },
+    "2842310": {
+      "rank": 2315,
+      "estimate": "7k+",
+      "name": "Among Us Story: On Guard"
+    },
     "3380990": {
-      "rank": 1842,
+      "rank": 1854,
       "estimate": "15k+",
       "name": "Starborn Phoenix Ship"
     },
     "3787050": {
-      "rank": 575,
+      "rank": 578,
       "estimate": "40k+",
       "name": "It Works: Electronics Repair Simulator"
     },
     "3910140": {
-      "rank": 3844,
+      "rank": 3876,
       "estimate": "<7k",
       "name": "残阳 1645/1937"
     },
+    "4369620": {
+      "rank": 832,
+      "estimate": "40k+",
+      "name": "Last Harbor"
+    },
     "4703930": {
-      "rank": 2149,
+      "rank": 2124,
       "estimate": "7k+",
       "name": "Grilluminati"
     }

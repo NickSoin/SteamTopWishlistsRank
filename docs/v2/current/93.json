@@ -1,51 +1,51 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T22:06:20.881Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-06T04:45:23.890Z",
+  "entryCount": 21,
   "entries": {
     "473750": {
-      "rank": 1584,
+      "rank": 1599,
       "estimate": "15k+",
       "name": "Feudums"
     },
     "1332100": {
-      "rank": 321,
+      "rank": 322,
       "estimate": "80k+",
       "name": "Starship Simulator"
     },
     "1460010": {
-      "rank": 2305,
+      "rank": 2324,
       "estimate": "7k+",
       "name": "Cryospace - survival horror in space"
     },
     "1534720": {
-      "rank": 3612,
+      "rank": 3611,
       "estimate": "<7k",
       "name": "Space Boat"
     },
     "1556070": {
-      "rank": 2883,
+      "rank": 2902,
       "estimate": "7k+",
       "name": "Nihongo Quest"
     },
     "2243690": {
-      "rank": 1215,
+      "rank": 1226,
       "estimate": "25k+",
       "name": "B.C. Piezophile"
     },
     "2372240": {
-      "rank": 2553,
+      "rank": 2571,
       "estimate": "7k+",
       "name": "Re:Night"
     },
     "2415000": {
-      "rank": 1932,
+      "rank": 1946,
       "estimate": "15k+",
       "name": "BLACKOUT: Zero Point"
     },
     "2593980": {
-      "rank": 1286,
+      "rank": 1301,
       "estimate": "25k+",
       "name": "Trainfort"
     },
@@ -55,17 +55,17 @@
       "name": "The Witch's Bakery"
     },
     "3159860": {
-      "rank": 4390,
+      "rank": 4416,
       "estimate": "<7k",
       "name": "Feltopia"
     },
     "3168110": {
-      "rank": 3199,
+      "rank": 3221,
       "estimate": "<7k",
       "name": "SkyRig"
     },
     "3180000": {
-      "rank": 2744,
+      "rank": 2760,
       "estimate": "7k+",
       "name": "Blades For Hire"
     },
@@ -75,34 +75,39 @@
       "name": "Halloween: The Game"
     },
     "3695630": {
-      "rank": 1675,
+      "rank": 1694,
       "estimate": "15k+",
       "name": "Project Landsword"
     },
     "3866230": {
-      "rank": 2539,
+      "rank": 2558,
       "estimate": "7k+",
       "name": "Way of Madness"
     },
     "3946330": {
-      "rank": 3882,
+      "rank": 3911,
       "estimate": "<7k",
       "name": "Snap & Print"
     },
     "4001890": {
-      "rank": 283,
+      "rank": 285,
       "estimate": "80k+",
       "name": "How to Fish"
     },
     "4003030": {
-      "rank": 1968,
+      "rank": 1980,
       "estimate": "15k+",
       "name": "Mojo Party"
     },
     "4643090": {
-      "rank": 2730,
+      "rank": 2729,
       "estimate": "7k+",
       "name": "The NOexistenceN of Lilith"
+    },
+    "4743930": {
+      "rank": 235,
+      "estimate": "80k+",
+      "name": "Guild Wars 3™"
     }
   }
 }

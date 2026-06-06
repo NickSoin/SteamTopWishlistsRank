@@ -1,88 +1,93 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T22:06:20.881Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-06T04:45:23.890Z",
+  "entryCount": 17,
   "entries": {
     "994560": {
-      "rank": 1317,
+      "rank": 1333,
       "estimate": "25k+",
       "name": "Metal Revolution / 金属对决"
     },
     "1628640": {
-      "rank": 4398,
+      "rank": 4426,
       "estimate": "<7k",
       "name": "SYNTHALGIA: Retro Arcade Racing"
     },
     "1854490": {
-      "rank": 4633,
+      "rank": 4658,
       "estimate": "<7k",
       "name": "Streets of Chaos"
     },
     "2400650": {
-      "rank": 3468,
+      "rank": 3492,
       "estimate": "<7k",
       "name": "Valeria the Pagan Priestess"
     },
     "2854440": {
-      "rank": 3617,
+      "rank": 3640,
       "estimate": "<7k",
       "name": "Red Rocket Defencism"
     },
     "2923500": {
-      "rank": 2574,
+      "rank": 2592,
       "estimate": "7k+",
       "name": "ELEMASTA -エレマスタ-"
     },
     "3201830": {
-      "rank": 3708,
+      "rank": 3730,
       "estimate": "<7k",
       "name": "The Hidden Scrolls"
     },
     "3361480": {
-      "rank": 1063,
+      "rank": 1074,
       "estimate": "25k+",
       "name": "Bagdex"
     },
     "3418500": {
-      "rank": 4314,
+      "rank": 4335,
       "estimate": "<7k",
       "name": "CS Manager"
     },
     "3756910": {
-      "rank": 4639,
+      "rank": 4662,
       "estimate": "<7k",
       "name": "Cat Girl Survivor 2 : Beyond The Veil"
     },
     "3872650": {
-      "rank": 4613,
+      "rank": 4636,
       "estimate": "<7k",
       "name": "Panzer Deck"
     },
     "3970880": {
-      "rank": 2013,
+      "rank": 2020,
       "estimate": "7k+",
       "name": "Eggspedition"
     },
     "4018020": {
-      "rank": 3799,
+      "rank": 3798,
       "estimate": "<7k",
       "name": "Angels Online Global"
     },
     "4034350": {
-      "rank": 1851,
+      "rank": 1861,
       "estimate": "15k+",
       "name": "Loss Prevention"
     },
     "4282450": {
-      "rank": 4058,
+      "rank": 4070,
       "estimate": "<7k",
       "name": "Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection"
     },
     "4307270": {
-      "rank": 3653,
+      "rank": 3672,
       "estimate": "<7k",
       "name": "Little Lilicia"
+    },
+    "4824610": {
+      "rank": 2347,
+      "estimate": "7k+",
+      "name": "Resident Evil Veronica"
     }
   }
 }

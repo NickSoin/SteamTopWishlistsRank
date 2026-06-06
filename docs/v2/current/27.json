@@ -1,113 +1,118 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-05T22:06:20.881Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-06T04:45:23.890Z",
+  "entryCount": 22,
   "entries": {
     "395830": {
-      "rank": 744,
+      "rank": 751,
       "estimate": "40k+",
       "name": "LOW-FI"
     },
     "796530": {
-      "rank": 2713,
+      "rank": 2735,
       "estimate": "7k+",
       "name": "ALTERA"
     },
     "827210": {
-      "rank": 4574,
+      "rank": 4601,
       "estimate": "<7k",
       "name": "Death Carnival"
     },
     "1300880": {
-      "rank": 4137,
+      "rank": 4163,
       "estimate": "<7k",
       "name": "Glitchphobia"
     },
     "1354980": {
-      "rank": 1614,
+      "rank": 1631,
       "estimate": "15k+",
       "name": "Decimated"
     },
     "1503490": {
-      "rank": 2044,
+      "rank": 2057,
       "estimate": "7k+",
       "name": "FarmZone"
     },
     "1836400": {
-      "rank": 1469,
+      "rank": 1484,
       "estimate": "25k+",
       "name": "Mossfield Origins"
     },
     "1867240": {
-      "rank": 65,
+      "rank": 66,
       "estimate": "300k+",
       "name": "WARDOGS"
     },
     "1927360": {
-      "rank": 955,
+      "rank": 968,
       "estimate": "40k+",
       "name": "Mira and the Legend of the Djinns"
     },
     "2161710": {
-      "rank": 86,
+      "rank": 87,
       "estimate": "300k+",
       "name": "NO LAW"
     },
     "2337180": {
-      "rank": 3019,
+      "rank": 3039,
       "estimate": "<7k",
       "name": "I NEED SPACE"
     },
     "2459840": {
-      "rank": 3927,
+      "rank": 3954,
       "estimate": "<7k",
       "name": "Barbarian Saga: The Beastmaster"
     },
     "2541950": {
-      "rank": 975,
+      "rank": 983,
       "estimate": "40k+",
       "name": "Sirens"
     },
     "3068720": {
-      "rank": 855,
+      "rank": 863,
       "estimate": "40k+",
       "name": "I Am Security"
     },
     "3145850": {
-      "rank": 3267,
+      "rank": 3288,
       "estimate": "<7k",
       "name": "Rootmare"
     },
     "3195150": {
-      "rank": 3604,
+      "rank": 3629,
       "estimate": "<7k",
       "name": "Clowned King"
     },
     "3560110": {
-      "rank": 4028,
+      "rank": 4056,
       "estimate": "<7k",
       "name": "Fracture Point"
     },
     "3565980": {
-      "rank": 3732,
+      "rank": 3750,
       "estimate": "<7k",
       "name": "The Stalked 3"
     },
     "3723830": {
-      "rank": 2529,
+      "rank": 2547,
       "estimate": "7k+",
       "name": "群魔死欲之山"
     },
     "4252290": {
-      "rank": 697,
+      "rank": 702,
       "estimate": "40k+",
       "name": "Meowgic"
     },
     "4400930": {
-      "rank": 397,
+      "rank": 401,
       "estimate": "80k+",
       "name": "Euro Truck Simulator 2 - Soul of Anatolia"
+    },
+    "4492700": {
+      "rank": 4277,
+      "estimate": "<7k",
+      "name": "Mafia: The Old Country - Man of Honor"
     }
   }
 }
