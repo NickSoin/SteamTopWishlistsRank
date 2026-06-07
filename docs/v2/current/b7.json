@@ -1,78 +1,83 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-06T21:58:00.369Z",
-  "entryCount": 14,
+  "updatedAt": "2026-06-07T05:26:33.074Z",
+  "entryCount": 15,
   "entries": {
     "1423820": {
-      "rank": 3868,
+      "rank": 3882,
       "estimate": "<7k",
       "name": "Miner's Hell"
     },
     "2224060": {
-      "rank": 4486,
+      "rank": 4500,
       "estimate": "<7k",
       "name": "Catrophy Trail"
     },
     "2471330": {
-      "rank": 2911,
+      "rank": 2926,
       "estimate": "7k+",
       "name": "Cathedral: Crow's Curse"
     },
     "2791980": {
-      "rank": 3013,
+      "rank": 3030,
       "estimate": "<7k",
       "name": "Delivery Driver Service: Prologue"
     },
     "2819400": {
-      "rank": 1981,
+      "rank": 1986,
       "estimate": "15k+",
       "name": "Disc Golf Masters"
     },
     "2836740": {
-      "rank": 4566,
+      "rank": 4581,
       "estimate": "<7k",
       "name": "Olga - Episode 1"
     },
     "2976440": {
-      "rank": 3165,
+      "rank": 3177,
       "estimate": "<7k",
       "name": "War of the Western Deep"
     },
     "3125320": {
-      "rank": 1013,
+      "rank": 1014,
       "estimate": "25k+",
       "name": "Isadora's Edge"
     },
     "3201730": {
-      "rank": 777,
+      "rank": 776,
       "estimate": "40k+",
       "name": "Flamecraft"
     },
     "3337130": {
-      "rank": 3142,
+      "rank": 3150,
       "estimate": "<7k",
       "name": "RMF's Ragdoll Physics Experiments"
     },
     "3618570": {
-      "rank": 3969,
+      "rank": 3916,
       "estimate": "<7k",
       "name": "The Detective's Apprentice"
     },
     "3855320": {
-      "rank": 2305,
+      "rank": 2314,
       "estimate": "7k+",
       "name": "ABYSS REBEL"
     },
     "4400800": {
-      "rank": 2469,
+      "rank": 2304,
       "estimate": "7k+",
       "name": "American Truck Simulator - Indiana"
     },
     "4508340": {
-      "rank": 551,
+      "rank": 548,
       "estimate": "40k+",
       "name": "NTE: Neverness to Everness"
+    },
+    "4781330": {
+      "rank": 2672,
+      "estimate": "7k+",
+      "name": "Vampire Survivors: Legacy of the Bloodmoon"
     }
   }
 }

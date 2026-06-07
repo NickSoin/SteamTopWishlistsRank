@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-06T21:58:00.369Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-07T05:26:33.074Z",
+  "entryCount": 34,
   "entries": {
     "315210": {
       "rank": 48,
@@ -236,6 +236,13 @@
       "name": "Innocent Grape",
       "releaseDate": "2024-06-21",
       "source": "historical"
+    },
+    "4370860": {
+      "rank": 7423,
+      "estimate": "<7k",
+      "name": "Black Plague",
+      "releaseDate": "2026-06-06",
+      "source": "tracked"
     }
   }
 }

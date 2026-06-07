@@ -1,106 +1,111 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-06T21:58:00.369Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-07T05:26:33.074Z",
+  "entryCount": 27,
   "entries": {
     "913170": {
-      "rank": 4606,
+      "rank": 4619,
       "estimate": "<7k",
       "name": "LetsGal"
     },
     "1026220": {
-      "rank": 3788,
+      "rank": 3805,
       "estimate": "<7k",
       "name": "Knights Province"
     },
     "1222150": {
-      "rank": 2746,
+      "rank": 2755,
       "estimate": "7k+",
       "name": "Her War"
     },
     "1285720": {
-      "rank": 1986,
+      "rank": 1992,
       "estimate": "15k+",
       "name": "The Hauntings"
     },
     "1303400": {
-      "rank": 1484,
+      "rank": 1491,
       "estimate": "25k+",
       "name": "Whisker Squadron: Untitled Space Game"
     },
     "1559720": {
-      "rank": 163,
+      "rank": 164,
       "estimate": "200k+",
       "name": "We Harvest Shadows"
     },
     "2052710": {
-      "rank": 2584,
+      "rank": 2590,
       "estimate": "7k+",
       "name": "Hello Again"
     },
     "2321890": {
-      "rank": 2014,
+      "rank": 2022,
       "estimate": "7k+",
       "name": "Swordeye"
     },
     "2356360": {
-      "rank": 733,
+      "rank": 734,
       "estimate": "40k+",
       "name": "Build the Garden of Easden"
     },
+    "2374540": {
+      "rank": 4200,
+      "estimate": "<7k",
+      "name": "DeadRoot"
+    },
     "2606850": {
-      "rank": 4485,
+      "rank": 4493,
       "estimate": "<7k",
       "name": "Mimic"
     },
     "3058740": {
-      "rank": 2901,
+      "rank": 2919,
       "estimate": "7k+",
       "name": "Odds Chronicles"
     },
     "3103620": {
-      "rank": 1555,
+      "rank": 1561,
       "estimate": "15k+",
       "name": "Witch the Showdown"
     },
     "3105190": {
-      "rank": 2494,
+      "rank": 2500,
       "estimate": "7k+",
       "name": "CHILDREN OF SATURN"
     },
     "3273860": {
-      "rank": 3570,
+      "rank": 3574,
       "estimate": "<7k",
       "name": "MAW"
     },
     "3301000": {
-      "rank": 4433,
+      "rank": 4445,
       "estimate": "<7k",
       "name": "The Vast White"
     },
     "3419080": {
-      "rank": 1248,
+      "rank": 1222,
       "estimate": "25k+",
       "name": "The Regreening"
     },
     "3845210": {
-      "rank": 1544,
+      "rank": 1550,
       "estimate": "15k+",
       "name": "Papa Needs a Headshot"
     },
     "3919810": {
-      "rank": 1472,
+      "rank": 1477,
       "estimate": "25k+",
       "name": "Moulder"
     },
     "4002450": {
-      "rank": 4406,
+      "rank": 4416,
       "estimate": "<7k",
       "name": "Italian Pizza Simulator"
     },
     "4056370": {
-      "rank": 4757,
+      "rank": 4763,
       "estimate": "<7k",
       "name": "Magical Girl Yusya-chan and the Labyrinth of Lust"
     },
@@ -110,7 +115,7 @@
       "name": "Online: 404"
     },
     "4188680": {
-      "rank": 1789,
+      "rank": 1794,
       "estimate": "15k+",
       "name": "Walled Haven"
     },
@@ -120,14 +125,19 @@
       "name": "Scars of Honor"
     },
     "4255580": {
-      "rank": 3037,
+      "rank": 3047,
       "estimate": "<7k",
       "name": "Mouse X"
     },
     "4279630": {
-      "rank": 784,
+      "rank": 781,
       "estimate": "40k+",
       "name": "Friendly Steps"
+    },
+    "4363380": {
+      "rank": 4143,
+      "estimate": "<7k",
+      "name": "Wicked Delights"
     }
   }
 }
