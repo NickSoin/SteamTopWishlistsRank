@@ -1,98 +1,103 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-06T16:37:01.529Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-06T21:58:00.369Z",
+  "entryCount": 19,
   "entries": {
     "1163160": {
-      "rank": 3932,
+      "rank": 3945,
       "estimate": "<7k",
       "name": "Ronin 2072"
     },
     "1520600": {
-      "rank": 2510,
+      "rank": 2520,
       "estimate": "7k+",
       "name": "Build and Discover: America"
     },
     "1533060": {
-      "rank": 3574,
+      "rank": 3588,
       "estimate": "<7k",
       "name": "Winery Simulator"
     },
     "1742390": {
-      "rank": 3573,
+      "rank": 3586,
       "estimate": "<7k",
       "name": "Ayna: Shattered Truth"
     },
     "1766240": {
-      "rank": 3483,
+      "rank": 3491,
       "estimate": "<7k",
       "name": "Mazey Village"
     },
     "1983360": {
-      "rank": 3314,
+      "rank": 3322,
       "estimate": "<7k",
       "name": "Mana Valley"
     },
     "2745510": {
-      "rank": 3714,
+      "rank": 3725,
       "estimate": "<7k",
       "name": "GROWTH EXPERIMENT"
     },
     "2910280": {
-      "rank": 4355,
+      "rank": 4370,
       "estimate": "<7k",
       "name": "Peasant"
     },
     "3165340": {
-      "rank": 2753,
+      "rank": 2760,
       "estimate": "7k+",
       "name": "All Will Rise"
     },
     "3222890": {
-      "rank": 2211,
+      "rank": 2218,
       "estimate": "7k+",
       "name": "Taste of the Wind"
     },
     "3323490": {
-      "rank": 2723,
+      "rank": 2728,
       "estimate": "7k+",
       "name": "Truxton Extreme"
     },
     "3427370": {
-      "rank": 4077,
+      "rank": 4091,
       "estimate": "<7k",
       "name": "A Passing in the Night"
     },
     "3456950": {
-      "rank": 849,
+      "rank": 853,
       "estimate": "40k+",
       "name": "Pixel Gun 2"
     },
     "3938720": {
-      "rank": 4583,
+      "rank": 4599,
       "estimate": "<7k",
       "name": "Fractured Library"
     },
     "4059000": {
-      "rank": 2914,
+      "rank": 2828,
       "estimate": "7k+",
       "name": "Cozy Builder"
     },
     "4120090": {
-      "rank": 4043,
+      "rank": 4056,
       "estimate": "<7k",
       "name": "Ashbound: Crown of Sin"
     },
     "4134600": {
-      "rank": 1077,
+      "rank": 1079,
       "estimate": "25k+",
       "name": "EverRail"
     },
     "4253570": {
-      "rank": 1184,
+      "rank": 1186,
       "estimate": "25k+",
       "name": "Reshine"
+    },
+    "4267780": {
+      "rank": 4781,
+      "estimate": "<7k",
+      "name": "Acting Out"
     }
   }
 }

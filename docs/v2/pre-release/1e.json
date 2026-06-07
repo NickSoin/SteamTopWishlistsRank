@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-06T16:37:01.529Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-06T21:58:00.369Z",
+  "entryCount": 24,
   "entries": {
     "868270": {
       "rank": 16,
@@ -166,6 +166,13 @@
       "name": "Mech Builder",
       "releaseDate": "2024-07-16",
       "source": "historical"
+    },
+    "4650350": {
+      "rank": 9429,
+      "estimate": "<7k",
+      "name": "BCKSPCE",
+      "releaseDate": "2026-06-06",
+      "source": "tracked"
     }
   }
 }

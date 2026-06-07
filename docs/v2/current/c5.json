@@ -1,85 +1,90 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-06T16:37:01.529Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-06T21:58:00.369Z",
+  "entryCount": 16,
   "entries": {
     "1057630": {
-      "rank": 2834,
+      "rank": 2839,
       "estimate": "7k+",
       "name": "Restaurant Renovator"
     },
     "1553260": {
-      "rank": 699,
+      "rank": 701,
       "estimate": "40k+",
       "name": "Scarlet Deer Inn"
     },
     "1643800": {
-      "rank": 2998,
-      "estimate": "7k+",
+      "rank": 3006,
+      "estimate": "<7k",
       "name": "HeartLinks: A Puzzle Called Love"
     },
     "1748280": {
-      "rank": 617,
+      "rank": 618,
       "estimate": "40k+",
       "name": "Gate Zero"
     },
     "1930630": {
-      "rank": 3034,
+      "rank": 3042,
       "estimate": "<7k",
       "name": "Witch Maker"
     },
     "2141130": {
-      "rank": 160,
+      "rank": 162,
       "estimate": "200k+",
       "name": "Road Kings"
     },
     "2183820": {
-      "rank": 3537,
+      "rank": 3551,
       "estimate": "<7k",
       "name": "ノロワレサイクル"
     },
     "2365350": {
-      "rank": 4686,
+      "rank": 4704,
       "estimate": "<7k",
       "name": "Training and War Simulation (TWS)"
     },
     "2501620": {
-      "rank": 1324,
+      "rank": 1331,
       "estimate": "25k+",
       "name": "Kandyland"
     },
     "2731030": {
-      "rank": 1518,
+      "rank": 1523,
       "estimate": "15k+",
       "name": "Algolemeth",
       "actualWishlists": 20000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365112739"
     },
     "3435610": {
-      "rank": 2552,
+      "rank": 2562,
       "estimate": "7k+",
       "name": "Exark"
     },
     "3738890": {
-      "rank": 1263,
+      "rank": 1268,
       "estimate": "25k+",
       "name": "Frontline Logistics: Isarian Warfare"
     },
     "3764730": {
-      "rank": 2865,
+      "rank": 2874,
       "estimate": "7k+",
       "name": "Winter Resort Simulator 3"
     },
     "3834590": {
-      "rank": 4207,
+      "rank": 4216,
       "estimate": "<7k",
       "name": "Now THAT'S a Big Dragon!"
     },
     "4516190": {
-      "rank": 2473,
+      "rank": 2479,
       "estimate": "7k+",
       "name": "My Beautiful Faraway, Please Don't Be Cruel To Me"
+    },
+    "4580030": {
+      "rank": 4424,
+      "estimate": "<7k",
+      "name": "Papaya Plaza"
     }
   }
 }

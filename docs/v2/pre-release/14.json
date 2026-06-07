@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-06T16:37:01.529Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-06T21:58:00.369Z",
+  "entryCount": 28,
   "entries": {
     "637050": {
       "rank": 136,
@@ -191,6 +191,13 @@
       "estimate": "7k+",
       "name": "Serpent's Gaze",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "3723750": {
+      "rank": 3311,
+      "estimate": "<7k",
+      "name": "Trading Card Inspector",
+      "releaseDate": "2026-06-06",
       "source": "tracked"
     }
   }
