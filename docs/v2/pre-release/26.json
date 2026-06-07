@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-07T08:38:06.611Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-07T12:11:54.254Z",
+  "entryCount": 22,
   "entries": {
     "758690": {
       "rank": 7,
@@ -152,6 +152,13 @@
       "name": "SimRail - The Railway Simulator: Cargo Pack",
       "releaseDate": "2024-04-22",
       "source": "historical"
+    },
+    "4660050": {
+      "rank": 9123,
+      "estimate": "<7k",
+      "name": "Stop slacking",
+      "releaseDate": "2026-06-07",
+      "source": "tracked"
     }
   }
 }

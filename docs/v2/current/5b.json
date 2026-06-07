@@ -1,71 +1,76 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-07T08:38:06.611Z",
+  "updatedAt": "2026-06-07T12:11:54.254Z",
   "entryCount": 23,
   "entries": {
     "408200": {
-      "rank": 3328,
+      "rank": 3326,
       "estimate": "<7k",
       "name": "Red Frame"
     },
     "1298200": {
-      "rank": 3014,
+      "rank": 3019,
       "estimate": "<7k",
       "name": "Crazy Lemmings"
     },
     "1425660": {
-      "rank": 1794,
+      "rank": 1797,
       "estimate": "15k+",
       "name": "SCP : Forgotten Facility"
     },
     "1872800": {
-      "rank": 433,
+      "rank": 435,
       "estimate": "80k+",
       "name": "EVE Vanguard"
     },
     "2069890": {
-      "rank": 2629,
+      "rank": 2636,
       "estimate": "7k+",
       "name": "1-900-CULT"
     },
     "2295150": {
-      "rank": 3456,
+      "rank": 3457,
       "estimate": "<7k",
       "name": "Dragonfall"
     },
     "2483700": {
-      "rank": 2679,
+      "rank": 2683,
       "estimate": "7k+",
       "name": "HARMA"
     },
     "2750770": {
-      "rank": 1920,
+      "rank": 1924,
       "estimate": "15k+",
       "name": "Threads of You: Beyond the Bay"
     },
     "2782470": {
-      "rank": 2736,
+      "rank": 2739,
       "estimate": "7k+",
       "name": "Pharos Light"
     },
     "2829050": {
-      "rank": 3129,
+      "rank": 3136,
       "estimate": "<7k",
       "name": "东方夜雀食堂动画版 第一话 - 最强的是谁！？"
     },
     "3066300": {
-      "rank": 799,
+      "rank": 802,
       "estimate": "40k+",
       "name": "Sky Dust"
     },
+    "3265840": {
+      "rank": 4716,
+      "estimate": "<7k",
+      "name": "BioEden"
+    },
     "3299450": {
-      "rank": 2500,
+      "rank": 2492,
       "estimate": "7k+",
       "name": "Calame"
     },
     "3387300": {
-      "rank": 2401,
+      "rank": 2403,
       "estimate": "7k+",
       "name": "Lost Ruins of Arnak"
     },
@@ -75,7 +80,7 @@
       "name": "All Our Broken Parts"
     },
     "3575220": {
-      "rank": 4135,
+      "rank": 4140,
       "estimate": "<7k",
       "name": "Guardians of the Wall"
     },
@@ -90,32 +95,27 @@
       "name": "American Truck Simulator - Ford Car Pack"
     },
     "3922000": {
-      "rank": 1366,
+      "rank": 1352,
       "estimate": "25k+",
       "name": "Neighborhoods"
     },
     "3966570": {
-      "rank": 1831,
+      "rank": 1833,
       "estimate": "15k+",
       "name": "Spot Zero"
     },
-    "4089520": {
-      "rank": 2299,
-      "estimate": "7k+",
-      "name": "Bronzebeard's Tavern 2"
-    },
     "4137830": {
-      "rank": 2769,
+      "rank": 2773,
       "estimate": "7k+",
       "name": "Must be Feng Shui"
     },
     "4379870": {
-      "rank": 3748,
+      "rank": 3755,
       "estimate": "<7k",
       "name": "23:61"
     },
     "4623290": {
-      "rank": 514,
+      "rank": 515,
       "estimate": "40k+",
       "name": "Painland"
     }
