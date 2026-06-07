@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-07T05:26:33.074Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-07T08:38:06.611Z",
+  "entryCount": 21,
   "entries": {
     "694320": {
-      "rank": 787,
+      "rank": 789,
       "estimate": "40k+",
       "name": "UnderRail 2: Infusion"
     },
@@ -20,12 +20,12 @@
       "name": "Phantom Doctrine: The Cabal"
     },
     "1449820": {
-      "rank": 1741,
+      "rank": 1742,
       "estimate": "15k+",
       "name": "Police Interceptors"
     },
     "1662050": {
-      "rank": 1396,
+      "rank": 1397,
       "estimate": "25k+",
       "name": "Noble's Life: Kingdom Reborn"
     },
@@ -35,12 +35,12 @@
       "name": "Beast of Reincarnation"
     },
     "2287430": {
-      "rank": 415,
+      "rank": 416,
       "estimate": "80k+",
       "name": "Metropolis 1998"
     },
     "2525040": {
-      "rank": 4711,
+      "rank": 4717,
       "estimate": "<7k",
       "name": "ETOS"
     },
@@ -50,7 +50,7 @@
       "name": "The Bustling World"
     },
     "2841650": {
-      "rank": 2145,
+      "rank": 2148,
       "estimate": "7k+",
       "name": "Sniper Dan"
     },
@@ -60,19 +60,24 @@
       "name": "Vuntra City"
     },
     "3005660": {
-      "rank": 3196,
+      "rank": 3200,
       "estimate": "<7k",
       "name": "Scribe RPG"
     },
     "3281420": {
-      "rank": 59,
+      "rank": 60,
       "estimate": "300k+",
       "name": "Paradise"
     },
     "3316500": {
-      "rank": 1317,
+      "rank": 1319,
       "estimate": "25k+",
       "name": "DMZ: Nuclear Survival"
+    },
+    "3749720": {
+      "rank": 4777,
+      "estimate": "<7k",
+      "name": "The Division Resurgence"
     },
     "3859210": {
       "rank": 2092,
@@ -80,27 +85,27 @@
       "name": "Rhythm Animal Café"
     },
     "3867080": {
-      "rank": 2133,
+      "rank": 2135,
       "estimate": "7k+",
       "name": "Darklord's Tower"
     },
     "4234320": {
-      "rank": 2155,
+      "rank": 2152,
       "estimate": "7k+",
       "name": "Dithered"
     },
     "4610740": {
-      "rank": 3496,
+      "rank": 3494,
       "estimate": "<7k",
       "name": "Driftborn"
     },
     "4619040": {
-      "rank": 3968,
+      "rank": 3969,
       "estimate": "<7k",
       "name": "Valken"
     },
     "4702700": {
-      "rank": 1570,
+      "rank": 1574,
       "estimate": "15k+",
       "name": "Heathen"
     }
