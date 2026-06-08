@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T14:46:36.808Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-08T18:14:03.685Z",
+  "entryCount": 18,
   "entries": {
     "912000": {
       "rank": 895,
@@ -108,6 +108,13 @@
       "name": "Projekt: Passion - Season 2",
       "releaseDate": "2025-04-04",
       "source": "historical"
+    },
+    "3031720": {
+      "rank": 5642,
+      "estimate": "<7k",
+      "name": "Kamikaze Empire",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     },
     "3044100": {
       "rank": 2638,

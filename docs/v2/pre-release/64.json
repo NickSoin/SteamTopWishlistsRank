@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T14:46:36.808Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-08T18:14:03.685Z",
+  "entryCount": 20,
   "entries": {
     "808010": {
       "rank": 992,
@@ -135,6 +135,13 @@
       "estimate": "<7k",
       "name": "Moventure",
       "releaseDate": null,
+      "source": "tracked"
+    },
+    "3939100": {
+      "rank": 3221,
+      "estimate": "<7k",
+      "name": "Insomnia: Chapter One",
+      "releaseDate": "2026-06-08",
       "source": "tracked"
     }
   }

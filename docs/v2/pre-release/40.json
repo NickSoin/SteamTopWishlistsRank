@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T14:46:36.808Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-08T18:14:03.685Z",
+  "entryCount": 38,
   "entries": {
     "720660": {
       "rank": 1007,
@@ -255,6 +255,13 @@
       "name": "Punch Club 2: Iron Fist",
       "releaseDate": "2024-07-22",
       "source": "historical"
+    },
+    "3375890": {
+      "rank": 2802,
+      "estimate": "7k+",
+      "name": "Ogre Chambers 2222",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     },
     "3545060": {
       "rank": 6,

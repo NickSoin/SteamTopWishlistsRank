@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T14:46:36.808Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-08T18:14:03.685Z",
+  "entryCount": 19,
   "entries": {
     "368260": {
       "rank": 33,
@@ -124,6 +124,13 @@
       "name": "FreshWomen - Season 2",
       "releaseDate": "2025-10-23",
       "source": "historical"
+    },
+    "3768140": {
+      "rank": 7788,
+      "estimate": "<7k",
+      "name": "SeekOut",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     },
     "4516180": {
       "rank": 7635,

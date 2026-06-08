@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-08T14:46:36.808Z",
-  "entryCount": 11,
+  "updatedAt": "2026-06-08T18:14:03.685Z",
+  "entryCount": 12,
   "entries": {
     "1389140": {
-      "rank": 4496,
+      "rank": 4495,
       "estimate": "<7k",
       "name": "Jury Trial"
     },
     "1488490": {
-      "rank": 42,
+      "rank": 43,
       "estimate": "600k+",
       "name": "Nivalis"
     },
     "1924600": {
-      "rank": 1079,
+      "rank": 1082,
       "estimate": "25k+",
       "name": "March of Giants"
     },
     "2007430": {
-      "rank": 2390,
+      "rank": 2391,
       "estimate": "7k+",
       "name": "Blast Cats"
     },
@@ -30,27 +30,27 @@
       "name": "Mariachi Legends"
     },
     "2946140": {
-      "rank": 1860,
+      "rank": 1859,
       "estimate": "15k+",
       "name": "Windpunk"
     },
     "3169300": {
-      "rank": 3689,
+      "rank": 3690,
       "estimate": "<7k",
       "name": "Rainchaser"
     },
     "3188510": {
-      "rank": 1719,
+      "rank": 1723,
       "estimate": "15k+",
       "name": "Project SEVER"
     },
     "3283240": {
-      "rank": 97,
+      "rank": 98,
       "estimate": "300k+",
       "name": "THE LIFT: Supernatural Handyman Simulator"
     },
     "3510740": {
-      "rank": 2208,
+      "rank": 2206,
       "estimate": "7k+",
       "name": "Normal Golf Game"
     },
@@ -58,6 +58,11 @@
       "rank": 83,
       "estimate": "300k+",
       "name": "Atomic Heart 2"
+    },
+    "4581370": {
+      "rank": 4881,
+      "estimate": "<7k",
+      "name": "Where Dolls Hang"
     }
   }
 }

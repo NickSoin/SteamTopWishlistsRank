@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T14:46:36.808Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-08T18:14:03.685Z",
+  "entryCount": 25,
   "entries": {
     "868270": {
       "rank": 16,
@@ -166,6 +166,13 @@
       "name": "Mech Builder",
       "releaseDate": "2024-07-16",
       "source": "historical"
+    },
+    "4002100": {
+      "rank": 2282,
+      "estimate": "7k+",
+      "name": "Spirit Talk - Cozy Visual Novel",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     },
     "4650350": {
       "rank": 9429,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T14:46:36.808Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-08T18:14:03.685Z",
+  "entryCount": 21,
   "entries": {
     "1036240": {
       "rank": 491,
@@ -147,6 +147,13 @@
       "name": "100 Capitalist Cats",
       "releaseDate": "2024-01-21",
       "source": "historical"
+    },
+    "3400470": {
+      "rank": 4081,
+      "estimate": "<7k",
+      "name": "Hell Bug",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     }
   }
 }

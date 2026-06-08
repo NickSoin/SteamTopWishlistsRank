@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T14:46:36.808Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-08T18:14:03.685Z",
+  "entryCount": 22,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -149,6 +149,20 @@
       "name": "Undusted: Letters from the Past",
       "releaseDate": "2025-10-13",
       "source": "historical"
+    },
+    "3990560": {
+      "rank": 6390,
+      "estimate": "<7k",
+      "name": "Wanted Shadows: Unchained",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4720690": {
+      "rank": 7326,
+      "estimate": "<7k",
+      "name": "Apology Video",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     }
   }
 }

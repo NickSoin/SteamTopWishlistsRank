@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T14:46:36.808Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-08T18:14:03.685Z",
+  "entryCount": 19,
   "entries": {
     "1097350": {
       "rank": 63,
@@ -133,6 +133,13 @@
       "name": "ULTRA MUSHROOM",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4500150": {
+      "rank": 3100,
+      "estimate": "<7k",
+      "name": "Table 9",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     }
   }
 }
