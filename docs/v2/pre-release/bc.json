@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T10:10:56.980Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-08T14:46:36.808Z",
+  "entryCount": 18,
   "entries": {
     "368260": {
       "rank": 33,
@@ -124,6 +124,13 @@
       "name": "FreshWomen - Season 2",
       "releaseDate": "2025-10-23",
       "source": "historical"
+    },
+    "4516180": {
+      "rank": 7635,
+      "estimate": "<7k",
+      "name": "100 Sherwood Cats",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     }
   }
 }

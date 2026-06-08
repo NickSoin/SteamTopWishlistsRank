@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T10:10:56.980Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-08T14:46:36.808Z",
+  "entryCount": 28,
   "entries": {
     "1167100": {
       "rank": 379,
@@ -187,6 +187,13 @@
       "name": "Wildermyth - Omenroad",
       "releaseDate": "2024-05-16",
       "source": "historical"
+    },
+    "3100310": {
+      "rank": 559,
+      "estimate": "40k+",
+      "name": "Arms of God",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     },
     "3283310": {
       "rank": 3722,

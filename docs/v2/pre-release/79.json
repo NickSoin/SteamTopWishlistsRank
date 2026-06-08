@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T10:10:56.980Z",
+  "updatedAt": "2026-06-08T14:46:36.808Z",
   "entryCount": 27,
   "entries": {
     "553850": {
@@ -40,11 +40,11 @@
       "source": "historical"
     },
     "1597080": {
-      "rank": 9,
-      "estimate": "1.5m+",
+      "rank": 55,
+      "estimate": "300k+",
       "name": "Killer Bean",
       "releaseDate": "2026-06-08",
-      "source": "historical"
+      "source": "tracked"
     },
     "1729740": {
       "rank": 362,

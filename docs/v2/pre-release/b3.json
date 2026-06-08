@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T10:10:56.980Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-08T14:46:36.808Z",
+  "entryCount": 27,
   "entries": {
     "532790": {
       "rank": 3,
@@ -188,6 +188,13 @@
       "estimate": "80k+",
       "name": "Crashout Crew",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4738550": {
+      "rank": 7495,
+      "estimate": "<7k",
+      "name": "Dig into the core",
+      "releaseDate": "2026-06-08",
       "source": "tracked"
     }
   }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T10:10:56.980Z",
+  "updatedAt": "2026-06-08T14:46:36.808Z",
   "entryCount": 24,
   "entries": {
     "546560": {
@@ -166,11 +166,11 @@
       "source": "historical"
     },
     "3396290": {
-      "rank": 43,
-      "estimate": "600k+",
+      "rank": 844,
+      "estimate": "40k+",
       "name": "Puni the Florist",
       "releaseDate": "2026-06-08",
-      "source": "historical"
+      "source": "tracked"
     }
   }
 }

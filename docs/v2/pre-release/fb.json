@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T10:10:56.980Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-08T14:46:36.808Z",
+  "entryCount": 25,
   "entries": {
     "1100910": {
       "rank": 1412,
@@ -156,6 +156,13 @@
       "name": "Arsene Lupin - Once a Thief",
       "releaseDate": "2024-10-17",
       "source": "historical"
+    },
+    "2980140": {
+      "rank": 7601,
+      "estimate": "<7k",
+      "name": "Paul Bunyan Back to Bangor",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     },
     "2997980": {
       "rank": 2191,

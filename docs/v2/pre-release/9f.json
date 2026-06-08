@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T10:10:56.980Z",
+  "updatedAt": "2026-06-08T14:46:36.808Z",
   "entryCount": 26,
   "entries": {
     "437440": {
@@ -68,12 +68,12 @@
       "source": "historical"
     },
     "1805110": {
-      "rank": 6,
-      "estimate": "900k",
-      "actualWishlists": 900000,
+      "rank": 15,
+      "estimate": "800k+",
       "name": "Solarpunk™",
       "releaseDate": "2026-06-08",
-      "source": "historical",
+      "source": "tracked",
+      "actualWishlists": 900000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816307528915108"
     },
     "1831830": {

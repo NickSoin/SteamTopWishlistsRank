@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T10:10:56.980Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-08T14:46:36.808Z",
+  "entryCount": 26,
   "entries": {
     "606160": {
       "rank": 145,
@@ -184,6 +184,13 @@
       "name": "Warhammer 40,000: Rogue Trader - Void Shadows",
       "releaseDate": "2024-09-24",
       "source": "historical"
+    },
+    "4742550": {
+      "rank": 4771,
+      "estimate": "<7k",
+      "name": "Road to Omaha: College Baseball Dynasty",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     }
   }
 }
