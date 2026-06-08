@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-07T21:57:12.452Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-08T05:33:36.819Z",
+  "entryCount": 23,
   "entries": {
     "553540": {
       "rank": 73,
@@ -158,6 +158,13 @@
       "estimate": "7k+",
       "name": "Scam Center Simulator: UnderKingdom",
       "releaseDate": "2026-05-29",
+      "source": "tracked"
+    },
+    "4060150": {
+      "rank": 9279,
+      "estimate": "<7k",
+      "name": "阎罗索命",
+      "releaseDate": "2026-06-07",
       "source": "tracked"
     }
   }

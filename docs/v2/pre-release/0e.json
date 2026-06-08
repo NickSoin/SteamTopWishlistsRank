@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-07T21:57:12.452Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-08T05:33:36.819Z",
+  "entryCount": 32,
   "entries": {
     "529340": {
       "rank": 19,
@@ -145,6 +145,13 @@
       "name": "Pizza Possum",
       "releaseDate": "2023-09-28",
       "source": "historical"
+    },
+    "1958800": {
+      "rank": 2961,
+      "estimate": "7k+",
+      "name": "Duppy Detective Tashia",
+      "releaseDate": "2026-06-07",
+      "source": "tracked"
     },
     "2157680": {
       "rank": 703,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-07T21:57:12.452Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-08T05:33:36.819Z",
+  "entryCount": 24,
   "entries": {
     "1079230": {
       "rank": 572,
@@ -164,6 +164,13 @@
       "name": "100 Cats London",
       "releaseDate": "2025-03-16",
       "source": "historical"
+    },
+    "3894790": {
+      "rank": 3298,
+      "estimate": "<7k",
+      "name": "Professor Simulator",
+      "releaseDate": "2026-06-07",
+      "source": "tracked"
     }
   }
 }

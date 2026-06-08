@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-07T21:57:12.452Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-08T05:33:36.819Z",
+  "entryCount": 25,
   "entries": {
     "1219240": {
       "rank": 736,
@@ -177,6 +177,13 @@
       "name": "Contraband Police - Crimson Fall",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4718300": {
+      "rank": 8767,
+      "estimate": "<7k",
+      "name": "RZImageReader",
+      "releaseDate": "2026-06-07",
+      "source": "tracked"
     }
   }
 }

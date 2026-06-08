@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-07T21:57:12.452Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-08T05:33:36.819Z",
+  "entryCount": 27,
   "entries": {
     "945770": {
       "rank": 169,
@@ -189,6 +189,13 @@
       "releaseDate": "2026-03-05",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785774543502124"
+    },
+    "4595540": {
+      "rank": 3726,
+      "estimate": "<7k",
+      "name": "Touhou Erosion ~ The Fallen Shrine Maiden of Paradise",
+      "releaseDate": "2026-06-07",
+      "source": "tracked"
     }
   }
 }

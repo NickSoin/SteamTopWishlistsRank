@@ -1,68 +1,73 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-07T21:57:12.452Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-08T05:33:36.819Z",
+  "entryCount": 13,
   "entries": {
     "284080": {
-      "rank": 2624,
+      "rank": 2641,
       "estimate": "7k+",
       "name": "Lost Squad"
     },
     "1276510": {
-      "rank": 1060,
+      "rank": 1066,
       "estimate": "25k+",
       "name": "Human Farm"
     },
     "1553640": {
-      "rank": 2371,
+      "rank": 2383,
       "estimate": "7k+",
       "name": "There's no way that tsundere girl I met in the infirmary will be my girlfriend"
     },
     "2391610": {
-      "rank": 2299,
+      "rank": 2320,
       "estimate": "7k+",
       "name": "HORSE LIFE: find horses in open world, survive in wild nature as a foal or pony"
     },
     "2684840": {
-      "rank": 3162,
+      "rank": 3179,
       "estimate": "<7k",
       "name": "Felbound"
     },
     "2922250": {
-      "rank": 3002,
+      "rank": 3009,
       "estimate": "<7k",
       "name": "Baptiste"
     },
     "3045220": {
-      "rank": 3264,
+      "rank": 3279,
       "estimate": "<7k",
       "name": "Mutant Hunter"
     },
     "3351220": {
-      "rank": 4216,
+      "rank": 4232,
       "estimate": "<7k",
       "name": "The Rotting Chronicles"
     },
     "3705900": {
-      "rank": 2215,
+      "rank": 2230,
       "estimate": "7k+",
       "name": "President Simulator"
     },
     "3965610": {
-      "rank": 4511,
+      "rank": 4527,
       "estimate": "<7k",
       "name": "Stickman Fury"
     },
     "4090610": {
-      "rank": 4217,
+      "rank": 4229,
       "estimate": "<7k",
       "name": "Less Miserables"
     },
     "4223760": {
-      "rank": 3363,
+      "rank": 3379,
       "estimate": "<7k",
       "name": "Foundation: Galactic Frontier"
+    },
+    "4336170": {
+      "rank": 3824,
+      "estimate": "<7k",
+      "name": "Age of Empires IV: Raiders of the North"
     }
   }
 }
