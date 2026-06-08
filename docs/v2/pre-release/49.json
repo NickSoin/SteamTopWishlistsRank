@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-07T16:53:55.567Z",
+  "updatedAt": "2026-06-07T21:57:12.452Z",
   "entryCount": 20,
   "entries": {
     "1432910": {
@@ -91,11 +91,11 @@
       "source": "historical"
     },
     "2262020": {
-      "rank": 1406,
+      "rank": 1317,
       "estimate": "25k+",
       "name": "Exo Rally Championship",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-06-07",
+      "source": "tracked"
     },
     "2289650": {
       "rank": 796,

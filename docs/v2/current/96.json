@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-07T16:53:55.567Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-07T21:57:12.452Z",
+  "entryCount": 22,
   "entries": {
     "1468400": {
-      "rank": 1208,
+      "rank": 1212,
       "estimate": "25k+",
       "name": "Dreamhouse: The Game"
     },
     "2068380": {
-      "rank": 2203,
+      "rank": 2212,
       "estimate": "7k+",
       "name": "SCP: Directive Nine"
     },
     "2266890": {
-      "rank": 753,
+      "rank": 754,
       "estimate": "40k+",
       "name": "BECROWNED"
     },
     "2337990": {
-      "rank": 3004,
+      "rank": 3020,
       "estimate": "<7k",
       "name": "Kohlrabi Starship"
     },
     "2609400": {
-      "rank": 4070,
+      "rank": 4090,
       "estimate": "<7k",
       "name": "Dreaminal"
     },
     "2984150": {
-      "rank": 1907,
+      "rank": 1917,
       "estimate": "15k+",
       "name": "Pirofauna"
     },
     "3003430": {
-      "rank": 2407,
+      "rank": 2424,
       "estimate": "7k+",
       "name": "TINY METAL 2"
     },
     "3123130": {
-      "rank": 791,
+      "rank": 795,
       "estimate": "40k+",
       "name": "Moon Princess"
     },
     "3188490": {
-      "rank": 4288,
+      "rank": 4315,
       "estimate": "<7k",
       "name": "Epoch Reset"
     },
     "3340830": {
-      "rank": 1945,
+      "rank": 1950,
       "estimate": "15k+",
       "name": "Idle Cave Miner 2"
     },
@@ -60,7 +60,7 @@
       "name": "Clawed"
     },
     "3536680": {
-      "rank": 2365,
+      "rank": 2382,
       "estimate": "7k+",
       "name": "wYzards"
     },
@@ -70,7 +70,7 @@
       "name": "Pal♡world! ~More Than Just Pals~"
     },
     "3660710": {
-      "rank": 256,
+      "rank": 249,
       "estimate": "80k+",
       "name": "Armatus"
     },
@@ -80,34 +80,39 @@
       "name": "Whispers in the fog"
     },
     "3756370": {
-      "rank": 2621,
+      "rank": 2640,
       "estimate": "7k+",
       "name": "Räfven"
     },
     "3884970": {
-      "rank": 2302,
+      "rank": 2267,
       "estimate": "7k+",
       "name": "Layer Land"
     },
     "3891680": {
-      "rank": 4244,
+      "rank": 4273,
       "estimate": "<7k",
       "name": "Spirit Rancher"
     },
     "3979490": {
-      "rank": 3923,
+      "rank": 3939,
       "estimate": "<7k",
       "name": "AZUR"
     },
     "4031890": {
-      "rank": 126,
+      "rank": 128,
       "estimate": "200k+",
       "name": "Palworld: Palfarm"
     },
     "4633090": {
-      "rank": 1228,
+      "rank": 1231,
       "estimate": "25k+",
       "name": "Misa Online"
+    },
+    "4691270": {
+      "rank": 4125,
+      "estimate": "<7k",
+      "name": "Company of Heroes - Definitive Edition"
     }
   }
 }

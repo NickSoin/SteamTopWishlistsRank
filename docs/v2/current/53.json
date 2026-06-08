@@ -1,98 +1,108 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-07T16:53:55.567Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-07T21:57:12.452Z",
+  "entryCount": 20,
   "entries": {
     "611820": {
-      "rank": 4650,
+      "rank": 4677,
       "estimate": "<7k",
       "name": "Xenosis: Alien Infection"
     },
     "1478730": {
-      "rank": 1840,
+      "rank": 1855,
       "estimate": "15k+",
       "name": "Tune My Car"
     },
     "1587920": {
-      "rank": 4458,
+      "rank": 4483,
       "estimate": "<7k",
       "name": "Undead Development 2"
     },
     "1619870": {
-      "rank": 3399,
+      "rank": 3421,
       "estimate": "<7k",
       "name": "The Ballad of Bonky"
     },
     "2002840": {
-      "rank": 2922,
+      "rank": 2936,
       "estimate": "7k+",
       "name": "Gossamer Matrix"
     },
+    "2153760": {
+      "rank": 2007,
+      "estimate": "7k+",
+      "name": "Stronghold 4"
+    },
     "2437390": {
-      "rank": 147,
+      "rank": 146,
       "estimate": "200k+",
       "name": "Enginefall"
     },
     "2946850": {
-      "rank": 629,
+      "rank": 630,
       "estimate": "40k+",
       "name": "Streets of Fortuna"
     },
     "2953540": {
-      "rank": 1857,
+      "rank": 1868,
       "estimate": "15k+",
       "name": "Neverseas"
     },
     "3126480": {
-      "rank": 4510,
+      "rank": 4539,
       "estimate": "<7k",
       "name": "Lord of Metal"
     },
     "3252240": {
-      "rank": 2403,
+      "rank": 2420,
       "estimate": "7k+",
       "name": "Mircea"
     },
     "3536500": {
-      "rank": 2342,
+      "rank": 2360,
       "estimate": "7k+",
       "name": "Tunguska 2: Whitefall"
     },
     "3590650": {
-      "rank": 167,
+      "rank": 168,
       "estimate": "200k+",
       "name": "OKU"
     },
     "3619300": {
-      "rank": 2030,
+      "rank": 2036,
       "estimate": "7k+",
       "name": "TONIN:兎忍"
     },
     "3720040": {
-      "rank": 1917,
+      "rank": 1925,
       "estimate": "15k+",
       "name": "Hide Zone"
     },
     "3979570": {
-      "rank": 3226,
+      "rank": 3232,
       "estimate": "<7k",
       "name": "Factomancer"
     },
     "4178790": {
-      "rank": 3605,
+      "rank": 3626,
       "estimate": "<7k",
       "name": "Clicky Islands"
     },
     "4190240": {
-      "rank": 4698,
+      "rank": 4727,
       "estimate": "<7k",
       "name": "Nuclear Design Bureau"
     },
     "4293910": {
-      "rank": 1802,
+      "rank": 1775,
       "estimate": "15k+",
       "name": "XenoFeels"
+    },
+    "4735760": {
+      "rank": 2359,
+      "estimate": "7k+",
+      "name": "Vivarium"
     }
   }
 }

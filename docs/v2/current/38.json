@@ -1,36 +1,36 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-07T16:53:55.567Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-07T21:57:12.452Z",
+  "entryCount": 18,
   "entries": {
     "1158190": {
-      "rank": 875,
+      "rank": 876,
       "estimate": "40k+",
       "name": "Do Not Buy This Game"
     },
     "1173980": {
-      "rank": 200,
-      "estimate": "200k+",
+      "rank": 201,
+      "estimate": "80k+",
       "name": "Shadow of the Road"
     },
     "1345910": {
-      "rank": 4026,
+      "rank": 4047,
       "estimate": "<7k",
       "name": "The Airline Project: Next Gen"
     },
     "1501310": {
-      "rank": 161,
+      "rank": 162,
       "estimate": "200k+",
       "name": "The Ranchers"
     },
     "1889700": {
-      "rank": 1928,
+      "rank": 1935,
       "estimate": "15k+",
       "name": "Archrebel Tactics"
     },
     "2200940": {
-      "rank": 4222,
+      "rank": 4250,
       "estimate": "<7k",
       "name": "Sword of the Necromancer: Revenant"
     },
@@ -40,54 +40,59 @@
       "name": "Goodbye Seoul"
     },
     "2592230": {
-      "rank": 2370,
+      "rank": 2388,
       "estimate": "7k+",
       "name": "Spectra"
     },
     "2621930": {
-      "rank": 2218,
+      "rank": 2213,
       "estimate": "7k+",
       "name": "Grim Trials"
     },
     "2787850": {
-      "rank": 853,
+      "rank": 855,
       "estimate": "40k+",
       "name": "Runa"
     },
     "3088510": {
-      "rank": 1901,
+      "rank": 1790,
       "estimate": "15k+",
       "name": "Spellsided"
     },
     "3155670": {
-      "rank": 3452,
+      "rank": 3478,
       "estimate": "<7k",
       "name": "ユメザメの仮説"
     },
     "3373500": {
-      "rank": 748,
+      "rank": 749,
       "estimate": "40k+",
       "name": "Scavland"
     },
     "3681340": {
-      "rank": 1586,
+      "rank": 1588,
       "estimate": "15k+",
       "name": "All Living Things"
     },
     "3963860": {
-      "rank": 3613,
+      "rank": 3633,
       "estimate": "<7k",
       "name": "Tax It Easy"
     },
     "4243990": {
-      "rank": 1179,
+      "rank": 1186,
       "estimate": "25k+",
       "name": "Path of Idle: Old Gods Rising"
     },
     "4360240": {
-      "rank": 3985,
+      "rank": 3998,
       "estimate": "<7k",
       "name": "LOP: Whitefall"
+    },
+    "4410710": {
+      "rank": 4858,
+      "estimate": "<7k",
+      "name": "Fields of Aaru"
     }
   }
 }

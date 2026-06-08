@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-07T16:53:55.567Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-07T21:57:12.452Z",
+  "entryCount": 30,
   "entries": {
     "680420": {
       "rank": 15,
@@ -213,6 +213,13 @@
       "estimate": "25k+",
       "name": "Blood West: Scavengers",
       "releaseDate": "2026-06-03",
+      "source": "tracked"
+    },
+    "4757300": {
+      "rank": 7364,
+      "estimate": "<7k",
+      "name": "The Wheelchair Man",
+      "releaseDate": "2026-06-07",
       "source": "tracked"
     }
   }

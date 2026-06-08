@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-07T16:53:55.567Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-07T21:57:12.452Z",
+  "entryCount": 31,
   "entries": {
     "751780": {
       "rank": 21,
@@ -217,6 +217,13 @@
       "name": "Dungeon Vixens: A Tale of Temptation",
       "releaseDate": "2024-04-08",
       "source": "historical"
+    },
+    "4726270": {
+      "rank": 8567,
+      "estimate": "<7k",
+      "name": "Sushi Courier!",
+      "releaseDate": "2026-06-07",
+      "source": "tracked"
     }
   }
 }
