@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T05:33:36.819Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-08T10:10:56.980Z",
+  "entryCount": 23,
   "entries": {
     "716350": {
       "rank": 688,
@@ -162,6 +162,13 @@
       "estimate": "7k+",
       "name": "Hillshade Farm",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4656760": {
+      "rank": 3972,
+      "estimate": "<7k",
+      "name": "Tellyport",
+      "releaseDate": "2026-06-08",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T05:33:36.819Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-08T10:10:56.980Z",
+  "entryCount": 25,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -177,6 +177,13 @@
       "name": "Gunfire Reborn - Echoes From Primal Grove",
       "releaseDate": "2025-10-22",
       "source": "historical"
+    },
+    "4164900": {
+      "rank": 1732,
+      "estimate": "15k+",
+      "name": "Gacha Capsule Shop Simulator - Akihabara",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     }
   }
 }

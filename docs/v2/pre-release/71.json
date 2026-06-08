@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T05:33:36.819Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-08T10:10:56.980Z",
+  "entryCount": 20,
   "entries": {
     "653060": {
       "rank": 687,
@@ -138,6 +138,13 @@
       "name": "GOBLIN SLAYER -ANOTHER ADVENTURER- NIGHTMARE FEAST",
       "releaseDate": "2024-02-28",
       "source": "historical"
+    },
+    "4751470": {
+      "rank": 5671,
+      "estimate": "<7k",
+      "name": "DDoD OST - Founders Support Pack",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     }
   }
 }

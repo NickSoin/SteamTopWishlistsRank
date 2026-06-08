@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T05:33:36.819Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-08T10:10:56.980Z",
+  "entryCount": 20,
   "entries": {
     "623280": {
       "rank": 34,
@@ -133,6 +133,13 @@
       "name": "BOOK OF HOURS: HOUSE OF LIGHT",
       "releaseDate": "2024-09-26",
       "source": "historical"
+    },
+    "4420960": {
+      "rank": 9862,
+      "estimate": "<7k",
+      "name": "Farm Manager World - Christmas Pack",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     },
     "4674310": {
       "rank": 4760,

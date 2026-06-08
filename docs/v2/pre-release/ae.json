@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T05:33:36.819Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-08T10:10:56.980Z",
+  "entryCount": 29,
   "entries": {
     "593150": {
       "rank": 72,
@@ -17,6 +17,13 @@
       "name": "VAIL",
       "releaseDate": "2024-02-15",
       "source": "historical"
+    },
+    "968530": {
+      "rank": 1990,
+      "estimate": "15k+",
+      "name": "Decks of Dexterity",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     },
     "1226970": {
       "rank": 641,

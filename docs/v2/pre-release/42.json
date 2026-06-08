@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T05:33:36.819Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-08T10:10:56.980Z",
+  "entryCount": 28,
   "entries": {
     "1238450": {
       "rank": 1566,
@@ -191,6 +191,13 @@
       "name": "Turmoil - Deeper Underground",
       "releaseDate": "2024-09-12",
       "source": "historical"
+    },
+    "3569990": {
+      "rank": 3021,
+      "estimate": "<7k",
+      "name": "Chromadi",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     },
     "4165870": {
       "rank": 3,

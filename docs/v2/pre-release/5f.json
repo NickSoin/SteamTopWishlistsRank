@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T05:33:36.819Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-08T10:10:56.980Z",
+  "entryCount": 18,
   "entries": {
     "1194810": {
       "rank": 21,
@@ -124,6 +124,13 @@
       "name": "I Am Cat",
       "releaseDate": "2024-12-05",
       "source": "historical"
+    },
+    "4420950": {
+      "rank": 8912,
+      "estimate": "<7k",
+      "name": "Farm Manager World - Halloween Pack",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     }
   }
 }
