@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T04:54:21.479Z",
-  "entryCount": 43,
+  "updatedAt": "2026-06-09T09:10:56.903Z",
+  "entryCount": 44,
   "entries": {
     "748020": {
       "rank": 911,
@@ -295,6 +295,13 @@
       "estimate": "40k+",
       "name": "Dwarf Eats Mountain",
       "releaseDate": "2026-05-18",
+      "source": "tracked"
+    },
+    "4148240": {
+      "rank": 671,
+      "estimate": "40k+",
+      "name": "Road to Empress Ⅱ",
+      "releaseDate": "2026-06-08",
       "source": "tracked"
     },
     "4258770": {

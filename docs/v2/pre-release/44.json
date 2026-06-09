@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T04:54:21.479Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-09T09:10:56.903Z",
+  "entryCount": 25,
   "entries": {
     "499180": {
       "rank": 937,
@@ -171,6 +171,13 @@
       "name": "KuloNiku: Bowl Up!",
       "releaseDate": "2026-04-07",
       "source": "historical"
+    },
+    "4725290": {
+      "rank": 6416,
+      "estimate": "<7k",
+      "name": "Escape Line",
+      "releaseDate": "2026-06-09",
+      "source": "tracked"
     }
   }
 }

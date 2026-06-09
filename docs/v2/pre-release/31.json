@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T04:54:21.479Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-09T09:10:56.903Z",
+  "entryCount": 20,
   "entries": {
     "747660": {
       "rank": 193,
@@ -137,6 +137,13 @@
       "estimate": "7k+",
       "name": "Berserker Onslaught",
       "releaseDate": "2026-05-20",
+      "source": "tracked"
+    },
+    "4426280": {
+      "rank": 6577,
+      "estimate": "<7k",
+      "name": "Echoes of Sin: Confusion",
+      "releaseDate": "2026-06-09",
       "source": "tracked"
     }
   }

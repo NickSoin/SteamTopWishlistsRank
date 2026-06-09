@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T04:54:21.479Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-09T09:10:56.903Z",
+  "entryCount": 21,
   "entries": {
     "604540": {
       "rank": 12,
@@ -137,6 +137,13 @@
       "estimate": "7k+",
       "name": "Swan Song",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "3794600": {
+      "rank": 3702,
+      "estimate": "<7k",
+      "name": "My Summer Love: Memories",
+      "releaseDate": "2026-06-09",
       "source": "tracked"
     },
     "4218680": {

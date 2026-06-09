@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T04:54:21.479Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-09T09:10:56.903Z",
+  "entryCount": 27,
   "entries": {
     "606160": {
       "rank": 145,
@@ -190,6 +190,13 @@
       "estimate": "<7k",
       "name": "Road to Omaha: College Baseball Dynasty",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4765070": {
+      "rank": 6990,
+      "estimate": "<7k",
+      "name": "Nova Swarm",
+      "releaseDate": "2026-06-09",
       "source": "tracked"
     }
   }
