@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T09:10:56.903Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-09T13:37:42.730Z",
+  "entryCount": 40,
   "entries": {
     "454120": {
       "rank": 35,
@@ -275,6 +275,13 @@
       "estimate": "<7k",
       "name": "Lord Of Anatolia",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4616580": {
+      "rank": 4433,
+      "estimate": "<7k",
+      "name": "Eden's Eclipse",
+      "releaseDate": "2026-06-09",
       "source": "tracked"
     }
   }

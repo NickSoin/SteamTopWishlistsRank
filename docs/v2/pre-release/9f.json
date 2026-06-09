@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T09:10:56.903Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-09T13:37:42.730Z",
+  "entryCount": 27,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -180,6 +180,13 @@
       "name": "Mount & Blade II: Bannerlord - War Sails",
       "releaseDate": "2025-11-26",
       "source": "historical"
+    },
+    "4725790": {
+      "rank": 8230,
+      "estimate": "<7k",
+      "name": "Taj Mod | Official Soundtrack - Volume 1",
+      "releaseDate": "2026-06-09",
+      "source": "tracked"
     },
     "4749110": {
       "rank": 6711,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T09:10:56.903Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-09T13:37:42.730Z",
+  "entryCount": 22,
   "entries": {
     "850170": {
       "rank": 394,
@@ -149,6 +149,13 @@
       "estimate": "15k+",
       "name": "Banana of Doom",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "4676790": {
+      "rank": 7064,
+      "estimate": "<7k",
+      "name": "Old But Gold",
+      "releaseDate": "2026-06-09",
       "source": "tracked"
     }
   }

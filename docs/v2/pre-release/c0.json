@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T09:10:56.903Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-09T13:37:42.730Z",
+  "entryCount": 17,
   "entries": {
     "589450": {
       "rank": 1113,
@@ -115,6 +115,13 @@
       "name": "CONTROL Resonant",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4451520": {
+      "rank": 9140,
+      "estimate": "<7k",
+      "name": "Ocean Cleaner Idle",
+      "releaseDate": "2026-06-09",
+      "source": "tracked"
     }
   }
 }
