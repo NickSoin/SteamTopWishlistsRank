@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T18:14:03.685Z",
-  "entryCount": 38,
+  "updatedAt": "2026-06-08T22:30:51.587Z",
+  "entryCount": 39,
   "entries": {
     "671860": {
       "rank": 22,
@@ -269,6 +269,13 @@
       "name": "Sunken Engine",
       "releaseDate": "2025-10-16",
       "source": "historical"
+    },
+    "4605050": {
+      "rank": 9128,
+      "estimate": "<7k",
+      "name": "Arcade World Cups",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     }
   }
 }

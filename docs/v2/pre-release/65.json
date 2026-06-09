@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T18:14:03.685Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-08T22:30:51.587Z",
+  "entryCount": 31,
   "entries": {
     "301280": {
       "rank": 574,
@@ -201,6 +201,13 @@
       "name": "Talented Exorcist won't submit to Tentacle Demon",
       "releaseDate": "2024-11-27",
       "source": "historical"
+    },
+    "2805850": {
+      "rank": 868,
+      "estimate": "40k+",
+      "name": "Atre: Dominance Wars",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     },
     "2836290": {
       "rank": 2251,

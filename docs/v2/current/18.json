@@ -1,86 +1,91 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-08T18:14:03.685Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-08T22:30:51.587Z",
+  "entryCount": 18,
   "entries": {
     "1420420": {
-      "rank": 3950,
+      "rank": 3959,
       "estimate": "<7k",
       "name": "Fret Smasher"
     },
     "1570840": {
-      "rank": 3479,
+      "rank": 3480,
       "estimate": "<7k",
       "name": "Tides of Tethys"
     },
     "1699710": {
-      "rank": 3012,
+      "rank": 3017,
       "estimate": "<7k",
       "name": "The Dream Of A Cockspur"
     },
     "2427530": {
-      "rank": 1912,
+      "rank": 1913,
       "estimate": "15k+",
       "name": "The Nightscarred: Forgotten Gods"
     },
+    "2447370": {
+      "rank": 4864,
+      "estimate": "<7k",
+      "name": "It Takes a Tribe"
+    },
     "2707630": {
-      "rank": 4343,
+      "rank": 4346,
       "estimate": "<7k",
       "name": "Twins of Olus"
     },
     "2748420": {
-      "rank": 4078,
+      "rank": 4079,
       "estimate": "<7k",
       "name": "Ascent: Rivals"
     },
     "2915730": {
-      "rank": 581,
+      "rank": 582,
       "estimate": "40k+",
       "name": "Travelling At Night"
     },
     "2951510": {
-      "rank": 4334,
+      "rank": 4338,
       "estimate": "<7k",
       "name": "Spyrit Walker"
     },
     "3024130": {
-      "rank": 691,
+      "rank": 692,
       "estimate": "40k+",
       "name": "Pao Pao"
     },
     "3137450": {
-      "rank": 3027,
+      "rank": 3032,
       "estimate": "<7k",
       "name": "ROOST"
     },
     "3258580": {
-      "rank": 1197,
+      "rank": 1199,
       "estimate": "25k+",
       "name": "Don't Wake the Beast"
     },
     "3488640": {
-      "rank": 1804,
+      "rank": 1809,
       "estimate": "15k+",
       "name": "Magical Blush"
     },
     "3536530": {
-      "rank": 4856,
+      "rank": 4862,
       "estimate": "<7k",
       "name": "Örnöga: Idle & Loot"
     },
     "3661500": {
-      "rank": 3936,
+      "rank": 3941,
       "estimate": "<7k",
       "name": "Middle Management"
     },
     "3847450": {
-      "rank": 3913,
+      "rank": 3910,
       "estimate": "<7k",
       "name": "Project S.U.N.D.I.A.L"
     },
     "4011300": {
-      "rank": 3666,
+      "rank": 3668,
       "estimate": "<7k",
       "name": "Super Shout Showdown"
     },

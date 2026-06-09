@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T18:14:03.685Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-08T22:30:51.587Z",
+  "entryCount": 29,
   "entries": {
     "812910": {
       "rank": 1037,
@@ -201,6 +201,13 @@
       "name": "Tunnel Escape",
       "releaseDate": "2024-08-22",
       "source": "historical"
+    },
+    "2982660": {
+      "rank": 5835,
+      "estimate": "<7k",
+      "name": "Rakeo",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     }
   }
 }

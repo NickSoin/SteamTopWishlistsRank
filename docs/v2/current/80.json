@@ -1,51 +1,51 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-08T18:14:03.685Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-08T22:30:51.587Z",
+  "entryCount": 23,
   "entries": {
     "247710": {
-      "rank": 2489,
+      "rank": 2494,
       "estimate": "7k+",
       "name": "Battledroid"
     },
     "1096090": {
-      "rank": 3485,
+      "rank": 3488,
       "estimate": "<7k",
       "name": "Among Ripples: Shallow Waters"
     },
     "1112390": {
-      "rank": 4016,
+      "rank": 4020,
       "estimate": "<7k",
       "name": "HyperCore : Rhythm Bullet Hell"
     },
     "1188850": {
-      "rank": 3567,
+      "rank": 3569,
       "estimate": "<7k",
       "name": "Cyberpunk Bar Sim"
     },
     "1376800": {
-      "rank": 4370,
+      "rank": 4372,
       "estimate": "<7k",
       "name": "Vaporwave"
     },
     "1640990": {
-      "rank": 2038,
+      "rank": 2039,
       "estimate": "7k+",
       "name": "TRPG Workshop"
     },
     "2541560": {
-      "rank": 2711,
+      "rank": 2712,
       "estimate": "7k+",
       "name": "ARCHETYPE BLUE"
     },
     "2618130": {
-      "rank": 1971,
+      "rank": 1973,
       "estimate": "15k+",
       "name": "Partizan"
     },
     "2727360": {
-      "rank": 3265,
+      "rank": 3267,
       "estimate": "<7k",
       "name": "Wuxia Saga: Ten Thousand Paths"
     },
@@ -60,42 +60,42 @@
       "name": "Tukoni: Forest Keepers"
     },
     "2986590": {
-      "rank": 1884,
+      "rank": 1889,
       "estimate": "15k+",
       "name": "HYPNOSYNC"
     },
     "3218100": {
-      "rank": 811,
+      "rank": 812,
       "estimate": "40k+",
       "name": "I AM RIPPER"
     },
     "3407450": {
-      "rank": 2774,
+      "rank": 2777,
       "estimate": "7k+",
       "name": "The Northern Path"
     },
     "3461050": {
-      "rank": 3200,
+      "rank": 3194,
       "estimate": "<7k",
       "name": "Gambit"
     },
     "3479420": {
-      "rank": 2594,
+      "rank": 2600,
       "estimate": "7k+",
       "name": "Okko The Exiled"
     },
     "3485290": {
-      "rank": 4054,
+      "rank": 4058,
       "estimate": "<7k",
       "name": "Crimson Tale"
     },
     "3544430": {
-      "rank": 2679,
+      "rank": 2680,
       "estimate": "7k+",
       "name": "SOULGRAVE"
     },
     "3659460": {
-      "rank": 2843,
+      "rank": 2842,
       "estimate": "7k+",
       "name": "Gear.Club Unlimited 3"
     },
@@ -105,7 +105,7 @@
       "name": "DayZ Badlands"
     },
     "4032350": {
-      "rank": 2610,
+      "rank": 2553,
       "estimate": "7k+",
       "name": "EA SPORTS™ College Football 27"
     },
@@ -113,6 +113,11 @@
       "rank": 51,
       "estimate": "300k+",
       "name": "Graveyard Keeper 2"
+    },
+    "4359200": {
+      "rank": 4880,
+      "estimate": "<7k",
+      "name": "Build It Up! - The Holy Roman Empire"
     }
   }
 }
