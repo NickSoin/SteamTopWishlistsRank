@@ -1,78 +1,83 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-09T13:37:42.730Z",
-  "entryCount": 14,
+  "updatedAt": "2026-06-09T17:40:08.489Z",
+  "entryCount": 15,
   "entries": {
     "1299070": {
-      "rank": 4655,
+      "rank": 4661,
       "estimate": "<7k",
       "name": "Blacksmith Bay"
     },
     "1918120": {
-      "rank": 4383,
+      "rank": 4389,
       "estimate": "<7k",
       "name": "zakon"
     },
     "1967610": {
-      "rank": 226,
+      "rank": 227,
       "estimate": "80k+",
       "name": "Turok: Origins"
     },
     "2098920": {
-      "rank": 3038,
+      "rank": 3042,
       "estimate": "<7k",
       "name": "Inter Solar 83"
     },
     "2929040": {
-      "rank": 3668,
+      "rank": 3670,
       "estimate": "<7k",
       "name": "Fleetbreakers"
     },
     "3393280": {
-      "rank": 543,
+      "rank": 544,
       "estimate": "40k+",
       "name": "Anime Shop Simulator ✨"
     },
     "3429190": {
-      "rank": 3228,
+      "rank": 3230,
       "estimate": "<7k",
       "name": "Pawsta - A Cozy Claymation Cooking Game"
     },
     "3447460": {
-      "rank": 1183,
+      "rank": 1180,
       "estimate": "25k+",
       "name": "Gravity Circuit 2"
     },
     "3703630": {
-      "rank": 1617,
+      "rank": 1574,
       "estimate": "15k+",
       "name": "The Talos Principle 3"
     },
     "3795570": {
-      "rank": 3473,
+      "rank": 3476,
       "estimate": "<7k",
       "name": "Abyss Of Doom"
     },
     "3812790": {
-      "rank": 4496,
+      "rank": 4503,
       "estimate": "<7k",
       "name": "Live Translate"
     },
     "3906460": {
-      "rank": 3661,
+      "rank": 3663,
       "estimate": "<7k",
       "name": "The Last Flight"
     },
     "4141710": {
-      "rank": 2224,
+      "rank": 2225,
       "estimate": "7k+",
       "name": "Neko Station"
     },
     "4306890": {
-      "rank": 495,
+      "rank": 486,
       "estimate": "80k+",
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition)"
+    },
+    "4753290": {
+      "rank": 4261,
+      "estimate": "<7k",
+      "name": "JUJUTSU KAISEN RUMBLE: SURVIVATON"
     }
   }
 }

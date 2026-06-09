@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T13:37:42.730Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-09T17:40:08.489Z",
+  "entryCount": 29,
   "entries": {
     "714370": {
       "rank": 8,
@@ -191,6 +191,13 @@
       "estimate": "7k+",
       "name": "Cardburners",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3500880": {
+      "rank": 1055,
+      "estimate": "25k+",
+      "name": "Tavern Talk Stories: Dreamwalker",
+      "releaseDate": "2026-06-09",
       "source": "tracked"
     },
     "3694480": {

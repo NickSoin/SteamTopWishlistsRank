@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T13:37:42.730Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-09T17:40:08.489Z",
+  "entryCount": 22,
   "entries": {
     "757310": {
       "rank": 43,
@@ -150,6 +150,13 @@
       "name": "Usagi Shima: Bunny Island",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4035810": {
+      "rank": 1765,
+      "estimate": "15k+",
+      "name": "Train Sim World® 6: West Coast Main Line Trent Valley: Milton Keynes - Crewe Route Add-On",
+      "releaseDate": "2026-06-09",
+      "source": "tracked"
     }
   }
 }

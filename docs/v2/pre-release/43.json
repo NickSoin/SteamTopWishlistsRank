@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T13:37:42.730Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-09T17:40:08.489Z",
+  "entryCount": 24,
   "entries": {
     "716350": {
       "rank": 688,
@@ -162,6 +162,13 @@
       "estimate": "7k+",
       "name": "Hillshade Farm",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4001700": {
+      "rank": 6198,
+      "estimate": "<7k",
+      "name": "Cauldron Craft",
+      "releaseDate": "2026-06-09",
       "source": "tracked"
     },
     "4656760": {

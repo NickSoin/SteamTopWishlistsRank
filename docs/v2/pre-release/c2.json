@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T13:37:42.730Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-09T17:40:08.489Z",
+  "entryCount": 25,
   "entries": {
     "834910": {
       "rank": 9,
@@ -173,6 +173,13 @@
       "name": "Aotenjo: Infinite Hands",
       "releaseDate": "2025-01-19",
       "source": "historical"
+    },
+    "3700980": {
+      "rank": 2892,
+      "estimate": "7k+",
+      "name": "How to Make an Atomic Bomb in Your Garden",
+      "releaseDate": "2026-06-09",
+      "source": "tracked"
     }
   }
 }

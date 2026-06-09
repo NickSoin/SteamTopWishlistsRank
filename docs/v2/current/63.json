@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-09T13:37:42.730Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-09T17:40:08.489Z",
+  "entryCount": 17,
   "entries": {
     "1053900": {
-      "rank": 541,
+      "rank": 542,
       "estimate": "40k+",
       "name": "Radio the Universe"
     },
     "1561740": {
-      "rank": 466,
+      "rank": 467,
       "estimate": "80k+",
       "name": "Kriegsfront Tactics"
     },
     "1725290": {
-      "rank": 4838,
+      "rank": 4842,
       "estimate": "<7k",
       "name": "Final Vanguard"
     },
@@ -25,17 +25,17 @@
       "name": "Teatopia"
     },
     "2354640": {
-      "rank": 3763,
+      "rank": 3724,
       "estimate": "<7k",
       "name": "DIESELDOME: Ultraviolent Gladiator Shooter"
     },
     "2446660": {
-      "rank": 1600,
+      "rank": 1603,
       "estimate": "15k+",
       "name": "Dragonscale Monastery"
     },
     "2559740": {
-      "rank": 936,
+      "rank": 939,
       "estimate": "40k+",
       "name": "Tower Of Tears"
     },
@@ -45,17 +45,17 @@
       "name": "DRINKRIME"
     },
     "2572040": {
-      "rank": 433,
+      "rank": 434,
       "estimate": "80k+",
       "name": "Woodo"
     },
     "2862770": {
-      "rank": 3646,
+      "rank": 3656,
       "estimate": "<7k",
       "name": "星海乐章 | GALIX: NewHorizons | 星の旅：億万年の絆"
     },
     "3067170": {
-      "rank": 4207,
+      "rank": 4206,
       "estimate": "<7k",
       "name": "Protagonist Complex one"
     },
@@ -65,34 +65,29 @@
       "name": "TANUKI: Pon's Summer"
     },
     "3235140": {
-      "rank": 2151,
+      "rank": 2155,
       "estimate": "7k+",
       "name": "GANGSTALK"
     },
     "3532690": {
-      "rank": 3175,
+      "rank": 3180,
       "estimate": "<7k",
       "name": "Climbing Gym Simulator"
     },
     "3661400": {
-      "rank": 2889,
+      "rank": 2892,
       "estimate": "7k+",
       "name": "Gourdlets Together"
     },
     "3800010": {
-      "rank": 4886,
+      "rank": 4894,
       "estimate": "<7k",
       "name": "Abyssal Rust"
     },
     "4133290": {
-      "rank": 1959,
+      "rank": 1962,
       "estimate": "15k+",
       "name": "DownSouth"
-    },
-    "4598200": {
-      "rank": 3554,
-      "estimate": "<7k",
-      "name": "Dune: Imperium - Uprising"
     }
   }
 }

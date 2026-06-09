@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T13:37:42.730Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-09T17:40:08.489Z",
+  "entryCount": 23,
   "entries": {
     "922620": {
       "rank": 627,
@@ -157,6 +157,13 @@
       "name": "Dungeon Rampage",
       "releaseDate": "2025-12-05",
       "source": "historical"
+    },
+    "4588330": {
+      "rank": 9508,
+      "estimate": "<7k",
+      "name": "Dynastic Era",
+      "releaseDate": "2026-06-09",
+      "source": "tracked"
     }
   }
 }

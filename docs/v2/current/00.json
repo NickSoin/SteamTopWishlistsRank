@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-09T13:37:42.730Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-09T17:40:08.489Z",
+  "entryCount": 18,
   "entries": {
     "1252070": {
-      "rank": 1189,
+      "rank": 1191,
       "estimate": "25k+",
       "name": "STARHOME"
     },
     "1264620": {
-      "rank": 2771,
+      "rank": 2776,
       "estimate": "7k+",
       "name": "Lucen"
     },
     "1580740": {
-      "rank": 3027,
+      "rank": 3030,
       "estimate": "<7k",
       "name": "SHIBUYA SUSHI MASTER"
     },
     "1815150": {
-      "rank": 935,
+      "rank": 936,
       "estimate": "40k+",
       "name": "NIGHT OF THE CONSUMERS"
     },
     "2425200": {
-      "rank": 1939,
+      "rank": 1941,
       "estimate": "15k+",
       "name": "HARUKA: Beyond the Stars"
     },
@@ -35,12 +35,12 @@
       "name": "Desktop Explorer"
     },
     "2620450": {
-      "rank": 1096,
+      "rank": 1094,
       "estimate": "25k+",
       "name": "Highreach"
     },
     "2875410": {
-      "rank": 4801,
+      "rank": 4804,
       "estimate": "<7k",
       "name": "Pinnacle Point"
     },
@@ -50,7 +50,7 @@
       "name": "Theos: Cities Of Myth"
     },
     "3010270": {
-      "rank": 371,
+      "rank": 372,
       "estimate": "80k+",
       "name": "Warhammer 40,000: Chaos Gate – Deathwatch"
     },
@@ -60,17 +60,17 @@
       "name": "Daydream"
     },
     "3555780": {
-      "rank": 1612,
+      "rank": 1611,
       "estimate": "15k+",
       "name": "Bookbinding – Dark Cozy Sim"
     },
     "3714280": {
-      "rank": 2565,
+      "rank": 2570,
       "estimate": "7k+",
       "name": "FLASK"
     },
     "3842660": {
-      "rank": 4500,
+      "rank": 4497,
       "estimate": "<7k",
       "name": "XX Fulfillment Center"
     },
@@ -80,14 +80,19 @@
       "name": "Bones and Coins"
     },
     "4413070": {
-      "rank": 1591,
+      "rank": 1586,
       "estimate": "15k+",
       "name": "Red Chat Ritual – TSUMIMI TIME"
     },
     "4430020": {
-      "rank": 870,
+      "rank": 869,
       "estimate": "40k+",
       "name": "Hamsteria"
+    },
+    "4624180": {
+      "rank": 4620,
+      "estimate": "<7k",
+      "name": "Animation VERSUS"
     }
   }
 }

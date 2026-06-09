@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T13:37:42.730Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-09T17:40:08.489Z",
+  "entryCount": 29,
   "entries": {
     "919360": {
       "rank": 151,
@@ -103,6 +103,13 @@
       "name": "Oppidum",
       "releaseDate": "2025-04-23",
       "source": "historical"
+    },
+    "2143600": {
+      "rank": 2032,
+      "estimate": "7k+",
+      "name": "Axom: Conquest",
+      "releaseDate": "2026-06-09",
+      "source": "tracked"
     },
     "2186320": {
       "rank": 1300,
