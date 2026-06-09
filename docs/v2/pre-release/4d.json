@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T22:30:51.587Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-09T04:54:21.479Z",
+  "entryCount": 20,
   "entries": {
     "251570": {
       "rank": 42,
@@ -137,6 +137,13 @@
       "estimate": "<7k",
       "name": "Iris Odyssey",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3574100": {
+      "rank": 9285,
+      "estimate": "<7k",
+      "name": "Xiaye's Doors of Magic: Lightchaser",
+      "releaseDate": "2026-06-08",
       "source": "tracked"
     }
   }

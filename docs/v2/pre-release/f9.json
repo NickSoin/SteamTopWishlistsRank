@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T22:30:51.587Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-09T04:54:21.479Z",
+  "entryCount": 25,
   "entries": {
     "257420": {
       "rank": 19,
@@ -173,6 +173,13 @@
       "name": "Magic Pussy: Chapter 3",
       "releaseDate": "2025-10-18",
       "source": "historical"
+    },
+    "4762670": {
+      "rank": 9487,
+      "estimate": "<7k",
+      "name": "Haru : Ritual of Sacrifice",
+      "releaseDate": "2026-06-09",
+      "source": "tracked"
     }
   }
 }

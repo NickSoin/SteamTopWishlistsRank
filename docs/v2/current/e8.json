@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-08T22:30:51.587Z",
-  "entryCount": 13,
+  "updatedAt": "2026-06-09T04:54:21.479Z",
+  "entryCount": 14,
   "entries": {
     "1376880": {
       "rank": 972,
@@ -10,17 +10,17 @@
       "name": "Ultimate Hunting®"
     },
     "1386300": {
-      "rank": 4340,
+      "rank": 4344,
       "estimate": "<7k",
       "name": "Animal Trainer"
     },
     "2059070": {
-      "rank": 3494,
+      "rank": 3497,
       "estimate": "<7k",
       "name": "Isotopia"
     },
     "2085080": {
-      "rank": 815,
+      "rank": 816,
       "estimate": "40k+",
       "name": "Princess Hunter"
     },
@@ -35,7 +35,7 @@
       "name": "Cozy Marbles"
     },
     "2856440": {
-      "rank": 3284,
+      "rank": 3287,
       "estimate": "<7k",
       "name": "The Temple of Children"
     },
@@ -45,29 +45,34 @@
       "name": "Lost in the Roots"
     },
     "2895500": {
-      "rank": 3630,
+      "rank": 3628,
       "estimate": "<7k",
       "name": "ANOTHEREAL"
     },
     "3392040": {
-      "rank": 417,
+      "rank": 418,
       "estimate": "80k+",
       "name": "OMEGA PHENEX COMMENCED PROJECT SIX"
     },
     "3514750": {
-      "rank": 1958,
+      "rank": 1961,
       "estimate": "15k+",
       "name": "Fantasy Burger"
     },
     "3564340": {
-      "rank": 2685,
+      "rank": 2669,
       "estimate": "7k+",
       "name": "Hold Your King"
     },
     "4221820": {
-      "rank": 2164,
+      "rank": 2165,
       "estimate": "7k+",
       "name": "Die for Pay"
+    },
+    "4761940": {
+      "rank": 4558,
+      "estimate": "<7k",
+      "name": "Smalland 2: Lost Realms"
     }
   }
 }

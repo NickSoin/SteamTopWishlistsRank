@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T22:30:51.587Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-09T04:54:21.479Z",
+  "entryCount": 30,
   "entries": {
     "930280": {
       "rank": 438,
@@ -211,6 +211,13 @@
       "estimate": "<7k",
       "name": "93, Kuindzhi",
       "releaseDate": "2026-05-19",
+      "source": "tracked"
+    },
+    "4578130": {
+      "rank": 9101,
+      "estimate": "<7k",
+      "name": "Regeneration Engine",
+      "releaseDate": "2026-06-08",
       "source": "tracked"
     }
   }

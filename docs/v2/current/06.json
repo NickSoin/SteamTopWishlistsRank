@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-08T22:30:51.587Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-09T04:54:21.479Z",
+  "entryCount": 24,
   "entries": {
     "1512190": {
-      "rank": 1480,
+      "rank": 1485,
       "estimate": "25k+",
       "name": "Hunternet Starfighter"
     },
     "1531180": {
-      "rank": 1128,
+      "rank": 1129,
       "estimate": "25k+",
       "name": "Lost Isle"
     },
@@ -20,17 +20,17 @@
       "name": "HUNGER"
     },
     "1871640": {
-      "rank": 786,
+      "rank": 787,
       "estimate": "40k+",
       "name": "The Backworld"
     },
     "1914710": {
-      "rank": 3248,
+      "rank": 3250,
       "estimate": "<7k",
       "name": "MikoVerse"
     },
     "2077890": {
-      "rank": 1271,
+      "rank": 1273,
       "estimate": "25k+",
       "name": "Green Hawk Platoon"
     },
@@ -40,32 +40,32 @@
       "name": "Wish Upon A Llama"
     },
     "2379350": {
-      "rank": 1461,
+      "rank": 1465,
       "estimate": "25k+",
       "name": "Scramble Knights Online"
     },
     "2483660": {
-      "rank": 3425,
+      "rank": 3427,
       "estimate": "<7k",
       "name": "A Story in Bronze Ware"
     },
     "2640920": {
-      "rank": 1890,
+      "rank": 1892,
       "estimate": "15k+",
       "name": "Network Engineer Simulator"
     },
     "2823820": {
-      "rank": 2285,
+      "rank": 2286,
       "estimate": "7k+",
       "name": "Category 6"
     },
     "3128610": {
-      "rank": 2820,
+      "rank": 2825,
       "estimate": "7k+",
       "name": "Plane Graveyard Simulator"
     },
     "3258560": {
-      "rank": 4193,
+      "rank": 4183,
       "estimate": "<7k",
       "name": "I'm No Demonlord"
     },
@@ -75,12 +75,12 @@
       "name": "Arkheron"
     },
     "3343970": {
-      "rank": 3280,
+      "rank": 3284,
       "estimate": "<7k",
       "name": "Simulario"
     },
     "3352150": {
-      "rank": 1961,
+      "rank": 1964,
       "estimate": "15k+",
       "name": "Bushcraft Simulator"
     },
@@ -90,34 +90,39 @@
       "name": "The Dark West"
     },
     "3664840": {
-      "rank": 3255,
+      "rank": 3256,
       "estimate": "<7k",
       "name": "Compress(space)"
     },
     "3802950": {
-      "rank": 2838,
+      "rank": 2842,
       "estimate": "7k+",
       "name": "Trinity 64"
     },
     "4049170": {
-      "rank": 1656,
+      "rank": 1653,
       "estimate": "15k+",
       "name": "Disney•Pixar Toy Story: Retro Roundup!"
     },
     "4152490": {
-      "rank": 4056,
+      "rank": 4061,
       "estimate": "<7k",
       "name": "Spy Drops Gaiden"
     },
     "4202300": {
-      "rank": 4211,
+      "rank": 4214,
       "estimate": "<7k",
       "name": "VIFA"
     },
     "4308420": {
-      "rank": 2058,
+      "rank": 2041,
       "estimate": "7k+",
       "name": "Arizona Sunshine®"
+    },
+    "4353330": {
+      "rank": 1900,
+      "estimate": "15k+",
+      "name": "Rinthine"
     }
   }
 }

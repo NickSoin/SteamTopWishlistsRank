@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T22:30:51.587Z",
-  "entryCount": 34,
+  "updatedAt": "2026-06-09T04:54:21.479Z",
+  "entryCount": 35,
   "entries": {
     "871540": {
       "rank": 824,
@@ -243,6 +243,13 @@
       "source": "tracked",
       "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623110217"
+    },
+    "4290170": {
+      "rank": 7017,
+      "estimate": "<7k",
+      "name": "Mudventure",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     }
   }
 }

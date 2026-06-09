@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T22:30:51.587Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-09T04:54:21.479Z",
+  "entryCount": 26,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -171,6 +171,13 @@
       "name": "Heretical",
       "releaseDate": "2024-10-30",
       "source": "historical"
+    },
+    "3705350": {
+      "rank": 3662,
+      "estimate": "<7k",
+      "name": "Player's New World",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     },
     "4661910": {
       "rank": 7839,

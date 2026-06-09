@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-08T22:30:51.587Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-09T04:54:21.479Z",
+  "entryCount": 29,
   "entries": {
     "774791": {
       "rank": 539,
@@ -199,6 +199,13 @@
       "name": "Where Winds Meet",
       "releaseDate": "2025-11-14",
       "source": "historical"
+    },
+    "4708080": {
+      "rank": 5616,
+      "estimate": "<7k",
+      "name": "The Echoes",
+      "releaseDate": "2026-06-08",
+      "source": "tracked"
     }
   }
 }
