@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T14:14:21.115Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-10T18:34:52.373Z",
+  "entryCount": 26,
   "entries": {
     "834910": {
       "rank": 9,
@@ -179,6 +179,13 @@
       "estimate": "7k+",
       "name": "How to Make an Atomic Bomb in Your Garden",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "3858650": {
+      "rank": 826,
+      "estimate": "40k+",
+      "name": "Crushed In Time",
+      "releaseDate": "2026-06-10",
       "source": "tracked"
     }
   }

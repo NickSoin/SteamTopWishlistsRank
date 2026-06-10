@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T14:14:21.115Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-10T18:34:52.373Z",
+  "entryCount": 16,
   "entries": {
     "849100": {
       "rank": 19,
@@ -110,6 +110,13 @@
       "name": "Elite Exorcist Miko",
       "releaseDate": "2024-12-25",
       "source": "historical"
+    },
+    "4693460": {
+      "rank": 5932,
+      "estimate": "<7k",
+      "name": "The Dreams in the Peacock House",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     }
   }
 }

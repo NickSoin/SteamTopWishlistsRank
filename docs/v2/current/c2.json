@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-10T14:14:21.115Z",
-  "entryCount": 10,
+  "updatedAt": "2026-06-10T18:34:52.373Z",
+  "entryCount": 9,
   "entries": {
     "1037170": {
-      "rank": 4537,
+      "rank": 4513,
       "estimate": "<7k",
       "name": "Maximum Thunderness"
     },
     "1040240": {
-      "rank": 1797,
+      "rank": 1796,
       "estimate": "15k+",
       "name": "Transformice Adventures"
     },
     "1666480": {
-      "rank": 3806,
+      "rank": 3802,
       "estimate": "<7k",
       "name": "Astra: Fading Stars"
     },
     "1749400": {
-      "rank": 2970,
+      "rank": 2967,
       "estimate": "7k+",
       "name": "Lendas"
     },
     "2503230": {
-      "rank": 1699,
+      "rank": 1697,
       "estimate": "15k+",
       "name": "Bogdan's Cross"
     },
@@ -35,24 +35,19 @@
       "name": "Expedition: Into Darkness"
     },
     "3261450": {
-      "rank": 984,
+      "rank": 980,
       "estimate": "40k+",
       "name": "Tangerine Antarctic"
     },
     "3617990": {
-      "rank": 953,
+      "rank": 950,
       "estimate": "40k+",
       "name": "Star Wrath"
     },
     "3677310": {
-      "rank": 3182,
+      "rank": 3181,
       "estimate": "<7k",
       "name": "Misty Valley: A Cozy Fishing Tale"
-    },
-    "3858650": {
-      "rank": 826,
-      "estimate": "40k+",
-      "name": "Crushed In Time"
     }
   }
 }

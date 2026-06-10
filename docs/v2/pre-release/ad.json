@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T14:14:21.115Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-10T18:34:52.373Z",
+  "entryCount": 28,
   "entries": {
     "658920": {
       "rank": 716,
@@ -192,6 +192,13 @@
       "name": "Europa Universalis V",
       "releaseDate": "2025-11-04",
       "source": "historical"
+    },
+    "4121170": {
+      "rank": 403,
+      "estimate": "80k+",
+      "name": "Fears to Fathom® - Scratch Creek",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T14:14:21.115Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-10T18:34:52.373Z",
+  "entryCount": 23,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -149,6 +149,13 @@
       "name": "Undusted: Letters from the Past",
       "releaseDate": "2025-10-13",
       "source": "historical"
+    },
+    "3857430": {
+      "rank": 962,
+      "estimate": "40k+",
+      "name": "Interdimensional Vending Machine",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     },
     "3990560": {
       "rank": 6390,

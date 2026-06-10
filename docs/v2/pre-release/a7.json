@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T14:14:21.115Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-10T18:34:52.373Z",
+  "entryCount": 28,
   "entries": {
     "945770": {
       "rank": 169,
@@ -189,6 +189,13 @@
       "releaseDate": "2026-03-05",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785774543502124"
+    },
+    "4275860": {
+      "rank": 5496,
+      "estimate": "<7k",
+      "name": "Sugar Shatter",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     },
     "4595540": {
       "rank": 3726,
