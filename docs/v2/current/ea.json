@@ -1,101 +1,106 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-09T22:26:52.031Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-10T05:12:40.789Z",
+  "entryCount": 26,
   "entries": {
     "1126210": {
-      "rank": 2618,
+      "rank": 2620,
       "estimate": "7k+",
       "name": "the machine that BREATHES"
     },
     "1432340": {
-      "rank": 3105,
+      "rank": 3109,
       "estimate": "<7k",
       "name": "Loveland"
     },
     "1441100": {
-      "rank": 3907,
+      "rank": 3912,
       "estimate": "<7k",
       "name": "Anatine"
     },
     "1672320": {
-      "rank": 205,
+      "rank": 204,
       "estimate": "80k+",
       "name": "Fragile Existence"
     },
     "1961710": {
-      "rank": 4803,
+      "rank": 4806,
       "estimate": "<7k",
       "name": "Poker Warlords"
     },
     "1988900": {
-      "rank": 4633,
+      "rank": 4637,
       "estimate": "<7k",
       "name": "Cooking Crew"
     },
     "2083660": {
-      "rank": 836,
+      "rank": 837,
       "estimate": "40k+",
       "name": "Littlelands"
     },
     "2152500": {
-      "rank": 398,
+      "rank": 400,
       "estimate": "80k+",
       "name": "Dig In"
     },
     "2556470": {
-      "rank": 448,
+      "rank": 447,
       "estimate": "80k+",
       "name": "Fantastic Haven"
     },
     "2741160": {
-      "rank": 4482,
+      "rank": 4489,
       "estimate": "<7k",
       "name": "Red Metal"
     },
     "2960750": {
-      "rank": 4870,
+      "rank": 4874,
       "estimate": "<7k",
       "name": "Skylark 64"
     },
     "2984460": {
-      "rank": 3240,
+      "rank": 3246,
       "estimate": "<7k",
       "name": "amFM"
     },
     "3027810": {
-      "rank": 2666,
+      "rank": 2668,
       "estimate": "7k+",
       "name": "Touhou Infinite Nocturne"
     },
     "3050210": {
-      "rank": 4851,
+      "rank": 4854,
       "estimate": "<7k",
       "name": "Exjanitor: Data Cleanup"
     },
     "3199500": {
-      "rank": 132,
+      "rank": 130,
       "estimate": "200k+",
       "name": "My Time at Evershine"
     },
     "3222640": {
-      "rank": 512,
+      "rank": 511,
       "estimate": "40k+",
       "name": "Wild West Pioneers"
     },
     "3348690": {
-      "rank": 2380,
+      "rank": 2383,
       "estimate": "7k+",
       "name": "Lionhearts"
     },
+    "3470960": {
+      "rank": 3314,
+      "estimate": "<7k",
+      "name": "Tales of Eternia Remastered"
+    },
     "3571380": {
-      "rank": 4824,
+      "rank": 4828,
       "estimate": "<7k",
       "name": "Travel Pack!"
     },
     "3655040": {
-      "rank": 4827,
+      "rank": 4826,
       "estimate": "<7k",
       "name": "ESCAPE Protocol: Online"
     },
@@ -105,17 +110,17 @@
       "name": "Red Rust Pioneers"
     },
     "3757140": {
-      "rank": 302,
+      "rank": 301,
       "estimate": "80k+",
       "name": "Of Peaks and Tides"
     },
     "3922560": {
-      "rank": 1697,
+      "rank": 1696,
       "estimate": "15k+",
       "name": "Rural Cat Trails"
     },
     "4174160": {
-      "rank": 730,
+      "rank": 727,
       "estimate": "40k+",
       "name": "Project: Doors"
     },
@@ -125,7 +130,7 @@
       "name": "City Masterplan"
     },
     "4606560": {
-      "rank": 3736,
+      "rank": 3714,
       "estimate": "<7k",
       "name": "Finding Frankie 2"
     }

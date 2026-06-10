@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-09T22:26:52.031Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-10T05:12:40.789Z",
+  "entryCount": 18,
   "entries": {
     "850870": {
-      "rank": 2755,
+      "rank": 2760,
       "estimate": "7k+",
       "name": "Hard-Life"
     },
@@ -15,12 +15,12 @@
       "name": "VUP-Simulator"
     },
     "1454370": {
-      "rank": 143,
+      "rank": 142,
       "estimate": "200k+",
       "name": "STARSEEKER: Astroneer Expeditions"
     },
     "1633850": {
-      "rank": 964,
+      "rank": 966,
       "estimate": "40k+",
       "name": "Jianghu Simulator"
     },
@@ -30,62 +30,67 @@
       "name": "Pathbreakers: Roaming Blades"
     },
     "1833210": {
-      "rank": 2451,
+      "rank": 2453,
       "estimate": "7k+",
       "name": "Astromine"
     },
     "2160070": {
-      "rank": 717,
+      "rank": 719,
       "estimate": "40k+",
       "name": "Forge of the Fae"
     },
     "2527970": {
-      "rank": 2279,
+      "rank": 2283,
       "estimate": "7k+",
       "name": "Sea Of Rifts"
     },
+    "2640150": {
+      "rank": 4858,
+      "estimate": "<7k",
+      "name": "Venus: The Last Ascent"
+    },
     "2712590": {
-      "rank": 489,
+      "rank": 488,
       "estimate": "80k+",
       "name": "Dragon Shelter"
     },
     "3164310": {
-      "rank": 2999,
+      "rank": 3000,
       "estimate": "7k+",
       "name": "Verde"
     },
     "3522600": {
-      "rank": 301,
+      "rank": 300,
       "estimate": "80k+",
       "name": "Demon Bluff"
     },
     "3587450": {
-      "rank": 3980,
+      "rank": 3863,
       "estimate": "<7k",
       "name": "Crispy Circuits"
     },
     "3635740": {
-      "rank": 4076,
+      "rank": 4080,
       "estimate": "<7k",
       "name": "Subjectivation"
     },
     "3829400": {
-      "rank": 1298,
+      "rank": 1302,
       "estimate": "25k+",
       "name": "Grand Tactician: Napoleonic Wars (1792-1815)"
     },
     "3902750": {
-      "rank": 2534,
+      "rank": 2505,
       "estimate": "7k+",
       "name": "Until Then: Afterimages"
     },
     "4355580": {
-      "rank": 687,
+      "rank": 686,
       "estimate": "40k+",
       "name": "Warhammer 40,000: Darktide - Skitarii Class Deluxe Edition"
     },
     "4686110": {
-      "rank": 1055,
+      "rank": 1052,
       "estimate": "25k+",
       "name": "Agents 404"
     }

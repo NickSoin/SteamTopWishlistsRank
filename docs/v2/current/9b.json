@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-09T22:26:52.031Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-10T05:12:40.789Z",
+  "entryCount": 25,
   "entries": {
     "937450": {
-      "rank": 797,
+      "rank": 798,
       "estimate": "40k+",
       "name": "Metropolisim"
     },
     "1221950": {
-      "rank": 2309,
+      "rank": 2312,
       "estimate": "7k+",
       "name": "Nighthawks"
     },
     "1303720": {
-      "rank": 4897,
+      "rank": 4902,
       "estimate": "<7k",
       "name": "Charge Blade Hero"
     },
     "1327090": {
-      "rank": 2685,
+      "rank": 2687,
       "estimate": "7k+",
       "name": "Solar System Colonist"
     },
@@ -30,22 +30,22 @@
       "name": "Capital Command"
     },
     "1685310": {
-      "rank": 181,
+      "rank": 180,
       "estimate": "200k+",
       "name": "The Wayward Realms"
     },
     "2116200": {
-      "rank": 4537,
+      "rank": 4543,
       "estimate": "<7k",
       "name": "ECO BREAKER"
     },
     "2220860": {
-      "rank": 746,
+      "rank": 747,
       "estimate": "40k+",
       "name": "TSURUGIHIME"
     },
     "2477710": {
-      "rank": 2301,
+      "rank": 2304,
       "estimate": "7k+",
       "name": "Nimbit Frontier"
     },
@@ -60,37 +60,37 @@
       "name": "Chrono Odyssey"
     },
     "2994220": {
-      "rank": 3023,
+      "rank": 3025,
       "estimate": "<7k",
       "name": "Azaran: Islands of the Jinn"
     },
     "3054550": {
-      "rank": 1115,
+      "rank": 1119,
       "estimate": "25k+",
       "name": "Sil and the Fading World"
     },
     "3056390": {
-      "rank": 3879,
+      "rank": 3882,
       "estimate": "<7k",
       "name": "HAELE 3D - Portrait Studio Pro - Drawing References"
     },
     "3101780": {
-      "rank": 4872,
+      "rank": 4875,
       "estimate": "<7k",
       "name": "Starless Umbra"
     },
     "3177730": {
-      "rank": 4355,
+      "rank": 4311,
       "estimate": "<7k",
       "name": "Rottenroots"
     },
     "3393110": {
-      "rank": 187,
+      "rank": 184,
       "estimate": "200k+",
       "name": "AION 2"
     },
     "3539880": {
-      "rank": 4912,
+      "rank": 4919,
       "estimate": "<7k",
       "name": "Alchemia Rogue: Mia and the Mystery Labyrinth"
     },
@@ -100,7 +100,7 @@
       "name": "Castlebound"
     },
     "3581230": {
-      "rank": 247,
+      "rank": 246,
       "estimate": "80k+",
       "name": "Cozy Game Restoration"
     },
@@ -110,19 +110,24 @@
       "name": "Bifröst: Prelude to the Storm"
     },
     "3936610": {
-      "rank": 3657,
+      "rank": 3625,
       "estimate": "<7k",
       "name": "Monopoly: Star Wars™ Heroes vs. Villains"
     },
     "3972980": {
-      "rank": 4774,
+      "rank": 4754,
       "estimate": "<7k",
       "name": "Mirklurk: Every Step Matters"
     },
     "3975750": {
-      "rank": 3016,
+      "rank": 3009,
       "estimate": "<7k",
       "name": "The Gate Must Stand"
+    },
+    "4040750": {
+      "rank": 4907,
+      "estimate": "<7k",
+      "name": "Paradoxical"
     }
   }
 }

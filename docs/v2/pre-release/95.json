@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T22:26:52.031Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-10T05:12:40.789Z",
+  "entryCount": 31,
   "entries": {
     "729000": {
       "rank": 169,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Dire Echo",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4222040": {
+      "rank": 2651,
+      "estimate": "7k+",
+      "name": "Detective INNA DUKE",
+      "releaseDate": "2026-06-09",
       "source": "tracked"
     }
   }

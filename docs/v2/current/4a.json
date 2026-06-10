@@ -1,36 +1,36 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-09T22:26:52.031Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-10T05:12:40.789Z",
+  "entryCount": 18,
   "entries": {
     "306910": {
-      "rank": 242,
+      "rank": 241,
       "estimate": "80k+",
       "name": "Vaultbreakers"
     },
     "1637460": {
-      "rank": 262,
+      "rank": 261,
       "estimate": "80k+",
       "name": "TankRat"
     },
     "1953430": {
-      "rank": 3196,
+      "rank": 3198,
       "estimate": "<7k",
       "name": "DearMyFriend"
     },
     "2184020": {
-      "rank": 1076,
+      "rank": 1079,
       "estimate": "25k+",
       "name": "LIFTED"
     },
     "2357970": {
-      "rank": 3929,
+      "rank": 3934,
       "estimate": "<7k",
       "name": "Finely Diced"
     },
     "2408290": {
-      "rank": 4874,
+      "rank": 4878,
       "estimate": "<7k",
       "name": "Interlopers"
     },
@@ -45,32 +45,32 @@
       "name": "Dust Front RTS"
     },
     "2637210": {
-      "rank": 2900,
+      "rank": 2904,
       "estimate": "7k+",
       "name": "Flow Of War"
     },
     "2665020": {
-      "rank": 1012,
+      "rank": 1014,
       "estimate": "25k+",
       "name": "Milo"
     },
     "2879320": {
-      "rank": 2862,
+      "rank": 2865,
       "estimate": "7k+",
       "name": "The Night Wanderer"
     },
     "3196750": {
-      "rank": 3801,
+      "rank": 3804,
       "estimate": "<7k",
       "name": "[Bober Bros] Happy House"
     },
     "3374020": {
-      "rank": 3534,
+      "rank": 3536,
       "estimate": "<7k",
       "name": "Buddy Bug"
     },
     "3489490": {
-      "rank": 2733,
+      "rank": 2737,
       "estimate": "7k+",
       "name": "SourceWorld"
     },
@@ -80,14 +80,19 @@
       "name": "AXERAS"
     },
     "4018550": {
-      "rank": 3202,
+      "rank": 3205,
       "estimate": "<7k",
       "name": "Cat Isle"
     },
     "4342570": {
-      "rank": 4376,
+      "rank": 4382,
       "estimate": "<7k",
       "name": "Gospodar's Tales"
+    },
+    "4430260": {
+      "rank": 4891,
+      "estimate": "<7k",
+      "name": "Beat For Speed"
     }
   }
 }

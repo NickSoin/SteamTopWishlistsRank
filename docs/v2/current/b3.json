@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-09T22:26:52.031Z",
-  "entryCount": 10,
+  "updatedAt": "2026-06-10T05:12:40.789Z",
+  "entryCount": 9,
   "entries": {
     "1048250": {
       "rank": 826,
@@ -10,27 +10,27 @@
       "name": "Bowlbo: The Quest for Bing Bing"
     },
     "1579420": {
-      "rank": 102,
+      "rank": 101,
       "estimate": "200k+",
       "name": "Guardians of the Wild Sky"
     },
     "2131290": {
-      "rank": 3113,
+      "rank": 3115,
       "estimate": "<7k",
       "name": "Iron Frontier"
     },
     "3327430": {
-      "rank": 891,
+      "rank": 866,
       "estimate": "40k+",
       "name": "Carcass Clad"
     },
     "3768880": {
-      "rank": 4019,
+      "rank": 4025,
       "estimate": "<7k",
       "name": "Torebia: Island Odyssey"
     },
     "4162340": {
-      "rank": 438,
+      "rank": 437,
       "estimate": "80k+",
       "name": "Verdant"
     },
@@ -40,19 +40,14 @@
       "name": "Launch Window"
     },
     "4336530": {
-      "rank": 2875,
+      "rank": 2880,
       "estimate": "7k+",
       "name": "There Are Millions of Goblins"
     },
     "4446990": {
-      "rank": 4399,
+      "rank": 4402,
       "estimate": "<7k",
       "name": "Menhera Maiden"
-    },
-    "4704690": {
-      "rank": 78,
-      "estimate": "300k+",
-      "name": "MECCHA CHAMELEON"
     }
   }
 }

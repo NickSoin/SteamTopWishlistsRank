@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T22:26:52.031Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-10T05:12:40.789Z",
+  "entryCount": 28,
   "entries": {
     "532790": {
       "rank": 3,
@@ -188,6 +188,13 @@
       "estimate": "80k+",
       "name": "Crashout Crew",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4704690": {
+      "rank": 78,
+      "estimate": "300k+",
+      "name": "MECCHA CHAMELEON",
+      "releaseDate": "2026-06-09",
       "source": "tracked"
     },
     "4738550": {
