@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T05:12:40.789Z",
-  "entryCount": 36,
+  "updatedAt": "2026-06-10T09:23:48.709Z",
+  "entryCount": 37,
   "entries": {
     "638990": {
       "rank": 135,
@@ -255,6 +255,13 @@
       "name": "American Truck Simulator - Louisiana",
       "releaseDate": "2025-12-04",
       "source": "historical"
+    },
+    "3564340": {
+      "rank": 2635,
+      "estimate": "7k+",
+      "name": "Hold Your King",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     }
   }
 }

@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-10T05:12:40.789Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-10T09:23:48.709Z",
+  "entryCount": 18,
   "entries": {
     "912000": {
-      "rank": 1239,
+      "rank": 1242,
       "estimate": "25k+",
       "name": "Mike goes on hike"
     },
     "1156490": {
-      "rank": 3432,
+      "rank": 3433,
       "estimate": "<7k",
       "name": "Ring of Fire"
     },
     "1333930": {
-      "rank": 2116,
+      "rank": 2117,
       "estimate": "7k+",
       "name": "World's Worst Handyman"
     },
@@ -25,7 +25,7 @@
       "name": "Flawless Abbey"
     },
     "2363280": {
-      "rank": 1722,
+      "rank": 1723,
       "estimate": "15k+",
       "name": "NULLSPACE"
     },
@@ -40,7 +40,7 @@
       "name": "Drowned Lake"
     },
     "3041730": {
-      "rank": 3738,
+      "rank": 3737,
       "estimate": "<7k",
       "name": "Go North"
     },
@@ -50,12 +50,12 @@
       "name": "Underground Security Inc"
     },
     "3592940": {
-      "rank": 1401,
+      "rank": 1402,
       "estimate": "25k+",
       "name": "Flesh & Wire"
     },
     "3669820": {
-      "rank": 4163,
+      "rank": 4167,
       "estimate": "<7k",
       "name": "CatchMaker"
     },
@@ -65,7 +65,7 @@
       "name": "Cheat Death"
     },
     "3854080": {
-      "rank": 4448,
+      "rank": 4447,
       "estimate": "<7k",
       "name": "隐梦交织"
     },
@@ -75,12 +75,12 @@
       "name": "Distant Shore: BRETAGNE"
     },
     "3966510": {
-      "rank": 4330,
+      "rank": 4333,
       "estimate": "<7k",
       "name": "Feed the Scorchpot"
     },
     "4119090": {
-      "rank": 573,
+      "rank": 574,
       "estimate": "40k+",
       "name": "The Daughter"
     },
@@ -88,6 +88,11 @@
       "rank": 3507,
       "estimate": "<7k",
       "name": "CaveDive"
+    },
+    "4829700": {
+      "rank": 3896,
+      "estimate": "<7k",
+      "name": "Monster Hunter Wilds: Ascendance"
     }
   }
 }

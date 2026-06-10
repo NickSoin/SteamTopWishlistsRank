@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-10T05:12:40.789Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-10T09:23:48.709Z",
+  "entryCount": 19,
   "entries": {
     "654860": {
-      "rank": 4050,
+      "rank": 4053,
       "estimate": "<7k",
       "name": "Panic in Puzzle World"
     },
     "1208170": {
-      "rank": 850,
+      "rank": 852,
       "estimate": "40k+",
       "name": "Samurai Simulator"
     },
     "1620240": {
-      "rank": 3473,
+      "rank": 3475,
       "estimate": "<7k",
       "name": "Best Mall Simulator"
     },
     "2140200": {
-      "rank": 3570,
+      "rank": 3573,
       "estimate": "<7k",
       "name": "Resolve"
     },
     "2147700": {
-      "rank": 4484,
+      "rank": 4487,
       "estimate": "<7k",
       "name": "Umbral Core"
     },
@@ -40,7 +40,7 @@
       "name": "D.O.R.F. Real-Time Strategic Conflict"
     },
     "2433630": {
-      "rank": 3377,
+      "rank": 3371,
       "estimate": "<7k",
       "name": "The Left Behind"
     },
@@ -50,12 +50,12 @@
       "name": "Quantum Void"
     },
     "2749920": {
-      "rank": 1208,
+      "rank": 1209,
       "estimate": "25k+",
       "name": "The Transylvania Adventure of Simon Quest"
     },
     "2853290": {
-      "rank": 2539,
+      "rank": 2540,
       "estimate": "7k+",
       "name": "Free Stars: Children of Infinity"
     },
@@ -65,12 +65,12 @@
       "name": "Shelf Heroes"
     },
     "3197890": {
-      "rank": 1404,
+      "rank": 1405,
       "estimate": "25k+",
       "name": "LURKS WITHIN WALLS"
     },
     "3247960": {
-      "rank": 1274,
+      "rank": 1240,
       "estimate": "25k+",
       "name": "Bergfried"
     },
@@ -79,18 +79,23 @@
       "estimate": "1.5m+",
       "name": "Total War: WARHAMMER 40,000"
     },
+    "4202270": {
+      "rank": 4925,
+      "estimate": "<7k",
+      "name": "Husk Protocol"
+    },
     "4377480": {
-      "rank": 3582,
+      "rank": 3560,
       "estimate": "<7k",
       "name": "Burn-9"
     },
     "4394810": {
-      "rank": 334,
+      "rank": 332,
       "estimate": "80k+",
       "name": "DAVE THE DIVER - In the Jungle Content Pack"
     },
     "4564640": {
-      "rank": 2630,
+      "rank": 2620,
       "estimate": "7k+",
       "name": "SATED"
     }

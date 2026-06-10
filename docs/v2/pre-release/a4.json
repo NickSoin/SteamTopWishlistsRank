@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T05:12:40.789Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-10T09:23:48.709Z",
+  "entryCount": 34,
   "entries": {
     "534380": {
       "rank": 1,
@@ -236,6 +236,13 @@
       "name": "Warhammer 40,000: Boltgun 2",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4692040": {
+      "rank": 3800,
+      "estimate": "<7k",
+      "name": "Return to Firetop Mountain (Fighting Fantasy Classics)",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     }
   }
 }
