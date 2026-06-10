@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-09T17:40:08.489Z",
-  "entryCount": 12,
+  "updatedAt": "2026-06-09T22:26:52.031Z",
+  "entryCount": 13,
   "entries": {
     "2197330": {
-      "rank": 4435,
+      "rank": 4441,
       "estimate": "<7k",
       "name": "CARD NOVA HYPER"
     },
     "2441590": {
-      "rank": 1010,
+      "rank": 1011,
       "estimate": "25k+",
       "name": "Ark：Release"
     },
     "2816730": {
-      "rank": 3845,
+      "rank": 3850,
       "estimate": "<7k",
       "name": "CONFINED: Leaving OKB-134"
     },
@@ -25,22 +25,22 @@
       "name": "Echoes of Extinction"
     },
     "2853430": {
-      "rank": 1270,
+      "rank": 1273,
       "estimate": "25k+",
       "name": "Ravenwood Academy: A Wizard101 Story"
     },
     "3040930": {
-      "rank": 2894,
+      "rank": 2898,
       "estimate": "7k+",
       "name": "Just A Shadow Game"
     },
     "3151360": {
-      "rank": 1217,
+      "rank": 1219,
       "estimate": "25k+",
       "name": "Agni: Village of Calamity"
     },
     "3271280": {
-      "rank": 266,
+      "rank": 264,
       "estimate": "80k+",
       "name": "Shroom and Gloom"
     },
@@ -55,14 +55,19 @@
       "name": "GCR4 Geoff Crammond"
     },
     "3700100": {
-      "rank": 3685,
+      "rank": 3677,
       "estimate": "<7k",
       "name": "Bruma"
     },
     "3933180": {
-      "rank": 2534,
+      "rank": 2520,
       "estimate": "7k+",
       "name": "Torii: Beyond The Gates"
+    },
+    "4304060": {
+      "rank": 4869,
+      "estimate": "<7k",
+      "name": "SONIC PICO PARK"
     }
   }
 }

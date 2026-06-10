@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-09T17:40:08.489Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-09T22:26:52.031Z",
+  "entryCount": 25,
   "entries": {
     "659960": {
       "rank": 821,
@@ -168,6 +168,13 @@
       "name": "Marvel Rivals",
       "releaseDate": "2024-12-05",
       "source": "historical"
+    },
+    "2866670": {
+      "rank": 537,
+      "estimate": "40k+",
+      "name": "NBA THE RUN",
+      "releaseDate": "2026-06-09",
+      "source": "tracked"
     },
     "2904660": {
       "rank": 876,
