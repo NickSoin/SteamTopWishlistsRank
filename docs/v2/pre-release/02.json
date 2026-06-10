@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T09:23:48.709Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-10T14:14:21.115Z",
+  "entryCount": 28,
   "entries": {
     "844980": {
       "rank": 112,
@@ -192,6 +192,13 @@
       "name": "Artifact Seeker: Resurrection",
       "releaseDate": "2024-07-26",
       "source": "historical"
+    },
+    "3844970": {
+      "rank": 16,
+      "estimate": "800k+",
+      "name": "Burglin' Gnomes",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     }
   }
 }

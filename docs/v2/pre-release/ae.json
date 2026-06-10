@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T09:23:48.709Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-10T14:14:21.115Z",
+  "entryCount": 30,
   "entries": {
     "593150": {
       "rank": 72,
@@ -198,6 +198,13 @@
       "releaseDate": "2026-04-30",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770236720"
+    },
+    "3705150": {
+      "rank": 3963,
+      "estimate": "<7k",
+      "name": "Into The Depths",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     },
     "4094820": {
       "rank": 8373,

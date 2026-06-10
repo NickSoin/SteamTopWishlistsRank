@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T09:23:48.709Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-10T14:14:21.115Z",
+  "entryCount": 28,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -177,6 +177,13 @@
       "name": "Responding",
       "releaseDate": "2026-03-31",
       "source": "historical"
+    },
+    "2679100": {
+      "rank": 100,
+      "estimate": "300k+",
+      "name": "Witchspire",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     },
     "2782880": {
       "rank": 2626,

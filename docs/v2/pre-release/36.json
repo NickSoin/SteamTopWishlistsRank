@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T09:23:48.709Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-10T14:14:21.115Z",
+  "entryCount": 31,
   "entries": {
     "694990": {
       "rank": 49,
@@ -210,6 +210,20 @@
       "name": "House Flipper 2 - Scooby-Doo DLC",
       "releaseDate": "2025-10-23",
       "source": "historical"
+    },
+    "4280540": {
+      "rank": 1039,
+      "estimate": "25k+",
+      "name": "Liminal Logistics",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4284580": {
+      "rank": 2172,
+      "estimate": "7k+",
+      "name": "CoinPit",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     }
   }
 }

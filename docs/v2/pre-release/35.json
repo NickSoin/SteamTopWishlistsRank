@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T09:23:48.709Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-10T14:14:21.115Z",
+  "entryCount": 40,
   "entries": {
     "671860": {
       "rank": 22,
@@ -66,6 +66,13 @@
       "name": "Dahlia View",
       "releaseDate": "2021-11-02",
       "source": "historical"
+    },
+    "1570450": {
+      "rank": 1818,
+      "estimate": "15k+",
+      "name": "Artificial Extinction 2",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     },
     "1614840": {
       "rank": 1782,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T09:23:48.709Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-10T14:14:21.115Z",
+  "entryCount": 24,
   "entries": {
     "423640": {
       "rank": 509,
@@ -166,6 +166,13 @@
       "name": "Massacre At The Mirage",
       "releaseDate": "2024-10-28",
       "source": "historical"
+    },
+    "4763650": {
+      "rank": 9379,
+      "estimate": "<7k",
+      "name": "Crown Caps Soccer",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     }
   }
 }

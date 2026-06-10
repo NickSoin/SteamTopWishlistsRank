@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T09:23:48.709Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-10T14:14:21.115Z",
+  "entryCount": 27,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "Player's New World",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "3996820": {
+      "rank": 5045,
+      "estimate": "<7k",
+      "name": "Vampire: The Masquerade® - Bloodlines™ 2 - The Flower & the Flame",
+      "releaseDate": "2026-06-10",
       "source": "tracked"
     },
     "4661910": {

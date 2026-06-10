@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T09:23:48.709Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-10T14:14:21.115Z",
+  "entryCount": 30,
   "entries": {
     "691790": {
       "rank": 310,
@@ -206,6 +206,13 @@
       "name": "Hell Let Loose: Vietnam",
       "releaseDate": "2026-06-18",
       "source": "historical"
+    },
+    "3590010": {
+      "rank": 4676,
+      "estimate": "<7k",
+      "name": "Robot Hospice",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     }
   }
 }
