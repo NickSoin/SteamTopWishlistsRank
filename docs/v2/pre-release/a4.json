@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T14:35:52.947Z",
-  "entryCount": 34,
+  "updatedAt": "2026-06-11T18:58:31.960Z",
+  "entryCount": 35,
   "entries": {
     "534380": {
       "rank": 1,
@@ -236,6 +236,13 @@
       "name": "Warhammer 40,000: Boltgun 2",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4039900": {
+      "rank": 2061,
+      "estimate": "7k+",
+      "name": "ZOMBUTCHER: Monster Business Simulator",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     },
     "4692040": {
       "rank": 3800,

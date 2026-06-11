@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T14:35:52.947Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-11T18:58:31.960Z",
+  "entryCount": 23,
   "entries": {
     "928000": {
       "rank": 773,
@@ -152,6 +152,13 @@
       "name": "Anno 117: Pax Romana",
       "releaseDate": "2025-11-12",
       "source": "historical"
+    },
+    "3337380": {
+      "rank": 347,
+      "estimate": "80k+",
+      "name": "Tabletop Tavern",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     },
     "3708070": {
       "rank": 1952,

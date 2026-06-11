@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T14:35:52.947Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-11T18:58:31.960Z",
+  "entryCount": 26,
   "entries": {
     "830580": {
       "rank": 135,
@@ -165,6 +165,13 @@
       "estimate": "15k+",
       "name": "Moonsigil Atlas",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3989960": {
+      "rank": 476,
+      "estimate": "80k+",
+      "name": "Frog Sqwad 🐸",
+      "releaseDate": "2026-06-11",
       "source": "tracked"
     },
     "4395300": {

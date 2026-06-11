@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T14:35:52.947Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-11T18:58:31.960Z",
+  "entryCount": 29,
   "entries": {
     "292000": {
       "rank": 29,
@@ -204,6 +204,13 @@
       "estimate": "25k+",
       "name": "Burden Street Station",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4335460": {
+      "rank": 765,
+      "estimate": "40k+",
+      "name": "BOXROOM",
+      "releaseDate": "2026-06-11",
       "source": "tracked"
     }
   }

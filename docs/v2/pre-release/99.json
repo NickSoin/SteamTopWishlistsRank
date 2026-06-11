@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T14:35:52.947Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-11T18:58:31.960Z",
+  "entryCount": 26,
   "entries": {
     "397540": {
       "rank": 26,
@@ -180,6 +180,13 @@
       "name": "Fantasy Map Simulator",
       "releaseDate": "2024-09-04",
       "source": "historical"
+    },
+    "3146440": {
+      "rank": 1972,
+      "estimate": "15k+",
+      "name": "SPORTAL",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     }
   }
 }

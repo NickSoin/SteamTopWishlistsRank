@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T14:35:52.947Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-11T18:58:31.960Z",
+  "entryCount": 32,
   "entries": {
     "928960": {
       "rank": 577,
@@ -208,6 +208,20 @@
       "name": "MARINES VS GOD",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3796290": {
+      "rank": 2371,
+      "estimate": "7k+",
+      "name": "Theater Pack - Hearts of Iron IV: Thunder at our Gates",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4310080": {
+      "rank": 1454,
+      "estimate": "25k+",
+      "name": "Oxygen Not Included: The Aquatic Planet Pack",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     },
     "4768230": {
       "rank": 4585,
