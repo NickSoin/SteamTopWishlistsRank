@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T22:52:13.938Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-11T05:14:11.024Z",
+  "entryCount": 24,
   "entries": {
     "924980": {
       "rank": 34,
@@ -163,6 +163,13 @@
       "estimate": "7k+",
       "name": "Kinetype",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4710590": {
+      "rank": 7924,
+      "estimate": "<7k",
+      "name": "Stall Tycoon: A Cozy English Word Game",
+      "releaseDate": "2026-06-10",
       "source": "tracked"
     }
   }

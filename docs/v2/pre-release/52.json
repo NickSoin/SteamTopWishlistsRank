@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T22:52:13.938Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-11T05:14:11.024Z",
+  "entryCount": 26,
   "entries": {
     "914890": {
       "rank": 644,
@@ -159,6 +159,13 @@
       "name": "A.I.L.A",
       "releaseDate": "2025-11-25",
       "source": "historical"
+    },
+    "2823200": {
+      "rank": 2908,
+      "estimate": "7k+",
+      "name": "Mousebusters",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     },
     "2834910": {
       "rank": 1018,

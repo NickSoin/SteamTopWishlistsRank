@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-10T22:52:13.938Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-11T05:14:11.024Z",
+  "entryCount": 26,
   "entries": {
     "659960": {
       "rank": 821,
@@ -182,6 +182,13 @@
       "name": "Call to Arms - Gates of Hell: Airborne",
       "releaseDate": "2024-10-17",
       "source": "historical"
+    },
+    "4517460": {
+      "rank": 3016,
+      "estimate": "<7k",
+      "name": "Total Football Online",
+      "releaseDate": "2026-06-10",
+      "source": "tracked"
     }
   }
 }
