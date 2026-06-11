@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T05:14:11.024Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-11T09:55:10.702Z",
+  "entryCount": 40,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -275,6 +275,13 @@
       "name": "Recycling Center Simulator",
       "releaseDate": "2024-10-02",
       "source": "historical"
+    },
+    "3972980": {
+      "rank": 4635,
+      "estimate": "<7k",
+      "name": "Mirklurk: Every Step Matters",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     },
     "4475440": {
       "rank": 8707,

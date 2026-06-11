@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-11T05:14:11.024Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-11T09:55:10.702Z",
+  "entryCount": 19,
   "entries": {
     "904510": {
       "rank": 1296,
@@ -10,7 +10,7 @@
       "name": "ARTIFICIAL"
     },
     "952100": {
-      "rank": 3767,
+      "rank": 3768,
       "estimate": "<7k",
       "name": "Bad Pixels"
     },
@@ -20,17 +20,17 @@
       "name": "Forester Simulator"
     },
     "1707680": {
-      "rank": 1001,
+      "rank": 1002,
       "estimate": "25k+",
       "name": "Referee Simulator"
     },
     "1890780": {
-      "rank": 1711,
+      "rank": 1713,
       "estimate": "15k+",
       "name": "Szrot"
     },
     "2118890": {
-      "rank": 1536,
+      "rank": 1537,
       "estimate": "15k+",
       "name": "Backrooms VHS"
     },
@@ -40,12 +40,12 @@
       "name": "Stormbinders"
     },
     "2229910": {
-      "rank": 2114,
+      "rank": 2115,
       "estimate": "7k+",
       "name": "Demiurgos"
     },
     "2538870": {
-      "rank": 1534,
+      "rank": 1532,
       "estimate": "15k+",
       "name": "False Hero"
     },
@@ -60,27 +60,32 @@
       "name": "Home Wars: Battlefield"
     },
     "3398880": {
-      "rank": 2887,
+      "rank": 2890,
       "estimate": "7k+",
       "name": "Castle V Castle"
     },
     "3570350": {
-      "rank": 2681,
+      "rank": 2676,
       "estimate": "7k+",
       "name": "Silkgrove"
     },
+    "3582320": {
+      "rank": 4501,
+      "estimate": "<7k",
+      "name": "Inazuma Eleven Team Builder"
+    },
     "3730680": {
-      "rank": 2276,
+      "rank": 2277,
       "estimate": "7k+",
       "name": "Table Tactics: physics-driven tabletop battles"
     },
     "3746560": {
-      "rank": 1360,
+      "rank": 1362,
       "estimate": "25k+",
       "name": "Ethernia"
     },
     "3798840": {
-      "rank": 2384,
+      "rank": 2385,
       "estimate": "7k+",
       "name": "Reytrieve Odyssey"
     },
@@ -90,7 +95,7 @@
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 647,
+      "rank": 648,
       "estimate": "40k+",
       "name": "Project Rabbit"
     }

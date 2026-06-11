@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T05:14:11.024Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-11T09:55:10.702Z",
+  "entryCount": 28,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -124,6 +124,13 @@
       "name": "R-Type Tactics I • II Cosmos",
       "releaseDate": "2026-06-18",
       "source": "historical"
+    },
+    "2279130": {
+      "rank": 9410,
+      "estimate": "<7k",
+      "name": "Ray of Life",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     },
     "2437570": {
       "rank": 984,

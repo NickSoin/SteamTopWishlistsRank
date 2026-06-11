@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T05:14:11.024Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-11T09:55:10.702Z",
+  "entryCount": 22,
   "entries": {
     "1036240": {
       "rank": 491,
@@ -153,6 +153,13 @@
       "estimate": "<7k",
       "name": "Hell Bug",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4207140": {
+      "rank": 4389,
+      "estimate": "<7k",
+      "name": "Imago Season",
+      "releaseDate": "2026-06-11",
       "source": "tracked"
     }
   }

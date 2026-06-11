@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T05:14:11.024Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-11T09:55:10.702Z",
+  "entryCount": 20,
   "entries": {
     "867660": {
       "rank": 651,
@@ -140,6 +140,13 @@
       "name": "Beyond Sandbox",
       "releaseDate": "2026-04-27",
       "source": "historical"
+    },
+    "4761870": {
+      "rank": 7963,
+      "estimate": "<7k",
+      "name": "Buerokratie Idler: Germany",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     }
   }
 }
