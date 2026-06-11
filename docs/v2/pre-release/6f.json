@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T09:55:10.702Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-11T14:35:52.947Z",
+  "entryCount": 30,
   "entries": {
     "918570": {
       "rank": 38,
@@ -203,6 +203,13 @@
       "name": "Super Meat Boy 3D",
       "releaseDate": "2026-03-31",
       "source": "historical"
+    },
+    "4653510": {
+      "rank": 8016,
+      "estimate": "<7k",
+      "name": "Super Arcade Soccer 2026",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     },
     "4712460": {
       "rank": 6843,

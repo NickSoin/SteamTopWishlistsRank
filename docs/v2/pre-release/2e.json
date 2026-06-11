@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T09:55:10.702Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-11T14:35:52.947Z",
+  "entryCount": 17,
   "entries": {
     "1454160": {
       "rank": 1177,
@@ -110,6 +110,13 @@
       "name": "Dune: Imperium - Rise of Ix",
       "releaseDate": "2024-07-31",
       "source": "historical"
+    },
+    "3276050": {
+      "rank": 71,
+      "estimate": "300k+",
+      "name": "SpaceCraft",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     },
     "4019180": {
       "rank": 4694,

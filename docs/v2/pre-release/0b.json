@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T09:55:10.702Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-11T14:35:52.947Z",
+  "entryCount": 26,
   "entries": {
     "779340": {
       "rank": 5,
@@ -178,6 +178,13 @@
       "name": "Fears to Fathom - Woodbury Getaway",
       "releaseDate": "2024-09-12",
       "source": "historical"
+    },
+    "3923270": {
+      "rank": 9074,
+      "estimate": "<7k",
+      "name": "Pimalai Mansion: หอนี้ ผีไม่ดุ",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     }
   }
 }

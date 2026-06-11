@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T09:55:10.702Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-11T14:35:52.947Z",
+  "entryCount": 20,
   "entries": {
     "832360": {
       "rank": 188,
@@ -135,6 +135,13 @@
       "estimate": "7k+",
       "name": "Lover's Enigma",
       "releaseDate": "2026-05-20",
+      "source": "tracked"
+    },
+    "4741570": {
+      "rank": 8178,
+      "estimate": "<7k",
+      "name": "Forge Cat",
+      "releaseDate": "2026-06-11",
       "source": "tracked"
     }
   }

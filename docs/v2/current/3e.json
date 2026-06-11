@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-11T09:55:10.702Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-11T14:35:52.947Z",
+  "entryCount": 17,
   "entries": {
     "612400": {
-      "rank": 212,
+      "rank": 211,
       "estimate": "80k+",
       "name": "The Last Night"
     },
     "630440": {
-      "rank": 4138,
+      "rank": 4143,
       "estimate": "<7k",
       "name": "Movie Studio Tycoon"
     },
     "1157900": {
-      "rank": 1621,
+      "rank": 1619,
       "estimate": "15k+",
       "name": "Ten Thousand Coins: The Golden Merchant"
     },
@@ -25,22 +25,22 @@
       "name": "Kinstrife"
     },
     "1510440": {
-      "rank": 270,
+      "rank": 269,
       "estimate": "80k+",
       "name": "Honeycomb: The World Beyond"
     },
     "1649670": {
-      "rank": 4081,
+      "rank": 4079,
       "estimate": "<7k",
       "name": "Star Iliad"
     },
     "1826770": {
-      "rank": 2345,
+      "rank": 2347,
       "estimate": "7k+",
       "name": "Alice is Dead: Hearts and Diamonds"
     },
     "2718320": {
-      "rank": 1855,
+      "rank": 1857,
       "estimate": "15k+",
       "name": "Green Again"
     },
@@ -55,7 +55,7 @@
       "name": "Bargan's Treasure"
     },
     "3142500": {
-      "rank": 3671,
+      "rank": 3670,
       "estimate": "<7k",
       "name": "The Last Viking"
     },
@@ -70,19 +70,24 @@
       "name": "Alisa: The Parting"
     },
     "3724300": {
-      "rank": 2673,
+      "rank": 2671,
       "estimate": "7k+",
       "name": "Toto's Journey"
     },
     "3863960": {
-      "rank": 3577,
+      "rank": 3576,
       "estimate": "<7k",
       "name": "The Long March: 20000 Miles of Journey"
     },
     "4264410": {
-      "rank": 3473,
+      "rank": 3475,
       "estimate": "<7k",
       "name": "STEP THEATER"
+    },
+    "4465990": {
+      "rank": 4914,
+      "estimate": "<7k",
+      "name": "State of Command"
     }
   }
 }

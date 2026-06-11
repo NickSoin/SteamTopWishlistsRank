@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T09:55:10.702Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-11T14:35:52.947Z",
+  "entryCount": 22,
   "entries": {
     "1012570": {
       "rank": 585,
@@ -150,6 +150,13 @@
       "name": "Catto's Post Office",
       "releaseDate": "2025-08-04",
       "source": "historical"
+    },
+    "4668820": {
+      "rank": 6958,
+      "estimate": "<7k",
+      "name": "Model Kit Shop Simulator: Prologue",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     }
   }
 }

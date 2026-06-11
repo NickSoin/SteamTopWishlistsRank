@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T09:55:10.702Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-11T14:35:52.947Z",
+  "entryCount": 27,
   "entries": {
     "1119840": {
       "rank": 247,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "FPV Labs - Drone Simulator",
       "releaseDate": "2026-05-27",
+      "source": "tracked"
+    },
+    "4226770": {
+      "rank": 529,
+      "estimate": "40k+",
+      "name": "Warhammer 40,000: Rogue Trader - The Infinite Museion",
+      "releaseDate": "2026-06-11",
       "source": "tracked"
     }
   }

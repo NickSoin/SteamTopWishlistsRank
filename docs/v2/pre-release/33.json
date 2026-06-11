@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T09:55:10.702Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-11T14:35:52.947Z",
+  "entryCount": 26,
   "entries": {
     "1154090": {
       "rank": 1108,
@@ -179,6 +179,13 @@
       "estimate": "7k+",
       "name": "The Rebirth Tale of Broken Horn Demon Lord Alice",
       "releaseDate": "2026-05-22",
+      "source": "tracked"
+    },
+    "4678690": {
+      "rank": 3282,
+      "estimate": "<7k",
+      "name": "Holdfast: American Revolution",
+      "releaseDate": "2026-06-11",
       "source": "tracked"
     }
   }

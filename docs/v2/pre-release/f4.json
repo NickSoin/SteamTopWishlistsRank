@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T09:55:10.702Z",
-  "entryCount": 34,
+  "updatedAt": "2026-06-11T14:35:52.947Z",
+  "entryCount": 35,
   "entries": {
     "858820": {
       "rank": 1,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "Afternoon Affairs & Helpless Housewives",
       "releaseDate": "2026-05-23",
+      "source": "tracked"
+    },
+    "4710720": {
+      "rank": 9771,
+      "estimate": "<7k",
+      "name": "Lost/Secret A",
+      "releaseDate": "2026-06-11",
       "source": "tracked"
     },
     "4731620": {

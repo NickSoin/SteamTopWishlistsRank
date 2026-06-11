@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T09:55:10.702Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-11T14:35:52.947Z",
+  "entryCount": 25,
   "entries": {
     "1079230": {
       "rank": 572,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Professor Simulator",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4734620": {
+      "rank": 7516,
+      "estimate": "<7k",
+      "name": "CharaDiary",
+      "releaseDate": "2026-06-11",
       "source": "tracked"
     }
   }
