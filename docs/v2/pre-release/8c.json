@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T22:27:51.639Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-12T05:29:52.471Z",
+  "entryCount": 27,
   "entries": {
     "659960": {
       "rank": 821,
@@ -188,6 +188,13 @@
       "estimate": "<7k",
       "name": "Total Football Online",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4710650": {
+      "rank": 3058,
+      "estimate": "<7k",
+      "name": "The Shu legend",
+      "releaseDate": "2026-06-11",
       "source": "tracked"
     }
   }

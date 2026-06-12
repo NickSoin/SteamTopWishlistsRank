@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T22:27:51.639Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-12T05:29:52.471Z",
+  "entryCount": 30,
   "entries": {
     "782250": {
       "rank": 368,
@@ -185,6 +185,13 @@
       "name": "DRAGON QUEST III HD-2D Remake",
       "releaseDate": "2024-11-14",
       "source": "historical"
+    },
+    "3559510": {
+      "rank": 3535,
+      "estimate": "<7k",
+      "name": "Capsule Lover",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     },
     "3751260": {
       "rank": 8,

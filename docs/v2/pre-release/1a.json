@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T22:27:51.639Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-12T05:29:52.471Z",
+  "entryCount": 30,
   "entries": {
     "812910": {
       "rank": 1037,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Rakeo",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4771190": {
+      "rank": 7956,
+      "estimate": "<7k",
+      "name": "Storage 8 VR",
+      "releaseDate": "2026-06-12",
       "source": "tracked"
     }
   }
