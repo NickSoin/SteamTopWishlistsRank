@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T18:58:31.960Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-11T22:27:51.639Z",
+  "entryCount": 29,
   "entries": {
     "889910": {
       "rank": 531,
@@ -201,6 +201,13 @@
       "name": "100 Waiting Cats",
       "releaseDate": "2024-10-06",
       "source": "historical"
+    },
+    "4359800": {
+      "rank": 3950,
+      "estimate": "<7k",
+      "name": "Don't Panic Together",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     }
   }
 }

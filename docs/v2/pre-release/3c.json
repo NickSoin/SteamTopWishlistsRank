@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-11T18:58:31.960Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-11T22:27:51.639Z",
+  "entryCount": 24,
   "entries": {
     "743380": {
       "rank": 664,
@@ -101,6 +101,13 @@
       "name": "Horticular: Build a Garden, Attract Wildlife",
       "releaseDate": "2024-07-11",
       "source": "historical"
+    },
+    "2080890": {
+      "rank": 6086,
+      "estimate": "<7k",
+      "name": "Gem Venture",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     },
     "2125540": {
       "rank": 391,
