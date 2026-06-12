@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T09:39:30.945Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-12T14:09:38.531Z",
+  "entryCount": 21,
   "entries": {
     "803330": {
       "rank": 19,
@@ -136,6 +136,13 @@
       "name": "DDS x Narcos",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3428570": {
+      "rank": 1053,
+      "estimate": "25k+",
+      "name": "Teller's Duty",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     },
     "3679080": {
       "rank": 6,

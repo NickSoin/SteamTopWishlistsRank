@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T09:39:30.945Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-12T14:09:38.531Z",
+  "entryCount": 31,
   "entries": {
     "1171690": {
       "rank": 23,
@@ -216,6 +216,13 @@
       "estimate": "<7k",
       "name": "All Lanes Must Exit",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4754670": {
+      "rank": 5690,
+      "estimate": "<7k",
+      "name": "Japanese with Mayu",
+      "releaseDate": "2026-06-12",
       "source": "tracked"
     }
   }

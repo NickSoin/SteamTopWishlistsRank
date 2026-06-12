@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-12T09:39:30.945Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-12T14:09:38.531Z",
+  "entryCount": 16,
   "entries": {
     "864170": {
       "rank": 2245,
@@ -10,12 +10,12 @@
       "name": "Midnight Horde"
     },
     "1142570": {
-      "rank": 1181,
+      "rank": 1183,
       "estimate": "25k+",
       "name": "We Stay Behind"
     },
     "1362000": {
-      "rank": 838,
+      "rank": 839,
       "estimate": "40k+",
       "name": "Skyclimbers"
     },
@@ -30,7 +30,7 @@
       "name": "Warhammer 40,000: Dawn of War IV"
     },
     "2436490": {
-      "rank": 4468,
+      "rank": 4471,
       "estimate": "<7k",
       "name": "VEIL"
     },
@@ -40,12 +40,12 @@
       "name": "Apogea"
     },
     "3050460": {
-      "rank": 4237,
+      "rank": 4236,
       "estimate": "<7k",
       "name": "Mafia Life Simulator"
     },
     "3126170": {
-      "rank": 4276,
+      "rank": 4266,
       "estimate": "<7k",
       "name": "Cyber Paranoia"
     },
@@ -55,27 +55,32 @@
       "name": "Fogpiercer"
     },
     "3353590": {
-      "rank": 2315,
+      "rank": 2316,
       "estimate": "7k+",
       "name": "Jinn Hunter"
     },
     "3501050": {
-      "rank": 3410,
+      "rank": 3405,
       "estimate": "<7k",
       "name": "Total Incremental Battle"
     },
+    "3657070": {
+      "rank": 3802,
+      "estimate": "<7k",
+      "name": "Quartermaster"
+    },
     "3743810": {
-      "rank": 2397,
+      "rank": 2389,
       "estimate": "7k+",
       "name": "Pact, Passion, Puchimon!"
     },
     "3897090": {
-      "rank": 2656,
+      "rank": 2655,
       "estimate": "7k+",
       "name": "Temple Maker 64"
     },
     "4210670": {
-      "rank": 3755,
+      "rank": 3754,
       "estimate": "<7k",
       "name": "Forgotten Terror"
     }

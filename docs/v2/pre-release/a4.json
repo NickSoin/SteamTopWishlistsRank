@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T09:39:30.945Z",
-  "entryCount": 35,
+  "updatedAt": "2026-06-12T14:09:38.531Z",
+  "entryCount": 36,
   "entries": {
     "534380": {
       "rank": 1,
@@ -249,6 +249,13 @@
       "estimate": "<7k",
       "name": "Return to Firetop Mountain (Fighting Fantasy Classics)",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4754650": {
+      "rank": 7188,
+      "estimate": "<7k",
+      "name": "Space Pew Pew",
+      "releaseDate": "2026-06-12",
       "source": "tracked"
     }
   }

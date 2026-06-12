@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T09:39:30.945Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-12T14:09:38.531Z",
+  "entryCount": 30,
   "entries": {
     "774791": {
       "rank": 539,
@@ -185,6 +185,13 @@
       "name": "The Horror at Highrook",
       "releaseDate": "2025-05-01",
       "source": "historical"
+    },
+    "3061560": {
+      "rank": 4823,
+      "estimate": "<7k",
+      "name": "SKIBIDI",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     },
     "3063250": {
       "rank": 13,

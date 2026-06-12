@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T09:39:30.945Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-12T14:09:38.531Z",
+  "entryCount": 20,
   "entries": {
     "678390": {
       "rank": 662,
@@ -140,6 +140,13 @@
       "name": "Pharmacy Simulator",
       "releaseDate": "2024-08-30",
       "source": "historical"
+    },
+    "4707380": {
+      "rank": 8710,
+      "estimate": "<7k",
+      "name": "Jolly and Whimsy",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     }
   }
 }

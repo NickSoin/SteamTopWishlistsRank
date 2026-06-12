@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T09:39:30.945Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-12T14:09:38.531Z",
+  "entryCount": 27,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -161,6 +161,13 @@
       "name": "SONIC X SHADOW GENERATIONS",
       "releaseDate": "2024-10-24",
       "source": "historical"
+    },
+    "2555390": {
+      "rank": 4900,
+      "estimate": "<7k",
+      "name": "Xanthiom 2",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     },
     "2594920": {
       "rank": 473,
