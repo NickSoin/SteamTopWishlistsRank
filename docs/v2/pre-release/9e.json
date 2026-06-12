@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T14:09:38.531Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-12T18:10:28.370Z",
+  "entryCount": 30,
   "entries": {
     "661680": {
       "rank": 689,
@@ -212,6 +212,13 @@
       "name": "Sandustry",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4257760": {
+      "rank": 9768,
+      "estimate": "<7k",
+      "name": "Mahjong Realms - Ancient Desert",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T14:09:38.531Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-12T18:10:28.370Z",
+  "entryCount": 23,
   "entries": {
     "493520": {
       "rank": 14,
@@ -152,6 +152,13 @@
       "name": "Over The Top: WWI",
       "releaseDate": "2026-03-06",
       "source": "historical"
+    },
+    "4225020": {
+      "rank": 3714,
+      "estimate": "<7k",
+      "name": "SILVARN",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     },
     "4673140": {
       "rank": 1739,

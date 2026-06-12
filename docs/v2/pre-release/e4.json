@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T14:09:38.531Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-12T18:10:28.370Z",
+  "entryCount": 31,
   "entries": {
     "774791": {
       "rank": 539,
@@ -206,6 +206,13 @@
       "name": "Where Winds Meet",
       "releaseDate": "2025-11-14",
       "source": "historical"
+    },
+    "3930510": {
+      "rank": 1671,
+      "estimate": "15k+",
+      "name": "Don't Let It Starve",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     },
     "4708080": {
       "rank": 5616,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T14:09:38.531Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-12T18:10:28.370Z",
+  "entryCount": 31,
   "entries": {
     "680420": {
       "rank": 15,
@@ -200,6 +200,13 @@
       "releaseDate": "2025-11-17",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963413728349923836"
+    },
+    "3864450": {
+      "rank": 461,
+      "estimate": "80k+",
+      "name": "Goblin Company",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     },
     "4030830": {
       "rank": 3233,

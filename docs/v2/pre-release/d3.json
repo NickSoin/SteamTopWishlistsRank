@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T14:09:38.531Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-12T18:10:28.370Z",
+  "entryCount": 32,
   "entries": {
     "307950": {
       "rank": 1484,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Beat The Champions",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4763680": {
+      "rank": 2157,
+      "estimate": "7k+",
+      "name": "Coloring Pixels - Sci-Fi Fantasy Vistas 2 Pack",
+      "releaseDate": "2026-06-12",
       "source": "tracked"
     }
   }

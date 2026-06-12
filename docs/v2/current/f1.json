@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-12T14:09:38.531Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-12T18:10:28.370Z",
+  "entryCount": 16,
   "entries": {
     "1198690": {
-      "rank": 2049,
+      "rank": 2048,
       "estimate": "7k+",
       "name": "REBORN: Survival"
     },
     "1343010": {
-      "rank": 1956,
+      "rank": 1954,
       "estimate": "15k+",
       "name": "Antimatter"
     },
     "1735370": {
-      "rank": 1733,
+      "rank": 1731,
       "estimate": "15k+",
       "name": "Necrowave"
     },
@@ -25,17 +25,17 @@
       "name": "Demon Spore"
     },
     "1964860": {
-      "rank": 4647,
+      "rank": 4648,
       "estimate": "<7k",
       "name": "Titan Shell"
     },
     "1967050": {
-      "rank": 3366,
+      "rank": 3365,
       "estimate": "<7k",
       "name": "It Was You"
     },
     "2395960": {
-      "rank": 3235,
+      "rank": 3238,
       "estimate": "<7k",
       "name": "Ice Truckers"
     },
@@ -45,7 +45,7 @@
       "name": "The God Slayer"
     },
     "2616540": {
-      "rank": 697,
+      "rank": 696,
       "estimate": "40k+",
       "name": "Croak"
     },
@@ -60,9 +60,14 @@
       "name": "PVKK: Planetenverteidigungskanonenkommandant"
     },
     "2962780": {
-      "rank": 2141,
+      "rank": 2140,
       "estimate": "7k+",
       "name": "BeastLink"
+    },
+    "3465440": {
+      "rank": 2800,
+      "estimate": "7k+",
+      "name": "CitaDrill"
     },
     "3694190": {
       "rank": 1762,
@@ -70,12 +75,12 @@
       "name": "Deep Pixel Melancholy"
     },
     "3725830": {
-      "rank": 3569,
+      "rank": 3568,
       "estimate": "<7k",
       "name": "Citrus Summer"
     },
     "3921010": {
-      "rank": 3633,
+      "rank": 3626,
       "estimate": "<7k",
       "name": "War Alert"
     }

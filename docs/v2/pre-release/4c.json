@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T14:09:38.531Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-12T18:10:28.370Z",
+  "entryCount": 22,
   "entries": {
     "774801": {
       "rank": 157,
@@ -152,6 +152,13 @@
       "name": "DOOM: The Dark Ages",
       "releaseDate": "2025-05-14",
       "source": "historical"
+    },
+    "3424930": {
+      "rank": 3137,
+      "estimate": "<7k",
+      "name": "Tome of the Damned",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     }
   }
 }
