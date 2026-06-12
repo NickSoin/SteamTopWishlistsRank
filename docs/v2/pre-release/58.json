@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T05:29:52.471Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-12T09:39:30.945Z",
+  "entryCount": 21,
   "entries": {
     "1101790": {
       "rank": 96,
@@ -149,6 +149,13 @@
       "releaseDate": "2025-10-23",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1795283637852272"
+    },
+    "4732870": {
+      "rank": 9825,
+      "estimate": "<7k",
+      "name": "Tidal Strings",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     }
   }
 }

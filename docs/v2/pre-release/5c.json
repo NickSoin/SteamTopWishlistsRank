@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T05:29:52.471Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-12T09:39:30.945Z",
+  "entryCount": 24,
   "entries": {
     "753640": {
       "rank": 18,
@@ -169,6 +169,13 @@
       "estimate": "<7k",
       "name": "Holy Valkyrie ExS-TIA P",
       "releaseDate": "2026-05-20",
+      "source": "tracked"
+    },
+    "4745450": {
+      "rank": 6691,
+      "estimate": "<7k",
+      "name": "Cradle of the Dark Brood",
+      "releaseDate": "2026-06-12",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T05:29:52.471Z",
-  "entryCount": 40,
+  "updatedAt": "2026-06-12T09:39:30.945Z",
+  "entryCount": 41,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -280,6 +280,13 @@
       "rank": 4635,
       "estimate": "<7k",
       "name": "Mirklurk: Every Step Matters",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4387480": {
+      "rank": 5385,
+      "estimate": "<7k",
+      "name": "R.E.G.O",
       "releaseDate": "2026-06-11",
       "source": "tracked"
     },

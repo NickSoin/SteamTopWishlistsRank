@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T05:29:52.471Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-12T09:39:30.945Z",
+  "entryCount": 19,
   "entries": {
     "1194810": {
       "rank": 21,
@@ -124,6 +124,13 @@
       "name": "I Am Cat",
       "releaseDate": "2024-12-05",
       "source": "historical"
+    },
+    "3765700": {
+      "rank": 5102,
+      "estimate": "<7k",
+      "name": "Clown Camp",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     },
     "4420950": {
       "rank": 8912,

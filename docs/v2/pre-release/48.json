@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T05:29:52.471Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-12T09:39:30.945Z",
+  "entryCount": 25,
   "entries": {
     "1170080": {
       "rank": 986,
@@ -170,6 +170,13 @@
       "estimate": "25k+",
       "name": "Car Dealer Simulator - Up 2 You DLC",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4229600": {
+      "rank": 7033,
+      "estimate": "<7k",
+      "name": "DON'T STOP SMILING",
+      "releaseDate": "2026-06-12",
       "source": "tracked"
     }
   }

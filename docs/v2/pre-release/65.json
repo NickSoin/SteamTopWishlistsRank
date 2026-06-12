@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T05:29:52.471Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-12T09:39:30.945Z",
+  "entryCount": 32,
   "entries": {
     "301280": {
       "rank": 574,
@@ -222,6 +222,13 @@
       "name": "Transport Fever 3",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3559840": {
+      "rank": 4305,
+      "estimate": "<7k",
+      "name": "Sakura Hime 6",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     }
   }
 }
