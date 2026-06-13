@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-13T12:08:12.909Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-13T17:05:25.871Z",
+  "entryCount": 25,
   "entries": {
     "546560": {
       "rank": 11,
@@ -170,6 +170,13 @@
       "estimate": "40k+",
       "name": "Puni the Florist",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4566920": {
+      "rank": 6929,
+      "estimate": "<7k",
+      "name": "The Blackwood Project",
+      "releaseDate": "2026-06-13",
       "source": "tracked"
     }
   }

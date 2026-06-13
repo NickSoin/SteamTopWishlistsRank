@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-13T12:08:12.909Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-13T17:05:25.871Z",
+  "entryCount": 30,
   "entries": {
     "458430": {
       "rank": 911,
@@ -208,6 +208,13 @@
       "name": "Empire of Lust 🏛",
       "releaseDate": "2025-11-08",
       "source": "historical"
+    },
+    "4705620": {
+      "rank": 4303,
+      "estimate": "<7k",
+      "name": "WHERE the F$CK is my BITCOIN ⁉️",
+      "releaseDate": "2026-06-13",
+      "source": "tracked"
     }
   }
 }
