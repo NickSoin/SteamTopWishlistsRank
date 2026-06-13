@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T22:31:06.011Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-13T05:23:36.999Z",
+  "entryCount": 29,
   "entries": {
     "628740": {
       "rank": 647,
@@ -192,6 +192,13 @@
       "name": "0010100",
       "releaseDate": "2024-03-15",
       "source": "historical"
+    },
+    "2860900": {
+      "rank": 4930,
+      "estimate": "<7k",
+      "name": "Super Dark Deception - Chapter 2",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     },
     "3466240": {
       "rank": 1966,

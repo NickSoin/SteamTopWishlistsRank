@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T22:31:06.011Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-13T05:23:36.999Z",
+  "entryCount": 31,
   "entries": {
     "782250": {
       "rank": 368,
@@ -199,6 +199,13 @@
       "name": "The Blood of Dawnwalker",
       "releaseDate": "2026-09-02",
       "source": "historical"
+    },
+    "4260530": {
+      "rank": 1063,
+      "estimate": "25k+",
+      "name": "Rina's Undercover Train Operation",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     },
     "4415200": {
       "rank": 8639,

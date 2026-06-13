@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T22:31:06.011Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-13T05:23:36.999Z",
+  "entryCount": 26,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -177,6 +177,13 @@
       "estimate": "15k+",
       "name": "MÖRK BORG Heresy Supreme",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4391870": {
+      "rank": 7130,
+      "estimate": "<7k",
+      "name": "Bounty Pro Pulling",
+      "releaseDate": "2026-06-12",
       "source": "tracked"
     }
   }
