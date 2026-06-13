@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-13T05:23:36.999Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-13T08:39:44.475Z",
+  "entryCount": 25,
   "entries": {
     "922620": {
       "rank": 627,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "Dynastic Era",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4701920": {
+      "rank": 9806,
+      "estimate": "<7k",
+      "name": "After the Hero",
+      "releaseDate": "2026-06-13",
       "source": "tracked"
     },
     "4750290": {
