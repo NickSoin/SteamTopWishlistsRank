@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T18:10:28.370Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-12T22:31:06.011Z",
+  "entryCount": 21,
   "entries": {
     "900040": {
       "rank": 60,
@@ -143,6 +143,13 @@
       "name": "Shadow Project",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4775970": {
+      "rank": 6518,
+      "estimate": "<7k",
+      "name": "0.5%",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     }
   }
 }

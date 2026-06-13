@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-12T18:10:28.370Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-12T22:31:06.011Z",
+  "entryCount": 38,
   "entries": {
     "595500": {
       "rank": 511,
@@ -252,6 +252,13 @@
       "releaseDate": "2026-01-12",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758645642"
+    },
+    "3779710": {
+      "rank": 7262,
+      "estimate": "<7k",
+      "name": "CINESCAPE VR",
+      "releaseDate": "2026-06-12",
+      "source": "tracked"
     },
     "4117320": {
       "rank": 1893,
