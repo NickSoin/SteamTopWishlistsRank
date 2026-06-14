@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-13T22:10:35.708Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-14T05:20:23.646Z",
+  "entryCount": 23,
   "entries": {
     "1324400": {
       "rank": 1704,
@@ -10,12 +10,12 @@
       "name": "Crimepunk Detective"
     },
     "1617760": {
-      "rank": 3576,
+      "rank": 3581,
       "estimate": "<7k",
       "name": "Vikings: Age Of The Axe"
     },
     "1823840": {
-      "rank": 3277,
+      "rank": 3279,
       "estimate": "<7k",
       "name": "Illusion Lands"
     },
@@ -30,7 +30,7 @@
       "name": "Remnant Protocol"
     },
     "2336170": {
-      "rank": 4177,
+      "rank": 4181,
       "estimate": "<7k",
       "name": "PC Futbol 8"
     },
@@ -40,12 +40,12 @@
       "name": "Phantom Line"
     },
     "2466350": {
-      "rank": 3611,
+      "rank": 3613,
       "estimate": "<7k",
       "name": "Space"
     },
     "2560210": {
-      "rank": 2523,
+      "rank": 2524,
       "estimate": "7k+",
       "name": "Astromeda"
     },
@@ -55,13 +55,13 @@
       "name": "The Whims of the Gods"
     },
     "2669450": {
-      "rank": 2800,
+      "rank": 2799,
       "estimate": "7k+",
       "name": "My Child New Beginnings"
     },
     "2770330": {
-      "rank": 2000,
-      "estimate": "15k+",
+      "rank": 2001,
+      "estimate": "7k+",
       "name": "Chaos Front"
     },
     "2828020": {
@@ -70,7 +70,7 @@
       "name": "Citystate Metropolis"
     },
     "2994600": {
-      "rank": 2340,
+      "rank": 2344,
       "estimate": "7k+",
       "name": "Lysward"
     },
@@ -80,39 +80,44 @@
       "name": "OUTCLAW"
     },
     "3325720": {
-      "rank": 3873,
+      "rank": 3875,
       "estimate": "<7k",
       "name": "Animas"
     },
     "3484100": {
-      "rank": 4799,
+      "rank": 4800,
       "estimate": "<7k",
       "name": "Bait Soul"
     },
     "4030360": {
-      "rank": 2421,
+      "rank": 2427,
       "estimate": "7k+",
       "name": "Undertaker"
     },
     "4184360": {
-      "rank": 4612,
+      "rank": 4607,
       "estimate": "<7k",
       "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version"
     },
     "4532930": {
-      "rank": 4583,
+      "rank": 4588,
       "estimate": "<7k",
       "name": "Rogue Fantasy: Ever-Shifting Worlds"
     },
     "4717850": {
-      "rank": 1113,
+      "rank": 1107,
       "estimate": "25k+",
       "name": "Magical Girl Taboo Village"
     },
     "4754550": {
-      "rank": 2396,
+      "rank": 2325,
       "estimate": "7k+",
       "name": "Medieval Dynasty - The Backwood"
+    },
+    "4824220": {
+      "rank": 4581,
+      "estimate": "<7k",
+      "name": "Meltdown Crew"
     }
   }
 }

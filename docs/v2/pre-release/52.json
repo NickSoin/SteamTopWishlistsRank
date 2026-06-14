@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-13T22:10:35.708Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-14T05:20:23.646Z",
+  "entryCount": 27,
   "entries": {
     "914890": {
       "rank": 644,
@@ -187,6 +187,13 @@
       "name": "Final Outpost: Definitive Edition",
       "releaseDate": "2025-05-22",
       "source": "historical"
+    },
+    "4257900": {
+      "rank": 3735,
+      "estimate": "<7k",
+      "name": "棋桜",
+      "releaseDate": "2026-06-13",
+      "source": "tracked"
     }
   }
 }
