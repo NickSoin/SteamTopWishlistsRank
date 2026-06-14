@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-14T12:48:46.892Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-14T16:52:44.761Z",
+  "entryCount": 26,
   "entries": {
     "751630": {
       "rank": 64,
@@ -171,6 +171,13 @@
       "name": "ENDLESS™ Legend 2",
       "releaseDate": "2025-09-22",
       "source": "historical"
+    },
+    "3772140": {
+      "rank": 3344,
+      "estimate": "<7k",
+      "name": "Beggar's Life",
+      "releaseDate": "2026-06-14",
+      "source": "tracked"
     },
     "4194800": {
       "rank": 785,
