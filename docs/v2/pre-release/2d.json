@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-13T17:05:25.871Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-13T22:10:35.708Z",
+  "entryCount": 27,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "Bounty Pro Pulling",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4755830": {
+      "rank": 5066,
+      "estimate": "<7k",
+      "name": "Gooner Studio",
+      "releaseDate": "2026-06-13",
       "source": "tracked"
     }
   }

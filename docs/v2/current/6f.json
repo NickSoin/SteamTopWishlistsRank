@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-13T17:05:25.871Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-13T22:10:35.708Z",
+  "entryCount": 16,
   "entries": {
     "1162860": {
-      "rank": 3560,
+      "rank": 3566,
       "estimate": "<7k",
       "name": "Keepsake County"
     },
     "2120300": {
-      "rank": 4796,
+      "rank": 4798,
       "estimate": "<7k",
       "name": "Retrowave '84"
     },
@@ -25,14 +25,19 @@
       "name": "Tako no Himitsu: Ocean of Secrets"
     },
     "2597610": {
-      "rank": 2746,
+      "rank": 2748,
       "estimate": "7k+",
       "name": "Mononoke No Kuni"
     },
     "2713780": {
-      "rank": 4780,
+      "rank": 4784,
       "estimate": "<7k",
       "name": "Yamafuda! Summit"
+    },
+    "3125690": {
+      "rank": 4913,
+      "estimate": "<7k",
+      "name": "RELOADIAN"
     },
     "3299050": {
       "rank": 1067,
@@ -45,27 +50,27 @@
       "name": "Broken Sword - The Smoking Mirror: Reforged"
     },
     "3483510": {
-      "rank": 187,
+      "rank": 186,
       "estimate": "200k+",
       "name": "The Adventures of Elliot: The Millennium Tales"
     },
     "3738830": {
-      "rank": 2234,
+      "rank": 2230,
       "estimate": "7k+",
       "name": "Bodycam Onrecord"
     },
     "3754920": {
-      "rank": 3083,
+      "rank": 3063,
       "estimate": "<7k",
       "name": "Gothic Scythe"
     },
     "3794520": {
-      "rank": 3003,
+      "rank": 3004,
       "estimate": "<7k",
       "name": "Rebounder"
     },
     "3819100": {
-      "rank": 4880,
+      "rank": 4882,
       "estimate": "<7k",
       "name": "Tuoni"
     },
@@ -75,7 +80,7 @@
       "name": "Incremental Mass Rewritten"
     },
     "4454760": {
-      "rank": 4874,
+      "rank": 4872,
       "estimate": "<7k",
       "name": "OPEN UP SIR!"
     }

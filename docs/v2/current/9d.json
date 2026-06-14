@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-13T17:05:25.871Z",
-  "entryCount": 13,
+  "updatedAt": "2026-06-13T22:10:35.708Z",
+  "entryCount": 14,
   "entries": {
     "1236170": {
-      "rank": 1828,
+      "rank": 1829,
       "estimate": "15k+",
       "name": "The Fold: Ingression"
     },
     "1286230": {
-      "rank": 2119,
+      "rank": 2121,
       "estimate": "7k+",
       "name": "Fields of History: The Great War"
     },
     "1354450": {
-      "rank": 4149,
+      "rank": 4152,
       "estimate": "<7k",
       "name": "Dragonfield"
     },
     "1698530": {
-      "rank": 3738,
+      "rank": 3743,
       "estimate": "<7k",
       "name": "VTuber Beats"
     },
@@ -35,37 +35,42 @@
       "name": "Minecraft Dungeons II"
     },
     "2105260": {
-      "rank": 2431,
+      "rank": 2435,
       "estimate": "7k+",
       "name": "Pizza Kidd"
     },
     "2412740": {
-      "rank": 3077,
+      "rank": 3080,
       "estimate": "<7k",
       "name": "Ascent Quest"
     },
     "2744430": {
-      "rank": 1068,
+      "rank": 1069,
       "estimate": "25k+",
       "name": "Nightmare House"
     },
     "3154490": {
-      "rank": 4228,
+      "rank": 4230,
       "estimate": "<7k",
       "name": "Spell Candle"
     },
+    "3327120": {
+      "rank": 4899,
+      "estimate": "<7k",
+      "name": "Dreadline Express"
+    },
     "3624140": {
-      "rank": 76,
+      "rank": 77,
       "estimate": "300k+",
       "name": "Wanderburg"
     },
     "4043740": {
-      "rank": 871,
+      "rank": 874,
       "estimate": "40k+",
       "name": "Hero's Hour 2"
     },
     "4182850": {
-      "rank": 4246,
+      "rank": 4247,
       "estimate": "<7k",
       "name": "Tiebreakers"
     }
