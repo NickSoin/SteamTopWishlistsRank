@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-14T09:07:10.866Z",
+  "updatedAt": "2026-06-14T12:48:46.892Z",
   "entryCount": 17,
   "entries": {
     "847720": {
@@ -10,7 +10,7 @@
       "name": "Söldner: Secret Wars Remastered"
     },
     "1905960": {
-      "rank": 4745,
+      "rank": 4750,
       "estimate": "<7k",
       "name": "Endlanders"
     },
@@ -20,27 +20,27 @@
       "name": "Kitsune: The Journey of Adashino"
     },
     "2117160": {
-      "rank": 1833,
+      "rank": 1834,
       "estimate": "15k+",
       "name": "Dead Age: Survivors"
     },
     "2559690": {
-      "rank": 3960,
+      "rank": 3959,
       "estimate": "<7k",
       "name": "Draco and the Seven Scales"
     },
     "2593340": {
-      "rank": 1361,
+      "rank": 1363,
       "estimate": "25k+",
       "name": "Wonderia"
     },
     "2741550": {
-      "rank": 1391,
+      "rank": 1392,
       "estimate": "25k+",
       "name": "Pipsqueak!"
     },
     "3074730": {
-      "rank": 3688,
+      "rank": 3689,
       "estimate": "<7k",
       "name": "Hoptale"
     },
@@ -50,7 +50,7 @@
       "name": "Vision Quench"
     },
     "3565090": {
-      "rank": 4063,
+      "rank": 4057,
       "estimate": "<7k",
       "name": "Goobies 2"
     },
@@ -60,12 +60,12 @@
       "name": "DWARRF: A Pinball Roguelike"
     },
     "3839720": {
-      "rank": 3684,
+      "rank": 3682,
       "estimate": "<7k",
       "name": "Compensated Girl"
     },
     "3901760": {
-      "rank": 2787,
+      "rank": 2783,
       "estimate": "7k+",
       "name": "Crystal Project 2"
     },
@@ -75,7 +75,7 @@
       "name": "Falcon Fall™"
     },
     "4298500": {
-      "rank": 3927,
+      "rank": 3929,
       "estimate": "<7k",
       "name": "Last Breath 最后的气息"
     },
@@ -85,7 +85,7 @@
       "name": "Limitless Survivor"
     },
     "4634490": {
-      "rank": 1371,
+      "rank": 1365,
       "estimate": "25k+",
       "name": "Master Healer Kale with useless party"
     }
