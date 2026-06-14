@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-14T05:20:23.646Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-14T09:07:10.866Z",
+  "entryCount": 16,
   "entries": {
     "1739080": {
       "rank": 172,
@@ -15,12 +15,12 @@
       "name": "CALX"
     },
     "2283250": {
-      "rank": 4270,
+      "rank": 4269,
       "estimate": "<7k",
       "name": "BrokenLore: DARK DAWN"
     },
     "2535690": {
-      "rank": 3661,
+      "rank": 3663,
       "estimate": "<7k",
       "name": "Offroad Survival"
     },
@@ -30,17 +30,17 @@
       "name": "Bendy: The Cage"
     },
     "2786760": {
-      "rank": 1408,
+      "rank": 1407,
       "estimate": "25k+",
       "name": "Another Door"
     },
     "3299850": {
-      "rank": 2341,
+      "rank": 2342,
       "estimate": "7k+",
       "name": "The Last Phoenix"
     },
     "3508880": {
-      "rank": 4215,
+      "rank": 4216,
       "estimate": "<7k",
       "name": "Outpost Simulator"
     },
@@ -50,22 +50,22 @@
       "name": "Scrutator Tenebris"
     },
     "3875960": {
-      "rank": 1560,
+      "rank": 1564,
       "estimate": "15k+",
       "name": "Dragon Raja the farewell passage"
     },
     "4074010": {
-      "rank": 881,
+      "rank": 882,
       "estimate": "40k+",
       "name": "Dig, Dig, Die"
     },
     "4090360": {
-      "rank": 1403,
+      "rank": 1402,
       "estimate": "25k+",
       "name": "Forest Escape: Last Train"
     },
     "4150860": {
-      "rank": 878,
+      "rank": 880,
       "estimate": "40k+",
       "name": "The Loopler"
     },
@@ -74,8 +74,13 @@
       "estimate": "15k+",
       "name": "PIX Football Manager"
     },
+    "4327060": {
+      "rank": 4927,
+      "estimate": "<7k",
+      "name": "Elzypon"
+    },
     "4605210": {
-      "rank": 4821,
+      "rank": 4816,
       "estimate": "<7k",
       "name": "Pet the Cat"
     }
