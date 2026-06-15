@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T05:51:44.148Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-15T16:24:21.361Z",
+  "entryCount": 20,
   "entries": {
     "736820": {
       "rank": 19,
@@ -136,6 +136,13 @@
       "name": "Puffin Planes",
       "releaseDate": "2024-09-04",
       "source": "historical"
+    },
+    "4064510": {
+      "rank": 904,
+      "estimate": "40k+",
+      "name": "MOLE",
+      "releaseDate": "2026-06-15",
+      "source": "tracked"
     }
   }
 }

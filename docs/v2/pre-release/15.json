@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T05:51:44.148Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-15T16:24:21.361Z",
+  "entryCount": 33,
   "entries": {
     "467700": {
       "rank": 1203,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "Deep Board Go",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4766160": {
+      "rank": 8346,
+      "estimate": "<7k",
+      "name": "Rock,Paper,Scissors,SHOOT!",
+      "releaseDate": "2026-06-15",
       "source": "tracked"
     }
   }

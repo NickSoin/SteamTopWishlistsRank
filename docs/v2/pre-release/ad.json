@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T05:51:44.148Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-15T16:24:21.361Z",
+  "entryCount": 30,
   "entries": {
     "658920": {
       "rank": 716,
@@ -205,6 +205,13 @@
       "estimate": "80k+",
       "name": "Fears to Fathom® - Scratch Creek",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4272720": {
+      "rank": 4583,
+      "estimate": "<7k",
+      "name": "Pickupbal",
+      "releaseDate": "2026-06-15",
       "source": "tracked"
     }
   }

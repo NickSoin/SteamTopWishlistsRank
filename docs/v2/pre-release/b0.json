@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T05:51:44.148Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-15T16:24:21.361Z",
+  "entryCount": 32,
   "entries": {
     "490110": {
       "rank": 24,
@@ -212,6 +212,13 @@
       "estimate": "80k+",
       "name": "Coffee Talk Tokyo",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4160880": {
+      "rank": 1780,
+      "estimate": "15k+",
+      "name": "Ember Seeker",
+      "releaseDate": "2026-06-14",
       "source": "tracked"
     },
     "4682760": {

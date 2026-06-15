@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-15T05:51:44.148Z",
+  "updatedAt": "2026-06-15T16:24:21.361Z",
   "entryCount": 19,
   "entries": {
     "304770": {
-      "rank": 3507,
+      "rank": 3503,
       "estimate": "<7k",
       "name": "IAH: INTERNET WAR"
     },
     "1313210": {
-      "rank": 1786,
+      "rank": 1787,
       "estimate": "15k+",
       "name": "Nimoyd - Survival Sandbox"
     },
     "1327200": {
-      "rank": 2350,
+      "rank": 2354,
       "estimate": "7k+",
       "name": "Redneck Party"
     },
     "1466310": {
-      "rank": 2005,
+      "rank": 2004,
       "estimate": "7k+",
       "name": "AC-130 Gunship Operator"
     },
     "1917160": {
-      "rank": 4685,
+      "rank": 4686,
       "estimate": "<7k",
       "name": "Data Center Simulator Game"
     },
@@ -35,7 +35,7 @@
       "name": "Covert Critter"
     },
     "2413960": {
-      "rank": 2885,
+      "rank": 2887,
       "estimate": "7k+",
       "name": "Dark"
     },
@@ -45,12 +45,12 @@
       "name": "Canyons"
     },
     "2784150": {
-      "rank": 3109,
+      "rank": 3112,
       "estimate": "<7k",
       "name": "The Last Rose"
     },
     "2823570": {
-      "rank": 3122,
+      "rank": 3124,
       "estimate": "<7k",
       "name": "Netcode Warriors"
     },
@@ -60,22 +60,22 @@
       "name": "Darkbound"
     },
     "3205960": {
-      "rank": 3306,
+      "rank": 3305,
       "estimate": "<7k",
       "name": "Succubus Memories"
     },
     "3498700": {
-      "rank": 3005,
-      "estimate": "<7k",
+      "rank": 2991,
+      "estimate": "7k+",
       "name": "Appulse"
     },
     "3630010": {
-      "rank": 1677,
+      "rank": 1678,
       "estimate": "15k+",
       "name": "CoopRooms"
     },
     "4055780": {
-      "rank": 1899,
+      "rank": 1898,
       "estimate": "15k+",
       "name": "Gunship Origins"
     },
@@ -85,17 +85,17 @@
       "name": "VHOLUME"
     },
     "4234750": {
-      "rank": 4603,
+      "rank": 4321,
       "estimate": "<7k",
       "name": "Kaiju Princess: Super Survivor Showdown"
     },
     "4271520": {
-      "rank": 987,
+      "rank": 985,
       "estimate": "40k+",
       "name": "The Pines"
     },
     "4502750": {
-      "rank": 555,
+      "rank": 557,
       "estimate": "40k+",
       "name": "Infamous Keepers"
     }

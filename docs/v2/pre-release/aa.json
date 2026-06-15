@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T05:51:44.148Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-15T16:24:21.361Z",
+  "entryCount": 28,
   "entries": {
     "924750": {
       "rank": 198,
@@ -197,6 +197,13 @@
       "estimate": "7k+",
       "name": "Pronoun Palace",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4292150": {
+      "rank": 7785,
+      "estimate": "<7k",
+      "name": "Songtail: Whiskers of Destiny",
+      "releaseDate": "2026-06-15",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T05:51:44.148Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-15T16:24:21.361Z",
+  "entryCount": 25,
   "entries": {
     "1336180": {
       "rank": 166,
@@ -170,6 +170,13 @@
       "estimate": "25k+",
       "name": "Beauties and the Stranded",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "4779360": {
+      "rank": 3916,
+      "estimate": "<7k",
+      "name": "Day Trade Coach",
+      "releaseDate": "2026-06-15",
       "source": "tracked"
     }
   }

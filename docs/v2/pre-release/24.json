@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T05:51:44.148Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-15T16:24:21.361Z",
+  "entryCount": 21,
   "entries": {
     "623280": {
       "rank": 34,
@@ -146,6 +146,13 @@
       "estimate": "<7k",
       "name": "Airport Mania: First Flight",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4761980": {
+      "rank": 5905,
+      "estimate": "<7k",
+      "name": "College Quest",
+      "releaseDate": "2026-06-15",
       "source": "tracked"
     }
   }

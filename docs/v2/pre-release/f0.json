@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T05:51:44.148Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-15T16:24:21.361Z",
+  "entryCount": 30,
   "entries": {
     "721700": {
       "rank": 679,
@@ -211,6 +211,13 @@
       "estimate": "<7k",
       "name": "halfmoon",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4674970": {
+      "rank": 6986,
+      "estimate": "<7k",
+      "name": "Cheese Stack",
+      "releaseDate": "2026-06-15",
       "source": "tracked"
     }
   }

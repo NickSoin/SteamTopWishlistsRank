@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T05:51:44.148Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-15T16:24:21.361Z",
+  "entryCount": 21,
   "entries": {
     "653060": {
       "rank": 687,
@@ -138,6 +138,13 @@
       "name": "GOBLIN SLAYER -ANOTHER ADVENTURER- NIGHTMARE FEAST",
       "releaseDate": "2024-02-28",
       "source": "historical"
+    },
+    "4746070": {
+      "rank": 3430,
+      "estimate": "<7k",
+      "name": "Eldara",
+      "releaseDate": "2026-06-15",
+      "source": "tracked"
     },
     "4751470": {
       "rank": 5671,

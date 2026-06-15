@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T05:51:44.148Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-15T16:24:21.361Z",
+  "entryCount": 28,
   "entries": {
     "659960": {
       "rank": 821,
@@ -182,6 +182,13 @@
       "name": "Call to Arms - Gates of Hell: Airborne",
       "releaseDate": "2024-10-17",
       "source": "historical"
+    },
+    "3936530": {
+      "rank": 2384,
+      "estimate": "7k+",
+      "name": "Pro Cycling Manager 26",
+      "releaseDate": "2026-06-15",
+      "source": "tracked"
     },
     "4517460": {
       "rank": 3016,

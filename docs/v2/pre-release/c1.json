@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T05:51:44.148Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-15T16:24:21.361Z",
+  "entryCount": 20,
   "entries": {
     "912840": {
       "rank": 1084,
@@ -137,6 +137,13 @@
       "estimate": "<7k",
       "name": "Mr Right Simulator",
       "releaseDate": "2026-05-16",
+      "source": "tracked"
+    },
+    "4642730": {
+      "rank": 6726,
+      "estimate": "<7k",
+      "name": "Optical Shop Simulator",
+      "releaseDate": "2026-06-15",
       "source": "tracked"
     }
   }
