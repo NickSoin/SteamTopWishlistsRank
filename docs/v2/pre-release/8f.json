@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-14T21:57:39.217Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-15T05:51:44.148Z",
+  "entryCount": 24,
   "entries": {
     "1336180": {
       "rank": 166,
@@ -164,6 +164,13 @@
       "name": "100 Korea Cats",
       "releaseDate": "2024-12-15",
       "source": "historical"
+    },
+    "3828610": {
+      "rank": 1261,
+      "estimate": "25k+",
+      "name": "Beauties and the Stranded",
+      "releaseDate": "2026-06-14",
+      "source": "tracked"
     }
   }
 }

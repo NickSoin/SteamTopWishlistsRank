@@ -1,31 +1,36 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-14T21:57:39.217Z",
-  "entryCount": 8,
+  "updatedAt": "2026-06-15T05:51:44.148Z",
+  "entryCount": 9,
   "entries": {
     "1104800": {
-      "rank": 2733,
+      "rank": 2734,
       "estimate": "7k+",
       "name": "Radiance"
     },
     "2545880": {
-      "rank": 2514,
+      "rank": 2513,
       "estimate": "7k+",
       "name": "HistoriCity: Florence"
     },
     "2932680": {
-      "rank": 2820,
+      "rank": 2821,
       "estimate": "7k+",
       "name": "Nomori"
     },
     "3086670": {
-      "rank": 1312,
+      "rank": 1309,
       "estimate": "25k+",
       "name": "SKINWALKER: First Blood"
     },
+    "3213120": {
+      "rank": 4933,
+      "estimate": "<7k",
+      "name": "Machinefall"
+    },
     "3588150": {
-      "rank": 1381,
+      "rank": 1382,
       "estimate": "25k+",
       "name": "The Bureau of Fantastical & Arcane Affairs"
     },
@@ -40,7 +45,7 @@
       "name": "CRYMELIGHT"
     },
     "4261650": {
-      "rank": 2478,
+      "rank": 2477,
       "estimate": "7k+",
       "name": "MASAKRE"
     }

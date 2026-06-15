@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-14T21:57:39.217Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-15T05:51:44.148Z",
+  "entryCount": 24,
   "entries": {
     "977510": {
       "rank": 1079,
@@ -159,6 +159,13 @@
       "name": "Garten of Banban 8: Anti Devil",
       "releaseDate": "2025-08-28",
       "source": "historical"
+    },
+    "4089110": {
+      "rank": 9611,
+      "estimate": "<7k",
+      "name": "Seal of Shadows",
+      "releaseDate": "2026-06-14",
+      "source": "tracked"
     },
     "4179280": {
       "rank": 1755,
