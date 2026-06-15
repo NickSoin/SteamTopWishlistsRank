@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-14T16:52:44.761Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-14T21:57:39.217Z",
+  "entryCount": 19,
   "entries": {
     "1120790": {
-      "rank": 1438,
+      "rank": 1439,
       "estimate": "25k+",
       "name": "We are Legion: Rome"
     },
     "1273980": {
-      "rank": 2612,
+      "rank": 2614,
       "estimate": "7k+",
       "name": "HeatWave"
     },
     "1476040": {
-      "rank": 2914,
+      "rank": 2918,
       "estimate": "7k+",
       "name": "Far North"
     },
     "1504820": {
-      "rank": 3645,
+      "rank": 3647,
       "estimate": "<7k",
       "name": "Cloud Jumper"
     },
     "1572960": {
-      "rank": 4800,
+      "rank": 4803,
       "estimate": "<7k",
       "name": "Train 113"
     },
@@ -35,22 +35,22 @@
       "name": "Peachleaf Valley: Seeds of Love - a farming inspired otome"
     },
     "1826830": {
-      "rank": 4634,
+      "rank": 4638,
       "estimate": "<7k",
       "name": "Nova Squadron"
     },
     "2505590": {
-      "rank": 3368,
+      "rank": 3371,
       "estimate": "<7k",
       "name": "T.K. Punk - G.O.L.D"
     },
     "2626570": {
-      "rank": 1562,
+      "rank": 1565,
       "estimate": "15k+",
       "name": "GodsTV"
     },
     "2851800": {
-      "rank": 3832,
+      "rank": 3834,
       "estimate": "<7k",
       "name": "Headlice"
     },
@@ -60,39 +60,44 @@
       "name": "SAW: Genesis"
     },
     "3710560": {
-      "rank": 2713,
+      "rank": 2715,
       "estimate": "7k+",
       "name": "Protocol: Terminate"
     },
     "3810510": {
-      "rank": 1641,
+      "rank": 1642,
       "estimate": "15k+",
       "name": "DERELIKT"
     },
     "3824720": {
-      "rank": 2070,
+      "rank": 2071,
       "estimate": "7k+",
       "name": "Descent Of Lunaris"
     },
     "3828610": {
-      "rank": 1273,
+      "rank": 1261,
       "estimate": "25k+",
       "name": "Beauties and the Stranded"
     },
     "3872910": {
-      "rank": 3477,
+      "rank": 3479,
       "estimate": "<7k",
       "name": "Tanki Classic"
     },
     "4170840": {
-      "rank": 653,
+      "rank": 655,
       "estimate": "40k+",
       "name": "Akina"
     },
     "4423270": {
-      "rank": 2979,
+      "rank": 2981,
       "estimate": "7k+",
       "name": "Takeover 2"
+    },
+    "4779360": {
+      "rank": 4905,
+      "estimate": "<7k",
+      "name": "Day Trade Coach"
     }
   }
 }

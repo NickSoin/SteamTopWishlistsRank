@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-14T16:52:44.761Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-14T21:57:39.217Z",
+  "entryCount": 24,
   "entries": {
     "860210": {
       "rank": 563,
@@ -15,32 +15,37 @@
       "name": "Chernobyl 1986"
     },
     "1223030": {
-      "rank": 2250,
+      "rank": 2254,
       "estimate": "7k+",
       "name": "Ami"
     },
     "1349460": {
-      "rank": 3501,
+      "rank": 3503,
       "estimate": "<7k",
       "name": "Bravers"
     },
     "1660440": {
-      "rank": 2090,
+      "rank": 2091,
       "estimate": "7k+",
       "name": "Way To The Woods"
     },
+    "1675860": {
+      "rank": 4927,
+      "estimate": "<7k",
+      "name": "Junkster"
+    },
     "2139040": {
-      "rank": 1694,
+      "rank": 1695,
       "estimate": "15k+",
       "name": "Cook, Serve, Delicious: Re-Mustard!"
     },
     "2268520": {
-      "rank": 3890,
+      "rank": 3892,
       "estimate": "<7k",
       "name": "Divided Land"
     },
     "2358630": {
-      "rank": 1838,
+      "rank": 1839,
       "estimate": "15k+",
       "name": "Western Rye"
     },
@@ -50,37 +55,37 @@
       "name": "As One We Survive"
     },
     "2531570": {
-      "rank": 3399,
+      "rank": 3401,
       "estimate": "<7k",
       "name": "SOUNDGRASS"
     },
     "2642850": {
-      "rank": 4695,
+      "rank": 4698,
       "estimate": "<7k",
       "name": "Serpens: Eternal Thievery"
     },
     "2691090": {
-      "rank": 2220,
+      "rank": 2221,
       "estimate": "7k+",
       "name": "14: Overmind"
     },
     "2861730": {
-      "rank": 1895,
+      "rank": 1898,
       "estimate": "15k+",
       "name": "Food Devils"
     },
     "2871520": {
-      "rank": 129,
+      "rank": 128,
       "estimate": "200k+",
       "name": "Deep Dish Dungeon"
     },
     "2935130": {
-      "rank": 4682,
+      "rank": 4687,
       "estimate": "<7k",
       "name": "Dice of Arcana"
     },
     "3107530": {
-      "rank": 1178,
+      "rank": 1180,
       "estimate": "25k+",
       "name": "Danchi Days"
     },
@@ -90,32 +95,32 @@
       "name": "ALVR - Air Light VR"
     },
     "3551090": {
-      "rank": 4016,
+      "rank": 4018,
       "estimate": "<7k",
       "name": "Charlatan"
     },
     "3926070": {
-      "rank": 4730,
+      "rank": 4731,
       "estimate": "<7k",
       "name": "The Bestest Alchemist"
     },
     "3934590": {
-      "rank": 3767,
+      "rank": 3772,
       "estimate": "<7k",
       "name": "Donjon: The Dark Fantasy"
     },
     "4020810": {
-      "rank": 1312,
+      "rank": 1314,
       "estimate": "25k+",
       "name": "NTL: No Time Left"
     },
     "4141760": {
-      "rank": 4459,
+      "rank": 4464,
       "estimate": "<7k",
       "name": "NERO"
     },
     "4239670": {
-      "rank": 973,
+      "rank": 974,
       "estimate": "40k+",
       "name": "Steel Soul Shaper"
     }

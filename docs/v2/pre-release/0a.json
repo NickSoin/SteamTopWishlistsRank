@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-14T16:52:44.761Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-14T21:57:39.217Z",
+  "entryCount": 29,
   "entries": {
     "983380": {
       "rank": 234,
@@ -199,6 +199,13 @@
       "name": "Earth vs Mars",
       "releaseDate": "2025-10-29",
       "source": "historical"
+    },
+    "4503540": {
+      "rank": 4830,
+      "estimate": "<7k",
+      "name": "Fomo-trading",
+      "releaseDate": "2026-06-14",
+      "source": "tracked"
     }
   }
 }

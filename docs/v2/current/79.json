@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-14T16:52:44.761Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-14T21:57:39.217Z",
+  "entryCount": 17,
   "entries": {
     "1466520": {
-      "rank": 3678,
+      "rank": 3680,
       "estimate": "<7k",
       "name": "Omen Exitio: Hunger"
     },
     "1897450": {
-      "rank": 3046,
+      "rank": 3047,
       "estimate": "<7k",
       "name": "U-Boot: The Board Game - Digital Edition"
     },
@@ -25,17 +25,17 @@
       "name": "M.O.Z.I."
     },
     "2728050": {
-      "rank": 1243,
+      "rank": 1248,
       "estimate": "25k+",
       "name": "Scratchin' Melodii"
     },
     "3002740": {
-      "rank": 2030,
+      "rank": 2032,
       "estimate": "7k+",
       "name": "Project Solaris"
     },
     "3039430": {
-      "rank": 4785,
+      "rank": 4789,
       "estimate": "<7k",
       "name": "MECHIEVAL"
     },
@@ -55,32 +55,37 @@
       "name": "Wasteland Travelers"
     },
     "3314140": {
-      "rank": 3394,
+      "rank": 3399,
       "estimate": "<7k",
       "name": "Fevercide"
     },
     "3410390": {
-      "rank": 1662,
+      "rank": 1663,
       "estimate": "15k+",
       "name": "Hear Tell of Hauntings"
     },
     "3525890": {
-      "rank": 4353,
+      "rank": 4355,
       "estimate": "<7k",
       "name": "Future Vibe Check"
     },
+    "3689840": {
+      "rank": 4945,
+      "estimate": "<7k",
+      "name": "INSPEKTOR"
+    },
     "3822320": {
-      "rank": 1538,
+      "rank": 1539,
       "estimate": "15k+",
       "name": "Dream Hollow"
     },
     "3831210": {
-      "rank": 3886,
+      "rank": 3844,
       "estimate": "<7k",
       "name": "Lawn Mowing Simulator 2"
     },
     "4151300": {
-      "rank": 961,
+      "rank": 960,
       "estimate": "40k+",
       "name": "Sublustrum"
     }

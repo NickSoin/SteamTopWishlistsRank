@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-14T16:52:44.761Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-14T21:57:39.217Z",
+  "entryCount": 31,
   "entries": {
     "789150": {
       "rank": 34,
@@ -219,6 +219,13 @@
       "name": "FAIRY TAIL 2",
       "releaseDate": "2024-12-11",
       "source": "historical"
+    },
+    "3898970": {
+      "rank": 8461,
+      "estimate": "<7k",
+      "name": "Better Minesweeper",
+      "releaseDate": "2026-06-14",
+      "source": "tracked"
     }
   }
 }

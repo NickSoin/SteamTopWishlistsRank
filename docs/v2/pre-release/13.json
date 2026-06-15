@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-14T16:52:44.761Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-14T21:57:39.217Z",
+  "entryCount": 22,
   "entries": {
     "750200": {
       "rank": 159,
@@ -149,6 +149,13 @@
       "releaseDate": "2026-01-01",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6350729003489133847"
+    },
+    "4236490": {
+      "rank": 9956,
+      "estimate": "<7k",
+      "name": "Trauma Pets",
+      "releaseDate": "2026-06-14",
+      "source": "tracked"
     },
     "4738060": {
       "rank": 8918,
