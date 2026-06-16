@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-15T16:24:21.361Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-15T22:43:45.782Z",
+  "entryCount": 22,
   "entries": {
     "1171340": {
       "rank": 1945,
@@ -15,7 +15,7 @@
       "name": "CyberTown"
     },
     "1888880": {
-      "rank": 4155,
+      "rank": 4166,
       "estimate": "<7k",
       "name": "Darkest Abyss"
     },
@@ -25,84 +25,94 @@
       "name": "EthrA"
     },
     "2415500": {
-      "rank": 1162,
+      "rank": 1163,
       "estimate": "25k+",
       "name": "Black Finger JET"
     },
     "2478130": {
-      "rank": 1470,
+      "rank": 1472,
       "estimate": "25k+",
       "name": "PROJECT SURVIVAL #Working title"
     },
     "2548880": {
-      "rank": 868,
+      "rank": 864,
       "estimate": "40k+",
       "name": "Divine Frequency"
     },
     "2845310": {
-      "rank": 2159,
+      "rank": 2163,
       "estimate": "7k+",
       "name": "Hoodies Squad: Alcoholypse"
     },
     "2881620": {
-      "rank": 1914,
+      "rank": 1917,
       "estimate": "15k+",
       "name": "Paraside: Duality Unbound"
     },
     "3113580": {
-      "rank": 1125,
+      "rank": 1115,
       "estimate": "25k+",
       "name": "Kaido Genkai: An Anime Racing RPG"
     },
     "3123060": {
-      "rank": 1557,
+      "rank": 1559,
       "estimate": "15k+",
       "name": "Warlord: Awaji"
     },
     "3387240": {
-      "rank": 2701,
+      "rank": 2707,
       "estimate": "7k+",
       "name": "My Fairy Princess"
     },
     "3428350": {
-      "rank": 4683,
+      "rank": 4688,
       "estimate": "<7k",
       "name": "Airport Police Simulator"
     },
     "3438610": {
-      "rank": 3399,
+      "rank": 3404,
       "estimate": "<7k",
       "name": "Mach Speed Intercept"
     },
     "3446130": {
-      "rank": 3480,
+      "rank": 3481,
       "estimate": "<7k",
       "name": "Windwoven"
     },
     "3469450": {
-      "rank": 875,
+      "rank": 874,
       "estimate": "40k+",
       "name": "DOOM: The Dark Ages | Revelations"
     },
     "3713920": {
-      "rank": 4097,
+      "rank": 4103,
       "estimate": "<7k",
       "name": "Drug Dealer Schedule"
     },
     "3979580": {
-      "rank": 2239,
+      "rank": 2242,
       "estimate": "7k+",
       "name": "ARBITER 131"
     },
     "4132890": {
-      "rank": 3214,
+      "rank": 3211,
       "estimate": "<7k",
       "name": "Fright Train"
     },
+    "4210370": {
+      "rank": 4954,
+      "estimate": "<7k",
+      "name": "Guardians Planetfall"
+    },
     "4312850": {
-      "rank": 1112,
+      "rank": 1099,
       "estimate": "25k+",
       "name": "FISH"
+    },
+    "4335620": {
+      "rank": 4819,
+      "estimate": "<7k",
+      "name": "Lootborne"
     }
   }
 }

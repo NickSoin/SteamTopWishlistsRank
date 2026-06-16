@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-15T16:24:21.361Z",
+  "updatedAt": "2026-06-15T22:43:45.782Z",
   "entryCount": 19,
   "entries": {
     "969330": {
-      "rank": 648,
+      "rank": 651,
       "estimate": "40k+",
       "name": "The Way of Wrath"
     },
     "997090": {
-      "rank": 3498,
+      "rank": 3502,
       "estimate": "<7k",
       "name": "TheFlagship"
     },
@@ -20,7 +20,7 @@
       "name": "DEFICIT"
     },
     "1440340": {
-      "rank": 2018,
+      "rank": 2019,
       "estimate": "7k+",
       "name": "Cannon Foundry Simulator"
     },
@@ -30,12 +30,12 @@
       "name": "KVLT"
     },
     "2363330": {
-      "rank": 2432,
+      "rank": 2434,
       "estimate": "7k+",
       "name": "Witch World"
     },
     "2438120": {
-      "rank": 4633,
+      "rank": 4640,
       "estimate": "<7k",
       "name": "RunOut - Hothead Paws"
     },
@@ -45,24 +45,19 @@
       "name": "Drakantos"
     },
     "2680280": {
-      "rank": 479,
+      "rank": 480,
       "estimate": "80k+",
       "name": "PAPERHEAD"
     },
     "2710040": {
-      "rank": 645,
+      "rank": 648,
       "estimate": "40k+",
       "name": "Delverium"
     },
     "3012600": {
-      "rank": 545,
+      "rank": 548,
       "estimate": "40k+",
       "name": "Substructure"
-    },
-    "3121810": {
-      "rank": 4393,
-      "estimate": "<7k",
-      "name": "ALARIC"
     },
     "3258590": {
       "rank": 2433,
@@ -70,27 +65,32 @@
       "name": "Void Dungeon"
     },
     "3376580": {
-      "rank": 4550,
+      "rank": 4545,
       "estimate": "<7k",
       "name": "Raiders Rise"
     },
+    "3377200": {
+      "rank": 4107,
+      "estimate": "<7k",
+      "name": "Dragon Lands"
+    },
     "3459050": {
-      "rank": 1744,
+      "rank": 1748,
       "estimate": "15k+",
       "name": "Acrolyte"
     },
     "3976340": {
-      "rank": 3269,
+      "rank": 3261,
       "estimate": "<7k",
       "name": "Cucina Stellata"
     },
     "4049180": {
-      "rank": 1184,
+      "rank": 1179,
       "estimate": "25k+",
       "name": "Disney•Pixar Toy Story 3 Complete Edition"
     },
     "4487450": {
-      "rank": 1724,
+      "rank": 1723,
       "estimate": "15k+",
       "name": "Cairn - On the Trail: Deep Water"
     },

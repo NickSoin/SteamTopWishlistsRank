@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T16:24:21.361Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-15T22:43:45.782Z",
+  "entryCount": 25,
   "entries": {
     "378690": {
       "rank": 1270,
@@ -171,6 +171,13 @@
       "name": "Ocean World: Eden Crafters Prologue",
       "releaseDate": "2024-06-24",
       "source": "historical"
+    },
+    "3814380": {
+      "rank": 9022,
+      "estimate": "<7k",
+      "name": "Mini Lucy",
+      "releaseDate": "2026-06-15",
+      "source": "tracked"
     }
   }
 }

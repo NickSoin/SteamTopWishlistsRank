@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T16:24:21.361Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-15T22:43:45.782Z",
+  "entryCount": 38,
   "entries": {
     "619390": {
       "rank": 926,
@@ -252,6 +252,13 @@
       "name": "100 Cats New York",
       "releaseDate": "2024-08-27",
       "source": "historical"
+    },
+    "3121810": {
+      "rank": 4393,
+      "estimate": "<7k",
+      "name": "ALARIC",
+      "releaseDate": "2026-06-15",
+      "source": "tracked"
     },
     "3602290": {
       "rank": 27,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T16:24:21.361Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-15T22:43:45.782Z",
+  "entryCount": 33,
   "entries": {
     "490110": {
       "rank": 24,
@@ -17,6 +17,13 @@
       "name": "Hellpoint",
       "releaseDate": "2020-07-30",
       "source": "historical"
+    },
+    "1009410": {
+      "rank": 6108,
+      "estimate": "<7k",
+      "name": "Eternal Exodus",
+      "releaseDate": "2026-06-15",
+      "source": "tracked"
     },
     "1013220": {
       "rank": 1648,

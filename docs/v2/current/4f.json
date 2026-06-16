@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-15T16:24:21.361Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-15T22:43:45.782Z",
+  "entryCount": 19,
   "entries": {
     "1088610": {
-      "rank": 4888,
+      "rank": 4897,
       "estimate": "<7k",
       "name": "Aurora: The Lost Medallion - The Cave"
     },
@@ -15,57 +15,57 @@
       "name": "Witchbrook"
     },
     "1947890": {
-      "rank": 3721,
+      "rank": 3728,
       "estimate": "<7k",
       "name": "Coffeehouse Simulator"
     },
     "2244350": {
-      "rank": 3446,
+      "rank": 3450,
       "estimate": "<7k",
       "name": "Red Sunrise"
     },
     "2294210": {
-      "rank": 3559,
+      "rank": 3564,
       "estimate": "<7k",
       "name": "Ultra Pro Wrestling"
     },
     "3170490": {
-      "rank": 2144,
+      "rank": 2127,
       "estimate": "7k+",
       "name": "Cat Me If You Can"
     },
     "3233300": {
-      "rank": 4929,
+      "rank": 4937,
       "estimate": "<7k",
       "name": "The House of Hamelin"
     },
     "3238240": {
-      "rank": 4432,
+      "rank": 4435,
       "estimate": "<7k",
       "name": "Scaravan 66"
     },
     "3348640": {
-      "rank": 810,
+      "rank": 813,
       "estimate": "40k+",
       "name": "TSAREVNA. Age of Tales"
     },
     "3474620": {
-      "rank": 3088,
+      "rank": 3087,
       "estimate": "<7k",
       "name": "EXONAUTIS"
     },
     "3495980": {
-      "rank": 4479,
+      "rank": 4485,
       "estimate": "<7k",
       "name": "Wanted 3D: Dead or Alive"
     },
     "3598180": {
-      "rank": 2904,
+      "rank": 2905,
       "estimate": "7k+",
       "name": "Midnight Souls"
     },
     "3715790": {
-      "rank": 4017,
+      "rank": 4022,
       "estimate": "<7k",
       "name": "Decklings"
     },
@@ -75,24 +75,29 @@
       "name": "Animula Nook"
     },
     "3878840": {
-      "rank": 4049,
+      "rank": 4057,
       "estimate": "<7k",
       "name": "Have You Seen This Cat?"
     },
     "3976980": {
-      "rank": 4597,
+      "rank": 4599,
       "estimate": "<7k",
       "name": "Velo Victory"
     },
     "4267870": {
-      "rank": 1812,
+      "rank": 1742,
       "estimate": "15k+",
       "name": "Washington Prime"
     },
     "4413130": {
-      "rank": 832,
+      "rank": 831,
       "estimate": "40k+",
       "name": "Battlespace Command"
+    },
+    "4563790": {
+      "rank": 4787,
+      "estimate": "<7k",
+      "name": "Easy Red 2: Blood on the Danube"
     }
   }
 }

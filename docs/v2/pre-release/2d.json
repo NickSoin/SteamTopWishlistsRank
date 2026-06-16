@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T16:24:21.361Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-15T22:43:45.782Z",
+  "entryCount": 28,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -45,6 +45,13 @@
       "name": "Lumione",
       "releaseDate": "2021-10-12",
       "source": "historical"
+    },
+    "1395930": {
+      "rank": 3991,
+      "estimate": "<7k",
+      "name": "Break The Chain",
+      "releaseDate": "2026-06-15",
+      "source": "tracked"
     },
     "1396540": {
       "rank": 1762,
