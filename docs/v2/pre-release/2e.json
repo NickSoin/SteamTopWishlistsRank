@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T06:07:19.805Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-16T15:40:58.123Z",
+  "entryCount": 18,
   "entries": {
     "1454160": {
       "rank": 1177,
@@ -116,6 +116,13 @@
       "estimate": "300k+",
       "name": "SpaceCraft",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "3976910": {
+      "rank": 2513,
+      "estimate": "7k+",
+      "name": "Age of Wonders 4: Secrets of the Archmages",
+      "releaseDate": "2026-06-16",
       "source": "tracked"
     },
     "4019180": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T06:07:19.805Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-16T15:40:58.123Z",
+  "entryCount": 17,
   "entries": {
     "849100": {
       "rank": 19,
@@ -110,6 +110,13 @@
       "name": "Elite Exorcist Miko",
       "releaseDate": "2024-12-25",
       "source": "historical"
+    },
+    "4131670": {
+      "rank": 1992,
+      "estimate": "15k+",
+      "name": "Jurassic World Evolution 3: Rebirth Expansion",
+      "releaseDate": "2026-06-16",
+      "source": "tracked"
     },
     "4693460": {
       "rank": 5932,

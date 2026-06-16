@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-16T06:07:19.805Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-16T15:40:58.123Z",
+  "entryCount": 21,
   "entries": {
     "1776200": {
       "rank": 1783,
@@ -10,7 +10,7 @@
       "name": "The Inn Between"
     },
     "1797850": {
-      "rank": 1438,
+      "rank": 1439,
       "estimate": "25k+",
       "name": "Goodlands"
     },
@@ -20,7 +20,7 @@
       "name": "34EVERLAST"
     },
     "2228250": {
-      "rank": 839,
+      "rank": 840,
       "estimate": "40k+",
       "name": "Endurance Motorsport Series"
     },
@@ -30,7 +30,7 @@
       "name": "Anime Tokyo"
     },
     "2688780": {
-      "rank": 1710,
+      "rank": 1711,
       "estimate": "15k+",
       "name": "Odd Town"
     },
@@ -40,7 +40,7 @@
       "name": "Game of Thrones: War for Westeros"
     },
     "2849910": {
-      "rank": 4236,
+      "rank": 4239,
       "estimate": "<7k",
       "name": "Blood Crossroad"
     },
@@ -55,22 +55,22 @@
       "name": "Gods, Death & Reapers"
     },
     "3154460": {
-      "rank": 679,
+      "rank": 683,
       "estimate": "40k+",
       "name": "Office Party"
     },
     "3245140": {
-      "rank": 292,
+      "rank": 294,
       "estimate": "80k+",
       "name": "Hello Sunshine"
     },
     "3280240": {
-      "rank": 2363,
+      "rank": 2362,
       "estimate": "7k+",
       "name": "Nailcrown"
     },
     "3485810": {
-      "rank": 398,
+      "rank": 397,
       "estimate": "80k+",
       "name": "Kena: Scars of Kosmora"
     },
@@ -80,27 +80,32 @@
       "name": "Dungeon Picnic"
     },
     "3914860": {
-      "rank": 882,
+      "rank": 867,
       "estimate": "40k+",
       "name": "Moss: The Forgotten Relic"
     },
     "3930130": {
-      "rank": 4297,
+      "rank": 4305,
       "estimate": "<7k",
       "name": "Basalt: The Cursed Vein"
     },
     "4031300": {
-      "rank": 2526,
+      "rank": 2527,
       "estimate": "7k+",
       "name": "WORLD WAR V: LAST CALL"
     },
     "4072240": {
-      "rank": 781,
+      "rank": 780,
       "estimate": "40k+",
       "name": "Woman Simulator"
     },
+    "4075740": {
+      "rank": 4969,
+      "estimate": "<7k",
+      "name": "Little Sheep Valley"
+    },
     "4274990": {
-      "rank": 2459,
+      "rank": 2438,
       "estimate": "7k+",
       "name": "Minibus Simulator"
     }

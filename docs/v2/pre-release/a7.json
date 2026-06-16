@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T06:07:19.805Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-16T15:40:58.123Z",
+  "entryCount": 30,
   "entries": {
     "945770": {
       "rank": 169,
@@ -189,6 +189,13 @@
       "releaseDate": "2026-03-05",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785774543502124"
+    },
+    "3977280": {
+      "rank": 2884,
+      "estimate": "7k+",
+      "name": "Forts - Firebird",
+      "releaseDate": "2026-06-16",
+      "source": "tracked"
     },
     "4275860": {
       "rank": 5496,

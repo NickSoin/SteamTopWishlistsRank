@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-16T06:07:19.805Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-16T15:40:58.123Z",
+  "entryCount": 21,
   "entries": {
     "968770": {
-      "rank": 4624,
+      "rank": 4628,
       "estimate": "<7k",
       "name": "Iron Vulture"
     },
     "1188410": {
-      "rank": 2299,
+      "rank": 2297,
       "estimate": "7k+",
       "name": "Mouseward"
     },
@@ -20,17 +20,17 @@
       "name": "Espiocracy"
     },
     "1826400": {
-      "rank": 3006,
+      "rank": 3004,
       "estimate": "<7k",
       "name": "CRAVE"
     },
     "1891280": {
-      "rank": 433,
+      "rank": 434,
       "estimate": "80k+",
       "name": "Everbloom"
     },
     "2184080": {
-      "rank": 2423,
+      "rank": 2398,
       "estimate": "7k+",
       "name": "Echo Weaver"
     },
@@ -40,37 +40,37 @@
       "name": "NEO BERLIN 2087"
     },
     "2340460": {
-      "rank": 1118,
+      "rank": 1120,
       "estimate": "25k+",
       "name": "ONE WAY HOME"
     },
     "2387740": {
-      "rank": 3109,
+      "rank": 3110,
       "estimate": "<7k",
       "name": "Light of Atlantis"
     },
     "2459030": {
-      "rank": 1158,
+      "rank": 1159,
       "estimate": "25k+",
       "name": "Locator: The Search for Abigail Lidari"
     },
     "2536140": {
-      "rank": 2741,
+      "rank": 2739,
       "estimate": "7k+",
       "name": "Red Dust Colony"
     },
     "2842720": {
-      "rank": 3328,
+      "rank": 3327,
       "estimate": "<7k",
       "name": "TOONSOULS"
     },
     "2894990": {
-      "rank": 2701,
+      "rank": 2704,
       "estimate": "7k+",
       "name": "Trizna"
     },
     "3138060": {
-      "rank": 4474,
+      "rank": 4472,
       "estimate": "<7k",
       "name": "Esport Manager: Road To Major"
     },
@@ -80,12 +80,12 @@
       "name": "EXODUS"
     },
     "3345260": {
-      "rank": 2049,
+      "rank": 2042,
       "estimate": "7k+",
       "name": "Empire in Decay"
     },
     "3509420": {
-      "rank": 382,
+      "rank": 383,
       "estimate": "80k+",
       "name": "Planetbase 2"
     },
@@ -95,12 +95,17 @@
       "name": "Crimson Freedom"
     },
     "4117730": {
-      "rank": 1130,
+      "rank": 1097,
       "estimate": "25k+",
       "name": "Slayblade"
     },
+    "4159000": {
+      "rank": 4696,
+      "estimate": "<7k",
+      "name": "BunnyBakery"
+    },
     "4406740": {
-      "rank": 3178,
+      "rank": 3174,
       "estimate": "<7k",
       "name": "Clayton & Cayo"
     }

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-16T06:07:19.805Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-16T15:40:58.123Z",
+  "entryCount": 16,
   "entries": {
     "1103820": {
-      "rank": 1743,
+      "rank": 1745,
       "estimate": "15k+",
       "name": "Siege of Irdor"
     },
     "1440570": {
-      "rank": 3932,
+      "rank": 3939,
       "estimate": "<7k",
       "name": "Angelic: Dark Symphony"
     },
@@ -25,7 +25,7 @@
       "name": "Imperial Grace"
     },
     "1748650": {
-      "rank": 4867,
+      "rank": 4873,
       "estimate": "<7k",
       "name": "RASKOPNIK: The Trench Warrior"
     },
@@ -35,34 +35,39 @@
       "name": "Hayaku! Island of Darkness"
     },
     "2431920": {
-      "rank": 4675,
+      "rank": 4681,
       "estimate": "<7k",
       "name": "Heir of the Dog"
     },
     "2881750": {
-      "rank": 4858,
+      "rank": 4864,
       "estimate": "<7k",
       "name": "Burnin' Rubber 6"
     },
     "3340890": {
-      "rank": 4106,
+      "rank": 4109,
       "estimate": "<7k",
       "name": "Necrowhisper"
     },
     "3350860": {
-      "rank": 4201,
+      "rank": 4206,
       "estimate": "<7k",
       "name": "Trifolium: The Adventures of Gary Pretzelneck"
     },
     "3549280": {
-      "rank": 3026,
+      "rank": 3023,
       "estimate": "<7k",
       "name": "Bulbo's Belief System"
     },
     "3664060": {
-      "rank": 4275,
+      "rank": 4276,
       "estimate": "<7k",
       "name": "Starweaver Express ~Per aspera ad astra~"
+    },
+    "3739300": {
+      "rank": 4930,
+      "estimate": "<7k",
+      "name": "Cat Squeeze"
     },
     "3765020": {
       "rank": 620,
@@ -70,12 +75,12 @@
       "name": "S.T.A.L.K.E.R. 2: Cost of Hope"
     },
     "4272020": {
-      "rank": 4097,
+      "rank": 4074,
       "estimate": "<7k",
       "name": "WOIM"
     },
     "4521700": {
-      "rank": 1647,
+      "rank": 1646,
       "estimate": "15k+",
       "name": "The Miner Was Replaced"
     }

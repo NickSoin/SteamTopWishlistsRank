@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T06:07:19.805Z",
+  "updatedAt": "2026-06-16T15:40:58.123Z",
   "entryCount": 23,
   "entries": {
     "1172470": {
@@ -103,12 +103,12 @@
       "source": "historical"
     },
     "2210520": {
-      "rank": 564,
-      "estimate": "100k",
-      "actualWishlists": 100000,
+      "rank": 405,
+      "estimate": "80k+",
       "name": "COPA CITY",
       "releaseDate": "2026-06-16",
-      "source": "historical",
+      "source": "tracked",
+      "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012614030400"
     },
     "2334330": {

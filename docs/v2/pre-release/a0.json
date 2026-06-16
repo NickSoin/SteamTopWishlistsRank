@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T06:07:19.805Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-16T15:40:58.123Z",
+  "entryCount": 26,
   "entries": {
     "922620": {
       "rank": 627,
@@ -157,6 +157,13 @@
       "name": "Dungeon Rampage",
       "releaseDate": "2025-12-05",
       "source": "historical"
+    },
+    "3760100": {
+      "rank": 4925,
+      "estimate": "<7k",
+      "name": "8 Ball by Pokerist™",
+      "releaseDate": "2026-06-16",
+      "source": "tracked"
     },
     "4588330": {
       "rank": 9508,

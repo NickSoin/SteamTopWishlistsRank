@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T06:07:19.805Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-16T15:40:58.123Z",
+  "entryCount": 25,
   "entries": {
     "924980": {
       "rank": 34,
@@ -157,6 +157,13 @@
       "name": "Assassin's Creed Black Flag Resynced",
       "releaseDate": "2026-07-09",
       "source": "historical"
+    },
+    "4322960": {
+      "rank": 4661,
+      "estimate": "<7k",
+      "name": "Trail & Error",
+      "releaseDate": "2026-06-16",
+      "source": "tracked"
     },
     "4556110": {
       "rank": 2441,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T06:07:19.805Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-16T15:40:58.123Z",
+  "entryCount": 29,
   "entries": {
     "511280": {
       "rank": 886,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "101 Dogs Hidden in Milan",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4748040": {
+      "rank": 9647,
+      "estimate": "<7k",
+      "name": "我的修仙日志 Cultivation Journal",
+      "releaseDate": "2026-06-15",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T06:07:19.805Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-16T15:40:58.123Z",
+  "entryCount": 21,
   "entries": {
     "813230": {
       "rank": 13,
@@ -54,6 +54,13 @@
       "releaseDate": "2023-09-08",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5141476355670391135"
+    },
+    "1675860": {
+      "rank": 4338,
+      "estimate": "<7k",
+      "name": "Junkster",
+      "releaseDate": "2026-06-16",
+      "source": "tracked"
     },
     "1881700": {
       "rank": 358,
