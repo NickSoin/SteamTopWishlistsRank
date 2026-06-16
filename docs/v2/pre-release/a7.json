@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-15T22:43:45.782Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-16T06:07:19.805Z",
+  "entryCount": 29,
   "entries": {
     "945770": {
       "rank": 169,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "Touhou Erosion ~ The Fallen Shrine Maiden of Paradise",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4778860": {
+      "rank": 9146,
+      "estimate": "<7k",
+      "name": "真弓-Mayumi-",
+      "releaseDate": "2026-06-15",
       "source": "tracked"
     }
   }

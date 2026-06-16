@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-15T22:43:45.782Z",
+  "updatedAt": "2026-06-16T06:07:19.805Z",
   "entryCount": 22,
   "entries": {
     "1081830": {
-      "rank": 2224,
+      "rank": 2226,
       "estimate": "7k+",
       "name": "Blood And Mead"
     },
     "1155850": {
-      "rank": 2489,
+      "rank": 2492,
       "estimate": "7k+",
       "name": "Lost Viking: Kingdom of Women"
     },
     "1307150": {
-      "rank": 4221,
+      "rank": 4123,
       "estimate": "<7k",
       "name": "MLF: Pro Catch"
     },
@@ -25,22 +25,22 @@
       "name": "Derelicts"
     },
     "1736200": {
-      "rank": 2879,
+      "rank": 2885,
       "estimate": "7k+",
       "name": "Sealed Gate"
     },
     "1941640": {
-      "rank": 1434,
+      "rank": 1435,
       "estimate": "25k+",
       "name": "4D Miner"
     },
     "2202650": {
-      "rank": 1132,
+      "rank": 1133,
       "estimate": "25k+",
       "name": "Crescent County"
     },
     "2210240": {
-      "rank": 3154,
+      "rank": 3155,
       "estimate": "<7k",
       "name": "Hoglands"
     },
@@ -50,17 +50,17 @@
       "name": "Permafrost"
     },
     "2542170": {
-      "rank": 1498,
+      "rank": 1499,
       "estimate": "25k+",
       "name": "MOONSHIRE"
     },
     "2666160": {
-      "rank": 1233,
+      "rank": 1235,
       "estimate": "25k+",
       "name": "STARVEIL PROTOCOL A.A.A."
     },
     "2946530": {
-      "rank": 3270,
+      "rank": 3272,
       "estimate": "<7k",
       "name": "Tornado Emergency"
     },
@@ -70,7 +70,7 @@
       "name": "Quite a Ride"
     },
     "3259000": {
-      "rank": 2989,
+      "rank": 2992,
       "estimate": "7k+",
       "name": "Crathos Deep"
     },
@@ -80,27 +80,27 @@
       "name": "Black Pine: Incident Response"
     },
     "3819020": {
-      "rank": 4699,
+      "rank": 4703,
       "estimate": "<7k",
       "name": "DEADBOOT"
     },
     "3880400": {
-      "rank": 1802,
+      "rank": 1803,
       "estimate": "15k+",
       "name": "FRUKT"
     },
     "4459720": {
-      "rank": 4854,
+      "rank": 4859,
       "estimate": "<7k",
       "name": "Cyber Demon Protocol"
     },
     "4513480": {
-      "rank": 925,
+      "rank": 927,
       "estimate": "40k+",
       "name": "Scarlet Skips"
     },
     "4514140": {
-      "rank": 4744,
+      "rank": 4749,
       "estimate": "<7k",
       "name": "CHEW YOUR FOOD"
     },
@@ -110,7 +110,7 @@
       "name": "Abiotic Factor - Entropic Break"
     },
     "4689550": {
-      "rank": 4418,
+      "rank": 4425,
       "estimate": "<7k",
       "name": "RuneCipher"
     }

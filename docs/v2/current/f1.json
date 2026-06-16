@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-15T22:43:45.782Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-16T06:07:19.805Z",
+  "entryCount": 17,
   "entries": {
     "1198690": {
-      "rank": 2059,
+      "rank": 2061,
       "estimate": "7k+",
       "name": "REBORN: Survival"
     },
     "1343010": {
-      "rank": 1974,
+      "rank": 1977,
       "estimate": "15k+",
       "name": "Antimatter"
     },
     "1735370": {
-      "rank": 1738,
+      "rank": 1736,
       "estimate": "15k+",
       "name": "Necrowave"
     },
     "1808160": {
-      "rank": 1023,
+      "rank": 1024,
       "estimate": "25k+",
       "name": "Demon Spore"
     },
     "1964860": {
-      "rank": 4663,
+      "rank": 4671,
       "estimate": "<7k",
       "name": "Titan Shell"
     },
     "1967050": {
-      "rank": 3387,
+      "rank": 3390,
       "estimate": "<7k",
       "name": "It Was You"
     },
     "2395960": {
-      "rank": 3260,
+      "rank": 3264,
       "estimate": "<7k",
       "name": "Ice Truckers"
     },
@@ -45,12 +45,12 @@
       "name": "The God Slayer"
     },
     "2616540": {
-      "rank": 712,
+      "rank": 715,
       "estimate": "40k+",
       "name": "Croak"
     },
     "2904120": {
-      "rank": 2947,
+      "rank": 2949,
       "estimate": "7k+",
       "name": "Sand Nomads"
     },
@@ -60,29 +60,34 @@
       "name": "PVKK: Planetenverteidigungskanonenkommandant"
     },
     "2962780": {
-      "rank": 2132,
+      "rank": 2135,
       "estimate": "7k+",
       "name": "BeastLink"
     },
     "3465440": {
-      "rank": 2823,
+      "rank": 2825,
       "estimate": "7k+",
       "name": "CitaDrill"
     },
     "3694190": {
-      "rank": 1767,
+      "rank": 1768,
       "estimate": "15k+",
       "name": "Deep Pixel Melancholy"
     },
     "3725830": {
-      "rank": 3598,
+      "rank": 3603,
       "estimate": "<7k",
       "name": "Citrus Summer"
     },
     "3921010": {
-      "rank": 3547,
+      "rank": 3525,
       "estimate": "<7k",
       "name": "War Alert"
+    },
+    "4248790": {
+      "rank": 4958,
+      "estimate": "<7k",
+      "name": "Substrate: Emergence"
     }
   }
 }
