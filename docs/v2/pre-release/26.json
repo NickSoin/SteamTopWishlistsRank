@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-17T10:28:12.617Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-17T14:06:37.563Z",
+  "entryCount": 23,
   "entries": {
     "758690": {
       "rank": 7,
@@ -158,6 +158,13 @@
       "estimate": "<7k",
       "name": "Stop slacking",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4777350": {
+      "rank": 7322,
+      "estimate": "<7k",
+      "name": "Sim Racing Telemetry - F1 26 (F1 25: 2026 Season Pack)",
+      "releaseDate": "2026-06-17",
       "source": "tracked"
     }
   }
