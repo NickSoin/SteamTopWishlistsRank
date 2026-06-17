@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T15:40:58.123Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-16T22:29:36.549Z",
+  "entryCount": 28,
   "entries": {
     "914890": {
       "rank": 644,
@@ -131,6 +131,13 @@
       "name": "Ancient Weapon Holly",
       "releaseDate": "2024-03-07",
       "source": "historical"
+    },
+    "2430020": {
+      "rank": 9320,
+      "estimate": "<7k",
+      "name": "Infinium",
+      "releaseDate": "2026-06-16",
+      "source": "tracked"
     },
     "2561450": {
       "rank": 399,

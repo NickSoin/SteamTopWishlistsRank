@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T15:40:58.123Z",
-  "entryCount": 38,
+  "updatedAt": "2026-06-16T22:29:36.549Z",
+  "entryCount": 39,
   "entries": {
     "595500": {
       "rank": 511,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "CINESCAPE VR",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4036160": {
+      "rank": 4233,
+      "estimate": "<7k",
+      "name": "Backrooms Lost Dimension",
+      "releaseDate": "2026-06-16",
       "source": "tracked"
     },
     "4117320": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T15:40:58.123Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-16T22:29:36.549Z",
+  "entryCount": 16,
   "entries": {
     "1091920": {
       "rank": 46,
@@ -101,6 +101,13 @@
       "name": "Utawarerumono: ZAN",
       "releaseDate": "2025-12-15",
       "source": "historical"
+    },
+    "3588170": {
+      "rank": 7754,
+      "estimate": "<7k",
+      "name": "Daughter of the Rift",
+      "releaseDate": "2026-06-16",
+      "source": "tracked"
     },
     "4119360": {
       "rank": 2321,

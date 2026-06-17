@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T15:40:58.123Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-16T22:29:36.549Z",
+  "entryCount": 32,
   "entries": {
     "774791": {
       "rank": 539,
@@ -136,6 +136,13 @@
       "name": "Cozy Keep: Farm, Craft, Manage",
       "releaseDate": "2024-10-01",
       "source": "historical"
+    },
+    "2327720": {
+      "rank": 216,
+      "estimate": "80k+",
+      "name": "City Car Driving 2.0",
+      "releaseDate": "2026-06-16",
+      "source": "tracked"
     },
     "2389830": {
       "rank": 1956,

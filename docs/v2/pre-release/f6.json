@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T15:40:58.123Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-16T22:29:36.549Z",
+  "entryCount": 30,
   "entries": {
     "858710": {
       "rank": 35,
@@ -208,6 +208,13 @@
       "rank": 6556,
       "estimate": "<7k",
       "name": "Atelier's Key",
+      "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4766420": {
+      "rank": 8418,
+      "estimate": "<7k",
+      "name": "Uncle Otto's Mansion",
       "releaseDate": "2026-06-16",
       "source": "tracked"
     }
