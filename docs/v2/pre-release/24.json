@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-17T14:06:37.563Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-17T18:17:02.638Z",
+  "entryCount": 22,
   "entries": {
     "623280": {
       "rank": 34,
@@ -133,6 +133,13 @@
       "name": "BOOK OF HOURS: HOUSE OF LIGHT",
       "releaseDate": "2024-09-26",
       "source": "historical"
+    },
+    "3072120": {
+      "rank": 545,
+      "estimate": "40k+",
+      "name": "Backrooms Lost Runners",
+      "releaseDate": "2026-06-17",
+      "source": "tracked"
     },
     "4420960": {
       "rank": 9862,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-17T14:06:37.563Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-17T18:17:02.638Z",
+  "entryCount": 26,
   "entries": {
     "950620": {
       "rank": 254,
@@ -170,6 +170,13 @@
       "name": "VR-Kanojo",
       "releaseDate": "2025-07-30",
       "source": "historical"
+    },
+    "3551190": {
+      "rank": 958,
+      "estimate": "40k+",
+      "name": "The Last Salvage Squad",
+      "releaseDate": "2026-06-17",
+      "source": "tracked"
     },
     "4194550": {
       "rank": 1705,
