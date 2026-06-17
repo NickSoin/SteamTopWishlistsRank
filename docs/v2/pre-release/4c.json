@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-17T05:45:44.767Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-17T10:28:12.617Z",
+  "entryCount": 25,
   "entries": {
     "774801": {
       "rank": 157,
@@ -152,6 +152,13 @@
       "name": "DOOM: The Dark Ages",
       "releaseDate": "2025-05-14",
       "source": "historical"
+    },
+    "3205520": {
+      "rank": 3571,
+      "estimate": "<7k",
+      "name": "Kooeh: A Timeless Delight",
+      "releaseDate": "2026-06-16",
+      "source": "tracked"
     },
     "3424930": {
       "rank": 3137,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-17T05:45:44.767Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-17T10:28:12.617Z",
+  "entryCount": 23,
   "entries": {
     "1036240": {
       "rank": 491,
@@ -160,6 +160,13 @@
       "estimate": "<7k",
       "name": "Imago Season",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4445360": {
+      "rank": 8165,
+      "estimate": "<7k",
+      "name": "Grand Vegas Casino",
+      "releaseDate": "2026-06-17",
       "source": "tracked"
     }
   }
