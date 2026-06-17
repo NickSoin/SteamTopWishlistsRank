@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-16T22:29:36.549Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-17T05:45:44.767Z",
+  "entryCount": 33,
   "entries": {
     "538030": {
       "rank": 87,
@@ -233,6 +233,13 @@
       "releaseDate": "2026-05-05",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569718"
+    },
+    "4248870": {
+      "rank": 7239,
+      "estimate": "<7k",
+      "name": "Incremental Ragebait",
+      "releaseDate": "2026-06-16",
+      "source": "tracked"
     }
   }
 }
