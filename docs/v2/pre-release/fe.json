@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T05:21:10.217Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-18T10:06:30.629Z",
+  "entryCount": 23,
   "entries": {
     "773370": {
       "rank": 126,
@@ -160,6 +160,13 @@
       "estimate": "40k+",
       "name": "Bubsy 4D",
       "releaseDate": "2026-05-22",
+      "source": "tracked"
+    },
+    "4794380": {
+      "rank": 3073,
+      "estimate": "<7k",
+      "name": "Thousand Floors",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     }
   }

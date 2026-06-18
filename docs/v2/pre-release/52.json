@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T05:21:10.217Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-18T10:06:30.629Z",
+  "entryCount": 29,
   "entries": {
     "914890": {
       "rank": 644,
@@ -194,6 +194,13 @@
       "name": "Final Outpost: Definitive Edition",
       "releaseDate": "2025-05-22",
       "source": "historical"
+    },
+    "4196120": {
+      "rank": 3258,
+      "estimate": "<7k",
+      "name": "The Name I Wear",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     },
     "4257900": {
       "rank": 3735,

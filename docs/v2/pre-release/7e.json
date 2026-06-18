@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T05:21:10.217Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-18T10:06:30.629Z",
+  "entryCount": 19,
   "entries": {
     "580640": {
       "rank": 369,
@@ -129,6 +129,13 @@
       "name": "Call of Duty®: Black Ops 6",
       "releaseDate": "2024-11-01",
       "source": "historical"
+    },
+    "4394810": {
+      "rank": 252,
+      "estimate": "80k+",
+      "name": "DAVE THE DIVER - In the Jungle Content Pack",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T05:21:10.217Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-18T10:06:30.629Z",
+  "entryCount": 26,
   "entries": {
     "868270": {
       "rank": 16,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "BCKSPCE",
       "releaseDate": "2026-06-06",
+      "source": "tracked"
+    },
+    "4677090": {
+      "rank": 8633,
+      "estimate": "<7k",
+      "name": "The Flame and the Fart",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     }
   }
