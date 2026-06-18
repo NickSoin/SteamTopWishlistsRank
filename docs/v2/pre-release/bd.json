@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T10:06:30.629Z",
-  "entryCount": 40,
+  "updatedAt": "2026-06-18T13:45:10.898Z",
+  "entryCount": 41,
   "entries": {
     "347800": {
       "rank": 198,
@@ -285,6 +285,13 @@
       "name": "Escape from Tarkov",
       "releaseDate": "2025-11-15",
       "source": "historical"
+    },
+    "4447890": {
+      "rank": 4250,
+      "estimate": "<7k",
+      "name": "Soccer Kid Collection (QUByte Classics)",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     }
   }
 }

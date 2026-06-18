@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T10:06:30.629Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-18T13:45:10.898Z",
+  "entryCount": 22,
   "entries": {
     "803330": {
       "rank": 19,
@@ -136,6 +136,13 @@
       "name": "DDS x Narcos",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3354200": {
+      "rank": 4007,
+      "estimate": "<7k",
+      "name": "Bakso Simulator 2",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     },
     "3428570": {
       "rank": 1053,

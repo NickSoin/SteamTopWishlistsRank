@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T10:06:30.629Z",
-  "entryCount": 34,
+  "updatedAt": "2026-06-18T13:45:10.898Z",
+  "entryCount": 35,
   "entries": {
     "856890": {
       "rank": 749,
@@ -243,6 +243,13 @@
       "name": "Settler's Domain",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4756480": {
+      "rank": 4768,
+      "estimate": "<7k",
+      "name": "Cricket Captain 2026",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     }
   }
 }

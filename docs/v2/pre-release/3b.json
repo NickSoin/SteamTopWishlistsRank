@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T10:06:30.629Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-18T13:45:10.898Z",
+  "entryCount": 21,
   "entries": {
     "843810": {
       "rank": 198,
@@ -135,6 +135,13 @@
       "estimate": "7k+",
       "name": "Retail Hell",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4192480": {
+      "rank": 8489,
+      "estimate": "<7k",
+      "name": "RE-TAPED",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     },
     "4427630": {
