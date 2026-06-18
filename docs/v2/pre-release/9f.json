@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
+  "updatedAt": "2026-06-18T18:42:39.738Z",
   "entryCount": 28,
   "entries": {
     "437440": {
@@ -119,11 +119,11 @@
       "source": "historical"
     },
     "2169930": {
-      "rank": 1507,
-      "estimate": "15k+",
+      "rank": 1276,
+      "estimate": "25k+",
       "name": "R-Type Tactics I • II Cosmos",
       "releaseDate": "2026-06-18",
-      "source": "historical"
+      "source": "tracked"
     },
     "2279130": {
       "rank": 9410,

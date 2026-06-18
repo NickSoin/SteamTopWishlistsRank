@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 22,
   "entries": {
     "950180": {
       "rank": 218,
@@ -145,6 +145,13 @@
       "name": "GeoGuessr Steam Edition",
       "releaseDate": "2025-05-08",
       "source": "historical"
+    },
+    "4159000": {
+      "rank": 3065,
+      "estimate": "<7k",
+      "name": "BunnyBakery",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     },
     "4522150": {
       "rank": 6597,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 33,
   "entries": {
     "427410": {
       "rank": 31,
@@ -227,6 +227,13 @@
       "name": "Dustland Delivery",
       "releaseDate": "2024-11-05",
       "source": "historical"
+    },
+    "3902750": {
+      "rank": 2144,
+      "estimate": "7k+",
+      "name": "Until Then: Afterimages",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 17,
   "entries": {
     "864170": {
       "rank": 2275,
@@ -10,12 +10,12 @@
       "name": "Midnight Horde"
     },
     "1142570": {
-      "rank": 1205,
+      "rank": 1204,
       "estimate": "25k+",
       "name": "We Stay Behind"
     },
     "1362000": {
-      "rank": 869,
+      "rank": 867,
       "estimate": "40k+",
       "name": "Skyclimbers"
     },
@@ -34,53 +34,58 @@
       "estimate": "<7k",
       "name": "VEIL"
     },
+    "2649560": {
+      "rank": 1042,
+      "estimate": "25k+",
+      "name": "Persona 6"
+    },
     "2796220": {
-      "rank": 505,
+      "rank": 504,
       "estimate": "40k+",
       "name": "Apogea"
     },
     "3050460": {
-      "rank": 4306,
+      "rank": 4303,
       "estimate": "<7k",
       "name": "Mafia Life Simulator"
     },
     "3126170": {
-      "rank": 3873,
+      "rank": 3828,
       "estimate": "<7k",
       "name": "Cyber Paranoia"
     },
     "3219010": {
-      "rank": 701,
+      "rank": 698,
       "estimate": "40k+",
       "name": "Fogpiercer"
     },
     "3353590": {
-      "rank": 2361,
+      "rank": 2363,
       "estimate": "7k+",
       "name": "Jinn Hunter"
     },
     "3501050": {
-      "rank": 3145,
+      "rank": 3143,
       "estimate": "<7k",
       "name": "Total Incremental Battle"
     },
     "3657070": {
-      "rank": 3885,
+      "rank": 3884,
       "estimate": "<7k",
       "name": "Quartermaster"
     },
     "3743810": {
-      "rank": 2297,
+      "rank": 2292,
       "estimate": "7k+",
       "name": "Pact, Passion, Puchimon!"
     },
     "3897090": {
-      "rank": 2673,
+      "rank": 2672,
       "estimate": "7k+",
       "name": "Temple Maker 64"
     },
     "4210670": {
-      "rank": 3808,
+      "rank": 3806,
       "estimate": "<7k",
       "name": "Forgotten Terror"
     }

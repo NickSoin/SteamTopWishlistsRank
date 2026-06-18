@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 25,
   "entries": {
     "761830": {
       "rank": 31,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Phone Flipper Simulator",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4518500": {
+      "rank": 3630,
+      "estimate": "<7k",
+      "name": "Train Simulator: Colorado & Southern Alpine Tunnel: St. Elmo - Pitkin",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     }
   }

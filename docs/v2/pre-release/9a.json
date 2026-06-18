@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 25,
   "entries": {
     "928000": {
       "rank": 773,
@@ -172,6 +172,13 @@
       "estimate": "7k+",
       "name": "Stellaris: Nomads",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4715350": {
+      "rank": 1961,
+      "estimate": "15k+",
+      "name": "Room: 405 | Love Beyond Reality",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     }
   }

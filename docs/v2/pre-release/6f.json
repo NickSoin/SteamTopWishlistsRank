@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 31,
   "entries": {
     "918570": {
       "rank": 38,
@@ -203,6 +203,13 @@
       "name": "Super Meat Boy 3D",
       "releaseDate": "2026-03-31",
       "source": "historical"
+    },
+    "3483510": {
+      "rank": 145,
+      "estimate": "200k+",
+      "name": "The Adventures of Elliot: The Millennium Tales",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     },
     "4653510": {
       "rank": 8016,

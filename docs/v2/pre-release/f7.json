@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 17,
   "entries": {
     "1071140": {
       "rank": 202,
@@ -115,6 +115,13 @@
       "name": "Sea Fantasy",
       "releaseDate": "2025-01-07",
       "source": "historical"
+    },
+    "4696180": {
+      "rank": 7739,
+      "estimate": "<7k",
+      "name": "Ballad of the Magic Wand",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     }
   }
 }

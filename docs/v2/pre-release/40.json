@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 38,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 39,
   "entries": {
     "720660": {
       "rank": 1007,
@@ -261,6 +261,13 @@
       "estimate": "7k+",
       "name": "Ogre Chambers 2222",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "3541590": {
+      "rank": 4614,
+      "estimate": "<7k",
+      "name": "Arcadie II: Cold Lands",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     },
     "3545060": {

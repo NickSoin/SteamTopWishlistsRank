@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 28,
   "entries": {
     "440000": {
       "rank": 459,
@@ -191,6 +191,13 @@
       "estimate": "15k+",
       "name": "Deep Corp",
       "releaseDate": "2026-05-26",
+      "source": "tracked"
+    },
+    "4550750": {
+      "rank": 5715,
+      "estimate": "<7k",
+      "name": "Makoa Shelf",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 41,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 42,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -281,6 +281,13 @@
       "estimate": "<7k",
       "name": "Mirklurk: Every Step Matters",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "3975750": {
+      "rank": 2447,
+      "estimate": "7k+",
+      "name": "The Gate Must Stand",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     },
     "4387480": {

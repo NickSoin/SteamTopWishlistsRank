@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 35,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 36,
   "entries": {
     "858820": {
       "rank": 1,
@@ -227,6 +227,13 @@
       "name": "Super Loco World - Cozy Train Automation",
       "releaseDate": "2025-07-14",
       "source": "historical"
+    },
+    "3986670": {
+      "rank": 413,
+      "estimate": "80k+",
+      "name": "YOU ARE THE MONSTER",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     },
     "4237210": {
       "rank": 3946,

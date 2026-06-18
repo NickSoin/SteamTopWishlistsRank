@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 38,
   "entries": {
     "651490": {
       "rank": 270,
@@ -261,6 +261,13 @@
       "estimate": "7k+",
       "name": "Don't Touch the Snail",
       "releaseDate": "2026-05-29",
+      "source": "tracked"
+    },
+    "4585830": {
+      "rank": 3881,
+      "estimate": "<7k",
+      "name": "Barbecue",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     }
   }

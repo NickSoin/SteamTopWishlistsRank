@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 24,
   "entries": {
     "820520": {
       "rank": 553,
@@ -94,6 +94,13 @@
       "name": "Yusetsu",
       "releaseDate": "2022-09-30",
       "source": "historical"
+    },
+    "2288520": {
+      "rank": 1660,
+      "estimate": "15k+",
+      "name": "The Quiet Things",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     },
     "2350720": {
       "rank": 2298,

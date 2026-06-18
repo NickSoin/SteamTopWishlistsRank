@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 25,
   "entries": {
     "977510": {
       "rank": 1079,
@@ -172,6 +172,13 @@
       "estimate": "15k+",
       "name": "Moonshiner Simulator",
       "releaseDate": "2026-05-20",
+      "source": "tracked"
+    },
+    "4755370": {
+      "rank": 7537,
+      "estimate": "<7k",
+      "name": "Obstacles: Gems of Power",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     }
   }

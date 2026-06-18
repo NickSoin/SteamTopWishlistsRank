@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 23,
   "entries": {
     "850170": {
       "rank": 394,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Old But Gold",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4734250": {
+      "rank": 6264,
+      "estimate": "<7k",
+      "name": "Enduro Unleashed",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     }
   }

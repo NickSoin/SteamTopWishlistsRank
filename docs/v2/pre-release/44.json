@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T13:45:10.898Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-18T18:42:39.738Z",
+  "entryCount": 26,
   "entries": {
     "499180": {
       "rank": 937,
@@ -164,6 +164,13 @@
       "name": "Jackal",
       "releaseDate": "2026-02-05",
       "source": "historical"
+    },
+    "3252380": {
+      "rank": 6890,
+      "estimate": "<7k",
+      "name": "Git Gud",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     },
     "3357960": {
       "rank": 41,
