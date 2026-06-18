@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-17T18:17:02.638Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-17T22:23:43.564Z",
+  "entryCount": 31,
   "entries": {
     "930280": {
       "rank": 438,
@@ -218,6 +218,13 @@
       "estimate": "<7k",
       "name": "Regeneration Engine",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4771360": {
+      "rank": 7361,
+      "estimate": "<7k",
+      "name": "Trail of Gods: The Cursed Island",
+      "releaseDate": "2026-06-17",
       "source": "tracked"
     }
   }

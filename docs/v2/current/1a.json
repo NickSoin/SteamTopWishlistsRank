@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-17T18:17:02.638Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-17T22:23:43.564Z",
+  "entryCount": 25,
   "entries": {
     "812910": {
       "rank": 1695,
@@ -15,7 +15,7 @@
       "name": "UKIYO"
     },
     "1645560": {
-      "rank": 3580,
+      "rank": 3583,
       "estimate": "<7k",
       "name": "Coffee Bar Renovator"
     },
@@ -25,32 +25,32 @@
       "name": "CRETE"
     },
     "2054000": {
-      "rank": 2773,
+      "rank": 2775,
       "estimate": "7k+",
       "name": "Presentable Liberty Remake"
     },
     "2250330": {
-      "rank": 4116,
+      "rank": 4123,
       "estimate": "<7k",
       "name": "Play Rough"
     },
     "2684630": {
-      "rank": 753,
+      "rank": 754,
       "estimate": "40k+",
       "name": "Endacopia"
     },
     "2746680": {
-      "rank": 3657,
+      "rank": 3662,
       "estimate": "<7k",
       "name": "DARKWATCH"
     },
     "2850840": {
-      "rank": 2637,
+      "rank": 2641,
       "estimate": "7k+",
       "name": "Tokyo Mafia Simulator"
     },
     "2882410": {
-      "rank": 2795,
+      "rank": 2796,
       "estimate": "7k+",
       "name": "Vanlife Camping Simulator"
     },
@@ -60,7 +60,7 @@
       "name": ".45 PARABELLUM BLOODHOUND - Cyberpunk Active Time Action"
     },
     "3143510": {
-      "rank": 3312,
+      "rank": 3316,
       "estimate": "<7k",
       "name": "Pixel Frenzy"
     },
@@ -70,57 +70,57 @@
       "name": "Thief Simulator 3"
     },
     "3358170": {
-      "rank": 2416,
+      "rank": 2415,
       "estimate": "7k+",
       "name": "Dodo Duckie"
     },
     "3447070": {
-      "rank": 2099,
+      "rank": 2105,
       "estimate": "7k+",
       "name": "Emergency Call - The Firefighting Simulation 3"
     },
     "3450100": {
-      "rank": 3054,
+      "rank": 3058,
       "estimate": "<7k",
       "name": "Gretel's Honesty"
     },
     "3548810": {
-      "rank": 2626,
+      "rank": 2620,
       "estimate": "7k+",
       "name": "Ritual Tides"
     },
     "3777850": {
-      "rank": 4073,
+      "rank": 3980,
       "estimate": "<7k",
       "name": "The Walking Dead: Streets of Survival"
     },
     "3883290": {
-      "rank": 3826,
+      "rank": 3830,
       "estimate": "<7k",
       "name": "LABYRINTHOS: The Depths Want You"
     },
     "3910330": {
-      "rank": 2766,
+      "rank": 2767,
       "estimate": "7k+",
       "name": "Mayak"
     },
     "4029770": {
-      "rank": 4283,
+      "rank": 4288,
       "estimate": "<7k",
       "name": "THERMOCLINE"
     },
     "4195110": {
-      "rank": 1475,
+      "rank": 1473,
       "estimate": "25k+",
       "name": "Ultrapool"
     },
     "4295090": {
-      "rank": 3525,
+      "rank": 3528,
       "estimate": "<7k",
       "name": "Horses of Gavarnie"
     },
     "4331110": {
-      "rank": 2818,
+      "rank": 2822,
       "estimate": "7k+",
       "name": "O EMPIRE! WARD OFF THY ROT"
     },
@@ -128,11 +128,6 @@
       "rank": 1696,
       "estimate": "15k+",
       "name": "Totally Safe Moon Project"
-    },
-    "4490200": {
-      "rank": 4511,
-      "estimate": "<7k",
-      "name": "Love n Life: Happy Student - Secret Edicts"
     }
   }
 }

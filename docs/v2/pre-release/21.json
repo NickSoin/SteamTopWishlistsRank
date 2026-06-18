@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-17T18:17:02.638Z",
+  "updatedAt": "2026-06-17T22:23:43.564Z",
   "entryCount": 25,
   "entries": {
     "924980": {
@@ -61,11 +61,11 @@
       "source": "historical"
     },
     "1944040": {
-      "rank": 2036,
-      "estimate": "7k+",
+      "rank": 802,
+      "estimate": "40k+",
       "name": "goblinAmerica",
       "releaseDate": "2026-06-17",
-      "source": "historical"
+      "source": "tracked"
     },
     "2192790": {
       "rank": 422,
