@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-17T22:23:43.564Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-18T05:21:10.217Z",
+  "entryCount": 26,
   "entries": {
     "467740": {
       "rank": 10,
@@ -164,6 +164,13 @@
       "name": "Travellin Cats in Germany",
       "releaseDate": "2024-10-16",
       "source": "historical"
+    },
+    "3569560": {
+      "rank": 4517,
+      "estimate": "<7k",
+      "name": "The Escape to the Afterlife",
+      "releaseDate": "2026-06-17",
+      "source": "tracked"
     },
     "4115450": {
       "rank": 4,

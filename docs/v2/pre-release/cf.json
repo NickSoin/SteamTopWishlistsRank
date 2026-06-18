@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-17T22:23:43.564Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-18T05:21:10.217Z",
+  "entryCount": 25,
   "entries": {
     "502050": {
       "rank": 1,
@@ -164,6 +164,13 @@
       "name": "ChromaGun 2: Dye Hard",
       "releaseDate": "2026-02-12",
       "source": "historical"
+    },
+    "3403590": {
+      "rank": 3380,
+      "estimate": "<7k",
+      "name": "Glimvale : My Mini Overworld",
+      "releaseDate": "2026-06-17",
+      "source": "tracked"
     },
     "4645760": {
       "rank": 4654,

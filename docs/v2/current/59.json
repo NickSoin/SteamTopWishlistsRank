@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-17T22:23:43.564Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-18T05:21:10.217Z",
+  "entryCount": 22,
   "entries": {
     "259000": {
-      "rank": 3795,
+      "rank": 3801,
       "estimate": "<7k",
       "name": "Dead Pixels II"
     },
     "983680": {
-      "rank": 1434,
+      "rank": 1435,
       "estimate": "25k+",
       "name": "SILENT DOOM"
     },
     "1113080": {
-      "rank": 1719,
+      "rank": 1721,
       "estimate": "15k+",
       "name": "Dog Trainer"
     },
     "1175350": {
-      "rank": 4084,
+      "rank": 4089,
       "estimate": "<7k",
       "name": "Archer: The Witch's Wrath"
     },
     "1238190": {
-      "rank": 979,
+      "rank": 980,
       "estimate": "40k+",
       "name": "Ant Colony: Wild Forest"
     },
     "1571790": {
-      "rank": 4890,
+      "rank": 4894,
       "estimate": "<7k",
       "name": "Dust Walkers"
     },
     "1868210": {
-      "rank": 1126,
+      "rank": 1131,
       "estimate": "25k+",
       "name": "Bunker Builder Simulator"
     },
     "2211130": {
-      "rank": 3668,
+      "rank": 3669,
       "estimate": "<7k",
       "name": "SOULBOUND"
     },
     "2251220": {
-      "rank": 1398,
+      "rank": 1399,
       "estimate": "25k+",
       "name": "High Times - Dating/Cooking Sim"
     },
     "2331140": {
-      "rank": 2393,
+      "rank": 2396,
       "estimate": "7k+",
       "name": "Lovelorn sanatorium Ⅳ"
     },
@@ -60,54 +60,59 @@
       "name": "Dead On Arrival"
     },
     "2537980": {
-      "rank": 1840,
+      "rank": 1843,
       "estimate": "15k+",
       "name": "Drăculești"
     },
     "2616650": {
-      "rank": 3063,
+      "rank": 3065,
       "estimate": "<7k",
       "name": "Engraving"
     },
     "2626770": {
-      "rank": 4980,
+      "rank": 4985,
       "estimate": "<7k",
       "name": "Yellowcake"
     },
     "2897710": {
-      "rank": 1518,
+      "rank": 1521,
       "estimate": "15k+",
       "name": "Truck Manager"
     },
     "2934080": {
-      "rank": 4530,
+      "rank": 4534,
       "estimate": "<7k",
       "name": "Travellin Cats in England"
     },
     "2949750": {
-      "rank": 1145,
+      "rank": 1147,
       "estimate": "25k+",
       "name": "Margin of the Strange"
     },
     "3412110": {
-      "rank": 4269,
+      "rank": 4272,
       "estimate": "<7k",
       "name": "Severed Love"
     },
     "3720330": {
-      "rank": 1689,
+      "rank": 1691,
       "estimate": "15k+",
       "name": "Infinite Alliance"
     },
     "3734010": {
-      "rank": 2040,
+      "rank": 2043,
       "estimate": "7k+",
       "name": "Project Retrograde: The Becoming"
     },
     "4768180": {
-      "rank": 2562,
+      "rank": 2563,
       "estimate": "7k+",
       "name": "Cronos: Lazarus"
+    },
+    "4779560": {
+      "rank": 4937,
+      "estimate": "<7k",
+      "name": "Idle Startup"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-17T22:23:43.564Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-18T05:21:10.217Z",
+  "entryCount": 23,
   "entries": {
     "750200": {
       "rank": 159,
@@ -155,6 +155,13 @@
       "estimate": "<7k",
       "name": "Trauma Pets",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "4315850": {
+      "rank": 3625,
+      "estimate": "<7k",
+      "name": "Building 0: Hakuei University",
+      "releaseDate": "2026-06-17",
       "source": "tracked"
     },
     "4738060": {

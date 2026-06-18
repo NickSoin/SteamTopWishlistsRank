@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-17T22:23:43.564Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-18T05:21:10.217Z",
+  "entryCount": 17,
   "entries": {
     "979110": {
       "rank": 38,
@@ -114,6 +114,13 @@
       "estimate": "<7k",
       "name": "RouletteCircus",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "4018020": {
+      "rank": 2805,
+      "estimate": "7k+",
+      "name": "Angels Online Global",
+      "releaseDate": "2026-06-17",
       "source": "tracked"
     }
   }
