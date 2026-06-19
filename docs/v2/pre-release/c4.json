@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T05:39:36.519Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-19T13:53:06.343Z",
+  "entryCount": 29,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "Vampire: The Masquerade® - Bloodlines™ 2 - The Flower & the Flame",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4148600": {
+      "rank": 4726,
+      "estimate": "<7k",
+      "name": "Once Upon A Card",
+      "releaseDate": "2026-06-19",
       "source": "tracked"
     },
     "4611140": {

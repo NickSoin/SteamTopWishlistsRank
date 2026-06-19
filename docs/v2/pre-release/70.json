@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T05:39:36.519Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-19T13:53:06.343Z",
+  "entryCount": 23,
   "entries": {
     "1145350": {
       "rank": 1,
@@ -161,6 +161,13 @@
       "name": "Love and Sex: Second Base - For A Fistful Of Waifu",
       "releaseDate": "2024-10-02",
       "source": "historical"
+    },
+    "4603110": {
+      "rank": 3106,
+      "estimate": "<7k",
+      "name": "Dusk City - Beacon of Tranquility",
+      "releaseDate": "2026-06-19",
+      "source": "tracked"
     }
   }
 }

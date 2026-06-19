@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T05:39:36.519Z",
-  "entryCount": 45,
+  "updatedAt": "2026-06-19T13:53:06.343Z",
+  "entryCount": 46,
   "entries": {
     "748020": {
       "rank": 911,
@@ -323,6 +323,13 @@
       "estimate": "25k+",
       "name": "RUNNING TRAIN | 走ル列車！",
       "releaseDate": "2026-05-24",
+      "source": "tracked"
+    },
+    "4762390": {
+      "rank": 2079,
+      "estimate": "7k+",
+      "name": "Just a Little Longer",
+      "releaseDate": "2026-06-19",
       "source": "tracked"
     }
   }

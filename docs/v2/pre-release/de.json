@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T05:39:36.519Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-19T13:53:06.343Z",
+  "entryCount": 28,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -196,6 +196,13 @@
       "name": "Hard Time III",
       "releaseDate": "2024-09-09",
       "source": "historical"
+    },
+    "4753590": {
+      "rank": 9529,
+      "estimate": "<7k",
+      "name": "TEAM PANIC",
+      "releaseDate": "2026-06-19",
+      "source": "tracked"
     }
   }
 }

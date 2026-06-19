@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T05:39:36.519Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-19T13:53:06.343Z",
+  "entryCount": 29,
   "entries": {
     "698670": {
       "rank": 24,
@@ -101,6 +101,13 @@
       "name": "Arto",
       "releaseDate": "2023-05-01",
       "source": "historical"
+    },
+    "2136420": {
+      "rank": 4439,
+      "estimate": "<7k",
+      "name": "FIRE The First Dreamer",
+      "releaseDate": "2026-06-19",
+      "source": "tracked"
     },
     "2143420": {
       "rank": 782,

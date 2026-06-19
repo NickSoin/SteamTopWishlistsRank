@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-19T05:39:36.519Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-19T13:53:06.343Z",
+  "entryCount": 18,
   "entries": {
     "1198690": {
-      "rank": 2076,
+      "rank": 2078,
       "estimate": "7k+",
       "name": "REBORN: Survival"
     },
     "1343010": {
-      "rank": 1985,
+      "rank": 1986,
       "estimate": "15k+",
       "name": "Antimatter"
     },
     "1735370": {
-      "rank": 1724,
+      "rank": 1725,
       "estimate": "15k+",
       "name": "Necrowave"
     },
@@ -25,17 +25,17 @@
       "name": "Demon Spore"
     },
     "1964860": {
-      "rank": 4710,
+      "rank": 4715,
       "estimate": "<7k",
       "name": "Titan Shell"
     },
     "1967050": {
-      "rank": 3426,
+      "rank": 3430,
       "estimate": "<7k",
       "name": "It Was You"
     },
     "2395960": {
-      "rank": 3303,
+      "rank": 3308,
       "estimate": "<7k",
       "name": "Ice Truckers"
     },
@@ -50,7 +50,7 @@
       "name": "Croak"
     },
     "2904120": {
-      "rank": 2972,
+      "rank": 2974,
       "estimate": "7k+",
       "name": "Sand Nomads"
     },
@@ -60,14 +60,19 @@
       "name": "PVKK: Planetenverteidigungskanonenkommandant"
     },
     "2962780": {
-      "rank": 2142,
+      "rank": 2147,
       "estimate": "7k+",
       "name": "BeastLink"
     },
     "3465440": {
-      "rank": 2843,
+      "rank": 2846,
       "estimate": "7k+",
       "name": "CitaDrill"
+    },
+    "3485200": {
+      "rank": 4880,
+      "estimate": "<7k",
+      "name": "Whatever It Takes"
     },
     "3694190": {
       "rank": 1772,
@@ -75,17 +80,17 @@
       "name": "Deep Pixel Melancholy"
     },
     "3725830": {
-      "rank": 3638,
+      "rank": 3641,
       "estimate": "<7k",
       "name": "Citrus Summer"
     },
     "3921010": {
-      "rank": 3127,
+      "rank": 3080,
       "estimate": "<7k",
       "name": "War Alert"
     },
     "4248790": {
-      "rank": 4821,
+      "rank": 4807,
       "estimate": "<7k",
       "name": "Substrate: Emergence"
     }

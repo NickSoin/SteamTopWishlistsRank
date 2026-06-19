@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-19T05:39:36.519Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-19T13:53:06.343Z",
+  "entryCount": 16,
   "entries": {
     "463940": {
-      "rank": 4432,
+      "rank": 4440,
       "estimate": "<7k",
       "name": "Shadow Over Isolation"
     },
     "718550": {
-      "rank": 3893,
+      "rank": 3907,
       "estimate": "<7k",
       "name": "Usurpator"
     },
     "1159390": {
-      "rank": 490,
+      "rank": 488,
       "estimate": "80k+",
       "name": "Taxi Simulator"
     },
@@ -25,57 +25,62 @@
       "name": "Red Frost"
     },
     "1818480": {
-      "rank": 3960,
+      "rank": 3962,
       "estimate": "<7k",
       "name": "Midwest 90: Rapid City"
     },
     "2388920": {
-      "rank": 4305,
+      "rank": 4311,
       "estimate": "<7k",
       "name": "Soulers"
     },
     "2744160": {
-      "rank": 760,
+      "rank": 759,
       "estimate": "40k+",
       "name": "Construction Simulator: Evolution"
     },
     "2783280": {
-      "rank": 3070,
+      "rank": 3069,
       "estimate": "<7k",
       "name": "Cat Secretary"
     },
     "2898700": {
-      "rank": 3524,
+      "rank": 3532,
       "estimate": "<7k",
       "name": "Wanna Sleep All Day,But"
     },
     "2932260": {
-      "rank": 1620,
+      "rank": 1604,
       "estimate": "15k+",
       "name": "Trine 6: Together in Time"
     },
     "2950790": {
-      "rank": 84,
+      "rank": 82,
       "estimate": "300k+",
       "name": "IRON NEST: Heavy Turret Simulator"
     },
     "3429280": {
-      "rank": 2450,
+      "rank": 2452,
       "estimate": "7k+",
       "name": "ATOM RPG 2"
     },
+    "3755350": {
+      "rank": 4919,
+      "estimate": "<7k",
+      "name": "Alice Nation"
+    },
     "3875670": {
-      "rank": 3375,
+      "rank": 3336,
       "estimate": "<7k",
       "name": "Winemaker Simulator"
     },
     "4289470": {
-      "rank": 3857,
+      "rank": 3864,
       "estimate": "<7k",
       "name": "DREAMTONE"
     },
     "4498500": {
-      "rank": 2563,
+      "rank": 2559,
       "estimate": "7k+",
       "name": "Kopno: Blightfall"
     }

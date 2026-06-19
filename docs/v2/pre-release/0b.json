@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T05:39:36.519Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-19T13:53:06.343Z",
+  "entryCount": 27,
   "entries": {
     "779340": {
       "rank": 5,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "Pimalai Mansion: หอนี้ ผีไม่ดุ",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4170220": {
+      "rank": 7812,
+      "estimate": "<7k",
+      "name": "Dave.EXE",
+      "releaseDate": "2026-06-19",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T05:39:36.519Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-19T13:53:06.343Z",
+  "entryCount": 23,
   "entries": {
     "653060": {
       "rank": 687,
@@ -144,6 +144,13 @@
       "estimate": "15k+",
       "name": "God For A Day",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4539580": {
+      "rank": 2325,
+      "estimate": "7k+",
+      "name": "Illvelo Swamp",
+      "releaseDate": "2026-06-19",
       "source": "tracked"
     },
     "4746070": {

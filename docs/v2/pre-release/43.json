@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T05:39:36.519Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-19T13:53:06.343Z",
+  "entryCount": 25,
   "entries": {
     "716350": {
       "rank": 688,
@@ -169,6 +169,13 @@
       "estimate": "<7k",
       "name": "Cauldron Craft",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4640590": {
+      "rank": 8049,
+      "estimate": "<7k",
+      "name": "Fool's Pub",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     },
     "4656760": {
