@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-19T13:53:06.343Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-19T17:41:20.372Z",
+  "entryCount": 19,
   "entries": {
     "791630": {
-      "rank": 2327,
+      "rank": 2328,
       "estimate": "7k+",
       "name": "Tale of Ronin"
     },
     "1054820": {
-      "rank": 3513,
+      "rank": 3516,
       "estimate": "<7k",
       "name": "Kingslayer Tactics"
     },
@@ -20,37 +20,37 @@
       "name": "Deadlock"
     },
     "1496970": {
-      "rank": 4252,
+      "rank": 4222,
       "estimate": "<7k",
       "name": "Masters of Mayhem"
     },
     "1578450": {
-      "rank": 4822,
+      "rank": 4821,
       "estimate": "<7k",
       "name": "With Last Breath"
     },
     "1648360": {
-      "rank": 1201,
+      "rank": 1202,
       "estimate": "25k+",
       "name": "Luminary"
     },
     "2382810": {
-      "rank": 3060,
+      "rank": 3064,
       "estimate": "<7k",
       "name": "Dream Channel Zero"
     },
     "2475620": {
-      "rank": 4017,
+      "rank": 4023,
       "estimate": "<7k",
       "name": "Misgiven"
     },
     "2719630": {
-      "rank": 4990,
+      "rank": 4994,
       "estimate": "<7k",
       "name": "Border Base"
     },
     "2831000": {
-      "rank": 4418,
+      "rank": 4423,
       "estimate": "<7k",
       "name": "Faraway"
     },
@@ -60,12 +60,12 @@
       "name": "Outward 2"
     },
     "3271120": {
-      "rank": 3299,
+      "rank": 3301,
       "estimate": "<7k",
       "name": "Dragon Khan"
     },
     "3357310": {
-      "rank": 1228,
+      "rank": 1233,
       "estimate": "25k+",
       "name": "ASUKA x Redline Reverie"
     },
@@ -80,19 +80,24 @@
       "name": "Idlemancer"
     },
     "3508910": {
-      "rank": 1897,
+      "rank": 1899,
       "estimate": "15k+",
       "name": "Abyss Kitchen"
     },
     "3979330": {
-      "rank": 1037,
+      "rank": 1031,
       "estimate": "25k+",
       "name": "nophenia"
     },
     "4225250": {
-      "rank": 1858,
+      "rank": 1843,
       "estimate": "15k+",
       "name": "DarkBazaar"
+    },
+    "4299460": {
+      "rank": 5022,
+      "estimate": "<7k",
+      "name": "Sweepcremental"
     }
   }
 }

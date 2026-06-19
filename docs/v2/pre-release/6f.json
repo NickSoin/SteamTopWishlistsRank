@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T13:53:06.343Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-19T17:41:20.372Z",
+  "entryCount": 33,
   "entries": {
     "918570": {
       "rank": 38,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "Grinny’s Playhouse",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4771720": {
+      "rank": 4375,
+      "estimate": "<7k",
+      "name": "The Labyrinth on Burrow Hill",
+      "releaseDate": "2026-06-19",
       "source": "tracked"
     }
   }

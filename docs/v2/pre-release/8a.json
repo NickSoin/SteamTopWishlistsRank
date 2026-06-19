@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T13:53:06.343Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-19T17:41:20.372Z",
+  "entryCount": 34,
   "entries": {
     "538030": {
       "rank": 87,
@@ -224,6 +224,13 @@
       "name": "Bureau of Contacts",
       "releaseDate": "2025-04-12",
       "source": "historical"
+    },
+    "2938870": {
+      "rank": 1317,
+      "estimate": "25k+",
+      "name": "Maseylia : Echoes of the Past",
+      "releaseDate": "2026-06-19",
+      "source": "tracked"
     },
     "3404260": {
       "rank": 22,

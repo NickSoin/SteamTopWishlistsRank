@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-19T13:53:06.343Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-19T17:41:20.372Z",
+  "entryCount": 23,
   "entries": {
     "811760": {
-      "rank": 883,
+      "rank": 884,
       "estimate": "40k+",
       "name": "The Last Exterminator"
     },
@@ -15,7 +15,7 @@
       "name": "Totemic"
     },
     "1250090": {
-      "rank": 3205,
+      "rank": 3208,
       "estimate": "<7k",
       "name": "Housebreaker"
     },
@@ -25,7 +25,7 @@
       "name": "Seen 2"
     },
     "1702630": {
-      "rank": 3032,
+      "rank": 3036,
       "estimate": "<7k",
       "name": "Arcadian Rift"
     },
@@ -35,22 +35,22 @@
       "name": "KILLA"
     },
     "2606300": {
-      "rank": 3437,
+      "rank": 3441,
       "estimate": "<7k",
       "name": "Sticker Kittens"
     },
     "2660230": {
-      "rank": 767,
+      "rank": 768,
       "estimate": "40k+",
       "name": "Kill The Shadow"
     },
     "2941630": {
-      "rank": 2155,
+      "rank": 2156,
       "estimate": "7k+",
       "name": "Dungeons and Dining Tables"
     },
     "2976470": {
-      "rank": 4951,
+      "rank": 4942,
       "estimate": "<7k",
       "name": "Shape Sender Deluxe"
     },
@@ -64,13 +64,18 @@
       "estimate": "25k+",
       "name": "Earths Edge"
     },
+    "3113690": {
+      "rank": 3902,
+      "estimate": "<7k",
+      "name": "Ship Miner"
+    },
     "3162900": {
-      "rank": 2265,
+      "rank": 2264,
       "estimate": "7k+",
       "name": "遥かなる円形世界"
     },
     "3287720": {
-      "rank": 4595,
+      "rank": 4598,
       "estimate": "<7k",
       "name": "ELISSA ：Body in the bedroom"
     },
@@ -85,17 +90,17 @@
       "name": "I Have No Change"
     },
     "3643250": {
-      "rank": 4477,
+      "rank": 4476,
       "estimate": "<7k",
       "name": "Chiklet's Human Products"
     },
     "3772990": {
-      "rank": 2143,
+      "rank": 2139,
       "estimate": "7k+",
       "name": "Solbrand"
     },
     "4091920": {
-      "rank": 4033,
+      "rank": 4019,
       "estimate": "<7k",
       "name": "Schedule Store Simulator"
     },
@@ -105,12 +110,12 @@
       "name": "Alarial's Blessing"
     },
     "4364730": {
-      "rank": 1052,
+      "rank": 1048,
       "estimate": "25k+",
       "name": "IGTAP: an Incremental Game That's Also a Platformer"
     },
     "4401370": {
-      "rank": 4716,
+      "rank": 4711,
       "estimate": "<7k",
       "name": "Skills & Raids"
     }

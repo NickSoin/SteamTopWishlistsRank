@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-19T13:53:06.343Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-19T17:41:20.372Z",
+  "entryCount": 21,
   "entries": {
     "971700": {
-      "rank": 1163,
+      "rank": 1164,
       "estimate": "25k+",
       "name": "ALARA Prime"
     },
@@ -15,12 +15,12 @@
       "name": "Sailor Simulator"
     },
     "1705720": {
-      "rank": 1634,
+      "rank": 1635,
       "estimate": "15k+",
       "name": "Aftermath"
     },
     "1996090": {
-      "rank": 1034,
+      "rank": 1035,
       "estimate": "25k+",
       "name": "Vapor World: Over The Mind"
     },
@@ -30,7 +30,7 @@
       "name": "STAR WARS Zero Company™"
     },
     "2078410": {
-      "rank": 4747,
+      "rank": 4751,
       "estimate": "<7k",
       "name": "Space Trucker"
     },
@@ -45,12 +45,12 @@
       "name": "Keep Those Bugs Away From the Bomb"
     },
     "2658740": {
-      "rank": 4737,
+      "rank": 4743,
       "estimate": "<7k",
       "name": "Island of Mine"
     },
     "2809120": {
-      "rank": 4093,
+      "rank": 4095,
       "estimate": "<7k",
       "name": "Red Snow"
     },
@@ -60,47 +60,52 @@
       "name": "Gang of Frogs"
     },
     "3100420": {
-      "rank": 4402,
+      "rank": 4408,
       "estimate": "<7k",
       "name": "The Fractured Shimmer"
     },
     "3144060": {
-      "rank": 2492,
+      "rank": 2493,
       "estimate": "7k+",
       "name": "World of the dead"
     },
     "3224540": {
-      "rank": 4840,
+      "rank": 4841,
       "estimate": "<7k",
       "name": "VOIDFACE"
     },
     "3595710": {
-      "rank": 3225,
+      "rank": 3229,
       "estimate": "<7k",
       "name": "SCOPECREEP"
     },
     "3603020": {
-      "rank": 4561,
+      "rank": 4562,
       "estimate": "<7k",
       "name": "Auto Legends"
     },
     "3839250": {
-      "rank": 3995,
+      "rank": 3966,
       "estimate": "<7k",
       "name": "Soulforge Lost Path"
     },
     "4349170": {
-      "rank": 3066,
+      "rank": 3071,
       "estimate": "<7k",
       "name": "Virus Lab"
     },
+    "4371450": {
+      "rank": 4997,
+      "estimate": "<7k",
+      "name": "Arctic Shift: Fuel Station"
+    },
     "4514310": {
-      "rank": 3153,
+      "rank": 3151,
       "estimate": "<7k",
       "name": "MOOSA: Dirty Fate"
     },
     "4623300": {
-      "rank": 1112,
+      "rank": 1113,
       "estimate": "25k+",
       "name": "Open Waters"
     }

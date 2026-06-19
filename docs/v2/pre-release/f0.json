@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T13:53:06.343Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-19T17:41:20.372Z",
+  "entryCount": 31,
   "entries": {
     "721700": {
       "rank": 679,
@@ -61,6 +61,13 @@
       "name": "Distant Bloom",
       "releaseDate": "2024-03-27",
       "source": "historical"
+    },
+    "1509800": {
+      "rank": 3617,
+      "estimate": "<7k",
+      "name": "MAK: Survival",
+      "releaseDate": "2026-06-19",
+      "source": "tracked"
     },
     "1514950": {
       "rank": 563,
