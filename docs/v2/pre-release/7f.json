@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T18:42:39.738Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-18T22:55:29.216Z",
+  "entryCount": 29,
   "entries": {
     "1167100": {
       "rank": 379,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Kioku: Last Summer",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4696030": {
+      "rank": 8758,
+      "estimate": "<7k",
+      "name": "Return to Lumia",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     }
   }

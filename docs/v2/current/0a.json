@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-18T18:42:39.738Z",
-  "entryCount": 15,
+  "updatedAt": "2026-06-18T22:55:29.216Z",
+  "entryCount": 16,
   "entries": {
     "643370": {
-      "rank": 4057,
+      "rank": 4058,
       "estimate": "<7k",
       "name": "eSports Manager"
     },
     "1446790": {
-      "rank": 3878,
+      "rank": 3883,
       "estimate": "<7k",
       "name": "CRUDE"
     },
     "1846570": {
-      "rank": 3295,
+      "rank": 3299,
       "estimate": "<7k",
       "name": "Sanctus"
     },
     "2186440": {
-      "rank": 4644,
+      "rank": 4648,
       "estimate": "<7k",
       "name": "間違った社員教育 まったく君の会社ではいったいどんな社員教育を(略)"
     },
     "2418040": {
-      "rank": 2629,
+      "rank": 2628,
       "estimate": "7k+",
       "name": "Beyond The Plastic Wall"
     },
     "2527940": {
-      "rank": 3242,
+      "rank": 3244,
       "estimate": "<7k",
       "name": "Little Cheese Works"
     },
     "2533000": {
-      "rank": 3691,
+      "rank": 3695,
       "estimate": "<7k",
       "name": "Small Kingdoms"
     },
@@ -45,12 +45,12 @@
       "name": "Save the Villainess: An Otome Isekai Roleplaying Game"
     },
     "2785740": {
-      "rank": 411,
+      "rank": 413,
       "estimate": "80k+",
       "name": "Diesel Knights"
     },
     "3130220": {
-      "rank": 1292,
+      "rank": 1293,
       "estimate": "25k+",
       "name": "Sagas of Lumin"
     },
@@ -60,7 +60,7 @@
       "name": "A Simple Life with My Unobtrusive Sister"
     },
     "3639510": {
-      "rank": 3336,
+      "rank": 3343,
       "estimate": "<7k",
       "name": "Cutting Edge: Roots Of Mutation"
     },
@@ -70,7 +70,7 @@
       "name": "Yami Kids"
     },
     "3997960": {
-      "rank": 636,
+      "rank": 637,
       "estimate": "40k+",
       "name": "Undead Chronicles"
     },
@@ -78,6 +78,11 @@
       "rank": 78,
       "estimate": "300k+",
       "name": "Fourteen Years of Flames"
+    },
+    "4660450": {
+      "rank": 5003,
+      "estimate": "<7k",
+      "name": "Caravana 2000"
     }
   }
 }

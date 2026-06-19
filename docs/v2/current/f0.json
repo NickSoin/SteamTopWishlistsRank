@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-18T18:42:39.738Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-18T22:55:29.216Z",
+  "entryCount": 23,
   "entries": {
     "565760": {
-      "rank": 4305,
+      "rank": 4314,
       "estimate": "<7k",
       "name": "Escape the Loop"
     },
@@ -15,12 +15,12 @@
       "name": "Clive Barker's Hellraiser: Revival"
     },
     "1606970": {
-      "rank": 756,
+      "rank": 759,
       "estimate": "40k+",
       "name": "Ronin Trail"
     },
     "1899550": {
-      "rank": 2173,
+      "rank": 2175,
       "estimate": "7k+",
       "name": "Knights of the Deep"
     },
@@ -42,37 +42,37 @@
       "name": "Duskers 2.0"
     },
     "2538300": {
-      "rank": 4183,
+      "rank": 4187,
       "estimate": "<7k",
       "name": "SCP: Contamination"
     },
     "2749070": {
-      "rank": 2195,
+      "rank": 2199,
       "estimate": "7k+",
       "name": "Sword and Fairy: Far Beyond Time"
     },
     "2791970": {
-      "rank": 2551,
+      "rank": 2553,
       "estimate": "7k+",
       "name": "Delivery Driver Service"
     },
     "2809220": {
-      "rank": 1637,
+      "rank": 1638,
       "estimate": "15k+",
       "name": "Status Entropos"
     },
     "2985520": {
-      "rank": 2359,
+      "rank": 2360,
       "estimate": "7k+",
       "name": "The Player Who Can't Level Up"
     },
     "3137010": {
-      "rank": 4876,
+      "rank": 4880,
       "estimate": "<7k",
       "name": "Meat Engine"
     },
     "3241560": {
-      "rank": 4655,
+      "rank": 4658,
       "estimate": "<7k",
       "name": "Tossdown"
     },
@@ -82,12 +82,12 @@
       "name": "Hell Express"
     },
     "3596730": {
-      "rank": 3358,
+      "rank": 3360,
       "estimate": "<7k",
       "name": "Painted Kingdoms: Tower Defense & Firefighting"
     },
     "3722850": {
-      "rank": 3967,
+      "rank": 3976,
       "estimate": "<7k",
       "name": "Desktropolis"
     },
@@ -97,7 +97,7 @@
       "name": "Car For Sale Together"
     },
     "3910750": {
-      "rank": 3887,
+      "rank": 3895,
       "estimate": "<7k",
       "name": "DONUT PANIC"
     },
@@ -107,14 +107,19 @@
       "name": "1666: Amsterdam"
     },
     "4259360": {
-      "rank": 859,
+      "rank": 855,
       "estimate": "40k+",
       "name": "Milki Delivery"
     },
     "4327300": {
-      "rank": 1961,
+      "rank": 1960,
       "estimate": "15k+",
       "name": "Silicon Gate"
+    },
+    "4519130": {
+      "rank": 4957,
+      "estimate": "<7k",
+      "name": "MOLDRISE"
     }
   }
 }

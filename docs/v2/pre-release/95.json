@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T18:42:39.738Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-18T22:55:29.216Z",
+  "entryCount": 32,
   "entries": {
     "729000": {
       "rank": 169,
@@ -221,6 +221,13 @@
       "estimate": "7k+",
       "name": "Detective INNA DUKE",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4729330": {
+      "rank": 6025,
+      "estimate": "<7k",
+      "name": "EGGCONSOLE RELICS MSX2",
+      "releaseDate": "2026-06-18",
       "source": "tracked"
     }
   }

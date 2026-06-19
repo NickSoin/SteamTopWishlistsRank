@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-18T18:42:39.738Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-18T22:55:29.216Z",
+  "entryCount": 23,
   "entries": {
     "1415600": {
-      "rank": 2117,
+      "rank": 2122,
       "estimate": "7k+",
       "name": "Frequency: Chernobyl"
     },
     "1655750": {
-      "rank": 3308,
+      "rank": 3311,
       "estimate": "<7k",
       "name": "Uboat Mechanic Simulator"
     },
     "1722610": {
-      "rank": 884,
+      "rank": 886,
       "estimate": "40k+",
       "name": "Unawake"
     },
     "1993410": {
-      "rank": 3648,
+      "rank": 3655,
       "estimate": "<7k",
       "name": "Laws of Nadragia"
     },
@@ -40,14 +40,19 @@
       "name": "Warhammer 40,000: Boltgun 2"
     },
     "3129790": {
-      "rank": 3221,
+      "rank": 3224,
       "estimate": "<7k",
       "name": "Pocket Legend : Inventory Roguelike Deckbuilder"
     },
     "3301350": {
-      "rank": 2671,
+      "rank": 2673,
       "estimate": "7k+",
       "name": "Sleep Well Cemetery"
+    },
+    "3474070": {
+      "rank": 5002,
+      "estimate": "<7k",
+      "name": "Magnavis"
     },
     "3486530": {
       "rank": 292,
@@ -65,17 +70,17 @@
       "name": "Fourleaf Fields"
     },
     "3640840": {
-      "rank": 1342,
+      "rank": 1343,
       "estimate": "25k+",
       "name": "LANDLORD"
     },
     "3818090": {
-      "rank": 1442,
+      "rank": 1446,
       "estimate": "25k+",
       "name": "Haunted Room! Urami-chan"
     },
     "3869850": {
-      "rank": 1419,
+      "rank": 1416,
       "estimate": "25k+",
       "name": "Welcome to the Game III"
     },
@@ -85,12 +90,12 @@
       "name": "Tiling Town"
     },
     "4189430": {
-      "rank": 4773,
+      "rank": 4777,
       "estimate": "<7k",
       "name": "HapgetaSocial"
     },
     "4197200": {
-      "rank": 4653,
+      "rank": 4611,
       "estimate": "<7k",
       "name": "Last Night Last Call"
     },
@@ -100,17 +105,17 @@
       "name": "Lost & Found: A This Bed We Made Story"
     },
     "4350100": {
-      "rank": 3686,
+      "rank": 3684,
       "estimate": "<7k",
       "name": "Orbrix"
     },
     "4462580": {
-      "rank": 1712,
+      "rank": 1713,
       "estimate": "15k+",
       "name": "BLIGHTEN"
     },
     "4657920": {
-      "rank": 1607,
+      "rank": 1604,
       "estimate": "15k+",
       "name": "War Fantasy"
     }
