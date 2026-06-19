@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T22:55:29.216Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-19T05:39:36.519Z",
+  "entryCount": 23,
   "entries": {
     "581660": {
       "rank": 122,
@@ -152,6 +152,13 @@
       "name": "The Hundred Line -Last Defense Academy-",
       "releaseDate": "2025-04-23",
       "source": "historical"
+    },
+    "4123600": {
+      "rank": 4170,
+      "estimate": "<7k",
+      "name": "Alisa’s Incident Report",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     },
     "4213840": {
       "rank": 4563,

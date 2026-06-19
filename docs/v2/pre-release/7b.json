@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T22:55:29.216Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-19T05:39:36.519Z",
+  "entryCount": 23,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -155,6 +155,13 @@
       "rank": 8765,
       "estimate": "<7k",
       "name": "Gensokyo Odyssey: Kakkoi's Laundromat Soundtrack",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4764960": {
+      "rank": 8195,
+      "estimate": "<7k",
+      "name": "Desktop Mascot Nunu-nui",
       "releaseDate": "2026-06-18",
       "source": "tracked"
     }

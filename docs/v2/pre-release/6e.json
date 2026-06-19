@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T22:55:29.216Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-19T05:39:36.519Z",
+  "entryCount": 25,
   "entries": {
     "669330": {
       "rank": 422,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "oooÖ",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4661130": {
+      "rank": 1261,
+      "estimate": "25k+",
+      "name": "Dream of Corpse Lady - Deity's Three Egos",
+      "releaseDate": "2026-06-19",
       "source": "tracked"
     }
   }

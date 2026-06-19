@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-18T22:55:29.216Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-19T05:39:36.519Z",
+  "entryCount": 28,
   "entries": {
     "536280": {
       "rank": 48,
@@ -192,6 +192,13 @@
       "name": "Wanderburg",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4663520": {
+      "rank": 9813,
+      "estimate": "<7k",
+      "name": "eXSert",
+      "releaseDate": "2026-06-18",
+      "source": "tracked"
     }
   }
 }

@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-18T22:55:29.216Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-19T05:39:36.519Z",
+  "entryCount": 18,
   "entries": {
     "1325580": {
-      "rank": 1603,
+      "rank": 1605,
       "estimate": "15k+",
       "name": "The Mighty Eighth VR"
     },
     "1362620": {
-      "rank": 2497,
+      "rank": 2502,
       "estimate": "7k+",
       "name": "Camper Renovator"
     },
     "1537440": {
-      "rank": 1829,
+      "rank": 1831,
       "estimate": "15k+",
       "name": "Bosslords"
     },
@@ -25,7 +25,7 @@
       "name": "Steel Bounty"
     },
     "1691180": {
-      "rank": 4896,
+      "rank": 4902,
       "estimate": "<7k",
       "name": "BITTER"
     },
@@ -35,27 +35,27 @@
       "name": "Beyond These Stars"
     },
     "2379160": {
-      "rank": 2479,
+      "rank": 2464,
       "estimate": "7k+",
       "name": "Signy & Mino: Against All Gods"
     },
     "2700560": {
-      "rank": 968,
+      "rank": 967,
       "estimate": "40k+",
       "name": "Expedition: Backrooms"
     },
     "2979500": {
-      "rank": 2127,
+      "rank": 2130,
       "estimate": "7k+",
       "name": "Serial World"
     },
     "2988030": {
-      "rank": 385,
+      "rank": 388,
       "estimate": "80k+",
       "name": "Into the Fire"
     },
     "3004810": {
-      "rank": 4097,
+      "rank": 4104,
       "estimate": "<7k",
       "name": "OPERATIVES: Revolve"
     },
@@ -65,29 +65,34 @@
       "name": "UFL™"
     },
     "3408340": {
-      "rank": 3445,
+      "rank": 3453,
       "estimate": "<7k",
       "name": "Inferno Cafe"
     },
     "3531170": {
-      "rank": 3582,
+      "rank": 3587,
       "estimate": "<7k",
       "name": "GAL BOCCHI"
     },
     "3634550": {
-      "rank": 4743,
+      "rank": 4749,
       "estimate": "<7k",
       "name": "Ninja Game"
     },
     "3793190": {
-      "rank": 476,
+      "rank": 477,
       "estimate": "80k+",
       "name": "American Truck Simulator - RAM & Dodge Car Pack"
     },
     "4402200": {
-      "rank": 2319,
+      "rank": 2320,
       "estimate": "7k+",
       "name": "Project Tomorrow"
+    },
+    "4804660": {
+      "rank": 4875,
+      "estimate": "<7k",
+      "name": "DUSKDOG"
     }
   }
 }

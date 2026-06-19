@@ -1,51 +1,51 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-18T22:55:29.216Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-19T05:39:36.519Z",
+  "entryCount": 20,
   "entries": {
     "1113400": {
-      "rank": 540,
+      "rank": 541,
       "estimate": "40k+",
       "name": "Alliance of the Sacred Suns"
     },
     "1231210": {
-      "rank": 2839,
+      "rank": 2845,
       "estimate": "7k+",
       "name": "Midair 2"
     },
     "1353150": {
-      "rank": 3006,
+      "rank": 3013,
       "estimate": "<7k",
       "name": "The Path of Calydra"
     },
     "1547540": {
-      "rank": 498,
+      "rank": 500,
       "estimate": "80k+",
       "name": "They Are Here: Alien Abduction Horror"
     },
     "1630460": {
-      "rank": 2997,
-      "estimate": "7k+",
+      "rank": 3002,
+      "estimate": "<7k",
       "name": "iii: Revolving Wonderland"
     },
     "2163660": {
-      "rank": 2840,
+      "rank": 2847,
       "estimate": "7k+",
       "name": "Loading..."
     },
     "2228000": {
-      "rank": 4324,
+      "rank": 4330,
       "estimate": "<7k",
       "name": "Hazuki Dies: She Has No Name"
     },
     "2410360": {
-      "rank": 2114,
+      "rank": 2120,
       "estimate": "7k+",
       "name": "Mirth Island"
     },
     "2712460": {
-      "rank": 2760,
+      "rank": 2765,
       "estimate": "7k+",
       "name": "DUNGEON SLASHER"
     },
@@ -65,7 +65,7 @@
       "name": "Pixel Formation"
     },
     "4024440": {
-      "rank": 1008,
+      "rank": 1010,
       "estimate": "25k+",
       "name": "Haunted Heist"
     },
@@ -75,19 +75,24 @@
       "name": "Rift Fishing"
     },
     "4113940": {
-      "rank": 642,
+      "rank": 638,
       "estimate": "40k+",
       "name": "Sovereign Tower"
     },
     "4167200": {
-      "rank": 1310,
+      "rank": 1311,
       "estimate": "25k+",
       "name": "UN:Me"
     },
     "4360760": {
-      "rank": 2767,
+      "rank": 2768,
       "estimate": "7k+",
       "name": "Gemini X"
+    },
+    "4375230": {
+      "rank": 4963,
+      "estimate": "<7k",
+      "name": "Sangokushi BOND"
     },
     "4547970": {
       "rank": 2304,
@@ -95,7 +100,7 @@
       "name": "Pih 2"
     },
     "4767480": {
-      "rank": 176,
+      "rank": 175,
       "estimate": "200k+",
       "name": "Lords of the Fallen II"
     }
