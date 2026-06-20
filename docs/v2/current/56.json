@@ -1,21 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-19T17:41:20.372Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-19T21:53:57.523Z",
+  "entryCount": 24,
   "entries": {
+    "1025560": {
+      "rank": 4543,
+      "estimate": "<7k",
+      "name": "Flea Madness"
+    },
     "1081830": {
-      "rank": 2244,
+      "rank": 2246,
       "estimate": "7k+",
       "name": "Blood And Mead"
     },
     "1155850": {
-      "rank": 2514,
+      "rank": 2518,
       "estimate": "7k+",
       "name": "Lost Viking: Kingdom of Women"
     },
     "1307150": {
-      "rank": 3326,
+      "rank": 3293,
       "estimate": "<7k",
       "name": "MLF: Pro Catch"
     },
@@ -25,32 +30,32 @@
       "name": "Derelicts"
     },
     "1734130": {
-      "rank": 5021,
+      "rank": 5029,
       "estimate": "<7k",
       "name": "Concerto on White"
     },
     "1736200": {
-      "rank": 2907,
+      "rank": 2911,
       "estimate": "7k+",
       "name": "Sealed Gate"
     },
     "1941640": {
-      "rank": 1444,
+      "rank": 1445,
       "estimate": "25k+",
       "name": "4D Miner"
     },
     "2202650": {
-      "rank": 1143,
+      "rank": 1144,
       "estimate": "25k+",
       "name": "Crescent County"
     },
     "2210240": {
-      "rank": 3199,
+      "rank": 3201,
       "estimate": "<7k",
       "name": "Hoglands"
     },
     "2254990": {
-      "rank": 112,
+      "rank": 113,
       "estimate": "200k+",
       "name": "Permafrost"
     },
@@ -60,42 +65,42 @@
       "name": "MOONSHIRE"
     },
     "2666160": {
-      "rank": 1240,
+      "rank": 1241,
       "estimate": "25k+",
       "name": "STARVEIL PROTOCOL A.A.A."
     },
     "2946530": {
-      "rank": 3304,
+      "rank": 3306,
       "estimate": "<7k",
       "name": "Tornado Emergency"
     },
     "3166050": {
-      "rank": 475,
+      "rank": 476,
       "estimate": "80k+",
       "name": "Quite a Ride"
     },
     "3259000": {
-      "rank": 3014,
+      "rank": 3019,
       "estimate": "<7k",
       "name": "Crathos Deep"
     },
     "3266110": {
-      "rank": 796,
+      "rank": 797,
       "estimate": "40k+",
       "name": "Black Pine: Incident Response"
     },
     "3819020": {
-      "rank": 4747,
+      "rank": 4755,
       "estimate": "<7k",
       "name": "DEADBOOT"
     },
     "3880400": {
-      "rank": 1812,
+      "rank": 1813,
       "estimate": "15k+",
       "name": "FRUKT"
     },
     "4459720": {
-      "rank": 4925,
+      "rank": 4929,
       "estimate": "<7k",
       "name": "Cyber Demon Protocol"
     },
@@ -105,17 +110,17 @@
       "name": "Scarlet Skips"
     },
     "4514140": {
-      "rank": 4756,
+      "rank": 4761,
       "estimate": "<7k",
       "name": "CHEW YOUR FOOD"
     },
     "4687390": {
-      "rank": 1063,
+      "rank": 1061,
       "estimate": "25k+",
       "name": "Abiotic Factor - Entropic Break"
     },
     "4689550": {
-      "rank": 4457,
+      "rank": 4458,
       "estimate": "<7k",
       "name": "RuneCipher"
     }
