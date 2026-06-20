@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-20T04:50:43.009Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-20T08:39:37.556Z",
+  "entryCount": 31,
   "entries": {
     "691790": {
       "rank": 310,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Robot Hospice",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4276210": {
+      "rank": 9743,
+      "estimate": "<7k",
+      "name": "Infinite Space: Mining",
+      "releaseDate": "2026-06-20",
       "source": "tracked"
     }
   }
