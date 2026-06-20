@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-20T12:36:48.741Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-20T17:01:35.923Z",
+  "entryCount": 24,
   "entries": {
     "850170": {
       "rank": 394,
@@ -149,6 +149,13 @@
       "estimate": "15k+",
       "name": "Banana of Doom",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "3939700": {
+      "rank": 1044,
+      "estimate": "25k+",
+      "name": "Treasure Beach",
+      "releaseDate": "2026-06-20",
       "source": "tracked"
     },
     "4676790": {

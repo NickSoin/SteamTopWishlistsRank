@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-20T12:36:48.741Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-20T17:01:35.923Z",
+  "entryCount": 23,
   "entries": {
     "1171340": {
-      "rank": 1962,
+      "rank": 1965,
       "estimate": "15k+",
       "name": "A.I.M. War Protocol"
     },
     "1535520": {
-      "rank": 2062,
+      "rank": 2064,
       "estimate": "7k+",
       "name": "CyberTown"
     },
     "1888880": {
-      "rank": 4245,
+      "rank": 4251,
       "estimate": "<7k",
       "name": "Darkest Abyss"
     },
@@ -25,7 +25,7 @@
       "name": "EthrA"
     },
     "2415500": {
-      "rank": 1169,
+      "rank": 1171,
       "estimate": "25k+",
       "name": "Black Finger JET"
     },
@@ -40,12 +40,12 @@
       "name": "Divine Frequency"
     },
     "2845310": {
-      "rank": 2191,
+      "rank": 2195,
       "estimate": "7k+",
       "name": "Hoodies Squad: Alcoholypse"
     },
     "2881620": {
-      "rank": 1936,
+      "rank": 1938,
       "estimate": "15k+",
       "name": "Paraside: Duality Unbound"
     },
@@ -60,22 +60,22 @@
       "name": "Warlord: Awaji"
     },
     "3387240": {
-      "rank": 2737,
+      "rank": 2738,
       "estimate": "7k+",
       "name": "My Fairy Princess"
     },
     "3428350": {
-      "rank": 4753,
+      "rank": 4760,
       "estimate": "<7k",
       "name": "Airport Police Simulator"
     },
     "3438610": {
-      "rank": 3466,
+      "rank": 3471,
       "estimate": "<7k",
       "name": "Mach Speed Intercept"
     },
     "3446130": {
-      "rank": 3545,
+      "rank": 3548,
       "estimate": "<7k",
       "name": "Windwoven"
     },
@@ -85,12 +85,12 @@
       "name": "DOOM: The Dark Ages | Revelations"
     },
     "3713920": {
-      "rank": 4165,
+      "rank": 4169,
       "estimate": "<7k",
       "name": "Drug Dealer Schedule"
     },
     "3979580": {
-      "rank": 2267,
+      "rank": 2269,
       "estimate": "7k+",
       "name": "ARBITER 131"
     },
@@ -100,19 +100,24 @@
       "name": "Fright Train"
     },
     "4210370": {
-      "rank": 4457,
+      "rank": 4446,
       "estimate": "<7k",
       "name": "Guardians Planetfall"
     },
     "4312850": {
-      "rank": 879,
+      "rank": 873,
       "estimate": "40k+",
       "name": "FISH"
     },
     "4335620": {
-      "rank": 3670,
+      "rank": 3524,
       "estimate": "<7k",
       "name": "Lootborne"
+    },
+    "4549610": {
+      "rank": 5006,
+      "estimate": "<7k",
+      "name": "Three Kingdoms : Alias"
     }
   }
 }
