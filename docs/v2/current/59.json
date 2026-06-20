@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-20T08:39:37.556Z",
+  "updatedAt": "2026-06-20T12:36:48.741Z",
   "entryCount": 22,
   "entries": {
     "259000": {
@@ -10,17 +10,17 @@
       "name": "Dead Pixels II"
     },
     "983680": {
-      "rank": 1447,
+      "rank": 1445,
       "estimate": "25k+",
       "name": "SILENT DOOM"
     },
     "1113080": {
-      "rank": 1730,
+      "rank": 1735,
       "estimate": "15k+",
       "name": "Dog Trainer"
     },
     "1175350": {
-      "rank": 4124,
+      "rank": 4125,
       "estimate": "<7k",
       "name": "Archer: The Witch's Wrath"
     },
@@ -30,7 +30,7 @@
       "name": "Ant Colony: Wild Forest"
     },
     "1571790": {
-      "rank": 4934,
+      "rank": 4939,
       "estimate": "<7k",
       "name": "Dust Walkers"
     },
@@ -40,12 +40,12 @@
       "name": "Bunker Builder Simulator"
     },
     "2211130": {
-      "rank": 3666,
+      "rank": 3671,
       "estimate": "<7k",
       "name": "SOULBOUND"
     },
     "2251220": {
-      "rank": 1398,
+      "rank": 1397,
       "estimate": "25k+",
       "name": "High Times - Dating/Cooking Sim"
     },
@@ -55,7 +55,7 @@
       "name": "Lovelorn sanatorium Ⅳ"
     },
     "2405340": {
-      "rank": 848,
+      "rank": 849,
       "estimate": "40k+",
       "name": "Dead On Arrival"
     },
@@ -65,17 +65,17 @@
       "name": "Drăculești"
     },
     "2616650": {
-      "rank": 3097,
+      "rank": 3098,
       "estimate": "<7k",
       "name": "Engraving"
     },
     "2626770": {
-      "rank": 5025,
+      "rank": 5026,
       "estimate": "<7k",
       "name": "Yellowcake"
     },
     "2897710": {
-      "rank": 1528,
+      "rank": 1527,
       "estimate": "15k+",
       "name": "Truck Manager"
     },
@@ -90,7 +90,7 @@
       "name": "Margin of the Strange"
     },
     "3412110": {
-      "rank": 4309,
+      "rank": 4308,
       "estimate": "<7k",
       "name": "Severed Love"
     },
@@ -100,7 +100,7 @@
       "name": "Infinite Alliance"
     },
     "3734010": {
-      "rank": 2052,
+      "rank": 2050,
       "estimate": "7k+",
       "name": "Project Retrograde: The Becoming"
     },
@@ -110,8 +110,8 @@
       "name": "Cronos: Lazarus"
     },
     "4779560": {
-      "rank": 3066,
-      "estimate": "<7k",
+      "rank": 3000,
+      "estimate": "7k+",
       "name": "Idle Startup"
     }
   }

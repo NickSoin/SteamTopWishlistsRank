@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-20T08:39:37.556Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-20T12:36:48.741Z",
+  "entryCount": 24,
   "entries": {
     "1415600": {
       "rank": 2140,
@@ -10,7 +10,7 @@
       "name": "Frequency: Chernobyl"
     },
     "1655750": {
-      "rank": 3328,
+      "rank": 3329,
       "estimate": "<7k",
       "name": "Uboat Mechanic Simulator"
     },
@@ -20,7 +20,7 @@
       "name": "Unawake"
     },
     "1993410": {
-      "rank": 3675,
+      "rank": 3677,
       "estimate": "<7k",
       "name": "Laws of Nadragia"
     },
@@ -45,22 +45,22 @@
       "name": "Pocket Legend : Inventory Roguelike Deckbuilder"
     },
     "3301350": {
-      "rank": 2687,
+      "rank": 2688,
       "estimate": "7k+",
       "name": "Sleep Well Cemetery"
     },
     "3474070": {
-      "rank": 5029,
+      "rank": 5032,
       "estimate": "<7k",
       "name": "Magnavis"
     },
     "3486530": {
-      "rank": 295,
+      "rank": 296,
       "estimate": "80k+",
       "name": "Stupid Never Dies"
     },
     "3539320": {
-      "rank": 2598,
+      "rank": 2599,
       "estimate": "7k+",
       "name": "Scribble Wolf"
     },
@@ -70,22 +70,27 @@
       "name": "Fourleaf Fields"
     },
     "3640840": {
-      "rank": 1347,
+      "rank": 1346,
       "estimate": "25k+",
       "name": "LANDLORD"
     },
     "3818090": {
-      "rank": 1450,
+      "rank": 1449,
       "estimate": "25k+",
       "name": "Haunted Room! Urami-chan"
     },
     "3869850": {
-      "rank": 1408,
+      "rank": 1407,
       "estimate": "25k+",
       "name": "Welcome to the Game III"
     },
+    "3998040": {
+      "rank": 5040,
+      "estimate": "<7k",
+      "name": "Fossilfuel 3"
+    },
     "4099630": {
-      "rank": 1266,
+      "rank": 1262,
       "estimate": "25k+",
       "name": "Tiling Town"
     },
@@ -95,7 +100,7 @@
       "name": "HapgetaSocial"
     },
     "4197200": {
-      "rank": 4232,
+      "rank": 4207,
       "estimate": "<7k",
       "name": "Last Night Last Call"
     },
@@ -105,17 +110,17 @@
       "name": "Lost & Found: A This Bed We Made Story"
     },
     "4350100": {
-      "rank": 3678,
+      "rank": 3680,
       "estimate": "<7k",
       "name": "Orbrix"
     },
     "4462580": {
-      "rank": 1719,
+      "rank": 1718,
       "estimate": "15k+",
       "name": "BLIGHTEN"
     },
     "4657920": {
-      "rank": 1591,
+      "rank": 1588,
       "estimate": "15k+",
       "name": "War Fantasy"
     }
