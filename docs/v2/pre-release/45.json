@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T21:53:57.523Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-20T04:50:43.009Z",
+  "entryCount": 29,
   "entries": {
     "541310": {
       "rank": 21,
@@ -208,6 +208,13 @@
       "estimate": "40k+",
       "name": "Sinner Maker",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4637330": {
+      "rank": 2180,
+      "estimate": "7k+",
+      "name": "Company Rising",
+      "releaseDate": "2026-06-19",
       "source": "tracked"
     }
   }

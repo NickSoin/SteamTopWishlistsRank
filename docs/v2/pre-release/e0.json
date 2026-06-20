@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T21:53:57.523Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-20T04:50:43.009Z",
+  "entryCount": 22,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -143,6 +143,13 @@
       "name": "Miss Neko: Pirates",
       "releaseDate": "2024-03-22",
       "source": "historical"
+    },
+    "3975500": {
+      "rank": 2450,
+      "estimate": "7k+",
+      "name": "Poem of the Starherd",
+      "releaseDate": "2026-06-19",
+      "source": "tracked"
     },
     "4515660": {
       "rank": 1982,

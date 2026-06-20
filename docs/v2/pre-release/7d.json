@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-19T21:53:57.523Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-20T04:50:43.009Z",
+  "entryCount": 30,
   "entries": {
     "919360": {
       "rank": 151,
@@ -211,6 +211,13 @@
       "estimate": "40k+",
       "name": "Steel Artery: Train City Builder",
       "releaseDate": null,
+      "source": "tracked"
+    },
+    "4353630": {
+      "rank": 1337,
+      "estimate": "25k+",
+      "name": "Summer Sisters",
+      "releaseDate": "2026-06-19",
       "source": "tracked"
     }
   }

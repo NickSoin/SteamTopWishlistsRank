@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-19T21:53:57.523Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-20T04:50:43.009Z",
+  "entryCount": 20,
   "entries": {
     "981720": {
-      "rank": 2892,
+      "rank": 2893,
       "estimate": "7k+",
       "name": "Lore Finder"
     },
     "1068220": {
-      "rank": 3305,
+      "rank": 3312,
       "estimate": "<7k",
       "name": "My Little Army"
     },
     "1174510": {
-      "rank": 2606,
+      "rank": 2608,
       "estimate": "7k+",
       "name": "Call of Saregnar"
     },
     "1355900": {
-      "rank": 1560,
+      "rank": 1561,
       "estimate": "15k+",
       "name": "Tattered Banners"
     },
     "1547880": {
-      "rank": 3361,
+      "rank": 3363,
       "estimate": "<7k",
       "name": "Aurascope"
     },
     "1685630": {
-      "rank": 4831,
+      "rank": 4835,
       "estimate": "<7k",
       "name": "浊之铃"
     },
     "1874980": {
-      "rank": 2680,
+      "rank": 2683,
       "estimate": "7k+",
       "name": "Ready for Riot"
     },
@@ -50,54 +50,59 @@
       "name": "Haunted Paws"
     },
     "2921670": {
-      "rank": 4371,
+      "rank": 4363,
       "estimate": "<7k",
       "name": "Cultivation Realm: Card Survival"
     },
     "3002550": {
-      "rank": 1889,
+      "rank": 1891,
       "estimate": "15k+",
       "name": "Shadow Sacrament: The Roots of Evil"
     },
     "3058760": {
-      "rank": 3352,
+      "rank": 3354,
       "estimate": "<7k",
       "name": "Lost in Limbo"
     },
     "3475880": {
-      "rank": 1023,
+      "rank": 1024,
       "estimate": "25k+",
       "name": "Train Goes Right"
     },
     "3989790": {
-      "rank": 3250,
+      "rank": 3246,
       "estimate": "<7k",
       "name": "Cranked"
     },
     "4048520": {
-      "rank": 951,
+      "rank": 952,
       "estimate": "40k+",
       "name": "HAELE 3D - Pose Studio Max - Anatomy Drawing References"
     },
     "4110720": {
-      "rank": 3172,
+      "rank": 3178,
       "estimate": "<7k",
       "name": "Shardpunk 2"
     },
     "4159680": {
-      "rank": 4944,
+      "rank": 4912,
       "estimate": "<7k",
       "name": "Barfender"
     },
     "4483420": {
-      "rank": 3501,
+      "rank": 3503,
       "estimate": "<7k",
       "name": "Luna Has Gone"
     },
     "4668010": {
-      "rank": 4527,
+      "rank": 4528,
       "estimate": "<7k",
       "name": "Full Belly Breakout"
+    },
+    "4705650": {
+      "rank": 5033,
+      "estimate": "<7k",
+      "name": "Silent Shark"
     }
   }
 }
