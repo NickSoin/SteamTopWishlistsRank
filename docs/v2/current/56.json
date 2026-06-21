@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-21T05:44:52.669Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-21T09:15:24.140Z",
+  "entryCount": 25,
   "entries": {
     "1025560": {
-      "rank": 4577,
+      "rank": 4583,
       "estimate": "<7k",
       "name": "Flea Madness"
     },
     "1081830": {
-      "rank": 2265,
+      "rank": 2267,
       "estimate": "7k+",
       "name": "Blood And Mead"
     },
@@ -20,7 +20,7 @@
       "name": "Lost Viking: Kingdom of Women"
     },
     "1307150": {
-      "rank": 3155,
+      "rank": 3141,
       "estimate": "<7k",
       "name": "MLF: Pro Catch"
     },
@@ -30,12 +30,12 @@
       "name": "Derelicts"
     },
     "1734130": {
-      "rank": 5060,
+      "rank": 5061,
       "estimate": "<7k",
       "name": "Concerto on White"
     },
     "1736200": {
-      "rank": 2943,
+      "rank": 2947,
       "estimate": "7k+",
       "name": "Sealed Gate"
     },
@@ -50,7 +50,7 @@
       "name": "Crescent County"
     },
     "2210240": {
-      "rank": 3227,
+      "rank": 3228,
       "estimate": "<7k",
       "name": "Hoglands"
     },
@@ -65,7 +65,7 @@
       "name": "MOONSHIRE"
     },
     "2666160": {
-      "rank": 1243,
+      "rank": 1244,
       "estimate": "25k+",
       "name": "STARVEIL PROTOCOL A.A.A."
     },
@@ -80,7 +80,7 @@
       "name": "Quite a Ride"
     },
     "3259000": {
-      "rank": 3042,
+      "rank": 3044,
       "estimate": "<7k",
       "name": "Crathos Deep"
     },
@@ -90,7 +90,7 @@
       "name": "Black Pine: Incident Response"
     },
     "3819020": {
-      "rank": 4785,
+      "rank": 4786,
       "estimate": "<7k",
       "name": "DEADBOOT"
     },
@@ -98,6 +98,11 @@
       "rank": 1823,
       "estimate": "15k+",
       "name": "FRUKT"
+    },
+    "4370210": {
+      "rank": 5063,
+      "estimate": "<7k",
+      "name": "Split Brain Samsara"
     },
     "4459720": {
       "rank": 4956,
@@ -110,7 +115,7 @@
       "name": "Scarlet Skips"
     },
     "4514140": {
-      "rank": 4773,
+      "rank": 4776,
       "estimate": "<7k",
       "name": "CHEW YOUR FOOD"
     },
@@ -120,7 +125,7 @@
       "name": "Abiotic Factor - Entropic Break"
     },
     "4689550": {
-      "rank": 4482,
+      "rank": 4485,
       "estimate": "<7k",
       "name": "RuneCipher"
     }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-21T05:44:52.669Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-21T09:15:24.140Z",
+  "entryCount": 23,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -149,6 +149,13 @@
       "estimate": "7k+",
       "name": "Poem of the Starherd",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4453470": {
+      "rank": 8336,
+      "estimate": "<7k",
+      "name": "Crazy Fruit Shooter",
+      "releaseDate": "2026-06-21",
       "source": "tracked"
     },
     "4515660": {
