@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-21T09:15:24.140Z",
-  "entryCount": 10,
+  "updatedAt": "2026-06-21T12:48:57.208Z",
+  "entryCount": 11,
   "entries": {
     "1593010": {
       "rank": 513,
@@ -10,34 +10,34 @@
       "name": "The Store is Closed"
     },
     "1607300": {
-      "rank": 3781,
+      "rank": 3787,
       "estimate": "<7k",
       "name": "March March!"
     },
     "1621890": {
-      "rank": 5003,
+      "rank": 5007,
       "estimate": "<7k",
       "name": "Serial Killer Life"
     },
     "1913120": {
-      "rank": 101,
+      "rank": 102,
       "estimate": "200k+",
       "name": "Tears of Metal",
       "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6339469370178879642"
     },
     "2079920": {
-      "rank": 1909,
+      "rank": 1910,
       "estimate": "15k+",
       "name": "NAME OF THE WILL"
     },
     "2319400": {
-      "rank": 4721,
+      "rank": 4728,
       "estimate": "<7k",
       "name": "Rootown"
     },
     "2491830": {
-      "rank": 1996,
+      "rank": 1999,
       "estimate": "15k+",
       "name": "Zero Losses"
     },
@@ -47,14 +47,19 @@
       "name": "Anterris"
     },
     "3836490": {
-      "rank": 1484,
+      "rank": 1486,
       "estimate": "25k+",
       "name": "Lead The Dragon"
     },
     "4221910": {
-      "rank": 274,
+      "rank": 275,
       "estimate": "80k+",
       "name": "Plague Doctor: Life in Pestilence"
+    },
+    "4622160": {
+      "rank": 5014,
+      "estimate": "<7k",
+      "name": "Arise Dark Lord"
     }
   }
 }

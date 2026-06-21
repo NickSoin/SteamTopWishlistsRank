@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-21T09:15:24.140Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-21T12:48:57.208Z",
+  "entryCount": 25,
   "entries": {
     "374190": {
       "rank": 414,
@@ -168,6 +168,13 @@
       "name": "American Truck Simulator - Iowa",
       "releaseDate": "2025-07-10",
       "source": "historical"
+    },
+    "4334840": {
+      "rank": 4496,
+      "estimate": "<7k",
+      "name": "Mesozoic Dawn",
+      "releaseDate": "2026-06-21",
+      "source": "tracked"
     },
     "4566140": {
       "rank": 9826,
