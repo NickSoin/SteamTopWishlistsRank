@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-21T12:48:57.208Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-21T16:57:58.567Z",
+  "entryCount": 25,
   "entries": {
     "408200": {
-      "rank": 3237,
+      "rank": 3235,
       "estimate": "<7k",
       "name": "Red Frame"
     },
     "1298200": {
-      "rank": 3183,
+      "rank": 3185,
       "estimate": "<7k",
       "name": "Crazy Lemmings"
     },
     "1425660": {
-      "rank": 1885,
+      "rank": 1888,
       "estimate": "15k+",
       "name": "SCP : Forgotten Facility"
     },
@@ -30,22 +30,22 @@
       "name": "1-900-CULT"
     },
     "2295150": {
-      "rank": 3647,
+      "rank": 3655,
       "estimate": "<7k",
       "name": "Dragonfall"
     },
     "2483700": {
-      "rank": 2848,
+      "rank": 2854,
       "estimate": "7k+",
       "name": "HARMA"
     },
     "2750770": {
-      "rank": 2008,
+      "rank": 2010,
       "estimate": "7k+",
       "name": "Threads of You: Beyond the Bay"
     },
     "2782470": {
-      "rank": 2899,
+      "rank": 2908,
       "estimate": "7k+",
       "name": "Pharos Light"
     },
@@ -55,32 +55,32 @@
       "name": "东方夜雀食堂动画版 第一话 - 最强的是谁！？"
     },
     "3066300": {
-      "rank": 839,
+      "rank": 838,
       "estimate": "40k+",
       "name": "Sky Dust"
     },
     "3265840": {
-      "rank": 2060,
+      "rank": 2044,
       "estimate": "7k+",
       "name": "BioEden"
     },
     "3299450": {
-      "rank": 2093,
+      "rank": 2092,
       "estimate": "7k+",
       "name": "Calame"
     },
     "3387300": {
-      "rank": 2517,
+      "rank": 2519,
       "estimate": "7k+",
       "name": "Lost Ruins of Arnak"
     },
     "3473430": {
-      "rank": 1283,
+      "rank": 1284,
       "estimate": "25k+",
       "name": "All Our Broken Parts"
     },
     "3575220": {
-      "rank": 4235,
+      "rank": 4242,
       "estimate": "<7k",
       "name": "Guardians of the Wall"
     },
@@ -95,27 +95,27 @@
       "name": "American Truck Simulator - Ford Car Pack"
     },
     "3922000": {
-      "rank": 1126,
+      "rank": 1125,
       "estimate": "25k+",
       "name": "Neighborhoods"
     },
     "3966570": {
-      "rank": 1920,
+      "rank": 1924,
       "estimate": "15k+",
       "name": "Spot Zero"
     },
     "4089520": {
-      "rank": 2348,
+      "rank": 2349,
       "estimate": "7k+",
       "name": "Bronzebeard's Tavern 2"
     },
     "4137830": {
-      "rank": 2767,
+      "rank": 2765,
       "estimate": "7k+",
       "name": "Must be Feng Shui"
     },
     "4379870": {
-      "rank": 3385,
+      "rank": 3377,
       "estimate": "<7k",
       "name": "23:61"
     },
@@ -123,6 +123,11 @@
       "rank": 539,
       "estimate": "40k+",
       "name": "Painland"
+    },
+    "4780870": {
+      "rank": 5049,
+      "estimate": "<7k",
+      "name": "Aleef: Desktop Pet Collector"
     }
   }
 }

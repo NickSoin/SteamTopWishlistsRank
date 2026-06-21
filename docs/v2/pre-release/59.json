@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-21T12:48:57.208Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-21T16:57:58.567Z",
+  "entryCount": 30,
   "entries": {
     "601360": {
       "rank": 122,
@@ -208,6 +208,13 @@
       "name": "Master of Command",
       "releaseDate": "2025-10-27",
       "source": "historical"
+    },
+    "4779560": {
+      "rank": 2562,
+      "estimate": "7k+",
+      "name": "Idle Startup",
+      "releaseDate": "2026-06-21",
+      "source": "tracked"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-21T12:48:57.208Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-21T16:57:58.567Z",
+  "entryCount": 28,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "Mistaken",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4698120": {
+      "rank": 9038,
+      "estimate": "<7k",
+      "name": "FAST FOOD FUNKIN'",
+      "releaseDate": "2026-06-21",
       "source": "tracked"
     },
     "4767680": {
