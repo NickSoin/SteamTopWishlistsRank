@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-20T21:50:25.908Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-21T05:44:52.669Z",
+  "entryCount": 30,
   "entries": {
     "914890": {
       "rank": 644,
@@ -180,6 +180,13 @@
       "name": "Rocksmith+",
       "releaseDate": "2024-06-06",
       "source": "historical"
+    },
+    "2907890": {
+      "rank": 2991,
+      "estimate": "7k+",
+      "name": "Wizzerd Quest 2",
+      "releaseDate": "2026-06-20",
+      "source": "tracked"
     },
     "2969380": {
       "rank": 2189,

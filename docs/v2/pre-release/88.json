@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-20T21:50:25.908Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-21T05:44:52.669Z",
+  "entryCount": 22,
   "entries": {
     "900040": {
       "rank": 60,
@@ -143,6 +143,13 @@
       "name": "Shadow Project",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4420050": {
+      "rank": 4878,
+      "estimate": "<7k",
+      "name": "The Unrealtor",
+      "releaseDate": "2026-06-20",
+      "source": "tracked"
     },
     "4775970": {
       "rank": 6518,
