@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-20T17:01:35.923Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-20T21:50:25.908Z",
+  "entryCount": 26,
   "entries": {
     "546560": {
       "rank": 11,
@@ -170,6 +170,13 @@
       "estimate": "40k+",
       "name": "Puni the Florist",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "3812790": {
+      "rank": 4604,
+      "estimate": "<7k",
+      "name": "Live Translate",
+      "releaseDate": "2026-06-20",
       "source": "tracked"
     },
     "4566920": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-20T17:01:35.923Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-20T21:50:25.908Z",
+  "entryCount": 22,
   "entries": {
     "1260940": {
       "rank": 625,
@@ -10,12 +10,12 @@
       "name": "Core Decay"
     },
     "1352700": {
-      "rank": 4546,
+      "rank": 4550,
       "estimate": "<7k",
       "name": "Dancing with Ghosts"
     },
     "1722800": {
-      "rank": 2821,
+      "rank": 2817,
       "estimate": "7k+",
       "name": "Colossus - Eternal Blight"
     },
@@ -25,27 +25,27 @@
       "name": "Dungeons of the Amber Griffin"
     },
     "1897030": {
-      "rank": 2222,
+      "rank": 2225,
       "estimate": "7k+",
       "name": "Prison King"
     },
     "2174060": {
-      "rank": 4307,
+      "rank": 4315,
       "estimate": "<7k",
       "name": "Sincognito"
     },
     "2195450": {
-      "rank": 4470,
+      "rank": 4478,
       "estimate": "<7k",
       "name": "Aether Wizard Life"
     },
     "2342180": {
-      "rank": 4972,
+      "rank": 4978,
       "estimate": "<7k",
       "name": "MidEvil"
     },
     "2416470": {
-      "rank": 4717,
+      "rank": 4719,
       "estimate": "<7k",
       "name": "Bloody Doctor"
     },
@@ -55,57 +55,62 @@
       "name": "The Legend of California"
     },
     "3010060": {
-      "rank": 4289,
+      "rank": 4296,
       "estimate": "<7k",
       "name": "DEATH PLUNDER-亡命掠夺者"
     },
     "3239830": {
-      "rank": 1628,
+      "rank": 1629,
       "estimate": "15k+",
       "name": "Truth Scrapper"
     },
     "3291450": {
-      "rank": 2800,
+      "rank": 2804,
       "estimate": "7k+",
       "name": "The Vow: Vampire's Curse"
     },
     "3336670": {
-      "rank": 4298,
+      "rank": 4303,
       "estimate": "<7k",
       "name": "[AFANTASIA]"
     },
     "3348370": {
-      "rank": 978,
+      "rank": 982,
       "estimate": "40k+",
       "name": "Ship Graveyard Simulator 3"
     },
     "3424940": {
-      "rank": 4321,
+      "rank": 4329,
       "estimate": "<7k",
       "name": "Prize Denied"
     },
     "3454770": {
-      "rank": 1685,
+      "rank": 1686,
       "estimate": "15k+",
       "name": "Endless Machines"
     },
+    "3570490": {
+      "rank": 5049,
+      "estimate": "<7k",
+      "name": "Frontier: Path of Shadows"
+    },
     "4163130": {
-      "rank": 3446,
+      "rank": 3451,
       "estimate": "<7k",
       "name": "Dr.Clone"
     },
     "4285870": {
-      "rank": 2595,
+      "rank": 2598,
       "estimate": "7k+",
       "name": "Pigs and Wolf"
     },
     "4323990": {
-      "rank": 257,
+      "rank": 254,
       "estimate": "80k+",
       "name": "EMPULSE"
     },
     "4418500": {
-      "rank": 2500,
+      "rank": 2505,
       "estimate": "7k+",
       "name": "Fangstorm"
     }
