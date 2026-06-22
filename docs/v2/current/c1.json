@@ -1,98 +1,103 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-21T16:57:58.567Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-21T21:51:48.036Z",
+  "entryCount": 19,
   "entries": {
     "1149450": {
-      "rank": 592,
+      "rank": 595,
       "estimate": "40k+",
       "name": "Tree of Life 2"
     },
     "1361090": {
-      "rank": 846,
+      "rank": 847,
       "estimate": "40k+",
       "name": "Restitched"
     },
     "1439270": {
-      "rank": 1380,
+      "rank": 1381,
       "estimate": "25k+",
       "name": "Full Circle"
     },
     "1686230": {
-      "rank": 1468,
+      "rank": 1470,
       "estimate": "25k+",
       "name": "Mayday: The Survival Island"
     },
     "2446020": {
-      "rank": 3473,
+      "rank": 3484,
       "estimate": "<7k",
       "name": "Orpheus: Tale of a Lover"
     },
     "2449700": {
-      "rank": 3010,
+      "rank": 3011,
       "estimate": "<7k",
       "name": "HIGHWAY PATROL SIMULATOR"
     },
     "2475170": {
-      "rank": 4633,
+      "rank": 4634,
       "estimate": "<7k",
       "name": "Cosmic Race: Galactic Showdown"
     },
     "2747660": {
-      "rank": 1482,
+      "rank": 1484,
       "estimate": "25k+",
       "name": "Zombie Assault: Resurgence"
     },
     "3039980": {
-      "rank": 1594,
+      "rank": 1595,
       "estimate": "15k+",
       "name": "Sigils of Nightfall"
     },
     "3053470": {
-      "rank": 1956,
+      "rank": 1953,
       "estimate": "15k+",
       "name": "MR. RECORDS"
     },
     "3264980": {
-      "rank": 931,
+      "rank": 933,
       "estimate": "40k+",
       "name": "HELL YEAH simulator"
     },
     "3347690": {
-      "rank": 2421,
+      "rank": 2426,
       "estimate": "7k+",
       "name": "Among the Waves"
     },
     "3423280": {
-      "rank": 239,
+      "rank": 240,
       "estimate": "80k+",
       "name": "Shark Dentist"
     },
     "3589430": {
-      "rank": 2403,
+      "rank": 2406,
       "estimate": "7k+",
       "name": "Heidi's Legacy: Mountains Calling"
     },
     "4044990": {
-      "rank": 2735,
+      "rank": 2742,
       "estimate": "7k+",
       "name": "DEG"
     },
     "4071460": {
-      "rank": 4519,
+      "rank": 4522,
       "estimate": "<7k",
       "name": "Tentacle Locker 2"
     },
     "4196910": {
-      "rank": 3739,
+      "rank": 3741,
       "estimate": "<7k",
       "name": "Rewindead"
     },
     "4332910": {
-      "rank": 4105,
+      "rank": 4114,
       "estimate": "<7k",
       "name": "Blindshot Arena"
+    },
+    "4560490": {
+      "rank": 5072,
+      "estimate": "<7k",
+      "name": "REWIND"
     }
   }
 }

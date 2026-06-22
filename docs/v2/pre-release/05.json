@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-21T16:57:58.567Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-21T21:51:48.036Z",
+  "entryCount": 24,
   "entries": {
     "1062090": {
       "rank": 3,
@@ -168,6 +168,13 @@
       "name": "Hands of Necromancy II",
       "releaseDate": "2024-09-16",
       "source": "historical"
+    },
+    "4681270": {
+      "rank": 8580,
+      "estimate": "<7k",
+      "name": "Pitch & Pixel",
+      "releaseDate": "2026-06-21",
+      "source": "tracked"
     }
   }
 }

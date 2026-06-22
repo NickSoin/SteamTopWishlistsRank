@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-21T16:57:58.567Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-21T21:51:48.036Z",
+  "entryCount": 18,
   "entries": {
     "850870": {
-      "rank": 2847,
+      "rank": 2858,
       "estimate": "7k+",
       "name": "Hard-Life"
     },
@@ -15,42 +15,42 @@
       "name": "VUP-Simulator"
     },
     "1633850": {
-      "rank": 1005,
+      "rank": 1006,
       "estimate": "25k+",
       "name": "Jianghu Simulator"
     },
     "1777480": {
-      "rank": 517,
+      "rank": 516,
       "estimate": "40k+",
       "name": "Pathbreakers: Roaming Blades"
     },
     "1833210": {
-      "rank": 2554,
+      "rank": 2559,
       "estimate": "7k+",
       "name": "Astromine"
     },
     "2160070": {
-      "rank": 746,
+      "rank": 752,
       "estimate": "40k+",
       "name": "Forge of the Fae"
     },
     "2527970": {
-      "rank": 2370,
+      "rank": 2374,
       "estimate": "7k+",
       "name": "Sea Of Rifts"
     },
     "2640150": {
-      "rank": 2364,
+      "rank": 2330,
       "estimate": "7k+",
       "name": "Venus: The Last Ascent"
     },
     "2712590": {
-      "rank": 432,
+      "rank": 433,
       "estimate": "80k+",
       "name": "Dragon Shelter"
     },
     "3164310": {
-      "rank": 3056,
+      "rank": 3061,
       "estimate": "<7k",
       "name": "Verde"
     },
@@ -60,27 +60,27 @@
       "name": "Demon Bluff"
     },
     "3587450": {
-      "rank": 3381,
+      "rank": 3387,
       "estimate": "<7k",
       "name": "Crispy Circuits"
     },
     "3635740": {
-      "rank": 4218,
+      "rank": 4225,
       "estimate": "<7k",
       "name": "Subjectivation"
     },
     "3829400": {
-      "rank": 1300,
+      "rank": 1301,
       "estimate": "25k+",
       "name": "Grand Tactician: Napoleonic Wars (1792-1815)"
     },
     "4355580": {
-      "rank": 630,
+      "rank": 626,
       "estimate": "40k+",
       "name": "Warhammer 40,000: Darktide - Skitarii Class Deluxe Edition"
     },
     "4503570": {
-      "rank": 4762,
+      "rank": 4685,
       "estimate": "<7k",
       "name": "MOLOKAUST"
     },
@@ -88,6 +88,11 @@
       "rank": 969,
       "estimate": "40k+",
       "name": "Agents 404"
+    },
+    "4787190": {
+      "rank": 5036,
+      "estimate": "<7k",
+      "name": "The Legend of Mala Tokmachka"
     }
   }
 }
