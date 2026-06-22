@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T05:53:06.546Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-22T15:49:05.444Z",
+  "entryCount": 40,
   "entries": {
     "720660": {
       "rank": 1007,
@@ -220,6 +220,13 @@
       "name": "The Last of Us™ Part II Remastered",
       "releaseDate": "2025-04-03",
       "source": "historical"
+    },
+    "2742710": {
+      "rank": 717,
+      "estimate": "40k+",
+      "name": "Cozy Cleaner",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     },
     "2743850": {
       "rank": 2563,

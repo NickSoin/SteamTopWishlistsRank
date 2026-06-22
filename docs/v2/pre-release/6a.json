@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T05:53:06.546Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-22T15:49:05.444Z",
+  "entryCount": 27,
   "entries": {
     "536270": {
       "rank": 17,
@@ -173,6 +173,13 @@
       "name": "Gods, Death & Reapers",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3403540": {
+      "rank": 9423,
+      "estimate": "<7k",
+      "name": "Space Grunts: Chrono Shard",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     },
     "3537070": {
       "rank": 27,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T05:53:06.546Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-22T15:49:05.444Z",
+  "entryCount": 31,
   "entries": {
     "658920": {
       "rank": 716,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Pickupbal",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4489580": {
+      "rank": 6016,
+      "estimate": "<7k",
+      "name": "Scales of Silence",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     }
   }

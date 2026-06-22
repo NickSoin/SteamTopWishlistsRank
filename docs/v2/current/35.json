@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-22T05:53:06.546Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-22T15:49:05.444Z",
+  "entryCount": 25,
   "entries": {
     "490360": {
-      "rank": 4001,
+      "rank": 4002,
       "estimate": "<7k",
       "name": "Hermodr"
     },
     "732970": {
-      "rank": 2709,
+      "rank": 2714,
       "estimate": "7k+",
       "name": "Beyond Clouds"
     },
@@ -25,7 +25,7 @@
       "name": "Dynasty of the Sands"
     },
     "1898110": {
-      "rank": 1936,
+      "rank": 1935,
       "estimate": "15k+",
       "name": "MeetLight and the secrets of the universe"
     },
@@ -35,32 +35,32 @@
       "name": "Tenebris Somnia"
     },
     "2270610": {
-      "rank": 4275,
+      "rank": 4278,
       "estimate": "<7k",
       "name": "Whispers Of Yashan"
     },
     "2402680": {
-      "rank": 616,
+      "rank": 613,
       "estimate": "40k+",
       "name": "Dimraeth"
     },
     "2722940": {
-      "rank": 4432,
+      "rank": 4428,
       "estimate": "<7k",
       "name": "Agecraft"
     },
     "2775830": {
-      "rank": 1356,
+      "rank": 1355,
       "estimate": "25k+",
       "name": "100 Pirate Cats"
     },
     "2809380": {
-      "rank": 4849,
+      "rank": 4858,
       "estimate": "<7k",
       "name": "Last Frontier"
     },
     "2856410": {
-      "rank": 1557,
+      "rank": 1558,
       "estimate": "15k+",
       "name": "ALZARA Radiant Echoes"
     },
@@ -75,54 +75,59 @@
       "name": "CLUTCH"
     },
     "3068230": {
-      "rank": 4401,
+      "rank": 4404,
       "estimate": "<7k",
       "name": "Mad Metal"
     },
     "3126990": {
-      "rank": 1284,
+      "rank": 1283,
       "estimate": "25k+",
       "name": "Sealubbers"
     },
     "3133220": {
-      "rank": 3578,
+      "rank": 3581,
       "estimate": "<7k",
       "name": "MAFATE"
     },
     "3372500": {
-      "rank": 1967,
+      "rank": 1966,
       "estimate": "15k+",
       "name": "1000: The All-Mother's Embrace"
     },
     "3407480": {
-      "rank": 4287,
+      "rank": 4292,
       "estimate": "<7k",
       "name": "Magic Wands Workshop"
     },
     "3636510": {
-      "rank": 3298,
+      "rank": 3301,
       "estimate": "<7k",
       "name": "Into A Hearth Yonder"
     },
     "3874910": {
-      "rank": 2891,
+      "rank": 2860,
       "estimate": "7k+",
       "name": "Watamari Part2 - A Fake Marriage?"
     },
     "3991790": {
-      "rank": 4359,
+      "rank": 4360,
       "estimate": "<7k",
       "name": "Attack of the Astrals"
     },
     "4232900": {
-      "rank": 3580,
+      "rank": 3563,
       "estimate": "<7k",
       "name": "Crusader Kings III: By God Alone"
     },
     "4356400": {
-      "rank": 3844,
+      "rank": 3852,
       "estimate": "<7k",
       "name": "Eldor'idle"
+    },
+    "4700560": {
+      "rank": 4929,
+      "estimate": "<7k",
+      "name": "The Girl in the Window"
     }
   }
 }

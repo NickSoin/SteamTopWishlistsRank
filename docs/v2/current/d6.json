@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-22T05:53:06.546Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-22T15:49:05.444Z",
+  "entryCount": 21,
   "entries": {
     "809550": {
       "rank": 2175,
@@ -20,22 +20,22 @@
       "name": "Greyskin"
     },
     "1335780": {
-      "rank": 2028,
+      "rank": 2033,
       "estimate": "7k+",
       "name": "Flight Attendant Simulator"
     },
     "1477930": {
-      "rank": 5093,
+      "rank": 5099,
       "estimate": "<7k",
       "name": "Bike Messenger"
     },
     "1840280": {
-      "rank": 4355,
+      "rank": 4361,
       "estimate": "<7k",
       "name": "Hiboka"
     },
     "1994000": {
-      "rank": 293,
+      "rank": 295,
       "estimate": "80k+",
       "name": "Rogue Soulstone"
     },
@@ -45,7 +45,7 @@
       "name": "Paranormal Tales"
     },
     "2345340": {
-      "rank": 3847,
+      "rank": 3855,
       "estimate": "<7k",
       "name": "Space Travellers"
     },
@@ -55,22 +55,22 @@
       "name": "Gunman Contracts - Stand Alone"
     },
     "2589980": {
-      "rank": 642,
+      "rank": 644,
       "estimate": "40k+",
       "name": "Eden's Guardian"
     },
     "2692660": {
-      "rank": 90,
+      "rank": 89,
       "estimate": "300k+",
       "name": "Car Mechanic Simulator 2026"
     },
     "2779310": {
-      "rank": 4616,
+      "rank": 4621,
       "estimate": "<7k",
       "name": "Stones Keeper II: Chaos Lord"
     },
     "3065940": {
-      "rank": 439,
+      "rank": 440,
       "estimate": "80k+",
       "name": "Gallipoli"
     },
@@ -80,7 +80,7 @@
       "name": "Critterville Goes Bankrupt"
     },
     "3226060": {
-      "rank": 3206,
+      "rank": 3208,
       "estimate": "<7k",
       "name": "DreamEcho"
     },
@@ -90,19 +90,24 @@
       "name": "Stage Fright"
     },
     "3434920": {
-      "rank": 719,
+      "rank": 720,
       "estimate": "40k+",
       "name": "SAGE"
     },
     "3575850": {
-      "rank": 3712,
+      "rank": 3714,
       "estimate": "<7k",
       "name": "Lone Pine"
     },
     "4180840": {
-      "rank": 2299,
+      "rank": 2301,
       "estimate": "7k+",
       "name": "Shadowstone"
+    },
+    "4590980": {
+      "rank": 4990,
+      "estimate": "<7k",
+      "name": "Doctor Pigeon Simulator"
     }
   }
 }

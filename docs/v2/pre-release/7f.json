@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T05:53:06.546Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-22T15:49:05.444Z",
+  "entryCount": 30,
   "entries": {
     "1167100": {
       "rank": 379,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Kioku: Last Summer",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3759220": {
+      "rank": 876,
+      "estimate": "40k+",
+      "name": "Pawsome Resort",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     },
     "4696030": {

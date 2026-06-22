@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T05:53:06.546Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-22T15:49:05.444Z",
+  "entryCount": 21,
   "entries": {
     "832360": {
       "rank": 188,
@@ -135,6 +135,13 @@
       "estimate": "7k+",
       "name": "Lover's Enigma",
       "releaseDate": "2026-05-20",
+      "source": "tracked"
+    },
+    "3316960": {
+      "rank": 5083,
+      "estimate": "<7k",
+      "name": "Ashes of Morgravia",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     },
     "4741570": {

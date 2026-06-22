@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T05:53:06.546Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-22T15:49:05.444Z",
+  "entryCount": 28,
   "entries": {
     "779340": {
       "rank": 5,
@@ -164,6 +164,13 @@
       "name": "Euro Truck Simulator 2 - Nordic Horizons",
       "releaseDate": "2025-11-27",
       "source": "historical"
+    },
+    "2912550": {
+      "rank": 1373,
+      "estimate": "25k+",
+      "name": "Dark Scrolls",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     },
     "2958130": {
       "rank": 44,

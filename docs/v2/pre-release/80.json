@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T05:53:06.546Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-22T15:49:05.444Z",
+  "entryCount": 29,
   "entries": {
     "1112390": {
       "rank": 2418,
@@ -199,6 +199,13 @@
       "name": "DayZ Badlands",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4601350": {
+      "rank": 8522,
+      "estimate": "<7k",
+      "name": "GammaBoost+",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     }
   }
 }
