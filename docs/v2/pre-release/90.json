@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-21T21:51:48.036Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-22T05:53:06.546Z",
+  "entryCount": 22,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -149,6 +149,13 @@
       "name": "Call to Arms - Gates of Hell: Liberation",
       "releaseDate": "2023-11-29",
       "source": "historical"
+    },
+    "3574020": {
+      "rank": 2367,
+      "estimate": "7k+",
+      "name": "Ramen Simulator",
+      "releaseDate": "2026-06-21",
+      "source": "tracked"
     },
     "4583050": {
       "rank": 3911,

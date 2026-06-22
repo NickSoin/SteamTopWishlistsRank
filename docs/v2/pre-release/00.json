@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-21T21:51:48.036Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-22T05:53:06.546Z",
+  "entryCount": 25,
   "entries": {
     "763180": {
       "rank": 734,
@@ -171,6 +171,13 @@
       "name": "Of Lies and Rain",
       "releaseDate": "2025-11-04",
       "source": "historical"
+    },
+    "3365680": {
+      "rank": 6820,
+      "estimate": "<7k",
+      "name": "NONEWORLD",
+      "releaseDate": "2026-06-21",
+      "source": "tracked"
     }
   }
 }

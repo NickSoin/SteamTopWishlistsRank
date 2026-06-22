@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-21T21:51:48.036Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-22T05:53:06.546Z",
+  "entryCount": 23,
   "entries": {
     "553420": {
       "rank": 45,
@@ -156,6 +156,13 @@
       "estimate": "7k+",
       "name": "Abyss Born",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4448700": {
+      "rank": 7958,
+      "estimate": "<7k",
+      "name": "Agraria",
+      "releaseDate": "2026-06-21",
       "source": "tracked"
     }
   }
