@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 18,
   "entries": {
     "1091920": {
       "rank": 46,
@@ -121,6 +121,13 @@
       "estimate": "7k+",
       "name": "挂机破坏神 IdleDiablo",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4583110": {
+      "rank": 9542,
+      "estimate": "<7k",
+      "name": "Hidden Raccoons in Summer",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     }
   }

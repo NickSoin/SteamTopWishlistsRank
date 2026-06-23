@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 21,
   "entries": {
     "912840": {
       "rank": 1084,
@@ -137,6 +137,13 @@
       "estimate": "<7k",
       "name": "Mr Right Simulator",
       "releaseDate": "2026-05-16",
+      "source": "tracked"
+    },
+    "3846630": {
+      "rank": 3117,
+      "estimate": "<7k",
+      "name": "SKY LEGENDS - An Aeropostal Epic",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4642730": {

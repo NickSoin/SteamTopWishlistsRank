@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 27,
   "entries": {
     "467740": {
       "rank": 10,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "IncreKnight",
       "releaseDate": "2026-06-03",
+      "source": "tracked"
+    },
+    "4460310": {
+      "rank": 4815,
+      "estimate": "<7k",
+      "name": "Fun Park Simulator",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     }
   }

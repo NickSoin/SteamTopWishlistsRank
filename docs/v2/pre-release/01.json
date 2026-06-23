@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 34,
   "entries": {
     "427410": {
       "rank": 31,
@@ -233,6 +233,13 @@
       "estimate": "7k+",
       "name": "Until Then: Afterimages",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4355580": {
+      "rank": 578,
+      "estimate": "40k+",
+      "name": "Warhammer 40,000: Darktide - Skitarii Class Deluxe Edition",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 38,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 39,
   "entries": {
     "651490": {
       "rank": 270,
@@ -261,6 +261,13 @@
       "estimate": "7k+",
       "name": "Don't Touch the Snail",
       "releaseDate": "2026-05-29",
+      "source": "tracked"
+    },
+    "4355590": {
+      "rank": 4524,
+      "estimate": "<7k",
+      "name": "Warhammer 40,000: Darktide - Skitarii Class Cosmetic Upgrade",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4585830": {

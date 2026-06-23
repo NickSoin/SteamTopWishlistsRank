@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 26,
   "entries": {
     "378690": {
       "rank": 1270,
@@ -171,6 +171,13 @@
       "name": "Ocean World: Eden Crafters Prologue",
       "releaseDate": "2024-06-24",
       "source": "historical"
+    },
+    "3656560": {
+      "rank": 4876,
+      "estimate": "<7k",
+      "name": "Runeveil",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "3814380": {
       "rank": 9022,

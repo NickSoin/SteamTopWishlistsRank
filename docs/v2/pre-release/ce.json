@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 25,
   "entries": {
     "850170": {
       "rank": 394,
@@ -122,6 +122,13 @@
       "name": "Project Werewulf",
       "releaseDate": "2025-05-06",
       "source": "historical"
+    },
+    "2454170": {
+      "rank": 1617,
+      "estimate": "15k+",
+      "name": "Doodle Dice Monsters",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "2608050": {
       "rank": 1765,

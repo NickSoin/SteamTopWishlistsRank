@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 34,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 35,
   "entries": {
     "931060": {
       "rank": 1426,
@@ -194,6 +194,13 @@
       "name": "Refind Self: The Personality Test Game",
       "releaseDate": "2023-11-13",
       "source": "historical"
+    },
+    "2654990": {
+      "rank": 1478,
+      "estimate": "25k+",
+      "name": "Mythic Love: Iberian Legends",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "2679810": {
       "rank": 42,

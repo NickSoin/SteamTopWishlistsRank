@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 26,
   "entries": {
     "977510": {
       "rank": 1079,
@@ -172,6 +172,13 @@
       "estimate": "15k+",
       "name": "Moonshiner Simulator",
       "releaseDate": "2026-05-20",
+      "source": "tracked"
+    },
+    "4332500": {
+      "rank": 4684,
+      "estimate": "<7k",
+      "name": "HEAVYDELIC",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4755370": {

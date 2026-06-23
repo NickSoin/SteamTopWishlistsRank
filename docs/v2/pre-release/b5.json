@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 32,
   "entries": {
     "789150": {
       "rank": 34,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Better Minesweeper",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "4657260": {
+      "rank": 8962,
+      "estimate": "<7k",
+      "name": "Kin Tandem",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     }
   }

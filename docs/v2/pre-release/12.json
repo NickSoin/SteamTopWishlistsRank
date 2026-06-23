@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 32,
   "entries": {
     "1034140": {
       "rank": 13,
@@ -220,6 +220,13 @@
       "name": "Teenage Mutant Ninja Turtles: Empire City",
       "releaseDate": "2026-04-30",
       "source": "historical"
+    },
+    "4583100": {
+      "rank": 9804,
+      "estimate": "<7k",
+      "name": "Hidden Raccoons in Asia",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     }
   }
 }

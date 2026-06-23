@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 23,
   "entries": {
     "950180": {
       "rank": 218,
@@ -158,6 +158,13 @@
       "estimate": "<7k",
       "name": "Crazy Caveman",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4587010": {
+      "rank": 4795,
+      "estimate": "<7k",
+      "name": "Beggar's Road",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     }
   }

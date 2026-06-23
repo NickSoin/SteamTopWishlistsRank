@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 35,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 36,
   "entries": {
     "976890": {
       "rank": 70,
@@ -246,6 +246,13 @@
       "estimate": "40k+",
       "name": "STARDUST: Wish of Witch",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4355570": {
+      "rank": 353,
+      "estimate": "80k+",
+      "name": "Warhammer 40,000: Darktide - Skitarii Class",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4753420": {

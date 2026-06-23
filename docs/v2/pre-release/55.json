@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 17,
   "entries": {
     "699130": {
       "rank": 139,
@@ -87,6 +87,13 @@
       "name": "Hunt: Showdown 1896 - Myth of the Moors",
       "releaseDate": "2023-07-25",
       "source": "historical"
+    },
+    "2458980": {
+      "rank": 575,
+      "estimate": "40k+",
+      "name": "Dimhaven - The Lost Source",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "2492120": {
       "rank": 652,

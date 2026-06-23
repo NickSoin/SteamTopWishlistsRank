@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 26,
   "entries": {
     "671970": {
       "rank": 44,
@@ -173,6 +173,20 @@
       "name": "dEskape",
       "releaseDate": "2023-09-20",
       "source": "historical"
+    },
+    "2819400": {
+      "rank": 1784,
+      "estimate": "15k+",
+      "name": "Disc Golf Masters",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4557490": {
+      "rank": 4938,
+      "estimate": "<7k",
+      "name": "DarkStone Restoration",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     }
   }
 }

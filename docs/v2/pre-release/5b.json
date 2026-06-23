@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 21,
   "entries": {
     "897730": {
       "rank": 9,
@@ -134,6 +134,13 @@
       "rank": 2709,
       "estimate": "7k+",
       "name": "Echoes of Above",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4309280": {
+      "rank": 2603,
+      "estimate": "7k+",
+      "name": "Caravan Village: Farming Life",
       "releaseDate": "2026-06-23",
       "source": "tracked"
     },

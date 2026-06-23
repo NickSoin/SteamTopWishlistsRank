@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 26,
   "entries": {
     "1063030": {
       "rank": 621,
@@ -181,6 +181,13 @@
       "estimate": "<7k",
       "name": "Slot or Not",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "4221310": {
+      "rank": 4609,
+      "estimate": "<7k",
+      "name": "Chrono CCG",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     }
   }

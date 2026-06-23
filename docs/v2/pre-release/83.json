@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 30,
   "entries": {
     "867210": {
       "rank": 90,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Stoned to Death",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4570530": {
+      "rank": 2521,
+      "estimate": "7k+",
+      "name": "TTT Classic",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4639370": {

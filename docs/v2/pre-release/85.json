@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 29,
   "entries": {
     "440000": {
       "rank": 459,
@@ -191,6 +191,13 @@
       "estimate": "15k+",
       "name": "Deep Corp",
       "releaseDate": "2026-05-26",
+      "source": "tracked"
+    },
+    "4347680": {
+      "rank": 6346,
+      "estimate": "<7k",
+      "name": "DEADWAVE",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4550750": {

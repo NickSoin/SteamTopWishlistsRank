@@ -1,9 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 24,
   "entries": {
+    "752290": {
+      "rank": 6262,
+      "estimate": "<7k",
+      "name": "Scientific project: Optic",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
     "1145350": {
       "rank": 1,
       "estimate": "4m+",

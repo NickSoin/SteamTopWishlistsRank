@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 27,
   "entries": {
     "485400": {
       "rank": 112,
@@ -190,6 +190,13 @@
       "estimate": "<7k",
       "name": "What's the Password?",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4500770": {
+      "rank": 5041,
+      "estimate": "<7k",
+      "name": "KeyFortress",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     }
   }

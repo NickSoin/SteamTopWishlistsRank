@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 25,
   "entries": {
     "820520": {
       "rank": 553,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Birds Hunter",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4347780": {
+      "rank": 8517,
+      "estimate": "<7k",
+      "name": "Code Tycoon",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4556010": {

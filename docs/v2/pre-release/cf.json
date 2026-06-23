@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 27,
   "entries": {
     "502050": {
       "rank": 1,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "Age of Resistance",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4550590": {
+      "rank": 7094,
+      "estimate": "<7k",
+      "name": "Tiny Cats vs Toys",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4645760": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T13:34:11.872Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-23T17:51:53.241Z",
+  "entryCount": 29,
   "entries": {
     "261550": {
       "rank": 7,
@@ -159,6 +159,13 @@
       "name": "Arco",
       "releaseDate": "2024-08-15",
       "source": "historical"
+    },
+    "2401910": {
+      "rank": 4378,
+      "estimate": "<7k",
+      "name": "Dart Racer",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "2435870": {
       "rank": 2360,
