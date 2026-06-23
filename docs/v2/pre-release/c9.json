@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 36,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 37,
   "entries": {
     "856890": {
       "rank": 749,
@@ -222,6 +222,13 @@
       "name": "Plague Lords",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "2840000": {
+      "rank": 2316,
+      "estimate": "7k+",
+      "name": "Lumina Veil",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     },
     "2877770": {
       "rank": 2454,

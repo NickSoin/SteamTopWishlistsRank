@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 17,
   "entries": {
     "1091920": {
       "rank": 46,
@@ -114,6 +114,13 @@
       "estimate": "7k+",
       "name": "It Reaches",
       "releaseDate": "2026-05-17",
+      "source": "tracked"
+    },
+    "4411600": {
+      "rank": 2880,
+      "estimate": "7k+",
+      "name": "挂机破坏神 IdleDiablo",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 28,
   "entries": {
     "939960": {
       "rank": 17,
@@ -172,6 +172,13 @@
       "estimate": "40k+",
       "name": "Terrinoth®: Heroes of Descent",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4102010": {
+      "rank": 2730,
+      "estimate": "7k+",
+      "name": "Idle Chapel",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     },
     "4148100": {

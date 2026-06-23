@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 34,
   "entries": {
     "928960": {
       "rank": 577,
@@ -214,6 +214,13 @@
       "estimate": "7k+",
       "name": "Theater Pack - Hearts of Iron IV: Thunder at our Gates",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4165910": {
+      "rank": 8,
+      "estimate": "1.5m+",
+      "name": "Steam Machine",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     },
     "4310080": {

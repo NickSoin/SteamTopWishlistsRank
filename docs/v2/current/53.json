@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 21,
   "entries": {
     "611820": {
       "rank": 4907,
@@ -10,32 +10,32 @@
       "name": "Xenosis: Alien Infection"
     },
     "1478730": {
-      "rank": 1948,
+      "rank": 1949,
       "estimate": "15k+",
       "name": "Tune My Car"
     },
     "1587920": {
-      "rank": 4704,
+      "rank": 4707,
       "estimate": "<7k",
       "name": "Undead Development 2"
     },
     "1619870": {
-      "rank": 3607,
+      "rank": 3605,
       "estimate": "<7k",
       "name": "The Ballad of Bonky"
     },
     "2002840": {
-      "rank": 2981,
+      "rank": 2979,
       "estimate": "7k+",
       "name": "Gossamer Matrix"
     },
     "2153760": {
-      "rank": 200,
+      "rank": 199,
       "estimate": "200k+",
       "name": "Stronghold 4"
     },
     "2437390": {
-      "rank": 109,
+      "rank": 108,
       "estimate": "200k+",
       "name": "Enginefall"
     },
@@ -45,7 +45,7 @@
       "name": "Streets of Fortuna"
     },
     "2953540": {
-      "rank": 1935,
+      "rank": 1937,
       "estimate": "15k+",
       "name": "Neverseas"
     },
@@ -60,12 +60,12 @@
       "name": "Mircea"
     },
     "3536500": {
-      "rank": 2496,
+      "rank": 2495,
       "estimate": "7k+",
       "name": "Tunguska 2: Whitefall"
     },
     "3590650": {
-      "rank": 168,
+      "rank": 167,
       "estimate": "200k+",
       "name": "OKU"
     },
@@ -75,7 +75,7 @@
       "name": "TONIN:兎忍"
     },
     "3720040": {
-      "rank": 1991,
+      "rank": 1992,
       "estimate": "15k+",
       "name": "Hide Zone"
     },
@@ -90,17 +90,22 @@
       "name": "Clicky Islands"
     },
     "4190240": {
-      "rank": 4935,
+      "rank": 4933,
       "estimate": "<7k",
       "name": "Nuclear Design Bureau"
     },
     "4293910": {
-      "rank": 348,
+      "rank": 338,
       "estimate": "80k+",
       "name": "XenoFeels"
     },
+    "4295800": {
+      "rank": 5102,
+      "estimate": "<7k",
+      "name": "BLACKWELL"
+    },
     "4735760": {
-      "rank": 834,
+      "rank": 832,
       "estimate": "40k+",
       "name": "Vivarium"
     }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 19,
   "entries": {
     "976590": {
       "rank": 197,
@@ -131,6 +131,13 @@
       "releaseDate": "2026-01-01",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1805431065404263"
+    },
+    "4240260": {
+      "rank": 6367,
+      "estimate": "<7k",
+      "name": "The Puppet's Casket",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     }
   }
 }

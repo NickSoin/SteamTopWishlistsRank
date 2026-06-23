@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 31,
   "entries": {
     "661680": {
       "rank": 689,
@@ -218,6 +218,13 @@
       "estimate": "<7k",
       "name": "Mahjong Realms - Ancient Desert",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4703120": {
+      "rank": 3928,
+      "estimate": "<7k",
+      "name": "The Miki Komori Project",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 34,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 35,
   "entries": {
     "976890": {
       "rank": 70,
@@ -246,6 +246,13 @@
       "estimate": "40k+",
       "name": "STARDUST: Wish of Witch",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4753420": {
+      "rank": 7342,
+      "estimate": "<7k",
+      "name": "Celestia",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     }
   }

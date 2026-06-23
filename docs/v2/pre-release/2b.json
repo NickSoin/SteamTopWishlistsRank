@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 24,
   "entries": {
     "941460": {
       "rank": 36,
@@ -131,6 +131,13 @@
       "name": "SUMMERHOUSE",
       "releaseDate": "2024-03-08",
       "source": "historical"
+    },
+    "2582780": {
+      "rank": 6308,
+      "estimate": "<7k",
+      "name": "Gin - The Silver Wind",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     },
     "2598800": {
       "rank": 2069,

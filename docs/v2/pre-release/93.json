@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 24,
   "entries": {
     "473750": {
       "rank": 1164,
@@ -165,6 +165,13 @@
       "estimate": "7k+",
       "name": "Rock Island",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4056810": {
+      "rank": 4486,
+      "estimate": "<7k",
+      "name": "东北往事",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     }
   }

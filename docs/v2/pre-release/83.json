@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 29,
   "entries": {
     "867210": {
       "rank": 90,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Stoned to Death",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4639370": {
+      "rank": 5579,
+      "estimate": "<7k",
+      "name": "Mobile Front",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     }
   }

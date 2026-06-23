@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 31,
   "entries": {
     "601360": {
       "rank": 122,
@@ -208,6 +208,13 @@
       "name": "Master of Command",
       "releaseDate": "2025-10-27",
       "source": "historical"
+    },
+    "4584940": {
+      "rank": 7386,
+      "estimate": "<7k",
+      "name": "Frog Climb",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     },
     "4779560": {
       "rank": 2562,

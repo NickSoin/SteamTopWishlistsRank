@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 33,
   "entries": {
     "774791": {
       "rank": 539,
@@ -178,6 +178,13 @@
       "name": "Glitched Out: Chapter 1",
       "releaseDate": "2024-12-13",
       "source": "historical"
+    },
+    "2743810": {
+      "rank": 2400,
+      "estimate": "7k+",
+      "name": "Kudo’s Kuppa",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     },
     "2776090": {
       "rank": 462,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 24,
   "entries": {
     "553420": {
       "rank": 45,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "Agraria",
       "releaseDate": "2026-06-21",
+      "source": "tracked"
+    },
+    "4756070": {
+      "rank": 9541,
+      "estimate": "<7k",
+      "name": "SCROLLBOUND",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     }
   }

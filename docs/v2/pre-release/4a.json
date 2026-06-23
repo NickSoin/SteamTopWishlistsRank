@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T22:42:35.008Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-23T04:59:10.943Z",
+  "entryCount": 33,
   "entries": {
     "1113030": {
       "rank": 437,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Girls' Dorm -Managing an all-girls' dormitory- After",
       "releaseDate": "2026-05-18",
+      "source": "tracked"
+    },
+    "3929330": {
+      "rank": 2991,
+      "estimate": "7k+",
+      "name": "Relief",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     },
     "4678330": {
