@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T08:58:28.691Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-23T13:34:11.872Z",
+  "entryCount": 29,
   "entries": {
     "606160": {
       "rank": 145,
@@ -184,6 +184,13 @@
       "name": "Warhammer 40,000: Rogue Trader - Void Shadows",
       "releaseDate": "2024-09-24",
       "source": "historical"
+    },
+    "3688130": {
+      "rank": 643,
+      "estimate": "40k+",
+      "name": "Moldwasher",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "4680960": {
       "rank": 5662,

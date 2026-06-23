@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T08:58:28.691Z",
+  "updatedAt": "2026-06-23T13:34:11.872Z",
   "entryCount": 38,
   "entries": {
     "651490": {
@@ -103,11 +103,11 @@
       "source": "historical"
     },
     "1803140": {
-      "rank": 457,
+      "rank": 348,
       "estimate": "80k+",
       "name": "Deer & Boy",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "1858650": {
       "rank": 8,

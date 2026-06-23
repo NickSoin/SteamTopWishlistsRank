@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T08:58:28.691Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-23T13:34:11.872Z",
+  "entryCount": 20,
   "entries": {
     "812440": {
       "rank": 138,
@@ -140,6 +140,13 @@
       "releaseDate": "2026-04-14",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522846167"
+    },
+    "4124750": {
+      "rank": 4014,
+      "estimate": "<7k",
+      "name": "Frostpunk 2: Breach of Trust",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     }
   }
 }

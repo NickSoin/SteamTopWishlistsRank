@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T08:58:28.691Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-23T13:34:11.872Z",
+  "entryCount": 31,
   "entries": {
     "936790": {
       "rank": 38,
@@ -213,6 +213,13 @@
       "name": "Madoka Magica Magia Exedra",
       "releaseDate": "2025-07-16",
       "source": "historical"
+    },
+    "4580120": {
+      "rank": 4155,
+      "estimate": "<7k",
+      "name": "Sludge Department",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     }
   }
 }

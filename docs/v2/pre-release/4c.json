@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T08:58:28.691Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-23T13:34:11.872Z",
+  "entryCount": 26,
   "entries": {
     "774801": {
       "rank": 157,
@@ -165,6 +165,13 @@
       "estimate": "<7k",
       "name": "Tome of the Damned",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4179060": {
+      "rank": 7444,
+      "estimate": "<7k",
+      "name": "Microwave Simulator",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4426320": {

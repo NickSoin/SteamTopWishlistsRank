@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T08:58:28.691Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-23T13:34:11.872Z",
+  "entryCount": 29,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -187,6 +187,13 @@
       "name": "Mount & Blade II: Bannerlord - War Sails",
       "releaseDate": "2025-11-26",
       "source": "historical"
+    },
+    "4196170": {
+      "rank": 5928,
+      "estimate": "<7k",
+      "name": "The Light that Binds Us",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "4725790": {
       "rank": 8230,

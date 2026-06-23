@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T08:58:28.691Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-23T13:34:11.872Z",
+  "entryCount": 20,
   "entries": {
     "897730": {
       "rank": 9,
@@ -129,6 +129,13 @@
       "name": "Dungeons of Eternity",
       "releaseDate": "2025-09-11",
       "source": "historical"
+    },
+    "4196130": {
+      "rank": 2709,
+      "estimate": "7k+",
+      "name": "Echoes of Above",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "4429870": {
       "rank": 1652,

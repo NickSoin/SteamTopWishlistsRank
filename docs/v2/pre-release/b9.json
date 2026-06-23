@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T08:58:28.691Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-23T13:34:11.872Z",
+  "entryCount": 23,
   "entries": {
     "1012570": {
       "rank": 585,
@@ -150,6 +150,13 @@
       "name": "Catto's Post Office",
       "releaseDate": "2025-08-04",
       "source": "historical"
+    },
+    "4279790": {
+      "rank": 7049,
+      "estimate": "<7k",
+      "name": "RAZE",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "4668820": {
       "rank": 6958,

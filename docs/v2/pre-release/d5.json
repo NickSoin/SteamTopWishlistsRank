@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T08:58:28.691Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-23T13:34:11.872Z",
+  "entryCount": 30,
   "entries": {
     "698670": {
       "rank": 24,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Shattered Chess",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4610760": {
+      "rank": 6519,
+      "estimate": "<7k",
+      "name": "Cart by Cart: Supermarket Simulator",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4656700": {

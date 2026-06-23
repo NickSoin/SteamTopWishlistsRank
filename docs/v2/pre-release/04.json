@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T08:58:28.691Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-23T13:34:11.872Z",
+  "entryCount": 24,
   "entries": {
     "1159290": {
       "rank": 574,
@@ -165,6 +165,13 @@
       "estimate": "<7k",
       "name": "Life in Tudorofka",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4605530": {
+      "rank": 3868,
+      "estimate": "<7k",
+      "name": "Project Motor Racing: GT Icons Pack",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     }
   }

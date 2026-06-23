@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T08:58:28.691Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-23T13:34:11.872Z",
+  "entryCount": 40,
   "entries": {
     "595500": {
       "rank": 511,
@@ -279,6 +279,13 @@
       "estimate": "<7k",
       "name": "VR Secretary-1st DLC",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4553140": {
+      "rank": 7310,
+      "estimate": "<7k",
+      "name": "Scratch Off!",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     }
   }

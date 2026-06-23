@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T08:58:28.691Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-23T13:34:11.872Z",
+  "entryCount": 24,
   "entries": {
     "773370": {
       "rank": 126,
@@ -160,6 +160,13 @@
       "estimate": "40k+",
       "name": "Bubsy 4D",
       "releaseDate": "2026-05-22",
+      "source": "tracked"
+    },
+    "4366330": {
+      "rank": 2266,
+      "estimate": "7k+",
+      "name": "Rift Wizard 3",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4794380": {
