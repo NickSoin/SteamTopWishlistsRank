@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T15:49:05.444Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-22T22:42:35.008Z",
+  "entryCount": 30,
   "entries": {
     "649950": {
       "rank": 19,
@@ -205,6 +205,13 @@
       "name": "I Have No Change",
       "releaseDate": "2027-01-01",
       "source": "historical"
+    },
+    "4456600": {
+      "rank": 8416,
+      "estimate": "<7k",
+      "name": "Deliverage",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     },
     "4775570": {
       "rank": 6451,

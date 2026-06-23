@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T15:49:05.444Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-22T22:42:35.008Z",
+  "entryCount": 24,
   "entries": {
     "653060": {
       "rank": 687,
@@ -31,6 +31,13 @@
       "name": "Pharaoh™: A New Era",
       "releaseDate": "2023-02-15",
       "source": "historical"
+    },
+    "1431300": {
+      "rank": 28,
+      "estimate": "600k+",
+      "name": "SAND: Raiders of Sophie",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     },
     "1444920": {
       "rank": 863,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T15:49:05.444Z",
-  "entryCount": 35,
+  "updatedAt": "2026-06-22T22:42:35.008Z",
+  "entryCount": 36,
   "entries": {
     "856890": {
       "rank": 749,
@@ -243,6 +243,13 @@
       "name": "Settler's Domain",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3843620": {
+      "rank": 9268,
+      "estimate": "<7k",
+      "name": "Elemental Magic Wars",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     },
     "4756480": {
       "rank": 4768,

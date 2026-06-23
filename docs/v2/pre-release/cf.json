@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T15:49:05.444Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-22T22:42:35.008Z",
+  "entryCount": 26,
   "entries": {
     "502050": {
       "rank": 1,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Glimvale : My Mini Overworld",
       "releaseDate": "2026-06-17",
+      "source": "tracked"
+    },
+    "4198590": {
+      "rank": 8323,
+      "estimate": "<7k",
+      "name": "Age of Resistance",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     },
     "4645760": {

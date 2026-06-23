@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T15:49:05.444Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-22T22:42:35.008Z",
+  "entryCount": 24,
   "entries": {
     "493520": {
       "rank": 14,
@@ -158,6 +158,13 @@
       "estimate": "<7k",
       "name": "SILVARN",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4312850": {
+      "rank": 772,
+      "estimate": "40k+",
+      "name": "FISH",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     },
     "4673140": {

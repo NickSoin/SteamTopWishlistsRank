@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T15:49:05.444Z",
-  "entryCount": 34,
+  "updatedAt": "2026-06-22T22:42:35.008Z",
+  "entryCount": 35,
   "entries": {
     "787510": {
       "rank": 1631,
@@ -237,6 +237,13 @@
       "estimate": "<7k",
       "name": "You Know The Drill",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4171670": {
+      "rank": 9606,
+      "estimate": "<7k",
+      "name": "Veil of Mist",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     },
     "4668390": {

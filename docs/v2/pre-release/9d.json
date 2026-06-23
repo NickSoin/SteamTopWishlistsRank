@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T15:49:05.444Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-22T22:42:35.008Z",
+  "entryCount": 29,
   "entries": {
     "536280": {
       "rank": 48,
@@ -192,6 +192,13 @@
       "name": "Wanderburg",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4402170": {
+      "rank": 9831,
+      "estimate": "<7k",
+      "name": "Neon Pulsefire",
+      "releaseDate": "2026-06-22",
+      "source": "tracked"
     },
     "4663520": {
       "rank": 9813,

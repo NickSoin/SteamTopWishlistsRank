@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-22T15:49:05.444Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-22T22:42:35.008Z",
+  "entryCount": 27,
   "entries": {
     "939960": {
       "rank": 17,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Agari — Riichi Mahjong",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4766300": {
+      "rank": 2706,
+      "estimate": "7k+",
+      "name": "Neverwood",
+      "releaseDate": "2026-06-22",
       "source": "tracked"
     }
   }
