@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T04:59:10.943Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-23T08:58:28.691Z",
+  "entryCount": 25,
   "entries": {
     "753640": {
       "rank": 18,
@@ -169,6 +169,13 @@
       "estimate": "<7k",
       "name": "Holy Valkyrie ExS-TIA P",
       "releaseDate": "2026-05-20",
+      "source": "tracked"
+    },
+    "4610420": {
+      "rank": 4075,
+      "estimate": "<7k",
+      "name": "Stamp Collector",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4745450": {

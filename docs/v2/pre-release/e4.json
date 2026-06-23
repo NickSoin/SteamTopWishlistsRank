@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T04:59:10.943Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-23T08:58:28.691Z",
+  "entryCount": 34,
   "entries": {
     "774791": {
       "rank": 539,
@@ -226,6 +226,13 @@
       "estimate": "15k+",
       "name": "Don't Let It Starve",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4639520": {
+      "rank": 3045,
+      "estimate": "<7k",
+      "name": "Mini Murder Mysteries",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4708080": {

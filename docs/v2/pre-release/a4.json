@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T04:59:10.943Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-23T08:58:28.691Z",
+  "entryCount": 38,
   "entries": {
     "534380": {
       "rank": 1,
@@ -249,6 +249,13 @@
       "estimate": "<7k",
       "name": "Return to Firetop Mountain (Fighting Fantasy Classics)",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4743320": {
+      "rank": 8091,
+      "estimate": "<7k",
+      "name": "Busy Bar - World Tour",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4754650": {

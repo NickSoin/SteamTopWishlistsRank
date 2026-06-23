@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T04:59:10.943Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-23T08:58:28.691Z",
+  "entryCount": 31,
   "entries": {
     "914890": {
       "rank": 644,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "棋桜",
       "releaseDate": "2026-06-13",
+      "source": "tracked"
+    },
+    "4598940": {
+      "rank": 5331,
+      "estimate": "<7k",
+      "name": "Last Dive: Echo Trench",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     }
   }

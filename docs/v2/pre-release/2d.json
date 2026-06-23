@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T04:59:10.943Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-23T08:58:28.691Z",
+  "entryCount": 30,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "Bounty Pro Pulling",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4453680": {
+      "rank": 3169,
+      "estimate": "<7k",
+      "name": "Dawn Bell",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4727880": {
