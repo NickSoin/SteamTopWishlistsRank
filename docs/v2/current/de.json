@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-24T08:54:40.987Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-24T13:00:29.556Z",
+  "entryCount": 24,
   "entries": {
     "905540": {
       "rank": 2190,
@@ -15,17 +15,17 @@
       "name": "Ambulance Simulator"
     },
     "1133700": {
-      "rank": 3514,
+      "rank": 3516,
       "estimate": "<7k",
       "name": "Curve Fever Pro"
     },
     "1387640": {
-      "rank": 1273,
+      "rank": 1271,
       "estimate": "25k+",
       "name": "Where Birds Sleep"
     },
     "1473260": {
-      "rank": 1660,
+      "rank": 1659,
       "estimate": "15k+",
       "name": "Black Gold: Oil Drilling Simulator"
     },
@@ -45,52 +45,52 @@
       "name": "Into The Haunted Land"
     },
     "2244780": {
-      "rank": 2473,
+      "rank": 2474,
       "estimate": "7k+",
       "name": "Abyss World : Apocalypse"
     },
     "2509360": {
-      "rank": 544,
+      "rank": 545,
       "estimate": "40k+",
       "name": "Water Me & You"
     },
     "2595260": {
-      "rank": 183,
+      "rank": 184,
       "estimate": "200k+",
       "name": "RECUR"
     },
     "2799820": {
-      "rank": 2512,
+      "rank": 2511,
       "estimate": "7k+",
       "name": "FSA DRIVING"
     },
     "2920220": {
-      "rank": 1476,
+      "rank": 1475,
       "estimate": "25k+",
       "name": "Terrible Lizards"
     },
     "2994490": {
-      "rank": 4937,
+      "rank": 4938,
       "estimate": "<7k",
       "name": "REV UP"
     },
     "3130880": {
-      "rank": 1882,
+      "rank": 1884,
       "estimate": "15k+",
       "name": "Solaria"
     },
     "3411060": {
-      "rank": 4129,
+      "rank": 4128,
       "estimate": "<7k",
       "name": "Broomstick Exorcist"
     },
     "3424910": {
-      "rank": 1555,
+      "rank": 1556,
       "estimate": "15k+",
       "name": "Mushroom Hunter Simulator"
     },
     "3499590": {
-      "rank": 541,
+      "rank": 543,
       "estimate": "40k+",
       "name": "Code RAPID"
     },
@@ -100,12 +100,12 @@
       "name": "WORK WORK WORK"
     },
     "3665520": {
-      "rank": 3802,
+      "rank": 3783,
       "estimate": "<7k",
       "name": "Catto Pew Pew!"
     },
     "3850070": {
-      "rank": 4368,
+      "rank": 4370,
       "estimate": "<7k",
       "name": "BunkerZ"
     },
@@ -118,6 +118,11 @@
       "rank": 216,
       "estimate": "80k+",
       "name": "Cat Parents"
+    },
+    "4372780": {
+      "rank": 4309,
+      "estimate": "<7k",
+      "name": "Muv-Luv: Tactics Kalidasa at Nightmare"
     }
   }
 }

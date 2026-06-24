@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-24T08:54:40.987Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-24T13:00:29.556Z",
+  "entryCount": 19,
   "entries": {
     "1651400": {
-      "rank": 3209,
+      "rank": 3210,
       "estimate": "<7k",
       "name": "Touhou: the Unreachable Oneiroborder"
     },
@@ -15,12 +15,12 @@
       "name": "MORTAL CRUX"
     },
     "1937070": {
-      "rank": 690,
+      "rank": 692,
       "estimate": "40k+",
       "name": "Engines Of Destruction"
     },
     "2446760": {
-      "rank": 2345,
+      "rank": 2344,
       "estimate": "7k+",
       "name": "YASUKE: A Lost Descendant"
     },
@@ -30,22 +30,22 @@
       "name": "SCP: Valravn"
     },
     "2710740": {
-      "rank": 560,
+      "rank": 559,
       "estimate": "40k+",
       "name": "Lost Legions"
     },
     "2850600": {
-      "rank": 4837,
+      "rank": 4839,
       "estimate": "<7k",
       "name": "Mystical Tactics"
     },
     "2864290": {
-      "rank": 4225,
+      "rank": 4227,
       "estimate": "<7k",
       "name": "Aggelos 2"
     },
     "2867800": {
-      "rank": 3226,
+      "rank": 3229,
       "estimate": "<7k",
       "name": "DEPERSON"
     },
@@ -65,12 +65,12 @@
       "name": "ULTRA MUSHROOM"
     },
     "3037040": {
-      "rank": 2725,
+      "rank": 2724,
       "estimate": "7k+",
       "name": "Board Game Society"
     },
     "3045070": {
-      "rank": 3770,
+      "rank": 3771,
       "estimate": "<7k",
       "name": "MetalMercs"
     },
@@ -80,7 +80,7 @@
       "name": "Kagura Survivors x Summer Memories"
     },
     "3357160": {
-      "rank": 3731,
+      "rank": 3734,
       "estimate": "<7k",
       "name": "HOLLOW MIRE"
     },
@@ -90,19 +90,14 @@
       "name": "PLATONICA SPACE"
     },
     "3925750": {
-      "rank": 2458,
+      "rank": 2460,
       "estimate": "7k+",
       "name": "Generic Fighter Maybe"
     },
     "4272370": {
-      "rank": 3082,
+      "rank": 3079,
       "estimate": "<7k",
       "name": "Coal Duty"
-    },
-    "4446010": {
-      "rank": 3461,
-      "estimate": "<7k",
-      "name": "The First Million"
     }
   }
 }

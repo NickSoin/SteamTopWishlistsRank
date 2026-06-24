@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T08:54:40.987Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-24T13:00:29.556Z",
+  "entryCount": 32,
   "entries": {
     "782250": {
       "rank": 368,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Draw Party",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4631110": {
+      "rank": 2036,
+      "estimate": "7k+",
+      "name": "Trashy Cashy",
+      "releaseDate": "2026-06-24",
       "source": "tracked"
     },
     "4698630": {

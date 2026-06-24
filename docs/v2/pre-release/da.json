@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T08:54:40.987Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-24T13:00:29.556Z",
+  "entryCount": 23,
   "entries": {
     "721180": {
       "rank": 29,
@@ -157,6 +157,13 @@
       "name": "Warhammer 40,000: Dawn of War - Definitive Edition",
       "releaseDate": "2025-08-14",
       "source": "historical"
+    },
+    "4768660": {
+      "rank": 5106,
+      "estimate": "<7k",
+      "name": "Slice To Meet You",
+      "releaseDate": "2026-06-24",
+      "source": "tracked"
     }
   }
 }

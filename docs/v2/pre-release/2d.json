@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T08:54:40.987Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-24T13:00:29.556Z",
+  "entryCount": 31,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -171,6 +171,13 @@
       "name": "HEARTSHOT",
       "releaseDate": "2024-03-03",
       "source": "historical"
+    },
+    "2830090": {
+      "rank": 4541,
+      "estimate": "<7k",
+      "name": "Sixth Force",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "3158270": {
       "rank": 30,

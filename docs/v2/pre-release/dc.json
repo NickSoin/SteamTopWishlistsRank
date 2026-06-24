@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T08:54:40.987Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-24T13:00:29.556Z",
+  "entryCount": 20,
   "entries": {
     "1097350": {
       "rank": 63,
@@ -133,6 +133,13 @@
       "name": "ULTRA MUSHROOM",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4446010": {
+      "rank": 3461,
+      "estimate": "<7k",
+      "name": "The First Million",
+      "releaseDate": "2026-06-24",
+      "source": "tracked"
     },
     "4500150": {
       "rank": 3100,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T08:54:40.987Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-24T13:00:29.556Z",
+  "entryCount": 24,
   "entries": {
     "1012570": {
       "rank": 585,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "RAZE",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4328290": {
+      "rank": 8083,
+      "estimate": "<7k",
+      "name": "EagleRoad:WorldRise",
+      "releaseDate": "2026-06-24",
       "source": "tracked"
     },
     "4668820": {
