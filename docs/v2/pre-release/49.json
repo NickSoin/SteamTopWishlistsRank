@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T04:46:19.894Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-24T08:54:40.987Z",
+  "entryCount": 24,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -162,6 +162,13 @@
       "estimate": "<7k",
       "name": "Wanted Shadows: Unchained",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4196110": {
+      "rank": 5637,
+      "estimate": "<7k",
+      "name": "WOBBLY HEIST",
+      "releaseDate": "2026-06-24",
       "source": "tracked"
     },
     "4720690": {
