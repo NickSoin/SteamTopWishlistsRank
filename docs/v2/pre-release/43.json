@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T13:00:29.556Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-24T17:51:20.290Z",
+  "entryCount": 26,
   "entries": {
     "716350": {
       "rank": 688,
@@ -169,6 +169,13 @@
       "estimate": "<7k",
       "name": "Cauldron Craft",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4323990": {
+      "rank": 200,
+      "estimate": "200k+",
+      "name": "EMPULSE",
+      "releaseDate": "2026-06-24",
       "source": "tracked"
     },
     "4640590": {

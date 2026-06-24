@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T13:00:29.556Z",
-  "entryCount": 34,
+  "updatedAt": "2026-06-24T17:51:20.290Z",
+  "entryCount": 35,
   "entries": {
     "538030": {
       "rank": 87,
@@ -240,6 +240,13 @@
       "releaseDate": "2026-05-05",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569718"
+    },
+    "3954990": {
+      "rank": 2261,
+      "estimate": "7k+",
+      "name": "S.A.N.D.Y. - Beach Cleaner",
+      "releaseDate": "2026-06-24",
+      "source": "tracked"
     },
     "4248870": {
       "rank": 7239,

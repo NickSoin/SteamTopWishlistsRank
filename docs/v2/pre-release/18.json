@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T13:00:29.556Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-24T17:51:20.290Z",
+  "entryCount": 24,
   "entries": {
     "759080": {
       "rank": 605,
@@ -159,6 +159,13 @@
       "name": "Stellaris: Grand Archive Story Pack",
       "releaseDate": "2024-10-29",
       "source": "historical"
+    },
+    "4007040": {
+      "rank": 8900,
+      "estimate": "<7k",
+      "name": "Maximum Pile-Up!",
+      "releaseDate": "2026-06-24",
+      "source": "tracked"
     },
     "4653340": {
       "rank": 4708,

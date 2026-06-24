@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T13:00:29.556Z",
-  "entryCount": 34,
+  "updatedAt": "2026-06-24T17:51:20.290Z",
+  "entryCount": 35,
   "entries": {
     "814380": {
       "rank": 1,
@@ -236,6 +236,13 @@
       "name": "Mashiroiro Symphony HD -Sana Edition-",
       "releaseDate": "2024-05-01",
       "source": "historical"
+    },
+    "4586760": {
+      "rank": 4632,
+      "estimate": "<7k",
+      "name": "Sphere TD",
+      "releaseDate": "2026-06-24",
+      "source": "tracked"
     },
     "4598200": {
       "rank": 3554,
