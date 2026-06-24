@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T17:51:53.241Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-24T04:46:19.894Z",
+  "entryCount": 24,
   "entries": {
     "553540": {
       "rank": 73,
@@ -165,6 +165,13 @@
       "estimate": "<7k",
       "name": "阎罗索命",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4678720": {
+      "rank": 7203,
+      "estimate": "<7k",
+      "name": "Witchworker",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     }
   }

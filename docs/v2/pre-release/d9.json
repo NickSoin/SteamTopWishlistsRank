@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T17:51:53.241Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-24T04:46:19.894Z",
+  "entryCount": 21,
   "entries": {
     "976590": {
       "rank": 197,
@@ -131,6 +131,13 @@
       "releaseDate": "2026-01-01",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1805431065404263"
+    },
+    "4181370": {
+      "rank": 1962,
+      "estimate": "15k+",
+      "name": "Quack Quack Up",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "4240260": {
       "rank": 6367,

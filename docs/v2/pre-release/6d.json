@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T17:51:53.241Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-24T04:46:19.894Z",
+  "entryCount": 32,
   "entries": {
     "680420": {
       "rank": 15,
@@ -200,6 +200,13 @@
       "releaseDate": "2025-11-17",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963413728349923836"
+    },
+    "3779570": {
+      "rank": 3182,
+      "estimate": "<7k",
+      "name": "Heavenly Island",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "3864450": {
       "rank": 461,

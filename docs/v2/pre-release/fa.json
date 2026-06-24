@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T17:51:53.241Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-24T04:46:19.894Z",
+  "entryCount": 23,
   "entries": {
     "506480": {
       "rank": 980,
@@ -161,6 +161,13 @@
       "name": "Academy Love Saga: Tennis Angels EX",
       "releaseDate": "2025-04-18",
       "source": "historical"
+    },
+    "4757060": {
+      "rank": 6124,
+      "estimate": "<7k",
+      "name": "Venture",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     }
   }
 }

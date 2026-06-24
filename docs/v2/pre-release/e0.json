@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T17:51:53.241Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-24T04:46:19.894Z",
+  "entryCount": 24,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -136,6 +136,13 @@
       "name": "Warm Snow - The End Of Karma",
       "releaseDate": "2023-12-04",
       "source": "historical"
+    },
+    "2627200": {
+      "rank": 3891,
+      "estimate": "<7k",
+      "name": "Potter About",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "2695270": {
       "rank": 966,

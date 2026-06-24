@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T17:51:53.241Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-24T04:46:19.894Z",
+  "entryCount": 25,
   "entries": {
     "773370": {
       "rank": 126,
@@ -147,6 +147,13 @@
       "name": "Promise Mascot Agency",
       "releaseDate": "2025-04-10",
       "source": "historical"
+    },
+    "2783360": {
+      "rank": 2315,
+      "estimate": "7k+",
+      "name": "Age of Empires Mobile: PC Edition",
+      "releaseDate": "2026-06-23",
+      "source": "tracked"
     },
     "3002510": {
       "rank": 2413,

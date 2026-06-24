@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T17:51:53.241Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-24T04:46:19.894Z",
+  "entryCount": 22,
   "entries": {
     "832360": {
       "rank": 188,
@@ -142,6 +142,13 @@
       "estimate": "<7k",
       "name": "Ashes of Morgravia",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4260370": {
+      "rank": 8575,
+      "estimate": "<7k",
+      "name": "Prism Wilds",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4741570": {

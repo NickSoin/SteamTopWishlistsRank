@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-23T17:51:53.241Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-24T04:46:19.894Z",
+  "entryCount": 32,
   "entries": {
     "930280": {
       "rank": 438,
@@ -218,6 +218,13 @@
       "estimate": "<7k",
       "name": "Regeneration Engine",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4642480": {
+      "rank": 7021,
+      "estimate": "<7k",
+      "name": "Glitchy: Not So Sweet",
+      "releaseDate": "2026-06-23",
       "source": "tracked"
     },
     "4771360": {
