@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T12:35:19.091Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-25T17:28:05.213Z",
+  "entryCount": 25,
   "entries": {
     "653060": {
       "rank": 687,
@@ -158,6 +158,13 @@
       "estimate": "7k+",
       "name": "Illvelo Swamp",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4626000": {
+      "rank": 6550,
+      "estimate": "<7k",
+      "name": "Left Fore Dead: Zombie Battle Golf",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "4746070": {

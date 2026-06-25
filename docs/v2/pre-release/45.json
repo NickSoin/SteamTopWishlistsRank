@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T12:35:19.091Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-25T17:28:05.213Z",
+  "entryCount": 31,
   "entries": {
     "541310": {
       "rank": 21,
@@ -165,6 +165,13 @@
       "name": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
       "releaseDate": "2024-07-16",
       "source": "historical"
+    },
+    "2466790": {
+      "rank": 3589,
+      "estimate": "<7k",
+      "name": "KIYO - Bunny Tyranny",
+      "releaseDate": "2026-06-25",
+      "source": "tracked"
     },
     "2510060": {
       "rank": 2715,

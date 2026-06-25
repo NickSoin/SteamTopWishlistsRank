@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T12:35:19.091Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-25T17:28:05.213Z",
+  "entryCount": 33,
   "entries": {
     "658920": {
       "rank": 716,
@@ -212,6 +212,13 @@
       "estimate": "80k+",
       "name": "Fears to Fathom® - Scratch Creek",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4162290": {
+      "rank": 1966,
+      "estimate": "15k+",
+      "name": "OK👍 Boomer",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "4272720": {

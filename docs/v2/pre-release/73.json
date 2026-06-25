@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T12:35:19.091Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-25T17:28:05.213Z",
+  "entryCount": 21,
   "entries": {
     "427940": {
       "rank": 24,
@@ -135,6 +135,13 @@
       "estimate": "300k+",
       "name": "Witch's Apocalyptic Journey",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4252830": {
+      "rank": 1322,
+      "estimate": "25k+",
+      "name": "Type or Die",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "4351410": {

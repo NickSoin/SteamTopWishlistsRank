@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T12:35:19.091Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-25T17:28:05.213Z",
+  "entryCount": 32,
   "entries": {
     "494730": {
       "rank": 753,
@@ -224,6 +224,13 @@
       "name": "After Inc: Revival",
       "releaseDate": "2025-06-17",
       "source": "historical"
+    },
+    "4769580": {
+      "rank": 8283,
+      "estimate": "<7k",
+      "name": "The Ferryman's Trial",
+      "releaseDate": "2026-06-25",
+      "source": "tracked"
     }
   }
 }

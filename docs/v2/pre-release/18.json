@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T12:35:19.091Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-25T17:28:05.213Z",
+  "entryCount": 25,
   "entries": {
     "759080": {
       "rank": 605,
@@ -165,6 +165,13 @@
       "estimate": "<7k",
       "name": "Maximum Pile-Up!",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4339080": {
+      "rank": 3926,
+      "estimate": "<7k",
+      "name": "Slot or Die",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "4653340": {

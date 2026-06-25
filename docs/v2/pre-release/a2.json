@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T12:35:19.091Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-25T17:28:05.213Z",
+  "entryCount": 31,
   "entries": {
     "406160": {
       "rank": 927,
@@ -201,6 +201,13 @@
       "name": "SPLITGATE: Arena Reloaded ",
       "releaseDate": "2025-05-22",
       "source": "historical"
+    },
+    "4020320": {
+      "rank": 3487,
+      "estimate": "<7k",
+      "name": "STARVAULT",
+      "releaseDate": "2026-06-25",
+      "source": "tracked"
     },
     "4726950": {
       "rank": 7299,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T12:35:19.091Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-25T17:28:05.213Z",
+  "entryCount": 31,
   "entries": {
     "698670": {
       "rank": 24,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Shattered Chess",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4442710": {
+      "rank": 1814,
+      "estimate": "15k+",
+      "name": "Spirit Dungeon",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "4610760": {

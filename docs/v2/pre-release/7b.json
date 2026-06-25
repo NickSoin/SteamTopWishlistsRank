@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T12:35:19.091Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-25T17:28:05.213Z",
+  "entryCount": 24,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Gensokyo Odyssey: Kakkoi's Laundromat Soundtrack",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4672520": {
+      "rank": 2519,
+      "estimate": "7k+",
+      "name": "Impulse Response",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "4764960": {
