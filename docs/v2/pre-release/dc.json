@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T22:13:01.262Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-25T05:06:57.145Z",
+  "entryCount": 21,
   "entries": {
     "1097350": {
       "rank": 63,
@@ -146,6 +146,13 @@
       "estimate": "<7k",
       "name": "Table 9",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4511660": {
+      "rank": 4330,
+      "estimate": "<7k",
+      "name": "盛夏离与合 - 2K视频",
+      "releaseDate": "2026-06-24",
       "source": "tracked"
     }
   }

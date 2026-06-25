@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T22:13:01.262Z",
-  "entryCount": 38,
+  "updatedAt": "2026-06-25T05:06:57.145Z",
+  "entryCount": 39,
   "entries": {
     "619390": {
       "rank": 926,
@@ -274,6 +274,13 @@
       "estimate": "7k+",
       "name": "Slots & Diapers",
       "releaseDate": "2026-06-03",
+      "source": "tracked"
+    },
+    "4553760": {
+      "rank": 3222,
+      "estimate": "<7k",
+      "name": "TEVI - Fauna Arcana",
+      "releaseDate": "2026-06-24",
       "source": "tracked"
     }
   }

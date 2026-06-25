@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T22:13:01.262Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-25T05:06:57.145Z",
+  "entryCount": 22,
   "entries": {
     "604540": {
       "rank": 12,
@@ -151,6 +151,13 @@
       "estimate": "40k+",
       "name": "Bird Game 3",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "4459850": {
+      "rank": 2104,
+      "estimate": "7k+",
+      "name": "NAMCO LEGENDARY Mountains",
+      "releaseDate": "2026-06-24",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-24T22:13:01.262Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-25T05:06:57.145Z",
+  "entryCount": 18,
   "entries": {
     "969330": {
       "rank": 678,
@@ -15,12 +15,12 @@
       "name": "TheFlagship"
     },
     "1193170": {
-      "rank": 1970,
+      "rank": 1972,
       "estimate": "15k+",
       "name": "DEFICIT"
     },
     "1440340": {
-      "rank": 2073,
+      "rank": 2076,
       "estimate": "7k+",
       "name": "Cannon Foundry Simulator"
     },
@@ -60,44 +60,39 @@
       "name": "Substructure"
     },
     "3258590": {
-      "rank": 2469,
+      "rank": 2470,
       "estimate": "7k+",
       "name": "Void Dungeon"
     },
     "3376580": {
-      "rank": 4597,
+      "rank": 4599,
       "estimate": "<7k",
       "name": "Raiders Rise"
     },
     "3377200": {
-      "rank": 4239,
+      "rank": 4237,
       "estimate": "<7k",
       "name": "Dragon Lands"
     },
     "3459050": {
-      "rank": 1768,
+      "rank": 1767,
       "estimate": "15k+",
       "name": "Acrolyte"
     },
     "3976340": {
-      "rank": 3224,
+      "rank": 3221,
       "estimate": "<7k",
       "name": "Cucina Stellata"
     },
     "4049180": {
-      "rank": 1054,
+      "rank": 1048,
       "estimate": "25k+",
       "name": "Disney•Pixar Toy Story 3 Complete Edition"
     },
     "4487450": {
-      "rank": 1687,
+      "rank": 1685,
       "estimate": "15k+",
       "name": "Cairn - On the Trail: Deep Water"
-    },
-    "4553760": {
-      "rank": 3222,
-      "estimate": "<7k",
-      "name": "TEVI - Fauna Arcana"
     }
   }
 }

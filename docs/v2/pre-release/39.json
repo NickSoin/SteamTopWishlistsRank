@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T22:13:01.262Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-25T05:06:57.145Z",
+  "entryCount": 27,
   "entries": {
     "1003590": {
       "rank": 343,
@@ -184,6 +184,13 @@
       "estimate": "7k+",
       "name": "TBH: Task Bar Hero",
       "releaseDate": "2026-05-27",
+      "source": "tracked"
+    },
+    "4468080": {
+      "rank": 6933,
+      "estimate": "<7k",
+      "name": "Tiny Lands 2 - Diorama set 1",
+      "releaseDate": "2026-06-24",
       "source": "tracked"
     }
   }

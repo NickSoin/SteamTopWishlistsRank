@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-24T22:13:01.262Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-25T05:06:57.145Z",
+  "entryCount": 29,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -198,6 +198,13 @@
       "name": "Hypnosis Card 2",
       "releaseDate": "2024-12-06",
       "source": "historical"
+    },
+    "4144680": {
+      "rank": 676,
+      "estimate": "40k+",
+      "name": "DEAD OR ALIVE 6 Last Round",
+      "releaseDate": "2026-06-24",
+      "source": "tracked"
     },
     "4427240": {
       "rank": 4471,
