@@ -1,26 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-24T17:51:20.290Z",
-  "entryCount": 11,
+  "updatedAt": "2026-06-24T22:13:01.262Z",
+  "entryCount": 12,
   "entries": {
     "1244600": {
-      "rank": 2934,
+      "rank": 2937,
       "estimate": "7k+",
       "name": "Let's Drive - learn driving simulator"
     },
+    "2817960": {
+      "rank": 4303,
+      "estimate": "<7k",
+      "name": "Button Man"
+    },
     "2960460": {
-      "rank": 555,
+      "rank": 556,
       "estimate": "40k+",
       "name": "Spaceflight Simulator 2"
     },
     "3078760": {
-      "rank": 910,
+      "rank": 911,
       "estimate": "40k+",
       "name": "LIVING HELL"
     },
     "3079190": {
-      "rank": 190,
+      "rank": 191,
       "estimate": "200k+",
       "name": "PACS - Post Apocalypse Courier Service: Co-op Delivery Simulator"
     },
@@ -35,17 +40,17 @@
       "name": "Critical Shift"
     },
     "3485580": {
-      "rank": 2002,
+      "rank": 2005,
       "estimate": "7k+",
       "name": "Bodybuilder Simulator CO-OP"
     },
     "3610210": {
-      "rank": 2747,
+      "rank": 2748,
       "estimate": "7k+",
       "name": "Klostyn"
     },
     "3623050": {
-      "rank": 4845,
+      "rank": 4848,
       "estimate": "<7k",
       "name": "Ending the Happy Route"
     },
@@ -55,7 +60,7 @@
       "name": "Terminal War"
     },
     "3950440": {
-      "rank": 2104,
+      "rank": 2109,
       "estimate": "7k+",
       "name": "Lootbane"
     }
