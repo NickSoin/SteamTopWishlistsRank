@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T09:02:28.173Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-25T12:35:19.091Z",
+  "entryCount": 30,
   "entries": {
     "1039100": {
       "rank": 184,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "Plush Parade",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4492160": {
+      "rank": 4261,
+      "estimate": "<7k",
+      "name": "Planet Coaster 2: Parades Pack",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     }
   }

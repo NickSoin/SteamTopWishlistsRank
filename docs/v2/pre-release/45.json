@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T09:02:28.173Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-25T12:35:19.091Z",
+  "entryCount": 30,
   "entries": {
     "541310": {
       "rank": 21,
@@ -208,6 +208,13 @@
       "estimate": "40k+",
       "name": "Sinner Maker",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4624060": {
+      "rank": 8390,
+      "estimate": "<7k",
+      "name": "Mortar and Malady",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "4637330": {

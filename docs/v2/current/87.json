@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-25T09:02:28.173Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-25T12:35:19.091Z",
+  "entryCount": 30,
   "entries": {
     "905240": {
       "rank": 1547,
@@ -20,22 +20,22 @@
       "name": "Wreck Runners"
     },
     "1771040": {
-      "rank": 4614,
+      "rank": 4613,
       "estimate": "<7k",
       "name": "Quiet Farm"
     },
     "2156330": {
-      "rank": 4546,
+      "rank": 4544,
       "estimate": "<7k",
       "name": "The Unfettered"
     },
     "2349840": {
-      "rank": 2567,
+      "rank": 2568,
       "estimate": "7k+",
       "name": "MOBA Esport Manager 25"
     },
     "2448200": {
-      "rank": 3371,
+      "rank": 3369,
       "estimate": "<7k",
       "name": "Aojuji Hospital: Tokyo Eidolic Anatomy Division"
     },
@@ -70,12 +70,12 @@
       "name": "Exoborne"
     },
     "2776770": {
-      "rank": 4245,
+      "rank": 4243,
       "estimate": "<7k",
       "name": "Blocks for Babies"
     },
     "2783370": {
-      "rank": 1700,
+      "rank": 1702,
       "estimate": "15k+",
       "name": "Teeto"
     },
@@ -85,22 +85,22 @@
       "name": "Nocturnal 2"
     },
     "2893550": {
-      "rank": 3985,
+      "rank": 3986,
       "estimate": "<7k",
       "name": "CHORDIOID"
     },
     "3064250": {
-      "rank": 4946,
+      "rank": 4945,
       "estimate": "<7k",
       "name": "War Drone FPV Quad Simulator"
     },
     "3211560": {
-      "rank": 3638,
+      "rank": 3639,
       "estimate": "<7k",
       "name": "Die Deep"
     },
     "3314300": {
-      "rank": 4489,
+      "rank": 4488,
       "estimate": "<7k",
       "name": "Gnawer No. 44 Observation Report"
     },
@@ -110,17 +110,17 @@
       "name": "Tiny Eden"
     },
     "3398160": {
-      "rank": 5059,
+      "rank": 5057,
       "estimate": "<7k",
       "name": "SUPER DEBT"
     },
     "3439410": {
-      "rank": 1502,
+      "rank": 1504,
       "estimate": "15k+",
       "name": "HellHeart Breaker"
     },
     "3484670": {
-      "rank": 3246,
+      "rank": 3247,
       "estimate": "<7k",
       "name": "Blanksword"
     },
@@ -130,12 +130,12 @@
       "name": "Stellar Trader"
     },
     "4073860": {
-      "rank": 1642,
+      "rank": 1644,
       "estimate": "15k+",
       "name": "Sludgineers"
     },
     "4076980": {
-      "rank": 3980,
+      "rank": 3981,
       "estimate": "<7k",
       "name": "ONE GIANT HOLE"
     },
@@ -150,14 +150,9 @@
       "name": "Neidfyre"
     },
     "4392550": {
-      "rank": 4855,
+      "rank": 4853,
       "estimate": "<7k",
       "name": "Wicked Night: Holy Knights"
-    },
-    "4492160": {
-      "rank": 4261,
-      "estimate": "<7k",
-      "name": "Planet Coaster 2: Parades Pack"
     }
   }
 }

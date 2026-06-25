@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T09:02:28.173Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-25T12:35:19.091Z",
+  "entryCount": 21,
   "entries": {
     "747660": {
       "rank": 193,
@@ -130,6 +130,13 @@
       "estimate": "15k+",
       "name": "Where the forest ends",
       "releaseDate": "2026-05-31",
+      "source": "tracked"
+    },
+    "3992580": {
+      "rank": 3342,
+      "estimate": "<7k",
+      "name": "7 Nights with Vroombi",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "4337210": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T09:02:28.173Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-25T12:35:19.091Z",
+  "entryCount": 27,
   "entries": {
     "830580": {
       "rank": 135,
@@ -172,6 +172,13 @@
       "estimate": "80k+",
       "name": "Frog Sqwad 🐸",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4148410": {
+      "rank": 6129,
+      "estimate": "<7k",
+      "name": "Cubic Spree",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "4395300": {

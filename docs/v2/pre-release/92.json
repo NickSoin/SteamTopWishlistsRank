@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T09:02:28.173Z",
-  "entryCount": 17,
+  "updatedAt": "2026-06-25T12:35:19.091Z",
+  "entryCount": 18,
   "entries": {
     "979110": {
       "rank": 38,
@@ -107,6 +107,13 @@
       "estimate": "7k+",
       "name": "Belts of Iron",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3474010": {
+      "rank": 6808,
+      "estimate": "<7k",
+      "name": "OMSI 2 Add-On Berlin Linie 186",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "3822040": {
