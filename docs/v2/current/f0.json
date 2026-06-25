@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-25T05:06:57.145Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-25T09:02:28.173Z",
+  "entryCount": 24,
   "entries": {
     "565760": {
-      "rank": 4397,
+      "rank": 4395,
       "estimate": "<7k",
       "name": "Escape the Loop"
     },
     "1551980": {
-      "rank": 172,
+      "rank": 173,
       "estimate": "200k+",
       "name": "Clive Barker's Hellraiser: Revival"
     },
@@ -20,7 +20,7 @@
       "name": "Ronin Trail"
     },
     "1899550": {
-      "rank": 2230,
+      "rank": 2231,
       "estimate": "7k+",
       "name": "Knights of the Deep"
     },
@@ -47,7 +47,7 @@
       "name": "SCP: Contamination"
     },
     "2749070": {
-      "rank": 2248,
+      "rank": 2247,
       "estimate": "7k+",
       "name": "Sword and Fairy: Far Beyond Time"
     },
@@ -57,22 +57,22 @@
       "name": "Delivery Driver Service"
     },
     "2809220": {
-      "rank": 1663,
+      "rank": 1664,
       "estimate": "15k+",
       "name": "Status Entropos"
     },
     "2985520": {
-      "rank": 2402,
+      "rank": 2403,
       "estimate": "7k+",
       "name": "The Player Who Can't Level Up"
     },
     "3137010": {
-      "rank": 4956,
+      "rank": 4954,
       "estimate": "<7k",
       "name": "Meat Engine"
     },
     "3241560": {
-      "rank": 4737,
+      "rank": 4735,
       "estimate": "<7k",
       "name": "Tossdown"
     },
@@ -82,12 +82,12 @@
       "name": "Hell Express"
     },
     "3596730": {
-      "rank": 3411,
+      "rank": 3409,
       "estimate": "<7k",
       "name": "Painted Kingdoms: Tower Defense & Firefighting"
     },
     "3722850": {
-      "rank": 4070,
+      "rank": 4068,
       "estimate": "<7k",
       "name": "Desktropolis"
     },
@@ -97,7 +97,7 @@
       "name": "Car For Sale Together"
     },
     "3910750": {
-      "rank": 3972,
+      "rank": 3970,
       "estimate": "<7k",
       "name": "DONUT PANIC"
     },
@@ -112,14 +112,19 @@
       "name": "Milki Delivery"
     },
     "4327300": {
-      "rank": 1986,
+      "rank": 1985,
       "estimate": "15k+",
       "name": "Silicon Gate"
     },
     "4519130": {
-      "rank": 4391,
+      "rank": 4385,
       "estimate": "<7k",
       "name": "MOLDRISE"
+    },
+    "4739040": {
+      "rank": 4979,
+      "estimate": "<7k",
+      "name": "DISCIPLINE SIMULATOR"
     }
   }
 }

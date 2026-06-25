@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T05:06:57.145Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-25T09:02:28.173Z",
+  "entryCount": 31,
   "entries": {
     "1167100": {
       "rank": 379,
@@ -207,6 +207,13 @@
       "estimate": "40k+",
       "name": "Pawsome Resort",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "3924280": {
+      "rank": 1820,
+      "estimate": "15k+",
+      "name": "Pat the Cat",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "4696030": {

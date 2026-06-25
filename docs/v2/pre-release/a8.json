@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T05:06:57.145Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-25T09:02:28.173Z",
+  "entryCount": 26,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "Reverse Dream of the Menasphere",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4630400": {
+      "rank": 8476,
+      "estimate": "<7k",
+      "name": "Directors cut: Train",
+      "releaseDate": "2026-06-24",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T05:06:57.145Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-25T09:02:28.173Z",
+  "entryCount": 19,
   "entries": {
     "912000": {
       "rank": 895,
@@ -122,6 +122,13 @@
       "name": "Bat to the Heavens",
       "releaseDate": "2024-12-09",
       "source": "historical"
+    },
+    "4196150": {
+      "rank": 7265,
+      "estimate": "<7k",
+      "name": "Kinetic TwinZ",
+      "releaseDate": "2026-06-25",
+      "source": "tracked"
     },
     "4243690": {
       "rank": 38,

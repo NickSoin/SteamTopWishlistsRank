@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T05:06:57.145Z",
-  "entryCount": 39,
+  "updatedAt": "2026-06-25T09:02:28.173Z",
+  "entryCount": 40,
   "entries": {
     "651490": {
       "rank": 270,
@@ -247,6 +247,13 @@
       "estimate": "15k+",
       "name": "The seven days i spent with you",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4049910": {
+      "rank": 7877,
+      "estimate": "<7k",
+      "name": "Nuclear Epoch",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "4144510": {
