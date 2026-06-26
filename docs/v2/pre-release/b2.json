@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T12:44:18.570Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-26T17:32:04.902Z",
+  "entryCount": 27,
   "entries": {
     "761830": {
       "rank": 31,
@@ -164,6 +164,13 @@
       "name": "Total War: WARHAMMER III - Tamurkhan – Thrones of Decay",
       "releaseDate": "2024-04-30",
       "source": "historical"
+    },
+    "3572060": {
+      "rank": 9821,
+      "estimate": "<7k",
+      "name": "Raining Cats and Dogs",
+      "releaseDate": "2026-06-26",
+      "source": "tracked"
     },
     "4081170": {
       "rank": 7074,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T12:44:18.570Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-26T17:32:04.902Z",
+  "entryCount": 23,
   "entries": {
     "604540": {
       "rank": 12,
@@ -151,6 +151,13 @@
       "estimate": "40k+",
       "name": "Bird Game 3",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "4309120": {
+      "rank": 4910,
+      "estimate": "<7k",
+      "name": "Unquiet Grey",
+      "releaseDate": "2026-06-26",
       "source": "tracked"
     },
     "4459850": {

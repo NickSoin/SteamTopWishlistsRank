@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T12:44:18.570Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-26T17:32:04.902Z",
+  "entryCount": 26,
   "entries": {
     "1079230": {
       "rank": 572,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Professor Simulator",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4211370": {
+      "rank": 8814,
+      "estimate": "<7k",
+      "name": "Battle Live! The Idol School Collection",
+      "releaseDate": "2026-06-26",
       "source": "tracked"
     },
     "4734620": {
