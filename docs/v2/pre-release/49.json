@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T08:58:35.966Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-26T12:44:18.570Z",
+  "entryCount": 25,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -149,6 +149,13 @@
       "name": "Undusted: Letters from the Past",
       "releaseDate": "2025-10-13",
       "source": "historical"
+    },
+    "3191170": {
+      "rank": 2789,
+      "estimate": "7k+",
+      "name": "Clover's Quadrants",
+      "releaseDate": "2026-06-26",
+      "source": "tracked"
     },
     "3857430": {
       "rank": 962,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T08:58:35.966Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-26T12:44:18.570Z",
+  "entryCount": 20,
   "entries": {
     "912000": {
       "rank": 895,
@@ -136,6 +136,13 @@
       "name": "Chained Wheels",
       "releaseDate": "2026-03-27",
       "source": "historical"
+    },
+    "4834070": {
+      "rank": 1247,
+      "estimate": "25k+",
+      "name": "Don't Sleep With The Fishes",
+      "releaseDate": "2026-06-26",
+      "source": "tracked"
     }
   }
 }

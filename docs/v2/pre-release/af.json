@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T08:58:35.966Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-26T12:44:18.570Z",
+  "entryCount": 30,
   "entries": {
     "714370": {
       "rank": 8,
@@ -206,6 +206,13 @@
       "name": "A Game About Feeding A Black Hole",
       "releaseDate": "2025-12-15",
       "source": "historical"
+    },
+    "4521680": {
+      "rank": 1520,
+      "estimate": "15k+",
+      "name": "Painting PC",
+      "releaseDate": "2026-06-26",
+      "source": "tracked"
     }
   }
 }

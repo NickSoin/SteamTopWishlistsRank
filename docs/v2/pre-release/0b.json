@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T08:58:35.966Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-26T12:44:18.570Z",
+  "entryCount": 29,
   "entries": {
     "779340": {
       "rank": 5,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Dave.EXE",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4567710": {
+      "rank": 3625,
+      "estimate": "<7k",
+      "name": "Template!! An Angel's Gift",
+      "releaseDate": "2026-06-26",
       "source": "tracked"
     }
   }

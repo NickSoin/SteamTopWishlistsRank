@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-26T08:58:35.966Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-26T12:44:18.570Z",
+  "entryCount": 18,
   "entries": {
     "912000": {
       "rank": 1271,
@@ -10,7 +10,7 @@
       "name": "Mike goes on hike"
     },
     "1156490": {
-      "rank": 3586,
+      "rank": 3584,
       "estimate": "<7k",
       "name": "Ring of Fire"
     },
@@ -25,12 +25,12 @@
       "name": "Flawless Abbey"
     },
     "2363280": {
-      "rank": 1760,
+      "rank": 1758,
       "estimate": "15k+",
       "name": "NULLSPACE"
     },
     "2522120": {
-      "rank": 610,
+      "rank": 611,
       "estimate": "40k+",
       "name": "Airframe Ultra"
     },
@@ -40,12 +40,12 @@
       "name": "Drowned Lake"
     },
     "3041730": {
-      "rank": 3770,
+      "rank": 3763,
       "estimate": "<7k",
       "name": "Go North"
     },
     "3303870": {
-      "rank": 4547,
+      "rank": 4543,
       "estimate": "<7k",
       "name": "Underground Security Inc"
     },
@@ -55,27 +55,27 @@
       "name": "Flesh & Wire"
     },
     "3669820": {
-      "rank": 4349,
+      "rank": 4344,
       "estimate": "<7k",
       "name": "CatchMaker"
     },
     "3756340": {
-      "rank": 3756,
+      "rank": 3751,
       "estimate": "<7k",
       "name": "Cheat Death"
     },
     "3854080": {
-      "rank": 4474,
+      "rank": 4469,
       "estimate": "<7k",
       "name": "隐梦交织"
     },
     "3892370": {
-      "rank": 1765,
+      "rank": 1763,
       "estimate": "15k+",
       "name": "Distant Shore: BRETAGNE"
     },
     "3966510": {
-      "rank": 3838,
+      "rank": 3832,
       "estimate": "<7k",
       "name": "Feed the Scorchpot"
     },
@@ -85,19 +85,14 @@
       "name": "The Daughter"
     },
     "4402390": {
-      "rank": 3650,
+      "rank": 3646,
       "estimate": "<7k",
       "name": "CaveDive"
     },
     "4829700": {
-      "rank": 493,
+      "rank": 488,
       "estimate": "80k+",
       "name": "Monster Hunter Wilds: Ascendance"
-    },
-    "4834070": {
-      "rank": 1247,
-      "estimate": "25k+",
-      "name": "Don't Sleep With The Fishes"
     }
   }
 }

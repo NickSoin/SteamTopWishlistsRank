@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T08:58:35.966Z",
-  "entryCount": 28,
+  "updatedAt": "2026-06-26T12:44:18.570Z",
+  "entryCount": 29,
   "entries": {
     "844980": {
       "rank": 112,
@@ -178,6 +178,13 @@
       "name": "PowerWash Simulator – Warhammer 40,000 Special Pack",
       "releaseDate": "2024-02-27",
       "source": "historical"
+    },
+    "2629550": {
+      "rank": 7046,
+      "estimate": "<7k",
+      "name": "Threshold of Awakening",
+      "releaseDate": "2026-06-26",
+      "source": "tracked"
     },
     "2854710": {
       "rank": 885,

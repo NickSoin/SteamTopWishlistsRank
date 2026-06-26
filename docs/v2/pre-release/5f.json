@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T08:58:35.966Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-26T12:44:18.570Z",
+  "entryCount": 20,
   "entries": {
     "1194810": {
       "rank": 21,
@@ -130,6 +130,13 @@
       "estimate": "<7k",
       "name": "Clown Camp",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3880410": {
+      "rank": 3654,
+      "estimate": "<7k",
+      "name": "Glisynth",
+      "releaseDate": "2026-06-26",
       "source": "tracked"
     },
     "4420950": {

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-26T08:58:35.966Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-26T12:44:18.570Z",
+  "entryCount": 19,
   "entries": {
     "1420420": {
-      "rank": 4174,
+      "rank": 4169,
       "estimate": "<7k",
       "name": "Fret Smasher"
     },
     "1570840": {
-      "rank": 3638,
+      "rank": 3633,
       "estimate": "<7k",
       "name": "Tides of Tethys"
     },
@@ -20,17 +20,22 @@
       "name": "The Dream Of A Cockspur"
     },
     "2427530": {
-      "rank": 1910,
+      "rank": 1909,
       "estimate": "15k+",
       "name": "The Nightscarred: Forgotten Gods"
     },
+    "2447370": {
+      "rank": 3896,
+      "estimate": "<7k",
+      "name": "It Takes a Tribe"
+    },
     "2707630": {
-      "rank": 4416,
+      "rank": 4412,
       "estimate": "<7k",
       "name": "Twins of Olus"
     },
     "2748420": {
-      "rank": 4277,
+      "rank": 4275,
       "estimate": "<7k",
       "name": "Ascent: Rivals"
     },
@@ -40,7 +45,7 @@
       "name": "Travelling At Night"
     },
     "2951510": {
-      "rank": 4530,
+      "rank": 4525,
       "estimate": "<7k",
       "name": "Spyrit Walker"
     },
@@ -50,32 +55,32 @@
       "name": "Pao Pao"
     },
     "3137450": {
-      "rank": 3185,
+      "rank": 3187,
       "estimate": "<7k",
       "name": "ROOST"
     },
     "3258580": {
-      "rank": 1240,
+      "rank": 1242,
       "estimate": "25k+",
       "name": "Don't Wake the Beast"
     },
     "3488640": {
-      "rank": 1737,
+      "rank": 1735,
       "estimate": "15k+",
       "name": "Magical Blush"
     },
     "3536530": {
-      "rank": 5061,
+      "rank": 5056,
       "estimate": "<7k",
       "name": "Örnöga: Idle & Loot"
     },
     "3661500": {
-      "rank": 4150,
+      "rank": 4144,
       "estimate": "<7k",
       "name": "Middle Management"
     },
     "3847450": {
-      "rank": 4085,
+      "rank": 4082,
       "estimate": "<7k",
       "name": "Project S.U.N.D.I.A.L"
     },
@@ -85,12 +90,12 @@
       "name": "Super Shout Showdown"
     },
     "4119710": {
-      "rank": 1672,
+      "rank": 1659,
       "estimate": "15k+",
       "name": "Give Us A Sign"
     },
     "4164790": {
-      "rank": 1351,
+      "rank": 1350,
       "estimate": "25k+",
       "name": "Survival Log"
     }

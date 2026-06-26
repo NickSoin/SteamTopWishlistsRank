@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T08:58:35.966Z",
-  "entryCount": 46,
+  "updatedAt": "2026-06-26T12:44:18.570Z",
+  "entryCount": 47,
   "entries": {
     "748020": {
       "rank": 911,
@@ -316,6 +316,13 @@
       "estimate": "<7k",
       "name": "Playto",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4616880": {
+      "rank": 8137,
+      "estimate": "<7k",
+      "name": "Chemp Physics",
+      "releaseDate": "2026-06-26",
       "source": "tracked"
     },
     "4630570": {
