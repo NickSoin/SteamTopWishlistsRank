@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T17:28:05.213Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-25T22:01:52.032Z",
+  "entryCount": 21,
   "entries": {
     "736820": {
       "rank": 19,
@@ -142,6 +142,13 @@
       "estimate": "40k+",
       "name": "MOLE",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4557340": {
+      "rank": 2518,
+      "estimate": "7k+",
+      "name": "Dead Reckoning: The Long Drift",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     }
   }

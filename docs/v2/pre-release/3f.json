@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T17:28:05.213Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-25T22:01:52.032Z",
+  "entryCount": 27,
   "entries": {
     "546560": {
       "rank": 11,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "The Blackwood Project",
       "releaseDate": "2026-06-13",
+      "source": "tracked"
+    },
+    "4594460": {
+      "rank": 4413,
+      "estimate": "<7k",
+      "name": "Mall Simulator Together",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     }
   }
