@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T05:11:21.218Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-26T08:58:35.966Z",
+  "entryCount": 23,
   "entries": {
     "808010": {
       "rank": 992,
@@ -156,6 +156,13 @@
       "estimate": "15k+",
       "name": "How To Grow a Black Hole",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4606070": {
+      "rank": 7154,
+      "estimate": "<7k",
+      "name": "Deadly Obsession",
+      "releaseDate": "2026-06-26",
       "source": "tracked"
     }
   }

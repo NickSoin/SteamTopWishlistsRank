@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T05:11:21.218Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-26T08:58:35.966Z",
+  "entryCount": 33,
   "entries": {
     "680420": {
       "rank": 15,
@@ -227,6 +227,13 @@
       "estimate": "25k+",
       "name": "Blood West: Scavengers",
       "releaseDate": "2026-06-03",
+      "source": "tracked"
+    },
+    "4283650": {
+      "rank": 3347,
+      "estimate": "<7k",
+      "name": "Cozy Mining",
+      "releaseDate": "2026-06-26",
       "source": "tracked"
     },
     "4757300": {
