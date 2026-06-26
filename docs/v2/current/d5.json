@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-26T17:32:04.902Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-26T21:44:31.102Z",
+  "entryCount": 23,
   "entries": {
     "669270": {
       "rank": 1040,
@@ -15,7 +15,7 @@
       "name": "Food Industry"
     },
     "1313110": {
-      "rank": 4632,
+      "rank": 4634,
       "estimate": "<7k",
       "name": "Sky Beneath"
     },
@@ -30,27 +30,27 @@
       "name": "FIRST"
     },
     "1944880": {
-      "rank": 4436,
+      "rank": 4433,
       "estimate": "<7k",
       "name": "Drop Command"
     },
     "2219390": {
-      "rank": 1880,
+      "rank": 1881,
       "estimate": "15k+",
       "name": "Imperial Ambitions"
     },
     "2470010": {
-      "rank": 184,
+      "rank": 185,
       "estimate": "200k+",
       "name": "DEFECT"
     },
     "2723370": {
-      "rank": 3547,
+      "rank": 3548,
       "estimate": "<7k",
       "name": "Voiceless"
     },
     "2879790": {
-      "rank": 2613,
+      "rank": 2614,
       "estimate": "7k+",
       "name": "Son of Thanjai"
     },
@@ -60,17 +60,17 @@
       "name": "Black State"
     },
     "3164260": {
-      "rank": 2127,
+      "rank": 2129,
       "estimate": "7k+",
       "name": "GORECORE"
     },
     "3464670": {
-      "rank": 934,
+      "rank": 935,
       "estimate": "40k+",
       "name": "Dead Watch"
     },
     "3474240": {
-      "rank": 4525,
+      "rank": 4517,
       "estimate": "<7k",
       "name": "Dracula: The Disciple"
     },
@@ -80,39 +80,44 @@
       "name": "Tenebyss"
     },
     "3829310": {
-      "rank": 4441,
+      "rank": 4444,
       "estimate": "<7k",
       "name": "Sublight"
     },
     "3919400": {
-      "rank": 2293,
+      "rank": 2294,
       "estimate": "7k+",
       "name": "黄莓C HuangmeiC"
     },
     "3972410": {
-      "rank": 4740,
+      "rank": 4737,
       "estimate": "<7k",
       "name": "Black Cat Book Club"
     },
     "4156370": {
-      "rank": 4332,
+      "rank": 4333,
       "estimate": "<7k",
       "name": "Antivirus Girl"
     },
     "4227270": {
-      "rank": 4666,
+      "rank": 4662,
       "estimate": "<7k",
       "name": "Litany"
     },
     "4562940": {
-      "rank": 2911,
+      "rank": 2909,
       "estimate": "7k+",
       "name": "HOPE 01"
     },
     "4661070": {
-      "rank": 935,
+      "rank": 934,
       "estimate": "40k+",
       "name": "HANDS OVER"
+    },
+    "4736510": {
+      "rank": 5097,
+      "estimate": "<7k",
+      "name": "Gunvolt Chronicles: Luminous Avenger iX 3"
     }
   }
 }

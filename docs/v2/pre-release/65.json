@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T17:32:04.902Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-26T21:44:31.102Z",
+  "entryCount": 33,
   "entries": {
     "301280": {
       "rank": 574,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "Sakura Hime 6",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4692340": {
+      "rank": 3757,
+      "estimate": "<7k",
+      "name": "Coastal Summit Sports: College Athletics 27",
+      "releaseDate": "2026-06-26",
       "source": "tracked"
     }
   }

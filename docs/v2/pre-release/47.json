@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-26T17:32:04.902Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-26T21:44:31.102Z",
+  "entryCount": 30,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -191,6 +191,13 @@
       "estimate": "25k+",
       "name": "Besiege: The Broken Beyond",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4520500": {
+      "rank": 8251,
+      "estimate": "<7k",
+      "name": "Puzzle",
+      "releaseDate": "2026-06-26",
       "source": "tracked"
     },
     "4698120": {

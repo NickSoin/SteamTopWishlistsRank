@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-26T17:32:04.902Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-26T21:44:31.102Z",
+  "entryCount": 27,
   "entries": {
     "632950": {
-      "rank": 817,
+      "rank": 818,
       "estimate": "40k+",
       "name": "SiN Reloaded"
     },
     "1343460": {
-      "rank": 5067,
+      "rank": 5068,
       "estimate": "<7k",
       "name": "Selenwald"
     },
     "1388270": {
-      "rank": 2623,
+      "rank": 2627,
       "estimate": "7k+",
       "name": "Effigy"
     },
@@ -30,7 +30,7 @@
       "name": "Bad Boro"
     },
     "1894120": {
-      "rank": 2356,
+      "rank": 2358,
       "estimate": "7k+",
       "name": "ILL NESS"
     },
@@ -55,17 +55,17 @@
       "name": "Fractured Mind"
     },
     "2936810": {
-      "rank": 865,
+      "rank": 867,
       "estimate": "40k+",
       "name": "RUINER 2"
     },
     "3019200": {
-      "rank": 2083,
+      "rank": 2084,
       "estimate": "7k+",
       "name": "Little Herbal Baker"
     },
     "3404880": {
-      "rank": 1718,
+      "rank": 1719,
       "estimate": "15k+",
       "name": "Someone's Inside Me"
     },
@@ -75,12 +75,12 @@
       "name": "Kitaria Fables 2"
     },
     "3500630": {
-      "rank": 2639,
+      "rank": 2640,
       "estimate": "7k+",
       "name": "奇门象棋-QiMen Chess"
     },
     "3509400": {
-      "rank": 2464,
+      "rank": 2466,
       "estimate": "7k+",
       "name": "A Heavy Morning"
     },
@@ -90,14 +90,19 @@
       "name": "Hoarder"
     },
     "3755890": {
-      "rank": 3797,
+      "rank": 3800,
       "estimate": "<7k",
       "name": "ZHEN: Shattered Legacy"
     },
     "3779320": {
-      "rank": 3436,
+      "rank": 3437,
       "estimate": "<7k",
       "name": "Jungle Rot"
+    },
+    "3780430": {
+      "rank": 4301,
+      "estimate": "<7k",
+      "name": "Mondrayn"
     },
     "3812490": {
       "rank": 3351,
@@ -105,12 +110,12 @@
       "name": "TÖLT"
     },
     "3833730": {
-      "rank": 2593,
+      "rank": 2594,
       "estimate": "7k+",
       "name": "General Practice"
     },
     "4129360": {
-      "rank": 4931,
+      "rank": 4936,
       "estimate": "<7k",
       "name": "I Am Monkey"
     },
@@ -130,7 +135,7 @@
       "name": "Pickmos"
     },
     "4406760": {
-      "rank": 3848,
+      "rank": 3842,
       "estimate": "<7k",
       "name": "Fernhoof Grove: Riding Academy"
     }
