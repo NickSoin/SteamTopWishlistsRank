@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-25T22:01:52.032Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-26T05:11:21.218Z",
+  "entryCount": 26,
   "entries": {
     "761830": {
       "rank": 31,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Phone Flipper Simulator",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4290390": {
+      "rank": 2119,
+      "estimate": "7k+",
+      "name": "CARTAGRA",
+      "releaseDate": "2026-06-25",
       "source": "tracked"
     },
     "4518500": {

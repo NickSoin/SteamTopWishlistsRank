@@ -1,101 +1,106 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-25T22:01:52.032Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-26T05:11:21.218Z",
+  "entryCount": 20,
   "entries": {
     "1778150": {
-      "rank": 3906,
+      "rank": 3909,
       "estimate": "<7k",
       "name": "TRIP"
     },
     "1810070": {
-      "rank": 2411,
+      "rank": 2414,
       "estimate": "7k+",
       "name": "Aperture: Salt Mines"
     },
     "1953850": {
-      "rank": 2740,
+      "rank": 2741,
       "estimate": "7k+",
       "name": "VICE Undercover"
     },
     "2050420": {
-      "rank": 7,
+      "rank": 8,
       "estimate": "1.5m+",
       "name": "ARK 2"
     },
     "2381500": {
-      "rank": 1714,
+      "rank": 1716,
       "estimate": "15k+",
       "name": "Engine Simulator"
     },
     "3008590": {
-      "rank": 2071,
+      "rank": 2075,
       "estimate": "7k+",
       "name": "Relics of the Oracle"
     },
     "3042790": {
-      "rank": 3753,
+      "rank": 3750,
       "estimate": "<7k",
       "name": "Scirocco Thugs"
     },
+    "3260240": {
+      "rank": 1901,
+      "estimate": "15k+",
+      "name": "Drivers of the Apocalypse"
+    },
     "3433800": {
-      "rank": 2130,
+      "rank": 2127,
       "estimate": "7k+",
       "name": "Moonbrella"
     },
     "3445610": {
-      "rank": 1373,
+      "rank": 1377,
       "estimate": "25k+",
       "name": "BOMBSHELL BLITZ"
     },
     "3601630": {
-      "rank": 3676,
+      "rank": 3678,
       "estimate": "<7k",
       "name": "Cosmo Tales"
     },
     "3676140": {
-      "rank": 4018,
+      "rank": 3969,
       "estimate": "<7k",
       "name": "Trawler's Wake"
     },
     "3742720": {
-      "rank": 3248,
+      "rank": 3249,
       "estimate": "<7k",
       "name": "Sobakistan: The Land of Dogs"
     },
     "3749130": {
-      "rank": 4416,
+      "rank": 4419,
       "estimate": "<7k",
       "name": "Tower Tactics 2"
     },
     "3981460": {
-      "rank": 2541,
+      "rank": 2546,
       "estimate": "7k+",
       "name": "Total Tank Simulator 2"
     },
     "3985330": {
-      "rank": 3838,
+      "rank": 3840,
       "estimate": "<7k",
       "name": "BURNED HORIZONS"
     },
     "4005330": {
-      "rank": 4998,
+      "rank": 5003,
       "estimate": "<7k",
       "name": "Spell Trigger"
     },
     "4061170": {
-      "rank": 569,
+      "rank": 572,
       "estimate": "40k+",
       "name": "SlashZero"
     },
     "4163030": {
-      "rank": 988,
+      "rank": 984,
       "estimate": "40k+",
       "name": "Cat Chess"
     },
     "4517190": {
-      "rank": 2333,
+      "rank": 2331,
       "estimate": "7k+",
       "name": "DoDonPachi Resurrection Reignite"
     }

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-25T22:01:52.032Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-26T05:11:21.218Z",
+  "entryCount": 20,
   "entries": {
     "1008340": {
-      "rank": 2644,
+      "rank": 2643,
       "estimate": "7k+",
       "name": "Insect Worlds"
     },
     "1482690": {
-      "rank": 3604,
+      "rank": 3605,
       "estimate": "<7k",
       "name": "The Inspector"
     },
@@ -20,37 +20,37 @@
       "name": "Wild West Builder"
     },
     "2076210": {
-      "rank": 1702,
+      "rank": 1704,
       "estimate": "15k+",
       "name": "Southfield"
     },
     "2512880": {
-      "rank": 332,
+      "rank": 333,
       "estimate": "80k+",
       "name": "CrisisX"
     },
     "3333990": {
-      "rank": 399,
+      "rank": 400,
       "estimate": "80k+",
       "name": "Covenant"
     },
     "3339080": {
-      "rank": 2407,
+      "rank": 2402,
       "estimate": "7k+",
       "name": "Wyrmspan"
     },
     "3613960": {
-      "rank": 4829,
+      "rank": 4832,
       "estimate": "<7k",
       "name": "Resort Island Simulator"
     },
     "3620610": {
-      "rank": 1072,
+      "rank": 1073,
       "estimate": "25k+",
       "name": "Primal Survival"
     },
     "3758980": {
-      "rank": 1350,
+      "rank": 1354,
       "estimate": "25k+",
       "name": "NO STRAIGHT ROADS 2"
     },
@@ -65,7 +65,7 @@
       "name": "Agent of Strange"
     },
     "3901830": {
-      "rank": 5078,
+      "rank": 5079,
       "estimate": "<7k",
       "name": "暗色神具的魔王"
     },
@@ -75,29 +75,34 @@
       "name": "Back To Drive"
     },
     "4029740": {
-      "rank": 2300,
+      "rank": 2298,
       "estimate": "7k+",
       "name": "Puppergeist"
     },
     "4121840": {
-      "rank": 4305,
+      "rank": 4311,
       "estimate": "<7k",
       "name": "Xuande"
     },
     "4245560": {
-      "rank": 500,
-      "estimate": "80k+",
+      "rank": 502,
+      "estimate": "40k+",
       "name": "Spyro™: A Realm Beyond"
     },
     "4265140": {
-      "rank": 3688,
+      "rank": 3687,
       "estimate": "<7k",
       "name": "Beat Weaver"
     },
     "4268590": {
-      "rank": 4934,
+      "rank": 4912,
       "estimate": "<7k",
       "name": "Func Key"
+    },
+    "4760900": {
+      "rank": 5091,
+      "estimate": "<7k",
+      "name": "Knock Off: The Battle For Imagination"
     }
   }
 }
