@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-27T12:10:05.824Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-27T16:47:36.421Z",
+  "entryCount": 22,
   "entries": {
     "981720": {
-      "rank": 2950,
+      "rank": 2951,
       "estimate": "7k+",
       "name": "Lore Finder"
     },
     "1068220": {
-      "rank": 3363,
+      "rank": 3364,
       "estimate": "<7k",
       "name": "My Little Army"
     },
@@ -20,22 +20,22 @@
       "name": "Call of Saregnar"
     },
     "1355900": {
-      "rank": 1563,
+      "rank": 1565,
       "estimate": "15k+",
       "name": "Tattered Banners"
     },
     "1547880": {
-      "rank": 3416,
+      "rank": 3419,
       "estimate": "<7k",
       "name": "Aurascope"
     },
     "1685630": {
-      "rank": 4783,
+      "rank": 4784,
       "estimate": "<7k",
       "name": "浊之铃"
     },
     "1874980": {
-      "rank": 2731,
+      "rank": 2735,
       "estimate": "7k+",
       "name": "Ready for Riot"
     },
@@ -50,7 +50,7 @@
       "name": "Haunted Paws"
     },
     "2921670": {
-      "rank": 4350,
+      "rank": 4352,
       "estimate": "<7k",
       "name": "Cultivation Realm: Card Survival"
     },
@@ -60,39 +60,44 @@
       "name": "Shadow Sacrament: The Roots of Evil"
     },
     "3058760": {
-      "rank": 3406,
+      "rank": 3407,
       "estimate": "<7k",
       "name": "Lost in Limbo"
     },
     "3083210": {
-      "rank": 5082,
+      "rank": 5081,
       "estimate": "<7k",
       "name": "Block 17"
     },
     "3475880": {
-      "rank": 1035,
+      "rank": 1036,
       "estimate": "25k+",
       "name": "Train Goes Right"
     },
     "3989790": {
-      "rank": 3166,
+      "rank": 3161,
       "estimate": "<7k",
       "name": "Cranked"
     },
     "4048520": {
-      "rank": 824,
+      "rank": 808,
       "estimate": "40k+",
       "name": "HAELE 3D - Pose Studio Max - Anatomy Drawing References"
     },
     "4110720": {
-      "rank": 3129,
+      "rank": 3125,
       "estimate": "<7k",
       "name": "Shardpunk 2"
     },
     "4159680": {
-      "rank": 4681,
+      "rank": 4675,
       "estimate": "<7k",
       "name": "Barfender"
+    },
+    "4358380": {
+      "rank": 5095,
+      "estimate": "<7k",
+      "name": "Qianli: The Vastscape Scroll"
     },
     "4483420": {
       "rank": 3522,
@@ -100,12 +105,12 @@
       "name": "Luna Has Gone"
     },
     "4668010": {
-      "rank": 4558,
+      "rank": 4560,
       "estimate": "<7k",
       "name": "Full Belly Breakout"
     },
     "4705650": {
-      "rank": 3892,
+      "rank": 3878,
       "estimate": "<7k",
       "name": "Silent Shark"
     }
