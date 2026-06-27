@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-27T08:14:47.716Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-27T12:10:05.824Z",
+  "entryCount": 23,
   "entries": {
     "1120330": {
       "rank": 1763,
@@ -10,17 +10,17 @@
       "name": "Sky of Tides"
     },
     "1363940": {
-      "rank": 304,
+      "rank": 305,
       "estimate": "80k+",
       "name": "Tenjutsu"
     },
     "1445880": {
-      "rank": 951,
+      "rank": 952,
       "estimate": "40k+",
       "name": "ROCKBEASTS"
     },
     "1475120": {
-      "rank": 3640,
+      "rank": 3641,
       "estimate": "<7k",
       "name": "Call Me Under"
     },
@@ -30,17 +30,17 @@
       "name": "Isles of Krom"
     },
     "1727540": {
-      "rank": 3688,
+      "rank": 3689,
       "estimate": "<7k",
       "name": "Primordials Legends: Hollow Hero"
     },
     "1975790": {
-      "rank": 2814,
+      "rank": 2815,
       "estimate": "7k+",
       "name": "VergeWorld"
     },
     "2563880": {
-      "rank": 3260,
+      "rank": 3262,
       "estimate": "<7k",
       "name": "Ghost Hand"
     },
@@ -50,7 +50,7 @@
       "name": "Spill the Beans"
     },
     "3209530": {
-      "rank": 4832,
+      "rank": 4835,
       "estimate": "<7k",
       "name": "Last Helion"
     },
@@ -70,12 +70,12 @@
       "name": "Carthage: Bellum Punicum"
     },
     "3745230": {
-      "rank": 4768,
+      "rank": 4769,
       "estimate": "<7k",
       "name": "The Great Hatch"
     },
     "3825390": {
-      "rank": 1481,
+      "rank": 1479,
       "estimate": "25k+",
       "name": "BLUE REFLECTION Quartet"
     },
@@ -95,12 +95,12 @@
       "name": "Eldritch Horror: Digital Edition"
     },
     "4240620": {
-      "rank": 2193,
+      "rank": 2192,
       "estimate": "7k+",
       "name": "The Granny Detective Society"
     },
     "4300090": {
-      "rank": 3269,
+      "rank": 3265,
       "estimate": "<7k",
       "name": "Neat"
     },
@@ -113,6 +113,11 @@
       "rank": 4303,
       "estimate": "<7k",
       "name": "Heretic's Rapture"
+    },
+    "4719180": {
+      "rank": 4901,
+      "estimate": "<7k",
+      "name": "Hunt: Showdown 1896 - Twice a Renegade"
     }
   }
 }
