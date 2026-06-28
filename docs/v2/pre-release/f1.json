@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-28T04:58:01.144Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-28T08:30:16.740Z",
+  "entryCount": 27,
   "entries": {
     "751630": {
       "rank": 64,
@@ -184,6 +184,13 @@
       "estimate": "40k+",
       "name": "Starvester",
       "releaseDate": "2026-05-29",
+      "source": "tracked"
+    },
+    "4528890": {
+      "rank": 8208,
+      "estimate": "<7k",
+      "name": "Incrementoad",
+      "releaseDate": "2026-06-28",
       "source": "tracked"
     }
   }

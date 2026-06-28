@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-28T04:58:01.144Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-28T08:30:16.740Z",
+  "entryCount": 23,
   "entries": {
     "247710": {
-      "rank": 2616,
+      "rank": 2618,
       "estimate": "7k+",
       "name": "Battledroid"
     },
@@ -15,7 +15,7 @@
       "name": "Among Ripples: Shallow Waters"
     },
     "1112390": {
-      "rank": 4127,
+      "rank": 4129,
       "estimate": "<7k",
       "name": "HyperCore : Rhythm Bullet Hell"
     },
@@ -25,7 +25,7 @@
       "name": "Cyberpunk Bar Sim"
     },
     "1376800": {
-      "rank": 4548,
+      "rank": 4549,
       "estimate": "<7k",
       "name": "Vaporwave"
     },
@@ -45,7 +45,7 @@
       "name": "Partizan"
     },
     "2727360": {
-      "rank": 3431,
+      "rank": 3433,
       "estimate": "<7k",
       "name": "Wuxia Saga: Ten Thousand Paths"
     },
@@ -60,7 +60,7 @@
       "name": "Tukoni: Forest Keepers"
     },
     "2986590": {
-      "rank": 1978,
+      "rank": 1979,
       "estimate": "15k+",
       "name": "HYPNOSYNC"
     },
@@ -80,22 +80,22 @@
       "name": "Gambit"
     },
     "3479420": {
-      "rank": 2720,
+      "rank": 2721,
       "estimate": "7k+",
       "name": "Okko The Exiled"
     },
     "3485290": {
-      "rank": 4257,
+      "rank": 4258,
       "estimate": "<7k",
       "name": "Crimson Tale"
     },
     "3544430": {
-      "rank": 2803,
+      "rank": 2804,
       "estimate": "7k+",
       "name": "SOULGRAVE"
     },
     "3659460": {
-      "rank": 2903,
+      "rank": 2904,
       "estimate": "7k+",
       "name": "Gear.Club Unlimited 3"
     },
@@ -105,7 +105,7 @@
       "name": "DayZ Badlands"
     },
     "4032350": {
-      "rank": 1458,
+      "rank": 1455,
       "estimate": "25k+",
       "name": "EA SPORTS™ College Football 27"
     },
@@ -113,6 +113,11 @@
       "rank": 51,
       "estimate": "300k+",
       "name": "Graveyard Keeper 2"
+    },
+    "4359200": {
+      "rank": 4499,
+      "estimate": "<7k",
+      "name": "Build It Up! - The Holy Roman Empire"
     }
   }
 }
