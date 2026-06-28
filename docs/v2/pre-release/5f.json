@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-28T12:18:56.023Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-28T17:08:19.572Z",
+  "entryCount": 21,
   "entries": {
     "1194810": {
       "rank": 21,
@@ -137,6 +137,13 @@
       "estimate": "<7k",
       "name": "Glisynth",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "4306780": {
+      "rank": 6138,
+      "estimate": "<7k",
+      "name": "Integrity",
+      "releaseDate": "2026-06-28",
       "source": "tracked"
     },
     "4420950": {

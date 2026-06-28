@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-28T12:18:56.023Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-28T17:08:19.572Z",
+  "entryCount": 38,
   "entries": {
     "858820": {
       "rank": 1,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "Neofold",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4669110": {
+      "rank": 8261,
+      "estimate": "<7k",
+      "name": "Scum's Errand",
+      "releaseDate": "2026-06-28",
       "source": "tracked"
     },
     "4710720": {
