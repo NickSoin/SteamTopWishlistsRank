@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-28T08:30:16.740Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-28T12:18:56.023Z",
+  "entryCount": 22,
   "entries": {
     "611820": {
       "rank": 4917,
@@ -10,7 +10,7 @@
       "name": "Xenosis: Alien Infection"
     },
     "1478730": {
-      "rank": 1969,
+      "rank": 1970,
       "estimate": "15k+",
       "name": "Tune My Car"
     },
@@ -20,7 +20,7 @@
       "name": "Undead Development 2"
     },
     "1619870": {
-      "rank": 3620,
+      "rank": 3618,
       "estimate": "<7k",
       "name": "The Ballad of Bonky"
     },
@@ -30,7 +30,7 @@
       "name": "Gossamer Matrix"
     },
     "2153760": {
-      "rank": 149,
+      "rank": 147,
       "estimate": "200k+",
       "name": "Stronghold 4"
     },
@@ -50,7 +50,7 @@
       "name": "Neverseas"
     },
     "3126480": {
-      "rank": 4732,
+      "rank": 4734,
       "estimate": "<7k",
       "name": "Lord of Metal"
     },
@@ -60,12 +60,12 @@
       "name": "Mircea"
     },
     "3536500": {
-      "rank": 2507,
+      "rank": 2506,
       "estimate": "7k+",
       "name": "Tunguska 2: Whitefall"
     },
     "3590650": {
-      "rank": 171,
+      "rank": 172,
       "estimate": "200k+",
       "name": "OKU"
     },
@@ -75,7 +75,7 @@
       "name": "TONIN:兎忍"
     },
     "3720040": {
-      "rank": 2012,
+      "rank": 2013,
       "estimate": "7k+",
       "name": "Hide Zone"
     },
@@ -85,7 +85,7 @@
       "name": "Factomancer"
     },
     "4178790": {
-      "rank": 3828,
+      "rank": 3829,
       "estimate": "<7k",
       "name": "Clicky Islands"
     },
@@ -95,19 +95,24 @@
       "name": "Nuclear Design Bureau"
     },
     "4293910": {
-      "rank": 244,
+      "rank": 241,
       "estimate": "80k+",
       "name": "XenoFeels"
     },
     "4295800": {
-      "rank": 5069,
+      "rank": 5072,
       "estimate": "<7k",
       "name": "BLACKWELL"
     },
     "4735760": {
-      "rank": 812,
+      "rank": 808,
       "estimate": "40k+",
       "name": "Vivarium"
+    },
+    "4804480": {
+      "rank": 5093,
+      "estimate": "<7k",
+      "name": "Age of Clicks"
     }
   }
 }

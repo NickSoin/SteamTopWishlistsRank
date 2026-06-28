@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-28T08:30:16.740Z",
+  "updatedAt": "2026-06-28T12:18:56.023Z",
   "entryCount": 19,
   "entries": {
     "1130380": {
-      "rank": 4880,
+      "rank": 4881,
       "estimate": "<7k",
       "name": "OZARK"
     },
@@ -15,7 +15,7 @@
       "name": "Pope Simulator"
     },
     "1641190": {
-      "rank": 4464,
+      "rank": 4465,
       "estimate": "<7k",
       "name": "Fallen Gods"
     },
@@ -25,7 +25,7 @@
       "name": "URBANO - Legends' Debut"
     },
     "2629670": {
-      "rank": 4852,
+      "rank": 4851,
       "estimate": "<7k",
       "name": "Life Blood"
     },
@@ -40,7 +40,7 @@
       "name": "Game Designer Simulator"
     },
     "3021800": {
-      "rank": 4512,
+      "rank": 4515,
       "estimate": "<7k",
       "name": "Bleakwood"
     },
@@ -50,12 +50,12 @@
       "name": "HYPERFIGHT 2"
     },
     "3040830": {
-      "rank": 2117,
+      "rank": 2118,
       "estimate": "7k+",
       "name": "MU Legend: EVO"
     },
     "3129050": {
-      "rank": 4389,
+      "rank": 4390,
       "estimate": "<7k",
       "name": "Echoes of Mora"
     },
@@ -65,7 +65,7 @@
       "name": "Skyfarm"
     },
     "3227040": {
-      "rank": 3042,
+      "rank": 3043,
       "estimate": "<7k",
       "name": "Dress the Duel"
     },
@@ -90,13 +90,13 @@
       "name": "Warhammer Age of Sigmar: Deathmaster"
     },
     "3882410": {
-      "rank": 3368,
+      "rank": 3340,
       "estimate": "<7k",
       "name": "Qliphah in Providence's Shadow"
     },
     "4131500": {
-      "rank": 3000,
-      "estimate": "7k+",
+      "rank": 3002,
+      "estimate": "<7k",
       "name": "Feed the Giants"
     }
   }
