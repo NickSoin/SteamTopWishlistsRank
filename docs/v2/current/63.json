@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-27T16:47:36.421Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-27T21:49:04.663Z",
+  "entryCount": 20,
   "entries": {
     "1053900": {
-      "rank": 554,
+      "rank": 557,
       "estimate": "40k+",
       "name": "Radio the Universe"
     },
     "1561740": {
-      "rank": 498,
+      "rank": 499,
       "estimate": "80k+",
       "name": "Kriegsfront Tactics"
     },
     "1664720": {
-      "rank": 4996,
+      "rank": 4999,
       "estimate": "<7k",
       "name": "MOJITO Woody's Rescue"
     },
@@ -25,12 +25,12 @@
       "name": "Final Vanguard"
     },
     "1879250": {
-      "rank": 752,
+      "rank": 753,
       "estimate": "40k+",
       "name": "Teatopia"
     },
     "2354640": {
-      "rank": 3366,
+      "rank": 3364,
       "estimate": "<7k",
       "name": "DIESELDOME: Ultraviolent Gladiator Shooter"
     },
@@ -45,7 +45,7 @@
       "name": "Tower Of Tears"
     },
     "2568890": {
-      "rank": 4250,
+      "rank": 4253,
       "estimate": "<7k",
       "name": "DRINKRIME"
     },
@@ -55,17 +55,17 @@
       "name": "Woodo"
     },
     "2862770": {
-      "rank": 3718,
+      "rank": 3717,
       "estimate": "<7k",
       "name": "星海乐章 | GALIX: NewHorizons | 星の旅：億万年の絆"
     },
     "2983480": {
-      "rank": 4128,
+      "rank": 4127,
       "estimate": "<7k",
       "name": "Cinema Manager Simulator"
     },
     "3067170": {
-      "rank": 4266,
+      "rank": 4273,
       "estimate": "<7k",
       "name": "Protagonist Complex one"
     },
@@ -75,7 +75,7 @@
       "name": "TANUKI: Pon's Summer"
     },
     "3235140": {
-      "rank": 2241,
+      "rank": 2242,
       "estimate": "7k+",
       "name": "GANGSTALK"
     },
@@ -85,7 +85,7 @@
       "name": "Climbing Gym Simulator"
     },
     "3661400": {
-      "rank": 3014,
+      "rank": 3016,
       "estimate": "<7k",
       "name": "Gourdlets Together"
     },
@@ -98,6 +98,11 @@
       "rank": 2040,
       "estimate": "7k+",
       "name": "DownSouth"
+    },
+    "4337230": {
+      "rank": 5108,
+      "estimate": "<7k",
+      "name": "Midnight Train: New Moon"
     }
   }
 }

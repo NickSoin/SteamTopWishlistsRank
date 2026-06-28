@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-27T16:47:36.421Z",
-  "entryCount": 14,
+  "updatedAt": "2026-06-27T21:49:04.663Z",
+  "entryCount": 15,
   "entries": {
     "2054970": {
       "rank": 6,
@@ -10,7 +10,7 @@
       "name": "Dragon's Dogma 2: Dark Arisen"
     },
     "2197330": {
-      "rank": 4610,
+      "rank": 4611,
       "estimate": "<7k",
       "name": "CARD NOVA HYPER"
     },
@@ -25,18 +25,18 @@
       "name": "CONFINED: Leaving OKB-134"
     },
     "2822720": {
-      "rank": 900,
+      "rank": 901,
       "estimate": "40k+",
       "name": "Echoes of Extinction"
     },
     "2853430": {
-      "rank": 1298,
+      "rank": 1302,
       "estimate": "25k+",
       "name": "Ravenwood Academy: A Wizard101 Story"
     },
     "3040930": {
-      "rank": 3001,
-      "estimate": "<7k",
+      "rank": 2999,
+      "estimate": "7k+",
       "name": "Just A Shadow Game"
     },
     "3151360": {
@@ -55,24 +55,29 @@
       "name": "ORMOD: Directive"
     },
     "3603740": {
-      "rank": 2666,
+      "rank": 2669,
       "estimate": "7k+",
       "name": "GCR4 Geoff Crammond"
     },
     "3700100": {
-      "rank": 3618,
+      "rank": 3620,
       "estimate": "<7k",
       "name": "Bruma"
     },
     "3933180": {
-      "rank": 1923,
+      "rank": 1925,
       "estimate": "15k+",
       "name": "Torii: Beyond The Gates"
     },
     "4304060": {
-      "rank": 2375,
+      "rank": 2369,
       "estimate": "7k+",
       "name": "SONIC PICO PARK"
+    },
+    "4465510": {
+      "rank": 5101,
+      "estimate": "<7k",
+      "name": "Nimaat"
     }
   }
 }
