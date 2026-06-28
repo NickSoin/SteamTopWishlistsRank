@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-27T21:49:04.663Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-28T04:58:01.144Z",
+  "entryCount": 31,
   "entries": {
     "979690": {
       "rank": 26,
@@ -212,6 +212,13 @@
       "estimate": "25k+",
       "name": "MechWarrior 5: Mercenaries - Chaos Reign",
       "releaseDate": "2026-05-26",
+      "source": "tracked"
+    },
+    "4559140": {
+      "rank": 5119,
+      "estimate": "<7k",
+      "name": "Godius Eternal War",
+      "releaseDate": "2026-06-27",
       "source": "tracked"
     }
   }

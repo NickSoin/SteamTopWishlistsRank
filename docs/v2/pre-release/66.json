@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-27T21:49:04.663Z",
-  "entryCount": 36,
+  "updatedAt": "2026-06-28T04:58:01.144Z",
+  "entryCount": 37,
   "entries": {
     "976890": {
       "rank": 70,
@@ -246,6 +246,13 @@
       "estimate": "40k+",
       "name": "STARDUST: Wish of Witch",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3946180": {
+      "rank": 9013,
+      "estimate": "<7k",
+      "name": "When Stars Collide",
+      "releaseDate": "2026-06-27",
       "source": "tracked"
     },
     "4355570": {

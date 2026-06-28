@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-27T21:49:04.663Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-28T04:58:01.144Z",
+  "entryCount": 28,
   "entries": {
     "1003590": {
       "rank": 343,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "Tiny Lands 2 - Diorama set 1",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4667670": {
+      "rank": 9559,
+      "estimate": "<7k",
+      "name": "lovely bakery",
+      "releaseDate": "2026-06-27",
       "source": "tracked"
     }
   }
