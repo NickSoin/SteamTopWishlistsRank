@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T10:23:38.176Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-29T14:40:11.414Z",
+  "entryCount": 32,
   "entries": {
     "1171690": {
       "rank": 23,
@@ -209,6 +209,13 @@
       "estimate": "7k+",
       "name": "Isekai Villain",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4539570": {
+      "rank": 8994,
+      "estimate": "<7k",
+      "name": "OVR Space Dragger",
+      "releaseDate": "2026-06-29",
       "source": "tracked"
     },
     "4692060": {

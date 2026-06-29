@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-29T10:23:38.176Z",
-  "entryCount": 9,
+  "updatedAt": "2026-06-29T14:40:11.414Z",
+  "entryCount": 10,
   "entries": {
     "1048250": {
-      "rank": 839,
+      "rank": 840,
       "estimate": "40k+",
       "name": "Bowlbo: The Quest for Bing Bing"
     },
@@ -25,7 +25,7 @@
       "name": "Carcass Clad"
     },
     "3768880": {
-      "rank": 4172,
+      "rank": 4173,
       "estimate": "<7k",
       "name": "Torebia: Island Odyssey"
     },
@@ -35,19 +35,24 @@
       "name": "Verdant"
     },
     "4208770": {
-      "rank": 2179,
+      "rank": 2177,
       "estimate": "7k+",
       "name": "Launch Window"
     },
     "4336530": {
-      "rank": 2999,
-      "estimate": "7k+",
+      "rank": 3002,
+      "estimate": "<7k",
       "name": "There Are Millions of Goblins"
     },
     "4446990": {
-      "rank": 4485,
+      "rank": 4486,
       "estimate": "<7k",
       "name": "Menhera Maiden"
+    },
+    "4622110": {
+      "rank": 5126,
+      "estimate": "<7k",
+      "name": "我的傲娇妹妹 MY TSUNDERE SISTER"
     }
   }
 }

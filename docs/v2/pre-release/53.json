@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T10:23:38.176Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-29T14:40:11.414Z",
+  "entryCount": 22,
   "entries": {
     "883230": {
       "rank": 1500,
@@ -145,6 +145,13 @@
       "name": "西门立志传",
       "releaseDate": "2024-07-31",
       "source": "historical"
+    },
+    "3838400": {
+      "rank": 8312,
+      "estimate": "<7k",
+      "name": "The Serpent & The Seed",
+      "releaseDate": "2026-06-29",
+      "source": "tracked"
     },
     "3854110": {
       "rank": 2799,

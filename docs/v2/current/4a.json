@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-29T10:23:38.176Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-29T14:40:11.414Z",
+  "entryCount": 20,
   "entries": {
     "306910": {
       "rank": 260,
@@ -15,22 +15,22 @@
       "name": "TankRat"
     },
     "1953430": {
-      "rank": 3350,
+      "rank": 3351,
       "estimate": "<7k",
       "name": "DearMyFriend"
     },
     "2184020": {
-      "rank": 1113,
+      "rank": 1114,
       "estimate": "25k+",
       "name": "LIFTED"
     },
     "2357970": {
-      "rank": 4151,
+      "rank": 4154,
       "estimate": "<7k",
       "name": "Finely Diced"
     },
     "2408290": {
-      "rank": 5066,
+      "rank": 5067,
       "estimate": "<7k",
       "name": "Interlopers"
     },
@@ -55,9 +55,14 @@
       "name": "Milo"
     },
     "2879320": {
-      "rank": 2989,
+      "rank": 2991,
       "estimate": "7k+",
       "name": "The Night Wanderer"
+    },
+    "3196750": {
+      "rank": 3902,
+      "estimate": "<7k",
+      "name": "[Bober Bros] Happy House"
     },
     "3374020": {
       "rank": 3768,
@@ -65,12 +70,12 @@
       "name": "Buddy Bug"
     },
     "3489490": {
-      "rank": 2829,
+      "rank": 2828,
       "estimate": "7k+",
       "name": "SourceWorld"
     },
     "3777300": {
-      "rank": 3740,
+      "rank": 3739,
       "estimate": "<7k",
       "name": "School Crisis"
     },
@@ -80,22 +85,22 @@
       "name": "AXERAS"
     },
     "4018550": {
-      "rank": 2762,
+      "rank": 2757,
       "estimate": "7k+",
       "name": "Cat Isle"
     },
     "4342570": {
-      "rank": 4511,
+      "rank": 4512,
       "estimate": "<7k",
       "name": "Gospodar's Tales"
     },
     "4425550": {
-      "rank": 4803,
+      "rank": 4795,
       "estimate": "<7k",
       "name": "Monkey Bizniz"
     },
     "4430260": {
-      "rank": 3300,
+      "rank": 3296,
       "estimate": "<7k",
       "name": "Beat For Speed"
     }
