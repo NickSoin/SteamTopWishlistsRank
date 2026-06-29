@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T05:17:23.163Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-29T10:23:38.176Z",
+  "entryCount": 26,
   "entries": {
     "653060": {
       "rank": 687,
@@ -151,6 +151,13 @@
       "estimate": "15k+",
       "name": "God For A Day",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4380120": {
+      "rank": 5549,
+      "estimate": "<7k",
+      "name": "Horn of the Warlord",
+      "releaseDate": "2026-06-29",
       "source": "tracked"
     },
     "4539580": {

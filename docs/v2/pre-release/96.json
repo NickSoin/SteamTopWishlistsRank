@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T05:17:23.163Z",
-  "entryCount": 21,
+  "updatedAt": "2026-06-29T10:23:38.176Z",
+  "entryCount": 22,
   "entries": {
     "678390": {
       "rank": 662,
@@ -146,6 +146,13 @@
       "estimate": "7k+",
       "name": "Layer Land",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4196160": {
+      "rank": 6059,
+      "estimate": "<7k",
+      "name": "Haunt Out",
+      "releaseDate": "2026-06-29",
       "source": "tracked"
     },
     "4707380": {

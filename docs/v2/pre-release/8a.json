@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T05:17:23.163Z",
-  "entryCount": 35,
+  "updatedAt": "2026-06-29T10:23:38.176Z",
+  "entryCount": 36,
   "entries": {
     "538030": {
       "rank": 87,
@@ -182,6 +182,13 @@
       "name": "KIBORG",
       "releaseDate": "2025-04-30",
       "source": "historical"
+    },
+    "2434370": {
+      "rank": 5799,
+      "estimate": "<7k",
+      "name": "Auto Dungeon:Idle Adventure",
+      "releaseDate": "2026-06-28",
+      "source": "tracked"
     },
     "2434420": {
       "rank": 1824,
