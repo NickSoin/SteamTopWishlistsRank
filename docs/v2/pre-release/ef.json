@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-28T22:02:26.768Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-29T05:17:23.163Z",
+  "entryCount": 27,
   "entries": {
     "1231560": {
       "rank": 269,
@@ -178,6 +178,13 @@
       "name": "Valor Mortis",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4270610": {
+      "rank": 4322,
+      "estimate": "<7k",
+      "name": "idle:Doodle Realm",
+      "releaseDate": "2026-06-28",
+      "source": "tracked"
     },
     "4285690": {
       "rank": 103,

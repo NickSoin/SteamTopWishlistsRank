@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-28T22:02:26.768Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-29T05:17:23.163Z",
+  "entryCount": 25,
   "entries": {
     "941460": {
       "rank": 36,
@@ -175,6 +175,13 @@
       "name": "Deadrock Redemption",
       "releaseDate": "2024-04-04",
       "source": "historical"
+    },
+    "4585880": {
+      "rank": 7440,
+      "estimate": "<7k",
+      "name": "Symptoms of Infection",
+      "releaseDate": "2026-06-28",
+      "source": "tracked"
     }
   }
 }
