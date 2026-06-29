@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T14:40:11.414Z",
-  "entryCount": 40,
+  "updatedAt": "2026-06-29T17:58:53.193Z",
+  "entryCount": 41,
   "entries": {
     "651490": {
       "rank": 270,
@@ -254,6 +254,13 @@
       "estimate": "<7k",
       "name": "Nuclear Epoch",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4080030": {
+      "rank": 2570,
+      "estimate": "7k+",
+      "name": "The Message from Deep Space",
+      "releaseDate": "2026-06-29",
       "source": "tracked"
     },
     "4144510": {

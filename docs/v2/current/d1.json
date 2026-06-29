@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-29T14:40:11.414Z",
-  "entryCount": 13,
+  "updatedAt": "2026-06-29T17:58:53.193Z",
+  "entryCount": 14,
   "entries": {
     "1072910": {
-      "rank": 1957,
+      "rank": 1958,
       "estimate": "15k+",
       "name": "Drill Man Rumble"
     },
     "1091870": {
-      "rank": 1808,
+      "rank": 1809,
       "estimate": "15k+",
       "name": "Theropods"
     },
@@ -20,12 +20,12 @@
       "name": "BackRooms"
     },
     "2110150": {
-      "rank": 2902,
+      "rank": 2900,
       "estimate": "7k+",
       "name": "Thesis of Love 心动论证"
     },
     "2278180": {
-      "rank": 4198,
+      "rank": 4195,
       "estimate": "<7k",
       "name": "The Secret of Crystal Mountain"
     },
@@ -40,12 +40,12 @@
       "name": "DataJack 2020"
     },
     "2863300": {
-      "rank": 3570,
+      "rank": 3567,
       "estimate": "<7k",
       "name": "Absym"
     },
     "2988160": {
-      "rank": 3995,
+      "rank": 3992,
       "estimate": "<7k",
       "name": "Fear The Reaper"
     },
@@ -55,19 +55,24 @@
       "name": "Planet Zoo 2"
     },
     "3318210": {
-      "rank": 3910,
+      "rank": 3909,
       "estimate": "<7k",
       "name": "Doomed Otaku"
     },
     "3744040": {
-      "rank": 740,
+      "rank": 741,
       "estimate": "40k+",
       "name": "Kaidan"
     },
     "3841510": {
-      "rank": 456,
+      "rank": 455,
       "estimate": "80k+",
       "name": "DYNASTY WARRIORS 3: Complete Edition Remastered"
+    },
+    "3997240": {
+      "rank": 5112,
+      "estimate": "<7k",
+      "name": "Osta"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-29T14:40:11.414Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-29T17:58:53.193Z",
+  "entryCount": 19,
   "entries": {
     "1149450": {
       "rank": 616,
@@ -20,22 +20,22 @@
       "name": "Full Circle"
     },
     "1686230": {
-      "rank": 1499,
+      "rank": 1500,
       "estimate": "25k+",
       "name": "Mayday: The Survival Island"
     },
     "2446020": {
-      "rank": 3533,
+      "rank": 3531,
       "estimate": "<7k",
       "name": "Orpheus: Tale of a Lover"
     },
     "2449700": {
-      "rank": 3051,
+      "rank": 3050,
       "estimate": "<7k",
       "name": "HIGHWAY PATROL SIMULATOR"
     },
     "2475170": {
-      "rank": 4678,
+      "rank": 4677,
       "estimate": "<7k",
       "name": "Cosmic Race: Galactic Showdown"
     },
@@ -45,17 +45,17 @@
       "name": "Zombie Assault: Resurgence"
     },
     "3039980": {
-      "rank": 1617,
+      "rank": 1619,
       "estimate": "15k+",
       "name": "Sigils of Nightfall"
     },
     "3053470": {
-      "rank": 1946,
+      "rank": 1947,
       "estimate": "15k+",
       "name": "MR. RECORDS"
     },
     "3264980": {
-      "rank": 950,
+      "rank": 951,
       "estimate": "40k+",
       "name": "HELL YEAH simulator"
     },
@@ -65,44 +65,39 @@
       "name": "Among the Waves"
     },
     "3423280": {
-      "rank": 248,
+      "rank": 250,
       "estimate": "80k+",
       "name": "Shark Dentist"
     },
     "3589430": {
-      "rank": 2442,
+      "rank": 2443,
       "estimate": "7k+",
       "name": "Heidi's Legacy: Mountains Calling"
     },
     "3971730": {
-      "rank": 4979,
+      "rank": 4972,
       "estimate": "<7k",
       "name": "Donutal"
     },
     "4044990": {
-      "rank": 2758,
+      "rank": 2756,
       "estimate": "7k+",
       "name": "DEG"
     },
     "4071460": {
-      "rank": 4442,
+      "rank": 4439,
       "estimate": "<7k",
       "name": "Tentacle Locker 2"
     },
     "4196910": {
-      "rank": 3741,
+      "rank": 3737,
       "estimate": "<7k",
       "name": "Rewindead"
     },
     "4332910": {
-      "rank": 4153,
+      "rank": 4150,
       "estimate": "<7k",
       "name": "Blindshot Arena"
-    },
-    "4560490": {
-      "rank": 3116,
-      "estimate": "<7k",
-      "name": "REWIND"
     }
   }
 }

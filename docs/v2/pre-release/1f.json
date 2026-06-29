@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T14:40:11.414Z",
-  "entryCount": 37,
+  "updatedAt": "2026-06-29T17:58:53.193Z",
+  "entryCount": 38,
   "entries": {
     "830540": {
       "rank": 1466,
@@ -270,6 +270,13 @@
       "releaseDate": "2026-02-12",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592132688"
+    },
+    "4542210": {
+      "rank": 1858,
+      "estimate": "15k+",
+      "name": "War Room: Tactical Sandbox",
+      "releaseDate": "2026-06-29",
+      "source": "tracked"
     }
   }
 }

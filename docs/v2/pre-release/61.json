@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T14:40:11.414Z",
-  "entryCount": 26,
+  "updatedAt": "2026-06-29T17:58:53.193Z",
+  "entryCount": 27,
   "entries": {
     "374190": {
       "rank": 414,
@@ -188,6 +188,13 @@
       "estimate": "<7k",
       "name": "SpriteArcana",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4618250": {
+      "rank": 8726,
+      "estimate": "<7k",
+      "name": "Agricola - The King's Farmer",
+      "releaseDate": "2026-06-29",
       "source": "tracked"
     }
   }
