@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-28T17:08:19.572Z",
-  "entryCount": 19,
+  "updatedAt": "2026-06-28T22:02:26.768Z",
+  "entryCount": 21,
   "entries": {
     "887680": {
-      "rank": 4171,
+      "rank": 4173,
       "estimate": "<7k",
       "name": "不当英雄ROGUELIKE HERO"
     },
@@ -15,27 +15,32 @@
       "name": "Silent Night"
     },
     "1176330": {
-      "rank": 4639,
+      "rank": 4642,
       "estimate": "<7k",
       "name": "Your Principal"
     },
     "1268790": {
-      "rank": 877,
+      "rank": 878,
       "estimate": "40k+",
       "name": "Dark Fracture"
     },
     "1340720": {
-      "rank": 33,
+      "rank": 32,
       "estimate": "600k+",
       "name": "State of Decay 3"
     },
+    "1562410": {
+      "rank": 5119,
+      "estimate": "<7k",
+      "name": "Slime 64"
+    },
     "2017120": {
-      "rank": 3395,
+      "rank": 3399,
       "estimate": "<7k",
       "name": "Nowhere Manor"
     },
     "2334320": {
-      "rank": 1691,
+      "rank": 1690,
       "estimate": "15k+",
       "name": "Cthulhu Keeper"
     },
@@ -55,12 +60,12 @@
       "name": "Thalassophobia"
     },
     "2511600": {
-      "rank": 4976,
+      "rank": 4981,
       "estimate": "<7k",
       "name": "TERRE・Scramble！"
     },
     "3126500": {
-      "rank": 2405,
+      "rank": 2404,
       "estimate": "7k+",
       "name": "States of Power"
     },
@@ -70,12 +75,12 @@
       "name": "Am I Nima"
     },
     "3586450": {
-      "rank": 3229,
+      "rank": 3228,
       "estimate": "<7k",
       "name": "World Tree Ranch: Elven Legacy"
     },
     "4123070": {
-      "rank": 1383,
+      "rank": 1362,
       "estimate": "25k+",
       "name": "MonCraft 199X"
     },
@@ -85,7 +90,7 @@
       "name": "Prism 2033"
     },
     "4458310": {
-      "rank": 4627,
+      "rank": 4625,
       "estimate": "<7k",
       "name": "Stick Scholars"
     },
@@ -94,8 +99,13 @@
       "estimate": "<7k",
       "name": "HOLO-KINGDOM"
     },
+    "4572120": {
+      "rank": 5090,
+      "estimate": "<7k",
+      "name": "Dirt Clicker"
+    },
     "4704000": {
-      "rank": 1074,
+      "rank": 1071,
       "estimate": "25k+",
       "name": "Shark Mart"
     }
