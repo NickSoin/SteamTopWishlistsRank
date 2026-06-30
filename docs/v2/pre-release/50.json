@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T08:57:29.468Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-30T12:53:23.819Z",
+  "entryCount": 24,
   "entries": {
     "950180": {
       "rank": 218,
@@ -165,6 +165,13 @@
       "estimate": "<7k",
       "name": "Beggar's Road",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4616840": {
+      "rank": 2315,
+      "estimate": "7k+",
+      "name": "Desk Space: Idle Spacefleet clicker",
+      "releaseDate": "2026-06-30",
       "source": "tracked"
     }
   }
