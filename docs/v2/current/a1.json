@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-30T05:01:50.894Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-30T08:57:29.468Z",
+  "entryCount": 19,
   "entries": {
     "969330": {
       "rank": 686,
@@ -10,12 +10,12 @@
       "name": "The Way of Wrath"
     },
     "997090": {
-      "rank": 3630,
+      "rank": 3632,
       "estimate": "<7k",
       "name": "TheFlagship"
     },
     "1193170": {
-      "rank": 1995,
+      "rank": 1996,
       "estimate": "15k+",
       "name": "DEFICIT"
     },
@@ -25,22 +25,22 @@
       "name": "Cannon Foundry Simulator"
     },
     "2113960": {
-      "rank": 1251,
+      "rank": 1252,
       "estimate": "25k+",
       "name": "KVLT"
     },
     "2363330": {
-      "rank": 2534,
+      "rank": 2535,
       "estimate": "7k+",
       "name": "Witch World"
     },
     "2438120": {
-      "rank": 4812,
+      "rank": 4815,
       "estimate": "<7k",
       "name": "RunOut - Hothead Paws"
     },
     "2454980": {
-      "rank": 84,
+      "rank": 83,
       "estimate": "300k+",
       "name": "Drakantos"
     },
@@ -65,7 +65,7 @@
       "name": "Void Dungeon"
     },
     "3376580": {
-      "rank": 4630,
+      "rank": 4631,
       "estimate": "<7k",
       "name": "Raiders Rise"
     },
@@ -75,24 +75,29 @@
       "name": "Dragon Lands"
     },
     "3459050": {
-      "rank": 1780,
+      "rank": 1782,
       "estimate": "15k+",
       "name": "Acrolyte"
     },
     "3976340": {
-      "rank": 3104,
+      "rank": 3103,
       "estimate": "<7k",
       "name": "Cucina Stellata"
     },
     "4049180": {
-      "rank": 987,
+      "rank": 986,
       "estimate": "40k+",
       "name": "Disney•Pixar Toy Story 3 Complete Edition"
     },
     "4487450": {
-      "rank": 1665,
+      "rank": 1666,
       "estimate": "15k+",
       "name": "Cairn - On the Trail: Deep Water"
+    },
+    "4572790": {
+      "rank": 5113,
+      "estimate": "<7k",
+      "name": "Suika Game"
     }
   }
 }

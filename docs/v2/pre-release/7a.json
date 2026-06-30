@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T05:01:50.894Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-30T08:57:29.468Z",
+  "entryCount": 26,
   "entries": {
     "1219240": {
       "rank": 736,
@@ -177,6 +177,13 @@
       "name": "Contraband Police - Crimson Fall",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4592120": {
+      "rank": 9116,
+      "estimate": "<7k",
+      "name": "Bravest!",
+      "releaseDate": "2026-06-30",
+      "source": "tracked"
     },
     "4718300": {
       "rank": 8767,

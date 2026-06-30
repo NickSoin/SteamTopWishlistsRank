@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-30T05:01:50.894Z",
-  "entryCount": 18,
+  "updatedAt": "2026-06-30T08:57:29.468Z",
+  "entryCount": 19,
   "entries": {
     "654860": {
       "rank": 4236,
@@ -45,7 +45,7 @@
       "name": "The Left Behind"
     },
     "2710650": {
-      "rank": 4879,
+      "rank": 4881,
       "estimate": "<7k",
       "name": "Quantum Void"
     },
@@ -55,12 +55,12 @@
       "name": "The Transylvania Adventure of Simon Quest"
     },
     "2853290": {
-      "rank": 2624,
+      "rank": 2625,
       "estimate": "7k+",
       "name": "Free Stars: Children of Infinity"
     },
     "3151140": {
-      "rank": 1931,
+      "rank": 1932,
       "estimate": "15k+",
       "name": "Shelf Heroes"
     },
@@ -70,7 +70,7 @@
       "name": "LURKS WITHIN WALLS"
     },
     "3247960": {
-      "rank": 540,
+      "rank": 539,
       "estimate": "40k+",
       "name": "Bergfried"
     },
@@ -85,14 +85,19 @@
       "name": "Husk Protocol"
     },
     "4377480": {
-      "rank": 1903,
+      "rank": 1902,
       "estimate": "15k+",
       "name": "Burn-9"
     },
     "4564640": {
-      "rank": 2233,
+      "rank": 2231,
       "estimate": "7k+",
       "name": "SATED"
+    },
+    "4788240": {
+      "rank": 4247,
+      "estimate": "<7k",
+      "name": "Night Shift Hospital"
     }
   }
 }

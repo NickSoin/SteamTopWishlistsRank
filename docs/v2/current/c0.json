@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-30T05:01:50.894Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-30T08:57:29.468Z",
+  "entryCount": 25,
   "entries": {
     "888780": {
       "rank": 362,
@@ -10,7 +10,7 @@
       "name": "Adapt"
     },
     "1015370": {
-      "rank": 2638,
+      "rank": 2640,
       "estimate": "7k+",
       "name": "eXpanSIM"
     },
@@ -20,12 +20,12 @@
       "name": "Pirate Simulator"
     },
     "1545080": {
-      "rank": 2400,
+      "rank": 2401,
       "estimate": "7k+",
       "name": "Arran: The Book of Heroes"
     },
     "1835570": {
-      "rank": 3722,
+      "rank": 3723,
       "estimate": "<7k",
       "name": "BioCrisis : Return 2 the Lab"
     },
@@ -55,17 +55,17 @@
       "name": "Ascend to ZERO"
     },
     "3156020": {
-      "rank": 1487,
+      "rank": 1488,
       "estimate": "25k+",
       "name": "Gloomveil"
     },
     "3251280": {
-      "rank": 1868,
+      "rank": 1870,
       "estimate": "15k+",
       "name": "Rivals Hover League"
     },
     "3520410": {
-      "rank": 2564,
+      "rank": 2565,
       "estimate": "7k+",
       "name": "10hit"
     },
@@ -80,7 +80,7 @@
       "name": "CONTROL Resonant"
     },
     "3760360": {
-      "rank": 3917,
+      "rank": 3918,
       "estimate": "<7k",
       "name": "My Little Farm"
     },
@@ -99,28 +99,33 @@
       "estimate": "40k+",
       "name": "Project P.I.T.T."
     },
+    "4178100": {
+      "rank": 1400,
+      "estimate": "25k+",
+      "name": "Whiskers Tale"
+    },
     "4210060": {
       "rank": 287,
       "estimate": "80k+",
       "name": "ZERO Sievert 2"
     },
     "4212480": {
-      "rank": 1390,
+      "rank": 1391,
       "estimate": "25k+",
       "name": "Ragnarok: The New World"
     },
     "4415740": {
-      "rank": 5035,
+      "rank": 5026,
       "estimate": "<7k",
       "name": "The Pale Mimic"
     },
     "4465790": {
-      "rank": 668,
+      "rank": 667,
       "estimate": "40k+",
       "name": "Deadzone Rogue 2"
     },
     "4709120": {
-      "rank": 3452,
+      "rank": 3449,
       "estimate": "<7k",
       "name": "METAXIA"
     }

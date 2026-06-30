@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T05:01:50.894Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-30T08:57:29.468Z",
+  "entryCount": 33,
   "entries": {
     "601360": {
       "rank": 122,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Deluge",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4488590": {
+      "rank": 5963,
+      "estimate": "<7k",
+      "name": "Turbo Hatchback Time Attack",
+      "releaseDate": "2026-06-30",
       "source": "tracked"
     },
     "4584940": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T05:01:50.894Z",
-  "entryCount": 23,
+  "updatedAt": "2026-06-30T08:57:29.468Z",
+  "entryCount": 24,
   "entries": {
     "1172470": {
       "rank": 18,
@@ -145,6 +145,13 @@
       "name": "Assetto Corsa Competizione - 24H Nürburgring Pack",
       "releaseDate": "2024-04-01",
       "source": "historical"
+    },
+    "3700130": {
+      "rank": 3510,
+      "estimate": "<7k",
+      "name": "TELLURICENE",
+      "releaseDate": "2026-06-30",
+      "source": "tracked"
     },
     "3762660": {
       "rank": 2304,
