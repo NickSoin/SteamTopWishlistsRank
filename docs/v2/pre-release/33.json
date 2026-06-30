@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T21:51:23.701Z",
-  "entryCount": 27,
+  "updatedAt": "2026-06-30T05:01:50.894Z",
+  "entryCount": 28,
   "entries": {
     "1154090": {
       "rank": 1108,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Nodwar",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4567080": {
+      "rank": 9994,
+      "estimate": "<7k",
+      "name": "Cluster - Roguelike Tower Defense",
+      "releaseDate": "2026-06-29",
       "source": "tracked"
     },
     "4678690": {

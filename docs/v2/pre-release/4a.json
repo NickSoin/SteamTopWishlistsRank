@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T21:51:23.701Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-30T05:01:50.894Z",
+  "entryCount": 34,
   "entries": {
     "1113030": {
       "rank": 437,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Girls' Dorm -Managing an all-girls' dormitory- After",
       "releaseDate": "2026-05-18",
+      "source": "tracked"
+    },
+    "3777300": {
+      "rank": 3737,
+      "estimate": "<7k",
+      "name": "School Crisis",
+      "releaseDate": "2026-06-29",
       "source": "tracked"
     },
     "3929330": {

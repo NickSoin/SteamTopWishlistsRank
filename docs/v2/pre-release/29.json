@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T21:51:23.701Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-30T05:01:50.894Z",
+  "entryCount": 26,
   "entries": {
     "927350": {
       "rank": 30,
@@ -178,6 +178,13 @@
       "name": "Katawa Shoujo",
       "releaseDate": "2024-08-15",
       "source": "historical"
+    },
+    "3985290": {
+      "rank": 9650,
+      "estimate": "<7k",
+      "name": "Samara",
+      "releaseDate": "2026-06-29",
+      "source": "tracked"
     }
   }
 }

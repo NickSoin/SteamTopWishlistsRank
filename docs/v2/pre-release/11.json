@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T21:51:23.701Z",
-  "entryCount": 22,
+  "updatedAt": "2026-06-30T05:01:50.894Z",
+  "entryCount": 23,
   "entries": {
     "905530": {
       "rank": 585,
@@ -161,6 +161,13 @@
       "name": "Deep Rock Galactic - Order of the Deep Pack",
       "releaseDate": "2024-06-13",
       "source": "historical"
+    },
+    "4672140": {
+      "rank": 9329,
+      "estimate": "<7k",
+      "name": "WinBolo",
+      "releaseDate": "2026-06-29",
+      "source": "tracked"
     }
   }
 }

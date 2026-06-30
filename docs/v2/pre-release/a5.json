@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T21:51:23.701Z",
-  "entryCount": 24,
+  "updatedAt": "2026-06-30T05:01:50.894Z",
+  "entryCount": 25,
   "entries": {
     "299970": {
       "rank": 34,
@@ -173,6 +173,13 @@
       "name": "Resident Evil Requiem",
       "releaseDate": "2026-02-26",
       "source": "historical"
+    },
+    "4800590": {
+      "rank": 1050,
+      "estimate": "25k+",
+      "name": "Supermarket Chaos",
+      "releaseDate": "2026-06-29",
+      "source": "tracked"
     }
   }
 }

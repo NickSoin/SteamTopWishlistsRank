@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-29T21:51:23.701Z",
-  "entryCount": 33,
+  "updatedAt": "2026-06-30T05:01:50.894Z",
+  "entryCount": 34,
   "entries": {
     "490110": {
       "rank": 24,
@@ -226,6 +226,13 @@
       "estimate": "15k+",
       "name": "Ember Seeker",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "4296440": {
+      "rank": 6260,
+      "estimate": "<7k",
+      "name": "Sunset Hills - Wickel Chapter",
+      "releaseDate": "2026-06-29",
       "source": "tracked"
     },
     "4682760": {
