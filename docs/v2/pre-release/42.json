@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T12:53:23.819Z",
-  "entryCount": 30,
+  "updatedAt": "2026-06-30T17:45:15.407Z",
+  "entryCount": 31,
   "entries": {
     "1238450": {
       "rank": 1566,
@@ -204,6 +204,13 @@
       "estimate": "<7k",
       "name": "Chromadi",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "3815680": {
+      "rank": 2598,
+      "estimate": "7k+",
+      "name": "ERROR143 - Day 8",
+      "releaseDate": "2026-06-30",
       "source": "tracked"
     },
     "4165180": {

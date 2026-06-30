@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T12:53:23.819Z",
-  "entryCount": 42,
+  "updatedAt": "2026-06-30T17:45:15.407Z",
+  "entryCount": 43,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -275,6 +275,13 @@
       "name": "Recycling Center Simulator",
       "releaseDate": "2024-10-02",
       "source": "historical"
+    },
+    "3936610": {
+      "rank": 1784,
+      "estimate": "15k+",
+      "name": "Monopoly: Star Wars™ Heroes vs. Villains",
+      "releaseDate": "2026-06-11",
+      "source": "tracked"
     },
     "3972980": {
       "rank": 4635,

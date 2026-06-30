@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T12:53:23.819Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-30T17:45:15.407Z",
+  "entryCount": 26,
   "entries": {
     "928000": {
       "rank": 773,
@@ -172,6 +172,13 @@
       "estimate": "7k+",
       "name": "Stellaris: Nomads",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4693650": {
+      "rank": 8462,
+      "estimate": "<7k",
+      "name": "Fish Companions",
+      "releaseDate": "2026-06-30",
       "source": "tracked"
     },
     "4715350": {

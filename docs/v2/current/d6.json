@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-30T12:53:23.819Z",
-  "entryCount": 20,
+  "updatedAt": "2026-06-30T17:45:15.407Z",
+  "entryCount": 19,
   "entries": {
     "809550": {
-      "rank": 2213,
+      "rank": 2212,
       "estimate": "7k+",
       "name": "Death from Unknown: Survival"
     },
@@ -35,12 +35,12 @@
       "name": "Rogue Soulstone"
     },
     "2193600": {
-      "rank": 297,
+      "rank": 298,
       "estimate": "80k+",
       "name": "Paranormal Tales"
     },
     "2345340": {
-      "rank": 3897,
+      "rank": 3896,
       "estimate": "<7k",
       "name": "Space Travellers"
     },
@@ -50,7 +50,7 @@
       "name": "Gunman Contracts - Stand Alone"
     },
     "2589980": {
-      "rank": 653,
+      "rank": 654,
       "estimate": "40k+",
       "name": "Eden's Guardian"
     },
@@ -60,12 +60,12 @@
       "name": "Car Mechanic Simulator 2026"
     },
     "2779310": {
-      "rank": 4646,
+      "rank": 4645,
       "estimate": "<7k",
       "name": "Stones Keeper II: Chaos Lord"
     },
     "3065940": {
-      "rank": 447,
+      "rank": 449,
       "estimate": "80k+",
       "name": "Gallipoli"
     },
@@ -75,7 +75,7 @@
       "name": "Critterville Goes Bankrupt"
     },
     "3226060": {
-      "rank": 3241,
+      "rank": 3242,
       "estimate": "<7k",
       "name": "DreamEcho"
     },
@@ -90,19 +90,14 @@
       "name": "SAGE"
     },
     "3575850": {
-      "rank": 3709,
+      "rank": 3710,
       "estimate": "<7k",
       "name": "Lone Pine"
     },
     "4180840": {
-      "rank": 2320,
+      "rank": 2318,
       "estimate": "7k+",
       "name": "Shadowstone"
-    },
-    "4590980": {
-      "rank": 3965,
-      "estimate": "<7k",
-      "name": "Doctor Pigeon Simulator"
     }
   }
 }

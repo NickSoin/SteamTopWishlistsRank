@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T12:53:23.819Z",
-  "entryCount": 31,
+  "updatedAt": "2026-06-30T17:45:15.407Z",
+  "entryCount": 32,
   "entries": {
     "694990": {
       "rank": 49,
@@ -223,6 +223,13 @@
       "estimate": "7k+",
       "name": "CoinPit",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4461420": {
+      "rank": 7581,
+      "estimate": "<7k",
+      "name": "Kings Archer VR",
+      "releaseDate": "2026-06-30",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T12:53:23.819Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-30T17:45:15.407Z",
+  "entryCount": 30,
   "entries": {
     "440000": {
       "rank": 459,
@@ -191,6 +191,13 @@
       "estimate": "15k+",
       "name": "Deep Corp",
       "releaseDate": "2026-05-26",
+      "source": "tracked"
+    },
+    "4149910": {
+      "rank": 3411,
+      "estimate": "<7k",
+      "name": "Guildamation",
+      "releaseDate": "2026-06-30",
       "source": "tracked"
     },
     "4347680": {

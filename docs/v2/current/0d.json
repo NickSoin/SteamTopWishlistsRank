@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-30T12:53:23.819Z",
-  "entryCount": 16,
+  "updatedAt": "2026-06-30T17:45:15.407Z",
+  "entryCount": 17,
   "entries": {
     "1234990": {
-      "rank": 3172,
+      "rank": 3171,
       "estimate": "<7k",
       "name": "Pry Into The Void"
     },
     "1528950": {
-      "rank": 4396,
+      "rank": 4394,
       "estimate": "<7k",
       "name": "主播模拟器（Streamer Simulator）"
     },
     "1661480": {
-      "rank": 3502,
+      "rank": 3501,
       "estimate": "<7k",
       "name": "Fear Underground"
     },
     "1717730": {
-      "rank": 1229,
+      "rank": 1230,
       "estimate": "25k+",
       "name": "LUCID"
     },
     "2211000": {
-      "rank": 1944,
+      "rank": 1943,
       "estimate": "15k+",
       "name": "INANIMA"
     },
@@ -40,17 +40,17 @@
       "name": "Small Town Emo"
     },
     "2390130": {
-      "rank": 1064,
+      "rank": 1065,
       "estimate": "25k+",
       "name": "Design and Conjure"
     },
     "2707440": {
-      "rank": 3299,
+      "rank": 3300,
       "estimate": "<7k",
       "name": "Floralis"
     },
     "2838890": {
-      "rank": 4002,
+      "rank": 3998,
       "estimate": "<7k",
       "name": "Mithrall"
     },
@@ -69,13 +69,18 @@
       "estimate": "7k+",
       "name": "FUMEHEAD"
     },
+    "3285390": {
+      "rank": 3401,
+      "estimate": "<7k",
+      "name": "SeverLink"
+    },
     "3462580": {
       "rank": 4129,
       "estimate": "<7k",
       "name": "Factory Life"
     },
     "3736070": {
-      "rank": 3556,
+      "rank": 3549,
       "estimate": "<7k",
       "name": "Survivors Guild"
     },

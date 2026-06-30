@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T12:53:23.819Z",
-  "entryCount": 29,
+  "updatedAt": "2026-06-30T17:45:15.407Z",
+  "entryCount": 30,
   "entries": {
     "606160": {
       "rank": 145,
@@ -190,6 +190,13 @@
       "estimate": "40k+",
       "name": "Moldwasher",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4490130": {
+      "rank": 6872,
+      "estimate": "<7k",
+      "name": "Eternal Sword Tomb",
+      "releaseDate": "2026-06-30",
       "source": "tracked"
     },
     "4680960": {

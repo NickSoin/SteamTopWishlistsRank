@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T12:53:23.819Z",
-  "entryCount": 25,
+  "updatedAt": "2026-06-30T17:45:15.407Z",
+  "entryCount": 26,
   "entries": {
     "753640": {
       "rank": 18,
@@ -169,6 +169,13 @@
       "estimate": "<7k",
       "name": "Holy Valkyrie ExS-TIA P",
       "releaseDate": "2026-05-20",
+      "source": "tracked"
+    },
+    "3815660": {
+      "rank": 2293,
+      "estimate": "7k+",
+      "name": "ERROR143 - Day 6",
+      "releaseDate": "2026-06-30",
       "source": "tracked"
     },
     "4610420": {

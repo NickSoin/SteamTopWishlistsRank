@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T12:53:23.819Z",
-  "entryCount": 32,
+  "updatedAt": "2026-06-30T17:45:15.407Z",
+  "entryCount": 33,
   "entries": {
     "1171690": {
       "rank": 23,
@@ -216,6 +216,13 @@
       "estimate": "<7k",
       "name": "OVR Space Dragger",
       "releaseDate": "2026-06-29",
+      "source": "tracked"
+    },
+    "4590980": {
+      "rank": 3965,
+      "estimate": "<7k",
+      "name": "Doctor Pigeon Simulator",
+      "releaseDate": "2026-06-30",
       "source": "tracked"
     },
     "4692060": {
