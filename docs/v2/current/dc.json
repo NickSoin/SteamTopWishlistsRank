@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-01T13:34:43.907Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-01T17:44:19.033Z",
+  "entryCount": 19,
   "entries": {
     "1651400": {
-      "rank": 3238,
+      "rank": 3242,
       "estimate": "<7k",
       "name": "Touhou: the Unreachable Oneiroborder"
     },
     "1847180": {
-      "rank": 1647,
+      "rank": 1648,
       "estimate": "15k+",
       "name": "MORTAL CRUX"
     },
     "1937070": {
-      "rank": 699,
+      "rank": 700,
       "estimate": "40k+",
       "name": "Engines Of Destruction"
     },
@@ -30,22 +30,22 @@
       "name": "SCP: Valravn"
     },
     "2710740": {
-      "rank": 560,
+      "rank": 561,
       "estimate": "40k+",
       "name": "Lost Legions"
     },
     "2850600": {
-      "rank": 4872,
+      "rank": 4873,
       "estimate": "<7k",
       "name": "Mystical Tactics"
     },
     "2864290": {
-      "rank": 4199,
+      "rank": 4200,
       "estimate": "<7k",
       "name": "Aggelos 2"
     },
     "2867800": {
-      "rank": 3239,
+      "rank": 3243,
       "estimate": "<7k",
       "name": "DEPERSON"
     },
@@ -60,17 +60,17 @@
       "name": "Rescue Ops: Wildfire"
     },
     "2975130": {
-      "rank": 3708,
+      "rank": 3712,
       "estimate": "<7k",
       "name": "ULTRA MUSHROOM"
     },
     "3037040": {
-      "rank": 2741,
+      "rank": 2736,
       "estimate": "7k+",
       "name": "Board Game Society"
     },
     "3045070": {
-      "rank": 3802,
+      "rank": 3801,
       "estimate": "<7k",
       "name": "MetalMercs"
     },
@@ -90,9 +90,14 @@
       "name": "PLATONICA SPACE"
     },
     "3925750": {
-      "rank": 2496,
+      "rank": 2497,
       "estimate": "7k+",
       "name": "Generic Fighter Maybe"
+    },
+    "4272370": {
+      "rank": 3001,
+      "estimate": "<7k",
+      "name": "Coal Duty"
     }
   }
 }

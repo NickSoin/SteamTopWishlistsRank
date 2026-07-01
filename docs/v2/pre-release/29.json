@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T13:34:43.907Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-01T17:44:19.033Z",
+  "entryCount": 27,
   "entries": {
     "927350": {
       "rank": 30,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "Samara",
       "releaseDate": "2026-06-29",
+      "source": "tracked"
+    },
+    "4508100": {
+      "rank": 6993,
+      "estimate": "<7k",
+      "name": "StellarUniversity:FurryHearts",
+      "releaseDate": "2026-07-01",
       "source": "tracked"
     }
   }
