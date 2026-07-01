@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T05:15:54.093Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-01T09:04:01.279Z",
+  "entryCount": 25,
   "entries": {
     "473750": {
       "rank": 1164,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "东北往事",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4442280": {
+      "rank": 9335,
+      "estimate": "<7k",
+      "name": "Engine of Chaos",
+      "releaseDate": "2026-07-01",
       "source": "tracked"
     }
   }

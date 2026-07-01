@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T05:15:54.093Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-01T09:04:01.279Z",
+  "entryCount": 28,
   "entries": {
     "894020": {
       "rank": 39,
@@ -196,6 +196,13 @@
       "name": "Circle Empires 2",
       "releaseDate": "2026-02-09",
       "source": "historical"
+    },
+    "3739300": {
+      "rank": 3144,
+      "estimate": "<7k",
+      "name": "Cat Squeeze",
+      "releaseDate": "2026-06-30",
+      "source": "tracked"
     }
   }
 }

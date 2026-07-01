@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T05:15:54.093Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-01T09:04:01.279Z",
+  "entryCount": 32,
   "entries": {
     "698670": {
       "rank": 24,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Shattered Chess",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4156370": {
+      "rank": 4249,
+      "estimate": "<7k",
+      "name": "Antivirus Girl",
+      "releaseDate": "2026-07-01",
       "source": "tracked"
     },
     "4442710": {

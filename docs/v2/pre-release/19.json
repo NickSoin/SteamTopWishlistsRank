@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T05:15:54.093Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-01T09:04:01.279Z",
+  "entryCount": 29,
   "entries": {
     "939960": {
       "rank": 17,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Splash Shot Golf Legend",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4499040": {
+      "rank": 6441,
+      "estimate": "<7k",
+      "name": "Tiny Slime Farm",
+      "releaseDate": "2026-07-01",
       "source": "tracked"
     },
     "4541910": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T05:15:54.093Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-01T09:04:01.279Z",
+  "entryCount": 33,
   "entries": {
     "694990": {
       "rank": 49,
@@ -196,6 +196,13 @@
       "name": "100 Forest Cats",
       "releaseDate": "2025-05-18",
       "source": "historical"
+    },
+    "3278290": {
+      "rank": 2483,
+      "estimate": "7k+",
+      "name": "Feed The Pit",
+      "releaseDate": "2026-06-30",
+      "source": "tracked"
     },
     "3489700": {
       "rank": 4,

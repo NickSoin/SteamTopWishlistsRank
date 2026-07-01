@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T05:15:54.093Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-01T09:04:01.279Z",
+  "entryCount": 23,
   "entries": {
     "883230": {
       "rank": 1500,
@@ -158,6 +158,13 @@
       "estimate": "7k+",
       "name": "Mnemonimov",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4720010": {
+      "rank": 6147,
+      "estimate": "<7k",
+      "name": "Miracle Brave: Beast Defense Line",
+      "releaseDate": "2026-07-01",
       "source": "tracked"
     }
   }
