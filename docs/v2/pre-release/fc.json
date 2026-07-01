@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T21:54:29.636Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-01T05:15:54.093Z",
+  "entryCount": 24,
   "entries": {
     "604540": {
       "rank": 12,
@@ -144,6 +144,13 @@
       "estimate": "<7k",
       "name": "My Summer Love: Memories",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4173970": {
+      "rank": 4774,
+      "estimate": "<7k",
+      "name": "Procelio",
+      "releaseDate": "2026-06-30",
       "source": "tracked"
     },
     "4218680": {

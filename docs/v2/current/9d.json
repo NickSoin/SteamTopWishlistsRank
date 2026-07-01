@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-30T21:54:29.636Z",
-  "entryCount": 14,
+  "updatedAt": "2026-07-01T05:15:54.093Z",
+  "entryCount": 15,
   "entries": {
     "1236170": {
-      "rank": 1896,
+      "rank": 1900,
       "estimate": "15k+",
       "name": "The Fold: Ingression"
     },
     "1286230": {
-      "rank": 2173,
+      "rank": 2177,
       "estimate": "7k+",
       "name": "Fields of History: The Great War"
     },
     "1354450": {
-      "rank": 4269,
+      "rank": 4271,
       "estimate": "<7k",
       "name": "Dragonfield"
     },
@@ -34,13 +34,18 @@
       "estimate": "200k+",
       "name": "Minecraft Dungeons II"
     },
+    "2105260": {
+      "rank": 2389,
+      "estimate": "7k+",
+      "name": "Pizza Kidd"
+    },
     "2412740": {
-      "rank": 3201,
+      "rank": 3200,
       "estimate": "<7k",
       "name": "Ascent Quest"
     },
     "2744430": {
-      "rank": 1107,
+      "rank": 1109,
       "estimate": "25k+",
       "name": "Nightmare House"
     },
@@ -50,7 +55,7 @@
       "name": "Spell Candle"
     },
     "3327120": {
-      "rank": 3818,
+      "rank": 3817,
       "estimate": "<7k",
       "name": "Dreadline Express"
     },
@@ -60,17 +65,17 @@
       "name": "Wanderburg"
     },
     "4043740": {
-      "rank": 888,
+      "rank": 889,
       "estimate": "40k+",
       "name": "Hero's Hour 2"
     },
     "4182850": {
-      "rank": 4293,
+      "rank": 4285,
       "estimate": "<7k",
       "name": "Tiebreakers"
     },
     "4575900": {
-      "rank": 4877,
+      "rank": 4874,
       "estimate": "<7k",
       "name": "Land Of Disorder"
     }

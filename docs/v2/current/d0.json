@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-30T21:54:29.636Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-01T05:15:54.093Z",
+  "entryCount": 26,
   "entries": {
     "1383660": {
-      "rank": 3108,
+      "rank": 3109,
       "estimate": "<7k",
       "name": "Guinea Pig Parkour®"
     },
     "1714710": {
-      "rank": 4120,
+      "rank": 4121,
       "estimate": "<7k",
       "name": "Castle Manager"
     },
     "1803500": {
-      "rank": 2161,
+      "rank": 2165,
       "estimate": "7k+",
       "name": "Runeforge"
     },
     "1858210": {
-      "rank": 2223,
+      "rank": 2227,
       "estimate": "7k+",
       "name": "Kindred Fates"
     },
     "1962010": {
-      "rank": 3980,
+      "rank": 3978,
       "estimate": "<7k",
       "name": "Space Scavenger 2"
     },
@@ -35,7 +35,7 @@
       "name": "Toxic Crusaders"
     },
     "2377930": {
-      "rank": 1053,
+      "rank": 1052,
       "estimate": "25k+",
       "name": "Destiny of Immortal"
     },
@@ -50,7 +50,7 @@
       "name": "Timespinner 2: Unwoven Dream"
     },
     "2593570": {
-      "rank": 1430,
+      "rank": 1432,
       "estimate": "25k+",
       "name": "DDS x Narcos"
     },
@@ -60,17 +60,17 @@
       "name": "The Coldest Winter"
     },
     "2796360": {
-      "rank": 4279,
+      "rank": 4280,
       "estimate": "<7k",
       "name": "100 Cats Beijing"
     },
     "3038500": {
-      "rank": 704,
+      "rank": 705,
       "estimate": "40k+",
       "name": "Cooking Simulator 2: Prologue"
     },
     "3130110": {
-      "rank": 1195,
+      "rank": 1196,
       "estimate": "25k+",
       "name": "Haruka na Sora"
     },
@@ -80,22 +80,22 @@
       "name": "A Waddleful Life"
     },
     "3307770": {
-      "rank": 2097,
+      "rank": 2099,
       "estimate": "7k+",
       "name": "NCORE"
     },
     "3397010": {
-      "rank": 4610,
+      "rank": 4612,
       "estimate": "<7k",
       "name": "EDEN’S FRONTIER™"
     },
     "3410670": {
-      "rank": 4995,
+      "rank": 4993,
       "estimate": "<7k",
       "name": "Fusty Dungeon"
     },
     "3581910": {
-      "rank": 1630,
+      "rank": 1631,
       "estimate": "15k+",
       "name": "Victory Banner"
     },
@@ -105,12 +105,12 @@
       "name": "Funnel Runners"
     },
     "3717490": {
-      "rank": 4814,
+      "rank": 4813,
       "estimate": "<7k",
       "name": "Shattered Realms"
     },
     "3731270": {
-      "rank": 2999,
+      "rank": 2997,
       "estimate": "7k+",
       "name": "mobOS"
     },
@@ -120,14 +120,19 @@
       "name": "Poly Fighter"
     },
     "4301300": {
-      "rank": 5021,
+      "rank": 5018,
       "estimate": "<7k",
       "name": "Incrempire"
     },
     "4453540": {
-      "rank": 4550,
+      "rank": 4551,
       "estimate": "<7k",
       "name": "Minesweeper: Next-Gen"
+    },
+    "4693300": {
+      "rank": 5116,
+      "estimate": "<7k",
+      "name": "Hole Punch Cocktail"
     }
   }
 }

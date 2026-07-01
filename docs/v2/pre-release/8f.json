@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-06-30T21:54:29.636Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-01T05:15:54.093Z",
+  "entryCount": 26,
   "entries": {
     "1336180": {
       "rank": 166,
@@ -170,6 +170,13 @@
       "estimate": "25k+",
       "name": "Beauties and the Stranded",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "4685210": {
+      "rank": 7953,
+      "estimate": "<7k",
+      "name": "ROCKS.EXE",
+      "releaseDate": "2026-06-30",
       "source": "tracked"
     },
     "4779360": {

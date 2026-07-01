@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-06-30T21:54:29.636Z",
-  "entryCount": 15,
+  "updatedAt": "2026-07-01T05:15:54.093Z",
+  "entryCount": 16,
   "entries": {
     "1151980": {
-      "rank": 3637,
+      "rank": 3638,
       "estimate": "<7k",
       "name": "Magnet Fishing Simulator"
     },
@@ -20,7 +20,7 @@
       "name": "SPINE - This is Gun Fu"
     },
     "2012040": {
-      "rank": 3558,
+      "rank": 3559,
       "estimate": "<7k",
       "name": "Enemy of the State"
     },
@@ -30,22 +30,22 @@
       "name": "Persist Online"
     },
     "2508170": {
-      "rank": 2659,
+      "rank": 2658,
       "estimate": "7k+",
       "name": "Homespace"
     },
     "3182050": {
-      "rank": 2228,
+      "rank": 2233,
       "estimate": "7k+",
       "name": "Free as birds : UAZO"
     },
     "3230120": {
-      "rank": 4259,
+      "rank": 4260,
       "estimate": "<7k",
       "name": "Zozo and the Lost Dreams"
     },
     "3509590": {
-      "rank": 2609,
+      "rank": 2608,
       "estimate": "7k+",
       "name": "Rogue Stradale"
     },
@@ -55,29 +55,34 @@
       "name": "Ghost Hunting Journal"
     },
     "3702540": {
-      "rank": 2278,
+      "rank": 2274,
       "estimate": "7k+",
       "name": "Between Adventures IDLE"
     },
     "3989550": {
-      "rank": 2351,
+      "rank": 2353,
       "estimate": "7k+",
       "name": "Fallosophy"
     },
     "4041730": {
-      "rank": 4163,
+      "rank": 4157,
       "estimate": "<7k",
       "name": "Something Beautiful"
     },
     "4183270": {
-      "rank": 2402,
+      "rank": 2403,
       "estimate": "7k+",
       "name": "StellarDrive"
     },
     "4290680": {
-      "rank": 1891,
+      "rank": 1896,
       "estimate": "15k+",
       "name": "Flock of the Seraphim"
+    },
+    "4651830": {
+      "rank": 5080,
+      "estimate": "<7k",
+      "name": "CINDER CITY"
     }
   }
 }
