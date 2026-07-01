@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T09:04:01.279Z",
-  "entryCount": 35,
+  "updatedAt": "2026-07-01T13:34:43.907Z",
+  "entryCount": 36,
   "entries": {
     "871540": {
       "rank": 824,
@@ -249,6 +249,13 @@
       "estimate": "<7k",
       "name": "Mudventure",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4409970": {
+      "rank": 4831,
+      "estimate": "<7k",
+      "name": "Mosaic Garden: The Flower Game",
+      "releaseDate": "2026-07-01",
       "source": "tracked"
     }
   }

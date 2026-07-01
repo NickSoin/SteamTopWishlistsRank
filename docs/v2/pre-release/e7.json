@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T09:04:01.279Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-01T13:34:43.907Z",
+  "entryCount": 26,
   "entries": {
     "429380": {
       "rank": 36,
@@ -161,6 +161,13 @@
       "releaseDate": "2025-12-08",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1808601382574473"
+    },
+    "2600970": {
+      "rank": 7650,
+      "estimate": "<7k",
+      "name": "Flawed Tactics",
+      "releaseDate": "2026-07-01",
+      "source": "tracked"
     },
     "2779120": {
       "rank": 26,

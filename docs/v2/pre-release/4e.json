@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T09:04:01.279Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-01T13:34:43.907Z",
+  "entryCount": 32,
   "entries": {
     "611360": {
       "rank": 243,
@@ -212,6 +212,13 @@
       "estimate": "25k+",
       "name": "Letter Lost",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4679180": {
+      "rank": 2910,
+      "estimate": "7k+",
+      "name": "The Abyss Below",
+      "releaseDate": "2026-07-01",
       "source": "tracked"
     },
     "4683710": {

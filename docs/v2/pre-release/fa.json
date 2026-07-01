@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T09:04:01.279Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-01T13:34:43.907Z",
+  "entryCount": 24,
   "entries": {
     "506480": {
       "rank": 980,
@@ -161,6 +161,13 @@
       "name": "Academy Love Saga: Tennis Angels EX",
       "releaseDate": "2025-04-18",
       "source": "historical"
+    },
+    "4528600": {
+      "rank": 8266,
+      "estimate": "<7k",
+      "name": "LINOVICTUS",
+      "releaseDate": "2026-07-01",
+      "source": "tracked"
     },
     "4757060": {
       "rank": 6124,
