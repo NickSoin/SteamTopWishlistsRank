@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-02T08:49:05.377Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-02T12:34:23.518Z",
+  "entryCount": 24,
   "entries": {
     "509950": {
       "rank": 4850,
@@ -10,7 +10,7 @@
       "name": "Transmission"
     },
     "1090750": {
-      "rank": 4822,
+      "rank": 4826,
       "estimate": "<7k",
       "name": "Dirty Jobs Simulator"
     },
@@ -20,7 +20,7 @@
       "name": "Last Moon"
     },
     "1179280": {
-      "rank": 2152,
+      "rank": 2154,
       "estimate": "7k+",
       "name": "PROJECT D : Human Risen"
     },
@@ -40,12 +40,12 @@
       "name": "5 Force Fighters"
     },
     "1724990": {
-      "rank": 3964,
+      "rank": 3966,
       "estimate": "<7k",
       "name": "Handwriting Fantasy"
     },
     "2214180": {
-      "rank": 5132,
+      "rank": 5134,
       "estimate": "<7k",
       "name": "Grimfield Mystery"
     },
@@ -55,7 +55,7 @@
       "name": "Frog Island"
     },
     "2420570": {
-      "rank": 870,
+      "rank": 871,
       "estimate": "40k+",
       "name": "Portal BAGLEY"
     },
@@ -75,7 +75,7 @@
       "name": "Backrooms"
     },
     "3136320": {
-      "rank": 3433,
+      "rank": 3427,
       "estimate": "<7k",
       "name": "My Infamous Dungeon"
     },
@@ -85,17 +85,22 @@
       "name": "Melvor Idle 2"
     },
     "3299160": {
-      "rank": 4468,
+      "rank": 4469,
       "estimate": "<7k",
       "name": "Weldiver"
     },
+    "3503500": {
+      "rank": 5131,
+      "estimate": "<7k",
+      "name": "Appa"
+    },
     "3554290": {
-      "rank": 3304,
+      "rank": 3305,
       "estimate": "<7k",
       "name": "PASS Fortress"
     },
     "3674680": {
-      "rank": 2847,
+      "rank": 2838,
       "estimate": "7k+",
       "name": "Roguecraft DX"
     },
@@ -110,12 +115,12 @@
       "name": "About Fishing"
     },
     "4121600": {
-      "rank": 1208,
+      "rank": 1209,
       "estimate": "25k+",
       "name": "Psychopomp 2"
     },
     "4555610": {
-      "rank": 4315,
+      "rank": 4316,
       "estimate": "<7k",
       "name": "LUNAR PULSE"
     }
