@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-02T04:52:20.046Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-02T08:49:05.377Z",
+  "entryCount": 22,
   "entries": {
     "813230": {
       "rank": 13,
@@ -151,6 +151,13 @@
       "estimate": "40k+",
       "name": "Total War: WARHAMMER III - Bhashiva – Character Pack",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4569340": {
+      "rank": 7158,
+      "estimate": "<7k",
+      "name": "Banana OST",
+      "releaseDate": "2026-07-01",
       "source": "tracked"
     }
   }

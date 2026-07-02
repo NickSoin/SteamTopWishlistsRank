@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-02T04:52:20.046Z",
-  "entryCount": 37,
+  "updatedAt": "2026-07-02T08:49:05.377Z",
+  "entryCount": 38,
   "entries": {
     "995680": {
       "rank": 39,
@@ -250,6 +250,13 @@
       "name": "FragPunk",
       "releaseDate": "2025-03-06",
       "source": "historical"
+    },
+    "3234850": {
+      "rank": 4188,
+      "estimate": "<7k",
+      "name": "HYPERWIRED",
+      "releaseDate": "2026-07-02",
+      "source": "tracked"
     },
     "3916860": {
       "rank": 2837,
