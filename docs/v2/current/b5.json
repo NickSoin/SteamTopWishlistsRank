@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-01T21:57:21.603Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-02T04:52:20.046Z",
+  "entryCount": 19,
   "entries": {
     "1130380": {
-      "rank": 4901,
+      "rank": 4904,
       "estimate": "<7k",
       "name": "OZARK"
     },
@@ -15,7 +15,7 @@
       "name": "Pope Simulator"
     },
     "1641190": {
-      "rank": 4474,
+      "rank": 4475,
       "estimate": "<7k",
       "name": "Fallen Gods"
     },
@@ -25,17 +25,17 @@
       "name": "URBANO - Legends' Debut"
     },
     "2629670": {
-      "rank": 4860,
+      "rank": 4867,
       "estimate": "<7k",
       "name": "Life Blood"
     },
     "2777560": {
-      "rank": 4492,
+      "rank": 4494,
       "estimate": "<7k",
       "name": "Escape the Script"
     },
     "2967710": {
-      "rank": 4965,
+      "rank": 4967,
       "estimate": "<7k",
       "name": "Game Designer Simulator"
     },
@@ -45,27 +45,27 @@
       "name": "Bleakwood"
     },
     "3032970": {
-      "rank": 4424,
+      "rank": 4428,
       "estimate": "<7k",
       "name": "HYPERFIGHT 2"
     },
     "3040830": {
-      "rank": 2135,
+      "rank": 2136,
       "estimate": "7k+",
       "name": "MU Legend: EVO"
     },
     "3129050": {
-      "rank": 4392,
+      "rank": 4393,
       "estimate": "<7k",
       "name": "Echoes of Mora"
     },
     "3210060": {
-      "rank": 4303,
+      "rank": 4305,
       "estimate": "<7k",
       "name": "Skyfarm"
     },
     "3227040": {
-      "rank": 3055,
+      "rank": 3058,
       "estimate": "<7k",
       "name": "Dress the Duel"
     },
@@ -75,7 +75,7 @@
       "name": "Aliens: Fireteam Elite 2"
     },
     "3520750": {
-      "rank": 4607,
+      "rank": 4611,
       "estimate": "<7k",
       "name": "Hardkill System"
     },
@@ -89,8 +89,13 @@
       "estimate": "40k+",
       "name": "Warhammer Age of Sigmar: Deathmaster"
     },
+    "3882410": {
+      "rank": 2885,
+      "estimate": "7k+",
+      "name": "Qliphah in Providence's Shadow"
+    },
     "4131500": {
-      "rank": 2966,
+      "rank": 2963,
       "estimate": "7k+",
       "name": "Feed the Giants"
     }

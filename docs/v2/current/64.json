@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-01T21:57:21.603Z",
+  "updatedAt": "2026-07-02T04:52:20.046Z",
   "entryCount": 20,
   "entries": {
     "1368050": {
@@ -10,12 +10,12 @@
       "name": "La Mer La Guerre"
     },
     "1598150": {
-      "rank": 5009,
+      "rank": 5014,
       "estimate": "<7k",
       "name": "Potion Pipeline"
     },
     "1719700": {
-      "rank": 4080,
+      "rank": 4081,
       "estimate": "<7k",
       "name": "Super Simmer"
     },
@@ -30,27 +30,27 @@
       "name": "Farm Renovator"
     },
     "2280900": {
-      "rank": 4484,
+      "rank": 4486,
       "estimate": "<7k",
       "name": "Blood Rot: 1918"
     },
     "2666580": {
-      "rank": 758,
+      "rank": 759,
       "estimate": "40k+",
       "name": "Pathfinder: Abomination Vaults"
     },
     "3197360": {
-      "rank": 3712,
+      "rank": 3713,
       "estimate": "<7k",
       "name": "60 Seconds! Souper Scavenger"
     },
     "3297800": {
-      "rank": 2913,
+      "rank": 2912,
       "estimate": "7k+",
       "name": "GRIMPS"
     },
     "3327880": {
-      "rank": 4818,
+      "rank": 4820,
       "estimate": "<7k",
       "name": "Leap Galaxy"
     },
@@ -65,12 +65,12 @@
       "name": "Kill Joy"
     },
     "3790280": {
-      "rank": 4692,
+      "rank": 4694,
       "estimate": "<7k",
       "name": "Over the Radio"
     },
     "3793270": {
-      "rank": 4314,
+      "rank": 4316,
       "estimate": "<7k",
       "name": "Bygoner"
     },
@@ -80,12 +80,12 @@
       "name": "Everlast: Undying Tale"
     },
     "3847920": {
-      "rank": 489,
+      "rank": 488,
       "estimate": "80k+",
       "name": "Wild n Chill"
     },
     "3853110": {
-      "rank": 2443,
+      "rank": 2446,
       "estimate": "7k+",
       "name": "Crusaders Quest : MergeChess"
     },
@@ -100,7 +100,7 @@
       "name": "AUTOMA"
     },
     "4193590": {
-      "rank": 1411,
+      "rank": 1414,
       "estimate": "25k+",
       "name": "Salvation Denied"
     }
