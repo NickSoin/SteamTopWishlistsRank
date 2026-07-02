@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-02T12:34:23.518Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-02T17:11:07.512Z",
+  "entryCount": 28,
   "entries": {
     "928000": {
       "rank": 773,
@@ -178,6 +178,13 @@
       "rank": 5693,
       "estimate": "<7k",
       "name": "Kuroba: Oghuz",
+      "releaseDate": "2026-07-02",
+      "source": "tracked"
+    },
+    "4400300": {
+      "rank": 3116,
+      "estimate": "<7k",
+      "name": "HAUNTMATES",
       "releaseDate": "2026-07-02",
       "source": "tracked"
     },

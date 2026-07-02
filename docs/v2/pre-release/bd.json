@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-02T12:34:23.518Z",
-  "entryCount": 41,
+  "updatedAt": "2026-07-02T17:11:07.512Z",
+  "entryCount": 42,
   "entries": {
     "347800": {
       "rank": 198,
@@ -285,6 +285,13 @@
       "name": "Escape from Tarkov",
       "releaseDate": "2025-11-15",
       "source": "historical"
+    },
+    "4179870": {
+      "rank": 9928,
+      "estimate": "<7k",
+      "name": "All Tomorrows: Invasion",
+      "releaseDate": "2026-07-02",
+      "source": "tracked"
     },
     "4447890": {
       "rank": 4250,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-02T12:34:23.518Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-02T17:11:07.512Z",
+  "entryCount": 21,
   "entries": {
     "1778150": {
       "rank": 3939,
@@ -10,7 +10,7 @@
       "name": "TRIP"
     },
     "1810070": {
-      "rank": 2451,
+      "rank": 2452,
       "estimate": "7k+",
       "name": "Aperture: Salt Mines"
     },
@@ -25,27 +25,27 @@
       "name": "ARK 2"
     },
     "2381500": {
-      "rank": 1712,
+      "rank": 1713,
       "estimate": "15k+",
       "name": "Engine Simulator"
     },
     "3008590": {
-      "rank": 2107,
+      "rank": 2108,
       "estimate": "7k+",
       "name": "Relics of the Oracle"
     },
     "3042790": {
-      "rank": 3770,
+      "rank": 3769,
       "estimate": "<7k",
       "name": "Scirocco Thugs"
     },
     "3260240": {
-      "rank": 1927,
+      "rank": 1928,
       "estimate": "15k+",
       "name": "Drivers of the Apocalypse"
     },
     "3433800": {
-      "rank": 2141,
+      "rank": 2142,
       "estimate": "7k+",
       "name": "Moonbrella"
     },
@@ -55,17 +55,17 @@
       "name": "BOMBSHELL BLITZ"
     },
     "3601630": {
-      "rank": 3709,
+      "rank": 3712,
       "estimate": "<7k",
       "name": "Cosmo Tales"
     },
     "3676140": {
-      "rank": 2992,
+      "rank": 2987,
       "estimate": "7k+",
       "name": "Trawler's Wake"
     },
     "3742720": {
-      "rank": 3274,
+      "rank": 3273,
       "estimate": "<7k",
       "name": "Sobakistan: The Land of Dogs"
     },
@@ -85,17 +85,22 @@
       "name": "BURNED HORIZONS"
     },
     "4005330": {
-      "rank": 5029,
+      "rank": 5028,
       "estimate": "<7k",
       "name": "Spell Trigger"
     },
     "4061170": {
-      "rank": 585,
+      "rank": 586,
       "estimate": "40k+",
       "name": "SlashZero"
     },
+    "4108460": {
+      "rank": 5136,
+      "estimate": "<7k",
+      "name": "PatriotMemoirs"
+    },
     "4163030": {
-      "rank": 905,
+      "rank": 904,
       "estimate": "40k+",
       "name": "Cat Chess"
     },
