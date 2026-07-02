@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T17:44:19.033Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-01T21:57:21.603Z",
+  "entryCount": 22,
   "entries": {
     "1194810": {
       "rank": 21,
@@ -124,6 +124,13 @@
       "name": "I Am Cat",
       "releaseDate": "2024-12-05",
       "source": "historical"
+    },
+    "3613690": {
+      "rank": 9007,
+      "estimate": "<7k",
+      "name": "Total Chaos Against Apathy",
+      "releaseDate": "2026-07-01",
+      "source": "tracked"
     },
     "3765700": {
       "rank": 5102,

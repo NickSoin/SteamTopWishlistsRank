@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-01T17:44:19.033Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-01T21:57:21.603Z",
+  "entryCount": 20,
   "entries": {
     "1163160": {
       "rank": 4228,
@@ -15,12 +15,12 @@
       "name": "Build and Discover: America"
     },
     "1533060": {
-      "rank": 3877,
+      "rank": 3879,
       "estimate": "<7k",
       "name": "Winery Simulator"
     },
     "1742390": {
-      "rank": 3878,
+      "rank": 3880,
       "estimate": "<7k",
       "name": "Ayna: Shattered Truth"
     },
@@ -30,22 +30,22 @@
       "name": "Mazey Village"
     },
     "1983360": {
-      "rank": 3580,
+      "rank": 3584,
       "estimate": "<7k",
       "name": "Mana Valley"
     },
     "2745510": {
-      "rank": 4036,
+      "rank": 4039,
       "estimate": "<7k",
       "name": "GROWTH EXPERIMENT"
     },
     "2910280": {
-      "rank": 4693,
+      "rank": 4697,
       "estimate": "<7k",
       "name": "Peasant"
     },
     "3165340": {
-      "rank": 2975,
+      "rank": 2977,
       "estimate": "7k+",
       "name": "All Will Rise"
     },
@@ -54,13 +54,18 @@
       "estimate": "7k+",
       "name": "Taste of the Wind"
     },
+    "3323490": {
+      "rank": 2799,
+      "estimate": "7k+",
+      "name": "Truxton Extreme"
+    },
     "3427370": {
-      "rank": 4283,
+      "rank": 4286,
       "estimate": "<7k",
       "name": "A Passing in the Night"
     },
     "3442050": {
-      "rank": 4900,
+      "rank": 4903,
       "estimate": "<7k",
       "name": "KUU"
     },
@@ -70,32 +75,32 @@
       "name": "Pixel Gun 2"
     },
     "3938720": {
-      "rank": 4908,
+      "rank": 4912,
       "estimate": "<7k",
       "name": "Fractured Library"
     },
     "4059000": {
-      "rank": 2015,
+      "rank": 2014,
       "estimate": "7k+",
       "name": "Cozy Builder"
     },
     "4120090": {
-      "rank": 4335,
+      "rank": 4337,
       "estimate": "<7k",
       "name": "Ashbound: Crown of Sin"
     },
     "4134600": {
-      "rank": 1041,
+      "rank": 1043,
       "estimate": "25k+",
       "name": "EverRail"
     },
     "4253570": {
-      "rank": 993,
+      "rank": 992,
       "estimate": "40k+",
       "name": "Reshine"
     },
     "4267780": {
-      "rank": 3823,
+      "rank": 3822,
       "estimate": "<7k",
       "name": "Acting Out"
     }

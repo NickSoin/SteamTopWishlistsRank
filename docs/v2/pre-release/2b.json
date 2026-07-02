@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-01T17:44:19.033Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-01T21:57:21.603Z",
+  "entryCount": 26,
   "entries": {
     "941460": {
       "rank": 36,
@@ -175,6 +175,13 @@
       "name": "Deadrock Redemption",
       "releaseDate": "2024-04-04",
       "source": "historical"
+    },
+    "4476610": {
+      "rank": 4274,
+      "estimate": "<7k",
+      "name": "Backrooms: Collision Not Found",
+      "releaseDate": "2026-07-01",
+      "source": "tracked"
     },
     "4585880": {
       "rank": 7440,

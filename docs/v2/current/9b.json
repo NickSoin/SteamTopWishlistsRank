@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-01T17:44:19.033Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-01T21:57:21.603Z",
+  "entryCount": 24,
   "entries": {
     "937450": {
       "rank": 845,
@@ -10,17 +10,17 @@
       "name": "Metropolisim"
     },
     "1221950": {
-      "rank": 2439,
+      "rank": 2440,
       "estimate": "7k+",
       "name": "Nighthawks"
     },
     "1303720": {
-      "rank": 5111,
+      "rank": 5113,
       "estimate": "<7k",
       "name": "Charge Blade Hero"
     },
     "1327090": {
-      "rank": 2830,
+      "rank": 2831,
       "estimate": "7k+",
       "name": "Solar System Colonist"
     },
@@ -35,12 +35,12 @@
       "name": "The Wayward Realms"
     },
     "2116200": {
-      "rank": 4714,
+      "rank": 4716,
       "estimate": "<7k",
       "name": "ECO BREAKER"
     },
     "2220860": {
-      "rank": 785,
+      "rank": 788,
       "estimate": "40k+",
       "name": "TSURUGIHIME"
     },
@@ -50,12 +50,12 @@
       "name": "Nimbit Frontier"
     },
     "2591960": {
-      "rank": 4964,
+      "rank": 4966,
       "estimate": "<7k",
       "name": "Hollow Bequest"
     },
     "2659600": {
-      "rank": 2125,
+      "rank": 2126,
       "estimate": "7k+",
       "name": "Ammossum"
     },
@@ -65,7 +65,7 @@
       "name": "Chrono Odyssey"
     },
     "2994220": {
-      "rank": 3186,
+      "rank": 3188,
       "estimate": "<7k",
       "name": "Azaran: Islands of the Jinn"
     },
@@ -75,17 +75,17 @@
       "name": "Sil and the Fading World"
     },
     "3056390": {
-      "rank": 3871,
+      "rank": 3870,
       "estimate": "<7k",
       "name": "HAELE 3D - Portrait Studio Pro - Drawing References"
     },
     "3101780": {
-      "rank": 4941,
+      "rank": 4939,
       "estimate": "<7k",
       "name": "Starless Umbra"
     },
     "3177730": {
-      "rank": 3850,
+      "rank": 3846,
       "estimate": "<7k",
       "name": "Rottenroots"
     },
@@ -95,12 +95,12 @@
       "name": "AION 2"
     },
     "3539880": {
-      "rank": 5113,
+      "rank": 5116,
       "estimate": "<7k",
       "name": "Alchemia Rogue: Mia and the Mystery Labyrinth"
     },
     "3551820": {
-      "rank": 3275,
+      "rank": 3276,
       "estimate": "<7k",
       "name": "Castlebound"
     },
@@ -115,9 +115,14 @@
       "name": "Bifröst: Prelude to the Storm"
     },
     "4040750": {
-      "rank": 4746,
+      "rank": 4744,
       "estimate": "<7k",
       "name": "Paradoxical"
+    },
+    "4839390": {
+      "rank": 4985,
+      "estimate": "<7k",
+      "name": "Muse Dash 2"
     }
   }
 }
