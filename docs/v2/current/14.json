@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-03T08:40:03.147Z",
-  "entryCount": 16,
+  "updatedAt": "2026-07-03T12:49:42.012Z",
+  "entryCount": 17,
   "entries": {
     "1145440": {
-      "rank": 3094,
+      "rank": 3095,
       "estimate": "<7k",
       "name": "Bloom: Memories"
     },
     "1359270": {
-      "rank": 991,
+      "rank": 993,
       "estimate": "40k+",
       "name": "Pirate Commander"
     },
     "1409270": {
-      "rank": 5060,
+      "rank": 5063,
       "estimate": "<7k",
       "name": "Call of Myth"
     },
@@ -25,17 +25,17 @@
       "name": "Agent 64: Spies Never Die"
     },
     "1790350": {
-      "rank": 3311,
+      "rank": 3313,
       "estimate": "<7k",
       "name": "A Rat's Life: The Cat Conspiracy"
     },
     "2130010": {
-      "rank": 4286,
+      "rank": 4288,
       "estimate": "<7k",
       "name": "Castle Doombad 2: Muahaha!"
     },
     "2448010": {
-      "rank": 3474,
+      "rank": 3475,
       "estimate": "<7k",
       "name": "Prison Architect 2 - Warden's Edition Upgrade"
     },
@@ -45,7 +45,7 @@
       "name": "Sunset Devils"
     },
     "2705830": {
-      "rank": 4880,
+      "rank": 4882,
       "estimate": "<7k",
       "name": "Warship Jolly Roger"
     },
@@ -55,34 +55,39 @@
       "name": "RollerGirl"
     },
     "3040020": {
-      "rank": 2379,
+      "rank": 2380,
       "estimate": "7k+",
       "name": "N PLUS INFINITY TIMES TWO"
     },
     "3233860": {
-      "rank": 4100,
+      "rank": 4102,
       "estimate": "<7k",
       "name": "The Witch's Fairy Tale"
     },
     "3972170": {
-      "rank": 4976,
+      "rank": 4977,
       "estimate": "<7k",
       "name": "On Air! Taxi Detective Casebook"
     },
     "4030150": {
-      "rank": 3383,
+      "rank": 3382,
       "estimate": "<7k",
       "name": "The Legend of Fancy Realm Remake"
     },
     "4054220": {
-      "rank": 1356,
+      "rank": 1355,
       "estimate": "25k+",
       "name": "Unleash The Avatar"
     },
     "4249080": {
-      "rank": 4811,
+      "rank": 4813,
       "estimate": "<7k",
       "name": "Misguided Remastered"
+    },
+    "4282500": {
+      "rank": 4471,
+      "estimate": "<7k",
+      "name": "hololive Dreams"
     }
   }
 }

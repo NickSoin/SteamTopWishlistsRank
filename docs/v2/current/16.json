@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-03T08:40:03.147Z",
+  "updatedAt": "2026-07-03T12:49:42.012Z",
   "entryCount": 20,
   "entries": {
     "904510": {
@@ -10,12 +10,12 @@
       "name": "ARTIFICIAL"
     },
     "952100": {
-      "rank": 3983,
+      "rank": 3984,
       "estimate": "<7k",
       "name": "Bad Pixels"
     },
     "1418380": {
-      "rank": 3394,
+      "rank": 3395,
       "estimate": "<7k",
       "name": "Forester Simulator"
     },
@@ -25,17 +25,17 @@
       "name": "Referee Simulator"
     },
     "1890780": {
-      "rank": 1780,
+      "rank": 1782,
       "estimate": "15k+",
       "name": "Szrot"
     },
     "2118890": {
-      "rank": 1598,
+      "rank": 1599,
       "estimate": "15k+",
       "name": "Backrooms VHS"
     },
     "2134720": {
-      "rank": 1592,
+      "rank": 1593,
       "estimate": "15k+",
       "name": "Stormbinders"
     },
@@ -50,7 +50,7 @@
       "name": "False Hero"
     },
     "3088400": {
-      "rank": 4498,
+      "rank": 4501,
       "estimate": "<7k",
       "name": "Deadly Trick"
     },
@@ -60,7 +60,7 @@
       "name": "Spook-A-Boo"
     },
     "3279330": {
-      "rank": 3473,
+      "rank": 3472,
       "estimate": "<7k",
       "name": "Home Wars: Battlefield"
     },
@@ -75,7 +75,7 @@
       "name": "Silkgrove"
     },
     "3582320": {
-      "rank": 4671,
+      "rank": 4675,
       "estimate": "<7k",
       "name": "Inazuma Eleven Team Builder"
     },
@@ -85,7 +85,7 @@
       "name": "Table Tactics: physics-driven tabletop battles"
     },
     "3746560": {
-      "rank": 1436,
+      "rank": 1437,
       "estimate": "25k+",
       "name": "Ethernia"
     },
@@ -100,7 +100,7 @@
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 663,
+      "rank": 665,
       "estimate": "40k+",
       "name": "Project Rabbit"
     }
