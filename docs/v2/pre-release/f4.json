@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-02T17:11:07.512Z",
-  "entryCount": 38,
+  "updatedAt": "2026-07-02T21:49:06.389Z",
+  "entryCount": 39,
   "entries": {
     "858820": {
       "rank": 1,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "Neofold",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4617670": {
+      "rank": 3875,
+      "estimate": "<7k",
+      "name": "ユレイシア英雄戦記 - Chronicle of Arstenia500 -",
+      "releaseDate": "2026-07-02",
       "source": "tracked"
     },
     "4669110": {

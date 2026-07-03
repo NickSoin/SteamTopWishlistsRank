@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-02T17:11:07.512Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-02T21:49:06.389Z",
+  "entryCount": 22,
   "entries": {
     "760250": {
-      "rank": 4861,
+      "rank": 4860,
       "estimate": "<7k",
       "name": "MUKTI"
     },
     "816070": {
-      "rank": 1767,
+      "rank": 1768,
       "estimate": "15k+",
       "name": "Blunt Force"
     },
     "1467110": {
-      "rank": 3082,
+      "rank": 3083,
       "estimate": "<7k",
       "name": "Treasure Hunter Simulator 2"
     },
     "1689130": {
-      "rank": 1783,
+      "rank": 1785,
       "estimate": "15k+",
       "name": "MaguSphere - Magical Cannon Girls"
     },
     "1830110": {
-      "rank": 1188,
+      "rank": 1189,
       "estimate": "25k+",
       "name": "THE SIGNAL: Stranded on Sirenis"
     },
@@ -45,7 +45,7 @@
       "name": "Dawn Of Defense"
     },
     "2824880": {
-      "rank": 1798,
+      "rank": 1799,
       "estimate": "15k+",
       "name": "SHRIMP GAME: OVERKRILL"
     },
@@ -60,12 +60,12 @@
       "name": "Front Edge"
     },
     "3209950": {
-      "rank": 1477,
+      "rank": 1479,
       "estimate": "25k+",
       "name": "MARINES VS GOD"
     },
     "3411900": {
-      "rank": 1818,
+      "rank": 1819,
       "estimate": "15k+",
       "name": "Kero Quest 64"
     },
@@ -75,27 +75,27 @@
       "name": "Ironclad"
     },
     "3752650": {
-      "rank": 407,
+      "rank": 406,
       "estimate": "80k+",
       "name": "Tale's Edge"
     },
     "3828500": {
-      "rank": 3858,
+      "rank": 3860,
       "estimate": "<7k",
       "name": "Deck & Conn"
     },
     "4183770": {
-      "rank": 2406,
+      "rank": 2408,
       "estimate": "7k+",
       "name": "CELESTAY Craft&Slowlife"
     },
     "4244460": {
-      "rank": 1519,
+      "rank": 1518,
       "estimate": "15k+",
       "name": "Sealbreakers"
     },
     "4425980": {
-      "rank": 4211,
+      "rank": 4204,
       "estimate": "<7k",
       "name": "Legion Breaker"
     },
@@ -105,9 +105,14 @@
       "name": "Neo Kinetic"
     },
     "4539340": {
-      "rank": 3373,
+      "rank": 3374,
       "estimate": "<7k",
       "name": "The Spaces We Share"
+    },
+    "4796640": {
+      "rank": 5069,
+      "estimate": "<7k",
+      "name": "UNBEATABLE - The Jamie Paige Content Companion"
     }
   }
 }
