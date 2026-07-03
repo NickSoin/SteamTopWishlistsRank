@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-02T21:49:06.389Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-03T04:18:34.201Z",
+  "entryCount": 20,
   "entries": {
     "615530": {
       "rank": 223,
@@ -137,6 +137,13 @@
       "estimate": "<7k",
       "name": "SkyShard: City Battler",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "4634490": {
+      "rank": 978,
+      "estimate": "40k+",
+      "name": "Master Healer Kale with useless party",
+      "releaseDate": "2026-07-02",
       "source": "tracked"
     }
   }

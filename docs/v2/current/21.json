@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-02T21:49:06.389Z",
-  "entryCount": 16,
+  "updatedAt": "2026-07-03T04:18:34.201Z",
+  "entryCount": 17,
   "entries": {
     "719160": {
       "rank": 3330,
@@ -15,27 +15,27 @@
       "name": "Lost Railway"
     },
     "1713730": {
-      "rank": 1628,
+      "rank": 1627,
       "estimate": "15k+",
       "name": "Moadra"
     },
     "2233390": {
-      "rank": 1335,
+      "rank": 1336,
       "estimate": "25k+",
       "name": "Nuclear Sub"
     },
     "2304360": {
-      "rank": 1667,
+      "rank": 1668,
       "estimate": "15k+",
       "name": "Mainland"
     },
     "2605900": {
-      "rank": 1496,
+      "rank": 1495,
       "estimate": "25k+",
       "name": "DIGESTED"
     },
     "2686570": {
-      "rank": 1656,
+      "rank": 1652,
       "estimate": "15k+",
       "name": "Waltz and Jam"
     },
@@ -50,17 +50,17 @@
       "name": "KARANEKO"
     },
     "3255140": {
-      "rank": 2942,
+      "rank": 2941,
       "estimate": "7k+",
       "name": "CORPOREAL"
     },
     "3255610": {
-      "rank": 4152,
+      "rank": 4154,
       "estimate": "<7k",
       "name": "Tower of Silence"
     },
     "3557060": {
-      "rank": 4425,
+      "rank": 4424,
       "estimate": "<7k",
       "name": "Lull: Rest After Crying"
     },
@@ -75,14 +75,19 @@
       "name": "Assassin's Creed Black Flag Resynced"
     },
     "4040060": {
-      "rank": 1018,
+      "rank": 1017,
       "estimate": "25k+",
       "name": "Model Kit Studio"
     },
     "4056250": {
-      "rank": 3185,
+      "rank": 3186,
       "estimate": "<7k",
       "name": "空想森林FANTASY FOREST"
+    },
+    "4620600": {
+      "rank": 4521,
+      "estimate": "<7k",
+      "name": "Dynamite Day"
     }
   }
 }

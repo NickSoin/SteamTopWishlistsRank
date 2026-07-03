@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-02T21:49:06.389Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-03T04:18:34.201Z",
+  "entryCount": 20,
   "entries": {
     "1053900": {
       "rank": 568,
@@ -15,32 +15,32 @@
       "name": "Kriegsfront Tactics"
     },
     "1664720": {
-      "rank": 5000,
+      "rank": 5004,
       "estimate": "<7k",
       "name": "MOJITO Woody's Rescue"
     },
     "1725290": {
-      "rank": 5036,
+      "rank": 5038,
       "estimate": "<7k",
       "name": "Final Vanguard"
     },
     "1879250": {
-      "rank": 763,
+      "rank": 764,
       "estimate": "40k+",
       "name": "Teatopia"
     },
     "2354640": {
-      "rank": 3361,
+      "rank": 3359,
       "estimate": "<7k",
       "name": "DIESELDOME: Ultraviolent Gladiator Shooter"
     },
     "2446660": {
-      "rank": 1678,
+      "rank": 1679,
       "estimate": "15k+",
       "name": "Dragonscale Monastery"
     },
     "2559740": {
-      "rank": 1003,
+      "rank": 1002,
       "estimate": "25k+",
       "name": "Tower Of Tears"
     },
@@ -55,17 +55,17 @@
       "name": "Woodo"
     },
     "2862770": {
-      "rank": 3738,
+      "rank": 3739,
       "estimate": "<7k",
       "name": "星海乐章 | GALIX: NewHorizons | 星の旅：億万年の絆"
     },
     "2983480": {
-      "rank": 4112,
+      "rank": 4108,
       "estimate": "<7k",
       "name": "Cinema Manager Simulator"
     },
     "3067170": {
-      "rank": 4248,
+      "rank": 4240,
       "estimate": "<7k",
       "name": "Protagonist Complex one"
     },
@@ -75,27 +75,32 @@
       "name": "TANUKI: Pon's Summer"
     },
     "3235140": {
-      "rank": 2268,
+      "rank": 2267,
       "estimate": "7k+",
       "name": "GANGSTALK"
     },
     "3532690": {
-      "rank": 3348,
+      "rank": 3349,
       "estimate": "<7k",
       "name": "Climbing Gym Simulator"
     },
     "3661400": {
-      "rank": 3032,
+      "rank": 3031,
       "estimate": "<7k",
       "name": "Gourdlets Together"
     },
+    "3800010": {
+      "rank": 5099,
+      "estimate": "<7k",
+      "name": "Abyssal Rust"
+    },
     "4133290": {
-      "rank": 2064,
+      "rank": 2065,
       "estimate": "7k+",
       "name": "DownSouth"
     },
     "4337230": {
-      "rank": 5024,
+      "rank": 5020,
       "estimate": "<7k",
       "name": "Midnight Train: New Moon"
     }

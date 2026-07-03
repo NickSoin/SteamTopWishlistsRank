@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-02T21:49:06.389Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-03T04:18:34.201Z",
+  "entryCount": 27,
   "entries": {
     "941460": {
       "rank": 36,
@@ -175,6 +175,13 @@
       "name": "Deadrock Redemption",
       "releaseDate": "2024-04-04",
       "source": "historical"
+    },
+    "3076910": {
+      "rank": 3441,
+      "estimate": "<7k",
+      "name": "UNDERGROUNDED",
+      "releaseDate": "2026-07-02",
+      "source": "tracked"
     },
     "4476610": {
       "rank": 4274,
