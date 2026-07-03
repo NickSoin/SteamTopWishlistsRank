@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-03T12:49:42.012Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-03T17:04:52.975Z",
+  "entryCount": 26,
   "entries": {
     "820520": {
       "rank": 553,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Birds Hunter",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4084160": {
+      "rank": 9712,
+      "estimate": "<7k",
+      "name": "Conqueror's Stage",
+      "releaseDate": "2026-07-03",
       "source": "tracked"
     },
     "4347780": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-03T12:49:42.012Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-03T17:04:52.975Z",
+  "entryCount": 33,
   "entries": {
     "494730": {
       "rank": 753,
@@ -224,6 +224,13 @@
       "name": "After Inc: Revival",
       "releaseDate": "2025-06-17",
       "source": "historical"
+    },
+    "4634080": {
+      "rank": 7112,
+      "estimate": "<7k",
+      "name": "Ice Scream",
+      "releaseDate": "2026-07-03",
+      "source": "tracked"
     },
     "4769580": {
       "rank": 8283,

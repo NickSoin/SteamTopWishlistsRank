@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-03T12:49:42.012Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-03T17:04:52.975Z",
+  "entryCount": 28,
   "entries": {
     "743380": {
       "rank": 664,
@@ -191,6 +191,13 @@
       "estimate": "7k+",
       "name": "Chef Knight",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "4436080": {
+      "rank": 6771,
+      "estimate": "<7k",
+      "name": "Olga Doesn't Die",
+      "releaseDate": "2026-07-03",
       "source": "tracked"
     }
   }
