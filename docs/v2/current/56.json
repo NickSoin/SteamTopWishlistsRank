@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-03T21:54:28.858Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-04T04:16:38.565Z",
+  "entryCount": 27,
   "entries": {
     "1025560": {
-      "rank": 4653,
+      "rank": 4660,
       "estimate": "<7k",
       "name": "Flea Madness"
     },
     "1081830": {
-      "rank": 2320,
+      "rank": 2323,
       "estimate": "7k+",
       "name": "Blood And Mead"
     },
     "1155850": {
-      "rank": 2601,
+      "rank": 2602,
       "estimate": "7k+",
       "name": "Lost Viking: Kingdom of Women"
     },
@@ -30,12 +30,12 @@
       "name": "Derelicts"
     },
     "1734130": {
-      "rank": 5135,
+      "rank": 5138,
       "estimate": "<7k",
       "name": "Concerto on White"
     },
     "1736200": {
-      "rank": 2984,
+      "rank": 2985,
       "estimate": "7k+",
       "name": "Sealed Gate"
     },
@@ -50,7 +50,7 @@
       "name": "Crescent County"
     },
     "2210240": {
-      "rank": 3301,
+      "rank": 3304,
       "estimate": "<7k",
       "name": "Hoglands"
     },
@@ -65,9 +65,14 @@
       "name": "MOONSHIRE"
     },
     "2666160": {
-      "rank": 1264,
+      "rank": 1263,
       "estimate": "25k+",
       "name": "STARVEIL PROTOCOL A.A.A."
+    },
+    "2765320": {
+      "rank": 5137,
+      "estimate": "<7k",
+      "name": "Celestial Descends"
     },
     "2946530": {
       "rank": 3346,
@@ -75,22 +80,22 @@
       "name": "Tornado Emergency"
     },
     "3166050": {
-      "rank": 500,
-      "estimate": "80k+",
+      "rank": 501,
+      "estimate": "40k+",
       "name": "Quite a Ride"
     },
     "3259000": {
-      "rank": 3055,
+      "rank": 3059,
       "estimate": "<7k",
       "name": "Crathos Deep"
     },
     "3266110": {
-      "rank": 816,
+      "rank": 817,
       "estimate": "40k+",
       "name": "Black Pine: Incident Response"
     },
     "3819020": {
-      "rank": 4853,
+      "rank": 4856,
       "estimate": "<7k",
       "name": "DEADBOOT"
     },
@@ -100,37 +105,37 @@
       "name": "FRUKT"
     },
     "4370210": {
-      "rank": 4679,
+      "rank": 4654,
       "estimate": "<7k",
       "name": "Split Brain Samsara"
     },
     "4459720": {
-      "rank": 4890,
+      "rank": 4748,
       "estimate": "<7k",
       "name": "Cyber Demon Protocol"
     },
     "4513480": {
-      "rank": 926,
+      "rank": 927,
       "estimate": "40k+",
       "name": "Scarlet Skips"
     },
     "4514140": {
-      "rank": 4611,
+      "rank": 4609,
       "estimate": "<7k",
       "name": "CHEW YOUR FOOD"
     },
     "4605950": {
-      "rank": 4733,
+      "rank": 4734,
       "estimate": "<7k",
       "name": "UNSIGHT"
     },
     "4687390": {
-      "rank": 940,
+      "rank": 936,
       "estimate": "40k+",
       "name": "Abiotic Factor - Entropic Break"
     },
     "4689550": {
-      "rank": 4497,
+      "rank": 4500,
       "estimate": "<7k",
       "name": "RuneCipher"
     }
