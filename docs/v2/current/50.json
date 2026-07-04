@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-04T16:29:31.835Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-04T21:30:52.689Z",
+  "entryCount": 21,
   "entries": {
     "968770": {
-      "rank": 4802,
+      "rank": 4804,
       "estimate": "<7k",
       "name": "Iron Vulture"
     },
@@ -15,12 +15,12 @@
       "name": "Mouseward"
     },
     "1670650": {
-      "rank": 188,
+      "rank": 189,
       "estimate": "200k+",
       "name": "Espiocracy"
     },
     "1826400": {
-      "rank": 3134,
+      "rank": 3137,
       "estimate": "<7k",
       "name": "CRAVE"
     },
@@ -45,7 +45,7 @@
       "name": "ONE WAY HOME"
     },
     "2387740": {
-      "rank": 3231,
+      "rank": 3233,
       "estimate": "<7k",
       "name": "Light of Atlantis"
     },
@@ -60,17 +60,17 @@
       "name": "Red Dust Colony"
     },
     "2842720": {
-      "rank": 3475,
+      "rank": 3477,
       "estimate": "<7k",
       "name": "TOONSOULS"
     },
     "2894990": {
-      "rank": 2800,
+      "rank": 2801,
       "estimate": "7k+",
       "name": "Trizna"
     },
     "3138060": {
-      "rank": 4555,
+      "rank": 4556,
       "estimate": "<7k",
       "name": "Esport Manager: Road To Major"
     },
@@ -90,7 +90,7 @@
       "name": "Planetbase 2"
     },
     "3973160": {
-      "rank": 1627,
+      "rank": 1629,
       "estimate": "15k+",
       "name": "Crimson Freedom"
     },
@@ -100,9 +100,14 @@
       "name": "Slayblade"
     },
     "4406740": {
-      "rank": 3159,
+      "rank": 3160,
       "estimate": "<7k",
       "name": "Clayton & Cayo"
+    },
+    "4671380": {
+      "rank": 5141,
+      "estimate": "<7k",
+      "name": "Scapewatch: Idle MMO"
     }
   }
 }
