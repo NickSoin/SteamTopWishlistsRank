@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-03T17:04:52.975Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-03T21:54:28.858Z",
+  "entryCount": 26,
   "entries": {
     "773370": {
       "rank": 126,
@@ -167,6 +167,13 @@
       "estimate": "40k+",
       "name": "Bubsy 4D",
       "releaseDate": "2026-05-22",
+      "source": "tracked"
+    },
+    "3462790": {
+      "rank": 2217,
+      "estimate": "7k+",
+      "name": "Battle For Embolia",
+      "releaseDate": "2026-07-03",
       "source": "tracked"
     },
     "4366330": {

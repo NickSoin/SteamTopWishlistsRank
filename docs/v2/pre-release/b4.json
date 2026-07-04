@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-03T17:04:52.975Z",
-  "entryCount": 42,
+  "updatedAt": "2026-07-03T21:54:28.858Z",
+  "entryCount": 43,
   "entries": {
     "607080": {
       "rank": 2,
@@ -290,6 +290,13 @@
       "name": "Nioh 3",
       "releaseDate": "2026-02-05",
       "source": "historical"
+    },
+    "4671050": {
+      "rank": 3224,
+      "estimate": "<7k",
+      "name": "American Revolutionary War",
+      "releaseDate": "2026-07-03",
+      "source": "tracked"
     },
     "4681880": {
       "rank": 6853,
