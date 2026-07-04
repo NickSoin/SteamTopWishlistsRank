@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-04T04:16:38.565Z",
-  "entryCount": 17,
+  "updatedAt": "2026-07-04T08:11:58.674Z",
+  "entryCount": 18,
   "entries": {
     "1171980": {
-      "rank": 803,
+      "rank": 805,
       "estimate": "40k+",
       "name": "Neverlooted Dungeon"
     },
@@ -15,7 +15,7 @@
       "name": "Carnival Hunt"
     },
     "1313230": {
-      "rank": 44,
+      "rank": 45,
       "estimate": "600k+",
       "name": "Beautiful Light"
     },
@@ -40,17 +40,17 @@
       "name": "The Hearth and Harbour"
     },
     "2582310": {
-      "rank": 4045,
+      "rank": 4049,
       "estimate": "<7k",
       "name": "MetroSim - The Subway Simulator"
     },
     "2729830": {
-      "rank": 4900,
+      "rank": 4901,
       "estimate": "<7k",
       "name": "Pumpkin Woods"
     },
     "2886300": {
-      "rank": 2968,
+      "rank": 2970,
       "estimate": "7k+",
       "name": "Gunny Ascend"
     },
@@ -70,7 +70,7 @@
       "name": "Rain98"
     },
     "3689210": {
-      "rank": 4617,
+      "rank": 4616,
       "estimate": "<7k",
       "name": "HYPERFIST"
     },
@@ -85,9 +85,14 @@
       "name": "Nightwater"
     },
     "4211340": {
-      "rank": 4156,
+      "rank": 4157,
       "estimate": "<7k",
       "name": "Biryado"
+    },
+    "4211810": {
+      "rank": 5147,
+      "estimate": "<7k",
+      "name": "Valkyrie Tune: Synthesis of Souls"
     }
   }
 }
