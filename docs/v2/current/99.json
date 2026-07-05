@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-05T11:52:56.682Z",
-  "entryCount": 13,
+  "updatedAt": "2026-07-05T16:32:30.079Z",
+  "entryCount": 14,
   "entries": {
     "311810": {
       "rank": 241,
@@ -10,12 +10,12 @@
       "name": "Operation: Black Mesa"
     },
     "1478260": {
-      "rank": 4169,
+      "rank": 4172,
       "estimate": "<7k",
       "name": "City of Rampage"
     },
     "1556850": {
-      "rank": 4536,
+      "rank": 4538,
       "estimate": "<7k",
       "name": "The Lunar Effect"
     },
@@ -24,13 +24,18 @@
       "estimate": "15k+",
       "name": "Train Mechanic Simulator 2025"
     },
+    "1841660": {
+      "rank": 5153,
+      "estimate": "<7k",
+      "name": "nanos world™"
+    },
     "1940080": {
       "rank": 32,
       "estimate": "600k+",
       "name": "Rooted"
     },
     "2622460": {
-      "rank": 3932,
+      "rank": 3934,
       "estimate": "<7k",
       "name": "The Skyland Chronicles"
     },
@@ -40,22 +45,22 @@
       "name": "April 8th"
     },
     "3302370": {
-      "rank": 4358,
+      "rank": 4361,
       "estimate": "<7k",
       "name": "Crux Diaries RPG"
     },
     "3346460": {
-      "rank": 4778,
+      "rank": 4781,
       "estimate": "<7k",
       "name": "Pottering"
     },
     "3794210": {
-      "rank": 1851,
+      "rank": 1852,
       "estimate": "15k+",
       "name": "Thousand Hells: The Underworld Heists"
     },
     "4175180": {
-      "rank": 578,
+      "rank": 579,
       "estimate": "40k+",
       "name": "DREADNOUGHT TARTARUS"
     },
@@ -65,7 +70,7 @@
       "name": "Supreme Experiment"
     },
     "4249850": {
-      "rank": 3187,
+      "rank": 3188,
       "estimate": "<7k",
       "name": "E-Shop Tycoon"
     }
