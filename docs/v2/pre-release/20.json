@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-05T21:56:28.351Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-06T04:48:01.502Z",
+  "entryCount": 31,
   "entries": {
     "628740": {
       "rank": 647,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Remagotchi",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4542750": {
+      "rank": 4214,
+      "estimate": "<7k",
+      "name": "VELATO",
+      "releaseDate": "2026-07-05",
       "source": "tracked"
     }
   }

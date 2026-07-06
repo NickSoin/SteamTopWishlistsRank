@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-05T21:56:28.351Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-06T04:48:01.502Z",
+  "entryCount": 17,
   "entries": {
     "737340": {
       "rank": 5100,
@@ -10,7 +10,7 @@
       "name": "Wild Light: Darkest Isles"
     },
     "772260": {
-      "rank": 3292,
+      "rank": 3291,
       "estimate": "<7k",
       "name": "NitorInc.: Touhou Microgames!"
     },
@@ -35,7 +35,7 @@
       "name": "Vivaland"
     },
     "2126810": {
-      "rank": 3030,
+      "rank": 3031,
       "estimate": "<7k",
       "name": "Memory's Reach"
     },
@@ -45,7 +45,7 @@
       "name": "Carbonflesh"
     },
     "2294230": {
-      "rank": 3262,
+      "rank": 3256,
       "estimate": "<7k",
       "name": "Backrooms: The Project"
     },
@@ -55,27 +55,27 @@
       "name": "Infinitum: The Backrooms Story"
     },
     "2413800": {
-      "rank": 799,
+      "rank": 802,
       "estimate": "40k+",
       "name": "Samurai Pizza Cats: Blast from the Past!"
     },
     "2605720": {
-      "rank": 2852,
+      "rank": 2855,
       "estimate": "7k+",
       "name": "Ys Foliage Ocean in Celceta : Kai"
     },
     "3018390": {
-      "rank": 1105,
+      "rank": 1106,
       "estimate": "25k+",
       "name": "PSYCHO DEAD"
     },
     "3309160": {
-      "rank": 2569,
+      "rank": 2570,
       "estimate": "7k+",
       "name": "Chronocracy"
     },
     "3868160": {
-      "rank": 2990,
+      "rank": 2991,
       "estimate": "7k+",
       "name": "The Mortal"
     },
@@ -88,11 +88,6 @@
       "rank": 3122,
       "estimate": "<7k",
       "name": "Radio Decay"
-    },
-    "4047160": {
-      "rank": 3243,
-      "estimate": "<7k",
-      "name": "I'm Making a Monster"
     }
   }
 }
