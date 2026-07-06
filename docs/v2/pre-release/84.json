@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-06T14:13:00.037Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-06T18:16:08.984Z",
+  "entryCount": 22,
   "entries": {
     "777390": {
       "rank": 1023,
@@ -59,6 +59,13 @@
       "name": "Metal Mutation",
       "releaseDate": "2023-05-04",
       "source": "historical"
+    },
+    "1917160": {
+      "rank": 4822,
+      "estimate": "<7k",
+      "name": "Data Center Simulator Game",
+      "releaseDate": "2026-07-06",
+      "source": "tracked"
     },
     "1939890": {
       "rank": 1360,

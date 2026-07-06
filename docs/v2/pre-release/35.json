@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-06T14:13:00.037Z",
-  "entryCount": 40,
+  "updatedAt": "2026-07-06T18:16:08.984Z",
+  "entryCount": 41,
   "entries": {
     "671860": {
       "rank": 22,
@@ -276,6 +276,13 @@
       "name": "Sunken Engine",
       "releaseDate": "2025-10-16",
       "source": "historical"
+    },
+    "4168700": {
+      "rank": 5223,
+      "estimate": "<7k",
+      "name": "Landlord Simulator",
+      "releaseDate": "2026-07-06",
+      "source": "tracked"
     },
     "4605050": {
       "rank": 9128,

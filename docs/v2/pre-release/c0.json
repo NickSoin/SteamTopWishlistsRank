@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-06T14:13:00.037Z",
-  "entryCount": 17,
+  "updatedAt": "2026-07-06T18:16:08.984Z",
+  "entryCount": 18,
   "entries": {
     "589450": {
       "rank": 1113,
@@ -115,6 +115,13 @@
       "name": "CONTROL Resonant",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3892320": {
+      "rank": 4299,
+      "estimate": "<7k",
+      "name": "Iron Circus × INDIEPOCALYPSE Game Jam",
+      "releaseDate": "2026-07-06",
+      "source": "tracked"
     },
     "4451520": {
       "rank": 9140,

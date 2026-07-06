@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-06T14:13:00.037Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-06T18:16:08.984Z",
+  "entryCount": 22,
   "entries": {
     "747660": {
       "rank": 193,
@@ -110,6 +110,13 @@
       "name": "Contractors Showdown : ExfilZone",
       "releaseDate": "2024-04-25",
       "source": "historical"
+    },
+    "2749950": {
+      "rank": 393,
+      "estimate": "80k+",
+      "name": "Esports Manager 2026",
+      "releaseDate": "2026-07-06",
+      "source": "tracked"
     },
     "2817620": {
       "rank": 40,

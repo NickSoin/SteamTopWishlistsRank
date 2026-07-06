@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-06T14:13:00.037Z",
-  "entryCount": 40,
+  "updatedAt": "2026-07-06T18:16:08.984Z",
+  "entryCount": 41,
   "entries": {
     "595500": {
       "rank": 511,
@@ -252,6 +252,13 @@
       "releaseDate": "2026-01-12",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758645642"
+    },
+    "3722660": {
+      "rank": 2726,
+      "estimate": "7k+",
+      "name": "Cosmodrill",
+      "releaseDate": "2026-07-06",
+      "source": "tracked"
     },
     "3779710": {
       "rank": 7262,
