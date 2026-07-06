@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-05T16:32:30.079Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-05T21:56:28.351Z",
+  "entryCount": 19,
   "entries": {
     "1845250": {
       "rank": 301,
@@ -10,7 +10,7 @@
       "name": "Rubinite"
     },
     "1946380": {
-      "rank": 4597,
+      "rank": 4599,
       "estimate": "<7k",
       "name": "Eternal Remnant"
     },
@@ -20,12 +20,12 @@
       "name": "The Eternal Life of Goldman"
     },
     "2322260": {
-      "rank": 875,
+      "rank": 876,
       "estimate": "40k+",
       "name": "Don't Kill Them All"
     },
     "2331530": {
-      "rank": 4966,
+      "rank": 4970,
       "estimate": "<7k",
       "name": "Pirate Island"
     },
@@ -45,7 +45,7 @@
       "name": "Light No Fire"
     },
     "2947630": {
-      "rank": 2789,
+      "rank": 2790,
       "estimate": "7k+",
       "name": "中国式网游：序章"
     },
@@ -55,7 +55,7 @@
       "name": "SKIDRUSH : Drift City"
     },
     "3077640": {
-      "rank": 344,
+      "rank": 345,
       "estimate": "80k+",
       "name": "MIGHTREYA"
     },
@@ -65,7 +65,7 @@
       "name": "Aegis Force: The Scorian War"
     },
     "3725800": {
-      "rank": 2860,
+      "rank": 2859,
       "estimate": "7k+",
       "name": "Island of Rebirth~NTR and Love~"
     },
@@ -75,7 +75,7 @@
       "name": "BrokenLore: DON’T LIE"
     },
     "4420980": {
-      "rank": 941,
+      "rank": 940,
       "estimate": "40k+",
       "name": "Drunkslop: Pub crawl COOP"
     },
@@ -90,9 +90,14 @@
       "name": "AetherCycle"
     },
     "4540260": {
-      "rank": 2240,
+      "rank": 2242,
       "estimate": "7k+",
       "name": "Project Ants"
+    },
+    "4575620": {
+      "rank": 5138,
+      "estimate": "<7k",
+      "name": "落幕之前 Before the Fall"
     }
   }
 }
