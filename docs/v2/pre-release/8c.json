@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-06T04:48:01.502Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-06T09:38:12.105Z",
+  "entryCount": 29,
   "entries": {
     "659960": {
       "rank": 821,
@@ -188,6 +188,13 @@
       "estimate": "7k+",
       "name": "Pro Cycling Manager 26",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4323520": {
+      "rank": 7352,
+      "estimate": "<7k",
+      "name": "XeGrader plus",
+      "releaseDate": "2026-07-06",
       "source": "tracked"
     },
     "4517460": {

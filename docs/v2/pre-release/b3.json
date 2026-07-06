@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-06T04:48:01.502Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-06T09:38:12.105Z",
+  "entryCount": 29,
   "entries": {
     "532790": {
       "rank": 3,
@@ -182,6 +182,13 @@
       "name": "Revenge of Black Bone",
       "releaseDate": "2024-12-10",
       "source": "historical"
+    },
+    "3257760": {
+      "rank": 9812,
+      "estimate": "<7k",
+      "name": "Sunken Dragon",
+      "releaseDate": "2026-07-05",
+      "source": "tracked"
     },
     "3583210": {
       "rank": 326,

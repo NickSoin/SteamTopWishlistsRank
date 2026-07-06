@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-06T04:48:01.502Z",
+  "updatedAt": "2026-07-06T09:38:12.105Z",
   "entryCount": 21,
   "entries": {
     "1778150": {
-      "rank": 3957,
+      "rank": 3958,
       "estimate": "<7k",
       "name": "TRIP"
     },
@@ -25,12 +25,12 @@
       "name": "ARK 2"
     },
     "2381500": {
-      "rank": 1713,
+      "rank": 1712,
       "estimate": "15k+",
       "name": "Engine Simulator"
     },
     "3008590": {
-      "rank": 2123,
+      "rank": 2125,
       "estimate": "7k+",
       "name": "Relics of the Oracle"
     },
@@ -45,7 +45,7 @@
       "name": "Drivers of the Apocalypse"
     },
     "3433800": {
-      "rank": 2145,
+      "rank": 2147,
       "estimate": "7k+",
       "name": "Moonbrella"
     },
@@ -60,7 +60,7 @@
       "name": "Cosmo Tales"
     },
     "3676140": {
-      "rank": 2776,
+      "rank": 2763,
       "estimate": "7k+",
       "name": "Trawler's Wake"
     },
@@ -85,17 +85,17 @@
       "name": "BURNED HORIZONS"
     },
     "4005330": {
-      "rank": 5054,
+      "rank": 5057,
       "estimate": "<7k",
       "name": "Spell Trigger"
     },
     "4061170": {
-      "rank": 593,
+      "rank": 594,
       "estimate": "40k+",
       "name": "SlashZero"
     },
     "4108460": {
-      "rank": 5031,
+      "rank": 5025,
       "estimate": "<7k",
       "name": "PatriotMemoirs"
     },

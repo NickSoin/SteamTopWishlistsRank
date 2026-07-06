@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-06T04:48:01.502Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-06T09:38:12.105Z",
+  "entryCount": 33,
   "entries": {
     "529340": {
       "rank": 19,
@@ -231,6 +231,13 @@
       "name": "Terror At Oakheart",
       "releaseDate": "2024-02-27",
       "source": "historical"
+    },
+    "2757260": {
+      "rank": 9215,
+      "estimate": "<7k",
+      "name": "Three Kingdoms : Restoration of Han",
+      "releaseDate": "2026-07-05",
+      "source": "tracked"
     }
   }
 }
