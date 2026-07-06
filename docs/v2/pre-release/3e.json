@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-06T09:38:12.105Z",
-  "entryCount": 38,
+  "updatedAt": "2026-07-06T14:13:00.037Z",
+  "entryCount": 39,
   "entries": {
     "690370": {
       "rank": 17,
@@ -268,6 +268,13 @@
       "estimate": "<7k",
       "name": "IronWood",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4529100": {
+      "rank": 9895,
+      "estimate": "<7k",
+      "name": "Idle DeepMiner",
+      "releaseDate": "2026-07-06",
       "source": "tracked"
     }
   }
