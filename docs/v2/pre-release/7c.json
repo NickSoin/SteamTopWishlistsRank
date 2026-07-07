@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-06T18:16:08.984Z",
-  "entryCount": 47,
+  "updatedAt": "2026-07-06T22:09:41.856Z",
+  "entryCount": 48,
   "entries": {
     "748020": {
       "rank": 911,
@@ -131,6 +131,13 @@
       "name": "Swelter",
       "releaseDate": "2023-06-26",
       "source": "historical"
+    },
+    "1818470": {
+      "rank": 1954,
+      "estimate": "15k+",
+      "name": "Desolation Seed",
+      "releaseDate": "2026-07-06",
+      "source": "tracked"
     },
     "1889740": {
       "rank": 32,
