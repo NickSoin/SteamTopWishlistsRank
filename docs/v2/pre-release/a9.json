@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-06T22:09:41.856Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-07T04:48:28.349Z",
+  "entryCount": 25,
   "entries": {
     "1172470": {
       "rank": 18,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "A Week in Paradise",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4724650": {
+      "rank": 7146,
+      "estimate": "<7k",
+      "name": "DEMON SIEGE",
+      "releaseDate": "2026-07-06",
       "source": "tracked"
     }
   }

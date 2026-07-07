@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-06T22:09:41.856Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-07T04:48:28.349Z",
+  "entryCount": 27,
   "entries": {
     "674140": {
       "rank": 537,
@@ -181,6 +181,13 @@
       "estimate": "<7k",
       "name": "Tales Beyond The Tomb - No Witnesses",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4539870": {
+      "rank": 6675,
+      "estimate": "<7k",
+      "name": "Khaldun: Text Based Strategy",
+      "releaseDate": "2026-07-06",
       "source": "tracked"
     },
     "4682460": {

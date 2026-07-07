@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-06T22:09:41.856Z",
+  "updatedAt": "2026-07-07T04:48:28.349Z",
   "entryCount": 20,
   "entries": {
     "904510": {
@@ -10,12 +10,12 @@
       "name": "ARTIFICIAL"
     },
     "952100": {
-      "rank": 4004,
+      "rank": 4005,
       "estimate": "<7k",
       "name": "Bad Pixels"
     },
     "1418380": {
-      "rank": 3416,
+      "rank": 3417,
       "estimate": "<7k",
       "name": "Forester Simulator"
     },
@@ -25,17 +25,17 @@
       "name": "Referee Simulator"
     },
     "1890780": {
-      "rank": 1793,
+      "rank": 1792,
       "estimate": "15k+",
       "name": "Szrot"
     },
     "2118890": {
-      "rank": 1606,
+      "rank": 1607,
       "estimate": "15k+",
       "name": "Backrooms VHS"
     },
     "2134720": {
-      "rank": 1600,
+      "rank": 1601,
       "estimate": "15k+",
       "name": "Stormbinders"
     },
@@ -45,17 +45,17 @@
       "name": "Demiurgos"
     },
     "2538870": {
-      "rank": 1134,
+      "rank": 1133,
       "estimate": "25k+",
       "name": "False Hero"
     },
     "3088400": {
-      "rank": 4496,
+      "rank": 4489,
       "estimate": "<7k",
       "name": "Deadly Trick"
     },
     "3154150": {
-      "rank": 3313,
+      "rank": 3312,
       "estimate": "<7k",
       "name": "Spook-A-Boo"
     },
@@ -65,7 +65,7 @@
       "name": "Home Wars: Battlefield"
     },
     "3398880": {
-      "rank": 3035,
+      "rank": 3034,
       "estimate": "<7k",
       "name": "Castle V Castle"
     },
@@ -75,17 +75,17 @@
       "name": "Silkgrove"
     },
     "3582320": {
-      "rank": 4691,
+      "rank": 4692,
       "estimate": "<7k",
       "name": "Inazuma Eleven Team Builder"
     },
     "3730680": {
-      "rank": 2429,
+      "rank": 2430,
       "estimate": "7k+",
       "name": "Table Tactics: physics-driven tabletop battles"
     },
     "3746560": {
-      "rank": 1443,
+      "rank": 1444,
       "estimate": "25k+",
       "name": "Ethernia"
     },
@@ -95,12 +95,12 @@
       "name": "Reytrieve Odyssey"
     },
     "4614080": {
-      "rank": 119,
+      "rank": 120,
       "estimate": "200k+",
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 666,
+      "rank": 665,
       "estimate": "40k+",
       "name": "Project Rabbit"
     }
