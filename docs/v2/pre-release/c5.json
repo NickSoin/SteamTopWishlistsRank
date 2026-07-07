@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-07T08:55:23.316Z",
-  "entryCount": 41,
+  "updatedAt": "2026-07-07T12:59:37.810Z",
+  "entryCount": 42,
   "entries": {
     "595500": {
       "rank": 511,
@@ -293,6 +293,13 @@
       "estimate": "<7k",
       "name": "Scratch Off!",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4697170": {
+      "rank": 6741,
+      "estimate": "<7k",
+      "name": "Memo R.I.P.",
+      "releaseDate": "2026-07-07",
       "source": "tracked"
     }
   }

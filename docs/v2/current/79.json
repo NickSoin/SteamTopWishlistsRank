@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-07T08:55:23.316Z",
-  "entryCount": 16,
+  "updatedAt": "2026-07-07T12:59:37.810Z",
+  "entryCount": 17,
   "entries": {
     "1897450": {
       "rank": 3215,
@@ -20,17 +20,17 @@
       "name": "M.O.Z.I."
     },
     "2728050": {
-      "rank": 1279,
+      "rank": 1280,
       "estimate": "25k+",
       "name": "Scratchin' Melodii"
     },
     "3002740": {
-      "rank": 2128,
+      "rank": 2129,
       "estimate": "7k+",
       "name": "Project Solaris"
     },
     "3039430": {
-      "rank": 4981,
+      "rank": 4983,
       "estimate": "<7k",
       "name": "MECHIEVAL"
     },
@@ -60,17 +60,17 @@
       "name": "Hear Tell of Hauntings"
     },
     "3525890": {
-      "rank": 4571,
+      "rank": 4574,
       "estimate": "<7k",
       "name": "Future Vibe Check"
     },
     "3689840": {
-      "rank": 5118,
+      "rank": 5120,
       "estimate": "<7k",
       "name": "INSPEKTOR"
     },
     "3822320": {
-      "rank": 1586,
+      "rank": 1588,
       "estimate": "15k+",
       "name": "Dream Hollow"
     },
@@ -80,9 +80,14 @@
       "name": "Lawn Mowing Simulator 2"
     },
     "4151300": {
-      "rank": 847,
+      "rank": 846,
       "estimate": "40k+",
       "name": "Sublustrum"
+    },
+    "4626170": {
+      "rank": 5153,
+      "estimate": "<7k",
+      "name": "LISIA"
     }
   }
 }
