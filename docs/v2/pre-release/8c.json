@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-07T12:59:37.810Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-07T17:48:28.391Z",
+  "entryCount": 30,
   "entries": {
     "659960": {
       "rank": 821,
@@ -195,6 +195,13 @@
       "estimate": "<7k",
       "name": "XeGrader plus",
       "releaseDate": "2026-07-06",
+      "source": "tracked"
+    },
+    "4373150": {
+      "rank": 8170,
+      "estimate": "<7k",
+      "name": "Nerds Revenge",
+      "releaseDate": "2026-07-07",
       "source": "tracked"
     },
     "4517460": {
