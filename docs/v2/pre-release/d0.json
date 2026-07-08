@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-07T21:51:34.160Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-08T04:19:01.914Z",
+  "entryCount": 25,
   "entries": {
     "803330": {
       "rank": 19,
@@ -115,6 +115,13 @@
       "name": "Toxic Crusaders",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "2377930": {
+      "rank": 1014,
+      "estimate": "25k+",
+      "name": "Destiny of Immortal",
+      "releaseDate": "2024-02-01",
+      "source": "tracked"
     },
     "2460070": {
       "rank": 372,

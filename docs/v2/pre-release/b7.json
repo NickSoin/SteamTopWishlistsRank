@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-07T21:51:34.160Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-08T04:19:01.914Z",
+  "entryCount": 27,
   "entries": {
     "671970": {
       "rank": 44,
@@ -179,6 +179,13 @@
       "estimate": "15k+",
       "name": "Disc Golf Masters",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4508340": {
+      "rank": 328,
+      "estimate": "80k+",
+      "name": "NTE: Neverness to Everness",
+      "releaseDate": "2026-07-07",
       "source": "tracked"
     },
     "4557490": {
