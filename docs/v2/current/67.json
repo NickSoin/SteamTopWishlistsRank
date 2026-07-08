@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-08T08:02:00.543Z",
-  "entryCount": 16,
+  "updatedAt": "2026-07-08T12:16:05.752Z",
+  "entryCount": 17,
   "entries": {
     "1739080": {
       "rank": 185,
@@ -40,12 +40,12 @@
       "name": "The Last Phoenix"
     },
     "3508880": {
-      "rank": 4416,
+      "rank": 4415,
       "estimate": "<7k",
       "name": "Outpost Simulator"
     },
     "3778290": {
-      "rank": 4707,
+      "rank": 4702,
       "estimate": "<7k",
       "name": "Scrutator Tenebris"
     },
@@ -60,7 +60,7 @@
       "name": "Dig, Dig, Die"
     },
     "4090360": {
-      "rank": 982,
+      "rank": 979,
       "estimate": "40k+",
       "name": "Forest Escape: Last Train"
     },
@@ -80,9 +80,14 @@
       "name": "Elzypon"
     },
     "4605210": {
-      "rank": 3679,
+      "rank": 3678,
       "estimate": "<7k",
       "name": "Pet the Cat"
+    },
+    "4892120": {
+      "rank": 5167,
+      "estimate": "<7k",
+      "name": "ROUTE"
     }
   }
 }
