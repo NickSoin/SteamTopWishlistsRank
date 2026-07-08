@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-08T12:16:05.752Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-08T17:17:47.733Z",
+  "entryCount": 21,
   "entries": {
     "615530": {
       "rank": 223,
@@ -137,6 +137,13 @@
       "estimate": "<7k",
       "name": "SkyShard: City Battler",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "4093240": {
+      "rank": 2306,
+      "estimate": "7k+",
+      "name": "Tokyo Valkyries",
+      "releaseDate": "2026-07-08",
       "source": "tracked"
     },
     "4634490": {

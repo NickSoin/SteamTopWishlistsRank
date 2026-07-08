@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-08T12:16:05.752Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-08T17:17:47.733Z",
+  "entryCount": 30,
   "entries": {
     "889910": {
       "rank": 531,
@@ -201,6 +201,13 @@
       "name": "100 Waiting Cats",
       "releaseDate": "2024-10-06",
       "source": "historical"
+    },
+    "3839790": {
+      "rank": 335,
+      "estimate": "80k+",
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
+      "releaseDate": "2026-07-08",
+      "source": "tracked"
     },
     "4359800": {
       "rank": 3950,

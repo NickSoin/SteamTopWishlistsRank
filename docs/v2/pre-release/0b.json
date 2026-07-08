@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-08T12:16:05.752Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-08T17:17:47.733Z",
+  "entryCount": 30,
   "entries": {
     "779340": {
       "rank": 5,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Dave.EXE",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4376930": {
+      "rank": 1785,
+      "estimate": "15k+",
+      "name": "Disney Dreamlight Valley: Honeyglow Woods",
+      "releaseDate": "2026-07-08",
       "source": "tracked"
     },
     "4567710": {

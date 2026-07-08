@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-08T12:16:05.752Z",
-  "entryCount": 41,
+  "updatedAt": "2026-07-08T17:17:47.733Z",
+  "entryCount": 42,
   "entries": {
     "720660": {
       "rank": 1007,
@@ -291,6 +291,13 @@
       "estimate": "<7k",
       "name": "Clank-Robotics",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4760110": {
+      "rank": 3681,
+      "estimate": "<7k",
+      "name": "Sauve le Shérif !",
+      "releaseDate": "2026-07-08",
       "source": "tracked"
     }
   }
