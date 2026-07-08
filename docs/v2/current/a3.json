@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-07T17:48:28.391Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-07T21:51:34.160Z",
+  "entryCount": 21,
   "entries": {
     "1682690": {
-      "rank": 3585,
+      "rank": 3587,
       "estimate": "<7k",
       "name": "Awkward 2: The Party Game of Savage Secrets"
     },
@@ -15,12 +15,12 @@
       "name": "The Touhou Empires"
     },
     "2363840": {
-      "rank": 3924,
+      "rank": 3925,
       "estimate": "<7k",
       "name": "Aikyam"
     },
     "2476630": {
-      "rank": 2149,
+      "rank": 2150,
       "estimate": "7k+",
       "name": "扶摇录"
     },
@@ -40,7 +40,7 @@
       "name": "SECOND-LOOP™"
     },
     "3055290": {
-      "rank": 4367,
+      "rank": 4365,
       "estimate": "<7k",
       "name": "Sunny Trails"
     },
@@ -55,7 +55,7 @@
       "name": "Lenin Street Geek Shop"
     },
     "3278190": {
-      "rank": 4271,
+      "rank": 4272,
       "estimate": "<7k",
       "name": "Project: AMICA"
     },
@@ -65,7 +65,7 @@
       "name": "Clean Start"
     },
     "3615340": {
-      "rank": 5016,
+      "rank": 5012,
       "estimate": "<7k",
       "name": "Pepper the Giant Purple Dog"
     },
@@ -85,17 +85,17 @@
       "name": "UGOMEKU NOTE"
     },
     "3984400": {
-      "rank": 4667,
+      "rank": 4670,
       "estimate": "<7k",
       "name": "100% Accurate Youtuber Simulator"
     },
     "4181440": {
-      "rank": 3074,
+      "rank": 3075,
       "estimate": "<7k",
       "name": "RadCity: A Post-Apocalyptic Adventure"
     },
     "4216180": {
-      "rank": 3570,
+      "rank": 3571,
       "estimate": "<7k",
       "name": "IGNOBLE"
     },
@@ -103,6 +103,11 @@
       "rank": 1130,
       "estimate": "25k+",
       "name": "KAREN"
+    },
+    "4890760": {
+      "rank": 5052,
+      "estimate": "<7k",
+      "name": "THE DEAD WE KNEW: Open World Survival"
     }
   }
 }
