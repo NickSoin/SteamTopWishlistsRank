@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-09T04:33:43.663Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-09T09:19:00.511Z",
+  "entryCount": 19,
   "entries": {
     "979110": {
       "rank": 38,
@@ -128,6 +128,13 @@
       "estimate": "7k+",
       "name": "Angels Online Global",
       "releaseDate": "2026-06-17",
+      "source": "tracked"
+    },
+    "4282450": {
+      "rank": 2813,
+      "estimate": "7k+",
+      "name": "Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection",
+      "releaseDate": "2026-07-09",
       "source": "tracked"
     }
   }
