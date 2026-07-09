@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-09T09:19:00.511Z",
+  "updatedAt": "2026-07-09T17:38:20.828Z",
   "entryCount": 26,
   "entries": {
     "924980": {
@@ -152,11 +152,11 @@
       "source": "historical"
     },
     "3751950": {
-      "rank": 34,
-      "estimate": "600k+",
+      "rank": 12,
+      "estimate": "800k+",
       "name": "Assassin's Creed Black Flag Resynced",
       "releaseDate": "2026-07-09",
-      "source": "historical"
+      "source": "tracked"
     },
     "3860890": {
       "rank": 9551,

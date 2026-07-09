@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-09T09:19:00.511Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-09T17:38:20.828Z",
+  "entryCount": 24,
   "entries": {
     "916350": {
       "rank": 1449,
@@ -168,6 +168,13 @@
       "releaseDate": "2024-12-19",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6240387642458167830"
+    },
+    "4380490": {
+      "rank": 326,
+      "estimate": "80k+",
+      "name": "Cat Mail Co.",
+      "releaseDate": "2026-07-09",
+      "source": "tracked"
     }
   }
 }
