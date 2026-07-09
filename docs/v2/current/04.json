@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-08T17:17:47.733Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-08T22:04:38.702Z",
+  "entryCount": 19,
   "entries": {
     "1158600": {
       "rank": 3268,
@@ -15,7 +15,7 @@
       "name": "Sonzai"
     },
     "1448620": {
-      "rank": 4024,
+      "rank": 4028,
       "estimate": "<7k",
       "name": "BE Witches"
     },
@@ -25,7 +25,7 @@
       "name": "Broken Veil"
     },
     "1781190": {
-      "rank": 2132,
+      "rank": 2135,
       "estimate": "7k+",
       "name": "IMMORTAL: And the Death that Follows"
     },
@@ -35,12 +35,12 @@
       "name": "Half-Life Decay: Solo Mission"
     },
     "2257830": {
-      "rank": 2347,
+      "rank": 2350,
       "estimate": "7k+",
       "name": "Moth Kubit"
     },
     "2409660": {
-      "rank": 741,
+      "rank": 740,
       "estimate": "40k+",
       "name": "Wardens of Avalon"
     },
@@ -55,7 +55,7 @@
       "name": "Roguebound Pirates"
     },
     "3434180": {
-      "rank": 2989,
+      "rank": 2990,
       "estimate": "7k+",
       "name": "project; VIRAI: DOOMER’s LIFE ESCAPE"
     },
@@ -75,24 +75,29 @@
       "name": "Dandelion Void"
     },
     "3620550": {
-      "rank": 5108,
+      "rank": 5110,
       "estimate": "<7k",
       "name": "BIOMEAT HUSKWORLD"
     },
     "3763840": {
-      "rank": 461,
+      "rank": 462,
       "estimate": "80k+",
       "name": "Felt That: Boxing"
     },
     "3863760": {
-      "rank": 1406,
+      "rank": 1404,
       "estimate": "25k+",
       "name": "侠影录"
     },
     "4294860": {
-      "rank": 4540,
+      "rank": 4539,
       "estimate": "<7k",
       "name": "Loot Frog"
+    },
+    "4354610": {
+      "rank": 4935,
+      "estimate": "<7k",
+      "name": "诡影藏锋"
     }
   }
 }

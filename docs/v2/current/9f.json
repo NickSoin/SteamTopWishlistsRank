@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-08T17:17:47.733Z",
-  "entryCount": 14,
+  "updatedAt": "2026-07-08T22:04:38.702Z",
+  "entryCount": 15,
   "entries": {
     "2109770": {
       "rank": 5,
@@ -10,7 +10,7 @@
       "name": "Kingmakers"
     },
     "2116860": {
-      "rank": 5054,
+      "rank": 5059,
       "estimate": "<7k",
       "name": "Crimerunner"
     },
@@ -20,17 +20,17 @@
       "name": "DarkSwarm"
     },
     "2559780": {
-      "rank": 3347,
+      "rank": 3349,
       "estimate": "<7k",
       "name": "Letter Bunny"
     },
     "2636430": {
-      "rank": 3759,
+      "rank": 3763,
       "estimate": "<7k",
       "name": "Soggy Beans"
     },
     "3123670": {
-      "rank": 3338,
+      "rank": 3341,
       "estimate": "<7k",
       "name": "COMING HOME"
     },
@@ -50,14 +50,19 @@
       "name": "The Twilight Project"
     },
     "3965580": {
-      "rank": 3526,
+      "rank": 3527,
       "estimate": "<7k",
       "name": "卦藏千相：六爻卷"
     },
     "4181040": {
-      "rank": 3685,
+      "rank": 3686,
       "estimate": "<7k",
       "name": "Immortal Rebirth"
+    },
+    "4210010": {
+      "rank": 5169,
+      "estimate": "<7k",
+      "name": "Incremental Infinity"
     },
     "4518240": {
       "rank": 553,
@@ -65,12 +70,12 @@
       "name": "Commie Bobrs"
     },
     "4660170": {
-      "rank": 2201,
+      "rank": 2197,
       "estimate": "7k+",
       "name": "Witch Shop Simulator"
     },
     "4785910": {
-      "rank": 4971,
+      "rank": 4975,
       "estimate": "<7k",
       "name": "Meowstead"
     }

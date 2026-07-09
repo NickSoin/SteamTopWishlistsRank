@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-08T17:17:47.733Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-08T22:04:38.702Z",
+  "entryCount": 21,
   "entries": {
     "904510": {
       "rank": 1363,
@@ -15,17 +15,17 @@
       "name": "Bad Pixels"
     },
     "1418380": {
-      "rank": 3420,
+      "rank": 3421,
       "estimate": "<7k",
       "name": "Forester Simulator"
     },
     "1707680": {
-      "rank": 1052,
+      "rank": 1048,
       "estimate": "25k+",
       "name": "Referee Simulator"
     },
     "1890780": {
-      "rank": 1798,
+      "rank": 1799,
       "estimate": "15k+",
       "name": "Szrot"
     },
@@ -45,17 +45,17 @@
       "name": "Demiurgos"
     },
     "2538870": {
-      "rank": 1129,
+      "rank": 1130,
       "estimate": "25k+",
       "name": "False Hero"
     },
     "3088400": {
-      "rank": 4364,
+      "rank": 4361,
       "estimate": "<7k",
       "name": "Deadly Trick"
     },
     "3154150": {
-      "rank": 3313,
+      "rank": 3314,
       "estimate": "<7k",
       "name": "Spook-A-Boo"
     },
@@ -65,7 +65,7 @@
       "name": "Home Wars: Battlefield"
     },
     "3398880": {
-      "rank": 3033,
+      "rank": 3035,
       "estimate": "<7k",
       "name": "Castle V Castle"
     },
@@ -75,12 +75,12 @@
       "name": "Silkgrove"
     },
     "3582320": {
-      "rank": 4696,
+      "rank": 4698,
       "estimate": "<7k",
       "name": "Inazuma Eleven Team Builder"
     },
     "3730680": {
-      "rank": 2428,
+      "rank": 2429,
       "estimate": "7k+",
       "name": "Table Tactics: physics-driven tabletop battles"
     },
@@ -94,13 +94,18 @@
       "estimate": "7k+",
       "name": "Reytrieve Odyssey"
     },
+    "4233960": {
+      "rank": 5165,
+      "estimate": "<7k",
+      "name": "Do Disciplinary Committee Members Dream of Succubi?"
+    },
     "4614080": {
       "rank": 122,
       "estimate": "200k+",
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 662,
+      "rank": 663,
       "estimate": "40k+",
       "name": "Project Rabbit"
     }

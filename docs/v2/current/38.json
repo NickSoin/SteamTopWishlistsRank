@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-08T17:17:47.733Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-08T22:04:38.702Z",
+  "entryCount": 22,
   "entries": {
     "1158190": {
       "rank": 956,
@@ -25,22 +25,22 @@
       "name": "The Ranchers"
     },
     "1889700": {
-      "rank": 2089,
+      "rank": 2090,
       "estimate": "7k+",
       "name": "Archrebel Tactics"
     },
     "2200940": {
-      "rank": 4541,
+      "rank": 4543,
       "estimate": "<7k",
       "name": "Sword of the Necromancer: Revenant"
     },
     "2264780": {
-      "rank": 3866,
+      "rank": 3842,
       "estimate": "<7k",
       "name": "Legion of Judgment: Fallen Angel"
     },
     "2551550": {
-      "rank": 377,
+      "rank": 378,
       "estimate": "80k+",
       "name": "Goodbye Seoul"
     },
@@ -55,37 +55,37 @@
       "name": "Grim Trials"
     },
     "2787850": {
-      "rank": 909,
+      "rank": 910,
       "estimate": "40k+",
       "name": "Runa"
     },
     "3088510": {
-      "rank": 1738,
+      "rank": 1741,
       "estimate": "15k+",
       "name": "Spellsided"
     },
     "3155670": {
-      "rank": 3724,
+      "rank": 3726,
       "estimate": "<7k",
       "name": "ユメザメの仮説"
     },
     "3373500": {
-      "rank": 771,
+      "rank": 770,
       "estimate": "40k+",
       "name": "Scavland"
     },
     "3681340": {
-      "rank": 1694,
+      "rank": 1695,
       "estimate": "15k+",
       "name": "All Living Things"
     },
     "3920300": {
-      "rank": 2939,
+      "rank": 2936,
       "estimate": "7k+",
       "name": "Mothkeep"
     },
     "3963860": {
-      "rank": 3566,
+      "rank": 3565,
       "estimate": "<7k",
       "name": "Tax It Easy"
     },
@@ -94,18 +94,23 @@
       "estimate": "25k+",
       "name": "Path of Idle: Old Gods Rising"
     },
+    "4263170": {
+      "rank": 4600,
+      "estimate": "<7k",
+      "name": "Union Of Rivals"
+    },
     "4360240": {
       "rank": 3778,
       "estimate": "<7k",
       "name": "LOP: Whitefall"
     },
     "4410710": {
-      "rank": 4032,
+      "rank": 4025,
       "estimate": "<7k",
       "name": "Fields of Aaru"
     },
     "4671450": {
-      "rank": 5140,
+      "rank": 5134,
       "estimate": "<7k",
       "name": "World of Slime"
     }
