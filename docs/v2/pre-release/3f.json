@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-08T22:04:38.702Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-09T04:33:43.663Z",
+  "entryCount": 28,
   "entries": {
     "546560": {
       "rank": 11,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "Live Translate",
       "releaseDate": "2026-06-20",
+      "source": "tracked"
+    },
+    "4306890": {
+      "rank": 403,
+      "estimate": "80k+",
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition)",
+      "releaseDate": "2026-07-08",
       "source": "tracked"
     },
     "4566920": {

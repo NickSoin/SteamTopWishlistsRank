@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-08T22:04:38.702Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-09T04:33:43.663Z",
+  "entryCount": 24,
   "entries": {
     "721180": {
       "rank": 29,
@@ -157,6 +157,13 @@
       "name": "Warhammer 40,000: Dawn of War - Definitive Edition",
       "releaseDate": "2025-08-14",
       "source": "historical"
+    },
+    "4508570": {
+      "rank": 1248,
+      "estimate": "25k+",
+      "name": "Veritas Tales: Witch of the Dark Castle",
+      "releaseDate": "2026-07-08",
+      "source": "tracked"
     },
     "4768660": {
       "rank": 5106,
