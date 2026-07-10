@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-10T04:47:36.044Z",
+  "updatedAt": "2026-07-10T08:58:08.883Z",
   "entryCount": 21,
   "entries": {
     "259000": {
-      "rank": 3960,
+      "rank": 3962,
       "estimate": "<7k",
       "name": "Dead Pixels II"
     },
     "983680": {
-      "rank": 1493,
+      "rank": 1494,
       "estimate": "25k+",
       "name": "SILENT DOOM"
     },
     "1113080": {
-      "rank": 1788,
+      "rank": 1789,
       "estimate": "15k+",
       "name": "Dog Trainer"
     },
     "1175350": {
-      "rank": 4259,
+      "rank": 4260,
       "estimate": "<7k",
       "name": "Archer: The Witch's Wrath"
     },
@@ -30,7 +30,7 @@
       "name": "Ant Colony: Wild Forest"
     },
     "1571790": {
-      "rank": 4639,
+      "rank": 4633,
       "estimate": "<7k",
       "name": "Dust Walkers"
     },
@@ -40,12 +40,12 @@
       "name": "Bunker Builder Simulator"
     },
     "2211130": {
-      "rank": 3569,
+      "rank": 3567,
       "estimate": "<7k",
       "name": "SOULBOUND"
     },
     "2251220": {
-      "rank": 1378,
+      "rank": 1377,
       "estimate": "25k+",
       "name": "High Times - Dating/Cooking Sim"
     },
@@ -60,7 +60,7 @@
       "name": "Dead On Arrival"
     },
     "2537980": {
-      "rank": 1904,
+      "rank": 1905,
       "estimate": "15k+",
       "name": "Drăculești"
     },
@@ -70,17 +70,17 @@
       "name": "Engraving"
     },
     "2626770": {
-      "rank": 5080,
+      "rank": 5089,
       "estimate": "<7k",
       "name": "Yellowcake"
     },
     "2897710": {
-      "rank": 1574,
+      "rank": 1576,
       "estimate": "15k+",
       "name": "Truck Manager"
     },
     "2934080": {
-      "rank": 4666,
+      "rank": 4668,
       "estimate": "<7k",
       "name": "Travellin Cats in England"
     },
@@ -90,7 +90,7 @@
       "name": "Margin of the Strange"
     },
     "3412110": {
-      "rank": 4361,
+      "rank": 4364,
       "estimate": "<7k",
       "name": "Severed Love"
     },
@@ -100,12 +100,12 @@
       "name": "Infinite Alliance"
     },
     "3734010": {
-      "rank": 2057,
+      "rank": 2060,
       "estimate": "7k+",
       "name": "Project Retrograde: The Becoming"
     },
     "4768180": {
-      "rank": 2324,
+      "rank": 2322,
       "estimate": "7k+",
       "name": "Cronos: Lazarus"
     }

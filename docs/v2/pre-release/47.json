@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-10T04:47:36.044Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-10T08:58:08.883Z",
+  "entryCount": 31,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -191,6 +191,13 @@
       "estimate": "25k+",
       "name": "Besiege: The Broken Beyond",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4502180": {
+      "rank": 8028,
+      "estimate": "<7k",
+      "name": "CHEMISTS: Dead Zone",
+      "releaseDate": "2026-07-10",
       "source": "tracked"
     },
     "4520500": {

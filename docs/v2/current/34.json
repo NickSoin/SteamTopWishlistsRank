@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-10T04:47:36.044Z",
-  "entryCount": 12,
+  "updatedAt": "2026-07-10T08:58:08.883Z",
+  "entryCount": 13,
   "entries": {
     "1244600": {
-      "rank": 2985,
+      "rank": 2989,
       "estimate": "7k+",
       "name": "Let's Drive - learn driving simulator"
     },
     "2817960": {
-      "rank": 4368,
+      "rank": 4369,
       "estimate": "<7k",
       "name": "Button Man"
     },
@@ -20,7 +20,7 @@
       "name": "Spaceflight Simulator 2"
     },
     "3078760": {
-      "rank": 809,
+      "rank": 808,
       "estimate": "40k+",
       "name": "LIVING HELL"
     },
@@ -30,27 +30,27 @@
       "name": "PACS - Post Apocalypse Courier Service: Co-op Delivery Simulator"
     },
     "3355360": {
-      "rank": 289,
+      "rank": 290,
       "estimate": "80k+",
       "name": "4:LOOP"
     },
     "3395320": {
-      "rank": 1561,
+      "rank": 1562,
       "estimate": "15k+",
       "name": "Critical Shift"
     },
     "3485580": {
-      "rank": 2058,
+      "rank": 2061,
       "estimate": "7k+",
       "name": "Bodybuilder Simulator CO-OP"
     },
     "3610210": {
-      "rank": 2779,
+      "rank": 2782,
       "estimate": "7k+",
       "name": "Klostyn"
     },
     "3623050": {
-      "rank": 4884,
+      "rank": 4888,
       "estimate": "<7k",
       "name": "Ending the Happy Route"
     },
@@ -60,9 +60,14 @@
       "name": "Terminal War"
     },
     "3950440": {
-      "rank": 2144,
+      "rank": 2146,
       "estimate": "7k+",
       "name": "Lootbane"
+    },
+    "4221990": {
+      "rank": 5183,
+      "estimate": "<7k",
+      "name": "Fish Lab"
     }
   }
 }

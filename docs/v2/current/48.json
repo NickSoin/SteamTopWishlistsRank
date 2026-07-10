@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-10T04:47:36.044Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-10T08:58:08.883Z",
+  "entryCount": 20,
   "entries": {
     "1384180": {
       "rank": 1246,
@@ -10,17 +10,17 @@
       "name": "Cloud Exiles"
     },
     "1461470": {
-      "rank": 3841,
+      "rank": 3844,
       "estimate": "<7k",
       "name": "Airborne Ranger: FightOut"
     },
     "1622110": {
-      "rank": 2700,
+      "rank": 2702,
       "estimate": "7k+",
       "name": "Zoria and the Cursed Land"
     },
     "1895460": {
-      "rank": 1558,
+      "rank": 1547,
       "estimate": "15k+",
       "name": "D-topia"
     },
@@ -30,7 +30,7 @@
       "name": "The Chronos Event"
     },
     "2515110": {
-      "rank": 4828,
+      "rank": 4829,
       "estimate": "<7k",
       "name": "About Cannons & Sparrows"
     },
@@ -55,17 +55,17 @@
       "name": "Amikin Village"
     },
     "3256450": {
-      "rank": 5125,
+      "rank": 5129,
       "estimate": "<7k",
       "name": "Cards of Prophecy"
     },
     "3358590": {
-      "rank": 2677,
+      "rank": 2678,
       "estimate": "7k+",
       "name": "Prolegomena To a Hyperdimensional Interface That Will Be Able to Manifest From Three-Minute Interchanges"
     },
     "3480330": {
-      "rank": 4989,
+      "rank": 4994,
       "estimate": "<7k",
       "name": "TouHou Koishi's Enchanted Woods"
     },
@@ -75,17 +75,17 @@
       "name": "Summoner's Gambit"
     },
     "3582120": {
-      "rank": 2541,
+      "rank": 2543,
       "estimate": "7k+",
       "name": "Cohen 1939"
     },
     "3618320": {
-      "rank": 5004,
+      "rank": 5006,
       "estimate": "<7k",
       "name": "Life is a Journey"
     },
     "4039140": {
-      "rank": 3292,
+      "rank": 3252,
       "estimate": "<7k",
       "name": "Subway Builder"
     },
@@ -95,9 +95,14 @@
       "name": "Rivage"
     },
     "4190780": {
-      "rank": 4688,
+      "rank": 4687,
       "estimate": "<7k",
       "name": "BRINE"
+    },
+    "4818880": {
+      "rank": 4813,
+      "estimate": "<7k",
+      "name": "Sakura no Uta -To Dance Over the Cherry Blossoms-"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-10T04:47:36.044Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-10T08:58:08.883Z",
+  "entryCount": 19,
   "entries": {
     "1025960": {
       "rank": 669,
@@ -133,6 +133,13 @@
       "name": "Malware",
       "releaseDate": "2024-07-31",
       "source": "historical"
+    },
+    "4233090": {
+      "rank": 7988,
+      "estimate": "<7k",
+      "name": "Catjong 6: Pawztec Temple",
+      "releaseDate": "2026-07-10",
+      "source": "tracked"
     }
   }
 }
