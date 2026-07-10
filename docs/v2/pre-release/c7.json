@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-10T13:03:19.389Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-10T17:18:46.578Z",
+  "entryCount": 30,
   "entries": {
     "1119840": {
       "rank": 247,
@@ -191,6 +191,13 @@
       "estimate": "40k+",
       "name": "Warhammer 40,000: Rogue Trader - The Infinite Museion",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4265380": {
+      "rank": 1845,
+      "estimate": "15k+",
+      "name": "Meowstery Wisp",
+      "releaseDate": "2026-07-10",
       "source": "tracked"
     },
     "4540230": {

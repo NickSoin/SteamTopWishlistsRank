@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-10T13:03:19.389Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-10T17:18:46.578Z",
+  "entryCount": 23,
   "entries": {
     "1194810": {
       "rank": 21,
@@ -158,6 +158,13 @@
       "estimate": "<7k",
       "name": "Farm Manager World - Halloween Pack",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4725000": {
+      "rank": 8693,
+      "estimate": "<7k",
+      "name": "MyBiz: Pomodoro Desk Tycoon",
+      "releaseDate": "2026-07-10",
       "source": "tracked"
     }
   }

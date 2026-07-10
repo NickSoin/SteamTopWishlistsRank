@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-10T13:03:19.389Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-10T17:18:46.578Z",
+  "entryCount": 20,
   "entries": {
     "580640": {
       "rank": 369,
@@ -122,6 +122,13 @@
       "name": "Solo Leveling: ARISE OVERDRIVE",
       "releaseDate": "2025-11-24",
       "source": "historical"
+    },
+    "2710650": {
+      "rank": 4791,
+      "estimate": "<7k",
+      "name": "Quantum Void",
+      "releaseDate": "2026-07-10",
+      "source": "tracked"
     },
     "2933620": {
       "rank": 33,

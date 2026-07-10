@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-10T13:03:19.389Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-10T17:18:46.578Z",
+  "entryCount": 27,
   "entries": {
     "922620": {
       "rank": 627,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "8 Ball by Pokerist™",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4458310": {
+      "rank": 4317,
+      "estimate": "<7k",
+      "name": "Stick Scholars",
+      "releaseDate": "2026-07-10",
       "source": "tracked"
     },
     "4588330": {
