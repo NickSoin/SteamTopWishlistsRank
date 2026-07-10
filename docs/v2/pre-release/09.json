@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-10T17:18:46.578Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-10T21:44:01.850Z",
+  "entryCount": 25,
   "entries": {
     "581660": {
       "rank": 122,
@@ -152,6 +152,13 @@
       "name": "The Hundred Line -Last Defense Academy-",
       "releaseDate": "2025-04-23",
       "source": "historical"
+    },
+    "3213120": {
+      "rank": 2831,
+      "estimate": "7k+",
+      "name": "Machinefall",
+      "releaseDate": "2026-07-10",
+      "source": "tracked"
     },
     "4123600": {
       "rank": 4170,

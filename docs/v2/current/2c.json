@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-10T17:18:46.578Z",
-  "entryCount": 17,
+  "updatedAt": "2026-07-10T21:44:01.850Z",
+  "entryCount": 18,
   "entries": {
     "744200": {
-      "rank": 3199,
+      "rank": 3201,
       "estimate": "<7k",
       "name": "Altiros"
     },
@@ -20,12 +20,12 @@
       "name": "Little Shop of Junk"
     },
     "1795090": {
-      "rank": 4288,
+      "rank": 4290,
       "estimate": "<7k",
       "name": "Monastery Builder"
     },
     "1883360": {
-      "rank": 1614,
+      "rank": 1615,
       "estimate": "15k+",
       "name": "The White Raven"
     },
@@ -35,7 +35,7 @@
       "name": "Hunting Simulator 3"
     },
     "2523380": {
-      "rank": 1826,
+      "rank": 1827,
       "estimate": "15k+",
       "name": "Red Kiss"
     },
@@ -55,7 +55,7 @@
       "name": "Dust & Diesel: Deadland Delivery"
     },
     "3725190": {
-      "rank": 416,
+      "rank": 417,
       "estimate": "80k+",
       "name": "There Are No Ghosts at the Grand"
     },
@@ -65,22 +65,27 @@
       "name": "Tiny Delivery"
     },
     "4232910": {
-      "rank": 3510,
+      "rank": 3507,
       "estimate": "<7k",
       "name": "Crusader Kings III: Silk & Silver"
     },
+    "4341810": {
+      "rank": 5176,
+      "estimate": "<7k",
+      "name": "LarsGadiel"
+    },
     "4508020": {
-      "rank": 2487,
+      "rank": 2486,
       "estimate": "7k+",
       "name": "Hole Is Mine"
     },
     "4529120": {
-      "rank": 5146,
+      "rank": 5117,
       "estimate": "<7k",
       "name": "Alice's Gaze"
     },
     "4529850": {
-      "rank": 1309,
+      "rank": 1310,
       "estimate": "25k+",
       "name": "Runeward Online"
     },

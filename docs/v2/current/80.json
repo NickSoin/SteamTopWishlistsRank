@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-10T17:18:46.578Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-10T21:44:01.850Z",
+  "entryCount": 22,
   "entries": {
     "247710": {
-      "rank": 2659,
+      "rank": 2661,
       "estimate": "7k+",
       "name": "Battledroid"
     },
     "1096090": {
-      "rank": 3724,
+      "rank": 3727,
       "estimate": "<7k",
       "name": "Among Ripples: Shallow Waters"
     },
     "1112390": {
-      "rank": 4163,
+      "rank": 4165,
       "estimate": "<7k",
       "name": "HyperCore : Rhythm Bullet Hell"
     },
@@ -25,22 +25,22 @@
       "name": "Cyberpunk Bar Sim"
     },
     "1376800": {
-      "rank": 4600,
+      "rank": 4601,
       "estimate": "<7k",
       "name": "Vaporwave"
     },
     "1640990": {
-      "rank": 2191,
+      "rank": 2192,
       "estimate": "7k+",
       "name": "TRPG Workshop"
     },
     "2541560": {
-      "rank": 2702,
+      "rank": 2701,
       "estimate": "7k+",
       "name": "ARCHETYPE BLUE"
     },
     "2618130": {
-      "rank": 1913,
+      "rank": 1916,
       "estimate": "15k+",
       "name": "Partizan"
     },
@@ -60,37 +60,37 @@
       "name": "Tukoni: Forest Keepers"
     },
     "2986590": {
-      "rank": 2023,
+      "rank": 2024,
       "estimate": "7k+",
       "name": "HYPNOSYNC"
     },
     "3218100": {
-      "rank": 871,
+      "rank": 874,
       "estimate": "40k+",
       "name": "I AM RIPPER"
     },
     "3407450": {
-      "rank": 2940,
+      "rank": 2943,
       "estimate": "7k+",
       "name": "The Northern Path"
     },
     "3461050": {
-      "rank": 3307,
+      "rank": 3308,
       "estimate": "<7k",
       "name": "Gambit"
     },
     "3479420": {
-      "rank": 2752,
+      "rank": 2755,
       "estimate": "7k+",
       "name": "Okko The Exiled"
     },
     "3485290": {
-      "rank": 4296,
+      "rank": 4299,
       "estimate": "<7k",
       "name": "Crimson Tale"
     },
     "3544430": {
-      "rank": 2837,
+      "rank": 2838,
       "estimate": "7k+",
       "name": "SOULGRAVE"
     },
@@ -110,14 +110,9 @@
       "name": "Graveyard Keeper 2"
     },
     "4359200": {
-      "rank": 4478,
+      "rank": 4479,
       "estimate": "<7k",
       "name": "Build It Up! - The Holy Roman Empire"
-    },
-    "4455920": {
-      "rank": 5182,
-      "estimate": "<7k",
-      "name": "NOL"
     }
   }
 }

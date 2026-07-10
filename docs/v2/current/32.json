@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-10T17:18:46.578Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-10T21:44:01.850Z",
+  "entryCount": 22,
   "entries": {
     "1233680": {
-      "rank": 3584,
+      "rank": 3587,
       "estimate": "<7k",
       "name": "Legends of Astravia",
       "actualWishlists": 1000,
@@ -17,12 +17,12 @@
       "name": "Lonefarm"
     },
     "2052510": {
-      "rank": 4128,
+      "rank": 4127,
       "estimate": "<7k",
       "name": "The Magistrate"
     },
     "2087880": {
-      "rank": 2172,
+      "rank": 2176,
       "estimate": "7k+",
       "name": "Ending Tau"
     },
@@ -32,29 +32,29 @@
       "name": "Withersworn"
     },
     "2252710": {
-      "rank": 3538,
+      "rank": 3540,
       "estimate": "<7k",
       "name": "Hotel Simulator"
     },
     "2355020": {
-      "rank": 756,
+      "rank": 757,
       "estimate": "40k+",
       "name": "Lost Hellden",
       "actualWishlists": 50000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818118366173761"
     },
     "2356810": {
-      "rank": 2031,
+      "rank": 2032,
       "estimate": "7k+",
       "name": "Tales Of Shadowland"
     },
     "2591790": {
-      "rank": 902,
+      "rank": 903,
       "estimate": "40k+",
       "name": "ANIMAL USE PROTOCOL"
     },
     "2987920": {
-      "rank": 2491,
+      "rank": 2493,
       "estimate": "7k+",
       "name": "FPV Military Kamikaze Drone Simulator"
     },
@@ -69,12 +69,12 @@
       "name": "KYORA"
     },
     "3371070": {
-      "rank": 3302,
+      "rank": 3304,
       "estimate": "<7k",
       "name": "You Sure You Wanna Drink This?"
     },
     "3512480": {
-      "rank": 295,
+      "rank": 294,
       "estimate": "80k+",
       "name": "Drownlight"
     },
@@ -84,7 +84,7 @@
       "name": "DRAGON QUEST MONSTERS: The Withered World"
     },
     "3815550": {
-      "rank": 3865,
+      "rank": 3862,
       "estimate": "<7k",
       "name": "Space Imperia 4X"
     },
@@ -94,9 +94,14 @@
       "name": "VOIMA"
     },
     "3963220": {
-      "rank": 2947,
+      "rank": 2949,
       "estimate": "7k+",
       "name": "Saturday AM: Battle Manga"
+    },
+    "4083240": {
+      "rank": 5180,
+      "estimate": "<7k",
+      "name": "ERROR:Ai.lien"
     },
     "4112270": {
       "rank": 594,
@@ -104,12 +109,12 @@
       "name": "Resilient"
     },
     "4227280": {
-      "rank": 5154,
+      "rank": 5149,
       "estimate": "<7k",
       "name": "Bash Moto"
     },
     "4639980": {
-      "rank": 3751,
+      "rank": 3755,
       "estimate": "<7k",
       "name": "Red Light On"
     }
