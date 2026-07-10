@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-09T17:38:20.828Z",
-  "entryCount": 38,
+  "updatedAt": "2026-07-09T22:15:21.588Z",
+  "entryCount": 39,
   "entries": {
     "534380": {
       "rank": 1,
@@ -159,6 +159,13 @@
       "name": "Rune Factory 3 Special",
       "releaseDate": "2023-09-05",
       "source": "historical"
+    },
+    "2244210": {
+      "rank": 39,
+      "estimate": "600k+",
+      "name": "Echoes of Aincrad",
+      "releaseDate": "2026-07-09",
+      "source": "tracked"
     },
     "2275940": {
       "rank": 3131,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-09T17:38:20.828Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-09T22:15:21.588Z",
+  "entryCount": 22,
   "entries": {
     "1163160": {
       "rank": 4230,
@@ -10,12 +10,12 @@
       "name": "Ronin 2072"
     },
     "1520600": {
-      "rank": 2764,
+      "rank": 2763,
       "estimate": "7k+",
       "name": "Build and Discover: America"
     },
     "1533060": {
-      "rank": 3915,
+      "rank": 3917,
       "estimate": "<7k",
       "name": "Winery Simulator"
     },
@@ -25,27 +25,27 @@
       "name": "Ayna: Shattered Truth"
     },
     "1766240": {
-      "rank": 3776,
+      "rank": 3774,
       "estimate": "<7k",
       "name": "Mazey Village"
     },
     "1983360": {
-      "rank": 3620,
+      "rank": 3619,
       "estimate": "<7k",
       "name": "Mana Valley"
     },
     "2745510": {
-      "rank": 4062,
+      "rank": 4060,
       "estimate": "<7k",
       "name": "GROWTH EXPERIMENT"
     },
     "2910280": {
-      "rank": 4736,
+      "rank": 4737,
       "estimate": "<7k",
       "name": "Peasant"
     },
     "3165340": {
-      "rank": 2988,
+      "rank": 2987,
       "estimate": "7k+",
       "name": "All Will Rise"
     },
@@ -55,59 +55,64 @@
       "name": "Taste of the Wind"
     },
     "3323490": {
-      "rank": 2770,
+      "rank": 2767,
       "estimate": "7k+",
       "name": "Truxton Extreme"
     },
     "3427370": {
-      "rank": 4297,
+      "rank": 4299,
       "estimate": "<7k",
       "name": "A Passing in the Night"
     },
     "3442050": {
-      "rank": 4923,
+      "rank": 4927,
       "estimate": "<7k",
       "name": "KUU"
     },
     "3456950": {
-      "rank": 720,
+      "rank": 719,
       "estimate": "40k+",
       "name": "Pixel Gun 2"
     },
     "3938720": {
-      "rank": 4932,
+      "rank": 4933,
       "estimate": "<7k",
       "name": "Fractured Library"
     },
     "4059000": {
-      "rank": 2023,
+      "rank": 2022,
       "estimate": "7k+",
       "name": "Cozy Builder"
     },
     "4120090": {
-      "rank": 4362,
+      "rank": 4365,
       "estimate": "<7k",
       "name": "Ashbound: Crown of Sin"
     },
     "4134600": {
-      "rank": 1035,
+      "rank": 1034,
       "estimate": "25k+",
       "name": "EverRail"
     },
     "4253570": {
-      "rank": 929,
+      "rank": 927,
       "estimate": "40k+",
       "name": "Reshine"
     },
     "4267780": {
-      "rank": 3802,
+      "rank": 3800,
       "estimate": "<7k",
       "name": "Acting Out"
     },
     "4442130": {
-      "rank": 5136,
+      "rank": 5132,
       "estimate": "<7k",
       "name": "Kawashima Internship ~A Boy's Isolated Island Life~"
+    },
+    "4699770": {
+      "rank": 5176,
+      "estimate": "<7k",
+      "name": "Babel Legacy"
     }
   }
 }

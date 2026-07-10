@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-09T17:38:20.828Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-09T22:15:21.588Z",
+  "entryCount": 27,
   "entries": {
     "716350": {
       "rank": 688,
@@ -176,6 +176,13 @@
       "estimate": "200k+",
       "name": "EMPULSE",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4548160": {
+      "rank": 8585,
+      "estimate": "<7k",
+      "name": "Don't Chicken Out",
+      "releaseDate": "2026-07-09",
       "source": "tracked"
     },
     "4640590": {

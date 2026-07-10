@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-09T17:38:20.828Z",
-  "entryCount": 37,
+  "updatedAt": "2026-07-09T22:15:21.588Z",
+  "entryCount": 38,
   "entries": {
     "871540": {
       "rank": 824,
@@ -250,6 +250,13 @@
       "source": "tracked",
       "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623110217"
+    },
+    "3774910": {
+      "rank": 4943,
+      "estimate": "<7k",
+      "name": "Hell Clock: Cursed War",
+      "releaseDate": "2026-07-09",
+      "source": "tracked"
     },
     "4290170": {
       "rank": 7017,

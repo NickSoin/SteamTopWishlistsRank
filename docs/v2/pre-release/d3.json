@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-09T17:38:20.828Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-09T22:15:21.588Z",
+  "entryCount": 33,
   "entries": {
     "307950": {
       "rank": 1484,
@@ -217,6 +217,13 @@
       "name": "Frontline Crisis",
       "releaseDate": "2024-08-14",
       "source": "historical"
+    },
+    "3692680": {
+      "rank": 9185,
+      "estimate": "<7k",
+      "name": "EGO",
+      "releaseDate": "2026-07-09",
+      "source": "tracked"
     },
     "4008350": {
       "rank": 3714,

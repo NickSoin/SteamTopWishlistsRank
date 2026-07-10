@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-09T17:38:20.828Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-09T22:15:21.588Z",
+  "entryCount": 19,
   "entries": {
     "463940": {
-      "rank": 4579,
+      "rank": 4580,
       "estimate": "<7k",
       "name": "Shadow Over Isolation"
     },
@@ -15,22 +15,22 @@
       "name": "Usurpator"
     },
     "1159390": {
-      "rank": 513,
+      "rank": 512,
       "estimate": "40k+",
       "name": "Taxi Simulator"
     },
     "1179020": {
-      "rank": 1334,
+      "rank": 1333,
       "estimate": "25k+",
       "name": "Red Frost"
     },
     "1818480": {
-      "rank": 3984,
+      "rank": 3982,
       "estimate": "<7k",
       "name": "Midwest 90: Rapid City"
     },
     "2388920": {
-      "rank": 4027,
+      "rank": 4028,
       "estimate": "<7k",
       "name": "Soulers"
     },
@@ -50,7 +50,7 @@
       "name": "Wanna Sleep All Day,But"
     },
     "2932260": {
-      "rank": 1347,
+      "rank": 1346,
       "estimate": "25k+",
       "name": "Trine 6: Together in Time"
     },
@@ -60,17 +60,17 @@
       "name": "IRON NEST: Heavy Turret Simulator"
     },
     "3429280": {
-      "rank": 2450,
+      "rank": 2448,
       "estimate": "7k+",
       "name": "ATOM RPG 2"
     },
     "3755350": {
-      "rank": 4270,
+      "rank": 4259,
       "estimate": "<7k",
       "name": "Alice Nation"
     },
     "3764040": {
-      "rank": 5140,
+      "rank": 5142,
       "estimate": "<7k",
       "name": "Plush Time"
     },
@@ -80,17 +80,22 @@
       "name": "Winemaker Simulator"
     },
     "4203270": {
-      "rank": 4954,
+      "rank": 4950,
       "estimate": "<7k",
       "name": "Moon Crashers"
     },
     "4289470": {
-      "rank": 3909,
+      "rank": 3908,
       "estimate": "<7k",
       "name": "DREAMTONE"
     },
+    "4334110": {
+      "rank": 5138,
+      "estimate": "<7k",
+      "name": "Heartstop Tour"
+    },
     "4498500": {
-      "rank": 2313,
+      "rank": 2312,
       "estimate": "7k+",
       "name": "Kopno: Blightfall"
     }
