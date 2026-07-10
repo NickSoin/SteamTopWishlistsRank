@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-09T22:15:21.588Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-10T04:47:36.044Z",
+  "entryCount": 29,
   "entries": {
     "1154090": {
       "rank": 1108,
@@ -179,6 +179,13 @@
       "estimate": "7k+",
       "name": "The Rebirth Tale of Broken Horn Demon Lord Alice",
       "releaseDate": "2026-05-22",
+      "source": "tracked"
+    },
+    "4345150": {
+      "rank": 8113,
+      "estimate": "<7k",
+      "name": "Dark Reaper Shoots! 2",
+      "releaseDate": "2026-07-09",
       "source": "tracked"
     },
     "4463890": {

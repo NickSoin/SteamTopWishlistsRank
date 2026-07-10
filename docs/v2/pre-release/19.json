@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-09T22:15:21.588Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-10T04:47:36.044Z",
+  "entryCount": 30,
   "entries": {
     "939960": {
       "rank": 17,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Splash Shot Golf Legend",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4375120": {
+      "rank": 2876,
+      "estimate": "7k+",
+      "name": "Jigokuraku: BATTLE IN HELL'S PARADISE",
+      "releaseDate": "2026-07-09",
       "source": "tracked"
     },
     "4499040": {

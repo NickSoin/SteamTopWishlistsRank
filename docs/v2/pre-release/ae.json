@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-09T22:15:21.588Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-10T04:47:36.044Z",
+  "entryCount": 31,
   "entries": {
     "593150": {
       "rank": 72,
@@ -211,6 +211,13 @@
       "estimate": "<7k",
       "name": "Space Evolver",
       "releaseDate": "2027-06-08",
+      "source": "tracked"
+    },
+    "4566130": {
+      "rank": 3618,
+      "estimate": "<7k",
+      "name": "Gold ’n Goal",
+      "releaseDate": "2026-07-09",
       "source": "tracked"
     },
     "4688470": {

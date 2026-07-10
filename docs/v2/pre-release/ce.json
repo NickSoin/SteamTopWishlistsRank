@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-09T22:15:21.588Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-10T04:47:36.044Z",
+  "entryCount": 26,
   "entries": {
     "850170": {
       "rank": 394,
@@ -163,6 +163,13 @@
       "estimate": "25k+",
       "name": "Treasure Beach",
       "releaseDate": "2026-06-20",
+      "source": "tracked"
+    },
+    "4111600": {
+      "rank": 4112,
+      "estimate": "<7k",
+      "name": "8AM: The Subway",
+      "releaseDate": "2026-07-09",
       "source": "tracked"
     },
     "4676790": {

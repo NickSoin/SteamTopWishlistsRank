@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-09T22:15:21.588Z",
-  "entryCount": 36,
+  "updatedAt": "2026-07-10T04:47:36.044Z",
+  "entryCount": 37,
   "entries": {
     "814380": {
       "rank": 1,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "Decked Out",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "4560290": {
+      "rank": 5776,
+      "estimate": "<7k",
+      "name": "Sweet Dance",
+      "releaseDate": "2026-07-09",
       "source": "tracked"
     },
     "4586760": {
