@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-10T08:58:08.883Z",
+  "updatedAt": "2026-07-10T13:03:19.389Z",
   "entryCount": 22,
   "entries": {
     "1234570": {
@@ -15,7 +15,7 @@
       "name": "Good Heavens!"
     },
     "1641570": {
-      "rank": 3489,
+      "rank": 3487,
       "estimate": "<7k",
       "name": "TREMEN"
     },
@@ -25,12 +25,12 @@
       "name": "メーアステイル 小さな国のアイテム屋さん／Mearstale our little item shop"
     },
     "1836840": {
-      "rank": 4027,
+      "rank": 4026,
       "estimate": "<7k",
       "name": "Farmwand"
     },
     "2175180": {
-      "rank": 1132,
+      "rank": 1131,
       "estimate": "25k+",
       "name": "Primitive"
     },
@@ -40,7 +40,7 @@
       "name": "Combat Champions"
     },
     "2313380": {
-      "rank": 813,
+      "rank": 814,
       "estimate": "40k+",
       "name": "Vicious Red"
     },
@@ -50,7 +50,7 @@
       "name": "Denshattack!"
     },
     "2537270": {
-      "rank": 3730,
+      "rank": 3729,
       "estimate": "<7k",
       "name": "4:AM"
     },
@@ -75,12 +75,12 @@
       "name": "Delic"
     },
     "3141630": {
-      "rank": 2021,
+      "rank": 2019,
       "estimate": "7k+",
       "name": "Montabi"
     },
     "3541490": {
-      "rank": 3716,
+      "rank": 3718,
       "estimate": "<7k",
       "name": "Dancing Bones"
     },
@@ -90,12 +90,12 @@
       "name": "Eye of the Match: The VAR Game"
     },
     "3845390": {
-      "rank": 2824,
+      "rank": 2821,
       "estimate": "7k+",
       "name": "见习死神"
     },
     "3956120": {
-      "rank": 2973,
+      "rank": 2971,
       "estimate": "7k+",
       "name": "星渊勇者 StarAbyss Heroes"
     },
@@ -110,8 +110,8 @@
       "name": "Capybara Simulator"
     },
     "4449410": {
-      "rank": 1519,
-      "estimate": "15k+",
+      "rank": 1500,
+      "estimate": "25k+",
       "name": "KYOTO XANADU -the Blooming Phantom-"
     }
   }

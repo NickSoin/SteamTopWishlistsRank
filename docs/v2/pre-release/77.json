@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-10T08:58:08.883Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-10T13:03:19.389Z",
+  "entryCount": 26,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -183,6 +183,13 @@
       "estimate": "15k+",
       "name": "Gacha Capsule Shop Simulator - Akihabara",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4386340": {
+      "rank": 7317,
+      "estimate": "<7k",
+      "name": "Quarantine Market Simulator",
+      "releaseDate": "2026-07-10",
       "source": "tracked"
     }
   }

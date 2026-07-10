@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-10T08:58:08.883Z",
-  "entryCount": 38,
+  "updatedAt": "2026-07-10T13:03:19.389Z",
+  "entryCount": 39,
   "entries": {
     "871540": {
       "rank": 824,
@@ -220,6 +220,13 @@
       "name": "Romantic Escapades",
       "releaseDate": "2025-10-09",
       "source": "historical"
+    },
+    "2913190": {
+      "rank": 3088,
+      "estimate": "<7k",
+      "name": "Bravest Coconut",
+      "releaseDate": "2026-07-10",
+      "source": "tracked"
     },
     "2949720": {
       "rank": 1788,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-10T08:58:08.883Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-10T13:03:19.389Z",
+  "entryCount": 31,
   "entries": {
     "1014260": {
       "rank": 2706,
@@ -215,6 +215,13 @@
       "name": "DEVIL BLADE REBOOT",
       "releaseDate": "2024-05-23",
       "source": "historical"
+    },
+    "4090360": {
+      "rank": 911,
+      "estimate": "40k+",
+      "name": "Forest Escape: Last Train",
+      "releaseDate": "2026-07-10",
+      "source": "tracked"
     }
   }
 }

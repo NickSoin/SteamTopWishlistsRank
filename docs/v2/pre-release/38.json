@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-10T08:58:08.883Z",
-  "entryCount": 38,
+  "updatedAt": "2026-07-10T13:03:19.389Z",
+  "entryCount": 39,
   "entries": {
     "995680": {
       "rank": 39,
@@ -263,6 +263,13 @@
       "estimate": "7k+",
       "name": "The Brewline",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "3920300": {
+      "rank": 2757,
+      "estimate": "7k+",
+      "name": "Mothkeep",
+      "releaseDate": "2026-07-10",
       "source": "tracked"
     },
     "4333460": {
