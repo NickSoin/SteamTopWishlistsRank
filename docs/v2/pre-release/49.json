@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-11T07:42:41.561Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-11T11:38:56.890Z",
+  "entryCount": 26,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -183,6 +183,13 @@
       "estimate": "<7k",
       "name": "Apology Video",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4751360": {
+      "rank": 9017,
+      "estimate": "<7k",
+      "name": "Hentai Tales: 7 Days Cycle",
+      "releaseDate": "2026-07-11",
       "source": "tracked"
     }
   }

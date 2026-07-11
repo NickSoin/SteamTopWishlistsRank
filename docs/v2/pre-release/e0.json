@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-11T07:42:41.561Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-11T11:38:56.890Z",
+  "entryCount": 25,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -170,6 +170,13 @@
       "estimate": "15k+",
       "name": "Control, I'm Not Coming Back",
       "releaseDate": "2026-05-29",
+      "source": "tracked"
+    },
+    "4734670": {
+      "rank": 5430,
+      "estimate": "<7k",
+      "name": "Built by Day, Bitten by Night",
+      "releaseDate": "2026-07-11",
       "source": "tracked"
     }
   }

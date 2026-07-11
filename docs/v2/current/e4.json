@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-11T07:42:41.561Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-11T11:38:56.890Z",
+  "entryCount": 21,
   "entries": {
     "1967440": {
       "rank": 3960,
@@ -10,22 +10,22 @@
       "name": "God Help Us All"
     },
     "2162310": {
-      "rank": 4922,
+      "rank": 4925,
       "estimate": "<7k",
       "name": "Existence: The Outer Reach"
     },
     "2766240": {
-      "rank": 2266,
+      "rank": 2267,
       "estimate": "7k+",
       "name": "Portal: System Failure"
     },
     "2928190": {
-      "rank": 2443,
+      "rank": 2444,
       "estimate": "7k+",
       "name": "There is NO PLAN B"
     },
     "2976030": {
-      "rank": 1514,
+      "rank": 1515,
       "estimate": "15k+",
       "name": "Spell Fragments"
     },
@@ -40,12 +40,12 @@
       "name": "Sins of a Solar Empire II: Harbinger"
     },
     "3220370": {
-      "rank": 4136,
+      "rank": 4138,
       "estimate": "<7k",
       "name": "Soul Injector Commando"
     },
     "3279440": {
-      "rank": 782,
+      "rank": 777,
       "estimate": "40k+",
       "name": "Drone Sector"
     },
@@ -65,22 +65,22 @@
       "name": "Mr. Ashfish's Distant Rehab"
     },
     "3798860": {
-      "rank": 673,
+      "rank": 672,
       "estimate": "40k+",
       "name": "Shutter Story"
     },
     "3964340": {
-      "rank": 3964,
+      "rank": 3963,
       "estimate": "<7k",
       "name": "MMORPG NPC Simulator"
     },
     "4084180": {
-      "rank": 3036,
+      "rank": 3037,
       "estimate": "<7k",
       "name": "TORNBLADE"
     },
     "4328820": {
-      "rank": 835,
+      "rank": 836,
       "estimate": "40k+",
       "name": "Iron Bramble"
     },
@@ -90,7 +90,7 @@
       "name": "14 Days With You"
     },
     "4428890": {
-      "rank": 4958,
+      "rank": 4959,
       "estimate": "<7k",
       "name": "20 More, Somehow Even Smaller, Mazes"
     },
@@ -103,6 +103,11 @@
       "rank": 2017,
       "estimate": "7k+",
       "name": "Historarium"
+    },
+    "4873560": {
+      "rank": 5182,
+      "estimate": "<7k",
+      "name": "BRAYZ"
     }
   }
 }
