@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-11T03:50:02.016Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-11T07:42:41.561Z",
+  "entryCount": 21,
   "entries": {
     "969330": {
       "rank": 698,
@@ -10,7 +10,7 @@
       "name": "The Way of Wrath"
     },
     "997090": {
-      "rank": 3673,
+      "rank": 3672,
       "estimate": "<7k",
       "name": "TheFlagship"
     },
@@ -20,7 +20,7 @@
       "name": "DEFICIT"
     },
     "1440340": {
-      "rank": 2135,
+      "rank": 2136,
       "estimate": "7k+",
       "name": "Cannon Foundry Simulator"
     },
@@ -30,12 +30,12 @@
       "name": "KVLT"
     },
     "2363330": {
-      "rank": 2570,
+      "rank": 2571,
       "estimate": "7k+",
       "name": "Witch World"
     },
     "2438120": {
-      "rank": 4865,
+      "rank": 4864,
       "estimate": "<7k",
       "name": "RunOut - Hothead Paws"
     },
@@ -55,17 +55,17 @@
       "name": "Delverium"
     },
     "3012600": {
-      "rank": 560,
+      "rank": 561,
       "estimate": "40k+",
       "name": "Substructure"
     },
     "3258590": {
-      "rank": 2497,
+      "rank": 2498,
       "estimate": "7k+",
       "name": "Void Dungeon"
     },
     "3376580": {
-      "rank": 4703,
+      "rank": 4705,
       "estimate": "<7k",
       "name": "Raiders Rise"
     },
@@ -75,34 +75,39 @@
       "name": "Dragon Lands"
     },
     "3459050": {
-      "rank": 1795,
+      "rank": 1797,
       "estimate": "15k+",
       "name": "Acrolyte"
     },
     "3976340": {
-      "rank": 2978,
+      "rank": 2979,
       "estimate": "7k+",
       "name": "Cucina Stellata"
     },
     "4035190": {
-      "rank": 4187,
+      "rank": 4152,
       "estimate": "<7k",
       "name": "Vampirium: 1997"
     },
     "4049180": {
-      "rank": 883,
+      "rank": 882,
       "estimate": "40k+",
       "name": "Disney/Pixar Toy Story 3 Complete Edition"
     },
     "4487450": {
-      "rank": 1635,
+      "rank": 1634,
       "estimate": "15k+",
       "name": "Cairn - On the Trail: Deep Water"
     },
     "4572790": {
-      "rank": 4388,
+      "rank": 4384,
       "estimate": "<7k",
       "name": "Suika Game"
+    },
+    "4574820": {
+      "rank": 5184,
+      "estimate": "<7k",
+      "name": "Rejected Draft"
     }
   }
 }
