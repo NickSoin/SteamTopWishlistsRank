@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-10T21:44:01.850Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-11T03:50:02.016Z",
+  "entryCount": 27,
   "entries": {
     "868270": {
       "rank": 16,
@@ -172,6 +172,13 @@
       "estimate": "7k+",
       "name": "Spirit Talk - Cozy Visual Novel",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4314010": {
+      "rank": 3115,
+      "estimate": "<7k",
+      "name": "Command by Voice: World Conquest",
+      "releaseDate": "2026-07-10",
       "source": "tracked"
     },
     "4650350": {
