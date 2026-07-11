@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-11T16:32:33.577Z",
-  "entryCount": 12,
+  "updatedAt": "2026-07-11T21:29:57.848Z",
+  "entryCount": 13,
   "entries": {
     "1217180": {
-      "rank": 3218,
+      "rank": 3220,
       "estimate": "<7k",
       "name": "Fantamon"
     },
     "1434840": {
-      "rank": 3310,
+      "rank": 3312,
       "estimate": "<7k",
       "name": "Dungeons & Kingdoms: Prologue"
     },
     "1558030": {
-      "rank": 2331,
+      "rank": 2332,
       "estimate": "7k+",
       "name": "Tales of Anturia: Farathan"
     },
     "1879300": {
-      "rank": 4781,
+      "rank": 4785,
       "estimate": "<7k",
       "name": "简单修仙模拟"
     },
@@ -30,12 +30,12 @@
       "name": "ZWAARD"
     },
     "2261560": {
-      "rank": 697,
+      "rank": 698,
       "estimate": "40k+",
       "name": "We The People"
     },
     "2535850": {
-      "rank": 3514,
+      "rank": 3516,
       "estimate": "<7k",
       "name": "ADA: Tainted Soil"
     },
@@ -45,7 +45,7 @@
       "name": "FrostFire -Battle Frenzy-"
     },
     "2752020": {
-      "rank": 1507,
+      "rank": 1508,
       "estimate": "15k+",
       "name": "Lair of the Leviathan"
     },
@@ -55,12 +55,17 @@
       "name": "EMPTY SHELL: THE LOOP"
     },
     "3987230": {
-      "rank": 5110,
+      "rank": 5096,
       "estimate": "<7k",
       "name": "Mining and Dwarves"
     },
+    "4190710": {
+      "rank": 5049,
+      "estimate": "<7k",
+      "name": "Shady job"
+    },
     "4239660": {
-      "rank": 4374,
+      "rank": 4375,
       "estimate": "<7k",
       "name": "Splash Divers"
     }
