@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-11T11:38:56.890Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-11T16:32:33.577Z",
+  "entryCount": 25,
   "entries": {
     "506480": {
       "rank": 980,
@@ -161,6 +161,13 @@
       "name": "Academy Love Saga: Tennis Angels EX",
       "releaseDate": "2025-04-18",
       "source": "historical"
+    },
+    "4336300": {
+      "rank": 7717,
+      "estimate": "<7k",
+      "name": "Health Audit Simulator",
+      "releaseDate": "2026-07-11",
+      "source": "tracked"
     },
     "4528600": {
       "rank": 8266,
