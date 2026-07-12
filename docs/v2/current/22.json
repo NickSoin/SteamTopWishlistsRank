@@ -1,31 +1,36 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-12T16:34:48.195Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-12T21:20:07.878Z",
+  "entryCount": 22,
   "entries": {
+    "948820": {
+      "rank": 5145,
+      "estimate": "<7k",
+      "name": "Nevergrind"
+    },
     "1456830": {
-      "rank": 1372,
+      "rank": 1374,
       "estimate": "25k+",
       "name": "Sea Dogs: Legendary Edition"
     },
     "1460790": {
-      "rank": 3315,
+      "rank": 3318,
       "estimate": "<7k",
       "name": "Bartender Simulator"
     },
     "1769200": {
-      "rank": 4164,
+      "rank": 4169,
       "estimate": "<7k",
       "name": "Vividerie"
     },
     "1993210": {
-      "rank": 1988,
+      "rank": 1989,
       "estimate": "15k+",
       "name": "Abyssals"
     },
     "2639270": {
-      "rank": 1626,
+      "rank": 1628,
       "estimate": "15k+",
       "name": "Photography Simulator Wildlife Prologue"
     },
@@ -35,12 +40,12 @@
       "name": "Beyond Astra"
     },
     "2755950": {
-      "rank": 2562,
+      "rank": 2563,
       "estimate": "7k+",
       "name": "Tidebound"
     },
     "2821390": {
-      "rank": 1194,
+      "rank": 1198,
       "estimate": "25k+",
       "name": "HOT WHEELS™ Infinite Rush"
     },
@@ -50,47 +55,47 @@
       "name": "TOEM 2"
     },
     "2999130": {
-      "rank": 5044,
+      "rank": 5047,
       "estimate": "<7k",
       "name": "Flex Riders"
     },
     "3393720": {
-      "rank": 2360,
+      "rank": 2365,
       "estimate": "7k+",
       "name": "Ramen Shop Simulator"
     },
     "3512750": {
-      "rank": 1526,
+      "rank": 1525,
       "estimate": "15k+",
       "name": "Vampire's Veil"
     },
     "3796150": {
-      "rank": 4766,
+      "rank": 4769,
       "estimate": "<7k",
       "name": "Curse of Resthaven"
     },
     "3867160": {
-      "rank": 1846,
+      "rank": 1847,
       "estimate": "15k+",
       "name": "Rance Quest Magnum"
     },
     "3927750": {
-      "rank": 4571,
+      "rank": 4574,
       "estimate": "<7k",
       "name": "Sherpa's Caravan"
     },
     "4039300": {
-      "rank": 4014,
+      "rank": 4017,
       "estimate": "<7k",
       "name": "GUNGRAVE G.O.R.E: BLOOD HEAT"
     },
     "4066670": {
-      "rank": 1403,
+      "rank": 1404,
       "estimate": "25k+",
       "name": "Love & Fool's Gold"
     },
     "4088670": {
-      "rank": 3176,
+      "rank": 3118,
       "estimate": "<7k",
       "name": "Ludus Magnatus: Gladiator Manager Simulator"
     },
@@ -100,12 +105,12 @@
       "name": "Duelist: Idle Expedition"
     },
     "4288030": {
-      "rank": 4464,
+      "rank": 4466,
       "estimate": "<7k",
       "name": "Stuck in a Well with a Frog"
     },
     "4485620": {
-      "rank": 2439,
+      "rank": 2409,
       "estimate": "7k+",
       "name": "Artesnaut"
     }
