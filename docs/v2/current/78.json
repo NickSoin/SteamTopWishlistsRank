@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-12T07:54:03.489Z",
-  "entryCount": 11,
+  "updatedAt": "2026-07-12T11:35:07.364Z",
+  "entryCount": 10,
   "entries": {
     "1536910": {
-      "rank": 3068,
+      "rank": 3069,
       "estimate": "<7k",
       "name": "Snow Plow"
     },
     "2011180": {
-      "rank": 4975,
+      "rank": 4976,
       "estimate": "<7k",
       "name": "Terminus Historia"
     },
@@ -25,7 +25,7 @@
       "name": "PSYCHOFINGER"
     },
     "2706790": {
-      "rank": 2655,
+      "rank": 2657,
       "estimate": "7k+",
       "name": "Quantic River"
     },
@@ -35,29 +35,24 @@
       "name": "Game Quest: The Backlog Battler"
     },
     "3489070": {
-      "rank": 4158,
+      "rank": 4159,
       "estimate": "<7k",
       "name": "Cozy Beach"
     },
     "3617080": {
-      "rank": 4693,
+      "rank": 4697,
       "estimate": "<7k",
       "name": "Short Short Fictions"
     },
     "3715690": {
-      "rank": 3769,
+      "rank": 3770,
       "estimate": "<7k",
       "name": "Rogue Rollers"
     },
     "4036130": {
-      "rank": 3651,
+      "rank": 3653,
       "estimate": "<7k",
       "name": "Mecha Force"
-    },
-    "4385270": {
-      "rank": 3431,
-      "estimate": "<7k",
-      "name": "Stay: Your Forever Pet!"
     }
   }
 }
