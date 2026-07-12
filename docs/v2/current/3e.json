@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-12T11:35:07.364Z",
-  "entryCount": 17,
+  "updatedAt": "2026-07-12T16:34:48.195Z",
+  "entryCount": 18,
   "entries": {
     "612400": {
       "rank": 226,
@@ -10,12 +10,12 @@
       "name": "The Last Night"
     },
     "630440": {
-      "rank": 4415,
+      "rank": 4419,
       "estimate": "<7k",
       "name": "Movie Studio Tycoon"
     },
     "1157900": {
-      "rank": 1715,
+      "rank": 1717,
       "estimate": "15k+",
       "name": "Ten Thousand Coins: The Golden Merchant"
     },
@@ -30,17 +30,17 @@
       "name": "Honeycomb: The World Beyond"
     },
     "1649670": {
-      "rank": 4288,
+      "rank": 4290,
       "estimate": "<7k",
       "name": "Star Iliad"
     },
     "1826770": {
-      "rank": 2486,
+      "rank": 2488,
       "estimate": "7k+",
       "name": "Alice is Dead: Hearts and Diamonds"
     },
     "2718320": {
-      "rank": 1977,
+      "rank": 1978,
       "estimate": "15k+",
       "name": "Green Again"
     },
@@ -50,44 +50,49 @@
       "name": "Revelation of Decay"
     },
     "3133210": {
-      "rank": 4928,
+      "rank": 4929,
       "estimate": "<7k",
       "name": "Bargan's Treasure"
     },
     "3142500": {
-      "rank": 3880,
+      "rank": 3881,
       "estimate": "<7k",
       "name": "The Last Viking"
     },
     "3166960": {
-      "rank": 4033,
+      "rank": 4035,
       "estimate": "<7k",
       "name": "Armageddonica"
     },
     "3547910": {
-      "rank": 1721,
+      "rank": 1725,
       "estimate": "15k+",
       "name": "Alisa: The Parting"
     },
     "3724300": {
-      "rank": 2423,
+      "rank": 2417,
       "estimate": "7k+",
       "name": "Toto's Journey"
     },
     "3863960": {
-      "rank": 3848,
+      "rank": 3854,
       "estimate": "<7k",
       "name": "The Long March: 20000 Miles of Journey"
     },
     "4264410": {
-      "rank": 3650,
+      "rank": 3652,
       "estimate": "<7k",
       "name": "STEP THEATER"
     },
     "4465990": {
-      "rank": 4797,
+      "rank": 4801,
       "estimate": "<7k",
       "name": "State of Command"
+    },
+    "4710010": {
+      "rank": 5200,
+      "estimate": "<7k",
+      "name": "Triple Pairing"
     }
   }
 }
