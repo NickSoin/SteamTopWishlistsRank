@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T04:14:27.510Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-13T08:36:30.247Z",
+  "entryCount": 23,
   "entries": {
     "747660": {
       "rank": 193,
@@ -158,6 +158,13 @@
       "estimate": "<7k",
       "name": "Echoes of Sin: Confusion",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4634560": {
+      "rank": 1913,
+      "estimate": "15k+",
+      "name": "Carpet Cleaning Simulator",
+      "releaseDate": "2026-07-12",
       "source": "tracked"
     }
   }

@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-13T04:14:27.510Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-13T08:36:30.247Z",
+  "entryCount": 21,
   "entries": {
     "971700": {
-      "rank": 1217,
+      "rank": 1221,
       "estimate": "25k+",
       "name": "ALARA Prime"
     },
     "1103610": {
-      "rank": 2886,
+      "rank": 2885,
       "estimate": "7k+",
       "name": "Sailor Simulator"
     },
     "1705720": {
-      "rank": 1707,
+      "rank": 1706,
       "estimate": "15k+",
       "name": "Aftermath"
     },
@@ -40,7 +40,7 @@
       "name": "Threads of Time"
     },
     "2133500": {
-      "rank": 4660,
+      "rank": 4658,
       "estimate": "<7k",
       "name": "Keep Those Bugs Away From the Bomb"
     },
@@ -50,7 +50,7 @@
       "name": "Island of Mine"
     },
     "2809120": {
-      "rank": 4245,
+      "rank": 4244,
       "estimate": "<7k",
       "name": "Red Snow"
     },
@@ -60,7 +60,7 @@
       "name": "Gang of Frogs"
     },
     "3100420": {
-      "rank": 4554,
+      "rank": 4557,
       "estimate": "<7k",
       "name": "The Fractured Shimmer"
     },
@@ -75,7 +75,7 @@
       "name": "VOIDFACE"
     },
     "3595710": {
-      "rank": 3357,
+      "rank": 3356,
       "estimate": "<7k",
       "name": "SCOPECREEP"
     },
@@ -84,28 +84,23 @@
       "estimate": "<7k",
       "name": "Auto Legends"
     },
-    "3839250": {
-      "rank": 2567,
-      "estimate": "7k+",
-      "name": "Soulforge Lost Path"
-    },
     "4349170": {
-      "rank": 3193,
+      "rank": 3192,
       "estimate": "<7k",
       "name": "Virus Lab"
     },
     "4371450": {
-      "rank": 2741,
+      "rank": 2716,
       "estimate": "7k+",
       "name": "Arctic Shift: Fuel Station"
     },
     "4514310": {
-      "rank": 3164,
+      "rank": 3162,
       "estimate": "<7k",
       "name": "MOOSA: Dirty Fate"
     },
     "4601120": {
-      "rank": 4407,
+      "rank": 4404,
       "estimate": "<7k",
       "name": "Endless Rails"
     },

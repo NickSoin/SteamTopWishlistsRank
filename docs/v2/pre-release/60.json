@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T04:14:27.510Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-13T08:36:30.247Z",
+  "entryCount": 23,
   "entries": {
     "813230": {
       "rank": 13,
@@ -158,6 +158,13 @@
       "estimate": "<7k",
       "name": "Banana OST",
       "releaseDate": "2026-07-01",
+      "source": "tracked"
+    },
+    "4613890": {
+      "rank": 4192,
+      "estimate": "<7k",
+      "name": "Lazy Kickers",
+      "releaseDate": "2026-07-13",
       "source": "tracked"
     }
   }

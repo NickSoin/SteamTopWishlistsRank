@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T04:14:27.510Z",
-  "entryCount": 37,
+  "updatedAt": "2026-07-13T08:36:30.247Z",
+  "entryCount": 38,
   "entries": {
     "976890": {
       "rank": 70,
@@ -260,6 +260,13 @@
       "estimate": "80k+",
       "name": "Warhammer 40,000: Darktide - Skitarii Class",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4615780": {
+      "rank": 6965,
+      "estimate": "<7k",
+      "name": "13 MASCA",
+      "releaseDate": "2026-07-13",
       "source": "tracked"
     },
     "4753420": {
