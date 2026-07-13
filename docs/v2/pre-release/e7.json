@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T12:50:22.232Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-13T17:28:18.651Z",
+  "entryCount": 27,
   "entries": {
     "429380": {
       "rank": 36,
@@ -184,6 +184,13 @@
       "name": "Assassin’s Creed Shadows",
       "releaseDate": "2025-03-19",
       "source": "historical"
+    },
+    "3237520": {
+      "rank": 1483,
+      "estimate": "25k+",
+      "name": "The Alters: Last Variable",
+      "releaseDate": "2026-07-13",
+      "source": "tracked"
     },
     "4718440": {
       "rank": 7387,

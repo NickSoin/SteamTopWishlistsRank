@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T12:50:22.232Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-13T17:28:18.651Z",
+  "entryCount": 27,
   "entries": {
     "412020": {
       "rank": 3,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "Foxy The First Steps",
       "releaseDate": "2026-07-09",
+      "source": "tracked"
+    },
+    "3988410": {
+      "rank": 3705,
+      "estimate": "<7k",
+      "name": "Phantom Tower",
+      "releaseDate": "2026-07-13",
       "source": "tracked"
     },
     "4307340": {

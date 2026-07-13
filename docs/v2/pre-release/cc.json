@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T12:50:22.232Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-13T17:28:18.651Z",
+  "entryCount": 25,
   "entries": {
     "659300": {
       "rank": 3018,
@@ -175,6 +175,13 @@
       "name": "Marvel's Spider-Man 2 - Digital Deluxe Upgrade",
       "releaseDate": "2025-01-30",
       "source": "historical"
+    },
+    "4622010": {
+      "rank": 6062,
+      "estimate": "<7k",
+      "name": "Road Defense Racing",
+      "releaseDate": "2026-07-13",
+      "source": "tracked"
     }
   }
 }

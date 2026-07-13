@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T12:50:22.232Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-13T17:28:18.651Z",
+  "entryCount": 28,
   "entries": {
     "927350": {
       "rank": 30,
@@ -178,6 +178,13 @@
       "name": "Katawa Shoujo",
       "releaseDate": "2024-08-15",
       "source": "historical"
+    },
+    "3633760": {
+      "rank": 2572,
+      "estimate": "7k+",
+      "name": "KAZ",
+      "releaseDate": "2026-07-13",
+      "source": "tracked"
     },
     "3985290": {
       "rank": 9650,
