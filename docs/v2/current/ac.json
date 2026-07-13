@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-13T17:28:18.651Z",
-  "entryCount": 12,
+  "updatedAt": "2026-07-13T21:49:52.937Z",
+  "entryCount": 13,
   "entries": {
     "1809090": {
-      "rank": 2776,
+      "rank": 2777,
       "estimate": "7k+",
       "name": "Kraino Rebirth"
     },
     "2088230": {
-      "rank": 4417,
+      "rank": 4418,
       "estimate": "<7k",
       "name": "Ultimate Fishing® Simulator 3"
     },
     "2275760": {
-      "rank": 4714,
+      "rank": 4718,
       "estimate": "<7k",
       "name": "Operation: Dead Man"
     },
@@ -25,7 +25,7 @@
       "name": "Vulture -Unlimited Frontier- /0"
     },
     "2570160": {
-      "rank": 3546,
+      "rank": 3550,
       "estimate": "<7k",
       "name": "Untamed"
     },
@@ -35,17 +35,17 @@
       "name": "Life of a Lonely Indie Game Developer"
     },
     "3572800": {
-      "rank": 1833,
+      "rank": 1835,
       "estimate": "15k+",
       "name": "Duo Quest"
     },
     "3738130": {
-      "rank": 1740,
+      "rank": 1738,
       "estimate": "15k+",
       "name": "Economic Miracle"
     },
     "3756040": {
-      "rank": 3710,
+      "rank": 3713,
       "estimate": "<7k",
       "name": "散歩 WALK"
     },
@@ -55,14 +55,19 @@
       "name": "Gate Guard Simulator"
     },
     "4260540": {
-      "rank": 4233,
+      "rank": 4234,
       "estimate": "<7k",
       "name": "Sacred Angel Crossnia Heart"
     },
     "4269150": {
-      "rank": 965,
+      "rank": 966,
       "estimate": "40k+",
       "name": "Campwood"
+    },
+    "4867330": {
+      "rank": 5063,
+      "estimate": "<7k",
+      "name": "Toy Keeper"
     }
   }
 }
