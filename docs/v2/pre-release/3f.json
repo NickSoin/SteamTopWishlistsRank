@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-12T21:20:07.878Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-13T04:14:27.510Z",
+  "entryCount": 29,
   "entries": {
     "546560": {
       "rank": 11,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "Live Translate",
       "releaseDate": "2026-06-20",
+      "source": "tracked"
+    },
+    "4141710": {
+      "rank": 1621,
+      "estimate": "15k+",
+      "name": "Neko Station",
+      "releaseDate": "2026-07-12",
       "source": "tracked"
     },
     "4306890": {

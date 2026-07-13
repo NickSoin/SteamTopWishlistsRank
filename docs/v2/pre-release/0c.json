@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-12T21:20:07.878Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-13T04:14:27.510Z",
+  "entryCount": 30,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -204,6 +204,13 @@
       "estimate": "25k+",
       "name": "吾皇万岁",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4277500": {
+      "rank": 9496,
+      "estimate": "<7k",
+      "name": "Snooker Billiard",
+      "releaseDate": "2026-07-12",
       "source": "tracked"
     },
     "4684490": {
