@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-13T08:36:30.247Z",
-  "entryCount": 15,
+  "updatedAt": "2026-07-13T12:50:22.232Z",
+  "entryCount": 16,
   "entries": {
     "1261370": {
       "rank": 1542,
@@ -10,7 +10,7 @@
       "name": "WILDLANDS"
     },
     "1578940": {
-      "rank": 503,
+      "rank": 502,
       "estimate": "40k+",
       "name": "Vampire Clans"
     },
@@ -25,12 +25,12 @@
       "name": "Astoaria"
     },
     "2104610": {
-      "rank": 2177,
+      "rank": 2176,
       "estimate": "7k+",
       "name": "I Am A Caterpillar"
     },
     "2140540": {
-      "rank": 2981,
+      "rank": 2980,
       "estimate": "7k+",
       "name": "Hellslinger"
     },
@@ -40,7 +40,7 @@
       "name": "Clockwork Revolution"
     },
     "2486310": {
-      "rank": 4956,
+      "rank": 4953,
       "estimate": "<7k",
       "name": "Knights of Fresco"
     },
@@ -50,19 +50,24 @@
       "name": "FIEFDOM"
     },
     "3590290": {
-      "rank": 703,
+      "rank": 702,
       "estimate": "40k+",
       "name": "DIVE or DIE - Children of Rain"
     },
     "3950940": {
-      "rank": 1983,
+      "rank": 1982,
       "estimate": "15k+",
       "name": "She Hungers"
     },
     "4124320": {
-      "rank": 2639,
+      "rank": 2637,
       "estimate": "7k+",
       "name": "Silent Road"
+    },
+    "4202710": {
+      "rank": 5222,
+      "estimate": "<7k",
+      "name": "Hocus Focus"
     },
     "4268970": {
       "rank": 3465,
@@ -70,12 +75,12 @@
       "name": "Drill Deep"
     },
     "4299260": {
-      "rank": 3508,
+      "rank": 3503,
       "estimate": "<7k",
       "name": "Salt & Soul: Pocket Chef's Adventure"
     },
     "4369130": {
-      "rank": 654,
+      "rank": 653,
       "estimate": "40k+",
       "name": "Chop Chop Inc."
     }

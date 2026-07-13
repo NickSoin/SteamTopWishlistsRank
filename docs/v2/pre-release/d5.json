@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T08:36:30.247Z",
+  "updatedAt": "2026-07-13T12:50:22.232Z",
   "entryCount": 32,
   "entries": {
     "698670": {
@@ -124,11 +124,11 @@
       "source": "historical"
     },
     "2219390": {
-      "rank": 2145,
-      "estimate": "7k+",
+      "rank": 1595,
+      "estimate": "15k+",
       "name": "Imperial Ambitions",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-07-13",
+      "source": "tracked"
     },
     "2248950": {
       "rank": 1468,

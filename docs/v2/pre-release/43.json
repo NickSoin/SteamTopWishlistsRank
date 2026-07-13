@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T08:36:30.247Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-13T12:50:22.232Z",
+  "entryCount": 28,
   "entries": {
     "716350": {
       "rank": 688,
@@ -162,6 +162,13 @@
       "estimate": "7k+",
       "name": "Hillshade Farm",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "3810680": {
+      "rank": 4919,
+      "estimate": "<7k",
+      "name": "The Sweet Spot",
+      "releaseDate": "2026-07-13",
       "source": "tracked"
     },
     "4001700": {

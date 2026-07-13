@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T08:36:30.247Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-13T12:50:22.232Z",
+  "entryCount": 33,
   "entries": {
     "930280": {
       "rank": 438,
@@ -205,6 +205,13 @@
       "name": "Crime Simulator",
       "releaseDate": "2025-06-17",
       "source": "historical"
+    },
+    "3765010": {
+      "rank": 327,
+      "estimate": "80k+",
+      "name": "Forensics: Crime Scene Detective",
+      "releaseDate": "2026-07-13",
+      "source": "tracked"
     },
     "4275420": {
       "rank": 3098,
