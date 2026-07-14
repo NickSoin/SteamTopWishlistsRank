@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T21:49:52.937Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-14T04:09:17.162Z",
+  "entryCount": 32,
   "entries": {
     "593150": {
       "rank": 72,
@@ -211,6 +211,13 @@
       "estimate": "<7k",
       "name": "Space Evolver",
       "releaseDate": "2027-06-08",
+      "source": "tracked"
+    },
+    "4533370": {
+      "rank": 6852,
+      "estimate": "<7k",
+      "name": "DiDiDiG",
+      "releaseDate": "2026-07-13",
       "source": "tracked"
     },
     "4566130": {

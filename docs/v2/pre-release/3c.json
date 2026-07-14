@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T21:49:52.937Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-14T04:09:17.162Z",
+  "entryCount": 29,
   "entries": {
     "743380": {
       "rank": 664,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "Keepers of the Keep",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3946120": {
+      "rank": 4180,
+      "estimate": "<7k",
+      "name": "Chasing the Dawn",
+      "releaseDate": "2026-07-13",
       "source": "tracked"
     },
     "3960740": {

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-13T21:49:52.937Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-14T04:09:17.162Z",
+  "entryCount": 30,
   "entries": {
     "905240": {
-      "rank": 1601,
+      "rank": 1602,
       "estimate": "15k+",
       "name": "Street Tuning Evolution"
     },
@@ -15,47 +15,47 @@
       "name": "Viking City Builder"
     },
     "1473960": {
-      "rank": 1201,
+      "rank": 1192,
       "estimate": "25k+",
       "name": "Wreck Runners"
     },
     "1771040": {
-      "rank": 4725,
+      "rank": 4727,
       "estimate": "<7k",
       "name": "Quiet Farm"
     },
     "2156330": {
-      "rank": 4637,
+      "rank": 4641,
       "estimate": "<7k",
       "name": "The Unfettered"
     },
     "2349840": {
-      "rank": 2618,
+      "rank": 2619,
       "estimate": "7k+",
       "name": "MOBA Esport Manager 25"
     },
     "2448200": {
-      "rank": 3431,
+      "rank": 3437,
       "estimate": "<7k",
       "name": "Aojuji Hospital: Tokyo Eidolic Anatomy Division"
     },
     "2521660": {
-      "rank": 3500,
+      "rank": 3501,
       "estimate": "<7k",
       "name": "Mendacium"
     },
     "2528960": {
-      "rank": 4647,
+      "rank": 4649,
       "estimate": "<7k",
       "name": "O3: Hollow Descent"
     },
     "2539940": {
-      "rank": 4291,
+      "rank": 4292,
       "estimate": "<7k",
       "name": "Jinn"
     },
     "2681560": {
-      "rank": 1040,
+      "rank": 1042,
       "estimate": "25k+",
       "name": "Train Station Project"
     },
@@ -70,12 +70,12 @@
       "name": "Exoborne"
     },
     "2776770": {
-      "rank": 4179,
+      "rank": 4183,
       "estimate": "<7k",
       "name": "Blocks for Babies"
     },
     "2783370": {
-      "rank": 1646,
+      "rank": 1639,
       "estimate": "15k+",
       "name": "Teeto"
     },
@@ -90,12 +90,12 @@
       "name": "CHORDIOID"
     },
     "3064250": {
-      "rank": 5025,
+      "rank": 5027,
       "estimate": "<7k",
       "name": "War Drone FPV Quad Simulator"
     },
     "3211560": {
-      "rank": 3703,
+      "rank": 3707,
       "estimate": "<7k",
       "name": "Die Deep"
     },
@@ -105,12 +105,12 @@
       "name": "Gnawer No. 44 Observation Report"
     },
     "3375110": {
-      "rank": 2321,
+      "rank": 2301,
       "estimate": "7k+",
       "name": "Tiny Eden"
     },
     "3398160": {
-      "rank": 5159,
+      "rank": 5166,
       "estimate": "<7k",
       "name": "SUPER DEBT"
     },
@@ -120,44 +120,39 @@
       "name": "HellHeart Breaker"
     },
     "3484670": {
-      "rank": 3298,
+      "rank": 3295,
       "estimate": "<7k",
       "name": "Blanksword"
     },
     "3867570": {
-      "rank": 778,
+      "rank": 779,
       "estimate": "40k+",
       "name": "Stellar Trader"
     },
     "4073860": {
-      "rank": 1540,
+      "rank": 1539,
       "estimate": "15k+",
       "name": "Sludgineers"
     },
     "4076980": {
-      "rank": 4088,
+      "rank": 4089,
       "estimate": "<7k",
       "name": "ONE GIANT HOLE"
     },
     "4110770": {
-      "rank": 1363,
+      "rank": 1364,
       "estimate": "25k+",
       "name": "Apple Crumble"
     },
     "4206080": {
-      "rank": 1764,
+      "rank": 1766,
       "estimate": "15k+",
       "name": "Neidfyre"
     },
     "4392550": {
-      "rank": 4795,
+      "rank": 4798,
       "estimate": "<7k",
       "name": "Wicked Night: Holy Knights"
-    },
-    "4682660": {
-      "rank": 4586,
-      "estimate": "<7k",
-      "name": "Femme Fatality"
     }
   }
 }

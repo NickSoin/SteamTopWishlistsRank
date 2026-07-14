@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T21:49:52.937Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-14T04:09:17.162Z",
+  "entryCount": 26,
   "entries": {
     "581660": {
       "rank": 122,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "Simulation 9",
       "releaseDate": "2026-07-06",
+      "source": "tracked"
+    },
+    "4633420": {
+      "rank": 5747,
+      "estimate": "<7k",
+      "name": "Death's Life 2",
+      "releaseDate": "2026-07-13",
       "source": "tracked"
     }
   }

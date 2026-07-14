@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-13T21:49:52.937Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-14T04:09:17.162Z",
+  "entryCount": 23,
   "entries": {
     "687440": {
-      "rank": 609,
+      "rank": 610,
       "estimate": "40k+",
       "name": "In The Valley of Gods"
     },
     "905410": {
-      "rank": 4843,
+      "rank": 4849,
       "estimate": "<7k",
       "name": "SCREECH OF STEEL: GLADIATORS"
     },
     "1122230": {
-      "rank": 2350,
+      "rank": 2354,
       "estimate": "7k+",
       "name": "Knights & Outlaws"
     },
     "1851420": {
-      "rank": 1522,
+      "rank": 1524,
       "estimate": "15k+",
       "name": "INITIAL D"
     },
     "1920290": {
-      "rank": 1137,
+      "rank": 1138,
       "estimate": "25k+",
       "name": "Barkour"
     },
@@ -37,17 +37,17 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1817483467046859"
     },
     "2841710": {
-      "rank": 1148,
+      "rank": 1147,
       "estimate": "25k+",
       "name": "Vermin"
     },
     "2873070": {
-      "rank": 4546,
+      "rank": 4548,
       "estimate": "<7k",
       "name": "Endless Tactics"
     },
     "3216520": {
-      "rank": 399,
+      "rank": 398,
       "estimate": "80k+",
       "name": "Sandcastle"
     },
@@ -62,22 +62,22 @@
       "name": "Paloma Island"
     },
     "3269430": {
-      "rank": 3226,
+      "rank": 3231,
       "estimate": "<7k",
       "name": "Melted Time"
     },
     "3361950": {
-      "rank": 3224,
+      "rank": 3229,
       "estimate": "<7k",
       "name": "Inhuman"
     },
     "3405140": {
-      "rank": 5065,
+      "rank": 5056,
       "estimate": "<7k",
       "name": "MEDIX"
     },
     "3534150": {
-      "rank": 1061,
+      "rank": 1062,
       "estimate": "25k+",
       "name": "POSTAL 2 VR"
     },
@@ -87,17 +87,17 @@
       "name": "My Eerie Lair"
     },
     "3649050": {
-      "rank": 4532,
+      "rank": 4534,
       "estimate": "<7k",
       "name": "Coagulation Station: Fleshfall"
     },
     "3832380": {
-      "rank": 2916,
+      "rank": 2920,
       "estimate": "7k+",
       "name": "Bao Bao's™ Cozy Cleaning Services"
     },
     "3940470": {
-      "rank": 4342,
+      "rank": 4324,
       "estimate": "<7k",
       "name": "KILLSEC"
     },
@@ -107,14 +107,19 @@
       "name": "Another Hero's Adventure"
     },
     "4165890": {
-      "rank": 13,
+      "rank": 14,
       "estimate": "800k+",
       "name": "Steam Frame"
     },
     "4285930": {
-      "rank": 2961,
+      "rank": 2964,
       "estimate": "7k+",
       "name": "Rakshasa"
+    },
+    "4894750": {
+      "rank": 4639,
+      "estimate": "<7k",
+      "name": "Paper Shredder"
     }
   }
 }

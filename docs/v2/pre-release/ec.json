@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T21:49:52.937Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-14T04:09:17.162Z",
+  "entryCount": 29,
   "entries": {
     "715400": {
       "rank": 49,
@@ -198,6 +198,13 @@
       "estimate": "7k+",
       "name": "Farming Simulator 25: SKY Agriculture Pack",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4727230": {
+      "rank": 6186,
+      "estimate": "<7k",
+      "name": "Cultivation Idle",
+      "releaseDate": "2026-07-13",
       "source": "tracked"
     }
   }

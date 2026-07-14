@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-13T21:49:52.937Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-14T04:09:17.162Z",
+  "entryCount": 30,
   "entries": {
     "536280": {
       "rank": 48,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Neon Pulsefire",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4558880": {
+      "rank": 824,
+      "estimate": "40k+",
+      "name": "Joey's Nightmare II",
+      "releaseDate": "2026-07-13",
       "source": "tracked"
     },
     "4663520": {
