@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T07:27:52.284Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-14T11:59:38.599Z",
+  "entryCount": 27,
   "entries": {
     "290100": {
       "rank": 249,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "JDM: American Classics",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4537100": {
+      "rank": 8569,
+      "estimate": "<7k",
+      "name": "diffiCULT",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     },
     "4631200": {

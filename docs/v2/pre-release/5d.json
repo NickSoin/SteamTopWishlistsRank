@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T07:27:52.284Z",
-  "entryCount": 35,
+  "updatedAt": "2026-07-14T11:59:38.599Z",
+  "entryCount": 36,
   "entries": {
     "809090": {
       "rank": 1225,
@@ -245,6 +245,13 @@
       "name": "STAR WARS: Galactic Racer™",
       "releaseDate": "2026-10-06",
       "source": "historical"
+    },
+    "4323800": {
+      "rank": 3615,
+      "estimate": "<7k",
+      "name": "Guardian of the Sacred Seal",
+      "releaseDate": "2026-07-14",
+      "source": "tracked"
     },
     "4659370": {
       "rank": 9705,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T07:27:52.284Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-14T11:59:38.599Z",
+  "entryCount": 23,
   "entries": {
     "757310": {
       "rank": 43,
@@ -156,6 +156,13 @@
       "estimate": "15k+",
       "name": "Train Sim World® 6: West Coast Main Line Trent Valley: Milton Keynes - Crewe Route Add-On",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4316540": {
+      "rank": 7799,
+      "estimate": "<7k",
+      "name": "The Anomaly Department",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     }
   }

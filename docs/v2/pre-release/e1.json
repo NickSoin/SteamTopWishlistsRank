@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T07:27:52.284Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-14T11:59:38.599Z",
+  "entryCount": 26,
   "entries": {
     "363860": {
       "rank": 339,
@@ -181,6 +181,13 @@
       "estimate": "7k+",
       "name": "Starforged Legacy",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "4741530": {
+      "rank": 8749,
+      "estimate": "<7k",
+      "name": "BIOTONE.",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     }
   }

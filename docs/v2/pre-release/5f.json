@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T07:27:52.284Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-14T11:59:38.599Z",
+  "entryCount": 24,
   "entries": {
     "1194810": {
       "rank": 21,
@@ -130,6 +130,13 @@
       "estimate": "<7k",
       "name": "Total Chaos Against Apathy",
       "releaseDate": "2026-07-01",
+      "source": "tracked"
+    },
+    "3729810": {
+      "rank": 8056,
+      "estimate": "<7k",
+      "name": "Yet Another Incremental Game (but this time about coding)",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     },
     "3765700": {

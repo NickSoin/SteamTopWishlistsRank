@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T07:27:52.284Z",
-  "entryCount": 17,
+  "updatedAt": "2026-07-14T11:59:38.599Z",
+  "entryCount": 18,
   "entries": {
     "1129540": {
       "rank": 129,
@@ -87,6 +87,13 @@
       "name": "Anonymous Hacker Simulator: Prologue",
       "releaseDate": "2023-08-28",
       "source": "historical"
+    },
+    "2695260": {
+      "rank": 2121,
+      "estimate": "7k+",
+      "name": "The Crimson Maid",
+      "releaseDate": "2026-07-14",
+      "source": "tracked"
     },
     "2828860": {
       "rank": 37,
