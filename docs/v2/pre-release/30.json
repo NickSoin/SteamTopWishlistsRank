@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 27,
   "entries": {
     "978520": {
       "rank": 41,
@@ -188,6 +188,13 @@
       "estimate": "<7k",
       "name": "Nestify: Cozy Design",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4439290": {
+      "rank": 4473,
+      "estimate": "<7k",
+      "name": "Forza Horizon 6 Italian Passion Car Pack",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     }
   }

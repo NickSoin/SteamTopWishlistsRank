@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 19,
   "entries": {
     "1173790": {
       "rank": 382,
@@ -115,6 +115,13 @@
       "name": "Day of the Shell",
       "releaseDate": "2025-07-29",
       "source": "historical"
+    },
+    "4334110": {
+      "rank": 3806,
+      "estimate": "<7k",
+      "name": "Heartstop Tour",
+      "releaseDate": "2026-07-14",
+      "source": "tracked"
     },
     "4358260": {
       "rank": 4792,

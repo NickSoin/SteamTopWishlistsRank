@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 24,
   "entries": {
     "629820": {
       "rank": 21,
@@ -165,6 +165,13 @@
       "estimate": "<7k",
       "name": "Buenos Aires Mirror Line",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4043730": {
+      "rank": 5198,
+      "estimate": "<7k",
+      "name": "Vampire Hunter: Nightrise",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     }
   }

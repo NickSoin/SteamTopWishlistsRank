@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 43,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 44,
   "entries": {
     "607080": {
       "rank": 2,
@@ -261,6 +261,13 @@
       "estimate": "<7k",
       "name": "Bugscraper",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "3196370": {
+      "rank": 6645,
+      "estimate": "<7k",
+      "name": "Paperlands",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     },
     "3280350": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 27,
   "entries": {
     "820520": {
       "rank": 553,
@@ -136,6 +136,13 @@
       "name": "子归 - Blossom",
       "releaseDate": "2024-07-18",
       "source": "historical"
+    },
+    "2596900": {
+      "rank": 3698,
+      "estimate": "<7k",
+      "name": "Disarray",
+      "releaseDate": "2026-07-14",
+      "source": "tracked"
     },
     "2734450": {
       "rank": 2537,

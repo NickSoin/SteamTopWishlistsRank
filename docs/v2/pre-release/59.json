@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 34,
   "entries": {
     "601360": {
       "rank": 122,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Deluge",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4207100": {
+      "rank": 3336,
+      "estimate": "<7k",
+      "name": "I Know a Spot",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     },
     "4488590": {

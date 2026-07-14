@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 28,
   "entries": {
     "761830": {
       "rank": 31,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "Phone Flipper Simulator",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4121610": {
+      "rank": 4658,
+      "estimate": "<7k",
+      "name": "Something to Drink?",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     },
     "4290390": {

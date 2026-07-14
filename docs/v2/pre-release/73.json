@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 23,
   "entries": {
     "427940": {
       "rank": 24,
@@ -149,6 +149,13 @@
       "estimate": "40k+",
       "name": "House Flipper 2 - Sakura DLC",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4481850": {
+      "rank": 3927,
+      "estimate": "<7k",
+      "name": "Garisani Detective Agency",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     },
     "4604330": {

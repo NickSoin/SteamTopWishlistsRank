@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 20,
   "entries": {
     "1025960": {
       "rank": 669,
@@ -139,6 +139,13 @@
       "estimate": "<7k",
       "name": "Catjong 6: Pawztec Temple",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4273380": {
+      "rank": 8500,
+      "estimate": "<7k",
+      "name": "Chesscent",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     }
   }

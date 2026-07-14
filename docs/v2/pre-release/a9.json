@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 26,
   "entries": {
     "1172470": {
       "rank": 18,
@@ -145,6 +145,13 @@
       "name": "Assetto Corsa Competizione - 24H Nürburgring Pack",
       "releaseDate": "2024-04-01",
       "source": "historical"
+    },
+    "3641000": {
+      "rank": 584,
+      "estimate": "40k+",
+      "name": "The Incident at Galley House",
+      "releaseDate": "2026-07-14",
+      "source": "tracked"
     },
     "3700130": {
       "rank": 3510,

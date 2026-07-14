@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 28,
   "entries": {
     "467740": {
       "rank": 10,
@@ -180,6 +180,13 @@
       "releaseDate": "2026-09-08",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365112250"
+    },
+    "4206240": {
+      "rank": 9814,
+      "estimate": "<7k",
+      "name": "VAULTRATS",
+      "releaseDate": "2026-07-14",
+      "source": "tracked"
     },
     "4305480": {
       "rank": 4131,

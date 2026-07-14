@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 28,
   "entries": {
     "1209470": {
       "rank": 50,
@@ -193,6 +193,13 @@
       "estimate": "7k+",
       "name": "FeeBay Simulator",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4664030": {
+      "rank": 6207,
+      "estimate": "<7k",
+      "name": "Seven Seas Jewels 2 Collector's Edition",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     }
   }

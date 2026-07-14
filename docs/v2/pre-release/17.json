@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 28,
   "entries": {
     "950620": {
       "rank": 254,
@@ -147,6 +147,13 @@
       "name": "Aviassembly",
       "releaseDate": "2025-04-11",
       "source": "historical"
+    },
+    "2704090": {
+      "rank": 1475,
+      "estimate": "25k+",
+      "name": "Celestial Return",
+      "releaseDate": "2026-07-14",
+      "source": "tracked"
     },
     "2769240": {
       "rank": 1020,

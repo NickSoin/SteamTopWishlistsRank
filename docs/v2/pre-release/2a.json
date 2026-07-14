@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 35,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 36,
   "entries": {
     "809060": {
       "rank": 695,
@@ -236,6 +236,13 @@
       "name": "A Little to the Left: Seeing Stars",
       "releaseDate": "2024-06-25",
       "source": "historical"
+    },
+    "3152750": {
+      "rank": 1351,
+      "estimate": "25k+",
+      "name": "Taival",
+      "releaseDate": "2026-07-14",
+      "source": "tracked"
     },
     "3413000": {
       "rank": 2809,

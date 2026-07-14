@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 21,
   "entries": {
     "867660": {
       "rank": 651,
@@ -140,6 +140,13 @@
       "name": "Beyond Sandbox",
       "releaseDate": "2026-04-27",
       "source": "historical"
+    },
+    "4385270": {
+      "rank": 2764,
+      "estimate": "7k+",
+      "name": "Stay: Your Forever Pet!",
+      "releaseDate": "2026-07-14",
+      "source": "tracked"
     },
     "4761870": {
       "rank": 7963,

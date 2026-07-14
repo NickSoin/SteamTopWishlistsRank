@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 24,
   "entries": {
     "758690": {
       "rank": 7,
@@ -152,6 +152,13 @@
       "name": "SimRail - The Railway Simulator: Cargo Pack",
       "releaseDate": "2024-04-22",
       "source": "historical"
+    },
+    "4615010": {
+      "rank": 8924,
+      "estimate": "<7k",
+      "name": "Kibble Cats",
+      "releaseDate": "2026-07-14",
+      "source": "tracked"
     },
     "4660050": {
       "rank": 9123,

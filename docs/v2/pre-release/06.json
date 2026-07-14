@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T11:59:38.599Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-14T16:50:58.763Z",
+  "entryCount": 29,
   "entries": {
     "1040200": {
       "rank": 65,
@@ -206,6 +206,13 @@
       "estimate": "<7k",
       "name": "Succubus Survivors",
       "releaseDate": null,
+      "source": "tracked"
+    },
+    "4465600": {
+      "rank": 7261,
+      "estimate": "<7k",
+      "name": "Bowling Alley Simulator",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     }
   }
