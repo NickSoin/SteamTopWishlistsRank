@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T16:50:58.763Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-14T21:52:28.469Z",
+  "entryCount": 28,
   "entries": {
     "412020": {
       "rank": 3,
@@ -193,6 +193,13 @@
       "estimate": "7k+",
       "name": "Loli Ninja Village",
       "releaseDate": "2026-05-29",
+      "source": "tracked"
+    },
+    "4382310": {
+      "rank": 4655,
+      "estimate": "<7k",
+      "name": "Warp to Sector One",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     }
   }

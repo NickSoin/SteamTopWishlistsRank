@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T16:50:58.763Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-14T21:52:28.469Z",
+  "entryCount": 26,
   "entries": {
     "553420": {
       "rank": 45,
@@ -10,6 +10,13 @@
       "name": "TUNIC",
       "releaseDate": "2022-03-16",
       "source": "historical"
+    },
+    "948820": {
+      "rank": 4369,
+      "estimate": "<7k",
+      "name": "Nevergrind",
+      "releaseDate": "2026-07-14",
+      "source": "tracked"
     },
     "1374350": {
       "rank": 1914,

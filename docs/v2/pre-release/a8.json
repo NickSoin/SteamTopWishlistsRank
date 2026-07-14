@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T16:50:58.763Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-14T21:52:28.469Z",
+  "entryCount": 27,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "Reverse Dream of the Menasphere",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4620140": {
+      "rank": 6766,
+      "estimate": "<7k",
+      "name": "iMic - Voice Changer",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     },
     "4630400": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T16:50:58.763Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-14T21:52:28.469Z",
+  "entryCount": 33,
   "entries": {
     "751780": {
       "rank": 21,
@@ -223,6 +223,13 @@
       "estimate": "40k+",
       "name": "nophenia",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "4209160": {
+      "rank": 8584,
+      "estimate": "<7k",
+      "name": "Idyll Isle",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     },
     "4726270": {
