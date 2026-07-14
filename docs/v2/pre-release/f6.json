@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T04:09:17.162Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-14T07:27:52.284Z",
+  "entryCount": 31,
   "entries": {
     "858710": {
       "rank": 35,
@@ -196,6 +196,13 @@
       "releaseDate": "2026-04-16",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806718596"
+    },
+    "3685900": {
+      "rank": 3361,
+      "estimate": "<7k",
+      "name": "Creepy Support",
+      "releaseDate": "2026-07-14",
+      "source": "tracked"
     },
     "4157170": {
       "rank": 3802,

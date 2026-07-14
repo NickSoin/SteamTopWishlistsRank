@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T04:09:17.162Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-14T07:27:52.284Z",
+  "entryCount": 35,
   "entries": {
     "301280": {
       "rank": 574,
@@ -235,6 +235,13 @@
       "estimate": "7k+",
       "name": "ERROR143 - Day 7",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4429120": {
+      "rank": 8677,
+      "estimate": "<7k",
+      "name": "Ambitious Road",
+      "releaseDate": "2026-07-13",
       "source": "tracked"
     },
     "4692340": {

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-14T04:09:17.162Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-14T07:27:52.284Z",
+  "entryCount": 21,
   "entries": {
     "1120220": {
-      "rank": 2955,
+      "rank": 2956,
       "estimate": "7k+",
       "name": "Soyuz Constructors"
     },
     "1302770": {
-      "rank": 4239,
+      "rank": 4241,
       "estimate": "<7k",
       "name": "Hero.EXE"
     },
@@ -45,7 +45,7 @@
       "name": "Full Fathom"
     },
     "2341620": {
-      "rank": 3252,
+      "rank": 3253,
       "estimate": "<7k",
       "name": "Alpine Lake"
     },
@@ -60,7 +60,7 @@
       "name": "Snow White Ashes"
     },
     "2873750": {
-      "rank": 1275,
+      "rank": 1276,
       "estimate": "25k+",
       "name": "Pool of Madness",
       "actualWishlists": 32000,
@@ -72,7 +72,7 @@
       "name": "BLOODY HELL 2"
     },
     "3056570": {
-      "rank": 4582,
+      "rank": 4583,
       "estimate": "<7k",
       "name": "Deck of Memories"
     },
@@ -82,12 +82,17 @@
       "name": "Spellcaster University - Gears and Gobelins"
     },
     "3585490": {
-      "rank": 3687,
+      "rank": 3689,
       "estimate": "<7k",
       "name": "Standard Procedures"
     },
+    "3685370": {
+      "rank": 5212,
+      "estimate": "<7k",
+      "name": "黑山羊BlackGoat"
+    },
     "3820540": {
-      "rank": 2993,
+      "rank": 2995,
       "estimate": "7k+",
       "name": "The Grey Elegy: Under the Cursed Wings"
     },
@@ -97,7 +102,7 @@
       "name": "Curse Chapter: Dawnthief"
     },
     "4304900": {
-      "rank": 5043,
+      "rank": 5042,
       "estimate": "<7k",
       "name": "Big Dig"
     },

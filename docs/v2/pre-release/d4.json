@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T04:09:17.162Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-14T07:27:52.284Z",
+  "entryCount": 26,
   "entries": {
     "493520": {
       "rank": 14,
@@ -172,6 +172,13 @@
       "estimate": "40k+",
       "name": "FISH",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4549610": {
+      "rank": 3421,
+      "estimate": "<7k",
+      "name": "Three Kingdoms : Alias",
+      "releaseDate": "2026-07-13",
       "source": "tracked"
     },
     "4673140": {

@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-14T04:09:17.162Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-14T07:27:52.284Z",
+  "entryCount": 27,
   "entries": {
     "1126210": {
-      "rank": 2796,
+      "rank": 2799,
       "estimate": "7k+",
       "name": "the machine that BREATHES"
     },
     "1432340": {
-      "rank": 3244,
+      "rank": 3247,
       "estimate": "<7k",
       "name": "Loveland"
     },
     "1441100": {
-      "rank": 4127,
+      "rank": 4128,
       "estimate": "<7k",
       "name": "Anatine"
     },
     "1672320": {
-      "rank": 214,
+      "rank": 215,
       "estimate": "80k+",
       "name": "Fragile Existence"
     },
     "1961710": {
-      "rank": 5077,
+      "rank": 5079,
       "estimate": "<7k",
       "name": "Poker Warlords"
     },
     "1988900": {
-      "rank": 4906,
+      "rank": 4907,
       "estimate": "<7k",
       "name": "Cooking Crew"
     },
     "2083660": {
-      "rank": 900,
+      "rank": 901,
       "estimate": "40k+",
       "name": "Littlelands"
     },
@@ -50,12 +50,12 @@
       "name": "Fantastic Haven"
     },
     "2741160": {
-      "rank": 4763,
+      "rank": 4762,
       "estimate": "<7k",
       "name": "Red Metal"
     },
     "2960750": {
-      "rank": 5105,
+      "rank": 5104,
       "estimate": "<7k",
       "name": "Skylark 64"
     },
@@ -65,12 +65,12 @@
       "name": "amFM"
     },
     "3027810": {
-      "rank": 2670,
+      "rank": 2672,
       "estimate": "7k+",
       "name": "Touhou Infinite Nocturne"
     },
     "3050210": {
-      "rank": 5085,
+      "rank": 5075,
       "estimate": "<7k",
       "name": "Exjanitor: Data Cleanup"
     },
@@ -90,7 +90,7 @@
       "name": "Lionhearts"
     },
     "3470960": {
-      "rank": 961,
+      "rank": 960,
       "estimate": "40k+",
       "name": "Tales of Eternia Remastered"
     },
@@ -120,7 +120,7 @@
       "name": "Rural Cat Trails"
     },
     "4174160": {
-      "rank": 509,
+      "rank": 508,
       "estimate": "40k+",
       "name": "Project: Doors"
     },
@@ -130,9 +130,14 @@
       "name": "City Masterplan"
     },
     "4606560": {
-      "rank": 2981,
+      "rank": 2984,
       "estimate": "7k+",
       "name": "Finding Frankie 2"
+    },
+    "4730180": {
+      "rank": 5220,
+      "estimate": "<7k",
+      "name": "Hacker's Journey"
     }
   }
 }
