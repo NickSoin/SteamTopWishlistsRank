@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-15T16:52:50.886Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-15T21:38:00.925Z",
+  "entryCount": 22,
   "entries": {
     "1097350": {
       "rank": 63,
@@ -153,6 +153,13 @@
       "estimate": "<7k",
       "name": "盛夏离与合 - 2K视频",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4524800": {
+      "rank": 4977,
+      "estimate": "<7k",
+      "name": "Shellshock",
+      "releaseDate": "2026-07-16",
       "source": "tracked"
     }
   }

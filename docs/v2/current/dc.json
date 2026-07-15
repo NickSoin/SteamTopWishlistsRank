@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-15T16:52:50.886Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-15T21:38:00.925Z",
+  "entryCount": 19,
   "entries": {
     "1651400": {
       "rank": 3284,
@@ -15,17 +15,17 @@
       "name": "MORTAL CRUX"
     },
     "1937070": {
-      "rank": 714,
+      "rank": 715,
       "estimate": "40k+",
       "name": "Engines Of Destruction"
     },
     "2446760": {
-      "rank": 2412,
+      "rank": 2414,
       "estimate": "7k+",
       "name": "YASUKE: A Lost Descendant"
     },
     "2707670": {
-      "rank": 1481,
+      "rank": 1482,
       "estimate": "25k+",
       "name": "SCP: Valravn"
     },
@@ -35,17 +35,17 @@
       "name": "Lost Legions"
     },
     "2850600": {
-      "rank": 4909,
+      "rank": 4910,
       "estimate": "<7k",
       "name": "Mystical Tactics"
     },
     "2864290": {
-      "rank": 4015,
+      "rank": 4016,
       "estimate": "<7k",
       "name": "Aggelos 2"
     },
     "2867800": {
-      "rank": 3258,
+      "rank": 3259,
       "estimate": "<7k",
       "name": "DEPERSON"
     },
@@ -55,7 +55,7 @@
       "name": "Koshmar: The Last Reverie"
     },
     "2915770": {
-      "rank": 639,
+      "rank": 640,
       "estimate": "40k+",
       "name": "Rescue Ops: Wildfire"
     },
@@ -65,7 +65,7 @@
       "name": "ULTRA MUSHROOM"
     },
     "3037040": {
-      "rank": 2727,
+      "rank": 2731,
       "estimate": "7k+",
       "name": "Board Game Society"
     },
@@ -80,29 +80,24 @@
       "name": "Kagura Survivors x Summer Memories"
     },
     "3357160": {
-      "rank": 3797,
+      "rank": 3801,
       "estimate": "<7k",
       "name": "HOLLOW MIRE"
     },
     "3846480": {
-      "rank": 2477,
+      "rank": 2481,
       "estimate": "7k+",
       "name": "PLATONICA SPACE"
     },
     "3925750": {
-      "rank": 2521,
+      "rank": 2524,
       "estimate": "7k+",
       "name": "Generic Fighter Maybe"
     },
     "4272370": {
-      "rank": 2907,
+      "rank": 2905,
       "estimate": "7k+",
       "name": "Coal Duty"
-    },
-    "4524800": {
-      "rank": 4977,
-      "estimate": "<7k",
-      "name": "Shellshock"
     }
   }
 }
