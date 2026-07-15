@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-15T12:19:07.103Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-15T16:52:50.886Z",
+  "entryCount": 19,
   "entries": {
     "666150": {
       "rank": 48,
@@ -59,6 +59,13 @@
       "name": "Gargoyles Remastered",
       "releaseDate": "2023-10-19",
       "source": "historical"
+    },
+    "1993570": {
+      "rank": 4868,
+      "estimate": "<7k",
+      "name": "Solnox - Grimoire of Seasons",
+      "releaseDate": "2026-07-15",
+      "source": "tracked"
     },
     "2067920": {
       "rank": 1465,

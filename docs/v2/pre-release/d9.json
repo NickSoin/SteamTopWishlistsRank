@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-15T12:19:07.103Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-15T16:52:50.886Z",
+  "entryCount": 23,
   "entries": {
     "976590": {
       "rank": 197,
@@ -131,6 +131,13 @@
       "releaseDate": "2026-01-01",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1805431065404263"
+    },
+    "3767850": {
+      "rank": 532,
+      "estimate": "40k+",
+      "name": "SpiritVale",
+      "releaseDate": "2026-07-15",
+      "source": "tracked"
     },
     "4181370": {
       "rank": 1962,

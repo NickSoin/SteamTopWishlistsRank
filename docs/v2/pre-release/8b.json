@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-15T12:19:07.103Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-15T16:52:50.886Z",
+  "entryCount": 25,
   "entries": {
     "736590": {
       "rank": 75,
@@ -166,6 +166,13 @@
       "name": "UMIGARI | ウミガリ",
       "releaseDate": "2026-02-04",
       "source": "historical"
+    },
+    "4113050": {
+      "rank": 2291,
+      "estimate": "7k+",
+      "name": "Wabisabi SushiDerby",
+      "releaseDate": "2026-07-15",
+      "source": "tracked"
     },
     "4341060": {
       "rank": 2256,

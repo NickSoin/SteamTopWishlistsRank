@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-15T12:19:07.103Z",
-  "entryCount": 37,
+  "updatedAt": "2026-07-15T16:52:50.886Z",
+  "entryCount": 38,
   "entries": {
     "638990": {
       "rank": 135,
@@ -261,6 +261,13 @@
       "estimate": "7k+",
       "name": "Hold Your King",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "3930640": {
+      "rank": 8929,
+      "estimate": "<7k",
+      "name": "Farmers Market",
+      "releaseDate": "2026-07-15",
       "source": "tracked"
     }
   }

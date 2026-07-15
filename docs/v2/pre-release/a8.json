@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-15T12:19:07.103Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-15T16:52:50.886Z",
+  "entryCount": 28,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -165,6 +165,13 @@
       "estimate": "7k+",
       "name": "Underchoice",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "3985060": {
+      "rank": 3676,
+      "estimate": "<7k",
+      "name": "FLASH AND DIE",
+      "releaseDate": "2026-07-15",
       "source": "tracked"
     },
     "4255580": {

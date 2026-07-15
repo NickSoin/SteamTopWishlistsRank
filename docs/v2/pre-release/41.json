@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-15T12:19:07.103Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-15T16:52:50.886Z",
+  "entryCount": 31,
   "entries": {
     "338820": {
       "rank": 1245,
@@ -193,6 +193,13 @@
       "estimate": "15k+",
       "name": "Inkwellers",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3998560": {
+      "rank": 7623,
+      "estimate": "<7k",
+      "name": "Trainz Simulator World Tour",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     },
     "4077400": {
