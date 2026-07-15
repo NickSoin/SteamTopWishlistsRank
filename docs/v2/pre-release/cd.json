@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-15T04:10:26.957Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-15T07:46:46.658Z",
+  "entryCount": 29,
   "entries": {
     "674140": {
       "rank": 537,
@@ -181,6 +181,13 @@
       "estimate": "<7k",
       "name": "Three Kingdoms:BOND",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "4443160": {
+      "rank": 6997,
+      "estimate": "<7k",
+      "name": "Lux Anima",
+      "releaseDate": "2026-07-15",
       "source": "tracked"
     },
     "4483120": {
