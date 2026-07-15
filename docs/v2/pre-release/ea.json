@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T21:52:28.469Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-15T04:10:26.957Z",
+  "entryCount": 25,
   "entries": {
     "589940": {
       "rank": 1003,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "KimuNote",
       "releaseDate": "2026-06-29",
+      "source": "tracked"
+    },
+    "4549560": {
+      "rank": 9303,
+      "estimate": "<7k",
+      "name": "ShareNote Engine",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     }
   }

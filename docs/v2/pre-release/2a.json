@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-14T21:52:28.469Z",
-  "entryCount": 36,
+  "updatedAt": "2026-07-15T04:10:26.957Z",
+  "entryCount": 37,
   "entries": {
     "809060": {
       "rank": 695,
@@ -256,6 +256,13 @@
       "estimate": "<7k",
       "name": "Black Powder Box",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4676570": {
+      "rank": 7766,
+      "estimate": "<7k",
+      "name": "新盗墓笔记（官方正版）",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     }
   }

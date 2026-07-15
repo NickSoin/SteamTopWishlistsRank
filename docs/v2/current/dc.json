@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-14T21:52:28.469Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-15T04:10:26.957Z",
+  "entryCount": 20,
   "entries": {
     "1651400": {
       "rank": 3292,
@@ -15,12 +15,12 @@
       "name": "MORTAL CRUX"
     },
     "1937070": {
-      "rank": 715,
+      "rank": 717,
       "estimate": "40k+",
       "name": "Engines Of Destruction"
     },
     "2446760": {
-      "rank": 2417,
+      "rank": 2419,
       "estimate": "7k+",
       "name": "YASUKE: A Lost Descendant"
     },
@@ -35,17 +35,17 @@
       "name": "Lost Legions"
     },
     "2850600": {
-      "rank": 4918,
+      "rank": 4915,
       "estimate": "<7k",
       "name": "Mystical Tactics"
     },
     "2864290": {
-      "rank": 4030,
+      "rank": 4026,
       "estimate": "<7k",
       "name": "Aggelos 2"
     },
     "2867800": {
-      "rank": 3264,
+      "rank": 3265,
       "estimate": "<7k",
       "name": "DEPERSON"
     },
@@ -60,7 +60,7 @@
       "name": "Rescue Ops: Wildfire"
     },
     "2975130": {
-      "rank": 3770,
+      "rank": 3771,
       "estimate": "<7k",
       "name": "ULTRA MUSHROOM"
     },
@@ -70,17 +70,17 @@
       "name": "Board Game Society"
     },
     "3045070": {
-      "rank": 3862,
+      "rank": 3863,
       "estimate": "<7k",
       "name": "MetalMercs"
     },
     "3235000": {
-      "rank": 1178,
+      "rank": 1179,
       "estimate": "25k+",
       "name": "Kagura Survivors x Summer Memories"
     },
     "3357160": {
-      "rank": 3807,
+      "rank": 3808,
       "estimate": "<7k",
       "name": "HOLLOW MIRE"
     },
@@ -90,7 +90,7 @@
       "name": "PLATONICA SPACE"
     },
     "3925750": {
-      "rank": 2523,
+      "rank": 2525,
       "estimate": "7k+",
       "name": "Generic Fighter Maybe"
     },
@@ -98,6 +98,11 @@
       "rank": 2921,
       "estimate": "7k+",
       "name": "Coal Duty"
+    },
+    "4524800": {
+      "rank": 5191,
+      "estimate": "<7k",
+      "name": "Shellshock"
     }
   }
 }

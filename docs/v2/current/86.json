@@ -1,41 +1,46 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-14T21:52:28.469Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-15T04:10:26.957Z",
+  "entryCount": 23,
   "entries": {
+    "868160": {
+      "rank": 3269,
+      "estimate": "<7k",
+      "name": "Code: Terraform"
+    },
     "1146670": {
       "rank": 528,
       "estimate": "40k+",
       "name": "Beauty And Violence: Valkyries"
     },
     "1199520": {
-      "rank": 4656,
+      "rank": 4661,
       "estimate": "<7k",
       "name": "Joker & Teacher"
     },
     "1993980": {
-      "rank": 2958,
+      "rank": 2961,
       "estimate": "7k+",
       "name": "Astortion"
     },
     "2100020": {
-      "rank": 483,
+      "rank": 482,
       "estimate": "80k+",
       "name": "Lou's Lagoon"
     },
     "2208810": {
-      "rank": 135,
+      "rank": 134,
       "estimate": "200k+",
       "name": "Jurassic Park: Survival"
     },
     "2233430": {
-      "rank": 4319,
+      "rank": 4322,
       "estimate": "<7k",
       "name": "Horse Reality"
     },
     "2318250": {
-      "rank": 4748,
+      "rank": 4750,
       "estimate": "<7k",
       "name": "Everybody's Stranger"
     },
@@ -60,42 +65,42 @@
       "name": "PARAGON STORY"
     },
     "3444260": {
-      "rank": 3099,
+      "rank": 3102,
       "estimate": "<7k",
       "name": "NeverLight"
     },
     "3489340": {
-      "rank": 541,
+      "rank": 542,
       "estimate": "40k+",
       "name": "ReBlade: The Death Spiral"
     },
     "3529910": {
-      "rank": 2223,
+      "rank": 2225,
       "estimate": "7k+",
       "name": "The Great Coffee Caper"
     },
     "3562050": {
-      "rank": 4131,
+      "rank": 4134,
       "estimate": "<7k",
       "name": "FREE DUNK"
     },
     "3899460": {
-      "rank": 4881,
+      "rank": 4883,
       "estimate": "<7k",
       "name": "CARGO: Co-Op Delivery Simulator in Post Apocalyptic World"
     },
     "3919900": {
-      "rank": 3201,
+      "rank": 3193,
       "estimate": "<7k",
       "name": "Dead Zone Revive"
     },
     "3994190": {
-      "rank": 4747,
+      "rank": 4749,
       "estimate": "<7k",
       "name": "Lands of Ma'at"
     },
     "4051470": {
-      "rank": 3702,
+      "rank": 3704,
       "estimate": "<7k",
       "name": "BrokenLore: ASCEND"
     },
@@ -110,7 +115,7 @@
       "name": "Knights of Fiona"
     },
     "4632350": {
-      "rank": 587,
+      "rank": 588,
       "estimate": "40k+",
       "name": "Hot Dogs, Horseshoes & Hand Grenades 2"
     }
