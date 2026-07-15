@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-15T07:46:46.658Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-15T12:19:07.103Z",
+  "entryCount": 26,
   "entries": {
     "1159290": {
       "rank": 574,
@@ -131,6 +131,13 @@
       "name": "Inspector Schmidt - The Ebbing",
       "releaseDate": "2025-04-07",
       "source": "historical"
+    },
+    "2569760": {
+      "rank": 31,
+      "estimate": "600k+",
+      "name": "The Mound: Omen of Cthulhu",
+      "releaseDate": "2026-07-15",
+      "source": "tracked"
     },
     "2597260": {
       "rank": 2320,

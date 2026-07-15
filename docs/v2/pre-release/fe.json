@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-15T07:46:46.658Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-15T12:19:07.103Z",
+  "entryCount": 27,
   "entries": {
     "773370": {
       "rank": 126,
@@ -174,6 +174,13 @@
       "estimate": "7k+",
       "name": "Battle For Embolia",
       "releaseDate": "2026-07-03",
+      "source": "tracked"
+    },
+    "4324840": {
+      "rank": 7412,
+      "estimate": "<7k",
+      "name": "Peace Under His Roof",
+      "releaseDate": "2026-07-15",
       "source": "tracked"
     },
     "4366330": {
