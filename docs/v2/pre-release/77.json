@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T04:01:06.924Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-16T07:42:43.739Z",
+  "entryCount": 28,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -197,6 +197,13 @@
       "estimate": "<7k",
       "name": "Quarantine Market Simulator",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4449410": {
+      "rank": 1162,
+      "estimate": "25k+",
+      "name": "KYOTO XANADU -the Blooming Phantom-",
+      "releaseDate": "2026-07-15",
       "source": "tracked"
     }
   }

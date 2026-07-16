@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-16T04:01:06.924Z",
+  "updatedAt": "2026-07-16T07:42:43.739Z",
   "entryCount": 23,
   "entries": {
     "836880": {
-      "rank": 4639,
+      "rank": 4638,
       "estimate": "<7k",
       "name": "The Berlin Wall"
     },
     "1328720": {
-      "rank": 3839,
+      "rank": 3841,
       "estimate": "<7k",
       "name": "Red Sails"
     },
@@ -20,7 +20,7 @@
       "name": "Fishkeeper"
     },
     "1592200": {
-      "rank": 2391,
+      "rank": 2390,
       "estimate": "7k+",
       "name": "EXP: War Trauma"
     },
@@ -30,7 +30,7 @@
       "name": "魔女旅店 Witches Tavern"
     },
     "2076310": {
-      "rank": 3007,
+      "rank": 3006,
       "estimate": "<7k",
       "name": "Tears of Magic"
     },
@@ -40,7 +40,7 @@
       "name": "Emergency Room Simulator"
     },
     "2740750": {
-      "rank": 986,
+      "rank": 987,
       "estimate": "40k+",
       "name": "Rollin' Rascal"
     },
@@ -50,7 +50,7 @@
       "name": "Iron Dawn"
     },
     "2906440": {
-      "rank": 5149,
+      "rank": 5146,
       "estimate": "<7k",
       "name": "Townbox"
     },
@@ -60,12 +60,12 @@
       "name": "Crime or Punishment"
     },
     "2960390": {
-      "rank": 3269,
+      "rank": 3267,
       "estimate": "<7k",
       "name": "Nutty Dungeons"
     },
     "3004390": {
-      "rank": 1977,
+      "rank": 1974,
       "estimate": "15k+",
       "name": "The Cave Diver"
     },
@@ -80,42 +80,42 @@
       "name": "Tides of Annihilation"
     },
     "3377230": {
-      "rank": 5172,
+      "rank": 5171,
       "estimate": "<7k",
       "name": "Seal of Solitomb"
     },
     "3554370": {
-      "rank": 4421,
+      "rank": 4420,
       "estimate": "<7k",
       "name": "Vampires vs Mechas"
     },
     "3736260": {
-      "rank": 4602,
+      "rank": 4601,
       "estimate": "<7k",
       "name": "Lunaraxia: Magpie Sings of the World's End"
     },
     "3769800": {
-      "rank": 1489,
+      "rank": 1488,
       "estimate": "25k+",
       "name": "Elevator"
     },
     "3819370": {
-      "rank": 4482,
+      "rank": 4477,
       "estimate": "<7k",
       "name": "Pull the Beer"
     },
     "3987060": {
-      "rank": 1495,
+      "rank": 1494,
       "estimate": "25k+",
       "name": "If Red Then Stop"
     },
     "4295810": {
-      "rank": 1501,
-      "estimate": "15k+",
+      "rank": 1500,
+      "estimate": "25k+",
       "name": "A Whisper of Fall: Jinyiwei"
     },
     "4468030": {
-      "rank": 1469,
+      "rank": 1466,
       "estimate": "25k+",
       "name": "OFFBEAT"
     }
