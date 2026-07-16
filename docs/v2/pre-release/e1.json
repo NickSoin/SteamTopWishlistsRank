@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T07:42:43.739Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-16T12:09:24.063Z",
+  "entryCount": 27,
   "entries": {
     "363860": {
       "rank": 339,
@@ -181,6 +181,13 @@
       "estimate": "7k+",
       "name": "Starforged Legacy",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "3808690": {
+      "rank": 506,
+      "estimate": "40k+",
+      "name": "Pathogenic",
+      "releaseDate": "2026-07-16",
       "source": "tracked"
     },
     "4741530": {

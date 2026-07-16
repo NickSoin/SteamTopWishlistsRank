@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T07:42:43.739Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-16T12:09:24.063Z",
+  "entryCount": 28,
   "entries": {
     "773370": {
       "rank": 126,
@@ -167,6 +167,13 @@
       "estimate": "40k+",
       "name": "Bubsy 4D",
       "releaseDate": "2026-05-22",
+      "source": "tracked"
+    },
+    "3452670": {
+      "rank": 3353,
+      "estimate": "<7k",
+      "name": "妄生 - Wandering Souls",
+      "releaseDate": "2026-07-16",
       "source": "tracked"
     },
     "3462790": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T07:42:43.739Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-16T12:09:24.063Z",
+  "entryCount": 31,
   "entries": {
     "779340": {
       "rank": 5,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Template!! An Angel's Gift",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "4668220": {
+      "rank": 3001,
+      "estimate": "<7k",
+      "name": "Farm Factory Simulator",
+      "releaseDate": "2026-07-16",
       "source": "tracked"
     }
   }

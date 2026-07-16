@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T07:42:43.739Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-16T12:09:24.063Z",
+  "entryCount": 24,
   "entries": {
     "900040": {
       "rank": 60,
@@ -143,6 +143,13 @@
       "name": "Shadow Project",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3372060": {
+      "rank": 495,
+      "estimate": "80k+",
+      "name": "Hell Maiden",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "4420050": {
       "rank": 4878,

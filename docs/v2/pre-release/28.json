@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T07:42:43.739Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-16T12:09:24.063Z",
+  "entryCount": 21,
   "entries": {
     "812440": {
       "rank": 138,
@@ -140,6 +140,13 @@
       "releaseDate": "2026-04-14",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522846167"
+    },
+    "3661430": {
+      "rank": 4038,
+      "estimate": "<7k",
+      "name": "Feather Land",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "4124750": {
       "rank": 4014,
