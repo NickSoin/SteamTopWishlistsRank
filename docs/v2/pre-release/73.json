@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-16T17:04:59.657Z",
+  "entryCount": 24,
   "entries": {
     "427940": {
       "rank": 24,
@@ -101,6 +101,13 @@
       "name": "Fellowship",
       "releaseDate": "2025-10-16",
       "source": "historical"
+    },
+    "2521170": {
+      "rank": 1906,
+      "estimate": "15k+",
+      "name": "Looking For Fael",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "2537920": {
       "rank": 662,

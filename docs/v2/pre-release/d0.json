@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-16T17:04:59.657Z",
+  "entryCount": 26,
   "entries": {
     "803330": {
       "rank": 19,
@@ -164,6 +164,13 @@
       "name": "The Seven Deadly Sins: Origin",
       "releaseDate": "2026-03-16",
       "source": "historical"
+    },
+    "3712080": {
+      "rank": 228,
+      "estimate": "80k+",
+      "name": "Funnel Runners",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "3992240": {
       "rank": 5721,

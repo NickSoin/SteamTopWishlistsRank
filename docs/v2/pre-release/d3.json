@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
+  "updatedAt": "2026-07-16T17:04:59.657Z",
   "entryCount": 34,
   "entries": {
     "307950": {
@@ -40,11 +40,11 @@
       "source": "historical"
     },
     "1662160": {
-      "rank": 2735,
-      "estimate": "7k+",
+      "rank": 1731,
+      "estimate": "15k+",
       "name": "K-pop Idol Stories: Road to Debut",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "1689080": {
       "rank": 610,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
-  "entryCount": 17,
+  "updatedAt": "2026-07-16T17:04:59.657Z",
+  "entryCount": 18,
   "entries": {
     "699130": {
       "rank": 139,
@@ -121,6 +121,13 @@
       "estimate": "80k+",
       "name": "Stonemachia",
       "releaseDate": "2026-05-26",
+      "source": "tracked"
+    },
+    "4210580": {
+      "rank": 609,
+      "estimate": "40k+",
+      "name": "Ore Factory Squad ⛏️",
+      "releaseDate": "2026-07-16",
       "source": "tracked"
     }
   }

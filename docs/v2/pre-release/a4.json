@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
-  "entryCount": 40,
+  "updatedAt": "2026-07-16T17:04:59.657Z",
+  "entryCount": 41,
   "entries": {
     "534380": {
       "rank": 1,
@@ -243,6 +243,13 @@
       "name": "Warhammer 40,000: Boltgun 2",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3869850": {
+      "rank": 1105,
+      "estimate": "25k+",
+      "name": "Welcome to the Game III",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "4039900": {
       "rank": 2061,

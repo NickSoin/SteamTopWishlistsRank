@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-16T17:04:59.657Z",
+  "entryCount": 26,
   "entries": {
     "954850": {
       "rank": 6,
@@ -143,6 +143,13 @@
       "name": "Pet Shop Simulator",
       "releaseDate": "2024-06-21",
       "source": "historical"
+    },
+    "2802740": {
+      "rank": 1780,
+      "estimate": "15k+",
+      "name": "Heave Ho 2",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "2807170": {
       "rank": 2240,

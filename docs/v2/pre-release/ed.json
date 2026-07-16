@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-16T17:04:59.657Z",
+  "entryCount": 21,
   "entries": {
     "912000": {
       "rank": 895,
@@ -122,6 +122,13 @@
       "name": "Bat to the Heavens",
       "releaseDate": "2024-12-09",
       "source": "historical"
+    },
+    "3756340": {
+      "rank": 3240,
+      "estimate": "<7k",
+      "name": "Cheat Death",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "4196150": {
       "rank": 7265,

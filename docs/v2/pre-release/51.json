@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-16T17:04:59.657Z",
+  "entryCount": 29,
   "entries": {
     "467740": {
       "rank": 10,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "The Escape to the Afterlife",
       "releaseDate": "2026-06-17",
+      "source": "tracked"
+    },
+    "3621200": {
+      "rank": 2664,
+      "estimate": "7k+",
+      "name": "Pimbolas",
+      "releaseDate": "2026-07-16",
       "source": "tracked"
     },
     "4115450": {

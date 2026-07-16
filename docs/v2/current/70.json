@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-16T17:04:59.657Z",
+  "entryCount": 24,
   "entries": {
     "1395380": {
-      "rank": 3548,
+      "rank": 3535,
       "estimate": "<7k",
       "name": "Evolutis: Duality"
     },
     "1402820": {
-      "rank": 857,
+      "rank": 852,
       "estimate": "40k+",
       "name": "Hostile Mars"
     },
     "1460950": {
-      "rank": 4611,
+      "rank": 4594,
       "estimate": "<7k",
       "name": "Schrodinger's Catgirl"
     },
     "2193530": {
-      "rank": 4007,
+      "rank": 3991,
       "estimate": "<7k",
       "name": "World of Titans MMORPG"
     },
@@ -30,32 +30,32 @@
       "name": "Holstin"
     },
     "2487190": {
-      "rank": 383,
+      "rank": 380,
       "estimate": "80k+",
       "name": "Main Sequence"
     },
     "2818820": {
-      "rank": 3735,
+      "rank": 3715,
       "estimate": "<7k",
       "name": "The Telwynium"
     },
     "2890240": {
-      "rank": 715,
+      "rank": 710,
       "estimate": "40k+",
       "name": "Capy Castaway"
     },
     "3009720": {
-      "rank": 3226,
+      "rank": 3211,
       "estimate": "<7k",
       "name": "Baltic Folk"
     },
     "3527020": {
-      "rank": 4809,
+      "rank": 4791,
       "estimate": "<7k",
       "name": "Shut the windows and don't look outside"
     },
     "3561930": {
-      "rank": 2543,
+      "rank": 2531,
       "estimate": "7k+",
       "name": "Liquid Lungs"
     },
@@ -65,59 +65,64 @@
       "name": "Darkhaven"
     },
     "3660860": {
-      "rank": 3637,
+      "rank": 3621,
       "estimate": "<7k",
       "name": "Turnip Boy Steals the Mail"
     },
     "3676250": {
-      "rank": 3569,
+      "rank": 3556,
       "estimate": "<7k",
       "name": "Boars in Rome"
     },
     "3699910": {
-      "rank": 1004,
-      "estimate": "25k+",
+      "rank": 998,
+      "estimate": "40k+",
       "name": "Lines of Battle"
     },
     "3902160": {
-      "rank": 2675,
+      "rank": 2661,
       "estimate": "7k+",
       "name": "A Game About Breaking A Cube"
     },
     "3938640": {
-      "rank": 1395,
+      "rank": 1384,
       "estimate": "25k+",
       "name": "Ugoku Sushi Bar"
     },
     "4001820": {
-      "rank": 2265,
+      "rank": 2254,
       "estimate": "7k+",
       "name": "Armaphract"
     },
     "4096910": {
-      "rank": 4377,
+      "rank": 4363,
       "estimate": "<7k",
       "name": "Void Reaver"
     },
     "4120790": {
-      "rank": 2569,
+      "rank": 2549,
       "estimate": "7k+",
       "name": "The Sorting Bureau"
     },
     "4267800": {
-      "rank": 3007,
-      "estimate": "<7k",
+      "rank": 2992,
+      "estimate": "7k+",
       "name": "Bandit Simulator TD"
     },
     "4364910": {
-      "rank": 2234,
+      "rank": 2217,
       "estimate": "7k+",
       "name": "Ruins of Dawn"
     },
     "4450620": {
-      "rank": 296,
+      "rank": 295,
       "estimate": "80k+",
       "name": "GRAIN ROT"
+    },
+    "4615580": {
+      "rank": 5035,
+      "estimate": "<7k",
+      "name": "OVERCHESS"
     }
   }
 }

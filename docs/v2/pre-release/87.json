@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-16T17:04:59.657Z",
+  "entryCount": 34,
   "entries": {
     "1039100": {
       "rank": 184,
@@ -52,6 +52,13 @@
       "name": "Tactics Ogre: Reborn",
       "releaseDate": "2022-11-11",
       "source": "historical"
+    },
+    "1473960": {
+      "rank": 1136,
+      "estimate": "25k+",
+      "name": "Wreck Runners",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "1493360": {
       "rank": 1079,

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
+  "updatedAt": "2026-07-16T17:04:59.657Z",
   "entryCount": 31,
   "entries": {
     "541310": {
@@ -86,11 +86,11 @@
       "source": "historical"
     },
     "1696770": {
-      "rank": 855,
+      "rank": 530,
       "estimate": "40k+",
       "name": "The Mermaid Mask",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "1803110": {
       "rank": 742,

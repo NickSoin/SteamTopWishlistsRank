@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-16T17:04:59.657Z",
+  "entryCount": 26,
   "entries": {
     "975370": {
       "rank": 8,
@@ -179,6 +179,13 @@
       "estimate": "25k+",
       "name": "The 7th Guest Remake",
       "releaseDate": "2026-06-03",
+      "source": "tracked"
+    },
+    "4855760": {
+      "rank": 1624,
+      "estimate": "15k+",
+      "name": "Tung Tung Tung Survival",
+      "releaseDate": "2026-07-16",
       "source": "tracked"
     }
   }

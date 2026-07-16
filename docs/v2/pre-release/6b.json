@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-16T17:04:59.657Z",
+  "entryCount": 20,
   "entries": {
     "1173790": {
       "rank": 382,
@@ -115,6 +115,13 @@
       "name": "Day of the Shell",
       "releaseDate": "2025-07-29",
       "source": "historical"
+    },
+    "4009450": {
+      "rank": 8241,
+      "estimate": "<7k",
+      "name": "Petunia's Purgatory",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "4334110": {
       "rank": 3806,

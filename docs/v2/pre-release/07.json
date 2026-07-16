@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T12:09:24.063Z",
-  "entryCount": 35,
+  "updatedAt": "2026-07-16T17:04:59.657Z",
+  "entryCount": 36,
   "entries": {
     "930280": {
       "rank": 438,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "Glitchy: Not So Sweet",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4737050": {
+      "rank": 2957,
+      "estimate": "7k+",
+      "name": "Garden Eternal",
+      "releaseDate": "2026-07-16",
       "source": "tracked"
     },
     "4771360": {
