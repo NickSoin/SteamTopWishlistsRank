@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-15T21:38:00.925Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-16T04:01:06.924Z",
+  "entryCount": 35,
   "entries": {
     "315210": {
       "rank": 48,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "Black Plague",
       "releaseDate": "2026-06-06",
+      "source": "tracked"
+    },
+    "4524580": {
+      "rank": 4712,
+      "estimate": "<7k",
+      "name": "Vecchio Furioso",
+      "releaseDate": "2026-07-15",
       "source": "tracked"
     }
   }

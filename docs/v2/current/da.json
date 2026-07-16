@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-15T21:38:00.925Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-16T04:01:06.924Z",
+  "entryCount": 20,
   "entries": {
     "287820": {
-      "rank": 2629,
+      "rank": 2630,
       "estimate": "7k+",
       "name": "Silent Escape: Induction"
     },
     "1070500": {
-      "rank": 2369,
+      "rank": 2371,
       "estimate": "7k+",
       "name": "He Who Watches"
     },
@@ -20,7 +20,7 @@
       "name": "Art of the Rail"
     },
     "1555960": {
-      "rank": 2773,
+      "rank": 2776,
       "estimate": "7k+",
       "name": "Crime Scene Technician"
     },
@@ -30,7 +30,7 @@
       "name": "Our Life: Now & Forever"
     },
     "2245130": {
-      "rank": 4304,
+      "rank": 4306,
       "estimate": "<7k",
       "name": "Handshakes: Hands On"
     },
@@ -40,7 +40,7 @@
       "name": "RESISTOR"
     },
     "2354580": {
-      "rank": 4234,
+      "rank": 4236,
       "estimate": "<7k",
       "name": "Spaceman Memories"
     },
@@ -55,12 +55,12 @@
       "name": "SCP New Management"
     },
     "2776540": {
-      "rank": 4394,
+      "rank": 4400,
       "estimate": "<7k",
       "name": "Opaldune"
     },
     "2783830": {
-      "rank": 3248,
+      "rank": 3249,
       "estimate": "<7k",
       "name": "Cozy Crest"
     },
@@ -75,29 +75,34 @@
       "name": "True Vikings"
     },
     "3082020": {
-      "rank": 2619,
+      "rank": 2620,
       "estimate": "7k+",
       "name": "Portal: Intrusion"
     },
     "3869940": {
-      "rank": 2321,
+      "rank": 2322,
       "estimate": "7k+",
       "name": "War of Banners"
     },
     "3910680": {
-      "rank": 426,
+      "rank": 427,
       "estimate": "80k+",
       "name": "INARI"
     },
     "4198610": {
-      "rank": 2424,
+      "rank": 2426,
       "estimate": "7k+",
       "name": "A Fighter’s Nova: Mindara"
     },
     "4311530": {
-      "rank": 391,
+      "rank": 387,
       "estimate": "80k+",
       "name": "Very Safe Dino Park 🦖"
+    },
+    "4796830": {
+      "rank": 5176,
+      "estimate": "<7k",
+      "name": "WE ARE SO DEAD"
     }
   }
 }

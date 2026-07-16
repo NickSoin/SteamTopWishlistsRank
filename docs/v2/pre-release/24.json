@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-15T21:38:00.925Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-16T04:01:06.924Z",
+  "entryCount": 23,
   "entries": {
     "623280": {
       "rank": 34,
@@ -139,6 +139,13 @@
       "estimate": "40k+",
       "name": "Backrooms Lost Runners",
       "releaseDate": "2026-06-17",
+      "source": "tracked"
+    },
+    "3312130": {
+      "rank": 1177,
+      "estimate": "25k+",
+      "name": "Factory Town 2: Paradise",
+      "releaseDate": "2026-07-14",
       "source": "tracked"
     },
     "4420960": {
