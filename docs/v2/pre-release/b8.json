@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T07:43:44.077Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-17T12:05:36.995Z",
+  "entryCount": 29,
   "entries": {
     "485400": {
       "rank": 112,
@@ -204,6 +204,13 @@
       "estimate": "<7k",
       "name": "KeyFortress",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4733420": {
+      "rank": 8222,
+      "estimate": "<7k",
+      "name": "Metro Architect",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     }
   }

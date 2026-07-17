@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T07:43:44.077Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-17T12:05:36.995Z",
+  "entryCount": 21,
   "entries": {
     "979110": {
       "rank": 38,
@@ -142,6 +142,13 @@
       "estimate": "7k+",
       "name": "Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection",
       "releaseDate": "2026-07-09",
+      "source": "tracked"
+    },
+    "4699700": {
+      "rank": 6507,
+      "estimate": "<7k",
+      "name": "Desktop Reptiles",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     }
   }

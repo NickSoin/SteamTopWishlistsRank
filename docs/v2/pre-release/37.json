@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T07:43:44.077Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-17T12:05:36.995Z",
+  "entryCount": 28,
   "entries": {
     "863500": {
       "rank": 1011,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "OCEANIDES: World's End – Great Mother Goddess of the Void Sea",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "4696610": {
+      "rank": 8335,
+      "estimate": "<7k",
+      "name": "The Ministry for Anomaly Observation",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     }
   }

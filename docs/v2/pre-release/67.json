@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T07:43:44.077Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-17T12:05:36.995Z",
+  "entryCount": 32,
   "entries": {
     "1014260": {
       "rank": 2706,
@@ -221,6 +221,13 @@
       "estimate": "40k+",
       "name": "Forest Escape: Last Train",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4272270": {
+      "rank": 6429,
+      "estimate": "<7k",
+      "name": "It's Chopping Time!",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     }
   }
