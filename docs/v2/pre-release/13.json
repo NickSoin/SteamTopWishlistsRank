@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T21:44:00.726Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-17T04:04:44.998Z",
+  "entryCount": 24,
   "entries": {
     "750200": {
       "rank": 159,
@@ -149,6 +149,13 @@
       "releaseDate": "2026-01-01",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6350729003489133847"
+    },
+    "4169820": {
+      "rank": 2934,
+      "estimate": "7k+",
+      "name": "Our Brief Eternity",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "4236490": {
       "rank": 9956,

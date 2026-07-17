@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T21:44:00.726Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-17T04:04:44.998Z",
+  "entryCount": 33,
   "entries": {
     "1034140": {
       "rank": 13,
@@ -220,6 +220,13 @@
       "name": "Teenage Mutant Ninja Turtles: Empire City",
       "releaseDate": "2026-04-30",
       "source": "historical"
+    },
+    "4571480": {
+      "rank": 3725,
+      "estimate": "<7k",
+      "name": "MoeArmy vs SuArmy",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "4583100": {
       "rank": 9804,

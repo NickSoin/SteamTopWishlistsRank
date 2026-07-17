@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T21:44:00.726Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-17T04:04:44.998Z",
+  "entryCount": 22,
   "entries": {
     "843810": {
       "rank": 198,
@@ -142,6 +142,13 @@
       "estimate": "<7k",
       "name": "RE-TAPED",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4293110": {
+      "rank": 4457,
+      "estimate": "<7k",
+      "name": "Silan: Monster Girl Island!",
+      "releaseDate": "2026-07-16",
       "source": "tracked"
     },
     "4427630": {

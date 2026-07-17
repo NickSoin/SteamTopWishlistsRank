@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T21:44:00.726Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-17T04:04:44.998Z",
+  "entryCount": 23,
   "entries": {
     "867660": {
       "rank": 651,
@@ -140,6 +140,13 @@
       "name": "Beyond Sandbox",
       "releaseDate": "2026-04-27",
       "source": "historical"
+    },
+    "3703200": {
+      "rank": 5334,
+      "estimate": "<7k",
+      "name": "Herb Tea Man",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     },
     "4385270": {
       "rank": 2764,

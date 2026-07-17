@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-16T21:44:00.726Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-17T04:04:44.998Z",
+  "entryCount": 30,
   "entries": {
     "1154090": {
       "rank": 1108,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "Nodwar",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4484350": {
+      "rank": 8371,
+      "estimate": "<7k",
+      "name": "Hatarake! - Working Hard! Even though I getting isekai'd!",
+      "releaseDate": "2026-07-16",
       "source": "tracked"
     },
     "4567080": {
