@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-17T04:04:44.998Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-17T07:43:44.077Z",
+  "entryCount": 25,
   "entries": {
     "565760": {
       "rank": 4472,
@@ -37,12 +37,12 @@
       "name": "AdventureQuest Worlds: Infinity"
     },
     "2211630": {
-      "rank": 2201,
+      "rank": 2200,
       "estimate": "7k+",
       "name": "Duskers 2.0"
     },
     "2538300": {
-      "rank": 4345,
+      "rank": 4346,
       "estimate": "<7k",
       "name": "SCP: Contamination"
     },
@@ -62,17 +62,17 @@
       "name": "Status Entropos"
     },
     "2985520": {
-      "rank": 2471,
+      "rank": 2470,
       "estimate": "7k+",
       "name": "The Player Who Can't Level Up"
     },
     "3137010": {
-      "rank": 5011,
+      "rank": 5010,
       "estimate": "<7k",
       "name": "Meat Engine"
     },
     "3241560": {
-      "rank": 4809,
+      "rank": 4813,
       "estimate": "<7k",
       "name": "Tossdown"
     },
@@ -82,12 +82,12 @@
       "name": "Hell Express"
     },
     "3596730": {
-      "rank": 3379,
+      "rank": 3378,
       "estimate": "<7k",
       "name": "Painted Kingdoms: Tower Defense & Firefighting"
     },
     "3722850": {
-      "rank": 4143,
+      "rank": 4145,
       "estimate": "<7k",
       "name": "Desktropolis"
     },
@@ -97,7 +97,7 @@
       "name": "Car For Sale Together"
     },
     "3910750": {
-      "rank": 4010,
+      "rank": 4006,
       "estimate": "<7k",
       "name": "DONUT PANIC"
     },
@@ -107,7 +107,7 @@
       "name": "1666: Amsterdam"
     },
     "3955960": {
-      "rank": 5137,
+      "rank": 5138,
       "estimate": "<7k",
       "name": "Chant Wizard"
     },
@@ -121,8 +121,13 @@
       "estimate": "15k+",
       "name": "Silicon Gate"
     },
+    "4519130": {
+      "rank": 3990,
+      "estimate": "<7k",
+      "name": "MOLDRISE"
+    },
     "4739040": {
-      "rank": 1894,
+      "rank": 1890,
       "estimate": "15k+",
       "name": "DISCIPLINE SIMULATOR"
     }

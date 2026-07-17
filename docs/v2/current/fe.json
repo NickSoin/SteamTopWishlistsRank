@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-17T04:04:44.998Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-17T07:43:44.077Z",
+  "entryCount": 29,
   "entries": {
     "1111740": {
-      "rank": 4421,
+      "rank": 4422,
       "estimate": "<7k",
       "name": "Cross Reverie"
     },
     "1374750": {
-      "rank": 4269,
+      "rank": 4267,
       "estimate": "<7k",
       "name": "Out of Place"
     },
     "1403850": {
-      "rank": 832,
+      "rank": 833,
       "estimate": "40k+",
       "name": "Mars Colony Builder"
     },
@@ -40,7 +40,7 @@
       "name": "Electrokinetic"
     },
     "2398100": {
-      "rank": 3845,
+      "rank": 3844,
       "estimate": "<7k",
       "name": "ЭОН"
     },
@@ -90,22 +90,22 @@
       "name": "The CUBE"
     },
     "3497800": {
-      "rank": 2541,
+      "rank": 2536,
       "estimate": "7k+",
       "name": "Bonehold"
     },
     "3560360": {
-      "rank": 2716,
+      "rank": 2715,
       "estimate": "7k+",
       "name": "Forsworn"
     },
     "3767110": {
-      "rank": 5125,
+      "rank": 5126,
       "estimate": "<7k",
       "name": "Erulean Angel: Fantasy Commander"
     },
     "4013270": {
-      "rank": 4447,
+      "rank": 4446,
       "estimate": "<7k",
       "name": "The False Alice -Retold Tale-"
     },
@@ -115,17 +115,17 @@
       "name": "End of Eden"
     },
     "4200980": {
-      "rank": 3399,
+      "rank": 3398,
       "estimate": "<7k",
       "name": "Ashen Seed"
     },
     "4201590": {
-      "rank": 3725,
+      "rank": 3723,
       "estimate": "<7k",
       "name": "KochiKame: Ryo-san's Billion-yen Beat"
     },
     "4242890": {
-      "rank": 2286,
+      "rank": 2287,
       "estimate": "7k+",
       "name": "Encryptid"
     },
@@ -135,7 +135,7 @@
       "name": "The Ashen OZ"
     },
     "4537820": {
-      "rank": 2494,
+      "rank": 2493,
       "estimate": "7k+",
       "name": "Overcome Your Fears - Lighthouse"
     },
@@ -143,6 +143,11 @@
       "rank": 1189,
       "estimate": "25k+",
       "name": "DIOXIDE"
+    },
+    "4902640": {
+      "rank": 5180,
+      "estimate": "<7k",
+      "name": "Attack Only"
     }
   }
 }

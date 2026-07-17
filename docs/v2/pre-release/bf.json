@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T04:04:44.998Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-17T07:43:44.077Z",
+  "entryCount": 24,
   "entries": {
     "482400": {
       "rank": 6,
@@ -157,6 +157,13 @@
       "name": "HackHub: Free Trial",
       "releaseDate": "2024-11-04",
       "source": "historical"
+    },
+    "3861730": {
+      "rank": 2429,
+      "estimate": "7k+",
+      "name": "Class of '09: Puzzle Showdown",
+      "releaseDate": "2026-07-17",
+      "source": "tracked"
     },
     "4579890": {
       "rank": 7258,

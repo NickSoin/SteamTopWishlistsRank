@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T04:04:44.998Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-17T07:43:44.077Z",
+  "entryCount": 27,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -155,6 +155,13 @@
       "estimate": "7k+",
       "name": "Clover's Quadrants",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "3406890": {
+      "rank": 4182,
+      "estimate": "<7k",
+      "name": "Touhou: Divine Land -Majesty in Game-",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     },
     "3857430": {
