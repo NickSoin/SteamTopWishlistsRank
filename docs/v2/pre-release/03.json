@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T16:43:51.922Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-17T21:40:30.593Z",
+  "entryCount": 33,
   "entries": {
     "979690": {
       "rank": 26,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Mafia Life Simulator",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "3219010": {
+      "rank": 554,
+      "estimate": "40k+",
+      "name": "Fogpiercer",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     },
     "4371500": {

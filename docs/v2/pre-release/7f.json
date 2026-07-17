@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T16:43:51.922Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-17T21:40:30.593Z",
+  "entryCount": 32,
   "entries": {
     "1167100": {
       "rank": 379,
@@ -214,6 +214,13 @@
       "estimate": "15k+",
       "name": "Pat the Cat",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4335540": {
+      "rank": 4635,
+      "estimate": "<7k",
+      "name": "Lepidarium",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     },
     "4696030": {

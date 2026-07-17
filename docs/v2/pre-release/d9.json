@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T16:43:51.922Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-17T21:40:30.593Z",
+  "entryCount": 24,
   "entries": {
     "976590": {
       "rank": 197,
@@ -137,6 +137,13 @@
       "estimate": "40k+",
       "name": "SpiritVale",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "4178020": {
+      "rank": 2057,
+      "estimate": "7k+",
+      "name": "Lured In",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     },
     "4181370": {

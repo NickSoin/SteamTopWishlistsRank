@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T16:43:51.922Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-17T21:40:30.593Z",
+  "entryCount": 34,
   "entries": {
     "680420": {
       "rank": 15,
@@ -82,6 +82,13 @@
       "name": "Call of Duty®",
       "releaseDate": "2022-10-27",
       "source": "historical"
+    },
+    "1952920": {
+      "rank": 1238,
+      "estimate": "25k+",
+      "name": "Strikers Club",
+      "releaseDate": "2026-07-17",
+      "source": "tracked"
     },
     "2121150": {
       "rank": 1835,

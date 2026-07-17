@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T16:43:51.922Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-17T21:40:30.593Z",
+  "entryCount": 30,
   "entries": {
     "1170080": {
       "rank": 986,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "Flux Empyrean",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "4039140": {
+      "rank": 1332,
+      "estimate": "25k+",
+      "name": "Subway Builder",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     },
     "4046960": {

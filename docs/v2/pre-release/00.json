@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T16:43:51.922Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-17T21:40:30.593Z",
+  "entryCount": 27,
   "entries": {
     "763180": {
       "rank": 734,
@@ -157,6 +157,13 @@
       "name": "HARUKA: Beyond the Stars",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "2527160": {
+      "rank": 300,
+      "estimate": "80k+",
+      "name": "Desktop Explorer",
+      "releaseDate": "2026-07-17",
+      "source": "tracked"
     },
     "2634950": {
       "rank": 25,
