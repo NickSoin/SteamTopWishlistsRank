@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T12:05:36.995Z",
-  "entryCount": 42,
+  "updatedAt": "2026-07-17T16:43:51.922Z",
+  "entryCount": 43,
   "entries": {
     "720660": {
       "rank": 1007,
@@ -248,6 +248,13 @@
       "name": "A Building Full of Cats 2",
       "releaseDate": "2025-06-16",
       "source": "historical"
+    },
+    "2872600": {
+      "rank": 1253,
+      "estimate": "25k+",
+      "name": "Colonies of The Remnant",
+      "releaseDate": "2026-07-17",
+      "source": "tracked"
     },
     "2892310": {
       "rank": 2054,

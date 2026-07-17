@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T12:05:36.995Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-17T16:43:51.922Z",
+  "entryCount": 26,
   "entries": {
     "553540": {
       "rank": 73,
@@ -138,6 +138,13 @@
       "name": "Lucky Hunter",
       "releaseDate": "2024-11-04",
       "source": "historical"
+    },
+    "2913610": {
+      "rank": 2169,
+      "estimate": "7k+",
+      "name": "What Awaits, Aleksey?",
+      "releaseDate": "2026-07-17",
+      "source": "tracked"
     },
     "3011030": {
       "rank": 1209,

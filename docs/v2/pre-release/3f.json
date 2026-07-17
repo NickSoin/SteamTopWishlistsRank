@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T12:05:36.995Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-17T16:43:51.922Z",
+  "entryCount": 30,
   "entries": {
     "546560": {
       "rank": 11,
@@ -191,6 +191,13 @@
       "estimate": "80k+",
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition)",
       "releaseDate": "2026-07-08",
+      "source": "tracked"
+    },
+    "4489700": {
+      "rank": 7517,
+      "estimate": "<7k",
+      "name": "Touhou: Beyond Gensokyo",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     },
     "4566920": {

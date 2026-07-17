@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T12:05:36.995Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-17T16:43:51.922Z",
+  "entryCount": 30,
   "entries": {
     "467740": {
       "rank": 10,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Fun Park Simulator",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4775410": {
+      "rank": 1099,
+      "estimate": "25k+",
+      "name": "Jeffrey Eggstein",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     }
   }

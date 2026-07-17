@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T12:05:36.995Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-17T16:43:51.922Z",
+  "entryCount": 27,
   "entries": {
     "924980": {
       "rank": 34,
@@ -177,6 +177,13 @@
       "estimate": "7k+",
       "name": "Kinetype",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4614320": {
+      "rank": 4598,
+      "estimate": "<7k",
+      "name": "Dead Night Highway",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     },
     "4710590": {

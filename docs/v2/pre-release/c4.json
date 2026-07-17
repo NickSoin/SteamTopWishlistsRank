@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T12:05:36.995Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-17T16:43:51.922Z",
+  "entryCount": 31,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -171,6 +171,13 @@
       "name": "Heretical",
       "releaseDate": "2024-10-30",
       "source": "historical"
+    },
+    "3221720": {
+      "rank": 7198,
+      "estimate": "<7k",
+      "name": "SIGILLVM: RESONANCE",
+      "releaseDate": "2026-07-17",
+      "source": "tracked"
     },
     "3705350": {
       "rank": 3662,

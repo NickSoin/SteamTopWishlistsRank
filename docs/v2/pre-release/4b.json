@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T12:05:36.995Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-17T16:43:51.922Z",
+  "entryCount": 32,
   "entries": {
     "936790": {
       "rank": 38,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Sludge Department",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4781990": {
+      "rank": 8242,
+      "estimate": "<7k",
+      "name": "Rain Station Z",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T12:05:36.995Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-17T16:43:51.922Z",
+  "entryCount": 30,
   "entries": {
     "502050": {
       "rank": 1,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Tiny Cats vs Toys",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4622330": {
+      "rank": 4515,
+      "estimate": "<7k",
+      "name": "CD Market - Music Label Sim",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     },
     "4645760": {

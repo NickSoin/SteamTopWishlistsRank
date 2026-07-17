@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T12:05:36.995Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-17T16:43:51.922Z",
+  "entryCount": 33,
   "entries": {
     "1014260": {
       "rank": 2706,
@@ -227,6 +227,13 @@
       "rank": 6429,
       "estimate": "<7k",
       "name": "It's Chopping Time!",
+      "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4605210": {
+      "rank": 2582,
+      "estimate": "7k+",
+      "name": "Pet the Cat",
       "releaseDate": "2026-07-17",
       "source": "tracked"
     }
