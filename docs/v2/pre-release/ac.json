@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-18T03:38:54.893Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-18T07:19:44.422Z",
+  "entryCount": 27,
   "entries": {
     "977510": {
       "rank": 1079,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Obstacles: Gems of Power",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4867330": {
+      "rank": 3400,
+      "estimate": "<7k",
+      "name": "Toy Keeper",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     }
   }

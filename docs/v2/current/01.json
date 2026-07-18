@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-18T03:38:54.893Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-18T07:19:44.422Z",
+  "entryCount": 20,
   "entries": {
     "850870": {
-      "rank": 2906,
+      "rank": 2907,
       "estimate": "7k+",
       "name": "Hard-Life"
     },
     "1352140": {
-      "rank": 1011,
+      "rank": 1012,
       "estimate": "25k+",
       "name": "VUP-Simulator"
     },
     "1633850": {
-      "rank": 1046,
+      "rank": 1048,
       "estimate": "25k+",
       "name": "Jianghu Simulator"
     },
@@ -25,12 +25,12 @@
       "name": "Pathbreakers: Roaming Blades"
     },
     "1833210": {
-      "rank": 2636,
+      "rank": 2639,
       "estimate": "7k+",
       "name": "Astromine"
     },
     "2160070": {
-      "rank": 763,
+      "rank": 764,
       "estimate": "40k+",
       "name": "Forge of the Fae"
     },
@@ -40,7 +40,7 @@
       "name": "Sea Of Rifts"
     },
     "2640150": {
-      "rank": 2097,
+      "rank": 2096,
       "estimate": "7k+",
       "name": "Venus: The Last Ascent"
     },
@@ -50,14 +50,19 @@
       "name": "Dragon Shelter"
     },
     "3164310": {
-      "rank": 2991,
+      "rank": 2989,
       "estimate": "7k+",
       "name": "Verde"
     },
     "3278790": {
-      "rank": 3404,
+      "rank": 3400,
       "estimate": "<7k",
       "name": "Precinct IX"
+    },
+    "3361540": {
+      "rank": 5188,
+      "estimate": "<7k",
+      "name": "TYRONE vs COPS 2"
     },
     "3522600": {
       "rank": 282,
@@ -65,12 +70,12 @@
       "name": "Demon Bluff"
     },
     "3587450": {
-      "rank": 3335,
+      "rank": 3336,
       "estimate": "<7k",
       "name": "Crispy Circuits"
     },
     "3635740": {
-      "rank": 4276,
+      "rank": 4277,
       "estimate": "<7k",
       "name": "Subjectivation"
     },
@@ -80,7 +85,7 @@
       "name": "Grand Tactician: Napoleonic Wars (1792-1815)"
     },
     "4503570": {
-      "rank": 4073,
+      "rank": 4075,
       "estimate": "<7k",
       "name": "MOLOKAUST"
     },
