@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-18T07:19:44.422Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-18T11:33:57.642Z",
+  "entryCount": 19,
   "entries": {
     "654860": {
       "rank": 4254,
@@ -10,7 +10,7 @@
       "name": "Panic in Puzzle World"
     },
     "1208170": {
-      "rank": 770,
+      "rank": 767,
       "estimate": "40k+",
       "name": "Samurai: Ronin's Path"
     },
@@ -20,17 +20,17 @@
       "name": "Best Mall Simulator"
     },
     "2140200": {
-      "rank": 3820,
+      "rank": 3822,
       "estimate": "<7k",
       "name": "Resolve"
     },
     "2147700": {
-      "rank": 4723,
+      "rank": 4726,
       "estimate": "<7k",
       "name": "Umbral Core"
     },
     "2273650": {
-      "rank": 3399,
+      "rank": 3400,
       "estimate": "<7k",
       "name": "SCP: JOSIE"
     },
@@ -40,7 +40,7 @@
       "name": "D.O.R.F. Real-Time Strategic Conflict"
     },
     "2433630": {
-      "rank": 1307,
+      "rank": 1298,
       "estimate": "25k+",
       "name": "The Left Behind"
     },
@@ -50,17 +50,17 @@
       "name": "The Transylvania Adventure of Simon Quest"
     },
     "2853290": {
-      "rank": 2634,
+      "rank": 2635,
       "estimate": "7k+",
       "name": "Free Stars: Children of Infinity"
     },
     "3151140": {
-      "rank": 1943,
+      "rank": 1945,
       "estimate": "15k+",
       "name": "Shelf Heroes"
     },
     "3197890": {
-      "rank": 1476,
+      "rank": 1477,
       "estimate": "25k+",
       "name": "LURKS WITHIN WALLS"
     },
@@ -75,12 +75,12 @@
       "name": "Total War: WARHAMMER 40,000"
     },
     "4202270": {
-      "rank": 4612,
+      "rank": 4614,
       "estimate": "<7k",
       "name": "Husk Protocol"
     },
     "4377480": {
-      "rank": 1704,
+      "rank": 1705,
       "estimate": "15k+",
       "name": "Burn-9"
     },
@@ -89,8 +89,13 @@
       "estimate": "15k+",
       "name": "SATED"
     },
+    "4729160": {
+      "rank": 5189,
+      "estimate": "<7k",
+      "name": "The Kuon Island Nursery Rhyme Murders: Case Notes"
+    },
     "4788240": {
-      "rank": 555,
+      "rank": 554,
       "estimate": "40k+",
       "name": "Night Shift Hospital"
     }

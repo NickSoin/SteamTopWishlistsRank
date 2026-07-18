@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-18T07:19:44.422Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-18T11:33:57.642Z",
+  "entryCount": 19,
   "entries": {
     "924380": {
       "rank": 2944,
@@ -10,27 +10,27 @@
       "name": "WoodZone"
     },
     "986520": {
-      "rank": 3386,
+      "rank": 3387,
       "estimate": "<7k",
       "name": "Ultra Strangeness"
     },
     "1342150": {
-      "rank": 4010,
+      "rank": 4013,
       "estimate": "<7k",
       "name": "The Cabbage Effect"
     },
     "2141460": {
-      "rank": 4739,
+      "rank": 4740,
       "estimate": "<7k",
       "name": "Rising Star - The Horse Game"
     },
     "2545200": {
-      "rank": 992,
+      "rank": 993,
       "estimate": "40k+",
       "name": "Animaloid Girl"
     },
     "2635440": {
-      "rank": 1812,
+      "rank": 1811,
       "estimate": "15k+",
       "name": "Team Fortress 2 Legacy"
     },
@@ -40,7 +40,7 @@
       "name": "Rancher: A new life"
     },
     "2713120": {
-      "rank": 3005,
+      "rank": 3006,
       "estimate": "<7k",
       "name": "Furyball: Rogue Revenge"
     },
@@ -52,12 +52,12 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6350729003489133847"
     },
     "3412800": {
-      "rank": 4485,
+      "rank": 4487,
       "estimate": "<7k",
       "name": "Jawbone Hollow"
     },
     "3509380": {
-      "rank": 4552,
+      "rank": 4545,
       "estimate": "<7k",
       "name": "GrimKeep"
     },
@@ -77,17 +77,17 @@
       "name": "How Many Dudes?"
     },
     "4244640": {
-      "rank": 1619,
+      "rank": 1616,
       "estimate": "15k+",
       "name": "Foghorns Drown"
     },
     "4286040": {
-      "rank": 3883,
+      "rank": 3877,
       "estimate": "<7k",
       "name": "Unicycle Together"
     },
     "4575010": {
-      "rank": 2544,
+      "rank": 2545,
       "estimate": "7k+",
       "name": "Too Hot to Be True"
     },
@@ -95,6 +95,11 @@
       "rank": 466,
       "estimate": "80k+",
       "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil"
+    },
+    "4876650": {
+      "rank": 4357,
+      "estimate": "<7k",
+      "name": "Never Sort By Color"
     }
   }
 }
