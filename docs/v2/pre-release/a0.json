@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T21:40:30.593Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-18T03:38:54.893Z",
+  "entryCount": 29,
   "entries": {
     "922620": {
       "rank": 627,
@@ -157,6 +157,13 @@
       "name": "Dungeon Rampage",
       "releaseDate": "2025-12-05",
       "source": "historical"
+    },
+    "3586450": {
+      "rank": 2547,
+      "estimate": "7k+",
+      "name": "World Tree Ranch: Elven Legacy",
+      "releaseDate": "2026-07-17",
+      "source": "tracked"
     },
     "3760100": {
       "rank": 4925,

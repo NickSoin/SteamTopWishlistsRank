@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-17T21:40:30.593Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-18T03:38:54.893Z",
+  "entryCount": 23,
   "entries": {
     "741340": {
       "rank": 3191,
@@ -25,17 +25,17 @@
       "name": "Worst World"
     },
     "1897860": {
-      "rank": 3763,
+      "rank": 3760,
       "estimate": "<7k",
       "name": "Sunken Realms"
     },
     "2216840": {
-      "rank": 2722,
+      "rank": 2723,
       "estimate": "7k+",
       "name": "BACKROOMS: NO RETURN"
     },
     "2329070": {
-      "rank": 1747,
+      "rank": 1748,
       "estimate": "15k+",
       "name": "POSTFROST"
     },
@@ -55,7 +55,7 @@
       "name": "Lost Host"
     },
     "3504490": {
-      "rank": 1229,
+      "rank": 1231,
       "estimate": "25k+",
       "name": "Legacy of Valor"
     },
@@ -65,32 +65,32 @@
       "name": "33 Days till Extraction"
     },
     "3711050": {
-      "rank": 3401,
+      "rank": 3399,
       "estimate": "<7k",
       "name": "BeaterCore"
     },
     "3866080": {
-      "rank": 1931,
+      "rank": 1933,
       "estimate": "15k+",
       "name": "Stick A Round"
     },
     "3967130": {
-      "rank": 2462,
+      "rank": 2464,
       "estimate": "7k+",
       "name": "Wild West Miner Simulator"
     },
     "4092130": {
-      "rank": 4643,
+      "rank": 4642,
       "estimate": "<7k",
       "name": "Sacred: Last Pixel of Ancaria"
     },
     "4130890": {
-      "rank": 5118,
+      "rank": 5115,
       "estimate": "<7k",
       "name": "SIRENS"
     },
     "4163960": {
-      "rank": 1305,
+      "rank": 1304,
       "estimate": "25k+",
       "name": "Another Eden Begins"
     },
@@ -100,7 +100,7 @@
       "name": "Uncanny Tales: The Watcher"
     },
     "4414860": {
-      "rank": 1679,
+      "rank": 1675,
       "estimate": "15k+",
       "name": "Direland"
     },
@@ -110,9 +110,14 @@
       "name": "Inquisitor Simulator"
     },
     "4483020": {
-      "rank": 4837,
+      "rank": 4836,
       "estimate": "<7k",
       "name": "Echoes of the Flame"
+    },
+    "4486870": {
+      "rank": 5180,
+      "estimate": "<7k",
+      "name": "FEED THE AI"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-17T21:40:30.593Z",
+  "updatedAt": "2026-07-18T03:38:54.893Z",
   "entryCount": 20,
   "entries": {
     "1778150": {
@@ -10,12 +10,12 @@
       "name": "TRIP"
     },
     "1810070": {
-      "rank": 2471,
+      "rank": 2473,
       "estimate": "7k+",
       "name": "Aperture: Salt Mines"
     },
     "1953850": {
-      "rank": 2791,
+      "rank": 2793,
       "estimate": "7k+",
       "name": "VICE Undercover"
     },
@@ -25,7 +25,7 @@
       "name": "ARK 2"
     },
     "2381500": {
-      "rank": 1701,
+      "rank": 1702,
       "estimate": "15k+",
       "name": "Engine Simulator"
     },
@@ -35,17 +35,17 @@
       "name": "Relics of the Oracle"
     },
     "3042790": {
-      "rank": 3805,
+      "rank": 3803,
       "estimate": "<7k",
       "name": "Scirocco Thugs"
     },
     "3260240": {
-      "rank": 1942,
+      "rank": 1943,
       "estimate": "15k+",
       "name": "Drivers of the Apocalypse"
     },
     "3433800": {
-      "rank": 2097,
+      "rank": 2099,
       "estimate": "7k+",
       "name": "Moonbrella"
     },
@@ -55,7 +55,7 @@
       "name": "BOMBSHELL BLITZ"
     },
     "3601630": {
-      "rank": 3615,
+      "rank": 3602,
       "estimate": "<7k",
       "name": "Cosmo Tales"
     },
@@ -80,7 +80,7 @@
       "name": "Total Tank Simulator 2"
     },
     "3985330": {
-      "rank": 3520,
+      "rank": 3511,
       "estimate": "<7k",
       "name": "BURNED HORIZONS"
     },
@@ -95,7 +95,7 @@
       "name": "SlashZero"
     },
     "4108460": {
-      "rank": 4859,
+      "rank": 4854,
       "estimate": "<7k",
       "name": "PatriotMemoirs"
     },

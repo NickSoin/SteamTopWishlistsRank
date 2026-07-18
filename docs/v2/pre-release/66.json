@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T21:40:30.593Z",
-  "entryCount": 38,
+  "updatedAt": "2026-07-18T03:38:54.893Z",
+  "entryCount": 39,
   "entries": {
     "976890": {
       "rank": 70,
@@ -260,6 +260,13 @@
       "estimate": "80k+",
       "name": "Warhammer 40,000: Darktide - Skitarii Class",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4542640": {
+      "rank": 6769,
+      "estimate": "<7k",
+      "name": "三国：谋定天下",
+      "releaseDate": "2026-07-17",
       "source": "tracked"
     },
     "4615780": {

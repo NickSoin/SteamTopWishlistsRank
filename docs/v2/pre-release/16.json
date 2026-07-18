@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-17T21:40:30.593Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-18T03:38:54.893Z",
+  "entryCount": 20,
   "entries": {
     "597820": {
       "rank": 2,
@@ -136,6 +136,13 @@
       "name": "Lizard Survivors: Battle for Hyperborea",
       "releaseDate": "2023-11-16",
       "source": "historical"
+    },
+    "3606400": {
+      "rank": 5031,
+      "estimate": "<7k",
+      "name": "Dungeon Repeater",
+      "releaseDate": "2026-07-16",
+      "source": "tracked"
     }
   }
 }
