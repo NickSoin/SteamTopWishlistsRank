@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-19T07:44:03.626Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-19T11:57:21.932Z",
+  "entryCount": 20,
   "entries": {
     "1506730": {
-      "rank": 2205,
+      "rank": 2207,
       "estimate": "7k+",
       "name": "What Never Was: Chapter II"
     },
     "1629660": {
-      "rank": 2197,
+      "rank": 2198,
       "estimate": "7k+",
       "name": "Moonshell Island"
     },
     "2077110": {
-      "rank": 3515,
+      "rank": 3518,
       "estimate": "<7k",
       "name": "Rise of Agon"
     },
     "2156390": {
-      "rank": 876,
+      "rank": 877,
       "estimate": "40k+",
       "name": "WorldShards",
       "actualWishlists": 50000,
@@ -37,22 +37,22 @@
       "name": "Dino Run 2"
     },
     "2606880": {
-      "rank": 4688,
+      "rank": 4691,
       "estimate": "<7k",
       "name": "EV2"
     },
     "2802730": {
-      "rank": 3536,
+      "rank": 3539,
       "estimate": "<7k",
       "name": "Frieda is Changing"
     },
     "3202290": {
-      "rank": 3259,
+      "rank": 3263,
       "estimate": "<7k",
       "name": "Chess Arena"
     },
     "3289400": {
-      "rank": 2860,
+      "rank": 2859,
       "estimate": "7k+",
       "name": "ARMED FRAME"
     },
@@ -67,12 +67,12 @@
       "name": "Mandrake"
     },
     "3911400": {
-      "rank": 4765,
+      "rank": 4766,
       "estimate": "<7k",
       "name": "Super Blood Hockey: Rogue Manager"
     },
     "3963030": {
-      "rank": 3457,
+      "rank": 3458,
       "estimate": "<7k",
       "name": "Pickle Pete"
     },
@@ -82,24 +82,29 @@
       "name": "Aftermath Z: Red Pine Lake"
     },
     "4252700": {
-      "rank": 2128,
+      "rank": 2126,
       "estimate": "7k+",
       "name": "Archon Soul"
     },
     "4311980": {
-      "rank": 4600,
+      "rank": 4602,
       "estimate": "<7k",
       "name": "DITTORI"
     },
     "4570020": {
-      "rank": 3897,
+      "rank": 3900,
       "estimate": "<7k",
       "name": "FOURSAKEN"
     },
     "4753780": {
-      "rank": 4030,
+      "rank": 4034,
       "estimate": "<7k",
       "name": "Animal Rescue Network"
+    },
+    "4954970": {
+      "rank": 4315,
+      "estimate": "<7k",
+      "name": "No Body No Problem!"
     }
   }
 }
