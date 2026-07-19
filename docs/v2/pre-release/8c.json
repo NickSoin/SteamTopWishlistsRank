@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-19T11:57:21.932Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-19T16:29:21.103Z",
+  "entryCount": 31,
   "entries": {
     "659960": {
       "rank": 821,
@@ -209,6 +209,13 @@
       "estimate": "<7k",
       "name": "Total Football Online",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4699430": {
+      "rank": 8031,
+      "estimate": "<7k",
+      "name": "The Birth Cry",
+      "releaseDate": "2026-07-19",
       "source": "tracked"
     },
     "4710650": {
