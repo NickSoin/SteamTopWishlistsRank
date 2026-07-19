@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-19T16:29:21.103Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-19T21:13:33.449Z",
+  "entryCount": 35,
   "entries": {
     "1039100": {
       "rank": 184,
@@ -240,6 +240,13 @@
       "estimate": "<7k",
       "name": "Femme Fatality",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "4717870": {
+      "rank": 6046,
+      "estimate": "<7k",
+      "name": "Uchi No Heya!",
+      "releaseDate": "2026-07-19",
       "source": "tracked"
     }
   }
