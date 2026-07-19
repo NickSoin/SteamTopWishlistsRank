@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-18T21:37:20.361Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-19T04:08:46.131Z",
+  "entryCount": 33,
   "entries": {
     "1238450": {
       "rank": 1566,
@@ -233,6 +233,13 @@
       "name": "Steam Controller",
       "releaseDate": "2026-05-04",
       "source": "historical"
+    },
+    "4530780": {
+      "rank": 2967,
+      "estimate": "7k+",
+      "name": "The Hust Banhmi | Bánh Mì Bách Khoa",
+      "releaseDate": "2026-07-18",
+      "source": "tracked"
     }
   }
 }

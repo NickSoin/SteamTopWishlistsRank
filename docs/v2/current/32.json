@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-18T21:37:20.361Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-19T04:08:46.131Z",
+  "entryCount": 24,
   "entries": {
     "1233680": {
-      "rank": 3599,
+      "rank": 3603,
       "estimate": "<7k",
       "name": "Legends of Astravia",
       "actualWishlists": 1000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1788311419050228"
     },
     "1316440": {
-      "rank": 3210,
+      "rank": 3214,
       "estimate": "<7k",
       "name": "Lonefarm"
     },
     "2052510": {
-      "rank": 4133,
+      "rank": 4138,
       "estimate": "<7k",
       "name": "The Magistrate"
     },
     "2087880": {
-      "rank": 2185,
+      "rank": 2187,
       "estimate": "7k+",
       "name": "Ending Tau"
     },
@@ -32,12 +32,12 @@
       "name": "Withersworn"
     },
     "2252710": {
-      "rank": 3546,
+      "rank": 3550,
       "estimate": "<7k",
       "name": "Hotel Simulator"
     },
     "2355020": {
-      "rank": 756,
+      "rank": 758,
       "estimate": "40k+",
       "name": "Lost Hellden",
       "actualWishlists": 50000,
@@ -54,7 +54,7 @@
       "name": "ANIMAL USE PROTOCOL"
     },
     "2987920": {
-      "rank": 2504,
+      "rank": 2505,
       "estimate": "7k+",
       "name": "FPV Military Kamikaze Drone Simulator"
     },
@@ -79,27 +79,27 @@
       "name": "Drownlight"
     },
     "3681610": {
-      "rank": 1163,
+      "rank": 1160,
       "estimate": "25k+",
       "name": "DRAGON QUEST MONSTERS: The Withered World"
     },
     "3815550": {
-      "rank": 3579,
+      "rank": 3575,
       "estimate": "<7k",
       "name": "Space Imperia 4X"
     },
     "3869500": {
-      "rank": 1452,
+      "rank": 1456,
       "estimate": "25k+",
       "name": "VOIMA"
     },
     "3963220": {
-      "rank": 2955,
+      "rank": 2957,
       "estimate": "7k+",
       "name": "Saturday AM: Battle Manga"
     },
     "4083240": {
-      "rank": 5088,
+      "rank": 5091,
       "estimate": "<7k",
       "name": "ERROR:Ai.lien"
     },
@@ -109,7 +109,7 @@
       "name": "Resilient"
     },
     "4227280": {
-      "rank": 5057,
+      "rank": 5056,
       "estimate": "<7k",
       "name": "Bash Moto"
     },
@@ -118,8 +118,13 @@
       "estimate": "800k+",
       "name": "Dear Passengers"
     },
+    "4630150": {
+      "rank": 5196,
+      "estimate": "<7k",
+      "name": "The Life You Missed"
+    },
     "4639980": {
-      "rank": 3762,
+      "rank": 3765,
       "estimate": "<7k",
       "name": "Red Light On"
     }
