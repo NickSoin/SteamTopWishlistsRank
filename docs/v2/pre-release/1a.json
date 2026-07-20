@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T17:04:12.416Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-20T21:50:55.019Z",
+  "entryCount": 34,
   "entries": {
     "812910": {
       "rank": 1037,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "Rogue Realm: Guardian Grids",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "4669350": {
+      "rank": 8670,
+      "estimate": "<7k",
+      "name": "WinHack 95",
+      "releaseDate": "2026-07-20",
       "source": "tracked"
     },
     "4740600": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T17:04:12.416Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-20T21:50:55.019Z",
+  "entryCount": 33,
   "entries": {
     "721700": {
       "rank": 679,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "halfmoon",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4519130": {
+      "rank": 3655,
+      "estimate": "<7k",
+      "name": "MOLDRISE",
+      "releaseDate": "2026-07-20",
       "source": "tracked"
     },
     "4674970": {

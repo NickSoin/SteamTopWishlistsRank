@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-20T17:04:12.416Z",
+  "updatedAt": "2026-07-20T21:50:55.019Z",
   "entryCount": 20,
   "entries": {
     "304770": {
@@ -20,17 +20,17 @@
       "name": "Redneck Party"
     },
     "1466310": {
-      "rank": 2122,
+      "rank": 2125,
       "estimate": "7k+",
       "name": "AC-130 Gunship Operator"
     },
     "2111370": {
-      "rank": 4103,
+      "rank": 4102,
       "estimate": "<7k",
       "name": "Covert Critter"
     },
     "2413960": {
-      "rank": 3063,
+      "rank": 3066,
       "estimate": "<7k",
       "name": "Dark"
     },
@@ -45,12 +45,12 @@
       "name": "The Last Rose"
     },
     "2823570": {
-      "rank": 3257,
+      "rank": 3258,
       "estimate": "<7k",
       "name": "Netcode Warriors"
     },
     "3091260": {
-      "rank": 2679,
+      "rank": 2681,
       "estimate": "7k+",
       "name": "Darkbound"
     },
@@ -60,27 +60,27 @@
       "name": "领航员计划 Navigator Project"
     },
     "3205960": {
-      "rank": 3506,
+      "rank": 3509,
       "estimate": "<7k",
       "name": "Succubus Memories"
     },
     "3498700": {
-      "rank": 2589,
+      "rank": 2580,
       "estimate": "7k+",
       "name": "Appulse"
     },
     "3630010": {
-      "rank": 1753,
+      "rank": 1754,
       "estimate": "15k+",
       "name": "CoopRooms"
     },
     "4055780": {
-      "rank": 1815,
+      "rank": 1816,
       "estimate": "15k+",
       "name": "Gunship Origins"
     },
     "4065790": {
-      "rank": 4881,
+      "rank": 4855,
       "estimate": "<7k",
       "name": "Choo Choo Defenders"
     },
@@ -90,7 +90,7 @@
       "name": "VHOLUME"
     },
     "4234750": {
-      "rank": 1358,
+      "rank": 1359,
       "estimate": "25k+",
       "name": "Kaiju Princess: Super Survivor Showdown"
     },
@@ -100,7 +100,7 @@
       "name": "The Pines"
     },
     "4502750": {
-      "rank": 587,
+      "rank": 588,
       "estimate": "40k+",
       "name": "Infamous Keepers"
     }

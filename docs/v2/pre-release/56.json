@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T17:04:12.416Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-20T21:50:55.019Z",
+  "entryCount": 26,
   "entries": {
     "610370": {
       "rank": 18,
@@ -178,6 +178,13 @@
       "name": "Barbecue with friends",
       "releaseDate": "2025-05-22",
       "source": "historical"
+    },
+    "4605950": {
+      "rank": 4782,
+      "estimate": "<7k",
+      "name": "UNSIGHT",
+      "releaseDate": "2026-07-20",
+      "source": "tracked"
     }
   }
 }

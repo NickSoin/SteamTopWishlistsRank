@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T17:04:12.416Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-20T21:50:55.019Z",
+  "entryCount": 34,
   "entries": {
     "698670": {
       "rank": 24,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Antivirus Girl",
       "releaseDate": "2026-07-01",
+      "source": "tracked"
+    },
+    "4360900": {
+      "rank": 6284,
+      "estimate": "<7k",
+      "name": "Rails & Rivals",
+      "releaseDate": "2026-07-20",
       "source": "tracked"
     },
     "4442710": {

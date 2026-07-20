@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-20T17:04:12.416Z",
-  "entryCount": 14,
+  "updatedAt": "2026-07-20T21:50:55.019Z",
+  "entryCount": 15,
   "entries": {
     "1706100": {
       "rank": 3980,
@@ -15,17 +15,17 @@
       "name": "At Fate's End"
     },
     "2421080": {
-      "rank": 3896,
+      "rank": 3897,
       "estimate": "<7k",
       "name": "Synth Beasts"
     },
     "2837780": {
-      "rank": 2098,
+      "rank": 2101,
       "estimate": "7k+",
       "name": "KARJALA"
     },
     "3144340": {
-      "rank": 3569,
+      "rank": 3568,
       "estimate": "<7k",
       "name": "Cult of PiN"
     },
@@ -35,12 +35,12 @@
       "name": "Uncanny Valley: Checkpoint"
     },
     "3492120": {
-      "rank": 1810,
+      "rank": 1806,
       "estimate": "15k+",
       "name": "Legion Was Here"
     },
     "3561600": {
-      "rank": 2744,
+      "rank": 2745,
       "estimate": "7k+",
       "name": "Fortress Connected"
     },
@@ -50,17 +50,17 @@
       "name": "Construction Crew"
     },
     "3597340": {
-      "rank": 2188,
+      "rank": 2189,
       "estimate": "7k+",
       "name": "After Hell Freezes Over"
     },
     "3789590": {
-      "rank": 5185,
+      "rank": 5186,
       "estimate": "<7k",
       "name": "100 Astro Cats"
     },
     "3897080": {
-      "rank": 4326,
+      "rank": 4327,
       "estimate": "<7k",
       "name": "Dimenshot"
     },
@@ -69,8 +69,13 @@
       "estimate": "<7k",
       "name": "100 Chernobyl Cats"
     },
+    "4211380": {
+      "rank": 5203,
+      "estimate": "<7k",
+      "name": "Loop Tower"
+    },
     "4454510": {
-      "rank": 4232,
+      "rank": 4235,
       "estimate": "<7k",
       "name": "Sock Puppet Superstar"
     }

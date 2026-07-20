@@ -1,37 +1,32 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-20T17:04:12.416Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-20T21:50:55.019Z",
+  "entryCount": 22,
   "entries": {
     "836880": {
-      "rank": 4632,
+      "rank": 4634,
       "estimate": "<7k",
       "name": "The Berlin Wall"
     },
     "1328720": {
-      "rank": 3833,
+      "rank": 3834,
       "estimate": "<7k",
       "name": "Red Sails"
     },
-    "1425780": {
-      "rank": 2299,
-      "estimate": "7k+",
-      "name": "Fishkeeper"
-    },
     "1592200": {
-      "rank": 2388,
+      "rank": 2389,
       "estimate": "7k+",
       "name": "EXP: War Trauma"
     },
     "1979290": {
-      "rank": 2295,
+      "rank": 2296,
       "estimate": "7k+",
       "name": "魔女旅店 Witches Tavern"
     },
     "2076310": {
-      "rank": 2999,
-      "estimate": "7k+",
+      "rank": 3002,
+      "estimate": "<7k",
       "name": "Tears of Magic"
     },
     "2438110": {
@@ -40,32 +35,32 @@
       "name": "Emergency Room Simulator"
     },
     "2740750": {
-      "rank": 981,
+      "rank": 984,
       "estimate": "40k+",
       "name": "Rollin' Rascal"
     },
     "2765070": {
-      "rank": 4977,
+      "rank": 4975,
       "estimate": "<7k",
       "name": "Iron Dawn"
     },
     "2906440": {
-      "rank": 5136,
+      "rank": 5135,
       "estimate": "<7k",
       "name": "Townbox"
     },
     "2907090": {
-      "rank": 4013,
+      "rank": 4015,
       "estimate": "<7k",
       "name": "Crime or Punishment"
     },
     "2960390": {
-      "rank": 3268,
+      "rank": 3269,
       "estimate": "<7k",
       "name": "Nutty Dungeons"
     },
     "3004390": {
-      "rank": 1910,
+      "rank": 1911,
       "estimate": "15k+",
       "name": "The Cave Diver"
     },
@@ -80,12 +75,12 @@
       "name": "Tides of Annihilation"
     },
     "3377230": {
-      "rank": 5148,
+      "rank": 5147,
       "estimate": "<7k",
       "name": "Seal of Solitomb"
     },
     "3554370": {
-      "rank": 4393,
+      "rank": 4394,
       "estimate": "<7k",
       "name": "Vampires vs Mechas"
     },
@@ -100,7 +95,7 @@
       "name": "Elevator"
     },
     "3819370": {
-      "rank": 4271,
+      "rank": 4265,
       "estimate": "<7k",
       "name": "Pull the Beer"
     },
@@ -110,17 +105,12 @@
       "name": "If Red Then Stop"
     },
     "4295810": {
-      "rank": 1496,
+      "rank": 1497,
       "estimate": "25k+",
       "name": "A Whisper of Fall: Jinyiwei"
     },
-    "4468030": {
-      "rank": 1353,
-      "estimate": "25k+",
-      "name": "OFFBEAT"
-    },
     "4515280": {
-      "rank": 4213,
+      "rank": 4188,
       "estimate": "<7k",
       "name": "Suzerain Stories: The Neutral Lens"
     }
