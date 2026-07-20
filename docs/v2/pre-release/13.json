@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T12:52:33.024Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-20T17:04:12.416Z",
+  "entryCount": 25,
   "entries": {
     "750200": {
       "rank": 159,
@@ -162,6 +162,13 @@
       "estimate": "<7k",
       "name": "Trauma Pets",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "4244640": {
+      "rank": 1380,
+      "estimate": "25k+",
+      "name": "Foghorns Drown",
+      "releaseDate": "2026-07-20",
       "source": "tracked"
     },
     "4315850": {

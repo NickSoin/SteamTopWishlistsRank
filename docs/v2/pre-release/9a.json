@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T12:52:33.024Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-20T17:04:12.416Z",
+  "entryCount": 29,
   "entries": {
     "928000": {
       "rank": 773,
@@ -165,6 +165,13 @@
       "estimate": "15k+",
       "name": "Campsite Hustle! - Management Simulator",
       "releaseDate": "2026-06-02",
+      "source": "tracked"
+    },
+    "3992440": {
+      "rank": 3138,
+      "estimate": "<7k",
+      "name": "ExoTrain",
+      "releaseDate": "2026-07-20",
       "source": "tracked"
     },
     "4241420": {

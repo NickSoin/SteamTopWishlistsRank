@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T12:52:33.024Z",
-  "entryCount": 43,
+  "updatedAt": "2026-07-20T17:04:12.416Z",
+  "entryCount": 44,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -295,6 +295,13 @@
       "estimate": "7k+",
       "name": "The Gate Must Stand",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4240680": {
+      "rank": 5993,
+      "estimate": "<7k",
+      "name": "Tiny Train Tycoon",
+      "releaseDate": "2026-07-20",
       "source": "tracked"
     },
     "4387480": {

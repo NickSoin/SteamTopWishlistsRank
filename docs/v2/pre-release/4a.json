@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T12:52:33.024Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-20T17:04:12.416Z",
+  "entryCount": 35,
   "entries": {
     "1113030": {
       "rank": 437,
@@ -239,6 +239,13 @@
       "estimate": "7k+",
       "name": "Relief",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4018550": {
+      "rank": 1708,
+      "estimate": "15k+",
+      "name": "Cat Isle",
+      "releaseDate": "2026-07-20",
       "source": "tracked"
     },
     "4678330": {

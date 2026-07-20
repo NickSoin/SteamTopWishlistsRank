@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T12:52:33.024Z",
-  "entryCount": 41,
+  "updatedAt": "2026-07-20T17:04:12.416Z",
+  "entryCount": 42,
   "entries": {
     "651490": {
       "rank": 270,
@@ -234,6 +234,13 @@
       "name": "NYO-NIN-JIMA -My New Life in Charge of a Tropical Island-",
       "releaseDate": "2024-06-24",
       "source": "historical"
+    },
+    "2936290": {
+      "rank": 412,
+      "estimate": "80k+",
+      "name": "The Life and Suffering of Prince Jerian",
+      "releaseDate": "2026-07-20",
+      "source": "tracked"
     },
     "3055480": {
       "rank": 48,

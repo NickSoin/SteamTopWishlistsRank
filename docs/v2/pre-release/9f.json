@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T12:52:33.024Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-20T17:04:12.416Z",
+  "entryCount": 32,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "The Light that Binds Us",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4210010": {
+      "rank": 2815,
+      "estimate": "7k+",
+      "name": "Incremental Infinity",
+      "releaseDate": "2026-07-20",
       "source": "tracked"
     },
     "4725790": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T12:52:33.024Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-20T17:04:12.416Z",
+  "entryCount": 32,
   "entries": {
     "721700": {
       "rank": 679,
@@ -211,6 +211,13 @@
       "estimate": "<7k",
       "name": "Tell Me Owl",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3778620": {
+      "rank": 5459,
+      "estimate": "<7k",
+      "name": "Raccoons to Riches",
+      "releaseDate": "2026-07-20",
       "source": "tracked"
     },
     "4175330": {

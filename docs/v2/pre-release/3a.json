@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T12:52:33.024Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-20T17:04:12.416Z",
+  "entryCount": 21,
   "entries": {
     "1125710": {
       "rank": 110,
@@ -66,6 +66,13 @@
       "name": "Until Then",
       "releaseDate": "2024-06-25",
       "source": "historical"
+    },
+    "1605850": {
+      "rank": 167,
+      "estimate": "200k+",
+      "name": "ZeroSpace",
+      "releaseDate": "2026-07-20",
+      "source": "tracked"
     },
     "1621540": {
       "rank": 141,

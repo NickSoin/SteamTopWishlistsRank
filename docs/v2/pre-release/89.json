@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T12:52:33.024Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-20T17:04:12.416Z",
+  "entryCount": 22,
   "entries": {
     "377300": {
       "rank": 106,
@@ -145,6 +145,13 @@
       "name": "Streamer Life Simulator 2",
       "releaseDate": "2026-02-05",
       "source": "historical"
+    },
+    "2994200": {
+      "rank": 2531,
+      "estimate": "7k+",
+      "name": "Ritter & Rotwein",
+      "releaseDate": "2026-07-20",
+      "source": "tracked"
     },
     "3159570": {
       "rank": 1883,
