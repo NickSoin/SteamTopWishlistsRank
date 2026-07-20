@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T04:27:07.506Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-20T08:23:55.494Z",
+  "entryCount": 25,
   "entries": {
     "427940": {
       "rank": 24,
@@ -115,6 +115,13 @@
       "name": "Just Crow Things",
       "releaseDate": "2024-08-15",
       "source": "historical"
+    },
+    "2660420": {
+      "rank": 5578,
+      "estimate": "<7k",
+      "name": "Stratego® Online",
+      "releaseDate": "2026-07-20",
+      "source": "tracked"
     },
     "2807960": {
       "rank": 2,

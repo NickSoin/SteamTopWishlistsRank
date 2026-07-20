@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T04:27:07.506Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-20T08:23:55.494Z",
+  "entryCount": 32,
   "entries": {
     "714370": {
       "rank": 8,
@@ -206,6 +206,13 @@
       "name": "A Game About Feeding A Black Hole",
       "releaseDate": "2025-12-15",
       "source": "historical"
+    },
+    "3825860": {
+      "rank": 2884,
+      "estimate": "7k+",
+      "name": "Dominion Of The Forgotten",
+      "releaseDate": "2026-07-19",
+      "source": "tracked"
     },
     "4042330": {
       "rank": 4279,
