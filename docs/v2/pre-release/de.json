@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T08:23:55.494Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-20T12:52:33.024Z",
+  "entryCount": 30,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "Jaleco Sports: Goal! 2",
       "releaseDate": "2026-07-01",
+      "source": "tracked"
+    },
+    "4453300": {
+      "rank": 7948,
+      "estimate": "<7k",
+      "name": "Cup and Counter: Coffee Shop Simulator",
+      "releaseDate": "2026-07-20",
       "source": "tracked"
     },
     "4753590": {

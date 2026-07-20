@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T08:23:55.494Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-20T12:52:33.024Z",
+  "entryCount": 35,
   "entries": {
     "1171690": {
       "rank": 23,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "OVR Space Dragger",
       "releaseDate": "2026-06-29",
+      "source": "tracked"
+    },
+    "4572290": {
+      "rank": 7617,
+      "estimate": "<7k",
+      "name": "Spicy Content Creator",
+      "releaseDate": "2026-07-20",
       "source": "tracked"
     },
     "4590980": {

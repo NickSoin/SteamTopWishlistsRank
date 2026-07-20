@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-20T08:23:55.494Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-20T12:52:33.024Z",
+  "entryCount": 23,
   "entries": {
     "1066740": {
       "rank": 1801,
@@ -15,22 +15,22 @@
       "name": "BOC: Birth of Cultures"
     },
     "1571260": {
-      "rank": 2812,
+      "rank": 2813,
       "estimate": "7k+",
       "name": "fault - milestone two side: below"
     },
     "2168070": {
-      "rank": 1028,
+      "rank": 1027,
       "estimate": "25k+",
       "name": "Sorceress"
     },
     "2366250": {
-      "rank": 2898,
+      "rank": 2900,
       "estimate": "7k+",
       "name": "American Airport Simulator"
     },
     "2368490": {
-      "rank": 2809,
+      "rank": 2808,
       "estimate": "7k+",
       "name": "Montaro 2"
     },
@@ -40,7 +40,7 @@
       "name": "Bus Simulator 27"
     },
     "2585710": {
-      "rank": 2313,
+      "rank": 2314,
       "estimate": "7k+",
       "name": "Curiosmos"
     },
@@ -65,7 +65,7 @@
       "name": "Deep Snow Delivery"
     },
     "3359110": {
-      "rank": 2523,
+      "rank": 2521,
       "estimate": "7k+",
       "name": "Total Victory: World Conflict 1939-1945"
     },
@@ -75,22 +75,22 @@
       "name": "Angstraum"
     },
     "3449370": {
-      "rank": 1649,
+      "rank": 1650,
       "estimate": "15k+",
       "name": "VANRAN"
     },
     "3613050": {
-      "rank": 2006,
+      "rank": 2009,
       "estimate": "7k+",
       "name": "Gravebound"
     },
     "3936270": {
-      "rank": 2727,
+      "rank": 2726,
       "estimate": "7k+",
       "name": "It's Fine"
     },
     "3993370": {
-      "rank": 1499,
+      "rank": 1498,
       "estimate": "25k+",
       "name": "Grand Pro Circuit"
     },
@@ -100,7 +100,7 @@
       "name": "Under The Rooftop"
     },
     "4018380": {
-      "rank": 938,
+      "rank": 937,
       "estimate": "40k+",
       "name": "Chronoscript: The Endless End"
     },
@@ -110,9 +110,14 @@
       "name": "SnekromancY"
     },
     "4523820": {
-      "rank": 3949,
+      "rank": 3948,
       "estimate": "<7k",
       "name": "Broken Dagger"
+    },
+    "4692380": {
+      "rank": 5194,
+      "estimate": "<7k",
+      "name": "Invariant"
     }
   }
 }
