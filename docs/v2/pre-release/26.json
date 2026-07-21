@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T12:09:50.918Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-21T16:51:56.699Z",
+  "entryCount": 25,
   "entries": {
     "758690": {
       "rank": 7,
@@ -152,6 +152,13 @@
       "name": "SimRail - The Railway Simulator: Cargo Pack",
       "releaseDate": "2024-04-22",
       "source": "historical"
+    },
+    "4369490": {
+      "rank": 290,
+      "estimate": "80k+",
+      "name": "Soulbound: Online",
+      "releaseDate": "2026-07-21",
+      "source": "tracked"
     },
     "4615010": {
       "rank": 8924,

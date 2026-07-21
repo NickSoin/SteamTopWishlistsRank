@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T12:09:50.918Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-21T16:51:56.699Z",
+  "entryCount": 28,
   "entries": {
     "868270": {
       "rank": 16,
@@ -172,6 +172,13 @@
       "estimate": "7k+",
       "name": "Spirit Talk - Cozy Visual Novel",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4286120": {
+      "rank": 1108,
+      "estimate": "25k+",
+      "name": "Photomaly",
+      "releaseDate": "2026-07-21",
       "source": "tracked"
     },
     "4314010": {

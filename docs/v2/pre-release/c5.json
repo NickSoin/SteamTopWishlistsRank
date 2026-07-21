@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T12:09:50.918Z",
-  "entryCount": 42,
+  "updatedAt": "2026-07-21T16:51:56.699Z",
+  "entryCount": 43,
   "entries": {
     "595500": {
       "rank": 511,
@@ -80,6 +80,13 @@
       "name": "Sword and Fairy 7",
       "releaseDate": "2021-10-21",
       "source": "historical"
+    },
+    "1553260": {
+      "rank": 481,
+      "estimate": "80k+",
+      "name": "Scarlet Deer Inn",
+      "releaseDate": "2026-07-21",
+      "source": "tracked"
     },
     "1567520": {
       "rank": 902,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T12:09:50.918Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-21T16:51:56.699Z",
+  "entryCount": 26,
   "entries": {
     "230210": {
       "rank": 15,
@@ -180,6 +180,13 @@
       "name": "The End of History",
       "releaseDate": "2025-12-10",
       "source": "historical"
+    },
+    "4275570": {
+      "rank": 9632,
+      "estimate": "<7k",
+      "name": "Lost in the Fire",
+      "releaseDate": "2026-07-21",
+      "source": "tracked"
     }
   }
 }

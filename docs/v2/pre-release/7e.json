@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T12:09:50.918Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-21T16:51:56.699Z",
+  "entryCount": 21,
   "entries": {
     "580640": {
       "rank": 369,
@@ -24,6 +24,13 @@
       "name": "Happy Game",
       "releaseDate": "2021-10-28",
       "source": "historical"
+    },
+    "1208170": {
+      "rank": 646,
+      "estimate": "40k+",
+      "name": "Samurai: Ronin's Path",
+      "releaseDate": "2026-07-21",
+      "source": "tracked"
     },
     "1457510": {
       "rank": 463,

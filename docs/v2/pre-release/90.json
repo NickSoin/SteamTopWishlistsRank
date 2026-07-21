@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T12:09:50.918Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-21T16:51:56.699Z",
+  "entryCount": 23,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -162,6 +162,13 @@
       "estimate": "<7k",
       "name": "非常规放送部 Mika & Luna",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4703870": {
+      "rank": 8319,
+      "estimate": "<7k",
+      "name": "NIGHTMIST",
+      "releaseDate": "2026-07-21",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T12:09:50.918Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-21T16:51:56.699Z",
+  "entryCount": 21,
   "entries": {
     "1025960": {
       "rank": 669,
@@ -117,6 +117,13 @@
       "name": "Disgaea 7: Vows of the Virtueless",
       "releaseDate": "2023-10-03",
       "source": "historical"
+    },
+    "2491490": {
+      "rank": 3268,
+      "estimate": "<7k",
+      "name": "Pit Panic",
+      "releaseDate": "2026-07-21",
+      "source": "tracked"
     },
     "2897610": {
       "rank": 1201,

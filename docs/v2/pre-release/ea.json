@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T12:09:50.918Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-21T16:51:56.699Z",
+  "entryCount": 26,
   "entries": {
     "589940": {
       "rank": 1003,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "ShareNote Engine",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4730180": {
+      "rank": 3419,
+      "estimate": "<7k",
+      "name": "Hacker's Journey",
+      "releaseDate": "2026-07-21",
       "source": "tracked"
     }
   }

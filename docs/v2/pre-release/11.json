@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T12:09:50.918Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-21T16:51:56.699Z",
+  "entryCount": 25,
   "entries": {
     "905530": {
       "rank": 585,
@@ -167,6 +167,13 @@
       "estimate": "40k+",
       "name": "Backyard Baseball",
       "releaseDate": "2026-07-09",
+      "source": "tracked"
+    },
+    "4388810": {
+      "rank": 8481,
+      "estimate": "<7k",
+      "name": "Reptilarium",
+      "releaseDate": "2026-07-21",
       "source": "tracked"
     },
     "4672140": {

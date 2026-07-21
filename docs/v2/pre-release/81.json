@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T12:09:50.918Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-21T16:51:56.699Z",
+  "entryCount": 23,
   "entries": {
     "819190": {
       "rank": 3,
@@ -149,6 +149,13 @@
       "name": "POLYARIS",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "2988490": {
+      "rank": 4654,
+      "estimate": "<7k",
+      "name": "Silver Blade of Gods' End",
+      "releaseDate": "2026-07-21",
+      "source": "tracked"
     },
     "3122990": {
       "rank": 3129,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T12:09:50.918Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-21T16:51:56.699Z",
+  "entryCount": 32,
   "entries": {
     "914890": {
       "rank": 644,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "棋桜",
       "releaseDate": "2026-06-13",
+      "source": "tracked"
+    },
+    "4438260": {
+      "rank": 8262,
+      "estimate": "<7k",
+      "name": "Train Valley 2: Workshop Gems - Amber",
+      "releaseDate": "2026-07-21",
       "source": "tracked"
     },
     "4598940": {

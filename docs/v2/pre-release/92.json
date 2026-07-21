@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T12:09:50.918Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-21T16:51:56.699Z",
+  "entryCount": 22,
   "entries": {
     "979110": {
       "rank": 38,
@@ -121,6 +121,13 @@
       "estimate": "<7k",
       "name": "OMSI 2 Add-On Berlin Linie 186",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "3708250": {
+      "rank": 3256,
+      "estimate": "<7k",
+      "name": "My Heaven's Dale",
+      "releaseDate": "2026-07-21",
       "source": "tracked"
     },
     "3822040": {
