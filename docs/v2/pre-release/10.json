@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T16:51:56.699Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-21T21:39:46.104Z",
+  "entryCount": 29,
   "entries": {
     "378690": {
       "rank": 1270,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "Mini Lucy",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "3994790": {
+      "rank": 5580,
+      "estimate": "<7k",
+      "name": "DJ Life Simulator: Learn to DJ for Real",
+      "releaseDate": "2026-07-21",
       "source": "tracked"
     },
     "4422430": {

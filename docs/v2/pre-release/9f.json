@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T16:51:56.699Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-21T21:39:46.104Z",
+  "entryCount": 33,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -187,6 +187,13 @@
       "name": "Mount & Blade II: Bannerlord - War Sails",
       "releaseDate": "2025-11-26",
       "source": "historical"
+    },
+    "3129360": {
+      "rank": 3008,
+      "estimate": "<7k",
+      "name": "Aksun",
+      "releaseDate": "2026-07-21",
+      "source": "tracked"
     },
     "3399930": {
       "rank": 4916,

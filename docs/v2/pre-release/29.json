@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T16:51:56.699Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-21T21:39:46.104Z",
+  "entryCount": 29,
   "entries": {
     "927350": {
       "rank": 30,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "StellarUniversity:FurryHearts",
       "releaseDate": "2026-07-01",
+      "source": "tracked"
+    },
+    "4652340": {
+      "rank": 4287,
+      "estimate": "<7k",
+      "name": "Cloudrooms",
+      "releaseDate": "2026-07-21",
       "source": "tracked"
     }
   }

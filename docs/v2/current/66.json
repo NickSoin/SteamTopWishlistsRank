@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-21T16:51:56.699Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-21T21:39:46.104Z",
+  "entryCount": 24,
   "entries": {
     "741340": {
-      "rank": 3213,
+      "rank": 3212,
       "estimate": "<7k",
       "name": "Kingdom Workshop"
     },
     "908770": {
-      "rank": 742,
+      "rank": 743,
       "estimate": "40k+",
       "name": "Global Conflagration"
     },
@@ -20,17 +20,17 @@
       "name": "No More Light"
     },
     "1828660": {
-      "rank": 4117,
+      "rank": 4116,
       "estimate": "<7k",
       "name": "Worst World"
     },
     "1897860": {
-      "rank": 3705,
+      "rank": 3699,
       "estimate": "<7k",
       "name": "Sunken Realms"
     },
     "2216840": {
-      "rank": 2740,
+      "rank": 2741,
       "estimate": "7k+",
       "name": "BACKROOMS: NO RETURN"
     },
@@ -45,12 +45,12 @@
       "name": "Enter the Gungeon 2"
     },
     "2397440": {
-      "rank": 3461,
+      "rank": 3459,
       "estimate": "<7k",
       "name": "Momogatari"
     },
     "3273260": {
-      "rank": 1360,
+      "rank": 1361,
       "estimate": "25k+",
       "name": "Lost Host"
     },
@@ -60,17 +60,17 @@
       "name": "Legacy of Valor"
     },
     "3628390": {
-      "rank": 3366,
+      "rank": 3364,
       "estimate": "<7k",
       "name": "33 Days till Extraction"
     },
     "3711050": {
-      "rank": 3307,
+      "rank": 3303,
       "estimate": "<7k",
       "name": "BeaterCore"
     },
     "3866080": {
-      "rank": 1939,
+      "rank": 1937,
       "estimate": "15k+",
       "name": "Stick A Round"
     },
@@ -80,44 +80,49 @@
       "name": "Wild West Miner Simulator"
     },
     "4092130": {
-      "rank": 4624,
+      "rank": 4620,
       "estimate": "<7k",
       "name": "Sacred: Last Pixel of Ancaria"
     },
     "4130890": {
-      "rank": 5144,
+      "rank": 5142,
       "estimate": "<7k",
       "name": "SIRENS"
     },
     "4163960": {
-      "rank": 1292,
+      "rank": 1293,
       "estimate": "25k+",
       "name": "Another Eden Begins"
     },
     "4217690": {
-      "rank": 3423,
+      "rank": 3388,
       "estimate": "<7k",
       "name": "Uncanny Tales: The Watcher"
     },
     "4414860": {
-      "rank": 1652,
+      "rank": 1654,
       "estimate": "15k+",
       "name": "Direland"
     },
     "4463840": {
-      "rank": 1764,
+      "rank": 1763,
       "estimate": "15k+",
       "name": "Inquisitor Simulator"
     },
     "4483020": {
-      "rank": 4846,
+      "rank": 4843,
       "estimate": "<7k",
       "name": "Echoes of the Flame"
     },
     "4486870": {
-      "rank": 5124,
+      "rank": 5112,
       "estimate": "<7k",
       "name": "FEED THE AI"
+    },
+    "4830880": {
+      "rank": 5160,
+      "estimate": "<7k",
+      "name": "Task Bar of Ragnalis"
     }
   }
 }

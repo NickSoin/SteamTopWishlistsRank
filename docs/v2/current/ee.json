@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-21T16:51:56.699Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-21T21:39:46.104Z",
+  "entryCount": 22,
   "entries": {
     "662340": {
-      "rank": 2131,
+      "rank": 2130,
       "estimate": "7k+",
       "name": "Renaine"
     },
     "717930": {
-      "rank": 3301,
+      "rank": 3300,
       "estimate": "<7k",
       "name": "DEADHUNTERS"
     },
     "1132530": {
-      "rank": 3047,
+      "rank": 3049,
       "estimate": "<7k",
       "name": "Wolf Ridge"
     },
@@ -25,7 +25,7 @@
       "name": "Riot Control Simulator"
     },
     "1721590": {
-      "rank": 1918,
+      "rank": 1917,
       "estimate": "15k+",
       "name": "DEATHGRIP"
     },
@@ -35,12 +35,12 @@
       "name": "Pony Island 2: Panda Circus"
     },
     "2817760": {
-      "rank": 4619,
+      "rank": 4606,
       "estimate": "<7k",
       "name": "Yokai Tales: Fox"
     },
     "2954010": {
-      "rank": 2506,
+      "rank": 2504,
       "estimate": "7k+",
       "name": "Burn With Me"
     },
@@ -50,7 +50,7 @@
       "name": "Sloppy Forgeries"
     },
     "3094540": {
-      "rank": 4551,
+      "rank": 4550,
       "estimate": "<7k",
       "name": "Cavescape"
     },
@@ -60,37 +60,37 @@
       "name": "County of Fortune"
     },
     "3319230": {
-      "rank": 5123,
+      "rank": 5119,
       "estimate": "<7k",
       "name": "Pizza Simulator Together"
     },
     "3386670": {
-      "rank": 3263,
+      "rank": 3264,
       "estimate": "<7k",
       "name": "Dr.Mememe want to sleep"
     },
     "3479080": {
-      "rank": 1697,
+      "rank": 1696,
       "estimate": "15k+",
       "name": "Dreampainters"
     },
     "3717830": {
-      "rank": 3552,
+      "rank": 3551,
       "estimate": "<7k",
       "name": "GRINDWORM"
     },
     "3917120": {
-      "rank": 4849,
+      "rank": 4842,
       "estimate": "<7k",
       "name": "MARRY THE WITCH"
     },
     "3953700": {
-      "rank": 2612,
+      "rank": 2611,
       "estimate": "7k+",
       "name": "Your Judgment, Inquisitor"
     },
     "3958820": {
-      "rank": 3172,
+      "rank": 3168,
       "estimate": "<7k",
       "name": "Drive Me Broke"
     },
@@ -100,14 +100,19 @@
       "name": "Dwarves: Idle Battles"
     },
     "4337440": {
-      "rank": 2887,
+      "rank": 2883,
       "estimate": "7k+",
       "name": "Memory of Memorie : A Chill Story"
     },
     "4633120": {
-      "rank": 3384,
+      "rank": 3382,
       "estimate": "<7k",
       "name": "Voxotron"
+    },
+    "4927490": {
+      "rank": 5015,
+      "estimate": "<7k",
+      "name": "Cleaning Up The Puzzle Gallery"
     }
   }
 }
