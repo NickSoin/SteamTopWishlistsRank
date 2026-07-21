@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T07:51:40.901Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-21T12:09:50.918Z",
+  "entryCount": 31,
   "entries": {
     "851850": {
       "rank": 23,
@@ -223,6 +223,13 @@
       "releaseDate": "2025-05-22",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1792751526182293"
+    },
+    "4556920": {
+      "rank": 2990,
+      "estimate": "7k+",
+      "name": "Sticky Business: Seaside Tales",
+      "releaseDate": "2026-07-21",
+      "source": "tracked"
     }
   }
 }

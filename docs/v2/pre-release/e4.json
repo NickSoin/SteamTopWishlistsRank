@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T07:51:40.901Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-21T12:09:50.918Z",
+  "entryCount": 35,
   "entries": {
     "774791": {
       "rank": 539,
@@ -213,6 +213,13 @@
       "name": "Gunfire Reborn - Realm of Frost and Inkwash",
       "releaseDate": "2024-09-11",
       "source": "historical"
+    },
+    "3279440": {
+      "rank": 580,
+      "estimate": "40k+",
+      "name": "Drone Sector",
+      "releaseDate": "2026-07-21",
+      "source": "tracked"
     },
     "3564740": {
       "rank": 33,

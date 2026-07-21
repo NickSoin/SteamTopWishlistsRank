@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T07:51:40.901Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-21T12:09:50.918Z",
+  "entryCount": 34,
   "entries": {
     "1034140": {
       "rank": 13,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "Hidden Raccoons in Asia",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4747160": {
+      "rank": 8359,
+      "estimate": "<7k",
+      "name": "Ribeiras",
+      "releaseDate": "2026-07-21",
       "source": "tracked"
     }
   }

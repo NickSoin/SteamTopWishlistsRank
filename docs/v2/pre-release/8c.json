@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T07:51:40.901Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-21T12:09:50.918Z",
+  "entryCount": 32,
   "entries": {
     "659960": {
       "rank": 821,
@@ -209,6 +209,13 @@
       "estimate": "<7k",
       "name": "Total Football Online",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4601880": {
+      "rank": 9844,
+      "estimate": "<7k",
+      "name": "Cobalt Miner",
+      "releaseDate": "2026-07-21",
       "source": "tracked"
     },
     "4699430": {

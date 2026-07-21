@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T07:51:40.901Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-21T12:09:50.918Z",
+  "entryCount": 27,
   "entries": {
     "990630": {
       "rank": 139,
@@ -182,6 +182,13 @@
       "name": "ARK: Bob's Tall Tales",
       "releaseDate": "2024-04-01",
       "source": "historical"
+    },
+    "3367990": {
+      "rank": 9267,
+      "estimate": "<7k",
+      "name": "Delicious - Taste of Truth",
+      "releaseDate": "2026-07-21",
+      "source": "tracked"
     },
     "3440260": {
       "rank": 3217,

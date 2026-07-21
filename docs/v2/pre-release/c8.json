@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T07:51:40.901Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-21T12:09:50.918Z",
+  "entryCount": 30,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -170,6 +170,13 @@
       "name": "Cursorblade",
       "releaseDate": "2023-11-06",
       "source": "historical"
+    },
+    "2467880": {
+      "rank": 878,
+      "estimate": "40k+",
+      "name": "Fading Echo",
+      "releaseDate": "2026-07-21",
+      "source": "tracked"
     },
     "2658040": {
       "rank": 2817,
