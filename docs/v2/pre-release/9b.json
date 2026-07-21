@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-21T03:55:09.551Z",
-  "entryCount": 44,
+  "updatedAt": "2026-07-21T07:51:40.901Z",
+  "entryCount": 45,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -316,6 +316,13 @@
       "estimate": "<7k",
       "name": "Chromium Dino",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4695530": {
+      "rank": 9978,
+      "estimate": "<7k",
+      "name": "A Game About Getting Bigger",
+      "releaseDate": "2026-07-21",
       "source": "tracked"
     }
   }
