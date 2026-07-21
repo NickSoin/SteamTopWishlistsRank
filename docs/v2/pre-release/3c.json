@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T21:50:55.019Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-21T03:55:09.551Z",
+  "entryCount": 31,
   "entries": {
     "743380": {
       "rank": 664,
@@ -171,6 +171,13 @@
       "name": "Garten of Banban 0",
       "releaseDate": "2025-02-21",
       "source": "historical"
+    },
+    "3347200": {
+      "rank": 4457,
+      "estimate": "<7k",
+      "name": "Cat Gladiator",
+      "releaseDate": "2026-07-20",
+      "source": "tracked"
     },
     "3421050": {
       "rank": 3046,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T21:50:55.019Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-21T03:55:09.551Z",
+  "entryCount": 25,
   "entries": {
     "894620": {
       "rank": 1864,
@@ -177,6 +177,13 @@
       "name": "100 Dino Cats",
       "releaseDate": "2024-02-26",
       "source": "historical"
+    },
+    "3819770": {
+      "rank": 7779,
+      "estimate": "<7k",
+      "name": "Dragon Ruins II: Aftermath",
+      "releaseDate": "2026-07-20",
+      "source": "tracked"
     }
   }
 }

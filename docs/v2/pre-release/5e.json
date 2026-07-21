@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-20T21:50:55.019Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-21T03:55:09.551Z",
+  "entryCount": 28,
   "entries": {
     "336290": {
       "rank": 7698,
@@ -191,6 +191,13 @@
       "estimate": "25k+",
       "name": "Arcane Merchant",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "4305030": {
+      "rank": 6845,
+      "estimate": "<7k",
+      "name": "Max Savage",
+      "releaseDate": "2026-07-20",
       "source": "tracked"
     }
   }
