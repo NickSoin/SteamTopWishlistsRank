@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-22T17:08:50.944Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-22T21:56:03.706Z",
+  "entryCount": 22,
   "entries": {
     "1456830": {
-      "rank": 1365,
+      "rank": 1367,
       "estimate": "25k+",
       "name": "Sea Dogs: Legendary Edition"
     },
     "1460790": {
-      "rank": 3298,
+      "rank": 3299,
       "estimate": "<7k",
       "name": "Bartender Simulator"
     },
     "1769200": {
-      "rank": 4168,
+      "rank": 4171,
       "estimate": "<7k",
       "name": "Vividerie"
     },
     "1993210": {
-      "rank": 1990,
+      "rank": 1994,
       "estimate": "15k+",
       "name": "Abyssals"
     },
     "2639270": {
-      "rank": 1624,
+      "rank": 1627,
       "estimate": "15k+",
       "name": "Photography Simulator Wildlife Prologue"
     },
@@ -35,27 +35,27 @@
       "name": "Beyond Astra"
     },
     "2755950": {
-      "rank": 2548,
+      "rank": 2549,
       "estimate": "7k+",
       "name": "Tidebound"
     },
     "2821390": {
-      "rank": 1144,
+      "rank": 1142,
       "estimate": "25k+",
       "name": "HOT WHEELS™ Infinite Rush"
     },
     "2900640": {
-      "rank": 647,
+      "rank": 648,
       "estimate": "40k+",
       "name": "TOEM 2"
     },
     "2999130": {
-      "rank": 5044,
+      "rank": 5047,
       "estimate": "<7k",
       "name": "Flex Riders"
     },
     "3393720": {
-      "rank": 2334,
+      "rank": 2335,
       "estimate": "7k+",
       "name": "Ramen Shop Simulator"
     },
@@ -65,27 +65,27 @@
       "name": "Vampire's Veil"
     },
     "3796150": {
-      "rank": 4735,
+      "rank": 4736,
       "estimate": "<7k",
       "name": "Curse of Resthaven"
     },
     "3867160": {
-      "rank": 1834,
+      "rank": 1833,
       "estimate": "15k+",
       "name": "Rance Quest Magnum"
     },
     "3927750": {
-      "rank": 4567,
+      "rank": 4571,
       "estimate": "<7k",
       "name": "Sherpa's Caravan"
     },
     "4039300": {
-      "rank": 3956,
+      "rank": 3961,
       "estimate": "<7k",
       "name": "GUNGRAVE G.O.R.E: BLOOD HEAT"
     },
     "4066670": {
-      "rank": 1368,
+      "rank": 1369,
       "estimate": "25k+",
       "name": "Love & Fool's Gold"
     },
@@ -100,14 +100,19 @@
       "name": "Stuck in a Well with a Frog"
     },
     "4383700": {
-      "rank": 5064,
+      "rank": 5062,
       "estimate": "<7k",
       "name": "Echobreaker"
     },
     "4541920": {
-      "rank": 4933,
+      "rank": 4923,
       "estimate": "<7k",
       "name": "GRIDLANDS"
+    },
+    "4627110": {
+      "rank": 5200,
+      "estimate": "<7k",
+      "name": "Fell & Sell"
     }
   }
 }
