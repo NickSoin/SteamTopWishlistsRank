@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-22T12:35:36.404Z",
-  "entryCount": 17,
+  "updatedAt": "2026-07-22T17:08:50.944Z",
+  "entryCount": 16,
   "entries": {
     "1171980": {
-      "rank": 821,
+      "rank": 818,
       "estimate": "40k+",
       "name": "Neverlooted Dungeon"
     },
     "1181550": {
-      "rank": 143,
+      "rank": 141,
       "estimate": "200k+",
       "name": "Carnival Hunt"
     },
@@ -20,74 +20,69 @@
       "name": "Beautiful Light"
     },
     "1609270": {
-      "rank": 2319,
+      "rank": 2309,
       "estimate": "7k+",
       "name": "Touhou Koi-Mystery: Legend and Fantasy of Monsters"
     },
     "1730790": {
-      "rank": 1680,
+      "rank": 1672,
       "estimate": "15k+",
       "name": "A Sister's Journey"
     },
     "2067820": {
-      "rank": 506,
+      "rank": 503,
       "estimate": "40k+",
       "name": "RetroSpace"
     },
     "2528170": {
-      "rank": 1304,
+      "rank": 1296,
       "estimate": "25k+",
       "name": "The Hearth and Harbour"
     },
     "2582310": {
-      "rank": 4062,
+      "rank": 4055,
       "estimate": "<7k",
       "name": "MetroSim - The Subway Simulator"
     },
     "2729830": {
-      "rank": 4678,
+      "rank": 4664,
       "estimate": "<7k",
       "name": "Pumpkin Woods"
     },
     "2886300": {
-      "rank": 2737,
+      "rank": 2728,
       "estimate": "7k+",
       "name": "Gunny Ascend"
     },
     "3260040": {
-      "rank": 2128,
+      "rank": 2119,
       "estimate": "7k+",
       "name": "Cold Abyss"
     },
     "3367950": {
-      "rank": 4234,
+      "rank": 4224,
       "estimate": "<7k",
       "name": "Five More Minutes"
     },
     "3498720": {
-      "rank": 755,
+      "rank": 751,
       "estimate": "40k+",
       "name": "Rain98"
     },
     "3695930": {
-      "rank": 1018,
+      "rank": 1012,
       "estimate": "25k+",
       "name": "Penguin Colony"
     },
     "3983860": {
-      "rank": 697,
+      "rank": 694,
       "estimate": "40k+",
       "name": "Nightwater"
     },
     "4211340": {
-      "rank": 4204,
+      "rank": 4196,
       "estimate": "<7k",
       "name": "Biryado"
-    },
-    "4211810": {
-      "rank": 4509,
-      "estimate": "<7k",
-      "name": "Valkyrie Tune: Synthesis of Souls"
     }
   }
 }

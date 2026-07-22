@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T12:35:36.404Z",
+  "updatedAt": "2026-07-22T17:08:50.944Z",
   "entryCount": 19,
   "entries": {
     "368260": {
@@ -61,12 +61,12 @@
       "source": "historical"
     },
     "1913120": {
-      "rank": 30,
-      "estimate": "100k",
-      "actualWishlists": 100000,
+      "rank": 80,
+      "estimate": "300k+",
       "name": "Tears of Metal",
-      "releaseDate": "2026-01-01",
-      "source": "historical",
+      "releaseDate": "2026-07-22",
+      "source": "tracked",
+      "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6339469370178879642"
     },
     "1931380": {

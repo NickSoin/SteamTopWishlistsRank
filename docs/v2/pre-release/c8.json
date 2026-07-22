@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T12:35:36.404Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-22T17:08:50.944Z",
+  "entryCount": 31,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -218,6 +218,13 @@
       "estimate": "<7k",
       "name": "The Reserve",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4642650": {
+      "rank": 9169,
+      "estimate": "<7k",
+      "name": "Souls Inferno",
+      "releaseDate": "2026-07-22",
       "source": "tracked"
     }
   }

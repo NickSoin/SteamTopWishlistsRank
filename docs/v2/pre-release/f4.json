@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T12:35:36.404Z",
-  "entryCount": 40,
+  "updatedAt": "2026-07-22T17:08:50.944Z",
+  "entryCount": 41,
   "entries": {
     "858820": {
       "rank": 1,
@@ -282,6 +282,13 @@
       "estimate": "25k+",
       "name": "Fortune Mill",
       "releaseDate": "2026-06-02",
+      "source": "tracked"
+    },
+    "4864560": {
+      "rank": 1993,
+      "estimate": "15k+",
+      "name": "SCRIBBLE HUNT",
+      "releaseDate": "2026-07-22",
       "source": "tracked"
     }
   }

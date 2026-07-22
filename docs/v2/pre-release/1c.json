@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T12:35:36.404Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-22T17:08:50.944Z",
+  "entryCount": 23,
   "entries": {
     "897450": {
       "rank": 15,
@@ -150,6 +150,13 @@
       "name": "No, I'm not a Human",
       "releaseDate": "2025-09-15",
       "source": "historical"
+    },
+    "3837350": {
+      "rank": 1054,
+      "estimate": "25k+",
+      "name": "Staffer Retro : A Supernatural Mystery Quest",
+      "releaseDate": "2026-07-22",
+      "source": "tracked"
     },
     "4734560": {
       "rank": 8735,

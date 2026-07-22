@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T12:35:36.404Z",
-  "entryCount": 35,
+  "updatedAt": "2026-07-22T17:08:50.944Z",
+  "entryCount": 36,
   "entries": {
     "1113030": {
       "rank": 437,
@@ -128,6 +128,13 @@
       "name": "M.O.O.D.S.",
       "releaseDate": "2025-07-10",
       "source": "historical"
+    },
+    "2184020": {
+      "rank": 1035,
+      "estimate": "25k+",
+      "name": "LIFTED",
+      "releaseDate": "2026-07-22",
+      "source": "tracked"
     },
     "2184770": {
       "rank": 2182,

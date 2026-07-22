@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T12:35:36.404Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-22T17:08:50.944Z",
+  "entryCount": 32,
   "entries": {
     "780310": {
       "rank": 16,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "HYPERFIST",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4211810": {
+      "rank": 4509,
+      "estimate": "<7k",
+      "name": "Valkyrie Tune: Synthesis of Souls",
+      "releaseDate": "2026-07-22",
       "source": "tracked"
     }
   }
