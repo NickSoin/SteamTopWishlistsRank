@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T04:06:56.792Z",
-  "entryCount": 15,
+  "updatedAt": "2026-07-22T08:08:51.978Z",
+  "entryCount": 16,
   "entries": {
     "898890": {
       "rank": 231,
@@ -94,6 +94,13 @@
       "name": "A Date with Death - Beyond the Bet DLC",
       "releaseDate": "2024-12-08",
       "source": "historical"
+    },
+    "3075410": {
+      "rank": 1200,
+      "estimate": "25k+",
+      "name": "Hand of Fate: Hordes",
+      "releaseDate": "2026-07-22",
+      "source": "tracked"
     },
     "3112270": {
       "rank": 1697,

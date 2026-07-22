@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T04:06:56.792Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-22T08:08:51.978Z",
+  "entryCount": 33,
   "entries": {
     "714370": {
       "rank": 8,
@@ -178,6 +178,13 @@
       "name": "V-LOVER!",
       "releaseDate": "2025-06-24",
       "source": "historical"
+    },
+    "3116700": {
+      "rank": 1952,
+      "estimate": "15k+",
+      "name": "Reap and Rush",
+      "releaseDate": "2026-07-21",
+      "source": "tracked"
     },
     "3172290": {
       "rank": 29,

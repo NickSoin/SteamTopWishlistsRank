@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T04:06:56.792Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-22T08:08:51.978Z",
+  "entryCount": 30,
   "entries": {
     "511280": {
       "rank": 886,
@@ -195,6 +195,13 @@
       "estimate": "200k+",
       "name": "Thick As Thieves",
       "releaseDate": "2026-05-20",
+      "source": "tracked"
+    },
+    "4275920": {
+      "rank": 6562,
+      "estimate": "<7k",
+      "name": "Pickochet",
+      "releaseDate": "2026-07-22",
       "source": "tracked"
     },
     "4725980": {

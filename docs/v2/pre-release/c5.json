@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T04:06:56.792Z",
-  "entryCount": 43,
+  "updatedAt": "2026-07-22T08:08:51.978Z",
+  "entryCount": 44,
   "entries": {
     "595500": {
       "rank": 511,
@@ -286,6 +286,13 @@
       "estimate": "15k+",
       "name": "Drive Together",
       "releaseDate": "2026-05-15",
+      "source": "tracked"
+    },
+    "4206910": {
+      "rank": 2818,
+      "estimate": "7k+",
+      "name": "Kimbap Heaven Simulator",
+      "releaseDate": "2026-07-22",
       "source": "tracked"
     },
     "4552990": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T04:06:56.792Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-22T08:08:51.978Z",
+  "entryCount": 27,
   "entries": {
     "553420": {
       "rank": 45,
@@ -163,6 +163,13 @@
       "estimate": "7k+",
       "name": "Abyss Born",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4088670": {
+      "rank": 1803,
+      "estimate": "15k+",
+      "name": "Ludus Magnatus: Gladiator Manager Simulator",
+      "releaseDate": "2026-07-21",
       "source": "tracked"
     },
     "4448700": {

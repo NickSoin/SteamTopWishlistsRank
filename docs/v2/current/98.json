@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-22T04:06:56.792Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-22T08:08:51.978Z",
+  "entryCount": 21,
   "entries": {
     "1778150": {
-      "rank": 3943,
+      "rank": 3941,
       "estimate": "<7k",
       "name": "TRIP"
     },
     "1810070": {
-      "rank": 2483,
+      "rank": 2481,
       "estimate": "7k+",
       "name": "Aperture: Salt Mines"
     },
     "1953850": {
-      "rank": 2811,
+      "rank": 2810,
       "estimate": "7k+",
       "name": "VICE Undercover"
     },
@@ -30,17 +30,17 @@
       "name": "Engine Simulator"
     },
     "3008590": {
-      "rank": 2144,
+      "rank": 2143,
       "estimate": "7k+",
       "name": "Relics of the Oracle"
     },
     "3042790": {
-      "rank": 3814,
+      "rank": 3813,
       "estimate": "<7k",
       "name": "Scirocco Thugs"
     },
     "3260240": {
-      "rank": 1954,
+      "rank": 1952,
       "estimate": "15k+",
       "name": "Drivers of the Apocalypse"
     },
@@ -50,22 +50,22 @@
       "name": "Moonbrella"
     },
     "3445610": {
-      "rank": 1420,
+      "rank": 1419,
       "estimate": "25k+",
       "name": "BOMBSHELL BLITZ"
     },
     "3601630": {
-      "rank": 3472,
+      "rank": 3467,
       "estimate": "<7k",
       "name": "Cosmo Tales"
     },
     "3676140": {
-      "rank": 2430,
+      "rank": 2426,
       "estimate": "7k+",
       "name": "Trawler's Wake"
     },
     "3742720": {
-      "rank": 3300,
+      "rank": 3298,
       "estimate": "<7k",
       "name": "Sobakistan: The Land of Dogs"
     },
@@ -75,17 +75,17 @@
       "name": "Tower Tactics 2"
     },
     "3981460": {
-      "rank": 2566,
+      "rank": 2564,
       "estimate": "7k+",
       "name": "Total Tank Simulator 2"
     },
     "3985330": {
-      "rank": 3360,
+      "rank": 3357,
       "estimate": "<7k",
       "name": "BURNED HORIZONS"
     },
     "4005330": {
-      "rank": 5106,
+      "rank": 5107,
       "estimate": "<7k",
       "name": "Spell Trigger"
     },
@@ -95,14 +95,19 @@
       "name": "SlashZero"
     },
     "4108460": {
-      "rank": 4710,
+      "rank": 4702,
       "estimate": "<7k",
       "name": "PatriotMemoirs"
     },
     "4517190": {
-      "rank": 2314,
+      "rank": 2312,
       "estimate": "7k+",
       "name": "DoDonPachi Resurrection Reignite"
+    },
+    "4935510": {
+      "rank": 5164,
+      "estimate": "<7k",
+      "name": "Cellar Keeper"
     }
   }
 }

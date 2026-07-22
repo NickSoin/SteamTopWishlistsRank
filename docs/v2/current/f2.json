@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-22T04:06:56.792Z",
-  "entryCount": 16,
+  "updatedAt": "2026-07-22T08:08:51.978Z",
+  "entryCount": 17,
   "entries": {
     "792380": {
       "rank": 2001,
@@ -10,57 +10,57 @@
       "name": "Survival Journals"
     },
     "931060": {
-      "rank": 1581,
+      "rank": 1576,
       "estimate": "15k+",
       "name": "Tormentum II"
     },
     "1051440": {
-      "rank": 362,
+      "rank": 363,
       "estimate": "80k+",
       "name": "Ship Builder"
     },
     "1393630": {
-      "rank": 3038,
+      "rank": 3039,
       "estimate": "<7k",
       "name": "XGAMEX"
     },
     "1599490": {
-      "rank": 4903,
+      "rank": 4901,
       "estimate": "<7k",
       "name": "One Way Road"
     },
     "1812250": {
-      "rank": 5005,
+      "rank": 5006,
       "estimate": "<7k",
       "name": "Dono's Tale"
     },
     "2127980": {
-      "rank": 5021,
+      "rank": 5020,
       "estimate": "<7k",
       "name": "Project: Orc"
     },
     "2255360": {
-      "rank": 5000,
+      "rank": 5001,
       "estimate": "<7k",
       "name": "Throwia"
     },
     "2338890": {
-      "rank": 4648,
+      "rank": 4649,
       "estimate": "<7k",
       "name": "Starship Colony"
     },
     "2421000": {
-      "rank": 1026,
+      "rank": 1027,
       "estimate": "25k+",
       "name": "BANDIT KNIGHT"
     },
     "2607420": {
-      "rank": 2370,
+      "rank": 2368,
       "estimate": "7k+",
       "name": "Cat Life Simulator"
     },
     "3628440": {
-      "rank": 4852,
+      "rank": 4847,
       "estimate": "<7k",
       "name": "Abyss Saga"
     },
@@ -75,12 +75,17 @@
       "name": "Martyr"
     },
     "4382260": {
-      "rank": 2148,
+      "rank": 2147,
       "estimate": "7k+",
       "name": "Castaway Diary: Portal to the Unknown Isles"
     },
+    "4438080": {
+      "rank": 5057,
+      "estimate": "<7k",
+      "name": "Call It a Day"
+    },
     "4562750": {
-      "rank": 4488,
+      "rank": 4486,
       "estimate": "<7k",
       "name": "Dungeon Sweeper Plus"
     }
