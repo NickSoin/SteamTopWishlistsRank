@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T08:08:51.978Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-22T12:35:36.404Z",
+  "entryCount": 23,
   "entries": {
     "897730": {
       "rank": 9,
@@ -156,6 +156,13 @@
       "estimate": "15k+",
       "name": "There's Nothing Down There",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4491420": {
+      "rank": 7979,
+      "estimate": "<7k",
+      "name": "Hex Harmony",
+      "releaseDate": "2026-07-22",
       "source": "tracked"
     }
   }
