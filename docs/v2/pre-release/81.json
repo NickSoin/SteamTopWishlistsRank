@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 24,
   "entries": {
     "819190": {
       "rank": 3,
@@ -170,6 +170,13 @@
       "name": "BattleGroupVR2",
       "releaseDate": "2025-11-07",
       "source": "historical"
+    },
+    "4223300": {
+      "rank": 566,
+      "estimate": "40k+",
+      "name": "Birds of War",
+      "releaseDate": "2026-07-22",
+      "source": "tracked"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 25,
   "entries": {
     "482400": {
       "rank": 6,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Disease",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4612870": {
+      "rank": 6134,
+      "estimate": "<7k",
+      "name": "Hard Edge - War Zone",
+      "releaseDate": "2026-07-22",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 30,
   "entries": {
     "261550": {
       "rank": 7,
@@ -208,6 +208,13 @@
       "name": "Solasta II",
       "releaseDate": "2026-03-12",
       "source": "historical"
+    },
+    "4051900": {
+      "rank": 4340,
+      "estimate": "<7k",
+      "name": "Fish to Cats: Catch & Feed",
+      "releaseDate": "2026-07-22",
+      "source": "tracked"
     }
   }
 }

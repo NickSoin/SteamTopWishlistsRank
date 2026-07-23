@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 30,
   "entries": {
     "637050": {
       "rank": 136,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Trading Card Inspector",
       "releaseDate": "2026-06-06",
+      "source": "tracked"
+    },
+    "4282500": {
+      "rank": 816,
+      "estimate": "40k+",
+      "name": "hololive Dreams",
+      "releaseDate": "2026-07-22",
       "source": "tracked"
     },
     "4549580": {

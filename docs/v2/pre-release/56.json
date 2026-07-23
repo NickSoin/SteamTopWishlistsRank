@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 27,
   "entries": {
     "610370": {
       "rank": 18,
@@ -171,6 +171,13 @@
       "name": "Cute Suika: Big Watermelon",
       "releaseDate": "2024-08-09",
       "source": "historical"
+    },
+    "2765320": {
+      "rank": 3910,
+      "estimate": "<7k",
+      "name": "Celestial Descends",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     },
     "3148010": {
       "rank": 3123,

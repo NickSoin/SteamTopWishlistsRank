@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 22,
   "entries": {
     "615530": {
       "rank": 223,
@@ -124,6 +124,13 @@
       "name": "Avowed",
       "releaseDate": "2025-02-18",
       "source": "historical"
+    },
+    "2593340": {
+      "rank": 1107,
+      "estimate": "25k+",
+      "name": "Wonderia",
+      "releaseDate": "2026-07-22",
+      "source": "tracked"
     },
     "3670570": {
       "rank": 4782,

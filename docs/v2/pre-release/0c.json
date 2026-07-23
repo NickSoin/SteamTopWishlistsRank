@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 32,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -211,6 +211,13 @@
       "estimate": "40k+",
       "name": "Database Detective: Minor Crimes Division",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4263880": {
+      "rank": 8770,
+      "estimate": "<7k",
+      "name": "Kepler 186F",
+      "releaseDate": "2026-07-22",
       "source": "tracked"
     },
     "4277500": {

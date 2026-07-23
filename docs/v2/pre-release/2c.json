@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 30,
   "entries": {
     "252190": {
       "rank": 1772,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "EULA",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4570720": {
+      "rank": 99,
+      "estimate": "300k+",
+      "name": "DragonSword : Awakening",
+      "releaseDate": "2026-07-22",
       "source": "tracked"
     },
     "4687330": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 26,
   "entries": {
     "506480": {
       "rank": 980,
@@ -103,6 +103,13 @@
       "name": "Chivalry 2",
       "releaseDate": "2022-06-12",
       "source": "historical"
+    },
+    "1845250": {
+      "rank": 215,
+      "estimate": "80k+",
+      "name": "Rubinite",
+      "releaseDate": "2026-07-22",
+      "source": "tracked"
     },
     "1863430": {
       "rank": 863,

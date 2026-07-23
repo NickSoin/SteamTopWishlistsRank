@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 33,
   "entries": {
     "743380": {
       "rank": 664,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "Keepers of the Keep",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3561220": {
+      "rank": 577,
+      "estimate": "40k+",
+      "name": "Pass the Fear",
+      "releaseDate": "2026-07-22",
       "source": "tracked"
     },
     "3946120": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 33,
   "entries": {
     "914890": {
       "rank": 644,
@@ -201,6 +201,13 @@
       "name": "Final Outpost: Definitive Edition",
       "releaseDate": "2025-05-22",
       "source": "historical"
+    },
+    "3394800": {
+      "rank": 3536,
+      "estimate": "<7k",
+      "name": "Koko's Cafe",
+      "releaseDate": "2026-07-22",
+      "source": "tracked"
     },
     "4196120": {
       "rank": 3258,

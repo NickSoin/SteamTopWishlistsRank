@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 31,
   "entries": {
     "945770": {
       "rank": 169,
@@ -189,6 +189,13 @@
       "releaseDate": "2026-03-05",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785774543502124"
+    },
+    "3150180": {
+      "rank": 7759,
+      "estimate": "<7k",
+      "name": "Hopping Girl Kohane EX",
+      "releaseDate": "2026-07-22",
+      "source": "tracked"
     },
     "3977280": {
       "rank": 2884,

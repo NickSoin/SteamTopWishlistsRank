@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 31,
   "entries": {
     "889910": {
       "rank": 531,
@@ -207,6 +207,13 @@
       "estimate": "80k+",
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
       "releaseDate": "2026-07-08",
+      "source": "tracked"
+    },
+    "4337440": {
+      "rank": 2804,
+      "estimate": "7k+",
+      "name": "Memory of Memorie : A Chill Story",
+      "releaseDate": "2026-07-22",
       "source": "tracked"
     },
     "4359800": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-22T21:56:03.706Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-23T04:05:54.312Z",
+  "entryCount": 32,
   "entries": {
     "830580": {
       "rank": 135,
@@ -150,6 +150,13 @@
       "name": "Infinity Knights: Xross",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "2803490": {
+      "rank": 3369,
+      "estimate": "<7k",
+      "name": "Atomcraft",
+      "releaseDate": "2026-07-22",
+      "source": "tracked"
     },
     "3110760": {
       "rank": 489,
