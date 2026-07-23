@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T17:04:12.899Z",
-  "entryCount": 36,
+  "updatedAt": "2026-07-23T21:40:33.693Z",
+  "entryCount": 37,
   "entries": {
     "1113030": {
       "rank": 437,
@@ -253,6 +253,13 @@
       "estimate": "15k+",
       "name": "Cat Isle",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4652730": {
+      "rank": 3527,
+      "estimate": "<7k",
+      "name": "Lost Vessel",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     },
     "4678330": {

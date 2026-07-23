@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T17:04:12.899Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-23T21:40:33.693Z",
+  "entryCount": 29,
   "entries": {
     "990080": {
       "rank": 1,
@@ -186,6 +186,13 @@
       "estimate": "7k+",
       "name": "SubZero",
       "releaseDate": "2026-05-29",
+      "source": "tracked"
+    },
+    "3846290": {
+      "rank": 2436,
+      "estimate": "7k+",
+      "name": "Doomsday Diner",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     },
     "4568980": {

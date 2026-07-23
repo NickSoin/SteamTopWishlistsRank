@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T17:04:12.899Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-23T21:40:33.693Z",
+  "entryCount": 29,
   "entries": {
     "761830": {
       "rank": 31,
@@ -191,6 +191,13 @@
       "estimate": "7k+",
       "name": "CARTAGRA",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4451830": {
+      "rank": 9200,
+      "estimate": "<7k",
+      "name": "Pixel Puppy Adventure",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     },
     "4518500": {

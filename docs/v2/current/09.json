@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-23T17:04:12.899Z",
-  "entryCount": 12,
+  "updatedAt": "2026-07-23T21:40:33.693Z",
+  "entryCount": 13,
   "entries": {
     "1104800": {
       "rank": 2878,
@@ -10,12 +10,12 @@
       "name": "Radiance"
     },
     "2545880": {
-      "rank": 2247,
+      "rank": 2248,
       "estimate": "7k+",
       "name": "HistoriCity: Florence"
     },
     "2932680": {
-      "rank": 2866,
+      "rank": 2868,
       "estimate": "7k+",
       "name": "Nomori"
     },
@@ -30,9 +30,14 @@
       "name": "The Bureau of Fantastical & Arcane Affairs"
     },
     "3597200": {
-      "rank": 2602,
+      "rank": 2600,
       "estimate": "7k+",
       "name": "Grail"
+    },
+    "3637250": {
+      "rank": 5142,
+      "estimate": "<7k",
+      "name": "The Well's Blessing"
     },
     "3797790": {
       "rank": 2264,
@@ -50,7 +55,7 @@
       "name": "Everbrew"
     },
     "4114220": {
-      "rank": 4320,
+      "rank": 4228,
       "estimate": "<7k",
       "name": "Tempest Rising: The Veti’s Wrath"
     },
@@ -60,7 +65,7 @@
       "name": "MASAKRE"
     },
     "4265830": {
-      "rank": 4364,
+      "rank": 4365,
       "estimate": "<7k",
       "name": "Spyder: Agent 8"
     }
