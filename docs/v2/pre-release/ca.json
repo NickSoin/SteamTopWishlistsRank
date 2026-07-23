@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-23T17:04:12.899Z",
+  "entryCount": 24,
   "entries": {
     "757310": {
       "rank": 43,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "The Anomaly Department",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4402250": {
+      "rank": 1513,
+      "estimate": "15k+",
+      "name": "Disgaea Mayhem",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     }
   }

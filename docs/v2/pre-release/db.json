@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-23T17:04:12.899Z",
+  "entryCount": 32,
   "entries": {
     "771700": {
       "rank": 1063,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Casino Casualty",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4358310": {
+      "rank": 2985,
+      "estimate": "7k+",
+      "name": "Coin Tavern",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     }
   }

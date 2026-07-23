@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
+  "updatedAt": "2026-07-23T17:04:12.899Z",
   "entryCount": 32,
   "entries": {
     "780310": {
@@ -40,11 +40,11 @@
       "source": "historical"
     },
     "1181550": {
-      "rank": 3,
-      "estimate": "1.5m+",
+      "rank": 134,
+      "estimate": "200k+",
       "name": "Carnival Hunt",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     },
     "1212410": {
       "rank": 939,

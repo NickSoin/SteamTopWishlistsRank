@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-23T17:04:12.899Z",
+  "entryCount": 31,
   "entries": {
     "844980": {
       "rank": 112,
@@ -199,6 +199,13 @@
       "name": "Artifact Seeker: Resurrection",
       "releaseDate": "2024-07-26",
       "source": "historical"
+    },
+    "3200110": {
+      "rank": 6974,
+      "estimate": "<7k",
+      "name": "Stuff to do",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     },
     "3844970": {
       "rank": 16,

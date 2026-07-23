@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
-  "entryCount": 42,
+  "updatedAt": "2026-07-23T17:04:12.899Z",
+  "entryCount": 43,
   "entries": {
     "347800": {
       "rank": 198,
@@ -285,6 +285,13 @@
       "name": "Escape from Tarkov",
       "releaseDate": "2025-11-15",
       "source": "historical"
+    },
+    "4019790": {
+      "rank": 7660,
+      "estimate": "<7k",
+      "name": "Echoes From Ciudadela",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     },
     "4179870": {
       "rank": 9928,

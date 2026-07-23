@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-23T17:04:12.899Z",
+  "entryCount": 19,
   "entries": {
     "1129540": {
       "rank": 129,
@@ -80,6 +80,13 @@
       "name": "Uberich: Advent Sinners",
       "releaseDate": "2025-07-16",
       "source": "historical"
+    },
+    "2424420": {
+      "rank": 167,
+      "estimate": "200k+",
+      "name": "Avatar Legends: The Fighting Game",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     },
     "2487070": {
       "rank": 2137,

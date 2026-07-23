@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-23T17:04:12.899Z",
+  "entryCount": 29,
   "entries": {
     "412020": {
       "rank": 3,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Warp to Sector One",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4702000": {
+      "rank": 3363,
+      "estimate": "<7k",
+      "name": "THE DEEPEST CASTLE",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     }
   }

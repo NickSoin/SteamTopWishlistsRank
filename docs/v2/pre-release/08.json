@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-23T17:04:12.899Z",
+  "entryCount": 31,
   "entries": {
     "719040": {
       "rank": 20,
@@ -166,6 +166,13 @@
       "releaseDate": "2025-09-16",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802893906700686"
+    },
+    "2699230": {
+      "rank": 374,
+      "estimate": "80k+",
+      "name": "Grim Dawn - Fangs of Asterkarn",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     },
     "2751000": {
       "rank": 504,

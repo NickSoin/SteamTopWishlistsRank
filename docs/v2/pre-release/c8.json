@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-23T17:04:12.899Z",
+  "entryCount": 32,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -66,6 +66,13 @@
       "name": "Kapital: Sparks of Revolution",
       "releaseDate": "2022-04-28",
       "source": "historical"
+    },
+    "1444080": {
+      "rank": 1303,
+      "estimate": "25k+",
+      "name": "Dewdrop Dynasty",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     },
     "1562700": {
       "rank": 225,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-23T17:04:12.899Z",
+  "entryCount": 26,
   "entries": {
     "482400": {
       "rank": 6,
@@ -157,6 +157,13 @@
       "name": "HackHub: Free Trial",
       "releaseDate": "2024-11-04",
       "source": "historical"
+    },
+    "3640430": {
+      "rank": 3868,
+      "estimate": "<7k",
+      "name": "Worlds Upon The Wind",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     },
     "3861730": {
       "rank": 2429,

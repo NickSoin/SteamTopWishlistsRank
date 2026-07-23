@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-23T17:04:12.899Z",
+  "entryCount": 22,
   "entries": {
     "526870": {
       "rank": 16,
@@ -129,6 +129,13 @@
       "name": "DICEOMANCER",
       "releaseDate": "2024-10-09",
       "source": "historical"
+    },
+    "2736370": {
+      "rank": 2302,
+      "estimate": "7k+",
+      "name": "Helix: Descent N Ascent",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     },
     "2738660": {
       "rank": 2714,

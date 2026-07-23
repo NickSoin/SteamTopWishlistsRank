@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-23T17:04:12.899Z",
+  "entryCount": 27,
   "entries": {
     "975370": {
       "rank": 8,
@@ -173,6 +173,13 @@
       "name": "YAPYAP",
       "releaseDate": "2026-02-03",
       "source": "historical"
+    },
+    "4339240": {
+      "rank": 8423,
+      "estimate": "<7k",
+      "name": "Pixelwave Off",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     },
     "4491360": {
       "rank": 1329,

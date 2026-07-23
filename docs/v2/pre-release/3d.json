@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T12:20:14.946Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-23T17:04:12.899Z",
+  "entryCount": 34,
   "entries": {
     "751780": {
       "rank": 21,
@@ -217,6 +217,13 @@
       "name": "Dungeon Vixens: A Tale of Temptation",
       "releaseDate": "2024-04-08",
       "source": "historical"
+    },
+    "3440070": {
+      "rank": 53,
+      "estimate": "300k+",
+      "name": "Dinoblade",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     },
     "3979330": {
       "rank": 688,
