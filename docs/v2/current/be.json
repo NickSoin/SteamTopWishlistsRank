@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-23T07:55:06.738Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-23T12:20:14.946Z",
+  "entryCount": 25,
   "entries": {
     "1191960": {
-      "rank": 1383,
+      "rank": 1385,
       "estimate": "25k+",
       "name": "Detective Simulator"
     },
@@ -15,7 +15,7 @@
       "name": "Truck World: Australia"
     },
     "1537810": {
-      "rank": 4783,
+      "rank": 4786,
       "estimate": "<7k",
       "name": "WarpedSpace"
     },
@@ -30,12 +30,12 @@
       "name": "The Button Effect"
     },
     "2324550": {
-      "rank": 4179,
+      "rank": 4180,
       "estimate": "<7k",
       "name": "Robo Frenzy"
     },
     "2586440": {
-      "rank": 1863,
+      "rank": 1862,
       "estimate": "15k+",
       "name": "House 2"
     },
@@ -50,7 +50,7 @@
       "name": "Railway Life"
     },
     "2993240": {
-      "rank": 4336,
+      "rank": 4340,
       "estimate": "<7k",
       "name": "VacuuBot: Home Cleaning Simulator"
     },
@@ -80,17 +80,17 @@
       "name": "Critterrupters"
     },
     "3635640": {
-      "rank": 4503,
+      "rank": 4505,
       "estimate": "<7k",
       "name": "Stories of Somnia"
     },
     "3751230": {
-      "rank": 167,
+      "rank": 168,
       "estimate": "200k+",
       "name": "Danganronpa 2x2"
     },
     "3758170": {
-      "rank": 3396,
+      "rank": 3392,
       "estimate": "<7k",
       "name": "Robot Rhapsody"
     },
@@ -100,7 +100,7 @@
       "name": "Rustmourne"
     },
     "3814540": {
-      "rank": 2901,
+      "rank": 2898,
       "estimate": "7k+",
       "name": "Catio Simulator"
     },
@@ -110,12 +110,12 @@
       "name": "Outlaw's Vengeance"
     },
     "4123810": {
-      "rank": 3119,
+      "rank": 3120,
       "estimate": "<7k",
       "name": "Sonic Terror"
     },
     "4181410": {
-      "rank": 2439,
+      "rank": 2435,
       "estimate": "7k+",
       "name": "The Alley"
     },
@@ -124,13 +124,8 @@
       "estimate": "<7k",
       "name": "Terrors to Unveil - Last Trace"
     },
-    "4414590": {
-      "rank": 4746,
-      "estimate": "<7k",
-      "name": "Car Sales Simulator"
-    },
     "4437140": {
-      "rank": 4972,
+      "rank": 4974,
       "estimate": "<7k",
       "name": "if you stay"
     }

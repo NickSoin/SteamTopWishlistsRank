@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T07:55:06.738Z",
-  "entryCount": 35,
+  "updatedAt": "2026-07-23T12:20:14.946Z",
+  "entryCount": 36,
   "entries": {
     "694990": {
       "rank": 49,
@@ -202,6 +202,13 @@
       "estimate": "7k+",
       "name": "Feed The Pit",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "3478560": {
+      "rank": 7692,
+      "estimate": "<7k",
+      "name": "Void Future: Hacking Protocol",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     },
     "3489700": {

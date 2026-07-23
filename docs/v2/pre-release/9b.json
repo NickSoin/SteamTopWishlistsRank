@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T07:55:06.738Z",
-  "entryCount": 45,
+  "updatedAt": "2026-07-23T12:20:14.946Z",
+  "entryCount": 46,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -316,6 +316,13 @@
       "estimate": "<7k",
       "name": "Chromium Dino",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4629490": {
+      "rank": 3169,
+      "estimate": "<7k",
+      "name": "The Demon King: Harem",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     },
     "4695530": {

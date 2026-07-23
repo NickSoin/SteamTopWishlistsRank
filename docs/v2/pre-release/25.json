@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T07:55:06.738Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-23T12:20:14.946Z",
+  "entryCount": 23,
   "entries": {
     "832360": {
       "rank": 188,
@@ -142,6 +142,13 @@
       "estimate": "<7k",
       "name": "Ashes of Morgravia",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "3957240": {
+      "rank": 2659,
+      "estimate": "7k+",
+      "name": "Sail Girl",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     },
     "4260370": {

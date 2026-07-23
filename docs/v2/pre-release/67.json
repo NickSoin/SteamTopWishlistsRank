@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T07:55:06.738Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-23T12:20:14.946Z",
+  "entryCount": 34,
   "entries": {
     "1014260": {
       "rank": 2706,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "It's Chopping Time!",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4370020": {
+      "rank": 2614,
+      "estimate": "7k+",
+      "name": "Stained Roses & Lilies",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     },
     "4605210": {
