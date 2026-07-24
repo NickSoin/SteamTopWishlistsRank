@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T21:40:33.693Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-24T04:11:43.273Z",
+  "entryCount": 27,
   "entries": {
     "1159290": {
       "rank": 574,
@@ -158,6 +158,13 @@
       "estimate": "<7k",
       "name": "Xeno Swarm - 异虫强袭",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "3863760": {
+      "rank": 1017,
+      "estimate": "25k+",
+      "name": "侠影录",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     },
     "3887090": {

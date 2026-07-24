@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T21:40:33.693Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-24T04:11:43.273Z",
+  "entryCount": 35,
   "entries": {
     "601360": {
       "rank": 122,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "Turbo Hatchback Time Attack",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4528300": {
+      "rank": 9818,
+      "estimate": "<7k",
+      "name": "Mammon’s Wager",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     },
     "4584940": {

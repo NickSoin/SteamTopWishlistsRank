@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T21:40:33.693Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-24T04:11:43.273Z",
+  "entryCount": 28,
   "entries": {
     "975370": {
       "rank": 8,
@@ -178,6 +178,13 @@
       "rank": 8423,
       "estimate": "<7k",
       "name": "Pixelwave Off",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4353640": {
+      "rank": 2532,
+      "estimate": "7k+",
+      "name": "The Dungeon of Lulu Farea: Rebirth",
       "releaseDate": "2026-07-23",
       "source": "tracked"
     },

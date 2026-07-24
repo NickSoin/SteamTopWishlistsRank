@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T21:40:33.693Z",
-  "entryCount": 39,
+  "updatedAt": "2026-07-24T04:11:43.273Z",
+  "entryCount": 40,
   "entries": {
     "619390": {
       "rank": 926,
@@ -268,6 +268,13 @@
       "releaseDate": "2025-09-12",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758648545"
+    },
+    "4336770": {
+      "rank": 2217,
+      "estimate": "7k+",
+      "name": "War Commander",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     },
     "4409870": {
       "rank": 2674,

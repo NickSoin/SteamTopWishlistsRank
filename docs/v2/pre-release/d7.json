@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T21:40:33.693Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-24T04:11:43.273Z",
+  "entryCount": 24,
   "entries": {
     "1083790": {
       "rank": 1387,
@@ -166,6 +166,13 @@
       "releaseDate": "2026-01-01",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289596299"
+    },
+    "3685370": {
+      "rank": 4098,
+      "estimate": "<7k",
+      "name": "黑山羊BlackGoat",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
     }
   }
 }

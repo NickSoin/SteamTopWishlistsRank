@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T21:40:33.693Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-24T04:11:43.273Z",
+  "entryCount": 33,
   "entries": {
     "729000": {
       "rank": 169,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Dire Echo",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4214320": {
+      "rank": 2779,
+      "estimate": "7k+",
+      "name": "我的美味丈夫 My Tasty Husband",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     },
     "4222040": {

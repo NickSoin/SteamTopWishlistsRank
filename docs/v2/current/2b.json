@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-23T21:40:33.693Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-24T04:11:43.273Z",
+  "entryCount": 27,
   "entries": {
     "1121670": {
-      "rank": 2740,
+      "rank": 2741,
       "estimate": "7k+",
       "name": "Excavator Simulator"
     },
     "1374810": {
-      "rank": 3515,
+      "rank": 3514,
       "estimate": "<7k",
       "name": "Ghost Knight: A Dark Tale"
     },
@@ -20,32 +20,32 @@
       "name": "Super Zoo Story"
     },
     "1641040": {
-      "rank": 1693,
+      "rank": 1692,
       "estimate": "15k+",
       "name": "Hyde's Haunt & Seek"
     },
     "2081720": {
-      "rank": 2375,
+      "rank": 2377,
       "estimate": "7k+",
       "name": "Epic Hero Game"
     },
     "2259590": {
-      "rank": 1916,
+      "rank": 1917,
       "estimate": "15k+",
       "name": "Arcticide"
     },
     "2453200": {
-      "rank": 1740,
+      "rank": 1739,
       "estimate": "15k+",
       "name": "Metalstorm"
     },
     "2546810": {
-      "rank": 1246,
+      "rank": 1245,
       "estimate": "25k+",
       "name": "Broken Sword - Parzival’s Stone"
     },
     "2583660": {
-      "rank": 1030,
+      "rank": 1029,
       "estimate": "25k+",
       "name": "Fractured Alliance"
     },
@@ -55,47 +55,47 @@
       "name": "30 Days on Ship"
     },
     "2858120": {
-      "rank": 2507,
+      "rank": 2506,
       "estimate": "7k+",
       "name": "Clown House: Lunacy"
     },
     "2999120": {
-      "rank": 1418,
+      "rank": 1417,
       "estimate": "25k+",
       "name": "Retrieval"
     },
     "3021550": {
-      "rank": 4698,
+      "rank": 4697,
       "estimate": "<7k",
       "name": "Flock Off!"
     },
     "3212820": {
-      "rank": 4122,
+      "rank": 4113,
       "estimate": "<7k",
       "name": "Solar Wave"
     },
     "3541630": {
-      "rank": 4168,
+      "rank": 4167,
       "estimate": "<7k",
       "name": "HR: Human Remains"
     },
     "3601860": {
-      "rank": 2195,
+      "rank": 2196,
       "estimate": "7k+",
       "name": "Tamer Town"
     },
     "3668300": {
-      "rank": 1367,
+      "rank": 1366,
       "estimate": "25k+",
       "name": "The Shadow Syndicate"
     },
     "3749830": {
-      "rank": 1593,
+      "rank": 1592,
       "estimate": "15k+",
       "name": "Neath"
     },
     "3867170": {
-      "rank": 1387,
+      "rank": 1385,
       "estimate": "25k+",
       "name": "Sengoku Rance"
     },
@@ -105,7 +105,7 @@
       "name": "MOUSE: P.I. For Hire Story DLC"
     },
     "4075620": {
-      "rank": 4996,
+      "rank": 4997,
       "estimate": "<7k",
       "name": "Combolands: Roguelike Citybuilder"
     },
@@ -120,19 +120,24 @@
       "name": "Astral Throne II: Age of the Phoenix"
     },
     "4360160": {
-      "rank": 2902,
+      "rank": 2900,
       "estimate": "7k+",
       "name": "Horse Race Tests: Life is Pain"
     },
     "4654270": {
-      "rank": 2931,
+      "rank": 2926,
       "estimate": "7k+",
       "name": "Idol Manager: Virtual Venture"
     },
     "4745600": {
-      "rank": 841,
+      "rank": 842,
       "estimate": "40k+",
       "name": "Motorsport Manager 2"
+    },
+    "4887360": {
+      "rank": 5168,
+      "estimate": "<7k",
+      "name": "erdetspill"
     }
   }
 }

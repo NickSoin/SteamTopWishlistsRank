@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T21:40:33.693Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-24T04:11:43.273Z",
+  "entryCount": 25,
   "entries": {
     "604540": {
       "rank": 12,
@@ -172,6 +172,13 @@
       "estimate": "7k+",
       "name": "NAMCO LEGENDARY Mountains",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4563540": {
+      "rank": 7908,
+      "estimate": "<7k",
+      "name": "糺糺縁糸（きゅうきゅうえんし）",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     }
   }

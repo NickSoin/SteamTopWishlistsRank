@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-23T21:40:33.693Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-24T04:11:43.273Z",
+  "entryCount": 35,
   "entries": {
     "751780": {
       "rank": 21,
@@ -222,6 +222,13 @@
       "rank": 53,
       "estimate": "300k+",
       "name": "Dinoblade",
+      "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "3508910": {
+      "rank": 1278,
+      "estimate": "25k+",
+      "name": "Abyss Kitchen",
       "releaseDate": "2026-07-23",
       "source": "tracked"
     },
