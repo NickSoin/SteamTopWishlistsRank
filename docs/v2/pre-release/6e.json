@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T17:20:21.673Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-24T21:39:01.952Z",
+  "entryCount": 27,
   "entries": {
     "669330": {
       "rank": 422,
@@ -94,6 +94,13 @@
       "name": "Wingspan: Oceania Expansion",
       "releaseDate": "2023-12-12",
       "source": "historical"
+    },
+    "1983620": {
+      "rank": 1859,
+      "estimate": "15k+",
+      "name": "Infinitevania",
+      "releaseDate": "2026-07-24",
+      "source": "tracked"
     },
     "2013360": {
       "rank": 867,

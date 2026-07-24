@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T17:20:21.673Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-24T21:39:01.952Z",
+  "entryCount": 28,
   "entries": {
     "1063030": {
       "rank": 621,
@@ -181,6 +181,13 @@
       "estimate": "<7k",
       "name": "Slot or Not",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "3759670": {
+      "rank": 1214,
+      "estimate": "25k+",
+      "name": "no fox season",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4130560": {

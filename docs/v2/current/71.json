@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-24T17:20:21.673Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-24T21:39:01.952Z",
+  "entryCount": 24,
   "entries": {
     "1120330": {
-      "rank": 1786,
+      "rank": 1784,
       "estimate": "15k+",
       "name": "Sky of Tides"
     },
@@ -20,7 +20,7 @@
       "name": "ROCKBEASTS"
     },
     "1475120": {
-      "rank": 3700,
+      "rank": 3698,
       "estimate": "<7k",
       "name": "Call Me Under"
     },
@@ -35,17 +35,17 @@
       "name": "Primordials Legends: Hollow Hero"
     },
     "1975790": {
-      "rank": 2866,
+      "rank": 2862,
       "estimate": "7k+",
       "name": "VergeWorld"
     },
     "2563880": {
-      "rank": 3299,
+      "rank": 3298,
       "estimate": "<7k",
       "name": "Ghost Hand"
     },
     "2669780": {
-      "rank": 2833,
+      "rank": 2830,
       "estimate": "7k+",
       "name": "Spill the Beans"
     },
@@ -55,7 +55,7 @@
       "name": "Last Helion"
     },
     "3228430": {
-      "rank": 4507,
+      "rank": 4506,
       "estimate": "<7k",
       "name": "Tides of Blazefall"
     },
@@ -65,7 +65,7 @@
       "name": "Frozen Ship"
     },
     "3519480": {
-      "rank": 1131,
+      "rank": 1132,
       "estimate": "25k+",
       "name": "Carthage: Bellum Punicum"
     },
@@ -75,7 +75,7 @@
       "name": "The Great Hatch"
     },
     "3825390": {
-      "rank": 1059,
+      "rank": 1054,
       "estimate": "25k+",
       "name": "BLUE REFLECTION Quartet"
     },
@@ -90,17 +90,17 @@
       "name": "Engine Of Sin"
     },
     "4089610": {
-      "rank": 2377,
+      "rank": 2374,
       "estimate": "7k+",
       "name": "Eldritch Horror: Digital Edition"
     },
     "4240620": {
-      "rank": 2064,
+      "rank": 2065,
       "estimate": "7k+",
       "name": "The Granny Detective Society"
     },
     "4300090": {
-      "rank": 2360,
+      "rank": 2352,
       "estimate": "7k+",
       "name": "Neat!"
     },
@@ -110,14 +110,19 @@
       "name": "Medieval Battle: Food Truck"
     },
     "4332550": {
-      "rank": 4140,
+      "rank": 4136,
       "estimate": "<7k",
       "name": "Heretic's Rapture"
     },
     "4713340": {
-      "rank": 3010,
-      "estimate": "<7k",
+      "rank": 2975,
+      "estimate": "7k+",
       "name": "Terra Invicta - Dark Skies"
+    },
+    "4934370": {
+      "rank": 4989,
+      "estimate": "<7k",
+      "name": "TV Archive: Tidy Up Together"
     }
   }
 }
