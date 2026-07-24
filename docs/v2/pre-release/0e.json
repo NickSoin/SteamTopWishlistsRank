@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 35,
   "entries": {
     "529340": {
       "rank": 19,
@@ -237,6 +237,13 @@
       "estimate": "<7k",
       "name": "Three Kingdoms : Restoration of Han",
       "releaseDate": "2026-07-05",
+      "source": "tracked"
+    },
+    "3752110": {
+      "rank": 9929,
+      "estimate": "<7k",
+      "name": "Phantom Floor",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "3755850": {

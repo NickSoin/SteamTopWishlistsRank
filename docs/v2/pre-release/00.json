@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 28,
   "entries": {
     "763180": {
       "rank": 734,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "NONEWORLD",
       "releaseDate": "2026-06-21",
+      "source": "tracked"
+    },
+    "3555780": {
+      "rank": 830,
+      "estimate": "40k+",
+      "name": "Bookbinding – Dark Cozy Sim",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4478640": {

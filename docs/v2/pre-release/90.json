@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 24,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -149,6 +149,13 @@
       "name": "Call to Arms - Gates of Hell: Liberation",
       "releaseDate": "2023-11-29",
       "source": "historical"
+    },
+    "3381130": {
+      "rank": 9925,
+      "estimate": "<7k",
+      "name": "World of Eggs: Idle Adventures",
+      "releaseDate": "2026-07-24",
+      "source": "tracked"
     },
     "3574020": {
       "rank": 2367,

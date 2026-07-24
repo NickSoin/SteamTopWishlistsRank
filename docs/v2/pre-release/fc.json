@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 26,
   "entries": {
     "604540": {
       "rank": 12,
@@ -151,6 +151,13 @@
       "estimate": "<7k",
       "name": "Procelio",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4192830": {
+      "rank": 5221,
+      "estimate": "<7k",
+      "name": "Once Upon a Throne of Thorns",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4218680": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 24,
   "entries": {
     "813230": {
       "rank": 13,
@@ -144,6 +144,13 @@
       "estimate": "15k+",
       "name": "Vortica",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "4320330": {
+      "rank": 9604,
+      "estimate": "<7k",
+      "name": "Maze 95 Ultimate",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4399460": {

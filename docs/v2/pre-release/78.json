@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 24,
   "entries": {
     "867660": {
       "rank": 651,
@@ -153,6 +153,13 @@
       "estimate": "7k+",
       "name": "Stay: Your Forever Pet!",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4540370": {
+      "rank": 3193,
+      "estimate": "<7k",
+      "name": "Rail Route - Expect Delays",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4570940": {

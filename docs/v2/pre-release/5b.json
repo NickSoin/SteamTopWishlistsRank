@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 24,
   "entries": {
     "897730": {
       "rank": 9,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "Hex Harmony",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4751340": {
+      "rank": 3205,
+      "estimate": "<7k",
+      "name": "Organize my Shop",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     }
   }

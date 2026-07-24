@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 31,
   "entries": {
     "502050": {
       "rank": 1,
@@ -184,6 +184,13 @@
       "estimate": "7k+",
       "name": "Summer Days in the Joyful Countryside",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4109480": {
+      "rank": 6240,
+      "estimate": "<7k",
+      "name": "MA 2 – President Simulator",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4198590": {

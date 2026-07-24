@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 26,
   "entries": {
     "299970": {
       "rank": 34,
@@ -129,6 +129,13 @@
       "name": "Escape Memoirs: Safe House",
       "releaseDate": "2024-07-19",
       "source": "historical"
+    },
+    "2810210": {
+      "rank": 1097,
+      "estimate": "25k+",
+      "name": "Codename CURE II",
+      "releaseDate": "2026-07-24",
+      "source": "tracked"
     },
     "2826790": {
       "rank": 1123,

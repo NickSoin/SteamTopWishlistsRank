@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 33,
   "entries": {
     "771700": {
       "rank": 1063,
@@ -230,6 +230,13 @@
       "estimate": "7k+",
       "name": "Coin Tavern",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4383880": {
+      "rank": 2261,
+      "estimate": "7k+",
+      "name": "Huntin' Buddies",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 27,
   "entries": {
     "1062090": {
       "rank": 3,
@@ -181,6 +181,13 @@
       "estimate": "<7k",
       "name": "The Song Of WILL: ACT I",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4371450": {
+      "rank": 1643,
+      "estimate": "15k+",
+      "name": "Arctic Shift: Fuel Station",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4681270": {

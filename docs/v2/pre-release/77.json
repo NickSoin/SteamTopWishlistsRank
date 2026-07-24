@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 29,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -184,6 +184,13 @@
       "name": "Gunfire Reborn - Echoes From Primal Grove",
       "releaseDate": "2025-10-22",
       "source": "historical"
+    },
+    "4014100": {
+      "rank": 4830,
+      "estimate": "<7k",
+      "name": "Model Kit Shop Simulator",
+      "releaseDate": "2026-07-24",
+      "source": "tracked"
     },
     "4164900": {
       "rank": 1732,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 41,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 42,
   "entries": {
     "534380": {
       "rank": 1,
@@ -256,6 +256,13 @@
       "estimate": "7k+",
       "name": "ZOMBUTCHER: Monster Business Simulator",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4088760": {
+      "rank": 8528,
+      "estimate": "<7k",
+      "name": "RoboDeal Simulator",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4582080": {

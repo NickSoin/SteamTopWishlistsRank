@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T12:27:20.820Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-24T17:20:21.673Z",
+  "entryCount": 29,
   "entries": {
     "978520": {
       "rank": 41,
@@ -181,6 +181,13 @@
       "estimate": "<7k",
       "name": "Particulitix",
       "releaseDate": "2026-06-06",
+      "source": "tracked"
+    },
+    "4389810": {
+      "rank": 6925,
+      "estimate": "<7k",
+      "name": "Zoo Protocol",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4403350": {
