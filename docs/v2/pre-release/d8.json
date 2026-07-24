@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T07:49:28.863Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-24T12:27:20.820Z",
+  "entryCount": 34,
   "entries": {
     "494730": {
       "rank": 753,
@@ -224,6 +224,13 @@
       "name": "After Inc: Revival",
       "releaseDate": "2025-06-17",
       "source": "historical"
+    },
+    "4112070": {
+      "rank": 474,
+      "estimate": "80k+",
+      "name": "An Eggstremely Hard Game",
+      "releaseDate": "2026-07-24",
+      "source": "tracked"
     },
     "4634080": {
       "rank": 7112,

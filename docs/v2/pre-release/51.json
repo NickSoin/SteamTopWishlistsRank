@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T07:49:28.863Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-24T12:27:20.820Z",
+  "entryCount": 31,
   "entries": {
     "467740": {
       "rank": 10,
@@ -177,6 +177,13 @@
       "estimate": "7k+",
       "name": "Pimbolas",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "3683770": {
+      "rank": 822,
+      "estimate": "40k+",
+      "name": "Boba Cafe Simulator",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4115450": {

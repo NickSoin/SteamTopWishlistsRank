@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T07:49:28.863Z",
-  "entryCount": 37,
+  "updatedAt": "2026-07-24T12:27:20.820Z",
+  "entryCount": 38,
   "entries": {
     "809060": {
       "rank": 695,
@@ -256,6 +256,13 @@
       "estimate": "<7k",
       "name": "Black Powder Box",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4668890": {
+      "rank": 1544,
+      "estimate": "15k+",
+      "name": "Mall Together",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4676570": {

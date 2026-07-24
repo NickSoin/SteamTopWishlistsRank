@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T07:49:28.863Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-24T12:27:20.820Z",
+  "entryCount": 34,
   "entries": {
     "979690": {
       "rank": 26,
@@ -219,6 +219,13 @@
       "estimate": "40k+",
       "name": "Fogpiercer",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4067890": {
+      "rank": 9005,
+      "estimate": "<7k",
+      "name": "Tulip Season",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4371500": {

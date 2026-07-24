@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T07:49:28.863Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-24T12:27:20.820Z",
+  "entryCount": 28,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -176,6 +176,13 @@
       "estimate": "<7k",
       "name": "Wanted Shadows: Unchained",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4124920": {
+      "rank": 1708,
+      "estimate": "15k+",
+      "name": "Some of You May Die",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4196110": {
