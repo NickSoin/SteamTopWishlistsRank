@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T04:11:43.273Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-24T07:49:28.863Z",
+  "entryCount": 23,
   "entries": {
     "615530": {
       "rank": 223,
@@ -151,6 +151,13 @@
       "estimate": "7k+",
       "name": "Tokyo Valkyries",
       "releaseDate": "2026-07-08",
+      "source": "tracked"
+    },
+    "4438540": {
+      "rank": 2012,
+      "estimate": "7k+",
+      "name": "Limitless Survivor",
+      "releaseDate": "2026-07-23",
       "source": "tracked"
     },
     "4634490": {
