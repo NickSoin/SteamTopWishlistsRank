@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-24T21:39:01.952Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-25T04:04:53.617Z",
+  "entryCount": 34,
   "entries": {
     "440000": {
       "rank": 459,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "DEADWAVE",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4395030": {
+      "rank": 3719,
+      "estimate": "<7k",
+      "name": "B-Prison Unchain",
+      "releaseDate": "2026-07-24",
       "source": "tracked"
     },
     "4550750": {

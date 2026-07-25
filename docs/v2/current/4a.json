@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-24T21:39:01.952Z",
-  "entryCount": 17,
+  "updatedAt": "2026-07-25T04:04:53.617Z",
+  "entryCount": 18,
   "entries": {
     "306910": {
-      "rank": 258,
+      "rank": 257,
       "estimate": "80k+",
       "name": "Vaultbreakers"
     },
@@ -15,22 +15,22 @@
       "name": "TankRat"
     },
     "1953430": {
-      "rank": 3386,
+      "rank": 3387,
       "estimate": "<7k",
       "name": "DearMyFriend"
     },
     "2357970": {
-      "rank": 4148,
+      "rank": 4149,
       "estimate": "<7k",
       "name": "Finely Diced"
     },
     "2408290": {
-      "rank": 5120,
+      "rank": 5122,
       "estimate": "<7k",
       "name": "Interlopers"
     },
     "2521160": {
-      "rank": 3176,
+      "rank": 3178,
       "estimate": "<7k",
       "name": "The Merlies"
     },
@@ -40,7 +40,7 @@
       "name": "Dust Front RTS"
     },
     "2637210": {
-      "rank": 2613,
+      "rank": 2610,
       "estimate": "7k+",
       "name": "Flow Of War"
     },
@@ -50,17 +50,17 @@
       "name": "Milo"
     },
     "2879320": {
-      "rank": 3032,
+      "rank": 3033,
       "estimate": "<7k",
       "name": "The Night Wanderer"
     },
     "3196750": {
-      "rank": 3868,
+      "rank": 3873,
       "estimate": "<7k",
       "name": "[Bober Bros] Happy House"
     },
     "3374020": {
-      "rank": 3787,
+      "rank": 3788,
       "estimate": "<7k",
       "name": "Buddy Bug"
     },
@@ -70,24 +70,29 @@
       "name": "SourceWorld"
     },
     "3873770": {
-      "rank": 1999,
-      "estimate": "15k+",
+      "rank": 2003,
+      "estimate": "7k+",
       "name": "AXERAS"
     },
     "4342570": {
-      "rank": 4532,
+      "rank": 4535,
       "estimate": "<7k",
       "name": "Gospodar's Tales"
     },
     "4425550": {
-      "rank": 4442,
+      "rank": 4436,
       "estimate": "<7k",
       "name": "Monkey Bizniz"
     },
     "4430260": {
-      "rank": 1864,
+      "rank": 1858,
       "estimate": "15k+",
       "name": "Beat For Speed"
+    },
+    "4940930": {
+      "rank": 4846,
+      "estimate": "<7k",
+      "name": "SKOS: 13.86"
     }
   }
 }
