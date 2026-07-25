@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-25T07:39:28.086Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-25T16:28:05.846Z",
+  "entryCount": 30,
   "entries": {
     "928000": {
       "rank": 773,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Fish Companions",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4699920": {
+      "rank": 4224,
+      "estimate": "<7k",
+      "name": "天平游戏1:抉择",
+      "releaseDate": "2026-07-25",
       "source": "tracked"
     },
     "4715350": {

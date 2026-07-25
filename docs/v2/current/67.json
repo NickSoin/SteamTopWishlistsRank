@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-25T07:39:28.086Z",
-  "entryCount": 15,
+  "updatedAt": "2026-07-25T16:28:05.846Z",
+  "entryCount": 16,
   "entries": {
     "1739080": {
       "rank": 186,
@@ -10,17 +10,22 @@
       "name": "Sword Hero"
     },
     "2022640": {
-      "rank": 1396,
+      "rank": 1397,
       "estimate": "25k+",
       "name": "CALX"
     },
     "2283250": {
-      "rank": 4393,
+      "rank": 4394,
       "estimate": "<7k",
       "name": "BrokenLore: DARK DAWN"
     },
+    "2490960": {
+      "rank": 5099,
+      "estimate": "<7k",
+      "name": "Ghost hunter"
+    },
     "2535690": {
-      "rank": 3857,
+      "rank": 3860,
       "estimate": "<7k",
       "name": "Offroad Survival"
     },
@@ -30,22 +35,22 @@
       "name": "Bendy: The Cage"
     },
     "2786760": {
-      "rank": 718,
+      "rank": 719,
       "estimate": "40k+",
       "name": "Another Door"
     },
     "3299850": {
-      "rank": 2451,
+      "rank": 2453,
       "estimate": "7k+",
       "name": "The Last Phoenix"
     },
     "3508880": {
-      "rank": 4406,
+      "rank": 4408,
       "estimate": "<7k",
       "name": "Outpost Simulator"
     },
     "3778290": {
-      "rank": 4574,
+      "rank": 4573,
       "estimate": "<7k",
       "name": "Scrutator Tenebris"
     },
@@ -55,7 +60,7 @@
       "name": "Dragon Raja the farewell passage"
     },
     "4074010": {
-      "rank": 757,
+      "rank": 755,
       "estimate": "40k+",
       "name": "Dig, Dig, Die"
     },
@@ -75,7 +80,7 @@
       "name": "Elzypon"
     },
     "4892120": {
-      "rank": 1227,
+      "rank": 1220,
       "estimate": "25k+",
       "name": "ROUTE"
     }

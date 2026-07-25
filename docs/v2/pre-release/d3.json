@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-25T07:39:28.086Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-25T16:28:05.846Z",
+  "entryCount": 35,
   "entries": {
     "307950": {
       "rank": 1484,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "Beat The Champions",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4383080": {
+      "rank": 9918,
+      "estimate": "<7k",
+      "name": "100 Dragon Cats",
+      "releaseDate": "2026-07-25",
       "source": "tracked"
     },
     "4512570": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-25T07:39:28.086Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-25T16:28:05.846Z",
+  "entryCount": 29,
   "entries": {
     "1209470": {
       "rank": 50,
@@ -193,6 +193,13 @@
       "estimate": "7k+",
       "name": "FeeBay Simulator",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3894850": {
+      "rank": 937,
+      "estimate": "40k+",
+      "name": "Nothing To Declare",
+      "releaseDate": "2026-07-25",
       "source": "tracked"
     },
     "4664030": {
