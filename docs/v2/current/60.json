@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-25T16:28:05.846Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-25T21:18:37.568Z",
+  "entryCount": 25,
   "entries": {
     "860210": {
       "rank": 610,
@@ -10,17 +10,17 @@
       "name": "Return to Nangrim"
     },
     "1066390": {
-      "rank": 3440,
+      "rank": 3441,
       "estimate": "<7k",
       "name": "Chernobyl 1986"
     },
     "1223030": {
-      "rank": 2386,
+      "rank": 2388,
       "estimate": "7k+",
       "name": "Ami"
     },
     "1349460": {
-      "rank": 3710,
+      "rank": 3711,
       "estimate": "<7k",
       "name": "Bravers"
     },
@@ -30,7 +30,7 @@
       "name": "Way To The Woods"
     },
     "2139040": {
-      "rank": 1737,
+      "rank": 1738,
       "estimate": "15k+",
       "name": "Cook, Serve, Delicious: Re-Mustard!"
     },
@@ -50,12 +50,12 @@
       "name": "As One We Survive"
     },
     "2531570": {
-      "rank": 3439,
+      "rank": 3440,
       "estimate": "<7k",
       "name": "SOUNDGRASS"
     },
     "2642850": {
-      "rank": 4884,
+      "rank": 4887,
       "estimate": "<7k",
       "name": "Serpens: Eternal Thievery"
     },
@@ -65,7 +65,7 @@
       "name": "14: Overmind"
     },
     "2861730": {
-      "rank": 1821,
+      "rank": 1823,
       "estimate": "15k+",
       "name": "Food Devils"
     },
@@ -75,7 +75,7 @@
       "name": "Deep Dish Dungeon"
     },
     "2935130": {
-      "rank": 4907,
+      "rank": 4909,
       "estimate": "<7k",
       "name": "Dice of Arcana"
     },
@@ -90,17 +90,17 @@
       "name": "ALVR - Air Light VR"
     },
     "3551090": {
-      "rank": 3958,
+      "rank": 3959,
       "estimate": "<7k",
       "name": "Charlatan"
     },
     "3926070": {
-      "rank": 4965,
+      "rank": 4969,
       "estimate": "<7k",
       "name": "The Bestest Alchemist"
     },
     "3934590": {
-      "rank": 3940,
+      "rank": 3942,
       "estimate": "<7k",
       "name": "Donjon: The Dark Fantasy"
     },
@@ -110,19 +110,24 @@
       "name": "NTL: No Time Left"
     },
     "4141760": {
-      "rank": 4663,
+      "rank": 4664,
       "estimate": "<7k",
       "name": "NERO"
     },
     "4239670": {
-      "rank": 814,
+      "rank": 812,
       "estimate": "40k+",
       "name": "Steel Soul Shaper"
     },
     "4354650": {
-      "rank": 3393,
+      "rank": 3391,
       "estimate": "<7k",
       "name": "The Unleaving"
+    },
+    "4910490": {
+      "rank": 4820,
+      "estimate": "<7k",
+      "name": "Ignite the Depths"
     }
   }
 }

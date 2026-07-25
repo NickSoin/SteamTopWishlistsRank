@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-25T16:28:05.846Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-25T21:18:37.568Z",
+  "entryCount": 21,
   "entries": {
     "887680": {
       "rank": 4245,
@@ -10,12 +10,12 @@
       "name": "不当英雄ROGUELIKE HERO"
     },
     "893670": {
-      "rank": 3597,
+      "rank": 3598,
       "estimate": "<7k",
       "name": "Silent Night"
     },
     "1176330": {
-      "rank": 4710,
+      "rank": 4712,
       "estimate": "<7k",
       "name": "Your Principal"
     },
@@ -30,7 +30,7 @@
       "name": "State of Decay 3"
     },
     "1562410": {
-      "rank": 5063,
+      "rank": 5068,
       "estimate": "<7k",
       "name": "Slime 64"
     },
@@ -40,7 +40,7 @@
       "name": "Nowhere Manor"
     },
     "2334320": {
-      "rank": 1713,
+      "rank": 1714,
       "estimate": "15k+",
       "name": "Cthulhu Keeper"
     },
@@ -55,17 +55,17 @@
       "name": "Crossroads Inn 2 - Tavern Manager"
     },
     "2507690": {
-      "rank": 1725,
+      "rank": 1726,
       "estimate": "15k+",
       "name": "Thalassophobia"
     },
     "2511600": {
-      "rank": 5023,
+      "rank": 5024,
       "estimate": "<7k",
       "name": "TERRE・Scramble！"
     },
     "3126500": {
-      "rank": 2402,
+      "rank": 2403,
       "estimate": "7k+",
       "name": "States of Power"
     },
@@ -75,34 +75,39 @@
       "name": "Am I Nima"
     },
     "4123070": {
-      "rank": 1137,
+      "rank": 1140,
       "estimate": "25k+",
       "name": "MonCraft 199X"
     },
     "4139200": {
-      "rank": 1869,
+      "rank": 1872,
       "estimate": "15k+",
       "name": "Prism 2033"
     },
     "4511570": {
-      "rank": 4898,
+      "rank": 4900,
       "estimate": "<7k",
       "name": "HOLO-KINGDOM"
     },
     "4572120": {
-      "rank": 3065,
+      "rank": 3054,
       "estimate": "<7k",
       "name": "Dirt Clicker"
     },
     "4590810": {
-      "rank": 5112,
+      "rank": 5110,
       "estimate": "<7k",
       "name": "民国诡事"
     },
     "4704000": {
-      "rank": 1010,
+      "rank": 1011,
       "estimate": "25k+",
       "name": "Shark Mart"
+    },
+    "4925300": {
+      "rank": 5177,
+      "estimate": "<7k",
+      "name": "Unnamed Pogo Game"
     }
   }
 }

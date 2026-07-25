@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-25T16:28:05.846Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-25T21:18:37.568Z",
+  "entryCount": 31,
   "entries": {
     "606160": {
       "rank": 145,
@@ -190,6 +190,13 @@
       "estimate": "40k+",
       "name": "Moldwasher",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "3712350": {
+      "rank": 5034,
+      "estimate": "<7k",
+      "name": "Tiny Train Adventures",
+      "releaseDate": "2026-07-25",
       "source": "tracked"
     },
     "4490130": {
