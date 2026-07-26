@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-26T16:36:23.903Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-26T21:15:17.190Z",
+  "entryCount": 26,
   "entries": {
     "427940": {
       "rank": 24,
@@ -10,6 +10,13 @@
       "name": "Industries of Titan",
       "releaseDate": "2023-01-31",
       "source": "historical"
+    },
+    "744960": {
+      "rank": 6024,
+      "estimate": "<7k",
+      "name": "GUITAR WORKSHOP",
+      "releaseDate": "2026-07-26",
+      "source": "tracked"
     },
     "908360": {
       "rank": 382,

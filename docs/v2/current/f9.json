@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-26T16:36:23.903Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-26T21:15:17.190Z",
+  "entryCount": 20,
   "entries": {
     "988960": {
-      "rank": 1888,
+      "rank": 1890,
       "estimate": "15k+",
       "name": "Silenced"
     },
     "1043460": {
-      "rank": 1917,
+      "rank": 1919,
       "estimate": "15k+",
       "name": "Anchor"
     },
     "1347230": {
-      "rank": 4077,
+      "rank": 4080,
       "estimate": "<7k",
       "name": "Estranged: Arctic Cold"
     },
@@ -25,7 +25,7 @@
       "name": "CALME"
     },
     "2172910": {
-      "rank": 1445,
+      "rank": 1444,
       "estimate": "25k+",
       "name": "CAPTAIN TSUBASA 2: WORLD FIGHTERS"
     },
@@ -35,7 +35,7 @@
       "name": "Earthblade"
     },
     "2495730": {
-      "rank": 2527,
+      "rank": 2530,
       "estimate": "7k+",
       "name": "Provoron"
     },
@@ -45,37 +45,37 @@
       "name": "The Last General"
     },
     "2731290": {
-      "rank": 1851,
+      "rank": 1854,
       "estimate": "15k+",
       "name": "Kanjozoku - Wangan Runners"
     },
     "2791230": {
-      "rank": 2297,
+      "rank": 2301,
       "estimate": "7k+",
       "name": "Path of Ambition: The Sun Rise"
     },
     "2924540": {
-      "rank": 617,
+      "rank": 620,
       "estimate": "40k+",
       "name": "Crazy Taxi: World Tour"
     },
     "3327160": {
-      "rank": 3225,
+      "rank": 3231,
       "estimate": "<7k",
       "name": "Syndicate of Souls"
     },
     "3459340": {
-      "rank": 935,
+      "rank": 936,
       "estimate": "40k+",
       "name": "Lacey's Flash Games"
     },
     "3471290": {
-      "rank": 4603,
+      "rank": 4606,
       "estimate": "<7k",
       "name": "I’m a Wizard, But I Dig"
     },
     "3502620": {
-      "rank": 4585,
+      "rank": 4584,
       "estimate": "<7k",
       "name": "DEMONS' NIGHT FEVER"
     },
@@ -85,19 +85,24 @@
       "name": "Village 51"
     },
     "3962240": {
-      "rank": 1980,
+      "rank": 1978,
       "estimate": "15k+",
       "name": "Quiet Express: Cabin 909"
     },
     "4213930": {
-      "rank": 2251,
+      "rank": 2252,
       "estimate": "7k+",
       "name": "Salty Dogs"
     },
     "4247140": {
-      "rank": 978,
+      "rank": 981,
       "estimate": "40k+",
       "name": "Everlasting Summer 2"
+    },
+    "4875860": {
+      "rank": 5184,
+      "estimate": "<7k",
+      "name": "ECHOES"
     }
   }
 }
