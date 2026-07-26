@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-26T04:24:37.750Z",
-  "entryCount": 36,
+  "updatedAt": "2026-07-26T07:56:25.385Z",
+  "entryCount": 37,
   "entries": {
     "809090": {
       "rank": 1225,
@@ -245,6 +245,13 @@
       "name": "STAR WARS: Galactic Racer™",
       "releaseDate": "2026-10-06",
       "source": "historical"
+    },
+    "4278010": {
+      "rank": 2444,
+      "estimate": "7k+",
+      "name": "The Grade 5B Case Files",
+      "releaseDate": "2026-07-26",
+      "source": "tracked"
     },
     "4323800": {
       "rank": 3615,
