@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-27T17:26:05.635Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-27T21:44:07.347Z",
+  "entryCount": 22,
   "entries": {
     "395830": {
       "rank": 848,
@@ -10,32 +10,32 @@
       "name": "LOW-FI"
     },
     "796530": {
-      "rank": 2968,
+      "rank": 2970,
       "estimate": "7k+",
       "name": "ALTERA"
     },
     "827210": {
-      "rank": 5012,
+      "rank": 5014,
       "estimate": "<7k",
       "name": "Death Carnival"
     },
     "1300880": {
-      "rank": 4571,
+      "rank": 4574,
       "estimate": "<7k",
       "name": "Glitchphobia"
     },
     "1354980": {
-      "rank": 1812,
+      "rank": 1815,
       "estimate": "15k+",
       "name": "Decimated"
     },
     "1503490": {
-      "rank": 2287,
+      "rank": 2292,
       "estimate": "7k+",
       "name": "FarmZone"
     },
     "1836400": {
-      "rank": 1629,
+      "rank": 1632,
       "estimate": "15k+",
       "name": "Mossfield Origins"
     },
@@ -45,7 +45,7 @@
       "name": "WARDOGS"
     },
     "1927360": {
-      "rank": 1058,
+      "rank": 1060,
       "estimate": "25k+",
       "name": "Mira and the Legend of the Djinns"
     },
@@ -55,7 +55,7 @@
       "name": "NO LAW"
     },
     "2337180": {
-      "rank": 3372,
+      "rank": 3373,
       "estimate": "<7k",
       "name": "I NEED SPACE"
     },
@@ -65,7 +65,7 @@
       "name": "Barbarian Saga: The Beastmaster"
     },
     "2541950": {
-      "rank": 1024,
+      "rank": 1023,
       "estimate": "25k+",
       "name": "Sirens"
     },
@@ -74,13 +74,18 @@
       "estimate": "40k+",
       "name": "I Am Security"
     },
+    "3145850": {
+      "rank": 3601,
+      "estimate": "<7k",
+      "name": "Rootmare"
+    },
     "3195150": {
-      "rank": 3921,
+      "rank": 3922,
       "estimate": "<7k",
       "name": "Clowned King"
     },
     "3444810": {
-      "rank": 4644,
+      "rank": 4643,
       "estimate": "<7k",
       "name": "Wonderfall"
     },

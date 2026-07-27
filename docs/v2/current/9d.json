@@ -1,9 +1,14 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-27T17:26:05.635Z",
-  "entryCount": 14,
+  "updatedAt": "2026-07-27T21:44:07.347Z",
+  "entryCount": 15,
   "entries": {
+    "616580": {
+      "rank": 5192,
+      "estimate": "<7k",
+      "name": "War Girl"
+    },
     "1236170": {
       "rank": 1930,
       "estimate": "15k+",
@@ -15,7 +20,7 @@
       "name": "Fields of History: The Great War"
     },
     "1354450": {
-      "rank": 4265,
+      "rank": 4268,
       "estimate": "<7k",
       "name": "Dragonfield"
     },
@@ -30,17 +35,17 @@
       "name": "ATMOSFAR"
     },
     "1912410": {
-      "rank": 198,
+      "rank": 199,
       "estimate": "200k+",
       "name": "Minecraft Dungeons II"
     },
     "2105260": {
-      "rank": 2289,
+      "rank": 2293,
       "estimate": "7k+",
       "name": "Pizza Kidd"
     },
     "2412740": {
-      "rank": 3208,
+      "rank": 3209,
       "estimate": "<7k",
       "name": "Ascent Quest"
     },
@@ -55,12 +60,12 @@
       "name": "Spell Candle"
     },
     "3327120": {
-      "rank": 3630,
+      "rank": 3632,
       "estimate": "<7k",
       "name": "Dreadline Express"
     },
     "3624140": {
-      "rank": 89,
+      "rank": 90,
       "estimate": "300k+",
       "name": "Wanderburg"
     },
@@ -70,7 +75,7 @@
       "name": "Hero's Hour 2"
     },
     "4182850": {
-      "rank": 4021,
+      "rank": 4020,
       "estimate": "<7k",
       "name": "Tiebreakers"
     }
