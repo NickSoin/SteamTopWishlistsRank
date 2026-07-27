@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-27T09:03:20.041Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-27T13:25:23.983Z",
+  "entryCount": 31,
   "entries": {
     "511280": {
       "rank": 886,
@@ -195,6 +195,13 @@
       "estimate": "200k+",
       "name": "Thick As Thieves",
       "releaseDate": "2026-05-20",
+      "source": "tracked"
+    },
+    "3891880": {
+      "rank": 4394,
+      "estimate": "<7k",
+      "name": "Orbital",
+      "releaseDate": "2026-07-27",
       "source": "tracked"
     },
     "4275920": {

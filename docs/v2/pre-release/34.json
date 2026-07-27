@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-27T09:03:20.041Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-27T13:25:23.983Z",
+  "entryCount": 32,
   "entries": {
     "606160": {
       "rank": 145,
@@ -197,6 +197,13 @@
       "estimate": "<7k",
       "name": "Tiny Train Adventures",
       "releaseDate": "2026-07-25",
+      "source": "tracked"
+    },
+    "4336290": {
+      "rank": 5668,
+      "estimate": "<7k",
+      "name": "Tyrania Enforcers - Visual Novel",
+      "releaseDate": "2026-07-27",
       "source": "tracked"
     },
     "4490130": {
