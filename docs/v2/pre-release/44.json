@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-27T13:25:23.983Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-27T17:26:05.635Z",
+  "entryCount": 27,
   "entries": {
     "499180": {
       "rank": 937,
@@ -115,6 +115,13 @@
       "name": "Bud Spencer & Terence Hill - Slaps And Beans 2",
       "releaseDate": "2023-09-22",
       "source": "historical"
+    },
+    "2479090": {
+      "rank": 449,
+      "estimate": "80k+",
+      "name": "Prelude Dark Pain",
+      "releaseDate": "2026-07-27",
+      "source": "tracked"
     },
     "2703850": {
       "rank": 435,

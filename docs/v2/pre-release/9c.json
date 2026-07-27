@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-27T13:25:23.983Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-27T17:26:05.635Z",
+  "entryCount": 34,
   "entries": {
     "649950": {
       "rank": 19,
@@ -218,6 +218,13 @@
       "estimate": "<7k",
       "name": "Fit Happens: A Clothing Shop Simulator",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4401370": {
+      "rank": 2634,
+      "estimate": "7k+",
+      "name": "Skills & Raids",
+      "releaseDate": "2026-07-27",
       "source": "tracked"
     },
     "4411090": {

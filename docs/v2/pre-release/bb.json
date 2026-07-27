@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-27T13:25:23.983Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-27T17:26:05.635Z",
+  "entryCount": 35,
   "entries": {
     "928960": {
       "rank": 577,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "Dark Pals: Desktop Companions",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4796640": {
+      "rank": 3307,
+      "estimate": "<7k",
+      "name": "UNBEATABLE - The Jamie Paige Content Companion",
+      "releaseDate": "2026-07-27",
       "source": "tracked"
     }
   }

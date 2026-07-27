@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-27T13:25:23.983Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-27T17:26:05.635Z",
+  "entryCount": 21,
   "entries": {
     "1173790": {
       "rank": 382,
@@ -121,6 +121,13 @@
       "estimate": "<7k",
       "name": "Petunia's Purgatory",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4203270": {
+      "rank": 3493,
+      "estimate": "<7k",
+      "name": "Moon Crashers",
+      "releaseDate": "2026-07-27",
       "source": "tracked"
     },
     "4334110": {

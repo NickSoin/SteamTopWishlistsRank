@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-27T13:25:23.983Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-27T17:26:05.635Z",
+  "entryCount": 32,
   "entries": {
     "458430": {
       "rank": 911,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "WHERE the F$CK is my BITCOIN ⁉️",
       "releaseDate": "2026-06-13",
+      "source": "tracked"
+    },
+    "4745310": {
+      "rank": 9971,
+      "estimate": "<7k",
+      "name": "Tachyon Fire",
+      "releaseDate": "2026-07-27",
       "source": "tracked"
     }
   }

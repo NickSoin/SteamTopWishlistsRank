@@ -1,71 +1,71 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-27T13:25:23.983Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-27T17:26:05.635Z",
+  "entryCount": 20,
   "entries": {
     "1510710": {
-      "rank": 4627,
+      "rank": 4617,
       "estimate": "<7k",
       "name": "dev_hell"
     },
     "1557140": {
-      "rank": 1619,
+      "rank": 1614,
       "estimate": "15k+",
       "name": "What Lives Below"
     },
     "1667010": {
-      "rank": 5044,
+      "rank": 5033,
       "estimate": "<7k",
       "name": "Pirates Job"
     },
     "2097940": {
-      "rank": 3083,
+      "rank": 3068,
       "estimate": "<7k",
       "name": "Theatre of War: Rearmed"
     },
     "2184280": {
-      "rank": 947,
+      "rank": 944,
       "estimate": "40k+",
       "name": "Vexlands"
     },
     "2388440": {
-      "rank": 2399,
+      "rank": 2393,
       "estimate": "7k+",
       "name": "Battlecore Robots"
     },
     "2401280": {
-      "rank": 3134,
+      "rank": 3126,
       "estimate": "<7k",
       "name": "Forastero"
     },
     "2682980": {
-      "rank": 2511,
+      "rank": 2503,
       "estimate": "7k+",
       "name": "The Bunny Graveyard II"
     },
     "2814880": {
-      "rank": 1727,
+      "rank": 1723,
       "estimate": "15k+",
       "name": "Synchro"
     },
     "3045520": {
-      "rank": 3190,
+      "rank": 3180,
       "estimate": "<7k",
       "name": "Sea Sniffers"
     },
     "3166630": {
-      "rank": 5133,
+      "rank": 5124,
       "estimate": "<7k",
       "name": "MARS"
     },
     "3380100": {
-      "rank": 1514,
+      "rank": 1509,
       "estimate": "15k+",
       "name": "Estella"
     },
     "3596750": {
-      "rank": 4530,
+      "rank": 4520,
       "estimate": "<7k",
       "name": "Elegy of St. Godhrkar"
     },
@@ -75,29 +75,34 @@
       "name": "Euro Truck Simulator 2 - Iceland"
     },
     "3891020": {
-      "rank": 5002,
+      "rank": 4982,
       "estimate": "<7k",
       "name": "SRPG Studio EX"
     },
     "3925240": {
-      "rank": 5168,
+      "rank": 5155,
       "estimate": "<7k",
       "name": "Otaku Love Story"
     },
     "4148080": {
-      "rank": 4502,
+      "rank": 4490,
       "estimate": "<7k",
       "name": "泥舟と罪人"
     },
     "4468540": {
-      "rank": 4905,
+      "rank": 4895,
       "estimate": "<7k",
       "name": "It's About Pirates"
     },
     "4487060": {
-      "rank": 873,
+      "rank": 869,
       "estimate": "40k+",
       "name": "Northgard Battlegrounds"
+    },
+    "4948000": {
+      "rank": 5082,
+      "estimate": "<7k",
+      "name": "Moo Who?"
     }
   }
 }

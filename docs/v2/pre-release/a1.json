@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-27T13:25:23.983Z",
-  "entryCount": 41,
+  "updatedAt": "2026-07-27T17:26:05.635Z",
+  "entryCount": 42,
   "entries": {
     "619390": {
       "rank": 926,
@@ -268,6 +268,13 @@
       "releaseDate": "2025-09-12",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758648545"
+    },
+    "4302940": {
+      "rank": 4694,
+      "estimate": "<7k",
+      "name": "Corner Market",
+      "releaseDate": "2026-07-27",
+      "source": "tracked"
     },
     "4336770": {
       "rank": 2217,

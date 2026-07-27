@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-27T13:25:23.983Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-27T17:26:05.635Z",
+  "entryCount": 26,
   "entries": {
     "410740": {
       "rank": 1177,
@@ -178,6 +178,13 @@
       "name": "Deadly Delivery",
       "releaseDate": "2025-12-04",
       "source": "historical"
+    },
+    "4641690": {
+      "rank": 3565,
+      "estimate": "<7k",
+      "name": "D.R.A.F.​T. VR",
+      "releaseDate": "2026-07-27",
+      "source": "tracked"
     }
   }
 }

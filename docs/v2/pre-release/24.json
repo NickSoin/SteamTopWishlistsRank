@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-27T13:25:23.983Z",
+  "updatedAt": "2026-07-27T17:26:05.635Z",
   "entryCount": 23,
   "entries": {
     "623280": {
@@ -19,12 +19,12 @@
       "source": "historical"
     },
     "951770": {
-      "rank": 417,
-      "estimate": "10k",
-      "actualWishlists": 10000,
+      "rank": 233,
+      "estimate": "80k+",
       "name": "Forsaken Realms: Vahrin's Call",
-      "releaseDate": "2026-01-01",
-      "source": "historical",
+      "releaseDate": "2026-07-27",
+      "source": "tracked",
+      "actualWishlists": 10000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4038025325473072318"
     },
     "1155870": {

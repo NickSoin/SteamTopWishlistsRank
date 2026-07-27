@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-27T13:25:23.983Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-27T17:26:05.635Z",
+  "entryCount": 28,
   "entries": {
     "553540": {
       "rank": 73,
@@ -160,6 +160,13 @@
       "releaseDate": "2025-08-07",
       "source": "historical"
     },
+    "3206340": {
+      "rank": 2091,
+      "estimate": "7k+",
+      "name": "Plum Road Tea Dream",
+      "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
     "3484850": {
       "rank": 2699,
       "estimate": "7k+",
@@ -179,6 +186,13 @@
       "estimate": "15k+",
       "name": "Crosshair",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4434520": {
+      "rank": 7619,
+      "estimate": "<7k",
+      "name": "Office Leveling",
+      "releaseDate": "2026-07-27",
       "source": "tracked"
     },
     "4678720": {
