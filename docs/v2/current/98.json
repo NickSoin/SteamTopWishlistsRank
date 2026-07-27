@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-27T04:10:21.861Z",
+  "updatedAt": "2026-07-27T09:03:20.041Z",
   "entryCount": 21,
   "entries": {
     "1778150": {
-      "rank": 3932,
+      "rank": 3931,
       "estimate": "<7k",
       "name": "TRIP"
     },
     "1810070": {
-      "rank": 2479,
+      "rank": 2478,
       "estimate": "7k+",
       "name": "Aperture: Salt Mines"
     },
     "1953850": {
-      "rank": 2815,
+      "rank": 2814,
       "estimate": "7k+",
       "name": "VICE Undercover"
     },
@@ -30,7 +30,7 @@
       "name": "Engine Simulator"
     },
     "3008590": {
-      "rank": 2139,
+      "rank": 2141,
       "estimate": "7k+",
       "name": "Relics of the Oracle"
     },
@@ -40,22 +40,22 @@
       "name": "Scirocco Thugs"
     },
     "3260240": {
-      "rank": 1948,
+      "rank": 1947,
       "estimate": "15k+",
       "name": "Drivers of the Apocalypse"
     },
     "3433800": {
-      "rank": 2101,
+      "rank": 2102,
       "estimate": "7k+",
       "name": "Moonbrella"
     },
     "3445610": {
-      "rank": 1415,
+      "rank": 1414,
       "estimate": "25k+",
       "name": "BOMBSHELL BLITZ"
     },
     "3601630": {
-      "rank": 3381,
+      "rank": 3380,
       "estimate": "<7k",
       "name": "Cosmo Tales"
     },
@@ -80,12 +80,12 @@
       "name": "Total Tank Simulator 2"
     },
     "3985330": {
-      "rank": 3177,
+      "rank": 3172,
       "estimate": "<7k",
       "name": "BURNED HORIZONS"
     },
     "4005330": {
-      "rank": 5102,
+      "rank": 5101,
       "estimate": "<7k",
       "name": "Spell Trigger"
     },
@@ -95,7 +95,7 @@
       "name": "SlashZero"
     },
     "4108460": {
-      "rank": 4396,
+      "rank": 4384,
       "estimate": "<7k",
       "name": "PatriotMemoirs"
     },
@@ -105,7 +105,7 @@
       "name": "DoDonPachi Resurrection Reignite"
     },
     "4935510": {
-      "rank": 2262,
+      "rank": 2228,
       "estimate": "7k+",
       "name": "Cellar Keeper"
     }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-27T04:10:21.861Z",
-  "entryCount": 36,
+  "updatedAt": "2026-07-27T09:03:20.041Z",
+  "entryCount": 37,
   "entries": {
     "538030": {
       "rank": 87,
@@ -260,6 +260,13 @@
       "estimate": "<7k",
       "name": "Incremental Ragebait",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4432910": {
+      "rank": 1432,
+      "estimate": "25k+",
+      "name": "Spell Knight: Abyss Cleaver",
+      "releaseDate": "2026-07-27",
       "source": "tracked"
     }
   }
