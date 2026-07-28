@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T03:46:38.240Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-28T08:04:53.891Z",
+  "entryCount": 29,
   "entries": {
     "374190": {
       "rank": 414,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "Agricola - The King's Farmer",
       "releaseDate": "2026-06-29",
+      "source": "tracked"
+    },
+    "4621650": {
+      "rank": 7960,
+      "estimate": "<7k",
+      "name": "Pantheon: Yaratılış Alevi",
+      "releaseDate": "2026-07-28",
       "source": "tracked"
     }
   }

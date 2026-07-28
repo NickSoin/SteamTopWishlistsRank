@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T03:46:38.240Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-28T08:04:53.891Z",
+  "entryCount": 25,
   "entries": {
     "1083790": {
       "rank": 1387,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "黑山羊BlackGoat",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4056490": {
+      "rank": 8677,
+      "estimate": "<7k",
+      "name": "Convent Chronicles: Revelation",
+      "releaseDate": "2026-07-27",
       "source": "tracked"
     }
   }

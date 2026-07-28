@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T03:46:38.240Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-28T08:04:53.891Z",
+  "entryCount": 30,
   "entries": {
     "397540": {
       "rank": 26,
@@ -186,6 +186,20 @@
       "estimate": "15k+",
       "name": "SPORTAL",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "3780790": {
+      "rank": 5103,
+      "estimate": "<7k",
+      "name": "BattleshipCrafting",
+      "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "4249850": {
+      "rank": 1383,
+      "estimate": "25k+",
+      "name": "E-Shop Tycoon",
+      "releaseDate": "2026-07-28",
       "source": "tracked"
     },
     "4516150": {
