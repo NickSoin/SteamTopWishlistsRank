@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T12:17:53.057Z",
-  "entryCount": 38,
+  "updatedAt": "2026-07-28T17:22:39.265Z",
+  "entryCount": 39,
   "entries": {
     "856890": {
       "rank": 749,
@@ -270,6 +270,13 @@
       "estimate": "<7k",
       "name": "Cricket Captain 2026",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4791980": {
+      "rank": 1024,
+      "estimate": "25k+",
+      "name": "SCREAM NOTE",
+      "releaseDate": "2026-07-28",
       "source": "tracked"
     }
   }

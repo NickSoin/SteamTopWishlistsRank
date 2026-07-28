@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T12:17:53.057Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-28T17:22:39.265Z",
+  "entryCount": 22,
   "entries": {
     "912000": {
       "rank": 895,
@@ -114,6 +114,13 @@
       "estimate": "<7k",
       "name": "Kamikaze Empire",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "3041730": {
+      "rank": 3252,
+      "estimate": "<7k",
+      "name": "Go North",
+      "releaseDate": "2026-07-28",
       "source": "tracked"
     },
     "3044100": {

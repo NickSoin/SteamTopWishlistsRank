@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T12:17:53.057Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-28T17:22:39.265Z",
+  "entryCount": 32,
   "entries": {
     "851850": {
       "rank": 23,
@@ -223,6 +223,13 @@
       "releaseDate": "2025-05-22",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1792751526182293"
+    },
+    "3815550": {
+      "rank": 3033,
+      "estimate": "<7k",
+      "name": "Space Imperia 4X",
+      "releaseDate": "2026-07-28",
+      "source": "tracked"
     },
     "4556920": {
       "rank": 2990,

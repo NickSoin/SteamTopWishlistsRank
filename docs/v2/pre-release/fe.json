@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T12:17:53.057Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-28T17:22:39.265Z",
+  "entryCount": 29,
   "entries": {
     "773370": {
       "rank": 126,
@@ -195,6 +195,13 @@
       "estimate": "7k+",
       "name": "Rift Wizard 3",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4513390": {
+      "rank": 4593,
+      "estimate": "<7k",
+      "name": "We Were Here Before",
+      "releaseDate": "2026-07-28",
       "source": "tracked"
     },
     "4794380": {

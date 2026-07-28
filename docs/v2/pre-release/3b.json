@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T12:17:53.057Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-28T17:22:39.265Z",
+  "entryCount": 23,
   "entries": {
     "843810": {
       "rank": 198,
@@ -129,6 +129,13 @@
       "name": "Total War: WARHAMMER III - Malakai – Thrones of Decay",
       "releaseDate": "2024-04-30",
       "source": "historical"
+    },
+    "3136320": {
+      "rank": 2103,
+      "estimate": "7k+",
+      "name": "My Infamous Dungeon",
+      "releaseDate": "2026-07-28",
+      "source": "tracked"
     },
     "4174310": {
       "rank": 2100,

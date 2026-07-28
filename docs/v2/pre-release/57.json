@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T12:17:53.057Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-28T17:22:39.265Z",
+  "entryCount": 23,
   "entries": {
     "526870": {
       "rank": 16,
@@ -161,6 +161,13 @@
       "releaseDate": "2025-12-16",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289715756"
+    },
+    "4594150": {
+      "rank": 360,
+      "estimate": "80k+",
+      "name": "Sir, We Have an Orc Problem",
+      "releaseDate": "2026-07-28",
+      "source": "tracked"
     }
   }
 }

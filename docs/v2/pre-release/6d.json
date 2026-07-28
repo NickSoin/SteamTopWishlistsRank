@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T12:17:53.057Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-28T17:22:39.265Z",
+  "entryCount": 35,
   "entries": {
     "680420": {
       "rank": 15,
@@ -241,6 +241,13 @@
       "estimate": "<7k",
       "name": "Cozy Mining",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "4534200": {
+      "rank": 6246,
+      "estimate": "<7k",
+      "name": "Incremental Retro Racing",
+      "releaseDate": "2026-07-28",
       "source": "tracked"
     },
     "4757300": {

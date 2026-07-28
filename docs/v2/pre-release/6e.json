@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T12:17:53.057Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-28T17:22:39.265Z",
+  "entryCount": 28,
   "entries": {
     "669330": {
       "rank": 422,
@@ -164,6 +164,13 @@
       "name": "Creator of Another World",
       "releaseDate": "2024-04-30",
       "source": "historical"
+    },
+    "2806050": {
+      "rank": 40,
+      "estimate": "600k+",
+      "name": "Halo: Campaign Evolved",
+      "releaseDate": "2026-07-28",
+      "source": "tracked"
     },
     "2875140": {
       "rank": 2748,

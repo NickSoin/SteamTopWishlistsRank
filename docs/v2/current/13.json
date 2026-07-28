@@ -1,98 +1,93 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-28T12:17:53.057Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-28T17:22:39.265Z",
+  "entryCount": 17,
   "entries": {
     "924380": {
-      "rank": 2955,
+      "rank": 2950,
       "estimate": "7k+",
       "name": "WoodZone"
     },
     "986520": {
-      "rank": 3407,
+      "rank": 3399,
       "estimate": "<7k",
       "name": "Ultra Strangeness"
     },
     "1342150": {
-      "rank": 4031,
+      "rank": 4023,
       "estimate": "<7k",
       "name": "The Cabbage Effect"
     },
     "2141460": {
-      "rank": 4753,
+      "rank": 4745,
       "estimate": "<7k",
       "name": "Rising Star - The Horse Game"
     },
     "2545200": {
-      "rank": 983,
+      "rank": 981,
       "estimate": "40k+",
       "name": "Animaloid Girl"
     },
     "2635440": {
-      "rank": 1830,
+      "rank": 1826,
       "estimate": "15k+",
       "name": "Team Fortress 2 Legacy"
     },
     "2665250": {
-      "rank": 1178,
+      "rank": 1174,
       "estimate": "25k+",
       "name": "Rancher: A new life"
     },
     "2713120": {
-      "rank": 3002,
-      "estimate": "<7k",
+      "rank": 2997,
+      "estimate": "7k+",
       "name": "Furyball: Rogue Revenge"
     },
     "3092530": {
-      "rank": 114,
+      "rank": 113,
       "estimate": "200k+",
       "name": "Fate Trigger",
       "actualWishlists": 200000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6350729003489133847"
     },
     "3412800": {
-      "rank": 4495,
+      "rank": 4489,
       "estimate": "<7k",
       "name": "Jawbone Hollow"
     },
     "3509380": {
-      "rank": 4205,
+      "rank": 4182,
       "estimate": "<7k",
       "name": "GrimKeep"
     },
     "3616280": {
-      "rank": 1739,
+      "rank": 1734,
       "estimate": "15k+",
       "name": "Mr Magpie's Harmless Card Game"
     },
-    "3918250": {
-      "rank": 2605,
-      "estimate": "7k+",
-      "name": "Frutigeropolis: The Promised City"
-    },
     "3934270": {
-      "rank": 192,
+      "rank": 191,
       "estimate": "200k+",
       "name": "How Many Dudes?"
     },
     "4286040": {
-      "rank": 3105,
+      "rank": 3078,
       "estimate": "<7k",
       "name": "Unicycle Together"
     },
     "4575010": {
-      "rank": 2510,
+      "rank": 2503,
       "estimate": "7k+",
       "name": "Too Hot to Be True"
     },
     "4659620": {
-      "rank": 449,
+      "rank": 447,
       "estimate": "80k+",
       "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil"
     },
     "4876650": {
-      "rank": 1246,
+      "rank": 1235,
       "estimate": "25k+",
       "name": "Never Sort By Color"
     }

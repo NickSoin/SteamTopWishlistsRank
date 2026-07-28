@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T12:17:53.057Z",
-  "entryCount": 27,
+  "updatedAt": "2026-07-28T17:22:39.265Z",
+  "entryCount": 28,
   "entries": {
     "850170": {
       "rank": 394,
@@ -128,6 +128,13 @@
       "estimate": "15k+",
       "name": "Doodle Dice Monsters",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "2467200": {
+      "rank": 7900,
+      "estimate": "<7k",
+      "name": "Realms and Ruins: Abencor",
+      "releaseDate": "2026-07-28",
       "source": "tracked"
     },
     "2608050": {
