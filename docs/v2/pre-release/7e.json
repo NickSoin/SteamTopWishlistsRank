@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T08:04:53.891Z",
-  "entryCount": 22,
+  "updatedAt": "2026-07-28T12:17:53.057Z",
+  "entryCount": 23,
   "entries": {
     "580640": {
       "rank": 369,
@@ -156,6 +156,13 @@
       "estimate": "80k+",
       "name": "DAVE THE DIVER - In the Jungle Content Pack",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4729160": {
+      "rank": 2786,
+      "estimate": "7k+",
+      "name": "The Kuon Island Nursery Rhyme Murders: Case Notes",
+      "releaseDate": "2026-07-28",
       "source": "tracked"
     }
   }
