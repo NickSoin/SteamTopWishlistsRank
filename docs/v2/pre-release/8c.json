@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T17:22:39.265Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-28T21:50:52.125Z",
+  "entryCount": 33,
   "entries": {
     "659960": {
       "rank": 821,
@@ -188,6 +188,13 @@
       "estimate": "7k+",
       "name": "Pro Cycling Manager 26",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4171910": {
+      "rank": 9297,
+      "estimate": "<7k",
+      "name": "Spellsy",
+      "releaseDate": "2026-07-28",
       "source": "tracked"
     },
     "4323520": {

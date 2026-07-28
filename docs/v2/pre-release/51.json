@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T17:22:39.265Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-28T21:50:52.125Z",
+  "entryCount": 32,
   "entries": {
     "467740": {
       "rank": 10,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "IncreKnight",
       "releaseDate": "2026-06-03",
+      "source": "tracked"
+    },
+    "4388560": {
+      "rank": 8186,
+      "estimate": "<7k",
+      "name": "Fill the Fridge!",
+      "releaseDate": "2026-07-28",
       "source": "tracked"
     },
     "4460310": {

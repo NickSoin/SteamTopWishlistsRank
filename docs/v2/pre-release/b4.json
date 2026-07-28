@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T17:22:39.265Z",
-  "entryCount": 45,
+  "updatedAt": "2026-07-28T21:50:52.125Z",
+  "entryCount": 46,
   "entries": {
     "607080": {
       "rank": 2,
@@ -297,6 +297,13 @@
       "name": "Nioh 3",
       "releaseDate": "2026-02-05",
       "source": "historical"
+    },
+    "3968160": {
+      "rank": 909,
+      "estimate": "40k+",
+      "name": "Island Beekeeper",
+      "releaseDate": "2026-07-28",
+      "source": "tracked"
     },
     "4078110": {
       "rank": 1566,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T17:22:39.265Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-28T21:50:52.125Z",
+  "entryCount": 33,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Dawn Bell",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4530240": {
+      "rank": 2080,
+      "estimate": "7k+",
+      "name": "Dissolution of the Silent Union",
+      "releaseDate": "2026-07-28",
       "source": "tracked"
     },
     "4727880": {
