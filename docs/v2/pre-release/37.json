@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T17:07:05.692Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-29T21:26:34.891Z",
+  "entryCount": 29,
   "entries": {
     "863500": {
       "rank": 1011,
@@ -185,6 +185,13 @@
       "name": "DevilConnection",
       "releaseDate": "2025-10-30",
       "source": "historical"
+    },
+    "4454610": {
+      "rank": 8411,
+      "estimate": "<7k",
+      "name": "Project manager SIM",
+      "releaseDate": "2026-07-29",
+      "source": "tracked"
     },
     "4644150": {
       "rank": 7236,

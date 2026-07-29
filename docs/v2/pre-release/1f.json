@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T17:07:05.692Z",
-  "entryCount": 38,
+  "updatedAt": "2026-07-29T21:26:34.891Z",
+  "entryCount": 39,
   "entries": {
     "830540": {
       "rank": 1466,
@@ -270,6 +270,13 @@
       "releaseDate": "2026-02-12",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592132688"
+    },
+    "4241690": {
+      "rank": 4102,
+      "estimate": "<7k",
+      "name": "Hydra Heli 2",
+      "releaseDate": "2026-07-29",
+      "source": "tracked"
     },
     "4542210": {
       "rank": 1858,
