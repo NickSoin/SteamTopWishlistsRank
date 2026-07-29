@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 30,
   "entries": {
     "485400": {
       "rank": 112,
@@ -190,6 +190,13 @@
       "estimate": "<7k",
       "name": "Desktop Snail Assassin",
       "releaseDate": "2026-06-28",
+      "source": "tracked"
+    },
+    "3907350": {
+      "rank": 2992,
+      "estimate": "7k+",
+      "name": "The Prince of Tennis Sweet School Festival ~♡-40 and more...~",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     },
     "4095490": {

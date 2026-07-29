@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 29,
   "entries": {
     "950620": {
       "rank": 254,
@@ -183,6 +183,13 @@
       "estimate": "40k+",
       "name": "The Last Salvage Squad",
       "releaseDate": "2026-06-17",
+      "source": "tracked"
+    },
+    "3825600": {
+      "rank": 1565,
+      "estimate": "15k+",
+      "name": "Culdcept The First",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     },
     "4135380": {

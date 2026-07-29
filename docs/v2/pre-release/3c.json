@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 34,
   "entries": {
     "743380": {
       "rank": 664,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "Olga Doesn't Die",
       "releaseDate": "2026-07-03",
+      "source": "tracked"
+    },
+    "4608380": {
+      "rank": 4049,
+      "estimate": "<7k",
+      "name": "Joy Malignant",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 41,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 42,
   "entries": {
     "454120": {
       "rank": 35,
@@ -289,6 +289,13 @@
       "estimate": "<7k",
       "name": "Eden's Eclipse",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4836540": {
+      "rank": 749,
+      "estimate": "40k+",
+      "name": "Company of Heroes 3: Final Stand",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     }
   }

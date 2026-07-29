@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 21,
   "entries": {
     "251570": {
       "rank": 42,
@@ -144,6 +144,13 @@
       "estimate": "<7k",
       "name": "Xiaye's Doors of Magic: Lightchaser",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4421010": {
+      "rank": 946,
+      "estimate": "40k+",
+      "name": "Bills Must Be Paid",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     }
   }

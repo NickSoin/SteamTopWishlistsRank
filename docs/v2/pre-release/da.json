@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 25,
   "entries": {
     "721180": {
       "rank": 29,
@@ -163,6 +163,13 @@
       "estimate": "25k+",
       "name": "Veritas Tales: Witch of the Dark Castle",
       "releaseDate": "2026-07-08",
+      "source": "tracked"
+    },
+    "4754740": {
+      "rank": 6722,
+      "estimate": "<7k",
+      "name": "Market Chain 98",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     },
     "4768660": {

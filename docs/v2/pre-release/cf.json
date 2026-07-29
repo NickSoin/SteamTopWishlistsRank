@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 32,
   "entries": {
     "502050": {
       "rank": 1,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "MA 2 – President Simulator",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4136730": {
+      "rank": 9220,
+      "estimate": "<7k",
+      "name": "Solitaire Deck",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     },
     "4198590": {

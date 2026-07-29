@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 29,
   "entries": {
     "850170": {
       "rank": 394,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "8AM: The Subway",
       "releaseDate": "2026-07-09",
+      "source": "tracked"
+    },
+    "4216280": {
+      "rank": 2102,
+      "estimate": "7k+",
+      "name": "Dverghold",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     },
     "4509090": {

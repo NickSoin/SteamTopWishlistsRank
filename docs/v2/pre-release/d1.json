@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 32,
   "entries": {
     "1140170": {
       "rank": 490,
@@ -220,6 +220,13 @@
       "name": "BOKURA: planet",
       "releaseDate": "2025-04-24",
       "source": "historical"
+    },
+    "3997240": {
+      "rank": 1513,
+      "estimate": "15k+",
+      "name": "Osta",
+      "releaseDate": "2026-07-29",
+      "source": "tracked"
     }
   }
 }

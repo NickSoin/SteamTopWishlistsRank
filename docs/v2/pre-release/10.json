@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 30,
   "entries": {
     "378690": {
       "rank": 1270,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "DJ Life Simulator: Learn to DJ for Real",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4127360": {
+      "rank": 1478,
+      "estimate": "25k+",
+      "name": "Case Solved: The London Files",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     },
     "4422430": {

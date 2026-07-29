@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 23,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 24,
   "entries": {
     "843810": {
       "rank": 198,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "Mystic Courtesan Stories: Trainee Maria♥ Original Soundtrack",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4581040": {
+      "rank": 9427,
+      "estimate": "<7k",
+      "name": "Crescent Creek: Survival Horror",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 35,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 36,
   "entries": {
     "307950": {
       "rank": 1484,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "Beat The Champions",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4251710": {
+      "rank": 2217,
+      "estimate": "7k+",
+      "name": "EXSTETRA",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     },
     "4383080": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 44,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 45,
   "entries": {
     "347800": {
       "rank": 198,
@@ -94,6 +94,13 @@
       "name": "DELTARUNE",
       "releaseDate": "2025-06-04",
       "source": "historical"
+    },
+    "1696950": {
+      "rank": 3367,
+      "estimate": "<7k",
+      "name": "Scottside",
+      "releaseDate": "2026-07-29",
+      "source": "tracked"
     },
     "1761380": {
       "rank": 602,

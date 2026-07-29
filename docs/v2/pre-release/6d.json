@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 35,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 36,
   "entries": {
     "680420": {
       "rank": 15,
@@ -234,6 +234,13 @@
       "estimate": "25k+",
       "name": "Blood West: Scavengers",
       "releaseDate": "2026-06-03",
+      "source": "tracked"
+    },
+    "4252700": {
+      "rank": 1701,
+      "estimate": "15k+",
+      "name": "Archon Soul",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     },
     "4283650": {

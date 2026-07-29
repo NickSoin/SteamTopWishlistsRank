@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T12:53:58.681Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-29T17:07:05.692Z",
+  "entryCount": 32,
   "entries": {
     "1112390": {
       "rank": 2418,
@@ -122,6 +122,13 @@
       "name": "Howl",
       "releaseDate": "2023-11-14",
       "source": "historical"
+    },
+    "2210220": {
+      "rank": 3239,
+      "estimate": "<7k",
+      "name": "Outfield",
+      "releaseDate": "2026-07-29",
+      "source": "tracked"
     },
     "2335060": {
       "rank": 2109,
