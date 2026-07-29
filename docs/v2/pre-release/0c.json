@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T04:05:06.813Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-29T08:12:33.935Z",
+  "entryCount": 33,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Snooker Billiard",
       "releaseDate": "2026-07-12",
+      "source": "tracked"
+    },
+    "4599710": {
+      "rank": 1977,
+      "estimate": "15k+",
+      "name": "IDLE_DIRECTIVE",
+      "releaseDate": "2026-07-28",
       "source": "tracked"
     },
     "4684490": {
