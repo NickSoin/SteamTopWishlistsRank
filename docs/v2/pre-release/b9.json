@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T08:12:33.935Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-29T12:53:58.681Z",
+  "entryCount": 25,
   "entries": {
     "1012570": {
       "rank": 585,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "RAZE",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4314770": {
+      "rank": 4494,
+      "estimate": "<7k",
+      "name": "SnekromancY",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     },
     "4328290": {

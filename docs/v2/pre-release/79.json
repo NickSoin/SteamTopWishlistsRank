@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T08:12:33.935Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-29T12:53:58.681Z",
+  "entryCount": 31,
   "entries": {
     "553850": {
       "rank": 26,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "4PGP",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4042840": {
+      "rank": 6453,
+      "estimate": "<7k",
+      "name": "Vquarium",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     }
   }

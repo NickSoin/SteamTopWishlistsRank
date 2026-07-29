@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T08:12:33.935Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-29T12:53:58.681Z",
+  "entryCount": 20,
   "entries": {
     "368260": {
       "rank": 33,
@@ -137,6 +137,13 @@
       "estimate": "<7k",
       "name": "100 Sherwood Cats",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4617230": {
+      "rank": 4926,
+      "estimate": "<7k",
+      "name": "Retail Rivals",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     }
   }

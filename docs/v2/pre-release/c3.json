@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T08:12:33.935Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-29T12:53:58.681Z",
+  "entryCount": 25,
   "entries": {
     "736820": {
       "rank": 19,
@@ -136,6 +136,13 @@
       "name": "Puffin Planes",
       "releaseDate": "2024-09-04",
       "source": "historical"
+    },
+    "3642010": {
+      "rank": 502,
+      "estimate": "40k+",
+      "name": "Truck-kun is Supporting Me from Another World?!",
+      "releaseDate": "2026-07-29",
+      "source": "tracked"
     },
     "4064510": {
       "rank": 904,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T08:12:33.935Z",
-  "entryCount": 36,
+  "updatedAt": "2026-07-29T12:53:58.681Z",
+  "entryCount": 37,
   "entries": {
     "694990": {
       "rank": 49,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "Kings Archer VR",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4738830": {
+      "rank": 5091,
+      "estimate": "<7k",
+      "name": "Cricket Management 26",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     }
   }
