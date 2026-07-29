@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-28T21:50:52.125Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-29T04:05:06.813Z",
+  "entryCount": 21,
   "entries": {
     "1043850": {
-      "rank": 1778,
+      "rank": 1772,
       "estimate": "15k+",
       "name": "Project Warlock: Lost Chapters"
     },
@@ -15,12 +15,12 @@
       "name": "Psycho Simulator"
     },
     "1318190": {
-      "rank": 1601,
+      "rank": 1600,
       "estimate": "15k+",
       "name": "Gladiators Manager"
     },
     "1459800": {
-      "rank": 4735,
+      "rank": 4738,
       "estimate": "<7k",
       "name": "Fakutori"
     },
@@ -30,12 +30,12 @@
       "name": "Blight: Survival"
     },
     "2183890": {
-      "rank": 3965,
+      "rank": 3967,
       "estimate": "<7k",
       "name": "Leak"
     },
     "2446520": {
-      "rank": 3790,
+      "rank": 3792,
       "estimate": "<7k",
       "name": "Pixel Piracy Online"
     },
@@ -45,7 +45,7 @@
       "name": "Trailblazers: Into the March"
     },
     "3024860": {
-      "rank": 4575,
+      "rank": 4577,
       "estimate": "<7k",
       "name": "Furry Farm"
     },
@@ -70,7 +70,7 @@
       "name": "Motorcycle For Sale Simulator"
     },
     "3809270": {
-      "rank": 82,
+      "rank": 83,
       "estimate": "300k+",
       "name": "Euro Truck Simulator 2 - Coaches"
     },
@@ -80,7 +80,7 @@
       "name": "MISHA"
     },
     "3917700": {
-      "rank": 1606,
+      "rank": 1604,
       "estimate": "15k+",
       "name": "Dicevaders"
     },
@@ -103,6 +103,11 @@
       "rank": 840,
       "estimate": "40k+",
       "name": "Hellforged"
+    },
+    "4914610": {
+      "rank": 5096,
+      "estimate": "<7k",
+      "name": "Dear Magical Girls"
     }
   }
 }

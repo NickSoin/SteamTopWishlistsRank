@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-28T21:50:52.125Z",
-  "entryCount": 25,
+  "updatedAt": "2026-07-29T04:05:06.813Z",
+  "entryCount": 26,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -150,6 +150,13 @@
       "name": "Miss Neko: Pirates",
       "releaseDate": "2024-03-22",
       "source": "historical"
+    },
+    "2939790": {
+      "rank": 660,
+      "estimate": "40k+",
+      "name": "Lunarium",
+      "releaseDate": "2026-07-28",
+      "source": "tracked"
     },
     "3975500": {
       "rank": 2450,

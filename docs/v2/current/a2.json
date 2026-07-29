@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-28T21:50:52.125Z",
-  "entryCount": 18,
+  "updatedAt": "2026-07-29T04:05:06.813Z",
+  "entryCount": 19,
   "entries": {
     "709010": {
-      "rank": 4790,
+      "rank": 4795,
       "estimate": "<7k",
       "name": "Offroad Transport Simulator"
     },
     "1085830": {
-      "rank": 2455,
+      "rank": 2454,
       "estimate": "7k+",
       "name": "Knights of Frontier Valley"
     },
@@ -20,27 +20,27 @@
       "name": "Forgery Craft"
     },
     "1733690": {
-      "rank": 585,
+      "rank": 583,
       "estimate": "40k+",
       "name": "Mandate Order"
     },
     "2120350": {
-      "rank": 2247,
+      "rank": 2246,
       "estimate": "7k+",
       "name": "WRONGED US"
     },
     "2363160": {
-      "rank": 2642,
+      "rank": 2644,
       "estimate": "7k+",
       "name": "Haphazard Angel"
     },
     "2433560": {
-      "rank": 1324,
+      "rank": 1323,
       "estimate": "25k+",
       "name": "Meadgard"
     },
     "2657560": {
-      "rank": 2870,
+      "rank": 2838,
       "estimate": "7k+",
       "name": "Sponge Break"
     },
@@ -50,7 +50,7 @@
       "name": "JOIN US"
     },
     "3450900": {
-      "rank": 4538,
+      "rank": 4542,
       "estimate": "<7k",
       "name": "DOSMIC"
     },
@@ -75,7 +75,7 @@
       "name": "Too Deep To Quit"
     },
     "4247440": {
-      "rank": 3768,
+      "rank": 3767,
       "estimate": "<7k",
       "name": "Leafborn"
     },
@@ -85,14 +85,19 @@
       "name": "Barely Breathing"
     },
     "4789870": {
-      "rank": 4325,
+      "rank": 4318,
       "estimate": "<7k",
       "name": "Muv-Luv Girls Garden"
     },
     "4881350": {
-      "rank": 2757,
+      "rank": 2755,
       "estimate": "7k+",
       "name": "I SHALL NAME THE DEAD"
+    },
+    "4950470": {
+      "rank": 5124,
+      "estimate": "<7k",
+      "name": "Tidy Up Together"
     }
   }
 }
