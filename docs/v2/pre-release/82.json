@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T21:26:34.891Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-30T03:52:22.179Z",
+  "entryCount": 25,
   "entries": {
     "629820": {
       "rank": 21,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "Vampire Hunter: Nightrise",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4689420": {
+      "rank": 3158,
+      "estimate": "<7k",
+      "name": "Hachishakusama | 八尺様がいた夏休み",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     }
   }

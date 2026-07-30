@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-29T21:26:34.891Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-30T03:52:22.179Z",
+  "entryCount": 34,
   "entries": {
     "714370": {
       "rank": 8,
@@ -198,6 +198,13 @@
       "estimate": "7k+",
       "name": "Cardburners",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3282300": {
+      "rank": 24,
+      "estimate": "600k+",
+      "name": "Mistfall Hunter",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     },
     "3500880": {
