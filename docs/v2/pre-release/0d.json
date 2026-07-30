@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T17:12:19.949Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-30T21:56:36.161Z",
+  "entryCount": 34,
   "entries": {
     "691790": {
       "rank": 310,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Infinite Space: Mining",
       "releaseDate": "2026-06-20",
+      "source": "tracked"
+    },
+    "4358460": {
+      "rank": 8551,
+      "estimate": "<7k",
+      "name": "Card Homestead",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4420440": {

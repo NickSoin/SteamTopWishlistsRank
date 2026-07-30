@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "updatedAt": "2026-07-30T21:56:36.161Z",
   "entryCount": 25,
   "entries": {
     "487500": {
-      "rank": 2638,
+      "rank": 2640,
       "estimate": "7k+",
       "name": "fault - SILENCE THE PEDANT"
     },
     "994680": {
-      "rank": 729,
+      "rank": 730,
       "estimate": "40k+",
       "name": "The Dungeon Experience"
     },
@@ -25,7 +25,7 @@
       "name": "Lawmage Academy"
     },
     "1860580": {
-      "rank": 4592,
+      "rank": 4590,
       "estimate": "<7k",
       "name": "Epic War Collection"
     },
@@ -35,22 +35,22 @@
       "name": "Bloody Hell Hotel"
     },
     "2087980": {
-      "rank": 4929,
+      "rank": 4931,
       "estimate": "<7k",
       "name": "Project BS"
     },
     "2105840": {
-      "rank": 4953,
+      "rank": 4952,
       "estimate": "<7k",
       "name": "Order Automatica"
     },
     "2322070": {
-      "rank": 2237,
+      "rank": 2240,
       "estimate": "7k+",
       "name": "RhythMania"
     },
     "2530620": {
-      "rank": 2353,
+      "rank": 2354,
       "estimate": "7k+",
       "name": "Soul Devourer"
     },
@@ -60,7 +60,7 @@
       "name": "Ghost Vanguard"
     },
     "2837590": {
-      "rank": 4863,
+      "rank": 4862,
       "estimate": "<7k",
       "name": "Stomp and the Sword of Miracles"
     },
@@ -105,17 +105,17 @@
       "name": "骤雨终日"
     },
     "3905500": {
-      "rank": 1006,
+      "rank": 1008,
       "estimate": "25k+",
       "name": "Beware of the Cartographer!"
     },
     "3989650": {
-      "rank": 1939,
+      "rank": 1942,
       "estimate": "15k+",
       "name": "Stop the Press!"
     },
     "4077880": {
-      "rank": 2513,
+      "rank": 2517,
       "estimate": "7k+",
       "name": "Cantarella: Dominion of Qualia"
     },
@@ -125,8 +125,8 @@
       "name": "STAR WARS: Galactic Racer™"
     },
     "4928450": {
-      "rank": 1015,
-      "estimate": "25k+",
+      "rank": 993,
+      "estimate": "40k+",
       "name": "Grand Theft Timeline"
     }
   }
