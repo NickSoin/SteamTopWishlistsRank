@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 29,
   "entries": {
     "488860": {
       "rank": 116,
@@ -150,6 +150,13 @@
       "name": "Tranquil Isle",
       "releaseDate": "2025-04-18",
       "source": "historical"
+    },
+    "2379160": {
+      "rank": 1904,
+      "estimate": "15k+",
+      "name": "Signy & Mino: Against All Gods",
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
     },
     "2529080": {
       "rank": 2214,

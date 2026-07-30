@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 34,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 35,
   "entries": {
     "714370": {
       "rank": 8,
@@ -226,6 +226,13 @@
       "estimate": "7k+",
       "name": "Dominion Of The Forgotten",
       "releaseDate": "2026-07-19",
+      "source": "tracked"
+    },
+    "3859430": {
+      "rank": 8240,
+      "estimate": "<7k",
+      "name": "Waterpunk: Through the Rust",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4042330": {

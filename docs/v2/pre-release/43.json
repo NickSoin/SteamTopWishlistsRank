@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 32,
   "entries": {
     "716350": {
       "rank": 688,
@@ -183,6 +183,13 @@
       "estimate": "<7k",
       "name": "Cauldron Craft",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4040170": {
+      "rank": 6827,
+      "estimate": "<7k",
+      "name": "Help me Cats",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4211620": {

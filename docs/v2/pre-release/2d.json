@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 34,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -191,6 +191,13 @@
       "estimate": "15k+",
       "name": "MÖRK BORG Heresy Supreme",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "3323490": {
+      "rank": 2127,
+      "estimate": "7k+",
+      "name": "Truxton Extreme",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4134600": {

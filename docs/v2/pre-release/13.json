@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 27,
   "entries": {
     "750200": {
       "rank": 159,
@@ -149,6 +149,13 @@
       "releaseDate": "2026-01-01",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6350729003489133847"
+    },
+    "3934270": {
+      "rank": 177,
+      "estimate": "200k+",
+      "name": "How Many Dudes?",
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
     },
     "4169820": {
       "rank": 2934,

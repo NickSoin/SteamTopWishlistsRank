@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 27,
   "entries": {
     "1219240": {
       "rank": 736,
@@ -177,6 +177,13 @@
       "name": "Contraband Police - Crimson Fall",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4108000": {
+      "rank": 216,
+      "estimate": "80k+",
+      "name": "Machine Party",
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
     },
     "4592120": {
       "rank": 9116,

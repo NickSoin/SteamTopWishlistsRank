@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 27,
   "entries": {
     "482400": {
       "rank": 6,
@@ -157,6 +157,13 @@
       "name": "HackHub: Free Trial",
       "releaseDate": "2024-11-04",
       "source": "historical"
+    },
+    "3227240": {
+      "rank": 1149,
+      "estimate": "25k+",
+      "name": "MineGeon: Renegades",
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
     },
     "3640430": {
       "rank": 3868,

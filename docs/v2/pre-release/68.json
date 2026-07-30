@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 21,
   "entries": {
     "949230": {
       "rank": 4,
@@ -130,11 +130,25 @@
       "releaseDate": "2025-04-03",
       "source": "historical"
     },
+    "3915120": {
+      "rank": 3567,
+      "estimate": "<7k",
+      "name": "SENARA: The Sacrament",
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
     "4045680": {
       "rank": 3797,
       "estimate": "<7k",
       "name": "The Hand of the Crownbearer",
       "releaseDate": "2026-05-31",
+      "source": "tracked"
+    },
+    "4746060": {
+      "rank": 6537,
+      "estimate": "<7k",
+      "name": "The Organ Woman | 臓器女",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     }
   }

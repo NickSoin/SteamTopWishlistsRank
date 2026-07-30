@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
+  "updatedAt": "2026-07-30T17:12:19.949Z",
   "entryCount": 30,
   "entries": {
     "928000": {
@@ -40,11 +40,11 @@
       "source": "historical"
     },
     "1714510": {
-      "rank": 38,
-      "estimate": "600k+",
+      "rank": 732,
+      "estimate": "40k+",
       "name": "Kusan: City of Wolves",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
     },
     "1771700": {
       "rank": 297,

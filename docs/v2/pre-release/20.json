@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 33,
   "entries": {
     "628740": {
       "rank": 647,
@@ -108,6 +108,13 @@
       "name": "Cuisineer",
       "releaseDate": "2023-11-09",
       "source": "historical"
+    },
+    "2138410": {
+      "rank": 3614,
+      "estimate": "<7k",
+      "name": "Turnip Mountain",
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
     },
     "2199420": {
       "rank": 953,

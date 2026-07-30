@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 33,
   "entries": {
     "691790": {
       "rank": 310,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Infinite Space: Mining",
       "releaseDate": "2026-06-20",
+      "source": "tracked"
+    },
+    "4420440": {
+      "rank": 7925,
+      "estimate": "<7k",
+      "name": "Legacy of Sail",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4575870": {

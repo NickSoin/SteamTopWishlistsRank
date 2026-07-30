@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 29,
   "entries": {
     "553540": {
       "rank": 73,
@@ -124,6 +124,13 @@
       "name": "The Knight Girl And Dungeons",
       "releaseDate": "2024-12-10",
       "source": "historical"
+    },
+    "2704450": {
+      "rank": 2927,
+      "estimate": "7k+",
+      "name": "Stoneguard",
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
     },
     "2781620": {
       "rank": 45,

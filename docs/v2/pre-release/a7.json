@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 32,
   "entries": {
     "945770": {
       "rank": 169,
@@ -202,6 +202,13 @@
       "estimate": "7k+",
       "name": "Forts - Firebird",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4222910": {
+      "rank": 3722,
+      "estimate": "<7k",
+      "name": "Boreal Tenebrae Act 0: Sundowning",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4275860": {

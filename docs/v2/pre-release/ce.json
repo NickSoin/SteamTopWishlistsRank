@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 30,
   "entries": {
     "850170": {
       "rank": 394,
@@ -157,6 +157,13 @@
       "name": "Dale & Dawson Stationery Supplies",
       "releaseDate": "2024-08-30",
       "source": "historical"
+    },
+    "3840260": {
+      "rank": 3290,
+      "estimate": "<7k",
+      "name": "Forgotten Playland: Party Edition",
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
     },
     "3898830": {
       "rank": 1766,

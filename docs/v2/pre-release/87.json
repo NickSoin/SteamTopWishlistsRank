@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 35,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 36,
   "entries": {
     "1039100": {
       "rank": 184,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Plush Parade",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4094470": {
+      "rank": 8138,
+      "estimate": "<7k",
+      "name": "Senatus",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4492160": {

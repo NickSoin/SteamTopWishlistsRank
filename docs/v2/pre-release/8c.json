@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T12:36:40.694Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-30T17:12:19.949Z",
+  "entryCount": 34,
   "entries": {
     "659960": {
       "rank": 821,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Cobalt Miner",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4666090": {
+      "rank": 3520,
+      "estimate": "<7k",
+      "name": "Midnight Moments",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4699430": {
