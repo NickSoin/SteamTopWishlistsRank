@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-30T03:52:22.179Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-30T08:02:42.136Z",
+  "entryCount": 20,
   "entries": {
     "895160": {
       "rank": 204,
@@ -10,14 +10,9 @@
       "name": "Autonomica"
     },
     "1503170": {
-      "rank": 1131,
+      "rank": 1130,
       "estimate": "25k+",
       "name": "Liegecraft"
-    },
-    "1536660": {
-      "rank": 5175,
-      "estimate": "<7k",
-      "name": "Ancient Arenas: Chariots"
     },
     "1689340": {
       "rank": 1900,
@@ -30,7 +25,7 @@
       "name": "HARM Weather Warfare"
     },
     "2894840": {
-      "rank": 4526,
+      "rank": 4525,
       "estimate": "<7k",
       "name": "NEVERLANDER: An Awfully Big Adventure"
     },
@@ -40,12 +35,12 @@
       "name": "AOKAKI"
     },
     "3195360": {
-      "rank": 1021,
+      "rank": 1020,
       "estimate": "25k+",
       "name": "Coromon: Rogue Planet"
     },
     "3284200": {
-      "rank": 1215,
+      "rank": 1214,
       "estimate": "25k+",
       "name": "Muri: Wildwoods"
     },
@@ -55,7 +50,7 @@
       "name": "Kowloon 666"
     },
     "3591900": {
-      "rank": 3804,
+      "rank": 3800,
       "estimate": "<7k",
       "name": "Chivalware"
     },
@@ -70,12 +65,12 @@
       "name": "The Vernyhorn"
     },
     "3774860": {
-      "rank": 1375,
+      "rank": 1374,
       "estimate": "25k+",
       "name": "BOMMY"
     },
     "3855060": {
-      "rank": 3069,
+      "rank": 3070,
       "estimate": "<7k",
       "name": "Dice Throne Digital"
     },
@@ -85,27 +80,27 @@
       "name": "Imprinted"
     },
     "4183580": {
-      "rank": 1403,
+      "rank": 1401,
       "estimate": "25k+",
       "name": "Stationbreak"
     },
     "4278150": {
-      "rank": 2900,
+      "rank": 2895,
       "estimate": "7k+",
       "name": "One Iced Latte: Milk Song"
     },
     "4328840": {
-      "rank": 1004,
+      "rank": 1003,
       "estimate": "25k+",
       "name": "Tideborne Haven"
     },
     "4525180": {
-      "rank": 4169,
+      "rank": 4170,
       "estimate": "<7k",
       "name": "Angel Zero"
     },
     "4584800": {
-      "rank": 3926,
+      "rank": 3910,
       "estimate": "<7k",
       "name": "Extreme Survival Club!"
     }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T03:52:22.179Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-30T08:02:42.136Z",
+  "entryCount": 30,
   "entries": {
     "990080": {
       "rank": 1,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "Starship Troopers: Terran Command - The Eradicators",
       "releaseDate": "2026-05-26",
+      "source": "tracked"
+    },
+    "3576070": {
+      "rank": 583,
+      "estimate": "40k+",
+      "name": "Sudden Attack Zero Point",
+      "releaseDate": "2026-07-29",
       "source": "tracked"
     },
     "3711170": {
