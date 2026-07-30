@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T08:02:42.136Z",
-  "entryCount": 36,
+  "updatedAt": "2026-07-30T12:36:40.694Z",
+  "entryCount": 37,
   "entries": {
     "307950": {
       "rank": 1484,
@@ -244,6 +244,13 @@
       "estimate": "<7k",
       "name": "100 Dragon Cats",
       "releaseDate": "2026-07-25",
+      "source": "tracked"
+    },
+    "4478560": {
+      "rank": 8051,
+      "estimate": "<7k",
+      "name": "Hex Core",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4512570": {

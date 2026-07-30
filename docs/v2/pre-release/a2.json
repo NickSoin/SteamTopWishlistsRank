@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T08:02:42.136Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-30T12:36:40.694Z",
+  "entryCount": 32,
   "entries": {
     "406160": {
       "rank": 927,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "STARVAULT",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4568060": {
+      "rank": 3523,
+      "estimate": "<7k",
+      "name": "Click Build Repeat",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4726950": {

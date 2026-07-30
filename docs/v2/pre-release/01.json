@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T08:02:42.136Z",
-  "entryCount": 36,
+  "updatedAt": "2026-07-30T12:36:40.694Z",
+  "entryCount": 37,
   "entries": {
     "427410": {
       "rank": 31,
@@ -10,6 +10,13 @@
       "name": "Abiotic Factor",
       "releaseDate": "2025-07-22",
       "source": "historical"
+    },
+    "1046760": {
+      "rank": 7272,
+      "estimate": "<7k",
+      "name": "Hyperstacks",
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
     },
     "1062520": {
       "rank": 453,

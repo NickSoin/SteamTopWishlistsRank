@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T08:02:42.136Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-30T12:36:40.694Z",
+  "entryCount": 31,
   "entries": {
     "292000": {
       "rank": 29,
@@ -211,6 +211,13 @@
       "estimate": "<7k",
       "name": "Club Soko",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "3736400": {
+      "rank": 8154,
+      "estimate": "<7k",
+      "name": "SkillWarz",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4335460": {

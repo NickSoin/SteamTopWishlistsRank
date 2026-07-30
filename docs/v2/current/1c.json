@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-30T08:02:42.136Z",
-  "entryCount": 17,
+  "updatedAt": "2026-07-30T12:36:40.694Z",
+  "entryCount": 18,
   "entries": {
     "1505310": {
       "rank": 3447,
@@ -10,32 +10,32 @@
       "name": "Risu"
     },
     "1794000": {
-      "rank": 2079,
+      "rank": 2081,
       "estimate": "7k+",
       "name": "Remnants of R'lyeh"
     },
     "1829140": {
-      "rank": 3686,
+      "rank": 3689,
       "estimate": "<7k",
       "name": "Resistance 204X"
     },
     "2145090": {
-      "rank": 2598,
+      "rank": 2600,
       "estimate": "7k+",
       "name": "Combustion"
     },
     "2249060": {
-      "rank": 1921,
+      "rank": 1919,
       "estimate": "15k+",
       "name": "Edenfall: Legacy of the First Wardens"
     },
     "2294970": {
-      "rank": 4215,
+      "rank": 4210,
       "estimate": "<7k",
       "name": "Viva"
     },
     "2474170": {
-      "rank": 5115,
+      "rank": 5121,
       "estimate": "<7k",
       "name": "Astral Rot"
     },
@@ -45,7 +45,7 @@
       "name": "IRONHIVE"
     },
     "3010380": {
-      "rank": 4246,
+      "rank": 4248,
       "estimate": "<7k",
       "name": "Tape 101: Liminal Descent"
     },
@@ -55,7 +55,7 @@
       "name": "C-Beams"
     },
     "3248310": {
-      "rank": 4129,
+      "rank": 4128,
       "estimate": "<7k",
       "name": "Karting of Banban"
     },
@@ -80,7 +80,7 @@
       "name": "Bolt Action"
     },
     "4042160": {
-      "rank": 1334,
+      "rank": 1329,
       "estimate": "25k+",
       "name": "Static Dread: The Submarine"
     },
@@ -88,6 +88,11 @@
       "rank": 1767,
       "estimate": "15k+",
       "name": "Sleepover"
+    },
+    "4827950": {
+      "rank": 5144,
+      "estimate": "<7k",
+      "name": "Steel Maiden"
     }
   }
 }

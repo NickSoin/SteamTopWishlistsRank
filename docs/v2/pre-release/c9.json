@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T08:02:42.136Z",
-  "entryCount": 39,
+  "updatedAt": "2026-07-30T12:36:40.694Z",
+  "entryCount": 41,
   "entries": {
     "856890": {
       "rank": 749,
@@ -263,6 +263,20 @@
       "estimate": "<7k",
       "name": "The Cursed Ward",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4508760": {
+      "rank": 6880,
+      "estimate": "<7k",
+      "name": "Dinosaurium",
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4529660": {
+      "rank": 8491,
+      "estimate": "<7k",
+      "name": "Greedy Spin: Reel Roguelike",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4756480": {

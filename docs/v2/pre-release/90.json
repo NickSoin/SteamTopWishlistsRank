@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T08:02:42.136Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-30T12:36:40.694Z",
+  "entryCount": 25,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -162,6 +162,13 @@
       "estimate": "7k+",
       "name": "Ramen Simulator",
       "releaseDate": "2026-06-21",
+      "source": "tracked"
+    },
+    "4130610": {
+      "rank": 4514,
+      "estimate": "<7k",
+      "name": "Galactic Civilizations IV: Federations & Empires",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4583050": {

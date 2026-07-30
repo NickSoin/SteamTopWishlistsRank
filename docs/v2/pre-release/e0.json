@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T08:02:42.136Z",
-  "entryCount": 26,
+  "updatedAt": "2026-07-30T12:36:40.694Z",
+  "entryCount": 27,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -115,6 +115,13 @@
       "name": "Anonymous Hacker Simulator",
       "releaseDate": "2024-04-03",
       "source": "historical"
+    },
+    "2527300": {
+      "rank": 4590,
+      "estimate": "<7k",
+      "name": "Lily Fantasia",
+      "releaseDate": "2026-07-29",
+      "source": "tracked"
     },
     "2527450": {
       "rank": 1868,
