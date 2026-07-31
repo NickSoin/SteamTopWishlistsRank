@@ -1,9 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T12:49:45.671Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-31T17:25:51.694Z",
+  "entryCount": 22,
   "entries": {
+    "917820": {
+      "rank": 7584,
+      "estimate": "<7k",
+      "name": "Fairtravel Battle CCG",
+      "releaseDate": "2026-07-31",
+      "source": "tracked"
+    },
     "1025960": {
       "rank": 669,
       "estimate": "40k+",

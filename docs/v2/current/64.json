@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-31T12:49:45.671Z",
-  "entryCount": 19,
+  "updatedAt": "2026-07-31T17:25:51.694Z",
+  "entryCount": 20,
   "entries": {
     "1368050": {
       "rank": 728,
@@ -15,37 +15,37 @@
       "name": "Potion Pipeline"
     },
     "1719700": {
-      "rank": 4090,
+      "rank": 4097,
       "estimate": "<7k",
       "name": "Super Simmer"
     },
     "1742740": {
-      "rank": 3284,
+      "rank": 3285,
       "estimate": "<7k",
       "name": "Ribby: The Game"
     },
     "1779610": {
-      "rank": 629,
+      "rank": 628,
       "estimate": "40k+",
       "name": "Farm Renovator"
     },
     "2280900": {
-      "rank": 4514,
+      "rank": 4515,
       "estimate": "<7k",
       "name": "Blood Rot: 1918"
     },
     "2666580": {
-      "rank": 754,
+      "rank": 753,
       "estimate": "40k+",
       "name": "Pathfinder: Abomination Vaults"
     },
     "3197360": {
-      "rank": 3559,
+      "rank": 3556,
       "estimate": "<7k",
       "name": "60 Seconds! Souper Scavenger"
     },
     "3297800": {
-      "rank": 2941,
+      "rank": 2940,
       "estimate": "7k+",
       "name": "GRIMPS"
     },
@@ -55,42 +55,47 @@
       "name": "Leap Galaxy"
     },
     "3399900": {
-      "rank": 1051,
+      "rank": 1049,
       "estimate": "25k+",
       "name": "HellSlave II: Judgment of the Archon"
     },
     "3622350": {
-      "rank": 1749,
+      "rank": 1750,
       "estimate": "15k+",
       "name": "Kill Joy"
     },
     "3790280": {
-      "rank": 4623,
+      "rank": 4622,
       "estimate": "<7k",
       "name": "Over the Radio"
     },
     "3793270": {
-      "rank": 4344,
+      "rank": 4343,
       "estimate": "<7k",
       "name": "Bygoner"
     },
     "3818450": {
-      "rank": 3909,
+      "rank": 3899,
       "estimate": "<7k",
       "name": "Everlast: Undying Tale"
     },
     "3847920": {
-      "rank": 452,
+      "rank": 451,
       "estimate": "80k+",
       "name": "Wild n Chill"
     },
     "3853110": {
-      "rank": 2424,
+      "rank": 2423,
       "estimate": "7k+",
       "name": "Crusaders Quest : MergeChess"
     },
+    "4061800": {
+      "rank": 5155,
+      "estimate": "<7k",
+      "name": "A Game About Penguins"
+    },
     "4139020": {
-      "rank": 4330,
+      "rank": 4328,
       "estimate": "<7k",
       "name": "AUTOMA"
     },

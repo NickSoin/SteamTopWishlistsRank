@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T12:49:45.671Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-31T17:25:51.694Z",
+  "entryCount": 22,
   "entries": {
     "949230": {
       "rank": 4,
@@ -142,6 +142,13 @@
       "estimate": "<7k",
       "name": "The Hand of the Crownbearer",
       "releaseDate": "2026-05-31",
+      "source": "tracked"
+    },
+    "4560710": {
+      "rank": 8992,
+      "estimate": "<7k",
+      "name": "Spacebolt",
+      "releaseDate": "2026-07-31",
       "source": "tracked"
     },
     "4746060": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T12:49:45.671Z",
-  "entryCount": 30,
+  "updatedAt": "2026-07-31T17:25:51.694Z",
+  "entryCount": 31,
   "entries": {
     "928000": {
       "rank": 773,
@@ -17,6 +17,13 @@
       "name": "Glover",
       "releaseDate": "2022-04-20",
       "source": "historical"
+    },
+    "1368140": {
+      "rank": 76,
+      "estimate": "300k+",
+      "name": "Corsair Cove",
+      "releaseDate": "2026-07-31",
+      "source": "tracked"
     },
     "1461920": {
       "rank": 594,

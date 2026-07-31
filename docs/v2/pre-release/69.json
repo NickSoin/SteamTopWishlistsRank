@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T12:49:45.671Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-31T17:25:51.694Z",
+  "entryCount": 21,
   "entries": {
     "771580": {
       "rank": 187,
@@ -146,6 +146,13 @@
       "estimate": "<7k",
       "name": "DATA BREACH",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4104070": {
+      "rank": 1340,
+      "estimate": "25k+",
+      "name": "Devlog: A Post-Modern College Experience",
+      "releaseDate": "2026-07-31",
       "source": "tracked"
     }
   }
