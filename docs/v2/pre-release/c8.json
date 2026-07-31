@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T17:25:51.694Z",
-  "entryCount": 32,
+  "updatedAt": "2026-07-31T21:40:45.714Z",
+  "entryCount": 33,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -212,6 +212,13 @@
       "name": "Hypnosis Card 2",
       "releaseDate": "2024-12-06",
       "source": "historical"
+    },
+    "3347950": {
+      "rank": 9449,
+      "estimate": "<7k",
+      "name": "Knockout Battle",
+      "releaseDate": "2026-07-31",
+      "source": "tracked"
     },
     "4144680": {
       "rank": 676,

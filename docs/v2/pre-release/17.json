@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T17:25:51.694Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-31T21:40:45.714Z",
+  "entryCount": 30,
   "entries": {
     "950620": {
       "rank": 254,
@@ -204,6 +204,13 @@
       "estimate": "15k+",
       "name": "ElectroFix Simulator",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "4286660": {
+      "rank": 4207,
+      "estimate": "<7k",
+      "name": "Defrag Incremental",
+      "releaseDate": "2026-07-31",
       "source": "tracked"
     },
     "4539740": {
