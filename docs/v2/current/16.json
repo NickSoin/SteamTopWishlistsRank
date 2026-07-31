@@ -1,21 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-31T08:20:47.603Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-31T12:49:45.671Z",
+  "entryCount": 19,
   "entries": {
     "904510": {
-      "rank": 1348,
+      "rank": 1349,
       "estimate": "25k+",
       "name": "ARTIFICIAL"
     },
-    "952100": {
-      "rank": 3982,
-      "estimate": "<7k",
-      "name": "Bad Pixels"
-    },
     "1418380": {
-      "rank": 3422,
+      "rank": 3421,
       "estimate": "<7k",
       "name": "Forester Simulator"
     },
@@ -45,14 +40,9 @@
       "name": "Demiurgos"
     },
     "2538870": {
-      "rank": 1075,
+      "rank": 1074,
       "estimate": "25k+",
       "name": "False Hero"
-    },
-    "3088400": {
-      "rank": 2157,
-      "estimate": "7k+",
-      "name": "Deadly Trick"
     },
     "3154150": {
       "rank": 3275,
@@ -60,7 +50,7 @@
       "name": "Spook-A-Boo"
     },
     "3279330": {
-      "rank": 3426,
+      "rank": 3425,
       "estimate": "<7k",
       "name": "Home Wars: Battlefield"
     },
@@ -70,32 +60,32 @@
       "name": "Castle V Castle"
     },
     "3570350": {
-      "rank": 2395,
+      "rank": 2390,
       "estimate": "7k+",
       "name": "Silkgrove"
     },
     "3582320": {
-      "rank": 4634,
+      "rank": 4632,
       "estimate": "<7k",
       "name": "Inazuma Eleven Team Builder"
     },
     "3730680": {
-      "rank": 2420,
+      "rank": 2419,
       "estimate": "7k+",
       "name": "Table Tactics: physics-driven tabletop battles"
     },
     "3746560": {
-      "rank": 1442,
+      "rank": 1444,
       "estimate": "25k+",
       "name": "Ethernia"
     },
     "3798840": {
-      "rank": 2430,
+      "rank": 2431,
       "estimate": "7k+",
       "name": "Reytrieve Odyssey"
     },
     "4233960": {
-      "rank": 4656,
+      "rank": 4653,
       "estimate": "<7k",
       "name": "Do Disciplinary Committee Members Dream of Succubi?"
     },
@@ -105,7 +95,7 @@
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 644,
+      "rank": 643,
       "estimate": "40k+",
       "name": "Project Rabbit"
     }

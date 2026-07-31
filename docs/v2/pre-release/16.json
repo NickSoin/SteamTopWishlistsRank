@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T08:20:47.603Z",
-  "entryCount": 20,
+  "updatedAt": "2026-07-31T12:49:45.671Z",
+  "entryCount": 22,
   "entries": {
     "597820": {
       "rank": 2,
@@ -17,6 +17,13 @@
       "name": "GUNHEAD",
       "releaseDate": "2023-11-08",
       "source": "historical"
+    },
+    "952100": {
+      "rank": 3982,
+      "estimate": "<7k",
+      "name": "Bad Pixels",
+      "releaseDate": "2026-07-31",
+      "source": "tracked"
     },
     "986130": {
       "rank": 138,
@@ -136,6 +143,13 @@
       "name": "Lizard Survivors: Battle for Hyperborea",
       "releaseDate": "2023-11-16",
       "source": "historical"
+    },
+    "3088400": {
+      "rank": 2157,
+      "estimate": "7k+",
+      "name": "Deadly Trick",
+      "releaseDate": "2026-07-31",
+      "source": "tracked"
     },
     "3606400": {
       "rank": 5031,

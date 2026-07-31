@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T08:20:47.603Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-31T12:49:45.671Z",
+  "entryCount": 32,
   "entries": {
     "939960": {
       "rank": 17,
@@ -200,6 +200,13 @@
       "estimate": "7k+",
       "name": "Jigokuraku: BATTLE IN HELL'S PARADISE",
       "releaseDate": "2026-07-09",
+      "source": "tracked"
+    },
+    "4444510": {
+      "rank": 8965,
+      "estimate": "<7k",
+      "name": "Seeding The Wasteland",
+      "releaseDate": "2026-07-31",
       "source": "tracked"
     },
     "4499040": {

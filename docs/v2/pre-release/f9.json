@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T08:20:47.603Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-31T12:49:45.671Z",
+  "entryCount": 29,
   "entries": {
     "257420": {
       "rank": 19,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Haru : Ritual of Sacrifice",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4875860": {
+      "rank": 4330,
+      "estimate": "<7k",
+      "name": "ECHOES",
+      "releaseDate": "2026-07-31",
       "source": "tracked"
     }
   }

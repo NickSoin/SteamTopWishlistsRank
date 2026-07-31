@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T08:20:47.603Z",
-  "entryCount": 24,
+  "updatedAt": "2026-07-31T12:49:45.671Z",
+  "entryCount": 25,
   "entries": {
     "900040": {
       "rank": 60,
@@ -149,6 +149,13 @@
       "estimate": "80k+",
       "name": "Hell Maiden",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4331130": {
+      "rank": 2267,
+      "estimate": "7k+",
+      "name": "Abyss Horde",
+      "releaseDate": "2026-07-31",
       "source": "tracked"
     },
     "4420050": {

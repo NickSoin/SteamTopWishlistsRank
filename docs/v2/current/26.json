@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-31T08:20:47.603Z",
-  "entryCount": 21,
+  "updatedAt": "2026-07-31T12:49:45.671Z",
+  "entryCount": 22,
   "entries": {
     "739790": {
-      "rank": 3734,
+      "rank": 3736,
       "estimate": "<7k",
       "name": "The Beauty Cult's NECTARMANCER"
     },
     "896820": {
-      "rank": 4900,
+      "rank": 4898,
       "estimate": "<7k",
       "name": "Magic Trickery"
     },
     "1127370": {
-      "rank": 2903,
+      "rank": 2902,
       "estimate": "7k+",
       "name": "Insignia"
     },
     "1628240": {
-      "rank": 4487,
+      "rank": 4485,
       "estimate": "<7k",
       "name": "Ships 2022"
     },
     "1714770": {
-      "rank": 5088,
+      "rank": 5087,
       "estimate": "<7k",
       "name": "The Misanthropic Girl"
     },
@@ -50,12 +50,12 @@
       "name": "The Heirloom"
     },
     "2853830": {
-      "rank": 3136,
+      "rank": 3133,
       "estimate": "<7k",
       "name": "Folder Dungeon"
     },
     "3018500": {
-      "rank": 4425,
+      "rank": 4422,
       "estimate": "<7k",
       "name": "Broken Shell"
     },
@@ -70,22 +70,27 @@
       "name": "The Florist"
     },
     "3333380": {
-      "rank": 2192,
+      "rank": 2191,
       "estimate": "7k+",
       "name": "Dungeon Hotpot"
     },
     "3504050": {
-      "rank": 3666,
+      "rank": 3665,
       "estimate": "<7k",
       "name": "Hillthorn"
     },
+    "3882150": {
+      "rank": 5156,
+      "estimate": "<7k",
+      "name": "Grim Axiom"
+    },
     "4080520": {
-      "rank": 2608,
+      "rank": 2611,
       "estimate": "7k+",
       "name": "Horns of Deliverance"
     },
     "4138920": {
-      "rank": 1906,
+      "rank": 1907,
       "estimate": "15k+",
       "name": "Aliya: Timelink2 Dawn"
     },
@@ -105,7 +110,7 @@
       "name": "Tunnel Escape Fates Entwined"
     },
     "4310270": {
-      "rank": 1196,
+      "rank": 1195,
       "estimate": "25k+",
       "name": "CAPTCHA Hell"
     }
