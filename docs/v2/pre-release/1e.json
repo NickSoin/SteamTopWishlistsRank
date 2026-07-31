@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T21:56:36.161Z",
+  "updatedAt": "2026-07-31T04:11:15.304Z",
   "entryCount": 29,
   "entries": {
     "868270": {
@@ -117,11 +117,11 @@
       "source": "historical"
     },
     "2530250": {
-      "rank": 2383,
-      "estimate": "7k+",
+      "rank": 1406,
+      "estimate": "25k+",
       "name": "PARKSIDE: DECAYED SOUL MANIPULATION",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
     },
     "2545360": {
       "rank": 1981,

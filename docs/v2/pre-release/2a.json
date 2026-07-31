@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T21:56:36.161Z",
-  "entryCount": 39,
+  "updatedAt": "2026-07-31T04:11:15.304Z",
+  "entryCount": 40,
   "entries": {
     "809060": {
       "rank": 695,
@@ -255,6 +255,13 @@
       "rank": 317,
       "estimate": "80k+",
       "name": "Leafy Corner",
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4405880": {
+      "rank": 4543,
+      "estimate": "<7k",
+      "name": "Moon Corona",
       "releaseDate": "2026-07-30",
       "source": "tracked"
     },

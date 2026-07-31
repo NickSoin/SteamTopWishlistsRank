@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T21:56:36.161Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-31T04:11:15.304Z",
+  "entryCount": 34,
   "entries": {
     "914890": {
       "rank": 644,
@@ -172,6 +172,13 @@
       "estimate": "7k+",
       "name": "Mousebusters",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "2827820": {
+      "rank": 277,
+      "estimate": "80k+",
+      "name": "The Relic: First Guardian",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "2834910": {

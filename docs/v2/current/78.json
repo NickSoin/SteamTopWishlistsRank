@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-30T21:56:36.161Z",
-  "entryCount": 10,
+  "updatedAt": "2026-07-31T04:11:15.304Z",
+  "entryCount": 11,
   "entries": {
     "1536910": {
-      "rank": 3052,
+      "rank": 3050,
       "estimate": "<7k",
       "name": "Snow Plow"
     },
     "2011180": {
-      "rank": 4932,
+      "rank": 4930,
       "estimate": "<7k",
       "name": "Terminus Historia"
     },
@@ -20,7 +20,7 @@
       "name": "Alien Deathstorm"
     },
     "2617870": {
-      "rank": 3265,
+      "rank": 3263,
       "estimate": "<7k",
       "name": "PSYCHOFINGER"
     },
@@ -30,12 +30,12 @@
       "name": "Quantic River"
     },
     "3356660": {
-      "rank": 925,
+      "rank": 924,
       "estimate": "40k+",
       "name": "Game Quest: The Backlog Battler"
     },
     "3489070": {
-      "rank": 4075,
+      "rank": 4073,
       "estimate": "<7k",
       "name": "Cozy Beach"
     },
@@ -45,14 +45,19 @@
       "name": "Short Short Fictions"
     },
     "3715690": {
-      "rank": 3740,
+      "rank": 3737,
       "estimate": "<7k",
       "name": "Rogue Rollers"
     },
     "4036130": {
-      "rank": 3607,
+      "rank": 3604,
       "estimate": "<7k",
       "name": "Mecha Force"
+    },
+    "4553110": {
+      "rank": 5160,
+      "estimate": "<7k",
+      "name": "NEVER LOOK BACK"
     }
   }
 }

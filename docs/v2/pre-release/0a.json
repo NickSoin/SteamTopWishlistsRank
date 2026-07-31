@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T21:56:36.161Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-31T04:11:15.304Z",
+  "entryCount": 30,
   "entries": {
     "983380": {
       "rank": 234,
@@ -192,6 +192,13 @@
       "name": "Super Mining Mechs",
       "releaseDate": "2024-10-25",
       "source": "historical"
+    },
+    "3044350": {
+      "rank": 8139,
+      "estimate": "<7k",
+      "name": "Nazi Zombies",
+      "releaseDate": "2026-07-30",
+      "source": "tracked"
     },
     "3269230": {
       "rank": 2094,

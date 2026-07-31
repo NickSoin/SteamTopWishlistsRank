@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-30T21:56:36.161Z",
-  "entryCount": 35,
+  "updatedAt": "2026-07-31T04:11:15.304Z",
+  "entryCount": 36,
   "entries": {
     "601360": {
       "rank": 122,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "I Know a Spot",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4486220": {
+      "rank": 2345,
+      "estimate": "7k+",
+      "name": "Touhou Brawl",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     },
     "4488590": {
