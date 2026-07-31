@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T04:11:15.304Z",
-  "entryCount": 31,
+  "updatedAt": "2026-07-31T08:20:47.603Z",
+  "entryCount": 32,
   "entries": {
     "292000": {
       "rank": 29,
@@ -225,6 +225,13 @@
       "estimate": "40k+",
       "name": "BOXROOM",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4914610": {
+      "rank": 3899,
+      "estimate": "<7k",
+      "name": "Dear Magical Girls",
+      "releaseDate": "2026-07-31",
       "source": "tracked"
     }
   }

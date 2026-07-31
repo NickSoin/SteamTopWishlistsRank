@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T04:11:15.304Z",
-  "entryCount": 33,
+  "updatedAt": "2026-07-31T08:20:47.603Z",
+  "entryCount": 34,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -197,6 +197,13 @@
       "estimate": "<7k",
       "name": "Interrogator 2",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "3525790": {
+      "rank": 4397,
+      "estimate": "<7k",
+      "name": "PAW Patrol™: Dino World",
+      "releaseDate": "2026-07-31",
       "source": "tracked"
     },
     "3634340": {

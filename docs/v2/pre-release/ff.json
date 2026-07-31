@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T04:11:15.304Z",
-  "entryCount": 29,
+  "updatedAt": "2026-07-31T08:20:47.603Z",
+  "entryCount": 30,
   "entries": {
     "553540": {
       "rank": 73,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Office Leveling",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "4621450": {
+      "rank": 5828,
+      "estimate": "<7k",
+      "name": "Lofi Cozy Room",
+      "releaseDate": "2026-07-31",
       "source": "tracked"
     },
     "4678720": {

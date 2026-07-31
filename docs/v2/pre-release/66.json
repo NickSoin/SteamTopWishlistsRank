@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T04:11:15.304Z",
-  "entryCount": 39,
+  "updatedAt": "2026-07-31T08:20:47.603Z",
+  "entryCount": 40,
   "entries": {
     "976890": {
       "rank": 70,
@@ -281,6 +281,13 @@
       "estimate": "<7k",
       "name": "Celestia",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4830880": {
+      "rank": 3229,
+      "estimate": "<7k",
+      "name": "Task Bar of Ragnalis",
+      "releaseDate": "2026-07-30",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-07-31T04:11:15.304Z",
-  "entryCount": 28,
+  "updatedAt": "2026-07-31T08:20:47.603Z",
+  "entryCount": 29,
   "entries": {
     "336290": {
       "rank": 7698,
@@ -191,6 +191,13 @@
       "estimate": "25k+",
       "name": "Arcane Merchant",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "4295960": {
+      "rank": 2273,
+      "estimate": "7k+",
+      "name": "Manga Club Advisor wants to support Saeki Sasara",
+      "releaseDate": "2026-07-31",
       "source": "tracked"
     },
     "4305030": {

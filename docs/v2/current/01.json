@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-07-31T04:11:15.304Z",
+  "updatedAt": "2026-07-31T08:20:47.603Z",
   "entryCount": 20,
   "entries": {
     "850870": {
-      "rank": 2892,
+      "rank": 2891,
       "estimate": "7k+",
       "name": "Hard-Life"
     },
@@ -15,7 +15,7 @@
       "name": "VUP-Simulator"
     },
     "1633850": {
-      "rank": 1031,
+      "rank": 1033,
       "estimate": "25k+",
       "name": "Jianghu Simulator"
     },
@@ -35,7 +35,7 @@
       "name": "Forge of the Fae"
     },
     "2527970": {
-      "rank": 2434,
+      "rank": 2433,
       "estimate": "7k+",
       "name": "Sea Of Rifts"
     },
@@ -45,22 +45,22 @@
       "name": "Venus: The Last Ascent"
     },
     "2712590": {
-      "rank": 447,
+      "rank": 448,
       "estimate": "80k+",
       "name": "Dragon Shelter"
     },
     "3164310": {
-      "rank": 2750,
+      "rank": 2748,
       "estimate": "7k+",
       "name": "Verde"
     },
     "3278790": {
-      "rank": 3096,
+      "rank": 3097,
       "estimate": "<7k",
       "name": "Precinct IX"
     },
     "3361540": {
-      "rank": 5096,
+      "rank": 5091,
       "estimate": "<7k",
       "name": "TYRONE vs COPS 2"
     },
@@ -70,22 +70,22 @@
       "name": "Demon Bluff"
     },
     "3587450": {
-      "rank": 3205,
+      "rank": 3204,
       "estimate": "<7k",
       "name": "Crispy Circuits"
     },
     "3635740": {
-      "rank": 4254,
+      "rank": 4253,
       "estimate": "<7k",
       "name": "Subjectivation"
     },
     "3829400": {
-      "rank": 1224,
+      "rank": 1225,
       "estimate": "25k+",
       "name": "Grand Tactician: Napoleonic Wars (1792-1815)"
     },
     "4503570": {
-      "rank": 3974,
+      "rank": 3972,
       "estimate": "<7k",
       "name": "MOLOKAUST"
     },
@@ -100,7 +100,7 @@
       "name": "Agents 404"
     },
     "4787190": {
-      "rank": 1867,
+      "rank": 1863,
       "estimate": "15k+",
       "name": "The Legend of Mala Tokmachka"
     }
