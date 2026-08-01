@@ -128,6 +128,8 @@ async function updateLedger({ ledger, currentEntries, now, fetchReleaseInfo }) {
   const currentCandidateIds = new Set();
   const today = now.toISOString().slice(0, 10);
 
+  restoreFutureReleasedEntries(nextLedger, today);
+
   for (const [appId, entry] of Object.entries(currentEntries)) {
     if (nextLedger[appId]?.state === "released") continue;
 
@@ -148,7 +150,7 @@ async function updateLedger({ ledger, currentEntries, now, fetchReleaseInfo }) {
     const currentEntry = currentEntries[appId];
     const releaseInfo = await fetchReleaseInfo(appId);
 
-    if (releaseInfo?.released) {
+    if (isConfirmedRelease(releaseInfo, today)) {
       markReleased(nextLedger, appId, releaseInfo, currentEntry);
     } else if (releaseInfo) {
       upsertUpcomingLedgerEntry(nextLedger, appId, currentEntry);
@@ -159,7 +161,7 @@ async function updateLedger({ ledger, currentEntries, now, fetchReleaseInfo }) {
 
   for (const appId of absentCandidateIds) {
     const releaseInfo = await fetchReleaseInfo(appId);
-    if (releaseInfo?.released) {
+    if (isConfirmedRelease(releaseInfo, today)) {
       markReleased(nextLedger, appId, releaseInfo);
     }
 
@@ -167,6 +169,24 @@ async function updateLedger({ ledger, currentEntries, now, fetchReleaseInfo }) {
   }
 
   return nextLedger;
+}
+
+function restoreFutureReleasedEntries(ledger, today) {
+  for (const entry of Object.values(ledger)) {
+    if (
+      entry?.state !== "released" ||
+      typeof entry.releaseDate !== "string" ||
+      entry.releaseDate <= today
+    ) continue;
+
+    entry.state = "upcoming";
+    delete entry.releaseDate;
+  }
+}
+
+function isConfirmedRelease(releaseInfo, today) {
+  if (releaseInfo?.released !== true) return false;
+  return !releaseInfo.releaseDate || releaseInfo.releaseDate <= today;
 }
 
 function upsertUpcomingLedgerEntry(ledger, appId, entry) {
@@ -433,9 +453,12 @@ async function fetchReleaseInfo(appId) {
     return null;
   }
 
+  const releaseDate = shared.normalizeSteamDate(payload.data.release_date?.date);
+  const today = new Date().toISOString().slice(0, 10);
   return {
-    released: payload.data.release_date?.coming_soon === false,
-    releaseDate: shared.normalizeSteamDate(payload.data.release_date?.date),
+    released: payload.data.release_date?.coming_soon === false &&
+      (!releaseDate || releaseDate <= today),
+    releaseDate,
     name: payload.data.name || null
   };
 }
@@ -523,7 +546,9 @@ if (require.main === module) {
 
 module.exports = {
   createEmptyShardMap,
+  isConfirmedRelease,
   markReleased,
+  restoreFutureReleasedEntries,
   scrapeWishlistFeed,
   updateLedger,
   upsertUpcomingLedgerEntry,
