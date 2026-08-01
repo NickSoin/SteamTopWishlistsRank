@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-01T16:54:08.063Z",
-  "entryCount": 19,
+  "updatedAt": "2026-08-01T21:35:04.375Z",
+  "entryCount": 20,
   "entries": {
     "737340": {
-      "rank": 5130,
+      "rank": 5135,
       "estimate": "<7k",
       "name": "Wild Light: Darkest Isles"
     },
     "772260": {
-      "rank": 3272,
+      "rank": 3275,
       "estimate": "<7k",
       "name": "NitorInc.: Touhou Microgames!"
     },
     "1129360": {
-      "rank": 3447,
+      "rank": 3448,
       "estimate": "<7k",
       "name": "Pocket Wheels"
     },
@@ -25,17 +25,17 @@
       "name": "The Boo Croo"
     },
     "1799840": {
-      "rank": 320,
+      "rank": 321,
       "estimate": "80k+",
       "name": "Queen's Domain"
     },
     "1976830": {
-      "rank": 473,
+      "rank": 474,
       "estimate": "80k+",
       "name": "Vivaland"
     },
     "2126810": {
-      "rank": 2966,
+      "rank": 2967,
       "estimate": "7k+",
       "name": "Memory's Reach"
     },
@@ -45,7 +45,7 @@
       "name": "Carbonflesh"
     },
     "2294230": {
-      "rank": 3243,
+      "rank": 3245,
       "estimate": "<7k",
       "name": "Backrooms: The Project"
     },
@@ -60,44 +60,49 @@
       "name": "Samurai Pizza Cats: Blast from the Past!"
     },
     "2605720": {
-      "rank": 2853,
+      "rank": 2854,
       "estimate": "7k+",
       "name": "Ys Foliage Ocean in Celceta : Kai"
     },
     "3018390": {
-      "rank": 1067,
+      "rank": 1068,
       "estimate": "25k+",
       "name": "PSYCHO DEAD"
     },
     "3309160": {
-      "rank": 2487,
+      "rank": 2490,
       "estimate": "7k+",
       "name": "Chronocracy"
     },
     "3868160": {
-      "rank": 2855,
+      "rank": 2857,
       "estimate": "7k+",
       "name": "The Mortal"
     },
     "3900950": {
-      "rank": 1733,
+      "rank": 1734,
       "estimate": "15k+",
       "name": "Too Many F*cking Nazis"
     },
     "3956540": {
-      "rank": 3127,
+      "rank": 3128,
       "estimate": "<7k",
       "name": "Radio Decay"
     },
     "4414410": {
-      "rank": 4936,
+      "rank": 4939,
       "estimate": "<7k",
       "name": "Enter the kOS"
     },
     "4520490": {
-      "rank": 4815,
+      "rank": 4821,
       "estimate": "<7k",
       "name": "Sayagatari - Promise of the Cursed Blade -"
+    },
+    "4619420": {
+      "rank": 5108,
+      "estimate": "<7k",
+      "name": "Slot Grind"
     }
   }
 }

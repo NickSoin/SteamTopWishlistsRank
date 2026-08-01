@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-01T16:54:08.063Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-01T21:35:04.375Z",
+  "entryCount": 36,
   "entries": {
     "743380": {
       "rank": 664,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "Joy Malignant",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "4805600": {
+      "rank": 9510,
+      "estimate": "<7k",
+      "name": "Scavenge Protocol",
+      "releaseDate": "2026-08-01",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-01T16:54:08.063Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-01T21:35:04.375Z",
+  "entryCount": 26,
   "entries": {
     "736820": {
       "rank": 19,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Brewgether",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4166740": {
+      "rank": 4809,
+      "estimate": "<7k",
+      "name": "Ore & Odds",
+      "releaseDate": "2026-08-01",
       "source": "tracked"
     },
     "4177650": {
