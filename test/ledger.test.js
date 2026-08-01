@@ -3,7 +3,11 @@ const fs = require("node:fs/promises");
 const os = require("node:os");
 const path = require("node:path");
 const shared = require("../src/shared.js");
-const { updateLedger, writeV2Artifacts } = require("../scripts/update-feed.js");
+const {
+  isConfirmedRelease,
+  updateLedger,
+  writeV2Artifacts
+} = require("../scripts/update-feed.js");
 
 async function runNewUpcomingTest() {
   const ledger = await updateLedger({
@@ -163,6 +167,59 @@ async function runReleasedEntryIsFrozenTest() {
   });
 }
 
+async function runFutureReleaseSignalIsRejectedTest() {
+  assert.equal(
+    isConfirmedRelease(
+      { released: true, releaseDate: "2027-06-08" },
+      "2026-08-01"
+    ),
+    false
+  );
+
+  const ledger = await updateLedger({
+    ledger: {
+      "111": {
+        name: "Future Game",
+        state: "upcoming",
+        preRelease: { rank: 80, estimate: "300k+" }
+      }
+    },
+    currentEntries: {},
+    now: new Date("2026-08-01T00:00:00.000Z"),
+    fetchReleaseInfo: async () => ({
+      released: true,
+      releaseDate: "2027-06-08",
+      name: "Future Game"
+    })
+  });
+
+  assert.equal(ledger["111"].state, "upcoming");
+}
+
+async function runFutureReleasedEntryIsRestoredTest() {
+  const ledger = await updateLedger({
+    ledger: {
+      "111": {
+        name: "Future Game",
+        state: "released",
+        preRelease: { rank: 80, estimate: "300k+" },
+        releaseDate: "2027-06-08"
+      }
+    },
+    currentEntries: {
+      "111": createCurrentEntry(5, "Future Game")
+    },
+    now: new Date("2026-08-01T00:00:00.000Z"),
+    fetchReleaseInfo: failIfCalled
+  });
+
+  assert.deepEqual(ledger["111"], {
+    name: "Future Game",
+    state: "upcoming",
+    preRelease: { rank: 5, estimate: "1.5m+" }
+  });
+}
+
 async function runShardWriterTest() {
   const outputDir = await fs.mkdtemp(path.join(os.tmpdir(), "wishlist-v2-"));
   const updatedAt = "2026-05-15T00:00:00.000Z";
@@ -219,7 +276,8 @@ async function runShardWriterTest() {
     rank: 80,
     estimate: "300k+",
     name: "Released Game",
-    releaseDate: "2026-05-14"
+    releaseDate: "2026-05-14",
+    source: "tracked"
   });
   assert.equal(preReleaseShard.entries["333"], undefined);
   assert.deepEqual(meta.current, { updatedAt, entryCount: 1 });
@@ -257,6 +315,8 @@ async function main() {
   await runCurrentReleaseCandidateFreezeTest();
   await runCurrentCandidateUnknownStatusTest();
   await runReleasedEntryIsFrozenTest();
+  await runFutureReleaseSignalIsRejectedTest();
+  await runFutureReleasedEntryIsRestoredTest();
   await runShardWriterTest();
   console.log("All ledger tests passed");
 }
