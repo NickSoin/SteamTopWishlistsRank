@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-01T08:05:04.304Z",
-  "entryCount": 14,
+  "updatedAt": "2026-08-01T16:54:08.063Z",
+  "entryCount": 15,
   "entries": {
     "1244600": {
-      "rank": 2999,
-      "estimate": "7k+",
+      "rank": 3002,
+      "estimate": "<7k",
       "name": "Let's Drive - learn driving simulator"
     },
     "2817960": {
-      "rank": 4355,
+      "rank": 4361,
       "estimate": "<7k",
       "name": "Button Man"
     },
@@ -30,32 +30,32 @@
       "name": "PACS - Post Apocalypse Courier Service: Co-op Delivery Simulator"
     },
     "3355360": {
-      "rank": 286,
+      "rank": 287,
       "estimate": "80k+",
       "name": "4:LOOP"
     },
     "3395320": {
-      "rank": 1551,
+      "rank": 1552,
       "estimate": "15k+",
       "name": "Critical Shift"
     },
     "3485580": {
-      "rank": 2060,
+      "rank": 2061,
       "estimate": "7k+",
       "name": "Bodybuilder Simulator CO-OP"
     },
     "3610210": {
-      "rank": 2759,
+      "rank": 2761,
       "estimate": "7k+",
       "name": "Klostyn"
     },
     "3623050": {
-      "rank": 4855,
+      "rank": 4860,
       "estimate": "<7k",
       "name": "Ending the Happy Route"
     },
     "3788160": {
-      "rank": 939,
+      "rank": 935,
       "estimate": "40k+",
       "name": "Terminal War"
     },
@@ -69,8 +69,13 @@
       "estimate": "<7k",
       "name": "Fish Lab"
     },
+    "4588510": {
+      "rank": 5158,
+      "estimate": "<7k",
+      "name": "Mayday Vacay"
+    },
     "4833450": {
-      "rank": 5020,
+      "rank": 5004,
       "estimate": "<7k",
       "name": "Money for Girls: Amortized"
     }

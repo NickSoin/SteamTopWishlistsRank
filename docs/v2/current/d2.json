@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-01T08:05:04.304Z",
-  "entryCount": 19,
+  "updatedAt": "2026-08-01T16:54:08.063Z",
+  "entryCount": 20,
   "entries": {
     "895160": {
       "rank": 202,
@@ -10,27 +10,32 @@
       "name": "Autonomica"
     },
     "1503170": {
-      "rank": 1129,
+      "rank": 1130,
       "estimate": "25k+",
       "name": "Liegecraft"
     },
+    "1536660": {
+      "rank": 5171,
+      "estimate": "<7k",
+      "name": "Ancient Arenas: Chariots"
+    },
     "1689340": {
-      "rank": 1903,
+      "rank": 1905,
       "estimate": "15k+",
       "name": "Island of Winds"
     },
     "2704310": {
-      "rank": 4463,
+      "rank": 4466,
       "estimate": "<7k",
       "name": "HARM Weather Warfare"
     },
     "2925520": {
-      "rank": 2168,
+      "rank": 2166,
       "estimate": "7k+",
       "name": "AOKAKI"
     },
     "3195360": {
-      "rank": 1016,
+      "rank": 1019,
       "estimate": "25k+",
       "name": "Coromon: Rogue Planet"
     },
@@ -40,17 +45,17 @@
       "name": "Muri: Wildwoods"
     },
     "3431620": {
-      "rank": 5055,
+      "rank": 5058,
       "estimate": "<7k",
       "name": "Kowloon 666"
     },
     "3591900": {
-      "rank": 3785,
+      "rank": 3784,
       "estimate": "<7k",
       "name": "Chivalware"
     },
     "3607230": {
-      "rank": 4660,
+      "rank": 4661,
       "estimate": "<7k",
       "name": "Ridiculous Space Battles"
     },
@@ -60,12 +65,12 @@
       "name": "The Vernyhorn"
     },
     "3774860": {
-      "rank": 1378,
+      "rank": 1379,
       "estimate": "25k+",
       "name": "BOMMY"
     },
     "3855060": {
-      "rank": 3040,
+      "rank": 3041,
       "estimate": "<7k",
       "name": "Dice Throne Digital"
     },
@@ -75,12 +80,12 @@
       "name": "Imprinted"
     },
     "4183580": {
-      "rank": 1400,
+      "rank": 1401,
       "estimate": "25k+",
       "name": "Stationbreak"
     },
     "4278150": {
-      "rank": 2846,
+      "rank": 2840,
       "estimate": "7k+",
       "name": "One Iced Latte: Milk Song"
     },
@@ -90,12 +95,12 @@
       "name": "Tideborne Haven"
     },
     "4525180": {
-      "rank": 4155,
+      "rank": 4157,
       "estimate": "<7k",
       "name": "Angel Zero"
     },
     "4584800": {
-      "rank": 3610,
+      "rank": 3559,
       "estimate": "<7k",
       "name": "Extreme Survival Club!"
     }

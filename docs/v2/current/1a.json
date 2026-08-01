@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-01T08:05:04.304Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-01T16:54:08.063Z",
+  "entryCount": 26,
   "entries": {
     "812910": {
-      "rank": 1774,
+      "rank": 1776,
       "estimate": "15k+",
       "name": "Zodiac Legion"
     },
     "1610360": {
-      "rank": 2221,
+      "rank": 2222,
       "estimate": "7k+",
       "name": "UKIYO"
     },
     "1645560": {
-      "rank": 3772,
+      "rank": 3775,
       "estimate": "<7k",
       "name": "Coffee Bar Renovator"
     },
     "2022610": {
-      "rank": 1278,
+      "rank": 1280,
       "estimate": "25k+",
       "name": "CRETE"
     },
     "2054000": {
-      "rank": 2832,
+      "rank": 2834,
       "estimate": "7k+",
       "name": "Presentable Liberty Remake"
     },
     "2250330": {
-      "rank": 4214,
+      "rank": 4219,
       "estimate": "<7k",
       "name": "Play Rough"
     },
     "2614150": {
-      "rank": 5124,
+      "rank": 5129,
       "estimate": "<7k",
       "name": "Privateer"
     },
     "2746680": {
-      "rank": 3697,
+      "rank": 3703,
       "estimate": "<7k",
       "name": "DARKWATCH"
     },
     "2850840": {
-      "rank": 2774,
+      "rank": 2776,
       "estimate": "7k+",
       "name": "Tokyo Mafia Simulator"
     },
     "2882410": {
-      "rank": 2867,
+      "rank": 2870,
       "estimate": "7k+",
       "name": "Vanlife Camping Simulator"
     },
@@ -70,17 +70,17 @@
       "name": "Thief Simulator 3"
     },
     "3447070": {
-      "rank": 1805,
+      "rank": 1778,
       "estimate": "15k+",
       "name": "Emergency Call - The Firefighting Simulation 3"
     },
     "3450100": {
-      "rank": 3171,
+      "rank": 3175,
       "estimate": "<7k",
       "name": "Gretel's Honesty"
     },
     "3548810": {
-      "rank": 2119,
+      "rank": 2107,
       "estimate": "7k+",
       "name": "Ritual Tides"
     },
@@ -90,44 +90,49 @@
       "name": "The Walking Dead: Streets of Survival"
     },
     "3883290": {
-      "rank": 3229,
+      "rank": 3224,
       "estimate": "<7k",
       "name": "LABYRINTHOS: The Depths Want You"
     },
     "3910330": {
-      "rank": 2474,
+      "rank": 2475,
       "estimate": "7k+",
       "name": "Mayak"
     },
     "4029770": {
-      "rank": 4252,
+      "rank": 4255,
       "estimate": "<7k",
       "name": "THERMOCLINE"
     },
     "4195110": {
-      "rank": 1239,
+      "rank": 1241,
       "estimate": "25k+",
       "name": "Ultrapool"
     },
     "4295090": {
-      "rank": 3500,
+      "rank": 3501,
       "estimate": "<7k",
       "name": "Horses of Gavarnie"
     },
     "4331110": {
-      "rank": 2797,
+      "rank": 2798,
       "estimate": "7k+",
       "name": "O EMPIRE! WARD OFF THY ROT"
     },
     "4339680": {
-      "rank": 1464,
+      "rank": 1465,
       "estimate": "25k+",
       "name": "Totally Safe Moon Project"
     },
     "4489930": {
-      "rank": 3767,
+      "rank": 3761,
       "estimate": "<7k",
       "name": "Memory Brew: Tales of Underworld"
+    },
+    "4625800": {
+      "rank": 3400,
+      "estimate": "<7k",
+      "name": "Black Plague: Survival"
     }
   }
 }

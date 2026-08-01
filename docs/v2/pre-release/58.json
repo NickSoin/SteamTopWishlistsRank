@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-01T08:05:04.304Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-01T16:54:08.063Z",
+  "entryCount": 23,
   "entries": {
     "1101790": {
       "rank": 96,
@@ -149,6 +149,13 @@
       "releaseDate": "2025-10-23",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1795283637852272"
+    },
+    "4380750": {
+      "rank": 7349,
+      "estimate": "<7k",
+      "name": "Emerald Flower",
+      "releaseDate": "2026-08-01",
+      "source": "tracked"
     },
     "4712560": {
       "rank": 7510,

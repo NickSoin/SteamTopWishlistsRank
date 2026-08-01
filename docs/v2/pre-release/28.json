@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-01T08:05:04.304Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-01T16:54:08.063Z",
+  "entryCount": 22,
   "entries": {
     "812440": {
       "rank": 138,
@@ -153,6 +153,13 @@
       "estimate": "<7k",
       "name": "Frostpunk 2: Breach of Trust",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4673900": {
+      "rank": 6213,
+      "estimate": "<7k",
+      "name": "SurroundedByBoys",
+      "releaseDate": "2026-08-01",
       "source": "tracked"
     }
   }

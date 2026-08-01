@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-01T08:05:04.304Z",
-  "entryCount": 20,
+  "updatedAt": "2026-08-01T16:54:08.063Z",
+  "entryCount": 21,
   "entries": {
     "1776200": {
-      "rank": 1842,
+      "rank": 1844,
       "estimate": "15k+",
       "name": "The Inn Between"
     },
@@ -14,8 +14,13 @@
       "estimate": "25k+",
       "name": "Goodlands"
     },
+    "2100510": {
+      "rank": 5170,
+      "estimate": "<7k",
+      "name": "Cyber Lancer"
+    },
     "2134470": {
-      "rank": 936,
+      "rank": 941,
       "estimate": "40k+",
       "name": "34EVERLAST"
     },
@@ -25,7 +30,7 @@
       "name": "Endurance Motorsport Series"
     },
     "2408030": {
-      "rank": 1649,
+      "rank": 1650,
       "estimate": "15k+",
       "name": "Anime Tokyo"
     },
@@ -40,12 +45,12 @@
       "name": "Game of Thrones: War for Westeros"
     },
     "2849910": {
-      "rank": 4419,
+      "rank": 4422,
       "estimate": "<7k",
       "name": "Blood Crossroad"
     },
     "2999040": {
-      "rank": 1885,
+      "rank": 1887,
       "estimate": "15k+",
       "name": "Times of Survival"
     },
@@ -55,7 +60,7 @@
       "name": "Gods, Death & Reapers"
     },
     "3154460": {
-      "rank": 714,
+      "rank": 715,
       "estimate": "40k+",
       "name": "Office Party"
     },
@@ -65,42 +70,42 @@
       "name": "Hello Sunshine"
     },
     "3280240": {
-      "rank": 1626,
+      "rank": 1625,
       "estimate": "15k+",
       "name": "Nailcrown"
     },
     "3485810": {
-      "rank": 373,
+      "rank": 374,
       "estimate": "80k+",
       "name": "Kena: Scars of Kosmora"
     },
     "3736800": {
-      "rank": 1850,
+      "rank": 1852,
       "estimate": "15k+",
       "name": "Dungeon Picnic"
     },
     "3930130": {
-      "rank": 4482,
+      "rank": 4485,
       "estimate": "<7k",
       "name": "Basalt: The Cursed Vein"
     },
     "4031300": {
-      "rank": 2632,
+      "rank": 2633,
       "estimate": "7k+",
       "name": "WORLD WAR V: LAST CALL"
     },
     "4072240": {
-      "rank": 702,
+      "rank": 701,
       "estimate": "40k+",
       "name": "Woman Simulator"
     },
     "4075740": {
-      "rank": 2982,
+      "rank": 2985,
       "estimate": "7k+",
       "name": "Little Sheep Valley – Cozy ranch-builder"
     },
     "4274990": {
-      "rank": 2229,
+      "rank": 2224,
       "estimate": "7k+",
       "name": "Minibus Simulator"
     }
