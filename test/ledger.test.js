@@ -224,6 +224,35 @@ async function runShardWriterTest() {
   const outputDir = await fs.mkdtemp(path.join(os.tmpdir(), "wishlist-v2-"));
   const updatedAt = "2026-05-15T00:00:00.000Z";
 
+  const releasedShardId = shared.getShardId("222");
+  await fs.mkdir(path.join(outputDir, "pre-release"), { recursive: true });
+  await fs.writeFile(
+    path.join(outputDir, "pre-release", `${releasedShardId}.json`),
+    JSON.stringify({
+      schemaVersion: 2,
+      kind: "pre_release",
+      updatedAt: "2026-05-14T00:00:00.000Z",
+      entryCount: 2,
+      entries: {
+        "444": {
+          rank: 90,
+          estimate: "250k+",
+          name: "Stale Tracked Game",
+          releaseDate: "2027-06-08",
+          source: "tracked"
+        },
+        "555": {
+          rank: 100,
+          estimate: "200k+",
+          name: "Historical Game",
+          releaseDate: "2020-01-01",
+          source: "historical"
+        }
+      }
+    }),
+    "utf8"
+  );
+
   await writeV2Artifacts({
     ledger: {
       "111": {
@@ -279,10 +308,18 @@ async function runShardWriterTest() {
     releaseDate: "2026-05-14",
     source: "tracked"
   });
+  assert.equal(preReleaseShard.entries["444"], undefined);
+  assert.deepEqual(preReleaseShard.entries["555"], {
+    rank: 100,
+    estimate: "200k+",
+    name: "Historical Game",
+    releaseDate: "2020-01-01",
+    source: "historical"
+  });
   assert.equal(preReleaseShard.entries["333"], undefined);
   assert.deepEqual(meta.current, { updatedAt, entryCount: 1 });
   assert.deepEqual(meta.released, { updatedAt, entryCount: 2 });
-  assert.deepEqual(meta.preRelease, { updatedAt, entryCount: 1 });
+  assert.deepEqual(meta.preRelease, { updatedAt, entryCount: 2 });
   assert.equal(meta.trackingSince, "2026-05-15");
 }
 

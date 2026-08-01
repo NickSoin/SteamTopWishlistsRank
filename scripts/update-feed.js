@@ -287,8 +287,16 @@ async function writeV2Artifacts({ ledger, currentEntries, outputDir, updatedAt, 
     } catch {
       // file doesn't exist yet or is unreadable — start empty
     }
-    // live ledger entries win over historical data for same appId
-    mergedPreReleaseShards[shardId] = { ...existing, ...preReleaseShards[shardId] };
+    // Tracked entries are derived exclusively from the live ledger so a
+    // future-dated false release can move back to upcoming. Historical
+    // records remain immutable and live ledger entries still win on overlap.
+    const historicalEntries = Object.fromEntries(
+      Object.entries(existing).filter(([, entry]) => entry?.source !== "tracked")
+    );
+    mergedPreReleaseShards[shardId] = {
+      ...historicalEntries,
+      ...preReleaseShards[shardId]
+    };
   }
 
   // Count total pre-release entries across all merged shards (includes historical)
