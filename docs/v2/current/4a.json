@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-02T12:05:32.241Z",
-  "entryCount": 17,
+  "updatedAt": "2026-08-02T16:56:18.936Z",
+  "entryCount": 18,
   "entries": {
     "306910": {
       "rank": 257,
@@ -15,22 +15,22 @@
       "name": "TankRat"
     },
     "1953430": {
-      "rank": 3377,
+      "rank": 3378,
       "estimate": "<7k",
       "name": "DearMyFriend"
     },
     "2357970": {
-      "rank": 4130,
+      "rank": 4131,
       "estimate": "<7k",
       "name": "Finely Diced"
     },
     "2408290": {
-      "rank": 5131,
+      "rank": 5135,
       "estimate": "<7k",
       "name": "Interlopers"
     },
     "2521160": {
-      "rank": 3166,
+      "rank": 3170,
       "estimate": "<7k",
       "name": "The Merlies"
     },
@@ -40,7 +40,7 @@
       "name": "Dust Front RTS"
     },
     "2637210": {
-      "rank": 2237,
+      "rank": 2213,
       "estimate": "7k+",
       "name": "Flow Of War"
     },
@@ -55,37 +55,42 @@
       "name": "The Night Wanderer"
     },
     "3196750": {
-      "rank": 3851,
+      "rank": 3850,
       "estimate": "<7k",
       "name": "[Bober Bros] Happy House"
     },
     "3374020": {
-      "rank": 3796,
+      "rank": 3802,
       "estimate": "<7k",
       "name": "Buddy Bug"
     },
     "3489490": {
-      "rank": 2805,
+      "rank": 2806,
       "estimate": "7k+",
       "name": "SourceWorld"
     },
     "3873770": {
-      "rank": 2011,
+      "rank": 2015,
       "estimate": "7k+",
       "name": "AXERAS"
     },
     "4425550": {
-      "rank": 4350,
+      "rank": 4348,
       "estimate": "<7k",
       "name": "Monkey Bizniz"
     },
     "4430260": {
-      "rank": 1716,
+      "rank": 1719,
       "estimate": "15k+",
       "name": "Beat For Speed"
     },
+    "4434840": {
+      "rank": 5090,
+      "estimate": "<7k",
+      "name": "AI is Home - Survival Thriller"
+    },
     "4940930": {
-      "rank": 2450,
+      "rank": 2435,
       "estimate": "7k+",
       "name": "SKOS: 13.86"
     }
