@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-02T04:06:47.634Z",
-  "entryCount": 17,
+  "updatedAt": "2026-08-02T07:56:46.460Z",
+  "entryCount": 18,
   "entries": {
     "654860": {
-      "rank": 4228,
+      "rank": 4229,
       "estimate": "<7k",
       "name": "Panic in Puzzle World"
     },
     "1620240": {
-      "rank": 3715,
+      "rank": 3716,
       "estimate": "<7k",
       "name": "Best Mall Simulator"
     },
     "2103670": {
-      "rank": 5170,
+      "rank": 5173,
       "estimate": "<7k",
       "name": "Sword Islands"
     },
@@ -25,12 +25,12 @@
       "name": "Resolve"
     },
     "2147700": {
-      "rank": 4711,
+      "rank": 4713,
       "estimate": "<7k",
       "name": "Umbral Core"
     },
     "2273650": {
-      "rank": 3386,
+      "rank": 3391,
       "estimate": "<7k",
       "name": "SCP: JOSIE"
     },
@@ -49,8 +49,13 @@
       "estimate": "7k+",
       "name": "Free Stars: Children of Infinity"
     },
+    "2937310": {
+      "rank": 5155,
+      "estimate": "<7k",
+      "name": "Tidal Nexus Online"
+    },
     "3151140": {
-      "rank": 1943,
+      "rank": 1944,
       "estimate": "15k+",
       "name": "Shelf Heroes"
     },
@@ -70,7 +75,7 @@
       "name": "Total War: WARHAMMER 40,000"
     },
     "4202270": {
-      "rank": 4565,
+      "rank": 4568,
       "estimate": "<7k",
       "name": "Husk Protocol"
     },
@@ -80,12 +85,12 @@
       "name": "Burn-9"
     },
     "4564640": {
-      "rank": 1747,
+      "rank": 1746,
       "estimate": "15k+",
       "name": "SATED"
     },
     "4788240": {
-      "rank": 428,
+      "rank": 426,
       "estimate": "80k+",
       "name": "Night Shift Hospital"
     }
