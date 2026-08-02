@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-02T16:56:18.936Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-02T21:37:01.274Z",
+  "entryCount": 23,
   "entries": {
     "597820": {
       "rank": 2,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Dungeon Repeater",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4548480": {
+      "rank": 4706,
+      "estimate": "<7k",
+      "name": "25 Days in the DARK",
+      "releaseDate": "2026-08-02",
       "source": "tracked"
     }
   }
