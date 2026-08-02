@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-02T07:56:46.460Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-02T12:05:32.241Z",
+  "entryCount": 22,
   "entries": {
     "1465790": {
-      "rank": 3057,
+      "rank": 3058,
       "estimate": "<7k",
       "name": "Dark Moonlight"
     },
     "1474060": {
-      "rank": 4581,
+      "rank": 4582,
       "estimate": "<7k",
       "name": "PitBots"
     },
@@ -25,17 +25,17 @@
       "name": "Paper Sky"
     },
     "1818660": {
-      "rank": 1059,
+      "rank": 1060,
       "estimate": "25k+",
       "name": "Kalyskah"
     },
     "2368030": {
-      "rank": 4791,
+      "rank": 4794,
       "estimate": "<7k",
       "name": "Delusion Out of Space"
     },
     "2521800": {
-      "rank": 3111,
+      "rank": 3112,
       "estimate": "<7k",
       "name": "Boxing Underdog"
     },
@@ -50,12 +50,12 @@
       "name": "Bumpkin and Sprout"
     },
     "2664600": {
-      "rank": 1027,
+      "rank": 1028,
       "estimate": "25k+",
       "name": "The Last Hour of an Epic TO THE MOON RPG"
     },
     "2678670": {
-      "rank": 2093,
+      "rank": 2094,
       "estimate": "7k+",
       "name": "END OF BACK WORLD"
     },
@@ -75,12 +75,12 @@
       "name": "Witherbloom"
     },
     "3083730": {
-      "rank": 5000,
+      "rank": 5003,
       "estimate": "<7k",
       "name": "Neckbreaker: Visceral Pro Wrestling"
     },
     "3196270": {
-      "rank": 2718,
+      "rank": 2720,
       "estimate": "7k+",
       "name": "Fishing Shop Simulator"
     },
@@ -90,7 +90,7 @@
       "name": "Pionero Capital"
     },
     "3452800": {
-      "rank": 4571,
+      "rank": 4574,
       "estimate": "<7k",
       "name": "Sniper at Work"
     },
@@ -108,6 +108,11 @@
       "rank": 1915,
       "estimate": "15k+",
       "name": "Obey Me! Sinner's Choice: Lucifer"
+    },
+    "4877950": {
+      "rank": 4852,
+      "estimate": "<7k",
+      "name": "Moylo"
     }
   }
 }
