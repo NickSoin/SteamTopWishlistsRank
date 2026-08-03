@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T13:49:50.774Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-03T17:38:11.711Z",
+  "entryCount": 33,
   "entries": {
     "733110": {
       "rank": 724,
@@ -209,6 +209,13 @@
       "estimate": "7k+",
       "name": "Catio Simulator",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4155110": {
+      "rank": 6396,
+      "estimate": "<7k",
+      "name": "Flats Full of Cats: Capes & Curses",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     },
     "4181410": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T13:49:50.774Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-03T17:38:11.711Z",
+  "entryCount": 34,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "7 Days To Think About It",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4155100": {
+      "rank": 6418,
+      "estimate": "<7k",
+      "name": "Flats Full of Cats: Gold & Candles",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     },
     "4502180": {

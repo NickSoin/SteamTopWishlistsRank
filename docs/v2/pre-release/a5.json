@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T13:49:50.774Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-03T17:38:11.711Z",
+  "entryCount": 28,
   "entries": {
     "299970": {
       "rank": 34,
@@ -187,6 +187,13 @@
       "name": "Resident Evil Requiem",
       "releaseDate": "2026-02-26",
       "source": "historical"
+    },
+    "4098230": {
+      "rank": 1884,
+      "estimate": "15k+",
+      "name": "Flats Full of Cats",
+      "releaseDate": "2026-08-03",
+      "source": "tracked"
     },
     "4800590": {
       "rank": 1050,

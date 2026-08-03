@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T13:49:50.774Z",
-  "entryCount": 20,
+  "updatedAt": "2026-08-03T17:38:11.711Z",
+  "entryCount": 22,
   "entries": {
     "666150": {
       "rank": 48,
@@ -130,11 +130,25 @@
       "releaseDate": "2026-07-05",
       "source": "tracked"
     },
+    "4155090": {
+      "rank": 6080,
+      "estimate": "<7k",
+      "name": "Flats Full of Cats: Bugs & Bolts",
+      "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
     "4297040": {
       "rank": 9404,
       "estimate": "<7k",
       "name": "Aeternum Infecti",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4527190": {
+      "rank": 9608,
+      "estimate": "<7k",
+      "name": "Kriegspiel Manager",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     },
     "4549590": {

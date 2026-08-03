@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T13:49:50.774Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-03T17:38:11.711Z",
+  "entryCount": 28,
   "entries": {
     "977510": {
       "rank": 1079,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "HEAVYDELIC",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4516830": {
+      "rank": 8801,
+      "estimate": "<7k",
+      "name": "White Ward",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     },
     "4755370": {

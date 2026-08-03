@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T13:49:50.774Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-03T17:38:11.711Z",
+  "entryCount": 25,
   "entries": {
     "757310": {
       "rank": 43,
@@ -143,6 +143,13 @@
       "name": "Northgard - Vordr, Clan of the Owl",
       "releaseDate": "2023-12-07",
       "source": "historical"
+    },
+    "3096230": {
+      "rank": 4763,
+      "estimate": "<7k",
+      "name": "DOGENSTEIN",
+      "releaseDate": "2026-08-03",
+      "source": "tracked"
     },
     "3144010": {
       "rank": 18,

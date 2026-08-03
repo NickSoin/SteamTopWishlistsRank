@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T13:49:50.774Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-03T17:38:11.711Z",
+  "entryCount": 31,
   "entries": {
     "637050": {
       "rank": 136,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Trading Card Inspector",
       "releaseDate": "2026-06-06",
+      "source": "tracked"
+    },
+    "4155080": {
+      "rank": 6455,
+      "estimate": "<7k",
+      "name": "Flats Full of Cats: Stars & Oysters",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     },
     "4282500": {

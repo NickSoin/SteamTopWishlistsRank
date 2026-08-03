@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T13:49:50.774Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-03T17:38:11.711Z",
+  "entryCount": 27,
   "entries": {
     "774801": {
       "rank": 157,
@@ -152,6 +152,13 @@
       "name": "DOOM: The Dark Ages",
       "releaseDate": "2025-05-14",
       "source": "historical"
+    },
+    "3156330": {
+      "rank": 701,
+      "estimate": "40k+",
+      "name": "Anomaly President",
+      "releaseDate": "2026-08-03",
+      "source": "tracked"
     },
     "3205520": {
       "rank": 3571,

@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-03T13:49:50.774Z",
-  "entryCount": 15,
+  "updatedAt": "2026-08-03T17:38:11.711Z",
+  "entryCount": 16,
   "entries": {
     "247970": {
-      "rank": 525,
+      "rank": 522,
       "estimate": "40k+",
       "name": "Korea. IL-2 Series"
     },
     "782260": {
-      "rank": 984,
+      "rank": 972,
       "estimate": "40k+",
       "name": "Rogue Eclipse"
     },
     "1410470": {
-      "rank": 3503,
+      "rank": 3501,
       "estimate": "<7k",
       "name": "Sauna2000"
     },
     "1472430": {
-      "rank": 3761,
+      "rank": 3734,
       "estimate": "<7k",
       "name": "Sketchy Fables"
     },
     "1725710": {
-      "rank": 1764,
+      "rank": 1766,
       "estimate": "15k+",
       "name": "Demi and the Fractured Dream"
     },
@@ -35,7 +35,7 @@
       "name": "Starpath"
     },
     "2476150": {
-      "rank": 3265,
+      "rank": 3264,
       "estimate": "<7k",
       "name": "Stickfigurez"
     },
@@ -45,17 +45,17 @@
       "name": "City of Ashes"
     },
     "2939170": {
-      "rank": 2751,
+      "rank": 2750,
       "estimate": "7k+",
       "name": "Galactic Disharmony"
     },
     "3295420": {
-      "rank": 4266,
+      "rank": 4267,
       "estimate": "<7k",
       "name": "Escape Memoirs: Bank Heist"
     },
     "3589910": {
-      "rank": 2873,
+      "rank": 2872,
       "estimate": "7k+",
       "name": "Voivod: The Nuclear Warrior"
     },
@@ -70,14 +70,19 @@
       "name": "Gobble Fantasy 2003"
     },
     "4303650": {
-      "rank": 4442,
+      "rank": 4443,
       "estimate": "<7k",
       "name": "Project Sakura"
     },
     "4624650": {
-      "rank": 1355,
+      "rank": 1354,
       "estimate": "25k+",
       "name": "Moonlight Pale"
+    },
+    "4855450": {
+      "rank": 5119,
+      "estimate": "<7k",
+      "name": "不心动才有鬼"
     }
   }
 }
