@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T17:38:11.711Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-03T21:37:41.412Z",
+  "entryCount": 24,
   "entries": {
     "580640": {
       "rank": 369,
@@ -150,6 +150,13 @@
       "name": "Call of Duty®: Black Ops 6",
       "releaseDate": "2024-11-01",
       "source": "historical"
+    },
+    "2937310": {
+      "rank": 4175,
+      "estimate": "<7k",
+      "name": "Tidal Nexus Online",
+      "releaseDate": "2026-08-03",
+      "source": "tracked"
     },
     "4394810": {
       "rank": 252,

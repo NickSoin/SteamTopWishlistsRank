@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T17:38:11.711Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-03T21:37:41.412Z",
+  "entryCount": 31,
   "entries": {
     "252190": {
       "rank": 1772,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "LarsGadiel",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4495630": {
+      "rank": 9954,
+      "estimate": "<7k",
+      "name": "The Slopstar 2: Slop Wars",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     },
     "4517370": {
