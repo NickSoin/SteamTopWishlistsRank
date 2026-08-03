@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-03T08:45:09.731Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-03T13:49:50.774Z",
+  "entryCount": 24,
   "entries": {
     "1255020": {
-      "rank": 4841,
+      "rank": 4840,
       "estimate": "<7k",
       "name": "An Elaborate History of Chess"
     },
     "1568520": {
-      "rank": 4391,
+      "rank": 4393,
       "estimate": "<7k",
       "name": "Blue June"
     },
@@ -20,7 +20,7 @@
       "name": "Myth Caller: The Nightmare Shaman"
     },
     "2152830": {
-      "rank": 2190,
+      "rank": 2191,
       "estimate": "7k+",
       "name": "BadSmith"
     },
@@ -30,37 +30,37 @@
       "name": "Away Team"
     },
     "2194090": {
-      "rank": 3273,
+      "rank": 3272,
       "estimate": "<7k",
       "name": "Subspace Hunter Legacy"
     },
     "2275010": {
-      "rank": 2807,
+      "rank": 2791,
       "estimate": "7k+",
       "name": "Ardent Wilds"
     },
     "2339000": {
-      "rank": 3371,
+      "rank": 3370,
       "estimate": "<7k",
       "name": "Portabellows"
     },
     "2450350": {
-      "rank": 2336,
+      "rank": 2335,
       "estimate": "7k+",
       "name": "Fat Goblins"
     },
     "2529960": {
-      "rank": 3284,
+      "rank": 3276,
       "estimate": "<7k",
       "name": "Alpha Nomos"
     },
     "2557020": {
-      "rank": 5084,
+      "rank": 5085,
       "estimate": "<7k",
       "name": "Eon Rush"
     },
     "2591710": {
-      "rank": 4745,
+      "rank": 4747,
       "estimate": "<7k",
       "name": "Pirates of the Caribbean: Tides of War"
     },
@@ -75,12 +75,12 @@
       "name": "The Vigilante Diaries"
     },
     "3115870": {
-      "rank": 616,
+      "rank": 617,
       "estimate": "40k+",
       "name": "TrophyRC"
     },
     "3546610": {
-      "rank": 1116,
+      "rank": 1117,
       "estimate": "25k+",
       "name": "Wielders of the Essence"
     },
@@ -90,44 +90,39 @@
       "name": "KING's RAID"
     },
     "3743260": {
-      "rank": 1169,
+      "rank": 1171,
       "estimate": "25k+",
       "name": "Virtue and a Sledgehammer"
     },
     "3936190": {
-      "rank": 2964,
+      "rank": 2966,
       "estimate": "7k+",
       "name": "Freshly Folded: Laundry Shop"
     },
     "4073320": {
-      "rank": 2366,
+      "rank": 2365,
       "estimate": "7k+",
       "name": "Funus: The Climb"
     },
     "4180620": {
-      "rank": 5191,
+      "rank": 5143,
       "estimate": "<7k",
       "name": "Submerge"
     },
     "4184400": {
-      "rank": 1306,
+      "rank": 1308,
       "estimate": "25k+",
       "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
     },
     "4189120": {
-      "rank": 367,
+      "rank": 369,
       "estimate": "80k+",
       "name": "Debauchery & Magic"
     },
     "4258880": {
-      "rank": 996,
+      "rank": 997,
       "estimate": "40k+",
       "name": "Basement To The Sky"
-    },
-    "4963920": {
-      "rank": 1824,
-      "estimate": "15k+",
-      "name": "Porthole - Local Port Sharing"
     }
   }
 }

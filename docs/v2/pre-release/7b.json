@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T08:45:09.731Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-03T13:49:50.774Z",
+  "entryCount": 26,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -157,6 +157,13 @@
       "name": "Crystal of Atlan",
       "releaseDate": "2025-10-30",
       "source": "historical"
+    },
+    "3882980": {
+      "rank": 4216,
+      "estimate": "<7k",
+      "name": "Space Tail: Definitive Edition",
+      "releaseDate": "2026-08-03",
+      "source": "tracked"
     },
     "4458900": {
       "rank": 8765,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T08:45:09.731Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-03T13:49:50.774Z",
+  "entryCount": 33,
   "entries": {
     "1119840": {
       "rank": 247,
@@ -205,6 +205,13 @@
       "estimate": "15k+",
       "name": "Meowstery Wisp",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4402950": {
+      "rank": 7593,
+      "estimate": "<7k",
+      "name": "HEXSTORM: Tears of Arcadia",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     },
     "4433730": {

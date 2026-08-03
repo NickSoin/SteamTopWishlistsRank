@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-03T08:45:09.731Z",
-  "entryCount": 19,
+  "updatedAt": "2026-08-03T13:49:50.774Z",
+  "entryCount": 20,
   "entries": {
     "912000": {
-      "rank": 1310,
+      "rank": 1312,
       "estimate": "25k+",
       "name": "Mike goes on hike"
     },
@@ -15,22 +15,22 @@
       "name": "Ring of Fire"
     },
     "1333930": {
-      "rank": 2275,
+      "rank": 2273,
       "estimate": "7k+",
       "name": "World's Worst Handyman"
     },
     "1575790": {
-      "rank": 1218,
+      "rank": 1219,
       "estimate": "25k+",
       "name": "Flawless Abbey"
     },
     "2073330": {
-      "rank": 5036,
+      "rank": 5035,
       "estimate": "<7k",
       "name": "FORKLIFT FLOWERPOT: Botanical Investigator"
     },
     "2363280": {
-      "rank": 1789,
+      "rank": 1790,
       "estimate": "15k+",
       "name": "NULLSPACE"
     },
@@ -40,7 +40,7 @@
       "name": "Airframe Ultra"
     },
     "2601540": {
-      "rank": 534,
+      "rank": 535,
       "estimate": "40k+",
       "name": "Drowned Lake"
     },
@@ -54,38 +54,43 @@
       "estimate": "25k+",
       "name": "Flesh & Wire"
     },
+    "3638800": {
+      "rank": 5033,
+      "estimate": "<7k",
+      "name": "9 Yin Sutra: Immortal"
+    },
     "3669820": {
-      "rank": 4414,
+      "rank": 4418,
       "estimate": "<7k",
       "name": "CatchMaker"
     },
     "3854080": {
-      "rank": 4117,
+      "rank": 4116,
       "estimate": "<7k",
       "name": "隐梦交织"
     },
     "3892370": {
-      "rank": 1799,
+      "rank": 1800,
       "estimate": "15k+",
       "name": "Distant Shore: BRETAGNE"
     },
     "3966510": {
-      "rank": 3593,
+      "rank": 3594,
       "estimate": "<7k",
       "name": "Feed the Scorchpot"
     },
     "4119090": {
-      "rank": 630,
+      "rank": 631,
       "estimate": "40k+",
       "name": "The Daughter"
     },
     "4143220": {
-      "rank": 4255,
+      "rank": 4236,
       "estimate": "<7k",
       "name": "The Case of the Golden Night Apartment"
     },
     "4236690": {
-      "rank": 5075,
+      "rank": 5076,
       "estimate": "<7k",
       "name": "Hypersonic GP"
     },
@@ -95,7 +100,7 @@
       "name": "CaveDive"
     },
     "4829700": {
-      "rank": 272,
+      "rank": 271,
       "estimate": "80k+",
       "name": "Monster Hunter Wilds: Ascendance"
     }

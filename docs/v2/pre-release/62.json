@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T08:45:09.731Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-03T13:49:50.774Z",
+  "entryCount": 32,
   "entries": {
     "261550": {
       "rank": 7,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "Earth Online",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "4792610": {
+      "rank": 9969,
+      "estimate": "<7k",
+      "name": "Robin Hood: Sherwood Valley",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     }
   }

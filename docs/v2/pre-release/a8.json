@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T08:45:09.731Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-03T13:49:50.774Z",
+  "entryCount": 29,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Reverse Dream of the Menasphere",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4540820": {
+      "rank": 3607,
+      "estimate": "<7k",
+      "name": "Kin and Conquest",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     },
     "4620140": {

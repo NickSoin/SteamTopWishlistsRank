@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T08:45:09.731Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-03T13:49:50.774Z",
+  "entryCount": 32,
   "entries": {
     "928000": {
       "rank": 773,
@@ -221,6 +221,13 @@
       "estimate": "15k+",
       "name": "Room: 405 | Love Beyond Reality",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4963920": {
+      "rank": 1824,
+      "estimate": "15k+",
+      "name": "Porthole - Local Port Sharing",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     }
   }

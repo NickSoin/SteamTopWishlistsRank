@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T08:45:09.731Z",
-  "entryCount": 38,
+  "updatedAt": "2026-08-03T13:49:50.774Z",
+  "entryCount": 39,
   "entries": {
     "1113030": {
       "rank": 437,
@@ -184,6 +184,13 @@
       "name": "Farmagia",
       "releaseDate": "2024-11-01",
       "source": "historical"
+    },
+    "2637210": {
+      "rank": 2098,
+      "estimate": "7k+",
+      "name": "Flow Of War",
+      "releaseDate": "2026-08-03",
+      "source": "tracked"
     },
     "2685840": {
       "rank": 2550,

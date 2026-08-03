@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T08:45:09.731Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-03T13:49:50.774Z",
+  "entryCount": 26,
   "entries": {
     "1012570": {
       "rank": 585,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "EagleRoad:WorldRise",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4621540": {
+      "rank": 9946,
+      "estimate": "<7k",
+      "name": "Deepcore Mining",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     },
     "4668820": {
