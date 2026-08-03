@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T04:30:22.047Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-03T08:45:09.731Z",
+  "entryCount": 34,
   "entries": {
     "918570": {
       "rank": 38,
@@ -216,6 +216,13 @@
       "estimate": "200k+",
       "name": "The Adventures of Elliot: The Millennium Tales",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4069760": {
+      "rank": 7792,
+      "estimate": "<7k",
+      "name": "VR AIM",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     },
     "4653510": {
