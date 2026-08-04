@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-04T03:56:11.860Z",
-  "entryCount": 17,
+  "updatedAt": "2026-08-04T08:23:29.318Z",
+  "entryCount": 18,
   "entries": {
     "526720": {
       "rank": 2901,
@@ -10,22 +10,27 @@
       "name": "OFF GRID : Stealth Hacking"
     },
     "864930": {
-      "rank": 4827,
+      "rank": 4831,
       "estimate": "<7k",
       "name": "ULTRABUGS"
     },
     "1369430": {
-      "rank": 3643,
+      "rank": 3645,
       "estimate": "<7k",
       "name": "The Light of the Darkness: Renascence"
     },
     "1426870": {
-      "rank": 4055,
+      "rank": 4060,
       "estimate": "<7k",
       "name": "Dune Mechanic : Survive The Steampunk Era"
     },
+    "1693890": {
+      "rank": 5206,
+      "estimate": "<7k",
+      "name": "Spiritwell"
+    },
     "1870550": {
-      "rank": 4769,
+      "rank": 4771,
       "estimate": "<7k",
       "name": "Pirate's Den Renovator"
     },
@@ -35,17 +40,17 @@
       "name": "The Wolf Among Us 2"
     },
     "2082570": {
-      "rank": 1737,
+      "rank": 1738,
       "estimate": "15k+",
       "name": "SCP - Containment Breach Reborn"
     },
     "2165040": {
-      "rank": 1655,
+      "rank": 1659,
       "estimate": "15k+",
       "name": "Sally"
     },
     "2257440": {
-      "rank": 1361,
+      "rank": 1362,
       "estimate": "25k+",
       "name": "Tom the postgirl"
     },
@@ -55,12 +60,12 @@
       "name": "Among Us Story: On Guard"
     },
     "3380990": {
-      "rank": 2045,
+      "rank": 2046,
       "estimate": "7k+",
       "name": "Starborn Phoenix Ship"
     },
     "3787050": {
-      "rank": 606,
+      "rank": 605,
       "estimate": "40k+",
       "name": "It Works: Electronics Repair Simulator"
     },
@@ -70,7 +75,7 @@
       "name": "残阳 1645/1937"
     },
     "4338420": {
-      "rank": 4480,
+      "rank": 4482,
       "estimate": "<7k",
       "name": "长乐夜前夕"
     },
@@ -80,12 +85,12 @@
       "name": "Last Harbor"
     },
     "4601470": {
-      "rank": 3770,
+      "rank": 3765,
       "estimate": "<7k",
       "name": "Going my way?"
     },
     "4703930": {
-      "rank": 1170,
+      "rank": 1171,
       "estimate": "25k+",
       "name": "Grilluminati"
     }
