@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-04T17:13:00.882Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-04T21:48:31.249Z",
+  "entryCount": 23,
   "entries": {
     "666150": {
       "rank": 48,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Night Duty Log: A Shōwa School Record",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4619420": {
+      "rank": 3805,
+      "estimate": "<7k",
+      "name": "Slot Grind",
+      "releaseDate": "2026-08-04",
       "source": "tracked"
     }
   }

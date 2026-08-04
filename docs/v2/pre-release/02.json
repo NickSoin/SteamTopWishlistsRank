@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-04T17:13:00.882Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-04T21:48:31.249Z",
+  "entryCount": 32,
   "entries": {
     "844980": {
       "rank": 112,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Erratum",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4676130": {
+      "rank": 3642,
+      "estimate": "<7k",
+      "name": "That Time I Got Reincarnated as a Tyrant God",
+      "releaseDate": "2026-08-04",
       "source": "tracked"
     }
   }
