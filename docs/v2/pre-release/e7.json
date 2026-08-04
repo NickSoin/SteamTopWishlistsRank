@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T21:37:41.412Z",
+  "updatedAt": "2026-08-04T03:56:11.860Z",
   "entryCount": 29,
   "entries": {
     "429380": {
@@ -96,11 +96,11 @@
       "source": "historical"
     },
     "2001760": {
-      "rank": 42,
+      "rank": 28,
       "estimate": "600k+",
       "name": "Beast of Reincarnation",
       "releaseDate": "2026-08-03",
-      "source": "historical"
+      "source": "tracked"
     },
     "2116060": {
       "rank": 573,

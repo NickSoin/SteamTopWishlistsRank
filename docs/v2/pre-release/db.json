@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T21:37:41.412Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-04T03:56:11.860Z",
+  "entryCount": 34,
   "entries": {
     "771700": {
       "rank": 1063,
@@ -237,6 +237,13 @@
       "estimate": "7k+",
       "name": "Huntin' Buddies",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4650490": {
+      "rank": 7763,
+      "estimate": "<7k",
+      "name": "Idle Immortal Sentinel",
+      "releaseDate": "2026-08-03",
       "source": "tracked"
     }
   }

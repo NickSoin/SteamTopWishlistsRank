@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-03T21:37:41.412Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-04T03:56:11.860Z",
+  "entryCount": 31,
   "entries": {
     "715400": {
       "rank": 49,
@@ -199,6 +199,13 @@
       "name": "Tap Tap Loot",
       "releaseDate": "2026-04-13",
       "source": "historical"
+    },
+    "4117190": {
+      "rank": 2629,
+      "estimate": "7k+",
+      "name": "Silly Suspects",
+      "releaseDate": "2026-08-03",
+      "source": "tracked"
     },
     "4348800": {
       "rank": 2681,
