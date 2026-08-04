@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-04T12:35:59.075Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-04T17:13:00.882Z",
+  "entryCount": 31,
   "entries": {
     "674140": {
       "rank": 537,
@@ -209,6 +209,13 @@
       "estimate": "<7k",
       "name": "Khaldun: Text Based Strategy",
       "releaseDate": "2026-07-06",
+      "source": "tracked"
+    },
+    "4547970": {
+      "rank": 1020,
+      "estimate": "25k+",
+      "name": "Pih 2",
+      "releaseDate": "2026-08-04",
       "source": "tracked"
     },
     "4682460": {

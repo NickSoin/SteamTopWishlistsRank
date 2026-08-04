@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-04T12:35:59.075Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-04T17:13:00.882Z",
+  "entryCount": 33,
   "entries": {
     "719040": {
       "rank": 20,
@@ -136,6 +136,13 @@
       "name": "Hauntsville",
       "releaseDate": "2025-03-10",
       "source": "historical"
+    },
+    "2371060": {
+      "rank": 3358,
+      "estimate": "<7k",
+      "name": "It Consumes",
+      "releaseDate": "2026-08-04",
+      "source": "tracked"
     },
     "2398450": {
       "rank": 1504,

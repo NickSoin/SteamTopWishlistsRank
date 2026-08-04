@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-04T12:35:59.075Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-04T17:13:00.882Z",
+  "entryCount": 38,
   "entries": {
     "307950": {
       "rank": 1484,
@@ -258,6 +258,13 @@
       "estimate": "40k+",
       "name": "A Game About Chopping Trees",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "4540090": {
+      "rank": 4602,
+      "estimate": "<7k",
+      "name": "DISTURBING FEARS - Workplace",
+      "releaseDate": "2026-08-04",
       "source": "tracked"
     },
     "4763680": {

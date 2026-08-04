@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-04T12:35:59.075Z",
-  "entryCount": 40,
+  "updatedAt": "2026-08-04T17:13:00.882Z",
+  "entryCount": 41,
   "entries": {
     "995680": {
       "rank": 39,
@@ -284,6 +284,13 @@
       "estimate": "7k+",
       "name": "The Meter is Running",
       "releaseDate": "2026-05-22",
+      "source": "tracked"
+    },
+    "4483530": {
+      "rank": 4599,
+      "estimate": "<7k",
+      "name": "Stronghold Crusader: Definitive Edition - The Surgeon and Baibars",
+      "releaseDate": "2026-08-04",
       "source": "tracked"
     }
   }

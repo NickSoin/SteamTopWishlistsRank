@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-04T12:35:59.075Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-04T17:13:00.882Z",
+  "entryCount": 28,
   "entries": {
     "774801": {
       "rank": 157,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "Fantasy Grounds - Dungeons & Dragons Ravenloft The Horrors Within",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4782370": {
+      "rank": 5858,
+      "estimate": "<7k",
+      "name": "Millenium State: Path of Hegemony",
+      "releaseDate": "2026-08-04",
       "source": "tracked"
     }
   }
