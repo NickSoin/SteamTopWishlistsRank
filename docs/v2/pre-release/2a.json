@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-04T08:23:29.318Z",
-  "entryCount": 40,
+  "updatedAt": "2026-08-04T12:35:59.075Z",
+  "entryCount": 41,
   "entries": {
     "809060": {
       "rank": 695,
@@ -270,6 +270,13 @@
       "estimate": "<7k",
       "name": "Black Powder Box",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4661170": {
+      "rank": 6600,
+      "estimate": "<7k",
+      "name": "Headquarters: Cold War - Operation Pacify",
+      "releaseDate": "2026-08-04",
       "source": "tracked"
     },
     "4668890": {

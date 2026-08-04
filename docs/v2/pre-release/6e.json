@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-04T08:23:29.318Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-04T12:35:59.075Z",
+  "entryCount": 29,
   "entries": {
     "669330": {
       "rank": 422,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "Dice Gun Commando",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4659890": {
+      "rank": 8508,
+      "estimate": "<7k",
+      "name": "ShiftDeck",
+      "releaseDate": "2026-08-04",
       "source": "tracked"
     },
     "4661130": {
