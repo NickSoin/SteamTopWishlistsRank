@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-04T21:48:31.249Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-05T03:48:40.016Z",
+  "entryCount": 35,
   "entries": {
     "649950": {
       "rank": 19,
@@ -161,6 +161,13 @@
       "name": "One-armed robber",
       "releaseDate": "2023-12-15",
       "source": "historical"
+    },
+    "2660230": {
+      "rank": 538,
+      "estimate": "40k+",
+      "name": "Kill The Shadow",
+      "releaseDate": "2026-08-04",
+      "source": "tracked"
     },
     "2754090": {
       "rank": 3,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-04T21:48:31.249Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-05T03:48:40.016Z",
+  "entryCount": 32,
   "entries": {
     "858710": {
       "rank": 35,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Uncle Otto's Mansion",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4923090": {
+      "rank": 4243,
+      "estimate": "<7k",
+      "name": "Rent Due",
+      "releaseDate": "2026-08-04",
       "source": "tracked"
     }
   }

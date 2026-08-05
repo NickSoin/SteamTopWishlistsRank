@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-04T21:48:31.249Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-05T03:48:40.016Z",
+  "entryCount": 27,
   "entries": {
     "473750": {
       "rank": 1164,
@@ -110,6 +110,13 @@
       "name": "Desert Island in Summer?",
       "releaseDate": "2024-08-02",
       "source": "historical"
+    },
+    "2372240": {
+      "rank": 2239,
+      "estimate": "7k+",
+      "name": "Re:Night",
+      "releaseDate": "2026-08-05",
+      "source": "tracked"
     },
     "2420350": {
       "rank": 1742,
