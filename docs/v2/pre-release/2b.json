@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T12:32:54.196Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-05T16:58:27.425Z",
+  "entryCount": 29,
   "entries": {
     "941460": {
       "rank": 36,
@@ -181,6 +181,13 @@
       "estimate": "<7k",
       "name": "UNDERGROUNDED",
       "releaseDate": "2026-07-02",
+      "source": "tracked"
+    },
+    "4078160": {
+      "rank": 4414,
+      "estimate": "<7k",
+      "name": "Changeable Guardian ESTIQUE",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     },
     "4476610": {

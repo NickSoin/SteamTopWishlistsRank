@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T12:32:54.196Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-05T16:58:27.425Z",
+  "entryCount": 29,
   "entries": {
     "299970": {
       "rank": 34,
@@ -173,6 +173,13 @@
       "name": "Exploding Kittens® 2",
       "releaseDate": "2024-08-12",
       "source": "historical"
+    },
+    "3417940": {
+      "rank": 4407,
+      "estimate": "<7k",
+      "name": "Cat Chaos",
+      "releaseDate": "2026-08-05",
+      "source": "tracked"
     },
     "3432480": {
       "rank": 1004,

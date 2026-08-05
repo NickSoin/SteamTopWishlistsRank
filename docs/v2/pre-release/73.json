@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T12:32:54.196Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-05T16:58:27.425Z",
+  "entryCount": 27,
   "entries": {
     "427940": {
       "rank": 24,
@@ -156,6 +156,13 @@
       "estimate": "300k+",
       "name": "Witch's Apocalyptic Journey",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "3724710": {
+      "rank": 1706,
+      "estimate": "15k+",
+      "name": "Gunstoppable",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     },
     "4252830": {

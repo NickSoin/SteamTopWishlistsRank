@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T12:32:54.196Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-05T16:58:27.425Z",
+  "entryCount": 32,
   "entries": {
     "889910": {
       "rank": 531,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "Don't Panic Together",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4927490": {
+      "rank": 1026,
+      "estimate": "25k+",
+      "name": "Cleaning Up The Puzzle Gallery",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     }
   }

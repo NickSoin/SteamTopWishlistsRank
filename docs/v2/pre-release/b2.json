@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T12:32:54.196Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-05T16:58:27.425Z",
+  "entryCount": 30,
   "entries": {
     "761830": {
       "rank": 31,
@@ -191,6 +191,13 @@
       "estimate": "7k+",
       "name": "CARTAGRA",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4446870": {
+      "rank": 8686,
+      "estimate": "<7k",
+      "name": "Medieval Tavern Simulator",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     },
     "4451830": {

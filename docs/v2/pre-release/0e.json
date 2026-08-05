@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T12:32:54.196Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-05T16:58:27.425Z",
+  "entryCount": 36,
   "entries": {
     "529340": {
       "rank": 19,
@@ -251,6 +251,13 @@
       "estimate": "<7k",
       "name": "Purrrfect Spa - ASMR Cat Game",
       "releaseDate": "2026-07-12",
+      "source": "tracked"
+    },
+    "4388420": {
+      "rank": 3650,
+      "estimate": "<7k",
+      "name": "Pack my Order",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     }
   }

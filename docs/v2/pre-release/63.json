@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T12:32:54.196Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-05T16:58:27.425Z",
+  "entryCount": 38,
   "entries": {
     "814380": {
       "rank": 1,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "Decked Out",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "3962040": {
+      "rank": 1882,
+      "estimate": "15k+",
+      "name": "Ranchbound",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     },
     "4560290": {

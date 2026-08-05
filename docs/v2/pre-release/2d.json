@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T12:32:54.196Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-05T16:58:27.425Z",
+  "entryCount": 35,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -108,6 +108,13 @@
       "name": "Arms Trade Tycoon: Tanks",
       "releaseDate": "2024-02-06",
       "source": "historical"
+    },
+    "1766240": {
+      "rank": 2473,
+      "estimate": "7k+",
+      "name": "Mazey Village",
+      "releaseDate": "2026-08-05",
+      "source": "tracked"
     },
     "1893810": {
       "rank": 331,

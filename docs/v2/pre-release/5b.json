@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T12:32:54.196Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-05T16:58:27.425Z",
+  "entryCount": 25,
   "entries": {
     "897730": {
       "rank": 9,
@@ -129,6 +129,13 @@
       "name": "Dungeons of Eternity",
       "releaseDate": "2025-09-11",
       "source": "historical"
+    },
+    "3496970": {
+      "rank": 8185,
+      "estimate": "<7k",
+      "name": "GLOOPALAXY",
+      "releaseDate": "2026-08-05",
+      "source": "tracked"
     },
     "3638860": {
       "rank": 9731,

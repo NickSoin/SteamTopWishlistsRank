@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T12:32:54.196Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-05T16:58:27.425Z",
+  "entryCount": 28,
   "entries": {
     "750200": {
       "rank": 159,
@@ -183,6 +183,13 @@
       "estimate": "25k+",
       "name": "Foghorns Drown",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4286040": {
+      "rank": 2746,
+      "estimate": "7k+",
+      "name": "Unicycle Together",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     },
     "4315850": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T12:32:54.196Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-05T16:58:27.425Z",
+  "entryCount": 27,
   "entries": {
     "844260": {
       "rank": 74,
@@ -181,6 +181,13 @@
       "estimate": "40k+",
       "name": "Ice Cream Simulator",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4160920": {
+      "rank": 9852,
+      "estimate": "<7k",
+      "name": "Cargo, Please!",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     },
     "4398370": {

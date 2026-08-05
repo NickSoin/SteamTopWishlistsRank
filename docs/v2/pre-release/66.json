@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T12:32:54.196Z",
-  "entryCount": 40,
+  "updatedAt": "2026-08-05T16:58:27.425Z",
+  "entryCount": 41,
   "entries": {
     "976890": {
       "rank": 70,
@@ -253,6 +253,13 @@
       "estimate": "<7k",
       "name": "When Stars Collide",
       "releaseDate": "2026-06-27",
+      "source": "tracked"
+    },
+    "4217690": {
+      "rank": 1925,
+      "estimate": "15k+",
+      "name": "Uncanny Tales: The Watcher",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     },
     "4355570": {
