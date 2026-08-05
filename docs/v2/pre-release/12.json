@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T08:18:27.043Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-05T12:32:54.196Z",
+  "entryCount": 35,
   "entries": {
     "1034140": {
       "rank": 13,
@@ -220,6 +220,13 @@
       "name": "Teenage Mutant Ninja Turtles: Empire City",
       "releaseDate": "2026-04-30",
       "source": "historical"
+    },
+    "4243220": {
+      "rank": 7603,
+      "estimate": "<7k",
+      "name": "海边的忘川亭",
+      "releaseDate": "2026-08-05",
+      "source": "tracked"
     },
     "4571480": {
       "rank": 3725,

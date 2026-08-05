@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T08:18:27.043Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-05T12:32:54.196Z",
+  "entryCount": 37,
   "entries": {
     "812910": {
       "rank": 1037,
@@ -221,6 +221,13 @@
       "estimate": "7k+",
       "name": "Dodo Duckie",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "3447070": {
+      "rank": 1514,
+      "estimate": "15k+",
+      "name": "Emergency Call - The Firefighting Simulation 3",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     },
     "4490200": {
