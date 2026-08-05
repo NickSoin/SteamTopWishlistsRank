@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-05T03:48:40.016Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-05T08:18:27.043Z",
+  "entryCount": 23,
   "entries": {
     "765700": {
       "rank": 3864,
@@ -10,12 +10,12 @@
       "name": "Tactical Galactical"
     },
     "1570660": {
-      "rank": 4822,
+      "rank": 4824,
       "estimate": "<7k",
       "name": "Medieval Apocalypse"
     },
     "1619660": {
-      "rank": 4504,
+      "rank": 4505,
       "estimate": "<7k",
       "name": "Kambulin"
     },
@@ -35,7 +35,7 @@
       "name": "Zarya"
     },
     "2871010": {
-      "rank": 1641,
+      "rank": 1639,
       "estimate": "15k+",
       "name": "VanySlash"
     },
@@ -50,12 +50,12 @@
       "name": "Re:VER PROJECT -TOKYO-"
     },
     "3143530": {
-      "rank": 2025,
+      "rank": 2026,
       "estimate": "7k+",
       "name": "Shadow Project"
     },
     "3241270": {
-      "rank": 3692,
+      "rank": 3691,
       "estimate": "<7k",
       "name": "Into the Void"
     },
@@ -70,7 +70,7 @@
       "name": "Backroom Cleaners"
     },
     "3642020": {
-      "rank": 3739,
+      "rank": 3738,
       "estimate": "<7k",
       "name": "El Paso, Elsewhere 2"
     },
@@ -80,14 +80,19 @@
       "name": "Westlanders"
     },
     "3891400": {
-      "rank": 1585,
+      "rank": 1584,
       "estimate": "15k+",
       "name": "Mixed Spirits: Bartender"
     },
     "3932790": {
-      "rank": 4205,
+      "rank": 4204,
       "estimate": "<7k",
       "name": "Garfield - Escape from Monday"
+    },
+    "3971290": {
+      "rank": 5206,
+      "estimate": "<7k",
+      "name": "The Money Pit"
     },
     "4090310": {
       "rank": 787,
@@ -95,12 +100,12 @@
       "name": "Primal Repairs"
     },
     "4226560": {
-      "rank": 3409,
+      "rank": 3410,
       "estimate": "<7k",
       "name": "ALATURKA"
     },
     "4232510": {
-      "rank": 2077,
+      "rank": 2076,
       "estimate": "7k+",
       "name": "Broken Arrow: Russian Guard"
     },
@@ -110,7 +115,7 @@
       "name": "Bad Magpie"
     },
     "4317790": {
-      "rank": 594,
+      "rank": 592,
       "estimate": "40k+",
       "name": "Last Pirates: Die Together"
     }

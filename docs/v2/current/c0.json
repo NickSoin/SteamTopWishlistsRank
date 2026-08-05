@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-05T03:48:40.016Z",
+  "updatedAt": "2026-08-05T08:18:27.043Z",
   "entryCount": 24,
   "entries": {
     "888780": {
@@ -10,12 +10,12 @@
       "name": "Adapt"
     },
     "1015370": {
-      "rank": 2702,
+      "rank": 2703,
       "estimate": "7k+",
       "name": "eXpanSIM"
     },
     "1518330": {
-      "rank": 1255,
+      "rank": 1256,
       "estimate": "25k+",
       "name": "Pirate Simulator"
     },
@@ -55,12 +55,12 @@
       "name": "Gloomveil"
     },
     "3251280": {
-      "rank": 1908,
+      "rank": 1910,
       "estimate": "15k+",
       "name": "Rivals Hover League"
     },
     "3520410": {
-      "rank": 2225,
+      "rank": 2221,
       "estimate": "7k+",
       "name": "10hit"
     },
@@ -75,7 +75,7 @@
       "name": "CONTROL Resonant"
     },
     "3760360": {
-      "rank": 3978,
+      "rank": 3977,
       "estimate": "<7k",
       "name": "My Little Farm"
     },
@@ -90,12 +90,12 @@
       "name": "Rules of Engagement: The Grey State"
     },
     "3994840": {
-      "rank": 5195,
+      "rank": 5194,
       "estimate": "<7k",
       "name": "The Whisker Watch"
     },
     "4026250": {
-      "rank": 775,
+      "rank": 773,
       "estimate": "40k+",
       "name": "Project P.I.T.T."
     },
@@ -110,7 +110,7 @@
       "name": "ZERO Sievert 2"
     },
     "4415740": {
-      "rank": 3339,
+      "rank": 3317,
       "estimate": "<7k",
       "name": "The Pale Mimic"
     },
@@ -120,7 +120,7 @@
       "name": "Deadzone Rogue 2"
     },
     "4709120": {
-      "rank": 2929,
+      "rank": 2928,
       "estimate": "7k+",
       "name": "METAXIA"
     }

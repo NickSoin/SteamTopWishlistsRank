@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T03:48:40.016Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-05T08:18:27.043Z",
+  "entryCount": 30,
   "entries": {
     "532790": {
       "rank": 3,
@@ -195,6 +195,13 @@
       "estimate": "80k+",
       "name": "Crashout Crew",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3855650": {
+      "rank": 4129,
+      "estimate": "<7k",
+      "name": "Vessel",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     },
     "4704690": {
