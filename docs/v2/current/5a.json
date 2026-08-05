@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-05T16:58:27.425Z",
-  "entryCount": 15,
+  "updatedAt": "2026-08-05T21:43:51.160Z",
+  "entryCount": 16,
   "entries": {
     "1706100": {
-      "rank": 3973,
+      "rank": 3976,
       "estimate": "<7k",
       "name": "Untrue New World"
     },
     "2210150": {
-      "rank": 540,
+      "rank": 539,
       "estimate": "40k+",
       "name": "At Fate's End"
     },
     "2421080": {
-      "rank": 3872,
+      "rank": 3874,
       "estimate": "<7k",
       "name": "Synth Beasts"
     },
     "2837780": {
-      "rank": 2103,
+      "rank": 2104,
       "estimate": "7k+",
       "name": "KARJALA"
     },
     "3144340": {
-      "rank": 1958,
+      "rank": 1941,
       "estimate": "15k+",
       "name": "Cult of PiN"
     },
@@ -35,7 +35,7 @@
       "name": "Uncanny Valley: Checkpoint"
     },
     "3492120": {
-      "rank": 1705,
+      "rank": 1701,
       "estimate": "15k+",
       "name": "Legion Was Here"
     },
@@ -45,39 +45,44 @@
       "name": "Fortress Connected"
     },
     "3586760": {
-      "rank": 4813,
+      "rank": 4817,
       "estimate": "<7k",
       "name": "Construction Crew"
     },
     "3597340": {
-      "rank": 2150,
+      "rank": 2154,
       "estimate": "7k+",
       "name": "After Hell Freezes Over"
     },
     "3789590": {
-      "rank": 5175,
+      "rank": 5183,
       "estimate": "<7k",
       "name": "100 Astro Cats"
     },
     "3897080": {
-      "rank": 4187,
+      "rank": 4194,
       "estimate": "<7k",
       "name": "Dimenshot"
     },
     "4004300": {
-      "rank": 3207,
+      "rank": 3209,
       "estimate": "<7k",
       "name": "100 Chernobyl Cats"
     },
     "4211380": {
-      "rank": 4943,
+      "rank": 4945,
       "estimate": "<7k",
       "name": "Loop Tower"
     },
     "4454510": {
-      "rank": 4176,
+      "rank": 4178,
       "estimate": "<7k",
       "name": "Sock Puppet Superstar"
+    },
+    "4563410": {
+      "rank": 4701,
+      "estimate": "<7k",
+      "name": "Girlfailure Art Club"
     }
   }
 }
