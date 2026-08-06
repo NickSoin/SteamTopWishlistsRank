@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T21:43:51.160Z",
-  "entryCount": 20,
+  "updatedAt": "2026-08-06T03:47:09.140Z",
+  "entryCount": 21,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -121,6 +121,13 @@
       "name": "Castle Crashers - Painter Boss Paradise",
       "releaseDate": "2025-08-06",
       "source": "historical"
+    },
+    "4108460": {
+      "rank": 3541,
+      "estimate": "<7k",
+      "name": "PatriotMemoirs",
+      "releaseDate": "2026-08-05",
+      "source": "tracked"
     },
     "4128400": {
       "rank": 4450,

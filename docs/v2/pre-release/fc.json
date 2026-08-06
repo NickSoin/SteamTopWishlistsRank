@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T21:43:51.160Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-06T03:47:09.140Z",
+  "entryCount": 27,
   "entries": {
     "604540": {
       "rank": 12,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "糺糺縁糸（きゅうきゅうえんし）",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4598120": {
+      "rank": 9351,
+      "estimate": "<7k",
+      "name": "The Syndicate: Classified Operations",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     }
   }

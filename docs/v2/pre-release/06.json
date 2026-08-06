@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T21:43:51.160Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-06T03:47:09.140Z",
+  "entryCount": 31,
   "entries": {
     "1040200": {
       "rank": 65,
@@ -200,6 +200,13 @@
       "name": "Stray Cats in Cozy Town",
       "releaseDate": "2024-08-08",
       "source": "historical"
+    },
+    "3258560": {
+      "rank": 3598,
+      "estimate": "<7k",
+      "name": "I'm No Demonlord",
+      "releaseDate": "2026-08-05",
+      "source": "tracked"
     },
     "3701190": {
       "rank": 3742,

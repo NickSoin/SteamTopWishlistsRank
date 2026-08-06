@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T21:43:51.160Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-06T03:47:09.140Z",
+  "entryCount": 30,
   "entries": {
     "429380": {
       "rank": 36,
@@ -197,6 +197,13 @@
       "estimate": "25k+",
       "name": "The Alters: Last Variable",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "3749720": {
+      "rank": 394,
+      "estimate": "80k+",
+      "name": "The Division Resurgence",
+      "releaseDate": "2026-08-05",
       "source": "tracked"
     },
     "4317900": {

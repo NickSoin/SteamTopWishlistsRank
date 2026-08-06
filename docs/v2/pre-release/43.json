@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-05T21:43:51.160Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-06T03:47:09.140Z",
+  "entryCount": 33,
   "entries": {
     "716350": {
       "rank": 688,
@@ -163,6 +163,13 @@
       "releaseDate": "2026-02-11",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466508767"
+    },
+    "3270550": {
+      "rank": 9765,
+      "estimate": "<7k",
+      "name": "Fried chicken wings cause love fires",
+      "releaseDate": "2026-08-05",
+      "source": "tracked"
     },
     "3585520": {
       "rank": 2190,
