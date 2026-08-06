@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-06T03:47:09.140Z",
-  "entryCount": 20,
+  "updatedAt": "2026-08-06T08:20:53.573Z",
+  "entryCount": 21,
   "entries": {
     "1130380": {
-      "rank": 3404,
+      "rank": 3402,
       "estimate": "<7k",
       "name": "OZARK"
     },
@@ -15,7 +15,7 @@
       "name": "Pope Simulator"
     },
     "1641190": {
-      "rank": 4442,
+      "rank": 4445,
       "estimate": "<7k",
       "name": "Fallen Gods"
     },
@@ -25,17 +25,17 @@
       "name": "URBANO - Legends' Debut"
     },
     "2629670": {
-      "rank": 4883,
+      "rank": 4882,
       "estimate": "<7k",
       "name": "Life Blood"
     },
     "2777560": {
-      "rank": 4437,
+      "rank": 4440,
       "estimate": "<7k",
       "name": "Escape the Script"
     },
     "2967710": {
-      "rank": 4835,
+      "rank": 4836,
       "estimate": "<7k",
       "name": "Game Designer Simulator"
     },
@@ -45,17 +45,17 @@
       "name": "Bleakwood"
     },
     "3032970": {
-      "rank": 4424,
+      "rank": 4426,
       "estimate": "<7k",
       "name": "HYPERFIGHT 2"
     },
     "3040830": {
-      "rank": 2156,
+      "rank": 2157,
       "estimate": "7k+",
       "name": "MU Legend: EVO"
     },
     "3129050": {
-      "rank": 4405,
+      "rank": 4406,
       "estimate": "<7k",
       "name": "Echoes of Mora"
     },
@@ -65,7 +65,7 @@
       "name": "Skyfarm"
     },
     "3227040": {
-      "rank": 3086,
+      "rank": 3083,
       "estimate": "<7k",
       "name": "Dress the Duel"
     },
@@ -85,22 +85,27 @@
       "name": "FIGHT-QUEST"
     },
     "3756700": {
-      "rank": 670,
+      "rank": 671,
       "estimate": "40k+",
       "name": "Warhammer Age of Sigmar: Deathmaster"
     },
     "3882410": {
-      "rank": 1944,
+      "rank": 1941,
       "estimate": "15k+",
       "name": "Qliphah in Providence's Shadow"
     },
+    "3999040": {
+      "rank": 5208,
+      "estimate": "<7k",
+      "name": "Devoid"
+    },
     "4053640": {
-      "rank": 4464,
+      "rank": 4465,
       "estimate": "<7k",
       "name": "Elektronka: Bratislava"
     },
     "4131500": {
-      "rank": 2786,
+      "rank": 2787,
       "estimate": "7k+",
       "name": "Feed the Giants"
     }

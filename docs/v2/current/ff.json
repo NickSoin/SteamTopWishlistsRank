@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-06T03:47:09.140Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-06T08:20:53.573Z",
+  "entryCount": 22,
   "entries": {
     "433970": {
       "rank": 1326,
@@ -15,17 +15,17 @@
       "name": "StoryArcana"
     },
     "1953770": {
-      "rank": 2725,
+      "rank": 2726,
       "estimate": "7k+",
       "name": "Soulitaire"
     },
     "2298250": {
-      "rank": 1299,
+      "rank": 1300,
       "estimate": "25k+",
       "name": "GearGrit"
     },
     "2506520": {
-      "rank": 2467,
+      "rank": 2468,
       "estimate": "7k+",
       "name": "GHOSTLESS"
     },
@@ -35,7 +35,7 @@
       "name": "Screenbound"
     },
     "2866330": {
-      "rank": 2773,
+      "rank": 2775,
       "estimate": "7k+",
       "name": "Astera"
     },
@@ -45,7 +45,7 @@
       "name": "Icy Tower"
     },
     "3160640": {
-      "rank": 3709,
+      "rank": 3711,
       "estimate": "<7k",
       "name": "Don't Drop The Cake"
     },
@@ -55,17 +55,17 @@
       "name": "Killer Chat! - Expanded Edition"
     },
     "3383670": {
-      "rank": 2161,
+      "rank": 2162,
       "estimate": "7k+",
       "name": "Hotel Investigation 09"
     },
     "3397910": {
-      "rank": 3640,
+      "rank": 3644,
       "estimate": "<7k",
       "name": "Lootlands: Idle ARPG"
     },
     "3451980": {
-      "rank": 3170,
+      "rank": 3166,
       "estimate": "<7k",
       "name": "Soul's Remnant"
     },
@@ -80,27 +80,27 @@
       "name": "WheelMates"
     },
     "4012490": {
-      "rank": 2900,
+      "rank": 2902,
       "estimate": "7k+",
       "name": "MONOPHOBIA"
     },
     "4017880": {
-      "rank": 789,
+      "rank": 788,
       "estimate": "40k+",
       "name": "ANOMALITH"
     },
     "4084710": {
-      "rank": 395,
+      "rank": 396,
       "estimate": "80k+",
       "name": "Rayman Legends Retold"
     },
     "4158420": {
-      "rank": 2223,
+      "rank": 2224,
       "estimate": "7k+",
       "name": "Starship Command: Orion Spur"
     },
     "4244420": {
-      "rank": 4503,
+      "rank": 4505,
       "estimate": "<7k",
       "name": "DreadHaven: The Last Colony"
     },
@@ -108,6 +108,11 @@
       "rank": 2684,
       "estimate": "7k+",
       "name": "Fractal Foundry"
+    },
+    "4794170": {
+      "rank": 5189,
+      "estimate": "<7k",
+      "name": "Swarmslam"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T03:47:09.140Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-06T08:20:53.573Z",
+  "entryCount": 31,
   "entries": {
     "1170080": {
       "rank": 986,
@@ -171,6 +171,13 @@
       "name": "Class of '09: The Flip Side",
       "releaseDate": "2024-09-23",
       "source": "historical"
+    },
+    "3570110": {
+      "rank": 2778,
+      "estimate": "7k+",
+      "name": "Summoner's Gambit",
+      "releaseDate": "2026-08-06",
+      "source": "tracked"
     },
     "3835680": {
       "rank": 9506,
