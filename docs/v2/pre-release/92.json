@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T08:20:53.573Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-06T12:33:25.467Z",
+  "entryCount": 23,
   "entries": {
     "979110": {
       "rank": 38,
@@ -107,6 +107,13 @@
       "estimate": "<7k",
       "name": "The Hidden Scrolls",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "3418500": {
+      "rank": 2302,
+      "estimate": "7k+",
+      "name": "CS Manager",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "3427850": {

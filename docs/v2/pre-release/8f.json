@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T08:20:53.573Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-06T12:33:25.467Z",
+  "entryCount": 28,
   "entries": {
     "1336180": {
       "rank": 166,
@@ -143,6 +143,13 @@
       "name": "Yohane the Parhelion - NUMAZU in the MIRAGE -",
       "releaseDate": "2024-02-21",
       "source": "historical"
+    },
+    "2505590": {
+      "rank": 2402,
+      "estimate": "7k+",
+      "name": "TK Punk Gold",
+      "releaseDate": "2026-08-06",
+      "source": "tracked"
     },
     "2549200": {
       "rank": 1983,
