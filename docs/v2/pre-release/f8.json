@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T16:13:31.528Z",
-  "entryCount": 42,
+  "updatedAt": "2026-08-07T21:15:52.295Z",
+  "entryCount": 43,
   "entries": {
     "651490": {
       "rank": 270,
@@ -289,6 +289,13 @@
       "estimate": "<7k",
       "name": "Warhammer 40,000: Darktide - Skitarii Class Cosmetic Upgrade",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4563870": {
+      "rank": 1937,
+      "estimate": "15k+",
+      "name": "Miseria",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     },
     "4585830": {

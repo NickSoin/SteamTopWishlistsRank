@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T16:13:31.528Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-07T21:15:52.295Z",
+  "entryCount": 24,
   "entries": {
     "897450": {
       "rank": 15,
@@ -156,6 +156,13 @@
       "estimate": "25k+",
       "name": "Staffer Retro : A Supernatural Mystery Quest",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4516900": {
+      "rank": 9870,
+      "estimate": "<7k",
+      "name": "Smile Protocol",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     },
     "4734560": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-07T16:13:31.528Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-07T21:15:52.295Z",
+  "entryCount": 24,
   "entries": {
     "1426350": {
       "rank": 4279,
@@ -10,12 +10,12 @@
       "name": "The Depths: Prehistoric Survival"
     },
     "1532910": {
-      "rank": 2435,
+      "rank": 2436,
       "estimate": "7k+",
       "name": "Supermarket Simulator"
     },
     "1684370": {
-      "rank": 1415,
+      "rank": 1416,
       "estimate": "25k+",
       "name": "Drug Grower Simulator"
     },
@@ -30,7 +30,7 @@
       "name": "Seed of Nostalgia"
     },
     "2435810": {
-      "rank": 2355,
+      "rank": 2357,
       "estimate": "7k+",
       "name": "BLACK BOX LSS - The Merciful Savior"
     },
@@ -40,9 +40,14 @@
       "name": "Section Six Requiem"
     },
     "2661310": {
-      "rank": 1210,
+      "rank": 1213,
       "estimate": "25k+",
       "name": "Shovel Knight: Shovel of Hope DX"
+    },
+    "2682270": {
+      "rank": 5138,
+      "estimate": "<7k",
+      "name": "Pight"
     },
     "2744110": {
       "rank": 3052,
@@ -50,37 +55,37 @@
       "name": "VTumbler"
     },
     "2825330": {
-      "rank": 2218,
+      "rank": 2220,
       "estimate": "7k+",
       "name": "Dark Nest: Snake Contract"
     },
     "2825860": {
-      "rank": 204,
+      "rank": 203,
       "estimate": "80k+",
       "name": "The Sinking City 2"
     },
     "2898770": {
-      "rank": 2577,
+      "rank": 2580,
       "estimate": "7k+",
       "name": "Die Trying"
     },
     "2935710": {
-      "rank": 3624,
+      "rank": 3628,
       "estimate": "<7k",
       "name": "Disinherited"
     },
     "2975260": {
-      "rank": 300,
+      "rank": 302,
       "estimate": "80k+",
       "name": "PRISON OF HUSKS"
     },
     "2986110": {
-      "rank": 1427,
+      "rank": 1430,
       "estimate": "25k+",
       "name": "Rover's Tale"
     },
     "3369020": {
-      "rank": 2881,
+      "rank": 2882,
       "estimate": "7k+",
       "name": "Death & Faeology"
     },
@@ -95,12 +100,12 @@
       "name": "RUNNING WITH RIFLES 2"
     },
     "3967280": {
-      "rank": 2901,
+      "rank": 2903,
       "estimate": "7k+",
       "name": "Furry Adventure Club and the Temple of Pawsion 🐱"
     },
     "4006670": {
-      "rank": 3559,
+      "rank": 3560,
       "estimate": "<7k",
       "name": "Titanic: Honor & Glory"
     },
@@ -115,7 +120,7 @@
       "name": "Bradley the Badger"
     },
     "4538140": {
-      "rank": 3347,
+      "rank": 3342,
       "estimate": "<7k",
       "name": "Rehaunted"
     }
