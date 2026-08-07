@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T06:40:25.937Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-07T11:29:55.357Z",
+  "entryCount": 30,
   "entries": {
     "653060": {
       "rank": 687,
@@ -151,6 +151,13 @@
       "estimate": "15k+",
       "name": "God For A Day",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "3423990": {
+      "rank": 599,
+      "estimate": "40k+",
+      "name": "Frozen Ship",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "3825390": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T06:40:25.937Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-07T11:29:55.357Z",
+  "entryCount": 26,
   "entries": {
     "757310": {
       "rank": 43,
@@ -177,6 +177,13 @@
       "estimate": "15k+",
       "name": "Disgaea Mayhem",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4914830": {
+      "rank": 3701,
+      "estimate": "<7k",
+      "name": "Toy Shop Tidy Up",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     }
   }

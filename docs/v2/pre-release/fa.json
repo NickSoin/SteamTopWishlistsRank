@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T06:40:25.937Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-07T11:29:55.357Z",
+  "entryCount": 27,
   "entries": {
     "506480": {
       "rank": 980,
@@ -168,6 +168,13 @@
       "name": "Academy Love Saga: Tennis Angels EX",
       "releaseDate": "2025-04-18",
       "source": "historical"
+    },
+    "3698490": {
+      "rank": 5220,
+      "estimate": "<7k",
+      "name": "ACRODRIFT: FPV Drone Simulator",
+      "releaseDate": "2026-08-07",
+      "source": "tracked"
     },
     "4336300": {
       "rank": 7717,

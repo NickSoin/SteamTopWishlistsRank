@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T06:40:25.937Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-07T11:29:55.357Z",
+  "entryCount": 29,
   "entries": {
     "820520": {
       "rank": 553,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "Qianli: The Vastscape Scroll",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4513880": {
+      "rank": 3375,
+      "estimate": "<7k",
+      "name": "Could You Be a Gal Master?",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     },
     "4556010": {

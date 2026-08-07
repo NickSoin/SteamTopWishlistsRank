@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-07T06:40:25.937Z",
+  "updatedAt": "2026-08-07T11:29:55.357Z",
   "entryCount": 24,
   "entries": {
     "1066740": {
@@ -20,12 +20,12 @@
       "name": "fault - milestone two side: below"
     },
     "2168070": {
-      "rank": 1014,
+      "rank": 1015,
       "estimate": "25k+",
       "name": "Sorceress"
     },
     "2366250": {
-      "rank": 2881,
+      "rank": 2880,
       "estimate": "7k+",
       "name": "American Airport Simulator"
     },
@@ -35,12 +35,12 @@
       "name": "Montaro 2"
     },
     "2397320": {
-      "rank": 746,
+      "rank": 745,
       "estimate": "40k+",
       "name": "Bus Simulator 27"
     },
     "2440350": {
-      "rank": 3172,
+      "rank": 3169,
       "estimate": "<7k",
       "name": "Keikaku計画"
     },
@@ -50,7 +50,7 @@
       "name": "Curiosmos"
     },
     "2743260": {
-      "rank": 3954,
+      "rank": 3950,
       "estimate": "<7k",
       "name": "Nowhere"
     },
@@ -60,22 +60,22 @@
       "name": "Risk of Rain 2: Hallowed Concepts"
     },
     "3160570": {
-      "rank": 2707,
+      "rank": 2703,
       "estimate": "7k+",
       "name": "Runeomicon"
     },
     "3281970": {
-      "rank": 474,
+      "rank": 475,
       "estimate": "80k+",
       "name": "Deep Snow Delivery"
     },
     "3359110": {
-      "rank": 2486,
+      "rank": 2487,
       "estimate": "7k+",
       "name": "Total Victory: World Conflict 1939-1945"
     },
     "3417760": {
-      "rank": 3991,
+      "rank": 3990,
       "estimate": "<7k",
       "name": "Angstraum"
     },
@@ -85,7 +85,7 @@
       "name": "VANRAN"
     },
     "3462650": {
-      "rank": 5143,
+      "rank": 5133,
       "estimate": "<7k",
       "name": "Creepshow"
     },
@@ -95,22 +95,22 @@
       "name": "Gravebound"
     },
     "3936270": {
-      "rank": 2710,
+      "rank": 2709,
       "estimate": "7k+",
       "name": "It's Fine"
     },
     "3993370": {
-      "rank": 1483,
+      "rank": 1482,
       "estimate": "25k+",
       "name": "Grand Pro Circuit"
     },
     "4006130": {
-      "rank": 2736,
+      "rank": 2737,
       "estimate": "7k+",
       "name": "Under The Rooftop"
     },
     "4018380": {
-      "rank": 848,
+      "rank": 847,
       "estimate": "40k+",
       "name": "Chronoscript: The Endless End"
     },
@@ -120,7 +120,7 @@
       "name": "Broken Dagger"
     },
     "4692380": {
-      "rank": 4774,
+      "rank": 4770,
       "estimate": "<7k",
       "name": "Invariant"
     }

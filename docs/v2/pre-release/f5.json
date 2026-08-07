@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T06:40:25.937Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-07T11:29:55.357Z",
+  "entryCount": 34,
   "entries": {
     "458430": {
       "rank": 911,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "OUTCLAW",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "3362800": {
+      "rank": 7954,
+      "estimate": "<7k",
+      "name": "Project Neon",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     },
     "3684700": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T06:40:25.937Z",
-  "entryCount": 39,
+  "updatedAt": "2026-08-07T11:29:55.357Z",
+  "entryCount": 40,
   "entries": {
     "830540": {
       "rank": 1466,
@@ -270,6 +270,13 @@
       "releaseDate": "2026-02-12",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592132688"
+    },
+    "3782080": {
+      "rank": 3533,
+      "estimate": "<7k",
+      "name": "中国式地雷女",
+      "releaseDate": "2026-08-07",
+      "source": "tracked"
     },
     "4241690": {
       "rank": 4102,

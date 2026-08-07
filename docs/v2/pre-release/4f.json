@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T06:40:25.937Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-07T11:29:55.357Z",
+  "entryCount": 29,
   "entries": {
     "290100": {
       "rank": 249,
@@ -173,6 +173,13 @@
       "name": "TSAREVNA. Age of Tales",
       "releaseDate": "2027-01-01",
       "source": "historical"
+    },
+    "4005630": {
+      "rank": 4511,
+      "estimate": "<7k",
+      "name": "Tide Of Tactics",
+      "releaseDate": "2026-08-07",
+      "source": "tracked"
     },
     "4449300": {
       "rank": 5301,
