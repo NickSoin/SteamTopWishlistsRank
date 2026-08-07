@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T11:29:55.357Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-07T16:13:31.528Z",
+  "entryCount": 26,
   "entries": {
     "905530": {
       "rank": 585,
@@ -167,6 +167,13 @@
       "estimate": "40k+",
       "name": "Backyard Baseball",
       "releaseDate": "2026-07-09",
+      "source": "tracked"
+    },
+    "4092940": {
+      "rank": 6643,
+      "estimate": "<7k",
+      "name": "Lucky Shot",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     },
     "4388810": {

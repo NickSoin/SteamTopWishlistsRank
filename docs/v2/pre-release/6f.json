@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T11:29:55.357Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-07T16:13:31.528Z",
+  "entryCount": 35,
   "entries": {
     "918570": {
       "rank": 38,
@@ -216,6 +216,13 @@
       "estimate": "200k+",
       "name": "The Adventures of Elliot: The Millennium Tales",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "3738830": {
+      "rank": 524,
+      "estimate": "40k+",
+      "name": "FIRE STATE",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     },
     "4069760": {

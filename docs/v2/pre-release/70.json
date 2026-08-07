@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T11:29:55.357Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-07T16:13:31.528Z",
+  "entryCount": 27,
   "entries": {
     "752290": {
       "rank": 6262,
@@ -181,6 +181,13 @@
       "estimate": "40k+",
       "name": "Ugoku Sushi Bar",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "4450620": {
+      "rank": 160,
+      "estimate": "200k+",
+      "name": "GRAIN ROT",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     },
     "4603110": {

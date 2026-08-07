@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T11:29:55.357Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-07T16:13:31.528Z",
+  "entryCount": 34,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -161,6 +161,13 @@
       "name": "Dungeon Golf",
       "releaseDate": "2023-11-17",
       "source": "historical"
+    },
+    "2212910": {
+      "rank": 471,
+      "estimate": "80k+",
+      "name": "Expeditions: Samurai",
+      "releaseDate": "2026-08-07",
+      "source": "tracked"
     },
     "2272400": {
       "rank": 147,

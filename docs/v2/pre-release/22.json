@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T11:29:55.357Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-07T16:13:31.528Z",
+  "entryCount": 29,
   "entries": {
     "553420": {
       "rank": 45,
@@ -163,6 +163,13 @@
       "estimate": "7k+",
       "name": "Abyss Born",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4088120": {
+      "rank": 4521,
+      "estimate": "<7k",
+      "name": "SCP: ReEnter",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     },
     "4088670": {

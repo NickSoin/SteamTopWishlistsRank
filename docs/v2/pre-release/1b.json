@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T11:29:55.357Z",
-  "entryCount": 19,
+  "updatedAt": "2026-08-07T16:13:31.528Z",
+  "entryCount": 21,
   "entries": {
     "1091920": {
       "rank": 46,
@@ -121,6 +121,20 @@
       "estimate": "7k+",
       "name": "It Reaches",
       "releaseDate": "2026-05-17",
+      "source": "tracked"
+    },
+    "4202710": {
+      "rank": 3232,
+      "estimate": "<7k",
+      "name": "Hocus Focus",
+      "releaseDate": "2026-08-07",
+      "source": "tracked"
+    },
+    "4369130": {
+      "rank": 342,
+      "estimate": "80k+",
+      "name": "Chop Chop Inc.",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     },
     "4411600": {

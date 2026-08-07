@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T11:29:55.357Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-07T16:13:31.528Z",
+  "entryCount": 33,
   "entries": {
     "858710": {
       "rank": 35,
@@ -196,6 +196,13 @@
       "releaseDate": "2026-04-16",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806718596"
+    },
+    "3424990": {
+      "rank": 2962,
+      "estimate": "7k+",
+      "name": "Together in Forgotten Lands",
+      "releaseDate": "2026-08-07",
+      "source": "tracked"
     },
     "3685900": {
       "rank": 3361,
