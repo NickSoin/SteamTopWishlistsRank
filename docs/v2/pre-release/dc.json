@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T01:23:44.434Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-07T06:40:25.937Z",
+  "entryCount": 24,
   "entries": {
     "1097350": {
       "rank": 63,
@@ -167,6 +167,13 @@
       "estimate": "<7k",
       "name": "Shellshock",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4528220": {
+      "rank": 2963,
+      "estimate": "7k+",
+      "name": "MEOWMI: City Cat Chaos",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     }
   }

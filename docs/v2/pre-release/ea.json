@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T01:23:44.434Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-07T06:40:25.937Z",
+  "entryCount": 28,
   "entries": {
     "589940": {
       "rank": 1003,
@@ -159,6 +159,13 @@
       "releaseDate": "2026-03-31",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768297372"
+    },
+    "4003770": {
+      "rank": 4971,
+      "estimate": "<7k",
+      "name": "Hololive Fantasy Battle",
+      "releaseDate": "2026-08-06",
+      "source": "tracked"
     },
     "4045080": {
       "rank": 5756,

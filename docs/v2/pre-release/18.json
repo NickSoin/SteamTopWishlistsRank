@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T01:23:44.434Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-07T06:40:25.937Z",
+  "entryCount": 30,
   "entries": {
     "759080": {
       "rank": 605,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "Maximum Pile-Up!",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4011300": {
+      "rank": 2038,
+      "estimate": "7k+",
+      "name": "Super Shout Showdown",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "4339080": {

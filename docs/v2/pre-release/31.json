@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T01:23:44.434Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-07T06:40:25.937Z",
+  "entryCount": 25,
   "entries": {
     "747660": {
       "rank": 193,
@@ -131,6 +131,13 @@
       "name": "Amanda the Adventurer 2",
       "releaseDate": "2024-10-22",
       "source": "historical"
+    },
+    "3501540": {
+      "rank": 956,
+      "estimate": "40k+",
+      "name": "Spiritstead",
+      "releaseDate": "2026-08-06",
+      "source": "tracked"
     },
     "3583670": {
       "rank": 1880,

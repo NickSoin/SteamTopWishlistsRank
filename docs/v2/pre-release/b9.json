@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T01:23:44.434Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-07T06:40:25.937Z",
+  "entryCount": 27,
   "entries": {
     "1012570": {
       "rank": 585,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "EagleRoad:WorldRise",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4611990": {
+      "rank": 3554,
+      "estimate": "<7k",
+      "name": "日本事故物件監視協会3 -Japan Stigmatized Property-",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "4621540": {

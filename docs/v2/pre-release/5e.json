@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T01:23:44.434Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-07T06:40:25.937Z",
+  "entryCount": 32,
   "entries": {
     "336290": {
       "rank": 7698,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "War Pawns",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "4172180": {
+      "rank": 3849,
+      "estimate": "<7k",
+      "name": "Worship Demon",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     },
     "4295960": {

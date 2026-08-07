@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T01:23:44.434Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-07T06:40:25.937Z",
+  "entryCount": 32,
   "entries": {
     "593150": {
       "rank": 72,
@@ -204,6 +204,13 @@
       "estimate": "<7k",
       "name": "Into The Depths",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4466090": {
+      "rank": 2552,
+      "estimate": "7k+",
+      "name": "The Forbidden Tomes of Olipos",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "4533370": {
