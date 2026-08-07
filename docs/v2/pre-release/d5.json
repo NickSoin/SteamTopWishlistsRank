@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 35,
   "entries": {
     "698670": {
       "rank": 24,
@@ -242,6 +242,13 @@
       "estimate": "15k+",
       "name": "Papa's Mocharia Deluxe",
       "releaseDate": "2026-06-02",
+      "source": "tracked"
+    },
+    "4763080": {
+      "rank": 3696,
+      "estimate": "<7k",
+      "name": "Pick Ball",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     }
   }

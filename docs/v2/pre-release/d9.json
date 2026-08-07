@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 25,
   "entries": {
     "976590": {
       "rank": 197,
@@ -66,6 +66,13 @@
       "name": "Elypse",
       "releaseDate": "2023-05-17",
       "source": "historical"
+    },
+    "1725410": {
+      "rank": 2346,
+      "estimate": "7k+",
+      "name": "Talespinner",
+      "releaseDate": "2026-08-06",
+      "source": "tracked"
     },
     "1804010": {
       "rank": 13,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 24,
   "entries": {
     "666150": {
       "rank": 48,
@@ -135,6 +135,13 @@
       "estimate": "<7k",
       "name": "Flats Full of Cats: Bugs & Bolts",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "4240080": {
+      "rank": 9588,
+      "estimate": "<7k",
+      "name": "Bonereader",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "4297040": {

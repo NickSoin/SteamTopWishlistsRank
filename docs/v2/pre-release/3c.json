@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 37,
   "entries": {
     "743380": {
       "rank": 664,
@@ -233,6 +233,13 @@
       "estimate": "7k+",
       "name": "Chef Knight",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "4310610": {
+      "rank": 1467,
+      "estimate": "25k+",
+      "name": "The Skin Stapler",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "4436080": {

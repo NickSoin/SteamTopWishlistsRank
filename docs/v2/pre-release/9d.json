@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 32,
   "entries": {
     "536280": {
       "rank": 48,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "eXSert",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4866420": {
+      "rank": 4825,
+      "estimate": "<7k",
+      "name": "ゲイトトゥダイ",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     }
   }

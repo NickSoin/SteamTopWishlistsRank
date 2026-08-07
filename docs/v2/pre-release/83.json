@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 31,
   "entries": {
     "867210": {
       "rank": 90,
@@ -191,6 +191,13 @@
       "estimate": "7k+",
       "name": "Alchemist: Journey of the Soul",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "3687790": {
+      "rank": 3413,
+      "estimate": "<7k",
+      "name": "Deadliest Pigeon",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "4346450": {

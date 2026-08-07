@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 31,
   "entries": {
     "485400": {
       "rank": 112,
@@ -184,6 +184,13 @@
       "releaseDate": "2025-10-16",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772405362"
+    },
+    "3787240": {
+      "rank": 111,
+      "estimate": "200k+",
+      "name": "MARVEL Tōkon: Fighting Souls",
+      "releaseDate": "2026-08-06",
+      "source": "tracked"
     },
     "3894960": {
       "rank": 9373,

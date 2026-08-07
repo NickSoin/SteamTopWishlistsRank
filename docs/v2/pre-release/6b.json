@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 22,
   "entries": {
     "1173790": {
       "rank": 382,
@@ -108,6 +108,13 @@
       "name": "Avatar: Frontiers of Pandora™",
       "releaseDate": "2024-06-17",
       "source": "historical"
+    },
+    "2950790": {
+      "rank": 27,
+      "estimate": "600k+",
+      "name": "IRON NEST: Heavy Turret Simulator",
+      "releaseDate": "2026-08-06",
+      "source": "tracked"
     },
     "3008340": {
       "rank": 3030,

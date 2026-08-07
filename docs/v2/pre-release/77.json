@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 31,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -171,12 +171,26 @@
       "releaseDate": "2025-02-21",
       "source": "historical"
     },
+    "3141630": {
+      "rank": 1726,
+      "estimate": "15k+",
+      "name": "Montabi",
+      "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
     "3165650": {
       "rank": 735,
       "estimate": "40k+",
       "name": "Masters of Albion",
       "releaseDate": "2026-04-22",
       "source": "historical"
+    },
+    "3709180": {
+      "rank": 8898,
+      "estimate": "<7k",
+      "name": "Heroes of the Triangle: Mask Rush",
+      "releaseDate": "2026-08-06",
+      "source": "tracked"
     },
     "3920680": {
       "rank": 21,

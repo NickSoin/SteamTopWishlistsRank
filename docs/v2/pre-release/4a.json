@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 39,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 40,
   "entries": {
     "1113030": {
       "rank": 437,
@@ -267,6 +267,13 @@
       "estimate": "<7k",
       "name": "Gospodar's Tales",
       "releaseDate": "2026-07-31",
+      "source": "tracked"
+    },
+    "4434840": {
+      "rank": 4546,
+      "estimate": "<7k",
+      "name": "AI is Home - Survival Thriller",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "4652730": {

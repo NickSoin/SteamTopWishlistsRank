@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 36,
   "entries": {
     "1171690": {
       "rank": 23,
@@ -17,6 +17,13 @@
       "name": "Cabin Fever",
       "releaseDate": "2021-07-12",
       "source": "historical"
+    },
+    "1492100": {
+      "rank": 6372,
+      "estimate": "<7k",
+      "name": "Fantasy Network",
+      "releaseDate": "2026-08-06",
+      "source": "tracked"
     },
     "1493640": {
       "rank": 93,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 28,
   "entries": {
     "553420": {
       "rank": 45,
@@ -170,6 +170,13 @@
       "estimate": "15k+",
       "name": "Ludus Magnatus: Gladiator Manager Simulator",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4383700": {
+      "rank": 4532,
+      "estimate": "<7k",
+      "name": "Echobreaker",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "4448700": {

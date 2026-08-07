@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 30,
   "entries": {
     "927350": {
       "rank": 30,
@@ -184,6 +184,13 @@
       "estimate": "7k+",
       "name": "KAZ",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "3876710": {
+      "rank": 2183,
+      "estimate": "7k+",
+      "name": "Pigeon: A Love Story",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "3985290": {

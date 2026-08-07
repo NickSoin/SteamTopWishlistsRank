@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 23,
   "entries": {
     "377300": {
       "rank": 106,
@@ -159,6 +159,13 @@
       "name": "Lynked: Banner of the Spark",
       "releaseDate": "2025-05-22",
       "source": "historical"
+    },
+    "3812600": {
+      "rank": 50,
+      "estimate": "600k+",
+      "name": "ReStory: Chill Electronics Repairs",
+      "releaseDate": "2026-08-06",
+      "source": "tracked"
     }
   }
 }

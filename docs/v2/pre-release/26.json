@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 29,
   "entries": {
     "758690": {
       "rank": 7,
@@ -165,6 +165,13 @@
       "estimate": "<7k",
       "name": "Welcome to the Sharehouse! ~ domestic life with three cute girls~",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "3882150": {
+      "rank": 4000,
+      "estimate": "<7k",
+      "name": "Grim Axiom",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "4348770": {

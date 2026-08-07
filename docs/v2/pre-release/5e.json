@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 31,
   "entries": {
     "336290": {
       "rank": 7698,
@@ -191,6 +191,13 @@
       "estimate": "25k+",
       "name": "Arcane Merchant",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "4136430": {
+      "rank": 9089,
+      "estimate": "<7k",
+      "name": "War Pawns",
+      "releaseDate": "2026-08-06",
       "source": "tracked"
     },
     "4295960": {

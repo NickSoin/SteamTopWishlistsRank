@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-06T12:33:25.467Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-07T01:23:44.434Z",
+  "entryCount": 26,
   "entries": {
     "752290": {
       "rank": 6262,
@@ -161,6 +161,13 @@
       "name": "The Jackbox Megapicker",
       "releaseDate": "2024-07-29",
       "source": "historical"
+    },
+    "2890240": {
+      "rank": 607,
+      "estimate": "40k+",
+      "name": "Capy Castaway",
+      "releaseDate": "2026-08-06",
+      "source": "tracked"
     },
     "2945780": {
       "rank": 1959,
