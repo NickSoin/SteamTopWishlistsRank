@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-08T16:04:21.184Z",
-  "entryCount": 41,
+  "updatedAt": "2026-08-08T20:56:17.792Z",
+  "entryCount": 42,
   "entries": {
     "858820": {
       "rank": 1,
@@ -213,6 +213,13 @@
       "name": "Five Nights at Freddy's: Into the Pit",
       "releaseDate": "2024-08-07",
       "source": "historical"
+    },
+    "2682270": {
+      "rank": 4981,
+      "estimate": "<7k",
+      "name": "Pight",
+      "releaseDate": "2026-08-08",
+      "source": "tracked"
     },
     "2843190": {
       "rank": 16,
