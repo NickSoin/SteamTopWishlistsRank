@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-07T21:15:52.295Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-08T02:53:22.000Z",
+  "entryCount": 30,
   "entries": {
     "894020": {
       "rank": 39,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "Cat Squeeze",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4071500": {
+      "rank": 3758,
+      "estimate": "<7k",
+      "name": "Lilim Clicker",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     },
     "4623260": {
