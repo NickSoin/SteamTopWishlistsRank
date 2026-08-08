@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-08T02:53:22.000Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-08T06:13:37.992Z",
+  "entryCount": 32,
   "entries": {
     "867210": {
       "rank": 90,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Deadliest Pigeon",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "4145350": {
+      "rank": 1475,
+      "estimate": "25k+",
+      "name": "Alice and the Devil's Prison",
+      "releaseDate": "2026-08-07",
       "source": "tracked"
     },
     "4346450": {
