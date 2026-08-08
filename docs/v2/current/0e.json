@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-08T06:13:37.992Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-08T11:07:42.266Z",
+  "entryCount": 23,
   "entries": {
     "908330": {
       "rank": 4390,
@@ -25,42 +25,42 @@
       "name": "Athanasia"
     },
     "2281620": {
-      "rank": 1229,
+      "rank": 1230,
       "estimate": "25k+",
       "name": "Mars Horizon 2: The Search for Life"
     },
     "2386200": {
-      "rank": 4629,
+      "rank": 4628,
       "estimate": "<7k",
       "name": "PSI: Pressure Climbing"
     },
     "2954890": {
-      "rank": 1887,
+      "rank": 1886,
       "estimate": "15k+",
       "name": "Lady Death Demonicron"
     },
     "3195290": {
-      "rank": 4988,
+      "rank": 4987,
       "estimate": "<7k",
       "name": "Sins of a Solar Empire II - Times of War"
     },
     "3211220": {
-      "rank": 1947,
+      "rank": 1948,
       "estimate": "15k+",
       "name": "Lands of Achra"
     },
     "3374060": {
-      "rank": 4710,
+      "rank": 4712,
       "estimate": "<7k",
       "name": "Ruins of The Titan"
     },
     "3417530": {
-      "rank": 2207,
+      "rank": 2208,
       "estimate": "7k+",
       "name": "Panzer Dragoon Zwei: Remake"
     },
     "3569420": {
-      "rank": 367,
+      "rank": 368,
       "estimate": "80k+",
       "name": "Chained Beasts"
     },
@@ -70,7 +70,7 @@
       "name": "Cleaner Company"
     },
     "3936420": {
-      "rank": 2996,
+      "rank": 2997,
       "estimate": "7k+",
       "name": "Bouncemasters 2: Pengu Throw"
     },
@@ -80,17 +80,17 @@
       "name": "Cyclopean II: The Dreamlands"
     },
     "4030970": {
-      "rank": 2554,
+      "rank": 2556,
       "estimate": "7k+",
       "name": "Sweatpants Savior: Worlds Beyond"
     },
     "4066520": {
-      "rank": 2598,
+      "rank": 2596,
       "estimate": "7k+",
       "name": "Trust Your Gut"
     },
     "4088520": {
-      "rank": 1990,
+      "rank": 1988,
       "estimate": "15k+",
       "name": "MeowFactory"
     },
@@ -100,19 +100,24 @@
       "name": "Aniimo"
     },
     "4128600": {
-      "rank": 2165,
+      "rank": 2168,
       "estimate": "7k+",
       "name": "Farnia Village"
     },
     "4348910": {
-      "rank": 1350,
+      "rank": 1315,
       "estimate": "25k+",
       "name": "Probably Stolen - Cyberpunk Pawnshop Simulator"
     },
     "4596010": {
-      "rank": 2740,
+      "rank": 2729,
       "estimate": "7k+",
       "name": "Bar After Bar"
+    },
+    "4893850": {
+      "rank": 5175,
+      "estimate": "<7k",
+      "name": "The Serena Villa Files"
     }
   }
 }
