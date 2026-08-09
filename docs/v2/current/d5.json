@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-09T11:03:14.373Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-09T16:04:21.701Z",
+  "entryCount": 23,
   "entries": {
     "669270": {
-      "rank": 1072,
+      "rank": 1073,
       "estimate": "25k+",
       "name": "Momentum Mod"
     },
     "1153750": {
-      "rank": 4349,
+      "rank": 4350,
       "estimate": "<7k",
       "name": "Food Industry"
     },
@@ -25,12 +25,12 @@
       "name": "Airport Renovator"
     },
     "1568550": {
-      "rank": 2184,
+      "rank": 2186,
       "estimate": "7k+",
       "name": "FIRST"
     },
     "1944880": {
-      "rank": 3725,
+      "rank": 3723,
       "estimate": "<7k",
       "name": "Drop Command"
     },
@@ -40,7 +40,7 @@
       "name": "DEFECT"
     },
     "2723370": {
-      "rank": 3654,
+      "rank": 3659,
       "estimate": "<7k",
       "name": "Voiceless"
     },
@@ -50,27 +50,32 @@
       "name": "Son of Thanjai"
     },
     "3051160": {
-      "rank": 533,
+      "rank": 534,
       "estimate": "40k+",
       "name": "Black State"
     },
     "3164260": {
-      "rank": 2209,
+      "rank": 2213,
       "estimate": "7k+",
       "name": "GORECORE"
     },
+    "3397260": {
+      "rank": 5230,
+      "estimate": "<7k",
+      "name": "Liminal City: Axiom of Maria - Chapter One"
+    },
     "3464670": {
-      "rank": 923,
+      "rank": 924,
       "estimate": "40k+",
       "name": "Dead Watch"
     },
     "3474240": {
-      "rank": 4152,
+      "rank": 4153,
       "estimate": "<7k",
       "name": "Dracula: The Disciple"
     },
     "3516100": {
-      "rank": 133,
+      "rank": 134,
       "estimate": "200k+",
       "name": "Tenebyss"
     },
@@ -80,22 +85,27 @@
       "name": "Sublight"
     },
     "3919400": {
-      "rank": 2243,
+      "rank": 2244,
       "estimate": "7k+",
       "name": "黄莓C HuangmeiC"
     },
+    "3956980": {
+      "rank": 5211,
+      "estimate": "<7k",
+      "name": "Apidya' Special"
+    },
     "3972410": {
-      "rank": 3887,
+      "rank": 3888,
       "estimate": "<7k",
       "name": "Black Cat Book Club"
     },
     "4227270": {
-      "rank": 4602,
+      "rank": 4606,
       "estimate": "<7k",
       "name": "Litany"
     },
     "4562940": {
-      "rank": 2276,
+      "rank": 2277,
       "estimate": "7k+",
       "name": "HOPE 01"
     },
@@ -105,7 +115,7 @@
       "name": "HANDS OVER"
     },
     "4736510": {
-      "rank": 4098,
+      "rank": 4102,
       "estimate": "<7k",
       "name": "Gunvolt Chronicles: Luminous Avenger iX 3"
     }
