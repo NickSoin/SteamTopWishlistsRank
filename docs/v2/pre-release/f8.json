@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-09T16:04:21.701Z",
-  "entryCount": 43,
+  "updatedAt": "2026-08-09T21:12:34.935Z",
+  "entryCount": 44,
   "entries": {
     "651490": {
       "rank": 270,
@@ -289,6 +289,13 @@
       "estimate": "<7k",
       "name": "Warhammer 40,000: Darktide - Skitarii Class Cosmetic Upgrade",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4537400": {
+      "rank": 4287,
+      "estimate": "<7k",
+      "name": "Paper2Galgame",
+      "releaseDate": "2026-08-09",
       "source": "tracked"
     },
     "4563870": {
