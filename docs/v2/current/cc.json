@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-09T06:27:23.041Z",
-  "entryCount": 8,
+  "updatedAt": "2026-08-09T11:03:14.373Z",
+  "entryCount": 10,
   "entries": {
     "1019932": {
       "rank": 1584,
@@ -10,27 +10,32 @@
       "name": "Dark Deception Chapter 5"
     },
     "1428600": {
-      "rank": 1229,
+      "rank": 1230,
       "estimate": "25k+",
       "name": "Stormrite"
     },
     "2517080": {
-      "rank": 2122,
+      "rank": 2125,
       "estimate": "7k+",
       "name": "Psychotic Bathtub"
     },
     "3053990": {
-      "rank": 2128,
+      "rank": 2131,
       "estimate": "7k+",
       "name": "To The Grave: The Wildlands of Faenora"
     },
+    "3084370": {
+      "rank": 3397,
+      "estimate": "<7k",
+      "name": "Ricochet Abyss"
+    },
     "3312310": {
-      "rank": 3109,
+      "rank": 3112,
       "estimate": "<7k",
       "name": "Devil Slayer - Raksasi 2"
     },
     "3712480": {
-      "rank": 4624,
+      "rank": 4629,
       "estimate": "<7k",
       "name": "Oneirophobia"
     },
@@ -39,8 +44,13 @@
       "estimate": "7k+",
       "name": "Cages: Hidden Worlds"
     },
+    "4522330": {
+      "rank": 5192,
+      "estimate": "<7k",
+      "name": "Forgotten Station"
+    },
     "4582880": {
-      "rank": 1610,
+      "rank": 1611,
       "estimate": "15k+",
       "name": "Signet City"
     }

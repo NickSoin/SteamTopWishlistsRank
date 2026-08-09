@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-09T06:27:23.041Z",
+  "updatedAt": "2026-08-09T11:03:14.373Z",
   "entryCount": 20,
   "entries": {
     "904510": {
@@ -10,17 +10,17 @@
       "name": "ARTIFICIAL"
     },
     "1418380": {
-      "rank": 3454,
+      "rank": 3457,
       "estimate": "<7k",
       "name": "Forester Simulator"
     },
     "1707680": {
-      "rank": 964,
+      "rank": 966,
       "estimate": "40k+",
       "name": "Referee Simulator"
     },
     "1890780": {
-      "rank": 1796,
+      "rank": 1797,
       "estimate": "15k+",
       "name": "Szrot"
     },
@@ -35,7 +35,7 @@
       "name": "Stormbinders"
     },
     "2229910": {
-      "rank": 2261,
+      "rank": 2263,
       "estimate": "7k+",
       "name": "Demiurgos"
     },
@@ -45,12 +45,12 @@
       "name": "False Hero"
     },
     "3154150": {
-      "rank": 3297,
+      "rank": 3298,
       "estimate": "<7k",
       "name": "Spook-A-Boo"
     },
     "3279330": {
-      "rank": 3444,
+      "rank": 3448,
       "estimate": "<7k",
       "name": "Home Wars: Battlefield"
     },
@@ -60,47 +60,47 @@
       "name": "Castle V Castle"
     },
     "3570350": {
-      "rank": 2384,
+      "rank": 2388,
       "estimate": "7k+",
       "name": "Silkgrove"
     },
     "3582320": {
-      "rank": 4685,
+      "rank": 4688,
       "estimate": "<7k",
       "name": "Inazuma Eleven Team Builder"
     },
     "3730680": {
-      "rank": 2445,
+      "rank": 2451,
       "estimate": "7k+",
       "name": "Table Tactics: physics-driven tabletop battles"
     },
     "3746560": {
-      "rank": 1457,
+      "rank": 1458,
       "estimate": "25k+",
       "name": "Ethernia"
     },
     "3798840": {
-      "rank": 2458,
+      "rank": 2462,
       "estimate": "7k+",
       "name": "Reytrieve Odyssey"
     },
     "4233960": {
-      "rank": 4533,
+      "rank": 4524,
       "estimate": "<7k",
       "name": "Do Disciplinary Committee Members Dream of Succubi?"
     },
     "4329670": {
-      "rank": 4949,
+      "rank": 4937,
       "estimate": "<7k",
       "name": "Loot Dungeon"
     },
     "4614080": {
-      "rank": 108,
+      "rank": 107,
       "estimate": "200k+",
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 641,
+      "rank": 642,
       "estimate": "40k+",
       "name": "Project Rabbit"
     }

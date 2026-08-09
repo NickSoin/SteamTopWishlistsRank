@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-09T06:27:23.041Z",
-  "entryCount": 19,
+  "updatedAt": "2026-08-09T11:03:14.373Z",
+  "entryCount": 20,
   "entries": {
     "1778150": {
-      "rank": 3912,
+      "rank": 3914,
       "estimate": "<7k",
       "name": "TRIP"
     },
@@ -15,7 +15,7 @@
       "name": "Aperture: Salt Mines"
     },
     "1953850": {
-      "rank": 2812,
+      "rank": 2813,
       "estimate": "7k+",
       "name": "VICE Undercover"
     },
@@ -30,22 +30,22 @@
       "name": "Engine Simulator"
     },
     "3008590": {
-      "rank": 2145,
+      "rank": 2147,
       "estimate": "7k+",
       "name": "Relics of the Oracle"
     },
     "3042790": {
-      "rank": 3819,
+      "rank": 3822,
       "estimate": "<7k",
       "name": "Scirocco Thugs"
     },
     "3260240": {
-      "rank": 1941,
+      "rank": 1942,
       "estimate": "15k+",
       "name": "Drivers of the Apocalypse"
     },
     "3433800": {
-      "rank": 2104,
+      "rank": 2105,
       "estimate": "7k+",
       "name": "Moonbrella"
     },
@@ -55,17 +55,17 @@
       "name": "BOMBSHELL BLITZ"
     },
     "3601630": {
-      "rank": 3352,
+      "rank": 3354,
       "estimate": "<7k",
       "name": "Cosmo Tales"
     },
     "3676140": {
-      "rank": 2347,
+      "rank": 2351,
       "estimate": "7k+",
       "name": "Trawler's Wake"
     },
     "3742720": {
-      "rank": 3274,
+      "rank": 3273,
       "estimate": "<7k",
       "name": "Sobakistan: The Land of Dogs"
     },
@@ -75,17 +75,17 @@
       "name": "Tower Tactics 2"
     },
     "3981460": {
-      "rank": 2544,
+      "rank": 2543,
       "estimate": "7k+",
       "name": "Total Tank Simulator 2"
     },
     "3985330": {
-      "rank": 2084,
+      "rank": 2060,
       "estimate": "7k+",
       "name": "BURNED HORIZONS"
     },
     "4005330": {
-      "rank": 5103,
+      "rank": 5106,
       "estimate": "<7k",
       "name": "Spell Trigger"
     },
@@ -95,9 +95,14 @@
       "name": "SlashZero"
     },
     "4517190": {
-      "rank": 2285,
+      "rank": 2287,
       "estimate": "7k+",
       "name": "DoDonPachi Resurrection Reignite"
+    },
+    "4567210": {
+      "rank": 5207,
+      "estimate": "<7k",
+      "name": "One Coin Museum"
     }
   }
 }
