@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-09T02:51:06.198Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-09T06:27:23.041Z",
+  "entryCount": 26,
   "entries": {
     "897730": {
       "rank": 9,
@@ -149,6 +149,13 @@
       "estimate": "7k+",
       "name": "Echoes of Above",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4261850": {
+      "rank": 8393,
+      "estimate": "<7k",
+      "name": "掌舵人 BIZ Helmsman",
+      "releaseDate": "2026-08-08",
       "source": "tracked"
     },
     "4309280": {
