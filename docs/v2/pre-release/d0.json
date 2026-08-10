@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-09T21:12:34.935Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-10T02:44:24.825Z",
+  "entryCount": 28,
   "entries": {
     "803330": {
       "rank": 19,
@@ -143,6 +143,13 @@
       "name": "DDS x Narcos",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3340780": {
+      "rank": 4370,
+      "estimate": "<7k",
+      "name": "Kungfu Card",
+      "releaseDate": "2026-08-10",
+      "source": "tracked"
     },
     "3354200": {
       "rank": 4007,
