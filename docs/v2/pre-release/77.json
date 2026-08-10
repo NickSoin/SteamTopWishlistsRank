@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T02:44:24.825Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-10T06:52:04.284Z",
+  "entryCount": 32,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -204,6 +204,13 @@
       "estimate": "<7k",
       "name": "Model Kit Shop Simulator",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4142610": {
+      "rank": 4036,
+      "estimate": "<7k",
+      "name": "Clan and Crown",
+      "releaseDate": "2026-08-09",
       "source": "tracked"
     },
     "4164900": {
