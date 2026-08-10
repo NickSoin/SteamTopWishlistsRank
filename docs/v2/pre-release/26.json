@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T11:56:23.394Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-10T16:24:29.150Z",
+  "entryCount": 30,
   "entries": {
     "758690": {
       "rank": 7,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "Grim Axiom",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "3957050": {
+      "rank": 9041,
+      "estimate": "<7k",
+      "name": "Ballatory",
+      "releaseDate": "2026-08-10",
       "source": "tracked"
     },
     "4348770": {

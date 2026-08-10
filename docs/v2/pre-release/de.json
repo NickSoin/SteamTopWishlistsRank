@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T11:56:23.394Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-10T16:24:29.150Z",
+  "entryCount": 33,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -196,6 +196,13 @@
       "name": "Hard Time III",
       "releaseDate": "2024-09-09",
       "source": "historical"
+    },
+    "3049700": {
+      "rank": 5819,
+      "estimate": "<7k",
+      "name": "Covenant Tower",
+      "releaseDate": "2026-08-10",
+      "source": "tracked"
     },
     "3199870": {
       "rank": 2042,

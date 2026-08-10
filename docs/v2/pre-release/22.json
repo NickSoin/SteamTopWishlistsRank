@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T11:56:23.394Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-10T16:24:29.150Z",
+  "entryCount": 30,
   "entries": {
     "553420": {
       "rank": 45,
@@ -198,6 +198,13 @@
       "estimate": "7k+",
       "name": "Artesnaut",
       "releaseDate": "2026-07-12",
+      "source": "tracked"
+    },
+    "4585340": {
+      "rank": 3337,
+      "estimate": "<7k",
+      "name": "Horse Magnifier: The Full Horse",
+      "releaseDate": "2026-08-10",
       "source": "tracked"
     },
     "4756070": {

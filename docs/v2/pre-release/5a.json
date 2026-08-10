@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T11:56:23.394Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-10T16:24:29.150Z",
+  "entryCount": 28,
   "entries": {
     "990630": {
       "rank": 139,
@@ -195,6 +195,13 @@
       "estimate": "<7k",
       "name": "Alruna: End of History",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4681420": {
+      "rank": 4748,
+      "estimate": "<7k",
+      "name": "EA SPORTS™ MVP Bundle (College Football 27 Deluxe Edition & Madden NFL 27 Deluxe Edition) Pre-order Content",
+      "releaseDate": "2026-08-10",
       "source": "tracked"
     }
   }
