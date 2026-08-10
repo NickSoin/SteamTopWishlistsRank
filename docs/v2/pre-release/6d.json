@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T06:52:04.284Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-10T11:56:23.394Z",
+  "entryCount": 37,
   "entries": {
     "680420": {
       "rank": 15,
@@ -248,6 +248,13 @@
       "estimate": "<7k",
       "name": "Cozy Mining",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "4289340": {
+      "rank": 4497,
+      "estimate": "<7k",
+      "name": "UNHUMAN",
+      "releaseDate": "2026-08-10",
       "source": "tracked"
     },
     "4534200": {

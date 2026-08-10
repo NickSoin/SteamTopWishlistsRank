@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T06:52:04.284Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-10T11:56:23.394Z",
+  "entryCount": 31,
   "entries": {
     "532790": {
       "rank": 3,
@@ -195,6 +195,13 @@
       "estimate": "80k+",
       "name": "Crashout Crew",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3590360": {
+      "rank": 5161,
+      "estimate": "<7k",
+      "name": "Goodgame Empire",
+      "releaseDate": "2026-08-10",
       "source": "tracked"
     },
     "3855650": {

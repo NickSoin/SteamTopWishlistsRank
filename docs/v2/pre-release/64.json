@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T06:52:04.284Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-10T11:56:23.394Z",
+  "entryCount": 27,
   "entries": {
     "808010": {
       "rank": 992,
@@ -149,6 +149,13 @@
       "estimate": "<7k",
       "name": "Insomnia: Chapter One",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4061800": {
+      "rank": 3204,
+      "estimate": "<7k",
+      "name": "A Game About Penguins",
+      "releaseDate": "2026-08-10",
       "source": "tracked"
     },
     "4120310": {

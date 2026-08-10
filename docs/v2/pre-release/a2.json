@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T06:52:04.284Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-10T11:56:23.394Z",
+  "entryCount": 34,
   "entries": {
     "406160": {
       "rank": 927,
@@ -208,6 +208,13 @@
       "name": "SPLITGATE: Arena Reloaded ",
       "releaseDate": "2025-05-22",
       "source": "historical"
+    },
+    "3732310": {
+      "rank": 6716,
+      "estimate": "<7k",
+      "name": "Dark Succubus",
+      "releaseDate": "2026-08-10",
+      "source": "tracked"
     },
     "4020320": {
       "rank": 3487,
