@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T16:24:29.150Z",
-  "entryCount": 41,
+  "updatedAt": "2026-08-10T21:13:17.642Z",
+  "entryCount": 42,
   "entries": {
     "856890": {
       "rank": 749,
@@ -24,6 +24,13 @@
       "name": "Sid Meier's Civilization® VI: Gathering Storm",
       "releaseDate": "2019-02-13",
       "source": "historical"
+    },
+    "992840": {
+      "rank": 1005,
+      "estimate": "25k+",
+      "name": "Car Wash Simulator",
+      "releaseDate": "2026-08-10",
+      "source": "tracked"
     },
     "1269710": {
       "rank": 675,

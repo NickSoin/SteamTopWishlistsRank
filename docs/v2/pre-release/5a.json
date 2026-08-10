@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T16:24:29.150Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-10T21:13:17.642Z",
+  "entryCount": 29,
   "entries": {
     "990630": {
       "rank": 139,
@@ -182,6 +182,13 @@
       "name": "ARK: Bob's Tall Tales",
       "releaseDate": "2024-04-01",
       "source": "historical"
+    },
+    "3144340": {
+      "rank": 1463,
+      "estimate": "25k+",
+      "name": "Cult of PiN",
+      "releaseDate": "2026-08-10",
+      "source": "tracked"
     },
     "3367990": {
       "rank": 9267,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-10T16:24:29.150Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-10T21:13:17.642Z",
+  "entryCount": 22,
   "entries": {
     "473750": {
       "rank": 1726,
@@ -10,57 +10,62 @@
       "name": "Feudums"
     },
     "1332100": {
-      "rank": 353,
+      "rank": 355,
       "estimate": "80k+",
       "name": "Starship Simulator"
     },
     "1460010": {
-      "rank": 2612,
+      "rank": 2613,
       "estimate": "7k+",
       "name": "Cryospace - survival horror in space"
     },
+    "1534720": {
+      "rank": 3903,
+      "estimate": "<7k",
+      "name": "Space Boat"
+    },
     "1556070": {
-      "rank": 3231,
+      "rank": 3229,
       "estimate": "<7k",
       "name": "Nihongo Quest"
     },
     "2243690": {
-      "rank": 1340,
+      "rank": 1343,
       "estimate": "25k+",
       "name": "B.C. Piezophile"
     },
     "2415000": {
-      "rank": 2138,
+      "rank": 2137,
       "estimate": "7k+",
       "name": "BLACKOUT: Zero Point"
     },
     "2593980": {
-      "rank": 1413,
+      "rank": 1411,
       "estimate": "25k+",
       "name": "Trainfort"
     },
     "2967950": {
-      "rank": 301,
+      "rank": 300,
       "estimate": "80k+",
       "name": "The Witch's Bakery"
     },
     "3116230": {
-      "rank": 4481,
+      "rank": 4480,
       "estimate": "<7k",
       "name": "Abashed"
     },
     "3159860": {
-      "rank": 4821,
+      "rank": 4818,
       "estimate": "<7k",
       "name": "Feltopia"
     },
     "3168110": {
-      "rank": 3557,
+      "rank": 3555,
       "estimate": "<7k",
       "name": "SkyRig"
     },
     "3180000": {
-      "rank": 3077,
+      "rank": 3076,
       "estimate": "<7k",
       "name": "Blades For Hire"
     },
@@ -70,7 +75,7 @@
       "name": "Halloween: The Game"
     },
     "3695630": {
-      "rank": 1777,
+      "rank": 1776,
       "estimate": "15k+",
       "name": "Project Landsword"
     },
@@ -85,17 +90,17 @@
       "name": "Snap & Print"
     },
     "4001890": {
-      "rank": 265,
+      "rank": 263,
       "estimate": "80k+",
       "name": "How to Fish"
     },
     "4003030": {
-      "rank": 1985,
+      "rank": 1983,
       "estimate": "15k+",
       "name": "Mojo Party"
     },
     "4277440": {
-      "rank": 5096,
+      "rank": 5094,
       "estimate": "<7k",
       "name": "Apathema"
     },
@@ -105,7 +110,7 @@
       "name": "Guild Wars 3™"
     },
     "4962010": {
-      "rank": 3101,
+      "rank": 3023,
       "estimate": "<7k",
       "name": "Mall: Tidy Up Together"
     }

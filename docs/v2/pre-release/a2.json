@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T16:24:29.150Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-10T21:13:17.642Z",
+  "entryCount": 35,
   "entries": {
     "406160": {
       "rank": 927,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "STARVAULT",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4239290": {
+      "rank": 9732,
+      "estimate": "<7k",
+      "name": "Gravity Grove",
+      "releaseDate": "2026-08-10",
       "source": "tracked"
     },
     "4568060": {

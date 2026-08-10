@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T16:24:29.150Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-10T21:13:17.642Z",
+  "entryCount": 33,
   "entries": {
     "830580": {
       "rank": 135,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "Game Store Chronicle",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "3755930": {
+      "rank": 1061,
+      "estimate": "25k+",
+      "name": "The Severed Gods",
+      "releaseDate": "2026-08-10",
       "source": "tracked"
     },
     "3989960": {

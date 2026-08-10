@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-10T16:24:29.150Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-10T21:13:17.642Z",
+  "entryCount": 23,
   "entries": {
     "433970": {
       "rank": 1329,
@@ -15,17 +15,17 @@
       "name": "StoryArcana"
     },
     "1953770": {
-      "rank": 2743,
+      "rank": 2741,
       "estimate": "7k+",
       "name": "Soulitaire"
     },
     "2298250": {
-      "rank": 1282,
+      "rank": 1280,
       "estimate": "25k+",
       "name": "GearGrit"
     },
     "2506520": {
-      "rank": 2464,
+      "rank": 2460,
       "estimate": "7k+",
       "name": "GHOSTLESS"
     },
@@ -35,7 +35,7 @@
       "name": "Screenbound"
     },
     "2866330": {
-      "rank": 2785,
+      "rank": 2786,
       "estimate": "7k+",
       "name": "Astera"
     },
@@ -45,7 +45,7 @@
       "name": "Icy Tower"
     },
     "3160640": {
-      "rank": 3721,
+      "rank": 3717,
       "estimate": "<7k",
       "name": "Don't Drop The Cake"
     },
@@ -65,12 +65,12 @@
       "name": "Lootlands: Idle ARPG"
     },
     "3451980": {
-      "rank": 2888,
+      "rank": 2870,
       "estimate": "7k+",
       "name": "Soul's Remnant"
     },
     "3493410": {
-      "rank": 3811,
+      "rank": 3808,
       "estimate": "<7k",
       "name": "We Will Be Gods"
     },
@@ -78,6 +78,11 @@
       "rank": 223,
       "estimate": "80k+",
       "name": "WheelMates"
+    },
+    "4002600": {
+      "rank": 4795,
+      "estimate": "<7k",
+      "name": "My Helpers"
     },
     "4012490": {
       "rank": 2919,
@@ -100,7 +105,7 @@
       "name": "Starship Command: Orion Spur"
     },
     "4244420": {
-      "rank": 4511,
+      "rank": 4507,
       "estimate": "<7k",
       "name": "DreadHaven: The Last Colony"
     },
@@ -110,7 +115,7 @@
       "name": "Fractal Foundry"
     },
     "4794170": {
-      "rank": 4829,
+      "rank": 4821,
       "estimate": "<7k",
       "name": "Swarmslam"
     }
