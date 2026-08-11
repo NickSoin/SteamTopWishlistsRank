@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-10T21:13:17.642Z",
-  "entryCount": 20,
+  "updatedAt": "2026-08-11T02:36:22.374Z",
+  "entryCount": 21,
   "entries": {
     "1279500": {
-      "rank": 4769,
+      "rank": 4772,
       "estimate": "<7k",
       "name": "Nine Chronicles"
     },
     "1292510": {
-      "rank": 1730,
+      "rank": 1731,
       "estimate": "15k+",
       "name": "Everstorm"
     },
     "1445480": {
-      "rank": 2646,
+      "rank": 2649,
       "estimate": "7k+",
       "name": "Determinant"
     },
     "1628120": {
-      "rank": 4681,
+      "rank": 4682,
       "estimate": "<7k",
       "name": "Rollers of the Realm: Reunion"
     },
@@ -30,12 +30,12 @@
       "name": "Cognition Method"
     },
     "1806210": {
-      "rank": 5198,
+      "rank": 5200,
       "estimate": "<7k",
       "name": "Spellcraft"
     },
     "2560540": {
-      "rank": 4842,
+      "rank": 4849,
       "estimate": "<7k",
       "name": "Historia Realis: Rome"
     },
@@ -45,12 +45,12 @@
       "name": "Fable"
     },
     "3296970": {
-      "rank": 4284,
+      "rank": 4285,
       "estimate": "<7k",
       "name": "Häxeri"
     },
     "3325610": {
-      "rank": 2433,
+      "rank": 2435,
       "estimate": "7k+",
       "name": "IDET"
     },
@@ -75,17 +75,17 @@
       "name": "Clockwork Maiden"
     },
     "3591390": {
-      "rank": 4080,
+      "rank": 4083,
       "estimate": "<7k",
       "name": "Vivi and the Magical Island"
     },
     "3994120": {
-      "rank": 3428,
+      "rank": 3425,
       "estimate": "<7k",
       "name": "AI Pixel Battle"
     },
     "4001430": {
-      "rank": 3535,
+      "rank": 3538,
       "estimate": "<7k",
       "name": "Seres Universalis:Three Kingdoms"
     },
@@ -95,14 +95,19 @@
       "name": "FreeStyle Football 2"
     },
     "4047520": {
-      "rank": 4611,
+      "rank": 4612,
       "estimate": "<7k",
       "name": "Demonbane: Ascension"
     },
     "4423580": {
-      "rank": 1469,
+      "rank": 1463,
       "estimate": "25k+",
       "name": "Shadow Dungeon"
+    },
+    "4646020": {
+      "rank": 5214,
+      "estimate": "<7k",
+      "name": "Crystal Breaker Inc"
     }
   }
 }

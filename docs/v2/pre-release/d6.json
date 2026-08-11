@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-10T21:13:17.642Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-11T02:36:22.374Z",
+  "entryCount": 38,
   "entries": {
     "1067360": {
       "rank": 130,
@@ -210,6 +210,13 @@
       "name": "07GORILLAS",
       "releaseDate": "2026-03-27",
       "source": "historical"
+    },
+    "3226060": {
+      "rank": 2909,
+      "estimate": "7k+",
+      "name": "DreamEcho",
+      "releaseDate": "2026-08-10",
+      "source": "tracked"
     },
     "3301370": {
       "rank": 1857,
