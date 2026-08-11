@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-11T11:31:47.640Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-11T16:29:55.334Z",
+  "entryCount": 32,
   "entries": {
     "637050": {
       "rank": 136,
@@ -87,6 +87,13 @@
       "name": "SuperPower 3",
       "releaseDate": "2022-10-07",
       "source": "historical"
+    },
+    "1574480": {
+      "rank": 310,
+      "estimate": "80k+",
+      "name": "Agent 64: Spies Never Die",
+      "releaseDate": "2026-08-11",
+      "source": "tracked"
     },
     "1577250": {
       "rank": 666,

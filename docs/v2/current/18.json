@@ -1,113 +1,118 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-11T11:31:47.640Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-11T16:29:55.334Z",
+  "entryCount": 22,
   "entries": {
     "1420420": {
-      "rank": 4292,
+      "rank": 4281,
       "estimate": "<7k",
       "name": "Fret Smasher"
     },
     "1570840": {
-      "rank": 3745,
+      "rank": 3729,
       "estimate": "<7k",
       "name": "Tides of Tethys"
     },
     "2427530": {
-      "rank": 1965,
+      "rank": 1960,
       "estimate": "15k+",
       "name": "The Nightscarred: Forgotten Gods"
     },
     "2447370": {
-      "rank": 4010,
+      "rank": 3999,
       "estimate": "<7k",
       "name": "It Takes a Tribe"
     },
     "2707630": {
-      "rank": 4279,
+      "rank": 4265,
       "estimate": "<7k",
       "name": "Twins of Olus"
     },
     "2748420": {
-      "rank": 2786,
+      "rank": 2778,
       "estimate": "7k+",
       "name": "Ascent: Rivals"
     },
     "2817050": {
-      "rank": 5144,
+      "rank": 5132,
       "estimate": "<7k",
       "name": "FOOL'S PARADISE"
     },
     "2911200": {
-      "rank": 5238,
+      "rank": 5227,
       "estimate": "<7k",
       "name": "Lost Call"
     },
     "2915730": {
-      "rank": 565,
+      "rank": 555,
       "estimate": "40k+",
       "name": "Travelling At Night"
     },
     "2951510": {
-      "rank": 4627,
+      "rank": 4615,
       "estimate": "<7k",
       "name": "Spyrit Walker"
     },
     "3024130": {
-      "rank": 758,
+      "rank": 753,
       "estimate": "40k+",
       "name": "Pao Pao"
     },
     "3137450": {
-      "rank": 3265,
+      "rank": 3255,
       "estimate": "<7k",
       "name": "ROOST"
     },
     "3258580": {
-      "rank": 1266,
+      "rank": 1260,
       "estimate": "25k+",
       "name": "Don't Wake the Beast"
     },
     "3488640": {
-      "rank": 1711,
+      "rank": 1704,
       "estimate": "15k+",
       "name": "Magical Blush"
     },
     "3536530": {
-      "rank": 5176,
+      "rank": 5165,
       "estimate": "<7k",
       "name": "Örnöga: Idle & Loot"
     },
     "3661500": {
-      "rank": 4217,
+      "rank": 4206,
       "estimate": "<7k",
       "name": "Middle Management"
     },
     "3847450": {
-      "rank": 4149,
+      "rank": 4138,
       "estimate": "<7k",
       "name": "Project S.U.N.D.I.A.L"
     },
     "3946090": {
-      "rank": 5131,
+      "rank": 5115,
       "estimate": "<7k",
       "name": "HINO"
     },
     "4119710": {
-      "rank": 516,
+      "rank": 513,
       "estimate": "40k+",
       "name": "Give Us A Sign"
     },
     "4164790": {
-      "rank": 864,
+      "rank": 845,
       "estimate": "40k+",
       "name": "Survival Log"
     },
     "4633140": {
-      "rank": 3045,
+      "rank": 3025,
       "estimate": "<7k",
       "name": "My Singing Monsters Karaoke"
+    },
+    "4952980": {
+      "rank": 5199,
+      "estimate": "<7k",
+      "name": "My Party Is Grinding"
     }
   }
 }

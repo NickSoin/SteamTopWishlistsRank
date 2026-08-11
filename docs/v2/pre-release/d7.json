@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-11T11:31:47.640Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-11T16:29:55.334Z",
+  "entryCount": 26,
   "entries": {
     "1083790": {
       "rank": 1387,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "Convent Chronicles: Revelation",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "4548050": {
+      "rank": 6051,
+      "estimate": "<7k",
+      "name": "Imperial Wager: The Shattered Crown of Augustus",
+      "releaseDate": "2026-08-11",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-11T11:31:47.640Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-11T16:29:55.334Z",
+  "entryCount": 26,
   "entries": {
     "894620": {
       "rank": 1864,
@@ -183,6 +183,13 @@
       "estimate": "<7k",
       "name": "Dragon Ruins II: Aftermath",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4507690": {
+      "rank": 4567,
+      "estimate": "<7k",
+      "name": "Blind Touch VR",
+      "releaseDate": "2026-08-11",
       "source": "tracked"
     }
   }
