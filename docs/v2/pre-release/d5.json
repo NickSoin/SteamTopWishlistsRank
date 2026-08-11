@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-11T16:29:55.334Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-11T21:15:01.845Z",
+  "entryCount": 36,
   "entries": {
     "698670": {
       "rank": 24,
@@ -180,6 +180,13 @@
       "name": "Vultures - Scavengers of Death",
       "releaseDate": "2026-05-13",
       "source": "historical"
+    },
+    "3669020": {
+      "rank": 9452,
+      "estimate": "<7k",
+      "name": "Tiny Monster Haven",
+      "releaseDate": "2026-08-11",
+      "source": "tracked"
     },
     "3884830": {
       "rank": 47,

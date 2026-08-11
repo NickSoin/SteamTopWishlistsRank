@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-11T16:29:55.334Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-11T21:15:01.845Z",
+  "entryCount": 28,
   "entries": {
     "427940": {
       "rank": 24,
@@ -136,6 +136,13 @@
       "name": "Battlefield™ 6",
       "releaseDate": "2025-10-10",
       "source": "historical"
+    },
+    "2859970": {
+      "rank": 3268,
+      "estimate": "<7k",
+      "name": "Omen",
+      "releaseDate": "2026-08-11",
+      "source": "tracked"
     },
     "2950710": {
       "rank": 2999,
