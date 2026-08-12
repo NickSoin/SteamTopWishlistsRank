@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T11:24:03.612Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-12T16:38:30.170Z",
+  "entryCount": 37,
   "entries": {
     "787510": {
       "rank": 1631,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "Your Own Cozy Motel",
       "releaseDate": "2026-06-06",
+      "source": "tracked"
+    },
+    "4762320": {
+      "rank": 9941,
+      "estimate": "<7k",
+      "name": "Reel Room",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     }
   }

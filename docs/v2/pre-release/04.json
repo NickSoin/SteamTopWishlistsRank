@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T11:24:03.612Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-12T16:38:30.170Z",
+  "entryCount": 28,
   "entries": {
     "1159290": {
       "rank": 574,
@@ -152,6 +152,13 @@
       "name": "Dawnmaker",
       "releaseDate": "2024-07-31",
       "source": "historical"
+    },
+    "3562580": {
+      "rank": 170,
+      "estimate": "200k+",
+      "name": "Agefield High: Rock the School",
+      "releaseDate": "2026-08-12",
+      "source": "tracked"
     },
     "3791870": {
       "rank": 8084,

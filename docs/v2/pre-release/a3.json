@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T11:24:03.612Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-12T16:38:30.170Z",
+  "entryCount": 33,
   "entries": {
     "782250": {
       "rank": 368,
@@ -199,6 +199,13 @@
       "name": "The Blood of Dawnwalker",
       "releaseDate": "2026-09-02",
       "source": "historical"
+    },
+    "4216180": {
+      "rank": 2611,
+      "estimate": "7k+",
+      "name": "IGNOBLE",
+      "releaseDate": "2026-08-12",
+      "source": "tracked"
     },
     "4260530": {
       "rank": 1063,

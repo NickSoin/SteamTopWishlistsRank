@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T11:24:03.612Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-12T16:38:30.170Z",
+  "entryCount": 33,
   "entries": {
     "467740": {
       "rank": 10,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "IncreKnight",
       "releaseDate": "2026-06-03",
+      "source": "tracked"
+    },
+    "4370480": {
+      "rank": 6670,
+      "estimate": "<7k",
+      "name": "Burnstation",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "4388560": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T11:24:03.612Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-12T16:38:30.170Z",
+  "entryCount": 34,
   "entries": {
     "716350": {
       "rank": 688,
@@ -218,6 +218,13 @@
       "estimate": "<7k",
       "name": "Don't Chicken Out",
       "releaseDate": "2026-07-09",
+      "source": "tracked"
+    },
+    "4603410": {
+      "rank": 7572,
+      "estimate": "<7k",
+      "name": "NeuralBeat Studio",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "4640590": {

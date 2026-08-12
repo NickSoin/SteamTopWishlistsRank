@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T11:24:03.612Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-12T16:38:30.170Z",
+  "entryCount": 35,
   "entries": {
     "490110": {
       "rank": 24,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "Sunset Hills - Wickel Chapter",
       "releaseDate": "2026-06-29",
+      "source": "tracked"
+    },
+    "4463680": {
+      "rank": 5108,
+      "estimate": "<7k",
+      "name": "Dorts : A Darts Roguelike",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "4682760": {

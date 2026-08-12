@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T11:24:03.612Z",
-  "entryCount": 42,
+  "updatedAt": "2026-08-12T16:38:30.170Z",
+  "entryCount": 43,
   "entries": {
     "671860": {
       "rank": 22,
@@ -289,6 +289,13 @@
       "estimate": "<7k",
       "name": "Landlord Simulator",
       "releaseDate": "2026-07-06",
+      "source": "tracked"
+    },
+    "4356400": {
+      "rank": 3070,
+      "estimate": "<7k",
+      "name": "Greedy Greedy Gnomes",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "4605050": {

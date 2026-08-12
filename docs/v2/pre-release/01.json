@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T11:24:03.612Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-12T16:38:30.170Z",
+  "entryCount": 38,
   "entries": {
     "427410": {
       "rank": 31,
@@ -234,6 +234,13 @@
       "name": "Dustland Delivery",
       "releaseDate": "2024-11-05",
       "source": "historical"
+    },
+    "3164310": {
+      "rank": 2333,
+      "estimate": "7k+",
+      "name": "Verde",
+      "releaseDate": "2026-08-12",
+      "source": "tracked"
     },
     "3902750": {
       "rank": 2144,

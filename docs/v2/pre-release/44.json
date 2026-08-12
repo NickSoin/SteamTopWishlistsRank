@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T11:24:03.612Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-12T16:38:30.170Z",
+  "entryCount": 28,
   "entries": {
     "499180": {
       "rank": 937,
@@ -185,6 +185,13 @@
       "name": "KuloNiku: Bowl Up!",
       "releaseDate": "2026-04-07",
       "source": "historical"
+    },
+    "4454000": {
+      "rank": 9823,
+      "estimate": "<7k",
+      "name": "Desperate Gambling",
+      "releaseDate": "2026-08-12",
+      "source": "tracked"
     },
     "4725290": {
       "rank": 6416,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T11:24:03.612Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-12T16:38:30.170Z",
+  "entryCount": 37,
   "entries": {
     "301280": {
       "rank": 574,
@@ -235,6 +235,13 @@
       "estimate": "7k+",
       "name": "ERROR143 - Day 7",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4413460": {
+      "rank": 5002,
+      "estimate": "<7k",
+      "name": "Airport Manager Simulator 2026",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "4429120": {
