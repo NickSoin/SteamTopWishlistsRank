@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-11T21:15:01.845Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-12T03:26:23.140Z",
+  "entryCount": 25,
   "entries": {
     "377300": {
       "rank": 106,
@@ -172,6 +172,13 @@
       "estimate": "600k+",
       "name": "ReStory: Chill Electronics Repairs",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "4018740": {
+      "rank": 1697,
+      "estimate": "15k+",
+      "name": "Hariti",
+      "releaseDate": "2026-08-11",
       "source": "tracked"
     }
   }

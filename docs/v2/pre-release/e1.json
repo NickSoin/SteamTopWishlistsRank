@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-11T21:15:01.845Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-12T03:26:23.140Z",
+  "entryCount": 28,
   "entries": {
     "363860": {
       "rank": 339,
@@ -188,6 +188,13 @@
       "estimate": "40k+",
       "name": "Pathogenic",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4332200": {
+      "rank": 5627,
+      "estimate": "<7k",
+      "name": "King’s Well",
+      "releaseDate": "2026-08-11",
       "source": "tracked"
     },
     "4741530": {

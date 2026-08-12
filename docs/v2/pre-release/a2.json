@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-11T21:15:01.845Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-12T03:26:23.140Z",
+  "entryCount": 37,
   "entries": {
     "406160": {
       "rank": 927,
@@ -82,6 +82,13 @@
       "name": "Hell is Us",
       "releaseDate": "2025-09-04",
       "source": "historical"
+    },
+    "1733690": {
+      "rank": 390,
+      "estimate": "80k+",
+      "name": "Mandate Order",
+      "releaseDate": "2026-08-11",
+      "source": "tracked"
     },
     "1776590": {
       "rank": 2357,
