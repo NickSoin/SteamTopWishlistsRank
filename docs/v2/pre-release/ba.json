@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T16:38:30.170Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-12T21:31:24.428Z",
+  "entryCount": 30,
   "entries": {
     "820520": {
       "rank": 553,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Hunt: Showdown 1896 - It Takes a Rogue",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4705650": {
+      "rank": 2090,
+      "estimate": "7k+",
+      "name": "Silent Shark",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "4730360": {

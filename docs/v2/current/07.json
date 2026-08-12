@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-12T16:38:30.170Z",
-  "entryCount": 15,
+  "updatedAt": "2026-08-12T21:31:24.428Z",
+  "entryCount": 16,
   "entries": {
     "665720": {
-      "rank": 4654,
+      "rank": 4652,
       "estimate": "<7k",
       "name": "SOULBREAKER"
     },
     "1291070": {
-      "rank": 4471,
+      "rank": 4469,
       "estimate": "<7k",
       "name": "GDevelop"
     },
@@ -20,17 +20,17 @@
       "name": "Godshard Chronicles"
     },
     "1751820": {
-      "rank": 4598,
+      "rank": 4594,
       "estimate": "<7k",
       "name": "Project OutFox"
     },
     "1948420": {
-      "rank": 3161,
+      "rank": 3160,
       "estimate": "<7k",
       "name": "Center Mass: Streets of Ramadi"
     },
     "2434830": {
-      "rank": 590,
+      "rank": 591,
       "estimate": "40k+",
       "name": "Surfpunk"
     },
@@ -40,29 +40,34 @@
       "name": "Communite"
     },
     "2449690": {
-      "rank": 5092,
+      "rank": 5089,
       "estimate": "<7k",
       "name": "Underdose"
     },
     "2451040": {
-      "rank": 1483,
+      "rank": 1482,
       "estimate": "25k+",
       "name": "Scarlet Lake"
     },
     "2962320": {
-      "rank": 1502,
-      "estimate": "15k+",
+      "rank": 1500,
+      "estimate": "25k+",
       "name": "Artificial Detective"
     },
     "2964560": {
-      "rank": 1299,
+      "rank": 1300,
       "estimate": "25k+",
       "name": "Happy Bastards"
     },
     "3174780": {
-      "rank": 1438,
+      "rank": 1435,
       "estimate": "25k+",
       "name": "Deaths Of Peck"
+    },
+    "3598690": {
+      "rank": 5201,
+      "estimate": "<7k",
+      "name": "Pachinko Farm"
     },
     "3802140": {
       "rank": 599,

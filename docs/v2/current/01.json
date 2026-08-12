@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-12T16:38:30.170Z",
+  "updatedAt": "2026-08-12T21:31:24.428Z",
   "entryCount": 19,
   "entries": {
     "850870": {
-      "rank": 2920,
+      "rank": 2918,
       "estimate": "7k+",
       "name": "Hard-Life"
     },
@@ -15,7 +15,7 @@
       "name": "VUP-Simulator"
     },
     "1633850": {
-      "rank": 1051,
+      "rank": 1052,
       "estimate": "25k+",
       "name": "Jianghu Simulator"
     },
@@ -25,22 +25,22 @@
       "name": "Pathbreakers: Roaming Blades"
     },
     "1833210": {
-      "rank": 2665,
+      "rank": 2662,
       "estimate": "7k+",
       "name": "Astromine"
     },
     "2160070": {
-      "rank": 651,
+      "rank": 652,
       "estimate": "40k+",
       "name": "Forge of the Fae"
     },
     "2527970": {
-      "rank": 2476,
+      "rank": 2473,
       "estimate": "7k+",
       "name": "Sea Of Rifts"
     },
     "2640150": {
-      "rank": 2000,
+      "rank": 1997,
       "estimate": "15k+",
       "name": "Venus: The Last Ascent"
     },
@@ -50,17 +50,17 @@
       "name": "Dragon Shelter"
     },
     "3278790": {
-      "rank": 2098,
-      "estimate": "7k+",
+      "rank": 1977,
+      "estimate": "15k+",
       "name": "Precinct IX"
     },
     "3361540": {
-      "rank": 5110,
+      "rank": 5109,
       "estimate": "<7k",
       "name": "TYRONE vs COPS 2"
     },
     "3522600": {
-      "rank": 269,
+      "rank": 270,
       "estimate": "80k+",
       "name": "Demon Bluff"
     },
@@ -70,17 +70,17 @@
       "name": "Crispy Circuits"
     },
     "3635740": {
-      "rank": 4304,
+      "rank": 4302,
       "estimate": "<7k",
       "name": "Subjectivation"
     },
     "3829400": {
-      "rank": 1175,
+      "rank": 1173,
       "estimate": "25k+",
       "name": "Grand Tactician: Napoleonic Wars (1792-1815)"
     },
     "4503570": {
-      "rank": 3877,
+      "rank": 3871,
       "estimate": "<7k",
       "name": "MOLOKAUST"
     },
@@ -90,12 +90,12 @@
       "name": "KAIJECT"
     },
     "4686110": {
-      "rank": 654,
+      "rank": 655,
       "estimate": "40k+",
       "name": "Agents 404"
     },
     "4787190": {
-      "rank": 1331,
+      "rank": 1310,
       "estimate": "25k+",
       "name": "The Legend of Mala Tokmachka"
     }

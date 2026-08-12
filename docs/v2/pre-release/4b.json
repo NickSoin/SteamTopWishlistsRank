@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T16:38:30.170Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-12T21:31:24.428Z",
+  "entryCount": 34,
   "entries": {
     "936790": {
       "rank": 38,
@@ -220,6 +220,13 @@
       "name": "Madoka Magica Magia Exedra",
       "releaseDate": "2025-07-16",
       "source": "historical"
+    },
+    "4321400": {
+      "rank": 2638,
+      "estimate": "7k+",
+      "name": "Gold Up",
+      "releaseDate": "2026-08-12",
+      "source": "tracked"
     },
     "4580120": {
       "rank": 4155,
