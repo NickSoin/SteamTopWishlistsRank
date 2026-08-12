@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T03:26:23.140Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-12T06:59:35.559Z",
+  "entryCount": 33,
   "entries": {
     "532790": {
       "rank": 3,
@@ -216,6 +216,13 @@
       "estimate": "<7k",
       "name": "Vessel",
       "releaseDate": "2026-08-05",
+      "source": "tracked"
+    },
+    "4622110": {
+      "rank": 1731,
+      "estimate": "15k+",
+      "name": "我的傲娇妹妹 MY TSUNDERE SISTER",
+      "releaseDate": "2026-08-11",
       "source": "tracked"
     },
     "4704690": {
