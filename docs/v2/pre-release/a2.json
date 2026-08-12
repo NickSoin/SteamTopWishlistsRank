@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T06:59:35.559Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-12T11:24:03.612Z",
+  "entryCount": 38,
   "entries": {
     "406160": {
       "rank": 927,
@@ -256,6 +256,13 @@
       "estimate": "<7k",
       "name": "天门问剑",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4760390": {
+      "rank": 9873,
+      "estimate": "<7k",
+      "name": "ABSOLUTE TOFU",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "4778760": {

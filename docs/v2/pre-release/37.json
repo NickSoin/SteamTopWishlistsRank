@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T06:59:35.559Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-12T11:24:03.612Z",
+  "entryCount": 31,
   "entries": {
     "863500": {
       "rank": 1011,
@@ -185,6 +185,13 @@
       "name": "DevilConnection",
       "releaseDate": "2025-10-30",
       "source": "historical"
+    },
+    "3335510": {
+      "rank": 6278,
+      "estimate": "<7k",
+      "name": "Limbot",
+      "releaseDate": "2026-08-12",
+      "source": "tracked"
     },
     "3602630": {
       "rank": 3647,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T06:59:35.559Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-12T11:24:03.612Z",
+  "entryCount": 30,
   "entries": {
     "1336180": {
       "rank": 166,
@@ -177,6 +177,13 @@
       "estimate": "25k+",
       "name": "Beauties and the Stranded",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "3829280": {
+      "rank": 3198,
+      "estimate": "<7k",
+      "name": "The Merchant's Eden",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "4141350": {

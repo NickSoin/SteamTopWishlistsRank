@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T06:59:35.559Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-12T11:24:03.612Z",
+  "entryCount": 31,
   "entries": {
     "759080": {
       "rank": 605,
@@ -186,6 +186,13 @@
       "estimate": "7k+",
       "name": "Super Shout Showdown",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "4164790": {
+      "rank": 818,
+      "estimate": "40k+",
+      "name": "Survival Log",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "4339080": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T06:59:35.559Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-12T11:24:03.612Z",
+  "entryCount": 34,
   "entries": {
     "719040": {
       "rank": 20,
@@ -221,6 +221,13 @@
       "estimate": "15k+",
       "name": "BACKROOMS ANOMALY",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4200520": {
+      "rank": 4596,
+      "estimate": "<7k",
+      "name": "Rage Bait",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "4279120": {
