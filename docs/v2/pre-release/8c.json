@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T16:42:07.879Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-13T21:35:12.631Z",
+  "entryCount": 35,
   "entries": {
     "659960": {
       "rank": 821,
@@ -195,6 +195,13 @@
       "estimate": "<7k",
       "name": "Spellsy",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "4290680": {
+      "rank": 1232,
+      "estimate": "25k+",
+      "name": "Flock of the Seraphim",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "4323520": {

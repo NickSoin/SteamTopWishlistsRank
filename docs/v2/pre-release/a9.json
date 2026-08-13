@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T16:42:07.879Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-13T21:35:12.631Z",
+  "entryCount": 29,
   "entries": {
     "1172470": {
       "rank": 18,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "Mimicry!",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4622790": {
+      "rank": 4859,
+      "estimate": "<7k",
+      "name": "Pin Money",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "4724650": {

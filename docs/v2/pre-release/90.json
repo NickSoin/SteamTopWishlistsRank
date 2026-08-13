@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T16:42:07.879Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-13T21:35:12.631Z",
+  "entryCount": 26,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -169,6 +169,13 @@
       "estimate": "<7k",
       "name": "Galactic Civilizations IV: Federations & Empires",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4435760": {
+      "rank": 8832,
+      "estimate": "<7k",
+      "name": "Hellbridge",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "4583050": {

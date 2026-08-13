@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T16:42:07.879Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-13T21:35:12.631Z",
+  "entryCount": 30,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Circuit Stance",
       "releaseDate": "2026-08-12",
+      "source": "tracked"
+    },
+    "3940610": {
+      "rank": 1956,
+      "estimate": "15k+",
+      "name": "EA SPORTS™ Madden NFL 27",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "3975500": {

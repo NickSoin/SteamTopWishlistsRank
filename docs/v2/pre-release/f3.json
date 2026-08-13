@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T16:42:07.879Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-13T21:35:12.631Z",
+  "entryCount": 27,
   "entries": {
     "410740": {
       "rank": 1177,
@@ -94,6 +94,13 @@
       "name": "Apocalyptic Vibes",
       "releaseDate": "2023-03-01",
       "source": "historical"
+    },
+    "1921490": {
+      "rank": 404,
+      "estimate": "80k+",
+      "name": "Wild Blue Skies",
+      "releaseDate": "2026-08-13",
+      "source": "tracked"
     },
     "1968710": {
       "rank": 1257,

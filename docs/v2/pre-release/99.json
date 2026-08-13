@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T16:42:07.879Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-13T21:35:12.631Z",
+  "entryCount": 32,
   "entries": {
     "397540": {
       "rank": 26,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "BattleshipCrafting",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "4214610": {
+      "rank": 6104,
+      "estimate": "<7k",
+      "name": "100FRIENDS",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "4249850": {

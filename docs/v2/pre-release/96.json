@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T16:42:07.879Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-13T21:35:12.631Z",
+  "entryCount": 24,
   "entries": {
     "678390": {
       "rank": 662,
@@ -140,6 +140,13 @@
       "name": "Pharmacy Simulator",
       "releaseDate": "2024-08-30",
       "source": "historical"
+    },
+    "3394840": {
+      "rank": 215,
+      "estimate": "80k+",
+      "name": "Clawed",
+      "releaseDate": "2026-08-13",
+      "source": "tracked"
     },
     "3884970": {
       "rank": 2255,

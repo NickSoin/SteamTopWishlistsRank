@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T16:42:07.879Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-13T21:35:12.631Z",
+  "entryCount": 22,
   "entries": {
     "1091920": {
       "rank": 46,
@@ -101,6 +101,13 @@
       "name": "Utawarerumono: ZAN",
       "releaseDate": "2025-12-15",
       "source": "historical"
+    },
+    "3358340": {
+      "rank": 5077,
+      "estimate": "<7k",
+      "name": "Witchblood",
+      "releaseDate": "2026-08-13",
+      "source": "tracked"
     },
     "3588170": {
       "rank": 7754,
