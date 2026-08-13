@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T21:31:24.428Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-13T03:12:40.192Z",
+  "entryCount": 27,
   "entries": {
     "1036240": {
       "rank": 491,
@@ -153,6 +153,13 @@
       "estimate": "<7k",
       "name": "Hell Bug",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "3621330": {
+      "rank": 1837,
+      "estimate": "15k+",
+      "name": "Pro Jank Footy",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "3873780": {

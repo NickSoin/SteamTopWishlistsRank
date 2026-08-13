@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-12T21:31:24.428Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-13T03:12:40.192Z",
+  "entryCount": 22,
   "entries": {
     "1122170": {
-      "rank": 2993,
+      "rank": 2992,
       "estimate": "7k+",
       "name": "Mech Hunter"
     },
@@ -20,27 +20,27 @@
       "name": "Compound Fracture"
     },
     "1779060": {
-      "rank": 2131,
+      "rank": 2129,
       "estimate": "7k+",
       "name": "The Age of Hell"
     },
     "1925650": {
-      "rank": 625,
+      "rank": 624,
       "estimate": "40k+",
       "name": "Stars Reach"
     },
     "2370280": {
-      "rank": 1054,
+      "rank": 1053,
       "estimate": "25k+",
       "name": "Nobody's Left"
     },
     "2392420": {
-      "rank": 4192,
+      "rank": 4188,
       "estimate": "<7k",
       "name": "Wisplight"
     },
     "2431790": {
-      "rank": 2064,
+      "rank": 2063,
       "estimate": "7k+",
       "name": "Cyber Paradise"
     },
@@ -50,47 +50,47 @@
       "name": "Mortal Shell II"
     },
     "2603850": {
-      "rank": 2767,
+      "rank": 2766,
       "estimate": "7k+",
       "name": "Shadow mate ~小さな竜と適合者~"
     },
     "2640200": {
-      "rank": 1828,
+      "rank": 1823,
       "estimate": "15k+",
       "name": "Project D████"
     },
     "2886060": {
-      "rank": 3472,
+      "rank": 3471,
       "estimate": "<7k",
       "name": "The Backrooms Company"
     },
     "3155840": {
-      "rank": 4893,
+      "rank": 4892,
       "estimate": "<7k",
       "name": "Grim Hope"
     },
     "3397040": {
-      "rank": 701,
+      "rank": 700,
       "estimate": "40k+",
       "name": "Bellatores"
     },
     "3441510": {
-      "rank": 3119,
+      "rank": 3117,
       "estimate": "<7k",
       "name": "Egypt"
     },
     "3568570": {
-      "rank": 4476,
+      "rank": 4473,
       "estimate": "<7k",
       "name": "Anode Heart 2"
     },
     "3609530": {
-      "rank": 4774,
+      "rank": 4771,
       "estimate": "<7k",
       "name": "Ego League"
     },
     "3645170": {
-      "rank": 4712,
+      "rank": 4709,
       "estimate": "<7k",
       "name": "Blood Sword"
     },
@@ -100,14 +100,19 @@
       "name": "Guildrun"
     },
     "3971950": {
-      "rank": 783,
+      "rank": 782,
       "estimate": "40k+",
       "name": "In Falsus"
     },
     "4047670": {
-      "rank": 4446,
+      "rank": 4445,
       "estimate": "<7k",
       "name": "Chonky Cat"
+    },
+    "4054050": {
+      "rank": 5205,
+      "estimate": "<7k",
+      "name": "O.B.O.L"
     }
   }
 }

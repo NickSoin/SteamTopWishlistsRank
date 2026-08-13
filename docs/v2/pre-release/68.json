@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T21:31:24.428Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-13T03:12:40.192Z",
+  "entryCount": 24,
   "entries": {
     "247970": {
       "rank": 513,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Spacebolt",
       "releaseDate": "2026-07-31",
+      "source": "tracked"
+    },
+    "4736830": {
+      "rank": 3541,
+      "estimate": "<7k",
+      "name": "S.O.L School Of Labyrinth",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "4746060": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-12T21:31:24.428Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-13T03:12:40.192Z",
+  "entryCount": 30,
   "entries": {
     "669330": {
       "rank": 422,
@@ -178,6 +178,13 @@
       "name": "失业了，我获得了亿万游戏财产！",
       "releaseDate": "2024-08-08",
       "source": "historical"
+    },
+    "3397100": {
+      "rank": 3713,
+      "estimate": "<7k",
+      "name": "Eye of the Incubus",
+      "releaseDate": "2026-08-12",
+      "source": "tracked"
     },
     "4463660": {
       "rank": 9690,

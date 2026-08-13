@@ -1,61 +1,61 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-12T21:31:24.428Z",
-  "entryCount": 20,
+  "updatedAt": "2026-08-13T03:12:40.192Z",
+  "entryCount": 21,
   "entries": {
     "1163160": {
-      "rank": 4220,
+      "rank": 4219,
       "estimate": "<7k",
       "name": "Ronin 2072"
     },
     "1486940": {
-      "rank": 4884,
+      "rank": 4883,
       "estimate": "<7k",
       "name": "EarthX 2"
     },
     "1520600": {
-      "rank": 2816,
+      "rank": 2817,
       "estimate": "7k+",
       "name": "Build and Discover: America"
     },
     "1533060": {
-      "rank": 3928,
+      "rank": 3926,
       "estimate": "<7k",
       "name": "Winery Simulator"
     },
     "1742390": {
-      "rank": 3920,
+      "rank": 3919,
       "estimate": "<7k",
       "name": "Ayna: Shattered Truth"
     },
     "1983360": {
-      "rank": 3666,
+      "rank": 3665,
       "estimate": "<7k",
       "name": "Mana Valley"
     },
     "2745510": {
-      "rank": 4098,
+      "rank": 4093,
       "estimate": "<7k",
       "name": "GROWTH EXPERIMENT"
     },
     "2910280": {
-      "rank": 4783,
+      "rank": 4779,
       "estimate": "<7k",
       "name": "Peasant"
     },
     "3165340": {
-      "rank": 2988,
+      "rank": 2986,
       "estimate": "7k+",
       "name": "All Will Rise"
     },
     "3222890": {
-      "rank": 1934,
+      "rank": 1931,
       "estimate": "15k+",
       "name": "Taste of the Wind"
     },
     "3427370": {
-      "rank": 4223,
+      "rank": 4221,
       "estimate": "<7k",
       "name": "A Passing in the Night"
     },
@@ -70,39 +70,44 @@
       "name": "Pixel Gun 2"
     },
     "3938720": {
-      "rank": 4985,
+      "rank": 4982,
       "estimate": "<7k",
       "name": "Fractured Library"
     },
     "4059000": {
-      "rank": 2026,
+      "rank": 2024,
       "estimate": "7k+",
       "name": "Cozy Builder"
     },
     "4120090": {
-      "rank": 4368,
+      "rank": 4365,
       "estimate": "<7k",
       "name": "Ashbound: Crown of Sin"
     },
     "4253570": {
-      "rank": 620,
+      "rank": 618,
       "estimate": "40k+",
       "name": "Reshine"
     },
     "4267780": {
-      "rank": 3743,
+      "rank": 3738,
       "estimate": "<7k",
       "name": "Acting Out"
     },
     "4442130": {
-      "rank": 4282,
+      "rank": 4279,
       "estimate": "<7k",
       "name": "Kawashima Internship ~A Boy's Isolated Island Life~"
     },
     "4699770": {
-      "rank": 4118,
+      "rank": 4113,
       "estimate": "<7k",
       "name": "Babel Legacy"
+    },
+    "4868390": {
+      "rank": 5223,
+      "estimate": "<7k",
+      "name": "Mini Monuments"
     }
   }
 }
