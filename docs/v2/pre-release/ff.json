@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T06:56:57.616Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-13T11:41:41.341Z",
+  "entryCount": 32,
   "entries": {
     "553540": {
       "rank": 73,
@@ -172,6 +172,13 @@
       "estimate": "7k+",
       "name": "Plum Road Tea Dream",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "3451980": {
+      "rank": 2486,
+      "estimate": "7k+",
+      "name": "Soul's Remnant",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "3484850": {

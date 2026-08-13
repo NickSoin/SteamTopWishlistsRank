@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T06:56:57.616Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-13T11:41:41.341Z",
+  "entryCount": 34,
   "entries": {
     "1119840": {
       "rank": 247,
@@ -185,6 +185,13 @@
       "name": "Fantasy World Manager",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3564330": {
+      "rank": 5113,
+      "estimate": "<7k",
+      "name": "The Core",
+      "releaseDate": "2026-08-13",
+      "source": "tracked"
     },
     "4038160": {
       "rank": 3645,

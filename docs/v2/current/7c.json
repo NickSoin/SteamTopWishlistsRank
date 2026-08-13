@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-13T06:56:57.616Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-13T11:41:41.341Z",
+  "entryCount": 22,
   "entries": {
     "727690": {
-      "rank": 4867,
+      "rank": 4866,
       "estimate": "<7k",
       "name": "PAIN-TO-WIN"
     },
     "1186430": {
-      "rank": 600,
+      "rank": 599,
       "estimate": "40k+",
       "name": "I.G.I. Origins"
     },
     "1301820": {
-      "rank": 3688,
+      "rank": 3686,
       "estimate": "<7k",
       "name": "Anomaly Hunter"
     },
@@ -30,7 +30,7 @@
       "name": "Miner Rogue"
     },
     "2178120": {
-      "rank": 2619,
+      "rank": 2618,
       "estimate": "7k+",
       "name": "Return to Paradise"
     },
@@ -40,47 +40,47 @@
       "name": "WILD Tactics"
     },
     "2414330": {
-      "rank": 4655,
+      "rank": 4653,
       "estimate": "<7k",
       "name": "The Soulwalkers"
     },
     "2537020": {
-      "rank": 2334,
+      "rank": 2333,
       "estimate": "7k+",
       "name": "ShelfLife: Art School Detective"
     },
     "2560330": {
-      "rank": 3746,
+      "rank": 3745,
       "estimate": "<7k",
       "name": "Ironmarked"
     },
     "2836990": {
-      "rank": 2625,
+      "rank": 2620,
       "estimate": "7k+",
       "name": "Drunken Rogue"
     },
     "3082660": {
-      "rank": 4863,
+      "rank": 4860,
       "estimate": "<7k",
       "name": "Akaneiro ni Somaru Saka"
     },
     "3429270": {
-      "rank": 3961,
+      "rank": 3960,
       "estimate": "<7k",
       "name": "Revenge of the Firstborn"
     },
     "3581730": {
-      "rank": 356,
+      "rank": 354,
       "estimate": "80k+",
       "name": "SHADE Protocol"
     },
     "3980250": {
-      "rank": 4315,
+      "rank": 4313,
       "estimate": "<7k",
       "name": "RATSHOT"
     },
     "4002270": {
-      "rank": 3608,
+      "rank": 3610,
       "estimate": "<7k",
       "name": "FrontWars"
     },
@@ -90,24 +90,29 @@
       "name": "KinForge"
     },
     "4203280": {
-      "rank": 2737,
+      "rank": 2734,
       "estimate": "7k+",
       "name": "Luenna: School of the Magi"
     },
     "4351460": {
-      "rank": 4712,
+      "rank": 4707,
       "estimate": "<7k",
       "name": "BigWall：WildKnight"
     },
     "4364150": {
-      "rank": 3197,
+      "rank": 3193,
       "estimate": "<7k",
       "name": "Need for Seat"
     },
     "4513060": {
-      "rank": 1402,
+      "rank": 1400,
       "estimate": "25k+",
       "name": "Yandere Virus"
+    },
+    "4708130": {
+      "rank": 5218,
+      "estimate": "<7k",
+      "name": "Crowns and Pawns: Amber Road"
     }
   }
 }
