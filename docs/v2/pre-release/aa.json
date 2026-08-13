@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T11:41:41.341Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-13T16:42:07.879Z",
+  "entryCount": 31,
   "entries": {
     "924750": {
       "rank": 198,
@@ -124,6 +124,13 @@
       "name": "theHunter: Call of the Wild™ - Emerald Coast Australia",
       "releaseDate": "2023-06-20",
       "source": "historical"
+    },
+    "2438110": {
+      "rank": 1377,
+      "estimate": "25k+",
+      "name": "Emergency Room Simulator",
+      "releaseDate": "2026-08-13",
+      "source": "tracked"
     },
     "2487480": {
       "rank": 567,

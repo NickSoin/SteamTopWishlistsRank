@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T11:41:41.341Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-13T16:42:07.879Z",
+  "entryCount": 35,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -161,6 +161,13 @@
       "name": "Paint the Town Red VR",
       "releaseDate": "2024-03-14",
       "source": "historical"
+    },
+    "2542020": {
+      "rank": 273,
+      "estimate": "80k+",
+      "name": "Duskfade",
+      "releaseDate": "2026-08-13",
+      "source": "tracked"
     },
     "2591280": {
       "rank": 420,

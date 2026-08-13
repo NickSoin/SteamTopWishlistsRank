@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T11:41:41.341Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-13T16:42:07.879Z",
+  "entryCount": 26,
   "entries": {
     "629820": {
       "rank": 21,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "Vampire Hunter: Nightrise",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4208140": {
+      "rank": 798,
+      "estimate": "40k+",
+      "name": "Defender of the Crown: The Legend Returns",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "4689420": {

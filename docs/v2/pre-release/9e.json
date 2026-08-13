@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T11:41:41.341Z",
+  "updatedAt": "2026-08-13T16:42:07.879Z",
   "entryCount": 33,
   "entries": {
     "661680": {
@@ -214,11 +214,11 @@
       "source": "tracked"
     },
     "2764460": {
-      "rank": 24,
-      "estimate": "600k+",
+      "rank": 326,
+      "estimate": "80k+",
       "name": "Sandustry",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-08-13",
+      "source": "tracked"
     },
     "3553630": {
       "rank": 7747,

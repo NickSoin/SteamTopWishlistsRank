@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T11:41:41.341Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-13T16:42:07.879Z",
+  "entryCount": 28,
   "entries": {
     "506480": {
       "rank": 980,
@@ -174,6 +174,13 @@
       "estimate": "<7k",
       "name": "ACRODRIFT: FPV Drone Simulator",
       "releaseDate": "2026-08-07",
+      "source": "tracked"
+    },
+    "4162260": {
+      "rank": 3784,
+      "estimate": "<7k",
+      "name": "Pizza Man Simulator",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "4336300": {

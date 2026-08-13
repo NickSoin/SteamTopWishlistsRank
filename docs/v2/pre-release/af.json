@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T11:41:41.341Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-13T16:42:07.879Z",
+  "entryCount": 36,
   "entries": {
     "714370": {
       "rank": 8,
@@ -184,6 +184,13 @@
       "estimate": "15k+",
       "name": "Reap and Rush",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "3167920": {
+      "rank": 39,
+      "estimate": "600k+",
+      "name": "Low-Budget Repairs",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "3172290": {

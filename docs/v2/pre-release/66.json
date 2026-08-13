@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T11:41:41.341Z",
-  "entryCount": 41,
+  "updatedAt": "2026-08-13T16:42:07.879Z",
+  "entryCount": 42,
   "entries": {
     "976890": {
       "rank": 70,
@@ -253,6 +253,13 @@
       "estimate": "<7k",
       "name": "When Stars Collide",
       "releaseDate": "2026-06-27",
+      "source": "tracked"
+    },
+    "3967130": {
+      "rank": 1901,
+      "estimate": "15k+",
+      "name": "Wild West Miner Simulator",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "4217690": {

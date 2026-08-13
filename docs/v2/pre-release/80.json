@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T11:41:41.341Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-13T16:42:07.879Z",
+  "entryCount": 35,
   "entries": {
     "1112390": {
       "rank": 2418,
@@ -206,6 +206,13 @@
       "name": "Crimson Desert",
       "releaseDate": "2026-03-19",
       "source": "historical"
+    },
+    "3605090": {
+      "rank": 2025,
+      "estimate": "7k+",
+      "name": "SLAMPUNKS",
+      "releaseDate": "2026-08-13",
+      "source": "tracked"
     },
     "3816030": {
       "rank": 37,

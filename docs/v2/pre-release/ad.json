@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T11:41:41.341Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-13T16:42:07.879Z",
+  "entryCount": 35,
   "entries": {
     "658920": {
       "rank": 716,
@@ -206,6 +206,13 @@
       "name": "Europa Universalis V",
       "releaseDate": "2025-11-04",
       "source": "historical"
+    },
+    "3962460": {
+      "rank": 4828,
+      "estimate": "<7k",
+      "name": "THE CANON OF BALLS",
+      "releaseDate": "2026-08-13",
+      "source": "tracked"
     },
     "3987560": {
       "rank": 3042,

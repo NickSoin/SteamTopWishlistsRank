@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T11:41:41.341Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-13T16:42:07.879Z",
+  "entryCount": 34,
   "entries": {
     "1238450": {
       "rank": 1566,
@@ -233,6 +233,13 @@
       "name": "Steam Controller",
       "releaseDate": "2026-05-04",
       "source": "historical"
+    },
+    "4244210": {
+      "rank": 9961,
+      "estimate": "<7k",
+      "name": "Open The Gate: Just A Little",
+      "releaseDate": "2026-08-13",
+      "source": "tracked"
     },
     "4530780": {
       "rank": 2967,
