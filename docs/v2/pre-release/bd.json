@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T03:12:40.192Z",
-  "entryCount": 45,
+  "updatedAt": "2026-08-13T06:56:57.616Z",
+  "entryCount": 46,
   "entries": {
     "347800": {
       "rank": 198,
@@ -291,6 +291,13 @@
       "estimate": "<7k",
       "name": "Whack-A-Monster",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "3417140": {
+      "rank": 1713,
+      "estimate": "15k+",
+      "name": "IGS Classic Arcade Collection",
+      "releaseDate": "2026-08-12",
       "source": "tracked"
     },
     "3932890": {
