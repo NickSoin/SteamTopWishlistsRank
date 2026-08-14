@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-14T16:19:17.238Z",
-  "entryCount": 20,
+  "updatedAt": "2026-08-14T20:53:46.101Z",
+  "entryCount": 21,
   "entries": {
     "1053900": {
       "rank": 577,
@@ -15,37 +15,37 @@
       "name": "Kriegsfront Tactics"
     },
     "1664720": {
-      "rank": 4915,
+      "rank": 4916,
       "estimate": "<7k",
       "name": "MOJITO Woody's Rescue"
     },
     "1725290": {
-      "rank": 5091,
+      "rank": 5089,
       "estimate": "<7k",
       "name": "Final Vanguard"
     },
     "1879250": {
-      "rank": 761,
+      "rank": 763,
       "estimate": "40k+",
       "name": "Teatopia"
     },
     "2354640": {
-      "rank": 3310,
+      "rank": 3311,
       "estimate": "<7k",
       "name": "DIESELDOME: Ultraviolent Gladiator Shooter"
     },
     "2446660": {
-      "rank": 1673,
+      "rank": 1671,
       "estimate": "15k+",
       "name": "Dragonscale Monastery"
     },
     "2559740": {
-      "rank": 990,
+      "rank": 992,
       "estimate": "40k+",
       "name": "Tower Of Tears"
     },
     "2568890": {
-      "rank": 4309,
+      "rank": 4311,
       "estimate": "<7k",
       "name": "DRINKRIME"
     },
@@ -54,8 +54,13 @@
       "estimate": "80k+",
       "name": "Woodo"
     },
+    "2862770": {
+      "rank": 3599,
+      "estimate": "<7k",
+      "name": "星海乐章 | GALIX: NewHorizons | 星の旅：億万年の絆"
+    },
     "2983480": {
-      "rank": 4026,
+      "rank": 4024,
       "estimate": "<7k",
       "name": "Cinema Manager Simulator"
     },
@@ -80,12 +85,12 @@
       "name": "Climbing Gym Simulator"
     },
     "3661400": {
-      "rank": 3041,
+      "rank": 3043,
       "estimate": "<7k",
       "name": "Gourdlets Together"
     },
     "3800010": {
-      "rank": 5147,
+      "rank": 5146,
       "estimate": "<7k",
       "name": "Abyssal Rust"
     },
@@ -95,12 +100,12 @@
       "name": "DownSouth"
     },
     "4337230": {
-      "rank": 4615,
+      "rank": 4617,
       "estimate": "<7k",
       "name": "Midnight Train: New Moon"
     },
     "4769040": {
-      "rank": 4707,
+      "rank": 4710,
       "estimate": "<7k",
       "name": "HIVESWAP: ACT 3"
     }

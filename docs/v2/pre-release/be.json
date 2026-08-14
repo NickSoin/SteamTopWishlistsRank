@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T16:19:17.238Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-14T20:53:46.101Z",
+  "entryCount": 35,
   "entries": {
     "733110": {
       "rank": 724,
@@ -124,6 +124,13 @@
       "name": "STORY OF SEASONS: A Wonderful Life",
       "releaseDate": "2023-06-27",
       "source": "historical"
+    },
+    "2238400": {
+      "rank": 3490,
+      "estimate": "<7k",
+      "name": "PizzaBoy",
+      "releaseDate": "2026-08-14",
+      "source": "tracked"
     },
     "2278790": {
       "rank": 2409,

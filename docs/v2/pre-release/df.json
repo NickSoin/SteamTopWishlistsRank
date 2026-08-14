@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T16:19:17.238Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-14T20:53:46.101Z",
+  "entryCount": 31,
   "entries": {
     "990080": {
       "rank": 1,
@@ -200,6 +200,13 @@
       "estimate": "7k+",
       "name": "Doomsday Diner",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4516880": {
+      "rank": 9829,
+      "estimate": "<7k",
+      "name": "Unusual Tales: After Bark",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "4568980": {
