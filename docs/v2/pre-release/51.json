@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T03:17:04.448Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-14T07:06:12.322Z",
+  "entryCount": 34,
   "entries": {
     "467740": {
       "rank": 10,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "Fun Park Simulator",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4529440": {
+      "rank": 1587,
+      "estimate": "15k+",
+      "name": "FD 27: Direct Your Football Club",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "4775410": {

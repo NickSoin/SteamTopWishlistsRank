@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T03:17:04.448Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-14T07:06:12.322Z",
+  "entryCount": 35,
   "entries": {
     "914890": {
       "rank": 644,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Koko's Cafe",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "3584920": {
+      "rank": 4485,
+      "estimate": "<7k",
+      "name": "Chinese Street Food Legend",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "4196120": {

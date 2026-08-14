@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T03:17:04.448Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-14T07:06:12.322Z",
+  "entryCount": 32,
   "entries": {
     "850170": {
       "rank": 394,
@@ -177,6 +177,13 @@
       "estimate": "25k+",
       "name": "Treasure Beach",
       "releaseDate": "2026-06-20",
+      "source": "tracked"
+    },
+    "4054420": {
+      "rank": 8161,
+      "estimate": "<7k",
+      "name": "Kiss And Cry：我的女友脑子有问题",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "4111600": {
