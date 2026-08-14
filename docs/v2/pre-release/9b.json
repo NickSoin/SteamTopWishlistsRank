@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T11:36:18.830Z",
-  "entryCount": 46,
+  "updatedAt": "2026-08-14T16:19:17.238Z",
+  "entryCount": 47,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -275,6 +275,13 @@
       "name": "Recycling Center Simulator",
       "releaseDate": "2024-10-02",
       "source": "historical"
+    },
+    "3893560": {
+      "rank": 4913,
+      "estimate": "<7k",
+      "name": "Patisserie Simulator",
+      "releaseDate": "2026-08-14",
+      "source": "tracked"
     },
     "3936610": {
       "rank": 1784,

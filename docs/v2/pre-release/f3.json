@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T11:36:18.830Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-14T16:19:17.238Z",
+  "entryCount": 28,
   "entries": {
     "410740": {
       "rank": 1177,
@@ -185,6 +185,13 @@
       "name": "Deadly Delivery",
       "releaseDate": "2025-12-04",
       "source": "historical"
+    },
+    "4271680": {
+      "rank": 3703,
+      "estimate": "<7k",
+      "name": "outpost4",
+      "releaseDate": "2026-08-14",
+      "source": "tracked"
     },
     "4641690": {
       "rank": 3565,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T11:36:18.830Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-14T16:19:17.238Z",
+  "entryCount": 32,
   "entries": {
     "927350": {
       "rank": 30,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "StellarUniversity:FurryHearts",
       "releaseDate": "2026-07-01",
+      "source": "tracked"
+    },
+    "4632540": {
+      "rank": 2330,
+      "estimate": "7k+",
+      "name": "Fellwood",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "4639040": {

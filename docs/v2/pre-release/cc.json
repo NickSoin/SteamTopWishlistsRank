@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T11:36:18.830Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-14T16:19:17.238Z",
+  "entryCount": 26,
   "entries": {
     "659300": {
       "rank": 3018,
@@ -168,6 +168,13 @@
       "name": "Kokoro Kitchen",
       "releaseDate": "2025-10-17",
       "source": "historical"
+    },
+    "3084370": {
+      "rank": 3054,
+      "estimate": "<7k",
+      "name": "Ricochet Abyss",
+      "releaseDate": "2026-08-14",
+      "source": "tracked"
     },
     "3172660": {
       "rank": 35,

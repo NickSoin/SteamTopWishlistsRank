@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T11:36:18.830Z",
-  "entryCount": 46,
+  "updatedAt": "2026-08-14T16:19:17.238Z",
+  "entryCount": 47,
   "entries": {
     "347800": {
       "rank": 198,
@@ -136,6 +136,13 @@
       "name": "Demonologist",
       "releaseDate": "2023-09-25",
       "source": "historical"
+    },
+    "1939390": {
+      "rank": 2090,
+      "estimate": "7k+",
+      "name": "Dino Party",
+      "releaseDate": "2026-08-14",
+      "source": "tracked"
     },
     "1975660": {
       "rank": 1534,

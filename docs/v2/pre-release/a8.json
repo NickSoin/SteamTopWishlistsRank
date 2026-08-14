@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T11:36:18.830Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-14T16:19:17.238Z",
+  "entryCount": 31,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "FLASH AND DIE",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "4002450": {
+      "rank": 3722,
+      "estimate": "<7k",
+      "name": "Italian Pizza Simulator",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "4255580": {

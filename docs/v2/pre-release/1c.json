@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T11:36:18.830Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-14T16:19:17.238Z",
+  "entryCount": 25,
   "entries": {
     "897450": {
       "rank": 15,
@@ -156,6 +156,13 @@
       "estimate": "25k+",
       "name": "Staffer Retro : A Supernatural Mystery Quest",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4042160": {
+      "rank": 754,
+      "estimate": "40k+",
+      "name": "Static Dread: The Submarine",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "4516900": {

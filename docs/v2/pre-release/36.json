@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T11:36:18.830Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-14T16:19:17.238Z",
+  "entryCount": 38,
   "entries": {
     "694990": {
       "rank": 49,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "Blue Wyrm",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4265570": {
+      "rank": 3610,
+      "estimate": "<7k",
+      "name": "Parking in Tight Spaces",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "4280540": {
