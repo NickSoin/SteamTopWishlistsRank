@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T21:35:12.631Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-14T03:17:04.448Z",
+  "entryCount": 25,
   "entries": {
     "1097350": {
       "rank": 63,
@@ -139,6 +139,13 @@
       "estimate": "<7k",
       "name": "Ariokan - create your cards, break the Meta",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "3846480": {
+      "rank": 1996,
+      "estimate": "15k+",
+      "name": "PLATONICA SPACE",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "4446010": {

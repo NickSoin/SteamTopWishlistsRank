@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T21:35:12.631Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-14T03:17:04.448Z",
+  "entryCount": 33,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Vampire: The Masquerade® - Bloodlines™ 2 - The Flower & the Flame",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4141900": {
+      "rank": 5265,
+      "estimate": "<7k",
+      "name": "The Corrupted",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "4148600": {

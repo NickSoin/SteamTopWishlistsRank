@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T21:35:12.631Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-14T03:17:04.448Z",
+  "entryCount": 35,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -198,6 +198,13 @@
       "estimate": "25k+",
       "name": "Besiege: The Broken Beyond",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "3818020": {
+      "rank": 1271,
+      "estimate": "25k+",
+      "name": "Evil School",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "3828980": {

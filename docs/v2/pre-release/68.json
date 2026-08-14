@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T21:35:12.631Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-14T03:17:04.448Z",
+  "entryCount": 25,
   "entries": {
     "247970": {
       "rank": 513,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "The Organ Woman | 臓器女",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4855450": {
+      "rank": 2678,
+      "estimate": "7k+",
+      "name": "不心动才有鬼",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     }
   }

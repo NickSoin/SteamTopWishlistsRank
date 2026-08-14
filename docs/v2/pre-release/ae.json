@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-13T21:35:12.631Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-14T03:17:04.448Z",
+  "entryCount": 34,
   "entries": {
     "593150": {
       "rank": 72,
@@ -204,6 +204,13 @@
       "estimate": "<7k",
       "name": "Into The Depths",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4182640": {
+      "rank": 4120,
+      "estimate": "<7k",
+      "name": "Babu Me Baby!",
+      "releaseDate": "2026-08-13",
       "source": "tracked"
     },
     "4246300": {
