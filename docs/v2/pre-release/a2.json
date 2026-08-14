@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T07:06:12.322Z",
-  "entryCount": 38,
+  "updatedAt": "2026-08-14T11:36:18.830Z",
+  "entryCount": 39,
   "entries": {
     "406160": {
       "rank": 927,
@@ -270,6 +270,13 @@
       "estimate": "<7k",
       "name": "プトリカ 2nd.cut:For the Exquisite Attire Soundtrack",
       "releaseDate": "2026-06-06",
+      "source": "tracked"
+    },
+    "4950470": {
+      "rank": 1269,
+      "estimate": "25k+",
+      "name": "Tidy Up Together",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     }
   }

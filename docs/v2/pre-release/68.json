@@ -1,14 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T07:06:12.322Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-14T11:36:18.830Z",
+  "entryCount": 26,
   "entries": {
     "247970": {
       "rank": 513,
       "estimate": "40k+",
       "name": "Korea. IL-2 Series",
       "releaseDate": "2026-08-04",
+      "source": "tracked"
+    },
+    "782260": {
+      "rank": 727,
+      "estimate": "40k+",
+      "name": "Rogue Eclipse",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "949230": {

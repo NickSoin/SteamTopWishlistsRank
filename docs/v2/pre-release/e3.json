@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T07:06:12.322Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-14T11:36:18.830Z",
+  "entryCount": 34,
   "entries": {
     "830580": {
       "rank": 135,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Atomcraft",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "3091140": {
+      "rank": 280,
+      "estimate": "80k+",
+      "name": "Lootbound",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "3110760": {

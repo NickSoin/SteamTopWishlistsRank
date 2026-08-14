@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T07:06:12.322Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-14T11:36:18.830Z",
+  "entryCount": 24,
   "entries": {
     "832360": {
       "rank": 188,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Prism Wilds",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4403010": {
+      "rank": 4893,
+      "estimate": "<7k",
+      "name": "Pegs X Stickers",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "4741570": {
