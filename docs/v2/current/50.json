@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-15T05:59:45.517Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-15T10:55:29.206Z",
+  "entryCount": 24,
   "entries": {
     "968770": {
-      "rank": 4841,
+      "rank": 4850,
       "estimate": "<7k",
       "name": "Iron Vulture"
     },
     "1188410": {
-      "rank": 2214,
+      "rank": 2216,
       "estimate": "7k+",
       "name": "Mouseward"
     },
@@ -20,7 +20,7 @@
       "name": "Espiocracy"
     },
     "1826400": {
-      "rank": 3138,
+      "rank": 3140,
       "estimate": "<7k",
       "name": "CRAVE"
     },
@@ -30,7 +30,7 @@
       "name": "Everbloom"
     },
     "2184080": {
-      "rank": 2114,
+      "rank": 2115,
       "estimate": "7k+",
       "name": "Echo Weaver"
     },
@@ -40,37 +40,37 @@
       "name": "NEO BERLIN 2087"
     },
     "2340460": {
-      "rank": 1176,
+      "rank": 1175,
       "estimate": "25k+",
       "name": "ONE WAY HOME"
     },
     "2387740": {
-      "rank": 3164,
+      "rank": 3166,
       "estimate": "<7k",
       "name": "Light of Atlantis"
     },
     "2459030": {
-      "rank": 1182,
+      "rank": 1183,
       "estimate": "25k+",
       "name": "Locator: The Search for Abigail Lidari"
     },
     "2536140": {
-      "rank": 2652,
+      "rank": 2651,
       "estimate": "7k+",
       "name": "Red Dust Colony"
     },
     "2842720": {
-      "rank": 3492,
+      "rank": 3495,
       "estimate": "<7k",
       "name": "TOONSOULS"
     },
     "2894990": {
-      "rank": 2814,
+      "rank": 2816,
       "estimate": "7k+",
       "name": "Trizna"
     },
     "3138060": {
-      "rank": 4282,
+      "rank": 4283,
       "estimate": "<7k",
       "name": "Esport Manager: Road To Major"
     },
@@ -80,7 +80,7 @@
       "name": "EXODUS"
     },
     "3345260": {
-      "rank": 1896,
+      "rank": 1897,
       "estimate": "15k+",
       "name": "Empire in Decay"
     },
@@ -90,7 +90,7 @@
       "name": "Planetbase 2"
     },
     "3973160": {
-      "rank": 1520,
+      "rank": 1521,
       "estimate": "15k+",
       "name": "Crimson Freedom"
     },
@@ -100,24 +100,29 @@
       "name": "Slayblade"
     },
     "4365940": {
-      "rank": 4816,
+      "rank": 4815,
       "estimate": "<7k",
       "name": "SCP"
     },
     "4406740": {
-      "rank": 2995,
+      "rank": 2996,
       "estimate": "7k+",
       "name": "Clayton & Cayo"
     },
     "4671380": {
-      "rank": 4249,
+      "rank": 4247,
       "estimate": "<7k",
       "name": "Scapewatch: Idle MMO"
     },
     "4677140": {
-      "rank": 5056,
+      "rank": 5030,
       "estimate": "<7k",
       "name": "RAGNAROK PROJECT"
+    },
+    "4946440": {
+      "rank": 5199,
+      "estimate": "<7k",
+      "name": "Granule"
     }
   }
 }

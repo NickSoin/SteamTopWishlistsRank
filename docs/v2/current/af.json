@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-15T05:59:45.517Z",
-  "entryCount": 13,
+  "updatedAt": "2026-08-15T10:55:29.206Z",
+  "entryCount": 14,
   "entries": {
     "492540": {
-      "rank": 1349,
+      "rank": 1351,
       "estimate": "25k+",
       "name": "She Dreams Elsewhere"
     },
     "2451390": {
-      "rank": 2234,
+      "rank": 2237,
       "estimate": "7k+",
       "name": "Witchmarsh: Tea Party of the Damned"
     },
     "2749880": {
-      "rank": 4371,
+      "rank": 4376,
       "estimate": "<7k",
       "name": "Surviwall"
     },
@@ -25,32 +25,32 @@
       "name": "Temtem: Pioneers"
     },
     "2974510": {
-      "rank": 1435,
+      "rank": 1433,
       "estimate": "25k+",
       "name": "Lie of Caelum: Spirit"
     },
     "3175790": {
-      "rank": 1047,
+      "rank": 1046,
       "estimate": "25k+",
       "name": "Mecha Legends"
     },
     "3332120": {
-      "rank": 1765,
+      "rank": 1767,
       "estimate": "15k+",
       "name": "Dark Island: Faded Memories"
     },
     "3650170": {
-      "rank": 3070,
+      "rank": 3074,
       "estimate": "<7k",
       "name": "Marsupilami 2 - Salsa Palombia"
     },
     "3826670": {
-      "rank": 1653,
+      "rank": 1654,
       "estimate": "15k+",
       "name": "Flipping is Hard"
     },
     "4339210": {
-      "rank": 3947,
+      "rank": 3929,
       "estimate": "<7k",
       "name": "Dreamsend: Wintersong"
     },
@@ -65,9 +65,14 @@
       "name": "Smersh: Wolfhound"
     },
     "4691530": {
-      "rank": 4063,
+      "rank": 4067,
       "estimate": "<7k",
       "name": "Keyboard Warrior Stickman - Typing Beat Em Up"
+    },
+    "4881490": {
+      "rank": 5149,
+      "estimate": "<7k",
+      "name": "FinSim"
     }
   }
 }
