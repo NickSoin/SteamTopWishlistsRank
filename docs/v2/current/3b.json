@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-14T20:53:46.101Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-15T02:15:07.249Z",
+  "entryCount": 24,
   "entries": {
     "509950": {
-      "rank": 4907,
+      "rank": 4911,
       "estimate": "<7k",
       "name": "Transmission"
     },
@@ -15,7 +15,7 @@
       "name": "Dirty Jobs Simulator"
     },
     "1108600": {
-      "rank": 886,
+      "rank": 888,
       "estimate": "40k+",
       "name": "Last Moon"
     },
@@ -25,22 +25,22 @@
       "name": "PROJECT D : Human Risen"
     },
     "1465620": {
-      "rank": 3125,
+      "rank": 3127,
       "estimate": "<7k",
       "name": "Moses: From Egypt to the Promised Land"
     },
     "1530540": {
-      "rank": 4822,
+      "rank": 4821,
       "estimate": "<7k",
       "name": "Lake Resort Simulator"
     },
     "1599170": {
-      "rank": 3727,
+      "rank": 3729,
       "estimate": "<7k",
       "name": "5 Force Fighters"
     },
     "1724990": {
-      "rank": 3987,
+      "rank": 3990,
       "estimate": "<7k",
       "name": "Handwriting Fantasy"
     },
@@ -50,7 +50,7 @@
       "name": "Grimfield Mystery"
     },
     "2332150": {
-      "rank": 2010,
+      "rank": 2003,
       "estimate": "7k+",
       "name": "Frog Island"
     },
@@ -65,17 +65,17 @@
       "name": "Dinolords"
     },
     "2864310": {
-      "rank": 1887,
+      "rank": 1888,
       "estimate": "15k+",
       "name": "Forest Hills: The Last Year"
     },
     "3035270": {
-      "rank": 926,
+      "rank": 927,
       "estimate": "40k+",
       "name": "Backrooms"
     },
     "3218350": {
-      "rank": 396,
+      "rank": 397,
       "estimate": "80k+",
       "name": "Melvor Idle 2"
     },
@@ -85,22 +85,22 @@
       "name": "Weldiver"
     },
     "3503500": {
-      "rank": 4162,
+      "rank": 4164,
       "estimate": "<7k",
       "name": "Appa"
     },
     "3554290": {
-      "rank": 3295,
+      "rank": 3294,
       "estimate": "<7k",
       "name": "PASS Fortress"
     },
     "3674680": {
-      "rank": 2569,
+      "rank": 2568,
       "estimate": "7k+",
       "name": "Roguecraft DX"
     },
     "3830970": {
-      "rank": 3681,
+      "rank": 3682,
       "estimate": "<7k",
       "name": "Starshard Brigands"
     },
@@ -110,7 +110,7 @@
       "name": "About Fishing"
     },
     "4121600": {
-      "rank": 1141,
+      "rank": 1144,
       "estimate": "25k+",
       "name": "Psychopomp 2"
     },
@@ -120,14 +120,9 @@
       "name": "Slotbound"
     },
     "4555610": {
-      "rank": 4287,
+      "rank": 4288,
       "estimate": "<7k",
       "name": "LUNAR PULSE"
-    },
-    "4673710": {
-      "rank": 2443,
-      "estimate": "7k+",
-      "name": "Infinite Backrooms"
     }
   }
 }

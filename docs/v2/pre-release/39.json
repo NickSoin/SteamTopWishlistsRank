@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T20:53:46.101Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-15T02:15:07.249Z",
+  "entryCount": 32,
   "entries": {
     "1003590": {
       "rank": 343,
@@ -191,6 +191,13 @@
       "estimate": "7k+",
       "name": "TBH: Task Bar Hero",
       "releaseDate": "2026-05-27",
+      "source": "tracked"
+    },
+    "3984600": {
+      "rank": 6608,
+      "estimate": "<7k",
+      "name": "Memo to the Underlord",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "4174510": {

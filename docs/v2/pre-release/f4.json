@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-14T20:53:46.101Z",
-  "entryCount": 42,
+  "updatedAt": "2026-08-15T02:15:07.249Z",
+  "entryCount": 43,
   "entries": {
     "858820": {
       "rank": 1,
@@ -234,6 +234,13 @@
       "name": "Super Loco World - Cozy Train Automation",
       "releaseDate": "2025-07-14",
       "source": "historical"
+    },
+    "3930370": {
+      "rank": 5362,
+      "estimate": "<7k",
+      "name": "The Newspapers of the day",
+      "releaseDate": "2026-08-14",
+      "source": "tracked"
     },
     "3986670": {
       "rank": 413,
