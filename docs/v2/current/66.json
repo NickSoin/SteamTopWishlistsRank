@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-15T10:55:29.206Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-15T15:54:15.111Z",
+  "entryCount": 25,
   "entries": {
     "741340": {
       "rank": 3200,
@@ -10,32 +10,32 @@
       "name": "Kingdom Workshop"
     },
     "908770": {
-      "rank": 727,
+      "rank": 728,
       "estimate": "40k+",
       "name": "Global Conflagration"
     },
     "1363400": {
-      "rank": 1365,
+      "rank": 1364,
       "estimate": "25k+",
       "name": "No More Light"
     },
     "1828660": {
-      "rank": 4083,
+      "rank": 4085,
       "estimate": "<7k",
       "name": "Worst World"
     },
     "1897860": {
-      "rank": 3105,
+      "rank": 3103,
       "estimate": "<7k",
       "name": "Sunken Realms"
     },
     "2216840": {
-      "rank": 2729,
+      "rank": 2733,
       "estimate": "7k+",
       "name": "BACKROOMS: NO RETURN"
     },
     "2329070": {
-      "rank": 1744,
+      "rank": 1747,
       "estimate": "15k+",
       "name": "POSTFROST"
     },
@@ -45,7 +45,7 @@
       "name": "Enter the Gungeon 2"
     },
     "2397440": {
-      "rank": 3432,
+      "rank": 3435,
       "estimate": "<7k",
       "name": "Momogatari"
     },
@@ -55,42 +55,47 @@
       "name": "Cyber Rail"
     },
     "3273260": {
-      "rank": 1343,
+      "rank": 1346,
       "estimate": "25k+",
       "name": "Lost Host"
     },
     "3504490": {
-      "rank": 1218,
+      "rank": 1219,
       "estimate": "25k+",
       "name": "Legacy of Valor"
     },
     "3628390": {
-      "rank": 3347,
+      "rank": 3350,
       "estimate": "<7k",
       "name": "33 Days till Extraction"
     },
+    "3690670": {
+      "rank": 5195,
+      "estimate": "<7k",
+      "name": "The Aquarium"
+    },
     "3711050": {
-      "rank": 2876,
+      "rank": 2875,
       "estimate": "7k+",
       "name": "BeaterCore"
     },
     "3866080": {
-      "rank": 1937,
+      "rank": 1938,
       "estimate": "15k+",
       "name": "Stick A Round"
     },
     "3878380": {
-      "rank": 4661,
+      "rank": 4628,
       "estimate": "<7k",
       "name": "Lugal: Bronze Age Survival Game"
     },
     "4092130": {
-      "rank": 4415,
+      "rank": 4416,
       "estimate": "<7k",
       "name": "Sacred: Last Pixel of Ancaria"
     },
     "4130890": {
-      "rank": 5182,
+      "rank": 5185,
       "estimate": "<7k",
       "name": "SIRENS"
     },
@@ -100,27 +105,27 @@
       "name": "Another Eden Begins"
     },
     "4414860": {
-      "rank": 1305,
+      "rank": 1303,
       "estimate": "25k+",
       "name": "Direland"
     },
     "4463840": {
-      "rank": 1743,
+      "rank": 1744,
       "estimate": "15k+",
       "name": "Inquisitor Simulator"
     },
     "4483020": {
-      "rank": 4814,
+      "rank": 4819,
       "estimate": "<7k",
       "name": "Echoes of the Flame"
     },
     "4486870": {
-      "rank": 3959,
+      "rank": 3940,
       "estimate": "<7k",
       "name": "FEED THE AI"
     },
     "4928820": {
-      "rank": 1452,
+      "rank": 1447,
       "estimate": "25k+",
       "name": "Shelve the Potions!"
     }

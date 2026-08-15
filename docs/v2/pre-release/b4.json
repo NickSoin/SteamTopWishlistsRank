@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-15T10:55:29.206Z",
-  "entryCount": 46,
+  "updatedAt": "2026-08-15T15:54:15.111Z",
+  "entryCount": 47,
   "entries": {
     "607080": {
       "rank": 2,
@@ -297,6 +297,13 @@
       "name": "Nioh 3",
       "releaseDate": "2026-02-05",
       "source": "historical"
+    },
+    "3767620": {
+      "rank": 6009,
+      "estimate": "<7k",
+      "name": "Harvest Yuuka",
+      "releaseDate": "2026-08-15",
+      "source": "tracked"
     },
     "3968160": {
       "rank": 909,
