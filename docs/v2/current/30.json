@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-15T02:15:07.249Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-15T05:59:45.517Z",
+  "entryCount": 27,
   "entries": {
     "792610": {
       "rank": 456,
@@ -10,7 +10,7 @@
       "name": "King of the Dwarves: Underground City Builder"
     },
     "884670": {
-      "rank": 1956,
+      "rank": 1953,
       "estimate": "15k+",
       "name": "Codenames"
     },
@@ -20,7 +20,7 @@
       "name": "Innkeep"
     },
     "1215170": {
-      "rank": 4353,
+      "rank": 4354,
       "estimate": "<7k",
       "name": "Dawnthorn"
     },
@@ -30,7 +30,7 @@
       "name": "Falling Frontier"
     },
     "1350310": {
-      "rank": 3760,
+      "rank": 3762,
       "estimate": "<7k",
       "name": "Tachyons: Battles Across the Galaxy"
     },
@@ -40,7 +40,7 @@
       "name": "HIGHPOINT"
     },
     "1616720": {
-      "rank": 2911,
+      "rank": 2912,
       "estimate": "7k+",
       "name": "Bunker Builder \"Atlantic Wall\""
     },
@@ -50,12 +50,12 @@
       "name": "Class Zero Seven"
     },
     "2073980": {
-      "rank": 3886,
+      "rank": 3887,
       "estimate": "<7k",
       "name": "SUMMER ROAD 10-Minute Auto Roguelite"
     },
     "2106150": {
-      "rank": 3626,
+      "rank": 3629,
       "estimate": "<7k",
       "name": "琉奈と悪夢の館"
     },
@@ -65,29 +65,29 @@
       "name": "Silver Pines"
     },
     "2361560": {
-      "rank": 1617,
+      "rank": 1618,
       "estimate": "15k+",
       "name": "Dr. Emmerson's Nocturnes",
       "actualWishlists": 32000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289596300"
     },
     "2457920": {
-      "rank": 2605,
+      "rank": 2604,
       "estimate": "7k+",
       "name": "gOnshit infarct"
     },
     "2622180": {
-      "rank": 2536,
+      "rank": 2537,
       "estimate": "7k+",
       "name": "Detective Fantasia: EXCALIMURDER"
     },
     "2823840": {
-      "rank": 3820,
+      "rank": 3824,
       "estimate": "<7k",
       "name": "Killer Junkyard"
     },
     "3000460": {
-      "rank": 337,
+      "rank": 338,
       "estimate": "80k+",
       "name": "The Path Into The Abyss"
     },
@@ -102,12 +102,12 @@
       "name": "Primordial Empire"
     },
     "3460400": {
-      "rank": 1332,
+      "rank": 1331,
       "estimate": "25k+",
       "name": "Harrowlands"
     },
     "3731410": {
-      "rank": 5024,
+      "rank": 5023,
       "estimate": "<7k",
       "name": "hitogata"
     },
@@ -117,7 +117,7 @@
       "name": "Ballgame"
     },
     "3978240": {
-      "rank": 4385,
+      "rank": 4373,
       "estimate": "<7k",
       "name": "Wordless Forest"
     },
@@ -127,14 +127,19 @@
       "name": "UNDERDEEP"
     },
     "4207990": {
-      "rank": 1710,
+      "rank": 1709,
       "estimate": "15k+",
       "name": "GemCraft - Legacy Collection"
     },
     "4458440": {
-      "rank": 2514,
+      "rank": 2513,
       "estimate": "7k+",
       "name": "Pelican Post"
+    },
+    "4673650": {
+      "rank": 5204,
+      "estimate": "<7k",
+      "name": "Crown Control"
     }
   }
 }

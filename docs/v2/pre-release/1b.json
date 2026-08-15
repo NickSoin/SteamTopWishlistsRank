@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-15T02:15:07.249Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-15T05:59:45.517Z",
+  "entryCount": 23,
   "entries": {
     "1091920": {
       "rank": 46,
@@ -121,6 +121,13 @@
       "estimate": "40k+",
       "name": "DIVE or DIE - Children of Rain",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "3816000": {
+      "rank": 4169,
+      "estimate": "<7k",
+      "name": "Flowers and Deities",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "4119360": {

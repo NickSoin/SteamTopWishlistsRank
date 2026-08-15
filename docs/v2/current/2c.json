@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-15T02:15:07.249Z",
-  "entryCount": 16,
+  "updatedAt": "2026-08-15T05:59:45.517Z",
+  "entryCount": 17,
   "entries": {
     "744200": {
       "rank": 3202,
@@ -10,7 +10,7 @@
       "name": "Altiros"
     },
     "1166890": {
-      "rank": 480,
+      "rank": 481,
       "estimate": "80k+",
       "name": "Necrofugitive"
     },
@@ -20,27 +20,32 @@
       "name": "Little Shop of Junk"
     },
     "1795090": {
-      "rank": 4292,
+      "rank": 4293,
       "estimate": "<7k",
       "name": "Monastery Builder"
     },
     "1883360": {
-      "rank": 1615,
+      "rank": 1616,
       "estimate": "15k+",
       "name": "The White Raven"
     },
+    "1884660": {
+      "rank": 5205,
+      "estimate": "<7k",
+      "name": "Echoes: A Transmissions Story"
+    },
     "2482760": {
-      "rank": 1567,
+      "rank": 1566,
       "estimate": "15k+",
       "name": "Hunting Simulator 3"
     },
     "2523380": {
-      "rank": 1785,
+      "rank": 1784,
       "estimate": "15k+",
       "name": "Red Kiss"
     },
     "2792540": {
-      "rank": 3315,
+      "rank": 3316,
       "estimate": "<7k",
       "name": "Anima Keeper"
     },
@@ -50,12 +55,12 @@
       "name": "over the hill"
     },
     "3100690": {
-      "rank": 772,
+      "rank": 773,
       "estimate": "40k+",
       "name": "Dust & Diesel: Deadland Delivery"
     },
     "3725190": {
-      "rank": 422,
+      "rank": 423,
       "estimate": "80k+",
       "name": "There Are No Ghosts at the Grand"
     },
@@ -70,17 +75,17 @@
       "name": "Something Meaningful"
     },
     "4232910": {
-      "rank": 3155,
+      "rank": 3154,
       "estimate": "<7k",
       "name": "Crusader Kings III: Silk & Silver"
     },
     "4529120": {
-      "rank": 3098,
+      "rank": 3087,
       "estimate": "<7k",
       "name": "Alice's Gaze"
     },
     "4529850": {
-      "rank": 1157,
+      "rank": 1158,
       "estimate": "25k+",
       "name": "Runeward Online"
     }

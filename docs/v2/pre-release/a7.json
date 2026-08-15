@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-15T02:15:07.249Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-15T05:59:45.517Z",
+  "entryCount": 33,
   "entries": {
     "945770": {
       "rank": 169,
@@ -209,6 +209,13 @@
       "estimate": "<7k",
       "name": "Boreal Tenebrae Act 0: Sundowning",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4240150": {
+      "rank": 777,
+      "estimate": "40k+",
+      "name": "Sister Other Paranoia",
+      "releaseDate": "2026-08-14",
       "source": "tracked"
     },
     "4275860": {
