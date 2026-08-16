@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-16T06:10:38.320Z",
-  "entryCount": 20,
+  "updatedAt": "2026-08-16T11:00:17.535Z",
+  "entryCount": 19,
   "entries": {
     "499170": {
       "rank": 252,
@@ -10,12 +10,12 @@
       "name": "Order of the Sinking Star"
     },
     "1105470": {
-      "rank": 4326,
+      "rank": 4330,
       "estimate": "<7k",
       "name": "Fist of the Forgotten"
     },
     "1161780": {
-      "rank": 2441,
+      "rank": 2445,
       "estimate": "7k+",
       "name": "OTHER: Her Loving Embrace"
     },
@@ -25,12 +25,12 @@
       "name": "Shyftrs"
     },
     "2142890": {
-      "rank": 4401,
+      "rank": 4402,
       "estimate": "<7k",
       "name": "Trophy Knight"
     },
     "2266750": {
-      "rank": 3845,
+      "rank": 3848,
       "estimate": "<7k",
       "name": "LightSup!"
     },
@@ -45,7 +45,7 @@
       "name": "Drill Keeper"
     },
     "2738170": {
-      "rank": 433,
+      "rank": 434,
       "estimate": "80k+",
       "name": "Edge of Memories"
     },
@@ -60,7 +60,7 @@
       "name": "Age of History 3: Multiplayer"
     },
     "3447730": {
-      "rank": 1325,
+      "rank": 1327,
       "estimate": "25k+",
       "name": "Boomer Simulator"
     },
@@ -70,22 +70,22 @@
       "name": "Scary Cargo"
     },
     "3764970": {
-      "rank": 1230,
+      "rank": 1229,
       "estimate": "25k+",
       "name": "Mexican Ninja"
     },
     "4209900": {
-      "rank": 3923,
+      "rank": 3925,
       "estimate": "<7k",
       "name": "Let Me In"
     },
     "4242040": {
-      "rank": 4802,
+      "rank": 4756,
       "estimate": "<7k",
       "name": "Koikata: How Our Love Grows"
     },
     "4272560": {
-      "rank": 3368,
+      "rank": 3306,
       "estimate": "<7k",
       "name": "BREAKOUT BABY"
     },
@@ -95,14 +95,9 @@
       "name": "FINAL FANTASY VII REVELATION"
     },
     "4420730": {
-      "rank": 1421,
+      "rank": 1422,
       "estimate": "25k+",
       "name": "GACHIAKUTA: The Game"
-    },
-    "4625810": {
-      "rank": 3022,
-      "estimate": "<7k",
-      "name": "Internet Survivor Survivors"
     }
   }
 }
