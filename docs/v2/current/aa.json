@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-15T20:50:09.989Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-16T02:04:01.408Z",
+  "entryCount": 22,
   "entries": {
     "836880": {
-      "rank": 4640,
+      "rank": 4642,
       "estimate": "<7k",
       "name": "The Berlin Wall"
     },
     "1328720": {
-      "rank": 3833,
+      "rank": 3836,
       "estimate": "<7k",
       "name": "Red Sails"
     },
     "1425780": {
-      "rank": 2289,
+      "rank": 2291,
       "estimate": "7k+",
       "name": "Fishkeeper"
     },
@@ -25,17 +25,17 @@
       "name": "EXP: War Trauma"
     },
     "1979290": {
-      "rank": 2277,
+      "rank": 2279,
       "estimate": "7k+",
       "name": "魔女旅店 Witches Tavern"
     },
     "2076310": {
-      "rank": 2992,
+      "rank": 2993,
       "estimate": "7k+",
       "name": "Tears of Magic"
     },
     "2740750": {
-      "rank": 973,
+      "rank": 974,
       "estimate": "40k+",
       "name": "Rollin' Rascal"
     },
@@ -45,17 +45,17 @@
       "name": "Iron Dawn"
     },
     "2906440": {
-      "rank": 5149,
+      "rank": 5155,
       "estimate": "<7k",
       "name": "Townbox"
     },
     "2907090": {
-      "rank": 3998,
+      "rank": 4003,
       "estimate": "<7k",
       "name": "Crime or Punishment"
     },
     "2960390": {
-      "rank": 3252,
+      "rank": 3255,
       "estimate": "<7k",
       "name": "Nutty Dungeons"
     },
@@ -70,32 +70,37 @@
       "name": "Tides of Annihilation"
     },
     "3377230": {
-      "rank": 5115,
+      "rank": 5118,
       "estimate": "<7k",
       "name": "Seal of Solitomb"
     },
     "3554370": {
-      "rank": 4339,
+      "rank": 4340,
       "estimate": "<7k",
       "name": "Vampires vs Mechas"
     },
     "3736260": {
-      "rank": 4591,
+      "rank": 4596,
       "estimate": "<7k",
       "name": "Lunaraxia: Magpie Sings of the World's End"
     },
     "3769800": {
-      "rank": 1450,
+      "rank": 1452,
       "estimate": "25k+",
       "name": "Elevator"
     },
     "3819370": {
-      "rank": 3858,
+      "rank": 3862,
       "estimate": "<7k",
       "name": "Pull the Beer"
     },
+    "3925730": {
+      "rank": 5221,
+      "estimate": "<7k",
+      "name": "Furry Roommates"
+    },
     "3987060": {
-      "rank": 1443,
+      "rank": 1444,
       "estimate": "25k+",
       "name": "If Red Then Stop"
     },
@@ -105,7 +110,7 @@
       "name": "A Whisper of Fall: Jinyiwei"
     },
     "4515280": {
-      "rank": 3129,
+      "rank": 3128,
       "estimate": "<7k",
       "name": "Suzerain Stories: The Neutral Lens"
     }
