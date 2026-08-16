@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-16T11:00:17.535Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-16T16:07:30.531Z",
+  "entryCount": 23,
   "entries": {
     "433970": {
-      "rank": 1320,
+      "rank": 1321,
       "estimate": "25k+",
       "name": "Destroyed Aperture"
     },
     "1374920": {
-      "rank": 5081,
+      "rank": 5082,
       "estimate": "<7k",
       "name": "StoryArcana"
     },
     "1953770": {
-      "rank": 2728,
+      "rank": 2732,
       "estimate": "7k+",
       "name": "Soulitaire"
     },
@@ -25,32 +25,32 @@
       "name": "GearGrit"
     },
     "2506520": {
-      "rank": 2407,
+      "rank": 2410,
       "estimate": "7k+",
       "name": "GHOSTLESS"
     },
     "2805070": {
-      "rank": 367,
+      "rank": 368,
       "estimate": "80k+",
       "name": "Screenbound"
     },
     "2866330": {
-      "rank": 2774,
+      "rank": 2776,
       "estimate": "7k+",
       "name": "Astera"
     },
     "3014860": {
-      "rank": 2023,
+      "rank": 2024,
       "estimate": "7k+",
       "name": "Icy Tower"
     },
     "3160640": {
-      "rank": 3625,
+      "rank": 3626,
       "estimate": "<7k",
       "name": "Don't Drop The Cake"
     },
     "3378100": {
-      "rank": 1364,
+      "rank": 1367,
       "estimate": "25k+",
       "name": "Killer Chat! - Expanded Edition"
     },
@@ -60,32 +60,32 @@
       "name": "Hotel Investigation 09"
     },
     "3397910": {
-      "rank": 3642,
+      "rank": 3644,
       "estimate": "<7k",
       "name": "Lootlands: Idle ARPG"
     },
     "3493410": {
-      "rank": 3786,
+      "rank": 3792,
       "estimate": "<7k",
       "name": "We Will Be Gods"
     },
     "3905450": {
-      "rank": 215,
+      "rank": 214,
       "estimate": "80k+",
       "name": "WheelMates"
     },
     "4002600": {
-      "rank": 4674,
+      "rank": 4678,
       "estimate": "<7k",
       "name": "My Helpers"
     },
     "4012490": {
-      "rank": 2898,
+      "rank": 2901,
       "estimate": "7k+",
       "name": "MONOPHOBIA"
     },
     "4017880": {
-      "rank": 740,
+      "rank": 741,
       "estimate": "40k+",
       "name": "ANOMALITH"
     },
@@ -95,7 +95,7 @@
       "name": "Rayman Legends Retold"
     },
     "4158420": {
-      "rank": 2224,
+      "rank": 2228,
       "estimate": "7k+",
       "name": "Starship Command: Orion Spur"
     },
@@ -105,14 +105,19 @@
       "name": "DreadHaven: The Last Colony"
     },
     "4287960": {
-      "rank": 2659,
+      "rank": 2660,
       "estimate": "7k+",
       "name": "Fractal Foundry"
     },
     "4794170": {
-      "rank": 4675,
+      "rank": 4671,
       "estimate": "<7k",
       "name": "Swarmslam"
+    },
+    "5064340": {
+      "rank": 4953,
+      "estimate": "<7k",
+      "name": "DinoBones: Tidy Up the Museum"
     }
   }
 }
