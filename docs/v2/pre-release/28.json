@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 24,
   "entries": {
     "812440": {
       "rank": 138,
@@ -140,6 +140,13 @@
       "releaseDate": "2026-04-14",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522846167"
+    },
+    "3503710": {
+      "rank": 1582,
+      "estimate": "15k+",
+      "name": "Medieval Horse Dealer Simulator",
+      "releaseDate": "2026-08-17",
+      "source": "tracked"
     },
     "3661430": {
       "rank": 4038,

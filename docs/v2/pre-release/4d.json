@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 22,
   "entries": {
     "251570": {
       "rank": 42,
@@ -144,6 +144,13 @@
       "estimate": "<7k",
       "name": "Xiaye's Doors of Magic: Lightchaser",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4268200": {
+      "rank": 9131,
+      "estimate": "<7k",
+      "name": "Excremental Game",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     },
     "4421010": {

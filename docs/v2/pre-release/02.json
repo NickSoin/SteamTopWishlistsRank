@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 34,
   "entries": {
     "844980": {
       "rank": 112,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Erratum",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4509630": {
+      "rank": 4042,
+      "estimate": "<7k",
+      "name": "The Eternal Woods",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     },
     "4676130": {

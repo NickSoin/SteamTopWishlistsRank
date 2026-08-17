@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 27,
   "entries": {
     "894620": {
       "rank": 1864,
@@ -183,6 +183,13 @@
       "estimate": "<7k",
       "name": "Dragon Ruins II: Aftermath",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4448490": {
+      "rank": 2615,
+      "estimate": "7k+",
+      "name": "Planet Harvester: Incremental Odyssey",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     },
     "4507690": {

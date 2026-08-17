@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 38,
   "entries": {
     "930280": {
       "rank": 438,
@@ -205,6 +205,13 @@
       "name": "Crime Simulator",
       "releaseDate": "2025-06-17",
       "source": "historical"
+    },
+    "3598690": {
+      "rank": 4102,
+      "estimate": "<7k",
+      "name": "Pachinko Farm",
+      "releaseDate": "2026-08-17",
+      "source": "tracked"
     },
     "3765010": {
       "rank": 327,

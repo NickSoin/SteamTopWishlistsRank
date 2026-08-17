@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 30,
   "entries": {
     "941460": {
       "rank": 36,
@@ -181,6 +181,13 @@
       "estimate": "<7k",
       "name": "UNDERGROUNDED",
       "releaseDate": "2026-07-02",
+      "source": "tracked"
+    },
+    "3212820": {
+      "rank": 2553,
+      "estimate": "7k+",
+      "name": "Solar Wave",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     },
     "4078160": {

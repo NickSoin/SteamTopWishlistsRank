@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 12,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 13,
   "entries": {
     "1188870": {
-      "rank": 1797,
+      "rank": 1798,
       "estimate": "15k+",
       "name": "Earthbreakers"
     },
     "1261360": {
-      "rank": 2810,
+      "rank": 2806,
       "estimate": "7k+",
       "name": "Anitons"
     },
     "1621900": {
-      "rank": 3680,
+      "rank": 3678,
       "estimate": "<7k",
       "name": "Nightclub Manager: Violet Vibe"
     },
@@ -30,39 +30,44 @@
       "name": "The First Explorers®"
     },
     "2883130": {
-      "rank": 4544,
+      "rank": 4536,
       "estimate": "<7k",
       "name": "Inverted Journey"
     },
     "2938980": {
-      "rank": 3235,
+      "rank": 3227,
       "estimate": "<7k",
       "name": "Unfriendly Friend"
     },
     "2991310": {
-      "rank": 1168,
+      "rank": 1167,
       "estimate": "25k+",
       "name": "Eternal Palace Sakura"
     },
     "3253950": {
-      "rank": 4111,
+      "rank": 4105,
       "estimate": "<7k",
       "name": "Awaking Beauty"
     },
     "3620350": {
-      "rank": 4414,
+      "rank": 4406,
       "estimate": "<7k",
       "name": "Two Realms: Whispers from the Rift"
     },
     "3833280": {
-      "rank": 553,
+      "rank": 552,
       "estimate": "40k+",
       "name": "Loulan: The Cursed Sand"
     },
     "4299520": {
-      "rank": 2386,
+      "rank": 2384,
       "estimate": "7k+",
       "name": "Those Who Rule 2"
+    },
+    "4892800": {
+      "rank": 5229,
+      "estimate": "<7k",
+      "name": "BALL BOY Simulator"
     }
   }
 }

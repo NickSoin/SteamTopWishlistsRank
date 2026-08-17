@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 27,
   "entries": {
     "753640": {
       "rank": 18,
@@ -176,6 +176,13 @@
       "estimate": "7k+",
       "name": "ERROR143 - Day 6",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4395510": {
+      "rank": 9450,
+      "estimate": "<7k",
+      "name": "Beat Vector",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     },
     "4610420": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 20,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 21,
   "entries": {
     "589450": {
       "rank": 1113,
@@ -135,6 +135,13 @@
       "estimate": "80k+",
       "name": "Ragnarok: The New World",
       "releaseDate": "2026-07-26",
+      "source": "tracked"
+    },
+    "4415740": {
+      "rank": 1969,
+      "estimate": "15k+",
+      "name": "The Pale Mimic",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     },
     "4451520": {

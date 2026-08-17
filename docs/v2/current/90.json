@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 15,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 16,
   "entries": {
     "355750": {
-      "rank": 1865,
+      "rank": 1862,
       "estimate": "15k+",
       "name": "Miegakure: Hide & Reveal"
     },
@@ -15,37 +15,37 @@
       "name": "Project Haven"
     },
     "1774190": {
-      "rank": 976,
+      "rank": 975,
       "estimate": "40k+",
       "name": "Elysian Eclipse"
     },
     "2103500": {
-      "rank": 3633,
+      "rank": 3625,
       "estimate": "<7k",
       "name": "Sombionic"
     },
     "2225260": {
-      "rank": 3553,
+      "rank": 3548,
       "estimate": "<7k",
       "name": "Shark Rain"
     },
     "2372120": {
-      "rank": 4122,
+      "rank": 4115,
       "estimate": "<7k",
       "name": "Arkem"
     },
     "2396760": {
-      "rank": 1510,
+      "rank": 1507,
       "estimate": "15k+",
       "name": "ShellShot Arena"
     },
     "2478710": {
-      "rank": 2847,
+      "rank": 2842,
       "estimate": "7k+",
       "name": "Football, Tactics & Glory 2"
     },
     "2710920": {
-      "rank": 1685,
+      "rank": 1683,
       "estimate": "15k+",
       "name": "Aeterna Lucis"
     },
@@ -55,12 +55,12 @@
       "name": "METAMORPHOSIS"
     },
     "3595450": {
-      "rank": 593,
+      "rank": 592,
       "estimate": "40k+",
       "name": "Object Impermanence"
     },
     "3610500": {
-      "rank": 3059,
+      "rank": 3053,
       "estimate": "<7k",
       "name": "MEGANAUT"
     },
@@ -70,14 +70,19 @@
       "name": "The Expanse: Osiris Reborn"
     },
     "3761680": {
-      "rank": 3187,
+      "rank": 3180,
       "estimate": "<7k",
       "name": "Urban Yuri: A Lady's Romance Manifesto"
     },
     "4243330": {
-      "rank": 4149,
+      "rank": 4127,
       "estimate": "<7k",
       "name": "全网有点怪"
+    },
+    "4480760": {
+      "rank": 5201,
+      "estimate": "<7k",
+      "name": "Surf Sandbox"
     }
   }
 }

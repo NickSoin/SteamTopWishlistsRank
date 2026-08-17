@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 24,
   "entries": {
     "526870": {
       "rank": 16,
@@ -161,6 +161,13 @@
       "releaseDate": "2025-12-16",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289715756"
+    },
+    "4534000": {
+      "rank": 9552,
+      "estimate": "<7k",
+      "name": "PROFITS 2167: Planetary Resource Optimization & Freight Infrastructure Technician Simulator",
+      "releaseDate": "2026-08-17",
+      "source": "tracked"
     },
     "4594150": {
       "rank": 360,

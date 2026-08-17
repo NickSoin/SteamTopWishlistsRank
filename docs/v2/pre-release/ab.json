@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 36,
   "entries": {
     "315210": {
       "rank": 48,
@@ -249,6 +249,13 @@
       "estimate": "<7k",
       "name": "Vecchio Furioso",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "4561110": {
+      "rank": 9889,
+      "estimate": "<7k",
+      "name": "Budget Renovation Simulator",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     }
   }

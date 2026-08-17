@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 31,
   "entries": {
     "950620": {
       "rank": 254,
@@ -190,6 +190,13 @@
       "estimate": "15k+",
       "name": "Culdcept The First",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "3849000": {
+      "rank": 253,
+      "estimate": "80k+",
+      "name": "The Lantern of the Laughless Saint",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     },
     "4135380": {

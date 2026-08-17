@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 47,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 48,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -206,6 +206,13 @@
       "name": "Hollow Cocoon",
       "releaseDate": "2023-12-06",
       "source": "historical"
+    },
+    "2477710": {
+      "rank": 1237,
+      "estimate": "25k+",
+      "name": "Nimbit Frontier",
+      "releaseDate": "2026-08-17",
+      "source": "tracked"
     },
     "2494780": {
       "rank": 45,

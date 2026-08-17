@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T11:15:01.959Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "entryCount": 37,
   "entries": {
     "1112390": {
       "rank": 2418,
@@ -193,6 +193,13 @@
       "releaseDate": "2024-07-31",
       "source": "historical"
     },
+    "2933200": {
+      "rank": 791,
+      "estimate": "40k+",
+      "name": "Tukoni: Forest Keepers",
+      "releaseDate": "2026-08-17",
+      "source": "tracked"
+    },
     "3172440": {
       "rank": 634,
       "estimate": "40k+",
@@ -240,6 +247,13 @@
       "estimate": "<7k",
       "name": "BookStore Simulator",
       "releaseDate": "2026-08-10",
+      "source": "tracked"
+    },
+    "4309740": {
+      "rank": 2009,
+      "estimate": "7k+",
+      "name": "Dash'n'Drops",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     },
     "4601350": {
