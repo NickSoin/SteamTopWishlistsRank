@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T15:48:02.054Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-17T20:57:30.874Z",
+  "entryCount": 37,
   "entries": {
     "928960": {
       "rank": 577,
@@ -214,6 +214,13 @@
       "estimate": "7k+",
       "name": "Theater Pack - Hearts of Iron IV: Thunder at our Gates",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4077060": {
+      "rank": 4900,
+      "estimate": "<7k",
+      "name": "Void Pachinko",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     },
     "4165910": {

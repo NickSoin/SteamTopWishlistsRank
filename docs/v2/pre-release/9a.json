@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T15:48:02.054Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-17T20:57:30.874Z",
+  "entryCount": 33,
   "entries": {
     "928000": {
       "rank": 773,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "ExoTrain",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4180620": {
+      "rank": 1954,
+      "estimate": "15k+",
+      "name": "Submerge",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     },
     "4241420": {

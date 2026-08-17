@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T15:48:02.054Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-17T20:57:30.874Z",
+  "entryCount": 33,
   "entries": {
     "637050": {
       "rank": 136,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Flats Full of Cats: Stars & Oysters",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "4211540": {
+      "rank": 4502,
+      "estimate": "<7k",
+      "name": "Mothership Down",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     },
     "4282500": {

@@ -1,36 +1,36 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-17T15:48:02.054Z",
+  "updatedAt": "2026-08-17T20:57:30.874Z",
   "entryCount": 16,
   "entries": {
     "1167820": {
-      "rank": 798,
+      "rank": 799,
       "estimate": "40k+",
       "name": "Airport Contraband"
     },
     "1368540": {
-      "rank": 4562,
+      "rank": 4560,
       "estimate": "<7k",
       "name": "Dead Horizon"
     },
     "1842040": {
-      "rank": 1086,
+      "rank": 1085,
       "estimate": "25k+",
       "name": "Soul Split"
     },
     "1922500": {
-      "rank": 4164,
+      "rank": 4166,
       "estimate": "<7k",
       "name": "World of Stickman Classic RTS"
     },
     "2494660": {
-      "rank": 4520,
+      "rank": 4518,
       "estimate": "<7k",
       "name": "Love Tavern 2: Beastmen Kingdoms"
     },
     "2514890": {
-      "rank": 2876,
+      "rank": 2875,
       "estimate": "7k+",
       "name": "Reverb"
     },
@@ -40,32 +40,27 @@
       "name": "Dark Continent"
     },
     "2708040": {
-      "rank": 707,
+      "rank": 706,
       "estimate": "40k+",
       "name": "Triarchy"
     },
     "3031880": {
-      "rank": 525,
+      "rank": 524,
       "estimate": "40k+",
       "name": "Car Park Capital"
     },
-    "3169910": {
-      "rank": 4601,
-      "estimate": "<7k",
-      "name": "Weapons Arena"
-    },
     "3261300": {
-      "rank": 4459,
+      "rank": 4458,
       "estimate": "<7k",
       "name": "Card Draw"
     },
     "3788210": {
-      "rank": 4152,
+      "rank": 4146,
       "estimate": "<7k",
       "name": "Fortress-Life"
     },
     "3895950": {
-      "rank": 2426,
+      "rank": 2425,
       "estimate": "7k+",
       "name": "Garten of Banban: Last Ticket to the Abyss"
     },
@@ -75,7 +70,7 @@
       "name": "Oomi’s Nook"
     },
     "4219700": {
-      "rank": 4195,
+      "rank": 4172,
       "estimate": "<7k",
       "name": "BLOODFALL: The First Temple"
     },
@@ -83,6 +78,11 @@
       "rank": 2881,
       "estimate": "7k+",
       "name": "Infogrind"
+    },
+    "4883590": {
+      "rank": 5218,
+      "estimate": "<7k",
+      "name": "iRacing® Studios NASCAR 26"
     }
   }
 }
