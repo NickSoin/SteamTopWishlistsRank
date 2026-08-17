@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T06:17:37.481Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-17T11:15:01.959Z",
+  "entryCount": 36,
   "entries": {
     "658920": {
       "rank": 716,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "Scales of Silence",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4579940": {
+      "rank": 1327,
+      "estimate": "25k+",
+      "name": "Crownhold",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     }
   }
