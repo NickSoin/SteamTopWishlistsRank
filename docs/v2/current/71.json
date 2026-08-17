@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-16T20:47:29.778Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-17T02:23:28.094Z",
+  "entryCount": 22,
   "entries": {
     "1120330": {
       "rank": 1650,
@@ -10,7 +10,7 @@
       "name": "Sky of Tides"
     },
     "1363940": {
-      "rank": 310,
+      "rank": 311,
       "estimate": "80k+",
       "name": "Tenjutsu"
     },
@@ -20,42 +20,42 @@
       "name": "ROCKBEASTS"
     },
     "1475120": {
-      "rank": 3736,
+      "rank": 3739,
       "estimate": "<7k",
       "name": "Call Me Under"
     },
     "1490990": {
-      "rank": 3914,
+      "rank": 3917,
       "estimate": "<7k",
       "name": "Isles of Krom"
     },
     "1727540": {
-      "rank": 3791,
+      "rank": 3796,
       "estimate": "<7k",
       "name": "Primordials Legends: Hollow Hero"
     },
     "1975790": {
-      "rank": 2887,
+      "rank": 2888,
       "estimate": "7k+",
       "name": "VergeWorld"
     },
     "2563880": {
-      "rank": 3324,
+      "rank": 3326,
       "estimate": "<7k",
       "name": "Ghost Hand"
     },
     "2669780": {
-      "rank": 2857,
+      "rank": 2859,
       "estimate": "7k+",
       "name": "Spill the Beans"
     },
     "3209530": {
-      "rank": 4961,
+      "rank": 4962,
       "estimate": "<7k",
       "name": "Last Helion"
     },
     "3228430": {
-      "rank": 4499,
+      "rank": 4501,
       "estimate": "<7k",
       "name": "Tides of Blazefall"
     },
@@ -65,7 +65,7 @@
       "name": "Carthage: Bellum Punicum"
     },
     "3745230": {
-      "rank": 4855,
+      "rank": 4859,
       "estimate": "<7k",
       "name": "The Great Hatch"
     },
@@ -80,12 +80,12 @@
       "name": "Engine Of Sin"
     },
     "4089610": {
-      "rank": 2356,
+      "rank": 2358,
       "estimate": "7k+",
       "name": "Eldritch Horror: Digital Edition"
     },
     "4240620": {
-      "rank": 1950,
+      "rank": 1953,
       "estimate": "15k+",
       "name": "The Granny Detective Society"
     },
@@ -95,17 +95,22 @@
       "name": "Neat!"
     },
     "4317670": {
-      "rank": 4664,
+      "rank": 4669,
       "estimate": "<7k",
       "name": "Medieval Battle: Food Truck"
     },
     "4332550": {
-      "rank": 3773,
+      "rank": 3776,
       "estimate": "<7k",
       "name": "Heretic's Rapture"
     },
+    "4606460": {
+      "rank": 5161,
+      "estimate": "<7k",
+      "name": "Succubi Domini"
+    },
     "4982920": {
-      "rank": 1999,
+      "rank": 1912,
       "estimate": "15k+",
       "name": "The Watcher"
     }
