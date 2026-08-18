@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T16:14:29.017Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-18T20:48:44.100Z",
+  "entryCount": 30,
   "entries": {
     "975370": {
       "rank": 8,
@@ -200,6 +200,13 @@
       "estimate": "25k+",
       "name": "The 7th Guest Remake",
       "releaseDate": "2026-06-03",
+      "source": "tracked"
+    },
+    "4516490": {
+      "rank": 9603,
+      "estimate": "<7k",
+      "name": "nudge",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     },
     "4855760": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T16:14:29.017Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-18T20:48:44.100Z",
+  "entryCount": 31,
   "entries": {
     "669330": {
       "rank": 422,
@@ -212,6 +212,13 @@
       "estimate": "25k+",
       "name": "Dream of Corpse Lady - Deity's Three Egos",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4964110": {
+      "rank": 752,
+      "estimate": "40k+",
+      "name": "Darkest Dungeon®: The Fire's Edge",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     }
   }

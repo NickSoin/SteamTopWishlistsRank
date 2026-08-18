@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T16:14:29.017Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-18T20:48:44.100Z",
+  "entryCount": 28,
   "entries": {
     "900040": {
       "rank": 60,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "The Money Pit",
       "releaseDate": "2026-08-11",
+      "source": "tracked"
+    },
+    "4317790": {
+      "rank": 340,
+      "estimate": "80k+",
+      "name": "Last Pirates: Die Together",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     },
     "4331130": {

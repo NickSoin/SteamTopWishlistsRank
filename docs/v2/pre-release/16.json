@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T16:14:29.017Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-18T20:48:44.100Z",
+  "entryCount": 24,
   "entries": {
     "597820": {
       "rank": 2,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Dungeon Repeater",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4329670": {
+      "rank": 3417,
+      "estimate": "<7k",
+      "name": "Loot Dungeon",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     },
     "4548480": {
