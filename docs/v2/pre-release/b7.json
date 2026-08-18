@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T20:57:30.874Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-18T02:13:06.860Z",
+  "entryCount": 28,
   "entries": {
     "671970": {
       "rank": 44,
@@ -179,6 +179,13 @@
       "estimate": "15k+",
       "name": "Disc Golf Masters",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4412960": {
+      "rank": 557,
+      "estimate": "40k+",
+      "name": "光与影之恋 Chiaroscuro Lovers",
+      "releaseDate": "2026-08-17",
       "source": "tracked"
     },
     "4508340": {

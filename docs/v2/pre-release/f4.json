@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-17T20:57:30.874Z",
-  "entryCount": 43,
+  "updatedAt": "2026-08-18T02:13:06.860Z",
+  "entryCount": 44,
   "entries": {
     "858820": {
       "rank": 1,
@@ -234,6 +234,13 @@
       "name": "Super Loco World - Cozy Train Automation",
       "releaseDate": "2025-07-14",
       "source": "historical"
+    },
+    "3864570": {
+      "rank": 8474,
+      "estimate": "<7k",
+      "name": "元气桌面壁纸",
+      "releaseDate": "2026-08-17",
+      "source": "tracked"
     },
     "3930370": {
       "rank": 5362,
