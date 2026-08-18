@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 37,
   "entries": {
     "1039100": {
       "rank": 184,
@@ -254,6 +254,13 @@
       "estimate": "<7k",
       "name": "Uchi No Heya!",
       "releaseDate": "2026-07-19",
+      "source": "tracked"
+    },
+    "4767110": {
+      "rank": 5913,
+      "estimate": "<7k",
+      "name": "Wheelchair For Two",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     }
   }

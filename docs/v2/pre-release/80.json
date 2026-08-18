@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
+  "updatedAt": "2026-08-18T16:14:29.017Z",
   "entryCount": 37,
   "entries": {
     "1112390": {
-      "rank": 2418,
-      "estimate": "7k+",
+      "rank": 3117,
+      "estimate": "<7k",
       "name": "HyperCore : Rhythm Bullet Hell",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-08-18",
+      "source": "tracked"
     },
     "1125240": {
       "rank": 496,

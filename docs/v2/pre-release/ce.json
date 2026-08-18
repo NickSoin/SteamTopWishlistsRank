@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 33,
   "entries": {
     "850170": {
       "rank": 394,
@@ -177,6 +177,13 @@
       "estimate": "25k+",
       "name": "Treasure Beach",
       "releaseDate": "2026-06-20",
+      "source": "tracked"
+    },
+    "3940340": {
+      "rank": 559,
+      "estimate": "40k+",
+      "name": "Entropy",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     },
     "4054420": {

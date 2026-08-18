@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 36,
   "entries": {
     "914890": {
       "rank": 644,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "Chinese Street Food Legend",
       "releaseDate": "2026-08-14",
+      "source": "tracked"
+    },
+    "4017050": {
+      "rank": 7280,
+      "estimate": "<7k",
+      "name": "DDD: Demons Double Down",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     },
     "4196120": {

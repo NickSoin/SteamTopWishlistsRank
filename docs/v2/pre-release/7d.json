@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 33,
   "entries": {
     "919360": {
       "rank": 151,
@@ -82,6 +82,13 @@
       "name": "TAGLINE",
       "releaseDate": "2023-10-05",
       "source": "historical"
+    },
+    "1925650": {
+      "rank": 567,
+      "estimate": "40k+",
+      "name": "Stars Reach",
+      "releaseDate": "2026-08-18",
+      "source": "tracked"
     },
     "1984790": {
       "rank": 649,

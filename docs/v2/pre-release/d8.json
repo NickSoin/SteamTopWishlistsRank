@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 35,
   "entries": {
     "494730": {
       "rank": 753,
@@ -224,6 +224,13 @@
       "name": "After Inc: Revival",
       "releaseDate": "2025-06-17",
       "source": "historical"
+    },
+    "3729550": {
+      "rank": 2224,
+      "estimate": "7k+",
+      "name": "Stackmon",
+      "releaseDate": "2026-08-18",
+      "source": "tracked"
     },
     "4112070": {
       "rank": 474,

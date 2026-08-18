@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 20,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 21,
   "entries": {
     "771800": {
-      "rank": 399,
+      "rank": 398,
       "estimate": "80k+",
       "name": "Deadstick - Bush Pilot Simulator"
     },
     "1101370": {
-      "rank": 720,
+      "rank": 716,
       "estimate": "40k+",
       "name": "Wind Runners"
     },
     "1680800": {
-      "rank": 4725,
+      "rank": 4716,
       "estimate": "<7k",
       "name": "Biwar Legend of Dragon Slayer"
     },
     "1690100": {
-      "rank": 2327,
+      "rank": 2320,
       "estimate": "7k+",
       "name": "Cosminers"
     },
     "1823210": {
-      "rank": 1759,
+      "rank": 1757,
       "estimate": "15k+",
       "name": "Breeze in the Clouds"
     },
     "2159260": {
-      "rank": 1053,
+      "rank": 1050,
       "estimate": "25k+",
       "name": "Vampire Rancher"
     },
     "2193150": {
-      "rank": 653,
+      "rank": 650,
       "estimate": "40k+",
       "name": "Kibu"
     },
@@ -45,64 +45,69 @@
       "name": "Unrecord"
     },
     "2404870": {
-      "rank": 4664,
+      "rank": 4656,
       "estimate": "<7k",
       "name": "Camping Park Simulator"
     },
     "2549980": {
-      "rank": 3128,
+      "rank": 3114,
       "estimate": "<7k",
       "name": "RANGER COMMANDO"
     },
     "2669200": {
-      "rank": 4974,
+      "rank": 4964,
       "estimate": "<7k",
       "name": "Catffee Time!"
     },
     "2687200": {
-      "rank": 1140,
+      "rank": 1137,
       "estimate": "25k+",
       "name": "100 London Cats"
     },
     "3309550": {
-      "rank": 1091,
+      "rank": 1087,
       "estimate": "25k+",
       "name": "Skarven"
     },
     "3606970": {
-      "rank": 545,
+      "rank": 544,
       "estimate": "40k+",
       "name": "Brass Rain"
     },
     "3696210": {
-      "rank": 3857,
+      "rank": 3846,
       "estimate": "<7k",
       "name": "On Donuts and Holes"
     },
     "3699390": {
-      "rank": 4171,
+      "rank": 4159,
       "estimate": "<7k",
       "name": "Little Mage"
     },
     "3930480": {
-      "rank": 2643,
+      "rank": 2636,
       "estimate": "7k+",
       "name": "Dungeon Tourists"
     },
     "4018330": {
-      "rank": 1405,
+      "rank": 1401,
       "estimate": "25k+",
       "name": "Lord of Undead"
     },
     "4328570": {
-      "rank": 5023,
+      "rank": 5014,
       "estimate": "<7k",
       "name": "WE ARE FOOTBALL 2027"
     },
     "4414110": {
-      "rank": 1873,
+      "rank": 1869,
       "estimate": "15k+",
       "name": "WATERFUL: a tiny oasis builder"
+    },
+    "4436200": {
+      "rank": 5199,
+      "estimate": "<7k",
+      "name": "FluxWerks"
     }
   }
 }

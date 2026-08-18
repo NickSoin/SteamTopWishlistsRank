@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 38,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 39,
   "entries": {
     "1067360": {
       "rank": 130,
@@ -203,6 +203,13 @@
       "name": "Hypnotic Idol",
       "releaseDate": "2024-06-18",
       "source": "historical"
+    },
+    "2928570": {
+      "rank": 6823,
+      "estimate": "<7k",
+      "name": "Néro & Sci ∫ Integral Edition",
+      "releaseDate": "2026-08-18",
+      "source": "tracked"
     },
     "3040880": {
       "rank": 36,

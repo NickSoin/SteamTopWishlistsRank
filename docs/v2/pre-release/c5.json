@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 44,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 45,
   "entries": {
     "595500": {
       "rank": 511,
@@ -259,6 +259,13 @@
       "releaseDate": "2026-01-12",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758645642"
+    },
+    "3435610": {
+      "rank": 1917,
+      "estimate": "15k+",
+      "name": "Exark",
+      "releaseDate": "2026-08-18",
+      "source": "tracked"
     },
     "3722660": {
       "rank": 2726,

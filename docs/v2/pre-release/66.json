@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 42,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 43,
   "entries": {
     "976890": {
       "rank": 70,
@@ -240,6 +240,13 @@
       "name": "Cozy Organizer",
       "releaseDate": "2025-09-13",
       "source": "historical"
+    },
+    "3878380": {
+      "rank": 4060,
+      "estimate": "<7k",
+      "name": "Lugal: Bronze Age Survival Game",
+      "releaseDate": "2026-08-18",
+      "source": "tracked"
     },
     "3936730": {
       "rank": 638,

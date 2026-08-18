@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 29,
   "entries": {
     "411090": {
       "rank": 5947,
@@ -31,6 +31,13 @@
       "name": "Atomic Heart",
       "releaseDate": "2023-02-20",
       "source": "historical"
+    },
+    "738090": {
+      "rank": 1899,
+      "estimate": "15k+",
+      "name": "GRIT",
+      "releaseDate": "2026-08-18",
+      "source": "tracked"
     },
     "923100": {
       "rank": 1035,

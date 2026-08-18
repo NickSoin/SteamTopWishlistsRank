@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 29,
   "entries": {
     "751630": {
       "rank": 64,
@@ -143,6 +143,13 @@
       "name": "PVKK: Planetenverteidigungskanonenkommandant",
       "releaseDate": "2027-01-01",
       "source": "historical"
+    },
+    "2962780": {
+      "rank": 686,
+      "estimate": "40k+",
+      "name": "BeastLink",
+      "releaseDate": "2026-08-18",
+      "source": "tracked"
     },
     "2977430": {
       "rank": 1097,

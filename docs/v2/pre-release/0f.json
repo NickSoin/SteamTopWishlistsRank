@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 33,
   "entries": {
     "436780": {
       "rank": 31,
@@ -59,6 +59,13 @@
       "name": "Fueled Up",
       "releaseDate": "2022-10-13",
       "source": "historical"
+    },
+    "1575990": {
+      "rank": 375,
+      "estimate": "80k+",
+      "name": "Twisted Tower",
+      "releaseDate": "2026-08-18",
+      "source": "tracked"
     },
     "1579280": {
       "rank": 623,

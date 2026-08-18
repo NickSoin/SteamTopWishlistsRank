@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T11:06:49.669Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-18T16:14:29.017Z",
+  "entryCount": 30,
   "entries": {
     "482400": {
       "rank": 6,
@@ -170,6 +170,13 @@
       "estimate": "25k+",
       "name": "MineGeon: Renegades",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "3238420": {
+      "rank": 1741,
+      "estimate": "15k+",
+      "name": "Torment Hexus",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     },
     "3334100": {
