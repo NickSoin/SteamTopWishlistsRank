@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T02:13:06.860Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-18T05:53:10.724Z",
+  "entryCount": 29,
   "entries": {
     "1219240": {
       "rank": 736,
@@ -183,6 +183,13 @@
       "estimate": "80k+",
       "name": "Machine Party",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4390450": {
+      "rank": 7494,
+      "estimate": "<7k",
+      "name": "Funeral Flowers Lament: Helena",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     },
     "4592120": {

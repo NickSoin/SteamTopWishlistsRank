@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T02:13:06.860Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-18T05:53:10.724Z",
+  "entryCount": 31,
   "entries": {
     "290100": {
       "rank": 249,
@@ -173,6 +173,13 @@
       "name": "TSAREVNA. Age of Tales",
       "releaseDate": "2027-01-01",
       "source": "historical"
+    },
+    "3756870": {
+      "rank": 8413,
+      "estimate": "<7k",
+      "name": "Project DeepWeb: Eternal Nightmare",
+      "releaseDate": "2026-08-17",
+      "source": "tracked"
     },
     "3913840": {
       "rank": 4533,
