@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T05:53:10.724Z",
-  "entryCount": 44,
+  "updatedAt": "2026-08-18T11:06:49.669Z",
+  "entryCount": 45,
   "entries": {
     "858820": {
       "rank": 1,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Pight",
       "releaseDate": "2026-08-08",
+      "source": "tracked"
+    },
+    "2825860": {
+      "rank": 174,
+      "estimate": "200k+",
+      "name": "The Sinking City 2",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     },
     "2843190": {

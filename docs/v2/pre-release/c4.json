@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T05:53:10.724Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-18T11:06:49.669Z",
+  "entryCount": 34,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "STEEL SERAPHIM: PROVING GROUNDS",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4908990": {
+      "rank": 4928,
+      "estimate": "<7k",
+      "name": "Boring Car Stories - Maghrebine des transports et logistique",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     }
   }
