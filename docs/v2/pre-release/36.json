@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T11:19:40.287Z",
-  "entryCount": 38,
+  "updatedAt": "2026-08-19T15:52:53.120Z",
+  "entryCount": 39,
   "entries": {
     "694990": {
       "rank": 49,
@@ -87,6 +87,13 @@
       "name": "Outpost: Infinity Siege",
       "releaseDate": "2024-03-26",
       "source": "historical"
+    },
+    "1572260": {
+      "rank": 4390,
+      "estimate": "<7k",
+      "name": "Wild Ice",
+      "releaseDate": "2026-08-19",
+      "source": "tracked"
     },
     "1581950": {
       "rank": 1168,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T11:19:40.287Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-19T15:52:53.120Z",
+  "entryCount": 34,
   "entries": {
     "511280": {
       "rank": 886,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Pickochet",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4458840": {
+      "rank": 1948,
+      "estimate": "15k+",
+      "name": "T.W.I.R.L.",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     },
     "4725980": {

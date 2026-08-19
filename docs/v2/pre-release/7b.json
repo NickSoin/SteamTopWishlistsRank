@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T11:19:40.287Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-19T15:52:53.120Z",
+  "entryCount": 28,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Space Tail: Definitive Edition",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "4012810": {
+      "rank": 147,
+      "estimate": "200k+",
+      "name": "STEINS;GATE RE:BOOT",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     },
     "4458900": {

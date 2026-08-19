@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T11:19:40.287Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-19T15:52:53.120Z",
+  "entryCount": 22,
   "entries": {
     "589450": {
       "rank": 1113,
@@ -128,6 +128,13 @@
       "estimate": "<7k",
       "name": "Iron Circus × INDIEPOCALYPSE Game Jam",
       "releaseDate": "2026-07-06",
+      "source": "tracked"
+    },
+    "4026250": {
+      "rank": 531,
+      "estimate": "40k+",
+      "name": "Project P.I.T.T.",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     },
     "4212480": {

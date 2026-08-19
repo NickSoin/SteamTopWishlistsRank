@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T11:19:40.287Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-19T15:52:53.120Z",
+  "entryCount": 32,
   "entries": {
     "759080": {
       "rank": 605,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Declutterer",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4633140": {
+      "rank": 2212,
+      "estimate": "7k+",
+      "name": "My Singing Monsters Karaoke",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     },
     "4653340": {

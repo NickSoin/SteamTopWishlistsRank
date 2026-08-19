@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T11:19:40.287Z",
-  "entryCount": 42,
+  "updatedAt": "2026-08-19T15:52:53.120Z",
+  "entryCount": 43,
   "entries": {
     "995680": {
       "rank": 39,
@@ -277,6 +277,13 @@
       "estimate": "7k+",
       "name": "Mothkeep",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4109210": {
+      "rank": 5003,
+      "estimate": "<7k",
+      "name": "Blood in the Panopticon",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     },
     "4243990": {

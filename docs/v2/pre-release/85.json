@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T11:19:40.287Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-19T15:52:53.120Z",
+  "entryCount": 35,
   "entries": {
     "440000": {
       "rank": 459,
@@ -150,6 +150,13 @@
       "name": "Gift",
       "releaseDate": "2024-05-08",
       "source": "historical"
+    },
+    "2327640": {
+      "rank": 1777,
+      "estimate": "15k+",
+      "name": "Deadlock Station",
+      "releaseDate": "2026-08-19",
+      "source": "tracked"
     },
     "2366980": {
       "rank": 597,

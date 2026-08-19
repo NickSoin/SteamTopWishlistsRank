@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T11:19:40.287Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-19T15:52:53.120Z",
+  "entryCount": 34,
   "entries": {
     "661680": {
       "rank": 689,
@@ -232,6 +232,13 @@
       "estimate": "<7k",
       "name": "Mahjong Realms - Ancient Desert",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4644290": {
+      "rank": 3263,
+      "estimate": "<7k",
+      "name": "春はあけぼの、我はバケモノ。 - Spring at Dawn, I Am a Monster.",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     },
     "4703120": {
