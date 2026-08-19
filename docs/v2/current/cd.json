@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-19T05:54:21.951Z",
-  "entryCount": 18,
+  "updatedAt": "2026-08-19T11:19:40.287Z",
+  "entryCount": 19,
   "entries": {
     "1113400": {
-      "rank": 576,
+      "rank": 577,
       "estimate": "40k+",
       "name": "Alliance of the Sacred Suns"
     },
     "1231210": {
-      "rank": 2960,
+      "rank": 2962,
       "estimate": "7k+",
       "name": "Midair 2"
     },
     "1353150": {
-      "rank": 3143,
+      "rank": 3144,
       "estimate": "<7k",
       "name": "The Path of Calydra"
     },
@@ -30,12 +30,12 @@
       "name": "iii: Revolving Wonderland"
     },
     "2163660": {
-      "rank": 2970,
+      "rank": 2971,
       "estimate": "7k+",
       "name": "Loading..."
     },
     "2228000": {
-      "rank": 4436,
+      "rank": 4437,
       "estimate": "<7k",
       "name": "Hazuki Dies: She Has No Name"
     },
@@ -50,9 +50,14 @@
       "name": "Shardbreakers"
     },
     "3899920": {
-      "rank": 3481,
+      "rank": 3479,
       "estimate": "<7k",
       "name": "Recycling Shift"
+    },
+    "3929700": {
+      "rank": 3601,
+      "estimate": "<7k",
+      "name": "Pixel Formation"
     },
     "4024440": {
       "rank": 1027,
@@ -75,7 +80,7 @@
       "name": "Gemini X"
     },
     "4398680": {
-      "rank": 5201,
+      "rank": 5200,
       "estimate": "<7k",
       "name": "Moon Reader"
     },

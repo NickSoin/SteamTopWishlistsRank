@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T05:54:21.951Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-19T11:19:40.287Z",
+  "entryCount": 26,
   "entries": {
     "736590": {
       "rank": 75,
@@ -144,6 +144,13 @@
       "estimate": "25k+",
       "name": "Deep Crafter",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "2876050": {
+      "rank": 3289,
+      "estimate": "<7k",
+      "name": "宠物街金鱼姬 Pet Street Story",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     },
     "2963240": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-19T05:54:21.951Z",
-  "entryCount": 19,
+  "updatedAt": "2026-08-19T11:19:40.287Z",
+  "entryCount": 20,
   "entries": {
     "809550": {
       "rank": 2273,
@@ -40,7 +40,7 @@
       "name": "Space Travellers"
     },
     "2421750": {
-      "rank": 413,
+      "rank": 412,
       "estimate": "80k+",
       "name": "Gunman Contracts - Stand Alone"
     },
@@ -55,22 +55,22 @@
       "name": "Car Mechanic Simulator 2026"
     },
     "2779310": {
-      "rank": 4691,
+      "rank": 4690,
       "estimate": "<7k",
       "name": "Stones Keeper II: Chaos Lord"
     },
     "2992580": {
-      "rank": 4190,
+      "rank": 4181,
       "estimate": "<7k",
       "name": "Ventreville: A Cure for Sorrow"
     },
     "3065940": {
-      "rank": 339,
+      "rank": 337,
       "estimate": "80k+",
       "name": "Gallipoli"
     },
     "3177760": {
-      "rank": 1964,
+      "rank": 1965,
       "estimate": "15k+",
       "name": "Critterville Goes Bankrupt"
     },
@@ -90,14 +90,19 @@
       "name": "Lone Pine"
     },
     "3581260": {
-      "rank": 3012,
-      "estimate": "<7k",
+      "rank": 2999,
+      "estimate": "7k+",
       "name": "Dance of Theseus"
     },
     "4180840": {
-      "rank": 2279,
+      "rank": 2280,
       "estimate": "7k+",
       "name": "Shadowstone"
+    },
+    "4581890": {
+      "rank": 5228,
+      "estimate": "<7k",
+      "name": "Kayak with friends"
     }
   }
 }

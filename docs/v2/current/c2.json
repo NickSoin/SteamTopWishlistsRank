@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-19T05:54:21.951Z",
-  "entryCount": 12,
+  "updatedAt": "2026-08-19T11:19:40.287Z",
+  "entryCount": 13,
   "entries": {
     "1037170": {
-      "rank": 3736,
+      "rank": 3737,
       "estimate": "<7k",
       "name": "Maximum Thunderness"
     },
     "1040240": {
-      "rank": 1890,
+      "rank": 1891,
       "estimate": "15k+",
       "name": "Transformice Adventures"
     },
     "1666480": {
-      "rank": 3748,
+      "rank": 3747,
       "estimate": "<7k",
       "name": "Astra: Fading Stars"
     },
@@ -23,6 +23,11 @@
       "rank": 3168,
       "estimate": "<7k",
       "name": "Lendas"
+    },
+    "2481240": {
+      "rank": 5211,
+      "estimate": "<7k",
+      "name": "HavenCraft"
     },
     "2503230": {
       "rank": 1804,
@@ -40,17 +45,17 @@
       "name": "Tangerine Antarctic"
     },
     "3589660": {
-      "rank": 2787,
+      "rank": 2778,
       "estimate": "7k+",
       "name": "Total War: WARHAMMER III - Thanquol – Lords of the End Times"
     },
     "3617990": {
-      "rank": 845,
+      "rank": 846,
       "estimate": "40k+",
       "name": "Star Wrath"
     },
     "3677310": {
-      "rank": 2814,
+      "rank": 2818,
       "estimate": "7k+",
       "name": "Misty Valley: A Cozy Fishing Tale"
     },
@@ -60,7 +65,7 @@
       "name": "Speak"
     },
     "5047700": {
-      "rank": 5047,
+      "rank": 5036,
       "estimate": "<7k",
       "name": "Stillsun Ark"
     }

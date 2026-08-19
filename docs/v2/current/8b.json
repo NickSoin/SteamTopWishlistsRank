@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-19T05:54:21.951Z",
+  "updatedAt": "2026-08-19T11:19:40.287Z",
   "entryCount": 15,
   "entries": {
     "1511480": {
@@ -10,32 +10,32 @@
       "name": "AlterLife"
     },
     "1553590": {
-      "rank": 3211,
+      "rank": 3213,
       "estimate": "<7k",
       "name": "Saveseeker"
     },
     "1578870": {
-      "rank": 3463,
+      "rank": 3461,
       "estimate": "<7k",
       "name": "Shadowman®: Darque Legacy"
     },
     "1667040": {
-      "rank": 115,
+      "rank": 116,
       "estimate": "200k+",
       "name": "Under a Rock"
     },
     "1701160": {
-      "rank": 3860,
+      "rank": 3859,
       "estimate": "<7k",
       "name": "The Darkest Star"
     },
     "1735080": {
-      "rank": 3850,
+      "rank": 3849,
       "estimate": "<7k",
       "name": "High Elo Girls"
     },
     "2054520": {
-      "rank": 1627,
+      "rank": 1624,
       "estimate": "15k+",
       "name": "Gawr Gura: Quest for Bread"
     },
@@ -45,7 +45,7 @@
       "name": "Hymn to the Earless God"
     },
     "2246370": {
-      "rank": 1730,
+      "rank": 1732,
       "estimate": "15k+",
       "name": "Music Power Up"
     },
@@ -59,18 +59,13 @@
       "estimate": "<7k",
       "name": "Menyr"
     },
-    "2876050": {
-      "rank": 3289,
-      "estimate": "<7k",
-      "name": "宠物街金鱼姬 Pet Street Story"
-    },
     "3188660": {
       "rank": 1308,
       "estimate": "25k+",
       "name": "Motocross The Game"
     },
     "3778610": {
-      "rank": 1588,
+      "rank": 1587,
       "estimate": "15k+",
       "name": "Colorbound"
     },
@@ -78,6 +73,11 @@
       "rank": 1313,
       "estimate": "25k+",
       "name": "Another Dead World"
+    },
+    "5069130": {
+      "rank": 5098,
+      "estimate": "<7k",
+      "name": "Magna Conquest"
     }
   }
 }

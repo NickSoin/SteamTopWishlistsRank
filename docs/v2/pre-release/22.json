@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T05:54:21.951Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-19T11:19:40.287Z",
+  "entryCount": 31,
   "entries": {
     "553420": {
       "rank": 45,
@@ -177,6 +177,13 @@
       "estimate": "15k+",
       "name": "Ludus Magnatus: Gladiator Manager Simulator",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4376090": {
+      "rank": 2765,
+      "estimate": "7k+",
+      "name": "Strong-Willed Wife",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     },
     "4383700": {

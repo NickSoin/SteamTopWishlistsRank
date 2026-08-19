@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T05:54:21.951Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-19T11:19:40.287Z",
+  "entryCount": 29,
   "entries": {
     "1063030": {
       "rank": 621,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "Chrono CCG",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4961870": {
+      "rank": 4742,
+      "estimate": "<7k",
+      "name": "Planet Coaster 2: Silver Screen Pack",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     }
   }
