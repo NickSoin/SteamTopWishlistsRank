@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T20:48:44.100Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-19T02:12:09.179Z",
+  "entryCount": 28,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -190,6 +190,13 @@
       "estimate": "<7k",
       "name": "非常规放送部 Mika & Luna",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4663080": {
+      "rank": 5948,
+      "estimate": "<7k",
+      "name": "Escape the Grind",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     },
     "4703870": {

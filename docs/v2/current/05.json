@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-18T20:48:44.100Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-19T02:12:09.179Z",
+  "entryCount": 20,
   "entries": {
     "971700": {
       "rank": 1211,
@@ -10,7 +10,7 @@
       "name": "ALARA Prime"
     },
     "1103610": {
-      "rank": 2901,
+      "rank": 2900,
       "estimate": "7k+",
       "name": "Sailor Simulator"
     },
@@ -19,18 +19,13 @@
       "estimate": "15k+",
       "name": "Aftermath"
     },
-    "1996090": {
-      "rank": 612,
-      "estimate": "40k+",
-      "name": "Vapor World: Over The Mind"
-    },
     "2075800": {
-      "rank": 31,
+      "rank": 30,
       "estimate": "600k+",
       "name": "STAR WARS Zero Company™"
     },
     "2078410": {
-      "rank": 4960,
+      "rank": 4961,
       "estimate": "<7k",
       "name": "Space Trucker"
     },
@@ -40,7 +35,7 @@
       "name": "Threads of Time"
     },
     "2133500": {
-      "rank": 4667,
+      "rank": 4668,
       "estimate": "<7k",
       "name": "Keep Those Bugs Away From the Bomb"
     },
@@ -50,47 +45,47 @@
       "name": "Island of Mine"
     },
     "2809120": {
-      "rank": 4156,
+      "rank": 4155,
       "estimate": "<7k",
       "name": "Red Snow"
     },
     "3081510": {
-      "rank": 469,
+      "rank": 471,
       "estimate": "80k+",
       "name": "Gang of Frogs"
     },
     "3100420": {
-      "rank": 4558,
+      "rank": 4559,
       "estimate": "<7k",
       "name": "The Fractured Shimmer"
     },
     "3144060": {
-      "rank": 2619,
+      "rank": 2621,
       "estimate": "7k+",
       "name": "World of the dead"
     },
     "3595710": {
-      "rank": 3333,
+      "rank": 3334,
       "estimate": "<7k",
       "name": "SCOPECREEP"
     },
     "3603020": {
-      "rank": 4717,
+      "rank": 4716,
       "estimate": "<7k",
       "name": "Auto Legends"
     },
     "4106270": {
-      "rank": 4278,
+      "rank": 4254,
       "estimate": "<7k",
       "name": "Ecrazeus Castle"
     },
     "4261030": {
-      "rank": 4607,
+      "rank": 4600,
       "estimate": "<7k",
       "name": "Orb Breaker"
     },
     "4349170": {
-      "rank": 3160,
+      "rank": 3155,
       "estimate": "<7k",
       "name": "Virus Lab"
     },
@@ -100,12 +95,12 @@
       "name": "MOOSA: Dirty Fate"
     },
     "4601120": {
-      "rank": 3780,
+      "rank": 3779,
       "estimate": "<7k",
       "name": "Endless Rails"
     },
     "4623300": {
-      "rank": 1011,
+      "rank": 1010,
       "estimate": "25k+",
       "name": "Open Waters"
     }

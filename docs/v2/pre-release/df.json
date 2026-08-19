@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T20:48:44.100Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-19T02:12:09.179Z",
+  "entryCount": 32,
   "entries": {
     "990080": {
       "rank": 1,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Unusual Tales: After Bark",
       "releaseDate": "2026-08-14",
+      "source": "tracked"
+    },
+    "4532550": {
+      "rank": 6996,
+      "estimate": "<7k",
+      "name": "Keep Her Safe",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     },
     "4568980": {

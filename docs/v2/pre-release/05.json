@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T20:48:44.100Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-19T02:12:09.179Z",
+  "entryCount": 29,
   "entries": {
     "1062090": {
       "rank": 3,
@@ -73,6 +73,13 @@
       "name": "The Cub",
       "releaseDate": "2024-01-19",
       "source": "historical"
+    },
+    "1996090": {
+      "rank": 612,
+      "estimate": "40k+",
+      "name": "Vapor World: Over The Mind",
+      "releaseDate": "2026-08-18",
+      "source": "tracked"
     },
     "2000800": {
       "rank": 916,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-18T20:48:44.100Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-19T02:12:09.179Z",
+  "entryCount": 35,
   "entries": {
     "593150": {
       "rank": 72,
@@ -204,6 +204,13 @@
       "estimate": "<7k",
       "name": "Into The Depths",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4158610": {
+      "rank": 2757,
+      "estimate": "7k+",
+      "name": "TFC2: The Fertile Crescent 2 - Collapse of The Bronze Age",
+      "releaseDate": "2026-08-18",
       "source": "tracked"
     },
     "4182640": {
