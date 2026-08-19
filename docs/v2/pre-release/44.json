@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T15:52:53.120Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-19T20:51:08.170Z",
+  "entryCount": 29,
   "entries": {
     "499180": {
       "rank": 937,
@@ -185,6 +185,13 @@
       "name": "KuloNiku: Bowl Up!",
       "releaseDate": "2026-04-07",
       "source": "historical"
+    },
+    "3553250": {
+      "rank": 1882,
+      "estimate": "15k+",
+      "name": "Holey",
+      "releaseDate": "2026-08-19",
+      "source": "tracked"
     },
     "4454000": {
       "rank": 9823,

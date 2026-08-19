@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-19T15:52:53.120Z",
-  "entryCount": 15,
+  "updatedAt": "2026-08-19T20:51:08.170Z",
+  "entryCount": 16,
   "entries": {
     "1244600": {
-      "rank": 3018,
+      "rank": 3017,
       "estimate": "<7k",
       "name": "Let's Drive - learn driving simulator"
     },
     "2817960": {
-      "rank": 4401,
+      "rank": 4403,
       "estimate": "<7k",
       "name": "Button Man"
     },
     "2960460": {
-      "rank": 577,
+      "rank": 576,
       "estimate": "40k+",
       "name": "Spaceflight Simulator 2"
     },
     "3078760": {
-      "rank": 721,
+      "rank": 720,
       "estimate": "40k+",
       "name": "LIVING HELL"
     },
@@ -30,17 +30,17 @@
       "name": "PACS - Post Apocalypse Courier Service: Co-op Delivery Simulator"
     },
     "3355360": {
-      "rank": 279,
+      "rank": 278,
       "estimate": "80k+",
       "name": "4:LOOP"
     },
     "3395320": {
-      "rank": 1553,
+      "rank": 1552,
       "estimate": "15k+",
       "name": "Critical Shift"
     },
     "3485580": {
-      "rank": 1917,
+      "rank": 1904,
       "estimate": "15k+",
       "name": "Bodybuilder Simulator CO-OP"
     },
@@ -50,19 +50,24 @@
       "name": "Klostyn"
     },
     "3623050": {
-      "rank": 4880,
+      "rank": 4879,
       "estimate": "<7k",
       "name": "Ending the Happy Route"
     },
     "3788160": {
-      "rank": 892,
+      "rank": 890,
       "estimate": "40k+",
       "name": "Terminal War"
     },
     "3950440": {
-      "rank": 2168,
+      "rank": 2166,
       "estimate": "7k+",
       "name": "Lootbane"
+    },
+    "4107960": {
+      "rank": 5218,
+      "estimate": "<7k",
+      "name": ".curator"
     },
     "4221990": {
       "rank": 4326,
@@ -70,12 +75,12 @@
       "name": "Fish Lab"
     },
     "4588510": {
-      "rank": 2467,
+      "rank": 2453,
       "estimate": "7k+",
       "name": "Mayday Vacay"
     },
     "4833450": {
-      "rank": 2248,
+      "rank": 2210,
       "estimate": "7k+",
       "name": "Money for Girls: Amortized"
     }

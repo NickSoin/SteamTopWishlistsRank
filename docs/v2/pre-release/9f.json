@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T15:52:53.120Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-19T20:51:08.170Z",
+  "entryCount": 34,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -221,6 +221,13 @@
       "estimate": "7k+",
       "name": "Incremental Infinity",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4225890": {
+      "rank": 4565,
+      "estimate": "<7k",
+      "name": "Desktop Detective",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     },
     "4725790": {
