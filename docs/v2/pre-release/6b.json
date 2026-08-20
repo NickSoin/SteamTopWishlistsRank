@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T01:56:15.225Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-20T06:09:54.808Z",
+  "entryCount": 23,
   "entries": {
     "1173790": {
       "rank": 382,
@@ -142,6 +142,13 @@
       "estimate": "<7k",
       "name": "Heartstop Tour",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4354710": {
+      "rank": 4958,
+      "estimate": "<7k",
+      "name": "Ghost Buster:Village",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     },
     "4358260": {

@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-20T01:56:15.225Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-20T06:09:54.808Z",
+  "entryCount": 28,
   "entries": {
     "792610": {
-      "rank": 459,
+      "rank": 460,
       "estimate": "80k+",
       "name": "King of the Dwarves: Underground City Builder"
     },
     "884670": {
-      "rank": 1959,
+      "rank": 1961,
       "estimate": "15k+",
       "name": "Codenames"
     },
     "925500": {
-      "rank": 902,
+      "rank": 903,
       "estimate": "40k+",
       "name": "Innkeep"
     },
     "1215170": {
-      "rank": 4369,
+      "rank": 4370,
       "estimate": "<7k",
       "name": "Dawnthorn"
     },
@@ -30,12 +30,12 @@
       "name": "Falling Frontier"
     },
     "1350310": {
-      "rank": 3768,
+      "rank": 3770,
       "estimate": "<7k",
       "name": "Tachyons: Battles Across the Galaxy"
     },
     "1556400": {
-      "rank": 4429,
+      "rank": 4430,
       "estimate": "<7k",
       "name": "HIGHPOINT"
     },
@@ -50,12 +50,12 @@
       "name": "Class Zero Seven"
     },
     "2073980": {
-      "rank": 3900,
+      "rank": 3902,
       "estimate": "<7k",
       "name": "SUMMER ROAD 10-Minute Auto Roguelite"
     },
     "2106150": {
-      "rank": 3635,
+      "rank": 3637,
       "estimate": "<7k",
       "name": "琉奈と悪夢の館"
     },
@@ -72,12 +72,12 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289596300"
     },
     "2457920": {
-      "rank": 2619,
+      "rank": 2620,
       "estimate": "7k+",
       "name": "gOnshit infarct"
     },
     "2622180": {
-      "rank": 2538,
+      "rank": 2539,
       "estimate": "7k+",
       "name": "Detective Fantasia: EXCALIMURDER"
     },
@@ -97,7 +97,7 @@
       "name": "Tenkemo"
     },
     "3450780": {
-      "rank": 2285,
+      "rank": 2288,
       "estimate": "7k+",
       "name": "Primordial Empire"
     },
@@ -107,7 +107,7 @@
       "name": "Harrowlands"
     },
     "3731410": {
-      "rank": 5039,
+      "rank": 5040,
       "estimate": "<7k",
       "name": "hitogata"
     },
@@ -117,7 +117,7 @@
       "name": "Ballgame"
     },
     "3978240": {
-      "rank": 3781,
+      "rank": 3779,
       "estimate": "<7k",
       "name": "Wordless Forest"
     },
@@ -132,14 +132,19 @@
       "name": "GemCraft - Legacy Collection"
     },
     "4458440": {
-      "rank": 2517,
+      "rank": 2519,
       "estimate": "7k+",
       "name": "Pelican Post"
     },
     "4673650": {
-      "rank": 5078,
+      "rank": 5070,
       "estimate": "<7k",
       "name": "Crown Control"
+    },
+    "4740930": {
+      "rank": 5199,
+      "estimate": "<7k",
+      "name": "Legend of Defenders"
     }
   }
 }
