@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T06:09:54.808Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-20T10:57:22.526Z",
+  "entryCount": 31,
   "entries": {
     "378690": {
       "rank": 1270,
@@ -164,6 +164,13 @@
       "name": "Benny's Backrooms",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "2766910": {
+      "rank": 1902,
+      "estimate": "15k+",
+      "name": "PengPong",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "2811830": {
       "rank": 1691,
