@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 34,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -239,6 +239,13 @@
       "estimate": "25k+",
       "name": "KYOTO XANADU -the Blooming Phantom-",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "4671680": {
+      "rank": 4610,
+      "estimate": "<7k",
+      "name": "Left Not Right",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     }
   }

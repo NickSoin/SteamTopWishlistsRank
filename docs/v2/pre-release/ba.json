@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 31,
   "entries": {
     "820520": {
       "rank": 553,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "LIMINALITY",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4902600": {
+      "rank": 4128,
+      "estimate": "<7k",
+      "name": "Re:Store the Record Store",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     }
   }

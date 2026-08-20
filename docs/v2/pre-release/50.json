@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 27,
   "entries": {
     "950180": {
       "rank": 218,
@@ -152,6 +152,13 @@
       "name": "GeoGuessr Steam Edition",
       "releaseDate": "2025-05-08",
       "source": "historical"
+    },
+    "4117730": {
+      "rank": 415,
+      "estimate": "80k+",
+      "name": "Slayblade",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "4159000": {
       "rank": 3065,

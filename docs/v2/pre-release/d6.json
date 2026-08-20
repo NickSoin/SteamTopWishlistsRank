@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 39,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 41,
   "entries": {
     "1067360": {
       "rank": 130,
@@ -218,6 +218,13 @@
       "releaseDate": "2026-03-27",
       "source": "historical"
     },
+    "3065940": {
+      "rank": 323,
+      "estimate": "80k+",
+      "name": "Gallipoli",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
+    },
     "3226060": {
       "rank": 2909,
       "estimate": "7k+",
@@ -244,6 +251,13 @@
       "estimate": "7k+",
       "name": "Isekai Villain",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4457560": {
+      "rank": 3247,
+      "estimate": "<7k",
+      "name": "Play Faster",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4539570": {

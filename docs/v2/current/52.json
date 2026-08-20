@@ -1,93 +1,88 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 17,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 16,
   "entries": {
     "785050": {
-      "rank": 3970,
+      "rank": 3960,
       "estimate": "<7k",
       "name": "Massive Galaxy"
     },
     "2069170": {
-      "rank": 2088,
+      "rank": 2078,
       "estimate": "7k+",
       "name": "Obsidian Legion"
     },
     "2601530": {
-      "rank": 984,
+      "rank": 978,
       "estimate": "40k+",
       "name": "Regular Home Renovation Simulator"
     },
     "2603550": {
-      "rank": 3757,
+      "rank": 3748,
       "estimate": "<7k",
       "name": "Eclipse 2: Invasion of Darkness"
     },
     "2636460": {
-      "rank": 1483,
+      "rank": 1478,
       "estimate": "25k+",
       "name": "Dungeons Deep"
     },
     "2708530": {
-      "rank": 4031,
+      "rank": 4025,
       "estimate": "<7k",
       "name": "AstroTechs"
     },
     "2939510": {
-      "rank": 1290,
+      "rank": 1285,
       "estimate": "25k+",
       "name": "Under Canopies"
     },
     "3184960": {
-      "rank": 277,
+      "rank": 275,
       "estimate": "80k+",
       "name": "The Defiant"
     },
     "3222280": {
-      "rank": 2208,
+      "rank": 2198,
       "estimate": "7k+",
       "name": "Infinitory"
     },
     "3227500": {
-      "rank": 1970,
+      "rank": 1959,
       "estimate": "15k+",
       "name": "Blades of Mirage"
     },
     "3270430": {
-      "rank": 378,
+      "rank": 375,
       "estimate": "80k+",
       "name": "Systemic War"
     },
     "3297860": {
-      "rank": 3973,
+      "rank": 3963,
       "estimate": "<7k",
       "name": "MachineClad"
     },
     "3477910": {
-      "rank": 776,
+      "rank": 770,
       "estimate": "40k+",
       "name": "The Willowmist Emporium of Antiques & Curiosities"
     },
     "3624840": {
-      "rank": 4819,
+      "rank": 4807,
       "estimate": "<7k",
       "name": "Lady Dracula"
     },
     "4004160": {
-      "rank": 3450,
+      "rank": 3442,
       "estimate": "<7k",
       "name": "Depth Loop"
     },
     "4204610": {
-      "rank": 1248,
+      "rank": 1242,
       "estimate": "25k+",
       "name": "Gentleman's Violence"
-    },
-    "4403510": {
-      "rank": 574,
-      "estimate": "40k+",
-      "name": "Sensory Overload"
     }
   }
 }

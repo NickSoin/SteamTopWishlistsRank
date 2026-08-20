@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 34,
   "entries": {
     "928000": {
       "rank": 773,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "ExoTrain",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4005220": {
+      "rank": 1955,
+      "estimate": "15k+",
+      "name": "Deep Blue Sushi",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4180620": {

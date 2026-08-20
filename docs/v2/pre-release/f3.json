@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 29,
   "entries": {
     "410740": {
       "rank": 1177,
@@ -178,6 +178,13 @@
       "name": "Moonless Moon",
       "releaseDate": "2024-08-07",
       "source": "historical"
+    },
+    "3688650": {
+      "rank": 9321,
+      "estimate": "<7k",
+      "name": "False Alarm",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "3743090": {
       "rank": 17,

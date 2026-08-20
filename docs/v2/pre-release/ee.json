@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 33,
   "entries": {
     "889910": {
       "rank": 531,
@@ -207,6 +207,13 @@
       "estimate": "80k+",
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
       "releaseDate": "2026-07-08",
+      "source": "tracked"
+    },
+    "3958820": {
+      "rank": 1549,
+      "estimate": "15k+",
+      "name": "Drive Me Broke",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4337440": {

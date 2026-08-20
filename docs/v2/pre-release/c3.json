@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 28,
   "entries": {
     "736820": {
       "rank": 19,
@@ -142,6 +142,13 @@
       "estimate": "40k+",
       "name": "Truck-kun is Supporting Me from Another World?!",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "3764970": {
+      "rank": 1167,
+      "estimate": "25k+",
+      "name": "Mexican Ninja",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4064510": {

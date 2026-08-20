@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 31,
   "entries": {
     "894020": {
       "rank": 39,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "Cat Squeeze",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "3765020": {
+      "rank": 428,
+      "estimate": "80k+",
+      "name": "S.T.A.L.K.E.R. 2: Cost of Hope",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4071500": {

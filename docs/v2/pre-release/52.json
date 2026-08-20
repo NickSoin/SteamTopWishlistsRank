@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 37,
   "entries": {
     "914890": {
       "rank": 644,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "棋桜",
       "releaseDate": "2026-06-13",
+      "source": "tracked"
+    },
+    "4403510": {
+      "rank": 574,
+      "estimate": "40k+",
+      "name": "Sensory Overload",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4438260": {

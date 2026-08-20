@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 28,
   "entries": {
     "473750": {
       "rank": 1164,
@@ -172,6 +172,13 @@
       "estimate": "7k+",
       "name": "Rock Island",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4001890": {
+      "rank": 176,
+      "estimate": "200k+",
+      "name": "How to Fish",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4056810": {

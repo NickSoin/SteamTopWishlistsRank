@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 33,
   "entries": {
     "1167100": {
       "rank": 379,
@@ -214,6 +214,13 @@
       "estimate": "15k+",
       "name": "Pat the Cat",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4294490": {
+      "rank": 421,
+      "estimate": "80k+",
+      "name": "KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4335540": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 38,
   "entries": {
     "1039100": {
       "rank": 184,
@@ -254,6 +254,13 @@
       "estimate": "<7k",
       "name": "Uchi No Heya!",
       "releaseDate": "2026-07-19",
+      "source": "tracked"
+    },
+    "4745330": {
+      "rank": 7800,
+      "estimate": "<7k",
+      "name": "Backrooms Complex",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4767110": {

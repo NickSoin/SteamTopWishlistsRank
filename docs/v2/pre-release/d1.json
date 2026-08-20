@@ -1,9 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 33,
   "entries": {
+    "1091870": {
+      "rank": 1362,
+      "estimate": "25k+",
+      "name": "Theropods",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
+    },
     "1140170": {
       "rank": 490,
       "estimate": "80k+",

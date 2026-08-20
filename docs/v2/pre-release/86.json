@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T10:57:22.526Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-20T15:55:25.808Z",
+  "entryCount": 29,
   "entries": {
     "423640": {
       "rank": 509,
@@ -152,6 +152,13 @@
       "name": "DON'T SCREAM",
       "releaseDate": "2024-10-28",
       "source": "historical"
+    },
+    "2570580": {
+      "rank": 4912,
+      "estimate": "<7k",
+      "name": "Ground Zero Hero",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "2753930": {
       "rank": 42,
