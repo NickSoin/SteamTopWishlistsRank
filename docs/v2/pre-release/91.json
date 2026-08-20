@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T15:55:25.808Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-20T21:17:23.137Z",
+  "entryCount": 22,
   "entries": {
     "1086940": {
       "rank": 3,
@@ -135,6 +135,13 @@
       "estimate": "80k+",
       "name": "Scale the Depths",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4029740": {
+      "rank": 1729,
+      "estimate": "15k+",
+      "name": "Puppergeist",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4175650": {

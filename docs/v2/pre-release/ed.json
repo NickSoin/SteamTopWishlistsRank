@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T15:55:25.808Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-20T21:17:23.137Z",
+  "entryCount": 23,
   "entries": {
     "912000": {
       "rank": 895,
@@ -135,6 +135,13 @@
       "estimate": "<7k",
       "name": "Cheat Death",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "3966510": {
+      "rank": 2726,
+      "estimate": "7k+",
+      "name": "Feed the Scorchpot",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4196150": {

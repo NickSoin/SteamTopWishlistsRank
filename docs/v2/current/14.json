@@ -1,88 +1,93 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-20T15:55:25.808Z",
-  "entryCount": 16,
+  "updatedAt": "2026-08-20T21:17:23.137Z",
+  "entryCount": 17,
   "entries": {
     "1145440": {
-      "rank": 3126,
+      "rank": 3122,
       "estimate": "<7k",
       "name": "Bloom: Memories"
     },
     "1359270": {
-      "rank": 995,
+      "rank": 992,
       "estimate": "40k+",
       "name": "Pirate Commander"
     },
     "1409270": {
-      "rank": 5151,
+      "rank": 5149,
       "estimate": "<7k",
       "name": "Call of Myth"
     },
     "1790350": {
-      "rank": 3337,
+      "rank": 3331,
       "estimate": "<7k",
       "name": "A Rat's Life: The Cat Conspiracy"
     },
     "2130010": {
-      "rank": 4309,
+      "rank": 4304,
       "estimate": "<7k",
       "name": "Castle Doombad 2: Muahaha!"
     },
     "2448010": {
-      "rank": 3436,
+      "rank": 3431,
       "estimate": "<7k",
       "name": "Prison Architect 2 - Warden's Edition Upgrade"
     },
     "2695810": {
-      "rank": 1755,
+      "rank": 1750,
       "estimate": "15k+",
       "name": "Sunset Devils"
     },
     "2705830": {
-      "rank": 4834,
+      "rank": 4817,
       "estimate": "<7k",
       "name": "Warship Jolly Roger"
     },
     "2828540": {
-      "rank": 2495,
+      "rank": 2491,
       "estimate": "7k+",
       "name": "RollerGirl"
     },
     "3040020": {
-      "rank": 2207,
+      "rank": 2200,
       "estimate": "7k+",
       "name": "N PLUS INFINITY TIMES TWO"
     },
     "3233860": {
-      "rank": 4086,
+      "rank": 4079,
       "estimate": "<7k",
       "name": "The Witch's Fairy Tale"
     },
     "3972170": {
-      "rank": 4774,
+      "rank": 4760,
       "estimate": "<7k",
       "name": "On Air! Taxi Detective Casebook"
     },
     "4030150": {
-      "rank": 1517,
+      "rank": 1512,
       "estimate": "15k+",
       "name": "The Legend of Fancy Realm Remake"
     },
     "4054220": {
-      "rank": 1228,
+      "rank": 1226,
       "estimate": "25k+",
       "name": "Unleash The Avatar"
     },
     "4249080": {
-      "rank": 4779,
+      "rank": 4770,
       "estimate": "<7k",
       "name": "Misguided Remastered"
     },
     "4398500": {
-      "rank": 2004,
-      "estimate": "7k+",
+      "rank": 1988,
+      "estimate": "15k+",
       "name": "Broke Wizards"
+    },
+    "4996690": {
+      "rank": 5199,
+      "estimate": "<7k",
+      "name": "Creature Lab 2"
     }
   }
 }

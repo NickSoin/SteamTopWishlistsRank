@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T15:55:25.808Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-20T21:17:23.137Z",
+  "entryCount": 25,
   "entries": {
     "526870": {
       "rank": 16,
@@ -10,6 +10,13 @@
       "name": "Satisfactory",
       "releaseDate": "2024-09-10",
       "source": "historical"
+    },
+    "903930": {
+      "rank": 442,
+      "estimate": "80k+",
+      "name": "Brigador Killers",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "1223530": {
       "rank": 1093,

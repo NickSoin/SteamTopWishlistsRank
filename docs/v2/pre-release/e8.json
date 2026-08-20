@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T15:55:25.808Z",
-  "entryCount": 39,
+  "updatedAt": "2026-08-20T21:17:23.137Z",
+  "entryCount": 40,
   "entries": {
     "638990": {
       "rank": 135,
@@ -241,6 +241,13 @@
       "name": "Aeons Echo",
       "releaseDate": "2024-08-22",
       "source": "historical"
+    },
+    "2836460": {
+      "rank": 1474,
+      "estimate": "25k+",
+      "name": "Cozy Marbles",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "2942950": {
       "rank": 2269,

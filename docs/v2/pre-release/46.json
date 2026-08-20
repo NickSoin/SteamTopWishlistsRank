@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T15:55:25.808Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-20T21:17:23.137Z",
+  "entryCount": 32,
   "entries": {
     "412020": {
       "rank": 3,
@@ -159,6 +159,13 @@
       "name": "Expansion - Europa Universalis IV: Winds of Change",
       "releaseDate": "2024-05-08",
       "source": "historical"
+    },
+    "3196440": {
+      "rank": 238,
+      "estimate": "80k+",
+      "name": "Vacation Cafe Simulator",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "3347400": {
       "rank": 26,

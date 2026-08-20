@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T15:55:25.808Z",
-  "entryCount": 47,
+  "updatedAt": "2026-08-20T21:17:23.137Z",
+  "entryCount": 48,
   "entries": {
     "347800": {
       "rank": 198,
@@ -313,6 +313,13 @@
       "name": "Escape from Tarkov",
       "releaseDate": "2025-11-15",
       "source": "historical"
+    },
+    "4000770": {
+      "rank": 2008,
+      "estimate": "7k+",
+      "name": "Swarmdustry",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "4019790": {
       "rank": 7660,

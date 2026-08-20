@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T15:55:25.808Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-20T21:17:23.137Z",
+  "entryCount": 26,
   "entries": {
     "843810": {
       "rank": 198,
@@ -108,6 +108,13 @@
       "name": "TRAHA Global",
       "releaseDate": "2022-11-01",
       "source": "historical"
+    },
+    "2332150": {
+      "rank": 1655,
+      "estimate": "15k+",
+      "name": "Frog Island",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "2646460": {
       "rank": 77,

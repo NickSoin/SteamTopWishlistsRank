@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T15:55:25.808Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-20T21:17:23.137Z",
+  "entryCount": 23,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -114,6 +114,13 @@
       "releaseDate": "2024-11-07",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5768625435395808681"
+    },
+    "3057420": {
+      "rank": 8703,
+      "estimate": "<7k",
+      "name": "Unsolved Case Soundtrack",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "3133920": {
       "rank": 38,

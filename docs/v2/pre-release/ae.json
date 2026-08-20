@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T15:55:25.808Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-20T21:17:23.137Z",
+  "entryCount": 36,
   "entries": {
     "593150": {
       "rank": 72,
@@ -204,6 +204,13 @@
       "estimate": "<7k",
       "name": "Into The Depths",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4038080": {
+      "rank": 4528,
+      "estimate": "<7k",
+      "name": "Entity Research Group",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4158610": {
