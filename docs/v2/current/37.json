@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-19T20:51:08.170Z",
-  "entryCount": 19,
+  "updatedAt": "2026-08-20T01:56:15.225Z",
+  "entryCount": 20,
   "entries": {
     "711610": {
-      "rank": 5029,
+      "rank": 5032,
       "estimate": "<7k",
       "name": "Playerless: One Button Adventure"
     },
     "1749810": {
-      "rank": 2581,
+      "rank": 2579,
       "estimate": "7k+",
       "name": "Lair Land Story 2: Mist of Sea"
     },
@@ -20,17 +20,17 @@
       "name": "Magical Harvest"
     },
     "2075460": {
-      "rank": 1807,
+      "rank": 1806,
       "estimate": "15k+",
       "name": "They Speak From The Abyss"
     },
     "2110000": {
-      "rank": 3016,
+      "rank": 3015,
       "estimate": "<7k",
       "name": "All Systems Dance"
     },
     "2465380": {
-      "rank": 1448,
+      "rank": 1449,
       "estimate": "25k+",
       "name": "Primal Earth"
     },
@@ -40,12 +40,12 @@
       "name": "CODE EXIT"
     },
     "2679040": {
-      "rank": 3775,
+      "rank": 3776,
       "estimate": "<7k",
       "name": "The Land of Seidr"
     },
     "2907400": {
-      "rank": 3060,
+      "rank": 3058,
       "estimate": "<7k",
       "name": "Hokko Spaces"
     },
@@ -60,12 +60,12 @@
       "name": "Magicians: The Devil's Deal"
     },
     "3593660": {
-      "rank": 2531,
+      "rank": 2530,
       "estimate": "7k+",
       "name": "Chain-Chillas"
     },
     "3714450": {
-      "rank": 308,
+      "rank": 307,
       "estimate": "80k+",
       "name": "Barotrauma - Home & Harbor Expansion"
     },
@@ -85,19 +85,24 @@
       "name": "DAIBADESTRUCTOR"
     },
     "4042150": {
-      "rank": 4140,
+      "rank": 4142,
       "estimate": "<7k",
       "name": "Secret Lab Cleaner"
     },
     "4123930": {
-      "rank": 1458,
+      "rank": 1456,
       "estimate": "25k+",
       "name": "Soverain: An Eternal Legend"
     },
     "4267650": {
-      "rank": 4815,
+      "rank": 4813,
       "estimate": "<7k",
       "name": "ALIGNMENT : An Engineering Odyssey"
+    },
+    "4568830": {
+      "rank": 5215,
+      "estimate": "<7k",
+      "name": "ASTRAL COURT DX"
     }
   }
 }

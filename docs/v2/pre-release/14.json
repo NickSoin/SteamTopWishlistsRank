@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-19T20:51:08.170Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-20T01:56:15.225Z",
+  "entryCount": 34,
   "entries": {
     "637050": {
       "rank": 136,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "Trading Card Inspector",
       "releaseDate": "2026-06-06",
+      "source": "tracked"
+    },
+    "3826420": {
+      "rank": 4988,
+      "estimate": "<7k",
+      "name": "Spirited Line",
+      "releaseDate": "2026-08-19",
       "source": "tracked"
     },
     "4155080": {
