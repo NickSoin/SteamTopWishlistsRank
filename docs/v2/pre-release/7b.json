@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T02:13:26.169Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-21T06:02:55.035Z",
+  "entryCount": 29,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -157,6 +157,13 @@
       "name": "Pebbles Quest",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3749320": {
+      "rank": 4841,
+      "estimate": "<7k",
+      "name": "Hua Manlou",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "3839850": {
       "rank": 49,

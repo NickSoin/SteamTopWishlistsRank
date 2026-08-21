@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T02:13:26.169Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-21T06:02:55.035Z",
+  "entryCount": 35,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Knockout Battle",
       "releaseDate": "2026-07-31",
+      "source": "tracked"
+    },
+    "3971650": {
+      "rank": 1355,
+      "estimate": "25k+",
+      "name": "Lazy Witch's Factory",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4144680": {

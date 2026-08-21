@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-21T02:13:26.169Z",
+  "updatedAt": "2026-08-21T06:02:55.035Z",
   "entryCount": 23,
   "entries": {
     "1400830": {
@@ -15,12 +15,12 @@
       "name": "Brutal Fate"
     },
     "1460810": {
-      "rank": 2234,
+      "rank": 2232,
       "estimate": "7k+",
       "name": "Dungeon Munchies 2"
     },
     "2127730": {
-      "rank": 1681,
+      "rank": 1680,
       "estimate": "15k+",
       "name": "Tactics Returners"
     },
@@ -35,12 +35,12 @@
       "name": "Neighbor's Wife"
     },
     "3002610": {
-      "rank": 2621,
+      "rank": 2620,
       "estimate": "7k+",
       "name": "Pebbles Quest"
     },
     "3034660": {
-      "rank": 2381,
+      "rank": 2379,
       "estimate": "7k+",
       "name": "Dunebound Tactics"
     },
@@ -50,7 +50,7 @@
       "name": "SpeedRunners 2: King of Speed"
     },
     "3219960": {
-      "rank": 2958,
+      "rank": 2957,
       "estimate": "7k+",
       "name": "ICE on the EDGE"
     },
@@ -60,7 +60,7 @@
       "name": "Nighthold"
     },
     "3557530": {
-      "rank": 4704,
+      "rank": 4702,
       "estimate": "<7k",
       "name": "Bug Cleaners"
     },
@@ -73,11 +73,6 @@
       "rank": 1825,
       "estimate": "15k+",
       "name": "Sanctum:Whispers of Qingcheng"
-    },
-    "3749320": {
-      "rank": 4841,
-      "estimate": "<7k",
-      "name": "Hua Manlou"
     },
     "3782840": {
       "rank": 4769,
@@ -95,29 +90,34 @@
       "name": "Sword Sage: Awakening"
     },
     "3937330": {
-      "rank": 4470,
+      "rank": 4467,
       "estimate": "<7k",
       "name": "No Walls In Heaven"
     },
     "4010900": {
-      "rank": 3210,
+      "rank": 3193,
       "estimate": "<7k",
       "name": "Retro Arcade Shop Simulator"
     },
     "4429430": {
-      "rank": 5111,
+      "rank": 5101,
       "estimate": "<7k",
       "name": "Origins TCG"
     },
     "4724380": {
-      "rank": 3947,
+      "rank": 3931,
       "estimate": "<7k",
       "name": "Project Sentinel - Zero Tolerance"
     },
     "4877420": {
-      "rank": 3005,
+      "rank": 3004,
       "estimate": "<7k",
       "name": "Rec Room: A New Semester"
+    },
+    "5010440": {
+      "rank": 5207,
+      "estimate": "<7k",
+      "name": "Cozy Banker"
     }
   }
 }

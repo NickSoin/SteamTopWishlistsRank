@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T02:13:26.169Z",
-  "entryCount": 48,
+  "updatedAt": "2026-08-21T06:02:55.035Z",
+  "entryCount": 49,
   "entries": {
     "748020": {
       "rank": 911,
@@ -268,6 +268,13 @@
       "name": "Lyndaria: Lust Adventure",
       "releaseDate": "2024-09-20",
       "source": "historical"
+    },
+    "2836990": {
+      "rank": 2228,
+      "estimate": "7k+",
+      "name": "Drunken Rogue",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "2843640": {
       "rank": 1618,

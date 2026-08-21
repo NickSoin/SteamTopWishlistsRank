@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-21T02:13:26.169Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-21T06:02:55.035Z",
+  "entryCount": 24,
   "entries": {
     "1120330": {
       "rank": 1635,
@@ -15,7 +15,7 @@
       "name": "Tenjutsu"
     },
     "1445880": {
-      "rank": 797,
+      "rank": 796,
       "estimate": "40k+",
       "name": "ROCKBEASTS"
     },
@@ -25,7 +25,7 @@
       "name": "Call Me Under"
     },
     "1490990": {
-      "rank": 3894,
+      "rank": 3895,
       "estimate": "<7k",
       "name": "Isles of Krom"
     },
@@ -35,17 +35,17 @@
       "name": "Primordials Legends: Hollow Hero"
     },
     "1975790": {
-      "rank": 2861,
+      "rank": 2859,
       "estimate": "7k+",
       "name": "VergeWorld"
     },
     "2563880": {
-      "rank": 3290,
+      "rank": 3289,
       "estimate": "<7k",
       "name": "Ghost Hand"
     },
     "2669780": {
-      "rank": 2830,
+      "rank": 2831,
       "estimate": "7k+",
       "name": "Spill the Beans"
     },
@@ -55,7 +55,7 @@
       "name": "Last Helion"
     },
     "3228430": {
-      "rank": 4478,
+      "rank": 4476,
       "estimate": "<7k",
       "name": "Tides of Blazefall"
     },
@@ -65,9 +65,14 @@
       "name": "Carthage: Bellum Punicum"
     },
     "3745230": {
-      "rank": 4832,
+      "rank": 4833,
       "estimate": "<7k",
       "name": "The Great Hatch"
+    },
+    "3893290": {
+      "rank": 4666,
+      "estimate": "<7k",
+      "name": "Stray Dog: nobody cares"
     },
     "3970690": {
       "rank": 154,
@@ -80,17 +85,17 @@
       "name": "Engine Of Sin"
     },
     "4089610": {
-      "rank": 2335,
+      "rank": 2333,
       "estimate": "7k+",
       "name": "Eldritch Horror: Digital Edition"
     },
     "4240620": {
-      "rank": 1908,
+      "rank": 1907,
       "estimate": "15k+",
       "name": "The Granny Detective Society"
     },
     "4300090": {
-      "rank": 1794,
+      "rank": 1791,
       "estimate": "15k+",
       "name": "Neat!"
     },
@@ -105,17 +110,17 @@
       "name": "Heretic's Rapture"
     },
     "4606460": {
-      "rank": 4602,
+      "rank": 4589,
       "estimate": "<7k",
       "name": "Succubi Domini"
     },
     "4917610": {
-      "rank": 5128,
+      "rank": 5115,
       "estimate": "<7k",
       "name": "Nightmere"
     },
     "4982920": {
-      "rank": 1382,
+      "rank": 1376,
       "estimate": "25k+",
       "name": "The Watcher"
     }
