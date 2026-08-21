@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T06:02:55.035Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-21T11:18:46.798Z",
+  "entryCount": 38,
   "entries": {
     "301280": {
       "rank": 574,
@@ -235,6 +235,13 @@
       "estimate": "7k+",
       "name": "ERROR143 - Day 7",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "3994120": {
+      "rank": 2875,
+      "estimate": "7k+",
+      "name": "AI Pixel Battle",
+      "releaseDate": "2026-08-21",
       "source": "tracked"
     },
     "4413460": {

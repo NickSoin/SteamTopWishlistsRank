@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T06:02:55.035Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-21T11:18:46.798Z",
+  "entryCount": 27,
   "entries": {
     "247970": {
       "rank": 513,
@@ -136,6 +136,13 @@
       "name": "theHunter: Call of the Wild™ - Labrador Retriever",
       "releaseDate": "2023-11-28",
       "source": "historical"
+    },
+    "2708150": {
+      "rank": 4525,
+      "estimate": "<7k",
+      "name": "Four Lights",
+      "releaseDate": "2026-08-21",
+      "source": "tracked"
     },
     "2730870": {
       "rank": 6,

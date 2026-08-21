@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T06:02:55.035Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-21T11:18:46.798Z",
+  "entryCount": 35,
   "entries": {
     "719040": {
       "rank": 20,
@@ -129,6 +129,13 @@
       "name": "Galactic Getaway: Build a Home for Pets",
       "releaseDate": "2025-03-27",
       "source": "historical"
+    },
+    "2127340": {
+      "rank": 2141,
+      "estimate": "7k+",
+      "name": "DAWN ONE",
+      "releaseDate": "2026-08-21",
+      "source": "tracked"
     },
     "2348730": {
       "rank": 1767,
