@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T21:17:23.137Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-21T02:13:26.169Z",
+  "entryCount": 36,
   "entries": {
     "440000": {
       "rank": 459,
@@ -143,6 +143,13 @@
       "name": "Succuquest",
       "releaseDate": "2026-10-15",
       "source": "historical"
+    },
+    "2124360": {
+      "rank": 3106,
+      "estimate": "<7k",
+      "name": "HYPER PRIMATE",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "2322900": {
       "rank": 1137,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T21:17:23.137Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-21T02:13:26.169Z",
+  "entryCount": 29,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -176,6 +176,13 @@
       "estimate": "<7k",
       "name": "Galactic Civilizations IV: Federations & Empires",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4243330": {
+      "rank": 3931,
+      "estimate": "<7k",
+      "name": "全网有点怪",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4435760": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T21:17:23.137Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-21T02:13:26.169Z",
+  "entryCount": 28,
   "entries": {
     "1100910": {
       "rank": 1412,
@@ -183,6 +183,13 @@
       "estimate": "40k+",
       "name": "A.A.U. Black Site",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4125770": {
+      "rank": 6572,
+      "estimate": "<7k",
+      "name": "大侠狂想曲",
+      "releaseDate": "2026-08-20",
       "source": "tracked"
     },
     "4186870": {

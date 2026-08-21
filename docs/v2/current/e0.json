@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-20T21:17:23.137Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-21T02:13:26.169Z",
+  "entryCount": 24,
   "entries": {
     "1835080": {
       "rank": 3536,
@@ -15,12 +15,12 @@
       "name": "Catagaia"
     },
     "2445260": {
-      "rank": 545,
+      "rank": 546,
       "estimate": "40k+",
       "name": "Tyr"
     },
     "2584400": {
-      "rank": 1265,
+      "rank": 1266,
       "estimate": "25k+",
       "name": "Beaten Path"
     },
@@ -30,14 +30,9 @@
       "name": "Love Nest"
     },
     "2636800": {
-      "rank": 4758,
+      "rank": 4759,
       "estimate": "<7k",
       "name": "Lil Guys"
-    },
-    "2679830": {
-      "rank": 4407,
-      "estimate": "<7k",
-      "name": "Crowned In Steel"
     },
     "2778290": {
       "rank": 3877,
@@ -45,17 +40,17 @@
       "name": "LlamaRPG: Farm to Fable"
     },
     "2857810": {
-      "rank": 1347,
+      "rank": 1348,
       "estimate": "25k+",
       "name": "Sleight of Hand"
     },
     "3034650": {
-      "rank": 2340,
+      "rank": 2337,
       "estimate": "7k+",
       "name": "BloomKeeper"
     },
     "3334170": {
-      "rank": 2445,
+      "rank": 2448,
       "estimate": "7k+",
       "name": "Tales of Tuscany"
     },
@@ -85,7 +80,7 @@
       "name": "SAFE INSIDE"
     },
     "3799720": {
-      "rank": 2558,
+      "rank": 2560,
       "estimate": "7k+",
       "name": "House of Saturn"
     },
@@ -95,12 +90,12 @@
       "name": "Lola's Familiars: Prison of Argnoh"
     },
     "3861740": {
-      "rank": 4130,
+      "rank": 4128,
       "estimate": "<7k",
       "name": "A Thousand Cloys"
     },
     "3975250": {
-      "rank": 4814,
+      "rank": 4813,
       "estimate": "<7k",
       "name": "Merry Crisis"
     },
@@ -115,17 +110,17 @@
       "name": "Young Suns"
     },
     "4319240": {
-      "rank": 4663,
+      "rank": 4662,
       "estimate": "<7k",
       "name": "Final Flavor"
     },
     "4708840": {
-      "rank": 3941,
+      "rank": 3939,
       "estimate": "<7k",
       "name": "Atemporal Silentium"
     },
     "4784080": {
-      "rank": 1153,
+      "rank": 1154,
       "estimate": "25k+",
       "name": "Oh, My Doug!"
     }

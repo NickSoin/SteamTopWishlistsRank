@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-20T21:17:23.137Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-21T02:13:26.169Z",
+  "entryCount": 33,
   "entries": {
     "336290": {
       "rank": 7698,
@@ -185,6 +185,13 @@
       "name": "Project TurboBlast",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3852160": {
+      "rank": 5115,
+      "estimate": "<7k",
+      "name": "Baito Fight!!: Part-time Devil Hunter",
+      "releaseDate": "2026-08-20",
+      "source": "tracked"
     },
     "4086760": {
       "rank": 1252,

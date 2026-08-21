@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-20T21:17:23.137Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-21T02:13:26.169Z",
+  "entryCount": 36,
   "entries": {
     "1235470": {
-      "rank": 3889,
+      "rank": 3888,
       "estimate": "<7k",
       "name": "Lotus Knight"
     },
     "1287930": {
-      "rank": 3831,
+      "rank": 3832,
       "estimate": "<7k",
       "name": "Silent Santicado"
     },
     "1319310": {
-      "rank": 4514,
+      "rank": 4512,
       "estimate": "<7k",
       "name": "Meor"
     },
@@ -25,32 +25,32 @@
       "name": "Burning Lands"
     },
     "1398920": {
-      "rank": 4904,
+      "rank": 4905,
       "estimate": "<7k",
       "name": "Virtuverse"
     },
     "1564060": {
-      "rank": 4712,
+      "rank": 4710,
       "estimate": "<7k",
       "name": "Lighthouse of Madness"
     },
     "1792100": {
-      "rank": 595,
+      "rank": 596,
       "estimate": "40k+",
       "name": "Motel Simulator"
     },
     "1826380": {
-      "rank": 1961,
+      "rank": 1962,
       "estimate": "15k+",
       "name": "Mayhem Brawler II: Best of Both Worlds"
     },
     "1827440": {
-      "rank": 2909,
+      "rank": 2910,
       "estimate": "7k+",
       "name": "Sailors: Age of Corsairs"
     },
     "1891250": {
-      "rank": 3997,
+      "rank": 3999,
       "estimate": "<7k",
       "name": "Android Simulator"
     },
@@ -59,18 +59,13 @@
       "estimate": "7k+",
       "name": "Experiment 82626"
     },
-    "2124360": {
-      "rank": 3106,
-      "estimate": "<7k",
-      "name": "HYPER PRIMATE"
-    },
     "2125820": {
-      "rank": 4704,
+      "rank": 4705,
       "estimate": "<7k",
       "name": "Shortcuit"
     },
     "2491550": {
-      "rank": 4713,
+      "rank": 4712,
       "estimate": "<7k",
       "name": "Wandersky"
     },
@@ -80,7 +75,7 @@
       "name": "PlanetSmith"
     },
     "2571560": {
-      "rank": 4430,
+      "rank": 4429,
       "estimate": "<7k",
       "name": "ARCANA"
     },
@@ -90,7 +85,7 @@
       "name": "METRO 2039"
     },
     "2641720": {
-      "rank": 5094,
+      "rank": 5095,
       "estimate": "<7k",
       "name": "Summer at the Edge of the Universe"
     },
@@ -110,12 +105,12 @@
       "name": "STUNTBOOST"
     },
     "3396160": {
-      "rank": 2285,
+      "rank": 2284,
       "estimate": "7k+",
       "name": "Warfactory: Automation RTS"
     },
     "3480500": {
-      "rank": 3661,
+      "rank": 3662,
       "estimate": "<7k",
       "name": "Anomalous City"
     },
@@ -125,12 +120,12 @@
       "name": "Abigail"
     },
     "3693380": {
-      "rank": 5133,
+      "rank": 5135,
       "estimate": "<7k",
       "name": "Richat Structure"
     },
     "3745920": {
-      "rank": 1173,
+      "rank": 1174,
       "estimate": "25k+",
       "name": "Safeguard Saga"
     },
@@ -140,42 +135,42 @@
       "name": "Totally Legit Wheeler Seller"
     },
     "4013510": {
-      "rank": 2667,
+      "rank": 2660,
       "estimate": "7k+",
       "name": "Monster Alchemy"
     },
     "4030030": {
-      "rank": 4158,
+      "rank": 4153,
       "estimate": "<7k",
       "name": "bloodlust.exe"
     },
     "4096830": {
-      "rank": 832,
+      "rank": 833,
       "estimate": "40k+",
       "name": "S.O.N.A.R. - Submarine Operators Not Actually Ready"
     },
     "4165660": {
-      "rank": 2004,
+      "rank": 2005,
       "estimate": "7k+",
       "name": "Dungeon Treaders"
     },
     "4167640": {
-      "rank": 1712,
+      "rank": 1713,
       "estimate": "15k+",
       "name": "Horde of Distraction"
     },
     "4220770": {
-      "rank": 4113,
+      "rank": 4111,
       "estimate": "<7k",
       "name": "Static Between Stations"
     },
     "4244040": {
-      "rank": 3762,
+      "rank": 3748,
       "estimate": "<7k",
       "name": "Sector 13: Haunted Woods"
     },
     "4492610": {
-      "rank": 3957,
+      "rank": 3959,
       "estimate": "<7k",
       "name": "Their Story."
     },
@@ -185,7 +180,7 @@
       "name": "THE WELL IS NOT EMPTY"
     },
     "4838360": {
-      "rank": 3776,
+      "rank": 3749,
       "estimate": "<7k",
       "name": "Construction Company"
     }
