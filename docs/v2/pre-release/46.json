@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T16:20:40.969Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-21T21:06:51.039Z",
+  "entryCount": 34,
   "entries": {
     "412020": {
       "rank": 3,
@@ -187,6 +187,13 @@
       "name": "Drunkard Simulator",
       "releaseDate": "2026-01-26",
       "source": "historical"
+    },
+    "3635510": {
+      "rank": 1392,
+      "estimate": "25k+",
+      "name": "Alien Apocalypse",
+      "releaseDate": "2026-08-21",
+      "source": "tracked"
     },
     "3872720": {
       "rank": 9498,

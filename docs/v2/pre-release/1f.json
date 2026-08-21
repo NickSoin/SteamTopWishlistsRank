@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T16:20:40.969Z",
-  "entryCount": 40,
+  "updatedAt": "2026-08-21T21:06:51.039Z",
+  "entryCount": 41,
   "entries": {
     "830540": {
       "rank": 1466,
@@ -261,6 +261,13 @@
       "name": "Trade Tales",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3083910": {
+      "rank": 4551,
+      "estimate": "<7k",
+      "name": "Social Democracy: An Alternate History",
+      "releaseDate": "2026-08-21",
+      "source": "tracked"
     },
     "3643170": {
       "rank": 33,

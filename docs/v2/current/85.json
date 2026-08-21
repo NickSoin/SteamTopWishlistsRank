@@ -1,41 +1,46 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-21T16:20:40.969Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-21T21:06:51.039Z",
+  "entryCount": 37,
   "entries": {
     "1235470": {
-      "rank": 3887,
+      "rank": 3883,
       "estimate": "<7k",
       "name": "Lotus Knight"
     },
     "1287930": {
-      "rank": 3826,
+      "rank": 3824,
       "estimate": "<7k",
       "name": "Silent Santicado"
     },
     "1319310": {
-      "rank": 4507,
+      "rank": 4498,
       "estimate": "<7k",
       "name": "Meor"
     },
     "1342400": {
-      "rank": 1332,
+      "rank": 1329,
       "estimate": "25k+",
       "name": "Burning Lands"
     },
     "1398920": {
-      "rank": 4902,
+      "rank": 4896,
       "estimate": "<7k",
       "name": "Virtuverse"
     },
+    "1564060": {
+      "rank": 4694,
+      "estimate": "<7k",
+      "name": "Lighthouse of Madness"
+    },
     "1792100": {
-      "rank": 596,
+      "rank": 595,
       "estimate": "40k+",
       "name": "Motel Simulator"
     },
     "1826380": {
-      "rank": 1958,
+      "rank": 1959,
       "estimate": "15k+",
       "name": "Mayhem Brawler II: Best of Both Worlds"
     },
@@ -45,32 +50,32 @@
       "name": "Sailors: Age of Corsairs"
     },
     "1891250": {
-      "rank": 3993,
+      "rank": 3992,
       "estimate": "<7k",
       "name": "Android Simulator"
     },
     "2087540": {
-      "rank": 2538,
+      "rank": 2533,
       "estimate": "7k+",
       "name": "Experiment 82626"
     },
     "2125820": {
-      "rank": 4694,
+      "rank": 4687,
       "estimate": "<7k",
       "name": "Shortcuit"
     },
     "2491550": {
-      "rank": 4703,
+      "rank": 4697,
       "estimate": "<7k",
       "name": "Wandersky"
     },
     "2539340": {
-      "rank": 1505,
+      "rank": 1501,
       "estimate": "15k+",
       "name": "PlanetSmith"
     },
     "2571560": {
-      "rank": 4421,
+      "rank": 4416,
       "estimate": "<7k",
       "name": "ARCANA"
     },
@@ -80,7 +85,7 @@
       "name": "METRO 2039"
     },
     "2641720": {
-      "rank": 5092,
+      "rank": 5087,
       "estimate": "<7k",
       "name": "Summer at the Edge of the Universe"
     },
@@ -90,97 +95,97 @@
       "name": "Liftlands"
     },
     "2993920": {
-      "rank": 2954,
+      "rank": 2952,
       "estimate": "7k+",
       "name": "Revived House"
     },
     "2999500": {
-      "rank": 2017,
+      "rank": 2015,
       "estimate": "7k+",
       "name": "STUNTBOOST"
     },
     "3396160": {
-      "rank": 2275,
+      "rank": 2270,
       "estimate": "7k+",
       "name": "Warfactory: Automation RTS"
     },
     "3480500": {
-      "rank": 3656,
+      "rank": 3654,
       "estimate": "<7k",
       "name": "Anomalous City"
     },
     "3569410": {
-      "rank": 4810,
+      "rank": 4807,
       "estimate": "<7k",
       "name": "Abigail"
     },
     "3693380": {
-      "rank": 5131,
+      "rank": 5124,
       "estimate": "<7k",
       "name": "Richat Structure"
     },
     "3745920": {
-      "rank": 1172,
+      "rank": 1171,
       "estimate": "25k+",
       "name": "Safeguard Saga"
     },
     "3875690": {
-      "rank": 199,
-      "estimate": "200k+",
+      "rank": 201,
+      "estimate": "80k+",
       "name": "Totally Legit Wheeler Seller"
     },
     "4013510": {
-      "rank": 2650,
+      "rank": 2643,
       "estimate": "7k+",
       "name": "Monster Alchemy"
     },
     "4030030": {
-      "rank": 4147,
+      "rank": 4140,
       "estimate": "<7k",
       "name": "bloodlust.exe"
     },
     "4096830": {
-      "rank": 831,
+      "rank": 828,
       "estimate": "40k+",
       "name": "S.O.N.A.R. - Submarine Operators Not Actually Ready"
     },
     "4165660": {
-      "rank": 2001,
-      "estimate": "7k+",
+      "rank": 1997,
+      "estimate": "15k+",
       "name": "Dungeon Treaders"
     },
     "4167640": {
-      "rank": 1708,
+      "rank": 1705,
       "estimate": "15k+",
       "name": "Horde of Distraction"
     },
     "4176000": {
-      "rank": 5033,
+      "rank": 5021,
       "estimate": "<7k",
       "name": "False Myth 2"
     },
     "4220770": {
-      "rank": 4104,
+      "rank": 4101,
       "estimate": "<7k",
       "name": "Static Between Stations"
     },
     "4244040": {
-      "rank": 3720,
+      "rank": 3707,
       "estimate": "<7k",
       "name": "Sector 13: Haunted Woods"
     },
     "4492610": {
-      "rank": 3958,
+      "rank": 3954,
       "estimate": "<7k",
       "name": "Their Story."
     },
     "4505150": {
-      "rank": 2676,
+      "rank": 2671,
       "estimate": "7k+",
       "name": "THE WELL IS NOT EMPTY"
     },
     "4838360": {
-      "rank": 3679,
+      "rank": 3621,
       "estimate": "<7k",
       "name": "Construction Company"
     }

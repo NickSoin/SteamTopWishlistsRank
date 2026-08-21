@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T16:20:40.969Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-21T21:06:51.039Z",
+  "entryCount": 33,
   "entries": {
     "1003590": {
       "rank": 343,
@@ -191,6 +191,13 @@
       "estimate": "7k+",
       "name": "TBH: Task Bar Hero",
       "releaseDate": "2026-05-27",
+      "source": "tracked"
+    },
+    "3817250": {
+      "rank": 607,
+      "estimate": "40k+",
+      "name": "CICADAMATA\"",
+      "releaseDate": "2026-08-21",
       "source": "tracked"
     },
     "3984600": {

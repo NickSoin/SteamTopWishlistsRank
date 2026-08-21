@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T16:20:40.969Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-21T21:06:51.039Z",
+  "entryCount": 29,
   "entries": {
     "506480": {
       "rank": 980,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "Venture",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4769490": {
+      "rank": 6718,
+      "estimate": "<7k",
+      "name": "Overhatched",
+      "releaseDate": "2026-08-21",
       "source": "tracked"
     }
   }

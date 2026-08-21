@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T16:20:40.969Z",
-  "entryCount": 41,
+  "updatedAt": "2026-08-21T21:06:51.039Z",
+  "entryCount": 42,
   "entries": {
     "1113030": {
       "rank": 437,
@@ -281,6 +281,13 @@
       "estimate": "<7k",
       "name": "Director of Management: Football Club",
       "releaseDate": "2026-08-10",
+      "source": "tracked"
+    },
+    "4523340": {
+      "rank": 3853,
+      "estimate": "<7k",
+      "name": "C.U.B.E",
+      "releaseDate": "2026-08-21",
       "source": "tracked"
     },
     "4652730": {

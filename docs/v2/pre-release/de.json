@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T16:20:40.969Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-21T21:06:51.039Z",
+  "entryCount": 34,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -223,6 +223,13 @@
       "estimate": "7k+",
       "name": "Catto Pew Pew!",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4300950": {
+      "rank": 5322,
+      "estimate": "<7k",
+      "name": "Around The Core",
+      "releaseDate": "2026-08-21",
       "source": "tracked"
     },
     "4453300": {
