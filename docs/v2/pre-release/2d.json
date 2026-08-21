@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T11:18:46.798Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-21T16:20:40.969Z",
+  "entryCount": 36,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -198,6 +198,13 @@
       "estimate": "15k+",
       "name": "MÖRK BORG Heresy Supreme",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "3222890": {
+      "rank": 1604,
+      "estimate": "15k+",
+      "name": "Taste of the Wind",
+      "releaseDate": "2026-08-21",
       "source": "tracked"
     },
     "3323490": {

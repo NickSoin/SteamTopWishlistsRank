@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T11:18:46.798Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-21T16:20:40.969Z",
+  "entryCount": 37,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "Snooker Billiard",
       "releaseDate": "2026-07-12",
+      "source": "tracked"
+    },
+    "4484760": {
+      "rank": 9030,
+      "estimate": "<7k",
+      "name": "Spright",
+      "releaseDate": "2026-08-21",
       "source": "tracked"
     },
     "4599710": {

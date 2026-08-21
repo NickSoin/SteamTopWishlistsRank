@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T11:18:46.798Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-21T16:20:40.969Z",
+  "entryCount": 27,
   "entries": {
     "648800": {
       "rank": 25,
@@ -94,6 +94,13 @@
       "name": "Somerville",
       "releaseDate": "2022-11-14",
       "source": "historical"
+    },
+    "1843400": {
+      "rank": 1458,
+      "estimate": "25k+",
+      "name": "The Last Disease Z",
+      "releaseDate": "2026-08-21",
+      "source": "tracked"
     },
     "1852860": {
       "rank": 677,

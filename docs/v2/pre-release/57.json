@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T11:18:46.798Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-21T16:20:40.969Z",
+  "entryCount": 26,
   "entries": {
     "526870": {
       "rank": 16,
@@ -168,6 +168,13 @@
       "releaseDate": "2025-12-16",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289715756"
+    },
+    "3312250": {
+      "rank": 1789,
+      "estimate": "15k+",
+      "name": "FEAR OF FAITH",
+      "releaseDate": "2026-08-21",
+      "source": "tracked"
     },
     "4534000": {
       "rank": 9552,

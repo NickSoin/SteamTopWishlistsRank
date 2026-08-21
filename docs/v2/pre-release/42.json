@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T11:18:46.798Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-21T16:20:40.969Z",
+  "entryCount": 35,
   "entries": {
     "1238450": {
       "rank": 1566,
@@ -246,6 +246,13 @@
       "estimate": "7k+",
       "name": "The Hust Banhmi | Bánh Mì Bách Khoa",
       "releaseDate": "2026-07-18",
+      "source": "tracked"
+    },
+    "4651490": {
+      "rank": 3601,
+      "estimate": "<7k",
+      "name": "Loot Gobblin' Together",
+      "releaseDate": "2026-08-21",
       "source": "tracked"
     }
   }

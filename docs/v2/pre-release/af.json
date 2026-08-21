@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T11:18:46.798Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-21T16:20:40.969Z",
+  "entryCount": 38,
   "entries": {
     "714370": {
       "rank": 8,
@@ -157,6 +157,13 @@
       "name": "Fallen Shinobi",
       "releaseDate": "2023-12-18",
       "source": "historical"
+    },
+    "2708230": {
+      "rank": 6202,
+      "estimate": "<7k",
+      "name": "Dungeon Tells",
+      "releaseDate": "2026-08-21",
+      "source": "tracked"
     },
     "2782500": {
       "rank": 37,

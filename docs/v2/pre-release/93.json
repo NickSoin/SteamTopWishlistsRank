@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T11:18:46.798Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-21T16:20:40.969Z",
+  "entryCount": 29,
   "entries": {
     "473750": {
       "rank": 1164,
@@ -200,6 +200,13 @@
       "estimate": "25k+",
       "name": "The NOexistenceN of Lilith",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4962010": {
+      "rank": 1567,
+      "estimate": "15k+",
+      "name": "Mall: Tidy Up Together",
+      "releaseDate": "2026-08-21",
       "source": "tracked"
     }
   }

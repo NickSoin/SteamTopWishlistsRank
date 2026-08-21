@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T11:18:46.798Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-21T16:20:40.969Z",
+  "entryCount": 30,
   "entries": {
     "751630": {
       "rank": 64,
@@ -178,6 +178,13 @@
       "name": "ENDLESS™ Legend 2",
       "releaseDate": "2025-09-22",
       "source": "historical"
+    },
+    "3537620": {
+      "rank": 9406,
+      "estimate": "<7k",
+      "name": "Friday Night",
+      "releaseDate": "2026-08-21",
+      "source": "tracked"
     },
     "3772140": {
       "rank": 3344,

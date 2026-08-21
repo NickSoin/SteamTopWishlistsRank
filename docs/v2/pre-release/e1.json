@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T11:18:46.798Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-21T16:20:40.969Z",
+  "entryCount": 29,
   "entries": {
     "363860": {
       "rank": 339,
@@ -181,6 +181,13 @@
       "estimate": "7k+",
       "name": "Starforged Legacy",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "3561740": {
+      "rank": 1405,
+      "estimate": "25k+",
+      "name": "Detective Sherlock: Shadow Stalker",
+      "releaseDate": "2026-08-21",
       "source": "tracked"
     },
     "3808690": {

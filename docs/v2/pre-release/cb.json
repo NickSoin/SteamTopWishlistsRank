@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T11:18:46.798Z",
-  "entryCount": 16,
+  "updatedAt": "2026-08-21T16:20:40.969Z",
+  "entryCount": 17,
   "entries": {
     "898890": {
       "rank": 231,
@@ -115,6 +115,13 @@
       "name": "Open Fortress",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "4210300": {
+      "rank": 3267,
+      "estimate": "<7k",
+      "name": "Pawbay: Cat Chaos",
+      "releaseDate": "2026-08-21",
+      "source": "tracked"
     }
   }
 }

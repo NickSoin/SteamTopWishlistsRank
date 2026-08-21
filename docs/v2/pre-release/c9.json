@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T11:18:46.798Z",
+  "updatedAt": "2026-08-21T16:20:40.969Z",
   "entryCount": 42,
   "entries": {
     "856890": {
@@ -252,11 +252,11 @@
       "source": "historical"
     },
     "3396920": {
-      "rank": 1972,
-      "estimate": "15k+",
+      "rank": 911,
+      "estimate": "40k+",
       "name": "Settler's Domain",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-08-21",
+      "source": "tracked"
     },
     "3843620": {
       "rank": 9268,
