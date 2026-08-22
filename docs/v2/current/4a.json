@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-21T21:06:51.039Z",
-  "entryCount": 16,
+  "updatedAt": "2026-08-22T02:20:21.579Z",
+  "entryCount": 17,
   "entries": {
     "306910": {
       "rank": 255,
@@ -15,22 +15,22 @@
       "name": "TankRat"
     },
     "1953430": {
-      "rank": 3334,
+      "rank": 3336,
       "estimate": "<7k",
       "name": "DearMyFriend"
     },
     "2357970": {
-      "rank": 4139,
+      "rank": 4143,
       "estimate": "<7k",
       "name": "Finely Diced"
     },
     "2408290": {
-      "rank": 5153,
+      "rank": 5157,
       "estimate": "<7k",
       "name": "Interlopers"
     },
     "2521160": {
-      "rank": 3105,
+      "rank": 3109,
       "estimate": "<7k",
       "name": "The Merlies"
     },
@@ -40,22 +40,27 @@
       "name": "Dust Front RTS"
     },
     "2665020": {
-      "rank": 1032,
+      "rank": 1033,
       "estimate": "25k+",
       "name": "Milo"
     },
     "2879320": {
-      "rank": 3022,
+      "rank": 3024,
       "estimate": "<7k",
       "name": "The Night Wanderer"
     },
+    "3056850": {
+      "rank": 5162,
+      "estimate": "<7k",
+      "name": "Soulscape"
+    },
     "3196750": {
-      "rank": 3789,
+      "rank": 3792,
       "estimate": "<7k",
       "name": "[Bober Bros] Happy House"
     },
     "3374020": {
-      "rank": 3644,
+      "rank": 3638,
       "estimate": "<7k",
       "name": "Buddy Bug"
     },
@@ -65,22 +70,22 @@
       "name": "SourceWorld"
     },
     "3873770": {
-      "rank": 1999,
+      "rank": 2000,
       "estimate": "15k+",
       "name": "AXERAS"
     },
     "4425550": {
-      "rank": 4255,
+      "rank": 4256,
       "estimate": "<7k",
       "name": "Monkey Bizniz"
     },
     "4430260": {
-      "rank": 1560,
+      "rank": 1558,
       "estimate": "15k+",
       "name": "Beat For Speed"
     },
     "4940930": {
-      "rank": 1747,
+      "rank": 1748,
       "estimate": "15k+",
       "name": "SKOS: 13.86"
     }

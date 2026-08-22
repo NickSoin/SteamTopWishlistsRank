@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-21T21:06:51.039Z",
+  "updatedAt": "2026-08-22T02:20:21.579Z",
   "entryCount": 20,
   "entries": {
     "971700": {
-      "rank": 1203,
+      "rank": 1204,
       "estimate": "25k+",
       "name": "ALARA Prime"
     },
     "1103610": {
-      "rank": 2872,
+      "rank": 2874,
       "estimate": "7k+",
       "name": "Sailor Simulator"
     },
     "1705720": {
-      "rank": 1690,
+      "rank": 1691,
       "estimate": "15k+",
       "name": "Aftermath"
     },
@@ -25,7 +25,7 @@
       "name": "STAR WARS Zero Company™"
     },
     "2078410": {
-      "rank": 4929,
+      "rank": 4933,
       "estimate": "<7k",
       "name": "Space Trucker"
     },
@@ -35,17 +35,17 @@
       "name": "Threads of Time"
     },
     "2133500": {
-      "rank": 4629,
+      "rank": 4632,
       "estimate": "<7k",
       "name": "Keep Those Bugs Away From the Bomb"
     },
     "2658740": {
-      "rank": 4852,
+      "rank": 4857,
       "estimate": "<7k",
       "name": "Island of Mine"
     },
     "2809120": {
-      "rank": 4127,
+      "rank": 4128,
       "estimate": "<7k",
       "name": "Red Snow"
     },
@@ -55,7 +55,7 @@
       "name": "Gang of Frogs"
     },
     "3100420": {
-      "rank": 4523,
+      "rank": 4527,
       "estimate": "<7k",
       "name": "The Fractured Shimmer"
     },
@@ -65,27 +65,27 @@
       "name": "World of the dead"
     },
     "3595710": {
-      "rank": 3310,
+      "rank": 3313,
       "estimate": "<7k",
       "name": "SCOPECREEP"
     },
     "3603020": {
-      "rank": 4673,
+      "rank": 4676,
       "estimate": "<7k",
       "name": "Auto Legends"
     },
     "4106270": {
-      "rank": 3868,
+      "rank": 3849,
       "estimate": "<7k",
       "name": "Ecrazeus Castle"
     },
     "4261030": {
-      "rank": 4477,
+      "rank": 4474,
       "estimate": "<7k",
       "name": "Orb Breaker"
     },
     "4349170": {
-      "rank": 3089,
+      "rank": 3085,
       "estimate": "<7k",
       "name": "Virus Lab"
     },
@@ -100,8 +100,8 @@
       "name": "Endless Rails"
     },
     "4623300": {
-      "rank": 1000,
-      "estimate": "40k+",
+      "rank": 1001,
+      "estimate": "25k+",
       "name": "Open Waters"
     }
   }

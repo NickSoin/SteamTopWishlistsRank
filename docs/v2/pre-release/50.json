@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-21T21:06:51.039Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-22T02:20:21.579Z",
+  "entryCount": 28,
   "entries": {
     "950180": {
       "rank": 218,
@@ -165,6 +165,13 @@
       "estimate": "<7k",
       "name": "BunnyBakery",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4359910": {
+      "rank": 8349,
+      "estimate": "<7k",
+      "name": "Card Maker Simulator",
+      "releaseDate": "2026-08-21",
       "source": "tracked"
     },
     "4522150": {
