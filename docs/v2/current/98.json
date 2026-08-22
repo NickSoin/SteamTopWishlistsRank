@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-22T10:45:40.877Z",
-  "entryCount": 20,
+  "updatedAt": "2026-08-22T16:01:44.762Z",
+  "entryCount": 21,
   "entries": {
     "1778150": {
-      "rank": 3873,
+      "rank": 3875,
       "estimate": "<7k",
       "name": "TRIP"
     },
     "1810070": {
-      "rank": 2460,
+      "rank": 2461,
       "estimate": "7k+",
       "name": "Aperture: Salt Mines"
     },
     "1953850": {
-      "rank": 2726,
+      "rank": 2727,
       "estimate": "7k+",
       "name": "VICE Undercover"
     },
@@ -30,22 +30,22 @@
       "name": "Engine Simulator"
     },
     "3008590": {
-      "rank": 2127,
+      "rank": 2129,
       "estimate": "7k+",
       "name": "Relics of the Oracle"
     },
     "3042790": {
-      "rank": 3785,
+      "rank": 3790,
       "estimate": "<7k",
       "name": "Scirocco Thugs"
     },
     "3260240": {
-      "rank": 1928,
+      "rank": 1931,
       "estimate": "15k+",
       "name": "Drivers of the Apocalypse"
     },
     "3433800": {
-      "rank": 2045,
+      "rank": 2048,
       "estimate": "7k+",
       "name": "Moonbrella"
     },
@@ -55,27 +55,27 @@
       "name": "BOMBSHELL BLITZ"
     },
     "3601630": {
-      "rank": 3310,
+      "rank": 3313,
       "estimate": "<7k",
       "name": "Cosmo Tales"
     },
     "3676140": {
-      "rank": 2273,
+      "rank": 2272,
       "estimate": "7k+",
       "name": "Trawler's Wake"
     },
     "3742720": {
-      "rank": 3234,
+      "rank": 3236,
       "estimate": "<7k",
       "name": "Sobakistan: The Land of Dogs"
     },
     "3749130": {
-      "rank": 4000,
+      "rank": 4001,
       "estimate": "<7k",
       "name": "Tower Tactics 2"
     },
     "3981460": {
-      "rank": 2501,
+      "rank": 2503,
       "estimate": "7k+",
       "name": "Total Tank Simulator 2"
     },
@@ -85,7 +85,7 @@
       "name": "BURNED HORIZONS"
     },
     "4005330": {
-      "rank": 5102,
+      "rank": 5106,
       "estimate": "<7k",
       "name": "Spell Trigger"
     },
@@ -94,13 +94,18 @@
       "estimate": "40k+",
       "name": "SlashZero"
     },
+    "4156500": {
+      "rank": 5199,
+      "estimate": "<7k",
+      "name": "Rekindled: Cozy Tavern Life"
+    },
     "4517190": {
-      "rank": 2155,
+      "rank": 2149,
       "estimate": "7k+",
       "name": "DoDonPachi Resurrection Reignite"
     },
     "4567210": {
-      "rank": 4586,
+      "rank": 4593,
       "estimate": "<7k",
       "name": "One Coin Museum"
     }
