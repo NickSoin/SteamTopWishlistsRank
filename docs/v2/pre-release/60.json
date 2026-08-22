@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-22T06:17:11.355Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-22T10:45:40.877Z",
+  "entryCount": 26,
   "entries": {
     "813230": {
       "rank": 13,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "The Silver Crow",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4653120": {
+      "rank": 5147,
+      "estimate": "<7k",
+      "name": "Touhou Desktop Pet",
+      "releaseDate": "2026-08-22",
       "source": "tracked"
     }
   }

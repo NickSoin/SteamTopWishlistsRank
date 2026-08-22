@@ -1,61 +1,61 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-22T06:17:11.355Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-22T10:45:40.877Z",
+  "entryCount": 22,
   "entries": {
     "1402940": {
-      "rank": 4070,
+      "rank": 4072,
       "estimate": "<7k",
       "name": "Graveless™"
     },
     "1502460": {
-      "rank": 1950,
+      "rank": 1952,
       "estimate": "15k+",
       "name": "B-17 Squadron"
     },
     "1636170": {
-      "rank": 3492,
+      "rank": 3495,
       "estimate": "<7k",
       "name": "Bike Mechanic Simulator 2023"
     },
     "1692950": {
-      "rank": 4331,
+      "rank": 4333,
       "estimate": "<7k",
       "name": "Ninja Simulator: Prologue"
     },
     "2058070": {
-      "rank": 4590,
+      "rank": 4592,
       "estimate": "<7k",
       "name": "Stellar Watch"
     },
     "2466000": {
-      "rank": 2874,
+      "rank": 2879,
       "estimate": "7k+",
       "name": "Superstore Simulator"
     },
     "2537650": {
-      "rank": 1422,
+      "rank": 1423,
       "estimate": "25k+",
       "name": "MEATSHOT"
     },
     "2628880": {
-      "rank": 3240,
+      "rank": 3241,
       "estimate": "<7k",
       "name": "Blood & Chaos"
     },
     "3116870": {
-      "rank": 5053,
+      "rank": 5056,
       "estimate": "<7k",
       "name": "Deus Mantle"
     },
     "3177710": {
-      "rank": 1579,
+      "rank": 1580,
       "estimate": "15k+",
       "name": "On The Train"
     },
     "3301300": {
-      "rank": 3024,
+      "rank": 3028,
       "estimate": "<7k",
       "name": "Wild Terrain"
     },
@@ -65,12 +65,12 @@
       "name": "CYBRLICH and the Death Cult of Labor"
     },
     "3420630": {
-      "rank": 4908,
+      "rank": 4914,
       "estimate": "<7k",
       "name": "Alchemy and Weldcraft"
     },
     "3631230": {
-      "rank": 590,
+      "rank": 591,
       "estimate": "40k+",
       "name": "CastleMiner Z : Resurrection"
     },
@@ -80,12 +80,12 @@
       "name": "BLOK"
     },
     "3848900": {
-      "rank": 1139,
+      "rank": 1134,
       "estimate": "25k+",
       "name": "Sucker for Love: Crush Landing"
     },
     "3915840": {
-      "rank": 743,
+      "rank": 744,
       "estimate": "40k+",
       "name": "Steel Ark"
     },
@@ -105,9 +105,14 @@
       "name": "CORDURA"
     },
     "4990840": {
-      "rank": 1634,
+      "rank": 1635,
       "estimate": "15k+",
       "name": "FAKE ME"
+    },
+    "5019690": {
+      "rank": 5202,
+      "estimate": "<7k",
+      "name": "King's Detectives"
     }
   }
 }
