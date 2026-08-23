@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-23T15:44:34.419Z",
-  "entryCount": 15,
+  "updatedAt": "2026-08-23T20:55:39.482Z",
+  "entryCount": 16,
   "entries": {
     "1162860": {
-      "rank": 3754,
+      "rank": 3750,
       "estimate": "<7k",
       "name": "Keepsake County"
     },
     "2120300": {
-      "rank": 5098,
+      "rank": 5102,
       "estimate": "<7k",
       "name": "Retrowave '84"
     },
     "2334930": {
-      "rank": 1106,
+      "rank": 1111,
       "estimate": "25k+",
       "name": "DEEPEST FEAR™"
     },
     "2357380": {
-      "rank": 2075,
+      "rank": 2077,
       "estimate": "7k+",
       "name": "Tako no Himitsu: Ocean of Secrets"
     },
     "2597610": {
-      "rank": 2865,
+      "rank": 2869,
       "estimate": "7k+",
       "name": "Mononoke No Kuni"
     },
     "2713780": {
-      "rank": 5024,
+      "rank": 5029,
       "estimate": "<7k",
       "name": "Yamafuda! Summit"
     },
     "3041800": {
-      "rank": 4983,
+      "rank": 4974,
       "estimate": "<7k",
       "name": "Scramble Heart City"
     },
@@ -45,39 +45,44 @@
       "name": "No Such Place"
     },
     "3335460": {
-      "rank": 1905,
+      "rank": 1907,
       "estimate": "15k+",
       "name": "Broken Sword - The Smoking Mirror: Reforged"
     },
     "3754920": {
-      "rank": 2749,
+      "rank": 2751,
       "estimate": "7k+",
       "name": "Gothic Scythe"
     },
     "3794520": {
-      "rank": 3109,
+      "rank": 3115,
       "estimate": "<7k",
       "name": "Rebounder"
     },
     "3819100": {
-      "rank": 3969,
+      "rank": 3973,
       "estimate": "<7k",
       "name": "Tuoni"
     },
     "4362210": {
-      "rank": 3005,
+      "rank": 3010,
       "estimate": "<7k",
       "name": "Garden Souls"
     },
     "4411510": {
-      "rank": 3883,
+      "rank": 3886,
       "estimate": "<7k",
       "name": "Incremental Mass Rewritten"
     },
     "4568030": {
-      "rank": 3870,
+      "rank": 3871,
       "estimate": "<7k",
       "name": "Beyond Yardwork Simulator"
+    },
+    "4810070": {
+      "rank": 5168,
+      "estimate": "<7k",
+      "name": "CONCRETE BURIAL"
     }
   }
 }
