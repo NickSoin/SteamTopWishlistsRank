@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-22T20:57:01.359Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-23T02:34:31.816Z",
+  "entryCount": 24,
   "entries": {
     "388860": {
       "rank": 127,
@@ -10,12 +10,12 @@
       "name": "Judas"
     },
     "948000": {
-      "rank": 3984,
+      "rank": 3986,
       "estimate": "<7k",
       "name": "Bright Red Skies"
     },
     "1368160": {
-      "rank": 2206,
+      "rank": 2204,
       "estimate": "7k+",
       "name": "Heart Of Muriet"
     },
@@ -25,27 +25,27 @@
       "name": "I am Your Lawyer"
     },
     "1624930": {
-      "rank": 591,
+      "rank": 592,
       "estimate": "40k+",
       "name": "Ad Mortem"
     },
     "1823300": {
-      "rank": 1958,
+      "rank": 1960,
       "estimate": "15k+",
       "name": "Untamed Isles"
     },
     "2056130": {
-      "rank": 3822,
+      "rank": 3820,
       "estimate": "<7k",
       "name": "Grand Arms: March of the Red Dragon"
     },
     "2366590": {
-      "rank": 1610,
+      "rank": 1609,
       "estimate": "15k+",
       "name": "Rideshare \"Stimulator\""
     },
     "3164230": {
-      "rank": 893,
+      "rank": 892,
       "estimate": "40k+",
       "name": "THE IRONY"
     },
@@ -55,17 +55,17 @@
       "name": "Dragon's Brew"
     },
     "3297040": {
-      "rank": 4045,
+      "rank": 4049,
       "estimate": "<7k",
       "name": "Adventurers Guild Inc."
     },
     "3393850": {
-      "rank": 2417,
+      "rank": 2422,
       "estimate": "7k+",
       "name": "Dicewood"
     },
     "3421740": {
-      "rank": 3367,
+      "rank": 3363,
       "estimate": "<7k",
       "name": "Garden Ink"
     },
@@ -75,12 +75,12 @@
       "name": "PHASE ZERO"
     },
     "3568740": {
-      "rank": 3628,
+      "rank": 3624,
       "estimate": "<7k",
       "name": "THE FATUM"
     },
     "3692780": {
-      "rank": 2559,
+      "rank": 2561,
       "estimate": "7k+",
       "name": "Cresata"
     },
@@ -95,17 +95,17 @@
       "name": "The Wolf Among Us Remastered"
     },
     "4142530": {
-      "rank": 4314,
+      "rank": 4313,
       "estimate": "<7k",
       "name": "Tsumamigui 3"
     },
     "4344000": {
-      "rank": 3358,
+      "rank": 3360,
       "estimate": "<7k",
       "name": "Complete Horror"
     },
     "4560170": {
-      "rank": 4309,
+      "rank": 4311,
       "estimate": "<7k",
       "name": "Orblins"
     },
@@ -115,9 +115,14 @@
       "name": "BOMBANANA!"
     },
     "4709270": {
-      "rank": 4349,
+      "rank": 4352,
       "estimate": "<7k",
       "name": "DEEPWARD"
+    },
+    "4944600": {
+      "rank": 5166,
+      "estimate": "<7k",
+      "name": "Dumbfire"
     }
   }
 }
