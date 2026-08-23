@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-23T06:09:53.858Z",
-  "entryCount": 18,
+  "updatedAt": "2026-08-23T11:13:14.627Z",
+  "entryCount": 19,
   "entries": {
     "791630": {
-      "rank": 2389,
+      "rank": 2390,
       "estimate": "7k+",
       "name": "Tale of Ronin"
     },
     "833020": {
-      "rank": 2773,
+      "rank": 2778,
       "estimate": "7k+",
       "name": "Wail of Despair"
     },
     "1054820": {
-      "rank": 3693,
+      "rank": 3695,
       "estimate": "<7k",
       "name": "Kingslayer Tactics"
     },
@@ -25,32 +25,32 @@
       "name": "Deadlock"
     },
     "1496970": {
-      "rank": 2543,
+      "rank": 2541,
       "estimate": "7k+",
       "name": "Masters of Mayhem"
     },
     "1578450": {
-      "rank": 4893,
+      "rank": 4894,
       "estimate": "<7k",
       "name": "With Last Breath"
     },
     "2382810": {
-      "rank": 3129,
+      "rank": 3133,
       "estimate": "<7k",
       "name": "Dream Channel Zero"
     },
     "2475620": {
-      "rank": 4147,
+      "rank": 4150,
       "estimate": "<7k",
       "name": "Misgiven"
     },
     "2719630": {
-      "rank": 5191,
+      "rank": 5196,
       "estimate": "<7k",
       "name": "Border Base"
     },
     "2831000": {
-      "rank": 4501,
+      "rank": 4502,
       "estimate": "<7k",
       "name": "Faraway"
     },
@@ -59,8 +59,13 @@
       "estimate": "300k+",
       "name": "Outward 2"
     },
+    "3257780": {
+      "rank": 5217,
+      "estimate": "<7k",
+      "name": "Your Story: Games with Death"
+    },
     "3271120": {
-      "rank": 3395,
+      "rank": 3400,
       "estimate": "<7k",
       "name": "Dragon Khan"
     },
@@ -70,12 +75,12 @@
       "name": "ASUKA x Redline Reverie"
     },
     "3503300": {
-      "rank": 4620,
+      "rank": 4618,
       "estimate": "<7k",
       "name": "Toxic Yuri"
     },
     "3507960": {
-      "rank": 2429,
+      "rank": 2433,
       "estimate": "7k+",
       "name": "Idlemancer"
     },
@@ -85,12 +90,12 @@
       "name": "DarkBazaar"
     },
     "4299460": {
-      "rank": 3822,
+      "rank": 3821,
       "estimate": "<7k",
       "name": "Sweepcremental"
     },
     "4586410": {
-      "rank": 4813,
+      "rank": 4815,
       "estimate": "<7k",
       "name": "The Little Crumb"
     }
