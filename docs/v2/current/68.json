@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-24T06:09:48.272Z",
-  "entryCount": 13,
+  "updatedAt": "2026-08-24T11:09:50.135Z",
+  "entryCount": 14,
   "entries": {
     "1410470": {
-      "rank": 3511,
+      "rank": 3513,
       "estimate": "<7k",
       "name": "Sauna2000"
     },
     "1472430": {
-      "rank": 3332,
+      "rank": 3333,
       "estimate": "<7k",
       "name": "Sketchy Fables"
     },
@@ -25,37 +25,37 @@
       "name": "Starpath"
     },
     "2476150": {
-      "rank": 3248,
+      "rank": 3250,
       "estimate": "<7k",
       "name": "Stickfigurez"
     },
     "2716980": {
-      "rank": 3745,
+      "rank": 3748,
       "estimate": "<7k",
       "name": "City of Ashes"
     },
     "2939170": {
-      "rank": 2753,
+      "rank": 2755,
       "estimate": "7k+",
       "name": "Galactic Disharmony"
     },
     "3295420": {
-      "rank": 4269,
+      "rank": 4275,
       "estimate": "<7k",
       "name": "Escape Memoirs: Bank Heist"
     },
     "3589910": {
-      "rank": 2750,
+      "rank": 2753,
       "estimate": "7k+",
       "name": "Voivod: The Nuclear Warrior"
     },
     "4012150": {
-      "rank": 922,
+      "rank": 924,
       "estimate": "40k+",
       "name": "BREKEKEKEX"
     },
     "4049330": {
-      "rank": 5031,
+      "rank": 5041,
       "estimate": "<7k",
       "name": "Gobble Fantasy 2003"
     },
@@ -68,6 +68,11 @@
       "rank": 1288,
       "estimate": "25k+",
       "name": "Moonlight Pale"
+    },
+    "4885190": {
+      "rank": 5234,
+      "estimate": "<7k",
+      "name": "The Aquarium does not dance: The Idol Who Wants to Die"
     }
   }
 }
