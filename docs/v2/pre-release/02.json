@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T16:07:04.864Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-24T21:20:26.190Z",
+  "entryCount": 35,
   "entries": {
     "844980": {
       "rank": 112,
@@ -219,6 +219,13 @@
       "estimate": "80k+",
       "name": "Approximately Up",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "4001350": {
+      "rank": 1459,
+      "estimate": "25k+",
+      "name": "Iron Blight",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     },
     "4256150": {

@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-24T16:07:04.864Z",
-  "entryCount": 16,
+  "updatedAt": "2026-08-24T21:20:26.190Z",
+  "entryCount": 15,
   "entries": {
     "1244600": {
-      "rank": 3014,
+      "rank": 3009,
       "estimate": "<7k",
       "name": "Let's Drive - learn driving simulator"
     },
     "2817960": {
-      "rank": 4394,
+      "rank": 4398,
       "estimate": "<7k",
       "name": "Button Man"
     },
     "2960460": {
-      "rank": 574,
+      "rank": 575,
       "estimate": "40k+",
       "name": "Spaceflight Simulator 2"
     },
     "3078760": {
-      "rank": 715,
+      "rank": 716,
       "estimate": "40k+",
       "name": "LIVING HELL"
     },
@@ -35,7 +35,7 @@
       "name": "4:LOOP"
     },
     "3395320": {
-      "rank": 1544,
+      "rank": 1546,
       "estimate": "15k+",
       "name": "Critical Shift"
     },
@@ -45,17 +45,17 @@
       "name": "Bodybuilder Simulator CO-OP"
     },
     "3610210": {
-      "rank": 2724,
+      "rank": 2726,
       "estimate": "7k+",
       "name": "Klostyn"
     },
     "3623050": {
-      "rank": 4880,
+      "rank": 4884,
       "estimate": "<7k",
       "name": "Ending the Happy Route"
     },
     "3788160": {
-      "rank": 878,
+      "rank": 879,
       "estimate": "40k+",
       "name": "Terminal War"
     },
@@ -65,24 +65,19 @@
       "name": "Lootbane"
     },
     "4107960": {
-      "rank": 4491,
+      "rank": 4442,
       "estimate": "<7k",
       "name": ".curator"
     },
     "4221990": {
-      "rank": 4256,
+      "rank": 4250,
       "estimate": "<7k",
       "name": "Fish Lab"
     },
     "4588510": {
-      "rank": 2297,
+      "rank": 2286,
       "estimate": "7k+",
       "name": "Mayday Vacay"
-    },
-    "4833450": {
-      "rank": 1469,
-      "estimate": "25k+",
-      "name": "Money for Girls: Amortized"
     }
   }
 }

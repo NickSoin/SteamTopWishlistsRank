@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T16:07:04.864Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-24T21:20:26.190Z",
+  "entryCount": 34,
   "entries": {
     "782250": {
       "rank": 368,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Draw Party",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4440710": {
+      "rank": 9885,
+      "estimate": "<7k",
+      "name": "Banana Republic",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     },
     "4631110": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T16:07:04.864Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-24T21:20:26.190Z",
+  "entryCount": 30,
   "entries": {
     "1062090": {
       "rank": 3,
@@ -188,6 +188,13 @@
       "estimate": "7k+",
       "name": "Soulforge Lost Path",
       "releaseDate": "2026-07-12",
+      "source": "tracked"
+    },
+    "4106270": {
+      "rank": 3195,
+      "estimate": "<7k",
+      "name": "Ecrazeus Castle",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     },
     "4303590": {

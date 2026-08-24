@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T16:07:04.864Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-24T21:20:26.190Z",
+  "entryCount": 33,
   "entries": {
     "606160": {
       "rank": 145,
@@ -232,6 +232,13 @@
       "estimate": "<7k",
       "name": "Nova Swarm",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4833450": {
+      "rank": 1469,
+      "estimate": "25k+",
+      "name": "Money for Girls: Amortized",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     }
   }
