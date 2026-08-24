@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T11:09:50.135Z",
-  "entryCount": 38,
+  "updatedAt": "2026-08-24T16:07:04.864Z",
+  "entryCount": 39,
   "entries": {
     "812910": {
       "rank": 1037,
@@ -235,6 +235,13 @@
       "estimate": "7k+",
       "name": "LABYRINTHOS: The Depths Want You",
       "releaseDate": "2026-08-19",
+      "source": "tracked"
+    },
+    "4195110": {
+      "rank": 875,
+      "estimate": "40k+",
+      "name": "Ultrapool",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     },
     "4490200": {

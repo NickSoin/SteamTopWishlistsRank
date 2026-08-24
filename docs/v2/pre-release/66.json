@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T11:09:50.135Z",
-  "entryCount": 43,
+  "updatedAt": "2026-08-24T16:07:04.864Z",
+  "entryCount": 45,
   "entries": {
     "976890": {
       "rank": 70,
@@ -283,6 +283,13 @@
       "releaseDate": "2026-06-23",
       "source": "tracked"
     },
+    "4486870": {
+      "rank": 2349,
+      "estimate": "7k+",
+      "name": "FEED THE AI",
+      "releaseDate": "2026-08-24",
+      "source": "tracked"
+    },
     "4542640": {
       "rank": 6769,
       "estimate": "<7k",
@@ -309,6 +316,13 @@
       "estimate": "<7k",
       "name": "Task Bar of Ragnalis",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4928820": {
+      "rank": 1120,
+      "estimate": "25k+",
+      "name": "Shelve the Potions!",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     }
   }

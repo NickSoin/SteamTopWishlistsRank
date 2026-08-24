@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T11:09:50.135Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-24T16:07:04.864Z",
+  "entryCount": 35,
   "entries": {
     "661680": {
       "rank": 689,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "The Miki Komori Project",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4734690": {
+      "rank": 2143,
+      "estimate": "7k+",
+      "name": "Spirit City: Lofi Sessions - Magical Library DLC",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     }
   }

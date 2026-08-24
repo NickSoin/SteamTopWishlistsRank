@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T11:09:50.135Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-24T16:07:04.864Z",
+  "entryCount": 35,
   "entries": {
     "637050": {
       "rank": 136,
@@ -240,6 +240,13 @@
       "estimate": "<7k",
       "name": "Dark Hunting Ground - Druid Class Pack",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4637870": {
+      "rank": 2804,
+      "estimate": "7k+",
+      "name": "Smashing Bottles",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T11:09:50.135Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-24T16:07:04.864Z",
+  "entryCount": 27,
   "entries": {
     "813230": {
       "rank": 13,
@@ -158,6 +158,13 @@
       "estimate": "40k+",
       "name": "Total War: WARHAMMER III - Bhashiva – Character Pack",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4501430": {
+      "rank": 6583,
+      "estimate": "<7k",
+      "name": "8 Ball Pool: Play Together",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     },
     "4569340": {

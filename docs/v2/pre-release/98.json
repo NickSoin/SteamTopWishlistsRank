@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T11:09:50.135Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-24T16:07:04.864Z",
+  "entryCount": 24,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -128,6 +128,13 @@
       "name": "Castle Crashers - Painter Boss Paradise",
       "releaseDate": "2025-08-06",
       "source": "historical"
+    },
+    "3985330": {
+      "rank": 1477,
+      "estimate": "25k+",
+      "name": "BURNED HORIZONS",
+      "releaseDate": "2026-08-24",
+      "source": "tracked"
     },
     "4108460": {
       "rank": 3541,

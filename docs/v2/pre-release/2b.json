@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T11:09:50.135Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-24T16:07:04.864Z",
+  "entryCount": 31,
   "entries": {
     "941460": {
       "rank": 36,
@@ -188,6 +188,13 @@
       "estimate": "7k+",
       "name": "Solar Wave",
       "releaseDate": "2026-08-17",
+      "source": "tracked"
+    },
+    "4075620": {
+      "rank": 963,
+      "estimate": "40k+",
+      "name": "Combolands: Roguelike Citybuilder",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     },
     "4078160": {

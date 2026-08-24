@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T11:09:50.135Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-24T16:07:04.864Z",
+  "entryCount": 29,
   "entries": {
     "1159290": {
       "rank": 574,
@@ -179,6 +179,13 @@
       "estimate": "7k+",
       "name": "Airport Baggage Simulator",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4294860": {
+      "rank": 2645,
+      "estimate": "7k+",
+      "name": "Loot Frog",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     },
     "4400980": {

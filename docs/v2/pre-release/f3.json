@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T11:09:50.135Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-24T16:07:04.864Z",
+  "entryCount": 30,
   "entries": {
     "410740": {
       "rank": 1177,
@@ -178,6 +178,13 @@
       "name": "Moonless Moon",
       "releaseDate": "2024-08-07",
       "source": "historical"
+    },
+    "3491690": {
+      "rank": 1003,
+      "estimate": "25k+",
+      "name": "lovebyte.exe",
+      "releaseDate": "2026-08-24",
+      "source": "tracked"
     },
     "3688650": {
       "rank": 9321,

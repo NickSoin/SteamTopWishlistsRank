@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T11:09:50.135Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-24T16:07:04.864Z",
+  "entryCount": 32,
   "entries": {
     "485400": {
       "rank": 112,
@@ -211,6 +211,13 @@
       "estimate": "<7k",
       "name": "What's the Password?",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4101290": {
+      "rank": 2492,
+      "estimate": "7k+",
+      "name": "Overtrick",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     },
     "4500770": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T11:09:50.135Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-24T16:07:04.864Z",
+  "entryCount": 25,
   "entries": {
     "883230": {
       "rank": 1500,
@@ -158,6 +158,13 @@
       "estimate": "7k+",
       "name": "Mnemonimov",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4645360": {
+      "rank": 748,
+      "estimate": "40k+",
+      "name": "Titanic Escape Simulator™",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     },
     "4720010": {

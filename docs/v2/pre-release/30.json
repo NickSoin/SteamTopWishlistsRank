@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T11:09:50.135Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-24T16:07:04.864Z",
+  "entryCount": 31,
   "entries": {
     "978520": {
       "rank": 41,
@@ -175,6 +175,13 @@
       "name": "Harrowlands",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3978240": {
+      "rank": 2926,
+      "estimate": "7k+",
+      "name": "Wordless Forest",
+      "releaseDate": "2026-08-24",
+      "source": "tracked"
     },
     "4139330": {
       "rank": 6986,
