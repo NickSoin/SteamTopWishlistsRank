@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-24T02:31:06.649Z",
-  "entryCount": 39,
+  "updatedAt": "2026-08-24T06:09:48.272Z",
+  "entryCount": 40,
   "entries": {
     "307950": {
       "rank": 1484,
@@ -217,6 +217,13 @@
       "name": "Frontline Crisis",
       "releaseDate": "2024-08-14",
       "source": "historical"
+    },
+    "3196850": {
+      "rank": 3995,
+      "estimate": "<7k",
+      "name": "Travellin Cats in USA",
+      "releaseDate": "2026-08-23",
+      "source": "tracked"
     },
     "3692680": {
       "rank": 9185,
