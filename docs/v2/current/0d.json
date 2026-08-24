@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-23T20:55:39.482Z",
-  "entryCount": 16,
+  "updatedAt": "2026-08-24T02:31:06.649Z",
+  "entryCount": 17,
   "entries": {
     "1234990": {
       "rank": 3186,
@@ -10,22 +10,22 @@
       "name": "Pry Into The Void"
     },
     "1528950": {
-      "rank": 4485,
+      "rank": 4488,
       "estimate": "<7k",
       "name": "主播模拟器（Streamer Simulator）"
     },
     "1661480": {
-      "rank": 3569,
+      "rank": 3573,
       "estimate": "<7k",
       "name": "Fear Underground"
     },
     "1717730": {
-      "rank": 1237,
+      "rank": 1239,
       "estimate": "25k+",
       "name": "LUCID"
     },
     "2211000": {
-      "rank": 1956,
+      "rank": 1957,
       "estimate": "15k+",
       "name": "INANIMA"
     },
@@ -35,54 +35,59 @@
       "name": "Don't Starve Elsewhere"
     },
     "2269490": {
-      "rank": 4559,
+      "rank": 4560,
       "estimate": "<7k",
       "name": "Small Town Emo"
     },
     "2390130": {
-      "rank": 1052,
+      "rank": 1054,
       "estimate": "25k+",
       "name": "Design and Conjure"
     },
     "2707440": {
-      "rank": 2945,
+      "rank": 2947,
       "estimate": "7k+",
       "name": "Floralis"
     },
     "2838890": {
-      "rank": 3731,
+      "rank": 3733,
       "estimate": "<7k",
       "name": "Mithrall"
     },
     "3145650": {
-      "rank": 2995,
+      "rank": 2997,
       "estimate": "7k+",
       "name": "ノナプルナイン：アシンプトート"
     },
     "3194740": {
-      "rank": 2396,
+      "rank": 2398,
       "estimate": "7k+",
       "name": "FUMEHEAD"
     },
     "3285390": {
-      "rank": 3327,
+      "rank": 3335,
       "estimate": "<7k",
       "name": "SeverLink"
     },
     "3462580": {
-      "rank": 4162,
+      "rank": 4164,
       "estimate": "<7k",
       "name": "Factory Life"
     },
     "3736070": {
-      "rank": 3499,
+      "rank": 3501,
       "estimate": "<7k",
       "name": "Survivors Guild"
     },
     "3925810": {
-      "rank": 3717,
+      "rank": 3721,
       "estimate": "<7k",
       "name": "The Lurking Fear"
+    },
+    "4051800": {
+      "rank": 5207,
+      "estimate": "<7k",
+      "name": "Crime Scene Clean: Paranormal"
     }
   }
 }
