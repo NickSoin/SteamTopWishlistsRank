@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T16:25:14.412Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-25T21:00:28.552Z",
+  "entryCount": 30,
   "entries": {
     "763180": {
       "rank": 734,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Sweet Clockwork",
       "releaseDate": "2026-08-16",
+      "source": "tracked"
+    },
+    "4475470": {
+      "rank": 9520,
+      "estimate": "<7k",
+      "name": "Holey Ship",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4478640": {

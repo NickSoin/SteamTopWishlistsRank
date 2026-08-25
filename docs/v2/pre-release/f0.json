@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T16:25:14.412Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-25T21:00:28.552Z",
+  "entryCount": 35,
   "entries": {
     "721700": {
       "rank": 679,
@@ -218,6 +218,13 @@
       "estimate": "<7k",
       "name": "Raccoons to Riches",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "3949550": {
+      "rank": 43,
+      "estimate": "600k+",
+      "name": "1666: Amsterdam",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4175330": {

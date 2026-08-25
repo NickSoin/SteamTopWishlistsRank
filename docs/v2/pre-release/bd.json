@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T16:25:14.412Z",
-  "entryCount": 48,
+  "updatedAt": "2026-08-25T21:00:28.552Z",
+  "entryCount": 49,
   "entries": {
     "347800": {
       "rank": 198,
@@ -340,6 +340,13 @@
       "estimate": "<7k",
       "name": "Soccer Kid Collection (QUByte Classics)",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4860970": {
+      "rank": 2990,
+      "estimate": "7k+",
+      "name": "Football Agent",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     }
   }

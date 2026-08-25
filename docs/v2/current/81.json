@@ -1,53 +1,53 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-25T16:25:14.412Z",
-  "entryCount": 12,
+  "updatedAt": "2026-08-25T21:00:28.552Z",
+  "entryCount": 13,
   "entries": {
     "989350": {
-      "rank": 4612,
+      "rank": 4634,
       "estimate": "<7k",
       "name": "Running Rogue"
     },
     "1043110": {
-      "rank": 2758,
+      "rank": 2767,
       "estimate": "7k+",
       "name": "Kaiju Fishing"
     },
     "1185380": {
-      "rank": 2745,
+      "rank": 2755,
       "estimate": "7k+",
       "name": "The Season of the Warlock"
     },
     "1647220": {
-      "rank": 1663,
+      "rank": 1667,
       "estimate": "15k+",
       "name": "Once,in Times of Chaos"
     },
     "2362070": {
-      "rank": 874,
+      "rank": 876,
       "estimate": "40k+",
       "name": "Hollow Home",
       "actualWishlists": 30000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800991756305442"
     },
     "2390660": {
-      "rank": 4511,
+      "rank": 4525,
       "estimate": "<7k",
       "name": "Collapsed Galaxy 2"
     },
     "2544740": {
-      "rank": 4205,
+      "rank": 4192,
       "estimate": "<7k",
       "name": "THANKS, LIGHT."
     },
     "2979810": {
-      "rank": 524,
+      "rank": 523,
       "estimate": "40k+",
       "name": "POLYARIS"
     },
     "3653890": {
-      "rank": 3905,
+      "rank": 3920,
       "estimate": "<7k",
       "name": "SPRKLS.exe"
     },
@@ -57,14 +57,19 @@
       "name": "POSTAL 2 Redux"
     },
     "4575720": {
-      "rank": 2277,
+      "rank": 2271,
       "estimate": "7k+",
       "name": "Escape Simulator 2: Apocalypse DLC"
     },
     "4664240": {
-      "rank": 412,
+      "rank": 414,
       "estimate": "80k+",
       "name": "Hard Worker"
+    },
+    "4920230": {
+      "rank": 2252,
+      "estimate": "7k+",
+      "name": "Afterworld"
     }
   }
 }

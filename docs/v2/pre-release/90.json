@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T16:25:14.412Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-25T21:00:28.552Z",
+  "entryCount": 30,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -190,6 +190,13 @@
       "estimate": "<7k",
       "name": "Hellbridge",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "4480760": {
+      "rank": 3732,
+      "estimate": "<7k",
+      "name": "Surf Sandbox",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4583050": {

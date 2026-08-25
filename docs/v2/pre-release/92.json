@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T16:25:14.412Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-25T21:00:28.552Z",
+  "entryCount": 26,
   "entries": {
     "979110": {
       "rank": 38,
@@ -169,6 +169,13 @@
       "rank": 2634,
       "estimate": "7k+",
       "name": "Snap the Cat",
+      "releaseDate": "2026-08-25",
+      "source": "tracked"
+    },
+    "4661260": {
+      "rank": 2114,
+      "estimate": "7k+",
+      "name": "SeaColony",
       "releaseDate": "2026-08-25",
       "source": "tracked"
     },

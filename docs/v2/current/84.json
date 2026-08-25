@@ -1,81 +1,86 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-25T16:25:14.412Z",
-  "entryCount": 19,
+  "updatedAt": "2026-08-25T21:00:28.552Z",
+  "entryCount": 20,
   "entries": {
     "1313210": {
-      "rank": 1893,
+      "rank": 1903,
       "estimate": "15k+",
       "name": "Nimoyd - Survival Sandbox"
     },
     "1327200": {
-      "rank": 2538,
+      "rank": 2545,
       "estimate": "7k+",
       "name": "Redneck Party"
     },
     "1466310": {
-      "rank": 2108,
+      "rank": 2113,
       "estimate": "7k+",
       "name": "AC-130 Gunship Operator"
     },
     "2111370": {
-      "rank": 4067,
+      "rank": 4083,
       "estimate": "<7k",
       "name": "Covert Critter"
     },
     "2413960": {
-      "rank": 3076,
+      "rank": 3089,
       "estimate": "<7k",
       "name": "Dark"
     },
     "2708860": {
-      "rank": 154,
+      "rank": 153,
       "estimate": "200k+",
       "name": "Canyons"
     },
     "2784150": {
-      "rank": 3243,
+      "rank": 3258,
       "estimate": "<7k",
       "name": "The Last Rose"
     },
     "2823570": {
-      "rank": 3240,
+      "rank": 3256,
       "estimate": "<7k",
       "name": "Netcode Warriors"
     },
     "3091260": {
-      "rank": 2654,
+      "rank": 2663,
       "estimate": "7k+",
       "name": "Darkbound"
     },
     "3123420": {
-      "rank": 4121,
+      "rank": 4138,
       "estimate": "<7k",
       "name": "领航员计划 Navigator Project"
     },
     "3205960": {
-      "rank": 3519,
+      "rank": 3536,
       "estimate": "<7k",
       "name": "Succubus Memories"
     },
     "3498700": {
-      "rank": 2282,
+      "rank": 2284,
       "estimate": "7k+",
       "name": "Appulse"
     },
     "3630010": {
-      "rank": 1684,
+      "rank": 1686,
       "estimate": "15k+",
       "name": "CoopRooms"
     },
+    "3885720": {
+      "rank": 3766,
+      "estimate": "<7k",
+      "name": "Murals"
+    },
     "4055780": {
-      "rank": 1700,
+      "rank": 1701,
       "estimate": "15k+",
       "name": "Gunship Origins"
     },
     "4065790": {
-      "rank": 4025,
+      "rank": 4040,
       "estimate": "<7k",
       "name": "Choo Choo Defenders"
     },
@@ -85,17 +90,17 @@
       "name": "Kaiju Princess: Super Survivor Showdown"
     },
     "4271520": {
-      "rank": 961,
+      "rank": 963,
       "estimate": "40k+",
       "name": "The Pines"
     },
     "4502750": {
-      "rank": 560,
+      "rank": 556,
       "estimate": "40k+",
       "name": "Infamous Keepers"
     },
     "4590270": {
-      "rank": 4976,
+      "rank": 4992,
       "estimate": "<7k",
       "name": "Fallgrade"
     }
