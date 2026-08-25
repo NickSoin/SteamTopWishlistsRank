@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T06:12:31.067Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-25T10:55:21.683Z",
+  "entryCount": 24,
   "entries": {
     "912000": {
       "rank": 895,
@@ -142,6 +142,13 @@
       "estimate": "7k+",
       "name": "Feed the Scorchpot",
       "releaseDate": "2026-08-20",
+      "source": "tracked"
+    },
+    "4143220": {
+      "rank": 3478,
+      "estimate": "<7k",
+      "name": "The Case of the Golden Night Apartment",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4196150": {

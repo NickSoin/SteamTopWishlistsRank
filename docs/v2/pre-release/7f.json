@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T06:12:31.067Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-25T10:55:21.683Z",
+  "entryCount": 34,
   "entries": {
     "1167100": {
       "rank": 379,
@@ -214,6 +214,13 @@
       "estimate": "15k+",
       "name": "Pat the Cat",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4154510": {
+      "rank": 3110,
+      "estimate": "<7k",
+      "name": "How Asian Parents went to School",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4294490": {

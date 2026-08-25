@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T06:12:31.067Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-25T10:55:21.683Z",
+  "entryCount": 31,
   "entries": {
     "1336180": {
       "rank": 166,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "The Merchant's Eden",
       "releaseDate": "2026-08-12",
+      "source": "tracked"
+    },
+    "4046370": {
+      "rank": 5573,
+      "estimate": "<7k",
+      "name": "Ling House: Echoes Within",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4141350": {
