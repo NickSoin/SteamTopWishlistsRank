@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 42,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 43,
   "entries": {
     "856890": {
       "rank": 749,
@@ -243,6 +243,13 @@
       "name": "Into the Restless Ruins",
       "releaseDate": "2025-05-15",
       "source": "historical"
+    },
+    "2908160": {
+      "rank": 7435,
+      "estimate": "<7k",
+      "name": "Inseco",
+      "releaseDate": "2026-08-25",
+      "source": "tracked"
     },
     "2929730": {
       "rank": 1285,

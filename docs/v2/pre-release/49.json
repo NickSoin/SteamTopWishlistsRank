@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 30,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -121,6 +121,13 @@
       "name": "Victoria 3: Sphere of Influence - Expansion",
       "releaseDate": "2024-06-24",
       "source": "historical"
+    },
+    "2431080": {
+      "rank": 1251,
+      "estimate": "25k+",
+      "name": "Blood Dungeon",
+      "releaseDate": "2026-08-25",
+      "source": "tracked"
     },
     "2679460": {
       "rank": 42,

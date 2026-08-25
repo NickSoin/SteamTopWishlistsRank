@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 34,
   "entries": {
     "789150": {
       "rank": 34,
@@ -219,6 +219,13 @@
       "name": "FAIRY TAIL 2",
       "releaseDate": "2024-12-11",
       "source": "historical"
+    },
+    "3448650": {
+      "rank": 170,
+      "estimate": "200k+",
+      "name": "Aliens: Fireteam Elite 2",
+      "releaseDate": "2026-08-25",
+      "source": "tracked"
     },
     "3898970": {
       "rank": 8461,

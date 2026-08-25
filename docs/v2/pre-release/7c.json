@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 49,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 50,
   "entries": {
     "748020": {
       "rank": 911,
@@ -323,6 +323,13 @@
       "estimate": "<7k",
       "name": "Dread Fields",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4600960": {
+      "rank": 8957,
+      "estimate": "<7k",
+      "name": "BULLETARIUM",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4603950": {

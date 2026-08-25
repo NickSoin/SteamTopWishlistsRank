@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 30,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -184,6 +184,13 @@
       "estimate": "200k+",
       "name": "STEINS;GATE RE:BOOT",
       "releaseDate": "2026-08-19",
+      "source": "tracked"
+    },
+    "4054100": {
+      "rank": 4706,
+      "estimate": "<7k",
+      "name": "Sokogram",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4458900": {

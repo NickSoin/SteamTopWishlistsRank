@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 38,
   "entries": {
     "698670": {
       "rank": 24,
@@ -201,6 +201,13 @@
       "name": "#from #abandoned",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3956980": {
+      "rank": 3807,
+      "estimate": "<7k",
+      "name": "Apidya' Special",
+      "releaseDate": "2026-08-25",
+      "source": "tracked"
     },
     "4131940": {
       "rank": 4598,

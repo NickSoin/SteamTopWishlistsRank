@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 32,
   "entries": {
     "378690": {
       "rank": 1270,
@@ -212,6 +212,13 @@
       "estimate": "25k+",
       "name": "Case Solved: The London Files",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "4315910": {
+      "rank": 7291,
+      "estimate": "<7k",
+      "name": "Only One",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4422430": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 30,
   "entries": {
     "1172470": {
       "rank": 18,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Pin Money",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "4720360": {
+      "rank": 9424,
+      "estimate": "<7k",
+      "name": "VERLIES III - Resurrection",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4724650": {

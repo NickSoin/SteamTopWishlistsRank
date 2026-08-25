@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 32,
   "entries": {
     "1040200": {
       "rank": 65,
@@ -227,6 +227,13 @@
       "estimate": "<7k",
       "name": "Bowling Alley Simulator",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4737840": {
+      "rank": 1906,
+      "estimate": "15k+",
+      "name": "Ukrainian Warfare: Gostomel Heroes - Battle Unfinished",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     }
   }

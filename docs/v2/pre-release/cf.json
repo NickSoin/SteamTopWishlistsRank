@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 33,
   "entries": {
     "502050": {
       "rank": 1,
@@ -94,6 +94,13 @@
       "name": "Pool Cleaning Simulator",
       "releaseDate": "2024-06-05",
       "source": "historical"
+    },
+    "2172970": {
+      "rank": 4954,
+      "estimate": "<7k",
+      "name": "Lorne",
+      "releaseDate": "2026-08-25",
+      "source": "tracked"
     },
     "2228280": {
       "rank": 261,

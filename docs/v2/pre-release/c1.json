@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 23,
   "entries": {
     "912840": {
       "rank": 1084,
@@ -144,6 +144,13 @@
       "estimate": "<7k",
       "name": "SKY LEGENDS - An Aeropostal Epic",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4332910": {
+      "rank": 1779,
+      "estimate": "15k+",
+      "name": "Twisted Party",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4560490": {

@@ -1,46 +1,46 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 23,
   "entries": {
     "994560": {
-      "rank": 1478,
+      "rank": 1477,
       "estimate": "25k+",
       "name": "Metal Revolution / 金属对决"
     },
     "1628640": {
-      "rank": 3782,
+      "rank": 3773,
       "estimate": "<7k",
       "name": "SYNTHALGIA: Retro Arcade Racing"
     },
     "1854490": {
-      "rank": 4964,
+      "rank": 4959,
       "estimate": "<7k",
       "name": "Streets of Chaos"
     },
     "2400650": {
-      "rank": 3825,
+      "rank": 3826,
       "estimate": "<7k",
       "name": "Valeria the Pagan Priestess"
     },
     "2692620": {
-      "rank": 4448,
+      "rank": 4442,
       "estimate": "<7k",
       "name": "Hazard Pay"
     },
     "2854440": {
-      "rank": 3901,
+      "rank": 3874,
       "estimate": "<7k",
       "name": "Red Rocket Defencism"
     },
     "2923500": {
-      "rank": 2830,
+      "rank": 2827,
       "estimate": "7k+",
       "name": "ELEMASTA -エレマスタ-"
     },
     "3310570": {
-      "rank": 3812,
+      "rank": 3803,
       "estimate": "<7k",
       "name": "Night Plane"
     },
@@ -50,7 +50,7 @@
       "name": "Bagdex"
     },
     "3563080": {
-      "rank": 180,
+      "rank": 179,
       "estimate": "200k+",
       "name": "Swords & Slippers"
     },
@@ -60,42 +60,42 @@
       "name": "The Revanchist"
     },
     "3645540": {
-      "rank": 5085,
+      "rank": 5080,
       "estimate": "<7k",
       "name": "HAVKER-MAN X"
     },
     "3676410": {
-      "rank": 635,
+      "rank": 637,
       "estimate": "40k+",
       "name": "Senua"
     },
     "3756910": {
-      "rank": 4368,
+      "rank": 4364,
       "estimate": "<7k",
       "name": "Catgirl Rage: Claws of Fury"
     },
     "3872650": {
-      "rank": 3530,
+      "rank": 3527,
       "estimate": "<7k",
       "name": "Panzer Deck"
     },
     "3970880": {
-      "rank": 1707,
+      "rank": 1708,
       "estimate": "15k+",
       "name": "Eggspedition"
     },
     "4034350": {
-      "rank": 1525,
+      "rank": 1523,
       "estimate": "15k+",
       "name": "Loss Prevention"
     },
     "4307270": {
-      "rank": 3417,
+      "rank": 3415,
       "estimate": "<7k",
       "name": "Little Lilicia"
     },
     "4531440": {
-      "rank": 4044,
+      "rank": 4043,
       "estimate": "<7k",
       "name": "MARBLE SOULS"
     },
@@ -105,7 +105,7 @@
       "name": "Atelier Karia: The Night Kingdom & the Guide of Memories"
     },
     "4661260": {
-      "rank": 2258,
+      "rank": 2114,
       "estimate": "7k+",
       "name": "SeaColony"
     },
@@ -113,6 +113,11 @@
       "rank": 10,
       "estimate": "1.5m+",
       "name": "Resident Evil Veronica"
+    },
+    "4980620": {
+      "rank": 5188,
+      "estimate": "<7k",
+      "name": "Sanitarium Enhanced"
     }
   }
 }

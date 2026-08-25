@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T10:55:21.683Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-25T16:25:14.412Z",
+  "entryCount": 35,
   "entries": {
     "863500": {
       "rank": 1011,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Project manager SIM",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "4568830": {
+      "rank": 2980,
+      "estimate": "7k+",
+      "name": "ASTRAL COURT DX",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4644150": {
