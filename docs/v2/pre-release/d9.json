@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T02:11:29.823Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-25T06:12:31.067Z",
+  "entryCount": 27,
   "entries": {
     "974480": {
       "rank": 197,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Notebook Workshop",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4702540": {
+      "rank": 7943,
+      "estimate": "<7k",
+      "name": "Satawn",
+      "releaseDate": "2026-08-24",
       "source": "tracked"
     }
   }

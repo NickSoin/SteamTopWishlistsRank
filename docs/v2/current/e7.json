@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-25T02:11:29.823Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-25T06:12:31.067Z",
+  "entryCount": 25,
   "entries": {
     "694320": {
-      "rank": 791,
+      "rank": 793,
       "estimate": "40k+",
       "name": "UnderRail 2: Infusion"
     },
@@ -15,7 +15,7 @@
       "name": "Projekt Z: Beyond Order"
     },
     "1345450": {
-      "rank": 1932,
+      "rank": 1935,
       "estimate": "15k+",
       "name": "Phantom Doctrine: The Cabal"
     },
@@ -25,7 +25,7 @@
       "name": "Police Interceptors"
     },
     "1662050": {
-      "rank": 1522,
+      "rank": 1523,
       "estimate": "15k+",
       "name": "Noble's Life: Kingdom Reborn"
     },
@@ -45,17 +45,17 @@
       "name": "The Bustling World"
     },
     "2841650": {
-      "rank": 1841,
+      "rank": 1840,
       "estimate": "15k+",
       "name": "Sniper Dan"
     },
     "2859220": {
-      "rank": 3236,
+      "rank": 3238,
       "estimate": "<7k",
       "name": "Vuntra City"
     },
     "3005660": {
-      "rank": 3442,
+      "rank": 3444,
       "estimate": "<7k",
       "name": "Scribe RPG"
     },
@@ -65,29 +65,34 @@
       "name": "Paradise"
     },
     "3316500": {
-      "rank": 1403,
+      "rank": 1404,
       "estimate": "25k+",
       "name": "DMZ: Nuclear Survival"
     },
     "3859210": {
-      "rank": 2220,
+      "rank": 2221,
       "estimate": "7k+",
       "name": "Rhythm Animal Café"
     },
     "3867080": {
-      "rank": 2335,
+      "rank": 2338,
       "estimate": "7k+",
       "name": "Darklord's Tower"
     },
     "3975130": {
-      "rank": 3689,
+      "rank": 3686,
       "estimate": "<7k",
       "name": "Little Old One and the Witch"
     },
     "4234320": {
-      "rank": 2174,
+      "rank": 2176,
       "estimate": "7k+",
       "name": "Dithered"
+    },
+    "4493130": {
+      "rank": 5209,
+      "estimate": "<7k",
+      "name": "Ski-E-O! Ski Resort Tycoon"
     },
     "4548120": {
       "rank": 4930,
@@ -95,27 +100,32 @@
       "name": "Tumblebee"
     },
     "4610740": {
-      "rank": 2371,
+      "rank": 2374,
       "estimate": "7k+",
       "name": "Driftborn"
     },
     "4619040": {
-      "rank": 2977,
+      "rank": 2978,
       "estimate": "7k+",
       "name": "Valken"
     },
+    "4702700": {
+      "rank": 1500,
+      "estimate": "25k+",
+      "name": "Heathen"
+    },
     "4756820": {
-      "rank": 4856,
+      "rank": 4858,
       "estimate": "<7k",
       "name": "Crosswinds"
     },
     "4787970": {
-      "rank": 5122,
+      "rank": 5120,
       "estimate": "<7k",
       "name": "Dragon's Chronicles~双星のレギンレイヴ~"
     },
     "4968940": {
-      "rank": 1759,
+      "rank": 1758,
       "estimate": "15k+",
       "name": "CALL OF CUTIE"
     }
