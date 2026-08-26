@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T02:31:33.038Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-26T05:55:02.223Z",
+  "entryCount": 28,
   "entries": {
     "648800": {
       "rank": 25,
@@ -193,6 +193,13 @@
       "estimate": "25k+",
       "name": "Mafia: The Old Country - Man of Honor",
       "releaseDate": "2026-08-14",
+      "source": "tracked"
+    },
+    "4580450": {
+      "rank": 4221,
+      "estimate": "<7k",
+      "name": "おかゆにゅ～～む！R ~Okayunyumu！R~",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     }
   }

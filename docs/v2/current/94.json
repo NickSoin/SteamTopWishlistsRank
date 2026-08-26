@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-26T02:31:33.038Z",
-  "entryCount": 15,
+  "updatedAt": "2026-08-26T05:55:02.223Z",
+  "entryCount": 16,
   "entries": {
     "1036430": {
-      "rank": 2929,
+      "rank": 2931,
       "estimate": "7k+",
       "name": "Neverdark"
     },
@@ -15,32 +15,32 @@
       "name": "The Lost Wild"
     },
     "1991250": {
-      "rank": 2104,
+      "rank": 2108,
       "estimate": "7k+",
       "name": "Automation Station"
     },
     "2085660": {
-      "rank": 4290,
+      "rank": 4294,
       "estimate": "<7k",
       "name": "Devices Tycoon"
     },
     "2192380": {
-      "rank": 243,
+      "rank": 244,
       "estimate": "80k+",
       "name": "Begone Beast"
     },
     "2531840": {
-      "rank": 4490,
+      "rank": 4492,
       "estimate": "<7k",
       "name": "Goeland: Seagull Adventure"
     },
     "2575040": {
-      "rank": 2852,
+      "rank": 2857,
       "estimate": "7k+",
       "name": "Mansion of Memories"
     },
     "2791260": {
-      "rank": 3093,
+      "rank": 3094,
       "estimate": "<7k",
       "name": "Iron Inc."
     },
@@ -55,12 +55,12 @@
       "name": "Call of Elyndra"
     },
     "2989890": {
-      "rank": 3027,
+      "rank": 3029,
       "estimate": "<7k",
       "name": "Formula Circus"
     },
     "3070430": {
-      "rank": 2093,
+      "rank": 2096,
       "estimate": "7k+",
       "name": "Nova Era:Atom"
     },
@@ -75,9 +75,14 @@
       "name": "LOVE WMC"
     },
     "4341010": {
-      "rank": 1309,
+      "rank": 1310,
       "estimate": "25k+",
       "name": "Lost Track"
+    },
+    "4404070": {
+      "rank": 5244,
+      "estimate": "<7k",
+      "name": "Farming Simulator 25: Beans & Alpacas Expansion"
     }
   }
 }
