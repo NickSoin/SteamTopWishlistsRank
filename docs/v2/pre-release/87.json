@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T21:00:28.552Z",
-  "entryCount": 38,
+  "updatedAt": "2026-08-26T02:31:33.038Z",
+  "entryCount": 39,
   "entries": {
     "1039100": {
       "rank": 184,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Plush Parade",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4073860": {
+      "rank": 872,
+      "estimate": "40k+",
+      "name": "Sludgineers",
+      "releaseDate": "2026-08-25",
       "source": "tracked"
     },
     "4094470": {

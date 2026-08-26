@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T21:00:28.552Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-26T02:31:33.038Z",
+  "entryCount": 28,
   "entries": {
     "813230": {
       "rank": 13,
@@ -103,6 +103,13 @@
       "name": "Total War: WARHAMMER III - Elspeth – Thrones of Decay",
       "releaseDate": "2024-04-30",
       "source": "historical"
+    },
+    "2358630": {
+      "rank": 920,
+      "estimate": "40k+",
+      "name": "Western Rye",
+      "releaseDate": "2026-08-25",
+      "source": "tracked"
     },
     "2380280": {
       "rank": 1700,

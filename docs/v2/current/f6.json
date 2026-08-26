@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-25T21:00:28.552Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-26T02:31:33.038Z",
+  "entryCount": 28,
   "entries": {
     "1368180": {
-      "rank": 1760,
+      "rank": 1768,
       "estimate": "15k+",
       "name": "Wildekin"
     },
@@ -20,57 +20,57 @@
       "name": "EDEN.schemata();"
     },
     "1811350": {
-      "rank": 5089,
+      "rank": 5091,
       "estimate": "<7k",
       "name": "Zombie Hell: Infected City"
     },
     "1897950": {
-      "rank": 4275,
+      "rank": 4279,
       "estimate": "<7k",
       "name": "Sirenhead: Southpoint"
     },
     "1898920": {
-      "rank": 285,
+      "rank": 286,
       "estimate": "80k+",
       "name": "War of the Worlds"
     },
     "2223260": {
-      "rank": 5117,
+      "rank": 5121,
       "estimate": "<7k",
       "name": "The Strange Box"
     },
     "2244700": {
-      "rank": 745,
+      "rank": 751,
       "estimate": "40k+",
       "name": "Glasshouse"
     },
     "2349630": {
-      "rank": 1372,
+      "rank": 1374,
       "estimate": "25k+",
       "name": "Litchi Town"
     },
     "2352230": {
-      "rank": 1879,
+      "rank": 1882,
       "estimate": "15k+",
       "name": "Little Big Adventure - Purple Empire"
     },
     "2513200": {
-      "rank": 3945,
+      "rank": 3953,
       "estimate": "<7k",
       "name": "Mystic Land: The Search for Maphaldo"
     },
     "2640090": {
-      "rank": 606,
+      "rank": 611,
       "estimate": "40k+",
       "name": "Arcane Eats"
     },
     "3017130": {
-      "rank": 3646,
+      "rank": 3656,
       "estimate": "<7k",
       "name": "Bashful Adoration"
     },
     "3301510": {
-      "rank": 946,
+      "rank": 947,
       "estimate": "40k+",
       "name": "Tomo: Endless Blue"
     },
@@ -80,57 +80,57 @@
       "name": "Infinite Ball Well"
     },
     "3328490": {
-      "rank": 1153,
+      "rank": 1157,
       "estimate": "25k+",
       "name": "Airport Control 27"
     },
     "3462170": {
-      "rank": 4730,
+      "rank": 4736,
       "estimate": "<7k",
       "name": "Obsidian Moon"
     },
     "3506070": {
-      "rank": 3671,
+      "rank": 3678,
       "estimate": "<7k",
       "name": "Teios Journey"
     },
     "3807500": {
-      "rank": 4321,
+      "rank": 4326,
       "estimate": "<7k",
       "name": "Zortch 2"
     },
     "3850980": {
-      "rank": 1810,
+      "rank": 1813,
       "estimate": "15k+",
       "name": "687 Days on Mars"
     },
     "3857790": {
-      "rank": 3375,
+      "rank": 3383,
       "estimate": "<7k",
       "name": "Kami Quest: Enter the Imagynasium"
     },
     "4102150": {
-      "rank": 4731,
+      "rank": 4735,
       "estimate": "<7k",
       "name": "Touhou Hero of Ice Fairy DLC3 - Fairies' Haunted Mansion"
     },
     "4281060": {
-      "rank": 1483,
+      "rank": 1475,
       "estimate": "25k+",
       "name": "Police Officer"
     },
     "4296370": {
-      "rank": 2116,
+      "rank": 2124,
       "estimate": "7k+",
       "name": "Every Wednesday"
     },
     "4372700": {
-      "rank": 3675,
+      "rank": 3682,
       "estimate": "<7k",
       "name": "Narco Check"
     },
     "4924590": {
-      "rank": 5013,
+      "rank": 5017,
       "estimate": "<7k",
       "name": "Mumbai Chef - Junk Food Simulator"
     },
@@ -138,6 +138,11 @@
       "rank": 4066,
       "estimate": "<7k",
       "name": "IRON SANCTUARY"
+    },
+    "5006530": {
+      "rank": 280,
+      "estimate": "80k+",
+      "name": "The Witcher 3: Wild Hunt — Songs of the Past"
     }
   }
 }

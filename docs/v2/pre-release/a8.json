@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-25T21:00:28.552Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-26T02:31:33.038Z",
+  "entryCount": 32,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -59,6 +59,13 @@
       "name": "Reality Break",
       "releaseDate": "2025-02-10",
       "source": "historical"
+    },
+    "1678650": {
+      "rank": 3498,
+      "estimate": "<7k",
+      "name": "Box Knight",
+      "releaseDate": "2026-08-25",
+      "source": "tracked"
     },
     "1766100": {
       "rank": 434,
