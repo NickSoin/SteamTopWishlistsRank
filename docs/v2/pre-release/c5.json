@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 45,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 46,
   "entries": {
     "595500": {
       "rank": 511,
@@ -279,6 +279,13 @@
       "estimate": "<7k",
       "name": "CINESCAPE VR",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3834590": {
+      "rank": 3168,
+      "estimate": "<7k",
+      "name": "Now THAT'S a Big Dragon!",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "4036160": {

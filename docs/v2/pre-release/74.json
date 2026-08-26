@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 35,
   "entries": {
     "511280": {
       "rank": 886,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Pickochet",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4429930": {
+      "rank": 719,
+      "estimate": "40k+",
+      "name": "Water You Doing?",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "4458840": {

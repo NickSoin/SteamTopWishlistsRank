@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 33,
   "entries": {
     "292000": {
       "rank": 29,
@@ -86,6 +86,13 @@
       "name": "Retro Gadgets",
       "releaseDate": "2022-11-30",
       "source": "historical"
+    },
+    "1879860": {
+      "rank": 3164,
+      "estimate": "<7k",
+      "name": "Fractured Worlds",
+      "releaseDate": "2026-08-26",
+      "source": "tracked"
     },
     "1880330": {
       "rank": 189,

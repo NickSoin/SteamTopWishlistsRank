@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 32,
   "entries": {
     "669330": {
       "rank": 422,
@@ -129,6 +129,13 @@
       "name": "Mortal Glory 2",
       "releaseDate": "2024-03-04",
       "source": "historical"
+    },
+    "2275300": {
+      "rank": 1990,
+      "estimate": "15k+",
+      "name": "Folk Emerging",
+      "releaseDate": "2026-08-26",
+      "source": "tracked"
     },
     "2292800": {
       "rank": 10,

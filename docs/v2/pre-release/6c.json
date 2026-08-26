@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 32,
   "entries": {
     "894020": {
       "rank": 39,
@@ -216,6 +216,13 @@
       "estimate": "<7k",
       "name": "Lilim Clicker",
       "releaseDate": "2026-08-07",
+      "source": "tracked"
+    },
+    "4438280": {
+      "rank": 8168,
+      "estimate": "<7k",
+      "name": "Train Valley 2: Workshop Gems - Onyx",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "4623260": {

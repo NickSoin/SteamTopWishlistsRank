@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 39,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 40,
   "entries": {
     "809090": {
       "rank": 1225,
@@ -238,6 +238,13 @@
       "name": "Phantom Brave: The Lost Hero",
       "releaseDate": "2025-04-24",
       "source": "historical"
+    },
+    "3211430": {
+      "rank": 460,
+      "estimate": "80k+",
+      "name": "BRIGANDINE ABYSS",
+      "releaseDate": "2026-08-26",
+      "source": "tracked"
     },
     "3636770": {
       "rank": 277,

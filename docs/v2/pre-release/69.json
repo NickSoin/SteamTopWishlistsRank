@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 24,
   "entries": {
     "771580": {
       "rank": 187,
@@ -10,6 +10,13 @@
       "name": "Mad World  - Age of Darkness - MMORPG",
       "releaseDate": "2024-01-25",
       "source": "historical"
+    },
+    "965190": {
+      "rank": 1977,
+      "estimate": "15k+",
+      "name": "Night Rolls Cozy Store",
+      "releaseDate": "2026-08-26",
+      "source": "tracked"
     },
     "1173820": {
       "rank": 81,

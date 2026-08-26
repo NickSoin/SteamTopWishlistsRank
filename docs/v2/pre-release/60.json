@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 29,
   "entries": {
     "813230": {
       "rank": 13,
@@ -151,6 +151,13 @@
       "estimate": "15k+",
       "name": "Vortica",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "3948760": {
+      "rank": 4069,
+      "estimate": "<7k",
+      "name": "Find My Frogs: Branches",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "4320330": {

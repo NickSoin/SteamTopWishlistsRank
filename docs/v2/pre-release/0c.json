@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 38,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -198,6 +198,13 @@
       "name": "FINAL FANTASY XIV: Dawntrail",
       "releaseDate": "2024-07-02",
       "source": "historical"
+    },
+    "2796250": {
+      "rank": 9756,
+      "estimate": "<7k",
+      "name": "Beware the Depths",
+      "releaseDate": "2026-08-26",
+      "source": "tracked"
     },
     "2930160": {
       "rank": 253,

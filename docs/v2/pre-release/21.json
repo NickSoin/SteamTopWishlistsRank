@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 29,
   "entries": {
     "924980": {
       "rank": 34,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Trail & Error",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4323130": {
+      "rank": 1093,
+      "estimate": "25k+",
+      "name": "Sniper Camouflage Orange Spy Warrior I Buried Two Bodies in the Garden and the Police Haven't Figured Out Yet That They're Missing Because They Were a Lonely Old Couple Who Had No Relatives Simulator 2026",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "4553980": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 33,
   "entries": {
     "252190": {
       "rank": 1772,
@@ -180,6 +180,13 @@
       "source": "tracked",
       "actualWishlists": 3000000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821318455"
+    },
+    "4075900": {
+      "rank": 6414,
+      "estimate": "<7k",
+      "name": "Flyra: FPV Drone Simulator",
+      "releaseDate": "2026-08-26",
+      "source": "tracked"
     },
     "4182710": {
       "rank": 8523,

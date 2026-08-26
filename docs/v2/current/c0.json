@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 23,
   "entries": {
     "888780": {
-      "rank": 370,
+      "rank": 373,
       "estimate": "80k+",
       "name": "Adapt"
     },
     "1015370": {
-      "rank": 2728,
+      "rank": 2721,
       "estimate": "7k+",
       "name": "eXpanSIM"
     },
     "1518330": {
-      "rank": 1258,
+      "rank": 1252,
       "estimate": "25k+",
       "name": "Pirate Simulator"
     },
     "1545080": {
-      "rank": 2495,
+      "rank": 2490,
       "estimate": "7k+",
       "name": "Arran: The Book of Heroes"
     },
     "1835570": {
-      "rank": 3810,
+      "rank": 3800,
       "estimate": "<7k",
       "name": "BioCrisis : Return 2 the Lab"
     },
@@ -35,37 +35,37 @@
       "name": "Tropico 7"
     },
     "1983910": {
-      "rank": 1958,
+      "rank": 1954,
       "estimate": "15k+",
       "name": "Prison Survival: Architect of Crime Simulator"
     },
     "2026450": {
-      "rank": 3136,
+      "rank": 3129,
       "estimate": "<7k",
       "name": "Stunt Derby"
     },
     "2106730": {
-      "rank": 904,
+      "rank": 903,
       "estimate": "40k+",
       "name": "Phantom Hellcat"
     },
     "3156020": {
-      "rank": 1474,
+      "rank": 1471,
       "estimate": "25k+",
       "name": "Gloomveil"
     },
     "3251280": {
-      "rank": 1940,
+      "rank": 1934,
       "estimate": "15k+",
       "name": "Rivals Hover League"
     },
     "3520410": {
-      "rank": 2181,
+      "rank": 2178,
       "estimate": "7k+",
       "name": "10hit"
     },
     "3579070": {
-      "rank": 2393,
+      "rank": 2389,
       "estimate": "7k+",
       "name": "Disposable Corps: Tactical Trench Warfare"
     },
@@ -75,7 +75,7 @@
       "name": "CONTROL Resonant"
     },
     "3760360": {
-      "rank": 3989,
+      "rank": 3981,
       "estimate": "<7k",
       "name": "My Little Farm"
     },
@@ -90,7 +90,7 @@
       "name": "Rules of Engagement: The Grey State"
     },
     "3994840": {
-      "rank": 5101,
+      "rank": 5091,
       "estimate": "<7k",
       "name": "The Whisker Watch"
     },
@@ -100,17 +100,22 @@
       "name": "Whiskers Tale"
     },
     "4210060": {
-      "rank": 234,
+      "rank": 235,
       "estimate": "80k+",
       "name": "ZERO Sievert 2"
     },
     "4465790": {
-      "rank": 417,
+      "rank": 418,
       "estimate": "80k+",
       "name": "Deadzone Rogue 2"
     },
+    "4536920": {
+      "rank": 5244,
+      "estimate": "<7k",
+      "name": "Cards & Cannons"
+    },
     "4709120": {
-      "rank": 2429,
+      "rank": 2421,
       "estimate": "7k+",
       "name": "METAXIA"
     }

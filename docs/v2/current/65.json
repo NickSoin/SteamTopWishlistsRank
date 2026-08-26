@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 19,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 18,
   "entries": {
     "1279500": {
-      "rank": 4793,
+      "rank": 4781,
       "estimate": "<7k",
       "name": "Nine Chronicles"
     },
     "1292510": {
-      "rank": 1739,
+      "rank": 1735,
       "estimate": "15k+",
       "name": "Everstorm"
     },
     "1445480": {
-      "rank": 2646,
+      "rank": 2637,
       "estimate": "7k+",
       "name": "Determinant"
     },
     "1628120": {
-      "rank": 4658,
+      "rank": 4654,
       "estimate": "<7k",
       "name": "Rollers of the Realm: Reunion"
     },
     "1636620": {
-      "rank": 2339,
+      "rank": 2326,
       "estimate": "7k+",
       "name": "Cognition Method"
     },
     "1806210": {
-      "rank": 5216,
+      "rank": 5211,
       "estimate": "<7k",
       "name": "Spellcraft"
     },
     "2560540": {
-      "rank": 4840,
+      "rank": 4830,
       "estimate": "<7k",
       "name": "Historia Realis: Rome"
     },
@@ -45,12 +45,12 @@
       "name": "Fable"
     },
     "3296970": {
-      "rank": 4202,
+      "rank": 4195,
       "estimate": "<7k",
       "name": "Häxeri"
     },
     "3325610": {
-      "rank": 2431,
+      "rank": 2429,
       "estimate": "7k+",
       "name": "IDET"
     },
@@ -60,7 +60,7 @@
       "name": "Transport Fever 3"
     },
     "3547270": {
-      "rank": 818,
+      "rank": 814,
       "estimate": "40k+",
       "name": "Worming from Home"
     },
@@ -70,34 +70,29 @@
       "name": "Tomb Raider: Legacy of Atlantis"
     },
     "3581140": {
-      "rank": 3078,
+      "rank": 3069,
       "estimate": "<7k",
       "name": "Clockwork Maiden"
     },
     "3591390": {
-      "rank": 4008,
+      "rank": 4002,
       "estimate": "<7k",
       "name": "Vivi and the Magical Island"
     },
     "4001430": {
-      "rank": 3430,
+      "rank": 3415,
       "estimate": "<7k",
       "name": "Seres Universalis:Three Kingdoms"
     },
     "4004820": {
-      "rank": 1266,
+      "rank": 1260,
       "estimate": "25k+",
       "name": "FreeStyle Football 2"
     },
     "4047520": {
-      "rank": 3138,
+      "rank": 3109,
       "estimate": "<7k",
       "name": "Demonbane: Ascension"
-    },
-    "4423580": {
-      "rank": 925,
-      "estimate": "40k+",
-      "name": "Shadow Dungeon"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 30,
   "entries": {
     "803330": {
       "rank": 19,
@@ -87,6 +87,13 @@
       "name": "Headquarters: World War II",
       "releaseDate": "2024-04-11",
       "source": "historical"
+    },
+    "2062380": {
+      "rank": 9962,
+      "estimate": "<7k",
+      "name": "Roots in the Sky - The Hand of Glory 2",
+      "releaseDate": "2026-08-26",
+      "source": "tracked"
     },
     "2111550": {
       "rank": 700,

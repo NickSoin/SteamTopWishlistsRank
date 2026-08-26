@@ -1,51 +1,51 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 25,
   "entries": {
     "259000": {
-      "rank": 3994,
+      "rank": 3987,
       "estimate": "<7k",
       "name": "Dead Pixels II"
     },
     "983680": {
-      "rank": 1510,
+      "rank": 1507,
       "estimate": "15k+",
       "name": "SILENT DOOM"
     },
     "1113080": {
-      "rank": 1836,
+      "rank": 1834,
       "estimate": "15k+",
       "name": "Dog Trainer"
     },
     "1175350": {
-      "rank": 4316,
+      "rank": 4311,
       "estimate": "<7k",
       "name": "Archer: The Witch's Wrath"
     },
     "1238190": {
-      "rank": 847,
+      "rank": 846,
       "estimate": "40k+",
       "name": "Ant Colony: Wild Forest"
     },
     "1571790": {
-      "rank": 4511,
+      "rank": 4501,
       "estimate": "<7k",
       "name": "Dust Walkers"
     },
     "1868210": {
-      "rank": 1176,
+      "rank": 1172,
       "estimate": "25k+",
       "name": "Bunker Builder Simulator"
     },
     "2211130": {
-      "rank": 3553,
+      "rank": 3542,
       "estimate": "<7k",
       "name": "SOULBOUND"
     },
     "2331140": {
-      "rank": 2572,
+      "rank": 2568,
       "estimate": "7k+",
       "name": "Lovelorn sanatorium Ⅳ"
     },
@@ -55,17 +55,17 @@
       "name": "Dead On Arrival"
     },
     "2537980": {
-      "rank": 1902,
+      "rank": 1897,
       "estimate": "15k+",
       "name": "Drăculești"
     },
     "2616650": {
-      "rank": 3149,
+      "rank": 3144,
       "estimate": "<7k",
       "name": "Engraving"
     },
     "2626770": {
-      "rank": 4997,
+      "rank": 4986,
       "estimate": "<7k",
       "name": "Yellowcake"
     },
@@ -75,52 +75,57 @@
       "name": "Truck Manager"
     },
     "2925420": {
-      "rank": 4924,
+      "rank": 4908,
       "estimate": "<7k",
       "name": "Fleshinsane"
     },
     "2934080": {
-      "rank": 4657,
+      "rank": 4650,
       "estimate": "<7k",
       "name": "Travellin Cats in England"
     },
     "2949750": {
-      "rank": 1128,
+      "rank": 1123,
       "estimate": "25k+",
       "name": "Margin of the Strange"
     },
     "3412110": {
-      "rank": 4276,
+      "rank": 4269,
       "estimate": "<7k",
       "name": "Severed Love"
     },
     "3720330": {
-      "rank": 1703,
+      "rank": 1701,
       "estimate": "15k+",
       "name": "Infinite Alliance"
     },
     "3734010": {
-      "rank": 2047,
+      "rank": 2040,
       "estimate": "7k+",
       "name": "Project Retrograde: The Becoming"
     },
+    "3890260": {
+      "rank": 5250,
+      "estimate": "<7k",
+      "name": "Edenwound"
+    },
     "3905070": {
-      "rank": 4275,
+      "rank": 4263,
       "estimate": "<7k",
       "name": "Treasure Cove"
     },
     "4306070": {
-      "rank": 5246,
+      "rank": 5238,
       "estimate": "<7k",
       "name": "Catch Meow If You Can"
     },
     "4573960": {
-      "rank": 4818,
+      "rank": 4807,
       "estimate": "<7k",
       "name": "Cauldron: Haunted Harvest"
     },
     "4768180": {
-      "rank": 2048,
+      "rank": 2036,
       "estimate": "7k+",
       "name": "Cronos: Lazarus"
     }

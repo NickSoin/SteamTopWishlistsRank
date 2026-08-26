@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 27,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 28,
   "entries": {
     "247970": {
       "rank": 513,
@@ -150,6 +150,13 @@
       "name": "American Truck Simulator - Missouri",
       "releaseDate": "2025-04-03",
       "source": "historical"
+    },
+    "3650210": {
+      "rank": 9954,
+      "estimate": "<7k",
+      "name": "Thumps & Blows",
+      "releaseDate": "2026-08-26",
+      "source": "tracked"
     },
     "3915120": {
       "rank": 3567,

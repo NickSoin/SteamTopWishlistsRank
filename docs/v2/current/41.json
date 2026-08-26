@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 21,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 22,
   "entries": {
     "1607930": {
-      "rank": 3123,
+      "rank": 3115,
       "estimate": "<7k",
       "name": "Drake's Odds: Survive"
     },
     "2271150": {
-      "rank": 1841,
+      "rank": 1842,
       "estimate": "15k+",
       "name": "Loya"
     },
     "2549040": {
-      "rank": 1862,
+      "rank": 1860,
       "estimate": "15k+",
       "name": "Night of the Slayers"
     },
     "2685100": {
-      "rank": 1156,
+      "rank": 1153,
       "estimate": "25k+",
       "name": "NOIR BLOOM"
     },
     "2855020": {
-      "rank": 3432,
+      "rank": 3421,
       "estimate": "<7k",
       "name": "Haymaker"
     },
     "2876290": {
-      "rank": 2210,
+      "rank": 2206,
       "estimate": "7k+",
       "name": "Sojourn Past"
     },
     "2885380": {
-      "rank": 183,
+      "rank": 184,
       "estimate": "200k+",
       "name": "Gold Mining Simulator 2"
     },
@@ -45,7 +45,7 @@
       "name": "M.I.N.S.K."
     },
     "2985880": {
-      "rank": 1343,
+      "rank": 1339,
       "estimate": "25k+",
       "name": "Farming Camp"
     },
@@ -65,49 +65,54 @@
       "name": "Welcome to Brightville"
     },
     "3562200": {
-      "rank": 1968,
+      "rank": 1963,
       "estimate": "15k+",
       "name": "Cloudscrapers"
     },
     "3581760": {
-      "rank": 2130,
+      "rank": 2125,
       "estimate": "7k+",
       "name": "Out of Love"
     },
     "3690240": {
-      "rank": 4759,
+      "rank": 4744,
       "estimate": "<7k",
       "name": "Project Android"
     },
     "3887130": {
-      "rank": 4376,
+      "rank": 4366,
       "estimate": "<7k",
       "name": "Fluffy Escape: Cryptic Cube"
     },
     "4115300": {
-      "rank": 686,
+      "rank": 687,
       "estimate": "40k+",
       "name": "A Date with Death 2: REMNANTS"
     },
     "4200800": {
-      "rank": 3017,
+      "rank": 3011,
       "estimate": "<7k",
       "name": "Alice at the End of Her Life"
     },
     "4246640": {
-      "rank": 2545,
+      "rank": 2527,
       "estimate": "7k+",
       "name": "Dungeon Brawls"
     },
     "4259190": {
-      "rank": 339,
+      "rank": 341,
       "estimate": "80k+",
       "name": "Kingdom Rush 6: Genesis TD"
     },
     "4448200": {
-      "rank": 4802,
+      "rank": 4784,
       "estimate": "<7k",
       "name": "Coffee Raccoons"
+    },
+    "5054190": {
+      "rank": 5223,
+      "estimate": "<7k",
+      "name": "Mermade"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 48,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 49,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -295,6 +295,13 @@
       "estimate": "15k+",
       "name": "Monopoly: Star Wars™ Heroes vs. Villains",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "3946950": {
+      "rank": 898,
+      "estimate": "40k+",
+      "name": "Click the Button",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "3972980": {

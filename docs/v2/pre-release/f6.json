@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T10:56:04.578Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-26T16:52:11.488Z",
+  "entryCount": 35,
   "entries": {
     "858710": {
       "rank": 35,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Sports Card Shop Simulator",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4281060": {
+      "rank": 1455,
+      "estimate": "25k+",
+      "name": "Police Officer",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "4759400": {
