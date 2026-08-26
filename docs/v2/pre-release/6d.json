@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T05:55:02.223Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-26T10:56:04.578Z",
+  "entryCount": 38,
   "entries": {
     "680420": {
       "rank": 15,
@@ -220,6 +220,13 @@
       "estimate": "80k+",
       "name": "Goblin Company",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3963030": {
+      "rank": 3024,
+      "estimate": "<7k",
+      "name": "Pickle Pete",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "4030830": {

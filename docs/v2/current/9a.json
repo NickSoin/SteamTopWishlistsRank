@@ -1,21 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-26T05:55:02.223Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-26T10:56:04.578Z",
+  "entryCount": 25,
   "entries": {
+    "1012870": {
+      "rank": 5231,
+      "estimate": "<7k",
+      "name": "Backpack Inspector"
+    },
     "1255020": {
-      "rank": 4887,
+      "rank": 4886,
       "estimate": "<7k",
       "name": "An Elaborate History of Chess"
     },
     "1568520": {
-      "rank": 4434,
+      "rank": 4435,
       "estimate": "<7k",
       "name": "Blue June"
     },
     "1847850": {
-      "rank": 3768,
+      "rank": 3766,
       "estimate": "<7k",
       "name": "Myth Caller: The Nightmare Shaman"
     },
@@ -25,32 +30,32 @@
       "name": "BadSmith"
     },
     "2168390": {
-      "rank": 232,
+      "rank": 233,
       "estimate": "80k+",
       "name": "Away Team"
     },
     "2194090": {
-      "rank": 3315,
+      "rank": 3316,
       "estimate": "<7k",
       "name": "Subspace Hunter Legacy"
     },
     "2275010": {
-      "rank": 2297,
+      "rank": 2300,
       "estimate": "7k+",
       "name": "Ardent Wilds"
     },
     "2339000": {
-      "rank": 3392,
+      "rank": 3393,
       "estimate": "<7k",
       "name": "Portabellows"
     },
     "2450350": {
-      "rank": 2238,
+      "rank": 2239,
       "estimate": "7k+",
       "name": "Fat Goblins"
     },
     "2529960": {
-      "rank": 2955,
+      "rank": 2956,
       "estimate": "7k+",
       "name": "Alpha Nomos"
     },
@@ -60,17 +65,17 @@
       "name": "Eon Rush"
     },
     "2591710": {
-      "rank": 4727,
+      "rank": 4726,
       "estimate": "<7k",
       "name": "Pirates of the Caribbean: Tides of War"
     },
     "2600920": {
-      "rank": 607,
+      "rank": 608,
       "estimate": "40k+",
       "name": "When Sirens Fall Silent"
     },
     "2841600": {
-      "rank": 2943,
+      "rank": 2945,
       "estimate": "7k+",
       "name": "The Vigilante Diaries"
     },
@@ -80,7 +85,7 @@
       "name": "TrophyRC"
     },
     "3546610": {
-      "rank": 1108,
+      "rank": 1109,
       "estimate": "25k+",
       "name": "Wielders of the Essence"
     },
@@ -90,37 +95,37 @@
       "name": "Resurface"
     },
     "3689540": {
-      "rank": 1319,
+      "rank": 1321,
       "estimate": "25k+",
       "name": "KING's RAID"
     },
     "3743260": {
-      "rank": 1147,
+      "rank": 1149,
       "estimate": "25k+",
       "name": "Virtue and a Sledgehammer"
     },
     "3936190": {
-      "rank": 2971,
+      "rank": 2972,
       "estimate": "7k+",
       "name": "Freshly Folded: Laundry Shop"
     },
     "4073320": {
-      "rank": 2366,
+      "rank": 2371,
       "estimate": "7k+",
       "name": "Funus: The Climb"
     },
     "4100080": {
-      "rank": 2774,
+      "rank": 2763,
       "estimate": "7k+",
       "name": "Sin or Suffer"
     },
     "4189120": {
-      "rank": 345,
+      "rank": 346,
       "estimate": "80k+",
       "name": "Debauchery & Magic"
     },
     "4258880": {
-      "rank": 963,
+      "rank": 965,
       "estimate": "40k+",
       "name": "Basement To The Sky"
     }
