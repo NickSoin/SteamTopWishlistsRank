@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T16:52:11.488Z",
-  "entryCount": 41,
+  "updatedAt": "2026-08-26T23:53:57.703Z",
+  "entryCount": 42,
   "entries": {
     "830540": {
       "rank": 1466,
@@ -283,6 +283,13 @@
       "estimate": "<7k",
       "name": "中国式地雷女",
       "releaseDate": "2026-08-07",
+      "source": "tracked"
+    },
+    "4114860": {
+      "rank": 4962,
+      "estimate": "<7k",
+      "name": "SCP The Beginning",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "4241690": {
