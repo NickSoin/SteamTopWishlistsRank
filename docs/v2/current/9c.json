@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-26T23:53:57.703Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-27T10:13:58.871Z",
+  "entryCount": 21,
   "entries": {
     "811760": {
       "rank": 935,
@@ -10,17 +10,17 @@
       "name": "The Last Exterminator"
     },
     "1187640": {
-      "rank": 1361,
+      "rank": 1363,
       "estimate": "25k+",
       "name": "Totemic"
     },
     "1250090": {
-      "rank": 3386,
+      "rank": 3387,
       "estimate": "<7k",
       "name": "Housebreaker"
     },
     "1695530": {
-      "rank": 2323,
+      "rank": 2324,
       "estimate": "7k+",
       "name": "Seen 2"
     },
@@ -35,7 +35,7 @@
       "name": "KILLA"
     },
     "2606300": {
-      "rank": 3554,
+      "rank": 3557,
       "estimate": "<7k",
       "name": "Sticker Kittens"
     },
@@ -45,37 +45,37 @@
       "name": "Dungeons and Dining Tables"
     },
     "2976470": {
-      "rank": 4651,
+      "rank": 4648,
       "estimate": "<7k",
       "name": "Shape Sender Deluxe"
     },
     "3008640": {
-      "rank": 606,
+      "rank": 605,
       "estimate": "40k+",
       "name": "Onikura"
     },
     "3074980": {
-      "rank": 1439,
+      "rank": 1441,
       "estimate": "25k+",
       "name": "Earths Edge"
     },
     "3113690": {
-      "rank": 3941,
+      "rank": 3943,
       "estimate": "<7k",
       "name": "Ship Miner"
     },
     "3162900": {
-      "rank": 1970,
+      "rank": 1971,
       "estimate": "15k+",
       "name": "Return to Zeroes"
     },
     "3287720": {
-      "rank": 4751,
+      "rank": 4752,
       "estimate": "<7k",
       "name": "ELISSA ：Body in the bedroom"
     },
     "3305750": {
-      "rank": 2314,
+      "rank": 2313,
       "estimate": "7k+",
       "name": "TIMEMOON"
     },
@@ -85,7 +85,7 @@
       "name": "I Have No Change"
     },
     "3643250": {
-      "rank": 4598,
+      "rank": 4599,
       "estimate": "<7k",
       "name": "Chiklet's Human Products"
     },
@@ -95,12 +95,12 @@
       "name": "Solbrand"
     },
     "4091920": {
-      "rank": 2954,
+      "rank": 2952,
       "estimate": "7k+",
       "name": "Schedule Store Simulator"
     },
     "4327490": {
-      "rank": 2004,
+      "rank": 2006,
       "estimate": "7k+",
       "name": "Alarial's Blessing"
     },
@@ -108,11 +108,6 @@
       "rank": 785,
       "estimate": "40k+",
       "name": "IGTAP: an Incremental Game That's Also a Platformer"
-    },
-    "4650950": {
-      "rank": 2342,
-      "estimate": "7k+",
-      "name": "COCORO"
     }
   }
 }

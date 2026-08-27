@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T23:53:57.703Z",
+  "updatedAt": "2026-08-27T10:13:58.871Z",
   "entryCount": 29,
   "entries": {
     "423640": {
@@ -110,11 +110,11 @@
       "source": "historical"
     },
     "2100020": {
-      "rank": 658,
-      "estimate": "40k+",
+      "rank": 393,
+      "estimate": "80k+",
       "name": "Lou's Lagoon",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-08-26",
+      "source": "tracked"
     },
     "2201710": {
       "rank": 201,

@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-26T23:53:57.703Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-27T10:13:58.871Z",
+  "entryCount": 24,
   "entries": {
     "1066740": {
-      "rank": 1817,
+      "rank": 1819,
       "estimate": "15k+",
       "name": "Mercyful Flames: The Witches"
     },
     "1159150": {
-      "rank": 1689,
+      "rank": 1691,
       "estimate": "15k+",
       "name": "BOC: Birth of Cultures"
     },
     "1571260": {
-      "rank": 2817,
+      "rank": 2819,
       "estimate": "7k+",
       "name": "fault - milestone two side: below"
     },
     "2168070": {
-      "rank": 1034,
+      "rank": 1035,
       "estimate": "25k+",
       "name": "Sorceress"
     },
     "2366250": {
-      "rank": 2932,
+      "rank": 2931,
       "estimate": "7k+",
       "name": "American Airport Simulator"
     },
@@ -35,17 +35,17 @@
       "name": "Montaro 2"
     },
     "2397320": {
-      "rank": 700,
+      "rank": 699,
       "estimate": "40k+",
       "name": "Bus Simulator 27"
     },
     "2440350": {
-      "rank": 2722,
+      "rank": 2709,
       "estimate": "7k+",
       "name": "Keikaku計画"
     },
     "2585710": {
-      "rank": 2337,
+      "rank": 2335,
       "estimate": "7k+",
       "name": "Curiosmos"
     },
@@ -60,52 +60,52 @@
       "name": "Risk of Rain 2: Hallowed Concepts"
     },
     "3160570": {
-      "rank": 2579,
+      "rank": 2576,
       "estimate": "7k+",
       "name": "Runeomicon"
     },
     "3281970": {
-      "rank": 484,
+      "rank": 483,
       "estimate": "80k+",
       "name": "Deep Snow Delivery"
     },
     "3359110": {
-      "rank": 2512,
+      "rank": 2510,
       "estimate": "7k+",
       "name": "Total Victory: World Conflict 1939-1945"
     },
     "3417760": {
-      "rank": 4030,
+      "rank": 4029,
       "estimate": "<7k",
       "name": "Angstraum"
     },
     "3449370": {
-      "rank": 1543,
+      "rank": 1545,
       "estimate": "15k+",
       "name": "VANRAN"
     },
     "3613050": {
-      "rank": 1958,
+      "rank": 1956,
       "estimate": "15k+",
       "name": "Gravebound"
     },
     "3936270": {
-      "rank": 2499,
+      "rank": 2484,
       "estimate": "7k+",
       "name": "It's Fine"
     },
     "3993370": {
-      "rank": 1492,
+      "rank": 1494,
       "estimate": "25k+",
       "name": "Grand Pro Circuit"
     },
     "4006130": {
-      "rank": 2732,
+      "rank": 2729,
       "estimate": "7k+",
       "name": "Under The Rooftop"
     },
     "4018380": {
-      "rank": 795,
+      "rank": 793,
       "estimate": "40k+",
       "name": "Chronoscript: The Endless End"
     },
@@ -114,8 +114,13 @@
       "estimate": "<7k",
       "name": "Broken Dagger"
     },
+    "4556190": {
+      "rank": 5083,
+      "estimate": "<7k",
+      "name": "Bye Bye Bonnie"
+    },
     "4692380": {
-      "rank": 4729,
+      "rank": 4727,
       "estimate": "<7k",
       "name": "Invariant"
     }

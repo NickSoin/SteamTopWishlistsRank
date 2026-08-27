@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T23:53:57.703Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-27T10:13:58.871Z",
+  "entryCount": 25,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -162,6 +162,13 @@
       "estimate": "40k+",
       "name": "Sineus Arena Survivors",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4517190": {
+      "rank": 1846,
+      "estimate": "15k+",
+      "name": "DoDonPachi Resurrection Reignite",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "4654020": {

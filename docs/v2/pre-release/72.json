@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T23:53:57.703Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-27T10:13:58.871Z",
+  "entryCount": 24,
   "entries": {
     "917820": {
       "rank": 7584,
@@ -167,6 +167,13 @@
       "estimate": "80k+",
       "name": "Hearth and Hamlet",
       "releaseDate": "2026-08-19",
+      "source": "tracked"
+    },
+    "4588930": {
+      "rank": 3704,
+      "estimate": "<7k",
+      "name": "The Old Flesh of Nuraga",
+      "releaseDate": "2026-08-27",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T23:53:57.703Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-27T10:13:58.871Z",
+  "entryCount": 36,
   "entries": {
     "721700": {
       "rank": 679,
@@ -211,6 +211,13 @@
       "estimate": "<7k",
       "name": "Tell Me Owl",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3747200": {
+      "rank": 4867,
+      "estimate": "<7k",
+      "name": "PixARK - Terracrypt - Expansion Pack",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "3778620": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T23:53:57.703Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-27T10:13:58.871Z",
+  "entryCount": 36,
   "entries": {
     "467740": {
       "rank": 10,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "VAULTRATS",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4251370": {
+      "rank": 2197,
+      "estimate": "7k+",
+      "name": "D.E.C.A.Y.",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "4305480": {

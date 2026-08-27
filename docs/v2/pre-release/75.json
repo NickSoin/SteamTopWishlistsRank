@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-26T23:53:57.703Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-27T10:13:58.871Z",
+  "entryCount": 30,
   "entries": {
     "916350": {
       "rank": 1449,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "Pool Glow",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "4588140": {
+      "rank": 3546,
+      "estimate": "<7k",
+      "name": "Model Debut4",
+      "releaseDate": "2026-08-26",
       "source": "tracked"
     },
     "4704960": {
