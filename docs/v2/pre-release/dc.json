@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-27T20:55:36.253Z",
+  "entryCount": 26,
   "entries": {
     "1097350": {
       "rank": 63,
@@ -126,6 +126,13 @@
       "name": "Stigma-ARIA",
       "releaseDate": "2024-09-06",
       "source": "historical"
+    },
+    "2864290": {
+      "rank": 2796,
+      "estimate": "7k+",
+      "name": "Aggelos 2",
+      "releaseDate": "2026-08-27",
+      "source": "tracked"
     },
     "2975130": {
       "rank": 2812,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-27T20:55:36.253Z",
+  "entryCount": 26,
   "entries": {
     "832360": {
       "rank": 188,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Pegs X Stickers",
       "releaseDate": "2026-08-14",
+      "source": "tracked"
+    },
+    "4562470": {
+      "rank": 4799,
+      "estimate": "<7k",
+      "name": "The Immortal John Triptych: Weird Extra Content Art Gallery DLC Thingy ¯\\_(ツ)_/¯",
+      "releaseDate": "2026-08-27",
       "source": "tracked"
     },
     "4741570": {

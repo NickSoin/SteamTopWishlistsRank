@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-27T20:55:36.253Z",
+  "entryCount": 31,
   "entries": {
     "363860": {
       "rank": 339,
@@ -195,6 +195,13 @@
       "estimate": "40k+",
       "name": "Pathogenic",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "3859630": {
+      "rank": 126,
+      "estimate": "200k+",
+      "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
+      "releaseDate": "2026-08-27",
       "source": "tracked"
     },
     "4178200": {

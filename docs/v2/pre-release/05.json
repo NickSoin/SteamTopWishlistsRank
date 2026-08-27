@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-27T20:55:36.253Z",
+  "entryCount": 33,
   "entries": {
     "1062090": {
       "rank": 3,
@@ -87,6 +87,13 @@
       "name": "B-17 Flying Fortress : The Mighty 8th Redux",
       "releaseDate": "2024-01-25",
       "source": "historical"
+    },
+    "2075800": {
+      "rank": 27,
+      "estimate": "600k+",
+      "name": "STAR WARS Zero Company™",
+      "releaseDate": "2026-08-27",
+      "source": "tracked"
     },
     "2137760": {
       "rank": 1945,
@@ -197,11 +204,25 @@
       "releaseDate": "2026-08-24",
       "source": "tracked"
     },
+    "4261030": {
+      "rank": 4063,
+      "estimate": "<7k",
+      "name": "Orb Breaker",
+      "releaseDate": "2026-08-27",
+      "source": "tracked"
+    },
     "4303590": {
       "rank": 9715,
       "estimate": "<7k",
       "name": "The Song Of WILL: ACT I",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4349170": {
+      "rank": 2945,
+      "estimate": "7k+",
+      "name": "Virus Lab",
+      "releaseDate": "2026-08-27",
       "source": "tracked"
     },
     "4371450": {

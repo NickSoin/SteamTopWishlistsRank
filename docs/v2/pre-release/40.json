@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
-  "entryCount": 44,
+  "updatedAt": "2026-08-27T20:55:36.253Z",
+  "entryCount": 45,
   "entries": {
     "720660": {
       "rank": 1007,
@@ -292,6 +292,13 @@
       "releaseDate": "2026-01-30",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1803527891776688"
+    },
+    "3980360": {
+      "rank": 8216,
+      "estimate": "<7k",
+      "name": "Meow Familiar World",
+      "releaseDate": "2026-08-27",
+      "source": "tracked"
     },
     "4315550": {
       "rank": 1048,

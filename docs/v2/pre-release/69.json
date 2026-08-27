@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-27T20:55:36.253Z",
+  "entryCount": 25,
   "entries": {
     "771580": {
       "rank": 187,
@@ -153,6 +153,13 @@
       "estimate": "<7k",
       "name": "DATA BREACH",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "3987230": {
+      "rank": 3398,
+      "estimate": "<7k",
+      "name": "Mining and Dwarves",
+      "releaseDate": "2026-08-27",
       "source": "tracked"
     },
     "4104070": {

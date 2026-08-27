@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
-  "entryCount": 17,
+  "updatedAt": "2026-08-27T20:55:36.253Z",
+  "entryCount": 18,
   "entries": {
     "792380": {
-      "rank": 2018,
+      "rank": 2017,
       "estimate": "7k+",
       "name": "Survival Journals"
     },
     "1051440": {
-      "rank": 357,
+      "rank": 355,
       "estimate": "80k+",
       "name": "Ship Builder"
     },
     "1393630": {
-      "rank": 3055,
+      "rank": 3050,
       "estimate": "<7k",
       "name": "XGAMEX"
     },
     "1599490": {
-      "rank": 4944,
+      "rank": 4940,
       "estimate": "<7k",
       "name": "One Way Road"
     },
     "1812250": {
-      "rank": 5060,
+      "rank": 5059,
       "estimate": "<7k",
       "name": "Dono's Tale"
     },
@@ -35,27 +35,27 @@
       "name": "Project: Orc"
     },
     "2255360": {
-      "rank": 5068,
+      "rank": 5066,
       "estimate": "<7k",
       "name": "Throwia"
     },
     "2338890": {
-      "rank": 4600,
+      "rank": 4595,
       "estimate": "<7k",
       "name": "Starship Colony"
     },
     "2421000": {
-      "rank": 1016,
+      "rank": 1015,
       "estimate": "25k+",
       "name": "BANDIT KNIGHT"
     },
     "2607420": {
-      "rank": 2375,
+      "rank": 2370,
       "estimate": "7k+",
       "name": "Cat Life Simulator"
     },
     "3628440": {
-      "rank": 4608,
+      "rank": 4593,
       "estimate": "<7k",
       "name": "Abyss Saga"
     },
@@ -65,29 +65,34 @@
       "name": "The Road of Dust and Sorrow"
     },
     "3937470": {
-      "rank": 404,
+      "rank": 401,
       "estimate": "80k+",
       "name": "Sally Face 2"
     },
     "4285280": {
-      "rank": 4960,
+      "rank": 4956,
       "estimate": "<7k",
       "name": "Martyr"
     },
     "4382260": {
-      "rank": 2154,
+      "rank": 2152,
       "estimate": "7k+",
       "name": "Castaway Diary: Portal to the Unknown Isles"
     },
     "4438080": {
-      "rank": 795,
+      "rank": 790,
       "estimate": "40k+",
       "name": "Call It a Day"
     },
     "4562750": {
-      "rank": 4471,
+      "rank": 4467,
       "estimate": "<7k",
       "name": "Dungeon Sweeper Plus"
+    },
+    "5014960": {
+      "rank": 4784,
+      "estimate": "<7k",
+      "name": "Amphibian"
     }
   }
 }

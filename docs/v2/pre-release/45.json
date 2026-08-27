@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-27T20:55:36.253Z",
+  "entryCount": 32,
   "entries": {
     "541310": {
       "rank": 21,
@@ -209,6 +209,13 @@
       "name": "Jotunnslayer: Hordes of Hel",
       "releaseDate": "2025-09-03",
       "source": "historical"
+    },
+    "4443780": {
+      "rank": 5951,
+      "estimate": "<7k",
+      "name": "Cold War Battles",
+      "releaseDate": "2026-08-27",
+      "source": "tracked"
     },
     "4610100": {
       "rank": 742,

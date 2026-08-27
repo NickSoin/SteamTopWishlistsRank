@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
+  "updatedAt": "2026-08-27T20:55:36.253Z",
   "entryCount": 39,
   "entries": {
     "694990": {
@@ -184,11 +184,11 @@
       "source": "historical"
     },
     "2713000": {
-      "rank": 26,
-      "estimate": "600k+",
+      "rank": 102,
+      "estimate": "200k+",
       "name": "Resonance: A Plague Tale Legacy",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-08-27",
+      "source": "tracked"
     },
     "2738230": {
       "rank": 996,

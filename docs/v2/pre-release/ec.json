@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-27T20:55:36.253Z",
+  "entryCount": 32,
   "entries": {
     "715400": {
       "rank": 49,
@@ -171,6 +171,13 @@
       "name": "Knock on the Coffin lid: Prolog",
       "releaseDate": "2024-07-25",
       "source": "historical"
+    },
+    "3287360": {
+      "rank": 6863,
+      "estimate": "<7k",
+      "name": "Project II: Silent Valley",
+      "releaseDate": "2026-08-27",
+      "source": "tracked"
     },
     "3301710": {
       "rank": 4662,

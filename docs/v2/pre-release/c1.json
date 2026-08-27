@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-27T20:55:36.253Z",
+  "entryCount": 24,
   "entries": {
     "912840": {
       "rank": 1084,
@@ -158,6 +158,13 @@
       "estimate": "<7k",
       "name": "REWIND",
       "releaseDate": "2026-06-29",
+      "source": "tracked"
+    },
+    "4601160": {
+      "rank": 3184,
+      "estimate": "<7k",
+      "name": "Just Keep Fishing",
+      "releaseDate": "2026-08-27",
       "source": "tracked"
     },
     "4642730": {

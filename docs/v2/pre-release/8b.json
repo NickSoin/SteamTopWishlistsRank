@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
+  "updatedAt": "2026-08-27T20:55:36.253Z",
   "entryCount": 26,
   "entries": {
     "736590": {
@@ -75,11 +75,11 @@
       "source": "historical"
     },
     "2054520": {
-      "rank": 2325,
-      "estimate": "7k+",
+      "rank": 1230,
+      "estimate": "25k+",
       "name": "Gawr Gura: Quest for Bread",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-08-27",
+      "source": "tracked"
     },
     "2089500": {
       "rank": 1586,

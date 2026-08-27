@@ -1,36 +1,36 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-27T10:13:58.871Z",
-  "entryCount": 18,
+  "updatedAt": "2026-08-27T20:55:36.253Z",
+  "entryCount": 19,
   "entries": {
     "1121510": {
-      "rank": 4730,
+      "rank": 4734,
       "estimate": "<7k",
       "name": "Shadows of Kepler"
     },
     "1252720": {
-      "rank": 5026,
+      "rank": 5024,
       "estimate": "<7k",
       "name": "Visceratum"
     },
     "2278950": {
-      "rank": 1356,
+      "rank": 1358,
       "estimate": "25k+",
       "name": "Stars of Icarus"
     },
     "2664120": {
-      "rank": 2857,
+      "rank": 2852,
       "estimate": "7k+",
       "name": "Lonely Space"
     },
     "2769340": {
-      "rank": 4411,
+      "rank": 4405,
       "estimate": "<7k",
       "name": "Moonshot"
     },
     "2843060": {
-      "rank": 643,
+      "rank": 606,
       "estimate": "40k+",
       "name": "Into the Wind"
     },
@@ -40,52 +40,52 @@
       "name": "OUTTA HELL"
     },
     "3431190": {
-      "rank": 4125,
+      "rank": 4119,
       "estimate": "<7k",
       "name": "Galactic Realms: Quest for the Forgotten"
     },
     "3436010": {
-      "rank": 5228,
+      "rank": 5217,
       "estimate": "<7k",
       "name": "Medieval Horse Simulator"
     },
     "3704270": {
-      "rank": 3297,
+      "rank": 3288,
       "estimate": "<7k",
       "name": "Magnavale: Eternal Soul"
     },
     "3746290": {
-      "rank": 2189,
+      "rank": 2186,
       "estimate": "7k+",
       "name": "Werewolf: The Apocalypse – Rageborn"
     },
     "3764180": {
-      "rank": 4938,
+      "rank": 4933,
       "estimate": "<7k",
       "name": "Lone City"
     },
     "3824840": {
-      "rank": 3864,
+      "rank": 3860,
       "estimate": "<7k",
       "name": "Nezori"
     },
     "4165740": {
-      "rank": 3439,
+      "rank": 3431,
       "estimate": "<7k",
       "name": "Vena"
     },
     "4300400": {
-      "rank": 2530,
+      "rank": 2527,
       "estimate": "7k+",
       "name": "Adventurers Shop"
     },
     "4443350": {
-      "rank": 4161,
+      "rank": 4147,
       "estimate": "<7k",
       "name": "Zombuds"
     },
     "4475320": {
-      "rank": 3736,
+      "rank": 3723,
       "estimate": "<7k",
       "name": "你离开之后"
     },
@@ -93,6 +93,11 @@
       "rank": 1758,
       "estimate": "15k+",
       "name": "Pale Tide"
+    },
+    "5009850": {
+      "rank": 5234,
+      "estimate": "<7k",
+      "name": "Lost Sword"
     }
   }
 }
