@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 27,
   "entries": {
     "1097350": {
       "rank": 63,
@@ -140,6 +140,13 @@
       "name": "ULTRA MUSHROOM",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3037040": {
+      "rank": 1956,
+      "estimate": "15k+",
+      "name": "Board Game Society",
+      "releaseDate": "2026-08-28",
+      "source": "tracked"
     },
     "3833620": {
       "rank": 8070,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 33,
   "entries": {
     "927350": {
       "rank": 30,
@@ -178,6 +178,13 @@
       "name": "Katawa Shoujo",
       "releaseDate": "2024-08-15",
       "source": "historical"
+    },
+    "3199880": {
+      "rank": 5233,
+      "estimate": "<7k",
+      "name": "Airport Contraband: Prologue",
+      "releaseDate": "2026-08-27",
+      "source": "tracked"
     },
     "3633760": {
       "rank": 2572,

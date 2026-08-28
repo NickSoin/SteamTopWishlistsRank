@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 29,
   "entries": {
     "671970": {
       "rank": 44,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "DarkStone Restoration",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4781330": {
+      "rank": 622,
+      "estimate": "40k+",
+      "name": "Vampire Survivors: Legacy of the Bloodmoon",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     }
   }

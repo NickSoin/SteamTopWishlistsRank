@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 32,
   "entries": {
     "257420": {
       "rank": 19,
@@ -115,6 +115,13 @@
       "name": "Return from Core",
       "releaseDate": "2025-07-17",
       "source": "historical"
+    },
+    "2172910": {
+      "rank": 1198,
+      "estimate": "25k+",
+      "name": "CAPTAIN TSUBASA 2: WORLD FIGHTERS",
+      "releaseDate": "2026-08-27",
+      "source": "tracked"
     },
     "2383130": {
       "rank": 272,

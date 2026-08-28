@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 34,
   "entries": {
     "252190": {
       "rank": 1772,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "EULA",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4529120": {
+      "rank": 2231,
+      "estimate": "7k+",
+      "name": "Alice's Gaze",
+      "releaseDate": "2026-08-27",
       "source": "tracked"
     },
     "4570720": {

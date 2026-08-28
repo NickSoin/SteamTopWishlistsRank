@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 34,
   "entries": {
     "553420": {
       "rank": 45,
@@ -226,6 +226,13 @@
       "estimate": "40k+",
       "name": "Fell & Sell",
       "releaseDate": "2026-08-26",
+      "source": "tracked"
+    },
+    "4676750": {
+      "rank": 9706,
+      "estimate": "<7k",
+      "name": "Tap Dungeon",
+      "releaseDate": "2026-08-27",
       "source": "tracked"
     },
     "4756070": {

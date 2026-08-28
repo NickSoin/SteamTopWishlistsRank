@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 19,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 20,
   "entries": {
     "824840": {
-      "rank": 3950,
+      "rank": 3947,
       "estimate": "<7k",
       "name": "Oi, Innkeep!"
     },
     "878210": {
-      "rank": 3925,
+      "rank": 3922,
       "estimate": "<7k",
       "name": "MATCHO"
     },
     "1236820": {
-      "rank": 4360,
+      "rank": 4356,
       "estimate": "<7k",
       "name": "Where The Clouds End"
     },
@@ -25,12 +25,12 @@
       "name": "Yakuza Empire"
     },
     "1800250": {
-      "rank": 2078,
+      "rank": 2075,
       "estimate": "7k+",
       "name": "Void Soul Awakening"
     },
     "1905580": {
-      "rank": 1124,
+      "rank": 1126,
       "estimate": "25k+",
       "name": "Kloa - Child of the Forest"
     },
@@ -40,22 +40,22 @@
       "name": "Tails of Fate"
     },
     "2218540": {
-      "rank": 1795,
+      "rank": 1799,
       "estimate": "15k+",
       "name": "Heavy Duty Construction"
     },
     "2229030": {
-      "rank": 4618,
+      "rank": 4615,
       "estimate": "<7k",
       "name": "Little Nemo and the Nightmare Fiends"
     },
     "2361950": {
-      "rank": 4656,
+      "rank": 4650,
       "estimate": "<7k",
       "name": "Varsity High School Football"
     },
     "2575290": {
-      "rank": 5080,
+      "rank": 5072,
       "estimate": "<7k",
       "name": "He"
     },
@@ -67,39 +67,44 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5842939267339000931"
     },
     "2872300": {
-      "rank": 313,
+      "rank": 314,
       "estimate": "80k+",
       "name": "ABYSS X ZERO"
     },
     "3061730": {
-      "rank": 2459,
+      "rank": 2455,
       "estimate": "7k+",
       "name": "Skateboard Knight"
     },
     "3100970": {
-      "rank": 1699,
+      "rank": 1686,
       "estimate": "15k+",
       "name": "Isle of Reveries"
     },
     "3431300": {
-      "rank": 830,
+      "rank": 829,
       "estimate": "40k+",
       "name": "Slow Roads"
     },
     "3680100": {
-      "rank": 502,
+      "rank": 503,
       "estimate": "40k+",
       "name": "House Flipper 2 - Pets DLC"
     },
     "3741500": {
-      "rank": 3390,
+      "rank": 3384,
       "estimate": "<7k",
       "name": "LIMP KNIGHT"
     },
     "4522230": {
-      "rank": 4468,
+      "rank": 4409,
       "estimate": "<7k",
       "name": "Harmonie"
+    },
+    "4573760": {
+      "rank": 5244,
+      "estimate": "<7k",
+      "name": "Dissolution of My Self"
     }
   }
 }

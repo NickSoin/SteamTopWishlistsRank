@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 34,
   "entries": {
     "436780": {
       "rank": 31,
@@ -31,6 +31,13 @@
       "name": "Marvel's Avengers - The Definitive Edition",
       "releaseDate": "2020-09-04",
       "source": "historical"
+    },
+    "1142040": {
+      "rank": 3462,
+      "estimate": "<7k",
+      "name": "For Stella",
+      "releaseDate": "2026-08-27",
+      "source": "tracked"
     },
     "1237320": {
       "rank": 48,

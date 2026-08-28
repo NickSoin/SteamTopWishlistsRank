@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 38,
   "entries": {
     "601360": {
       "rank": 122,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "I Know a Spot",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4321680": {
+      "rank": 9280,
+      "estimate": "<7k",
+      "name": "Healer",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "4486220": {

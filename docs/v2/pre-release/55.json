@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 18,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 19,
   "entries": {
     "699130": {
       "rank": 139,
@@ -121,6 +121,13 @@
       "estimate": "80k+",
       "name": "Stonemachia",
       "releaseDate": "2026-05-26",
+      "source": "tracked"
+    },
+    "3783580": {
+      "rank": 3372,
+      "estimate": "<7k",
+      "name": "Dicetris",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "4210580": {

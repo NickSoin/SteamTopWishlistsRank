@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 31,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -169,6 +169,13 @@
       "estimate": "<7k",
       "name": "Touhou: Divine Land -Majesty in Game-",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "3850800": {
+      "rank": 1853,
+      "estimate": "15k+",
+      "name": "WakuWaku Park",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "3857430": {

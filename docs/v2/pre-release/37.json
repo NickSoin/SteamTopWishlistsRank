@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 36,
   "entries": {
     "863500": {
       "rank": 1011,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Dreamcards",
       "releaseDate": "2026-08-19",
+      "source": "tracked"
+    },
+    "3894600": {
+      "rank": 4865,
+      "estimate": "<7k",
+      "name": "Saga of Yurina",
+      "releaseDate": "2026-08-27",
       "source": "tracked"
     },
     "4454610": {

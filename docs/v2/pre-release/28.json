@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 25,
   "entries": {
     "812440": {
       "rank": 138,
@@ -160,6 +160,13 @@
       "estimate": "<7k",
       "name": "Frostpunk 2: Breach of Trust",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4595220": {
+      "rank": 3885,
+      "estimate": "<7k",
+      "name": "たろうくんはいってきました",
+      "releaseDate": "2026-08-27",
       "source": "tracked"
     },
     "4673900": {

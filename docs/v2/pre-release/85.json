@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 38,
   "entries": {
     "440000": {
       "rank": 459,
@@ -261,6 +261,13 @@
       "estimate": "<7k",
       "name": "Order Picker Simulator",
       "releaseDate": "2026-08-26",
+      "source": "tracked"
+    },
+    "4838360": {
+      "rank": 2577,
+      "estimate": "7k+",
+      "name": "Construction Company",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     }
   }

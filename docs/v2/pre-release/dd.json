@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 23,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 25,
   "entries": {
     "615530": {
       "rank": 223,
@@ -59,6 +59,13 @@
       "name": "Transiruby",
       "releaseDate": "2021-12-09",
       "source": "historical"
+    },
+    "1530850": {
+      "rank": 1549,
+      "estimate": "15k+",
+      "name": "A Little Age",
+      "releaseDate": "2026-08-28",
+      "source": "tracked"
     },
     "1599020": {
       "rank": 394,
@@ -151,6 +158,13 @@
       "estimate": "7k+",
       "name": "Tokyo Valkyries",
       "releaseDate": "2026-07-08",
+      "source": "tracked"
+    },
+    "4298500": {
+      "rank": 1685,
+      "estimate": "15k+",
+      "name": "Last Breath 最后的气息",
+      "releaseDate": "2026-08-27",
       "source": "tracked"
     },
     "4438540": {

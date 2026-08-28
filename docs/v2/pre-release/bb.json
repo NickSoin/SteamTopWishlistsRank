@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-27T20:55:36.253Z",
-  "entryCount": 38,
+  "updatedAt": "2026-08-28T11:37:41.549Z",
+  "entryCount": 39,
   "entries": {
     "928960": {
       "rank": 577,
@@ -242,6 +242,13 @@
       "estimate": "25k+",
       "name": "Oxygen Not Included: The Aquatic Planet Pack",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4348580": {
+      "rank": 2672,
+      "estimate": "7k+",
+      "name": "SPLIT FPV: Drone Racing",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "4550370": {
