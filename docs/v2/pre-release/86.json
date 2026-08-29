@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 30,
   "entries": {
     "423640": {
       "rank": 509,
@@ -186,6 +186,13 @@
       "estimate": "200k+",
       "name": "Zenless Zone Zero",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4383050": {
+      "rank": 9591,
+      "estimate": "<7k",
+      "name": "100 Mushroom Cats",
+      "releaseDate": "2026-08-29",
       "source": "tracked"
     },
     "4412710": {

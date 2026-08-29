@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 32,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 33,
   "entries": {
     "553850": {
       "rank": 26,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "ROUTE16R",
       "releaseDate": "2026-08-05",
+      "source": "tracked"
+    },
+    "4996190": {
+      "rank": 3743,
+      "estimate": "<7k",
+      "name": "Package chaos",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     }
   }

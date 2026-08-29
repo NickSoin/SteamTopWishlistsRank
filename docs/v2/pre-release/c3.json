@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 30,
   "entries": {
     "736820": {
       "rank": 19,
@@ -184,6 +184,13 @@
       "estimate": "7k+",
       "name": "Koikata: How Our Love Grows",
       "releaseDate": "2026-08-25",
+      "source": "tracked"
+    },
+    "4291840": {
+      "rank": 9637,
+      "estimate": "<7k",
+      "name": "Floors of Fate",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "4331100": {

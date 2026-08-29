@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 45,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 46,
   "entries": {
     "995680": {
       "rank": 39,
@@ -270,6 +270,13 @@
       "estimate": "<7k",
       "name": "HYPERWIRED",
       "releaseDate": "2026-07-02",
+      "source": "tracked"
+    },
+    "3380380": {
+      "rank": 5192,
+      "estimate": "<7k",
+      "name": "Bits Of Love: An Otome Game",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "3916860": {

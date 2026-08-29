@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 35,
   "entries": {
     "252190": {
       "rank": 1772,
@@ -180,6 +180,13 @@
       "source": "tracked",
       "actualWishlists": 3000000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821318455"
+    },
+    "3905730": {
+      "rank": 5565,
+      "estimate": "<7k",
+      "name": "Nekopedia: Find Her Tail",
+      "releaseDate": "2026-08-28",
+      "source": "tracked"
     },
     "4075900": {
       "rank": 6414,

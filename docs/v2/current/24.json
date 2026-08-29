@@ -1,51 +1,51 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 14,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 15,
   "entries": {
     "1143910": {
-      "rank": 2841,
+      "rank": 2837,
       "estimate": "7k+",
       "name": "DeathTower"
     },
     "1730460": {
-      "rank": 2546,
+      "rank": 2543,
       "estimate": "7k+",
       "name": "Nainai’s Recipe"
     },
     "1736220": {
-      "rank": 1320,
+      "rank": 1322,
       "estimate": "25k+",
       "name": "Might of Merchants"
     },
     "1784650": {
-      "rank": 2697,
+      "rank": 2694,
       "estimate": "7k+",
       "name": "BOSS FIGHTERS"
     },
     "1916800": {
-      "rank": 3159,
+      "rank": 3156,
       "estimate": "<7k",
       "name": "More Ore - The Incremental Idle RPG"
     },
     "1977100": {
-      "rank": 4526,
+      "rank": 4524,
       "estimate": "<7k",
       "name": "Timeless Heart VR"
     },
     "2344680": {
-      "rank": 3542,
+      "rank": 3544,
       "estimate": "<7k",
       "name": "Super VHS"
     },
     "2559370": {
-      "rank": 537,
+      "rank": 538,
       "estimate": "40k+",
       "name": "The Scramble Vice"
     },
     "3235570": {
-      "rank": 5136,
+      "rank": 5131,
       "estimate": "<7k",
       "name": "How Was Your Day?"
     },
@@ -55,12 +55,12 @@
       "name": "Rhythm Hotel"
     },
     "3629430": {
-      "rank": 128,
+      "rank": 129,
       "estimate": "200k+",
       "name": "DREADMOOR"
     },
     "3722090": {
-      "rank": 2711,
+      "rank": 2708,
       "estimate": "7k+",
       "name": "Parasensor"
     },
@@ -70,9 +70,14 @@
       "name": "HALLOW BLADE"
     },
     "4362170": {
-      "rank": 3579,
+      "rank": 3586,
       "estimate": "<7k",
       "name": "Feed The Forest"
+    },
+    "4729250": {
+      "rank": 5238,
+      "estimate": "<7k",
+      "name": "Airline Founder"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 42,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 43,
   "entries": {
     "619390": {
       "rank": 926,
@@ -196,6 +196,13 @@
       "name": "Disco Simulator: Prologue",
       "releaseDate": "2023-11-13",
       "source": "historical"
+    },
+    "2438120": {
+      "rank": 4915,
+      "estimate": "<7k",
+      "name": "RunOut - Hothead Paws",
+      "releaseDate": "2026-08-28",
+      "source": "tracked"
     },
     "2475440": {
       "rank": 919,

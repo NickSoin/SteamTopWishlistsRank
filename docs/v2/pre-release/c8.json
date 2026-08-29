@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 36,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Knockout Battle",
       "releaseDate": "2026-07-31",
+      "source": "tracked"
+    },
+    "3516590": {
+      "rank": 947,
+      "estimate": "40k+",
+      "name": "Allumeria",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "3971650": {

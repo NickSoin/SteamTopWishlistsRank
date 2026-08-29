@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 35,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 36,
   "entries": {
     "733110": {
       "rank": 724,
@@ -152,6 +152,13 @@
       "name": "And the Hero Was Never Seen Again",
       "releaseDate": "2024-02-09",
       "source": "historical"
+    },
+    "2586440": {
+      "rank": 1791,
+      "estimate": "15k+",
+      "name": "House 2",
+      "releaseDate": "2026-08-28",
+      "source": "tracked"
     },
     "2631450": {
       "rank": 2499,

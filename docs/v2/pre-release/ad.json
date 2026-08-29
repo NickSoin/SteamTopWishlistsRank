@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 37,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 38,
   "entries": {
     "658920": {
       "rank": 716,
@@ -10,6 +10,13 @@
       "name": "Half-Life 2: VR Mod",
       "releaseDate": "2022-09-16",
       "source": "historical"
+    },
+    "1148130": {
+      "rank": 641,
+      "estimate": "40k+",
+      "name": "Divinum",
+      "releaseDate": "2026-08-28",
+      "source": "tracked"
     },
     "1170230": {
       "rank": 406,

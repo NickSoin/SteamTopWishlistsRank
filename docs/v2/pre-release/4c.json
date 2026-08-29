@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 30,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 31,
   "entries": {
     "774801": {
       "rank": 157,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "Tome of the Damned",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3908940": {
+      "rank": 558,
+      "estimate": "40k+",
+      "name": "Inferno Protocol",
+      "releaseDate": "2026-08-29",
       "source": "tracked"
     },
     "3947040": {

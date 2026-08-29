@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 23,
   "entries": {
     "1086940": {
       "rank": 3,
@@ -135,6 +135,13 @@
       "estimate": "80k+",
       "name": "Scale the Depths",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3613960": {
+      "rank": 2643,
+      "estimate": "7k+",
+      "name": "Resort Island Simulator",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "4029740": {

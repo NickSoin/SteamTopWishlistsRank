@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 42,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 43,
   "entries": {
     "1067360": {
       "rank": 130,
@@ -209,6 +209,13 @@
       "estimate": "<7k",
       "name": "Néro & Sci ∫ Integral Edition",
       "releaseDate": "2026-08-18",
+      "source": "tracked"
+    },
+    "2992580": {
+      "rank": 3272,
+      "estimate": "<7k",
+      "name": "Ventreville: A Cure for Sorrow",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "3040880": {

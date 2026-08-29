@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 43,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 44,
   "entries": {
     "856890": {
       "rank": 749,
@@ -277,6 +277,13 @@
       "estimate": "<7k",
       "name": "The Cursed Ward",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4386980": {
+      "rank": 4849,
+      "estimate": "<7k",
+      "name": "Pro Soccer Manager 27",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "4508760": {

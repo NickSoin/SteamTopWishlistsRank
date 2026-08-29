@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 23,
   "entries": {
     "251570": {
       "rank": 42,
@@ -10,6 +10,13 @@
       "name": "7 Days to Die",
       "releaseDate": "2024-07-25",
       "source": "historical"
+    },
+    "270470": {
+      "rank": 2763,
+      "estimate": "7k+",
+      "name": "Portal: Alive & Kicking",
+      "releaseDate": "2026-08-28",
+      "source": "tracked"
     },
     "1294660": {
       "rank": 847,

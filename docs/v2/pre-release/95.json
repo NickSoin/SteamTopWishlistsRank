@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-28T11:37:41.549Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-29T00:04:39.785Z",
+  "entryCount": 38,
   "entries": {
     "729000": {
       "rank": 169,
@@ -223,6 +223,13 @@
       "releaseDate": "2026-08-19",
       "source": "tracked"
     },
+    "3647190": {
+      "rank": 4035,
+      "estimate": "<7k",
+      "name": "Malignant Survivors 2",
+      "releaseDate": "2026-08-28",
+      "source": "tracked"
+    },
     "3743180": {
       "rank": 5726,
       "estimate": "<7k",
@@ -249,6 +256,13 @@
       "estimate": "7k+",
       "name": "Detective INNA DUKE",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4319290": {
+      "rank": 4845,
+      "estimate": "<7k",
+      "name": "Void Cargo: Equilibrium",
+      "releaseDate": "2026-08-29",
       "source": "tracked"
     },
     "4729330": {
