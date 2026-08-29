@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-29T07:32:10.844Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-29T15:34:06.647Z",
+  "entryCount": 35,
   "entries": {
     "851850": {
       "rank": 23,
@@ -250,6 +250,13 @@
       "estimate": "7k+",
       "name": "Sticky Business: Seaside Tales",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4687000": {
+      "rank": 9652,
+      "estimate": "<7k",
+      "name": "Formic Fortress",
+      "releaseDate": "2026-08-29",
       "source": "tracked"
     }
   }

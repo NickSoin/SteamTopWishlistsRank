@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-29T07:32:10.844Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-29T15:34:06.647Z",
+  "entryCount": 32,
   "entries": {
     "913170": {
-      "rank": 4975,
+      "rank": 4984,
       "estimate": "<7k",
       "name": "LetsGal"
     },
     "1026220": {
-      "rank": 4150,
+      "rank": 4156,
       "estimate": "<7k",
       "name": "Knights Province"
     },
     "1222150": {
-      "rank": 3059,
+      "rank": 3068,
       "estimate": "<7k",
       "name": "Her War"
     },
@@ -25,7 +25,7 @@
       "name": "The Hauntings"
     },
     "1303400": {
-      "rank": 1618,
+      "rank": 1619,
       "estimate": "15k+",
       "name": "Whisker Squadron: Untitled Space Game"
     },
@@ -35,7 +35,7 @@
       "name": "We Harvest Shadows"
     },
     "2052710": {
-      "rank": 2796,
+      "rank": 2799,
       "estimate": "7k+",
       "name": "Hello Again"
     },
@@ -45,57 +45,57 @@
       "name": "Swordeye"
     },
     "2356360": {
-      "rank": 816,
+      "rank": 817,
       "estimate": "40k+",
       "name": "Build the Garden of Easden"
     },
     "2374540": {
-      "rank": 1722,
+      "rank": 1716,
       "estimate": "15k+",
       "name": "DeadRoot"
     },
     "2606850": {
-      "rank": 3225,
+      "rank": 3057,
       "estimate": "<7k",
       "name": "Mimic"
     },
     "3058740": {
-      "rank": 3222,
+      "rank": 3227,
       "estimate": "<7k",
       "name": "Odds Chronicles"
     },
     "3103620": {
-      "rank": 1588,
+      "rank": 1592,
       "estimate": "15k+",
       "name": "Witch the Showdown"
     },
     "3105190": {
-      "rank": 2614,
+      "rank": 2618,
       "estimate": "7k+",
       "name": "CHILDREN OF SATURN"
     },
     "3273860": {
-      "rank": 3169,
+      "rank": 3173,
       "estimate": "<7k",
       "name": "MAW"
     },
     "3301000": {
-      "rank": 3910,
+      "rank": 3918,
       "estimate": "<7k",
       "name": "The Vast White"
     },
     "3419080": {
-      "rank": 1000,
+      "rank": 998,
       "estimate": "40k+",
       "name": "The Regreening"
     },
     "3704230": {
-      "rank": 4746,
+      "rank": 4753,
       "estimate": "<7k",
       "name": "House of Petals"
     },
     "3845210": {
-      "rank": 1658,
+      "rank": 1660,
       "estimate": "15k+",
       "name": "Papa Needs a Headshot"
     },
@@ -105,7 +105,7 @@
       "name": "Envido"
     },
     "3872810": {
-      "rank": 5063,
+      "rank": 5071,
       "estimate": "<7k",
       "name": "Mythic Yi"
     },
@@ -115,7 +115,7 @@
       "name": "Moulder"
     },
     "4056370": {
-      "rank": 2657,
+      "rank": 2654,
       "estimate": "7k+",
       "name": "Magical Girl Yusya-chan and the Labyrinth of Lust"
     },
@@ -125,17 +125,17 @@
       "name": "Online: 404"
     },
     "4188680": {
-      "rank": 1951,
+      "rank": 1955,
       "estimate": "15k+",
       "name": "Walled Haven"
     },
     "4253010": {
-      "rank": 302,
+      "rank": 303,
       "estimate": "80k+",
       "name": "Scars of Honor"
     },
     "4279630": {
-      "rank": 422,
+      "rank": 420,
       "estimate": "80k+",
       "name": "Friendly Steps"
     },
@@ -150,14 +150,19 @@
       "name": "Aliens Took My Stuff"
     },
     "4450440": {
-      "rank": 3950,
+      "rank": 3951,
       "estimate": "<7k",
       "name": "Crownwarden"
     },
     "4498480": {
-      "rank": 2272,
+      "rank": 2274,
       "estimate": "7k+",
       "name": "Hold My Thing"
+    },
+    "4832970": {
+      "rank": 5225,
+      "estimate": "<7k",
+      "name": "What the Buck?!"
     }
   }
 }
