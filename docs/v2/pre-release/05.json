@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-29T00:04:39.785Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-29T07:32:10.844Z",
+  "entryCount": 34,
   "entries": {
     "1062090": {
       "rank": 3,
@@ -195,6 +195,13 @@
       "estimate": "7k+",
       "name": "Soulforge Lost Path",
       "releaseDate": "2026-07-12",
+      "source": "tracked"
+    },
+    "4012290": {
+      "rank": 7429,
+      "estimate": "<7k",
+      "name": "Reality Break - Ship Types",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "4106270": {

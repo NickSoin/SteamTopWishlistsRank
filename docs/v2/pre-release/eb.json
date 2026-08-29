@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-29T00:04:39.785Z",
-  "entryCount": 17,
+  "updatedAt": "2026-08-29T07:32:10.844Z",
+  "entryCount": 18,
   "entries": {
     "849100": {
       "rank": 19,
@@ -116,6 +116,13 @@
       "estimate": "15k+",
       "name": "Jurassic World Evolution 3: Rebirth Expansion",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4353650": {
+      "rank": 4898,
+      "estimate": "<7k",
+      "name": "Imperial Knights",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "4693460": {

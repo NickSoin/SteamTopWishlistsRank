@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-29T00:04:39.785Z",
-  "entryCount": 26,
+  "updatedAt": "2026-08-29T07:32:10.844Z",
+  "entryCount": 27,
   "entries": {
     "843810": {
       "rank": 198,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "Crescent Creek: Survival Horror",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "4593160": {
+      "rank": 9684,
+      "estimate": "<7k",
+      "name": "Tower of Gand",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "4673710": {
