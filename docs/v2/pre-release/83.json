@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-29T15:34:06.647Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-29T18:47:43.123Z",
+  "entryCount": 35,
   "entries": {
     "867210": {
       "rank": 90,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "Deadliest Pigeon",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "3690400": {
+      "rank": 9956,
+      "estimate": "<7k",
+      "name": "Last Term, First Love",
+      "releaseDate": "2026-08-28",
       "source": "tracked"
     },
     "3929470": {

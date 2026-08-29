@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-29T15:34:06.647Z",
-  "entryCount": 17,
+  "updatedAt": "2026-08-29T18:47:43.123Z",
+  "entryCount": 18,
   "entries": {
     "1739080": {
       "rank": 187,
@@ -10,7 +10,7 @@
       "name": "Sword Hero"
     },
     "2022640": {
-      "rank": 1356,
+      "rank": 1357,
       "estimate": "25k+",
       "name": "CALX"
     },
@@ -20,12 +20,12 @@
       "name": "BrokenLore: DARK DAWN"
     },
     "2490960": {
-      "rank": 4665,
+      "rank": 4667,
       "estimate": "<7k",
       "name": "Ghost hunter"
     },
     "2535690": {
-      "rank": 3878,
+      "rank": 3886,
       "estimate": "<7k",
       "name": "Offroad Survival"
     },
@@ -40,17 +40,17 @@
       "name": "Another Door"
     },
     "3299850": {
-      "rank": 2482,
+      "rank": 2483,
       "estimate": "7k+",
       "name": "The Last Phoenix"
     },
     "3495250": {
-      "rank": 4624,
+      "rank": 4625,
       "estimate": "<7k",
       "name": "Glory On Pluto"
     },
     "3508880": {
-      "rank": 3040,
+      "rank": 3010,
       "estimate": "<7k",
       "name": "Outpost Simulator"
     },
@@ -60,12 +60,12 @@
       "name": "Scrutator Tenebris"
     },
     "3875960": {
-      "rank": 1573,
+      "rank": 1575,
       "estimate": "15k+",
       "name": "Dragon Raja the farewell passage"
     },
     "4150860": {
-      "rank": 759,
+      "rank": 757,
       "estimate": "40k+",
       "name": "The Loopler"
     },
@@ -75,19 +75,24 @@
       "name": "PIX Football Manager"
     },
     "4327060": {
-      "rank": 4538,
+      "rank": 4540,
       "estimate": "<7k",
       "name": "Elzypon"
     },
     "4489960": {
-      "rank": 3371,
+      "rank": 3362,
       "estimate": "<7k",
       "name": "The Forge: Steel Frontier"
     },
     "4892120": {
-      "rank": 930,
+      "rank": 928,
       "estimate": "40k+",
       "name": "ROUTE"
+    },
+    "4992660": {
+      "rank": 5249,
+      "estimate": "<7k",
+      "name": "Scawy Game"
     }
   }
 }
