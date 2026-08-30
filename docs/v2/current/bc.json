@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-29T22:56:07.286Z",
-  "entryCount": 12,
+  "updatedAt": "2026-08-30T05:37:06.760Z",
+  "entryCount": 13,
   "entries": {
     "1593010": {
       "rank": 553,
@@ -10,42 +10,42 @@
       "name": "The Store is Closed"
     },
     "1607300": {
-      "rank": 3866,
+      "rank": 3870,
       "estimate": "<7k",
       "name": "March March!"
     },
     "1621890": {
-      "rank": 5207,
+      "rank": 5211,
       "estimate": "<7k",
       "name": "Serial Killer Life"
     },
     "2079920": {
-      "rank": 1731,
+      "rank": 1732,
       "estimate": "15k+",
       "name": "NAME OF THE WILL"
     },
     "2319400": {
-      "rank": 4903,
+      "rank": 4910,
       "estimate": "<7k",
       "name": "Rootown"
     },
     "2491830": {
-      "rank": 2065,
+      "rank": 2069,
       "estimate": "7k+",
       "name": "Zero Losses"
     },
     "2657580": {
-      "rank": 4315,
+      "rank": 4318,
       "estimate": "<7k",
       "name": "Anterris"
     },
     "3836490": {
-      "rank": 1535,
+      "rank": 1537,
       "estimate": "15k+",
       "name": "Lead The Dragon"
     },
     "4074370": {
-      "rank": 4832,
+      "rank": 4838,
       "estimate": "<7k",
       "name": "Zupay: Shadows of Independence"
     },
@@ -55,14 +55,19 @@
       "name": "Plague Doctor: Life in Pestilence"
     },
     "4528040": {
-      "rank": 1743,
+      "rank": 1745,
       "estimate": "15k+",
       "name": "Sol One"
     },
     "4622160": {
-      "rank": 1879,
+      "rank": 1883,
       "estimate": "15k+",
       "name": "Arise Dark Lord"
+    },
+    "5001630": {
+      "rank": 4799,
+      "estimate": "<7k",
+      "name": "Jiahao"
     }
   }
 }

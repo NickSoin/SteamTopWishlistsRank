@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-29T22:56:07.286Z",
-  "entryCount": 24,
+  "updatedAt": "2026-08-30T05:37:06.760Z",
+  "entryCount": 25,
   "entries": {
     "1163020": {
-      "rank": 926,
+      "rank": 928,
       "estimate": "40k+",
       "name": "The Looter"
     },
@@ -15,32 +15,37 @@
       "name": "Space Station 14"
     },
     "1411260": {
-      "rank": 3955,
+      "rank": 3957,
       "estimate": "<7k",
       "name": "Chiaroscuro"
     },
     "1487300": {
-      "rank": 3540,
+      "rank": 3544,
       "estimate": "<7k",
       "name": "Follow My Steps"
     },
     "1577230": {
-      "rank": 897,
+      "rank": 898,
       "estimate": "40k+",
       "name": "City of Atlantis"
     },
     "1580030": {
-      "rank": 3274,
+      "rank": 3275,
       "estimate": "<7k",
       "name": "Gnomepunk"
     },
     "1848600": {
-      "rank": 2821,
+      "rank": 2826,
       "estimate": "7k+",
       "name": "Sang: The Desert Blade"
     },
+    "2136340": {
+      "rank": 2703,
+      "estimate": "7k+",
+      "name": "KAKURIYO"
+    },
     "2231090": {
-      "rank": 4271,
+      "rank": 4275,
       "estimate": "<7k",
       "name": "Number Machine: Math Factory"
     },
@@ -50,77 +55,77 @@
       "name": "Rich Dad Simulator"
     },
     "2584510": {
-      "rank": 3423,
+      "rank": 3426,
       "estimate": "<7k",
       "name": "Telegraphist 1920: Beats of War"
     },
     "2659980": {
-      "rank": 2082,
+      "rank": 2084,
       "estimate": "7k+",
       "name": "V.E.D.A: The Awakening of Souls"
     },
     "3065360": {
-      "rank": 4792,
+      "rank": 4781,
       "estimate": "<7k",
       "name": "Chop Chop Together"
     },
     "3656720": {
-      "rank": 3824,
+      "rank": 3817,
       "estimate": "<7k",
       "name": "Dungeon Raid"
     },
     "3767420": {
-      "rank": 4646,
+      "rank": 4650,
       "estimate": "<7k",
       "name": "Witch & Dragon: Hope of Elements"
     },
     "3862790": {
-      "rank": 2751,
+      "rank": 2753,
       "estimate": "7k+",
       "name": "Skate Style"
     },
     "3947460": {
-      "rank": 1205,
+      "rank": 1197,
       "estimate": "25k+",
       "name": "Creator Chronicles"
     },
     "4184130": {
-      "rank": 3209,
+      "rank": 3211,
       "estimate": "<7k",
       "name": "Foxy Dumplings"
     },
     "4319800": {
-      "rank": 2548,
+      "rank": 2545,
       "estimate": "7k+",
       "name": "Final Orbit"
     },
     "4364930": {
-      "rank": 3899,
+      "rank": 3898,
       "estimate": "<7k",
       "name": "Birb"
     },
     "4450600": {
-      "rank": 3641,
+      "rank": 3647,
       "estimate": "<7k",
       "name": "Crackheads"
     },
     "4484810": {
-      "rank": 2458,
+      "rank": 2461,
       "estimate": "7k+",
       "name": "Winter Whiskers"
     },
     "4624920": {
-      "rank": 4356,
+      "rank": 4351,
       "estimate": "<7k",
       "name": "HYPERDROP: A Pachinko Roguelite"
     },
     "4644870": {
-      "rank": 1530,
+      "rank": 1528,
       "estimate": "15k+",
       "name": "Green Mist over Portland"
     },
     "4713280": {
-      "rank": 2308,
+      "rank": 2305,
       "estimate": "7k+",
       "name": "Foundation: Harvest Festival"
     }

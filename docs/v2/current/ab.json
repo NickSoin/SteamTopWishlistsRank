@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-29T22:56:07.286Z",
-  "entryCount": 15,
+  "updatedAt": "2026-08-30T05:37:06.760Z",
+  "entryCount": 16,
   "entries": {
     "685560": {
-      "rank": 1557,
+      "rank": 1558,
       "estimate": "15k+",
       "name": "Arenus"
     },
     "990970": {
-      "rank": 4138,
+      "rank": 4140,
       "estimate": "<7k",
       "name": "Be the Ruler: Britannia"
     },
     "1046920": {
-      "rank": 873,
+      "rank": 874,
       "estimate": "40k+",
       "name": "Bushiden"
     },
     "1478910": {
-      "rank": 4500,
+      "rank": 4503,
       "estimate": "<7k",
       "name": "Summer Camp"
     },
     "2822110": {
-      "rank": 4121,
+      "rank": 4124,
       "estimate": "<7k",
       "name": "Planet Prospector"
     },
     "3012400": {
-      "rank": 1536,
+      "rank": 1538,
       "estimate": "15k+",
       "name": "Morriton Manor Stories: Nordic Whispers"
     },
     "3046610": {
-      "rank": 4985,
+      "rank": 4989,
       "estimate": "<7k",
       "name": "L8R SK8R"
     },
     "3222720": {
-      "rank": 3813,
+      "rank": 3814,
       "estimate": "<7k",
       "name": "Dawn of the Abyss"
     },
     "3299010": {
-      "rank": 2425,
+      "rank": 2427,
       "estimate": "7k+",
       "name": "External"
     },
     "3531220": {
-      "rank": 3056,
+      "rank": 3057,
       "estimate": "<7k",
       "name": "MECHBORN"
     },
@@ -65,12 +65,12 @@
       "name": "DungeonBox"
     },
     "4254050": {
-      "rank": 4311,
+      "rank": 4314,
       "estimate": "<7k",
       "name": "Retroneer"
     },
     "4280150": {
-      "rank": 4519,
+      "rank": 4526,
       "estimate": "<7k",
       "name": "A Study in Blue"
     },
@@ -78,6 +78,11 @@
       "rank": 5213,
       "estimate": "<7k",
       "name": "Taimanin Asagi 2"
+    },
+    "5146570": {
+      "rank": 5222,
+      "estimate": "<7k",
+      "name": "Dreadlines"
     }
   }
 }
