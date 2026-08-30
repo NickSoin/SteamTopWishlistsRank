@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-30T05:37:06.760Z",
-  "entryCount": 36,
+  "updatedAt": "2026-08-30T15:04:33.113Z",
+  "entryCount": 37,
   "entries": {
     "1034140": {
       "rank": 13,
@@ -254,6 +254,13 @@
       "estimate": "<7k",
       "name": "Ribeiras",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4892800": {
+      "rank": 4385,
+      "estimate": "<7k",
+      "name": "BALL BOY Simulator",
+      "releaseDate": "2026-08-30",
       "source": "tracked"
     }
   }
