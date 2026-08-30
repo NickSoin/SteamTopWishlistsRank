@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-30T15:04:33.113Z",
-  "entryCount": 16,
+  "updatedAt": "2026-08-30T18:48:28.803Z",
+  "entryCount": 17,
   "entries": {
     "785050": {
       "rank": 4011,
@@ -10,22 +10,22 @@
       "name": "Massive Galaxy"
     },
     "2069170": {
-      "rank": 2111,
+      "rank": 2114,
       "estimate": "7k+",
       "name": "Obsidian Legion"
     },
     "2601530": {
-      "rank": 1005,
+      "rank": 1006,
       "estimate": "25k+",
       "name": "Regular Home Renovation Simulator"
     },
     "2603550": {
-      "rank": 3792,
+      "rank": 3796,
       "estimate": "<7k",
       "name": "Eclipse 2: Invasion of Darkness"
     },
     "2636460": {
-      "rank": 1510,
+      "rank": 1512,
       "estimate": "15k+",
       "name": "Dungeons Deep"
     },
@@ -45,12 +45,12 @@
       "name": "The Defiant"
     },
     "3222280": {
-      "rank": 2219,
+      "rank": 2222,
       "estimate": "7k+",
       "name": "Infinitory"
     },
     "3227500": {
-      "rank": 1984,
+      "rank": 1986,
       "estimate": "15k+",
       "name": "Blades of Mirage"
     },
@@ -60,29 +60,34 @@
       "name": "Systemic War"
     },
     "3297860": {
-      "rank": 4001,
+      "rank": 4002,
       "estimate": "<7k",
       "name": "MachineClad"
     },
     "3477910": {
-      "rank": 792,
+      "rank": 793,
       "estimate": "40k+",
       "name": "The Willowmist Emporium of Antiques & Curiosities"
     },
     "3624840": {
-      "rank": 4861,
+      "rank": 4864,
       "estimate": "<7k",
       "name": "Lady Dracula"
     },
     "4004160": {
-      "rank": 3434,
+      "rank": 3436,
       "estimate": "<7k",
       "name": "Depth Loop"
     },
     "4204610": {
-      "rank": 1264,
+      "rank": 1265,
       "estimate": "25k+",
       "name": "Gentleman's Violence"
+    },
+    "4536900": {
+      "rank": 5231,
+      "estimate": "<7k",
+      "name": "Next Reign: Kingdom"
     }
   }
 }
