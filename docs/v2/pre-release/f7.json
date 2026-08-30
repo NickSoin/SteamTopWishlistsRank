@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-29T18:47:43.123Z",
-  "entryCount": 19,
+  "updatedAt": "2026-08-29T22:56:07.286Z",
+  "entryCount": 20,
   "entries": {
     "1071140": {
       "rank": 202,
@@ -121,6 +121,13 @@
       "estimate": "<7k",
       "name": "Runix: Pinball Roguelike",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "4119760": {
+      "rank": 5041,
+      "estimate": "<7k",
+      "name": "In Search of Freedom",
+      "releaseDate": "2026-08-29",
       "source": "tracked"
     },
     "4696180": {
