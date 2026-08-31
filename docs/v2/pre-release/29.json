@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-31T06:01:06.961Z",
-  "entryCount": 33,
+  "updatedAt": "2026-08-31T17:54:18.792Z",
+  "entryCount": 34,
   "entries": {
     "927350": {
       "rank": 30,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "StellarUniversity:FurryHearts",
       "releaseDate": "2026-07-01",
+      "source": "tracked"
+    },
+    "4607690": {
+      "rank": 6779,
+      "estimate": "<7k",
+      "name": "Math-Havoc",
+      "releaseDate": "2026-08-31",
       "source": "tracked"
     },
     "4632540": {

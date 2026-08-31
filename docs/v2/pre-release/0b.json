@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-31T06:01:06.961Z",
-  "entryCount": 31,
+  "updatedAt": "2026-08-31T17:54:18.792Z",
+  "entryCount": 32,
   "entries": {
     "779340": {
       "rank": 5,
@@ -87,6 +87,13 @@
       "name": "Flashback 2",
       "releaseDate": "2023-11-16",
       "source": "historical"
+    },
+    "2067210": {
+      "rank": 467,
+      "estimate": "80k+",
+      "name": "Serious Sam: Shatterverse",
+      "releaseDate": "2026-08-31",
+      "source": "tracked"
     },
     "2207470": {
       "rank": 2016,

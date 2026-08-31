@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-31T06:01:06.961Z",
-  "entryCount": 38,
+  "updatedAt": "2026-08-31T17:54:18.792Z",
+  "entryCount": 39,
   "entries": {
     "680420": {
       "rank": 15,
@@ -269,6 +269,13 @@
       "estimate": "<7k",
       "name": "Incremental Retro Racing",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "4547080": {
+      "rank": 9864,
+      "estimate": "<7k",
+      "name": "Minimon: Tiny Idle Tactics",
+      "releaseDate": "2026-08-31",
       "source": "tracked"
     },
     "4757300": {

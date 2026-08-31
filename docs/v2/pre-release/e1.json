@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-31T06:01:06.961Z",
+  "updatedAt": "2026-08-31T17:54:18.792Z",
   "entryCount": 31,
   "entries": {
     "363860": {
@@ -133,12 +133,12 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289721820"
     },
     "2412960": {
-      "rank": 26,
-      "estimate": "250k",
-      "actualWishlists": 250000,
+      "rank": 102,
+      "estimate": "200k+",
       "name": "Breathedge 2",
-      "releaseDate": "2026-01-01",
-      "source": "historical",
+      "releaseDate": "2026-08-31",
+      "source": "tracked",
+      "actualWishlists": 250000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1795283637818382"
     },
     "2448930": {

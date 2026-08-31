@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-31T06:01:06.961Z",
-  "entryCount": 25,
+  "updatedAt": "2026-08-31T17:54:18.792Z",
+  "entryCount": 26,
   "entries": {
     "304770": {
       "rank": 2629,
@@ -179,6 +179,13 @@
       "estimate": "80k+",
       "name": "VHOLUME",
       "releaseDate": "2026-08-21",
+      "source": "tracked"
+    },
+    "4629600": {
+      "rank": 4667,
+      "estimate": "<7k",
+      "name": "POTENTIAL MAN",
+      "releaseDate": "2026-08-31",
       "source": "tracked"
     }
   }

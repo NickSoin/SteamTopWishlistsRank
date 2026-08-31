@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-31T06:01:06.961Z",
-  "entryCount": 29,
+  "updatedAt": "2026-08-31T17:54:18.792Z",
+  "entryCount": 30,
   "entries": {
     "868270": {
       "rank": 16,
@@ -193,6 +193,13 @@
       "estimate": "80k+",
       "name": "Dirty Business",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4538960": {
+      "rank": 718,
+      "estimate": "40k+",
+      "name": "ZENONIA 1",
+      "releaseDate": "2026-08-31",
       "source": "tracked"
     },
     "4650350": {

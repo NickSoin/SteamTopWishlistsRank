@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-31T06:01:06.961Z",
-  "entryCount": 28,
+  "updatedAt": "2026-08-31T17:54:18.792Z",
+  "entryCount": 29,
   "entries": {
     "905530": {
       "rank": 585,
@@ -115,6 +115,13 @@
       "name": "Backrooms Rec.",
       "releaseDate": "2024-03-06",
       "source": "historical"
+    },
+    "2276810": {
+      "rank": 1405,
+      "estimate": "25k+",
+      "name": "JunkTok: Paranormal Investigators Challenge",
+      "releaseDate": "2026-08-31",
+      "source": "tracked"
     },
     "2413570": {
       "rank": 1719,

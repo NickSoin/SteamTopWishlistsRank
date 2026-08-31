@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-31T06:01:06.961Z",
-  "entryCount": 19,
+  "updatedAt": "2026-08-31T17:54:18.792Z",
+  "entryCount": 20,
   "entries": {
     "699130": {
       "rank": 139,
@@ -135,6 +135,13 @@
       "estimate": "40k+",
       "name": "Ore Factory Squad ⛏️",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4514800": {
+      "rank": 4497,
+      "estimate": "<7k",
+      "name": "Airport City Transport Manager",
+      "releaseDate": "2026-08-31",
       "source": "tracked"
     }
   }

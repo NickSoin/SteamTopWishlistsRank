@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-31T06:01:06.961Z",
-  "entryCount": 34,
+  "updatedAt": "2026-08-31T17:54:18.792Z",
+  "entryCount": 35,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Nexus Legacy",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4711680": {
+      "rank": 2825,
+      "estimate": "7k+",
+      "name": "Gathera",
+      "releaseDate": "2026-08-31",
       "source": "tracked"
     },
     "4756670": {
