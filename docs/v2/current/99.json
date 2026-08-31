@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-30T18:48:28.803Z",
-  "entryCount": 14,
+  "updatedAt": "2026-08-30T23:10:14.675Z",
+  "entryCount": 15,
   "entries": {
     "311810": {
       "rank": 242,
@@ -10,22 +10,22 @@
       "name": "Operation: Black Mesa"
     },
     "1478260": {
-      "rank": 4218,
+      "rank": 4215,
       "estimate": "<7k",
       "name": "City of Rampage"
     },
     "1556850": {
-      "rank": 4568,
+      "rank": 4567,
       "estimate": "<7k",
       "name": "The Lunar Effect"
     },
     "1773220": {
-      "rank": 1831,
+      "rank": 1833,
       "estimate": "15k+",
       "name": "Train Mechanic Simulator 2025"
     },
     "1841660": {
-      "rank": 4450,
+      "rank": 4443,
       "estimate": "<7k",
       "name": "nanos world™"
     },
@@ -35,22 +35,22 @@
       "name": "Rooted"
     },
     "2622460": {
-      "rank": 3992,
+      "rank": 3991,
       "estimate": "<7k",
       "name": "The Skyland Chronicles"
     },
     "3235670": {
-      "rank": 2667,
+      "rank": 2668,
       "estimate": "7k+",
       "name": "April 8th"
     },
     "3302370": {
-      "rank": 4386,
+      "rank": 4389,
       "estimate": "<7k",
       "name": "Crux Diaries RPG"
     },
     "3346460": {
-      "rank": 4831,
+      "rank": 4832,
       "estimate": "<7k",
       "name": "Pottering"
     },
@@ -70,9 +70,14 @@
       "name": "Supreme Experiment"
     },
     "4409320": {
-      "rank": 2570,
+      "rank": 2572,
       "estimate": "7k+",
       "name": "Money Under the Bed"
+    },
+    "5075270": {
+      "rank": 5193,
+      "estimate": "<7k",
+      "name": "Diplomacy is Not an Option: Fog of War"
     }
   }
 }
