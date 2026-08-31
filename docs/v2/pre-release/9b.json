@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-30T23:10:14.675Z",
-  "entryCount": 50,
+  "updatedAt": "2026-08-31T06:01:06.961Z",
+  "entryCount": 51,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -358,6 +358,13 @@
       "estimate": "<7k",
       "name": "A Game About Getting Bigger",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4755380": {
+      "rank": 7708,
+      "estimate": "<7k",
+      "name": "The Wickers House",
+      "releaseDate": "2026-08-30",
       "source": "tracked"
     }
   }

@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-30T23:10:14.675Z",
-  "entryCount": 22,
+  "updatedAt": "2026-08-31T06:01:06.961Z",
+  "entryCount": 23,
   "entries": {
     "433970": {
-      "rank": 1350,
+      "rank": 1351,
       "estimate": "25k+",
       "name": "Destroyed Aperture"
     },
     "1374920": {
-      "rank": 5131,
+      "rank": 5138,
       "estimate": "<7k",
       "name": "StoryArcana"
     },
     "1953770": {
-      "rank": 2751,
+      "rank": 2754,
       "estimate": "7k+",
       "name": "Soulitaire"
     },
     "2298250": {
-      "rank": 1288,
+      "rank": 1291,
       "estimate": "25k+",
       "name": "GearGrit"
     },
     "2506520": {
-      "rank": 2384,
+      "rank": 2383,
       "estimate": "7k+",
       "name": "GHOSTLESS"
     },
@@ -35,17 +35,17 @@
       "name": "Screenbound"
     },
     "2866330": {
-      "rank": 2806,
+      "rank": 2809,
       "estimate": "7k+",
       "name": "Astera"
     },
     "3014860": {
-      "rank": 2015,
+      "rank": 2016,
       "estimate": "7k+",
       "name": "Icy Tower"
     },
     "3378100": {
-      "rank": 1365,
+      "rank": 1364,
       "estimate": "25k+",
       "name": "Killer Chat! - Expanded Edition"
     },
@@ -55,27 +55,27 @@
       "name": "Hotel Investigation 09"
     },
     "3397910": {
-      "rank": 3647,
+      "rank": 3648,
       "estimate": "<7k",
       "name": "Lootlands: Idle ARPG"
     },
     "3493410": {
-      "rank": 3828,
+      "rank": 3833,
       "estimate": "<7k",
       "name": "We Will Be Gods"
     },
     "3905450": {
-      "rank": 178,
+      "rank": 176,
       "estimate": "200k+",
       "name": "WheelMates"
     },
     "4002600": {
-      "rank": 4662,
+      "rank": 4664,
       "estimate": "<7k",
       "name": "My Helpers"
     },
     "4012490": {
-      "rank": 2898,
+      "rank": 2900,
       "estimate": "7k+",
       "name": "MONOPHOBIA"
     },
@@ -90,7 +90,7 @@
       "name": "Rayman Legends Retold"
     },
     "4158420": {
-      "rank": 2261,
+      "rank": 2263,
       "estimate": "7k+",
       "name": "Starship Command: Orion Spur"
     },
@@ -104,13 +104,18 @@
       "estimate": "7k+",
       "name": "Fractal Foundry"
     },
+    "4311050": {
+      "rank": 5271,
+      "estimate": "<7k",
+      "name": "Legend of Idle"
+    },
     "4794170": {
-      "rank": 4411,
+      "rank": 4399,
       "estimate": "<7k",
       "name": "Swarmslam"
     },
     "5064340": {
-      "rank": 1191,
+      "rank": 1184,
       "estimate": "25k+",
       "name": "DinoBones: Tidy Up the Museum"
     }
