@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T00:17:05.932Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-01T05:34:36.861Z",
+  "entryCount": 39,
   "entries": {
     "658920": {
       "rank": 716,
@@ -233,6 +233,13 @@
       "estimate": "80k+",
       "name": "Fears to Fathom® - Scratch Creek",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4122830": {
+      "rank": 6787,
+      "estimate": "<7k",
+      "name": "8AM: The Warehouse",
+      "releaseDate": "2026-08-31",
       "source": "tracked"
     },
     "4162290": {
