@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-01T15:07:10.330Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-01T18:44:51.877Z",
+  "entryCount": 25,
   "entries": {
     "1350370": {
-      "rank": 4003,
+      "rank": 4000,
       "estimate": "<7k",
       "name": "Daybreak Slam"
     },
     "1512190": {
-      "rank": 1575,
+      "rank": 1574,
       "estimate": "15k+",
       "name": "Hunternet Starfighter"
     },
@@ -20,7 +20,7 @@
       "name": "Lost Isle"
     },
     "1752080": {
-      "rank": 68,
+      "rank": 69,
       "estimate": "300k+",
       "name": "HUNGER"
     },
@@ -30,27 +30,27 @@
       "name": "The Backworld"
     },
     "1914710": {
-      "rank": 3531,
+      "rank": 3530,
       "estimate": "<7k",
       "name": "MikoVerse"
     },
     "2077890": {
-      "rank": 1346,
+      "rank": 1345,
       "estimate": "25k+",
       "name": "Green Hawk Platoon"
     },
     "2262630": {
-      "rank": 650,
+      "rank": 649,
       "estimate": "40k+",
       "name": "Wish Upon A Llama"
     },
     "2379350": {
-      "rank": 1231,
+      "rank": 1230,
       "estimate": "25k+",
       "name": "Scramble Knights Online"
     },
     "2483660": {
-      "rank": 3477,
+      "rank": 3475,
       "estimate": "<7k",
       "name": "A Story in Bronze Ware"
     },
@@ -60,17 +60,17 @@
       "name": "Network Engineer Simulator"
     },
     "2823820": {
-      "rank": 1804,
+      "rank": 1798,
       "estimate": "15k+",
       "name": "Category 6"
     },
     "3128610": {
-      "rank": 2783,
+      "rank": 2782,
       "estimate": "7k+",
       "name": "Plane Graveyard Simulator"
     },
     "3333850": {
-      "rank": 220,
+      "rank": 219,
       "estimate": "80k+",
       "name": "Arkheron"
     },
@@ -80,47 +80,47 @@
       "name": "Simulario"
     },
     "3352150": {
-      "rank": 2125,
+      "rank": 2123,
       "estimate": "7k+",
       "name": "Bushcraft Simulator"
     },
     "3574750": {
-      "rank": 568,
+      "rank": 567,
       "estimate": "40k+",
       "name": "The Dark West"
     },
     "3664840": {
-      "rank": 3464,
+      "rank": 3461,
       "estimate": "<7k",
       "name": "Compress(space)"
     },
     "3802950": {
-      "rank": 2989,
+      "rank": 2991,
       "estimate": "7k+",
       "name": "Trinity 64"
     },
     "3871570": {
-      "rank": 5093,
+      "rank": 5091,
       "estimate": "<7k",
       "name": "Eilean Mor: The Lost Keepers"
     },
     "4049170": {
-      "rank": 1172,
+      "rank": 1170,
       "estimate": "25k+",
       "name": "Disney/Pixar Toy Story: Retro Roundup!"
     },
     "4152490": {
-      "rank": 4334,
+      "rank": 4330,
       "estimate": "<7k",
       "name": "Spy Drops Gaiden"
     },
     "4202300": {
-      "rank": 4544,
+      "rank": 4542,
       "estimate": "<7k",
       "name": "VIFA"
     },
     "4308420": {
-      "rank": 1306,
+      "rank": 1304,
       "estimate": "25k+",
       "name": "Arizona Sunshine®"
     },
@@ -128,11 +128,6 @@
       "rank": 1666,
       "estimate": "15k+",
       "name": "Rinthine"
-    },
-    "4609770": {
-      "rank": 1394,
-      "estimate": "25k+",
-      "name": "Not Quite Dead: Open World Survival"
     }
   }
 }

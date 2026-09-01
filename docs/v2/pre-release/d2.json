@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T15:07:10.330Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-01T18:44:51.877Z",
+  "entryCount": 27,
   "entries": {
     "954850": {
       "rank": 6,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "NICE TO MEET YOU, AGAIN",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4524730": {
+      "rank": 5583,
+      "estimate": "<7k",
+      "name": "ZDSimulator - ER9e Electric Train",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T15:07:10.330Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-01T18:44:51.877Z",
+  "entryCount": 36,
   "entries": {
     "252190": {
       "rank": 1772,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Nekopedia: Find Her Tail",
       "releaseDate": "2026-08-28",
+      "source": "tracked"
+    },
+    "4074510": {
+      "rank": 5395,
+      "estimate": "<7k",
+      "name": "Fleet Hunters",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     },
     "4075900": {

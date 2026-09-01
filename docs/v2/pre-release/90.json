@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T15:07:10.330Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-01T18:44:51.877Z",
+  "entryCount": 32,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -176,6 +176,13 @@
       "estimate": "<7k",
       "name": "Galactic Civilizations IV: Federations & Empires",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4191350": {
+      "rank": 5139,
+      "estimate": "<7k",
+      "name": "Tales of Fear - Episode Zero",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     },
     "4243330": {

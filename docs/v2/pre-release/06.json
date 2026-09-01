@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T15:07:10.330Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-01T18:44:51.877Z",
+  "entryCount": 33,
   "entries": {
     "1040200": {
       "rank": 65,
@@ -227,6 +227,13 @@
       "estimate": "<7k",
       "name": "Bowling Alley Simulator",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4609770": {
+      "rank": 1394,
+      "estimate": "25k+",
+      "name": "Not Quite Dead: Open World Survival",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     },
     "4737840": {

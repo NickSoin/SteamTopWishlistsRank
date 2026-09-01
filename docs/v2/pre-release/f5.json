@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T15:07:10.330Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-01T18:44:51.877Z",
+  "entryCount": 37,
   "entries": {
     "458430": {
       "rank": 911,
@@ -256,6 +256,13 @@
       "estimate": "<7k",
       "name": "Tachyon Fire",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "4935210": {
+      "rank": 5039,
+      "estimate": "<7k",
+      "name": "Homicide Desk",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     }
   }
