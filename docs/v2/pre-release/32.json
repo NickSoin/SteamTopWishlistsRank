@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T05:34:36.861Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-01T10:32:17.032Z",
+  "entryCount": 36,
   "entries": {
     "851850": {
       "rank": 23,
@@ -236,6 +236,13 @@
       "estimate": "<7k",
       "name": "Meowmories",
       "releaseDate": "2026-08-20",
+      "source": "tracked"
+    },
+    "4126530": {
+      "rank": 4181,
+      "estimate": "<7k",
+      "name": "Bounty Trail",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     },
     "4556780": {

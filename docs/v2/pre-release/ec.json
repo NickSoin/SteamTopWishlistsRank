@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T05:34:36.861Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-01T10:32:17.032Z",
+  "entryCount": 33,
   "entries": {
     "715400": {
       "rank": 49,
@@ -212,6 +212,13 @@
       "estimate": "7k+",
       "name": "Silly Suspects",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "4251610": {
+      "rank": 7559,
+      "estimate": "<7k",
+      "name": "交叠之夏",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     },
     "4348800": {

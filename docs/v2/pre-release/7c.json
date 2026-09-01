@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T05:34:36.861Z",
-  "entryCount": 50,
+  "updatedAt": "2026-09-01T10:32:17.032Z",
+  "entryCount": 51,
   "entries": {
     "748020": {
       "rank": 911,
@@ -82,6 +82,13 @@
       "name": "Warchief",
       "releaseDate": "2024-06-27",
       "source": "historical"
+    },
+    "1470810": {
+      "rank": 3791,
+      "estimate": "<7k",
+      "name": "Plushy Store Tidy Up",
+      "releaseDate": "2026-09-01",
+      "source": "tracked"
     },
     "1517850": {
       "rank": 858,

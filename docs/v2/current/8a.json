@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-01T05:34:36.861Z",
-  "entryCount": 21,
+  "updatedAt": "2026-09-01T10:32:17.032Z",
+  "entryCount": 20,
   "entries": {
     "1416360": {
-      "rank": 1553,
+      "rank": 1554,
       "estimate": "15k+",
       "name": "Dissident: Frostland Escape"
     },
     "1589820": {
-      "rank": 3726,
+      "rank": 3727,
       "estimate": "<7k",
       "name": "Denari"
     },
     "1894560": {
-      "rank": 2990,
+      "rank": 2989,
       "estimate": "7k+",
       "name": "HomeGrown"
     },
@@ -25,22 +25,22 @@
       "name": "Streets of Rogue 2"
     },
     "2362040": {
-      "rank": 2482,
+      "rank": 2479,
       "estimate": "7k+",
       "name": "Into the Underworld"
     },
     "2666920": {
-      "rank": 1323,
+      "rank": 1325,
       "estimate": "25k+",
       "name": "Building Relationships"
     },
     "2795110": {
-      "rank": 1034,
+      "rank": 1035,
       "estimate": "25k+",
       "name": "Petal Runner"
     },
     "2851050": {
-      "rank": 3891,
+      "rank": 3890,
       "estimate": "<7k",
       "name": "Mops & Mobs: A Sweeping Dungeon Adventure"
     },
@@ -50,7 +50,7 @@
       "name": "Monsterest"
     },
     "2940460": {
-      "rank": 2241,
+      "rank": 2240,
       "estimate": "7k+",
       "name": "Kitty Kart 64"
     },
@@ -60,17 +60,17 @@
       "name": "To Kill a God"
     },
     "3079170": {
-      "rank": 1314,
+      "rank": 1316,
       "estimate": "25k+",
       "name": "ASKET"
     },
     "3613860": {
-      "rank": 1693,
+      "rank": 1690,
       "estimate": "15k+",
       "name": "Heistline"
     },
     "3690850": {
-      "rank": 1653,
+      "rank": 1635,
       "estimate": "15k+",
       "name": "Asterika: Phantom Rose Refrain"
     },
@@ -85,12 +85,12 @@
       "name": "The Doll Shop"
     },
     "3855640": {
-      "rank": 3626,
+      "rank": 3624,
       "estimate": "<7k",
       "name": "Harvest Dice: Abundia’s Blessing"
     },
     "3863810": {
-      "rank": 2020,
+      "rank": 2018,
       "estimate": "7k+",
       "name": "NAMMO"
     },
@@ -100,14 +100,9 @@
       "name": "Detective Turner: If Looks Could Kill"
     },
     "4707700": {
-      "rank": 4104,
+      "rank": 4098,
       "estimate": "<7k",
       "name": "Gold Mining Simulator - Definitive Edition"
-    },
-    "5044770": {
-      "rank": 1625,
-      "estimate": "15k+",
-      "name": "The Death Game Report"
     }
   }
 }

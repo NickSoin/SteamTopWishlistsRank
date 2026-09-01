@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T05:34:36.861Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-01T10:32:17.032Z",
+  "entryCount": 32,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -191,6 +191,13 @@
       "estimate": "7k+",
       "name": "Poem of the Starherd",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4449240": {
+      "rank": 7045,
+      "estimate": "<7k",
+      "name": "49DAYS",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     },
     "4453470": {
