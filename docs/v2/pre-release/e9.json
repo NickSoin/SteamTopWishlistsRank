@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-31T17:54:18.792Z",
-  "entryCount": 19,
+  "updatedAt": "2026-09-01T00:17:05.932Z",
+  "entryCount": 20,
   "entries": {
     "1129540": {
       "rank": 129,
@@ -135,6 +135,13 @@
       "estimate": "15k+",
       "name": "theHunter: Call of the Wild™ - Peru Hunting Reserve",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4482350": {
+      "rank": 9805,
+      "estimate": "<7k",
+      "name": "Tavrik",
+      "releaseDate": "2026-08-31",
       "source": "tracked"
     }
   }

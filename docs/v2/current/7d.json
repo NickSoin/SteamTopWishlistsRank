@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-08-31T17:54:18.792Z",
-  "entryCount": 20,
+  "updatedAt": "2026-09-01T00:17:05.932Z",
+  "entryCount": 21,
   "entries": {
     "1122170": {
-      "rank": 3021,
+      "rank": 3023,
       "estimate": "<7k",
       "name": "Mech Hunter"
     },
     "1366200": {
-      "rank": 3966,
+      "rank": 3970,
       "estimate": "<7k",
       "name": "Rog & Roll"
     },
@@ -20,7 +20,7 @@
       "name": "Compound Fracture"
     },
     "1779060": {
-      "rank": 2136,
+      "rank": 2138,
       "estimate": "7k+",
       "name": "The Age of Hell"
     },
@@ -30,7 +30,7 @@
       "name": "Nobody's Left"
     },
     "2392420": {
-      "rank": 3824,
+      "rank": 3819,
       "estimate": "<7k",
       "name": "Wisplight"
     },
@@ -45,22 +45,22 @@
       "name": "Shadow mate ~小さな竜と適合者~"
     },
     "2640200": {
-      "rank": 1827,
+      "rank": 1831,
       "estimate": "15k+",
       "name": "Project D████"
     },
     "2886060": {
-      "rank": 3521,
+      "rank": 3523,
       "estimate": "<7k",
       "name": "The Backrooms Company"
     },
     "3155840": {
-      "rank": 4888,
+      "rank": 4893,
       "estimate": "<7k",
       "name": "Grim Hope"
     },
     "3397040": {
-      "rank": 689,
+      "rank": 690,
       "estimate": "40k+",
       "name": "Bellatores"
     },
@@ -70,19 +70,24 @@
       "name": "Egypt"
     },
     "3568570": {
-      "rank": 4481,
+      "rank": 4483,
       "estimate": "<7k",
       "name": "Anode Heart 2"
     },
     "3609530": {
-      "rank": 4833,
+      "rank": 4835,
       "estimate": "<7k",
       "name": "Ego League"
     },
     "3645170": {
-      "rank": 4746,
+      "rank": 4750,
       "estimate": "<7k",
       "name": "Blood Sword"
+    },
+    "3650150": {
+      "rank": 5267,
+      "estimate": "<7k",
+      "name": "Teeko"
     },
     "3669200": {
       "rank": 137,
@@ -90,7 +95,7 @@
       "name": "Guildrun"
     },
     "3971950": {
-      "rank": 712,
+      "rank": 706,
       "estimate": "40k+",
       "name": "In Falsus"
     },
@@ -100,7 +105,7 @@
       "name": "Chonky Cat"
     },
     "4054050": {
-      "rank": 4588,
+      "rank": 4581,
       "estimate": "<7k",
       "name": "O.B.O.L"
     }

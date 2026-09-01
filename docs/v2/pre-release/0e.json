@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-08-31T17:54:18.792Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-01T00:17:05.932Z",
+  "entryCount": 39,
   "entries": {
     "529340": {
       "rank": 19,
@@ -244,6 +244,13 @@
       "estimate": "<7k",
       "name": "Three Kingdoms : Restoration of Han",
       "releaseDate": "2026-07-05",
+      "source": "tracked"
+    },
+    "2954890": {
+      "rank": 1297,
+      "estimate": "25k+",
+      "name": "Lady Death Demonicron",
+      "releaseDate": "2026-08-31",
       "source": "tracked"
     },
     "3752110": {
