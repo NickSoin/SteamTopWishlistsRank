@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T10:32:17.032Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-01T15:07:10.330Z",
+  "entryCount": 27,
   "entries": {
     "581660": {
       "rank": 122,
@@ -158,6 +158,13 @@
       "estimate": "7k+",
       "name": "Machinefall",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "3597200": {
+      "rank": 1987,
+      "estimate": "15k+",
+      "name": "Grail",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     },
     "4123600": {

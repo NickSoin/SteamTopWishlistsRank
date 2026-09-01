@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T10:32:17.032Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-01T15:07:10.330Z",
+  "entryCount": 34,
   "entries": {
     "553540": {
       "rank": 73,
@@ -193,6 +193,13 @@
       "estimate": "7k+",
       "name": "Scam Center Simulator: UnderKingdom",
       "releaseDate": "2026-05-29",
+      "source": "tracked"
+    },
+    "3905450": {
+      "rank": 171,
+      "estimate": "200k+",
+      "name": "WheelMates",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     },
     "4060150": {

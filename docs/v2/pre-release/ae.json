@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T10:32:17.032Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-01T15:07:10.330Z",
+  "entryCount": 37,
   "entries": {
     "593150": {
       "rank": 72,
@@ -232,6 +232,13 @@
       "estimate": "7k+",
       "name": "Chainsaw",
       "releaseDate": "2026-08-12",
+      "source": "tracked"
+    },
+    "4412000": {
+      "rank": 959,
+      "estimate": "40k+",
+      "name": "Zad Archery",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     },
     "4466090": {

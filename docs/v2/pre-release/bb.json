@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T10:32:17.032Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-01T15:07:10.330Z",
+  "entryCount": 40,
   "entries": {
     "928960": {
       "rank": 577,
@@ -221,6 +221,13 @@
       "estimate": "7k+",
       "name": "Theater Pack - Hearts of Iron IV: Thunder at our Gates",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "3828500": {
+      "rank": 1699,
+      "estimate": "15k+",
+      "name": "Deck & Conn",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     },
     "4077060": {

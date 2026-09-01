@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T10:32:17.032Z",
-  "entryCount": 28,
+  "updatedAt": "2026-09-01T15:07:10.330Z",
+  "entryCount": 29,
   "entries": {
     "894620": {
       "rank": 1864,
@@ -197,6 +197,13 @@
       "estimate": "<7k",
       "name": "Blind Touch VR",
       "releaseDate": "2026-08-11",
+      "source": "tracked"
+    },
+    "4735370": {
+      "rank": 9214,
+      "estimate": "<7k",
+      "name": "ZDSimulator - Kyiv-Vasylkiv2 Route",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     },
     "4948000": {

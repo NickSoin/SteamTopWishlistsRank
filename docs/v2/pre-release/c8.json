@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T10:32:17.032Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-01T15:07:10.330Z",
+  "entryCount": 37,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -260,6 +260,13 @@
       "estimate": "<7k",
       "name": "Souls Inferno",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4690240": {
+      "rank": 1950,
+      "estimate": "15k+",
+      "name": "Cozy Country",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     }
   }

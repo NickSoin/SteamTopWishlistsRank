@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T10:32:17.032Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-01T15:07:10.330Z",
+  "entryCount": 37,
   "entries": {
     "751780": {
       "rank": 21,
@@ -75,6 +75,13 @@
       "name": "Mech Armada",
       "releaseDate": "2022-06-16",
       "source": "historical"
+    },
+    "1496970": {
+      "rank": 2368,
+      "estimate": "7k+",
+      "name": "Masters of Mayhem",
+      "releaseDate": "2026-09-01",
+      "source": "tracked"
     },
     "1510580": {
       "rank": 1006,

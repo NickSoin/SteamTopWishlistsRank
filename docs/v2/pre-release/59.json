@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-01T10:32:17.032Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-01T15:07:10.330Z",
+  "entryCount": 39,
   "entries": {
     "601360": {
       "rank": 122,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Deluge",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4039680": {
+      "rank": 5260,
+      "estimate": "<7k",
+      "name": "Craft. Sell. Goblin. Repeat.",
+      "releaseDate": "2026-09-01",
       "source": "tracked"
     },
     "4207100": {
