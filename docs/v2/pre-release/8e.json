@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-02T14:50:16.389Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-02T18:49:57.692Z",
+  "entryCount": 30,
   "entries": {
     "1063030": {
       "rank": 621,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "Chrono CCG",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4339280": {
+      "rank": 825,
+      "estimate": "40k+",
+      "name": "ShipShaper: Falconeer Chronicles",
+      "releaseDate": "2026-09-02",
       "source": "tracked"
     },
     "4961870": {

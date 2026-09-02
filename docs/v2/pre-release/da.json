@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-02T14:50:16.389Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-02T18:49:57.692Z",
+  "entryCount": 27,
   "entries": {
     "721180": {
       "rank": 29,
@@ -10,6 +10,13 @@
       "name": "Dustborn",
       "releaseDate": "2024-08-20",
       "source": "historical"
+    },
+    "1070500": {
+      "rank": 1609,
+      "estimate": "15k+",
+      "name": "He Who Watches",
+      "releaseDate": "2026-09-02",
+      "source": "tracked"
     },
     "1190170": {
       "rank": 394,

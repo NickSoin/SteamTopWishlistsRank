@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-02T14:50:16.389Z",
-  "entryCount": 19,
+  "updatedAt": "2026-09-02T18:49:57.692Z",
+  "entryCount": 20,
   "entries": {
     "1601770": {
-      "rank": 4172,
+      "rank": 4173,
       "estimate": "<7k",
       "name": "RUNNER"
     },
     "1865770": {
-      "rank": 1964,
+      "rank": 1963,
       "estimate": "15k+",
       "name": "Ragnarok V: Returns"
     },
@@ -20,12 +20,12 @@
       "name": "Astro World"
     },
     "2073150": {
-      "rank": 1560,
+      "rank": 1561,
       "estimate": "15k+",
       "name": "Eldritch Empathy"
     },
     "2083470": {
-      "rank": 4911,
+      "rank": 4913,
       "estimate": "<7k",
       "name": "UTTER INVERSE"
     },
@@ -35,27 +35,27 @@
       "name": "Police Station Simulator"
     },
     "2190640": {
-      "rank": 4485,
+      "rank": 4482,
       "estimate": "<7k",
       "name": "Cosmic Holidays"
     },
     "2522740": {
-      "rank": 4146,
+      "rank": 4148,
       "estimate": "<7k",
       "name": "HoneySun"
     },
     "2896630": {
-      "rank": 3187,
+      "rank": 3192,
       "estimate": "<7k",
       "name": "Tomboy Adventure 2"
     },
     "2960250": {
-      "rank": 686,
+      "rank": 689,
       "estimate": "40k+",
       "name": "Tempus Triad"
     },
     "3078150": {
-      "rank": 106,
+      "rank": 107,
       "estimate": "200k+",
       "name": "Hawthorn"
     },
@@ -65,17 +65,17 @@
       "name": "Deus Ex Remastered"
     },
     "3136340": {
-      "rank": 1427,
+      "rank": 1428,
       "estimate": "25k+",
       "name": "Echoes Below"
     },
     "3335310": {
-      "rank": 849,
+      "rank": 847,
       "estimate": "40k+",
       "name": "Remothered: Red Nun's Legacy"
     },
     "3603730": {
-      "rank": 3834,
+      "rank": 3835,
       "estimate": "<7k",
       "name": "GCR3 Geoff Crammond"
     },
@@ -85,7 +85,7 @@
       "name": "Ultimate Lemon Basket"
     },
     "3619580": {
-      "rank": 1462,
+      "rank": 1464,
       "estimate": "25k+",
       "name": "The Apocalypse"
     },
@@ -98,6 +98,11 @@
       "rank": 4912,
       "estimate": "<7k",
       "name": "RGB: EXECUTION"
+    },
+    "4573090": {
+      "rank": 5251,
+      "estimate": "<7k",
+      "name": "Pibcremental"
     }
   }
 }

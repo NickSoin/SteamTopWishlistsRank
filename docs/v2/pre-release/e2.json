@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-02T14:50:16.389Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-02T18:49:57.692Z",
+  "entryCount": 31,
   "entries": {
     "975370": {
       "rank": 8,
@@ -193,6 +193,13 @@
       "estimate": "7k+",
       "name": "The Dungeon of Lulu Farea: Rebirth",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4424470": {
+      "rank": 9307,
+      "estimate": "<7k",
+      "name": "Molluscarium",
+      "releaseDate": "2026-09-02",
       "source": "tracked"
     },
     "4491360": {

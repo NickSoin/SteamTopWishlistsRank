@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-02T14:50:16.389Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-02T18:49:57.692Z",
+  "entryCount": 27,
   "entries": {
     "659300": {
       "rank": 3018,
@@ -188,6 +188,13 @@
       "estimate": "<7k",
       "name": "Road Defense Racing",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "4670220": {
+      "rank": 4278,
+      "estimate": "<7k",
+      "name": "Guilds of Mountgate",
+      "releaseDate": "2026-09-02",
       "source": "tracked"
     }
   }

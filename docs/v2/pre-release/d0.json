@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-02T14:50:16.389Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-02T18:49:57.692Z",
+  "entryCount": 31,
   "entries": {
     "803330": {
       "rank": 19,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Valdrax Beyond the Rift",
       "releaseDate": "2026-08-11",
+      "source": "tracked"
+    },
+    "5027520": {
+      "rank": 1963,
+      "estimate": "15k+",
+      "name": "Megastore: Tidy Up Together",
+      "releaseDate": "2026-09-02",
       "source": "tracked"
     }
   }
