@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-02T09:49:00.835Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-02T14:50:16.389Z",
+  "entryCount": 30,
   "entries": {
     "924980": {
       "rank": 34,
@@ -150,6 +150,13 @@
       "name": "Herdling",
       "releaseDate": "2025-08-21",
       "source": "historical"
+    },
+    "3534100": {
+      "rank": 3426,
+      "estimate": "<7k",
+      "name": "Staged",
+      "releaseDate": "2026-09-02",
+      "source": "tracked"
     },
     "3751950": {
       "rank": 12,

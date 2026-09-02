@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-02T09:49:00.835Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-02T14:50:16.389Z",
+  "entryCount": 34,
   "entries": {
     "1040200": {
       "rank": 65,
@@ -186,6 +186,13 @@
       "name": "The Hungry Lamb: Traveling in the Late Ming Dynasty",
       "releaseDate": "2024-04-22",
       "source": "historical"
+    },
+    "2823820": {
+      "rank": 1779,
+      "estimate": "15k+",
+      "name": "Category 6",
+      "releaseDate": "2026-09-02",
+      "source": "tracked"
     },
     "2863060": {
       "rank": 1775,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-02T09:49:00.835Z",
-  "entryCount": 23,
+  "updatedAt": "2026-09-02T14:50:16.389Z",
+  "entryCount": 24,
   "entries": {
     "623280": {
       "rank": 34,
@@ -146,6 +146,13 @@
       "estimate": "25k+",
       "name": "Factory Town 2: Paradise",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "3459570": {
+      "rank": 5026,
+      "estimate": "<7k",
+      "name": "Fofumia",
+      "releaseDate": "2026-09-02",
       "source": "tracked"
     },
     "4420960": {

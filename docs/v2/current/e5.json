@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-02T09:49:00.835Z",
-  "entryCount": 13,
+  "updatedAt": "2026-09-02T14:50:16.389Z",
+  "entryCount": 14,
   "entries": {
     "1389140": {
-      "rank": 4796,
+      "rank": 4795,
       "estimate": "<7k",
       "name": "Jury Trial"
     },
@@ -15,12 +15,12 @@
       "name": "Nivalis Nights"
     },
     "1924600": {
-      "rank": 1178,
+      "rank": 1177,
       "estimate": "25k+",
       "name": "March of Giants"
     },
     "2007430": {
-      "rank": 2555,
+      "rank": 2554,
       "estimate": "7k+",
       "name": "Blast Cats"
     },
@@ -30,17 +30,17 @@
       "name": "Mariachi Legends"
     },
     "2946140": {
-      "rank": 2066,
+      "rank": 2063,
       "estimate": "7k+",
       "name": "Windpunk"
     },
     "3169300": {
-      "rank": 3905,
+      "rank": 3903,
       "estimate": "<7k",
       "name": "Rainchaser"
     },
     "3188510": {
-      "rank": 1807,
+      "rank": 1804,
       "estimate": "15k+",
       "name": "Project SEVER"
     },
@@ -50,24 +50,29 @@
       "name": "THE LIFT: Supernatural Handyman Simulator"
     },
     "3510740": {
-      "rank": 1063,
+      "rank": 1061,
       "estimate": "25k+",
       "name": "Normal Golf Game"
     },
     "3732830": {
-      "rank": 3922,
+      "rank": 3920,
       "estimate": "<7k",
       "name": "Dark Cards of Candlewood"
     },
     "3788800": {
-      "rank": 90,
+      "rank": 89,
       "estimate": "300k+",
       "name": "Atomic Heart 2"
     },
     "4581370": {
-      "rank": 2922,
+      "rank": 2917,
       "estimate": "7k+",
       "name": "Where Dolls Hang"
+    },
+    "4915490": {
+      "rank": 5265,
+      "estimate": "<7k",
+      "name": "MoonHack"
     }
   }
 }

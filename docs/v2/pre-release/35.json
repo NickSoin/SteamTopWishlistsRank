@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-02T09:49:00.835Z",
-  "entryCount": 46,
+  "updatedAt": "2026-09-02T14:50:16.389Z",
+  "entryCount": 47,
   "entries": {
     "671860": {
       "rank": 22,
@@ -283,6 +283,13 @@
       "name": "Sunken Engine",
       "releaseDate": "2025-10-16",
       "source": "historical"
+    },
+    "3948110": {
+      "rank": 2434,
+      "estimate": "7k+",
+      "name": "Hashire HEBEREKE: EX",
+      "releaseDate": "2026-09-02",
+      "source": "tracked"
     },
     "4168700": {
       "rank": 5223,
