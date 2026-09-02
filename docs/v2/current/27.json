@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-02T04:58:15.391Z",
+  "updatedAt": "2026-09-02T09:49:00.835Z",
   "entryCount": 21,
   "entries": {
     "395830": {
-      "rank": 864,
+      "rank": 865,
       "estimate": "40k+",
       "name": "LOW-FI"
     },
@@ -15,12 +15,12 @@
       "name": "ALTERA"
     },
     "827210": {
-      "rank": 5090,
+      "rank": 5093,
       "estimate": "<7k",
       "name": "Death Carnival"
     },
     "1300880": {
-      "rank": 4629,
+      "rank": 4630,
       "estimate": "<7k",
       "name": "Glitchphobia"
     },
@@ -30,12 +30,12 @@
       "name": "Decimated"
     },
     "1503490": {
-      "rank": 2340,
+      "rank": 2341,
       "estimate": "7k+",
       "name": "FarmZone"
     },
     "1836400": {
-      "rank": 1675,
+      "rank": 1676,
       "estimate": "15k+",
       "name": "Mossfield Origins"
     },
@@ -60,7 +60,7 @@
       "name": "I NEED SPACE"
     },
     "2459840": {
-      "rank": 2900,
+      "rank": 2896,
       "estimate": "7k+",
       "name": "Barbarian Saga: The Beastmaster"
     },
@@ -70,12 +70,12 @@
       "name": "Sirens"
     },
     "3068720": {
-      "rank": 1003,
+      "rank": 1004,
       "estimate": "25k+",
       "name": "I Am Security"
     },
     "3145850": {
-      "rank": 3640,
+      "rank": 3644,
       "estimate": "<7k",
       "name": "Rootmare"
     },
@@ -90,12 +90,12 @@
       "name": "Wonderfall"
     },
     "3480890": {
-      "rank": 5235,
+      "rank": 5234,
       "estimate": "<7k",
       "name": "Feudal Craft"
     },
     "3560110": {
-      "rank": 1238,
+      "rank": 1231,
       "estimate": "25k+",
       "name": "Fracture Point"
     },
