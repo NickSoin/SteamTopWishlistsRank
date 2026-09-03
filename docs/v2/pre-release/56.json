@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T10:02:13.377Z",
-  "entryCount": 27,
+  "updatedAt": "2026-09-03T14:40:17.001Z",
+  "entryCount": 28,
   "entries": {
     "610370": {
       "rank": 18,
@@ -185,6 +185,13 @@
       "name": "Barbecue with friends",
       "releaseDate": "2025-05-22",
       "source": "historical"
+    },
+    "4513480": {
+      "rank": 539,
+      "estimate": "40k+",
+      "name": "Scarlet Skips",
+      "releaseDate": "2026-09-03",
+      "source": "tracked"
     },
     "4605950": {
       "rank": 4782,

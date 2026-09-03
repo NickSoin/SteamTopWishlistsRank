@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T10:02:13.377Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-03T14:40:17.001Z",
+  "entryCount": 33,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "Mouse X",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4279630": {
+      "rank": 340,
+      "estimate": "80k+",
+      "name": "Friendly Steps",
+      "releaseDate": "2026-09-03",
       "source": "tracked"
     },
     "4398360": {

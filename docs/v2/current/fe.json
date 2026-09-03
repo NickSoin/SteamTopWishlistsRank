@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T10:02:13.377Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-03T14:40:17.001Z",
+  "entryCount": 31,
   "entries": {
     "1111740": {
-      "rank": 4435,
+      "rank": 4430,
       "estimate": "<7k",
       "name": "Cross Reverie"
     },
     "1374750": {
-      "rank": 4360,
+      "rank": 4355,
       "estimate": "<7k",
       "name": "Out of Place"
     },
     "1403850": {
-      "rank": 844,
+      "rank": 843,
       "estimate": "40k+",
       "name": "Mars Colony Builder"
     },
     "1852360": {
-      "rank": 3471,
+      "rank": 3467,
       "estimate": "<7k",
       "name": "Warpaws"
     },
     "1926720": {
-      "rank": 3476,
+      "rank": 3470,
       "estimate": "<7k",
       "name": "The Adventures Of Bryan Scott"
     },
     "2092510": {
-      "rank": 2084,
+      "rank": 2083,
       "estimate": "7k+",
       "name": "Dome-King Cabbage"
     },
     "2166730": {
-      "rank": 1091,
+      "rank": 1089,
       "estimate": "25k+",
       "name": "Electrokinetic"
     },
     "2398100": {
-      "rank": 3190,
+      "rank": 3183,
       "estimate": "<7k",
       "name": "ЭОН"
     },
     "2509870": {
-      "rank": 4177,
+      "rank": 4169,
       "estimate": "<7k",
       "name": "Time To Wake Up"
     },
     "2596940": {
-      "rank": 4035,
+      "rank": 4032,
       "estimate": "<7k",
       "name": "Isometria"
     },
@@ -60,17 +60,17 @@
       "name": "Terminator: Survivors"
     },
     "2745050": {
-      "rank": 3429,
+      "rank": 3424,
       "estimate": "<7k",
       "name": "Flow Factory"
     },
     "2824520": {
-      "rank": 1016,
+      "rank": 1015,
       "estimate": "25k+",
       "name": "Displacement"
     },
     "2996900": {
-      "rank": 4848,
+      "rank": 4846,
       "estimate": "<7k",
       "name": "Dungeons & Desserts"
     },
@@ -90,69 +90,74 @@
       "name": "The CUBE"
     },
     "3560360": {
-      "rank": 2219,
+      "rank": 2214,
       "estimate": "7k+",
       "name": "Forsworn"
     },
     "3767110": {
-      "rank": 5190,
+      "rank": 5187,
       "estimate": "<7k",
       "name": "Erulean Angel: Fantasy Commander"
     },
     "4013270": {
-      "rank": 4164,
+      "rank": 4157,
       "estimate": "<7k",
       "name": "The False Alice -Retold Tale-"
     },
     "4176140": {
-      "rank": 1813,
+      "rank": 1810,
       "estimate": "15k+",
       "name": "End of Eden"
     },
     "4200980": {
-      "rank": 3335,
+      "rank": 3332,
       "estimate": "<7k",
       "name": "Ashen Seed"
     },
     "4201590": {
-      "rank": 3405,
+      "rank": 3395,
       "estimate": "<7k",
       "name": "KochiKame: Ryo-san's Billion-yen Beat"
     },
     "4242890": {
-      "rank": 2226,
+      "rank": 2222,
       "estimate": "7k+",
       "name": "Encryptid"
     },
     "4375420": {
-      "rank": 1828,
+      "rank": 1825,
       "estimate": "15k+",
       "name": "The Ashen OZ"
     },
     "4485570": {
-      "rank": 4530,
+      "rank": 4520,
       "estimate": "<7k",
       "name": "Punch Upon a Time"
     },
     "4537820": {
-      "rank": 2505,
+      "rank": 2502,
       "estimate": "7k+",
       "name": "Things to Forget – Lighthouse"
     },
     "4540840": {
-      "rank": 926,
+      "rank": 925,
       "estimate": "40k+",
       "name": "DIOXIDE"
     },
     "4604540": {
-      "rank": 500,
+      "rank": 491,
       "estimate": "80k+",
       "name": "TARAE: The Unbound"
     },
     "4902640": {
-      "rank": 2285,
+      "rank": 2282,
       "estimate": "7k+",
       "name": "Attack Only"
+    },
+    "5064170": {
+      "rank": 5238,
+      "estimate": "<7k",
+      "name": "Go Next!"
     }
   }
 }

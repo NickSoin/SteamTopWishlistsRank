@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T10:02:13.377Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-03T14:40:17.001Z",
+  "entryCount": 26,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -128,6 +128,13 @@
       "name": "Castle Crashers - Painter Boss Paradise",
       "releaseDate": "2025-08-06",
       "source": "historical"
+    },
+    "3601630": {
+      "rank": 2948,
+      "estimate": "7k+",
+      "name": "Cosmo Tales",
+      "releaseDate": "2026-09-03",
+      "source": "tracked"
     },
     "3985330": {
       "rank": 1477,

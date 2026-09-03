@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T10:02:13.377Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-03T14:40:17.001Z",
+  "entryCount": 36,
   "entries": {
     "774791": {
       "rank": 539,
@@ -213,6 +213,13 @@
       "name": "Gunfire Reborn - Realm of Frost and Inkwash",
       "releaseDate": "2024-09-11",
       "source": "historical"
+    },
+    "3195300": {
+      "rank": 3364,
+      "estimate": "<7k",
+      "name": "Sins of a Solar Empire II: Harbinger",
+      "releaseDate": "2026-09-03",
+      "source": "tracked"
     },
     "3279440": {
       "rank": 580,

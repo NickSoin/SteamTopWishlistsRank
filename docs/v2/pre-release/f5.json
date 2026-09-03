@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T10:02:13.377Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-03T14:40:17.001Z",
+  "entryCount": 38,
   "entries": {
     "458430": {
       "rank": 911,
@@ -180,6 +180,13 @@
       "name": "Node Farm",
       "releaseDate": "2024-11-19",
       "source": "historical"
+    },
+    "2770330": {
+      "rank": 1057,
+      "estimate": "25k+",
+      "name": "Chaos Front",
+      "releaseDate": "2026-09-03",
+      "source": "tracked"
     },
     "2776750": {
       "rank": 2678,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T10:02:13.377Z",
-  "entryCount": 24,
+  "updatedAt": "2026-09-03T14:40:17.001Z",
+  "entryCount": 25,
   "entries": {
     "912840": {
       "rank": 1084,
@@ -144,6 +144,13 @@
       "estimate": "<7k",
       "name": "SKY LEGENDS - An Aeropostal Epic",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "3971730": {
+      "rank": 4058,
+      "estimate": "<7k",
+      "name": "Donutal",
+      "releaseDate": "2026-09-03",
       "source": "tracked"
     },
     "4332910": {

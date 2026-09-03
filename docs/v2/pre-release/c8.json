@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T10:02:13.377Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-03T14:40:17.001Z",
+  "entryCount": 38,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -253,6 +253,13 @@
       "estimate": "<7k",
       "name": "The Reserve",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4492990": {
+      "rank": 3504,
+      "estimate": "<7k",
+      "name": "Dread Admiral",
+      "releaseDate": "2026-09-03",
       "source": "tracked"
     },
     "4642650": {
