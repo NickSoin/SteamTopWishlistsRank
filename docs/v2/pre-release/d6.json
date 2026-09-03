@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T14:40:17.001Z",
-  "entryCount": 43,
+  "updatedAt": "2026-09-03T19:08:05.987Z",
+  "entryCount": 44,
   "entries": {
     "1067360": {
       "rank": 130,
@@ -244,6 +244,13 @@
       "estimate": "15k+",
       "name": "Comatose",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4018060": {
+      "rank": 7536,
+      "estimate": "<7k",
+      "name": "Summer Delusion: The Girl Only I Can See",
+      "releaseDate": "2026-09-03",
       "source": "tracked"
     },
     "4046870": {

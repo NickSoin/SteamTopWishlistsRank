@@ -1,36 +1,36 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T14:40:17.001Z",
-  "entryCount": 17,
+  "updatedAt": "2026-09-03T19:08:05.987Z",
+  "entryCount": 18,
   "entries": {
     "1279500": {
-      "rank": 4810,
+      "rank": 4809,
       "estimate": "<7k",
       "name": "Nine Chronicles"
     },
     "1292510": {
-      "rank": 1758,
+      "rank": 1753,
       "estimate": "15k+",
       "name": "Everstorm"
     },
     "1445480": {
-      "rank": 2620,
+      "rank": 2613,
       "estimate": "7k+",
       "name": "Determinant"
     },
     "1628120": {
-      "rank": 4673,
+      "rank": 4669,
       "estimate": "<7k",
       "name": "Rollers of the Realm: Reunion"
     },
     "1806210": {
-      "rank": 5240,
+      "rank": 5236,
       "estimate": "<7k",
       "name": "Spellcraft"
     },
     "2560540": {
-      "rank": 4861,
+      "rank": 4857,
       "estimate": "<7k",
       "name": "Historia Realis: Rome"
     },
@@ -40,12 +40,12 @@
       "name": "Fable"
     },
     "3296970": {
-      "rank": 4184,
+      "rank": 4180,
       "estimate": "<7k",
       "name": "Häxeri"
     },
     "3325610": {
-      "rank": 2425,
+      "rank": 2421,
       "estimate": "7k+",
       "name": "IDET"
     },
@@ -55,7 +55,7 @@
       "name": "Transport Fever 3"
     },
     "3547270": {
-      "rank": 703,
+      "rank": 699,
       "estimate": "40k+",
       "name": "Worming from Home"
     },
@@ -65,29 +65,34 @@
       "name": "Tomb Raider: Legacy of Atlantis"
     },
     "3581140": {
-      "rank": 3077,
+      "rank": 3072,
       "estimate": "<7k",
       "name": "Clockwork Maiden"
     },
     "3591390": {
-      "rank": 3986,
+      "rank": 3981,
       "estimate": "<7k",
       "name": "Vivi and the Magical Island"
     },
     "4001430": {
-      "rank": 3368,
+      "rank": 3359,
       "estimate": "<7k",
       "name": "Seres Universalis:Three Kingdoms"
     },
     "4004820": {
-      "rank": 1257,
+      "rank": 1253,
       "estimate": "25k+",
       "name": "FreeStyle Football 2"
     },
     "4047520": {
-      "rank": 2827,
+      "rank": 2813,
       "estimate": "7k+",
       "name": "Demonbane: Ascension"
+    },
+    "5037250": {
+      "rank": 5266,
+      "estimate": "<7k",
+      "name": "CASE: Animatronics Redux"
     }
   }
 }

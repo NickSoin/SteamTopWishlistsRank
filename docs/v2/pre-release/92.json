@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T14:40:17.001Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-03T19:08:05.987Z",
+  "entryCount": 28,
   "entries": {
     "979110": {
       "rank": 38,
@@ -95,6 +95,13 @@
       "releaseDate": "2023-10-03",
       "source": "historical"
     },
+    "2854440": {
+      "rank": 3260,
+      "estimate": "<7k",
+      "name": "Red Rocket Defencism",
+      "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
     "3055950": {
       "rank": 3160,
       "estimate": "<7k",
@@ -156,6 +163,13 @@
       "estimate": "7k+",
       "name": "Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection",
       "releaseDate": "2026-07-09",
+      "source": "tracked"
+    },
+    "4286960": {
+      "rank": 7592,
+      "estimate": "<7k",
+      "name": "Island For Sale",
+      "releaseDate": "2026-09-03",
       "source": "tracked"
     },
     "4457520": {

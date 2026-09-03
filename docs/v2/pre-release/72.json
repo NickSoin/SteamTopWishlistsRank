@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T14:40:17.001Z",
-  "entryCount": 24,
+  "updatedAt": "2026-09-03T19:08:05.987Z",
+  "entryCount": 25,
   "entries": {
     "917820": {
       "rank": 7584,
@@ -110,6 +110,13 @@
       "name": "Reus 2",
       "releaseDate": "2024-05-28",
       "source": "historical"
+    },
+    "1950750": {
+      "rank": 3154,
+      "estimate": "<7k",
+      "name": "KAYF-LIFE: Complete Edition",
+      "releaseDate": "2026-09-03",
+      "source": "tracked"
     },
     "2140330": {
       "rank": 1720,

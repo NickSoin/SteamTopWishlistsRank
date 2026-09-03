@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T14:40:17.001Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-03T19:08:05.987Z",
+  "entryCount": 35,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -209,6 +209,13 @@
       "estimate": "7k+",
       "name": "Road Diner Simulator: Prologue",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "3336620": {
+      "rank": 2383,
+      "estimate": "7k+",
+      "name": "Liminal Shroud",
+      "releaseDate": "2026-09-03",
       "source": "tracked"
     },
     "3399120": {

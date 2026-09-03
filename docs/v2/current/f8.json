@@ -1,73 +1,78 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T14:40:17.001Z",
-  "entryCount": 13,
+  "updatedAt": "2026-09-03T19:08:05.987Z",
+  "entryCount": 14,
   "entries": {
     "1181040": {
-      "rank": 4133,
+      "rank": 4127,
       "estimate": "<7k",
       "name": "LAZR - A Clothformer"
     },
     "1212030": {
-      "rank": 4957,
+      "rank": 4954,
       "estimate": "<7k",
       "name": "ARIDA 2: Rise of the Brave"
     },
     "1837730": {
-      "rank": 1395,
+      "rank": 1391,
       "estimate": "25k+",
       "name": "Loot List: Thief Sim"
     },
     "2217470": {
-      "rank": 1259,
+      "rank": 1256,
       "estimate": "25k+",
       "name": "Wilderings: The Lost Spring"
     },
     "2324660": {
-      "rank": 3166,
+      "rank": 3163,
       "estimate": "<7k",
       "name": "Cart Life"
     },
     "2701030": {
-      "rank": 244,
+      "rank": 242,
       "estimate": "80k+",
       "name": "MINDWAVE"
     },
     "3399610": {
-      "rank": 2579,
+      "rank": 2571,
       "estimate": "7k+",
       "name": "Tokatonton: One-Armed Blacksmith"
     },
     "3645410": {
-      "rank": 3860,
+      "rank": 3856,
       "estimate": "<7k",
       "name": "Midgardr"
     },
     "3889540": {
-      "rank": 4214,
+      "rank": 4198,
       "estimate": "<7k",
       "name": "I Need to Fix My Dream Car (But I Work at a Junkyard)"
     },
     "3988100": {
-      "rank": 4171,
+      "rank": 4168,
       "estimate": "<7k",
       "name": "Star Dust: Grim Offensive (SDGO)"
     },
     "4414620": {
-      "rank": 1039,
+      "rank": 1037,
       "estimate": "25k+",
       "name": "Book Nook"
     },
     "4440650": {
-      "rank": 368,
+      "rank": 367,
       "estimate": "80k+",
       "name": "KAGE"
     },
     "4656880": {
-      "rank": 4174,
+      "rank": 4169,
       "estimate": "<7k",
       "name": "PATIENCE IS A VIRTUE"
+    },
+    "5005700": {
+      "rank": 5243,
+      "estimate": "<7k",
+      "name": "MUV-LUV GIRLS GARDEN Mellow Days"
     }
   }
 }

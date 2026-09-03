@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T14:40:17.001Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-03T19:08:05.987Z",
+  "entryCount": 32,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -157,6 +157,13 @@
       "name": "Pebbles Quest",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3183760": {
+      "rank": 208,
+      "estimate": "80k+",
+      "name": "SpeedRunners 2: King of Speed",
+      "releaseDate": "2026-09-03",
+      "source": "tracked"
     },
     "3749320": {
       "rank": 4841,

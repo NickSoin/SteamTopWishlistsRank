@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T14:40:17.001Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-03T19:08:05.987Z",
+  "entryCount": 32,
   "entries": {
     "1154090": {
       "rank": 1108,
@@ -80,6 +80,13 @@
       "name": "Dakar Desert Rally",
       "releaseDate": "2022-10-04",
       "source": "historical"
+    },
+    "1890310": {
+      "rank": 1722,
+      "estimate": "15k+",
+      "name": "Rogue Blight",
+      "releaseDate": "2026-09-03",
+      "source": "tracked"
     },
     "1969960": {
       "rank": 1489,

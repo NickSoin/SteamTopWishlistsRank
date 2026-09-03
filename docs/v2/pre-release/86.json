@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T14:40:17.001Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-03T19:08:05.987Z",
+  "entryCount": 31,
   "entries": {
     "423640": {
       "rank": 509,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "Material Maker",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4147100": {
+      "rank": 2515,
+      "estimate": "7k+",
+      "name": "Knights of Fiona",
+      "releaseDate": "2026-09-03",
       "source": "tracked"
     },
     "4162040": {

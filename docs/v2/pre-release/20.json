@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T14:40:17.001Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-03T19:08:05.987Z",
+  "entryCount": 35,
   "entries": {
     "628740": {
       "rank": 647,
@@ -199,6 +199,13 @@
       "name": "0010100",
       "releaseDate": "2024-03-15",
       "source": "historical"
+    },
+    "2776270": {
+      "rank": 953,
+      "estimate": "40k+",
+      "name": "Beetleball",
+      "releaseDate": "2026-09-03",
+      "source": "tracked"
     },
     "2860900": {
       "rank": 4930,
