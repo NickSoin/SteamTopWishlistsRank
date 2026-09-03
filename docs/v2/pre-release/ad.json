@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-02T22:48:31.945Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-03T05:09:50.228Z",
+  "entryCount": 40,
   "entries": {
     "658920": {
       "rank": 716,
@@ -213,6 +213,13 @@
       "name": "Europa Universalis V",
       "releaseDate": "2025-11-04",
       "source": "historical"
+    },
+    "3725650": {
+      "rank": 1424,
+      "estimate": "25k+",
+      "name": "Deliria",
+      "releaseDate": "2026-09-02",
+      "source": "tracked"
     },
     "3962460": {
       "rank": 4828,

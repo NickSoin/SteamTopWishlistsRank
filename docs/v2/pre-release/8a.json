@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-02T22:48:31.945Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-03T05:09:50.228Z",
+  "entryCount": 39,
   "entries": {
     "538030": {
       "rank": 87,
@@ -247,6 +247,13 @@
       "releaseDate": "2026-05-05",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569718"
+    },
+    "3690850": {
+      "rank": 1523,
+      "estimate": "15k+",
+      "name": "Asterika: Phantom Rose Refrain",
+      "releaseDate": "2026-09-02",
+      "source": "tracked"
     },
     "3954990": {
       "rank": 2261,
