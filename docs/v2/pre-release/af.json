@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T05:09:50.228Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-03T10:02:13.377Z",
+  "entryCount": 39,
   "entries": {
     "714370": {
       "rank": 8,
@@ -226,6 +226,13 @@
       "estimate": "25k+",
       "name": "Tavern Talk Stories: Dreamwalker",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "3650170": {
+      "rank": 2431,
+      "estimate": "7k+",
+      "name": "Marsupilami 2 - Salsa Palombia",
+      "releaseDate": "2026-09-03",
       "source": "tracked"
     },
     "3694480": {

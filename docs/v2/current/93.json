@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T05:09:50.228Z",
-  "entryCount": 20,
+  "updatedAt": "2026-09-03T10:02:13.377Z",
+  "entryCount": 21,
   "entries": {
     "473750": {
-      "rank": 1753,
+      "rank": 1754,
       "estimate": "15k+",
       "name": "Feudums"
     },
@@ -20,22 +20,22 @@
       "name": "Cryospace - survival horror in space"
     },
     "1534720": {
-      "rank": 3946,
+      "rank": 3947,
       "estimate": "<7k",
       "name": "Space Boat"
     },
     "1556070": {
-      "rank": 3256,
+      "rank": 3258,
       "estimate": "<7k",
       "name": "Nihongo Quest"
     },
     "2243690": {
-      "rank": 1361,
+      "rank": 1362,
       "estimate": "25k+",
       "name": "B.C. Piezophile"
     },
     "2415000": {
-      "rank": 1924,
+      "rank": 1926,
       "estimate": "15k+",
       "name": "BLACKOUT: Zero Point"
     },
@@ -45,57 +45,57 @@
       "name": "Trainfort"
     },
     "2967950": {
-      "rank": 288,
+      "rank": 289,
       "estimate": "80k+",
       "name": "The Witch's Bakery"
     },
     "3116230": {
-      "rank": 4503,
+      "rank": 4504,
       "estimate": "<7k",
       "name": "Abashed"
     },
     "3159860": {
-      "rank": 4824,
+      "rank": 4823,
       "estimate": "<7k",
       "name": "Feltopia"
     },
     "3168110": {
-      "rank": 3581,
+      "rank": 3583,
       "estimate": "<7k",
       "name": "SkyRig"
     },
     "3180000": {
-      "rank": 3088,
+      "rank": 3087,
       "estimate": "<7k",
       "name": "Blades For Hire"
     },
     "3219630": {
-      "rank": 92,
+      "rank": 90,
       "estimate": "300k+",
       "name": "Halloween: The Game"
     },
     "3695630": {
-      "rank": 1774,
+      "rank": 1775,
       "estimate": "15k+",
       "name": "Project Landsword"
     },
     "3866230": {
-      "rank": 2868,
+      "rank": 2869,
       "estimate": "7k+",
       "name": "Way of Madness"
     },
     "3946330": {
-      "rank": 3968,
+      "rank": 3971,
       "estimate": "<7k",
       "name": "Snap & Print"
     },
     "4003030": {
-      "rank": 1997,
+      "rank": 1998,
       "estimate": "15k+",
       "name": "Mojo Party"
     },
     "4277440": {
-      "rank": 5127,
+      "rank": 5129,
       "estimate": "<7k",
       "name": "Apathema"
     },
@@ -103,6 +103,11 @@
       "rank": 51,
       "estimate": "300k+",
       "name": "Guild Wars 3™"
+    },
+    "4964580": {
+      "rank": 5261,
+      "estimate": "<7k",
+      "name": "Museologist: Tidy Up the Museum!"
     }
   }
 }
