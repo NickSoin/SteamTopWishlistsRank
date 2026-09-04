@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T05:04:24.707Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-04T09:58:50.321Z",
+  "entryCount": 27,
   "entries": {
     "666150": {
       "rank": 48,
@@ -38,6 +38,13 @@
       "name": "Cleo - a pirate's tale",
       "releaseDate": "2021-12-12",
       "source": "historical"
+    },
+    "1424540": {
+      "rank": 2748,
+      "estimate": "7k+",
+      "name": "The Boo Croo",
+      "releaseDate": "2026-09-04",
+      "source": "tracked"
     },
     "1431230": {
       "rank": 616,

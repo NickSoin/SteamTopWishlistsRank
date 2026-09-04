@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-04T05:04:24.707Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-04T09:58:50.321Z",
+  "entryCount": 24,
   "entries": {
     "1395380": {
-      "rank": 3866,
+      "rank": 3862,
       "estimate": "<7k",
       "name": "Evolutis: Duality"
     },
@@ -15,12 +15,12 @@
       "name": "Hostile Mars"
     },
     "1460950": {
-      "rank": 5029,
+      "rank": 5027,
       "estimate": "<7k",
       "name": "Schrodinger's Catgirl"
     },
     "2193530": {
-      "rank": 4324,
+      "rank": 4322,
       "estimate": "<7k",
       "name": "World of Titans MMORPG"
     },
@@ -30,27 +30,27 @@
       "name": "Holstin"
     },
     "2487190": {
-      "rank": 352,
+      "rank": 351,
       "estimate": "80k+",
       "name": "Main Sequence"
     },
     "2818820": {
-      "rank": 3814,
+      "rank": 3812,
       "estimate": "<7k",
       "name": "The Telwynium"
     },
     "3009720": {
-      "rank": 3482,
+      "rank": 3480,
       "estimate": "<7k",
       "name": "Baltic Folk"
     },
     "3353450": {
-      "rank": 3223,
-      "estimate": "<7k",
+      "rank": 2992,
+      "estimate": "7k+",
       "name": "Rev. NOiR"
     },
     "3527020": {
-      "rank": 5170,
+      "rank": 5167,
       "estimate": "<7k",
       "name": "Shut the windows and don't look outside"
     },
@@ -60,29 +60,24 @@
       "name": "Liquid Lungs"
     },
     "3571870": {
-      "rank": 177,
+      "rank": 176,
       "estimate": "200k+",
       "name": "Darkhaven"
     },
     "3660860": {
-      "rank": 3774,
+      "rank": 3771,
       "estimate": "<7k",
       "name": "Turnip Boy Steals the Mail"
     },
     "3676250": {
-      "rank": 3657,
+      "rank": 3655,
       "estimate": "<7k",
       "name": "Boars in Rome"
     },
     "3699910": {
-      "rank": 977,
+      "rank": 976,
       "estimate": "40k+",
       "name": "Lines of Battle"
-    },
-    "3884200": {
-      "rank": 4520,
-      "estimate": "<7k",
-      "name": "Acceptable Losses"
     },
     "3902160": {
       "rank": 2720,
@@ -90,44 +85,44 @@
       "name": "A Game About Breaking A Cube"
     },
     "3904870": {
-      "rank": 4104,
+      "rank": 4097,
       "estimate": "<7k",
       "name": "Leyla In Veil"
     },
     "4001820": {
-      "rank": 1887,
+      "rank": 1886,
       "estimate": "15k+",
       "name": "Armaphract"
     },
     "4096910": {
-      "rank": 4012,
+      "rank": 4006,
       "estimate": "<7k",
       "name": "Void Reaver"
     },
     "4267800": {
-      "rank": 2988,
+      "rank": 2985,
       "estimate": "7k+",
       "name": "Bandit Simulator TD"
     },
     "4512650": {
-      "rank": 5535,
+      "rank": 5531,
       "estimate": "<7k",
       "name": "Kitchen Sync: The Flying Tavern"
     },
     "4615580": {
-      "rank": 5028,
+      "rank": 5026,
       "estimate": "<7k",
       "name": "OVERCHESS"
     },
     "4884070": {
-      "rank": 5329,
+      "rank": 5325,
       "estimate": "<7k",
       "name": "Asobi Premium"
     },
     "4996830": {
-      "rank": 4942,
+      "rank": 4738,
       "estimate": "<7k",
-      "name": "CONQ: Crown of No Quarter"
+      "name": "CONQ: CROWN OF NO QUARTER"
     }
   }
 }

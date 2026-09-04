@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T05:04:24.707Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-04T09:58:50.321Z",
+  "entryCount": 31,
   "entries": {
     "1231560": {
       "rank": 269,
@@ -171,6 +171,13 @@
       "name": "Sisters: Last Day of Summer",
       "releaseDate": "2024-06-03",
       "source": "historical"
+    },
+    "2798330": {
+      "rank": 150,
+      "estimate": "200k+",
+      "name": "Dungeon Settlers",
+      "releaseDate": "2026-09-04",
+      "source": "tracked"
     },
     "2828710": {
       "rank": 36,
