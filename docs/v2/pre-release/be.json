@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T22:46:34.844Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-04T05:04:24.707Z",
+  "entryCount": 37,
   "entries": {
     "733110": {
       "rank": 724,
@@ -223,6 +223,13 @@
       "estimate": "7k+",
       "name": "Catio Simulator",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "3946250": {
+      "rank": 5666,
+      "estimate": "<7k",
+      "name": "痴情妹妹纱雪的兄控日记",
+      "releaseDate": "2026-09-03",
       "source": "tracked"
     },
     "3994680": {

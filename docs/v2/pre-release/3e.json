@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T22:46:34.844Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-04T05:04:24.707Z",
+  "entryCount": 40,
   "entries": {
     "690370": {
       "rank": 17,
@@ -268,6 +268,13 @@
       "estimate": "<7k",
       "name": "IronWood",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4356430": {
+      "rank": 955,
+      "estimate": "40k+",
+      "name": "NBA 2K27",
+      "releaseDate": "2026-09-04",
       "source": "tracked"
     },
     "4529100": {
