@@ -1,41 +1,46 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 21,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 23,
   "entries": {
     "395830": {
-      "rank": 859,
+      "rank": 884,
       "estimate": "40k+",
       "name": "LOW-FI"
     },
     "796530": {
-      "rank": 3001,
+      "rank": 3218,
       "estimate": "<7k",
       "name": "ALTERA"
     },
     "827210": {
-      "rank": 5084,
+      "rank": 5495,
       "estimate": "<7k",
       "name": "Death Carnival"
     },
     "1300880": {
-      "rank": 4620,
+      "rank": 4983,
       "estimate": "<7k",
       "name": "Glitchphobia"
     },
     "1354980": {
-      "rank": 1849,
+      "rank": 1951,
       "estimate": "15k+",
       "name": "Decimated"
     },
     "1503490": {
-      "rank": 2334,
+      "rank": 2479,
       "estimate": "7k+",
       "name": "FarmZone"
     },
+    "1549830": {
+      "rank": 3353,
+      "estimate": "<7k",
+      "name": "CyberPunk SEX Tower"
+    },
     "1836400": {
-      "rank": 1671,
+      "rank": 1759,
       "estimate": "15k+",
       "name": "Mossfield Origins"
     },
@@ -45,67 +50,72 @@
       "name": "WARDOGS"
     },
     "1927360": {
-      "rank": 1075,
+      "rank": 1112,
       "estimate": "25k+",
       "name": "Mira and the Legend of the Djinns"
     },
     "2161710": {
-      "rank": 52,
+      "rank": 53,
       "estimate": "300k+",
       "name": "NO LAW"
     },
     "2337180": {
-      "rank": 3403,
+      "rank": 3665,
       "estimate": "<7k",
       "name": "I NEED SPACE"
     },
     "2459840": {
-      "rank": 2851,
-      "estimate": "7k+",
+      "rank": 3041,
+      "estimate": "<7k",
       "name": "Barbarian Saga: The Beastmaster"
     },
     "2541950": {
-      "rank": 805,
+      "rank": 828,
       "estimate": "40k+",
       "name": "Sirens"
     },
     "3068720": {
-      "rank": 1000,
-      "estimate": "40k+",
+      "rank": 1031,
+      "estimate": "25k+",
       "name": "I Am Security"
     },
     "3145850": {
-      "rank": 3635,
+      "rank": 3922,
       "estimate": "<7k",
       "name": "Rootmare"
     },
     "3195150": {
-      "rank": 3929,
+      "rank": 4243,
       "estimate": "<7k",
       "name": "Clowned King"
     },
     "3444810": {
-      "rank": 4322,
+      "rank": 4666,
       "estimate": "<7k",
       "name": "Wonderfall"
     },
     "3480890": {
-      "rank": 5205,
+      "rank": 5621,
       "estimate": "<7k",
       "name": "Feudal Craft"
     },
     "3560110": {
-      "rank": 1141,
+      "rank": 1172,
       "estimate": "25k+",
       "name": "Fracture Point"
     },
     "3723830": {
-      "rank": 2678,
+      "rank": 2851,
       "estimate": "7k+",
       "name": "群魔死欲之山"
     },
+    "4135050": {
+      "rank": 4503,
+      "estimate": "<7k",
+      "name": "Kameko: Cosplay Love Story"
+    },
     "4400930": {
-      "rank": 320,
+      "rank": 322,
       "estimate": "80k+",
       "name": "Euro Truck Simulator 2 - Soul of Anatolia"
     }

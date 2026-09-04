@@ -1,38 +1,48 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 18,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 22,
   "entries": {
+    "1061280": {
+      "rank": 1783,
+      "estimate": "15k+",
+      "name": "Plastic Love"
+    },
     "1279500": {
-      "rank": 4809,
+      "rank": 5189,
       "estimate": "<7k",
       "name": "Nine Chronicles"
     },
     "1292510": {
-      "rank": 1753,
+      "rank": 1847,
       "estimate": "15k+",
       "name": "Everstorm"
     },
     "1445480": {
-      "rank": 2613,
+      "rank": 2783,
       "estimate": "7k+",
       "name": "Determinant"
     },
     "1628120": {
-      "rank": 4669,
+      "rank": 5040,
       "estimate": "<7k",
       "name": "Rollers of the Realm: Reunion"
     },
     "1806210": {
-      "rank": 5236,
+      "rank": 5653,
       "estimate": "<7k",
       "name": "Spellcraft"
     },
     "2560540": {
-      "rank": 4857,
+      "rank": 5237,
       "estimate": "<7k",
       "name": "Historia Realis: Rome"
+    },
+    "2699130": {
+      "rank": 3660,
+      "estimate": "<7k",
+      "name": "Network Euphoria"
     },
     "2769570": {
       "rank": 4,
@@ -40,22 +50,27 @@
       "name": "Fable"
     },
     "3296970": {
-      "rank": 4180,
+      "rank": 4512,
       "estimate": "<7k",
       "name": "Häxeri"
     },
     "3325610": {
-      "rank": 2421,
+      "rank": 2576,
       "estimate": "7k+",
       "name": "IDET"
     },
+    "3445640": {
+      "rank": 4118,
+      "estimate": "<7k",
+      "name": "The Edge Of - Definitive Edition"
+    },
     "3493540": {
-      "rank": 87,
+      "rank": 88,
       "estimate": "300k+",
       "name": "Transport Fever 3"
     },
     "3547270": {
-      "rank": 699,
+      "rank": 713,
       "estimate": "40k+",
       "name": "Worming from Home"
     },
@@ -65,32 +80,37 @@
       "name": "Tomb Raider: Legacy of Atlantis"
     },
     "3581140": {
-      "rank": 3072,
+      "rank": 3293,
       "estimate": "<7k",
       "name": "Clockwork Maiden"
     },
     "3591390": {
-      "rank": 3981,
+      "rank": 4298,
       "estimate": "<7k",
       "name": "Vivi and the Magical Island"
     },
     "4001430": {
-      "rank": 3359,
+      "rank": 3617,
       "estimate": "<7k",
       "name": "Seres Universalis:Three Kingdoms"
     },
     "4004820": {
-      "rank": 1253,
+      "rank": 1297,
       "estimate": "25k+",
       "name": "FreeStyle Football 2"
     },
     "4047520": {
-      "rank": 2813,
+      "rank": 3000,
       "estimate": "7k+",
       "name": "Demonbane: Ascension"
     },
+    "4279750": {
+      "rank": 3421,
+      "estimate": "<7k",
+      "name": "Magic Academy"
+    },
     "5037250": {
-      "rank": 5266,
+      "rank": 5683,
       "estimate": "<7k",
       "name": "CASE: Animatronics Redux"
     }

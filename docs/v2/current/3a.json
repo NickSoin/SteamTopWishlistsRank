@@ -1,48 +1,58 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 8,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 10,
   "entries": {
     "1280660": {
-      "rank": 2259,
+      "rank": 2401,
       "estimate": "7k+",
       "name": "Rollercoaster Mechanic"
     },
     "2377600": {
-      "rank": 3056,
+      "rank": 3279,
       "estimate": "<7k",
       "name": "Cozy Dungeons"
     },
     "3045340": {
-      "rank": 4034,
+      "rank": 4355,
       "estimate": "<7k",
       "name": "SHATTERFARMS"
     },
     "3235150": {
-      "rank": 2492,
+      "rank": 2653,
       "estimate": "7k+",
       "name": "Exile Protocol"
     },
     "3250960": {
-      "rank": 3400,
+      "rank": 3661,
       "estimate": "<7k",
       "name": "异世轮回录：If"
     },
     "3315700": {
-      "rank": 4567,
+      "rank": 4927,
       "estimate": "<7k",
       "name": "Unsound Love"
     },
     "3438920": {
-      "rank": 233,
+      "rank": 235,
       "estimate": "80k+",
       "name": "VOID DIVER: Escape from the Abyss"
     },
     "3654740": {
-      "rank": 3391,
+      "rank": 3651,
       "estimate": "<7k",
       "name": "Stardream"
+    },
+    "4439560": {
+      "rank": 2297,
+      "estimate": "7k+",
+      "name": "Lustrya"
+    },
+    "4511770": {
+      "rank": 5033,
+      "estimate": "<7k",
+      "name": "Rent a Boyfriend"
     }
   }
 }

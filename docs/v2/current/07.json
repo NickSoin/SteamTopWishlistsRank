@@ -1,81 +1,91 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 15,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 17,
   "entries": {
     "665720": {
-      "rank": 4681,
+      "rank": 5054,
       "estimate": "<7k",
       "name": "SOULBREAKER"
     },
     "1291070": {
-      "rank": 4471,
+      "rank": 4825,
       "estimate": "<7k",
       "name": "GDevelop"
     },
     "1725980": {
-      "rank": 1835,
+      "rank": 1934,
       "estimate": "15k+",
       "name": "Godshard Chronicles"
     },
     "1751820": {
-      "rank": 4572,
+      "rank": 4931,
       "estimate": "<7k",
       "name": "Project OutFox"
     },
     "1948420": {
-      "rank": 3181,
+      "rank": 3420,
       "estimate": "<7k",
       "name": "Center Mass: Streets of Ramadi"
     },
     "2434830": {
-      "rank": 576,
+      "rank": 583,
       "estimate": "40k+",
       "name": "Surfpunk"
     },
     "2446620": {
-      "rank": 2472,
+      "rank": 2629,
       "estimate": "7k+",
       "name": "Communite"
     },
     "2449690": {
-      "rank": 5151,
+      "rank": 5564,
       "estimate": "<7k",
       "name": "Underdose"
     },
     "2451040": {
-      "rank": 1496,
-      "estimate": "25k+",
+      "rank": 1564,
+      "estimate": "15k+",
       "name": "Scarlet Lake"
     },
     "2962320": {
-      "rank": 1497,
-      "estimate": "25k+",
+      "rank": 1566,
+      "estimate": "15k+",
       "name": "Artificial Detective"
     },
+    "2962470": {
+      "rank": 1068,
+      "estimate": "25k+",
+      "name": "Corruption of Belrand - Princess Knight Lysithea"
+    },
     "2964560": {
-      "rank": 1326,
+      "rank": 1378,
       "estimate": "25k+",
       "name": "Happy Bastards"
     },
     "3174780": {
-      "rank": 1353,
+      "rank": 1408,
       "estimate": "25k+",
       "name": "Deaths Of Peck"
     },
+    "3222250": {
+      "rank": 4808,
+      "estimate": "<7k",
+      "name": "Nudist College"
+    },
     "3802140": {
-      "rank": 553,
+      "rank": 560,
       "estimate": "40k+",
       "name": "Cassette Beasts 2002"
     },
     "3883910": {
-      "rank": 624,
+      "rank": 634,
       "estimate": "40k+",
       "name": "La Divina Commedia"
     },
     "4402330": {
-      "rank": 1660,
+      "rank": 1747,
       "estimate": "15k+",
       "name": "The 9th Dragon"
     }

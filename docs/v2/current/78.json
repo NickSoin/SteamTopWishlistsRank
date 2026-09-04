@@ -1,71 +1,81 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 13,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 15,
   "entries": {
     "1536910": {
-      "rank": 3108,
+      "rank": 3336,
       "estimate": "<7k",
       "name": "Snow Plow"
     },
     "2011180": {
-      "rank": 5032,
+      "rank": 5431,
       "estimate": "<7k",
       "name": "Terminus Historia"
     },
     "2141160": {
-      "rank": 1095,
+      "rank": 1131,
       "estimate": "25k+",
       "name": "Alien Deathstorm"
     },
     "2617870": {
-      "rank": 3306,
+      "rank": 3560,
       "estimate": "<7k",
       "name": "PSYCHOFINGER"
     },
     "2706790": {
-      "rank": 2359,
+      "rank": 2505,
       "estimate": "7k+",
       "name": "Quantic River"
     },
     "3356660": {
-      "rank": 953,
+      "rank": 982,
       "estimate": "40k+",
       "name": "Game Quest: The Backlog Battler"
     },
     "3489070": {
-      "rank": 4116,
+      "rank": 4444,
       "estimate": "<7k",
       "name": "Cozy Beach"
     },
+    "3584290": {
+      "rank": 3669,
+      "estimate": "<7k",
+      "name": "Falling Undercover: Nox Syndicate"
+    },
     "3617080": {
-      "rank": 4708,
+      "rank": 5080,
       "estimate": "<7k",
       "name": "Short Short Fictions"
     },
     "3715690": {
-      "rank": 3741,
+      "rank": 4037,
       "estimate": "<7k",
       "name": "Rogue Rollers"
     },
     "4036130": {
-      "rank": 3651,
+      "rank": 3942,
       "estimate": "<7k",
       "name": "Mecha Force"
     },
     "4315770": {
-      "rank": 5250,
+      "rank": 5668,
       "estimate": "<7k",
       "name": "FlowTrak"
     },
+    "4358140": {
+      "rank": 2385,
+      "estimate": "7k+",
+      "name": "To the Wives Who Were Heroes"
+    },
     "4553110": {
-      "rank": 4967,
+      "rank": 5356,
       "estimate": "<7k",
       "name": "NEVER LOOK BACK"
     },
     "4821880": {
-      "rank": 793,
+      "rank": 809,
       "estimate": "40k+",
       "name": "Roco Kingdom"
     }

@@ -1,78 +1,93 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 14,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 17,
   "entries": {
     "1060850": {
-      "rank": 4578,
+      "rank": 4937,
       "estimate": "<7k",
       "name": "Spleen"
     },
     "1215940": {
-      "rank": 512,
+      "rank": 519,
       "estimate": "40k+",
       "name": "Forever Ago"
     },
     "1334230": {
-      "rank": 1913,
-      "estimate": "15k+",
+      "rank": 2024,
+      "estimate": "7k+",
       "name": "Revolution: The Spark"
     },
     "2185510": {
-      "rank": 408,
+      "rank": 412,
       "estimate": "80k+",
       "name": "TOUCHSTARVED"
     },
+    "2203290": {
+      "rank": 376,
+      "estimate": "80k+",
+      "name": "KaiJu Girls"
+    },
     "2346870": {
-      "rank": 792,
+      "rank": 814,
       "estimate": "40k+",
       "name": "The Big Lez Video Game"
     },
     "2517940": {
-      "rank": 1089,
+      "rank": 1125,
       "estimate": "25k+",
       "name": "Century of Steam"
     },
+    "2528410": {
+      "rank": 826,
+      "estimate": "40k+",
+      "name": "Price for Freedom: Gold and Sand"
+    },
     "2576350": {
-      "rank": 5052,
+      "rank": 5452,
       "estimate": "<7k",
       "name": "Mansion of Memories: Prologue"
     },
     "2588830": {
-      "rank": 3803,
+      "rank": 4107,
       "estimate": "<7k",
       "name": "FATHER"
     },
     "2591630": {
-      "rank": 1354,
+      "rank": 1409,
       "estimate": "25k+",
       "name": "The Edge of Water"
     },
     "2697620": {
-      "rank": 1202,
+      "rank": 1245,
       "estimate": "25k+",
       "name": "Combo Devils"
     },
     "3226830": {
-      "rank": 2575,
+      "rank": 2740,
       "estimate": "7k+",
       "name": "Canvas City"
     },
     "3338980": {
-      "rank": 4013,
+      "rank": 4320,
       "estimate": "<7k",
       "name": "Ichor Online"
     },
     "3456660": {
-      "rank": 1890,
+      "rank": 2000,
       "estimate": "15k+",
       "name": "PAYDAY: Aces High"
     },
     "3685330": {
-      "rank": 4370,
+      "rank": 4719,
       "estimate": "<7k",
       "name": "Orbifold"
+    },
+    "4235550": {
+      "rank": 3775,
+      "estimate": "<7k",
+      "name": "Lust Drive"
     }
   }
 }

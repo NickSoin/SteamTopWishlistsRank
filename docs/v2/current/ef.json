@@ -1,46 +1,51 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 22,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 24,
   "entries": {
     "1659360": {
-      "rank": 997,
-      "estimate": "40k+",
+      "rank": 1028,
+      "estimate": "25k+",
       "name": "Townseek"
     },
+    "1778300": {
+      "rank": 2280,
+      "estimate": "7k+",
+      "name": "Fallen Saint"
+    },
     "1839980": {
-      "rank": 3751,
+      "rank": 4048,
       "estimate": "<7k",
       "name": "Gloomy Juncture"
     },
     "1975640": {
-      "rank": 4431,
+      "rank": 4783,
       "estimate": "<7k",
       "name": "Fast Food On The Beach!"
     },
     "2216850": {
-      "rank": 3903,
+      "rank": 4211,
       "estimate": "<7k",
       "name": "Battle Vision"
     },
     "2271570": {
-      "rank": 2952,
-      "estimate": "7k+",
+      "rank": 3158,
+      "estimate": "<7k",
       "name": "REFLEXIA"
     },
     "2593290": {
-      "rank": 509,
+      "rank": 514,
       "estimate": "40k+",
       "name": "Dragon's Dogma 2: Dark Arisen Expansion"
     },
     "2760720": {
-      "rank": 2868,
-      "estimate": "7k+",
+      "rank": 3059,
+      "estimate": "<7k",
       "name": "Bestiario"
     },
     "2798330": {
-      "rank": 155,
+      "rank": 156,
       "estimate": "200k+",
       "name": "Dungeon Settlers"
     },
@@ -50,68 +55,73 @@
       "name": "Valor Mortis"
     },
     "2869850": {
-      "rank": 895,
+      "rank": 923,
       "estimate": "40k+",
       "name": "Lorn Vale"
     },
     "3384820": {
-      "rank": 4216,
+      "rank": 4556,
       "estimate": "<7k",
       "name": "Broken Relic"
     },
     "3437690": {
-      "rank": 4118,
+      "rank": 4445,
       "estimate": "<7k",
       "name": "Project Red Sun"
     },
     "3626540": {
-      "rank": 4753,
+      "rank": 5125,
       "estimate": "<7k",
       "name": "Cinderline"
     },
     "3709760": {
-      "rank": 5061,
+      "rank": 5465,
       "estimate": "<7k",
       "name": "Cozy Potions: The Alchemist's Shop"
     },
     "3749870": {
-      "rank": 443,
+      "rank": 447,
       "estimate": "80k+",
       "name": "American Truck Simulator - South Dakota"
     },
     "3830080": {
-      "rank": 4827,
+      "rank": 5207,
       "estimate": "<7k",
       "name": "Twilight Requiem"
     },
     "3867130": {
-      "rank": 855,
+      "rank": 880,
       "estimate": "40k+",
       "name": "Rance 01 + 02"
     },
     "3873360": {
-      "rank": 4041,
+      "rank": 4362,
       "estimate": "<7k",
       "name": "Chumaky"
     },
     "4008840": {
-      "rank": 3747,
+      "rank": 4043,
       "estimate": "<7k",
       "name": "Erehwon(エレフォーン)"
     },
+    "4027010": {
+      "rank": 4457,
+      "estimate": "<7k",
+      "name": "Lewd Remedy"
+    },
     "4176460": {
-      "rank": 804,
+      "rank": 827,
       "estimate": "40k+",
       "name": "Dungeons of DUSK"
     },
     "4425140": {
-      "rank": 2293,
+      "rank": 2436,
       "estimate": "7k+",
       "name": "Welcome, Dear Human"
     },
     "4595980": {
-      "rank": 2893,
-      "estimate": "7k+",
+      "rank": 3090,
+      "estimate": "<7k",
       "name": "Ship or Burn! Coop express"
     }
   }

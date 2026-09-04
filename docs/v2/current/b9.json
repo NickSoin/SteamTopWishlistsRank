@@ -1,133 +1,153 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 29,
   "entries": {
     "1066740": {
-      "rank": 1820,
+      "rank": 1918,
       "estimate": "15k+",
       "name": "Mercyful Flames: The Witches"
     },
     "1159150": {
-      "rank": 1706,
+      "rank": 1795,
       "estimate": "15k+",
       "name": "BOC: Birth of Cultures"
     },
     "1571260": {
-      "rank": 2810,
+      "rank": 2999,
       "estimate": "7k+",
       "name": "fault - milestone two side: below"
     },
     "2168070": {
-      "rank": 1047,
+      "rank": 1082,
       "estimate": "25k+",
       "name": "Sorceress"
     },
     "2366250": {
-      "rank": 2939,
-      "estimate": "7k+",
+      "rank": 3138,
+      "estimate": "<7k",
       "name": "American Airport Simulator"
     },
     "2368490": {
-      "rank": 2814,
-      "estimate": "7k+",
+      "rank": 3003,
+      "estimate": "<7k",
       "name": "Montaro 2"
     },
     "2397320": {
-      "rank": 677,
+      "rank": 693,
       "estimate": "40k+",
       "name": "Bus Simulator 27"
     },
     "2440350": {
-      "rank": 2468,
+      "rank": 2621,
       "estimate": "7k+",
       "name": "Keikaku計画"
     },
     "2585710": {
-      "rank": 2331,
+      "rank": 2476,
       "estimate": "7k+",
       "name": "Curiosmos"
     },
     "2743260": {
-      "rank": 3484,
+      "rank": 3753,
       "estimate": "<7k",
       "name": "Nowhere"
     },
+    "2848220": {
+      "rank": 1257,
+      "estimate": "25k+",
+      "name": "Lashes of the Sea"
+    },
     "3055670": {
-      "rank": 205,
+      "rank": 206,
       "estimate": "80k+",
       "name": "Risk of Rain 2: Hallowed Concepts"
     },
     "3160570": {
-      "rank": 2471,
+      "rank": 2626,
       "estimate": "7k+",
       "name": "Runeomicon"
     },
     "3281970": {
-      "rank": 479,
+      "rank": 485,
       "estimate": "80k+",
       "name": "Deep Snow Delivery"
     },
     "3359110": {
-      "rank": 2504,
+      "rank": 2663,
       "estimate": "7k+",
       "name": "Total Victory: World Conflict 1939-1945"
     },
+    "3392230": {
+      "rank": 3921,
+      "estimate": "<7k",
+      "name": "Sekira"
+    },
     "3417760": {
-      "rank": 4047,
+      "rank": 4372,
       "estimate": "<7k",
       "name": "Angstraum"
     },
     "3449370": {
-      "rank": 1552,
+      "rank": 1625,
       "estimate": "15k+",
       "name": "VANRAN"
     },
     "3613050": {
-      "rank": 1927,
-      "estimate": "15k+",
+      "rank": 2038,
+      "estimate": "7k+",
       "name": "Gravebound"
     },
     "3936270": {
-      "rank": 2305,
+      "rank": 2447,
       "estimate": "7k+",
       "name": "It's Fine"
     },
     "3993370": {
-      "rank": 1506,
+      "rank": 1575,
       "estimate": "15k+",
       "name": "Grand Pro Circuit"
     },
+    "4005870": {
+      "rank": 643,
+      "estimate": "40k+",
+      "name": "FreshWomen - Season 3"
+    },
     "4006130": {
-      "rank": 2528,
+      "rank": 2691,
       "estimate": "7k+",
       "name": "Under The Rooftop"
     },
     "4018380": {
-      "rank": 769,
+      "rank": 791,
       "estimate": "40k+",
       "name": "Chronoscript: The Endless End"
     },
     "4330750": {
-      "rank": 5108,
+      "rank": 5514,
       "estimate": "<7k",
       "name": "Tiny Ramen Shop"
     },
     "4523820": {
-      "rank": 3936,
+      "rank": 4250,
       "estimate": "<7k",
       "name": "Broken Dagger"
     },
     "4556190": {
-      "rank": 3087,
+      "rank": 3306,
       "estimate": "<7k",
       "name": "Bye Bye Bonnie"
     },
     "4692380": {
-      "rank": 4730,
+      "rank": 5103,
       "estimate": "<7k",
       "name": "Invariant"
+    },
+    "5013380": {
+      "rank": 5641,
+      "estimate": "<7k",
+      "name": "The Battle Of Olympus"
     }
   }
 }

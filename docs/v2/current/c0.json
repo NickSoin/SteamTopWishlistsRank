@@ -1,71 +1,76 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 23,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 25,
   "entries": {
     "888780": {
-      "rank": 379,
+      "rank": 383,
       "estimate": "80k+",
       "name": "Adapt"
     },
     "1015370": {
-      "rank": 2716,
+      "rank": 2892,
       "estimate": "7k+",
       "name": "eXpanSIM"
     },
     "1518330": {
-      "rank": 1276,
+      "rank": 1321,
       "estimate": "25k+",
       "name": "Pirate Simulator"
     },
     "1545080": {
-      "rank": 2489,
+      "rank": 2650,
       "estimate": "7k+",
       "name": "Arran: The Book of Heroes"
     },
+    "1574130": {
+      "rank": 3144,
+      "estimate": "<7k",
+      "name": "The Ruins of Vagastia"
+    },
     "1835570": {
-      "rank": 3816,
+      "rank": 4119,
       "estimate": "<7k",
       "name": "BioCrisis : Return 2 the Lab"
     },
     "1853440": {
-      "rank": 239,
+      "rank": 241,
       "estimate": "80k+",
       "name": "Tropico 7"
     },
     "1983910": {
-      "rank": 1958,
-      "estimate": "15k+",
+      "rank": 2071,
+      "estimate": "7k+",
       "name": "Prison Survival: Architect of Crime Simulator"
     },
     "2026450": {
-      "rank": 3140,
+      "rank": 3378,
       "estimate": "<7k",
       "name": "Stunt Derby"
     },
     "2106730": {
-      "rank": 923,
+      "rank": 951,
       "estimate": "40k+",
       "name": "Phantom Hellcat"
     },
     "3156020": {
-      "rank": 1488,
-      "estimate": "25k+",
+      "rank": 1557,
+      "estimate": "15k+",
       "name": "Gloomveil"
     },
     "3251280": {
-      "rank": 1943,
-      "estimate": "15k+",
+      "rank": 2056,
+      "estimate": "7k+",
       "name": "Rivals Hover League"
     },
     "3520410": {
-      "rank": 2161,
+      "rank": 2291,
       "estimate": "7k+",
       "name": "10hit"
     },
     "3579070": {
-      "rank": 2385,
+      "rank": 2534,
       "estimate": "7k+",
       "name": "Disposable Corps: Tactical Trench Warfare"
     },
@@ -75,12 +80,12 @@
       "name": "CONTROL Resonant"
     },
     "3760360": {
-      "rank": 3999,
+      "rank": 4318,
       "estimate": "<7k",
       "name": "My Little Farm"
     },
     "3851260": {
-      "rank": 272,
+      "rank": 274,
       "estimate": "80k+",
       "name": "Euro Truck Simulator 2 - Isle of Ireland"
     },
@@ -90,32 +95,37 @@
       "name": "Rules of Engagement: The Grey State"
     },
     "3994840": {
-      "rank": 5111,
+      "rank": 5525,
       "estimate": "<7k",
       "name": "The Whisker Watch"
     },
+    "4120350": {
+      "rank": 4595,
+      "estimate": "<7k",
+      "name": "The Power of Truth - Book 1"
+    },
     "4178100": {
-      "rank": 1331,
+      "rank": 1384,
       "estimate": "25k+",
       "name": "Whiskers Tale"
     },
     "4210060": {
-      "rank": 227,
+      "rank": 230,
       "estimate": "80k+",
       "name": "ZERO Sievert 2"
     },
     "4465790": {
-      "rank": 384,
+      "rank": 388,
       "estimate": "80k+",
       "name": "Deadzone Rogue 2"
     },
     "4536920": {
-      "rank": 4885,
+      "rank": 5267,
       "estimate": "<7k",
       "name": "Cards & Cannons"
     },
     "4709120": {
-      "rank": 2378,
+      "rank": 2528,
       "estimate": "7k+",
       "name": "METAXIA"
     }

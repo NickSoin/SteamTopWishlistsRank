@@ -1,125 +1,130 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 23,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 24,
   "entries": {
     "565760": {
-      "rank": 4555,
+      "rank": 4914,
       "estimate": "<7k",
       "name": "Escape the Loop"
     },
     "1551980": {
-      "rank": 147,
+      "rank": 148,
       "estimate": "200k+",
       "name": "Clive Barker's Hellraiser: Revival"
     },
     "1606970": {
-      "rank": 811,
+      "rank": 834,
       "estimate": "40k+",
       "name": "Ronin Trail"
     },
     "1899550": {
-      "rank": 2341,
+      "rank": 2487,
       "estimate": "7k+",
       "name": "Knights of the Deep"
     },
     "1977610": {
-      "rank": 154,
+      "rank": 155,
       "estimate": "200k+",
       "name": "Long Gone",
       "actualWishlists": 200000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1808601382522882"
     },
     "1979810": {
-      "rank": 496,
-      "estimate": "80k+",
+      "rank": 503,
+      "estimate": "40k+",
       "name": "AdventureQuest Worlds: Infinity"
     },
     "2211630": {
-      "rank": 1784,
+      "rank": 1880,
       "estimate": "15k+",
       "name": "Duskers 2.0"
     },
     "2538300": {
-      "rank": 4406,
+      "rank": 4756,
       "estimate": "<7k",
       "name": "SCP: Contamination"
     },
     "2749070": {
-      "rank": 2340,
+      "rank": 2485,
       "estimate": "7k+",
       "name": "Sword and Fairy: Far Beyond Time"
     },
     "2791970": {
-      "rank": 2663,
+      "rank": 2837,
       "estimate": "7k+",
       "name": "Delivery Driver Service"
     },
     "2809220": {
-      "rank": 1749,
+      "rank": 1842,
       "estimate": "15k+",
       "name": "Entropos"
     },
     "2985520": {
-      "rank": 2485,
+      "rank": 2642,
       "estimate": "7k+",
       "name": "The Player Who Can't Level Up"
     },
     "3137010": {
-      "rank": 5029,
+      "rank": 5426,
       "estimate": "<7k",
       "name": "Meat Engine"
     },
     "3241560": {
-      "rank": 4829,
+      "rank": 5208,
       "estimate": "<7k",
       "name": "Tossdown"
     },
     "3564490": {
-      "rank": 303,
+      "rank": 305,
       "estimate": "80k+",
       "name": "Hell Express"
     },
     "3596730": {
-      "rank": 3257,
+      "rank": 3508,
       "estimate": "<7k",
       "name": "Painted Kingdoms: Tower Defense & Firefighting"
     },
     "3620240": {
-      "rank": 5115,
+      "rank": 5524,
       "estimate": "<7k",
       "name": "Yots"
     },
     "3722850": {
-      "rank": 4238,
+      "rank": 4579,
       "estimate": "<7k",
       "name": "Desktropolis"
     },
     "3765640": {
-      "rank": 328,
+      "rank": 330,
       "estimate": "80k+",
       "name": "Car For Sale Together"
     },
     "3910750": {
-      "rank": 3728,
+      "rank": 4025,
       "estimate": "<7k",
       "name": "DONUT PANIC"
     },
     "3955960": {
-      "rank": 4886,
+      "rank": 5269,
       "estimate": "<7k",
       "name": "Chant Wizard"
     },
     "4259360": {
-      "rank": 679,
+      "rank": 695,
       "estimate": "40k+",
       "name": "Milki Delivery"
     },
     "4327300": {
-      "rank": 2016,
+      "rank": 2134,
       "estimate": "7k+",
       "name": "Silicon Gate"
+    },
+    "4739040": {
+      "rank": 461,
+      "estimate": "80k+",
+      "name": "DISCIPLINE SIMULATOR"
     }
   }
 }

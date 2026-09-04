@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 27,
   "entries": {
     "526870": {
       "rank": 16,
@@ -174,6 +174,13 @@
       "estimate": "15k+",
       "name": "FEAR OF FAITH",
       "releaseDate": "2026-08-21",
+      "source": "tracked"
+    },
+    "4402820": {
+      "rank": 7200,
+      "estimate": "<7k",
+      "name": "WuLin Showdown",
+      "releaseDate": "2026-09-03",
       "source": "tracked"
     },
     "4534000": {

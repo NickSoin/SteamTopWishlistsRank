@@ -1,83 +1,93 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 15,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 17,
   "entries": {
     "1167110": {
-      "rank": 2265,
+      "rank": 2406,
       "estimate": "7k+",
       "name": "Rubi: The Wayward Mira"
     },
     "1545510": {
-      "rank": 2931,
-      "estimate": "7k+",
+      "rank": 3132,
+      "estimate": "<7k",
       "name": "Camping Builder"
     },
     "2197370": {
-      "rank": 4515,
+      "rank": 4872,
       "estimate": "<7k",
       "name": "Reversed Front"
     },
     "2241660": {
-      "rank": 3348,
+      "rank": 3603,
       "estimate": "<7k",
       "name": "SESSIONS"
     },
     "2359600": {
-      "rank": 195,
+      "rank": 196,
       "estimate": "200k+",
       "name": "Perfect New World"
     },
     "2360820": {
-      "rank": 1551,
+      "rank": 1623,
       "estimate": "15k+",
       "name": "Tempus Vitae"
     },
     "2978690": {
-      "rank": 2799,
+      "rank": 2986,
       "estimate": "7k+",
       "name": "Poolrooms"
     },
     "3276270": {
-      "rank": 1542,
+      "rank": 1615,
       "estimate": "15k+",
       "name": "Fallen Fates"
     },
     "3432980": {
-      "rank": 1510,
+      "rank": 1579,
       "estimate": "15k+",
       "name": "Ballistic.exe"
     },
     "3517740": {
-      "rank": 91,
+      "rank": 92,
       "estimate": "300k+",
       "name": "Frostrail"
     },
+    "3944490": {
+      "rank": 2200,
+      "estimate": "7k+",
+      "name": "Roll to Seduce"
+    },
     "4113790": {
-      "rank": 4036,
+      "rank": 4356,
       "estimate": "<7k",
       "name": "Floral Flowlove"
     },
     "4119600": {
-      "rank": 3782,
+      "rank": 4082,
       "estimate": "<7k",
       "name": "UK Politics Simulator"
     },
     "4245590": {
-      "rank": 4092,
+      "rank": 4420,
       "estimate": "<7k",
       "name": "Cupid Parasite"
     },
     "4337710": {
-      "rank": 2186,
+      "rank": 2322,
       "estimate": "7k+",
       "name": "The Abased"
     },
     "4681770": {
-      "rank": 2592,
+      "rank": 2756,
       "estimate": "7k+",
       "name": "Everfront"
+    },
+    "4956920": {
+      "rank": 3694,
+      "estimate": "<7k",
+      "name": "Thicc Magic. Elves' Perverted Beauty Standards.gif"
     }
   }
 }

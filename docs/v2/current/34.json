@@ -1,88 +1,93 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 16,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 17,
   "entries": {
     "1244600": {
-      "rank": 3023,
+      "rank": 3242,
       "estimate": "<7k",
       "name": "Let's Drive - learn driving simulator"
     },
     "2817960": {
-      "rank": 4444,
+      "rank": 4796,
       "estimate": "<7k",
       "name": "Button Man"
     },
     "2960460": {
-      "rank": 580,
+      "rank": 587,
       "estimate": "40k+",
       "name": "Spaceflight Simulator 2"
     },
     "3078760": {
-      "rank": 740,
+      "rank": 760,
       "estimate": "40k+",
       "name": "LIVING HELL"
     },
     "3079190": {
-      "rank": 193,
+      "rank": 194,
       "estimate": "200k+",
       "name": "PACS - Post Apocalypse Courier Service: Co-op Delivery Simulator"
     },
     "3355360": {
-      "rank": 276,
+      "rank": 278,
       "estimate": "80k+",
       "name": "4:LOOP"
     },
     "3395320": {
-      "rank": 1566,
+      "rank": 1642,
       "estimate": "15k+",
       "name": "Critical Shift"
     },
     "3485580": {
-      "rank": 1839,
+      "rank": 1940,
       "estimate": "15k+",
       "name": "Bodybuilder Simulator CO-OP"
     },
     "3610210": {
-      "rank": 2729,
+      "rank": 2906,
       "estimate": "7k+",
       "name": "Klostyn"
     },
     "3623050": {
-      "rank": 4918,
+      "rank": 5301,
       "estimate": "<7k",
       "name": "Ending the Happy Route"
     },
     "3788160": {
-      "rank": 860,
+      "rank": 881,
       "estimate": "40k+",
       "name": "Terminal War"
     },
     "3950440": {
-      "rank": 2188,
+      "rank": 2324,
       "estimate": "7k+",
       "name": "Lootbane"
     },
     "4107960": {
-      "rank": 3462,
+      "rank": 3729,
       "estimate": "<7k",
       "name": ".curator"
     },
     "4221990": {
-      "rank": 3675,
+      "rank": 3960,
       "estimate": "<7k",
       "name": "Fish Lab"
     },
     "4455810": {
-      "rank": 4867,
+      "rank": 5013,
       "estimate": "<7k",
       "name": "WPCA: World Phasebound Control Authority"
     },
     "4588510": {
-      "rank": 1970,
-      "estimate": "15k+",
+      "rank": 2085,
+      "estimate": "7k+",
       "name": "Mayday Vacay"
+    },
+    "4689620": {
+      "rank": 5060,
+      "estimate": "<7k",
+      "name": "The Adored Marriage"
     }
   }
 }

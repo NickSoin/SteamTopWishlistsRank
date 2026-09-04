@@ -1,71 +1,81 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 13,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 15,
   "entries": {
     "563530": {
-      "rank": 3931,
+      "rank": 4245,
       "estimate": "<7k",
       "name": "Insatia"
     },
     "1251960": {
-      "rank": 3915,
+      "rank": 4224,
       "estimate": "<7k",
       "name": "Deathtrap Dungeon: The Golden Room"
     },
     "1566440": {
-      "rank": 3993,
+      "rank": 4311,
       "estimate": "<7k",
       "name": "Lords of Nether"
     },
     "2374990": {
-      "rank": 5057,
+      "rank": 5459,
       "estimate": "<7k",
       "name": "Primeval Horizon"
     },
     "2493130": {
-      "rank": 1924,
-      "estimate": "15k+",
+      "rank": 2035,
+      "estimate": "7k+",
       "name": "Train Planet"
     },
     "2981400": {
-      "rank": 1401,
+      "rank": 1463,
       "estimate": "25k+",
       "name": "Middle Ages: Peasants & Knights"
     },
     "3325070": {
-      "rank": 846,
+      "rank": 871,
       "estimate": "40k+",
       "name": "Forest Reigns"
     },
     "3383030": {
-      "rank": 3774,
+      "rank": 4072,
       "estimate": "<7k",
       "name": "Immortal Path(星河仙道)"
     },
     "3411810": {
-      "rank": 1005,
+      "rank": 1037,
       "estimate": "25k+",
       "name": "Cobra Strike"
     },
     "3453900": {
-      "rank": 4880,
+      "rank": 5261,
       "estimate": "<7k",
       "name": "Micromega"
     },
+    "4314240": {
+      "rank": 3199,
+      "estimate": "<7k",
+      "name": "OnlyVans"
+    },
     "4425120": {
-      "rank": 2511,
+      "rank": 2670,
       "estimate": "7k+",
       "name": "Greetings from El Rey"
     },
     "4433800": {
-      "rank": 2510,
+      "rank": 2668,
       "estimate": "7k+",
       "name": "There Is No Next Stop"
     },
+    "4730620": {
+      "rank": 3349,
+      "estimate": "<7k",
+      "name": "The Rope Knight"
+    },
     "4752390": {
-      "rank": 3584,
+      "rank": 3863,
       "estimate": "<7k",
       "name": "Panic 64"
     }

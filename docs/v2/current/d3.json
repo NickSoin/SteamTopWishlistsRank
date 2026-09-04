@@ -1,81 +1,91 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 15,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 17,
   "entries": {
     "1154960": {
-      "rank": 540,
+      "rank": 547,
       "estimate": "40k+",
       "name": "Ardenfall"
     },
     "1205570": {
-      "rank": 4063,
+      "rank": 4385,
       "estimate": "<7k",
       "name": "Adventures of Ruby Rabbit"
     },
     "1415230": {
-      "rank": 909,
+      "rank": 936,
       "estimate": "40k+",
       "name": "For The Stars"
     },
     "1505940": {
-      "rank": 664,
+      "rank": 680,
       "estimate": "40k+",
       "name": "Orc Warchief: Strategy Story"
     },
     "1852510": {
-      "rank": 1999,
-      "estimate": "15k+",
+      "rank": 2116,
+      "estimate": "7k+",
       "name": "Corsairs Legacy: Naval Mission - Pirate Action RPG"
     },
     "2514620": {
-      "rank": 1691,
+      "rank": 1780,
       "estimate": "15k+",
       "name": "Touhou Dungeon Maker: The labyrinth of heart"
     },
     "2801940": {
-      "rank": 2343,
+      "rank": 2488,
       "estimate": "7k+",
       "name": "Scavenger T.O.M"
     },
     "2957360": {
-      "rank": 339,
+      "rank": 342,
       "estimate": "80k+",
       "name": "NIGHTMARE OPERATOR"
     },
+    "3196120": {
+      "rank": 2690,
+      "estimate": "7k+",
+      "name": "Mahjong, Sex & Girls"
+    },
     "3277520": {
-      "rank": 4550,
+      "rank": 4908,
       "estimate": "<7k",
       "name": "Berserker's Domain"
     },
     "3405880": {
-      "rank": 554,
+      "rank": 561,
       "estimate": "40k+",
       "name": "MR DONALD"
     },
     "3453490": {
-      "rank": 1637,
+      "rank": 1721,
       "estimate": "15k+",
       "name": "Rootbound"
     },
     "3606780": {
-      "rank": 2149,
+      "rank": 2276,
       "estimate": "7k+",
       "name": "Chunky JUMP!"
     },
     "3668850": {
-      "rank": 444,
+      "rank": 448,
       "estimate": "80k+",
       "name": "Suikoden STAR LEAP"
     },
+    "4200460": {
+      "rank": 4842,
+      "estimate": "<7k",
+      "name": "Little Red: Caught on Tape"
+    },
     "4318080": {
-      "rank": 3187,
+      "rank": 3430,
       "estimate": "<7k",
       "name": "ALTEREDBLOOD+ [AB+]"
     },
     "4603230": {
-      "rank": 2297,
+      "rank": 2440,
       "estimate": "7k+",
       "name": "HEADCUTTER"
     }

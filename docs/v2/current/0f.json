@@ -1,36 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-03T19:08:05.987Z",
-  "entryCount": 21,
+  "updatedAt": "2026-09-03T22:46:34.844Z",
+  "entryCount": 22,
   "entries": {
     "1170580": {
-      "rank": 2110,
+      "rank": 2234,
       "estimate": "7k+",
       "name": "Acid Knife"
     },
     "1737370": {
-      "rank": 3578,
+      "rank": 3859,
       "estimate": "<7k",
       "name": "Jurassic Architect"
     },
+    "1871650": {
+      "rank": 4492,
+      "estimate": "<7k",
+      "name": "Doki Doki Tri-Line Quest"
+    },
     "1872970": {
-      "rank": 734,
+      "rank": 753,
       "estimate": "40k+",
       "name": "Food Truck Empire"
     },
     "1931820": {
-      "rank": 3928,
+      "rank": 4242,
       "estimate": "<7k",
       "name": "The Backrooms VR Co-op Horror Game"
     },
     "2058960": {
-      "rank": 1555,
+      "rank": 1630,
       "estimate": "15k+",
       "name": "Earthless"
     },
     "2088020": {
-      "rank": 524,
+      "rank": 532,
       "estimate": "40k+",
       "name": "UNDEFEATED: Genesis"
     },
@@ -40,73 +45,73 @@
       "name": "FINAL FANTASY RESONANCE"
     },
     "3324800": {
-      "rank": 3522,
+      "rank": 3795,
       "estimate": "<7k",
       "name": "Shout & Shoot"
     },
     "3352140": {
-      "rank": 2020,
+      "rank": 2138,
       "estimate": "7k+",
       "name": "Satellite Odyssey: Jupiter"
     },
     "3401570": {
-      "rank": 2601,
+      "rank": 2767,
       "estimate": "7k+",
       "name": "Abyss Ring"
     },
     "3440740": {
-      "rank": 3332,
+      "rank": 3586,
       "estimate": "<7k",
       "name": "Disc Creatures WORLD"
     },
     "3454860": {
-      "rank": 3542,
+      "rank": 3818,
       "estimate": "<7k",
       "name": "Clerks and Quirks"
     },
     "3574740": {
-      "rank": 4107,
+      "rank": 4434,
       "estimate": "<7k",
       "name": "MEMOREUM"
     },
     "3602270": {
-      "rank": 835,
+      "rank": 859,
       "estimate": "40k+",
       "name": "Whisk"
     },
     "3628050": {
-      "rank": 2923,
-      "estimate": "7k+",
+      "rank": 3123,
+      "estimate": "<7k",
       "name": "Tamara"
     },
     "3789830": {
-      "rank": 3621,
+      "rank": 3906,
       "estimate": "<7k",
       "name": "Mistwilds"
     },
     "4022970": {
-      "rank": 4179,
+      "rank": 4514,
       "estimate": "<7k",
       "name": "Infinity Rising"
     },
     "4293020": {
-      "rank": 5028,
+      "rank": 5424,
       "estimate": "<7k",
       "name": "Cousin's Playtime"
     },
     "4466790": {
-      "rank": 3218,
+      "rank": 3464,
       "estimate": "<7k",
       "name": "Puerto Rico Racing: La Fiebre"
     },
     "4546760": {
-      "rank": 3710,
+      "rank": 4006,
       "estimate": "<7k",
       "name": "SOE 64"
     },
     "4746630": {
-      "rank": 1465,
-      "estimate": "25k+",
+      "rank": 1532,
+      "estimate": "15k+",
       "name": "Warfare 1776"
     }
   }
