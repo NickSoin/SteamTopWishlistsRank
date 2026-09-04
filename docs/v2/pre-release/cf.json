@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T14:26:32.824Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-04T18:34:38.098Z",
+  "entryCount": 34,
   "entries": {
     "502050": {
       "rank": 1,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Age of Resistance",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4355490": {
+      "rank": 721,
+      "estimate": "40k+",
+      "name": "Sex-Pop Demon Hunters",
+      "releaseDate": "2026-09-04",
       "source": "tracked"
     },
     "4550590": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T14:26:32.824Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-04T18:34:38.098Z",
+  "entryCount": 34,
   "entries": {
     "850170": {
       "rank": 394,
@@ -219,6 +219,13 @@
       "estimate": "7k+",
       "name": "Room Craft",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "4643930": {
+      "rank": 3843,
+      "estimate": "<7k",
+      "name": "Serve Or Die",
+      "releaseDate": "2026-09-04",
       "source": "tracked"
     },
     "4676790": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T14:26:32.824Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-04T18:34:38.098Z",
+  "entryCount": 36,
   "entries": {
     "844980": {
       "rank": 112,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "Stuff to do",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "3656720": {
+      "rank": 3789,
+      "estimate": "<7k",
+      "name": "Dungeon Raid",
+      "releaseDate": "2026-09-04",
       "source": "tracked"
     },
     "3844970": {

@@ -1,106 +1,106 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-04T14:26:32.824Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-04T18:34:38.098Z",
+  "entryCount": 30,
   "entries": {
     "640010": {
-      "rank": 3181,
+      "rank": 3179,
       "estimate": "<7k",
       "name": "Forsaken Castle"
     },
     "1207360": {
-      "rank": 607,
+      "rank": 606,
       "estimate": "40k+",
       "name": "Medieval Frontiers"
     },
     "1561080": {
-      "rank": 1760,
+      "rank": 1757,
       "estimate": "15k+",
       "name": "A Frog's Tale"
     },
     "1612560": {
-      "rank": 4709,
+      "rank": 4707,
       "estimate": "<7k",
       "name": "Dreamland Confectionery"
     },
     "1741440": {
-      "rank": 4605,
+      "rank": 4603,
       "estimate": "<7k",
       "name": "Koru"
     },
     "1752530": {
-      "rank": 1234,
+      "rank": 1231,
       "estimate": "25k+",
       "name": "B-17 Flying Fortress The Bloody 100th"
     },
     "1826020": {
-      "rank": 1295,
+      "rank": 1291,
       "estimate": "25k+",
       "name": "Shred & Tear: Explosive Kajun"
     },
     "1861450": {
-      "rank": 4175,
+      "rank": 4170,
       "estimate": "<7k",
       "name": "The Courier"
     },
     "1892580": {
-      "rank": 1875,
+      "rank": 1871,
       "estimate": "15k+",
       "name": "Zombotron Re-Boot"
     },
     "2105070": {
-      "rank": 2816,
+      "rank": 2812,
       "estimate": "7k+",
       "name": "Another Space Opera - Episode 1: The Wake of The Giant"
     },
     "2139330": {
-      "rank": 3619,
+      "rank": 3617,
       "estimate": "<7k",
       "name": "Auto Immune"
     },
     "2236190": {
-      "rank": 1292,
+      "rank": 1289,
       "estimate": "25k+",
       "name": "Vigilancer 2099"
     },
     "2257780": {
-      "rank": 2512,
+      "rank": 2507,
       "estimate": "7k+",
       "name": "3DXChat"
     },
     "2491810": {
-      "rank": 5635,
+      "rank": 5633,
       "estimate": "<7k",
       "name": "Shadow of Mammon"
     },
     "2499780": {
-      "rank": 1898,
+      "rank": 1894,
       "estimate": "15k+",
       "name": "Garten of Banban 5"
     },
     "2544730": {
-      "rank": 3087,
+      "rank": 3083,
       "estimate": "<7k",
       "name": "Gateworlds"
     },
     "2688960": {
-      "rank": 3249,
+      "rank": 3244,
       "estimate": "<7k",
       "name": "Eternity's Echo: Patient Zero"
     },
     "2882230": {
-      "rank": 3322,
+      "rank": 3316,
       "estimate": "<7k",
       "name": "Soft Ruin"
     },
     "2882560": {
-      "rank": 4841,
+      "rank": 4836,
       "estimate": "<7k",
       "name": "CAMPS"
     },
     "2965300": {
-      "rank": 4001,
+      "rank": 3998,
       "estimate": "<7k",
       "name": "Three Kingdoms: The Legend of Zhuge Kongming HD2D"
     },
@@ -115,39 +115,44 @@
       "name": "Medieval Contrast"
     },
     "3991690": {
-      "rank": 4034,
+      "rank": 4028,
       "estimate": "<7k",
       "name": "Black Orchestra: Worldfront 37-54"
     },
     "4154830": {
-      "rank": 2261,
+      "rank": 2256,
       "estimate": "7k+",
       "name": "Immortal Wayfarer"
     },
     "4213030": {
-      "rank": 366,
+      "rank": 365,
       "estimate": "80k+",
       "name": "Deadhikers"
     },
     "4411580": {
-      "rank": 1947,
+      "rank": 1943,
       "estimate": "15k+",
       "name": "Geareo"
     },
     "4553170": {
-      "rank": 3060,
+      "rank": 3056,
       "estimate": "<7k",
       "name": "Cozy Interiors"
     },
     "4703890": {
-      "rank": 4619,
+      "rank": 4616,
       "estimate": "<7k",
       "name": "Impermanence"
     },
     "4859500": {
-      "rank": 1993,
+      "rank": 1989,
       "estimate": "15k+",
       "name": "Zombie Scavenger"
+    },
+    "4989380": {
+      "rank": 5632,
+      "estimate": "<7k",
+      "name": "Hospital Hustle"
     }
   }
 }

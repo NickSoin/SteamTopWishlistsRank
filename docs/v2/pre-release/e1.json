@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T14:26:32.824Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-04T18:34:38.098Z",
+  "entryCount": 32,
   "entries": {
     "363860": {
       "rank": 339,
@@ -181,6 +181,13 @@
       "estimate": "7k+",
       "name": "Starforged Legacy",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "3441990": {
+      "rank": 1210,
+      "estimate": "25k+",
+      "name": "Withering Realms",
+      "releaseDate": "2026-09-04",
       "source": "tracked"
     },
     "3561740": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T14:26:32.824Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-04T18:34:38.098Z",
+  "entryCount": 34,
   "entries": {
     "889910": {
       "rank": 531,
@@ -201,6 +201,13 @@
       "name": "100 Waiting Cats",
       "releaseDate": "2024-10-06",
       "source": "historical"
+    },
+    "3157160": {
+      "rank": 1889,
+      "estimate": "15k+",
+      "name": "Cupid's Chatroom",
+      "releaseDate": "2026-09-04",
+      "source": "tracked"
     },
     "3839790": {
       "rank": 335,

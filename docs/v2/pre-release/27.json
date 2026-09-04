@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T14:26:32.824Z",
-  "entryCount": 28,
+  "updatedAt": "2026-09-04T18:34:38.098Z",
+  "entryCount": 29,
   "entries": {
     "648800": {
       "rank": 25,
@@ -166,6 +166,13 @@
       "name": "The Bathhouse | 地獄銭湯 Restored Edition",
       "releaseDate": "2024-08-09",
       "source": "historical"
+    },
+    "3560110": {
+      "rank": 1137,
+      "estimate": "25k+",
+      "name": "Fracture Point",
+      "releaseDate": "2026-09-04",
+      "source": "tracked"
     },
     "3565980": {
       "rank": 3582,
