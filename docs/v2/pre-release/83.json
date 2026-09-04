@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T09:58:50.321Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-04T14:26:32.824Z",
+  "entryCount": 36,
   "entries": {
     "867210": {
       "rank": 90,
@@ -226,6 +226,13 @@
       "estimate": "25k+",
       "name": "Alice and the Devil's Prison",
       "releaseDate": "2026-08-07",
+      "source": "tracked"
+    },
+    "4334910": {
+      "rank": 2126,
+      "estimate": "7k+",
+      "name": "Craving Wisps",
+      "releaseDate": "2026-09-04",
       "source": "tracked"
     },
     "4346450": {

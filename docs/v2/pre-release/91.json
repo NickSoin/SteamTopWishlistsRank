@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T09:58:50.321Z",
-  "entryCount": 23,
+  "updatedAt": "2026-09-04T14:26:32.824Z",
+  "entryCount": 24,
   "entries": {
     "1086940": {
       "rank": 3,
@@ -149,6 +149,13 @@
       "estimate": "15k+",
       "name": "Puppergeist",
       "releaseDate": "2026-08-20",
+      "source": "tracked"
+    },
+    "4152550": {
+      "rank": 1738,
+      "estimate": "15k+",
+      "name": "Eggstreme Farming",
+      "releaseDate": "2026-09-04",
       "source": "tracked"
     },
     "4175650": {

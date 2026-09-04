@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T09:58:50.321Z",
-  "entryCount": 28,
+  "updatedAt": "2026-09-04T14:26:32.824Z",
+  "entryCount": 29,
   "entries": {
     "526870": {
       "rank": 16,
@@ -159,6 +159,13 @@
       "name": "Blood Typers",
       "releaseDate": "2025-02-20",
       "source": "historical"
+    },
+    "3100970": {
+      "rank": 1484,
+      "estimate": "25k+",
+      "name": "Isle of Reveries",
+      "releaseDate": "2026-09-04",
+      "source": "tracked"
     },
     "3105890": {
       "rank": 20,

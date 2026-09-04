@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T09:58:50.321Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-04T14:26:32.824Z",
+  "entryCount": 33,
   "entries": {
     "669330": {
       "rank": 422,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "Eye of the Incubus",
       "releaseDate": "2026-08-12",
+      "source": "tracked"
+    },
+    "3861870": {
+      "rank": 5272,
+      "estimate": "<7k",
+      "name": "Future? No Thanks!",
+      "releaseDate": "2026-09-04",
       "source": "tracked"
     },
     "4463660": {

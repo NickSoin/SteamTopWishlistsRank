@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T09:58:50.321Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-04T14:26:32.824Z",
+  "entryCount": 41,
   "entries": {
     "809090": {
       "rank": 1225,
@@ -122,6 +122,13 @@
       "name": "Bloody Hell Hotel",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "2105840": {
+      "rank": 3618,
+      "estimate": "<7k",
+      "name": "Order Automatica",
+      "releaseDate": "2026-09-04",
+      "source": "tracked"
     },
     "2248330": {
       "rank": 1062,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T09:58:50.321Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-04T14:26:32.824Z",
+  "entryCount": 40,
   "entries": {
     "406160": {
       "rank": 927,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "Gravity Grove",
       "releaseDate": "2026-08-10",
+      "source": "tracked"
+    },
+    "4516160": {
+      "rank": 7578,
+      "estimate": "<7k",
+      "name": "100 Panda Cats",
+      "releaseDate": "2026-09-04",
       "source": "tracked"
     },
     "4568060": {

@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-04T09:58:50.321Z",
-  "entryCount": 18,
+  "updatedAt": "2026-09-04T14:26:32.824Z",
+  "entryCount": 19,
   "entries": {
     "785050": {
-      "rank": 4332,
+      "rank": 4328,
       "estimate": "<7k",
       "name": "Massive Galaxy"
     },
     "1925000": {
-      "rank": 3107,
+      "rank": 3104,
       "estimate": "<7k",
       "name": "Intertwined Fate with a Cat Demon"
     },
     "2069170": {
-      "rank": 2225,
+      "rank": 2223,
       "estimate": "7k+",
       "name": "Obsidian Legion"
     },
@@ -25,7 +25,7 @@
       "name": "Regular Home Renovation Simulator"
     },
     "2603550": {
-      "rank": 4083,
+      "rank": 4079,
       "estimate": "<7k",
       "name": "Eclipse 2: Invasion of Darkness"
     },
@@ -35,7 +35,7 @@
       "name": "Dungeons Deep"
     },
     "2708530": {
-      "rank": 4341,
+      "rank": 4337,
       "estimate": "<7k",
       "name": "AstroTechs"
     },
@@ -50,12 +50,12 @@
       "name": "The Defiant"
     },
     "3222280": {
-      "rank": 2345,
+      "rank": 2341,
       "estimate": "7k+",
       "name": "Infinitory"
     },
     "3227500": {
-      "rank": 2030,
+      "rank": 2027,
       "estimate": "7k+",
       "name": "Blades of Mirage"
     },
@@ -65,7 +65,7 @@
       "name": "Systemic War"
     },
     "3297860": {
-      "rank": 4299,
+      "rank": 4295,
       "estimate": "<7k",
       "name": "MachineClad"
     },
@@ -75,24 +75,29 @@
       "name": "The Willowmist Emporium of Antiques & Curiosities"
     },
     "3624840": {
-      "rank": 5245,
+      "rank": 5243,
       "estimate": "<7k",
       "name": "Lady Dracula"
     },
     "4004160": {
-      "rank": 3666,
+      "rank": 3665,
       "estimate": "<7k",
       "name": "Depth Loop"
     },
     "4107690": {
-      "rank": 2905,
+      "rank": 2899,
       "estimate": "7k+",
       "name": "PUBPET"
     },
     "4204610": {
-      "rank": 1306,
+      "rank": 1307,
       "estimate": "25k+",
       "name": "Gentleman's Violence"
+    },
+    "4271720": {
+      "rank": 5664,
+      "estimate": "<7k",
+      "name": "What's in the box?"
     }
   }
 }

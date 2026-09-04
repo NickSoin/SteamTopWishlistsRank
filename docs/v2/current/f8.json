@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-04T09:58:50.321Z",
-  "entryCount": 15,
+  "updatedAt": "2026-09-04T14:26:32.824Z",
+  "entryCount": 16,
   "entries": {
     "1181040": {
-      "rank": 4456,
+      "rank": 4453,
       "estimate": "<7k",
       "name": "LAZR - A Clothformer"
     },
     "1212030": {
-      "rank": 5342,
+      "rank": 5336,
       "estimate": "<7k",
       "name": "ARIDA 2: Rise of the Brave"
     },
     "1837730": {
-      "rank": 1450,
+      "rank": 1451,
       "estimate": "25k+",
       "name": "Loot List: Thief Sim"
     },
     "2217470": {
-      "rank": 1302,
+      "rank": 1303,
       "estimate": "25k+",
       "name": "Wilderings: The Lost Spring"
     },
     "2324660": {
-      "rank": 3397,
+      "rank": 3393,
       "estimate": "<7k",
       "name": "Cart Life"
     },
@@ -40,27 +40,32 @@
       "name": "MINDWAVE"
     },
     "3399610": {
-      "rank": 2732,
+      "rank": 2731,
       "estimate": "7k+",
       "name": "Tokatonton: One-Armed Blacksmith"
     },
     "3645410": {
-      "rank": 4156,
+      "rank": 4155,
       "estimate": "<7k",
       "name": "Midgardr"
     },
+    "3889540": {
+      "rank": 4487,
+      "estimate": "<7k",
+      "name": "I Need to Fix My Dream Car (But I Work at a Junkyard)"
+    },
     "3988100": {
-      "rank": 4500,
+      "rank": 4499,
       "estimate": "<7k",
       "name": "Star Dust: Grim Offensive (SDGO)"
     },
     "4414620": {
-      "rank": 1067,
+      "rank": 1066,
       "estimate": "25k+",
       "name": "Book Nook"
     },
     "4440650": {
-      "rank": 368,
+      "rank": 369,
       "estimate": "80k+",
       "name": "KAGE"
     },
@@ -70,12 +75,12 @@
       "name": "PATIENCE IS A VIRTUE"
     },
     "4956070": {
-      "rank": 5346,
+      "rank": 5334,
       "estimate": "<7k",
       "name": "The Royal Yes"
     },
     "5005700": {
-      "rank": 5589,
+      "rank": 5541,
       "estimate": "<7k",
       "name": "MUV-LUV GIRLS GARDEN Mellow Days"
     }

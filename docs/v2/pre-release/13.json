@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-04T09:58:50.321Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-04T14:26:32.824Z",
+  "entryCount": 30,
   "entries": {
     "750200": {
       "rank": 159,
@@ -211,6 +211,13 @@
       "estimate": "<7k",
       "name": "Pour Decisions",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4818760": {
+      "rank": 5008,
+      "estimate": "<7k",
+      "name": "Paleo Dive",
+      "releaseDate": "2026-09-04",
       "source": "tracked"
     }
   }
