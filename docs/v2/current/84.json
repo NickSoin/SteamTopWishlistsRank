@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-05T05:00:48.092Z",
+  "updatedAt": "2026-09-05T09:16:55.508Z",
   "entryCount": 21,
   "entries": {
     "1313210": {
@@ -20,7 +20,7 @@
       "name": "AC-130 Gunship Operator"
     },
     "2111370": {
-      "rank": 4421,
+      "rank": 4423,
       "estimate": "<7k",
       "name": "Covert Critter"
     },
@@ -35,27 +35,27 @@
       "name": "Canyons"
     },
     "2784150": {
-      "rank": 3509,
+      "rank": 3510,
       "estimate": "<7k",
       "name": "The Last Rose"
     },
     "2823570": {
-      "rank": 3514,
+      "rank": 3515,
       "estimate": "<7k",
       "name": "Netcode Warriors"
     },
     "3091260": {
-      "rank": 2837,
+      "rank": 2838,
       "estimate": "7k+",
       "name": "Darkbound"
     },
     "3123420": {
-      "rank": 4497,
+      "rank": 4501,
       "estimate": "<7k",
       "name": "领航员计划 Navigator Project"
     },
     "3205960": {
-      "rank": 3833,
+      "rank": 3834,
       "estimate": "<7k",
       "name": "Succubus Memories"
     },
@@ -70,7 +70,7 @@
       "name": "CoopRooms"
     },
     "3885720": {
-      "rank": 1531,
+      "rank": 1530,
       "estimate": "15k+",
       "name": "Murals"
     },
@@ -80,17 +80,17 @@
       "name": "Gunship Origins"
     },
     "4065790": {
-      "rank": 4320,
+      "rank": 4316,
       "estimate": "<7k",
       "name": "Choo Choo Defenders"
     },
     "4234750": {
-      "rank": 1256,
+      "rank": 1258,
       "estimate": "25k+",
       "name": "Kaiju Princess: Super Survivor Showdown"
     },
     "4271520": {
-      "rank": 1008,
+      "rank": 1009,
       "estimate": "25k+",
       "name": "The Pines"
     },
@@ -100,12 +100,12 @@
       "name": "Infamous Keepers"
     },
     "4590270": {
-      "rank": 5174,
+      "rank": 5172,
       "estimate": "<7k",
       "name": "Fallgrade"
     },
     "4733590": {
-      "rank": 4032,
+      "rank": 4023,
       "estimate": "<7k",
       "name": "Perfect Wives Next Door"
     }
