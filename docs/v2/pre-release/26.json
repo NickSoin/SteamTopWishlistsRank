@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-05T22:13:19.574Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-06T05:11:40.681Z",
+  "entryCount": 32,
   "entries": {
     "758690": {
       "rank": 7,
@@ -200,6 +200,13 @@
       "estimate": "80k+",
       "name": "Soulbound: Online",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4549300": {
+      "rank": 8342,
+      "estimate": "<7k",
+      "name": "My Dearest Direst Disaster",
+      "releaseDate": "2026-09-05",
       "source": "tracked"
     },
     "4615010": {
