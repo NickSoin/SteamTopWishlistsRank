@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-06T05:11:40.681Z",
-  "entryCount": 21,
+  "updatedAt": "2026-09-06T09:52:44.566Z",
+  "entryCount": 22,
   "entries": {
     "1682690": {
-      "rank": 3962,
+      "rank": 3965,
       "estimate": "<7k",
       "name": "Awkward 2: The Party Game of Savage Secrets"
     },
     "1761210": {
-      "rank": 1079,
+      "rank": 1082,
       "estimate": "25k+",
       "name": "The Touhou Empires"
     },
     "2363840": {
-      "rank": 4114,
+      "rank": 4115,
       "estimate": "<7k",
       "name": "Aikyam"
     },
     "2476630": {
-      "rank": 2302,
+      "rank": 2304,
       "estimate": "7k+",
       "name": "扶摇录"
     },
     "2518790": {
-      "rank": 1377,
+      "rank": 1376,
       "estimate": "25k+",
       "name": "Hieronymus"
     },
@@ -40,22 +40,22 @@
       "name": "SECOND-LOOP™"
     },
     "3055290": {
-      "rank": 4773,
+      "rank": 4780,
       "estimate": "<7k",
       "name": "Sunny Trails"
     },
     "3189450": {
-      "rank": 2450,
+      "rank": 2452,
       "estimate": "7k+",
       "name": "City of None"
     },
     "3225880": {
-      "rank": 737,
+      "rank": 738,
       "estimate": "40k+",
       "name": "Lenin Street Geek Shop"
     },
     "3278190": {
-      "rank": 4610,
+      "rank": 4617,
       "estimate": "<7k",
       "name": "Project: AMICA"
     },
@@ -65,7 +65,7 @@
       "name": "Clean Start"
     },
     "3615340": {
-      "rank": 4960,
+      "rank": 4965,
       "estimate": "<7k",
       "name": "Pepper the Giant Purple Dog"
     },
@@ -75,27 +75,27 @@
       "name": "Warhammer Survivors"
     },
     "3861510": {
-      "rank": 4080,
+      "rank": 4085,
       "estimate": "<7k",
       "name": "UGOMEKU NOTE"
     },
     "3984400": {
-      "rank": 5174,
+      "rank": 5177,
       "estimate": "<7k",
       "name": "100% Accurate Youtuber Simulator"
     },
     "4181440": {
-      "rank": 3260,
+      "rank": 3263,
       "estimate": "<7k",
       "name": "RadCity: A Post-Apocalyptic Adventure"
     },
     "4374950": {
-      "rank": 1147,
+      "rank": 1148,
       "estimate": "25k+",
       "name": "KAREN"
     },
     "4421870": {
-      "rank": 3595,
+      "rank": 3598,
       "estimate": "<7k",
       "name": "Kill The Sea"
     },
@@ -105,9 +105,14 @@
       "name": "Happy Ending Simulator"
     },
     "4890760": {
-      "rank": 394,
+      "rank": 388,
       "estimate": "80k+",
       "name": "THE DEAD WE KNEW: Open World Survival"
+    },
+    "5019630": {
+      "rank": 5695,
+      "estimate": "<7k",
+      "name": "Crescent Tower: RISING"
     }
   }
 }
