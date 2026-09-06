@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-06T09:52:44.566Z",
-  "entryCount": 21,
+  "updatedAt": "2026-09-06T13:49:17.497Z",
+  "entryCount": 22,
   "entries": {
     "1384180": {
       "rank": 1346,
@@ -10,24 +10,29 @@
       "name": "Cloud Exiles"
     },
     "1461470": {
-      "rank": 4066,
+      "rank": 4070,
       "estimate": "<7k",
       "name": "Airborne Ranger: FightOut"
     },
     "1622110": {
-      "rank": 2902,
+      "rank": 2903,
       "estimate": "7k+",
       "name": "Zoria and the Cursed Land"
     },
     "2477470": {
-      "rank": 2805,
+      "rank": 2808,
       "estimate": "7k+",
       "name": "The Chronos Event"
     },
     "2508130": {
-      "rank": 5327,
+      "rank": 5328,
       "estimate": "<7k",
       "name": "WERK"
+    },
+    "2515110": {
+      "rank": 4703,
+      "estimate": "<7k",
+      "name": "About Cannons & Sparrows"
     },
     "2526570": {
       "rank": 464,
@@ -40,47 +45,47 @@
       "name": "Wing Haven"
     },
     "2855360": {
-      "rank": 1769,
+      "rank": 1770,
       "estimate": "15k+",
       "name": "Please Insert Disc"
     },
     "2935800": {
-      "rank": 1187,
+      "rank": 1165,
       "estimate": "25k+",
       "name": "Chalk Warfare"
     },
     "2976250": {
-      "rank": 5650,
+      "rank": 5651,
       "estimate": "<7k",
       "name": "Riven Crown"
     },
     "3104430": {
-      "rank": 3903,
+      "rank": 3906,
       "estimate": "<7k",
       "name": "Amikin Village"
     },
     "3256450": {
-      "rank": 5442,
+      "rank": 5446,
       "estimate": "<7k",
       "name": "Cards of Prophecy"
     },
     "3266790": {
-      "rank": 3077,
+      "rank": 3078,
       "estimate": "<7k",
       "name": "Bit by Bit"
     },
     "3358590": {
-      "rank": 2876,
+      "rank": 2878,
       "estimate": "7k+",
       "name": "Prolegomena To a Hyperdimensional Interface That Will Be Able to Manifest From Three-Minute Interchanges"
     },
     "3480330": {
-      "rank": 5471,
+      "rank": 5473,
       "estimate": "<7k",
       "name": "TouHou Koishi's Enchanted Woods"
     },
     "3582120": {
-      "rank": 2146,
+      "rank": 2148,
       "estimate": "7k+",
       "name": "Cohen 1939"
     },
@@ -90,12 +95,12 @@
       "name": "Life is a Journey"
     },
     "4094660": {
-      "rank": 329,
+      "rank": 330,
       "estimate": "80k+",
       "name": "Rivage"
     },
     "4190780": {
-      "rank": 4964,
+      "rank": 4970,
       "estimate": "<7k",
       "name": "BRINE"
     },
@@ -105,7 +110,7 @@
       "name": "Sakura no Uta -To Dance Over the Cherry Blossoms-"
     },
     "4970540": {
-      "rank": 4727,
+      "rank": 4732,
       "estimate": "<7k",
       "name": "Isles of Innsmouth"
     }

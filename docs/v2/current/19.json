@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-06T09:52:44.566Z",
-  "entryCount": 15,
+  "updatedAt": "2026-09-06T13:49:17.497Z",
+  "entryCount": 16,
   "entries": {
     "563530": {
-      "rank": 4259,
+      "rank": 4263,
       "estimate": "<7k",
       "name": "Insatia"
     },
     "1251960": {
-      "rank": 4239,
+      "rank": 4244,
       "estimate": "<7k",
       "name": "Deathtrap Dungeon: The Golden Room"
     },
     "1566440": {
-      "rank": 4311,
+      "rank": 4314,
       "estimate": "<7k",
       "name": "Lords of Nether"
     },
@@ -30,32 +30,32 @@
       "name": "Train Planet"
     },
     "2981400": {
-      "rank": 1469,
+      "rank": 1470,
       "estimate": "25k+",
       "name": "Middle Ages: Peasants & Knights"
     },
     "3325070": {
-      "rank": 875,
+      "rank": 876,
       "estimate": "40k+",
       "name": "Forest Reigns"
     },
     "3383030": {
-      "rank": 4086,
+      "rank": 4090,
       "estimate": "<7k",
       "name": "Immortal Path(星河仙道)"
     },
     "3411810": {
-      "rank": 1039,
+      "rank": 1040,
       "estimate": "25k+",
       "name": "Cobra Strike"
     },
     "3453900": {
-      "rank": 5277,
+      "rank": 5278,
       "estimate": "<7k",
       "name": "Micromega"
     },
     "4314240": {
-      "rank": 3172,
+      "rank": 3170,
       "estimate": "<7k",
       "name": "OnlyVans"
     },
@@ -65,19 +65,24 @@
       "name": "Greetings from El Rey"
     },
     "4433800": {
-      "rank": 2618,
+      "rank": 2617,
       "estimate": "7k+",
       "name": "There Is No Next Stop"
     },
     "4730620": {
-      "rank": 3250,
+      "rank": 3249,
       "estimate": "<7k",
       "name": "The Rope Knight"
     },
     "4752390": {
-      "rank": 3823,
+      "rank": 3824,
       "estimate": "<7k",
       "name": "Panic 64"
+    },
+    "4815930": {
+      "rank": 5663,
+      "estimate": "<7k",
+      "name": "The Door Factory"
     }
   }
 }
