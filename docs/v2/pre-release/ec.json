@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T10:51:19.366Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-07T19:34:40.551Z",
+  "entryCount": 34,
   "entries": {
     "715400": {
       "rank": 49,
@@ -206,6 +206,13 @@
       "name": "Tap Tap Loot",
       "releaseDate": "2026-04-13",
       "source": "historical"
+    },
+    "4099120": {
+      "rank": 7211,
+      "estimate": "<7k",
+      "name": "My Darling Dark Elf",
+      "releaseDate": "2026-09-07",
+      "source": "tracked"
     },
     "4117190": {
       "rank": 2629,

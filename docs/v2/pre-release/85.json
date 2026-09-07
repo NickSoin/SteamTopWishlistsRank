@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T10:51:19.366Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-07T19:34:40.551Z",
+  "entryCount": 40,
   "entries": {
     "440000": {
       "rank": 459,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "We Need More Humans!",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "4505150": {
+      "rank": 1545,
+      "estimate": "15k+",
+      "name": "THE WELL IS NOT EMPTY",
+      "releaseDate": "2026-09-07",
       "source": "tracked"
     },
     "4550750": {

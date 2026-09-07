@@ -1,36 +1,36 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-07T10:51:19.366Z",
-  "entryCount": 18,
+  "updatedAt": "2026-09-07T19:34:40.551Z",
+  "entryCount": 19,
   "entries": {
     "616580": {
-      "rank": 5672,
+      "rank": 5669,
       "estimate": "<7k",
       "name": "War Girl"
     },
     "1236170": {
-      "rank": 2095,
+      "rank": 2093,
       "estimate": "7k+",
       "name": "The Fold: Ingression"
     },
     "1286230": {
-      "rank": 1833,
+      "rank": 1823,
       "estimate": "15k+",
       "name": "Fields of History: The Great War"
     },
     "1354450": {
-      "rank": 4650,
+      "rank": 4632,
       "estimate": "<7k",
       "name": "Dragonfield"
     },
     "1698530": {
-      "rank": 4404,
+      "rank": 4403,
       "estimate": "<7k",
       "name": "VTuber Beats"
     },
     "1798230": {
-      "rank": 215,
+      "rank": 216,
       "estimate": "80k+",
       "name": "ATMOSFAR"
     },
@@ -40,27 +40,27 @@
       "name": "Minecraft Dungeons II"
     },
     "2022220": {
-      "rank": 1641,
+      "rank": 1640,
       "estimate": "15k+",
       "name": "Sexy Gym"
     },
     "2105260": {
-      "rank": 2385,
+      "rank": 2381,
       "estimate": "7k+",
       "name": "Pizza Kidd"
     },
     "2412740": {
-      "rank": 3490,
+      "rank": 3486,
       "estimate": "<7k",
       "name": "Ascent Quest"
     },
     "2744430": {
-      "rank": 1158,
+      "rank": 1155,
       "estimate": "25k+",
       "name": "Nightmare House"
     },
     "3154490": {
-      "rank": 4872,
+      "rank": 4866,
       "estimate": "<7k",
       "name": "Spell Candle"
     },
@@ -70,29 +70,34 @@
       "name": "Dreadline Express"
     },
     "3624140": {
-      "rank": 72,
+      "rank": 69,
       "estimate": "300k+",
       "name": "Wanderburg"
     },
     "3949500": {
-      "rank": 3045,
+      "rank": 3035,
       "estimate": "<7k",
       "name": "Goth Phone"
     },
     "3989290": {
-      "rank": 4382,
+      "rank": 4380,
       "estimate": "<7k",
       "name": "The Party Mascot"
     },
     "4043740": {
-      "rank": 806,
+      "rank": 804,
       "estimate": "40k+",
       "name": "Hero's Hour 2"
     },
     "4182850": {
-      "rank": 4097,
+      "rank": 4090,
       "estimate": "<7k",
       "name": "Tiebreakers"
+    },
+    "4272610": {
+      "rank": 5699,
+      "estimate": "<7k",
+      "name": "Best Slime of my Life"
     }
   }
 }

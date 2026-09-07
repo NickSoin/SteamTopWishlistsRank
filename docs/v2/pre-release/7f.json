@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T10:51:19.366Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-07T19:34:40.551Z",
+  "entryCount": 35,
   "entries": {
     "1167100": {
       "rank": 379,
@@ -187,6 +187,13 @@
       "name": "Wildermyth - Omenroad",
       "releaseDate": "2024-05-16",
       "source": "historical"
+    },
+    "3084810": {
+      "rank": 678,
+      "estimate": "40k+",
+      "name": "Tower Lab",
+      "releaseDate": "2026-09-07",
+      "source": "tracked"
     },
     "3100310": {
       "rank": 559,

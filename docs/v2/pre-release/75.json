@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T10:51:19.366Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-07T19:34:40.551Z",
+  "entryCount": 31,
   "entries": {
     "916350": {
       "rank": 1449,
@@ -188,6 +188,13 @@
       "estimate": "15k+",
       "name": "We, Junk Artists",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "3664070": {
+      "rank": 2799,
+      "estimate": "7k+",
+      "name": "Nothing Strange Here",
+      "releaseDate": "2026-09-07",
       "source": "tracked"
     },
     "4380490": {

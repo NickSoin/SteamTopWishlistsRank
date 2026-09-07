@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T10:51:19.366Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-07T19:34:40.551Z",
+  "entryCount": 38,
   "entries": {
     "494730": {
       "rank": 753,
@@ -96,6 +96,13 @@
       "name": "Aliens: Fireteam Elite",
       "releaseDate": "2021-08-23",
       "source": "historical"
+    },
+    "1602620": {
+      "rank": 4043,
+      "estimate": "<7k",
+      "name": "Deadzoned",
+      "releaseDate": "2026-09-07",
+      "source": "tracked"
     },
     "1602880": {
       "rank": 1225,

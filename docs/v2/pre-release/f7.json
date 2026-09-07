@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T10:51:19.366Z",
-  "entryCount": 20,
+  "updatedAt": "2026-09-07T19:34:40.551Z",
+  "entryCount": 21,
   "entries": {
     "1071140": {
       "rank": 202,
@@ -115,6 +115,13 @@
       "name": "Sea Fantasy",
       "releaseDate": "2025-01-07",
       "source": "historical"
+    },
+    "3544130": {
+      "rank": 873,
+      "estimate": "40k+",
+      "name": "Soul Chained",
+      "releaseDate": "2026-09-07",
+      "source": "tracked"
     },
     "3617290": {
       "rank": 5065,

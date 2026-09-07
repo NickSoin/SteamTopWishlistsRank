@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T10:51:19.366Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-07T19:34:40.551Z",
+  "entryCount": 40,
   "entries": {
     "529340": {
       "rank": 19,
@@ -251,6 +251,13 @@
       "estimate": "25k+",
       "name": "Lady Death Demonicron",
       "releaseDate": "2026-08-31",
+      "source": "tracked"
+    },
+    "2998920": {
+      "rank": 7994,
+      "estimate": "<7k",
+      "name": "Port of Jumanah",
+      "releaseDate": "2026-09-07",
       "source": "tracked"
     },
     "3752110": {

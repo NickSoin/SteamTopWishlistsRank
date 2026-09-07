@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T10:51:19.366Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-07T19:34:40.551Z",
+  "entryCount": 34,
   "entries": {
     "780310": {
       "rank": 16,
@@ -203,6 +203,13 @@
       "name": "PANICORE",
       "releaseDate": "2024-05-31",
       "source": "historical"
+    },
+    "2729830": {
+      "rank": 1995,
+      "estimate": "15k+",
+      "name": "Pumpkin Woods",
+      "releaseDate": "2026-09-07",
+      "source": "tracked"
     },
     "3043580": {
       "rank": 17,

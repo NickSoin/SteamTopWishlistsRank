@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-07T10:51:19.366Z",
-  "entryCount": 24,
+  "updatedAt": "2026-09-07T19:34:40.551Z",
+  "entryCount": 25,
   "entries": {
     "809550": {
-      "rank": 2446,
+      "rank": 2443,
       "estimate": "7k+",
       "name": "Death from Unknown: Survival"
     },
     "1123240": {
-      "rank": 2122,
+      "rank": 2118,
       "estimate": "7k+",
       "name": "Greyskin"
     },
     "1335780": {
-      "rank": 2244,
+      "rank": 2239,
       "estimate": "7k+",
       "name": "Flight Attendant Simulator"
     },
     "1840280": {
-      "rank": 4889,
+      "rank": 4885,
       "estimate": "<7k",
       "name": "Hiboka"
     },
@@ -30,22 +30,22 @@
       "name": "Rogue Soulstone"
     },
     "2193600": {
-      "rank": 311,
+      "rank": 312,
       "estimate": "80k+",
       "name": "Paranormal Tales"
     },
     "2345340": {
-      "rank": 4401,
+      "rank": 4398,
       "estimate": "<7k",
       "name": "Space Travellers"
     },
     "2421750": {
-      "rank": 370,
+      "rank": 367,
       "estimate": "80k+",
       "name": "Gunman Contracts - Stand Alone"
     },
     "2589980": {
-      "rank": 680,
+      "rank": 679,
       "estimate": "40k+",
       "name": "Eden's Guardian"
     },
@@ -55,74 +55,79 @@
       "name": "Car Mechanic Simulator 2026"
     },
     "2779310": {
-      "rank": 4982,
+      "rank": 4972,
       "estimate": "<7k",
       "name": "Stones Keeper II: Chaos Lord"
     },
     "2815810": {
-      "rank": 5713,
+      "rank": 5711,
       "estimate": "<7k",
       "name": "Golgothica"
     },
     "3177760": {
-      "rank": 2023,
+      "rank": 2021,
       "estimate": "7k+",
       "name": "Critterville Goes Bankrupt"
     },
     "3181660": {
-      "rank": 4156,
+      "rank": 4147,
       "estimate": "<7k",
       "name": "ASTHENIA"
     },
     "3260750": {
-      "rank": 175,
+      "rank": 176,
       "estimate": "200k+",
       "name": "Stage Fright"
     },
     "3391670": {
-      "rank": 3949,
+      "rank": 3909,
       "estimate": "<7k",
       "name": "Secret Kinks"
     },
     "3434920": {
-      "rank": 760,
+      "rank": 759,
       "estimate": "40k+",
       "name": "SAGE"
     },
     "3439840": {
-      "rank": 3111,
+      "rank": 3102,
       "estimate": "<7k",
       "name": "Hiroka Toudou's Whore-o-ic Tale"
     },
     "3445230": {
-      "rank": 5263,
+      "rank": 5261,
       "estimate": "<7k",
       "name": "Hellgate Reiko"
     },
     "3575850": {
-      "rank": 4098,
+      "rank": 4091,
       "estimate": "<7k",
       "name": "Lone Pine"
     },
     "3581260": {
-      "rank": 2773,
+      "rank": 2766,
       "estimate": "7k+",
       "name": "Dance of Theseus"
     },
     "3938710": {
-      "rank": 1368,
+      "rank": 1364,
       "estimate": "25k+",
       "name": "Tail of Desire: Remastered"
     },
     "4180840": {
-      "rank": 2373,
+      "rank": 2370,
       "estimate": "7k+",
       "name": "Shadowstone"
     },
     "4581890": {
-      "rank": 5066,
+      "rank": 5045,
       "estimate": "<7k",
       "name": "Kayak with friends"
+    },
+    "4621970": {
+      "rank": 5697,
+      "estimate": "<7k",
+      "name": "Loop Dungeon - Incremental"
     }
   }
 }

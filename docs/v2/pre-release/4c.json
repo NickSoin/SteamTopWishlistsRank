@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T10:51:19.366Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-07T19:34:40.551Z",
+  "entryCount": 32,
   "entries": {
     "774801": {
       "rank": 157,
@@ -186,6 +186,13 @@
       "estimate": "40k+",
       "name": "Inferno Protocol",
       "releaseDate": "2026-08-29",
+      "source": "tracked"
+    },
+    "3919340": {
+      "rank": 4640,
+      "estimate": "<7k",
+      "name": "Eco Volunteer",
+      "releaseDate": "2026-09-07",
       "source": "tracked"
     },
     "3947040": {
