@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-06T22:28:49.001Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-07T05:11:40.556Z",
+  "entryCount": 33,
   "entries": {
     "894020": {
       "rank": 39,
@@ -196,6 +196,13 @@
       "name": "Circle Empires 2",
       "releaseDate": "2026-02-09",
       "source": "historical"
+    },
+    "3340890": {
+      "rank": 4476,
+      "estimate": "<7k",
+      "name": "Necrowhisper",
+      "releaseDate": "2026-09-06",
+      "source": "tracked"
     },
     "3739300": {
       "rank": 3144,

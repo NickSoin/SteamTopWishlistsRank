@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-06T22:28:49.001Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-07T05:11:40.556Z",
+  "entryCount": 33,
   "entries": {
     "758690": {
       "rank": 7,
@@ -200,6 +200,13 @@
       "estimate": "80k+",
       "name": "Soulbound: Online",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4515550": {
+      "rank": 7693,
+      "estimate": "<7k",
+      "name": "不吃鱼 DonEatFish",
+      "releaseDate": "2026-09-06",
       "source": "tracked"
     },
     "4549300": {
