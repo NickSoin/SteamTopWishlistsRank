@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T05:11:40.556Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-07T10:51:19.366Z",
+  "entryCount": 32,
   "entries": {
     "763180": {
       "rank": 734,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "Sweet Clockwork",
       "releaseDate": "2026-08-16",
+      "source": "tracked"
+    },
+    "4134650": {
+      "rank": 1307,
+      "estimate": "25k+",
+      "name": "Bones and Coins",
+      "releaseDate": "2026-09-07",
       "source": "tracked"
     },
     "4475470": {

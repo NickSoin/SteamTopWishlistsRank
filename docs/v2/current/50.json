@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-07T05:11:40.556Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-07T10:51:19.366Z",
+  "entryCount": 25,
   "entries": {
     "968770": {
       "rank": 5332,
@@ -10,7 +10,7 @@
       "name": "Iron Vulture"
     },
     "1188410": {
-      "rank": 2355,
+      "rank": 2357,
       "estimate": "7k+",
       "name": "Mouseward"
     },
@@ -30,12 +30,12 @@
       "name": "Everbloom"
     },
     "2184080": {
-      "rank": 2158,
+      "rank": 2148,
       "estimate": "7k+",
       "name": "Echo Weaver"
     },
     "2298660": {
-      "rank": 4392,
+      "rank": 4389,
       "estimate": "<7k",
       "name": "Fallen Symphony"
     },
@@ -55,32 +55,32 @@
       "name": "Light of Atlantis"
     },
     "2459030": {
-      "rank": 1242,
+      "rank": 1243,
       "estimate": "25k+",
       "name": "Locator: The Search for Abigail Lidari"
     },
     "2536140": {
-      "rank": 2636,
+      "rank": 2635,
       "estimate": "7k+",
       "name": "Red Dust Colony"
     },
     "2747810": {
-      "rank": 5650,
+      "rank": 5648,
       "estimate": "<7k",
       "name": "Heartsworn Abyss"
     },
     "2842720": {
-      "rank": 3742,
+      "rank": 3743,
       "estimate": "<7k",
       "name": "TOONSOULS"
     },
     "2894990": {
-      "rank": 3028,
+      "rank": 3030,
       "estimate": "<7k",
       "name": "Trizna"
     },
     "3138060": {
-      "rank": 4752,
+      "rank": 4753,
       "estimate": "<7k",
       "name": "Esport Manager: Road To Major"
     },
@@ -90,12 +90,12 @@
       "name": "EXODUS"
     },
     "3345260": {
-      "rank": 2064,
+      "rank": 2067,
       "estimate": "7k+",
       "name": "Empire in Decay"
     },
     "3509420": {
-      "rank": 413,
+      "rank": 414,
       "estimate": "80k+",
       "name": "Planetbase 2"
     },
@@ -105,34 +105,29 @@
       "name": "Crimson Freedom"
     },
     "4365940": {
-      "rank": 5054,
+      "rank": 5049,
       "estimate": "<7k",
       "name": "SCP"
     },
     "4406740": {
-      "rank": 3226,
+      "rank": 3228,
       "estimate": "<7k",
       "name": "Clayton & Cayo"
     },
     "4671380": {
-      "rank": 3932,
+      "rank": 3922,
       "estimate": "<7k",
       "name": "Scapewatch: Idle MMO"
     },
     "4677140": {
-      "rank": 5398,
+      "rank": 5399,
       "estimate": "<7k",
       "name": "RAGNAROK PROJECT"
     },
     "4946440": {
-      "rank": 4839,
+      "rank": 4794,
       "estimate": "<7k",
       "name": "Granule"
-    },
-    "5097840": {
-      "rank": 3217,
-      "estimate": "<7k",
-      "name": "Spellbound & Shelved"
     }
   }
 }

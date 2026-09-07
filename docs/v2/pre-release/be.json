@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T05:11:40.556Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-07T10:51:19.366Z",
+  "entryCount": 38,
   "entries": {
     "733110": {
       "rank": 724,
@@ -251,6 +251,13 @@
       "estimate": "7k+",
       "name": "The Alley",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4304820": {
+      "rank": 4466,
+      "estimate": "<7k",
+      "name": "Locktale",
+      "releaseDate": "2026-09-07",
       "source": "tracked"
     },
     "4414590": {
