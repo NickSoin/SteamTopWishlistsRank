@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-06T17:43:39.330Z",
-  "entryCount": 21,
+  "updatedAt": "2026-09-06T22:28:49.001Z",
+  "entryCount": 22,
   "entries": {
     "287820": {
-      "rank": 2811,
+      "rank": 2814,
       "estimate": "7k+",
       "name": "Silent Escape: Induction"
     },
     "1286190": {
-      "rank": 1254,
+      "rank": 1256,
       "estimate": "25k+",
       "name": "Art of the Rail"
     },
     "1555960": {
-      "rank": 2989,
+      "rank": 2992,
       "estimate": "7k+",
       "name": "Crime Scene Technician"
     },
@@ -25,22 +25,22 @@
       "name": "Our Life: Now & Forever"
     },
     "2245130": {
-      "rank": 4673,
+      "rank": 4677,
       "estimate": "<7k",
       "name": "Handshakes: Hands On"
     },
     "2271050": {
-      "rank": 1168,
+      "rank": 1169,
       "estimate": "25k+",
       "name": "RESISTOR"
     },
     "2354580": {
-      "rank": 4635,
+      "rank": 4640,
       "estimate": "<7k",
       "name": "Spaceman Memories"
     },
     "2614590": {
-      "rank": 2135,
+      "rank": 2138,
       "estimate": "7k+",
       "name": "Online Obsession"
     },
@@ -50,12 +50,12 @@
       "name": "SCP New Management"
     },
     "2776540": {
-      "rank": 4777,
+      "rank": 4779,
       "estimate": "<7k",
       "name": "Opaldune"
     },
     "2783830": {
-      "rank": 3482,
+      "rank": 3483,
       "estimate": "<7k",
       "name": "Cozy Crest"
     },
@@ -65,7 +65,7 @@
       "name": "Gravity Forge"
     },
     "2996650": {
-      "rank": 3777,
+      "rank": 3766,
       "estimate": "<7k",
       "name": "True Vikings"
     },
@@ -75,22 +75,22 @@
       "name": "Portal: Intrusion"
     },
     "3869940": {
-      "rank": 1508,
+      "rank": 1511,
       "estimate": "15k+",
       "name": "War of Banners"
     },
     "3910680": {
-      "rank": 415,
+      "rank": 417,
       "estimate": "80k+",
       "name": "INARI"
     },
     "4198610": {
-      "rank": 2539,
+      "rank": 2541,
       "estimate": "7k+",
       "name": "A Fighter’s Nova: Mindara"
     },
     "4311530": {
-      "rank": 272,
+      "rank": 273,
       "estimate": "80k+",
       "name": "Very Safe Dino Park 🦖"
     },
@@ -100,14 +100,19 @@
       "name": "10 Million Pixels"
     },
     "4861420": {
-      "rank": 1540,
+      "rank": 1536,
       "estimate": "15k+",
       "name": "MOON DOOM"
     },
     "5024530": {
-      "rank": 989,
+      "rank": 990,
       "estimate": "40k+",
       "name": "黄天逆途"
+    },
+    "5159810": {
+      "rank": 5545,
+      "estimate": "<7k",
+      "name": "ArmorSim"
     }
   }
 }
