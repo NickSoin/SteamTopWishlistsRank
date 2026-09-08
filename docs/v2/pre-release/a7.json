@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-08T10:11:32.168Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-08T15:08:37.726Z",
+  "entryCount": 35,
   "entries": {
     "945770": {
       "rank": 169,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "Sugar Shatter",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4431750": {
+      "rank": 4958,
+      "estimate": "<7k",
+      "name": "Restitutor: Empire Restored",
+      "releaseDate": "2026-09-08",
       "source": "tracked"
     },
     "4595540": {

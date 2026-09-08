@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-08T10:11:32.168Z",
-  "entryCount": 27,
+  "updatedAt": "2026-09-08T15:08:37.726Z",
+  "entryCount": 28,
   "entries": {
     "377300": {
       "rank": 106,
@@ -186,6 +186,13 @@
       "estimate": "15k+",
       "name": "Hariti",
       "releaseDate": "2026-08-11",
+      "source": "tracked"
+    },
+    "4047270": {
+      "rank": 972,
+      "estimate": "40k+",
+      "name": "Orc Incremental",
+      "releaseDate": "2026-09-08",
       "source": "tracked"
     },
     "4429670": {

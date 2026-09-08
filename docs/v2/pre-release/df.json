@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-08T10:11:32.168Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-08T15:08:37.726Z",
+  "entryCount": 35,
   "entries": {
     "990080": {
       "rank": 1,
@@ -186,6 +186,13 @@
       "estimate": "40k+",
       "name": "Sudden Attack Zero Point",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "3609280": {
+      "rank": 9747,
+      "estimate": "<7k",
+      "name": "Dicewayfarer",
+      "releaseDate": "2026-09-08",
       "source": "tracked"
     },
     "3656640": {

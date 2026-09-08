@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-08T10:11:32.168Z",
+  "updatedAt": "2026-09-08T15:08:37.726Z",
   "entryCount": 32,
   "entries": {
     "536280": {
@@ -187,11 +187,11 @@
       "source": "historical"
     },
     "3624140": {
-      "rank": 11,
-      "estimate": "800k+",
+      "rank": 66,
+      "estimate": "300k+",
       "name": "Wanderburg",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-09-08",
+      "source": "tracked"
     },
     "4119270": {
       "rank": 7837,
