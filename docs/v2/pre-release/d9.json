@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-08T15:08:37.726Z",
-  "entryCount": 28,
+  "updatedAt": "2026-09-08T19:09:34.045Z",
+  "entryCount": 29,
   "entries": {
     "974480": {
       "rank": 197,
@@ -158,6 +158,13 @@
       "estimate": "40k+",
       "name": "SpiritVale",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "3984060": {
+      "rank": 9981,
+      "estimate": "<7k",
+      "name": "Cyberpunk Store Simulator",
+      "releaseDate": "2026-09-08",
       "source": "tracked"
     },
     "4178020": {

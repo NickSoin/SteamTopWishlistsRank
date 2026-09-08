@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-08T15:08:37.726Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-08T19:09:34.045Z",
+  "entryCount": 33,
   "entries": {
     "290100": {
       "rank": 249,
@@ -165,6 +165,13 @@
       "estimate": "40k+",
       "name": "Frontier Legends",
       "releaseDate": "2026-05-29",
+      "source": "tracked"
+    },
+    "3170490": {
+      "rank": 860,
+      "estimate": "40k+",
+      "name": "Cat Me If You Can",
+      "releaseDate": "2026-09-08",
       "source": "tracked"
     },
     "3348640": {

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-08T15:08:37.726Z",
+  "updatedAt": "2026-09-08T19:09:34.045Z",
   "entryCount": 40,
   "entries": {
     "690370": {
@@ -47,11 +47,11 @@
       "source": "historical"
     },
     "1510440": {
-      "rank": 22,
-      "estimate": "600k+",
+      "rank": 248,
+      "estimate": "80k+",
       "name": "Honeycomb: The World Beyond",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-09-08",
+      "source": "tracked"
     },
     "1531540": {
       "rank": 126,

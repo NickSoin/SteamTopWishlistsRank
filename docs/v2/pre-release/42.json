@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-08T15:08:37.726Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-08T19:09:34.045Z",
+  "entryCount": 36,
   "entries": {
     "1238450": {
       "rank": 1566,
@@ -218,6 +218,13 @@
       "estimate": "7k+",
       "name": "ERROR143 - Day 8",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4100880": {
+      "rank": 8881,
+      "estimate": "<7k",
+      "name": "Brutal Ball Manager 2",
+      "releaseDate": "2026-09-08",
       "source": "tracked"
     },
     "4165180": {

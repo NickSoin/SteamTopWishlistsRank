@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-08T15:08:37.726Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-08T19:09:34.045Z",
+  "entryCount": 30,
   "entries": {
     "473750": {
       "rank": 1164,
@@ -166,6 +166,13 @@
       "name": "Long Drive North: Co-Op RV Simulator",
       "releaseDate": "2025-11-18",
       "source": "historical"
+    },
+    "3219630": {
+      "rank": 66,
+      "estimate": "300k+",
+      "name": "Halloween: The Game",
+      "releaseDate": "2026-09-08",
+      "source": "tracked"
     },
     "3561030": {
       "rank": 2097,

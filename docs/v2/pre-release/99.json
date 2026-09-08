@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-08T15:08:37.726Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-08T19:09:34.045Z",
+  "entryCount": 33,
   "entries": {
     "397540": {
       "rank": 26,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "BattleshipCrafting",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "3794210": {
+      "rank": 1694,
+      "estimate": "15k+",
+      "name": "Thousand Hells: The Underworld Heists",
+      "releaseDate": "2026-09-08",
       "source": "tracked"
     },
     "4214610": {

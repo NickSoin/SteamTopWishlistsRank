@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-08T15:08:37.726Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-08T19:09:34.045Z",
+  "entryCount": 37,
   "entries": {
     "844980": {
       "rank": 112,
@@ -199,6 +199,13 @@
       "name": "Artifact Seeker: Resurrection",
       "releaseDate": "2024-07-26",
       "source": "historical"
+    },
+    "3065360": {
+      "rank": 4473,
+      "estimate": "<7k",
+      "name": "Chop Chop Together",
+      "releaseDate": "2026-09-08",
+      "source": "tracked"
     },
     "3200110": {
       "rank": 6974,
