@@ -1,36 +1,36 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-08T05:19:32.883Z",
-  "entryCount": 16,
+  "updatedAt": "2026-09-08T10:11:32.168Z",
+  "entryCount": 17,
   "entries": {
     "657580": {
-      "rank": 1556,
+      "rank": 1558,
       "estimate": "15k+",
       "name": "What!? My Neighbors Are Demons!!?"
     },
     "1809090": {
-      "rank": 2999,
-      "estimate": "7k+",
+      "rank": 3002,
+      "estimate": "<7k",
       "name": "Kraino Rebirth"
     },
     "2088230": {
-      "rank": 4705,
+      "rank": 4708,
       "estimate": "<7k",
       "name": "Ultimate Fishing® Simulator 3"
     },
     "2275760": {
-      "rank": 5189,
+      "rank": 5194,
       "estimate": "<7k",
       "name": "Operation: Dead Man"
     },
     "2473720": {
-      "rank": 3251,
+      "rank": 3254,
       "estimate": "<7k",
       "name": "Vulture -Unlimited Frontier- /0"
     },
     "2570160": {
-      "rank": 3915,
+      "rank": 3916,
       "estimate": "<7k",
       "name": "Untamed"
     },
@@ -40,27 +40,27 @@
       "name": "Life of a Lonely Indie Game Developer"
     },
     "3361460": {
-      "rank": 1432,
+      "rank": 1433,
       "estimate": "25k+",
       "name": "Deluded"
     },
     "3555740": {
-      "rank": 2869,
+      "rank": 2871,
       "estimate": "7k+",
       "name": "Bandwagon"
     },
     "3572800": {
-      "rank": 1626,
+      "rank": 1625,
       "estimate": "15k+",
       "name": "Duo Quest"
     },
     "3738130": {
-      "rank": 1731,
+      "rank": 1728,
       "estimate": "15k+",
       "name": "Economic Miracle"
     },
     "3756040": {
-      "rank": 3607,
+      "rank": 3609,
       "estimate": "<7k",
       "name": "散歩 WALK"
     },
@@ -70,12 +70,12 @@
       "name": "Gate Guard Simulator"
     },
     "4216840": {
-      "rank": 2654,
+      "rank": 2646,
       "estimate": "7k+",
       "name": "Greak 2: Alliance of the Storms"
     },
     "4260540": {
-      "rank": 4513,
+      "rank": 4515,
       "estimate": "<7k",
       "name": "Sacred Angel Crossnia Heart"
     },
@@ -83,6 +83,11 @@
       "rank": 1016,
       "estimate": "25k+",
       "name": "Campwood"
+    },
+    "5086460": {
+      "rank": 5570,
+      "estimate": "<7k",
+      "name": "PeeVPee"
     }
   }
 }
