@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T23:12:16.452Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-08T05:19:32.883Z",
+  "entryCount": 34,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Reverse Dream of the Menasphere",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4496240": {
+      "rank": 4031,
+      "estimate": "<7k",
+      "name": "Suicide Mr. Fury",
+      "releaseDate": "2026-09-07",
       "source": "tracked"
     },
     "4540820": {

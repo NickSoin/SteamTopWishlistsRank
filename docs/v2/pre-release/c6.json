@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-07T23:12:16.452Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-08T05:19:32.883Z",
+  "entryCount": 30,
   "entries": {
     "894620": {
       "rank": 1864,
@@ -197,6 +197,13 @@
       "estimate": "<7k",
       "name": "Blind Touch VR",
       "releaseDate": "2026-08-11",
+      "source": "tracked"
+    },
+    "4587610": {
+      "rank": 5056,
+      "estimate": "<7k",
+      "name": "Dice Tavern: Farkle Roguelike",
+      "releaseDate": "2026-09-07",
       "source": "tracked"
     },
     "4735370": {
