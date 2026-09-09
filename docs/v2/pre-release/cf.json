@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T15:02:30.523Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-09T19:00:21.825Z",
+  "entryCount": 35,
   "entries": {
     "502050": {
       "rank": 1,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "Glimvale : My Mini Overworld",
       "releaseDate": "2026-06-17",
+      "source": "tracked"
+    },
+    "3543070": {
+      "rank": 8772,
+      "estimate": "<7k",
+      "name": "Cordels & Spells",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "3606380": {

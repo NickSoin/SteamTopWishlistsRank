@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T15:02:30.523Z",
-  "entryCount": 24,
+  "updatedAt": "2026-09-09T19:00:21.825Z",
+  "entryCount": 25,
   "entries": {
     "867660": {
       "rank": 651,
@@ -146,6 +146,13 @@
       "estimate": "<7k",
       "name": "Herb Tea Man",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4274260": {
+      "rank": 3287,
+      "estimate": "<7k",
+      "name": "Tales Of Glory 4 : Ragnarok",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "4385270": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T15:02:30.523Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-09T19:00:21.825Z",
+  "entryCount": 37,
   "entries": {
     "637050": {
       "rank": 136,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Spirited Line",
       "releaseDate": "2026-08-19",
+      "source": "tracked"
+    },
+    "4030150": {
+      "rank": 1118,
+      "estimate": "25k+",
+      "name": "The Legend of Fancy Realm Remake",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "4155080": {

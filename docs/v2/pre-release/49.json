@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T15:02:30.523Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-09T19:00:21.825Z",
+  "entryCount": 32,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -162,6 +162,13 @@
       "estimate": "7k+",
       "name": "Clover's Quadrants",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "3353800": {
+      "rank": 1776,
+      "estimate": "15k+",
+      "name": "Golden Swirl",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "3406890": {

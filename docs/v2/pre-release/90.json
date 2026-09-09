@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T15:02:30.523Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-09T19:00:21.825Z",
+  "entryCount": 33,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -190,6 +190,13 @@
       "estimate": "<7k",
       "name": "全网有点怪",
       "releaseDate": "2026-08-20",
+      "source": "tracked"
+    },
+    "4295100": {
+      "rank": 9162,
+      "estimate": "<7k",
+      "name": "PEGTURE: Peg Solitaire Roguelike",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "4435760": {

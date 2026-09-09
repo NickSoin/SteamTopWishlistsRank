@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T15:02:30.523Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-09T19:00:21.825Z",
+  "entryCount": 33,
   "entries": {
     "924750": {
       "rank": 198,
@@ -232,6 +232,13 @@
       "estimate": "<7k",
       "name": "Unseasonable Flowering",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "4586600": {
+      "rank": 9932,
+      "estimate": "<7k",
+      "name": "Squingle Arcade",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     }
   }

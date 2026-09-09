@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T15:02:30.523Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-09T19:00:21.825Z",
+  "entryCount": 38,
   "entries": {
     "593150": {
       "rank": 72,
@@ -198,6 +198,13 @@
       "releaseDate": "2026-04-30",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770236720"
+    },
+    "3306920": {
+      "rank": 1047,
+      "estimate": "25k+",
+      "name": "Cosmic Fear",
+      "releaseDate": "2026-09-09",
+      "source": "tracked"
     },
     "3705150": {
       "rank": 3963,

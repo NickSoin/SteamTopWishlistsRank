@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T15:02:30.523Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-09T19:00:21.825Z",
+  "entryCount": 32,
   "entries": {
     "423640": {
       "rank": 509,
@@ -17,6 +17,13 @@
       "name": "Factorio: Space Age",
       "releaseDate": "2024-10-21",
       "source": "historical"
+    },
+    "868160": {
+      "rank": 1231,
+      "estimate": "25k+",
+      "name": "Code: Terraform",
+      "releaseDate": "2026-09-09",
+      "source": "tracked"
     },
     "924970": {
       "rank": 3,
