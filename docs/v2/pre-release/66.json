@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T05:03:27.327Z",
-  "entryCount": 45,
+  "updatedAt": "2026-09-09T10:20:48.034Z",
+  "entryCount": 46,
   "entries": {
     "976890": {
       "rank": 70,
@@ -240,6 +240,13 @@
       "name": "Cozy Organizer",
       "releaseDate": "2025-09-13",
       "source": "historical"
+    },
+    "3711050": {
+      "rank": 827,
+      "estimate": "40k+",
+      "name": "BeaterCore",
+      "releaseDate": "2026-09-09",
+      "source": "tracked"
     },
     "3878380": {
       "rank": 4060,

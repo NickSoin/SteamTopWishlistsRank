@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T05:03:27.327Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-09T10:20:48.034Z",
+  "entryCount": 34,
   "entries": {
     "919360": {
       "rank": 151,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "The Prince of Tennis Doki Doki Survival ~eternal passion! Tie break ♡ game~",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "3971950": {
+      "rank": 646,
+      "estimate": "40k+",
+      "name": "In Falsus",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "4353630": {
