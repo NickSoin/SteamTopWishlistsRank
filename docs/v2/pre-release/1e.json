@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T10:20:48.034Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-09T15:02:30.523Z",
+  "entryCount": 31,
   "entries": {
     "868270": {
       "rank": 16,
@@ -166,6 +166,13 @@
       "name": "Mech Builder",
       "releaseDate": "2024-07-16",
       "source": "historical"
+    },
+    "3874450": {
+      "rank": 2245,
+      "estimate": "7k+",
+      "name": "Sunset Summit",
+      "releaseDate": "2026-09-09",
+      "source": "tracked"
     },
     "4002100": {
       "rank": 2282,

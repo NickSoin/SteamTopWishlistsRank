@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T10:20:48.034Z",
-  "entryCount": 28,
+  "updatedAt": "2026-09-09T15:02:30.523Z",
+  "entryCount": 29,
   "entries": {
     "659300": {
       "rank": 3018,
@@ -195,6 +195,13 @@
       "estimate": "<7k",
       "name": "Road Defense Racing",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "4664470": {
+      "rank": 5878,
+      "estimate": "<7k",
+      "name": "Bookstore Incremental",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "4670220": {

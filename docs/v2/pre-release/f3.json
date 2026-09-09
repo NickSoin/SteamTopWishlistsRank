@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T10:20:48.034Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-09T15:02:30.523Z",
+  "entryCount": 31,
   "entries": {
     "410740": {
       "rank": 1177,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "outpost4",
       "releaseDate": "2026-08-14",
+      "source": "tracked"
+    },
+    "4454430": {
+      "rank": 4293,
+      "estimate": "<7k",
+      "name": "Planet Killer",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "4641690": {
