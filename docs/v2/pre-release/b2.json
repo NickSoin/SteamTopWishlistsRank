@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 31,
   "entries": {
     "761830": {
       "rank": 31,
@@ -164,6 +164,13 @@
       "name": "Total War: WARHAMMER III - Tamurkhan – Thrones of Decay",
       "releaseDate": "2024-04-30",
       "source": "historical"
+    },
+    "3271280": {
+      "rank": 164,
+      "estimate": "200k+",
+      "name": "Shroom and Gloom",
+      "releaseDate": "2026-09-10",
+      "source": "tracked"
     },
     "3572060": {
       "rank": 9821,

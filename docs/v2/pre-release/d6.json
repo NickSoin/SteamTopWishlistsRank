@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 44,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 45,
   "entries": {
     "1067360": {
       "rank": 130,
@@ -154,6 +154,13 @@
       "releaseDate": "2025-09-19",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5728086065200287578"
+    },
+    "2421750": {
+      "rank": 343,
+      "estimate": "80k+",
+      "name": "Gunman Contracts - Stand Alone",
+      "releaseDate": "2026-09-10",
+      "source": "tracked"
     },
     "2453360": {
       "rank": 2342,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 31,
   "entries": {
     "773370": {
       "rank": 126,
@@ -188,6 +188,13 @@
       "estimate": "15k+",
       "name": "Bonehold",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "3560360": {
+      "rank": 2116,
+      "estimate": "7k+",
+      "name": "Forsworn",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "4324840": {

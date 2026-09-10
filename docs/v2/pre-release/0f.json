@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 36,
   "entries": {
     "436780": {
       "rank": 31,
@@ -228,6 +228,13 @@
       "estimate": "25k+",
       "name": "Battleship Command",
       "releaseDate": "2026-06-02",
+      "source": "tracked"
+    },
+    "3611450": {
+      "rank": 5478,
+      "estimate": "<7k",
+      "name": "Monster Shop Simulator",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "3726370": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 31,
   "entries": {
     "648800": {
       "rank": 25,
@@ -108,6 +108,13 @@
       "name": "AMID EVIL - The Black Labyrinth",
       "releaseDate": "2023-08-17",
       "source": "historical"
+    },
+    "1867240": {
+      "rank": 14,
+      "estimate": "800k+",
+      "name": "WARDOGS",
+      "releaseDate": "2026-09-10",
+      "source": "tracked"
     },
     "1927360": {
       "rank": 781,

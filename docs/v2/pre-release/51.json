@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 38,
   "entries": {
     "467740": {
       "rank": 10,
@@ -31,6 +31,13 @@
       "name": "Jupiter Moons: Mecha🦾",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "1498550": {
+      "rank": 906,
+      "estimate": "40k+",
+      "name": "Infinity: HexaDome Tactics",
+      "releaseDate": "2026-09-10",
+      "source": "tracked"
     },
     "1504570": {
       "rank": 544,

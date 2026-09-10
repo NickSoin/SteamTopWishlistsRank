@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 38,
   "entries": {
     "315210": {
       "rank": 48,
@@ -263,6 +263,13 @@
       "estimate": "<7k",
       "name": "Budget Renovation Simulator",
       "releaseDate": "2026-08-17",
+      "source": "tracked"
+    },
+    "4809960": {
+      "rank": 5484,
+      "estimate": "<7k",
+      "name": "WARDOGS - Supporter Pack",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     }
   }

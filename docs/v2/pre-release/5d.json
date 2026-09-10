@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 41,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 42,
   "entries": {
     "809090": {
       "rank": 1225,
@@ -245,6 +245,13 @@
       "name": "Phantom Brave: The Lost Hero",
       "releaseDate": "2025-04-24",
       "source": "historical"
+    },
+    "3195440": {
+      "rank": 171,
+      "estimate": "200k+",
+      "name": "Welcome to Elderfield",
+      "releaseDate": "2026-09-10",
+      "source": "tracked"
     },
     "3211430": {
       "rank": 460,

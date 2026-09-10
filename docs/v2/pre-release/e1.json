@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 33,
   "entries": {
     "363860": {
       "rank": 339,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "King’s Well",
       "releaseDate": "2026-08-11",
+      "source": "tracked"
+    },
+    "4734530": {
+      "rank": 2728,
+      "estimate": "7k+",
+      "name": "Babes and Battles",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "4741530": {

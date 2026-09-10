@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 26,
   "entries": {
     "917820": {
       "rank": 7584,
@@ -154,6 +154,13 @@
       "name": "Malware",
       "releaseDate": "2024-07-31",
       "source": "historical"
+    },
+    "3954460": {
+      "rank": 2437,
+      "estimate": "7k+",
+      "name": "Spiritus Sancti",
+      "releaseDate": "2026-09-10",
+      "source": "tracked"
     },
     "4233090": {
       "rank": 7988,

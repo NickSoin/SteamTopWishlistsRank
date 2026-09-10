@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 30,
   "entries": {
     "990630": {
       "rank": 139,
@@ -175,6 +175,13 @@
       "name": "Ghost Keeper",
       "releaseDate": "2026-01-28",
       "source": "historical"
+    },
+    "2837780": {
+      "rank": 2282,
+      "estimate": "7k+",
+      "name": "KARJALA",
+      "releaseDate": "2026-09-10",
+      "source": "tracked"
     },
     "2881150": {
       "rank": 2511,

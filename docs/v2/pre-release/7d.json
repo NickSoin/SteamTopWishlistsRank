@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 35,
   "entries": {
     "919360": {
       "rank": 151,
@@ -239,6 +239,13 @@
       "estimate": "25k+",
       "name": "Summer Sisters",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4503970": {
+      "rank": 4554,
+      "estimate": "<7k",
+      "name": "Dual Cultivation Trainer",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "4590400": {

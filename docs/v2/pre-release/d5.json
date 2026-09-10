@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 39,
   "entries": {
     "698670": {
       "rank": 24,
@@ -263,6 +263,13 @@
       "estimate": "15k+",
       "name": "Papa's Mocharia Deluxe",
       "releaseDate": "2026-06-02",
+      "source": "tracked"
+    },
+    "4715320": {
+      "rank": 4433,
+      "estimate": "<7k",
+      "name": "Loop Miner",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "4763080": {

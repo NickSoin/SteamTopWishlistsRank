@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 51,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 52,
   "entries": {
     "748020": {
       "rank": 911,
@@ -330,6 +330,13 @@
       "estimate": "<7k",
       "name": "Dread Fields",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4284670": {
+      "rank": 4284,
+      "estimate": "<7k",
+      "name": "Would You Love Me If I Was a Snake?",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "4600960": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 36,
   "entries": {
     "716350": {
       "rank": 688,
@@ -169,6 +169,13 @@
       "estimate": "<7k",
       "name": "Fried chicken wings cause love fires",
       "releaseDate": "2026-08-05",
+      "source": "tracked"
+    },
+    "3570490": {
+      "rank": 2890,
+      "estimate": "7k+",
+      "name": "Frontier: Path of Shadows",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "3585520": {

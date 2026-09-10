@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T14:31:21.841Z",
-  "entryCount": 22,
+  "updatedAt": "2026-09-10T18:42:19.271Z",
+  "entryCount": 23,
   "entries": {
     "1129540": {
       "rank": 129,
@@ -135,6 +135,13 @@
       "estimate": "<7k",
       "name": "Death row inmates on the run 2--The Resistance",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "4262620": {
+      "rank": 2707,
+      "estimate": "7k+",
+      "name": "The Alighieri Circle: Dante's Bloodline",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "4467980": {
