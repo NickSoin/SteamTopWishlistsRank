@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T05:07:45.416Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-10T10:02:38.448Z",
+  "entryCount": 41,
   "entries": {
     "440000": {
       "rank": 459,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "Tumbles",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4013510": {
+      "rank": 1840,
+      "estimate": "15k+",
+      "name": "Monster Alchemy",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "4033080": {

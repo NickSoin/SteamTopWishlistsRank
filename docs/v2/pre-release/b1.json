@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T05:07:45.416Z",
-  "entryCount": 27,
+  "updatedAt": "2026-09-10T10:02:38.448Z",
+  "entryCount": 29,
   "entries": {
     "844260": {
       "rank": 74,
@@ -176,6 +176,13 @@
       "releaseDate": "2026-06-19",
       "source": "tracked"
     },
+    "3396010": {
+      "rank": 3291,
+      "estimate": "<7k",
+      "name": "Black Friday Janitor: Clean the Whole Mall",
+      "releaseDate": "2026-09-09",
+      "source": "tracked"
+    },
     "3515530": {
       "rank": 605,
       "estimate": "40k+",
@@ -195,6 +202,13 @@
       "estimate": "7k+",
       "name": "Sumire's Secret",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4903800": {
+      "rank": 3838,
+      "estimate": "<7k",
+      "name": "Living on Plain Pasta",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     }
   }

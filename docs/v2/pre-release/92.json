@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T05:07:45.416Z",
-  "entryCount": 28,
+  "updatedAt": "2026-09-10T10:02:38.448Z",
+  "entryCount": 29,
   "entries": {
     "979110": {
       "rank": 38,
@@ -94,6 +94,13 @@
       "name": "Only Up!",
       "releaseDate": "2023-10-03",
       "source": "historical"
+    },
+    "2692620": {
+      "rank": 4295,
+      "estimate": "<7k",
+      "name": "Hazard Pay",
+      "releaseDate": "2026-09-10",
+      "source": "tracked"
     },
     "2854440": {
       "rank": 3260,

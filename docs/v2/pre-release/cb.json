@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T05:07:45.416Z",
-  "entryCount": 18,
+  "updatedAt": "2026-09-10T10:02:38.448Z",
+  "entryCount": 19,
   "entries": {
     "898890": {
       "rank": 231,
@@ -128,6 +128,13 @@
       "estimate": "<7k",
       "name": "Pawbay: Cat Chaos",
       "releaseDate": "2026-08-21",
+      "source": "tracked"
+    },
+    "4909220": {
+      "rank": 4493,
+      "estimate": "<7k",
+      "name": "Mondice",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     }
   }
