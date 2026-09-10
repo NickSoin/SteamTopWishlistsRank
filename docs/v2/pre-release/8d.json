@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T10:02:38.448Z",
-  "entryCount": 28,
+  "updatedAt": "2026-09-10T14:31:21.841Z",
+  "entryCount": 29,
   "entries": {
     "1079230": {
       "rank": 572,
@@ -164,6 +164,13 @@
       "name": "100 Cats London",
       "releaseDate": "2025-03-16",
       "source": "historical"
+    },
+    "3275050": {
+      "rank": 1089,
+      "estimate": "25k+",
+      "name": "Ex Sanguis",
+      "releaseDate": "2026-09-10",
+      "source": "tracked"
     },
     "3894790": {
       "rank": 3298,

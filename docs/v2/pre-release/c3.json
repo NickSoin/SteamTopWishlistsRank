@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T10:02:38.448Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-10T14:31:21.841Z",
+  "entryCount": 31,
   "entries": {
     "736820": {
       "rank": 19,
@@ -149,6 +149,13 @@
       "estimate": "25k+",
       "name": "Mexican Ninja",
       "releaseDate": "2026-08-20",
+      "source": "tracked"
+    },
+    "3944440": {
+      "rank": 7345,
+      "estimate": "<7k",
+      "name": "Legends of Aria Eternal",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "4064510": {

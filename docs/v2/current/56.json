@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-10T10:02:38.448Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-10T14:31:21.841Z",
+  "entryCount": 27,
   "entries": {
     "1025560": {
-      "rank": 5180,
+      "rank": 5174,
       "estimate": "<7k",
       "name": "Flea Madness"
     },
     "1081830": {
-      "rank": 2522,
+      "rank": 2518,
       "estimate": "7k+",
       "name": "Blood And Mead"
     },
     "1155850": {
-      "rank": 2874,
+      "rank": 2868,
       "estimate": "7k+",
       "name": "Lost Viking: Kingdom of Women"
     },
     "1307150": {
-      "rank": 2832,
+      "rank": 2827,
       "estimate": "7k+",
       "name": "MLF: Pro Catch"
     },
@@ -30,27 +30,27 @@
       "name": "Derelicts"
     },
     "1734130": {
-      "rank": 5704,
+      "rank": 5693,
       "estimate": "<7k",
       "name": "Concerto on White"
     },
     "1736200": {
-      "rank": 3301,
+      "rank": 3294,
       "estimate": "<7k",
       "name": "Sealed Gate"
     },
     "1941640": {
-      "rank": 1601,
+      "rank": 1598,
       "estimate": "15k+",
       "name": "4D Miner"
     },
     "2202650": {
-      "rank": 1235,
+      "rank": 1232,
       "estimate": "25k+",
       "name": "Crescent County"
     },
     "2210240": {
-      "rank": 3621,
+      "rank": 3615,
       "estimate": "<7k",
       "name": "Hoglands"
     },
@@ -60,17 +60,17 @@
       "name": "Permafrost"
     },
     "2542170": {
-      "rank": 1651,
+      "rank": 1646,
       "estimate": "15k+",
       "name": "MOONSHIRE"
     },
     "2666160": {
-      "rank": 1269,
+      "rank": 1267,
       "estimate": "25k+",
       "name": "STARVEIL PROTOCOL A.A.A."
     },
     "2946530": {
-      "rank": 3431,
+      "rank": 3427,
       "estimate": "<7k",
       "name": "Tornado Emergency"
     },
@@ -80,7 +80,7 @@
       "name": "Quite a Ride"
     },
     "3259000": {
-      "rank": 3095,
+      "rank": 3089,
       "estimate": "<7k",
       "name": "Crathos Deep"
     },
@@ -90,37 +90,37 @@
       "name": "Black Pine: Incident Response"
     },
     "3819020": {
-      "rank": 4039,
+      "rank": 4033,
       "estimate": "<7k",
       "name": "DEADBOOT"
     },
     "3863050": {
-      "rank": 5529,
+      "rank": 5521,
       "estimate": "<7k",
       "name": "Order of Wallachia"
     },
     "3880400": {
-      "rank": 1686,
+      "rank": 1680,
       "estimate": "15k+",
       "name": "FRUKT"
     },
     "4224700": {
-      "rank": 4882,
+      "rank": 4870,
       "estimate": "<7k",
       "name": "万念仙城"
     },
     "4370210": {
-      "rank": 3599,
+      "rank": 3591,
       "estimate": "<7k",
       "name": "Split Brain Samsara"
     },
     "4459720": {
-      "rank": 4503,
+      "rank": 4498,
       "estimate": "<7k",
       "name": "Cyber Demon Protocol"
     },
     "4514140": {
-      "rank": 4436,
+      "rank": 4432,
       "estimate": "<7k",
       "name": "CHEW YOUR FOOD"
     },
@@ -130,9 +130,14 @@
       "name": "Abiotic Factor - Entropic Break"
     },
     "4689550": {
-      "rank": 4708,
+      "rank": 4701,
       "estimate": "<7k",
       "name": "RuneCipher"
+    },
+    "5063690": {
+      "rank": 5695,
+      "estimate": "<7k",
+      "name": "The Wandering Earth: The Last Full Moon"
     }
   }
 }

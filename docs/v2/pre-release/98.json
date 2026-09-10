@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T10:02:38.448Z",
-  "entryCount": 27,
+  "updatedAt": "2026-09-10T14:31:21.841Z",
+  "entryCount": 28,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -135,6 +135,13 @@
       "name": "Castle Crashers - Painter Boss Paradise",
       "releaseDate": "2025-08-06",
       "source": "historical"
+    },
+    "3209160": {
+      "rank": 3449,
+      "estimate": "<7k",
+      "name": "Grandpa's Bee Haven",
+      "releaseDate": "2026-09-10",
+      "source": "tracked"
     },
     "3601630": {
       "rank": 2948,

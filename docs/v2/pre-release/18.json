@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T10:02:38.448Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-10T14:31:21.841Z",
+  "entryCount": 35,
   "entries": {
     "759080": {
       "rank": 605,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "KAMI 2",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "3488640": {
+      "rank": 1422,
+      "estimate": "25k+",
+      "name": "Magical Blush",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "4007040": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T10:02:38.448Z",
-  "entryCount": 27,
+  "updatedAt": "2026-09-10T14:31:21.841Z",
+  "entryCount": 28,
   "entries": {
     "843810": {
       "rank": 198,
@@ -142,6 +142,13 @@
       "estimate": "7k+",
       "name": "My Infamous Dungeon",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "3674680": {
+      "rank": 2111,
+      "estimate": "7k+",
+      "name": "Roguecraft DX",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "4174310": {
