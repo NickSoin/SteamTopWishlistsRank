@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T23:04:20.693Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-10T05:07:45.416Z",
+  "entryCount": 39,
   "entries": {
     "593150": {
       "rank": 72,
@@ -253,6 +253,13 @@
       "estimate": "7k+",
       "name": "The Forbidden Tomes of Olipos",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "4522480": {
+      "rank": 2627,
+      "estimate": "7k+",
+      "name": "Slime Slayer: Endless Loot",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "4533370": {

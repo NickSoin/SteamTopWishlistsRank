@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T23:04:20.693Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-10T05:07:45.416Z",
+  "entryCount": 32,
   "entries": {
     "868270": {
       "rank": 16,
@@ -179,6 +179,13 @@
       "estimate": "7k+",
       "name": "Spirit Talk - Cozy Visual Novel",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4264270": {
+      "rank": 4507,
+      "estimate": "<7k",
+      "name": "Fuyukuru. - Winter winds, adieu? -",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "4286120": {

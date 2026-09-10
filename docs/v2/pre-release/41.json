@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T23:04:20.693Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-10T05:07:45.416Z",
+  "entryCount": 35,
   "entries": {
     "338820": {
       "rank": 1245,
@@ -235,6 +235,13 @@
       "estimate": "15k+",
       "name": "R-Type Dimensions III",
       "releaseDate": "2026-05-18",
+      "source": "tracked"
+    },
+    "4246640": {
+      "rank": 2262,
+      "estimate": "7k+",
+      "name": "Dungeon Brawls",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "4632100": {

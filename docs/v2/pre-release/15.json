@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T23:04:20.693Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-10T05:07:45.416Z",
+  "entryCount": 34,
   "entries": {
     "467700": {
       "rank": 1203,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "Deep Board Go",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4252960": {
+      "rank": 3931,
+      "estimate": "<7k",
+      "name": "HoloTrials: Case Covered",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "4766160": {
