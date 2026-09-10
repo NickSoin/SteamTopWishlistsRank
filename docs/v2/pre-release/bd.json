@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T19:00:21.825Z",
-  "entryCount": 49,
+  "updatedAt": "2026-09-09T23:04:20.693Z",
+  "entryCount": 50,
   "entries": {
     "347800": {
       "rank": 198,
@@ -340,6 +340,13 @@
       "estimate": "<7k",
       "name": "Soccer Kid Collection (QUByte Classics)",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4754110": {
+      "rank": 9607,
+      "estimate": "<7k",
+      "name": "INKUBO",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "4860970": {

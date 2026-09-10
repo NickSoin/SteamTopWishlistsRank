@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T19:00:21.825Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-09T23:04:20.693Z",
+  "entryCount": 27,
   "entries": {
     "493520": {
       "rank": 14,
@@ -152,6 +152,13 @@
       "name": "Over The Top: WWI",
       "releaseDate": "2026-03-06",
       "source": "historical"
+    },
+    "3123060": {
+      "rank": 985,
+      "estimate": "40k+",
+      "name": "Warlord: Awaji",
+      "releaseDate": "2026-09-09",
+      "source": "tracked"
     },
     "3469450": {
       "rank": 660,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T19:00:21.825Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-09T23:04:20.693Z",
+  "entryCount": 38,
   "entries": {
     "751780": {
       "rank": 21,
@@ -244,6 +244,13 @@
       "estimate": "25k+",
       "name": "Abyss Kitchen",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "3881510": {
+      "rank": 1553,
+      "estimate": "15k+",
+      "name": "Reverse T-gotchi",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "3979330": {

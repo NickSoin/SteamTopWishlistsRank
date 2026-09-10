@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-09T19:00:21.825Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-09T23:04:20.693Z",
+  "entryCount": 36,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Flats Full of Cats: Gold & Candles",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "4391380": {
+      "rank": 2211,
+      "estimate": "7k+",
+      "name": "Artillery Miner",
+      "releaseDate": "2026-09-09",
       "source": "tracked"
     },
     "4502180": {
