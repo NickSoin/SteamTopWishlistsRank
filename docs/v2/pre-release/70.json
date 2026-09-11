@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T05:16:01.459Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-11T10:02:00.162Z",
+  "entryCount": 32,
   "entries": {
     "752290": {
       "rank": 6262,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Dusk City - Beacon of Tranquility",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4895560": {
+      "rank": 2984,
+      "estimate": "7k+",
+      "name": "Journey to Echo",
+      "releaseDate": "2026-09-11",
       "source": "tracked"
     }
   }

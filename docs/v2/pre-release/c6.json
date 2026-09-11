@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T05:16:01.459Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-11T10:02:00.162Z",
+  "entryCount": 31,
   "entries": {
     "894620": {
       "rank": 1864,
@@ -211,6 +211,13 @@
       "estimate": "<7k",
       "name": "ZDSimulator - Kyiv-Vasylkiv2 Route",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "4821420": {
+      "rank": 5073,
+      "estimate": "<7k",
+      "name": "Uninitialized",
+      "releaseDate": "2026-09-11",
       "source": "tracked"
     },
     "4948000": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T05:16:01.459Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-11T10:02:00.162Z",
+  "entryCount": 34,
   "entries": {
     "894020": {
       "rank": 39,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "Necrowhisper",
       "releaseDate": "2026-09-06",
+      "source": "tracked"
+    },
+    "3664060": {
+      "rank": 3067,
+      "estimate": "<7k",
+      "name": "Starweaver Express ~Per aspera ad astra~",
+      "releaseDate": "2026-09-11",
       "source": "tracked"
     },
     "3739300": {

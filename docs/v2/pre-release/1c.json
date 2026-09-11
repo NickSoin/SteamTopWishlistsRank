@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T05:16:01.459Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-11T10:02:00.162Z",
+  "entryCount": 26,
   "entries": {
     "897450": {
       "rank": 15,
@@ -163,6 +163,13 @@
       "estimate": "40k+",
       "name": "Static Dread: The Submarine",
       "releaseDate": "2026-08-14",
+      "source": "tracked"
+    },
+    "4368640": {
+      "rank": 3961,
+      "estimate": "<7k",
+      "name": "DIG Raiders: Anomaly Extraction",
+      "releaseDate": "2026-09-11",
       "source": "tracked"
     },
     "4516900": {

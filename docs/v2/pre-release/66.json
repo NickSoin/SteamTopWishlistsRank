@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T05:16:01.459Z",
-  "entryCount": 46,
+  "updatedAt": "2026-09-11T10:02:00.162Z",
+  "entryCount": 47,
   "entries": {
     "976890": {
       "rank": 70,
@@ -330,6 +330,13 @@
       "estimate": "25k+",
       "name": "Shelve the Potions!",
       "releaseDate": "2026-08-24",
+      "source": "tracked"
+    },
+    "4951590": {
+      "rank": 1780,
+      "estimate": "15k+",
+      "name": "Ball Scratch Simulator",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     }
   }
