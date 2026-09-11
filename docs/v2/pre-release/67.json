@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T10:02:00.162Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-11T14:53:08.158Z",
+  "entryCount": 37,
   "entries": {
     "1014260": {
       "rank": 2706,
@@ -228,6 +228,13 @@
       "estimate": "40k+",
       "name": "Forest Escape: Last Train",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4150860": {
+      "rank": 594,
+      "estimate": "40k+",
+      "name": "The Loopler",
+      "releaseDate": "2026-09-11",
       "source": "tracked"
     },
     "4272270": {

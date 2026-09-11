@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T10:02:00.162Z",
-  "entryCount": 46,
+  "updatedAt": "2026-09-11T14:53:08.158Z",
+  "entryCount": 47,
   "entries": {
     "720660": {
       "rank": 1007,
@@ -319,6 +319,13 @@
       "estimate": "<7k",
       "name": "Clank-Robotics",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4677610": {
+      "rank": 6010,
+      "estimate": "<7k",
+      "name": "Increbouncer",
+      "releaseDate": "2026-09-11",
       "source": "tracked"
     },
     "4760110": {

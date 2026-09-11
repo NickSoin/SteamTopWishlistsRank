@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T10:02:00.162Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-11T14:53:08.158Z",
+  "entryCount": 31,
   "entries": {
     "1172470": {
       "rank": 18,
@@ -165,6 +165,13 @@
       "estimate": "7k+",
       "name": "Trials Survivors",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "3856240": {
+      "rank": 6666,
+      "estimate": "<7k",
+      "name": "Pieces of the Kingdom",
+      "releaseDate": "2026-09-11",
       "source": "tracked"
     },
     "3894440": {
