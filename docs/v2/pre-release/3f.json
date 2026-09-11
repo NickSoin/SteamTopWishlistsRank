@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T14:53:08.158Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-11T19:07:00.286Z",
+  "entryCount": 32,
   "entries": {
     "546560": {
       "rank": 11,
@@ -164,6 +164,13 @@
       "name": "SILENT HILL f",
       "releaseDate": "2025-09-24",
       "source": "historical"
+    },
+    "3393280": {
+      "rank": 245,
+      "estimate": "80k+",
+      "name": "Anime Shop Simulator ✨",
+      "releaseDate": "2026-09-11",
+      "source": "tracked"
     },
     "3396290": {
       "rank": 844,

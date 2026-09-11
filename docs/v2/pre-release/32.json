@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T14:53:08.158Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-11T19:07:00.286Z",
+  "entryCount": 37,
   "entries": {
     "851850": {
       "rank": 23,
@@ -229,6 +229,13 @@
       "estimate": "<7k",
       "name": "Space Imperia 4X",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "3998990": {
+      "rank": 4777,
+      "estimate": "<7k",
+      "name": "Deep Sheol",
+      "releaseDate": "2026-09-11",
       "source": "tracked"
     },
     "4110900": {

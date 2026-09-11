@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T14:53:08.158Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-11T19:07:00.286Z",
+  "entryCount": 30,
   "entries": {
     "1219240": {
       "rank": 736,
@@ -177,6 +177,13 @@
       "name": "Contraband Police - Crimson Fall",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3804930": {
+      "rank": 1634,
+      "estimate": "15k+",
+      "name": "Burger Shift: Team Rush",
+      "releaseDate": "2026-09-11",
+      "source": "tracked"
     },
     "4108000": {
       "rank": 216,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T14:53:08.158Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-11T19:07:00.286Z",
+  "entryCount": 35,
   "entries": {
     "850170": {
       "rank": 394,
@@ -205,6 +205,13 @@
       "estimate": "7k+",
       "name": "Dverghold",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "4319660": {
+      "rank": 4590,
+      "estimate": "<7k",
+      "name": "Moon Garden",
+      "releaseDate": "2026-09-11",
       "source": "tracked"
     },
     "4414640": {

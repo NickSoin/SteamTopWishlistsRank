@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T14:53:08.158Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-11T19:07:00.286Z",
+  "entryCount": 39,
   "entries": {
     "751780": {
       "rank": 21,
@@ -231,6 +231,13 @@
       "name": "Dungeon Vixens: A Tale of Temptation",
       "releaseDate": "2024-04-08",
       "source": "historical"
+    },
+    "3257780": {
+      "rank": 2118,
+      "estimate": "7k+",
+      "name": "Your Story: Games with Death",
+      "releaseDate": "2026-09-11",
+      "source": "tracked"
     },
     "3440070": {
       "rank": 53,
