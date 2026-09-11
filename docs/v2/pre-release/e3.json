@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-10T22:58:01.482Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-11T05:16:01.459Z",
+  "entryCount": 36,
   "entries": {
     "830580": {
       "rank": 135,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "Atomcraft",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "2824570": {
+      "rank": 1728,
+      "estimate": "15k+",
+      "name": "The Starborn Return",
+      "releaseDate": "2026-09-10",
       "source": "tracked"
     },
     "3091140": {
