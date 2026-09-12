@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-12T04:54:25.597Z",
-  "entryCount": 19,
+  "updatedAt": "2026-09-12T09:56:55.969Z",
+  "entryCount": 20,
   "entries": {
     "1036430": {
-      "rank": 3145,
+      "rank": 3150,
       "estimate": "<7k",
       "name": "Neverdark"
     },
@@ -20,7 +20,7 @@
       "name": "Automation Station"
     },
     "2085660": {
-      "rank": 4627,
+      "rank": 4629,
       "estimate": "<7k",
       "name": "Devices Tycoon"
     },
@@ -30,32 +30,32 @@
       "name": "Begone Beast"
     },
     "2492620": {
-      "rank": 1802,
+      "rank": 1805,
       "estimate": "15k+",
       "name": "Fattening Career"
     },
     "2531840": {
-      "rank": 4838,
+      "rank": 4841,
       "estimate": "<7k",
       "name": "Goeland: Seagull Adventure"
     },
     "2575040": {
-      "rank": 2721,
+      "rank": 2726,
       "estimate": "7k+",
       "name": "Mansion of Memories"
     },
     "2791260": {
-      "rank": 3287,
+      "rank": 3289,
       "estimate": "<7k",
       "name": "Iron Inc."
     },
     "2847820": {
-      "rank": 4645,
+      "rank": 4648,
       "estimate": "<7k",
       "name": "Elderwood Online"
     },
     "2902600": {
-      "rank": 4073,
+      "rank": 4074,
       "estimate": "<7k",
       "name": "Call of Elyndra"
     },
@@ -65,14 +65,19 @@
       "name": "Dungeons & Furry"
     },
     "2989890": {
-      "rank": 3254,
+      "rank": 3259,
       "estimate": "<7k",
       "name": "Formula Circus"
     },
     "3070430": {
-      "rank": 2217,
+      "rank": 2220,
       "estimate": "7k+",
       "name": "Nova Era:Atom"
+    },
+    "3648480": {
+      "rank": 5705,
+      "estimate": "<7k",
+      "name": "Endless War"
     },
     "3734220": {
       "rank": 331,
@@ -80,7 +85,7 @@
       "name": "Guns of Eschaton"
     },
     "3792170": {
-      "rank": 4192,
+      "rank": 4195,
       "estimate": "<7k",
       "name": "LOVE WMC"
     },
@@ -90,12 +95,12 @@
       "name": "Lost Track"
     },
     "4404070": {
-      "rank": 4752,
+      "rank": 4753,
       "estimate": "<7k",
       "name": "Farming Simulator 25: Beans & Alpacas Expansion"
     },
     "4553370": {
-      "rank": 4993,
+      "rank": 4988,
       "estimate": "<7k",
       "name": "SOMBRAS: negative frames"
     }

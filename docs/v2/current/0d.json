@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-12T04:54:25.597Z",
-  "entryCount": 20,
+  "updatedAt": "2026-09-12T09:56:55.969Z",
+  "entryCount": 21,
   "entries": {
     "1234990": {
-      "rank": 3472,
+      "rank": 3474,
       "estimate": "<7k",
       "name": "Pry Into The Void"
     },
     "1528950": {
-      "rank": 4908,
+      "rank": 4911,
       "estimate": "<7k",
       "name": "主播模拟器（Streamer Simulator）"
     },
     "1661480": {
-      "rank": 3903,
+      "rank": 3906,
       "estimate": "<7k",
       "name": "Fear Underground"
     },
     "1717730": {
-      "rank": 1307,
+      "rank": 1308,
       "estimate": "25k+",
       "name": "LUCID"
     },
@@ -35,7 +35,7 @@
       "name": "Don't Starve Elsewhere"
     },
     "2269490": {
-      "rank": 4989,
+      "rank": 4993,
       "estimate": "<7k",
       "name": "Small Town Emo"
     },
@@ -45,17 +45,17 @@
       "name": "Design and Conjure"
     },
     "2707440": {
-      "rank": 2995,
+      "rank": 2999,
       "estimate": "7k+",
       "name": "Floralis"
     },
     "2838890": {
-      "rank": 3988,
+      "rank": 3990,
       "estimate": "<7k",
       "name": "Mithrall"
     },
     "3145650": {
-      "rank": 3240,
+      "rank": 3244,
       "estimate": "<7k",
       "name": "ノナプルナイン：アシンプトート"
     },
@@ -65,44 +65,49 @@
       "name": "FUMEHEAD"
     },
     "3285390": {
-      "rank": 3572,
+      "rank": 3573,
       "estimate": "<7k",
       "name": "SeverLink"
     },
     "3462580": {
-      "rank": 4350,
+      "rank": 4352,
       "estimate": "<7k",
       "name": "Factory Life"
     },
     "3698370": {
-      "rank": 4854,
+      "rank": 4857,
       "estimate": "<7k",
       "name": "Knockout Master 2"
     },
     "3736070": {
-      "rank": 3422,
+      "rank": 3428,
       "estimate": "<7k",
       "name": "Survivors Guild"
     },
     "3797220": {
-      "rank": 2123,
+      "rank": 2122,
       "estimate": "7k+",
       "name": "Frankie's Fun House"
     },
     "3925810": {
-      "rank": 4036,
+      "rank": 4037,
       "estimate": "<7k",
       "name": "The Lurking Fear"
     },
     "4051800": {
-      "rank": 3264,
+      "rank": 3268,
       "estimate": "<7k",
       "name": "Crime Scene Clean: Paranormal"
     },
     "4076560": {
-      "rank": 5648,
+      "rank": 5650,
       "estimate": "<7k",
       "name": "fox girl next door"
+    },
+    "4762560": {
+      "rank": 5700,
+      "estimate": "<7k",
+      "name": "Etranger In the City of Doom"
     }
   }
 }
