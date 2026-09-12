@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T19:07:00.286Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-11T23:01:42.252Z",
+  "entryCount": 34,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -226,6 +226,13 @@
       "estimate": "15k+",
       "name": "Control, I'm Not Coming Back",
       "releaseDate": "2026-05-29",
+      "source": "tracked"
+    },
+    "4624470": {
+      "rank": 5884,
+      "estimate": "<7k",
+      "name": "Pengzle:Arctic Arcane",
+      "releaseDate": "2026-09-11",
       "source": "tracked"
     },
     "4734670": {

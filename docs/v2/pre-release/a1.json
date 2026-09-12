@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T19:07:00.286Z",
-  "entryCount": 43,
+  "updatedAt": "2026-09-11T23:01:42.252Z",
+  "entryCount": 44,
   "entries": {
     "619390": {
       "rank": 926,
@@ -288,6 +288,13 @@
       "estimate": "7k+",
       "name": "War Commander",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4354460": {
+      "rank": 9874,
+      "estimate": "<7k",
+      "name": "Survivor's Notes",
+      "releaseDate": "2026-09-11",
       "source": "tracked"
     },
     "4409870": {
