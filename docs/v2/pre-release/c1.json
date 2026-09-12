@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-11T23:01:42.252Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-12T04:54:25.597Z",
+  "entryCount": 26,
   "entries": {
     "912840": {
       "rank": 1084,
@@ -151,6 +151,13 @@
       "estimate": "<7k",
       "name": "Donutal",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "4071460": {
+      "rank": 2399,
+      "estimate": "7k+",
+      "name": "Tentacle Locker 2",
+      "releaseDate": "2026-09-11",
       "source": "tracked"
     },
     "4332910": {
