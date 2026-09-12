@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-12T09:56:55.969Z",
-  "entryCount": 22,
+  "updatedAt": "2026-09-12T14:00:09.349Z",
+  "entryCount": 23,
   "entries": {
     "1505310": {
       "rank": 3784,
@@ -10,12 +10,12 @@
       "name": "Risu"
     },
     "1794000": {
-      "rank": 2222,
+      "rank": 2223,
       "estimate": "7k+",
       "name": "Remnants of R'lyeh"
     },
     "1829140": {
-      "rank": 4005,
+      "rank": 4006,
       "estimate": "<7k",
       "name": "Resistance 204X"
     },
@@ -25,7 +25,7 @@
       "name": "Combustion"
     },
     "2249060": {
-      "rank": 1990,
+      "rank": 1992,
       "estimate": "15k+",
       "name": "Edenfall: Legacy of the First Wardens"
     },
@@ -40,7 +40,7 @@
       "name": "Diecast"
     },
     "2474170": {
-      "rank": 5611,
+      "rank": 5613,
       "estimate": "<7k",
       "name": "Astral Rot"
     },
@@ -50,12 +50,12 @@
       "name": "IRONHIVE"
     },
     "2837690": {
-      "rank": 664,
+      "rank": 663,
       "estimate": "40k+",
       "name": "Dungeons & Dragons: Long Rest Tavern"
     },
     "3010380": {
-      "rank": 3409,
+      "rank": 3403,
       "estimate": "<7k",
       "name": "Tape 101: Liminal Descent"
     },
@@ -65,7 +65,7 @@
       "name": "C-Beams"
     },
     "3248310": {
-      "rank": 4467,
+      "rank": 4466,
       "estimate": "<7k",
       "name": "Karting of Banban"
     },
@@ -80,37 +80,42 @@
       "name": "Nobility Simulator"
     },
     "3804370": {
-      "rank": 884,
+      "rank": 879,
       "estimate": "40k+",
       "name": "The Piper of Dawn"
     },
     "3856030": {
-      "rank": 1280,
+      "rank": 1281,
       "estimate": "25k+",
       "name": "Bolt Action"
     },
     "4249000": {
-      "rank": 4921,
+      "rank": 4922,
       "estimate": "<7k",
       "name": "Stellar Freight: Endless Horizon"
     },
     "4549500": {
-      "rank": 1791,
+      "rank": 1792,
       "estimate": "15k+",
       "name": "Sleepover"
     },
     "4827950": {
-      "rank": 4457,
+      "rank": 4456,
       "estimate": "<7k",
       "name": "Steel Maiden"
     },
+    "4900110": {
+      "rank": 5710,
+      "estimate": "<7k",
+      "name": "Oops… I Hooked Up with a Mermaid 🎣😳"
+    },
     "4982840": {
-      "rank": 4496,
+      "rank": 4492,
       "estimate": "<7k",
       "name": "Tidy Wizard: A Place For Every Plate"
     },
     "5032500": {
-      "rank": 1870,
+      "rank": 1861,
       "estimate": "15k+",
       "name": "Sid Meier's Civilization® VII: Earthrise"
     }

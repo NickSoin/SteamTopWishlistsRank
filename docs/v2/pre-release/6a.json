@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-12T09:56:55.969Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-12T14:00:09.349Z",
+  "entryCount": 33,
   "entries": {
     "536270": {
       "rank": 17,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "SkyChart: Airline Executive",
       "releaseDate": "2026-07-12",
+      "source": "tracked"
+    },
+    "4602300": {
+      "rank": 1518,
+      "estimate": "15k+",
+      "name": "Next Girl, Please 🎬",
+      "releaseDate": "2026-09-12",
       "source": "tracked"
     }
   }
