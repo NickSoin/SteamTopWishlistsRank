@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-13T10:36:27.004Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-13T18:42:10.554Z",
+  "entryCount": 35,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "Left Not Right",
       "releaseDate": "2026-08-20",
+      "source": "tracked"
+    },
+    "5018390": {
+      "rank": 4286,
+      "estimate": "<7k",
+      "name": "Beyond Yardwork Simulator Prologue",
+      "releaseDate": "2026-09-13",
       "source": "tracked"
     }
   }
