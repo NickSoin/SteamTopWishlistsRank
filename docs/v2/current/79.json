@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-13T18:42:10.554Z",
-  "entryCount": 18,
+  "updatedAt": "2026-09-13T22:35:27.482Z",
+  "entryCount": 19,
   "entries": {
     "1897450": {
       "rank": 3525,
@@ -10,27 +10,27 @@
       "name": "U-Boot: The Board Game - Digital Edition"
     },
     "2514330": {
-      "rank": 1711,
+      "rank": 1700,
       "estimate": "15k+",
       "name": "The Rabbit Haul"
     },
     "2659040": {
-      "rank": 2979,
+      "rank": 2980,
       "estimate": "7k+",
       "name": "M.O.Z.I"
     },
     "2728050": {
-      "rank": 1321,
+      "rank": 1322,
       "estimate": "25k+",
       "name": "Scratchin' Melodii"
     },
     "3002740": {
-      "rank": 2235,
+      "rank": 2236,
       "estimate": "7k+",
       "name": "Project Solaris"
     },
     "3039430": {
-      "rank": 5332,
+      "rank": 5334,
       "estimate": "<7k",
       "name": "MECHIEVAL"
     },
@@ -40,7 +40,7 @@
       "name": "Golf With Your Friends 2"
     },
     "3255500": {
-      "rank": 606,
+      "rank": 604,
       "estimate": "40k+",
       "name": "Ved: Recure"
     },
@@ -50,17 +50,17 @@
       "name": "Wasteland Travelers"
     },
     "3314140": {
-      "rank": 3783,
+      "rank": 3784,
       "estimate": "<7k",
       "name": "Fevercide"
     },
     "3410390": {
-      "rank": 1831,
+      "rank": 1833,
       "estimate": "15k+",
       "name": "Hear Tell of Hauntings"
     },
     "3525890": {
-      "rank": 5071,
+      "rank": 5075,
       "estimate": "<7k",
       "name": "Future Vibe Check"
     },
@@ -70,29 +70,34 @@
       "name": "Roomies with a Naughty Comic Artist"
     },
     "3689840": {
-      "rank": 5548,
+      "rank": 5550,
       "estimate": "<7k",
       "name": "INSPEKTOR"
     },
     "3822320": {
-      "rank": 1655,
+      "rank": 1656,
       "estimate": "15k+",
       "name": "Dream Hollow"
     },
     "3831210": {
-      "rank": 1867,
+      "rank": 1862,
       "estimate": "15k+",
       "name": "Lawn Mowing Simulator 2"
     },
     "4151300": {
-      "rank": 641,
+      "rank": 642,
       "estimate": "40k+",
       "name": "Sublustrum"
     },
     "4626170": {
-      "rank": 4062,
+      "rank": 4065,
       "estimate": "<7k",
       "name": "LISIA"
+    },
+    "4660280": {
+      "rank": 5672,
+      "estimate": "<7k",
+      "name": "DUAL PROTOCOL: The Case of Eva & Miles"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-13T18:42:10.554Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-13T22:35:27.482Z",
+  "entryCount": 37,
   "entries": {
     "774791": {
       "rank": 539,
@@ -240,6 +240,13 @@
       "estimate": "15k+",
       "name": "Don't Let It Starve",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4580600": {
+      "rank": 2173,
+      "estimate": "7k+",
+      "name": "Animaly Bar: NO HUMANITY!",
+      "releaseDate": "2026-09-13",
       "source": "tracked"
     },
     "4639520": {
