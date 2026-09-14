@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T05:16:21.561Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-14T10:59:25.008Z",
+  "entryCount": 41,
   "entries": {
     "714370": {
       "rank": 8,
@@ -261,6 +261,13 @@
       "estimate": "<7k",
       "name": "Be Missed and Remembered: The Letter from Mayoiga",
       "releaseDate": "2026-07-09",
+      "source": "tracked"
+    },
+    "4138930": {
+      "rank": 6672,
+      "estimate": "<7k",
+      "name": "GameZone",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4521680": {

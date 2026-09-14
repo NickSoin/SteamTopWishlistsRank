@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T05:16:21.561Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-14T10:59:25.008Z",
+  "entryCount": 37,
   "entries": {
     "553420": {
       "rank": 45,
@@ -191,6 +191,13 @@
       "estimate": "15k+",
       "name": "Ludus Magnatus: Gladiator Manager Simulator",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4375110": {
+      "rank": 1371,
+      "estimate": "25k+",
+      "name": "Tropical Lust",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4376090": {

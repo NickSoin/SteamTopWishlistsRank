@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T05:16:21.561Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-14T10:59:25.008Z",
+  "entryCount": 32,
   "entries": {
     "653060": {
       "rank": 687,
@@ -165,6 +165,13 @@
       "estimate": "40k+",
       "name": "BLUE REFLECTION Quartet",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "4300090": {
+      "rank": 727,
+      "estimate": "40k+",
+      "name": "Neat!",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4380120": {

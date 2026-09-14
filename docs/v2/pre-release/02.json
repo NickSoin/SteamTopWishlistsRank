@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T05:16:21.561Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-14T10:59:25.008Z",
+  "entryCount": 38,
   "entries": {
     "844980": {
       "rank": 112,
@@ -233,6 +233,13 @@
       "estimate": "80k+",
       "name": "Approximately Up",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "3947460": {
+      "rank": 522,
+      "estimate": "40k+",
+      "name": "Creator Chronicles",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4001350": {

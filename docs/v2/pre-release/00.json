@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T05:16:21.561Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-14T10:59:25.008Z",
+  "entryCount": 33,
   "entries": {
     "763180": {
       "rank": 734,
@@ -198,6 +198,13 @@
       "estimate": "40k+",
       "name": "Bookbinding – Dark Cozy Sim",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "3711100": {
+      "rank": 8648,
+      "estimate": "<7k",
+      "name": "Depth of Mind",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "3756930": {

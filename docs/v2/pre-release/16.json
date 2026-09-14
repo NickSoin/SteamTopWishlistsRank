@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T05:16:21.561Z",
-  "entryCount": 24,
+  "updatedAt": "2026-09-14T10:59:25.008Z",
+  "entryCount": 25,
   "entries": {
     "597820": {
       "rank": 2,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "Loot Dungeon",
       "releaseDate": "2026-08-18",
+      "source": "tracked"
+    },
+    "4540130": {
+      "rank": 1689,
+      "estimate": "15k+",
+      "name": "KUNFU",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4548480": {
