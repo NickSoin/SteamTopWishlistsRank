@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T10:59:25.008Z",
-  "entryCount": 24,
+  "updatedAt": "2026-09-14T20:04:20.456Z",
+  "entryCount": 25,
   "entries": {
     "580640": {
       "rank": 369,
@@ -135,6 +135,13 @@
       "estimate": "40k+",
       "name": "The Left Behind",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "2548910": {
+      "rank": 3492,
+      "estimate": "<7k",
+      "name": "Peacemaker: Bloody Emperor",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "2710650": {

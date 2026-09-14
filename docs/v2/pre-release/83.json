@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T10:59:25.008Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-14T20:04:20.456Z",
+  "entryCount": 37,
   "entries": {
     "867210": {
       "rank": 90,
@@ -226,6 +226,13 @@
       "estimate": "25k+",
       "name": "Alice and the Devil's Prison",
       "releaseDate": "2026-08-07",
+      "source": "tracked"
+    },
+    "4311520": {
+      "rank": 8055,
+      "estimate": "<7k",
+      "name": "Tennis",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4334910": {

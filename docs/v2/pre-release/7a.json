@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T10:59:25.008Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-14T20:04:20.456Z",
+  "entryCount": 31,
   "entries": {
     "1219240": {
       "rank": 736,
@@ -154,6 +154,13 @@
       "name": "Terrifier: The ARTcade Game",
       "releaseDate": "2025-11-21",
       "source": "historical"
+    },
+    "3180340": {
+      "rank": 717,
+      "estimate": "40k+",
+      "name": "RIG Riot",
+      "releaseDate": "2026-09-14",
+      "source": "tracked"
     },
     "3273480": {
       "rank": 13,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T10:59:25.008Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-14T20:04:20.456Z",
+  "entryCount": 37,
   "entries": {
     "649950": {
       "rank": 19,
@@ -212,6 +212,13 @@
       "name": "I Have No Change",
       "releaseDate": "2027-01-01",
       "source": "historical"
+    },
+    "4091920": {
+      "rank": 3209,
+      "estimate": "<7k",
+      "name": "Schedule Store Simulator",
+      "releaseDate": "2026-09-14",
+      "source": "tracked"
     },
     "4273540": {
       "rank": 7529,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T10:59:25.008Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-14T20:04:20.456Z",
+  "entryCount": 40,
   "entries": {
     "680420": {
       "rank": 15,
@@ -262,6 +262,13 @@
       "estimate": "<7k",
       "name": "UNHUMAN",
       "releaseDate": "2026-08-10",
+      "source": "tracked"
+    },
+    "4311760": {
+      "rank": 6443,
+      "estimate": "<7k",
+      "name": "Penguin",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4534200": {

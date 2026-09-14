@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T10:59:25.008Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-14T20:04:20.456Z",
+  "entryCount": 30,
   "entries": {
     "905530": {
       "rank": 585,
@@ -138,6 +138,13 @@
       "releaseDate": "2026-04-16",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257705"
+    },
+    "2436870": {
+      "rank": 1801,
+      "estimate": "15k+",
+      "name": "Sigilfarer: A Dice-Rolling Roguelite",
+      "releaseDate": "2026-09-14",
+      "source": "tracked"
     },
     "2484130": {
       "rank": 39,

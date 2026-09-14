@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T10:59:25.008Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-14T20:04:20.456Z",
+  "entryCount": 34,
   "entries": {
     "606160": {
       "rank": 145,
@@ -197,6 +197,13 @@
       "estimate": "<7k",
       "name": "Tiny Train Adventures",
       "releaseDate": "2026-07-25",
+      "source": "tracked"
+    },
+    "4221990": {
+      "rank": 2708,
+      "estimate": "7k+",
+      "name": "Fish Lab",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4336290": {

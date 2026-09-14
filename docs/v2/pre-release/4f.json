@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T10:59:25.008Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-14T20:04:20.456Z",
+  "entryCount": 34,
   "entries": {
     "290100": {
       "rank": 249,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Tide Of Tactics",
       "releaseDate": "2026-08-07",
+      "source": "tracked"
+    },
+    "4301110": {
+      "rank": 2327,
+      "estimate": "7k+",
+      "name": "The Headlands",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4449300": {

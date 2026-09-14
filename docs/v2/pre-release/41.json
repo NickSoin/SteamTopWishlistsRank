@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T10:59:25.008Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-14T20:04:20.456Z",
+  "entryCount": 36,
   "entries": {
     "338820": {
       "rank": 1245,
@@ -193,6 +193,13 @@
       "estimate": "15k+",
       "name": "Inkwellers",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3562200": {
+      "rank": 1674,
+      "estimate": "15k+",
+      "name": "Cloudscrapers",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "3936450": {

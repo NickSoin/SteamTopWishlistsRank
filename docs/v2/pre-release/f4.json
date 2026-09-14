@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T10:59:25.008Z",
-  "entryCount": 47,
+  "updatedAt": "2026-09-14T20:04:20.456Z",
+  "entryCount": 48,
   "entries": {
     "858820": {
       "rank": 1,
@@ -296,6 +296,13 @@
       "estimate": "<7k",
       "name": "Neofold",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4538140": {
+      "rank": 833,
+      "estimate": "40k+",
+      "name": "Rehaunted",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4617670": {

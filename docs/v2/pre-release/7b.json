@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T10:59:25.008Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-14T20:04:20.456Z",
+  "entryCount": 34,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -157,6 +157,13 @@
       "name": "Pebbles Quest",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3034660": {
+      "rank": 2134,
+      "estimate": "7k+",
+      "name": "Dunebound Tactics",
+      "releaseDate": "2026-09-14",
+      "source": "tracked"
     },
     "3183760": {
       "rank": 208,

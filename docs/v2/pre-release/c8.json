@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T10:59:25.008Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-14T20:04:20.456Z",
+  "entryCount": 41,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -274,6 +274,13 @@
       "estimate": "<7k",
       "name": "Dread Admiral",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "4628250": {
+      "rank": 2518,
+      "estimate": "7k+",
+      "name": "How to Grow Your Sausage",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4642650": {
