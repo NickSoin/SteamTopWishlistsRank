@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T20:04:20.456Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-14T23:39:20.170Z",
+  "entryCount": 38,
   "entries": {
     "774791": {
       "rank": 539,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Sins of a Solar Empire II: Harbinger",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "3220370": {
+      "rank": 4461,
+      "estimate": "<7k",
+      "name": "Soul Injector Commando",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "3279440": {

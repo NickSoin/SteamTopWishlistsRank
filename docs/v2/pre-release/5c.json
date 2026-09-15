@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T20:04:20.456Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-14T23:39:20.170Z",
+  "entryCount": 31,
   "entries": {
     "753640": {
       "rank": 18,
@@ -183,6 +183,13 @@
       "estimate": "7k+",
       "name": "ERROR143 - Day 6",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4165890": {
+      "rank": 14,
+      "estimate": "800k+",
+      "name": "Steam Frame",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4395510": {

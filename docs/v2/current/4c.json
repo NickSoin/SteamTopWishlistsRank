@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-14T20:04:20.456Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-14T23:39:20.170Z",
+  "entryCount": 26,
   "entries": {
     "1163350": {
-      "rank": 1520,
+      "rank": 1521,
       "estimate": "15k+",
       "name": "Property Tycoon"
     },
     "1596350": {
-      "rank": 2748,
+      "rank": 2749,
       "estimate": "7k+",
       "name": "Spiritlink Tactics"
     },
     "1625630": {
-      "rank": 4805,
+      "rank": 4806,
       "estimate": "<7k",
       "name": "AB AETERNO"
     },
@@ -30,12 +30,12 @@
       "name": "INSTINCTION"
     },
     "2294530": {
-      "rank": 5348,
+      "rank": 5347,
       "estimate": "<7k",
       "name": "幻夜图书馆 - Library of Phantom Night"
     },
     "2323140": {
-      "rank": 3797,
+      "rank": 3799,
       "estimate": "<7k",
       "name": "Ringash"
     },
@@ -50,7 +50,7 @@
       "name": "Paranormal Records"
     },
     "2484890": {
-      "rank": 4161,
+      "rank": 4164,
       "estimate": "<7k",
       "name": "Deeper Still"
     },
@@ -65,17 +65,17 @@
       "name": "The Oversight Bureau"
     },
     "2870790": {
-      "rank": 500,
+      "rank": 499,
       "estimate": "80k+",
       "name": "Dumpster Gang"
     },
     "3150620": {
-      "rank": 1922,
+      "rank": 1924,
       "estimate": "15k+",
       "name": "SOVIET SPOOKY TALES: Green Eyes"
     },
     "3168520": {
-      "rank": 2150,
+      "rank": 2152,
       "estimate": "7k+",
       "name": "BloomTale"
     },
@@ -85,12 +85,12 @@
       "name": "Maid Cafe Simulator"
     },
     "3237240": {
-      "rank": 3336,
+      "rank": 3337,
       "estimate": "<7k",
       "name": "The Soul"
     },
     "3275400": {
-      "rank": 1576,
+      "rank": 1566,
       "estimate": "15k+",
       "name": "PATLABOR the Case Files"
     },
@@ -110,7 +110,7 @@
       "name": "Fractured Blooms"
     },
     "3814270": {
-      "rank": 1864,
+      "rank": 1866,
       "estimate": "15k+",
       "name": "Froggy Brews"
     },
@@ -118,6 +118,11 @@
       "rank": 1489,
       "estimate": "25k+",
       "name": "BATARA: FATE UNBOUND"
+    },
+    "4096590": {
+      "rank": 3874,
+      "estimate": "<7k",
+      "name": "NTREX"
     },
     "4179990": {
       "rank": 4742,

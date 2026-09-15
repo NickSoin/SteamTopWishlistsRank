@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-14T20:04:20.456Z",
-  "entryCount": 16,
+  "updatedAt": "2026-09-14T23:39:20.170Z",
+  "entryCount": 17,
   "entries": {
     "1104800": {
       "rank": 3166,
@@ -10,7 +10,7 @@
       "name": "Radiance"
     },
     "1602920": {
-      "rank": 3246,
+      "rank": 3247,
       "estimate": "<7k",
       "name": "The Last Barbarian"
     },
@@ -20,12 +20,12 @@
       "name": "HistoriCity: Florence"
     },
     "2849380": {
-      "rank": 5420,
+      "rank": 5421,
       "estimate": "<7k",
       "name": "Succubus Dungeon"
     },
     "2932680": {
-      "rank": 2444,
+      "rank": 2442,
       "estimate": "7k+",
       "name": "Nomori"
     },
@@ -45,17 +45,17 @@
       "name": "The Bureau of Fantastical & Arcane Affairs"
     },
     "3637250": {
-      "rank": 2640,
+      "rank": 2644,
       "estimate": "7k+",
       "name": "The Well's Blessing"
     },
     "3797790": {
-      "rank": 2197,
+      "rank": 2198,
       "estimate": "7k+",
       "name": "Abyssal Lapidary"
     },
     "3891160": {
-      "rank": 896,
+      "rank": 895,
       "estimate": "40k+",
       "name": "CRYMELIGHT"
     },
@@ -70,19 +70,24 @@
       "name": "Everbrew"
     },
     "4114220": {
-      "rank": 3137,
+      "rank": 3110,
       "estimate": "<7k",
       "name": "Tempest Rising: The Veti’s Wrath"
     },
     "4261650": {
-      "rank": 2337,
+      "rank": 2339,
       "estimate": "7k+",
       "name": "MASAKRE"
     },
     "4265830": {
-      "rank": 4608,
+      "rank": 4609,
       "estimate": "<7k",
       "name": "Spyder: Agent 8"
+    },
+    "4878690": {
+      "rank": 3327,
+      "estimate": "<7k",
+      "name": "Don't Pick Up"
     }
   }
 }
