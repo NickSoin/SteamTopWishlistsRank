@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T05:24:34.886Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-15T10:37:34.565Z",
+  "entryCount": 35,
   "entries": {
     "894020": {
       "rank": 39,
@@ -237,6 +237,13 @@
       "estimate": "<7k",
       "name": "Train Valley 2: Workshop Gems - Onyx",
       "releaseDate": "2026-08-26",
+      "source": "tracked"
+    },
+    "4535730": {
+      "rank": 8229,
+      "estimate": "<7k",
+      "name": "Throttle Trace",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     },
     "4623260": {

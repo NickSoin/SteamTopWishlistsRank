@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T05:24:34.886Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-15T10:37:34.565Z",
+  "entryCount": 35,
   "entries": {
     "789150": {
       "rank": 34,
@@ -239,6 +239,13 @@
       "estimate": "<7k",
       "name": "Choice of Life: Floors",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "4563910": {
+      "rank": 7890,
+      "estimate": "<7k",
+      "name": "The Bow: Ultimate weapon",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     },
     "4657260": {

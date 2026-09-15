@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T05:24:34.886Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-15T10:37:34.565Z",
+  "entryCount": 30,
   "entries": {
     "900040": {
       "rank": 60,
@@ -156,6 +156,13 @@
       "estimate": "80k+",
       "name": "Hell Maiden",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "3891400": {
+      "rank": 1025,
+      "estimate": "25k+",
+      "name": "Mixed Spirits: Bartender",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     },
     "3971290": {

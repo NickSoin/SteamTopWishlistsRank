@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T05:24:34.886Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-15T10:37:34.565Z",
+  "entryCount": 32,
   "entries": {
     "1219240": {
       "rank": 736,
@@ -160,6 +160,13 @@
       "estimate": "40k+",
       "name": "RIG Riot",
       "releaseDate": "2026-09-14",
+      "source": "tracked"
+    },
+    "3199470": {
+      "rank": 1632,
+      "estimate": "15k+",
+      "name": "Knuckle Jet",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     },
     "3273480": {

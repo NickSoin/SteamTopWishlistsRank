@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T05:24:34.886Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-15T10:37:34.565Z",
+  "entryCount": 34,
   "entries": {
     "363860": {
       "rank": 339,
@@ -168,6 +168,13 @@
       "name": "Euro Truck Simulator 2 - Greece",
       "releaseDate": "2024-12-04",
       "source": "historical"
+    },
+    "2887580": {
+      "rank": 62,
+      "estimate": "300k+",
+      "name": "Active Matter",
+      "releaseDate": "2026-09-15",
+      "source": "tracked"
     },
     "3219140": {
       "rank": 2275,
