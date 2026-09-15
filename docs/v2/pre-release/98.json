@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T15:21:25.198Z",
-  "entryCount": 28,
+  "updatedAt": "2026-09-15T19:09:55.484Z",
+  "entryCount": 29,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -197,6 +197,13 @@
       "estimate": "<7k",
       "name": "Ball & Gun",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4678800": {
+      "rank": 2005,
+      "estimate": "7k+",
+      "name": "Train Sim World® 7",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     },
     "4935510": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T15:21:25.198Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-15T19:09:55.484Z",
+  "entryCount": 41,
   "entries": {
     "698670": {
       "rank": 24,
@@ -249,6 +249,13 @@
       "estimate": "15k+",
       "name": "Spirit Dungeon",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4562940": {
+      "rank": 1807,
+      "estimate": "15k+",
+      "name": "HOPE 01",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     },
     "4610760": {

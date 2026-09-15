@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T15:21:25.198Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-15T19:09:55.484Z",
+  "entryCount": 30,
   "entries": {
     "844260": {
       "rank": 74,
@@ -202,6 +202,13 @@
       "estimate": "7k+",
       "name": "Sumire's Secret",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4414270": {
+      "rank": 2818,
+      "estimate": "7k+",
+      "name": "PawMart Tiny Market",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     },
     "4903800": {
