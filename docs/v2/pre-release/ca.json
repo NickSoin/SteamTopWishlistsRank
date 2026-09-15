@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T10:37:34.565Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-15T15:21:25.198Z",
+  "entryCount": 31,
   "entries": {
     "757310": {
       "rank": 43,
@@ -191,6 +191,13 @@
       "estimate": "15k+",
       "name": "Disgaea Mayhem",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4868870": {
+      "rank": 5566,
+      "estimate": "<7k",
+      "name": "theHunter: Call of the Wild™ - Old West Weapon Pack",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     },
     "4891320": {

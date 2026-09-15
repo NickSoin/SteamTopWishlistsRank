@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T10:37:34.565Z",
-  "entryCount": 45,
+  "updatedAt": "2026-09-15T15:21:25.198Z",
+  "entryCount": 46,
   "entries": {
     "454120": {
       "rank": 35,
@@ -276,6 +276,13 @@
       "name": "Moomintroll: Winter's Warmth",
       "releaseDate": "2026-04-27",
       "source": "historical"
+    },
+    "3620890": {
+      "rank": 2663,
+      "estimate": "7k+",
+      "name": "Cloudbreaker",
+      "releaseDate": "2026-09-15",
+      "source": "tracked"
     },
     "4220350": {
       "rank": 7602,

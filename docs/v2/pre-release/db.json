@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T10:37:34.565Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-15T15:21:25.198Z",
+  "entryCount": 35,
   "entries": {
     "771700": {
       "rank": 1063,
@@ -210,6 +210,13 @@
       "name": "Starground",
       "releaseDate": "2024-08-19",
       "source": "historical"
+    },
+    "3542330": {
+      "rank": 6250,
+      "estimate": "<7k",
+      "name": "Station Command",
+      "releaseDate": "2026-09-15",
+      "source": "tracked"
     },
     "3963050": {
       "rank": 2221,

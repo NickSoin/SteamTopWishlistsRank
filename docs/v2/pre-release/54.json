@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T10:37:34.565Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-15T15:21:25.198Z",
+  "entryCount": 35,
   "entries": {
     "889750": {
       "rank": 90,
@@ -240,6 +240,13 @@
       "estimate": "<7k",
       "name": "nonogram",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4668870": {
+      "rank": 3450,
+      "estimate": "<7k",
+      "name": "Medieval Juice Crafter",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     }
   }

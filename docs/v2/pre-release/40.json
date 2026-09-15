@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T10:37:34.565Z",
-  "entryCount": 47,
+  "updatedAt": "2026-09-15T15:21:25.198Z",
+  "entryCount": 48,
   "entries": {
     "720660": {
       "rank": 1007,
@@ -319,6 +319,13 @@
       "estimate": "<7k",
       "name": "Clank-Robotics",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4659250": {
+      "rank": 2486,
+      "estimate": "7k+",
+      "name": "A Game About Flipping Cards",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     },
     "4677610": {

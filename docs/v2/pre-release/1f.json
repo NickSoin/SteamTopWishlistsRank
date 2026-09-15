@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T10:37:34.565Z",
-  "entryCount": 42,
+  "updatedAt": "2026-09-15T15:21:25.198Z",
+  "entryCount": 43,
   "entries": {
     "830540": {
       "rank": 1466,
@@ -290,6 +290,13 @@
       "estimate": "<7k",
       "name": "SCP The Beginning",
       "releaseDate": "2026-08-26",
+      "source": "tracked"
+    },
+    "4162670": {
+      "rank": 6324,
+      "estimate": "<7k",
+      "name": "Look to the Birds",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     },
     "4241690": {
