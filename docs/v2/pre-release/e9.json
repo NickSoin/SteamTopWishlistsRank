@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T23:39:20.170Z",
-  "entryCount": 23,
+  "updatedAt": "2026-09-15T05:24:34.886Z",
+  "entryCount": 24,
   "entries": {
     "1129540": {
       "rank": 129,
@@ -142,6 +142,13 @@
       "estimate": "7k+",
       "name": "The Alighieri Circle: Dante's Bloodline",
       "releaseDate": "2026-09-10",
+      "source": "tracked"
+    },
+    "4270230": {
+      "rank": 5722,
+      "estimate": "<7k",
+      "name": "Idle Bookstore",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     },
     "4467980": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-14T23:39:20.170Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-15T05:24:34.886Z",
+  "entryCount": 36,
   "entries": {
     "919360": {
       "rank": 151,
@@ -253,6 +253,13 @@
       "estimate": "<7k",
       "name": "Raccoon Packer: A Cozy Puzzle Game",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4742180": {
+      "rank": 4063,
+      "estimate": "<7k",
+      "name": "開かないランドリー",
+      "releaseDate": "2026-09-14",
       "source": "tracked"
     }
   }
