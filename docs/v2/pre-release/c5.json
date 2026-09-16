@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T19:09:55.484Z",
-  "entryCount": 46,
+  "updatedAt": "2026-09-15T23:06:38.867Z",
+  "entryCount": 47,
   "entries": {
     "595500": {
       "rank": 511,
@@ -321,6 +321,13 @@
       "estimate": "<7k",
       "name": "Scratch Off!",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4559380": {
+      "rank": 3415,
+      "estimate": "<7k",
+      "name": "ChibiMation",
+      "releaseDate": null,
       "source": "tracked"
     },
     "4697170": {
