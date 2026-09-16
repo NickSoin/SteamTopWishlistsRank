@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T10:23:03.001Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-16T15:13:52.146Z",
+  "entryCount": 33,
   "entries": {
     "674140": {
       "rank": 537,
@@ -175,6 +175,13 @@
       "name": "American Truck Simulator - Illinois",
       "releaseDate": "2026-05-14",
       "source": "historical"
+    },
+    "3570470": {
+      "rank": 3276,
+      "estimate": "<7k",
+      "name": "Dark Farts: Parody Smell Edition",
+      "releaseDate": "2026-09-16",
+      "source": "tracked"
     },
     "3948910": {
       "rank": 8983,

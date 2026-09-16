@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T10:23:03.001Z",
-  "entryCount": 47,
+  "updatedAt": "2026-09-16T15:13:52.146Z",
+  "entryCount": 48,
   "entries": {
     "976890": {
       "rank": 70,
@@ -274,6 +274,13 @@
       "estimate": "15k+",
       "name": "Wild West Miner Simulator",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "4163960": {
+      "rank": 661,
+      "estimate": "40k+",
+      "name": "Another Eden Begins",
+      "releaseDate": "2026-09-16",
       "source": "tracked"
     },
     "4217690": {

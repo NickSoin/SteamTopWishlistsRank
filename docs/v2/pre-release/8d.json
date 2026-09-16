@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T10:23:03.001Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-16T15:13:52.146Z",
+  "entryCount": 30,
   "entries": {
     "1079230": {
       "rank": 572,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "CharaDiary",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4986890": {
+      "rank": 4841,
+      "estimate": "<7k",
+      "name": "Old Market Restored",
+      "releaseDate": "2026-09-16",
       "source": "tracked"
     }
   }

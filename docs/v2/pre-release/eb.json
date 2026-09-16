@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T10:23:03.001Z",
-  "entryCount": 18,
+  "updatedAt": "2026-09-16T15:13:52.146Z",
+  "entryCount": 19,
   "entries": {
     "849100": {
       "rank": 19,
@@ -87,6 +87,13 @@
       "name": "Arma 3 Creator DLC: Reaction Forces",
       "releaseDate": "2024-03-26",
       "source": "historical"
+    },
+    "2680440": {
+      "rank": 2687,
+      "estimate": "7k+",
+      "name": "MONOWAVE",
+      "releaseDate": "2026-09-16",
+      "source": "tracked"
     },
     "2693930": {
       "rank": 825,

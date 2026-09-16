@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T10:23:03.001Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-16T15:13:52.146Z",
+  "entryCount": 33,
   "entries": {
     "774801": {
       "rank": 157,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "Kooeh: A Timeless Delight",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "3275400": {
+      "rank": 1445,
+      "estimate": "25k+",
+      "name": "PATLABOR the Case Files",
+      "releaseDate": "2026-09-16",
       "source": "tracked"
     },
     "3424930": {
