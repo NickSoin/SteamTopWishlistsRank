@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T05:01:10.932Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-16T10:23:03.001Z",
+  "entryCount": 39,
   "entries": {
     "467740": {
       "rank": 10,
@@ -171,6 +171,13 @@
       "name": "Travellin Cats in Germany",
       "releaseDate": "2024-10-16",
       "source": "historical"
+    },
+    "3351280": {
+      "rank": 5020,
+      "estimate": "<7k",
+      "name": "Tinker Shot",
+      "releaseDate": "2026-09-16",
+      "source": "tracked"
     },
     "3569560": {
       "rank": 4517,
