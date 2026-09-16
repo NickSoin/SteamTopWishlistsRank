@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T15:13:52.146Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-16T19:18:20.354Z",
+  "entryCount": 41,
   "entries": {
     "690370": {
       "rank": 17,
@@ -255,6 +255,13 @@
       "name": "Revelation of Decay",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3636520": {
+      "rank": 5068,
+      "estimate": "<7k",
+      "name": "Harvest Scream",
+      "releaseDate": "2026-09-16",
+      "source": "tracked"
     },
     "4135750": {
       "rank": 2053,

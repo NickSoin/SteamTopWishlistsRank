@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T15:13:52.146Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-16T19:18:20.354Z",
+  "entryCount": 33,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -89,6 +89,13 @@
       "name": "Yasha: Legends of the Demon Blade",
       "releaseDate": "2025-05-14",
       "source": "historical"
+    },
+    "2231460": {
+      "rank": 1469,
+      "estimate": "25k+",
+      "name": "Roman Sands RE:Build",
+      "releaseDate": "2026-09-16",
+      "source": "tracked"
     },
     "2262020": {
       "rank": 1317,

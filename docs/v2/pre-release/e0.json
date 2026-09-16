@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T15:13:52.146Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-16T19:18:20.354Z",
+  "entryCount": 35,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -170,6 +170,13 @@
       "estimate": "40k+",
       "name": "Lunarium",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "3034650": {
+      "rank": 1726,
+      "estimate": "15k+",
+      "name": "BloomKeeper",
+      "releaseDate": "2026-09-16",
       "source": "tracked"
     },
     "3180830": {

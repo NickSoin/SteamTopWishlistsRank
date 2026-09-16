@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T15:13:52.146Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-16T19:18:20.354Z",
+  "entryCount": 32,
   "entries": {
     "894620": {
       "rank": 1864,
@@ -183,6 +183,13 @@
       "estimate": "<7k",
       "name": "Dragon Ruins II: Aftermath",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4140530": {
+      "rank": 3544,
+      "estimate": "<7k",
+      "name": "The Plant Shop",
+      "releaseDate": "2026-09-16",
       "source": "tracked"
     },
     "4448490": {

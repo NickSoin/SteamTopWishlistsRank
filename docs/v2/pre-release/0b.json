@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T15:13:52.146Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-16T19:18:20.354Z",
+  "entryCount": 33,
   "entries": {
     "779340": {
       "rank": 5,
@@ -192,6 +192,13 @@
       "name": "Fears to Fathom - Woodbury Getaway",
       "releaseDate": "2024-09-12",
       "source": "historical"
+    },
+    "3120460": {
+      "rank": 2743,
+      "estimate": "7k+",
+      "name": "Night Club Simulator: Party King",
+      "releaseDate": "2026-09-16",
+      "source": "tracked"
     },
     "3923270": {
       "rank": 9074,

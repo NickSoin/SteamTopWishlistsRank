@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T15:13:52.146Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-16T19:18:20.354Z",
+  "entryCount": 41,
   "entries": {
     "680420": {
       "rank": 15,
@@ -290,6 +290,13 @@
       "estimate": "<7k",
       "name": "The Wheelchair Man",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4870430": {
+      "rank": 2162,
+      "estimate": "7k+",
+      "name": "Tidy Up History",
+      "releaseDate": "2026-09-16",
       "source": "tracked"
     }
   }

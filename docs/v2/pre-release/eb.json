@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T15:13:52.146Z",
-  "entryCount": 19,
+  "updatedAt": "2026-09-16T19:18:20.354Z",
+  "entryCount": 20,
   "entries": {
     "849100": {
       "rank": 19,
@@ -117,6 +117,13 @@
       "name": "Elite Exorcist Miko",
       "releaseDate": "2024-12-25",
       "source": "historical"
+    },
+    "3639070": {
+      "rank": 228,
+      "estimate": "80k+",
+      "name": "BLACKWOOD",
+      "releaseDate": "2026-09-16",
+      "source": "tracked"
     },
     "4131670": {
       "rank": 1992,

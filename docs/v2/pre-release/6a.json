@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T15:13:52.146Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-16T19:18:20.354Z",
+  "entryCount": 34,
   "entries": {
     "536270": {
       "rank": 17,
@@ -235,6 +235,13 @@
       "estimate": "15k+",
       "name": "Next Girl, Please 🎬",
       "releaseDate": "2026-09-12",
+      "source": "tracked"
+    },
+    "4655810": {
+      "rank": 8720,
+      "estimate": "<7k",
+      "name": "Decide Your Fate",
+      "releaseDate": "2026-09-16",
       "source": "tracked"
     }
   }
