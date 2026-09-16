@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T23:06:38.867Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-16T05:01:10.932Z",
+  "entryCount": 39,
   "entries": {
     "787510": {
       "rank": 1631,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "Veil of Mist",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4182430": {
+      "rank": 4217,
+      "estimate": "<7k",
+      "name": "DEATH PENALTY",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     },
     "4668390": {

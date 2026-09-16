@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-15T23:06:38.867Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-16T05:01:10.932Z",
+  "entryCount": 34,
   "entries": {
     "1368180": {
-      "rank": 1885,
+      "rank": 1884,
       "estimate": "15k+",
       "name": "Wildekin"
     },
     "1501730": {
-      "rank": 4878,
+      "rank": 4883,
       "estimate": "<7k",
       "name": "Villagedom"
     },
@@ -20,22 +20,22 @@
       "name": "EDEN.schemata();"
     },
     "1811350": {
-      "rank": 5562,
+      "rank": 5560,
       "estimate": "<7k",
       "name": "Zombie Hell: Infected City"
     },
     "1897950": {
-      "rank": 4690,
+      "rank": 4687,
       "estimate": "<7k",
       "name": "Sirenhead: Southpoint"
     },
     "1962900": {
-      "rank": 4910,
+      "rank": 4908,
       "estimate": "<7k",
       "name": "Nekomancer: Seeded by Darkness"
     },
     "2223260": {
-      "rank": 5582,
+      "rank": 5581,
       "estimate": "<7k",
       "name": "The Strange Box"
     },
@@ -45,17 +45,17 @@
       "name": "Glasshouse"
     },
     "2349630": {
-      "rank": 1456,
+      "rank": 1455,
       "estimate": "25k+",
       "name": "Litchi Town"
     },
     "2352230": {
-      "rank": 2007,
+      "rank": 2006,
       "estimate": "7k+",
       "name": "Little Big Adventure - Purple Empire"
     },
     "2513200": {
-      "rank": 4111,
+      "rank": 4107,
       "estimate": "<7k",
       "name": "Mystic Land: The Search for Maphaldo"
     },
@@ -65,12 +65,12 @@
       "name": "Arcane Eats"
     },
     "2651470": {
-      "rank": 3192,
+      "rank": 3195,
       "estimate": "<7k",
       "name": "Demon Hunting Diary"
     },
     "3017130": {
-      "rank": 3990,
+      "rank": 3991,
       "estimate": "<7k",
       "name": "Bashful Adoration"
     },
@@ -80,27 +80,27 @@
       "name": "Tomo: Endless Blue"
     },
     "3305820": {
-      "rank": 5574,
+      "rank": 5575,
       "estimate": "<7k",
       "name": "Infinite Ball Well"
     },
     "3328490": {
-      "rank": 1114,
+      "rank": 1111,
       "estimate": "25k+",
       "name": "Airport Control 27"
     },
     "3462170": {
-      "rank": 5167,
+      "rank": 5163,
       "estimate": "<7k",
       "name": "Obsidian Moon"
     },
     "3506070": {
-      "rank": 4009,
+      "rank": 4008,
       "estimate": "<7k",
       "name": "Teios Journey"
     },
     "3807500": {
-      "rank": 4688,
+      "rank": 4685,
       "estimate": "<7k",
       "name": "Zortch 2"
     },
@@ -110,7 +110,7 @@
       "name": "687 Days on Mars"
     },
     "3857790": {
-      "rank": 3666,
+      "rank": 3668,
       "estimate": "<7k",
       "name": "Kami Quest: Enter the Imagynasium"
     },
@@ -120,54 +120,59 @@
       "name": "How to Fix the Future: Book One"
     },
     "4102150": {
-      "rank": 4988,
+      "rank": 4986,
       "estimate": "<7k",
       "name": "Touhou Hero of Ice Fairy DLC3 - Fairies' Haunted Mansion"
     },
     "4296370": {
-      "rank": 2265,
+      "rank": 2263,
       "estimate": "7k+",
       "name": "Every Wednesday"
     },
     "4303380": {
-      "rank": 4025,
+      "rank": 4022,
       "estimate": "<7k",
       "name": "Catomino"
     },
     "4372700": {
-      "rank": 3976,
+      "rank": 3980,
       "estimate": "<7k",
       "name": "Narco Check"
     },
     "4639760": {
-      "rank": 3543,
+      "rank": 3540,
       "estimate": "<7k",
       "name": "Radioactive Roses"
     },
     "4843820": {
-      "rank": 4999,
+      "rank": 4987,
       "estimate": "<7k",
       "name": "SEX for MONEY ≠ CHEATING 🔞"
     },
     "4849350": {
-      "rank": 2133,
+      "rank": 2116,
       "estimate": "7k+",
       "name": "MechWarrior 5: Mercenaries - Ashes and Ascension"
     },
     "4924590": {
-      "rank": 5278,
+      "rank": 5275,
       "estimate": "<7k",
       "name": "Mumbai Chef - Junk Food Simulator"
     },
     "4980400": {
-      "rank": 4133,
+      "rank": 4134,
       "estimate": "<7k",
       "name": "IRON SANCTUARY"
     },
     "5006530": {
-      "rank": 28,
+      "rank": 27,
       "estimate": "600k+",
       "name": "The Witcher 3: Wild Hunt — Songs of the Past"
+    },
+    "5064350": {
+      "rank": 5720,
+      "estimate": "<7k",
+      "name": "Schedule: Rehab Business"
     }
   }
 }

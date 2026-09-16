@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-15T23:06:38.867Z",
-  "entryCount": 42,
+  "updatedAt": "2026-09-16T05:01:10.932Z",
+  "entryCount": 43,
   "entries": {
     "440000": {
       "rank": 459,
@@ -282,6 +282,13 @@
       "estimate": "<7k",
       "name": "Unwoven",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4651910": {
+      "rank": 1396,
+      "estimate": "25k+",
+      "name": "Sister Leticia: The First Mission!",
+      "releaseDate": "2026-09-15",
       "source": "tracked"
     },
     "4798110": {
