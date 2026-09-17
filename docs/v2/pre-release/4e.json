@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T10:16:06.332Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-17T15:30:06.509Z",
+  "entryCount": 35,
   "entries": {
     "611360": {
       "rank": 243,
@@ -206,6 +206,13 @@
       "name": "GOSDOOMA",
       "releaseDate": "2025-12-27",
       "source": "historical"
+    },
+    "2977260": {
+      "rank": 146,
+      "estimate": "200k+",
+      "name": "The Guild 1 Remake: Europa 1410",
+      "releaseDate": "2026-09-17",
+      "source": "tracked"
     },
     "3624790": {
       "rank": 1379,

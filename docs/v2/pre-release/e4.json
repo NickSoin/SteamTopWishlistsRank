@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T10:16:06.332Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-17T15:30:06.509Z",
+  "entryCount": 39,
   "entries": {
     "774791": {
       "rank": 539,
@@ -213,6 +213,13 @@
       "name": "Gunfire Reborn - Realm of Frost and Inkwash",
       "releaseDate": "2024-09-11",
       "source": "historical"
+    },
+    "3133670": {
+      "rank": 8806,
+      "estimate": "<7k",
+      "name": "Hunter: The Reckoning — Day For Night",
+      "releaseDate": "2026-09-17",
+      "source": "tracked"
     },
     "3195300": {
       "rank": 3364,

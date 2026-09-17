@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T10:16:06.332Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-17T15:30:06.509Z",
+  "entryCount": 31,
   "entries": {
     "429380": {
       "rank": 36,
@@ -177,6 +177,13 @@
       "releaseDate": "2026-04-02",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592120403"
+    },
+    "2841650": {
+      "rank": 1440,
+      "estimate": "25k+",
+      "name": "Sniper Dan",
+      "releaseDate": "2026-09-17",
+      "source": "tracked"
     },
     "3102370": {
       "rank": 4705,

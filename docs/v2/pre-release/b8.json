@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T10:16:06.332Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-17T15:30:06.509Z",
+  "entryCount": 33,
   "entries": {
     "485400": {
       "rank": 112,
@@ -168,6 +168,13 @@
       "name": "Sex & Blood: Vampires",
       "releaseDate": "2024-10-05",
       "source": "historical"
+    },
+    "3048060": {
+      "rank": 790,
+      "estimate": "40k+",
+      "name": "Trivia Murder Party 3",
+      "releaseDate": "2026-09-17",
+      "source": "tracked"
     },
     "3127280": {
       "rank": 49,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T10:16:06.332Z",
-  "entryCount": 21,
+  "updatedAt": "2026-09-17T15:30:06.509Z",
+  "entryCount": 22,
   "entries": {
     "1071140": {
       "rank": 202,
@@ -115,6 +115,13 @@
       "name": "Sea Fantasy",
       "releaseDate": "2025-01-07",
       "source": "historical"
+    },
+    "2938460": {
+      "rank": 593,
+      "estimate": "40k+",
+      "name": "Police Chief Simulator",
+      "releaseDate": "2026-09-17",
+      "source": "tracked"
     },
     "3544130": {
       "rank": 873,

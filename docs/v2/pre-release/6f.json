@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T10:16:06.332Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-17T15:30:06.509Z",
+  "entryCount": 37,
   "entries": {
     "918570": {
       "rank": 38,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "The Labyrinth on Burrow Hill",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4810070": {
+      "rank": 2993,
+      "estimate": "7k+",
+      "name": "CONCRETE BURIAL",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     }
   }

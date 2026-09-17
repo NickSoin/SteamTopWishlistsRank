@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T10:16:06.332Z",
-  "entryCount": 27,
+  "updatedAt": "2026-09-17T15:30:06.509Z",
+  "entryCount": 28,
   "entries": {
     "1036240": {
       "rank": 491,
@@ -195,6 +195,13 @@
       "estimate": "<7k",
       "name": "The Unfamiliars",
       "releaseDate": "2026-07-31",
+      "source": "tracked"
+    },
+    "4655600": {
+      "rank": 4817,
+      "estimate": "<7k",
+      "name": "The bird of the North",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T10:16:06.332Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-17T15:30:06.509Z",
+  "entryCount": 31,
   "entries": {
     "671970": {
       "rank": 44,
@@ -186,6 +186,13 @@
       "estimate": "7k+",
       "name": "Olga - Episode 1",
       "releaseDate": "2026-09-09",
+      "source": "tracked"
+    },
+    "3201730": {
+      "rank": 527,
+      "estimate": "40k+",
+      "name": "Flamecraft",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     },
     "4412960": {

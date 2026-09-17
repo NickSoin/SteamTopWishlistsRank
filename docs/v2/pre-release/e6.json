@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T10:16:06.332Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-17T15:30:06.509Z",
+  "entryCount": 34,
   "entries": {
     "292000": {
       "rank": 29,
@@ -211,6 +211,13 @@
       "estimate": "25k+",
       "name": "Burden Street Station",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "3195580": {
+      "rank": 351,
+      "estimate": "80k+",
+      "name": "lily's world XD",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     },
     "3346410": {

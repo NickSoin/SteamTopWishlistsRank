@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T10:16:06.332Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-17T15:30:06.509Z",
+  "entryCount": 39,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -212,6 +212,13 @@
       "name": "Nightmare Kart",
       "releaseDate": "2024-06-05",
       "source": "historical"
+    },
+    "3116460": {
+      "rank": 962,
+      "estimate": "40k+",
+      "name": "ROOM– 24/7 Total Surveillance",
+      "releaseDate": "2026-09-17",
+      "source": "tracked"
     },
     "3184290": {
       "rank": 5060,

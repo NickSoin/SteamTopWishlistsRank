@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T10:16:06.332Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-17T15:30:06.509Z",
+  "entryCount": 37,
   "entries": {
     "628740": {
       "rank": 647,
@@ -220,6 +220,13 @@
       "name": "Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3560670": {
+      "rank": 276,
+      "estimate": "80k+",
+      "name": "OpenFront",
+      "releaseDate": "2026-09-17",
+      "source": "tracked"
     },
     "3746940": {
       "rank": 6789,
