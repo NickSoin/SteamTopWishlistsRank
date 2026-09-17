@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T05:26:10.927Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-17T10:16:06.332Z",
+  "entryCount": 35,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Sokogram",
       "releaseDate": "2026-08-25",
+      "source": "tracked"
+    },
+    "4437370": {
+      "rank": 4591,
+      "estimate": "<7k",
+      "name": "Pop! Pachinko",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     },
     "4457970": {

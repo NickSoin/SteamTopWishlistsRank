@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T05:26:10.927Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-17T10:16:06.332Z",
+  "entryCount": 32,
   "entries": {
     "374190": {
       "rank": 414,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Pantheon: Yaratılış Alevi",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "5106770": {
+      "rank": 4240,
+      "estimate": "<7k",
+      "name": "Lyrica",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     }
   }

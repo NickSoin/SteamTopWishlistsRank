@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T05:26:10.927Z",
-  "entryCount": 44,
+  "updatedAt": "2026-09-17T10:16:06.332Z",
+  "entryCount": 45,
   "entries": {
     "856890": {
       "rank": 749,
@@ -270,6 +270,13 @@
       "estimate": "<7k",
       "name": "Elemental Magic Wars",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4200970": {
+      "rank": 7405,
+      "estimate": "<7k",
+      "name": "Operation Eventide",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     },
     "4254900": {
