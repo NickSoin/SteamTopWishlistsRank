@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T23:17:01.341Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-17T05:26:10.927Z",
+  "entryCount": 26,
   "entries": {
     "747660": {
       "rank": 193,
@@ -66,6 +66,13 @@
       "name": "Fabledom",
       "releaseDate": "2024-05-13",
       "source": "historical"
+    },
+    "1834220": {
+      "rank": 1470,
+      "estimate": "25k+",
+      "name": "Rooster",
+      "releaseDate": "2026-09-16",
+      "source": "tracked"
     },
     "1876590": {
       "rank": 320,

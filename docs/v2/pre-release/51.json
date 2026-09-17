@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T23:17:01.341Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-17T05:26:10.927Z",
+  "entryCount": 40,
   "entries": {
     "467740": {
       "rank": 10,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "VAULTRATS",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4225980": {
+      "rank": 186,
+      "estimate": "200k+",
+      "name": "Trails in the Sky 2nd Chapter",
+      "releaseDate": "2026-09-16",
       "source": "tracked"
     },
     "4251370": {

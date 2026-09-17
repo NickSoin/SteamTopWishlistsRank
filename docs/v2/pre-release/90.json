@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-16T23:17:01.341Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-17T05:26:10.927Z",
+  "entryCount": 34,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -169,6 +169,13 @@
       "estimate": "7k+",
       "name": "Ramen Simulator",
       "releaseDate": "2026-06-21",
+      "source": "tracked"
+    },
+    "4090260": {
+      "rank": 407,
+      "estimate": "80k+",
+      "name": "Lifeguard Holic",
+      "releaseDate": "2026-09-16",
       "source": "tracked"
     },
     "4130610": {
