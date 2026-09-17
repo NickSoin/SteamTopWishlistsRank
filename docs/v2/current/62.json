@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-16T19:18:20.354Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-16T23:17:01.341Z",
+  "entryCount": 31,
   "entries": {
     "632950": {
-      "rank": 681,
+      "rank": 679,
       "estimate": "40k+",
       "name": "SiN Reloaded"
     },
     "1343460": {
-      "rank": 5674,
+      "rank": 5676,
       "estimate": "<7k",
       "name": "Selenwald"
     },
     "1388270": {
-      "rank": 2893,
+      "rank": 2896,
       "estimate": "7k+",
       "name": "Effigy"
     },
@@ -25,12 +25,12 @@
       "name": "beta decay"
     },
     "1710110": {
-      "rank": 2426,
+      "rank": 2427,
       "estimate": "7k+",
       "name": "Bad Boro"
     },
     "1894120": {
-      "rank": 2547,
+      "rank": 2550,
       "estimate": "7k+",
       "name": "ILL NESS"
     },
@@ -40,32 +40,32 @@
       "name": "The Backrooms World"
     },
     "2218060": {
-      "rank": 3355,
+      "rank": 3356,
       "estimate": "<7k",
       "name": "Backdraft"
     },
     "2614370": {
-      "rank": 644,
+      "rank": 645,
       "estimate": "40k+",
       "name": "Mr. Nomad"
     },
     "2669590": {
-      "rank": 3747,
+      "rank": 3750,
       "estimate": "<7k",
       "name": "Hero's Destiny"
     },
     "2771710": {
-      "rank": 4180,
+      "rank": 4184,
       "estimate": "<7k",
       "name": "INFINITE CHUMP"
     },
     "2885330": {
-      "rank": 795,
+      "rank": 796,
       "estimate": "40k+",
       "name": "Fractured Mind"
     },
     "2936810": {
-      "rank": 855,
+      "rank": 857,
       "estimate": "40k+",
       "name": "RUINER 2"
     },
@@ -80,27 +80,27 @@
       "name": "Someone's Inside Me"
     },
     "3471750": {
-      "rank": 3263,
+      "rank": 3247,
       "estimate": "<7k",
       "name": "Kitaria Fables 2"
     },
     "3500630": {
-      "rank": 2967,
+      "rank": 2968,
       "estimate": "7k+",
       "name": "奇门象棋-QiMen Chess"
     },
     "3509400": {
-      "rank": 2679,
+      "rank": 2681,
       "estimate": "7k+",
       "name": "A Heavy Morning"
     },
     "3551140": {
-      "rank": 835,
+      "rank": 837,
       "estimate": "40k+",
       "name": "Hoarder"
     },
     "3755890": {
-      "rank": 3733,
+      "rank": 3737,
       "estimate": "<7k",
       "name": "ZHEN: Shattered Legacy"
     },
@@ -110,12 +110,12 @@
       "name": "Scallywags"
     },
     "3779320": {
-      "rank": 3750,
+      "rank": 3753,
       "estimate": "<7k",
       "name": "Jungle Rot"
     },
     "3780430": {
-      "rank": 3330,
+      "rank": 3331,
       "estimate": "<7k",
       "name": "Mondrayn"
     },
@@ -125,12 +125,12 @@
       "name": "TÖLT"
     },
     "3833730": {
-      "rank": 1452,
+      "rank": 1451,
       "estimate": "25k+",
       "name": "General Practice"
     },
     "4129360": {
-      "rank": 5404,
+      "rank": 5405,
       "estimate": "<7k",
       "name": "I Am Monkey"
     },
@@ -140,19 +140,24 @@
       "name": "Pirate Chips"
     },
     "4358270": {
-      "rank": 754,
+      "rank": 755,
       "estimate": "40k+",
       "name": "Pickmos"
     },
     "4406760": {
-      "rank": 2561,
+      "rank": 2563,
       "estimate": "7k+",
       "name": "Fernhoof Grove: Riding Academy"
     },
     "4551060": {
-      "rank": 5553,
+      "rank": 5554,
       "estimate": "<7k",
       "name": "Salt and Soil: A Frontier Family Sim"
+    },
+    "5063140": {
+      "rank": 5505,
+      "estimate": "<7k",
+      "name": "Cards Everywhere!"
     }
   }
 }
