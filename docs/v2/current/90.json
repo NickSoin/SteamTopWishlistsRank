@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-18T05:16:51.447Z",
-  "entryCount": 16,
+  "updatedAt": "2026-09-18T10:15:08.206Z",
+  "entryCount": 15,
   "entries": {
     "355750": {
       "rank": 1983,
@@ -10,12 +10,12 @@
       "name": "Miegakure: Hide & Reveal"
     },
     "443190": {
-      "rank": 705,
+      "rank": 706,
       "estimate": "40k+",
       "name": "Project Haven"
     },
     "1666640": {
-      "rank": 4612,
+      "rank": 4616,
       "estimate": "<7k",
       "name": "Magical Girl D - Futanari RPG"
     },
@@ -25,12 +25,12 @@
       "name": "Elysian Eclipse"
     },
     "2103500": {
-      "rank": 3555,
+      "rank": 3557,
       "estimate": "<7k",
       "name": "Sombionic"
     },
     "2225260": {
-      "rank": 3873,
+      "rank": 3872,
       "estimate": "<7k",
       "name": "Shark Rain"
     },
@@ -50,7 +50,7 @@
       "name": "Football, Tactics & Glory 2"
     },
     "2710920": {
-      "rank": 1658,
+      "rank": 1659,
       "estimate": "15k+",
       "name": "Aeterna Lucis"
     },
@@ -75,14 +75,9 @@
       "name": "The Expanse: Osiris Reborn"
     },
     "3761680": {
-      "rank": 3314,
+      "rank": 3316,
       "estimate": "<7k",
       "name": "Urban Yuri: A Lady's Romance Manifesto"
-    },
-    "4559400": {
-      "rank": 1498,
-      "estimate": "25k+",
-      "name": "Like or Die"
     }
   }
 }
