@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T15:30:06.509Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-17T23:22:17.581Z",
+  "entryCount": 36,
   "entries": {
     "936790": {
       "rank": 38,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Zodiac Mountain",
       "releaseDate": "2026-08-21",
+      "source": "tracked"
+    },
+    "3088700": {
+      "rank": 2289,
+      "estimate": "7k+",
+      "name": "Driving Rogue",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     },
     "4321400": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T15:30:06.509Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-17T23:22:17.581Z",
+  "entryCount": 40,
   "entries": {
     "774791": {
       "rank": 539,
@@ -254,6 +254,13 @@
       "estimate": "15k+",
       "name": "Don't Let It Starve",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4428890": {
+      "rank": 2075,
+      "estimate": "7k+",
+      "name": "20 More, Somehow Even Smaller, Mazes",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     },
     "4580600": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T15:30:06.509Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-17T23:22:17.581Z",
+  "entryCount": 37,
   "entries": {
     "1167100": {
       "rank": 379,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "Lepidarium",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4403900": {
+      "rank": 9826,
+      "estimate": "<7k",
+      "name": "Unmourned VR",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     },
     "4557380": {

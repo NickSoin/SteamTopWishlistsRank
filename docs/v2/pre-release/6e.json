@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T15:30:06.509Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-17T23:22:17.581Z",
+  "entryCount": 34,
   "entries": {
     "669330": {
       "rank": 422,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "Eye of the Incubus",
       "releaseDate": "2026-08-12",
+      "source": "tracked"
+    },
+    "3640200": {
+      "rank": 558,
+      "estimate": "40k+",
+      "name": "Dawson Oaks Trailer Park",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     },
     "3861870": {

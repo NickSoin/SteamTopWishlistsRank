@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T15:30:06.509Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-17T23:22:17.581Z",
+  "entryCount": 32,
   "entries": {
     "1172470": {
       "rank": 18,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Mimicry!",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4305790": {
+      "rank": 3000,
+      "estimate": "7k+",
+      "name": "Huglings",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     },
     "4622790": {

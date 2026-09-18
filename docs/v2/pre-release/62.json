@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T15:30:06.509Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-17T23:22:17.581Z",
+  "entryCount": 34,
   "entries": {
     "261550": {
       "rank": 7,
@@ -235,6 +235,13 @@
       "estimate": "<7k",
       "name": "Robin Hood: Sherwood Valley",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "5063140": {
+      "rank": 5212,
+      "estimate": "<7k",
+      "name": "Cards Everywhere!",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T15:30:06.509Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-17T23:22:17.581Z",
+  "entryCount": 41,
   "entries": {
     "694990": {
       "rank": 49,
@@ -203,6 +203,13 @@
       "name": "The House of Tesla: Definitive Edition",
       "releaseDate": "2025-09-23",
       "source": "historical"
+    },
+    "2902170": {
+      "rank": 418,
+      "estimate": "80k+",
+      "name": "Kernel Hearts",
+      "releaseDate": "2026-09-17",
+      "source": "tracked"
     },
     "2954560": {
       "rank": 49,

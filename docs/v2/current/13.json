@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-17T15:30:06.509Z",
-  "entryCount": 17,
+  "updatedAt": "2026-09-17T23:22:17.581Z",
+  "entryCount": 18,
   "entries": {
     "924380": {
-      "rank": 3234,
+      "rank": 3229,
       "estimate": "<7k",
       "name": "WoodZone"
     },
     "986520": {
-      "rank": 3726,
+      "rank": 3724,
       "estimate": "<7k",
       "name": "Ultra Strangeness"
     },
     "1342150": {
-      "rank": 4429,
+      "rank": 4426,
       "estimate": "<7k",
       "name": "The Cabbage Effect"
     },
@@ -25,17 +25,17 @@
       "name": "Rising Star - The Horse Game"
     },
     "2545200": {
-      "rank": 1007,
+      "rank": 1006,
       "estimate": "25k+",
       "name": "Animaloid Girl"
     },
     "2635440": {
-      "rank": 1949,
+      "rank": 1950,
       "estimate": "15k+",
       "name": "Team Fortress 2 Legacy"
     },
     "2713120": {
-      "rank": 2235,
+      "rank": 2221,
       "estimate": "7k+",
       "name": "Furyball: Rogue Revenge"
     },
@@ -47,22 +47,22 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6350729003489133847"
     },
     "3106240": {
-      "rank": 3675,
+      "rank": 3657,
       "estimate": "<7k",
       "name": "Rich & Youn"
     },
     "3412800": {
-      "rank": 4927,
+      "rank": 4924,
       "estimate": "<7k",
       "name": "Jawbone Hollow"
     },
     "3509380": {
-      "rank": 3224,
+      "rank": 3214,
       "estimate": "<7k",
       "name": "GrimKeep"
     },
     "3616280": {
-      "rank": 1770,
+      "rank": 1769,
       "estimate": "15k+",
       "name": "Mr Magpie's Harmless Card Game"
     },
@@ -72,7 +72,7 @@
       "name": "Frutigeropolis: The Promised City"
     },
     "4048970": {
-      "rank": 1680,
+      "rank": 1679,
       "estimate": "15k+",
       "name": "Heart of the Bunker"
     },
@@ -82,12 +82,17 @@
       "name": "Bellagarth's Quest"
     },
     "4575010": {
-      "rank": 2456,
+      "rank": 2452,
       "estimate": "7k+",
       "name": "Too Hot to Be True"
     },
+    "4761750": {
+      "rank": 5708,
+      "estimate": "<7k",
+      "name": "Noyan: Club Chairman"
+    },
     "4876650": {
-      "rank": 692,
+      "rank": 691,
       "estimate": "40k+",
       "name": "Never Sort By Color"
     }
