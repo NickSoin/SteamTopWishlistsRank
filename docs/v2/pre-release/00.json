@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-17T23:22:17.581Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-18T05:16:51.447Z",
+  "entryCount": 35,
   "entries": {
     "763180": {
       "rank": 734,
@@ -219,6 +219,20 @@
       "estimate": "25k+",
       "name": "Bones and Coins",
       "releaseDate": "2026-09-07",
+      "source": "tracked"
+    },
+    "4382950": {
+      "rank": 2680,
+      "estimate": "7k+",
+      "name": "Lustful Dreamers",
+      "releaseDate": "2026-09-17",
+      "source": "tracked"
+    },
+    "4453830": {
+      "rank": 4130,
+      "estimate": "<7k",
+      "name": "Channel 453",
+      "releaseDate": "2026-09-17",
       "source": "tracked"
     },
     "4475470": {

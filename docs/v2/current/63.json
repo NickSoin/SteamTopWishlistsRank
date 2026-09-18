@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-17T23:22:17.581Z",
-  "entryCount": 22,
+  "updatedAt": "2026-09-18T05:16:51.447Z",
+  "entryCount": 23,
   "entries": {
     "1053900": {
       "rank": 585,
@@ -10,7 +10,7 @@
       "name": "Radio the Universe"
     },
     "1072790": {
-      "rank": 4540,
+      "rank": 4537,
       "estimate": "<7k",
       "name": "Nekodeito"
     },
@@ -20,52 +20,52 @@
       "name": "Kriegsfront Tactics"
     },
     "1664720": {
-      "rank": 5283,
+      "rank": 5284,
       "estimate": "<7k",
       "name": "MOJITO Woody's Rescue"
     },
     "1725290": {
-      "rank": 5585,
+      "rank": 5582,
       "estimate": "<7k",
       "name": "Final Vanguard"
     },
     "1879250": {
-      "rank": 807,
+      "rank": 808,
       "estimate": "40k+",
       "name": "Teatopia"
     },
     "2354640": {
-      "rank": 3619,
+      "rank": 3618,
       "estimate": "<7k",
       "name": "DIESELDOME: Ultraviolent Gladiator Shooter"
     },
     "2446660": {
-      "rank": 1767,
+      "rank": 1768,
       "estimate": "15k+",
       "name": "Dragonscale Monastery"
     },
     "2559740": {
-      "rank": 1018,
+      "rank": 1019,
       "estimate": "25k+",
       "name": "Tower Of Tears"
     },
     "2568890": {
-      "rank": 4711,
+      "rank": 4703,
       "estimate": "<7k",
       "name": "DRINKRIME"
     },
     "2862770": {
-      "rank": 3870,
+      "rank": 3869,
       "estimate": "<7k",
       "name": "星海乐章 | GALIX: NewHorizons | 星の旅：億万年の絆"
     },
     "2983480": {
-      "rank": 3690,
+      "rank": 3676,
       "estimate": "<7k",
       "name": "Cinema Manager Simulator"
     },
     "3067170": {
-      "rank": 4571,
+      "rank": 4569,
       "estimate": "<7k",
       "name": "Protagonist Complex one"
     },
@@ -75,44 +75,49 @@
       "name": "TANUKI: Pon's Summer"
     },
     "3235140": {
-      "rank": 2173,
+      "rank": 2174,
       "estimate": "7k+",
       "name": "GANGSTALK"
     },
     "3532690": {
-      "rank": 3728,
+      "rank": 3730,
       "estimate": "<7k",
       "name": "Climbing Gym Simulator"
     },
     "3661400": {
-      "rank": 3295,
+      "rank": 3300,
       "estimate": "<7k",
       "name": "Gourdlets Together"
     },
     "3800010": {
-      "rank": 5627,
+      "rank": 5629,
       "estimate": "<7k",
       "name": "Abyssal Rust"
     },
     "4133290": {
-      "rank": 2162,
+      "rank": 2163,
       "estimate": "7k+",
       "name": "DownSouth"
     },
     "4337230": {
-      "rank": 4337,
+      "rank": 4333,
       "estimate": "<7k",
       "name": "Midnight Train: New Moon"
     },
     "4390080": {
-      "rank": 4833,
+      "rank": 4824,
       "estimate": "<7k",
       "name": "Bottled by Bears"
     },
     "4606080": {
-      "rank": 5455,
+      "rank": 5448,
       "estimate": "<7k",
       "name": "No Panic"
+    },
+    "4769040": {
+      "rank": 3996,
+      "estimate": "<7k",
+      "name": "HIVESWAP: ACT 3"
     }
   }
 }

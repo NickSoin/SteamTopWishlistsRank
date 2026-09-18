@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-17T23:22:17.581Z",
-  "entryCount": 19,
+  "updatedAt": "2026-09-18T05:16:51.447Z",
+  "entryCount": 20,
   "entries": {
     "765700": {
-      "rank": 4243,
+      "rank": 4240,
       "estimate": "<7k",
       "name": "Tactical Galactical"
     },
@@ -15,12 +15,12 @@
       "name": "Medieval Apocalypse"
     },
     "1619660": {
-      "rank": 4910,
+      "rank": 4908,
       "estimate": "<7k",
       "name": "Kambulin"
     },
     "2135000": {
-      "rank": 3561,
+      "rank": 3560,
       "estimate": "<7k",
       "name": "Norigin"
     },
@@ -30,7 +30,7 @@
       "name": "Spirit Crossing"
     },
     "2559110": {
-      "rank": 3847,
+      "rank": 3846,
       "estimate": "<7k",
       "name": "Spiral Clicker 2"
     },
@@ -40,17 +40,17 @@
       "name": "Zarya"
     },
     "3004280": {
-      "rank": 1713,
+      "rank": 1715,
       "estimate": "15k+",
       "name": "World of Magic: Rise of Magic"
     },
     "3097730": {
-      "rank": 1903,
+      "rank": 1905,
       "estimate": "15k+",
       "name": "Re:VER PROJECT -TOKYO-"
     },
     "3143530": {
-      "rank": 2171,
+      "rank": 2173,
       "estimate": "7k+",
       "name": "Shadow Project"
     },
@@ -60,17 +60,17 @@
       "name": "Into the Void"
     },
     "3299820": {
-      "rank": 1339,
+      "rank": 1341,
       "estimate": "25k+",
       "name": "Gretel & Hansel"
     },
     "3377830": {
-      "rank": 2061,
+      "rank": 2062,
       "estimate": "7k+",
       "name": "Backroom Cleaners"
     },
     "3642020": {
-      "rank": 3889,
+      "rank": 3888,
       "estimate": "<7k",
       "name": "El Paso, Elsewhere 2"
     },
@@ -80,24 +80,29 @@
       "name": "Westlanders"
     },
     "3932790": {
-      "rank": 2927,
+      "rank": 2921,
       "estimate": "7k+",
       "name": "Garfield - Escape from Monday"
     },
     "4090310": {
-      "rank": 793,
+      "rank": 796,
       "estimate": "40k+",
       "name": "Primal Repairs"
     },
     "4226560": {
-      "rank": 3589,
+      "rank": 3590,
       "estimate": "<7k",
       "name": "ALATURKA"
     },
     "4278970": {
-      "rank": 805,
+      "rank": 806,
       "estimate": "40k+",
       "name": "Bad Magpie"
+    },
+    "5061290": {
+      "rank": 3495,
+      "estimate": "<7k",
+      "name": "Roll for Order: Sort Every Set!"
     }
   }
 }
