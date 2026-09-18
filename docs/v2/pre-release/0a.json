@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 31,
   "entries": {
     "983380": {
       "rank": 234,
@@ -206,6 +206,13 @@
       "name": "Earth vs Mars",
       "releaseDate": "2025-10-29",
       "source": "historical"
+    },
+    "4080010": {
+      "rank": 7918,
+      "estimate": "<7k",
+      "name": "Dravo's Twisted Show",
+      "releaseDate": "2026-09-18",
+      "source": "tracked"
     },
     "4503540": {
       "rank": 4830,

@@ -1,91 +1,96 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 19,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 20,
   "entries": {
     "904510": {
-      "rank": 1439,
+      "rank": 1436,
       "estimate": "25k+",
       "name": "ARTIFICIAL"
     },
+    "1418380": {
+      "rank": 3793,
+      "estimate": "<7k",
+      "name": "Forester Simulator"
+    },
     "1707680": {
-      "rank": 1015,
+      "rank": 1013,
       "estimate": "25k+",
       "name": "Referee Simulator"
     },
     "1890780": {
-      "rank": 1903,
+      "rank": 1901,
       "estimate": "15k+",
       "name": "Szrot"
     },
     "2118890": {
-      "rank": 1694,
+      "rank": 1691,
       "estimate": "15k+",
       "name": "Backrooms VHS"
     },
     "2134720": {
-      "rank": 1695,
+      "rank": 1692,
       "estimate": "15k+",
       "name": "Stormbinders"
     },
     "2229910": {
-      "rank": 2413,
+      "rank": 2410,
       "estimate": "7k+",
       "name": "Demiurgos"
     },
     "2538870": {
-      "rank": 833,
+      "rank": 828,
       "estimate": "40k+",
       "name": "False Hero"
     },
     "3154150": {
-      "rank": 3532,
+      "rank": 3531,
       "estimate": "<7k",
       "name": "Spook-A-Boo"
     },
     "3279330": {
-      "rank": 3698,
+      "rank": 3693,
       "estimate": "<7k",
       "name": "Home Wars: Battlefield"
     },
     "3398880": {
-      "rank": 3306,
+      "rank": 3305,
       "estimate": "<7k",
       "name": "Castle V Castle"
     },
     "3570350": {
-      "rank": 2485,
+      "rank": 2482,
       "estimate": "7k+",
       "name": "Silkgrove"
     },
     "3582320": {
-      "rank": 5143,
+      "rank": 5136,
       "estimate": "<7k",
       "name": "Inazuma Eleven Team Builder"
     },
     "3730680": {
-      "rank": 2639,
+      "rank": 2634,
       "estimate": "7k+",
       "name": "Table Tactics: physics-driven tabletop battles"
     },
     "3746560": {
-      "rank": 1560,
+      "rank": 1556,
       "estimate": "15k+",
       "name": "Ethernia"
     },
     "3798840": {
-      "rank": 2504,
+      "rank": 2501,
       "estimate": "7k+",
       "name": "Reytrieve Odyssey"
     },
     "4060650": {
-      "rank": 5353,
+      "rank": 5342,
       "estimate": "<7k",
       "name": "Serena: Yellow Creek"
     },
     "4233960": {
-      "rank": 3790,
+      "rank": 3777,
       "estimate": "<7k",
       "name": "Do Disciplinary Committee Members Dream of Succubi?"
     },
@@ -95,7 +100,7 @@
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 625,
+      "rank": 624,
       "estimate": "40k+",
       "name": "Project Rabbit"
     }

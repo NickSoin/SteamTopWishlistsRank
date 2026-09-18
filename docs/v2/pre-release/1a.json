@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 42,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 43,
   "entries": {
     "812910": {
       "rank": 1037,
@@ -228,6 +228,13 @@
       "estimate": "15k+",
       "name": "Emergency Call - The Firefighting Simulation 3",
       "releaseDate": "2026-08-05",
+      "source": "tracked"
+    },
+    "3777850": {
+      "rank": 1331,
+      "estimate": "25k+",
+      "name": "The Walking Dead: Streets of Survival",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     },
     "3883290": {

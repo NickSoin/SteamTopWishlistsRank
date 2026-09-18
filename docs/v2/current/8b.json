@@ -1,16 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 13,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 14,
   "entries": {
     "1511480": {
-      "rank": 783,
+      "rank": 782,
       "estimate": "40k+",
       "name": "AlterLife"
     },
+    "1553590": {
+      "rank": 3497,
+      "estimate": "<7k",
+      "name": "Saveseeker"
+    },
     "1578870": {
-      "rank": 3759,
+      "rank": 3757,
       "estimate": "<7k",
       "name": "Shadowman®: Darque Legacy"
     },
@@ -20,22 +25,22 @@
       "name": "Under a Rock"
     },
     "1701160": {
-      "rank": 4237,
+      "rank": 4229,
       "estimate": "<7k",
       "name": "The Darkest Star"
     },
     "1735080": {
-      "rank": 4081,
+      "rank": 4075,
       "estimate": "<7k",
       "name": "High Elo Girls"
     },
     "2165130": {
-      "rank": 3919,
+      "rank": 3913,
       "estimate": "<7k",
       "name": "Hymn to the Earless God"
     },
     "2246370": {
-      "rank": 1837,
+      "rank": 1835,
       "estimate": "15k+",
       "name": "Music Power Up"
     },
@@ -45,27 +50,27 @@
       "name": "WTF - Waifu Tactical Force"
     },
     "2499260": {
-      "rank": 3835,
+      "rank": 3829,
       "estimate": "<7k",
       "name": "Menyr"
     },
     "3188660": {
-      "rank": 1364,
+      "rank": 1361,
       "estimate": "25k+",
       "name": "Motocross The Game"
     },
     "3778610": {
-      "rank": 1653,
+      "rank": 1647,
       "estimate": "15k+",
       "name": "Colorbound"
     },
     "4417350": {
-      "rank": 1392,
+      "rank": 1388,
       "estimate": "25k+",
       "name": "Another Dead World"
     },
     "5069130": {
-      "rank": 2389,
+      "rank": 2382,
       "estimate": "7k+",
       "name": "Magna Conquest"
     }

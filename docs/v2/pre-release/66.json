@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 49,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 50,
   "entries": {
     "976890": {
       "rank": 70,
@@ -154,6 +154,13 @@
       "name": "Ghost Watchers",
       "releaseDate": "2025-07-24",
       "source": "historical"
+    },
+    "1897860": {
+      "rank": 1022,
+      "estimate": "25k+",
+      "name": "Sunken Realms",
+      "releaseDate": "2026-09-18",
+      "source": "tracked"
     },
     "2163030": {
       "rank": 1727,

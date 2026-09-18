@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 40,
   "entries": {
     "751780": {
       "rank": 21,
@@ -244,6 +244,13 @@
       "estimate": "300k+",
       "name": "Dinoblade",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "3503300": {
+      "rank": 1861,
+      "estimate": "15k+",
+      "name": "Toxic Yuri",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     },
     "3508910": {

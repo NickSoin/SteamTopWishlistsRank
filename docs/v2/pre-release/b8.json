@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 34,
   "entries": {
     "485400": {
       "rank": 112,
@@ -239,6 +239,13 @@
       "estimate": "<7k",
       "name": "Metro Architect",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "5120650": {
+      "rank": 1645,
+      "estimate": "15k+",
+      "name": "Paver: Tidy Up Together",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     }
   }

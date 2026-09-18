@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 37,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Flats Full of Cats: Gold & Candles",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "4163480": {
+      "rank": 8254,
+      "estimate": "<7k",
+      "name": "Dewdrop",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     },
     "4391380": {

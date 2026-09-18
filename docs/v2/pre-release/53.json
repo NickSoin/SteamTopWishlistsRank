@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 27,
   "entries": {
     "883230": {
       "rank": 1500,
@@ -172,6 +172,13 @@
       "estimate": "40k+",
       "name": "Titanic Escape Simulator™",
       "releaseDate": "2026-08-24",
+      "source": "tracked"
+    },
+    "4704830": {
+      "rank": 1299,
+      "estimate": "25k+",
+      "name": "Reus 2 - Jurassic",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     },
     "4720010": {

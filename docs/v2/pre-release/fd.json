@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 28,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 29,
   "entries": {
     "1036240": {
       "rank": 491,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "The bird of the North",
       "releaseDate": "2026-09-17",
+      "source": "tracked"
+    },
+    "5099430": {
+      "rank": 3587,
+      "estimate": "<7k",
+      "name": "The Rhapsody of Zephyr Remastered",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 23,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 24,
   "entries": {
     "1071140": {
       "rank": 202,
@@ -142,6 +142,13 @@
       "estimate": "<7k",
       "name": "Runix: Pinball Roguelike",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "3926930": {
+      "rank": 4492,
+      "estimate": "<7k",
+      "name": "Poopy's Playland",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     },
     "4119760": {

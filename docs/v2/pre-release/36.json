@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 41,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 42,
   "entries": {
     "694990": {
       "rank": 49,
@@ -279,6 +279,13 @@
       "estimate": "7k+",
       "name": "Holonoptic",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4435340": {
+      "rank": 534,
+      "estimate": "40k+",
+      "name": "Anymaker",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     },
     "4461420": {

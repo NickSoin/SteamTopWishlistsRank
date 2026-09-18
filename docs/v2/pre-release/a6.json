@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 40,
   "entries": {
     "871540": {
       "rank": 824,
@@ -277,6 +277,13 @@
       "estimate": "<7k",
       "name": "Mosaic Garden: The Flower Game",
       "releaseDate": "2026-07-01",
+      "source": "tracked"
+    },
+    "4627590": {
+      "rank": 7082,
+      "estimate": "<7k",
+      "name": "Too Many Balls",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     }
   }

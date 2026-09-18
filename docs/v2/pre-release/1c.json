@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T14:43:30.407Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-18T18:55:22.258Z",
+  "entryCount": 27,
   "entries": {
     "897450": {
       "rank": 15,
@@ -136,6 +136,13 @@
       "name": "The Land of the Magnates",
       "releaseDate": "2024-08-27",
       "source": "historical"
+    },
+    "3010380": {
+      "rank": 2869,
+      "estimate": "7k+",
+      "name": "Tape 101: Liminal Descent",
+      "releaseDate": "2026-09-18",
+      "source": "tracked"
     },
     "3044550": {
       "rank": 2598,
