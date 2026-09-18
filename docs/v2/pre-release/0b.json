@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T10:15:08.206Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-18T14:43:30.407Z",
+  "entryCount": 34,
   "entries": {
     "779340": {
       "rank": 5,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Dave.EXE",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4310440": {
+      "rank": 1327,
+      "estimate": "25k+",
+      "name": "Crown Siege",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     },
     "4376930": {

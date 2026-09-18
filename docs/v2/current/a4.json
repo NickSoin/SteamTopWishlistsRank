@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-18T10:15:08.206Z",
-  "entryCount": 22,
+  "updatedAt": "2026-09-18T14:43:30.407Z",
+  "entryCount": 23,
   "entries": {
     "1415600": {
-      "rank": 2404,
+      "rank": 2403,
       "estimate": "7k+",
       "name": "Frequency: Chernobyl"
     },
     "1655750": {
-      "rank": 3768,
+      "rank": 3771,
       "estimate": "<7k",
       "name": "Uboat Mechanic Simulator"
     },
@@ -20,7 +20,7 @@
       "name": "Unawake"
     },
     "1993410": {
-      "rank": 4179,
+      "rank": 4183,
       "estimate": "<7k",
       "name": "Laws of Nadragia"
     },
@@ -35,17 +35,17 @@
       "name": "Warhammer 40,000: Boltgun 2"
     },
     "3129790": {
-      "rank": 3604,
+      "rank": 3608,
       "estimate": "<7k",
       "name": "Pocket Legend : Inventory Roguelike Deckbuilder"
     },
     "3301350": {
-      "rank": 3015,
+      "rank": 3014,
       "estimate": "<7k",
       "name": "Sleep Well Cemetery"
     },
     "3474070": {
-      "rank": 4677,
+      "rank": 4676,
       "estimate": "<7k",
       "name": "Magnavis"
     },
@@ -70,12 +70,12 @@
       "name": "LANDLORD"
     },
     "3818090": {
-      "rank": 1586,
+      "rank": 1585,
       "estimate": "15k+",
       "name": "Haunted Room! Urami-chan"
     },
     "3998040": {
-      "rank": 4730,
+      "rank": 4729,
       "estimate": "<7k",
       "name": "Fossilfuel 3"
     },
@@ -84,8 +84,13 @@
       "estimate": "25k+",
       "name": "Tiling Town"
     },
+    "4144420": {
+      "rank": 5713,
+      "estimate": "<7k",
+      "name": "Ghosts in the City"
+    },
     "4189430": {
-      "rank": 5592,
+      "rank": 5591,
       "estimate": "<7k",
       "name": "HapgetaSocial"
     },
@@ -95,12 +100,12 @@
       "name": "Last Night Last Call"
     },
     "4350100": {
-      "rank": 4050,
+      "rank": 4054,
       "estimate": "<7k",
       "name": "Orbrix"
     },
     "4462580": {
-      "rank": 1593,
+      "rank": 1592,
       "estimate": "15k+",
       "name": "BLIGHTEN"
     },
@@ -110,7 +115,7 @@
       "name": "JASON, Coming of Age - Lexie Loft"
     },
     "4657920": {
-      "rank": 428,
+      "rank": 429,
       "estimate": "80k+",
       "name": "War Fantasy"
     }

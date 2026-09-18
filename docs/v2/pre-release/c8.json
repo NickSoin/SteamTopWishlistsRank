@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T10:15:08.206Z",
-  "entryCount": 41,
+  "updatedAt": "2026-09-18T14:43:30.407Z",
+  "entryCount": 42,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -239,6 +239,13 @@
       "estimate": "80k+",
       "name": "SPRAWL zero",
       "releaseDate": "2026-09-08",
+      "source": "tracked"
+    },
+    "3878980": {
+      "rank": 9010,
+      "estimate": "<7k",
+      "name": "Waterjacked!",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     },
     "3947390": {

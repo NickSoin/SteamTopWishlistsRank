@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-18T10:15:08.206Z",
-  "entryCount": 23,
+  "updatedAt": "2026-09-18T14:43:30.407Z",
+  "entryCount": 24,
   "entries": {
     "1425990": {
       "rank": 2552,
@@ -10,7 +10,7 @@
       "name": "From Day To Day"
     },
     "1876420": {
-      "rank": 1948,
+      "rank": 1949,
       "estimate": "15k+",
       "name": "Northward"
     },
@@ -20,17 +20,17 @@
       "name": "The Big Catch"
     },
     "2160760": {
-      "rank": 2858,
+      "rank": 2857,
       "estimate": "7k+",
       "name": "LIMINAL"
     },
     "2403830": {
-      "rank": 1905,
+      "rank": 1898,
       "estimate": "15k+",
       "name": "Brave New Wonders"
     },
     "2667830": {
-      "rank": 4209,
+      "rank": 4211,
       "estimate": "<7k",
       "name": "EmemeTown"
     },
@@ -42,7 +42,7 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1805431065404263"
     },
     "2967220": {
-      "rank": 3335,
+      "rank": 3339,
       "estimate": "<7k",
       "name": "yan魇: Parasomnia"
     },
@@ -67,7 +67,7 @@
       "name": "Corpse Party II: Darkness Distortion"
     },
     "3268690": {
-      "rank": 2781,
+      "rank": 2780,
       "estimate": "7k+",
       "name": "Love Revenge"
     },
@@ -77,17 +77,17 @@
       "name": "Cemetery Simulator"
     },
     "3638790": {
-      "rank": 4885,
+      "rank": 4874,
       "estimate": "<7k",
       "name": "9 Yin Sutra: Wuxia"
     },
     "3892510": {
-      "rank": 2063,
+      "rank": 2064,
       "estimate": "7k+",
       "name": "Asterfel"
     },
     "4021890": {
-      "rank": 2495,
+      "rank": 2496,
       "estimate": "7k+",
       "name": "Pizzapocalypse 2"
     },
@@ -97,17 +97,17 @@
       "name": "Guilty Pleasures"
     },
     "4270850": {
-      "rank": 4879,
+      "rank": 4882,
       "estimate": "<7k",
       "name": "SCREENSIDE FISHER"
     },
     "4271620": {
-      "rank": 4404,
+      "rank": 4406,
       "estimate": "<7k",
       "name": "Celsius Strays"
     },
     "4390370": {
-      "rank": 5477,
+      "rank": 5472,
       "estimate": "<7k",
       "name": "Drifter at World's End"
     },
@@ -117,9 +117,14 @@
       "name": "MythicTale"
     },
     "4896980": {
-      "rank": 5582,
+      "rank": 5577,
       "estimate": "<7k",
       "name": "Sweetheart"
+    },
+    "5098200": {
+      "rank": 5699,
+      "estimate": "<7k",
+      "name": "Break The Night"
     }
   }
 }
