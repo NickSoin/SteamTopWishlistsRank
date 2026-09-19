@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-19T09:59:45.319Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-19T14:25:52.411Z",
+  "entryCount": 27,
   "entries": {
     "1083790": {
       "rank": 1387,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "黑山羊BlackGoat",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "3956380": {
+      "rank": 1956,
+      "estimate": "15k+",
+      "name": "Desire Inn",
+      "releaseDate": "2026-09-19",
       "source": "tracked"
     },
     "4056490": {

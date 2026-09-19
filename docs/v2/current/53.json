@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-19T09:59:45.319Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-19T14:25:52.411Z",
+  "entryCount": 26,
   "entries": {
     "611820": {
-      "rank": 5509,
+      "rank": 5510,
       "estimate": "<7k",
       "name": "Xenosis: Alien Infection"
     },
     "1478730": {
-      "rank": 2191,
+      "rank": 2193,
       "estimate": "7k+",
       "name": "Tune My Car"
     },
     "1587920": {
-      "rank": 5224,
+      "rank": 5222,
       "estimate": "<7k",
       "name": "Undead Development 2"
     },
     "1619870": {
-      "rank": 4061,
+      "rank": 4062,
       "estimate": "<7k",
       "name": "The Ballad of Bonky"
     },
@@ -45,12 +45,12 @@
       "name": "Streets of Fortuna"
     },
     "2953540": {
-      "rank": 2037,
+      "rank": 2041,
       "estimate": "7k+",
       "name": "Neverseas"
     },
     "3126480": {
-      "rank": 5183,
+      "rank": 5182,
       "estimate": "<7k",
       "name": "Lord of Metal"
     },
@@ -60,12 +60,12 @@
       "name": "Mircea"
     },
     "3302570": {
-      "rank": 5372,
+      "rank": 5373,
       "estimate": "<7k",
       "name": "BACKROOMS 0"
     },
     "3536500": {
-      "rank": 2604,
+      "rank": 2605,
       "estimate": "7k+",
       "name": "Tunguska 2: Whitefall"
     },
@@ -75,12 +75,12 @@
       "name": "OKU"
     },
     "3619300": {
-      "rank": 2213,
+      "rank": 2211,
       "estimate": "7k+",
       "name": "TONIN:兎忍"
     },
     "3720040": {
-      "rank": 2201,
+      "rank": 2182,
       "estimate": "7k+",
       "name": "Hide Zone"
     },
@@ -95,7 +95,7 @@
       "name": "Factomancer"
     },
     "4178790": {
-      "rank": 2423,
+      "rank": 2425,
       "estimate": "7k+",
       "name": "Clicky Islands"
     },
@@ -105,7 +105,7 @@
       "name": "XenoFeels"
     },
     "4295800": {
-      "rank": 5250,
+      "rank": 5248,
       "estimate": "<7k",
       "name": "BLACKWELL"
     },
@@ -115,19 +115,24 @@
       "name": "Ruffed Up"
     },
     "4726580": {
-      "rank": 3275,
+      "rank": 3277,
       "estimate": "<7k",
       "name": "Cielle is Not Happy"
     },
     "4735760": {
-      "rank": 681,
+      "rank": 683,
       "estimate": "40k+",
       "name": "Vivarium"
     },
     "4739500": {
-      "rank": 3187,
+      "rank": 3186,
       "estimate": "<7k",
       "name": "JOHN GLEEP"
+    },
+    "5182350": {
+      "rank": 5681,
+      "estimate": "<7k",
+      "name": "Walls Were Built to Fall"
     }
   }
 }
