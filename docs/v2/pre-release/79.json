@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-19T14:25:52.411Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-19T18:34:13.607Z",
+  "entryCount": 34,
   "entries": {
     "553850": {
       "rank": 26,
@@ -185,6 +185,13 @@
       "name": "Pup Champs",
       "releaseDate": "2025-05-19",
       "source": "historical"
+    },
+    "2874490": {
+      "rank": 5087,
+      "estimate": "<7k",
+      "name": "Rusted Awakening",
+      "releaseDate": "2026-09-19",
+      "source": "tracked"
     },
     "2909400": {
       "rank": 27,

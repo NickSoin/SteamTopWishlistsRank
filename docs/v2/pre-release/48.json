@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-19T14:25:52.411Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-19T18:34:13.607Z",
+  "entryCount": 32,
   "entries": {
     "1170080": {
       "rank": 986,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Hammerhead",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4652040": {
+      "rank": 4287,
+      "estimate": "<7k",
+      "name": "Night Record: Thin Walls",
+      "releaseDate": "2026-09-19",
       "source": "tracked"
     }
   }

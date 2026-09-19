@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-19T14:25:52.411Z",
-  "entryCount": 20,
+  "updatedAt": "2026-09-19T18:34:13.607Z",
+  "entryCount": 21,
   "entries": {
     "847720": {
-      "rank": 1781,
+      "rank": 1783,
       "estimate": "15k+",
       "name": "Söldner: Secret Wars Remastered"
     },
@@ -15,32 +15,32 @@
       "name": "LEGO® Skylines"
     },
     "1905960": {
-      "rank": 5528,
+      "rank": 5531,
       "estimate": "<7k",
       "name": "Endlanders"
     },
     "2065580": {
-      "rank": 814,
+      "rank": 816,
       "estimate": "40k+",
       "name": "Kitsune: The Journey of Adashino"
     },
     "2117160": {
-      "rank": 2078,
+      "rank": 2081,
       "estimate": "7k+",
       "name": "Dead Age: Survivors"
     },
     "2741550": {
-      "rank": 1521,
+      "rank": 1523,
       "estimate": "15k+",
       "name": "Pipsqueak!"
     },
     "3074730": {
-      "rank": 4000,
+      "rank": 4003,
       "estimate": "<7k",
       "name": "Hoptale"
     },
     "3473270": {
-      "rank": 5479,
+      "rank": 5483,
       "estimate": "<7k",
       "name": "Our campus life"
     },
@@ -50,12 +50,12 @@
       "name": "Vision Quench"
     },
     "3565090": {
-      "rank": 3436,
+      "rank": 3438,
       "estimate": "<7k",
       "name": "Goobies 2"
     },
     "3634710": {
-      "rank": 3973,
+      "rank": 3975,
       "estimate": "<7k",
       "name": "DWARRF: A Pinball Roguelike"
     },
@@ -65,44 +65,49 @@
       "name": "Compensated Girl"
     },
     "3901760": {
-      "rank": 2601,
+      "rank": 2602,
       "estimate": "7k+",
       "name": "Crystal Project 2"
     },
     "3942390": {
-      "rank": 3077,
+      "rank": 3078,
       "estimate": "<7k",
       "name": "Falcon Fall™"
     },
     "3946040": {
-      "rank": 4631,
+      "rank": 4633,
       "estimate": "<7k",
       "name": "Faithless Water"
     },
     "4022950": {
-      "rank": 3386,
+      "rank": 3381,
       "estimate": "<7k",
       "name": "Nature of Dread"
     },
     "4309480": {
-      "rank": 4844,
+      "rank": 4847,
       "estimate": "<7k",
       "name": "A Stray Line"
     },
     "4335630": {
-      "rank": 5496,
+      "rank": 5495,
       "estimate": "<7k",
       "name": "Legatus"
     },
     "4559630": {
-      "rank": 5443,
+      "rank": 5435,
       "estimate": "<7k",
       "name": "Between Us: Reckoning"
     },
     "4747280": {
-      "rank": 5502,
+      "rank": 5504,
       "estimate": "<7k",
       "name": "Sunset Survival: Miami"
+    },
+    "4867650": {
+      "rank": 5668,
+      "estimate": "<7k",
+      "name": "TWIN Hotel, Spa and More"
     }
   }
 }
