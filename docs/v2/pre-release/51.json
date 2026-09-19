@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-19T05:11:16.608Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-19T09:59:45.319Z",
+  "entryCount": 41,
   "entries": {
     "467740": {
       "rank": 10,
@@ -277,6 +277,13 @@
       "estimate": "15k+",
       "name": "FD 27: Direct Your Football Club",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "4532660": {
+      "rank": 1708,
+      "estimate": "15k+",
+      "name": "Keep the Witch Out of This Inn",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     },
     "4775410": {
