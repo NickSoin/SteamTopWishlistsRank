@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T18:55:22.258Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-19T05:11:16.608Z",
+  "entryCount": 38,
   "entries": {
     "628740": {
       "rank": 647,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Super Dark Deception - Chapter 2",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3305840": {
+      "rank": 1219,
+      "estimate": "25k+",
+      "name": "Custodes of Elf Hearts",
+      "releaseDate": "2026-09-18",
       "source": "tracked"
     },
     "3466240": {

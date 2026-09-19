@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-18T18:55:22.258Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-19T05:11:16.608Z",
+  "entryCount": 30,
   "entries": {
     "950180": {
       "rank": 218,
@@ -103,6 +103,13 @@
       "name": "Hotel Business Simulator",
       "releaseDate": "2024-06-04",
       "source": "historical"
+    },
+    "2842720": {
+      "rank": 3699,
+      "estimate": "<7k",
+      "name": "ToonSouls Maker",
+      "releaseDate": "2026-09-18",
+      "source": "tracked"
     },
     "2897700": {
       "rank": 2388,

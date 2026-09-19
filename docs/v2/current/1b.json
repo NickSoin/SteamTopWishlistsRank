@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-18T18:55:22.258Z",
-  "entryCount": 16,
+  "updatedAt": "2026-09-19T05:11:16.608Z",
+  "entryCount": 17,
   "entries": {
     "1261370": {
       "rank": 1600,
@@ -10,7 +10,7 @@
       "name": "WILDLANDS"
     },
     "1578940": {
-      "rank": 511,
+      "rank": 513,
       "estimate": "40k+",
       "name": "Vampire Clans"
     },
@@ -20,17 +20,17 @@
       "name": "Radio Commander: Pacific '41"
     },
     "2097190": {
-      "rank": 4997,
+      "rank": 5002,
       "estimate": "<7k",
       "name": "Astoaria"
     },
     "2104610": {
-      "rank": 2319,
+      "rank": 2320,
       "estimate": "7k+",
       "name": "I Am A Caterpillar"
     },
     "2140540": {
-      "rank": 3228,
+      "rank": 3233,
       "estimate": "<7k",
       "name": "Hellslinger"
     },
@@ -40,27 +40,27 @@
       "name": "Clockwork Revolution"
     },
     "2486310": {
-      "rank": 5081,
+      "rank": 5084,
       "estimate": "<7k",
       "name": "Knights of Fresco"
     },
     "2721990": {
-      "rank": 5702,
+      "rank": 5698,
       "estimate": "<7k",
       "name": "Breath of the Pasture"
     },
     "2844730": {
-      "rank": 4629,
+      "rank": 4627,
       "estimate": "<7k",
       "name": "ISEKAI Truck Driver"
     },
     "3292770": {
-      "rank": 3096,
+      "rank": 3094,
       "estimate": "<7k",
       "name": "FIEFDOM"
     },
     "3863000": {
-      "rank": 2715,
+      "rank": 2714,
       "estimate": "7k+",
       "name": "Angel's love"
     },
@@ -70,12 +70,12 @@
       "name": "She Hungers"
     },
     "4124320": {
-      "rank": 1831,
+      "rank": 1807,
       "estimate": "15k+",
       "name": "Road to Jukai"
     },
     "4268970": {
-      "rank": 3748,
+      "rank": 3752,
       "estimate": "<7k",
       "name": "Drill Deep"
     },
@@ -83,6 +83,11 @@
       "rank": 3273,
       "estimate": "<7k",
       "name": "Salt & Soul: Pocket Chef's Adventure"
+    },
+    "4605900": {
+      "rank": 5683,
+      "estimate": "<7k",
+      "name": "The Ninth Legion"
     }
   }
 }
