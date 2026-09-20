@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-20T14:23:16.680Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-20T18:17:41.269Z",
+  "entryCount": 38,
   "entries": {
     "721700": {
       "rank": 679,
@@ -267,6 +267,13 @@
       "estimate": "<7k",
       "name": "Last Bullet",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4739040": {
+      "rank": 462,
+      "estimate": "80k+",
+      "name": "DISCIPLINE SIMULATOR",
+      "releaseDate": "2026-09-20",
       "source": "tracked"
     }
   }

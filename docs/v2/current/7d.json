@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-20T14:23:16.680Z",
-  "entryCount": 20,
+  "updatedAt": "2026-09-20T18:17:41.269Z",
+  "entryCount": 21,
   "entries": {
     "1122170": {
-      "rank": 3247,
+      "rank": 3249,
       "estimate": "<7k",
       "name": "Mech Hunter"
     },
     "1366200": {
-      "rank": 4334,
+      "rank": 4333,
       "estimate": "<7k",
       "name": "Rog & Roll"
     },
     "1460210": {
-      "rank": 682,
+      "rank": 684,
       "estimate": "40k+",
       "name": "Compound Fracture"
     },
     "1779060": {
-      "rank": 2269,
+      "rank": 2270,
       "estimate": "7k+",
       "name": "The Age of Hell"
     },
     "2370280": {
-      "rank": 1111,
+      "rank": 1113,
       "estimate": "25k+",
       "name": "Nobody's Left"
     },
     "2392420": {
-      "rank": 3659,
+      "rank": 3646,
       "estimate": "<7k",
       "name": "Wisplight"
     },
     "2431790": {
-      "rank": 2156,
+      "rank": 2155,
       "estimate": "7k+",
       "name": "Cyber Paradise"
     },
     "2603850": {
-      "rank": 2796,
+      "rank": 2798,
       "estimate": "7k+",
       "name": "Shadow mate ~小さな竜と適合者~"
     },
     "2640200": {
-      "rank": 1901,
+      "rank": 1905,
       "estimate": "15k+",
       "name": "Project D████"
     },
     "2886060": {
-      "rank": 3837,
+      "rank": 3840,
       "estimate": "<7k",
       "name": "The Backrooms Company"
     },
@@ -60,32 +60,32 @@
       "name": "Grim Hope"
     },
     "3397040": {
-      "rank": 704,
+      "rank": 705,
       "estimate": "40k+",
       "name": "Bellatores"
     },
     "3441510": {
-      "rank": 3321,
+      "rank": 3324,
       "estimate": "<7k",
       "name": "Egypt"
     },
     "3568570": {
-      "rank": 4734,
+      "rank": 4737,
       "estimate": "<7k",
       "name": "Anode Heart 2"
     },
     "3609530": {
-      "rank": 5260,
+      "rank": 5267,
       "estimate": "<7k",
       "name": "Ego League"
     },
     "3645170": {
-      "rank": 4945,
+      "rank": 4948,
       "estimate": "<7k",
       "name": "Blood Sword"
     },
     "3650150": {
-      "rank": 5546,
+      "rank": 5551,
       "estimate": "<7k",
       "name": "Teeko"
     },
@@ -95,14 +95,19 @@
       "name": "Guildrun"
     },
     "3858480": {
-      "rank": 4339,
+      "rank": 4335,
       "estimate": "<7k",
       "name": "Ninpō! ~Shinobi Journey~"
     },
     "4047670": {
-      "rank": 4813,
+      "rank": 4816,
       "estimate": "<7k",
       "name": "Chonky Cat"
+    },
+    "4624510": {
+      "rank": 5736,
+      "estimate": "<7k",
+      "name": "RoofTown"
     }
   }
 }
