@@ -1,123 +1,128 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 23,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 24,
   "entries": {
     "895160": {
-      "rank": 201,
-      "estimate": "80k+",
+      "rank": 199,
+      "estimate": "200k+",
       "name": "Autonomica"
     },
     "1503170": {
-      "rank": 1206,
+      "rank": 1204,
       "estimate": "25k+",
       "name": "Liegecraft"
     },
     "1536660": {
-      "rank": 5733,
+      "rank": 5727,
       "estimate": "<7k",
       "name": "Ancient Arenas: Chariots"
     },
     "1689340": {
-      "rank": 2065,
+      "rank": 2060,
       "estimate": "7k+",
       "name": "Island of Winds"
     },
     "2018440": {
-      "rank": 3997,
+      "rank": 3992,
       "estimate": "<7k",
       "name": "Tentacles Party With Nuns"
     },
     "2704310": {
-      "rank": 4937,
+      "rank": 4931,
       "estimate": "<7k",
       "name": "HARM Weather Warfare"
     },
     "2925520": {
-      "rank": 1999,
+      "rank": 1994,
       "estimate": "15k+",
       "name": "AOKAKI"
     },
     "3195360": {
-      "rank": 1065,
+      "rank": 1062,
       "estimate": "25k+",
       "name": "Coromon: Rogue Planet"
     },
     "3284200": {
-      "rank": 1216,
+      "rank": 1214,
       "estimate": "25k+",
       "name": "Muri: Wildwoods"
     },
     "3415640": {
-      "rank": 1620,
+      "rank": 1617,
       "estimate": "15k+",
       "name": "Acornia: Mirror Worlds"
     },
     "3431620": {
-      "rank": 5174,
+      "rank": 5170,
       "estimate": "<7k",
       "name": "Kowloon 666"
     },
     "3511100": {
-      "rank": 2321,
+      "rank": 2319,
       "estimate": "7k+",
       "name": "Lust Horizon 🔞"
     },
     "3591900": {
-      "rank": 3525,
+      "rank": 3511,
       "estimate": "<7k",
       "name": "Chivalware"
     },
     "3607230": {
-      "rank": 4722,
+      "rank": 4709,
       "estimate": "<7k",
       "name": "Ridiculous Space Battles"
     },
     "3707530": {
-      "rank": 527,
+      "rank": 524,
       "estimate": "40k+",
       "name": "The Vernyhorn"
     },
     "3774860": {
-      "rank": 1481,
+      "rank": 1477,
       "estimate": "25k+",
       "name": "BOMMY"
     },
     "3855060": {
-      "rank": 2838,
+      "rank": 2832,
       "estimate": "7k+",
       "name": "Dice Throne Digital"
     },
     "3980340": {
-      "rank": 2411,
+      "rank": 2406,
       "estimate": "7k+",
       "name": "Imprinted"
     },
     "4183580": {
-      "rank": 1455,
+      "rank": 1451,
       "estimate": "25k+",
       "name": "Stationbreak"
     },
     "4278150": {
-      "rank": 2665,
+      "rank": 2664,
       "estimate": "7k+",
       "name": "One Iced Latte: Milk Song"
     },
     "4328840": {
-      "rank": 1042,
+      "rank": 1041,
       "estimate": "25k+",
       "name": "Tideborne Haven"
     },
     "4525180": {
-      "rank": 3777,
+      "rank": 3772,
       "estimate": "<7k",
       "name": "Angel Zero"
     },
     "4584800": {
-      "rank": 2750,
+      "rank": 2743,
       "estimate": "7k+",
       "name": "Extreme Survival Club!"
+    },
+    "4993040": {
+      "rank": 5714,
+      "estimate": "<7k",
+      "name": "The Nun"
     }
   }
 }

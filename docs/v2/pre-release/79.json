@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 36,
   "entries": {
     "553850": {
       "rank": 26,
@@ -129,6 +129,13 @@
       "name": "Robin Hood - Sherwood Builders - Bandit's Trail",
       "releaseDate": "2023-08-09",
       "source": "historical"
+    },
+    "2514330": {
+      "rank": 1442,
+      "estimate": "25k+",
+      "name": "The Rabbit Haul",
+      "releaseDate": "2026-09-21",
+      "source": "tracked"
     },
     "2601940": {
       "rank": 1138,

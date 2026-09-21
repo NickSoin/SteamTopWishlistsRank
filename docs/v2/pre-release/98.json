@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 30,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -114,6 +114,13 @@
       "releaseDate": "2024-11-07",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5768625435395808681"
+    },
+    "3042790": {
+      "rank": 3671,
+      "estimate": "<7k",
+      "name": "Scirocco Thugs",
+      "releaseDate": "2026-09-21",
+      "source": "tracked"
     },
     "3057420": {
       "rank": 8703,

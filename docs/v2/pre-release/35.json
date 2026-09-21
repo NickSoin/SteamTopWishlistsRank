@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 48,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 49,
   "entries": {
     "671860": {
       "rank": 22,
@@ -269,6 +269,13 @@
       "name": "Murky Divers",
       "releaseDate": "2024-12-12",
       "source": "historical"
+    },
+    "3068230": {
+      "rank": 3306,
+      "estimate": "<7k",
+      "name": "Mad Metal",
+      "releaseDate": "2026-09-21",
+      "source": "tracked"
     },
     "3213850": {
       "rank": 24,

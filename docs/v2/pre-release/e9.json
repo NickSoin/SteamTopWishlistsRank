@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 24,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 25,
   "entries": {
     "1129540": {
       "rank": 129,
@@ -135,6 +135,13 @@
       "estimate": "<7k",
       "name": "Death row inmates on the run 2--The Resistance",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "4019220": {
+      "rank": 163,
+      "estimate": "200k+",
+      "name": "Dressmaker",
+      "releaseDate": "2026-09-21",
       "source": "tracked"
     },
     "4262620": {

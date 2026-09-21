@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 41,
   "entries": {
     "1039100": {
       "rank": 184,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "Planet Coaster 2: Parades Pack",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4513380": {
+      "rank": 8835,
+      "estimate": "<7k",
+      "name": "Idle AI Factory",
+      "releaseDate": "2026-09-21",
       "source": "tracked"
     },
     "4678290": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 33,
   "entries": {
     "868270": {
       "rank": 16,
@@ -207,6 +207,13 @@
       "estimate": "80k+",
       "name": "Dirty Business",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4483600": {
+      "rank": 5623,
+      "estimate": "<7k",
+      "name": "Non-League Manager",
+      "releaseDate": "2026-09-21",
       "source": "tracked"
     },
     "4538960": {

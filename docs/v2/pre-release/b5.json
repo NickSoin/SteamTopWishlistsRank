@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 36,
   "entries": {
     "789150": {
       "rank": 34,
@@ -219,6 +219,13 @@
       "name": "FAIRY TAIL 2",
       "releaseDate": "2024-12-11",
       "source": "historical"
+    },
+    "3129050": {
+      "rank": 3870,
+      "estimate": "<7k",
+      "name": "Echoes of Mora",
+      "releaseDate": "2026-09-21",
+      "source": "tracked"
     },
     "3448650": {
       "rank": 170,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 37,
   "entries": {
     "467700": {
       "rank": 1203,
@@ -251,6 +251,13 @@
       "estimate": "<7k",
       "name": "Rock,Paper,Scissors,SHOOT!",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4861300": {
+      "rank": 3518,
+      "estimate": "<7k",
+      "name": "Lewd Elevator",
+      "releaseDate": "2026-09-21",
       "source": "tracked"
     },
     "4910440": {

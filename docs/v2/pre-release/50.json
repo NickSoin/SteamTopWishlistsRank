@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 31,
   "entries": {
     "950180": {
       "rank": 218,
@@ -200,6 +200,13 @@
       "estimate": "7k+",
       "name": "Desk Space: Idle Spacefleet clicker",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4639490": {
+      "rank": 5419,
+      "estimate": "<7k",
+      "name": "Custom Corner",
+      "releaseDate": "2026-09-21",
       "source": "tracked"
     },
     "4766080": {

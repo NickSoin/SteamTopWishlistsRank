@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 27,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 28,
   "entries": {
     "230210": {
       "rank": 15,
@@ -180,6 +180,13 @@
       "name": "The End of History",
       "releaseDate": "2025-12-10",
       "source": "historical"
+    },
+    "3510740": {
+      "rank": 890,
+      "estimate": "40k+",
+      "name": "Normal Golf Game",
+      "releaseDate": "2026-09-21",
+      "source": "tracked"
     },
     "4275570": {
       "rank": 9632,

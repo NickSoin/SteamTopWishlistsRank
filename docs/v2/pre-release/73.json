@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 31,
   "entries": {
     "427940": {
       "rank": 24,
@@ -101,6 +101,13 @@
       "name": "Tostchu",
       "releaseDate": "2024-10-28",
       "source": "historical"
+    },
+    "2301480": {
+      "rank": 4920,
+      "estimate": "<7k",
+      "name": "Cuckoo Mask",
+      "releaseDate": "2026-09-21",
+      "source": "tracked"
     },
     "2352620": {
       "rank": 42,

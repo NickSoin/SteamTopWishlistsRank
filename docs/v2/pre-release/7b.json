@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T11:17:10.817Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-21T20:19:51.306Z",
+  "entryCount": 36,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -240,6 +240,13 @@
       "estimate": "7k+",
       "name": "Impulse Response",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4705510": {
+      "rank": 51,
+      "estimate": "300k+",
+      "name": "Happy Wheels",
+      "releaseDate": "2026-09-21",
       "source": "tracked"
     },
     "4764960": {
