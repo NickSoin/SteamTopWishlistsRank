@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-20T18:17:41.269Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-20T22:37:52.121Z",
+  "entryCount": 27,
   "entries": {
     "230210": {
       "rank": 15,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Lost in the Fire",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4769110": {
+      "rank": 8533,
+      "estimate": "<7k",
+      "name": "The Confined: Basement",
+      "releaseDate": "2026-09-20",
       "source": "tracked"
     }
   }
