@@ -1,36 +1,36 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-21T05:10:40.527Z",
-  "entryCount": 22,
+  "updatedAt": "2026-09-21T11:17:10.817Z",
+  "entryCount": 23,
   "entries": {
     "1797850": {
-      "rank": 1611,
+      "rank": 1609,
       "estimate": "15k+",
       "name": "Goodlands"
     },
     "2100510": {
-      "rank": 5686,
+      "rank": 5688,
       "estimate": "<7k",
       "name": "Cyber Lancer"
     },
     "2134470": {
-      "rank": 973,
+      "rank": 972,
       "estimate": "40k+",
       "name": "34EVERLAST"
     },
     "2228250": {
-      "rank": 914,
+      "rank": 913,
       "estimate": "40k+",
       "name": "Endurance Motorsport Series"
     },
     "2408030": {
-      "rank": 1772,
+      "rank": 1771,
       "estimate": "15k+",
       "name": "Anime Tokyo"
     },
     "2688780": {
-      "rank": 1235,
+      "rank": 1231,
       "estimate": "25k+",
       "name": "Odd Town"
     },
@@ -40,7 +40,7 @@
       "name": "Game of Thrones: War for Westeros"
     },
     "2849910": {
-      "rank": 4957,
+      "rank": 4959,
       "estimate": "<7k",
       "name": "PROJECT ELYSIUM"
     },
@@ -50,22 +50,22 @@
       "name": "Times of Survival"
     },
     "3086590": {
-      "rank": 322,
+      "rank": 323,
       "estimate": "80k+",
       "name": "Gods, Death & Reapers"
     },
     "3154460": {
-      "rank": 728,
+      "rank": 727,
       "estimate": "40k+",
       "name": "Office Party"
     },
     "3245140": {
-      "rank": 296,
+      "rank": 295,
       "estimate": "80k+",
       "name": "Hello Sunshine"
     },
     "3280240": {
-      "rank": 1060,
+      "rank": 1058,
       "estimate": "25k+",
       "name": "Nailcrown"
     },
@@ -75,12 +75,12 @@
       "name": "Kena: Scars of Kosmora"
     },
     "3490760": {
-      "rank": 5549,
+      "rank": 5551,
       "estimate": "<7k",
       "name": "Song of Maka"
     },
     "3736800": {
-      "rank": 1508,
+      "rank": 1506,
       "estimate": "15k+",
       "name": "Dungeon Picnic"
     },
@@ -90,29 +90,34 @@
       "name": "Basalt: The Cursed Vein"
     },
     "4031300": {
-      "rank": 2465,
+      "rank": 2462,
       "estimate": "7k+",
       "name": "WORLD WAR V: LAST CALL"
     },
     "4072240": {
-      "rank": 410,
+      "rank": 404,
       "estimate": "80k+",
       "name": "Woman Simulator"
     },
     "4075740": {
-      "rank": 2225,
+      "rank": 2229,
       "estimate": "7k+",
       "name": "Little Sheep Valley – Cozy ranch-builder"
     },
     "4274990": {
-      "rank": 1864,
+      "rank": 1845,
       "estimate": "15k+",
       "name": "Minibus Simulator"
     },
     "4286050": {
-      "rank": 5192,
+      "rank": 5193,
       "estimate": "<7k",
       "name": "Redast"
+    },
+    "5189770": {
+      "rank": 5690,
+      "estimate": "<7k",
+      "name": "WANE"
     }
   }
 }

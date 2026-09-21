@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T05:10:40.527Z",
-  "entryCount": 52,
+  "updatedAt": "2026-09-21T11:17:10.817Z",
+  "entryCount": 53,
   "entries": {
     "748020": {
       "rank": 911,
@@ -337,6 +337,13 @@
       "estimate": "<7k",
       "name": "Would You Love Me If I Was a Snake?",
       "releaseDate": "2026-09-10",
+      "source": "tracked"
+    },
+    "4513060": {
+      "rank": 717,
+      "estimate": "40k+",
+      "name": "Yandere Virus",
+      "releaseDate": "2026-09-20",
       "source": "tracked"
     },
     "4600960": {

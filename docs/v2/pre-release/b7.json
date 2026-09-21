@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T05:10:40.527Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-21T11:17:10.817Z",
+  "entryCount": 32,
   "entries": {
     "671970": {
       "rank": 44,
@@ -200,6 +200,13 @@
       "estimate": "40k+",
       "name": "光与影之恋 Chiaroscuro Lovers",
       "releaseDate": "2026-08-17",
+      "source": "tracked"
+    },
+    "4433910": {
+      "rank": 2056,
+      "estimate": "7k+",
+      "name": "CITADEL",
+      "releaseDate": "2026-09-21",
       "source": "tracked"
     },
     "4508340": {

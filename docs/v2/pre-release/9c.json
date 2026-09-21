@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T05:10:40.527Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-21T11:17:10.817Z",
+  "entryCount": 38,
   "entries": {
     "649950": {
       "rank": 19,
@@ -232,6 +232,13 @@
       "estimate": "<7k",
       "name": "Fit Happens: A Clothing Shop Simulator",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4364730": {
+      "rank": 638,
+      "estimate": "40k+",
+      "name": "IGTAP: an Incremental Game That's Also a Platformer",
+      "releaseDate": "2026-09-21",
       "source": "tracked"
     },
     "4401370": {
