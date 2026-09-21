@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-20T22:37:52.121Z",
-  "entryCount": 18,
+  "updatedAt": "2026-09-21T05:10:40.527Z",
+  "entryCount": 19,
   "entries": {
     "1967440": {
-      "rank": 4192,
+      "rank": 4193,
       "estimate": "<7k",
       "name": "God Help Us All"
     },
     "2162310": {
-      "rank": 5439,
+      "rank": 5442,
       "estimate": "<7k",
       "name": "Existence: The Outer Reach"
     },
     "2766240": {
-      "rank": 2369,
+      "rank": 2367,
       "estimate": "7k+",
       "name": "Portal: System Failure"
     },
     "2928190": {
-      "rank": 2603,
+      "rank": 2602,
       "estimate": "7k+",
       "name": "There is NO PLAN B"
     },
     "2976030": {
-      "rank": 1576,
+      "rank": 1578,
       "estimate": "15k+",
       "name": "Spell Fragments"
     },
@@ -35,12 +35,12 @@
       "name": "Hela: of Mice & Magic"
     },
     "3284260": {
-      "rank": 4714,
+      "rank": 4700,
       "estimate": "<7k",
       "name": "Blades & Battles"
     },
     "3342470": {
-      "rank": 3624,
+      "rank": 3631,
       "estimate": "<7k",
       "name": "City of Voices"
     },
@@ -60,17 +60,17 @@
       "name": "Shutter Story"
     },
     "3899570": {
-      "rank": 3739,
+      "rank": 3740,
       "estimate": "<7k",
       "name": "Summer's Gone - Season 2 - Constellations"
     },
     "3964340": {
-      "rank": 4328,
+      "rank": 4330,
       "estimate": "<7k",
       "name": "MMORPG NPC Simulator"
     },
     "4084180": {
-      "rank": 2912,
+      "rank": 2914,
       "estimate": "7k+",
       "name": "TORNBLADE"
     },
@@ -80,19 +80,24 @@
       "name": "Iron Bramble"
     },
     "4375480": {
-      "rank": 3932,
+      "rank": 3933,
       "estimate": "<7k",
       "name": "14 Days With You"
     },
     "4632020": {
-      "rank": 1896,
+      "rank": 1894,
       "estimate": "15k+",
       "name": "Historarium"
     },
     "4873560": {
-      "rank": 3847,
+      "rank": 3848,
       "estimate": "<7k",
       "name": "BRAYZ"
+    },
+    "5266240": {
+      "rank": 5728,
+      "estimate": "<7k",
+      "name": "Potato Please"
     }
   }
 }

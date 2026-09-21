@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-20T22:37:52.121Z",
-  "entryCount": 28,
+  "updatedAt": "2026-09-21T05:10:40.527Z",
+  "entryCount": 29,
   "entries": {
     "885160": {
-      "rank": 2836,
+      "rank": 2840,
       "estimate": "7k+",
       "name": "BOTSU"
     },
     "1222290": {
-      "rank": 4477,
+      "rank": 4480,
       "estimate": "<7k",
       "name": "Heist Simulator"
     },
     "1303090": {
-      "rank": 2009,
+      "rank": 2008,
       "estimate": "7k+",
       "name": "Doctor Simulator"
     },
@@ -25,7 +25,7 @@
       "name": "Birding Simulator: Bird Photographer"
     },
     "1472730": {
-      "rank": 1883,
+      "rank": 1884,
       "estimate": "15k+",
       "name": "SimBus"
     },
@@ -35,32 +35,32 @@
       "name": "IKUMA - The Frozen Compass"
     },
     "1803110": {
-      "rank": 939,
+      "rank": 942,
       "estimate": "40k+",
       "name": "ASCENDANT"
     },
     "1963490": {
-      "rank": 4672,
+      "rank": 4674,
       "estimate": "<7k",
       "name": "Space Commander"
     },
     "2156800": {
-      "rank": 2672,
+      "rank": 2675,
       "estimate": "7k+",
       "name": "Ithaca"
     },
     "2325390": {
-      "rank": 4934,
+      "rank": 4938,
       "estimate": "<7k",
       "name": "AirBoost Airship Knight"
     },
     "2393870": {
-      "rank": 4046,
+      "rank": 4047,
       "estimate": "<7k",
       "name": "Whispers of the Luminaries Part 1"
     },
     "2502870": {
-      "rank": 3136,
+      "rank": 3138,
       "estimate": "<7k",
       "name": "Kanun 1919"
     },
@@ -75,7 +75,7 @@
       "name": "Kidbash: Super Legend"
     },
     "2714930": {
-      "rank": 2219,
+      "rank": 2218,
       "estimate": "7k+",
       "name": "Harbor"
     },
@@ -85,7 +85,7 @@
       "name": "Knight's Path"
     },
     "3010170": {
-      "rank": 2211,
+      "rank": 2209,
       "estimate": "7k+",
       "name": "Fangtopia"
     },
@@ -95,32 +95,32 @@
       "name": "Wylde Society"
     },
     "3176890": {
-      "rank": 4599,
+      "rank": 4598,
       "estimate": "<7k",
       "name": "Shore of Jord"
     },
     "3841910": {
-      "rank": 4845,
+      "rank": 4849,
       "estimate": "<7k",
       "name": "Marblearium"
     },
     "3867190": {
-      "rank": 1250,
+      "rank": 1248,
       "estimate": "25k+",
       "name": "Rance 03"
     },
     "4001650": {
-      "rank": 1491,
+      "rank": 1493,
       "estimate": "25k+",
       "name": "Cast n Chill - Eastern Winds"
     },
     "4041580": {
-      "rank": 3717,
+      "rank": 3720,
       "estimate": "<7k",
       "name": "Scraps Of The Machine"
     },
     "4103040": {
-      "rank": 3859,
+      "rank": 3857,
       "estimate": "<7k",
       "name": "Train Graveyard Simulator"
     },
@@ -140,9 +140,14 @@
       "name": "Glitchery"
     },
     "4741260": {
-      "rank": 5545,
+      "rank": 5495,
       "estimate": "<7k",
       "name": "Deadpact"
+    },
+    "5206920": {
+      "rank": 5363,
+      "estimate": "<7k",
+      "name": "Last Luminary"
     }
   }
 }

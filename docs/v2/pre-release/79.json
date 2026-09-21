@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-20T22:37:52.121Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-21T05:10:40.527Z",
+  "entryCount": 35,
   "entries": {
     "553850": {
       "rank": 26,
@@ -206,6 +206,13 @@
       "name": "Sensei! I Like You So Much!",
       "releaseDate": "2025-08-05",
       "source": "historical"
+    },
+    "3002740": {
+      "rank": 1807,
+      "estimate": "15k+",
+      "name": "Project Solaris",
+      "releaseDate": "2026-09-20",
+      "source": "tracked"
     },
     "3428090": {
       "rank": 6521,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-20T22:37:52.121Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-21T05:10:40.527Z",
+  "entryCount": 30,
   "entries": {
     "974480": {
       "rank": 197,
@@ -129,6 +129,13 @@
       "name": "EA SPORTS FC™ 24",
       "releaseDate": "2023-09-28",
       "source": "historical"
+    },
+    "2403830": {
+      "rank": 1714,
+      "estimate": "15k+",
+      "name": "Brave New Wonders",
+      "releaseDate": "2026-09-20",
+      "source": "tracked"
     },
     "2428730": {
       "rank": 251,
