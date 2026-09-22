@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T15:23:08.099Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-22T19:24:59.942Z",
+  "entryCount": 31,
   "entries": {
     "411090": {
       "rank": 5947,
@@ -196,6 +196,13 @@
       "releaseDate": "2026-04-14",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1829528821307462"
+    },
+    "4245590": {
+      "rank": 2881,
+      "estimate": "7k+",
+      "name": "Cupid Parasite",
+      "releaseDate": "2026-09-22",
+      "source": "tracked"
     },
     "4514650": {
       "rank": 5838,

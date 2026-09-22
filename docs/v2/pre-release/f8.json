@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T15:23:08.099Z",
-  "entryCount": 45,
+  "updatedAt": "2026-09-22T19:24:59.942Z",
+  "entryCount": 46,
   "entries": {
     "651490": {
       "rank": 270,
@@ -254,6 +254,13 @@
       "estimate": "<7k",
       "name": "I Need to Fix My Dream Car (But I Work at a Junkyard)",
       "releaseDate": "2026-09-10",
+      "source": "tracked"
+    },
+    "3895440": {
+      "rank": 5460,
+      "estimate": "<7k",
+      "name": "Trailquest MTB",
+      "releaseDate": "2026-09-22",
       "source": "tracked"
     },
     "3946810": {

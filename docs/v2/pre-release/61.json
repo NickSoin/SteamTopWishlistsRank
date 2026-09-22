@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T15:23:08.099Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-22T19:24:59.942Z",
+  "entryCount": 33,
   "entries": {
     "374190": {
       "rank": 414,
@@ -103,6 +103,13 @@
       "name": "Denizen",
       "releaseDate": "2024-04-29",
       "source": "historical"
+    },
+    "2221850": {
+      "rank": 3996,
+      "estimate": "<7k",
+      "name": "EbiTapes",
+      "releaseDate": "2026-09-22",
+      "source": "tracked"
     },
     "2257590": {
       "rank": 413,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T15:23:08.099Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-22T19:24:59.942Z",
+  "entryCount": 35,
   "entries": {
     "536270": {
       "rank": 17,
@@ -221,6 +221,13 @@
       "estimate": "40k+",
       "name": "F1® 25: 2026 Season Pack",
       "releaseDate": "2026-06-03",
+      "source": "tracked"
+    },
+    "4274990": {
+      "rank": 1696,
+      "estimate": "15k+",
+      "name": "Minibus Simulator",
+      "releaseDate": "2026-09-22",
       "source": "tracked"
     },
     "4558690": {

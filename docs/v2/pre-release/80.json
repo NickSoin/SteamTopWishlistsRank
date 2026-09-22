@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T15:23:08.099Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-22T19:24:59.942Z",
+  "entryCount": 38,
   "entries": {
     "1112390": {
       "rank": 3117,
@@ -254,6 +254,13 @@
       "estimate": "7k+",
       "name": "Dash'n'Drops",
       "releaseDate": "2026-08-17",
+      "source": "tracked"
+    },
+    "4358690": {
+      "rank": 34,
+      "estimate": "600k+",
+      "name": "Graveyard Keeper 2",
+      "releaseDate": "2026-09-22",
       "source": "tracked"
     },
     "4601350": {

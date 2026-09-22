@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T15:23:08.099Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-22T19:24:59.942Z",
+  "entryCount": 37,
   "entries": {
     "759080": {
       "rank": 605,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Slot or Die",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4384040": {
+      "rank": 7841,
+      "estimate": "<7k",
+      "name": "Age Of GoldFarmers",
+      "releaseDate": "2026-09-22",
       "source": "tracked"
     },
     "4390180": {

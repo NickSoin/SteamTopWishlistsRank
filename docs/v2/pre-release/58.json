@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T15:23:08.099Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-22T19:24:59.942Z",
+  "entryCount": 26,
   "entries": {
     "1101790": {
       "rank": 96,
@@ -162,6 +162,13 @@
       "estimate": "<7k",
       "name": "CRAWLER",
       "releaseDate": "2026-08-22",
+      "source": "tracked"
+    },
+    "4376980": {
+      "rank": 1520,
+      "estimate": "15k+",
+      "name": "Age of Empires II: DE - The Viking Sagas",
+      "releaseDate": "2026-09-22",
       "source": "tracked"
     },
     "4380750": {
