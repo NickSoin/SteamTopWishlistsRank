@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T23:47:53.079Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-22T05:27:13.312Z",
+  "entryCount": 37,
   "entries": {
     "553850": {
       "rank": 26,
@@ -219,6 +219,13 @@
       "estimate": "15k+",
       "name": "Project Solaris",
       "releaseDate": "2026-09-20",
+      "source": "tracked"
+    },
+    "3255500": {
+      "rank": 457,
+      "estimate": "80k+",
+      "name": "Ved: Recure",
+      "releaseDate": "2026-09-21",
       "source": "tracked"
     },
     "3428090": {

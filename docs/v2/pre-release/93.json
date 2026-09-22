@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T23:47:53.079Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-22T05:27:13.312Z",
+  "entryCount": 31,
   "entries": {
     "473750": {
       "rank": 1164,
@@ -31,6 +31,13 @@
       "name": "SpiderHeck",
       "releaseDate": "2022-09-22",
       "source": "historical"
+    },
+    "1352890": {
+      "rank": 8914,
+      "estimate": "<7k",
+      "name": "Seekers Alliance: Hero's Journey",
+      "releaseDate": "2026-09-21",
+      "source": "tracked"
     },
     "1487390": {
       "rank": 160,

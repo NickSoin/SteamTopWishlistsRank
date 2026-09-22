@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T23:47:53.079Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-22T05:27:13.312Z",
+  "entryCount": 30,
   "entries": {
     "1036240": {
       "rank": 491,
@@ -181,6 +181,13 @@
       "estimate": "80k+",
       "name": "Security 51",
       "releaseDate": "2026-08-12",
+      "source": "tracked"
+    },
+    "4289410": {
+      "rank": 5401,
+      "estimate": "<7k",
+      "name": "BuGarden",
+      "releaseDate": "2026-09-21",
       "source": "tracked"
     },
     "4445360": {

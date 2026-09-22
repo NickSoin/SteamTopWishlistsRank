@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T23:47:53.079Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-22T05:27:13.312Z",
+  "entryCount": 36,
   "entries": {
     "858710": {
       "rank": 35,
@@ -203,6 +203,13 @@
       "releaseDate": "2026-04-16",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806718596"
+    },
+    "3328490": {
+      "rank": 933,
+      "estimate": "40k+",
+      "name": "Airport Control 27",
+      "releaseDate": "2026-09-21",
+      "source": "tracked"
     },
     "3424990": {
       "rank": 2962,
