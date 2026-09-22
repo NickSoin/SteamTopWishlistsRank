@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T05:27:13.312Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-22T10:27:00.182Z",
+  "entryCount": 33,
   "entries": {
     "257420": {
       "rank": 19,
@@ -194,6 +194,13 @@
       "name": "Magic Pussy: Chapter 3",
       "releaseDate": "2025-10-18",
       "source": "historical"
+    },
+    "3489680": {
+      "rank": 5536,
+      "estimate": "<7k",
+      "name": "Packed Lair",
+      "releaseDate": "2026-09-22",
+      "source": "tracked"
     },
     "3713750": {
       "rank": 5192,

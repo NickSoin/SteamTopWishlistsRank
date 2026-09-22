@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T05:27:13.312Z",
-  "entryCount": 43,
+  "updatedAt": "2026-09-22T10:27:00.182Z",
+  "entryCount": 44,
   "entries": {
     "440000": {
       "rank": 459,
@@ -199,6 +199,13 @@
       "name": "Solateria",
       "releaseDate": "2026-03-12",
       "source": "historical"
+    },
+    "2999500": {
+      "rank": 1761,
+      "estimate": "15k+",
+      "name": "STUNTBOOST",
+      "releaseDate": "2026-09-22",
+      "source": "tracked"
     },
     "3277320": {
       "rank": 3610,
