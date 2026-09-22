@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T20:19:51.306Z",
-  "entryCount": 46,
+  "updatedAt": "2026-09-21T23:47:53.079Z",
+  "entryCount": 47,
   "entries": {
     "454120": {
       "rank": 35,
@@ -262,6 +262,13 @@
       "name": "Endless Tentacle Cave",
       "releaseDate": "2024-09-25",
       "source": "historical"
+    },
+    "3008700": {
+      "rank": 2391,
+      "estimate": "7k+",
+      "name": "Eagle Knight Paradox",
+      "releaseDate": "2026-09-21",
+      "source": "tracked"
     },
     "3089130": {
       "rank": 1911,

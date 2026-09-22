@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T20:19:51.306Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-21T23:47:53.079Z",
+  "entryCount": 35,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -152,6 +152,13 @@
       "name": "EA SPORTS™ Madden NFL 25",
       "releaseDate": "2024-08-15",
       "source": "historical"
+    },
+    "2636430": {
+      "rank": 3463,
+      "estimate": "<7k",
+      "name": "Soggy Beans",
+      "releaseDate": "2026-09-21",
+      "source": "tracked"
     },
     "2768430": {
       "rank": 1134,

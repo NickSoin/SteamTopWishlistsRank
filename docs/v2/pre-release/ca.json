@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-21T20:19:51.306Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-21T23:47:53.079Z",
+  "entryCount": 33,
   "entries": {
     "757310": {
       "rank": 43,
@@ -122,6 +122,13 @@
       "name": "Master of Realms",
       "releaseDate": "2026-03-26",
       "source": "historical"
+    },
+    "2343580": {
+      "rank": 7874,
+      "estimate": "<7k",
+      "name": "Ghoul Fright",
+      "releaseDate": "2026-09-21",
+      "source": "tracked"
     },
     "2377020": {
       "rank": 1866,
