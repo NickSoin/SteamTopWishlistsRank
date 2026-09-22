@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T10:27:00.182Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-22T15:23:08.099Z",
+  "entryCount": 31,
   "entries": {
     "1012570": {
       "rank": 585,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Creepshow",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "3613050": {
+      "rank": 1434,
+      "estimate": "25k+",
+      "name": "Gravebound",
+      "releaseDate": "2026-09-22",
       "source": "tracked"
     },
     "4279790": {

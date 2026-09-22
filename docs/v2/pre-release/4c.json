@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T10:27:00.182Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-22T15:23:08.099Z",
+  "entryCount": 34,
   "entries": {
     "774801": {
       "rank": 157,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Tome of the Damned",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3699590": {
+      "rank": 465,
+      "estimate": "80k+",
+      "name": "Well Dweller",
+      "releaseDate": "2026-09-22",
       "source": "tracked"
     },
     "3908940": {

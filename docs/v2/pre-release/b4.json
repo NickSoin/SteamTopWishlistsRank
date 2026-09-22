@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T10:27:00.182Z",
-  "entryCount": 48,
+  "updatedAt": "2026-09-22T15:23:08.099Z",
+  "entryCount": 49,
   "entries": {
     "607080": {
       "rank": 2,
@@ -310,6 +310,13 @@
       "estimate": "<7k",
       "name": "Bound by Destiny",
       "releaseDate": "2026-09-18",
+      "source": "tracked"
+    },
+    "3930950": {
+      "rank": 9691,
+      "estimate": "<7k",
+      "name": "FARCRAFT",
+      "releaseDate": "2026-09-22",
       "source": "tracked"
     },
     "3968160": {

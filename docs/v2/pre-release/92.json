@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T10:27:00.182Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-22T15:23:08.099Z",
+  "entryCount": 30,
   "entries": {
     "979110": {
       "rank": 38,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "RouletteCircus",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "3872650": {
+      "rank": 2549,
+      "estimate": "7k+",
+      "name": "Panzer Deck",
+      "releaseDate": "2026-09-22",
       "source": "tracked"
     },
     "4018020": {

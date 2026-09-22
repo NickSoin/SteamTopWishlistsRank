@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T10:27:00.182Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-22T15:23:08.099Z",
+  "entryCount": 37,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -10,6 +10,13 @@
       "name": "Bendy: Secrets of the Machine",
       "releaseDate": "2024-04-14",
       "source": "historical"
+    },
+    "1133700": {
+      "rank": 3215,
+      "estimate": "<7k",
+      "name": "Curve Fever Pro",
+      "releaseDate": "2026-09-22",
+      "source": "tracked"
     },
     "1205270": {
       "rank": 398,

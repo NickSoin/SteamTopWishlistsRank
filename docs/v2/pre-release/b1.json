@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T10:27:00.182Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-22T15:23:08.099Z",
+  "entryCount": 32,
   "entries": {
     "844260": {
       "rank": 74,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Living on Plain Pasta",
       "releaseDate": "2026-09-10",
+      "source": "tracked"
+    },
+    "4997500": {
+      "rank": 5529,
+      "estimate": "<7k",
+      "name": "Medieval Dynasty - Hunting Set",
+      "releaseDate": "2026-09-22",
       "source": "tracked"
     }
   }
