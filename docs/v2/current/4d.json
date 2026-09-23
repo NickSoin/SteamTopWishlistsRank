@@ -1,28 +1,33 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-23T04:55:04.941Z",
-  "entryCount": 18,
+  "updatedAt": "2026-09-23T10:36:52.808Z",
+  "entryCount": 21,
   "entries": {
     "1601770": {
-      "rank": 4497,
+      "rank": 4496,
       "estimate": "<7k",
       "name": "RUNNER"
     },
     "1865770": {
-      "rank": 2086,
+      "rank": 2087,
       "estimate": "7k+",
       "name": "Ragnarok V: Returns"
     },
     "1979350": {
-      "rank": 3283,
+      "rank": 3282,
       "estimate": "<7k",
       "name": "Astro World"
     },
     "2073150": {
-      "rank": 1614,
+      "rank": 1613,
       "estimate": "15k+",
       "name": "Eldritch Empathy"
+    },
+    "2083470": {
+      "rank": 5300,
+      "estimate": "<7k",
+      "name": "UTTER INVERSE"
     },
     "2155140": {
       "rank": 1045,
@@ -30,7 +35,7 @@
       "name": "Police Station Simulator"
     },
     "2190640": {
-      "rank": 4737,
+      "rank": 4736,
       "estimate": "<7k",
       "name": "Cosmic Holidays"
     },
@@ -40,12 +45,12 @@
       "name": "HoneySun"
     },
     "2896630": {
-      "rank": 2047,
+      "rank": 2032,
       "estimate": "7k+",
       "name": "Tomboy Adventure 2"
     },
     "2960250": {
-      "rank": 706,
+      "rank": 705,
       "estimate": "40k+",
       "name": "Tempus Triad"
     },
@@ -65,34 +70,44 @@
       "name": "Echoes Below"
     },
     "3335310": {
-      "rank": 773,
+      "rank": 770,
       "estimate": "40k+",
       "name": "Remothered: Red Nun's Legacy"
     },
+    "3603730": {
+      "rank": 4101,
+      "estimate": "<7k",
+      "name": "GCR3 Geoff Crammond"
+    },
     "3608090": {
-      "rank": 5598,
+      "rank": 5603,
       "estimate": "<7k",
       "name": "Ultimate Lemon Basket"
     },
     "3619580": {
-      "rank": 1502,
+      "rank": 1503,
       "estimate": "15k+",
       "name": "The Apocalypse"
     },
     "4210250": {
-      "rank": 4708,
+      "rank": 4698,
       "estimate": "<7k",
       "name": "Logic Arrows"
     },
     "4225360": {
-      "rank": 5258,
+      "rank": 5257,
       "estimate": "<7k",
       "name": "RGB: EXECUTION"
     },
     "4810160": {
-      "rank": 4687,
+      "rank": 4675,
       "estimate": "<7k",
       "name": "DABA Land of Water Scar"
+    },
+    "5210800": {
+      "rank": 5425,
+      "estimate": "<7k",
+      "name": "SYSTEM INTRUDER"
     }
   }
 }

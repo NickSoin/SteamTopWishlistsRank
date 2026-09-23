@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-23T04:55:04.941Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-23T10:36:52.808Z",
+  "entryCount": 26,
   "entries": {
     "1334280": {
-      "rank": 3773,
+      "rank": 3774,
       "estimate": "<7k",
       "name": "Elaborate Lands"
     },
     "1490830": {
-      "rank": 3017,
+      "rank": 3018,
       "estimate": "<7k",
       "name": "DYING : 1983"
     },
@@ -25,32 +25,32 @@
       "name": "Den of Wolves"
     },
     "2008270": {
-      "rank": 4532,
+      "rank": 4533,
       "estimate": "<7k",
       "name": "Biters & Bullets"
     },
     "2468250": {
-      "rank": 1265,
+      "rank": 1264,
       "estimate": "25k+",
       "name": "silkbulb test"
     },
     "2470790": {
-      "rank": 1794,
+      "rank": 1795,
       "estimate": "15k+",
       "name": "INFERIUS"
     },
     "2521500": {
-      "rank": 5628,
+      "rank": 5627,
       "estimate": "<7k",
       "name": "Speechbound - A language RPG"
     },
     "2562390": {
-      "rank": 1688,
+      "rank": 1687,
       "estimate": "15k+",
       "name": "Benny's Backrooms"
     },
     "2696550": {
-      "rank": 3276,
+      "rank": 3275,
       "estimate": "<7k",
       "name": "Aquametsis"
     },
@@ -70,12 +70,12 @@
       "name": "Gears of War: E-Day"
     },
     "3185200": {
-      "rank": 3368,
+      "rank": 3367,
       "estimate": "<7k",
       "name": "Market Gardener"
     },
     "3202730": {
-      "rank": 2461,
+      "rank": 2462,
       "estimate": "7k+",
       "name": "Reforj"
     },
@@ -85,7 +85,7 @@
       "name": "Angel Roulette"
     },
     "3436340": {
-      "rank": 4485,
+      "rank": 4481,
       "estimate": "<7k",
       "name": "Legend of the Taiwanese Harlot"
     },
@@ -100,22 +100,22 @@
       "name": "Embers of the Uncrowned"
     },
     "3810050": {
-      "rank": 823,
+      "rank": 822,
       "estimate": "40k+",
       "name": "Rabona"
     },
     "3845650": {
-      "rank": 4265,
+      "rank": 4263,
       "estimate": "<7k",
       "name": "MAJJAM"
     },
     "3908100": {
-      "rank": 1027,
+      "rank": 1026,
       "estimate": "25k+",
       "name": "Steam To Electric"
     },
     "4101830": {
-      "rank": 5378,
+      "rank": 5374,
       "estimate": "<7k",
       "name": "One Song, One Life"
     },
@@ -125,9 +125,14 @@
       "name": "Nightholme"
     },
     "4382680": {
-      "rank": 4814,
+      "rank": 4813,
       "estimate": "<7k",
       "name": "River Drift"
+    },
+    "4654240": {
+      "rank": 5709,
+      "estimate": "<7k",
+      "name": "Beyond The Blight"
     }
   }
 }
