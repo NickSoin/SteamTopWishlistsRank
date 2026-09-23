@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-23T15:09:43.096Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-23T19:12:48.657Z",
+  "entryCount": 33,
   "entries": {
     "844260": {
       "rank": 74,
@@ -216,6 +216,13 @@
       "estimate": "7k+",
       "name": "PawMart Tiny Market",
       "releaseDate": "2026-09-15",
+      "source": "tracked"
+    },
+    "4457150": {
+      "rank": 5047,
+      "estimate": "<7k",
+      "name": "Chomp Garden",
+      "releaseDate": "2026-09-23",
       "source": "tracked"
     },
     "4903800": {

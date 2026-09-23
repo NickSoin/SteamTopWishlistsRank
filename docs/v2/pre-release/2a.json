@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-23T15:09:43.096Z",
-  "entryCount": 43,
+  "updatedAt": "2026-09-23T19:12:48.657Z",
+  "entryCount": 44,
   "entries": {
     "809060": {
       "rank": 695,
@@ -194,6 +194,13 @@
       "name": "Marisa of Liartop Mountain",
       "releaseDate": "2025-09-18",
       "source": "historical"
+    },
+    "2555000": {
+      "rank": 7406,
+      "estimate": "<7k",
+      "name": "Waaaaaa: A Prehistoric Adventure With Aliens",
+      "releaseDate": "2026-09-23",
+      "source": "tracked"
     },
     "2562550": {
       "rank": 2187,
