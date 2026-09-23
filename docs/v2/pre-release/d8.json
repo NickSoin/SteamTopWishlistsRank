@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T23:24:54.195Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-23T04:55:04.941Z",
+  "entryCount": 40,
   "entries": {
     "494730": {
       "rank": 753,
@@ -265,6 +265,13 @@
       "estimate": "80k+",
       "name": "An Eggstremely Hard Game",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4169160": {
+      "rank": 5954,
+      "estimate": "<7k",
+      "name": "妹控计划",
+      "releaseDate": "2026-09-22",
       "source": "tracked"
     },
     "4634080": {

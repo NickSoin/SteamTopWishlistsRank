@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T23:24:54.195Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-23T04:55:04.941Z",
+  "entryCount": 32,
   "entries": {
     "1063030": {
       "rank": 621,
@@ -159,6 +159,13 @@
       "name": "Roboquest VR",
       "releaseDate": "2025-11-20",
       "source": "historical"
+    },
+    "3319700": {
+      "rank": 3208,
+      "estimate": "<7k",
+      "name": "新世界：暗影成双",
+      "releaseDate": "2026-09-22",
+      "source": "tracked"
     },
     "3357650": {
       "rank": 8,

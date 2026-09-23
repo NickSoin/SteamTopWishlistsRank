@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-22T23:24:54.195Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-23T04:55:04.941Z",
+  "entryCount": 40,
   "entries": {
     "458430": {
       "rank": 911,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "Project Neon",
       "releaseDate": "2026-08-07",
+      "source": "tracked"
+    },
+    "3484100": {
+      "rank": 4350,
+      "estimate": "<7k",
+      "name": "Bait Soul",
+      "releaseDate": "2026-09-22",
       "source": "tracked"
     },
     "3649710": {

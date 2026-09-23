@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-22T23:24:54.195Z",
-  "entryCount": 16,
+  "updatedAt": "2026-09-23T04:55:04.941Z",
+  "entryCount": 17,
   "entries": {
     "1897450": {
-      "rank": 3530,
+      "rank": 3529,
       "estimate": "<7k",
       "name": "U-Boot: The Board Game - Digital Edition"
     },
     "2659040": {
-      "rank": 2971,
+      "rank": 2973,
       "estimate": "7k+",
       "name": "M.O.Z.I"
     },
     "2728050": {
-      "rank": 1307,
+      "rank": 1306,
       "estimate": "25k+",
       "name": "Scratchin' Melodii"
     },
     "3039430": {
-      "rank": 5308,
+      "rank": 5305,
       "estimate": "<7k",
       "name": "MECHIEVAL"
     },
@@ -35,7 +35,7 @@
       "name": "Wasteland Travelers"
     },
     "3314140": {
-      "rank": 3770,
+      "rank": 3771,
       "estimate": "<7k",
       "name": "Fevercide"
     },
@@ -60,12 +60,12 @@
       "name": "INSPEKTOR"
     },
     "3822320": {
-      "rank": 1638,
+      "rank": 1639,
       "estimate": "15k+",
       "name": "Dream Hollow"
     },
     "3831210": {
-      "rank": 1535,
+      "rank": 1524,
       "estimate": "15k+",
       "name": "Lawn Mowing Simulator 2"
     },
@@ -74,13 +74,18 @@
       "estimate": "40k+",
       "name": "Sublustrum"
     },
+    "4240790": {
+      "rank": 5724,
+      "estimate": "<7k",
+      "name": "Cooking For MA!"
+    },
     "4626170": {
-      "rank": 4063,
+      "rank": 4061,
       "estimate": "<7k",
       "name": "LISIA"
     },
     "4660280": {
-      "rank": 1842,
+      "rank": 1803,
       "estimate": "15k+",
       "name": "DUAL PROTOCOL: The Case of Eva & Miles"
     }
