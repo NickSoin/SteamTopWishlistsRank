@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-23T10:36:52.808Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-23T15:09:43.096Z",
+  "entryCount": 40,
   "entries": {
     "538030": {
       "rank": 87,
@@ -274,6 +274,13 @@
       "estimate": "25k+",
       "name": "Spell Knight: Abyss Cleaver",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "4602410": {
+      "rank": 4190,
+      "estimate": "<7k",
+      "name": "Union Max",
+      "releaseDate": "2026-09-23",
       "source": "tracked"
     },
     "5044770": {

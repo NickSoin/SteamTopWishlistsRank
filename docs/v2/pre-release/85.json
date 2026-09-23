@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-23T10:36:52.808Z",
-  "entryCount": 44,
+  "updatedAt": "2026-09-23T15:09:43.096Z",
+  "entryCount": 45,
   "entries": {
     "440000": {
       "rank": 459,
@@ -296,6 +296,13 @@
       "estimate": "25k+",
       "name": "Sister Leticia: The First Mission!",
       "releaseDate": "2026-09-15",
+      "source": "tracked"
+    },
+    "4678340": {
+      "rank": 6437,
+      "estimate": "<7k",
+      "name": "Eternal Quest",
+      "releaseDate": "2026-09-23",
       "source": "tracked"
     },
     "4798110": {

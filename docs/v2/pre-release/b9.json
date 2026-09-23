@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-23T10:36:52.808Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-23T15:09:43.096Z",
+  "entryCount": 32,
   "entries": {
     "1012570": {
       "rank": 585,
@@ -177,6 +177,13 @@
       "estimate": "25k+",
       "name": "Gravebound",
       "releaseDate": "2026-09-22",
+      "source": "tracked"
+    },
+    "3936270": {
+      "rank": 1546,
+      "estimate": "15k+",
+      "name": "It's Fine",
+      "releaseDate": "2026-09-23",
       "source": "tracked"
     },
     "4279790": {

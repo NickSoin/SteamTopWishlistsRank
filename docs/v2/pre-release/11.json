@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-23T10:36:52.808Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-23T15:09:43.096Z",
+  "entryCount": 32,
   "entries": {
     "905530": {
       "rank": 585,
@@ -182,6 +182,13 @@
       "name": "Deep Rock Galactic - Order of the Deep Pack",
       "releaseDate": "2024-06-13",
       "source": "historical"
+    },
+    "3850970": {
+      "rank": 3585,
+      "estimate": "<7k",
+      "name": "Mystery Egg Shop Simulator",
+      "releaseDate": "2026-09-23",
+      "source": "tracked"
     },
     "3935020": {
       "rank": 626,
