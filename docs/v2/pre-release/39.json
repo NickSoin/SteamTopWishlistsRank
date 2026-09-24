@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T10:40:51.644Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-24T15:26:59.413Z",
+  "entryCount": 34,
   "entries": {
     "1003590": {
       "rank": 343,
@@ -185,6 +185,13 @@
       "name": "100 Romantic Cats",
       "releaseDate": "2025-02-13",
       "source": "historical"
+    },
+    "3589650": {
+      "rank": 1540,
+      "estimate": "15k+",
+      "name": "Total War: WARHAMMER III - Nagash – Lords of the End Times",
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     },
     "3678970": {
       "rank": 2003,

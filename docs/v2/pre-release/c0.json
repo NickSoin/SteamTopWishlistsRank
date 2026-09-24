@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T10:40:51.644Z",
+  "updatedAt": "2026-09-24T15:26:59.413Z",
   "entryCount": 22,
   "entries": {
     "589450": {
@@ -117,11 +117,11 @@
       "source": "tracked"
     },
     "3669870": {
-      "rank": 44,
-      "estimate": "600k+",
+      "rank": 19,
+      "estimate": "800k+",
       "name": "CONTROL Resonant",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     },
     "3892320": {
       "rank": 4299,

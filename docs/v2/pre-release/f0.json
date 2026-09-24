@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T10:40:51.644Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-24T15:26:59.413Z",
+  "entryCount": 40,
   "entries": {
     "721700": {
       "rank": 679,
@@ -260,6 +260,13 @@
       "estimate": "<7k",
       "name": "MOLDRISE",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4526330": {
+      "rank": 5442,
+      "estimate": "<7k",
+      "name": "Deep Space Remnant",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "4674970": {

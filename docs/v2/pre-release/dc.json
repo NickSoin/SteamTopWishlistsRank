@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T10:40:51.644Z",
-  "entryCount": 27,
+  "updatedAt": "2026-09-24T15:26:59.413Z",
+  "entryCount": 28,
   "entries": {
     "1097350": {
       "rank": 63,
@@ -146,6 +146,13 @@
       "estimate": "15k+",
       "name": "Board Game Society",
       "releaseDate": "2026-08-28",
+      "source": "tracked"
+    },
+    "3589680": {
+      "rank": 2969,
+      "estimate": "7k+",
+      "name": "Total War: WARHAMMER III - The Glottkin – Lords of the End Times",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "3833620": {

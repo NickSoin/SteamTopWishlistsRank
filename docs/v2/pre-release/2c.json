@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T10:40:51.644Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-24T15:26:59.413Z",
+  "entryCount": 37,
   "entries": {
     "252190": {
       "rank": 1772,
@@ -249,6 +249,13 @@
       "estimate": "300k+",
       "name": "DragonSword : Awakening",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4605040": {
+      "rank": 9436,
+      "estimate": "<7k",
+      "name": "Drown World",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "4687330": {

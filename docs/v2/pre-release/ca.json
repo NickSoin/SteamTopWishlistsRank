@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T10:40:51.644Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-24T15:26:59.413Z",
+  "entryCount": 34,
   "entries": {
     "757310": {
       "rank": 43,
@@ -171,6 +171,13 @@
       "name": "Usagi Shima: Bunny Island",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3179120": {
+      "rank": 1973,
+      "estimate": "15k+",
+      "name": "Monastery: Ora et Labora",
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     },
     "3294300": {
       "rank": 2971,

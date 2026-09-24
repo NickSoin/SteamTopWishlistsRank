@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T10:40:51.644Z",
-  "entryCount": 20,
+  "updatedAt": "2026-09-24T15:26:59.413Z",
+  "entryCount": 23,
   "entries": {
     "898890": {
       "rank": 231,
@@ -81,6 +81,13 @@
       "releaseDate": "2025-04-11",
       "source": "historical"
     },
+    "2438180": {
+      "rank": 2098,
+      "estimate": "7k+",
+      "name": "Doggy Don't Care",
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
+    },
     "2488590": {
       "rank": 1343,
       "estimate": "25k+",
@@ -94,6 +101,13 @@
       "name": "A Date with Death - Beyond the Bet DLC",
       "releaseDate": "2024-12-08",
       "source": "historical"
+    },
+    "2845430": {
+      "rank": 5295,
+      "estimate": "<7k",
+      "name": "The Witch's Redemption",
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     },
     "3075410": {
       "rank": 1200,
@@ -122,6 +136,13 @@
       "name": "Open Fortress",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3589670": {
+      "rank": 2338,
+      "estimate": "7k+",
+      "name": "Total War: WARHAMMER III - Boris Todbringer – Lords of the End Times",
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     },
     "4210300": {
       "rank": 3267,

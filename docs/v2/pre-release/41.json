@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T10:40:51.644Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-24T15:26:59.413Z",
+  "entryCount": 37,
   "entries": {
     "338820": {
       "rank": 1245,
@@ -249,6 +249,13 @@
       "estimate": "7k+",
       "name": "Dungeon Brawls",
       "releaseDate": "2026-09-09",
+      "source": "tracked"
+    },
+    "4259190": {
+      "rank": 262,
+      "estimate": "80k+",
+      "name": "Kingdom Rush 6: Genesis TD",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "4632100": {

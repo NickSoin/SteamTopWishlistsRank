@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T10:40:51.644Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-24T15:26:59.413Z",
+  "entryCount": 32,
   "entries": {
     "299970": {
       "rank": 34,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "The Furry Protocol",
       "releaseDate": "2026-09-19",
+      "source": "tracked"
+    },
+    "4326520": {
+      "rank": 8985,
+      "estimate": "<7k",
+      "name": "When Work's A Bore",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "4800590": {
