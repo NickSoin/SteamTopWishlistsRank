@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T15:26:59.413Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-24T19:27:50.108Z",
+  "entryCount": 40,
   "entries": {
     "427410": {
       "rank": 31,
@@ -247,6 +247,13 @@
       "estimate": "7k+",
       "name": "Until Then: Afterimages",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4026060": {
+      "rank": 6622,
+      "estimate": "<7k",
+      "name": "All Roads Connected",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "4066190": {

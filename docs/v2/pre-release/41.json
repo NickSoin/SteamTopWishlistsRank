@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T15:26:59.413Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-24T19:27:50.108Z",
+  "entryCount": 38,
   "entries": {
     "338820": {
       "rank": 1245,
@@ -187,6 +187,13 @@
       "name": "Tiny Garden",
       "releaseDate": "2025-04-08",
       "source": "historical"
+    },
+    "2985880": {
+      "rank": 1026,
+      "estimate": "25k+",
+      "name": "Farming Camp",
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     },
     "3061390": {
       "rank": 1714,

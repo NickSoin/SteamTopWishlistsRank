@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T15:26:59.413Z",
-  "entryCount": 21,
+  "updatedAt": "2026-09-24T19:27:50.108Z",
+  "entryCount": 22,
   "entries": {
     "1125710": {
       "rank": 110,
@@ -150,6 +150,13 @@
       "name": "Age of Empires IV: Knights of Cross and Rose ",
       "releaseDate": "2025-04-08",
       "source": "historical"
+    },
+    "4121430": {
+      "rank": 1960,
+      "estimate": "15k+",
+      "name": "Oh!Ware",
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     }
   }
 }

@@ -1,86 +1,91 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-24T15:26:59.413Z",
-  "entryCount": 16,
+  "updatedAt": "2026-09-24T19:27:50.108Z",
+  "entryCount": 17,
   "entries": {
     "563530": {
-      "rank": 4261,
+      "rank": 4256,
       "estimate": "<7k",
       "name": "Insatia"
     },
     "1251960": {
-      "rank": 4229,
+      "rank": 4222,
       "estimate": "<7k",
       "name": "Deathtrap Dungeon: The Golden Room"
     },
     "1566440": {
-      "rank": 4296,
+      "rank": 4291,
       "estimate": "<7k",
       "name": "Lords of Nether"
     },
     "2374990": {
-      "rank": 5460,
+      "rank": 5459,
       "estimate": "<7k",
       "name": "Primeval Horizon"
     },
     "2493130": {
-      "rank": 2043,
+      "rank": 2039,
       "estimate": "7k+",
       "name": "Train Planet"
     },
     "2981400": {
-      "rank": 1453,
+      "rank": 1449,
       "estimate": "25k+",
       "name": "Middle Ages: Peasants & Knights"
     },
+    "3181720": {
+      "rank": 5693,
+      "estimate": "<7k",
+      "name": "Project:Null Hypothesis"
+    },
     "3325070": {
-      "rank": 878,
+      "rank": 877,
       "estimate": "40k+",
       "name": "Forest Reigns"
     },
     "3383030": {
-      "rank": 4088,
+      "rank": 4082,
       "estimate": "<7k",
       "name": "Immortal Path(星河仙道)"
     },
     "3411810": {
-      "rank": 1001,
-      "estimate": "25k+",
+      "rank": 1000,
+      "estimate": "40k+",
       "name": "Cobra Strike"
     },
     "3453900": {
-      "rank": 4993,
+      "rank": 4987,
       "estimate": "<7k",
       "name": "Micromega"
     },
     "3569010": {
-      "rank": 5680,
+      "rank": 5676,
       "estimate": "<7k",
       "name": "Smashdolls"
     },
     "4314240": {
-      "rank": 2963,
+      "rank": 2958,
       "estimate": "7k+",
       "name": "OnlyVans"
     },
     "4425120": {
-      "rank": 2589,
+      "rank": 2583,
       "estimate": "7k+",
       "name": "Greetings from El Rey"
     },
     "4433800": {
-      "rank": 2483,
+      "rank": 2477,
       "estimate": "7k+",
       "name": "There Is No Next Stop"
     },
     "4730620": {
-      "rank": 2930,
+      "rank": 2920,
       "estimate": "7k+",
       "name": "The Rope Knight"
     },
     "4752390": {
-      "rank": 3617,
+      "rank": 3610,
       "estimate": "<7k",
       "name": "Panic 64"
     }

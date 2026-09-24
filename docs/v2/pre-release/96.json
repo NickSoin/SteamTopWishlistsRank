@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T15:26:59.413Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-24T19:27:50.108Z",
+  "entryCount": 26,
   "entries": {
     "678390": {
       "rank": 662,
@@ -146,6 +146,13 @@
       "estimate": "80k+",
       "name": "Clawed",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "3593230": {
+      "rank": 1758,
+      "estimate": "15k+",
+      "name": "Prince of Suburbia - Knock Me Up Again!",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "3884970": {

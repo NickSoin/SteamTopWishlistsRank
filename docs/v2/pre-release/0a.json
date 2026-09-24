@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T15:26:59.413Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-24T19:27:50.108Z",
+  "entryCount": 33,
   "entries": {
     "983380": {
       "rank": 234,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Fomo-trading",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "5087960": {
+      "rank": 2974,
+      "estimate": "7k+",
+      "name": "Trailmakers - Downtown Drive",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     }
   }

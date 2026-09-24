@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T15:26:59.413Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-24T19:27:50.108Z",
+  "entryCount": 33,
   "entries": {
     "1231560": {
       "rank": 269,
@@ -191,6 +191,13 @@
       "estimate": "80k+",
       "name": "GunZ: The Duel",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "3749870": {
+      "rank": 416,
+      "estimate": "80k+",
+      "name": "American Truck Simulator - South Dakota",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "3946190": {
