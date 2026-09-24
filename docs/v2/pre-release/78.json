@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T05:21:31.274Z",
-  "entryCount": 25,
+  "updatedAt": "2026-09-24T10:40:51.644Z",
+  "entryCount": 26,
   "entries": {
     "867660": {
       "rank": 651,
@@ -153,6 +153,13 @@
       "estimate": "<7k",
       "name": "Tales Of Glory 4 : Ragnarok",
       "releaseDate": "2026-09-09",
+      "source": "tracked"
+    },
+    "4358140": {
+      "rank": 1772,
+      "estimate": "15k+",
+      "name": "To the Wives Who Were Heroes",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "4385270": {

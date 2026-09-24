@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T05:21:31.274Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-24T10:40:51.644Z",
+  "entryCount": 35,
   "entries": {
     "412020": {
       "rank": 3,
@@ -159,6 +159,13 @@
       "name": "Expansion - Europa Universalis IV: Winds of Change",
       "releaseDate": "2024-05-08",
       "source": "historical"
+    },
+    "3158820": {
+      "rank": 4104,
+      "estimate": "<7k",
+      "name": "Kalanoro",
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     },
     "3196440": {
       "rank": 238,

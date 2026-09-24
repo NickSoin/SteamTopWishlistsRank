@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T05:21:31.274Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-24T10:40:51.644Z",
+  "entryCount": 33,
   "entries": {
     "1219240": {
       "rank": 736,
@@ -218,6 +218,13 @@
       "estimate": "<7k",
       "name": "Bravest!",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4595860": {
+      "rank": 3330,
+      "estimate": "<7k",
+      "name": "Double Life: Escort Secrets",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "4626940": {
