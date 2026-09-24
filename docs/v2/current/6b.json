@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-23T19:12:48.657Z",
-  "entryCount": 20,
+  "updatedAt": "2026-09-23T23:24:44.279Z",
+  "entryCount": 21,
   "entries": {
     "463940": {
-      "rank": 5043,
+      "rank": 5042,
       "estimate": "<7k",
       "name": "Shadow Over Isolation"
     },
     "718550": {
-      "rank": 4455,
+      "rank": 4454,
       "estimate": "<7k",
       "name": "Usurpator"
     },
@@ -20,42 +20,42 @@
       "name": "Taxi Simulator"
     },
     "1179020": {
-      "rank": 1427,
+      "rank": 1425,
       "estimate": "25k+",
       "name": "Red Frost"
     },
     "1818480": {
-      "rank": 3367,
+      "rank": 3366,
       "estimate": "<7k",
       "name": "Midwest 90: Rapid City"
     },
     "2388920": {
-      "rank": 3924,
+      "rank": 3923,
       "estimate": "<7k",
       "name": "Soulers"
     },
     "2744160": {
-      "rank": 451,
+      "rank": 452,
       "estimate": "80k+",
       "name": "Construction Simulator: Evolution"
     },
     "2783280": {
-      "rank": 2433,
+      "rank": 2430,
       "estimate": "7k+",
       "name": "Cat Secretary"
     },
     "2898700": {
-      "rank": 4023,
+      "rank": 4021,
       "estimate": "<7k",
       "name": "Wanna Sleep All Day,But"
     },
     "2932260": {
-      "rank": 1127,
+      "rank": 1125,
       "estimate": "25k+",
       "name": "Trine 6: Together in Time"
     },
     "2935030": {
-      "rank": 3881,
+      "rank": 3879,
       "estimate": "<7k",
       "name": "Horny Kingdom"
     },
@@ -65,17 +65,17 @@
       "name": "ATOM RPG 2"
     },
     "3605330": {
-      "rank": 5605,
+      "rank": 5604,
       "estimate": "<7k",
       "name": "Grand Mountain Adventure 2"
     },
     "3755350": {
-      "rank": 3189,
+      "rank": 3184,
       "estimate": "<7k",
       "name": "Alice Nation"
     },
     "3764040": {
-      "rank": 5677,
+      "rank": 5678,
       "estimate": "<7k",
       "name": "Plush Time"
     },
@@ -85,22 +85,27 @@
       "name": "Winemaker Simulator"
     },
     "4289470": {
-      "rank": 4101,
+      "rank": 4098,
       "estimate": "<7k",
       "name": "DREAMTONE"
     },
     "4498500": {
-      "rank": 2261,
+      "rank": 2259,
       "estimate": "7k+",
       "name": "Kopno: Blightfall"
     },
     "4557160": {
-      "rank": 3434,
+      "rank": 3432,
       "estimate": "<7k",
       "name": "Guilty or Not"
     },
+    "4972950": {
+      "rank": 5712,
+      "estimate": "<7k",
+      "name": "Lootdeck"
+    },
     "5096600": {
-      "rank": 1067,
+      "rank": 1062,
       "estimate": "25k+",
       "name": "Highways & Co."
     }

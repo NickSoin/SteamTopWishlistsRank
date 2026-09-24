@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-23T19:12:48.657Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-23T23:24:44.279Z",
+  "entryCount": 36,
   "entries": {
     "290100": {
       "rank": 249,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "Cleaning Simulator: Ultimate Mess",
       "releaseDate": "2026-08-28",
+      "source": "tracked"
+    },
+    "5019920": {
+      "rank": 3174,
+      "estimate": "<7k",
+      "name": "Tasty Chef",
+      "releaseDate": "2026-09-23",
       "source": "tracked"
     },
     "5154340": {
