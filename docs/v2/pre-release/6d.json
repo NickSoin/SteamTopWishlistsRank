@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-23T23:24:44.279Z",
-  "entryCount": 42,
+  "updatedAt": "2026-09-24T05:21:31.274Z",
+  "entryCount": 43,
   "entries": {
     "680420": {
       "rank": 15,
@@ -191,6 +191,13 @@
       "name": "Apex Rush",
       "releaseDate": "2026-02-19",
       "source": "historical"
+    },
+    "2698960": {
+      "rank": 9649,
+      "estimate": "<7k",
+      "name": "Fleeting Shores",
+      "releaseDate": "2026-09-23",
+      "source": "tracked"
     },
     "2800080": {
       "rank": 9,
