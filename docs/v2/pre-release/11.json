@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T05:29:21.355Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-25T10:22:07.353Z",
+  "entryCount": 33,
   "entries": {
     "905530": {
       "rank": 585,
@@ -182,6 +182,13 @@
       "name": "Deep Rock Galactic - Order of the Deep Pack",
       "releaseDate": "2024-06-13",
       "source": "historical"
+    },
+    "3183450": {
+      "rank": 3115,
+      "estimate": "<7k",
+      "name": "魔法之境 Magic Realm",
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     },
     "3850970": {
       "rank": 3585,

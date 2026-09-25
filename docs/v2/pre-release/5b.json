@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T05:29:21.355Z",
-  "entryCount": 27,
+  "updatedAt": "2026-09-25T10:22:07.353Z",
+  "entryCount": 28,
   "entries": {
     "897730": {
       "rank": 9,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "Hex Harmony",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4511900": {
+      "rank": 4652,
+      "estimate": "<7k",
+      "name": "Sandwich +1",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4751340": {
