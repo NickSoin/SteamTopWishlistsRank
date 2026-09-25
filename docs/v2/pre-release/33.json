@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T23:29:10.678Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-25T05:29:21.355Z",
+  "entryCount": 34,
   "entries": {
     "1154090": {
       "rank": 1108,
@@ -235,6 +235,13 @@
       "estimate": "<7k",
       "name": "Holdfast: American Revolution",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "5086560": {
+      "rank": 2563,
+      "estimate": "7k+",
+      "name": "Tank Battle Classic",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     }
   }

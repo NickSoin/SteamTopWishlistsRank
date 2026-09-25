@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T23:29:10.678Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-25T05:29:21.355Z",
+  "entryCount": 27,
   "entries": {
     "1101790": {
       "rank": 96,
@@ -162,6 +162,13 @@
       "estimate": "<7k",
       "name": "CRAWLER",
       "releaseDate": "2026-08-22",
+      "source": "tracked"
+    },
+    "4184190": {
+      "rank": 1399,
+      "estimate": "25k+",
+      "name": "Onigotchi",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "4376980": {
