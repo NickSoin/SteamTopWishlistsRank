@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T10:22:07.353Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-25T15:32:51.267Z",
+  "entryCount": 30,
   "entries": {
     "610370": {
       "rank": 18,
@@ -198,6 +198,13 @@
       "estimate": "40k+",
       "name": "Scarlet Skips",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "4578230": {
+      "rank": 1638,
+      "estimate": "15k+",
+      "name": "Alaska Gold Fever - Bandits",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4605950": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T10:22:07.353Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-25T15:32:51.267Z",
+  "entryCount": 41,
   "entries": {
     "458430": {
       "rank": 911,
@@ -159,6 +159,13 @@
       "name": "Thief Simulator - Shopping Center DLC",
       "releaseDate": "2024-12-10",
       "source": "historical"
+    },
+    "2590860": {
+      "rank": 9828,
+      "estimate": "<7k",
+      "name": "Monst",
+      "releaseDate": "2026-09-25",
+      "source": "tracked"
     },
     "2595940": {
       "rank": 2184,

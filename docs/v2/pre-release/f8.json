@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T10:22:07.353Z",
-  "entryCount": 47,
+  "updatedAt": "2026-09-25T15:32:51.267Z",
+  "entryCount": 48,
   "entries": {
     "651490": {
       "rank": 270,
@@ -310,6 +310,13 @@
       "estimate": "<7k",
       "name": "Warhammer 40,000: Darktide - Skitarii Class Cosmetic Upgrade",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4451740": {
+      "rank": 7481,
+      "estimate": "<7k",
+      "name": "Soul Reaper: Endless Harvest",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4537400": {

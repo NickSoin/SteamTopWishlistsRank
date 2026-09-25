@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T10:22:07.353Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-25T15:32:51.267Z",
+  "entryCount": 36,
   "entries": {
     "536270": {
       "rank": 17,
@@ -214,6 +214,13 @@
       "estimate": "80k+",
       "name": "Moss: The Forgotten Relic",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4072240": {
+      "rank": 342,
+      "estimate": "80k+",
+      "name": "Woman Simulator",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4148930": {
