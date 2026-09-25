@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-24T19:27:50.108Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-24T23:29:10.678Z",
+  "entryCount": 27,
   "entries": {
     "819190": {
       "rank": 3,
@@ -170,6 +170,13 @@
       "name": "BattleGroupVR2",
       "releaseDate": "2025-11-07",
       "source": "historical"
+    },
+    "3761610": {
+      "rank": 6743,
+      "estimate": "<7k",
+      "name": "Coin & Cauldron",
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     },
     "4223300": {
       "rank": 566,
