@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T15:32:51.267Z",
-  "entryCount": 28,
+  "updatedAt": "2026-09-25T19:46:26.054Z",
+  "entryCount": 29,
   "entries": {
     "897730": {
       "rank": 9,
@@ -149,6 +149,13 @@
       "estimate": "<7k",
       "name": "CELESTIAL: FIRE & FORGE",
       "releaseDate": "2026-06-28",
+      "source": "tracked"
+    },
+    "3664090": {
+      "rank": 4371,
+      "estimate": "<7k",
+      "name": "Wavecrashers",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4196130": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T15:32:51.267Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-25T19:46:26.054Z",
+  "entryCount": 34,
   "entries": {
     "1219240": {
       "rank": 736,
@@ -184,6 +184,13 @@
       "releaseDate": "2025-09-26",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1801617199501666"
+    },
+    "3354130": {
+      "rank": 3108,
+      "estimate": "<7k",
+      "name": "Recurrence",
+      "releaseDate": "2026-09-25",
+      "source": "tracked"
     },
     "3439880": {
       "rank": 37,

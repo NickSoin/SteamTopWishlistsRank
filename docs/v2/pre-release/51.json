@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T15:32:51.267Z",
-  "entryCount": 41,
+  "updatedAt": "2026-09-25T19:46:26.054Z",
+  "entryCount": 42,
   "entries": {
     "467740": {
       "rank": 10,
@@ -198,6 +198,13 @@
       "estimate": "40k+",
       "name": "Boba Cafe Simulator",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4086480": {
+      "rank": 2637,
+      "estimate": "7k+",
+      "name": "Scorched Sun",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4115450": {

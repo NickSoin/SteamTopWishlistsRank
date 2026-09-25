@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T15:32:51.267Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-25T19:46:26.054Z",
+  "entryCount": 35,
   "entries": {
     "669330": {
       "rank": 422,
@@ -45,6 +45,13 @@
       "name": "The Good Life",
       "releaseDate": "2021-10-15",
       "source": "historical"
+    },
+    "1552060": {
+      "rank": 5139,
+      "estimate": "<7k",
+      "name": "Sockpuppet Noir",
+      "releaseDate": "2026-09-25",
+      "source": "tracked"
     },
     "1629940": {
       "rank": 1413,

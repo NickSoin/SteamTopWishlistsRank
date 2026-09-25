@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T15:32:51.267Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-25T19:46:26.054Z",
+  "entryCount": 31,
   "entries": {
     "482400": {
       "rank": 6,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "Worlds Upon The Wind",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "3850550": {
+      "rank": 740,
+      "estimate": "40k+",
+      "name": "Isekai: Waifu Overlord",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "3861730": {

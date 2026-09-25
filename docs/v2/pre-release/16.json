@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T15:32:51.267Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-25T19:46:26.054Z",
+  "entryCount": 27,
   "entries": {
     "597820": {
       "rank": 2,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Loot Dungeon",
       "releaseDate": "2026-08-18",
+      "source": "tracked"
+    },
+    "4393370": {
+      "rank": 5009,
+      "estimate": "<7k",
+      "name": "The Only Droid",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4540130": {

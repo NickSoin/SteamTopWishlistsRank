@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T15:32:51.267Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-25T19:46:26.054Z",
+  "entryCount": 37,
   "entries": {
     "290100": {
       "rank": 249,
@@ -180,6 +180,13 @@
       "name": "TSAREVNA. Age of Tales",
       "releaseDate": "2027-01-01",
       "source": "historical"
+    },
+    "3715790": {
+      "rank": 2461,
+      "estimate": "7k+",
+      "name": "Decklings",
+      "releaseDate": "2026-09-25",
+      "source": "tracked"
     },
     "3756870": {
       "rank": 8413,
