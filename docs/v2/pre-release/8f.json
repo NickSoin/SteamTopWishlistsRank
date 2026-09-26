@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-25T19:46:26.054Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-25T23:23:47.869Z",
+  "entryCount": 32,
   "entries": {
     "1336180": {
       "rank": 166,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "ROCKS.EXE",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4694270": {
+      "rank": 787,
+      "estimate": "40k+",
+      "name": "Backrooms: Code Yellow",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4779360": {
