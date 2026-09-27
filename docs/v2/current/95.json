@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-27T15:16:01.539Z",
-  "entryCount": 22,
+  "updatedAt": "2026-09-27T19:28:46.893Z",
+  "entryCount": 23,
   "entries": {
     "291750": {
-      "rank": 4272,
+      "rank": 4273,
       "estimate": "<7k",
       "name": "The Last Crown: Blackenrock"
     },
     "1192230": {
-      "rank": 2347,
+      "rank": 2349,
       "estimate": "7k+",
       "name": "Octopus City Blues"
     },
     "1668340": {
-      "rank": 1803,
+      "rank": 1804,
       "estimate": "15k+",
       "name": "Eternal Tombs"
     },
     "1965470": {
-      "rank": 1635,
+      "rank": 1636,
       "estimate": "15k+",
       "name": "Barkhan"
     },
     "2217860": {
-      "rank": 3262,
+      "rank": 3265,
       "estimate": "<7k",
       "name": "Covert Ultra"
     },
     "2287780": {
-      "rank": 2177,
+      "rank": 2179,
       "estimate": "7k+",
       "name": "TouHou Legend of Fairy Souls"
     },
     "2377160": {
-      "rank": 3946,
+      "rank": 3950,
       "estimate": "<7k",
       "name": "Not Only Nine"
     },
@@ -51,33 +51,38 @@
       "estimate": "80k+",
       "name": "Never Be Alone"
     },
+    "3151660": {
+      "rank": 5669,
+      "estimate": "<7k",
+      "name": "Uppercute"
+    },
     "3164790": {
-      "rank": 2660,
+      "rank": 2654,
       "estimate": "7k+",
       "name": "Overgrown Cleaner"
     },
     "3251940": {
-      "rank": 4930,
+      "rank": 4931,
       "estimate": "<7k",
       "name": "Sheltered from the Storm"
     },
     "3521810": {
-      "rank": 4714,
+      "rank": 4720,
       "estimate": "<7k",
       "name": "Team Buddies"
     },
     "3838820": {
-      "rank": 2115,
+      "rank": 2120,
       "estimate": "7k+",
       "name": "Mirage Miracle Quest"
     },
     "4043810": {
-      "rank": 2343,
+      "rank": 2347,
       "estimate": "7k+",
       "name": "Syncblade"
     },
     "4121220": {
-      "rank": 3438,
+      "rank": 3444,
       "estimate": "<7k",
       "name": "Kosenki"
     },
@@ -87,33 +92,33 @@
       "name": "FERRA"
     },
     "4235170": {
-      "rank": 3873,
+      "rank": 3880,
       "estimate": "<7k",
       "name": "Fables of Dwale"
     },
     "4262800": {
-      "rank": 2390,
+      "rank": 2395,
       "estimate": "7k+",
       "name": "Pilot 6174: Orbital Survival"
     },
     "4349000": {
-      "rank": 3803,
+      "rank": 3806,
       "estimate": "<7k",
       "name": "First Fantasy Hentai Studio"
     },
     "4484770": {
-      "rank": 3059,
+      "rank": 3063,
       "estimate": "<7k",
       "name": "Hoa 2"
     },
     "4537090": {
-      "rank": 5237,
+      "rank": 5240,
       "estimate": "<7k",
       "name": "Rubber Bird"
     },
     "4879420": {
-      "rank": 502,
-      "estimate": "40k+",
+      "rank": 496,
+      "estimate": "80k+",
       "name": "BELTFED - Roguelike Factory Defense"
     }
   }
