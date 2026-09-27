@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-26T18:41:16.599Z",
-  "entryCount": 23,
+  "updatedAt": "2026-09-26T23:00:00.360Z",
+  "entryCount": 24,
   "entries": {
     "646030": {
       "rank": 5637,
@@ -10,37 +10,37 @@
       "name": "Redneck Rampage: Possum Bayou"
     },
     "981720": {
-      "rank": 3272,
+      "rank": 3275,
       "estimate": "<7k",
       "name": "Lore Finder"
     },
     "1068220": {
-      "rank": 3791,
+      "rank": 3795,
       "estimate": "<7k",
       "name": "My Little Army"
     },
     "1174510": {
-      "rank": 2889,
+      "rank": 2892,
       "estimate": "7k+",
       "name": "Call of Saregnar"
     },
     "1355900": {
-      "rank": 1045,
+      "rank": 1046,
       "estimate": "25k+",
       "name": "Tattered Banners"
     },
     "1547880": {
-      "rank": 3783,
+      "rank": 3785,
       "estimate": "<7k",
       "name": "Aurascope"
     },
     "1685630": {
-      "rank": 5193,
+      "rank": 5195,
       "estimate": "<7k",
       "name": "浊之铃"
     },
     "1874980": {
-      "rank": 3062,
+      "rank": 3066,
       "estimate": "<7k",
       "name": "Ready for Riot"
     },
@@ -55,22 +55,22 @@
       "name": "Haunted Paws"
     },
     "2921670": {
-      "rank": 4642,
+      "rank": 4644,
       "estimate": "<7k",
       "name": "Cultivation Realm: Card Survival"
     },
     "3002550": {
-      "rank": 1940,
+      "rank": 1941,
       "estimate": "15k+",
       "name": "Shadow Sacrament: The Roots of Evil"
     },
     "3058760": {
-      "rank": 3722,
+      "rank": 3724,
       "estimate": "<7k",
       "name": "Lost in Limbo"
     },
     "3083210": {
-      "rank": 5607,
+      "rank": 5608,
       "estimate": "<7k",
       "name": "Block 17"
     },
@@ -85,7 +85,7 @@
       "name": "Tornado Hunter"
     },
     "3989790": {
-      "rank": 2818,
+      "rank": 2817,
       "estimate": "7k+",
       "name": "Cranked"
     },
@@ -95,12 +95,12 @@
       "name": "HAELE 3D - Pose Studio Max - Anatomy Drawing References"
     },
     "4110720": {
-      "rank": 2383,
+      "rank": 2386,
       "estimate": "7k+",
       "name": "Shardpunk 2"
     },
     "4159680": {
-      "rank": 3203,
+      "rank": 3197,
       "estimate": "<7k",
       "name": "Barfender"
     },
@@ -115,9 +115,14 @@
       "name": "Luna Has Gone"
     },
     "4668010": {
-      "rank": 2322,
+      "rank": 2318,
       "estimate": "7k+",
       "name": "Full Belly Breakout"
+    },
+    "4884960": {
+      "rank": 5672,
+      "estimate": "<7k",
+      "name": "VESSELS: Noiret Mansion"
     }
   }
 }
