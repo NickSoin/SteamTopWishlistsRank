@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T23:12:56.649Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-28T06:04:32.467Z",
+  "entryCount": 33,
   "entries": {
     "820520": {
       "rank": 553,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "Birds Hunter",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "3740030": {
+      "rank": 2080,
+      "estimate": "7k+",
+      "name": "Murders & Mistresses",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4084160": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T23:12:56.649Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-28T06:04:32.467Z",
+  "entryCount": 38,
   "entries": {
     "830580": {
       "rank": 135,
@@ -263,6 +263,13 @@
       "estimate": "<7k",
       "name": "Farming Chillhood",
       "releaseDate": "2026-06-27",
+      "source": "tracked"
+    },
+    "5184600": {
+      "rank": 3935,
+      "estimate": "<7k",
+      "name": "Love Nest ~V0.098~",
+      "releaseDate": "2026-09-27",
       "source": "tracked"
     }
   }

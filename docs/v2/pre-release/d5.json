@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T23:12:56.649Z",
-  "entryCount": 41,
+  "updatedAt": "2026-09-28T06:04:32.467Z",
+  "entryCount": 42,
   "entries": {
     "698670": {
       "rank": 24,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Apidya' Special",
       "releaseDate": "2026-08-25",
+      "source": "tracked"
+    },
+    "3972410": {
+      "rank": 1504,
+      "estimate": "15k+",
+      "name": "Black Cat Book Club",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4131940": {

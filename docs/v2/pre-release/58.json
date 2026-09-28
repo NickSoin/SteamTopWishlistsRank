@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T23:12:56.649Z",
-  "entryCount": 27,
+  "updatedAt": "2026-09-28T06:04:32.467Z",
+  "entryCount": 28,
   "entries": {
     "1101790": {
       "rank": 96,
@@ -155,6 +155,13 @@
       "estimate": "<7k",
       "name": "小先生 Little ShiFu",
       "releaseDate": "2026-09-11",
+      "source": "tracked"
+    },
+    "3602640": {
+      "rank": 4683,
+      "estimate": "<7k",
+      "name": "Hell Of War: Combined Arms",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "3859880": {

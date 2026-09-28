@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T23:12:56.649Z",
-  "entryCount": 44,
+  "updatedAt": "2026-09-28T06:04:32.467Z",
+  "entryCount": 45,
   "entries": {
     "809060": {
       "rank": 695,
@@ -312,6 +312,13 @@
       "estimate": "<7k",
       "name": "新盗墓笔记（官方正版）",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4708730": {
+      "rank": 8158,
+      "estimate": "<7k",
+      "name": "Magic Circle Generator",
+      "releaseDate": "2026-09-27",
       "source": "tracked"
     }
   }

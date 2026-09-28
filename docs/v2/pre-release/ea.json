@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T23:12:56.649Z",
-  "entryCount": 28,
+  "updatedAt": "2026-09-28T06:04:32.467Z",
+  "entryCount": 29,
   "entries": {
     "589940": {
       "rank": 1003,
@@ -150,6 +150,13 @@
       "name": "NORSE: Oath of Blood",
       "releaseDate": "2026-02-17",
       "source": "historical"
+    },
+    "3222640": {
+      "rank": 227,
+      "estimate": "80k+",
+      "name": "Wild West Pioneers",
+      "releaseDate": "2026-09-25",
+      "source": "tracked"
     },
     "3784030": {
       "rank": 38,

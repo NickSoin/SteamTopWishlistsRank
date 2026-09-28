@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T23:12:56.649Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-28T06:04:32.467Z",
+  "entryCount": 34,
   "entries": {
     "374190": {
       "rank": 414,
@@ -175,6 +175,13 @@
       "name": "American Truck Simulator - Iowa",
       "releaseDate": "2025-07-10",
       "source": "historical"
+    },
+    "3263880": {
+      "rank": 2714,
+      "estimate": "7k+",
+      "name": "Project DevourSlime",
+      "releaseDate": "2026-09-27",
+      "source": "tracked"
     },
     "3371260": {
       "rank": 4655,
