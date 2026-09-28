@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T19:28:46.893Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-27T23:12:56.649Z",
+  "entryCount": 30,
   "entries": {
     "897730": {
       "rank": 9,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Wavecrashers",
       "releaseDate": "2026-09-25",
+      "source": "tracked"
+    },
+    "4080220": {
+      "rank": 315,
+      "estimate": "80k+",
+      "name": "EA SPORTS FC™ 27",
+      "releaseDate": "2026-09-24",
       "source": "tracked"
     },
     "4196130": {

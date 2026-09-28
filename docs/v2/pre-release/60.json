@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T19:28:46.893Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-27T23:12:56.649Z",
+  "entryCount": 31,
   "entries": {
     "813230": {
       "rank": 13,
@@ -117,6 +117,13 @@
       "name": "Let's Build a Zoo: Aquarium Odyssey",
       "releaseDate": "2023-08-17",
       "source": "historical"
+    },
+    "2390160": {
+      "rank": 7321,
+      "estimate": "<7k",
+      "name": "琉璃烟火-Flame in Glass-",
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     },
     "2463220": {
       "rank": 2402,

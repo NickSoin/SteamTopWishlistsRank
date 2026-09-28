@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T19:28:46.893Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-27T23:12:56.649Z",
+  "entryCount": 37,
   "entries": {
     "659960": {
       "rank": 821,
@@ -195,6 +195,13 @@
       "estimate": "7k+",
       "name": "Pro Cycling Manager 26",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "3989550": {
+      "rank": 1573,
+      "estimate": "15k+",
+      "name": "Fallosophy",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4171910": {

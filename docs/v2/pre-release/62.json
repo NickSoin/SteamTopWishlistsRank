@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T19:28:46.893Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-27T23:12:56.649Z",
+  "entryCount": 35,
   "entries": {
     "261550": {
       "rank": 7,
@@ -10,6 +10,13 @@
       "name": "Mount & Blade II: Bannerlord",
       "releaseDate": "2022-10-25",
       "source": "historical"
+    },
+    "632950": {
+      "rank": 552,
+      "estimate": "40k+",
+      "name": "SiN Reloaded",
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     },
     "1173780": {
       "rank": 513,

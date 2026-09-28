@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T19:28:46.893Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-27T23:12:56.649Z",
+  "entryCount": 35,
   "entries": {
     "889910": {
       "rank": 531,
@@ -235,6 +235,13 @@
       "estimate": "<7k",
       "name": "Don't Panic Together",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4778540": {
+      "rank": 583,
+      "estimate": "40k+",
+      "name": "Lucid Cats",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4927490": {

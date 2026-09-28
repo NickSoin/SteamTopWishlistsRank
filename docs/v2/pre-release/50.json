@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T19:28:46.893Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-27T23:12:56.649Z",
+  "entryCount": 32,
   "entries": {
     "950180": {
       "rank": 218,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Custom Corner",
       "releaseDate": "2026-09-21",
+      "source": "tracked"
+    },
+    "4671380": {
+      "rank": 2671,
+      "estimate": "7k+",
+      "name": "Scapewatch: Idle MMO",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "4766080": {

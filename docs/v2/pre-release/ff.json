@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T19:28:46.893Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-27T23:12:56.649Z",
+  "entryCount": 37,
   "entries": {
     "553540": {
       "rank": 73,
@@ -256,6 +256,13 @@
       "estimate": "<7k",
       "name": "Witchworker",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "5064340": {
+      "rank": 570,
+      "estimate": "40k+",
+      "name": "DinoBones: Tidy Up the Museum",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     }
   }

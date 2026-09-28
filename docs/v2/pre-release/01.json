@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T19:28:46.893Z",
+  "updatedAt": "2026-09-27T23:12:56.649Z",
   "entryCount": 40,
   "entries": {
     "427410": {
@@ -208,11 +208,11 @@
       "source": "historical"
     },
     "2712590": {
-      "rank": 937,
-      "estimate": "40k+",
+      "rank": 324,
+      "estimate": "80k+",
       "name": "Dragon Shelter",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-09-24",
+      "source": "tracked"
     },
     "2714970": {
       "rank": 15,

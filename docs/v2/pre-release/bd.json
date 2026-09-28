@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T19:28:46.893Z",
-  "entryCount": 51,
+  "updatedAt": "2026-09-27T23:12:56.649Z",
+  "entryCount": 52,
   "entries": {
     "347800": {
       "rank": 198,
@@ -305,6 +305,13 @@
       "estimate": "15k+",
       "name": "IGS Classic Arcade Collection",
       "releaseDate": "2026-08-12",
+      "source": "tracked"
+    },
+    "3865000": {
+      "rank": 5567,
+      "estimate": "<7k",
+      "name": "Neko Diary🐾 猫愿日记",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     },
     "3932890": {

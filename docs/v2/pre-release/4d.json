@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T19:28:46.893Z",
-  "entryCount": 24,
+  "updatedAt": "2026-09-27T23:12:56.649Z",
+  "entryCount": 25,
   "entries": {
     "251570": {
       "rank": 42,
@@ -131,6 +131,13 @@
       "name": "100 Aliens Cats",
       "releaseDate": "2024-06-09",
       "source": "historical"
+    },
+    "2896630": {
+      "rank": 1893,
+      "estimate": "15k+",
+      "name": "Tomboy Adventure 2",
+      "releaseDate": "2026-09-25",
+      "source": "tracked"
     },
     "2918550": {
       "rank": 1265,

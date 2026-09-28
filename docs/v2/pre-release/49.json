@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-27T19:28:46.893Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-27T23:12:56.649Z",
+  "entryCount": 34,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -239,6 +239,13 @@
       "estimate": "<7k",
       "name": "Hentai Tales: 7 Days Cycle",
       "releaseDate": "2026-07-11",
+      "source": "tracked"
+    },
+    "5146190": {
+      "rank": 4769,
+      "estimate": "<7k",
+      "name": "EmyLiveShow: Blissful Days of Snow and Marshmallow",
+      "releaseDate": "2026-09-25",
       "source": "tracked"
     }
   }
