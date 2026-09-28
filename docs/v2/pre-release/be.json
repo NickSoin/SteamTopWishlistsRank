@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 39,
   "entries": {
     "733110": {
       "rank": 724,
@@ -244,6 +244,13 @@
       "estimate": "<7k",
       "name": "Flats Full of Cats: Capes & Curses",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "4174010": {
+      "rank": 7156,
+      "estimate": "<7k",
+      "name": "Humanize Robotics",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     },
     "4181410": {

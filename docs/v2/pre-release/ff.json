@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 38,
   "entries": {
     "553540": {
       "rank": 73,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "阎罗索命",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4198330": {
+      "rank": 3109,
+      "estimate": "<7k",
+      "name": "Femboy Ghost",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     },
     "4286220": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 41,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 42,
   "entries": {
     "529340": {
       "rank": 19,
@@ -208,6 +208,13 @@
       "name": "Immortal Hunters",
       "releaseDate": "2025-03-05",
       "source": "historical"
+    },
+    "2386200": {
+      "rank": 4099,
+      "estimate": "<7k",
+      "name": "PSI: Pressure Climbing",
+      "releaseDate": "2026-09-28",
+      "source": "tracked"
     },
     "2399060": {
       "rank": 2009,

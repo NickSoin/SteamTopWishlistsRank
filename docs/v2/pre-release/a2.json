@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 41,
   "entries": {
     "406160": {
       "rank": 927,
@@ -215,6 +215,13 @@
       "name": "SPLITGATE: Arena Reloaded ",
       "releaseDate": "2025-05-22",
       "source": "historical"
+    },
+    "3175050": {
+      "rank": 9309,
+      "estimate": "<7k",
+      "name": "Space Cat Solitaire",
+      "releaseDate": "2026-09-28",
+      "source": "tracked"
     },
     "3732310": {
       "rank": 6716,

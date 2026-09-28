@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 38,
   "entries": {
     "719040": {
       "rank": 20,
@@ -235,6 +235,13 @@
       "estimate": "15k+",
       "name": "BACKROOMS ANOMALY",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "3832490": {
+      "rank": 603,
+      "estimate": "40k+",
+      "name": "Antivirus Survivors 2003 Professional",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     },
     "4200520": {

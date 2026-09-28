@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 32,
   "entries": {
     "941460": {
       "rank": 36,
@@ -188,6 +188,13 @@
       "estimate": "7k+",
       "name": "Solar Wave",
       "releaseDate": "2026-08-17",
+      "source": "tracked"
+    },
+    "3541630": {
+      "rank": 1715,
+      "estimate": "15k+",
+      "name": "HR: Human Remains",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     },
     "4075620": {

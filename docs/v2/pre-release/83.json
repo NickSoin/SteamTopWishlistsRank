@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 38,
   "entries": {
     "867210": {
       "rank": 90,
@@ -226,6 +226,13 @@
       "estimate": "25k+",
       "name": "Alice and the Devil's Prison",
       "releaseDate": "2026-08-07",
+      "source": "tracked"
+    },
+    "4201760": {
+      "rank": 3111,
+      "estimate": "<7k",
+      "name": "Don't Breathe or They Might Hear",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     },
     "4311520": {

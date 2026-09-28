@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 37,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -170,6 +170,13 @@
       "estimate": "80k+",
       "name": "SpeedRunners 2: King of Speed",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "3557530": {
+      "rank": 2047,
+      "estimate": "7k+",
+      "name": "Bug Cleaners",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     },
     "3749320": {

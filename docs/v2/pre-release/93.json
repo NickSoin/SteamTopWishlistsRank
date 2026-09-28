@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 33,
   "entries": {
     "473750": {
       "rank": 1164,
@@ -186,6 +186,13 @@
       "estimate": "7k+",
       "name": "Rock Island",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3630680": {
+      "rank": 6400,
+      "estimate": "<7k",
+      "name": "Galaxy Critter Co.",
+      "releaseDate": "2026-09-27",
       "source": "tracked"
     },
     "4001890": {

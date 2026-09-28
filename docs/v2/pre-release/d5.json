@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 42,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 43,
   "entries": {
     "698670": {
       "rank": 24,
@@ -101,6 +101,13 @@
       "name": "Arto",
       "releaseDate": "2023-05-01",
       "source": "historical"
+    },
+    "1944880": {
+      "rank": 1581,
+      "estimate": "15k+",
+      "name": "Drop Command",
+      "releaseDate": "2026-09-28",
+      "source": "tracked"
     },
     "2136420": {
       "rank": 4439,

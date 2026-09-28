@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 38,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 39,
   "entries": {
     "1112390": {
       "rank": 3117,
@@ -219,6 +219,13 @@
       "estimate": "7k+",
       "name": "SLAMPUNKS",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "3694100": {
+      "rank": 4804,
+      "estimate": "<7k",
+      "name": "Unshine Arcade",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     },
     "3816030": {

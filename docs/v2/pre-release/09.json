@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 30,
   "entries": {
     "581660": {
       "rank": 122,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Death's Life 2",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "5146200": {
+      "rank": 4436,
+      "estimate": "<7k",
+      "name": "Greenhouse: Tidy Up!",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     }
   }

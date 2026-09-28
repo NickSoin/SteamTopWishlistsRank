@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 40,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -274,6 +274,13 @@
       "estimate": "15k+",
       "name": "IDLE_DIRECTIVE",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "4623570": {
+      "rank": 615,
+      "estimate": "40k+",
+      "name": "Deskrawl: Idle ARPG",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     },
     "4684490": {

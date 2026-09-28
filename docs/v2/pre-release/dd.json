@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 27,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 28,
   "entries": {
     "615530": {
       "rank": 223,
@@ -193,6 +193,13 @@
       "estimate": "40k+",
       "name": "Master Healer Kale with useless party",
       "releaseDate": "2026-07-02",
+      "source": "tracked"
+    },
+    "4867650": {
+      "rank": 3046,
+      "estimate": "<7k",
+      "name": "TWIN Hotel, Spa and More",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     }
   }

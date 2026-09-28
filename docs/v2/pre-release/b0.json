@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T06:04:32.467Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-28T18:29:35.844Z",
+  "entryCount": 36,
   "entries": {
     "490110": {
       "rank": 24,
@@ -219,6 +219,13 @@
       "estimate": "80k+",
       "name": "Coffee Talk Tokyo",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "3418160": {
+      "rank": 2113,
+      "estimate": "7k+",
+      "name": "Radiotext",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     },
     "4160880": {
