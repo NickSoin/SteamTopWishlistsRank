@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T18:29:35.844Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-29T00:52:14.962Z",
+  "entryCount": 32,
   "entries": {
     "482400": {
       "rank": 6,
@@ -205,6 +205,13 @@
       "estimate": "7k+",
       "name": "Class of '09: Puzzle Showdown",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "3935530": {
+      "rank": 991,
+      "estimate": "40k+",
+      "name": "Frutiger Home",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     },
     "4579890": {

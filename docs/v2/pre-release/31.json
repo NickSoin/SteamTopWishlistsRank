@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T18:29:35.844Z",
-  "entryCount": 26,
+  "updatedAt": "2026-09-29T00:52:14.962Z",
+  "entryCount": 27,
   "entries": {
     "747660": {
       "rank": 193,
@@ -151,6 +151,13 @@
       "estimate": "15k+",
       "name": "Where the forest ends",
       "releaseDate": "2026-05-31",
+      "source": "tracked"
+    },
+    "3594090": {
+      "rank": 2755,
+      "estimate": "7k+",
+      "name": "The Great Wastes",
+      "releaseDate": "2026-09-27",
       "source": "tracked"
     },
     "3992580": {

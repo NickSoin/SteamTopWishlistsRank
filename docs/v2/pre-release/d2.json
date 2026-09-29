@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-28T18:29:35.844Z",
-  "entryCount": 27,
+  "updatedAt": "2026-09-29T00:52:14.962Z",
+  "entryCount": 28,
   "entries": {
     "954850": {
       "rank": 6,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "ZDSimulator - ER9e Electric Train",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "4993040": {
+      "rank": 3717,
+      "estimate": "<7k",
+      "name": "The Nun",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     }
   }
