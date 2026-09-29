@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T00:52:14.962Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-29T11:46:44.612Z",
+  "entryCount": 34,
   "entries": {
     "506480": {
       "rank": 980,
@@ -188,6 +188,13 @@
       "estimate": "<7k",
       "name": "ACRODRIFT: FPV Drone Simulator",
       "releaseDate": "2026-08-07",
+      "source": "tracked"
+    },
+    "3725800": {
+      "rank": 1615,
+      "estimate": "15k+",
+      "name": "Island of Rebirth~NTR and Love~",
+      "releaseDate": "2026-09-29",
       "source": "tracked"
     },
     "3863090": {

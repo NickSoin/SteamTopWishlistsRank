@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T00:52:14.962Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-29T11:46:44.612Z",
+  "entryCount": 35,
   "entries": {
     "774801": {
       "rank": 157,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Pegfinity",
       "releaseDate": "2026-08-14",
+      "source": "tracked"
+    },
+    "4096590": {
+      "rank": 1607,
+      "estimate": "15k+",
+      "name": "NTREX",
+      "releaseDate": "2026-09-28",
       "source": "tracked"
     },
     "4179060": {

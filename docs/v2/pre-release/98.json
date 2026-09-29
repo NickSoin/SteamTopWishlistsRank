@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T00:52:14.962Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-29T11:46:44.612Z",
+  "entryCount": 32,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -155,6 +155,13 @@
       "estimate": "<7k",
       "name": "Grandpa's Bee Haven",
       "releaseDate": "2026-09-10",
+      "source": "tracked"
+    },
+    "3464000": {
+      "rank": 530,
+      "estimate": "40k+",
+      "name": "Eropsychosis: The Project Elysiara",
+      "releaseDate": "2026-09-29",
       "source": "tracked"
     },
     "3601630": {

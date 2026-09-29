@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T00:52:14.962Z",
-  "entryCount": 33,
+  "updatedAt": "2026-09-29T11:46:44.612Z",
+  "entryCount": 34,
   "entries": {
     "536280": {
       "rank": 48,
@@ -80,6 +80,13 @@
       "name": "SWORN",
       "releaseDate": "2025-09-23",
       "source": "historical"
+    },
+    "1912410": {
+      "rank": 123,
+      "estimate": "200k+",
+      "name": "Minecraft Dungeons II",
+      "releaseDate": "2026-09-29",
+      "source": "tracked"
     },
     "1987980": {
       "rank": 870,

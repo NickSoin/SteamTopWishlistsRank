@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T00:52:14.962Z",
-  "entryCount": 32,
+  "updatedAt": "2026-09-29T11:46:44.612Z",
+  "entryCount": 33,
   "entries": {
     "429380": {
       "rank": 36,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Tumblebee",
       "releaseDate": "2026-09-17",
+      "source": "tracked"
+    },
+    "4556750": {
+      "rank": 5582,
+      "estimate": "<7k",
+      "name": "Slots & Sword & Magic",
+      "releaseDate": "2026-09-29",
       "source": "tracked"
     },
     "4718440": {
