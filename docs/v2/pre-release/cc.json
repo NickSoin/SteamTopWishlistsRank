@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T11:46:44.612Z",
-  "entryCount": 29,
+  "updatedAt": "2026-09-29T20:09:48.686Z",
+  "entryCount": 30,
   "entries": {
     "659300": {
       "rank": 3018,
@@ -209,6 +209,13 @@
       "estimate": "<7k",
       "name": "Guilds of Mountgate",
       "releaseDate": "2026-09-02",
+      "source": "tracked"
+    },
+    "5163750": {
+      "rank": 5384,
+      "estimate": "<7k",
+      "name": "Death Game Simulator",
+      "releaseDate": "2026-09-29",
       "source": "tracked"
     }
   }

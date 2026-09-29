@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T11:46:44.612Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-29T20:09:48.686Z",
+  "entryCount": 31,
   "entries": {
     "897730": {
       "rank": 9,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Wavecrashers",
       "releaseDate": "2026-09-25",
+      "source": "tracked"
+    },
+    "3793200": {
+      "rank": 256,
+      "estimate": "80k+",
+      "name": "American Truck Simulator - Road Trip: Ford",
+      "releaseDate": "2026-09-29",
       "source": "tracked"
     },
     "4080220": {

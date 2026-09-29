@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T11:46:44.612Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-29T20:09:48.686Z",
+  "entryCount": 37,
   "entries": {
     "511280": {
       "rank": 886,
@@ -258,6 +258,13 @@
       "estimate": "25k+",
       "name": "Fireboy & Watergirl 1: The Forest Temple",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "5125950": {
+      "rank": 3943,
+      "estimate": "<7k",
+      "name": "Jurassic World Evolution 3: Prehistoric East",
+      "releaseDate": "2026-09-29",
       "source": "tracked"
     }
   }

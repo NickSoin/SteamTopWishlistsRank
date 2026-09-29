@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T11:46:44.612Z",
+  "updatedAt": "2026-09-29T20:09:48.686Z",
   "entryCount": 41,
   "entries": {
     "301280": {
@@ -217,11 +217,11 @@
       "source": "historical"
     },
     "3493540": {
-      "rank": 12,
-      "estimate": "800k+",
+      "rank": 79,
+      "estimate": "300k+",
       "name": "Transport Fever 3",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-09-29",
+      "source": "tracked"
     },
     "3547270": {
       "rank": 696,

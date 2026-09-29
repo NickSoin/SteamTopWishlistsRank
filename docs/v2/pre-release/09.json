@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T11:46:44.612Z",
-  "entryCount": 30,
+  "updatedAt": "2026-09-29T20:09:48.686Z",
+  "entryCount": 31,
   "entries": {
     "581660": {
       "rank": 122,
@@ -172,6 +172,13 @@
       "estimate": "15k+",
       "name": "Grail",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "4114220": {
+      "rank": 2317,
+      "estimate": "7k+",
+      "name": "Tempest Rising: The Veti’s Wrath",
+      "releaseDate": "2026-09-29",
       "source": "tracked"
     },
     "4123600": {

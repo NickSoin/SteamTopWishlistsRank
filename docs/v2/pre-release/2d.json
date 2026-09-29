@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T11:46:44.612Z",
-  "entryCount": 36,
+  "updatedAt": "2026-09-29T20:09:48.686Z",
+  "entryCount": 37,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -219,6 +219,13 @@
       "estimate": "40k+",
       "name": "EverRail",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4303680": {
+      "rank": 9177,
+      "estimate": "<7k",
+      "name": "Car Factory Tycoon",
+      "releaseDate": "2026-09-29",
       "source": "tracked"
     },
     "4391870": {

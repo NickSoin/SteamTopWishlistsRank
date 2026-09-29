@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T11:46:44.612Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-29T20:09:48.686Z",
+  "entryCount": 40,
   "entries": {
     "553850": {
       "rank": 26,
@@ -164,6 +164,13 @@
       "name": "Valkyrie Squad: Siege Breakers",
       "releaseDate": "2025-02-05",
       "source": "historical"
+    },
+    "2761220": {
+      "rank": 9270,
+      "estimate": "<7k",
+      "name": "Escape from 8-Bit High",
+      "releaseDate": "2026-09-29",
+      "source": "tracked"
     },
     "2782920": {
       "rank": 1056,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T11:46:44.612Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-29T20:09:48.686Z",
+  "entryCount": 35,
   "entries": {
     "1062090": {
       "rank": 3,
@@ -237,6 +237,13 @@
       "estimate": "15k+",
       "name": "Arctic Shift: Fuel Station",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4601120": {
+      "rank": 2295,
+      "estimate": "7k+",
+      "name": "Endless Rails",
+      "releaseDate": "2026-09-29",
       "source": "tracked"
     },
     "4681270": {

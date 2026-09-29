@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T11:46:44.612Z",
+  "updatedAt": "2026-09-29T20:09:48.686Z",
   "entryCount": 28,
   "entries": {
     "230210": {
@@ -61,11 +61,11 @@
       "source": "historical"
     },
     "1488490": {
-      "rank": 13,
+      "rank": 20,
       "estimate": "800k+",
-      "name": "Nivalis",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "name": "Nivalis Nights",
+      "releaseDate": "2026-09-29",
+      "source": "tracked"
     },
     "1527890": {
       "rank": 4,
