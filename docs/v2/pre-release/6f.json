@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T23:53:02.067Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-30T05:44:16.728Z",
+  "entryCount": 38,
   "entries": {
     "918570": {
       "rank": 38,
@@ -230,6 +230,13 @@
       "estimate": "40k+",
       "name": "FIRE STATE",
       "releaseDate": "2026-08-07",
+      "source": "tracked"
+    },
+    "4020370": {
+      "rank": 2176,
+      "estimate": "7k+",
+      "name": "Boxcutter",
+      "releaseDate": "2026-09-29",
       "source": "tracked"
     },
     "4069760": {

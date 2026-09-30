@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T23:53:02.067Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-30T05:44:16.728Z",
+  "entryCount": 38,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Dewdrop",
       "releaseDate": "2026-09-18",
+      "source": "tracked"
+    },
+    "4301910": {
+      "rank": 8527,
+      "estimate": "<7k",
+      "name": "The War Disorder Hexa",
+      "releaseDate": "2026-09-29",
       "source": "tracked"
     },
     "4391380": {
