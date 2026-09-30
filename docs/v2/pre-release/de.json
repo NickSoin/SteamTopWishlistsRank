@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-29T20:09:48.686Z",
-  "entryCount": 37,
+  "updatedAt": "2026-09-29T23:53:02.067Z",
+  "entryCount": 38,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "Cup and Counter: Coffee Shop Simulator",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4708680": {
+      "rank": 8880,
+      "estimate": "<7k",
+      "name": "Otpisani: Nightingale",
+      "releaseDate": "2026-09-29",
       "source": "tracked"
     },
     "4753590": {
