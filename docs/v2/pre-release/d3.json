@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-30T05:44:16.728Z",
-  "entryCount": 41,
+  "updatedAt": "2026-09-30T16:39:42.982Z",
+  "entryCount": 42,
   "entries": {
     "307950": {
       "rank": 1484,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Travellin Cats in USA",
       "releaseDate": "2026-08-23",
+      "source": "tracked"
+    },
+    "3392290": {
+      "rank": 9359,
+      "estimate": "<7k",
+      "name": "House Builder - Plumbing DLC",
+      "releaseDate": "2026-09-30",
       "source": "tracked"
     },
     "3692680": {

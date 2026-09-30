@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-30T05:44:16.728Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-30T16:39:42.982Z",
+  "entryCount": 40,
   "entries": {
     "553420": {
       "rank": 45,
@@ -184,6 +184,13 @@
       "estimate": "15k+",
       "name": "Phantom PHANTOM OF INFERNO NITRO ARCHIVE",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "3873330": {
+      "rank": 3357,
+      "estimate": "<7k",
+      "name": "Redhowl",
+      "releaseDate": "2026-09-30",
       "source": "tracked"
     },
     "4088120": {

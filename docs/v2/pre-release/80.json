@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-30T05:44:16.728Z",
-  "entryCount": 39,
+  "updatedAt": "2026-09-30T16:39:42.982Z",
+  "entryCount": 40,
   "entries": {
     "1112390": {
       "rank": 3117,
@@ -213,6 +213,13 @@
       "name": "Crimson Desert",
       "releaseDate": "2026-03-19",
       "source": "historical"
+    },
+    "3479420": {
+      "rank": 1293,
+      "estimate": "25k+",
+      "name": "Okko The Exiled",
+      "releaseDate": "2026-09-30",
+      "source": "tracked"
     },
     "3605090": {
       "rank": 2025,

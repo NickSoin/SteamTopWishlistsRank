@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-30T05:44:16.728Z",
+  "updatedAt": "2026-09-30T16:39:42.982Z",
   "entryCount": 28,
   "entries": {
     "1083790": {
@@ -75,11 +75,11 @@
       "source": "historical"
     },
     "1706510": {
-      "rank": 354,
+      "rank": 247,
       "estimate": "80k+",
       "name": "Songs of Glimmerwick",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-09-30",
+      "source": "tracked"
     },
     "1729940": {
       "rank": 970,

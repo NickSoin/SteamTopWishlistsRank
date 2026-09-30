@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-30T05:44:16.728Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-30T16:39:42.982Z",
+  "entryCount": 36,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -52,6 +52,13 @@
       "name": "Urbek City Builder",
       "releaseDate": "2022-07-13",
       "source": "historical"
+    },
+    "1449590": {
+      "rank": 3978,
+      "estimate": "<7k",
+      "name": "Leonardo's Island",
+      "releaseDate": "2026-09-30",
+      "source": "tracked"
     },
     "1604270": {
       "rank": 17,

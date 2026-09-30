@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-30T05:44:16.728Z",
-  "entryCount": 35,
+  "updatedAt": "2026-09-30T16:39:42.982Z",
+  "entryCount": 36,
   "entries": {
     "763180": {
       "rank": 734,
@@ -219,6 +219,13 @@
       "estimate": "25k+",
       "name": "Bones and Coins",
       "releaseDate": "2026-09-07",
+      "source": "tracked"
+    },
+    "4270530": {
+      "rank": 7667,
+      "estimate": "<7k",
+      "name": "Heart Cage Soundtrack",
+      "releaseDate": "2026-09-30",
       "source": "tracked"
     },
     "4382950": {

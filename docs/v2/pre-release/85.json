@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-30T05:44:16.728Z",
-  "entryCount": 46,
+  "updatedAt": "2026-09-30T16:39:42.982Z",
+  "entryCount": 47,
   "entries": {
     "440000": {
       "rank": 459,
@@ -247,6 +247,13 @@
       "estimate": "15k+",
       "name": "Rock Bottom",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4343910": {
+      "rank": 5194,
+      "estimate": "<7k",
+      "name": "Compound Interest",
+      "releaseDate": "2026-09-30",
       "source": "tracked"
     },
     "4347680": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-30T05:44:16.728Z",
-  "entryCount": 31,
+  "updatedAt": "2026-09-30T16:39:42.982Z",
+  "entryCount": 32,
   "entries": {
     "813230": {
       "rank": 13,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "Touhou Desktop Pet",
       "releaseDate": "2026-08-22",
+      "source": "tracked"
+    },
+    "4757660": {
+      "rank": 4932,
+      "estimate": "<7k",
+      "name": "Demon Ark: Idle RPG",
+      "releaseDate": "2026-09-30",
       "source": "tracked"
     }
   }

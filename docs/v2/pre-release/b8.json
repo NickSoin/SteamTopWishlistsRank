@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-30T05:44:16.728Z",
-  "entryCount": 34,
+  "updatedAt": "2026-09-30T16:39:42.982Z",
+  "entryCount": 35,
   "entries": {
     "485400": {
       "rank": 112,
@@ -232,6 +232,13 @@
       "estimate": "<7k",
       "name": "KeyFortress",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4595350": {
+      "rank": 8205,
+      "estimate": "<7k",
+      "name": "Isolation Edge",
+      "releaseDate": "2026-09-30",
       "source": "tracked"
     },
     "4733420": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-30T05:44:16.728Z",
-  "entryCount": 40,
+  "updatedAt": "2026-09-30T16:39:42.982Z",
+  "entryCount": 41,
   "entries": {
     "538030": {
       "rank": 87,
@@ -247,6 +247,13 @@
       "releaseDate": "2026-05-05",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569718"
+    },
+    "3510590": {
+      "rank": 5384,
+      "estimate": "<7k",
+      "name": "Purr-fect Chef: Kitchen Chaos",
+      "releaseDate": "2026-09-30",
+      "source": "tracked"
     },
     "3690850": {
       "rank": 1523,
