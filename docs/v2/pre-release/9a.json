@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-01T06:28:40.552Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-01T17:06:55.574Z",
+  "entryCount": 35,
   "entries": {
     "928000": {
       "rank": 773,
@@ -235,6 +235,13 @@
       "estimate": "15k+",
       "name": "Room: 405 | Love Beyond Reality",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4917440": {
+      "rank": 984,
+      "estimate": "40k+",
+      "name": "MOGGED: Looksmaxx or Die",
+      "releaseDate": "2026-10-01",
       "source": "tracked"
     },
     "4963920": {

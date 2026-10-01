@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-01T06:28:40.552Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-01T17:06:55.574Z",
+  "entryCount": 33,
   "entries": {
     "1172470": {
       "rank": 18,
@@ -180,6 +180,13 @@
       "name": "NO BACKUP",
       "releaseDate": "2026-05-09",
       "source": "historical"
+    },
+    "3901610": {
+      "rank": 4513,
+      "estimate": "<7k",
+      "name": "Factory Default: Build, Trade, Repeat",
+      "releaseDate": "2026-10-01",
+      "source": "tracked"
     },
     "3902800": {
       "rank": 1799,

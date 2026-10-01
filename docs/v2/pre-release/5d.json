@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-01T06:28:40.552Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-01T17:06:55.574Z",
+  "entryCount": 43,
   "entries": {
     "809090": {
       "rank": 1225,
@@ -300,6 +300,13 @@
       "estimate": "<7k",
       "name": "The Last Elf",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "5090060": {
+      "rank": 5424,
+      "estimate": "<7k",
+      "name": "Starlathe",
+      "releaseDate": "2026-10-01",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-01T06:28:40.552Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-01T17:06:55.574Z",
+  "entryCount": 36,
   "entries": {
     "990080": {
       "rank": 1,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "Dicewayfarer",
       "releaseDate": "2026-09-08",
+      "source": "tracked"
+    },
+    "3634190": {
+      "rank": 1700,
+      "estimate": "15k+",
+      "name": "MXGP 26 - The Official Game",
+      "releaseDate": "2026-10-01",
       "source": "tracked"
     },
     "3656640": {
