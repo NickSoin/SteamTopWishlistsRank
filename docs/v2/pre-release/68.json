@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-30T16:39:42.982Z",
-  "entryCount": 29,
+  "updatedAt": "2026-10-01T00:19:58.524Z",
+  "entryCount": 30,
   "entries": {
     "247970": {
       "rank": 513,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "The Hand of the Crownbearer",
       "releaseDate": "2026-05-31",
+      "source": "tracked"
+    },
+    "4303650": {
+      "rank": 4693,
+      "estimate": "<7k",
+      "name": "Project Sakura",
+      "releaseDate": "2026-09-30",
       "source": "tracked"
     },
     "4560710": {

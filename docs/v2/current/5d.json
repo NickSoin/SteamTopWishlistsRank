@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-30T16:39:42.982Z",
-  "entryCount": 22,
+  "updatedAt": "2026-10-01T00:19:58.524Z",
+  "entryCount": 23,
   "entries": {
     "487500": {
-      "rank": 2879,
+      "rank": 2882,
       "estimate": "7k+",
       "name": "fault - SILENCE THE PEDANT"
     },
     "994680": {
-      "rank": 747,
+      "rank": 746,
       "estimate": "40k+",
       "name": "The Dungeon Experience"
     },
     "1320170": {
-      "rank": 3650,
+      "rank": 3651,
       "estimate": "<7k",
       "name": "Lifeguard Simulator"
     },
@@ -25,7 +25,7 @@
       "name": "Lawmage Academy"
     },
     "1860580": {
-      "rank": 4734,
+      "rank": 4731,
       "estimate": "<7k",
       "name": "Epic War Collection"
     },
@@ -35,42 +35,42 @@
       "name": "Bloody Hell Hotel"
     },
     "2087980": {
-      "rank": 5399,
+      "rank": 5398,
       "estimate": "<7k",
       "name": "Project BS"
     },
     "2322070": {
-      "rank": 2370,
+      "rank": 2375,
       "estimate": "7k+",
       "name": "RhythMania"
     },
     "2530620": {
-      "rank": 2552,
+      "rank": 2554,
       "estimate": "7k+",
       "name": "Soul Devourer"
     },
     "2577430": {
-      "rank": 1471,
+      "rank": 1468,
       "estimate": "25k+",
       "name": "Ghost Vanguard"
     },
     "2837590": {
-      "rank": 5360,
+      "rank": 5357,
       "estimate": "<7k",
       "name": "Stomp and the Sword of Miracles"
     },
     "2971410": {
-      "rank": 1812,
+      "rank": 1809,
       "estimate": "15k+",
       "name": "Prospera"
     },
     "3088760": {
-      "rank": 4939,
+      "rank": 4941,
       "estimate": "<7k",
       "name": "Fay Keeper"
     },
     "3285880": {
-      "rank": 1349,
+      "rank": 1347,
       "estimate": "25k+",
       "name": "MONOMOON"
     },
@@ -80,17 +80,17 @@
       "name": "Teamcrafter"
     },
     "3453470": {
-      "rank": 3836,
+      "rank": 3837,
       "estimate": "<7k",
       "name": "恋爱泡馍！青春老陕：Shannxi Love Story"
     },
     "3864920": {
-      "rank": 4621,
+      "rank": 4614,
       "estimate": "<7k",
       "name": "骤雨终日"
     },
     "3905500": {
-      "rank": 860,
+      "rank": 859,
       "estimate": "40k+",
       "name": "Beware of the Cartographer!"
     },
@@ -100,7 +100,7 @@
       "name": "Stop the Press!"
     },
     "4077880": {
-      "rank": 2720,
+      "rank": 2725,
       "estimate": "7k+",
       "name": "Cantarella: Dominion of Qualia"
     },
@@ -110,9 +110,14 @@
       "name": "STAR WARS: Galactic Racer™"
     },
     "4928450": {
-      "rank": 442,
+      "rank": 443,
       "estimate": "80k+",
       "name": "Grand Theft Timeline"
+    },
+    "5090060": {
+      "rank": 5617,
+      "estimate": "<7k",
+      "name": "Starlathe"
     }
   }
 }

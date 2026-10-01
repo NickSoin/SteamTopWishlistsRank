@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-09-30T16:39:42.982Z",
-  "entryCount": 12,
+  "updatedAt": "2026-10-01T00:19:58.524Z",
+  "entryCount": 13,
   "entries": {
     "1593010": {
       "rank": 544,
@@ -10,32 +10,32 @@
       "name": "The Store is Closed"
     },
     "1607300": {
-      "rank": 4223,
+      "rank": 4222,
       "estimate": "<7k",
       "name": "March March!"
     },
     "1621890": {
-      "rank": 5650,
+      "rank": 5655,
       "estimate": "<7k",
       "name": "Serial Killer Life"
     },
     "2079920": {
-      "rank": 1676,
+      "rank": 1677,
       "estimate": "15k+",
       "name": "NAME OF THE WILL"
     },
     "2319400": {
-      "rank": 5340,
+      "rank": 5338,
       "estimate": "<7k",
       "name": "Rootown"
     },
     "2491830": {
-      "rank": 2180,
+      "rank": 2178,
       "estimate": "7k+",
       "name": "Zero Losses"
     },
     "2657580": {
-      "rank": 4704,
+      "rank": 4705,
       "estimate": "<7k",
       "name": "Anterris"
     },
@@ -45,7 +45,7 @@
       "name": "Lead The Dragon"
     },
     "4074370": {
-      "rank": 5159,
+      "rank": 5162,
       "estimate": "<7k",
       "name": "Zupay: Shadows of Independence"
     },
@@ -55,14 +55,19 @@
       "name": "Plague Doctor: Life in Pestilence"
     },
     "4528040": {
-      "rank": 1839,
+      "rank": 1838,
       "estimate": "15k+",
       "name": "Sol One"
     },
     "4622160": {
-      "rank": 1943,
+      "rank": 1942,
       "estimate": "15k+",
       "name": "Arise Dark Lord"
+    },
+    "5227250": {
+      "rank": 5630,
+      "estimate": "<7k",
+      "name": "The Assistant - Season 3"
     }
   }
 }

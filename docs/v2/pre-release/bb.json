@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-09-30T16:39:42.982Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-01T00:19:58.524Z",
+  "entryCount": 41,
   "entries": {
     "928960": {
       "rank": 577,
@@ -200,6 +200,13 @@
       "estimate": "25k+",
       "name": "SHRIMP GAME: OVERKRILL",
       "releaseDate": "2026-08-27",
+      "source": "tracked"
+    },
+    "2934330": {
+      "rank": 500,
+      "estimate": "80k+",
+      "name": "RADIOSOL",
+      "releaseDate": "2026-09-30",
       "source": "tracked"
     },
     "2999670": {
