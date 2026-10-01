@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-01T00:19:58.524Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-01T06:28:40.552Z",
+  "entryCount": 34,
   "entries": {
     "1091870": {
       "rank": 1362,
@@ -227,6 +227,13 @@
       "name": "BOKURA: planet",
       "releaseDate": "2025-04-24",
       "source": "historical"
+    },
+    "3841510": {
+      "rank": 288,
+      "estimate": "80k+",
+      "name": "DYNASTY WARRIORS 3: Complete Edition Remastered",
+      "releaseDate": "2026-09-30",
+      "source": "tracked"
     },
     "3997240": {
       "rank": 1513,
