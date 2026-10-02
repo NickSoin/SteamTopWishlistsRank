@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-02T00:11:59.080Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-02T06:12:35.518Z",
+  "entryCount": 33,
   "entries": {
     "941460": {
       "rank": 36,
@@ -195,6 +195,13 @@
       "estimate": "15k+",
       "name": "HR: Human Remains",
       "releaseDate": "2026-09-28",
+      "source": "tracked"
+    },
+    "3867170": {
+      "rank": 777,
+      "estimate": "40k+",
+      "name": "Sengoku Rance",
+      "releaseDate": "2026-10-02",
       "source": "tracked"
     },
     "4075620": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-02T00:11:59.080Z",
-  "entryCount": 28,
+  "updatedAt": "2026-10-02T06:12:35.518Z",
+  "entryCount": 29,
   "entries": {
     "629820": {
       "rank": 21,
@@ -186,6 +186,13 @@
       "estimate": "40k+",
       "name": "Defender of the Crown: The Legend Returns",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "4669440": {
+      "rank": 5617,
+      "estimate": "<7k",
+      "name": "Bulwark: Falconeer Chronicles - Medieval Houses DLC",
+      "releaseDate": "2026-10-01",
       "source": "tracked"
     },
     "4689420": {
