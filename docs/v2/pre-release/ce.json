@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-01T17:06:55.574Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-02T00:11:59.080Z",
+  "entryCount": 37,
   "entries": {
     "850170": {
       "rank": 394,
@@ -164,6 +164,13 @@
       "name": "Dale & Dawson Stationery Supplies",
       "releaseDate": "2024-08-30",
       "source": "historical"
+    },
+    "3129150": {
+      "rank": 2960,
+      "estimate": "7k+",
+      "name": "Super Chillers: The Chat Room",
+      "releaseDate": "2026-10-01",
+      "source": "tracked"
     },
     "3840260": {
       "rank": 3290,

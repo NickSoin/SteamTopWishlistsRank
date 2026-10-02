@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-01T17:06:55.574Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-02T00:11:59.080Z",
+  "entryCount": 39,
   "entries": {
     "789150": {
       "rank": 34,
@@ -17,6 +17,13 @@
       "name": "Common'hood",
       "releaseDate": "2022-11-09",
       "source": "historical"
+    },
+    "1130380": {
+      "rank": 2883,
+      "estimate": "7k+",
+      "name": "OZARK",
+      "releaseDate": "2026-10-01",
+      "source": "tracked"
     },
     "1273560": {
       "rank": 694,
