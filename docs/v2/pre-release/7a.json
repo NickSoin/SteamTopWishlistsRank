@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-02T06:12:35.518Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-02T16:36:16.016Z",
+  "entryCount": 37,
   "entries": {
     "1219240": {
       "rank": 736,
@@ -260,6 +260,13 @@
       "estimate": "<7k",
       "name": "RZImageReader",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4890770": {
+      "rank": 875,
+      "estimate": "40k+",
+      "name": "Intravenous 3: Borderline",
+      "releaseDate": "2026-10-02",
       "source": "tracked"
     }
   }

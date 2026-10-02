@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-02T06:12:35.518Z",
-  "entryCount": 30,
+  "updatedAt": "2026-10-02T16:36:16.016Z",
+  "entryCount": 31,
   "entries": {
     "1036240": {
       "rank": 491,
@@ -160,6 +160,13 @@
       "estimate": "15k+",
       "name": "Pro Jank Footy",
       "releaseDate": "2026-08-12",
+      "source": "tracked"
+    },
+    "3737680": {
+      "rank": 1908,
+      "estimate": "15k+",
+      "name": "Bloodspill",
+      "releaseDate": "2026-10-02",
       "source": "tracked"
     },
     "3873780": {

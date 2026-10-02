@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-02T06:12:35.518Z",
-  "entryCount": 25,
+  "updatedAt": "2026-10-02T16:36:16.016Z",
+  "entryCount": 26,
   "entries": {
     "968770": {
-      "rank": 5311,
+      "rank": 5315,
       "estimate": "<7k",
       "name": "Iron Vulture"
     },
     "1188410": {
-      "rank": 2193,
+      "rank": 2187,
       "estimate": "7k+",
       "name": "Mouseward"
     },
@@ -20,22 +20,22 @@
       "name": "Espiocracy"
     },
     "1826400": {
-      "rank": 3205,
+      "rank": 3201,
       "estimate": "<7k",
       "name": "CRAVE"
     },
     "1891280": {
-      "rank": 434,
+      "rank": 435,
       "estimate": "80k+",
       "name": "Everbloom"
     },
     "2184080": {
-      "rank": 1933,
+      "rank": 1921,
       "estimate": "15k+",
       "name": "Echo Weaver"
     },
     "2298660": {
-      "rank": 4327,
+      "rank": 4329,
       "estimate": "<7k",
       "name": "Fallen Symphony"
     },
@@ -55,17 +55,17 @@
       "name": "Light of Atlantis"
     },
     "2459030": {
-      "rank": 1208,
+      "rank": 1209,
       "estimate": "25k+",
       "name": "Locator: The Search for Abigail Lidari"
     },
     "2536140": {
-      "rank": 2613,
+      "rank": 2605,
       "estimate": "7k+",
       "name": "Red Dust Colony"
     },
     "2747810": {
-      "rank": 4750,
+      "rank": 4745,
       "estimate": "<7k",
       "name": "Heartsworn Abyss"
     },
@@ -85,7 +85,7 @@
       "name": "EXODUS"
     },
     "3345260": {
-      "rank": 1989,
+      "rank": 1988,
       "estimate": "15k+",
       "name": "Empire in Decay"
     },
@@ -95,38 +95,43 @@
       "name": "Planetbase 2"
     },
     "3973160": {
-      "rank": 1124,
+      "rank": 1122,
       "estimate": "25k+",
       "name": "Crimson Freedom"
     },
     "4168440": {
-      "rank": 5676,
+      "rank": 5679,
       "estimate": "<7k",
       "name": "Petrichor RPG"
     },
     "4365940": {
-      "rank": 4843,
+      "rank": 4839,
       "estimate": "<7k",
       "name": "SCP"
     },
     "4406740": {
-      "rank": 3194,
+      "rank": 3193,
       "estimate": "<7k",
       "name": "Clayton & Cayo"
     },
+    "4476390": {
+      "rank": 5550,
+      "estimate": "<7k",
+      "name": "Lost Camp"
+    },
     "4677140": {
-      "rank": 4846,
+      "rank": 4842,
       "estimate": "<7k",
       "name": "RAGNAROK PROJECT"
     },
     "4946440": {
-      "rank": 3381,
+      "rank": 3371,
       "estimate": "<7k",
       "name": "Granule"
     },
     "5058430": {
-      "rank": 3966,
-      "estimate": "<7k",
+      "rank": 2748,
+      "estimate": "7k+",
       "name": "Theoria: A God Simulator"
     }
   }

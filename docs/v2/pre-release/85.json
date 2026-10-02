@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-02T06:12:35.518Z",
-  "entryCount": 47,
+  "updatedAt": "2026-10-02T16:36:16.016Z",
+  "entryCount": 48,
   "entries": {
     "440000": {
       "rank": 459,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Tumbles",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "3845510": {
+      "rank": 9002,
+      "estimate": "<7k",
+      "name": "Vexcell",
+      "releaseDate": "2026-10-02",
       "source": "tracked"
     },
     "4013510": {

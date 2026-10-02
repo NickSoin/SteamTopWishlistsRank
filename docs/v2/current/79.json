@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-02T06:12:35.518Z",
-  "entryCount": 16,
+  "updatedAt": "2026-10-02T16:36:16.016Z",
+  "entryCount": 15,
   "entries": {
     "1897450": {
       "rank": 3525,
@@ -10,17 +10,17 @@
       "name": "U-Boot: The Board Game - Digital Edition"
     },
     "2659040": {
-      "rank": 2980,
+      "rank": 2978,
       "estimate": "7k+",
       "name": "M.O.Z.I"
     },
     "2728050": {
-      "rank": 1301,
+      "rank": 1300,
       "estimate": "25k+",
       "name": "Scratchin' Melodii"
     },
     "3039430": {
-      "rank": 5308,
+      "rank": 5313,
       "estimate": "<7k",
       "name": "MECHIEVAL"
     },
@@ -35,54 +35,49 @@
       "name": "Wasteland Travelers"
     },
     "3314140": {
-      "rank": 3751,
+      "rank": 3750,
       "estimate": "<7k",
       "name": "Fevercide"
     },
     "3410390": {
-      "rank": 1820,
+      "rank": 1818,
       "estimate": "15k+",
       "name": "Hear Tell of Hauntings"
     },
     "3525890": {
-      "rank": 5056,
+      "rank": 5055,
       "estimate": "<7k",
       "name": "Future Vibe Check"
     },
     "3561090": {
-      "rank": 1826,
+      "rank": 1824,
       "estimate": "15k+",
       "name": "Roomies with a Naughty Comic Artist"
     },
     "3689840": {
-      "rank": 5518,
+      "rank": 5517,
       "estimate": "<7k",
       "name": "INSPEKTOR"
     },
     "3822320": {
-      "rank": 1641,
+      "rank": 1640,
       "estimate": "15k+",
       "name": "Dream Hollow"
     },
     "4151300": {
-      "rank": 607,
+      "rank": 608,
       "estimate": "40k+",
       "name": "Sublustrum"
     },
     "4240790": {
-      "rank": 5702,
+      "rank": 5703,
       "estimate": "<7k",
       "name": "Cooking For MA!"
     },
     "4626170": {
-      "rank": 4047,
+      "rank": 4048,
       "estimate": "<7k",
       "name": "LISIA"
-    },
-    "4660280": {
-      "rank": 687,
-      "estimate": "40k+",
-      "name": "DUAL PROTOCOL: The Case of Eva & Miles"
     }
   }
 }

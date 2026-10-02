@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-02T06:12:35.518Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-02T16:36:16.016Z",
+  "entryCount": 41,
   "entries": {
     "553850": {
       "rank": 26,
@@ -275,6 +275,13 @@
       "estimate": "<7k",
       "name": "Billion Egg Farm",
       "releaseDate": "2026-09-24",
+      "source": "tracked"
+    },
+    "4660280": {
+      "rank": 687,
+      "estimate": "40k+",
+      "name": "DUAL PROTOCOL: The Case of Eva & Miles",
+      "releaseDate": "2026-10-02",
       "source": "tracked"
     },
     "4996190": {

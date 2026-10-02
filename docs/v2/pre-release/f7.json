@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-02T06:12:35.518Z",
-  "entryCount": 24,
+  "updatedAt": "2026-10-02T16:36:16.016Z",
+  "entryCount": 25,
   "entries": {
     "1071140": {
       "rank": 202,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Fu Sha 3: Night Clinic",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "5023770": {
+      "rank": 2170,
+      "estimate": "7k+",
+      "name": "Let's Tidy Up! : Treasure",
+      "releaseDate": "2026-10-02",
       "source": "tracked"
     }
   }
