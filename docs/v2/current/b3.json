@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-03T14:50:28.879Z",
-  "entryCount": 12,
+  "updatedAt": "2026-10-03T19:04:06.018Z",
+  "entryCount": 13,
   "entries": {
     "1048250": {
       "rank": 870,
@@ -15,17 +15,17 @@
       "name": "Guardians of the Wild Sky"
     },
     "2131290": {
-      "rank": 2590,
+      "rank": 2592,
       "estimate": "7k+",
       "name": "Iron Frontier"
     },
     "3327430": {
-      "rank": 206,
+      "rank": 207,
       "estimate": "80k+",
       "name": "Carcass Clad"
     },
     "3768880": {
-      "rank": 4311,
+      "rank": 4312,
       "estimate": "<7k",
       "name": "Torebia: Island Odyssey"
     },
@@ -40,29 +40,34 @@
       "name": "Launch Window"
     },
     "4299480": {
-      "rank": 916,
+      "rank": 915,
       "estimate": "40k+",
       "name": "Vampire Mistress"
     },
     "4336530": {
-      "rank": 3330,
+      "rank": 3334,
       "estimate": "<7k",
       "name": "There Are Millions of Goblins"
     },
     "4446990": {
-      "rank": 4496,
+      "rank": 4495,
       "estimate": "<7k",
       "name": "Menhera Maiden"
     },
     "4489300": {
-      "rank": 3431,
+      "rank": 3433,
       "estimate": "<7k",
       "name": "Blackout Jack"
     },
     "4663760": {
-      "rank": 1776,
+      "rank": 1779,
       "estimate": "15k+",
       "name": "Anomaly Inspector Simulator"
+    },
+    "5158890": {
+      "rank": 5462,
+      "estimate": "<7k",
+      "name": "Fedanheim"
     }
   }
 }
