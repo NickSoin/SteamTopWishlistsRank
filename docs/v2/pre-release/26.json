@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-03T00:02:43.735Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-03T05:35:49.283Z",
+  "entryCount": 34,
   "entries": {
     "758690": {
       "rank": 7,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Ballatory",
       "releaseDate": "2026-08-10",
+      "source": "tracked"
+    },
+    "4285110": {
+      "rank": 1256,
+      "estimate": "25k+",
+      "name": "Tunnel Escape Fates Entwined",
+      "releaseDate": "2026-10-02",
       "source": "tracked"
     },
     "4348770": {
