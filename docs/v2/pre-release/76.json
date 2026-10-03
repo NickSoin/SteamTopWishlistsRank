@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-02T16:36:16.016Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-03T00:02:43.735Z",
+  "entryCount": 32,
   "entries": {
     "411090": {
       "rank": 5947,
@@ -196,6 +196,13 @@
       "releaseDate": "2026-04-14",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1829528821307462"
+    },
+    "3412490": {
+      "rank": 4474,
+      "estimate": "<7k",
+      "name": "Obstacle Overdrive",
+      "releaseDate": "2026-10-02",
+      "source": "tracked"
     },
     "4245590": {
       "rank": 2881,

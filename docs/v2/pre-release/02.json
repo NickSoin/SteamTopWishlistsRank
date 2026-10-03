@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-02T16:36:16.016Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-03T00:02:43.735Z",
+  "entryCount": 39,
   "entries": {
     "844980": {
       "rank": 112,
@@ -254,6 +254,13 @@
       "estimate": "<7k",
       "name": "Erratum",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4364930": {
+      "rank": 3989,
+      "estimate": "<7k",
+      "name": "Birb",
+      "releaseDate": "2026-10-02",
       "source": "tracked"
     },
     "4509630": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-02T16:36:16.016Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-03T00:02:43.735Z",
+  "entryCount": 38,
   "entries": {
     "1167100": {
       "rank": 379,
@@ -263,6 +263,13 @@
       "estimate": "<7k",
       "name": "Return to Lumia",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "5221510": {
+      "rank": 2130,
+      "estimate": "7k+",
+      "name": "Tidy Up the Flower Shop",
+      "releaseDate": "2026-10-02",
       "source": "tracked"
     }
   }

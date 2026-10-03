@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-02T16:36:16.016Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-03T00:02:43.735Z",
+  "entryCount": 34,
   "entries": {
     "905530": {
       "rank": 585,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "Tiny Farmie",
       "releaseDate": "2026-09-16",
+      "source": "tracked"
+    },
+    "4614210": {
+      "rank": 4227,
+      "estimate": "<7k",
+      "name": "Crack the Pack",
+      "releaseDate": "2026-10-02",
       "source": "tracked"
     },
     "4672140": {

@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-02T16:36:16.016Z",
-  "entryCount": 19,
+  "updatedAt": "2026-10-03T00:02:43.735Z",
+  "entryCount": 20,
   "entries": {
     "1198690": {
-      "rank": 2372,
+      "rank": 2375,
       "estimate": "7k+",
       "name": "REBORN: Survival"
     },
     "1343010": {
-      "rank": 884,
+      "rank": 885,
       "estimate": "40k+",
       "name": "Antimatter"
     },
     "1735370": {
-      "rank": 1507,
+      "rank": 1509,
       "estimate": "15k+",
       "name": "Necrowave"
     },
     "1808160": {
-      "rank": 1125,
+      "rank": 1126,
       "estimate": "25k+",
       "name": "Demon Spore"
     },
     "1964860": {
-      "rank": 5355,
+      "rank": 5356,
       "estimate": "<7k",
       "name": "Titan Shell"
     },
@@ -40,7 +40,7 @@
       "name": "Ice Truckers"
     },
     "2536510": {
-      "rank": 207,
+      "rank": 208,
       "estimate": "80k+",
       "name": "The God Slayer"
     },
@@ -50,12 +50,12 @@
       "name": "In the Same Boat"
     },
     "2616540": {
-      "rank": 697,
+      "rank": 698,
       "estimate": "40k+",
       "name": "Croak"
     },
     "2904120": {
-      "rank": 3333,
+      "rank": 3331,
       "estimate": "<7k",
       "name": "Sand Nomads"
     },
@@ -70,34 +70,39 @@
       "name": "PVKK: Planetenverteidigungskanonenkommandant"
     },
     "3462900": {
-      "rank": 4098,
+      "rank": 4096,
       "estimate": "<7k",
       "name": "Streaming For Love"
     },
     "3465440": {
-      "rank": 2848,
+      "rank": 2849,
       "estimate": "7k+",
       "name": "CitaDrill"
     },
     "3485200": {
-      "rank": 3668,
+      "rank": 3667,
       "estimate": "<7k",
       "name": "Whatever It Takes"
     },
     "3694190": {
-      "rank": 1632,
+      "rank": 1634,
       "estimate": "15k+",
       "name": "Deep Pixel Melancholy"
     },
     "3725830": {
-      "rank": 3946,
+      "rank": 3944,
       "estimate": "<7k",
       "name": "Citrus Summer"
     },
     "3921010": {
-      "rank": 2607,
+      "rank": 2608,
       "estimate": "7k+",
       "name": "War Alert"
+    },
+    "4129040": {
+      "rank": 5303,
+      "estimate": "<7k",
+      "name": "DEORUM"
     }
   }
 }
