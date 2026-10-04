@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-03T19:04:06.018Z",
-  "entryCount": 25,
+  "updatedAt": "2026-10-03T23:12:16.785Z",
+  "entryCount": 26,
   "entries": {
     "1415600": {
       "rank": 2408,
@@ -10,7 +10,7 @@
       "name": "Frequency: Chernobyl"
     },
     "1655750": {
-      "rank": 3771,
+      "rank": 3773,
       "estimate": "<7k",
       "name": "Uboat Mechanic Simulator"
     },
@@ -20,22 +20,22 @@
       "name": "Unawake"
     },
     "1993410": {
-      "rank": 4163,
+      "rank": 4165,
       "estimate": "<7k",
       "name": "Laws of Nadragia"
     },
     "2675650": {
-      "rank": 314,
+      "rank": 315,
       "estimate": "80k+",
       "name": "Decrepit"
     },
     "3115160": {
-      "rank": 160,
+      "rank": 159,
       "estimate": "200k+",
       "name": "Warhammer 40,000: Boltgun 2"
     },
     "3129790": {
-      "rank": 3613,
+      "rank": 3615,
       "estimate": "<7k",
       "name": "Pocket Legend : Inventory Roguelike Deckbuilder"
     },
@@ -45,12 +45,12 @@
       "name": "Sleep Well Cemetery"
     },
     "3454120": {
-      "rank": 5562,
+      "rank": 5546,
       "estimate": "<7k",
       "name": "Starship Troopers: Terran Command - Tropical Terror"
     },
     "3474070": {
-      "rank": 2130,
+      "rank": 2122,
       "estimate": "7k+",
       "name": "Magnavis"
     },
@@ -60,7 +60,7 @@
       "name": "Stupid Never Dies"
     },
     "3539320": {
-      "rank": 2824,
+      "rank": 2827,
       "estimate": "7k+",
       "name": "Scribble Wolf"
     },
@@ -70,42 +70,42 @@
       "name": "Fourleaf Fields"
     },
     "3640840": {
-      "rank": 1262,
+      "rank": 1263,
       "estimate": "25k+",
       "name": "LANDLORD"
     },
     "3818090": {
-      "rank": 1591,
+      "rank": 1592,
       "estimate": "15k+",
       "name": "Haunted Room! Urami-chan"
     },
     "3998040": {
-      "rank": 4694,
+      "rank": 4696,
       "estimate": "<7k",
       "name": "Fossilfuel 3"
     },
     "4099630": {
-      "rank": 1166,
+      "rank": 1167,
       "estimate": "25k+",
       "name": "Tiling Town"
     },
     "4144420": {
-      "rank": 2979,
+      "rank": 2966,
       "estimate": "7k+",
       "name": "Ghosts in the City"
     },
     "4189430": {
-      "rank": 5616,
+      "rank": 5617,
       "estimate": "<7k",
       "name": "HapgetaSocial"
     },
     "4197200": {
-      "rank": 3363,
+      "rank": 3352,
       "estimate": "<7k",
       "name": "Last Night Last Call"
     },
     "4350100": {
-      "rank": 3991,
+      "rank": 3993,
       "estimate": "<7k",
       "name": "Orbrix"
     },
@@ -115,9 +115,14 @@
       "name": "BLIGHTEN"
     },
     "4556500": {
-      "rank": 3205,
+      "rank": 3206,
       "estimate": "<7k",
       "name": "JASON, Coming of Age - Lexie Loft"
+    },
+    "4597950": {
+      "rank": 5490,
+      "estimate": "<7k",
+      "name": "Tower Tanks"
     },
     "4657920": {
       "rank": 397,
@@ -125,7 +130,7 @@
       "name": "War Fantasy"
     },
     "5130480": {
-      "rank": 3712,
+      "rank": 3701,
       "estimate": "<7k",
       "name": "Sort The Capybaras"
     }
