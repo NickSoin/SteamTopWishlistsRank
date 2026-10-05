@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-05T06:06:08.357Z",
-  "entryCount": 55,
+  "updatedAt": "2026-10-05T19:28:58.232Z",
+  "entryCount": 56,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -302,6 +302,13 @@
       "estimate": "15k+",
       "name": "HAELE 3D - Portrait Studio Pro - Drawing References",
       "releaseDate": "2026-09-23",
+      "source": "tracked"
+    },
+    "3393110": {
+      "rank": 62,
+      "estimate": "300k+",
+      "name": "AION 2",
+      "releaseDate": "2026-10-05",
       "source": "tracked"
     },
     "3893560": {

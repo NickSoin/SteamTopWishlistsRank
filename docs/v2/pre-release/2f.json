@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-05T06:06:08.357Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-05T19:28:58.232Z",
+  "entryCount": 40,
   "entries": {
     "787510": {
       "rank": 1631,
@@ -230,6 +230,13 @@
       "estimate": "25k+",
       "name": "Kinny and the Cosmic Cauldron",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "3419140": {
+      "rank": 3440,
+      "estimate": "<7k",
+      "name": "Stickility",
+      "releaseDate": "2026-10-05",
       "source": "tracked"
     },
     "3722330": {

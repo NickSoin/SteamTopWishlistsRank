@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-05T06:06:08.357Z",
-  "entryCount": 30,
+  "updatedAt": "2026-10-05T19:28:58.232Z",
+  "entryCount": 31,
   "entries": {
     "979110": {
       "rank": 38,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "BattleTabs",
       "releaseDate": "2026-08-11",
+      "source": "tracked"
+    },
+    "4530230": {
+      "rank": 9295,
+      "estimate": "<7k",
+      "name": "Loop One: Done",
+      "releaseDate": "2026-10-05",
       "source": "tracked"
     },
     "4539530": {
