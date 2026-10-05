@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-04T15:45:52.601Z",
-  "entryCount": 54,
+  "updatedAt": "2026-10-04T23:39:14.739Z",
+  "entryCount": 55,
   "entries": {
     "748020": {
       "rank": 911,
@@ -310,6 +310,13 @@
       "name": "Assetto Corsa EVO",
       "releaseDate": "2025-01-16",
       "source": "historical"
+    },
+    "4002270": {
+      "rank": 3464,
+      "estimate": "<7k",
+      "name": "FrontWars",
+      "releaseDate": "2026-10-04",
+      "source": "tracked"
     },
     "4078200": {
       "rank": 857,
