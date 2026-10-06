@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-06T01:20:31.915Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-06T12:11:16.152Z",
+  "entryCount": 33,
   "entries": {
     "975370": {
       "rank": 8,
@@ -186,6 +186,13 @@
       "estimate": "25k+",
       "name": "Monk Took Book",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "4235250": {
+      "rank": 6886,
+      "estimate": "<7k",
+      "name": "STAR WARS: Galactic Racer™ Deluxe Upgrade",
+      "releaseDate": "2026-10-06",
       "source": "tracked"
     },
     "4339240": {

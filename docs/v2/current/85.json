@@ -1,91 +1,91 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-06T01:20:31.915Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-06T12:11:16.152Z",
+  "entryCount": 36,
   "entries": {
     "1235470": {
-      "rank": 4300,
+      "rank": 4305,
       "estimate": "<7k",
       "name": "Lotus Knight"
     },
     "1287930": {
-      "rank": 4254,
+      "rank": 4256,
       "estimate": "<7k",
       "name": "Silent Santicado"
     },
     "1319310": {
-      "rank": 4999,
+      "rank": 5001,
       "estimate": "<7k",
       "name": "Meor"
     },
     "1342400": {
-      "rank": 1451,
+      "rank": 1450,
       "estimate": "25k+",
       "name": "Burning Lands"
     },
     "1398920": {
-      "rank": 5430,
+      "rank": 5436,
       "estimate": "<7k",
       "name": "Virtuverse"
     },
     "1564060": {
-      "rank": 4368,
+      "rank": 4371,
       "estimate": "<7k",
       "name": "Lighthouse of Madness"
     },
     "1792100": {
-      "rank": 625,
+      "rank": 624,
       "estimate": "40k+",
       "name": "Motel Simulator"
     },
     "1826380": {
-      "rank": 2124,
+      "rank": 2123,
       "estimate": "7k+",
       "name": "Mayhem Brawler II: Best of Both Worlds"
     },
     "1827440": {
-      "rank": 3202,
+      "rank": 3203,
       "estimate": "<7k",
       "name": "Sailors: Age of Corsairs"
     },
     "1891250": {
-      "rank": 4446,
+      "rank": 4451,
       "estimate": "<7k",
       "name": "Android Simulator"
     },
     "2087540": {
-      "rank": 495,
+      "rank": 492,
       "estimate": "80k+",
       "name": "Escape from Playtime"
     },
     "2100270": {
-      "rank": 2619,
+      "rank": 2622,
       "estimate": "7k+",
       "name": "Succuquest"
     },
     "2125820": {
-      "rank": 5089,
+      "rank": 5093,
       "estimate": "<7k",
       "name": "Shortcuit"
     },
     "2425720": {
-      "rank": 5208,
+      "rank": 5199,
       "estimate": "<7k",
       "name": "Shards of the Past"
     },
     "2491550": {
-      "rank": 5145,
+      "rank": 5148,
       "estimate": "<7k",
       "name": "Wandersky"
     },
     "2539340": {
-      "rank": 1575,
+      "rank": 1574,
       "estimate": "15k+",
       "name": "PlanetSmith"
     },
     "2571560": {
-      "rank": 4895,
+      "rank": 4896,
       "estimate": "<7k",
       "name": "ARCANA"
     },
@@ -95,17 +95,17 @@
       "name": "METRO 2039"
     },
     "2641720": {
-      "rank": 5510,
+      "rank": 5513,
       "estimate": "<7k",
       "name": "Summer at the Edge of the Universe"
     },
     "2893350": {
-      "rank": 635,
+      "rank": 636,
       "estimate": "40k+",
       "name": "Liftlands"
     },
     "2993920": {
-      "rank": 3194,
+      "rank": 3198,
       "estimate": "<7k",
       "name": "Revived House"
     },
@@ -120,64 +120,69 @@
       "name": "Anomalous City"
     },
     "3569410": {
-      "rank": 5217,
+      "rank": 5219,
       "estimate": "<7k",
       "name": "Abigail"
     },
     "3693380": {
-      "rank": 5652,
+      "rank": 5654,
       "estimate": "<7k",
       "name": "Richat Structure"
     },
     "3745920": {
-      "rank": 1232,
+      "rank": 1231,
       "estimate": "25k+",
       "name": "Safeguard Saga"
     },
     "3875690": {
-      "rank": 201,
-      "estimate": "80k+",
+      "rank": 200,
+      "estimate": "200k+",
       "name": "Totally Legit Wheeler Seller"
     },
     "4030030": {
-      "rank": 4245,
+      "rank": 4242,
       "estimate": "<7k",
       "name": "bloodlust.exe"
     },
     "4096830": {
-      "rank": 640,
+      "rank": 635,
       "estimate": "40k+",
       "name": "S.O.N.A.R. - Submarine Operators Not Actually Ready"
     },
     "4165660": {
-      "rank": 1495,
+      "rank": 1496,
       "estimate": "25k+",
       "name": "Dungeon Treaders"
     },
     "4167640": {
-      "rank": 1795,
+      "rank": 1794,
       "estimate": "15k+",
       "name": "Horde of Distraction"
     },
     "4176000": {
-      "rank": 4854,
+      "rank": 4848,
       "estimate": "<7k",
       "name": "False Myth 2"
     },
     "4220770": {
-      "rank": 4006,
+      "rank": 3990,
       "estimate": "<7k",
       "name": "Static Between Stations"
     },
     "4492610": {
-      "rank": 4334,
+      "rank": 4338,
       "estimate": "<7k",
       "name": "Their Story."
     },
     "4761550": {
-      "rank": 2711,
+      "rank": 2712,
       "estimate": "7k+",
       "name": "ABSOLUTELY NOTHING GOOD"
+    },
+    "5258710": {
+      "rank": 5744,
+      "estimate": "<7k",
+      "name": "Come Home 2"
     }
   }
 }

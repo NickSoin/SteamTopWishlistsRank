@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-06T01:20:31.915Z",
+  "updatedAt": "2026-10-06T12:11:16.152Z",
   "entryCount": 43,
   "entries": {
     "809090": {
@@ -275,11 +275,11 @@
       "source": "historical"
     },
     "4078430": {
-      "rank": 33,
+      "rank": 48,
       "estimate": "600k+",
       "name": "STAR WARS: Galactic Racer™",
       "releaseDate": "2026-10-06",
-      "source": "historical"
+      "source": "tracked"
     },
     "4278010": {
       "rank": 2444,
