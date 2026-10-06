@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-05T19:28:58.232Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-06T01:20:31.915Z",
+  "entryCount": 32,
   "entries": {
     "979110": {
       "rank": 38,
@@ -205,6 +205,13 @@
       "estimate": "7k+",
       "name": "Snap the Cat",
       "releaseDate": "2026-08-25",
+      "source": "tracked"
+    },
+    "4610080": {
+      "rank": 1593,
+      "estimate": "15k+",
+      "name": "Bering Tonnage",
+      "releaseDate": "2026-10-05",
       "source": "tracked"
     },
     "4661260": {
