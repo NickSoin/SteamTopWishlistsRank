@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-06T12:11:16.152Z",
-  "entryCount": 16,
+  "updatedAt": "2026-10-06T20:29:56.078Z",
+  "entryCount": 17,
   "entries": {
     "989350": {
-      "rank": 5109,
+      "rank": 5114,
       "estimate": "<7k",
       "name": "Running Rogue"
     },
     "1043110": {
-      "rank": 3008,
+      "rank": 3007,
       "estimate": "<7k",
       "name": "Kaiju Fishing"
     },
     "1185380": {
-      "rank": 2977,
+      "rank": 2975,
       "estimate": "7k+",
       "name": "The Season of the Warlock"
     },
@@ -23,6 +23,11 @@
       "rank": 1731,
       "estimate": "15k+",
       "name": "Once,in Times of Chaos"
+    },
+    "1752210": {
+      "rank": 5754,
+      "estimate": "<7k",
+      "name": "Red Embrace: Paradisus"
     },
     "2362070": {
       "rank": 899,
@@ -32,12 +37,12 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800991756305442"
     },
     "2390660": {
-      "rank": 4981,
+      "rank": 4982,
       "estimate": "<7k",
       "name": "Collapsed Galaxy 2"
     },
     "2544740": {
-      "rank": 3932,
+      "rank": 3928,
       "estimate": "<7k",
       "name": "THANKS, LIGHT."
     },
@@ -47,42 +52,42 @@
       "name": "POLYARIS"
     },
     "3653890": {
-      "rank": 4230,
+      "rank": 4231,
       "estimate": "<7k",
       "name": "SPRKLS.exe"
     },
     "3839180": {
-      "rank": 707,
+      "rank": 706,
       "estimate": "40k+",
       "name": "POSTAL 2 Redux"
     },
     "4528010": {
-      "rank": 4898,
+      "rank": 4826,
       "estimate": "<7k",
       "name": "Signal Veil"
     },
     "4664240": {
-      "rank": 417,
+      "rank": 416,
       "estimate": "80k+",
       "name": "Hard Worker"
     },
     "4712480": {
-      "rank": 4539,
+      "rank": 4535,
       "estimate": "<7k",
       "name": "The Grey Dream - Season 2"
     },
     "4770970": {
-      "rank": 5032,
+      "rank": 5010,
       "estimate": "<7k",
       "name": "Dark Side Void"
     },
     "4828390": {
-      "rank": 4462,
+      "rank": 4453,
       "estimate": "<7k",
       "name": "Forsaken Fleet"
     },
     "4920230": {
-      "rank": 262,
+      "rank": 261,
       "estimate": "80k+",
       "name": "Afterworld"
     }

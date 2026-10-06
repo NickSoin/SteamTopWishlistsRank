@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-06T12:11:16.152Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-06T20:29:56.078Z",
+  "entryCount": 33,
   "entries": {
     "378690": {
       "rank": 1270,
@@ -178,6 +178,13 @@
       "name": "Ocean World: Eden Crafters Prologue",
       "releaseDate": "2024-06-24",
       "source": "historical"
+    },
+    "3010850": {
+      "rank": 36,
+      "estimate": "600k+",
+      "name": "Gears of War: E-Day",
+      "releaseDate": "2026-10-06",
+      "source": "tracked"
     },
     "3453910": {
       "rank": 722,

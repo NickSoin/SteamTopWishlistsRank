@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-06T12:11:16.152Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-06T20:29:56.078Z",
+  "entryCount": 39,
   "entries": {
     "783550": {
       "rank": 4791,
@@ -222,6 +222,13 @@
       "name": "DEVIL BLADE REBOOT",
       "releaseDate": "2024-05-23",
       "source": "historical"
+    },
+    "3583470": {
+      "rank": 8582,
+      "estimate": "<7k",
+      "name": "Prison Escape io",
+      "releaseDate": "2026-10-06",
+      "source": "tracked"
     },
     "4074010": {
       "rank": 494,

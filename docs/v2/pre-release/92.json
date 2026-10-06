@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-06T12:11:16.152Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-06T20:29:56.078Z",
+  "entryCount": 33,
   "entries": {
     "979110": {
       "rank": 38,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Desktop Reptiles",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "5094490": {
+      "rank": 1747,
+      "estimate": "15k+",
+      "name": "Olympus 2249",
+      "releaseDate": "2026-10-06",
       "source": "tracked"
     }
   }
