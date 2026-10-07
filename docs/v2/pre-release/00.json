@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-06T20:29:56.078Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-07T06:15:34.861Z",
+  "entryCount": 37,
   "entries": {
     "763180": {
       "rank": 734,
@@ -254,6 +254,13 @@
       "estimate": "<7k",
       "name": "Backpack Dungeon",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4485020": {
+      "rank": 1289,
+      "estimate": "25k+",
+      "name": "The Crimson Hunt",
+      "releaseDate": "2026-10-06",
       "source": "tracked"
     }
   }

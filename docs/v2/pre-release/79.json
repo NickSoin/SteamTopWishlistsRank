@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-06T20:29:56.078Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-07T06:15:34.861Z",
+  "entryCount": 42,
   "entries": {
     "553850": {
       "rank": 26,
@@ -282,6 +282,13 @@
       "estimate": "40k+",
       "name": "DUAL PROTOCOL: The Case of Eva & Miles",
       "releaseDate": "2026-10-02",
+      "source": "tracked"
+    },
+    "4709570": {
+      "rank": 9158,
+      "estimate": "<7k",
+      "name": "MageTender",
+      "releaseDate": "2026-10-06",
       "source": "tracked"
     },
     "4996190": {
