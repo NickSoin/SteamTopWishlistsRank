@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-07T06:15:34.861Z",
-  "entryCount": 45,
+  "updatedAt": "2026-10-07T17:38:13.842Z",
+  "entryCount": 46,
   "entries": {
     "619390": {
       "rank": 926,
@@ -272,6 +272,13 @@
       "estimate": "<7k",
       "name": "ALARIC",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "3381300": {
+      "rank": 4821,
+      "estimate": "<7k",
+      "name": "Steam & Iron. Battle of Port Arthur",
+      "releaseDate": "2026-10-07",
       "source": "tracked"
     },
     "3602290": {

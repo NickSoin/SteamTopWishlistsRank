@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-07T06:15:34.861Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-07T17:38:13.842Z",
+  "entryCount": 38,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -247,6 +247,13 @@
       "estimate": "7k+",
       "name": "Dissolution of the Silent Union",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "4699770": {
+      "rank": 2561,
+      "estimate": "7k+",
+      "name": "Babel Legacy",
+      "releaseDate": "2026-10-07",
       "source": "tracked"
     },
     "4727880": {

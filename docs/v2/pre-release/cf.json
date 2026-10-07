@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-07T06:15:34.861Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-07T17:38:13.842Z",
+  "entryCount": 37,
   "entries": {
     "502050": {
       "rank": 1,
@@ -198,6 +198,13 @@
       "estimate": "7k+",
       "name": "Summer Days in the Joyful Countryside",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "3768400": {
+      "rank": 2397,
+      "estimate": "7k+",
+      "name": "Gridlords",
+      "releaseDate": "2026-10-07",
       "source": "tracked"
     },
     "4109480": {

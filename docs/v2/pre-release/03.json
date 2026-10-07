@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-07T06:15:34.861Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-07T17:38:13.842Z",
+  "entryCount": 37,
   "entries": {
     "979690": {
       "rank": 26,
@@ -226,6 +226,13 @@
       "estimate": "40k+",
       "name": "Fogpiercer",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "3561610": {
+      "rank": 5037,
+      "estimate": "<7k",
+      "name": "Horde Arena",
+      "releaseDate": "2026-10-07",
       "source": "tracked"
     },
     "4067890": {

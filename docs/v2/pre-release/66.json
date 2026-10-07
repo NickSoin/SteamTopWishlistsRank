@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-07T06:15:34.861Z",
-  "entryCount": 50,
+  "updatedAt": "2026-10-07T17:38:13.842Z",
+  "entryCount": 51,
   "entries": {
     "976890": {
       "rank": 70,
@@ -260,6 +260,13 @@
       "estimate": "40k+",
       "name": "BeaterCore",
       "releaseDate": "2026-09-09",
+      "source": "tracked"
+    },
+    "3807650": {
+      "rank": 2868,
+      "estimate": "7k+",
+      "name": "Cyber Cleaner Simulator",
+      "releaseDate": "2026-10-07",
       "source": "tracked"
     },
     "3878380": {

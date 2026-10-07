@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-07T06:15:34.861Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-07T17:38:13.842Z",
+  "entryCount": 41,
   "entries": {
     "658920": {
       "rank": 716,
@@ -192,6 +192,13 @@
       "name": "Shattered Minds",
       "releaseDate": "2025-04-04",
       "source": "historical"
+    },
+    "2902720": {
+      "rank": 1959,
+      "estimate": "15k+",
+      "name": "SPAM",
+      "releaseDate": "2026-10-07",
+      "source": "tracked"
     },
     "3067200": {
       "rank": 2937,

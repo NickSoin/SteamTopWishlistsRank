@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-07T06:15:34.861Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-07T17:38:13.842Z",
+  "entryCount": 35,
   "entries": {
     "1040200": {
       "rank": 65,
@@ -241,6 +241,13 @@
       "estimate": "25k+",
       "name": "Not Quite Dead: Open World Survival",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "4733620": {
+      "rank": 4711,
+      "estimate": "<7k",
+      "name": "Hunt: Showdown 1896 - Bound by Blood",
+      "releaseDate": "2026-10-07",
       "source": "tracked"
     },
     "4737840": {
