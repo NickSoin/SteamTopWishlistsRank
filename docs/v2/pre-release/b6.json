@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-07T17:38:13.842Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-08T00:18:13.326Z",
+  "entryCount": 37,
   "entries": {
     "780310": {
       "rank": 16,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "Valkyrie Tune: Synthesis of Souls",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4386170": {
+      "rank": 5026,
+      "estimate": "<7k",
+      "name": "Zenith Expanse",
+      "releaseDate": "2026-10-07",
       "source": "tracked"
     }
   }

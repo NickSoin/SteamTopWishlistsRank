@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-07T17:38:13.842Z",
+  "updatedAt": "2026-10-08T00:18:13.326Z",
   "entryCount": 31,
   "entries": {
     "761830": {
@@ -110,11 +110,11 @@
       "source": "historical"
     },
     "2054970": {
-      "rank": 5,
+      "rank": 10,
       "estimate": "1.5m+",
-      "name": "Dragon's Dogma 2",
+      "name": "Dragon's Dogma 2: Dark Arisen",
       "releaseDate": "2024-03-21",
-      "source": "historical"
+      "source": "tracked"
     },
     "2107090": {
       "rank": 883,
