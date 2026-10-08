@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 43,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -267,6 +267,13 @@
       "estimate": "40k+",
       "name": "DEAD OR ALIVE 6 Last Round",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4398290": {
+      "rank": 2026,
+      "estimate": "7k+",
+      "name": "Sort of Magic",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     },
     "4427240": {

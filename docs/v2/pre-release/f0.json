@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 41,
   "entries": {
     "721700": {
       "rank": 679,
@@ -89,6 +89,13 @@
       "name": "Six Days in Fallujah",
       "releaseDate": "2023-06-22",
       "source": "historical"
+    },
+    "1551980": {
+      "rank": 79,
+      "estimate": "300k+",
+      "name": "Clive Barker's Hellraiser: Revival",
+      "releaseDate": "2026-10-08",
+      "source": "tracked"
     },
     "1590910": {
       "rank": 263,

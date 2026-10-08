@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 36,
   "entries": {
     "774801": {
       "rank": 157,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "Kooeh: A Timeless Delight",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "3232690": {
+      "rank": 1282,
+      "estimate": "25k+",
+      "name": "Maid Cafe Simulator",
+      "releaseDate": "2026-10-07",
       "source": "tracked"
     },
     "3275400": {

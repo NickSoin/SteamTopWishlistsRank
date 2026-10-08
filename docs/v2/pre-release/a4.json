@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 43,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 44,
   "entries": {
     "534380": {
       "rank": 1,
@@ -305,6 +305,13 @@
       "estimate": "<7k",
       "name": "Market Simulator: Miami Beach",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "5130480": {
+      "rank": 3410,
+      "estimate": "<7k",
+      "name": "Sort The Capybaras",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     }
   }

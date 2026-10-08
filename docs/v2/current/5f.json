@@ -1,101 +1,101 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 26,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 27,
   "entries": {
     "526720": {
-      "rank": 3182,
+      "rank": 3168,
       "estimate": "<7k",
       "name": "OFF GRID : Stealth Hacking"
     },
     "864930": {
-      "rank": 5301,
+      "rank": 5285,
       "estimate": "<7k",
       "name": "ULTRABUGS"
     },
     "1369430": {
-      "rank": 4042,
+      "rank": 4032,
       "estimate": "<7k",
       "name": "The Light of the Darkness: Renascence"
     },
     "1426870": {
-      "rank": 3710,
+      "rank": 3696,
       "estimate": "<7k",
       "name": "Dune Mechanic : Survive The Steampunk Era"
     },
     "1693890": {
-      "rank": 5608,
+      "rank": 5598,
       "estimate": "<7k",
       "name": "Spiritwell"
     },
     "1745920": {
-      "rank": 5003,
+      "rank": 4991,
       "estimate": "<7k",
       "name": "King of Conquerors"
     },
     "1870550": {
-      "rank": 5271,
+      "rank": 5252,
       "estimate": "<7k",
       "name": "Pirate's Den Renovator"
     },
     "1880900": {
-      "rank": 2976,
+      "rank": 2961,
       "estimate": "7k+",
       "name": "Adult VR Game Room"
     },
     "1884870": {
-      "rank": 346,
+      "rank": 340,
       "estimate": "80k+",
       "name": "The Wolf Among Us 2"
     },
     "2082570": {
-      "rank": 1895,
+      "rank": 1884,
       "estimate": "15k+",
       "name": "SCP - Containment Breach Reborn"
     },
     "2165040": {
-      "rank": 1772,
+      "rank": 1764,
       "estimate": "15k+",
       "name": "Sally"
     },
     "2257440": {
-      "rank": 1302,
+      "rank": 1293,
       "estimate": "25k+",
       "name": "Tom the Postgirl"
     },
     "2842310": {
-      "rank": 808,
+      "rank": 796,
       "estimate": "40k+",
       "name": "Among Us Story: On Guard"
     },
     "3380990": {
-      "rank": 2109,
+      "rank": 2097,
       "estimate": "7k+",
       "name": "Starborn Phoenix Ship"
     },
     "3732520": {
-      "rank": 1398,
+      "rank": 1391,
       "estimate": "25k+",
       "name": "Erokin"
     },
     "3787050": {
-      "rank": 485,
+      "rank": 480,
       "estimate": "80k+",
       "name": "It Works: Electronics Repair Simulator"
     },
     "3910140": {
-      "rank": 4361,
+      "rank": 4347,
       "estimate": "<7k",
       "name": "残阳 1645/1937"
     },
     "4212760": {
-      "rank": 3849,
+      "rank": 3828,
       "estimate": "<7k",
       "name": "Behind Closed Doors"
     },
     "4338420": {
-      "rank": 4565,
+      "rank": 4547,
       "estimate": "<7k",
       "name": "长乐夜前夕"
     },
@@ -105,34 +105,39 @@
       "name": "Last Harbor"
     },
     "4601470": {
-      "rank": 3383,
+      "rank": 3366,
       "estimate": "<7k",
       "name": "Going my way?"
     },
     "4697950": {
-      "rank": 3290,
+      "rank": 3274,
       "estimate": "<7k",
       "name": "Fire and Water: Spirits of the Forest"
     },
     "4703930": {
-      "rank": 1090,
+      "rank": 1085,
       "estimate": "25k+",
       "name": "Grilluminati"
     },
     "4810650": {
-      "rank": 1910,
+      "rank": 1848,
       "estimate": "15k+",
       "name": "Black Tides Draga's Wake"
     },
     "4850180": {
-      "rank": 5726,
+      "rank": 5702,
       "estimate": "<7k",
       "name": "100 Yen Exorcist"
     },
     "5102620": {
-      "rank": 3555,
+      "rank": 3526,
       "estimate": "<7k",
       "name": "Sakuraba Ema's Intertwining Threshold"
+    },
+    "5248160": {
+      "rank": 5718,
+      "estimate": "<7k",
+      "name": "BrainWash: Zombie Cleanup"
     }
   }
 }

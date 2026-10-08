@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 41,
   "entries": {
     "553420": {
       "rank": 45,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "The Last Camp : Dawn",
       "releaseDate": "2026-09-28",
+      "source": "tracked"
+    },
+    "4282780": {
+      "rank": 1879,
+      "estimate": "15k+",
+      "name": "Duelist: Idle Expedition",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     },
     "4375110": {

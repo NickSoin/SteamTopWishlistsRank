@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 42,
   "entries": {
     "658920": {
       "rank": 716,
@@ -226,6 +226,13 @@
       "estimate": "25k+",
       "name": "Deliria",
       "releaseDate": "2026-09-02",
+      "source": "tracked"
+    },
+    "3883570": {
+      "rank": 203,
+      "estimate": "80k+",
+      "name": "Invokyr",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     },
     "3962460": {

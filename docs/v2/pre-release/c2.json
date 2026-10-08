@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 28,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 29,
   "entries": {
     "834910": {
       "rank": 9,
@@ -193,6 +193,13 @@
       "estimate": "40k+",
       "name": "Crushed In Time",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4511680": {
+      "rank": 1769,
+      "estimate": "15k+",
+      "name": "Two Point Museum: Rides & Relics",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     },
     "4593710": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 35,
   "entries": {
     "423640": {
       "rank": 509,
@@ -181,6 +181,13 @@
       "releaseDate": "2024-10-28",
       "source": "historical"
     },
+    "3155980": {
+      "rank": 1169,
+      "estimate": "25k+",
+      "name": "Stranded & Naked",
+      "releaseDate": "2026-10-08",
+      "source": "tracked"
+    },
     "4063080": {
       "rank": 9314,
       "estimate": "<7k",
@@ -235,6 +242,13 @@
       "estimate": "<7k",
       "name": "Crown Caps Soccer",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "5169440": {
+      "rank": 3529,
+      "estimate": "<7k",
+      "name": "Tidy Up the Royal Armory",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     }
   }

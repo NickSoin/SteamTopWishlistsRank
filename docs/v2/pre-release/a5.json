@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 33,
   "entries": {
     "299970": {
       "rank": 34,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "The Furry Protocol",
       "releaseDate": "2026-09-19",
+      "source": "tracked"
+    },
+    "4252340": {
+      "rank": 2987,
+      "estimate": "7k+",
+      "name": "CPM 2",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     },
     "4326520": {

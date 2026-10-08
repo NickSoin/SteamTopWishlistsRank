@@ -1,9 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 33,
   "entries": {
+    "499170": {
+      "rank": 201,
+      "estimate": "80k+",
+      "name": "Order of the Sinking Star",
+      "releaseDate": "2026-10-08",
+      "source": "tracked"
+    },
     "736820": {
       "rank": 19,
       "estimate": "800k+",

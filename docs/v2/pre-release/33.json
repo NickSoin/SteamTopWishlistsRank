@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
+  "updatedAt": "2026-10-08T17:37:43.650Z",
   "entryCount": 34,
   "entries": {
     "1154090": {
@@ -19,11 +19,11 @@
       "source": "historical"
     },
     "1215940": {
-      "rank": 520,
-      "estimate": "40k+",
+      "rank": 340,
+      "estimate": "80k+",
       "name": "Forever Ago",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-10-08",
+      "source": "tracked"
     },
     "1339000": {
       "rank": 493,

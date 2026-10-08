@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 33,
   "entries": {
     "773370": {
       "rank": 126,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "We Were Here Before",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "4608760": {
+      "rank": 5210,
+      "estimate": "<7k",
+      "name": "Garden Cleanup Simulator",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     },
     "4794380": {

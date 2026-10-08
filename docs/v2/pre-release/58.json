@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 28,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 29,
   "entries": {
     "1101790": {
       "rank": 96,
@@ -96,6 +96,13 @@
       "name": "South of Midnight",
       "releaseDate": "2025-04-08",
       "source": "historical"
+    },
+    "1965550": {
+      "rank": 1043,
+      "estimate": "25k+",
+      "name": "Wildaria",
+      "releaseDate": "2026-10-08",
+      "source": "tracked"
     },
     "2093010": {
       "rank": 583,

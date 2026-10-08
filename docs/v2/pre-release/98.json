@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 33,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -169,6 +169,13 @@
       "estimate": "7k+",
       "name": "Cosmo Tales",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "3749130": {
+      "rank": 3844,
+      "estimate": "<7k",
+      "name": "Tower Tactics II",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     },
     "3985330": {

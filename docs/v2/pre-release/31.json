@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T06:43:04.091Z",
-  "entryCount": 27,
+  "updatedAt": "2026-10-08T17:37:43.650Z",
+  "entryCount": 28,
   "entries": {
     "747660": {
       "rank": 193,
@@ -158,6 +158,13 @@
       "estimate": "7k+",
       "name": "The Great Wastes",
       "releaseDate": "2026-09-27",
+      "source": "tracked"
+    },
+    "3952540": {
+      "rank": 7267,
+      "estimate": "<7k",
+      "name": "Birdseed",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     },
     "3992580": {
