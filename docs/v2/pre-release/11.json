@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T00:18:13.326Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-08T06:43:04.091Z",
+  "entryCount": 35,
   "entries": {
     "905530": {
       "rank": 585,
@@ -182,6 +182,13 @@
       "name": "Deep Rock Galactic - Order of the Deep Pack",
       "releaseDate": "2024-06-13",
       "source": "historical"
+    },
+    "3099780": {
+      "rank": 5632,
+      "estimate": "<7k",
+      "name": "My Sweet Waifu Konko",
+      "releaseDate": "2026-10-07",
+      "source": "tracked"
     },
     "3183450": {
       "rank": 3115,

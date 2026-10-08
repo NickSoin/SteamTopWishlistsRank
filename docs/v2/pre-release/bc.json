@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T00:18:13.326Z",
-  "entryCount": 21,
+  "updatedAt": "2026-10-08T06:43:04.091Z",
+  "entryCount": 22,
   "entries": {
     "368260": {
       "rank": 33,
@@ -137,6 +137,13 @@
       "estimate": "<7k",
       "name": "100 Sherwood Cats",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4583960": {
+      "rank": 5492,
+      "estimate": "<7k",
+      "name": "Sister Compass: Slow Life Loving with My Sisters on a Deserted Island",
+      "releaseDate": "2026-10-07",
       "source": "tracked"
     },
     "4617230": {

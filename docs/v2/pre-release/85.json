@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T00:18:13.326Z",
-  "entryCount": 48,
+  "updatedAt": "2026-10-08T06:43:04.091Z",
+  "entryCount": 49,
   "entries": {
     "440000": {
       "rank": 459,
@@ -282,6 +282,13 @@
       "estimate": "<7k",
       "name": "We Need More Humans!",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "4448240": {
+      "rank": 4687,
+      "estimate": "<7k",
+      "name": "Thunder Hoop Collection (QUByte Classics)",
+      "releaseDate": "2026-10-07",
       "source": "tracked"
     },
     "4505150": {

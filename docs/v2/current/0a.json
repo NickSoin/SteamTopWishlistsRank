@@ -1,46 +1,46 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-08T00:18:13.326Z",
-  "entryCount": 17,
+  "updatedAt": "2026-10-08T06:43:04.091Z",
+  "entryCount": 18,
   "entries": {
     "643370": {
-      "rank": 4395,
+      "rank": 4399,
       "estimate": "<7k",
       "name": "eSports Manager"
     },
     "1446790": {
-      "rank": 4488,
+      "rank": 4493,
       "estimate": "<7k",
       "name": "CRUDE"
     },
     "1846570": {
-      "rank": 3781,
+      "rank": 3783,
       "estimate": "<7k",
       "name": "Sanctus"
     },
     "2186440": {
-      "rank": 5118,
+      "rank": 5120,
       "estimate": "<7k",
       "name": "間違った社員教育 まったく君の会社ではいったいどんな社員教育を(略)"
     },
     "2418040": {
-      "rank": 2440,
+      "rank": 2442,
       "estimate": "7k+",
       "name": "Beyond The Plastic Wall"
     },
     "2527940": {
-      "rank": 3346,
+      "rank": 3347,
       "estimate": "<7k",
       "name": "Little Cheese Works"
     },
     "2533000": {
-      "rank": 4221,
+      "rank": 4223,
       "estimate": "<7k",
       "name": "Small Kingdoms"
     },
     "2578180": {
-      "rank": 2006,
+      "rank": 2007,
       "estimate": "7k+",
       "name": "Save the Villainess: An Otome Isekai Roleplaying Game"
     },
@@ -85,9 +85,14 @@
       "name": "Fourteen Years of Flames"
     },
     "4660450": {
-      "rank": 5410,
+      "rank": 5397,
       "estimate": "<7k",
       "name": "Caravana 2000"
+    },
+    "4794780": {
+      "rank": 5704,
+      "estimate": "<7k",
+      "name": "GnomeBoozled"
     }
   }
 }
