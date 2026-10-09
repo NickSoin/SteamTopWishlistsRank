@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-09T20:18:10.913Z",
+  "entryCount": 37,
   "entries": {
     "936790": {
       "rank": 38,
@@ -240,6 +240,13 @@
       "estimate": "7k+",
       "name": "Gold Up",
       "releaseDate": "2026-08-12",
+      "source": "tracked"
+    },
+    "4505440": {
+      "rank": 2147,
+      "estimate": "7k+",
+      "name": "Asobi: Remote Play",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     },
     "4580120": {

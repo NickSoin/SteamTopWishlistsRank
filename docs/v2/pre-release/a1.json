@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
-  "entryCount": 46,
+  "updatedAt": "2026-10-09T20:18:10.913Z",
+  "entryCount": 47,
   "entries": {
     "619390": {
       "rank": 926,
@@ -231,6 +231,13 @@
       "name": "Disney Dreamlight Valley: A Rift in Time",
       "releaseDate": "2023-12-05",
       "source": "historical"
+    },
+    "2680280": {
+      "rank": 292,
+      "estimate": "80k+",
+      "name": "PAPERHEAD",
+      "releaseDate": "2026-10-09",
+      "source": "tracked"
     },
     "2710040": {
       "rank": 507,

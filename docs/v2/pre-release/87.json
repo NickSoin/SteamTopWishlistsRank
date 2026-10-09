@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-09T20:18:10.913Z",
+  "entryCount": 42,
   "entries": {
     "1039100": {
       "rank": 184,
@@ -206,6 +206,13 @@
       "name": "Ember Knights - Wrath of the Architect",
       "releaseDate": "2024-10-15",
       "source": "historical"
+    },
+    "3239360": {
+      "rank": 4743,
+      "estimate": "<7k",
+      "name": "Beat, Heart, Beat",
+      "releaseDate": "2026-10-09",
+      "source": "tracked"
     },
     "3375110": {
       "rank": 429,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-09T20:18:10.913Z",
+  "entryCount": 39,
   "entries": {
     "889750": {
       "rank": 90,
@@ -254,6 +254,13 @@
       "estimate": "<7k",
       "name": "nonogram",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4529700": {
+      "rank": 4375,
+      "estimate": "<7k",
+      "name": "Aquilon: Lust Guild",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     },
     "4668870": {

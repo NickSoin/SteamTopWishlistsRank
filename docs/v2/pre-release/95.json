@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-09T20:18:10.913Z",
+  "entryCount": 40,
   "entries": {
     "729000": {
       "rank": 169,
@@ -201,6 +201,13 @@
       "name": "Diablo® IV: Vessel of Hatred™",
       "releaseDate": "2024-10-07",
       "source": "historical"
+    },
+    "3151660": {
+      "rank": 4229,
+      "estimate": "<7k",
+      "name": "Uppercute",
+      "releaseDate": "2026-10-09",
+      "source": "tracked"
     },
     "3174500": {
       "rank": 2864,

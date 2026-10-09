@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "updatedAt": "2026-10-09T20:18:10.913Z",
   "entryCount": 29,
   "entries": {
     "629820": {
@@ -105,11 +105,11 @@
       "source": "historical"
     },
     "2239670": {
-      "rank": 42,
-      "estimate": "600k+",
+      "rank": 260,
+      "estimate": "80k+",
       "name": "Glory To The Heroes™",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-10-09",
+      "source": "tracked"
     },
     "2273430": {
       "rank": 579,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-09T20:18:10.913Z",
+  "entryCount": 39,
   "entries": {
     "851850": {
       "rank": 23,
@@ -170,6 +170,13 @@
       "name": "Boti: Byteland Overclocked",
       "releaseDate": "2023-09-15",
       "source": "historical"
+    },
+    "2228720": {
+      "rank": 8480,
+      "estimate": "<7k",
+      "name": "Hack 'n' Stack",
+      "releaseDate": "2026-10-09",
+      "source": "tracked"
     },
     "2311820": {
       "rank": 1029,

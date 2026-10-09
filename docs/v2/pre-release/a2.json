@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-09T20:18:10.913Z",
+  "entryCount": 42,
   "entries": {
     "406160": {
       "rank": 927,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "Space Cat Solitaire",
       "releaseDate": "2026-09-28",
+      "source": "tracked"
+    },
+    "3446730": {
+      "rank": 6490,
+      "estimate": "<7k",
+      "name": "WildRoot",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     },
     "3732310": {

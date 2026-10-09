@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-09T20:18:10.913Z",
+  "entryCount": 43,
   "entries": {
     "690370": {
       "rank": 17,
@@ -275,6 +275,13 @@
       "estimate": "<7k",
       "name": "IronWood",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4347270": {
+      "rank": 8755,
+      "estimate": "<7k",
+      "name": "The Hat Man",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     },
     "4356430": {

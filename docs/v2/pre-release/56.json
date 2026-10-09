@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "updatedAt": "2026-10-09T20:18:10.913Z",
   "entryCount": 30,
   "entries": {
     "610370": {
@@ -131,11 +131,11 @@
       "source": "historical"
     },
     "2254990": {
-      "rank": 1461,
-      "estimate": "25k+",
+      "rank": 48,
+      "estimate": "600k+",
       "name": "Permafrost",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-10-09",
+      "source": "tracked"
     },
     "2321250": {
       "rank": 2614,

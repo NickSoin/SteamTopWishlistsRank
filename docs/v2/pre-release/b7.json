@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-09T20:18:10.913Z",
+  "entryCount": 34,
   "entries": {
     "671970": {
       "rank": 44,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "DarkStone Restoration",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4731030": {
+      "rank": 7704,
+      "estimate": "<7k",
+      "name": "Webs of Reverie",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     },
     "4781330": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-09T20:18:10.913Z",
+  "entryCount": 38,
   "entries": {
     "659960": {
       "rank": 821,
@@ -209,6 +209,13 @@
       "estimate": "<7k",
       "name": "Spellsy",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "4190960": {
+      "rank": 2258,
+      "estimate": "7k+",
+      "name": "LOST & FOUND",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     },
     "4290680": {

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "updatedAt": "2026-10-09T20:18:10.913Z",
   "entryCount": 28,
   "entries": {
     "604540": {
@@ -126,11 +126,11 @@
       "source": "historical"
     },
     "3090810": {
-      "rank": 17,
-      "estimate": "800k+",
+      "rank": 360,
+      "estimate": "80k+",
       "name": "Truckful",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-10-09",
+      "source": "tracked"
     },
     "3265290": {
       "rank": 2437,

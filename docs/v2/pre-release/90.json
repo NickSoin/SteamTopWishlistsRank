@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-09T20:18:10.913Z",
+  "entryCount": 35,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "NIGHTMIST",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "5102980": {
+      "rank": 1952,
+      "estimate": "15k+",
+      "name": "Penis Bird",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     }
   }

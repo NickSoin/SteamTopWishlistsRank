@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T12:12:19.067Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-09T20:18:10.913Z",
+  "entryCount": 32,
   "entries": {
     "897730": {
       "rank": 9,
@@ -177,6 +177,13 @@
       "estimate": "7k+",
       "name": "Echoes of Above",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4235370": {
+      "rank": 2826,
+      "estimate": "7k+",
+      "name": "Pussy Island",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     },
     "4261850": {
