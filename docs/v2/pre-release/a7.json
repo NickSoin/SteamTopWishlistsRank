@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T00:41:45.125Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "entryCount": 37,
   "entries": {
     "945770": {
       "rank": 169,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "United Heist: Facility Zero",
       "releaseDate": "2026-09-17",
+      "source": "tracked"
+    },
+    "3794700": {
+      "rank": 2712,
+      "estimate": "7k+",
+      "name": "The Second Reality Room: Unspoken Truths",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     },
     "3977280": {

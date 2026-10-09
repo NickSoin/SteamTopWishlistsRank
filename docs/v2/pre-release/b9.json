@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T00:41:45.125Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "entryCount": 35,
   "entries": {
     "1012570": {
       "rank": 585,
@@ -240,6 +240,13 @@
       "estimate": "<7k",
       "name": "Model Kit Shop Simulator: Prologue",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "5159730": {
+      "rank": 5728,
+      "estimate": "<7k",
+      "name": "Touhou Garden of the Yukkuri",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     }
   }

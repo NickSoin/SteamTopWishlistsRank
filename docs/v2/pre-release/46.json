@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T00:41:45.125Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "entryCount": 36,
   "entries": {
     "412020": {
       "rank": 3,
@@ -249,6 +249,13 @@
       "estimate": "<7k",
       "name": "THE DEEPEST CASTLE",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4968640": {
+      "rank": 300,
+      "estimate": "80k+",
+      "name": "Japanese Ramen Simulator",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     }
   }

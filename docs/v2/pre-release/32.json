@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T00:41:45.125Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "entryCount": 38,
   "entries": {
     "851850": {
       "rank": 23,
@@ -271,6 +271,13 @@
       "estimate": "<7k",
       "name": "Formic Fortress",
       "releaseDate": "2026-08-29",
+      "source": "tracked"
+    },
+    "4718490": {
+      "rank": 2204,
+      "estimate": "7k+",
+      "name": "Much Bigger Than my Boyfriend",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     }
   }

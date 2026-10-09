@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-09T00:41:45.125Z",
-  "entryCount": 23,
+  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "entryCount": 24,
   "entries": {
     "826640": {
-      "rank": 3370,
+      "rank": 3368,
       "estimate": "<7k",
       "name": "EARTHLOCK 2"
     },
@@ -15,7 +15,7 @@
       "name": "Guns 'n Goblins"
     },
     "1205660": {
-      "rank": 1017,
+      "rank": 1018,
       "estimate": "25k+",
       "name": "WOLFHOUND"
     },
@@ -25,22 +25,22 @@
       "name": "Wrestling With Emotions: New Kid on the Block"
     },
     "1848610": {
-      "rank": 2157,
+      "rank": 2155,
       "estimate": "7k+",
       "name": "Rogue Mansion"
     },
     "1851810": {
-      "rank": 3212,
+      "rank": 3197,
       "estimate": "<7k",
       "name": "The Holdouts"
     },
     "1917990": {
-      "rank": 585,
+      "rank": 583,
       "estimate": "40k+",
       "name": "Being and Becoming"
     },
     "2027030": {
-      "rank": 1631,
+      "rank": 1630,
       "estimate": "15k+",
       "name": "Power Drill Massacre"
     },
@@ -55,12 +55,12 @@
       "name": "GIMMIKO"
     },
     "2198310": {
-      "rank": 1911,
+      "rank": 1912,
       "estimate": "15k+",
       "name": "PALEOPHAGE"
     },
     "2371490": {
-      "rank": 4253,
+      "rank": 4256,
       "estimate": "<7k",
       "name": "Pasture: The Livestock Simulator"
     },
@@ -70,42 +70,42 @@
       "name": "NAKWON: LAST PARADISE"
     },
     "2640750": {
-      "rank": 2873,
+      "rank": 2867,
       "estimate": "7k+",
       "name": "NightFall Shade"
     },
     "2852140": {
-      "rank": 933,
+      "rank": 931,
       "estimate": "40k+",
       "name": "Dumb Ways to Party"
     },
     "3339280": {
-      "rank": 5373,
+      "rank": 5371,
       "estimate": "<7k",
       "name": "From Basement with Love"
     },
     "3530630": {
-      "rank": 1119,
+      "rank": 1120,
       "estimate": "25k+",
       "name": "Bless You Again"
     },
     "3903610": {
-      "rank": 4799,
+      "rank": 4800,
       "estimate": "<7k",
       "name": "Hear The Bell Toll"
     },
     "3932580": {
-      "rank": 2985,
+      "rank": 2979,
       "estimate": "7k+",
       "name": "Diorama Break"
     },
     "3966800": {
-      "rank": 1672,
+      "rank": 1655,
       "estimate": "15k+",
       "name": "VINCIT"
     },
     "4018610": {
-      "rank": 2699,
+      "rank": 2684,
       "estimate": "7k+",
       "name": "A Game About Digging A Hole™ Together"
     },
@@ -115,9 +115,14 @@
       "name": "Castlevania: Belmont's Curse"
     },
     "4463520": {
-      "rank": 1776,
+      "rank": 1773,
       "estimate": "15k+",
       "name": "Moomin: Midsummer Madness"
+    },
+    "4857000": {
+      "rank": 5723,
+      "estimate": "<7k",
+      "name": "K-pop Fucking Hunters"
     }
   }
 }

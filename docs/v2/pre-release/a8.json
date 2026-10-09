@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T00:41:45.125Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "entryCount": 35,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Italian Pizza Simulator",
       "releaseDate": "2026-08-14",
+      "source": "tracked"
+    },
+    "4056370": {
+      "rank": 1837,
+      "estimate": "15k+",
+      "name": "Magical Girl Yusya-chan and the Labyrinth of Lust",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     },
     "4255580": {

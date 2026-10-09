@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T00:41:45.125Z",
-  "entryCount": 45,
+  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "entryCount": 46,
   "entries": {
     "856890": {
       "rank": 749,
@@ -291,6 +291,13 @@
       "estimate": "<7k",
       "name": "Pro Soccer Manager 27",
       "releaseDate": "2026-08-28",
+      "source": "tracked"
+    },
+    "4486440": {
+      "rank": 5598,
+      "estimate": "<7k",
+      "name": "Posthumors",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     },
     "4508760": {

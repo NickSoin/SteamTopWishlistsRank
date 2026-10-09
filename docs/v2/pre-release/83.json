@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T00:41:45.125Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "entryCount": 39,
   "entries": {
     "867210": {
       "rank": 90,
@@ -219,6 +219,13 @@
       "estimate": "80k+",
       "name": "Warhounds",
       "releaseDate": "2026-08-11",
+      "source": "tracked"
+    },
+    "4033680": {
+      "rank": 4472,
+      "estimate": "<7k",
+      "name": "Escape: Immersion",
+      "releaseDate": "2026-10-09",
       "source": "tracked"
     },
     "4145350": {

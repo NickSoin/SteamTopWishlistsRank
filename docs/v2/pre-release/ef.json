@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T00:41:45.125Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "entryCount": 34,
   "entries": {
     "1231560": {
       "rank": 269,
@@ -143,6 +143,13 @@
       "name": "GRIME II",
       "releaseDate": "2026-03-31",
       "source": "historical"
+    },
+    "2593290": {
+      "rank": 437,
+      "estimate": "80k+",
+      "name": "Dragon's Dogma 2: Dark Arisen Expansion",
+      "releaseDate": "2026-10-08",
+      "source": "tracked"
     },
     "2672430": {
       "rank": 708,

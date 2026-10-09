@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-09T00:41:45.125Z",
-  "entryCount": 27,
+  "updatedAt": "2026-10-09T12:12:19.067Z",
+  "entryCount": 28,
   "entries": {
     "597820": {
       "rank": 2,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "Dungeon Repeater",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4233960": {
+      "rank": 3294,
+      "estimate": "<7k",
+      "name": "Do Disciplinary Committee Members Dream of Succubi?",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     },
     "4329670": {
