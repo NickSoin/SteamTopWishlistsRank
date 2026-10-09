@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T17:37:43.650Z",
-  "entryCount": 30,
+  "updatedAt": "2026-10-09T00:41:45.125Z",
+  "entryCount": 31,
   "entries": {
     "659300": {
       "rank": 3018,
@@ -188,6 +188,13 @@
       "estimate": "<7k",
       "name": "Little Ghosties",
       "releaseDate": "2026-09-07",
+      "source": "tracked"
+    },
+    "4569670": {
+      "rank": 4121,
+      "estimate": "<7k",
+      "name": "Keep Watering",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     },
     "4622010": {

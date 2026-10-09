@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-08T17:37:43.650Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-09T00:41:45.125Z",
+  "entryCount": 34,
   "entries": {
     "750200": {
       "rank": 159,
@@ -218,6 +218,13 @@
       "estimate": "<7k",
       "name": "Building 0: Hakuei University",
       "releaseDate": "2026-06-17",
+      "source": "tracked"
+    },
+    "4378370": {
+      "rank": 5179,
+      "estimate": "<7k",
+      "name": "Anomalous Cleaning Detail",
+      "releaseDate": "2026-10-08",
       "source": "tracked"
     },
     "4659620": {

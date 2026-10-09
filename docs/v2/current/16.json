@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-08T17:37:43.650Z",
-  "entryCount": 17,
+  "updatedAt": "2026-10-09T00:41:45.125Z",
+  "entryCount": 18,
   "entries": {
     "904510": {
-      "rank": 1438,
+      "rank": 1440,
       "estimate": "25k+",
       "name": "ARTIFICIAL"
     },
     "1418380": {
-      "rank": 3810,
+      "rank": 3812,
       "estimate": "<7k",
       "name": "Forester Simulator"
     },
     "1707680": {
-      "rank": 1022,
+      "rank": 1021,
       "estimate": "25k+",
       "name": "Referee Simulator"
     },
@@ -25,7 +25,7 @@
       "name": "Szrot"
     },
     "2118890": {
-      "rank": 1704,
+      "rank": 1706,
       "estimate": "15k+",
       "name": "Backrooms VHS"
     },
@@ -35,32 +35,32 @@
       "name": "Stormbinders"
     },
     "2229910": {
-      "rank": 2424,
+      "rank": 2427,
       "estimate": "7k+",
       "name": "Demiurgos"
     },
     "3154150": {
-      "rank": 3532,
+      "rank": 3534,
       "estimate": "<7k",
       "name": "Spook-A-Boo"
     },
     "3279330": {
-      "rank": 3650,
+      "rank": 3654,
       "estimate": "<7k",
       "name": "Home Wars: Battlefield"
     },
     "3398880": {
-      "rank": 3317,
+      "rank": 3316,
       "estimate": "<7k",
       "name": "Castle V Castle"
     },
     "3570350": {
-      "rank": 2483,
+      "rank": 2484,
       "estimate": "7k+",
       "name": "Silkgrove"
     },
     "3730680": {
-      "rank": 2661,
+      "rank": 2660,
       "estimate": "7k+",
       "name": "Table Tactics: physics-driven tabletop battles"
     },
@@ -70,7 +70,7 @@
       "name": "Ethernia"
     },
     "3798840": {
-      "rank": 2436,
+      "rank": 2432,
       "estimate": "7k+",
       "name": "Reytrieve Odyssey"
     },
@@ -79,13 +79,18 @@
       "estimate": "<7k",
       "name": "Serena: Yellow Creek"
     },
+    "4233960": {
+      "rank": 3294,
+      "estimate": "<7k",
+      "name": "Do Disciplinary Committee Members Dream of Succubi?"
+    },
     "4614080": {
-      "rank": 96,
+      "rank": 95,
       "estimate": "300k+",
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 609,
+      "rank": 607,
       "estimate": "40k+",
       "name": "Project Rabbit"
     }

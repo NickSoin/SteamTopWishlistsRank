@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-08T17:37:43.650Z",
-  "entryCount": 25,
+  "updatedAt": "2026-10-09T00:41:45.125Z",
+  "entryCount": 27,
   "entries": {
     "1066740": {
-      "rank": 1939,
+      "rank": 1940,
       "estimate": "15k+",
       "name": "Mercyful Flames: The Witches"
     },
     "1159150": {
-      "rank": 1790,
+      "rank": 1791,
       "estimate": "15k+",
       "name": "BOC: Birth of Cultures"
     },
     "1571260": {
-      "rank": 3037,
+      "rank": 3039,
       "estimate": "<7k",
       "name": "fault - milestone two side: below"
     },
@@ -30,12 +30,12 @@
       "name": "American Airport Simulator"
     },
     "2368490": {
-      "rank": 3050,
+      "rank": 3051,
       "estimate": "<7k",
       "name": "Montaro 2"
     },
     "2440350": {
-      "rank": 2189,
+      "rank": 2186,
       "estimate": "7k+",
       "name": "Keikaku計画"
     },
@@ -45,37 +45,42 @@
       "name": "Curiosmos"
     },
     "2743260": {
-      "rank": 2933,
+      "rank": 2922,
       "estimate": "7k+",
       "name": "Nowhere"
     },
     "2848220": {
-      "rank": 1231,
+      "rank": 1229,
       "estimate": "25k+",
       "name": "Lashes of the Sea"
     },
     "3281970": {
-      "rank": 462,
+      "rank": 461,
       "estimate": "80k+",
       "name": "Deep Snow Delivery"
     },
     "3359110": {
-      "rank": 2612,
+      "rank": 2611,
       "estimate": "7k+",
       "name": "Total Victory: World Conflict 1939-1945"
     },
+    "3392230": {
+      "rank": 3902,
+      "estimate": "<7k",
+      "name": "Sekira"
+    },
     "3417760": {
-      "rank": 4436,
+      "rank": 4440,
       "estimate": "<7k",
       "name": "Angstraum"
     },
     "3449370": {
-      "rank": 1606,
+      "rank": 1605,
       "estimate": "15k+",
       "name": "VANRAN"
     },
     "3973310": {
-      "rank": 5233,
+      "rank": 5234,
       "estimate": "<7k",
       "name": "Legacy of Pandora"
     },
@@ -85,17 +90,17 @@
       "name": "Grand Pro Circuit"
     },
     "4005870": {
-      "rank": 565,
+      "rank": 561,
       "estimate": "40k+",
       "name": "FreshWomen - Season 3"
     },
     "4006130": {
-      "rank": 2659,
+      "rank": 2657,
       "estimate": "7k+",
       "name": "Under The Rooftop"
     },
     "4018380": {
-      "rank": 774,
+      "rank": 776,
       "estimate": "40k+",
       "name": "Chronoscript: The Endless End"
     },
@@ -105,29 +110,34 @@
       "name": "Shorekeeper"
     },
     "4330750": {
-      "rank": 4717,
+      "rank": 4716,
       "estimate": "<7k",
       "name": "Tiny Ramen Shop"
     },
     "4523820": {
-      "rank": 4171,
+      "rank": 4173,
       "estimate": "<7k",
       "name": "Broken Dagger"
     },
     "4556190": {
-      "rank": 2790,
+      "rank": 2787,
       "estimate": "7k+",
       "name": "Bye Bye Bonnie"
     },
     "4692380": {
-      "rank": 5029,
+      "rank": 5034,
       "estimate": "<7k",
       "name": "Invariant"
     },
     "5013380": {
-      "rank": 4045,
+      "rank": 4041,
       "estimate": "<7k",
       "name": "The Battle Of Olympus"
+    },
+    "5159730": {
+      "rank": 5728,
+      "estimate": "<7k",
+      "name": "Touhou Garden of the Yukkuri"
     }
   }
 }

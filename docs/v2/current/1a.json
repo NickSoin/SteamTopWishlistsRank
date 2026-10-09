@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-08T17:37:43.650Z",
-  "entryCount": 24,
+  "updatedAt": "2026-10-09T00:41:45.125Z",
+  "entryCount": 25,
   "entries": {
     "812910": {
-      "rank": 1934,
+      "rank": 1935,
       "estimate": "15k+",
       "name": "Zodiac Legion"
     },
     "1610360": {
-      "rank": 2407,
+      "rank": 2409,
       "estimate": "7k+",
       "name": "UKIYO"
     },
     "1645560": {
-      "rank": 4248,
+      "rank": 4251,
       "estimate": "<7k",
       "name": "Coffee Bar Renovator"
     },
     "2022610": {
-      "rank": 1333,
+      "rank": 1331,
       "estimate": "25k+",
       "name": "CRETE"
     },
     "2054000": {
-      "rank": 3015,
+      "rank": 3019,
       "estimate": "<7k",
       "name": "Presentable Liberty Remake"
     },
     "2239230": {
-      "rank": 5468,
+      "rank": 5466,
       "estimate": "<7k",
       "name": "Epic Cards Battle 3 (TCG)"
     },
     "2250330": {
-      "rank": 4660,
+      "rank": 4661,
       "estimate": "<7k",
       "name": "Play Rough"
     },
     "2559840": {
-      "rank": 995,
+      "rank": 994,
       "estimate": "40k+",
       "name": "Lust Kingdom"
     },
     "2746680": {
-      "rank": 3985,
+      "rank": 3983,
       "estimate": "<7k",
       "name": "DARKWATCH"
     },
     "2850840": {
-      "rank": 3058,
+      "rank": 3057,
       "estimate": "<7k",
       "name": "Tokyo Mafia Simulator"
     },
@@ -60,17 +60,17 @@
       "name": "Vanlife Camping Simulator"
     },
     "3014650": {
-      "rank": 296,
+      "rank": 295,
       "estimate": "80k+",
       "name": ".45 PARABELLUM BLOODHOUND - Cyberpunk Active Time Action"
     },
     "3143510": {
-      "rank": 2735,
+      "rank": 2738,
       "estimate": "7k+",
       "name": "Pixel Frenzy"
     },
     "3166230": {
-      "rank": 3963,
+      "rank": 3929,
       "estimate": "<7k",
       "name": "That Which Remains"
     },
@@ -80,32 +80,32 @@
       "name": "Thief Simulator 3"
     },
     "3450100": {
-      "rank": 3235,
+      "rank": 3233,
       "estimate": "<7k",
       "name": "Gretel's Honesty"
     },
     "3548810": {
-      "rank": 791,
+      "rank": 788,
       "estimate": "40k+",
       "name": "Ritual Tides"
     },
     "3910330": {
-      "rank": 2541,
+      "rank": 2540,
       "estimate": "7k+",
       "name": "Mayak"
     },
     "4029770": {
-      "rank": 4654,
+      "rank": 4620,
       "estimate": "<7k",
       "name": "THERMOCLINE"
     },
     "4295090": {
-      "rank": 3757,
+      "rank": 3760,
       "estimate": "<7k",
       "name": "Horses of Gavarnie"
     },
     "4331110": {
-      "rank": 1094,
+      "rank": 1087,
       "estimate": "25k+",
       "name": "O EMPIRE! WARD OFF THY ROT"
     },
@@ -115,7 +115,7 @@
       "name": "Totally Safe Moon Project"
     },
     "4625800": {
-      "rank": 3504,
+      "rank": 3508,
       "estimate": "<7k",
       "name": "Black Plague: Survival"
     },
@@ -123,6 +123,11 @@
       "rank": 5474,
       "estimate": "<7k",
       "name": "Tombone: Legend of the Cave Babes"
+    },
+    "5127370": {
+      "rank": 5575,
+      "estimate": "<7k",
+      "name": "Who's Cheating?"
     }
   }
 }
