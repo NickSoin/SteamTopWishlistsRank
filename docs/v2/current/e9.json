@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-10T06:14:48.475Z",
-  "entryCount": 21,
+  "updatedAt": "2026-10-10T16:02:33.373Z",
+  "entryCount": 22,
   "entries": {
     "1518180": {
-      "rank": 4861,
+      "rank": 4866,
       "estimate": "<7k",
       "name": "Car Mechanic Manager 2023"
     },
     "1568600": {
-      "rank": 3956,
+      "rank": 3963,
       "estimate": "<7k",
       "name": "ASSAULT SECTOR"
     },
     "1625220": {
-      "rank": 3438,
+      "rank": 3444,
       "estimate": "<7k",
       "name": "Half-Life: Element 64"
     },
@@ -25,42 +25,42 @@
       "name": "Mars Tactics"
     },
     "1897300": {
-      "rank": 4059,
+      "rank": 4068,
       "estimate": "<7k",
       "name": "Eaves"
     },
     "2231820": {
-      "rank": 3974,
+      "rank": 3985,
       "estimate": "<7k",
       "name": "Sheep Lad"
     },
     "2284190": {
-      "rank": 2563,
+      "rank": 2568,
       "estimate": "7k+",
       "name": "Poglings"
     },
     "2348250": {
-      "rank": 501,
+      "rank": 503,
       "estimate": "40k+",
       "name": "13Z: The Zodiac Trials"
     },
     "2720780": {
-      "rank": 4099,
+      "rank": 4104,
       "estimate": "<7k",
       "name": "Artemis VR"
     },
     "2961860": {
-      "rank": 694,
+      "rank": 695,
       "estimate": "40k+",
       "name": "Honcho"
     },
     "3150160": {
-      "rank": 2811,
+      "rank": 2816,
       "estimate": "7k+",
       "name": "Another Pint"
     },
     "3203190": {
-      "rank": 5036,
+      "rank": 5042,
       "estimate": "<7k",
       "name": "Laundry Service Simulator"
     },
@@ -70,44 +70,49 @@
       "name": "The War of the Worlds: Siberia"
     },
     "3314030": {
-      "rank": 3903,
+      "rank": 3907,
       "estimate": "<7k",
       "name": "In a World After People"
     },
     "3399240": {
-      "rank": 766,
+      "rank": 767,
       "estimate": "40k+",
       "name": "Buster JAM!"
     },
     "3625060": {
-      "rank": 4472,
+      "rank": 4475,
       "estimate": "<7k",
       "name": "European War 4: Napoleon Remastered"
     },
     "3700480": {
-      "rank": 3348,
+      "rank": 3355,
       "estimate": "<7k",
       "name": "Fresh Story 3"
     },
     "3743140": {
-      "rank": 584,
+      "rank": 576,
       "estimate": "40k+",
       "name": "Battleplan"
     },
     "3840650": {
-      "rank": 4942,
+      "rank": 4943,
       "estimate": "<7k",
       "name": "缘之绳"
     },
     "4372950": {
-      "rank": 1241,
+      "rank": 1238,
       "estimate": "25k+",
       "name": "Cave Expedition"
     },
     "4932930": {
-      "rank": 1737,
+      "rank": 1739,
       "estimate": "15k+",
       "name": "AMAKANO 3"
+    },
+    "5268810": {
+      "rank": 5433,
+      "estimate": "<7k",
+      "name": "Flak Simulator"
     }
   }
 }
