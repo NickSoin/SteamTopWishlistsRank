@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-09T20:18:10.913Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-10T00:13:47.159Z",
+  "entryCount": 33,
   "entries": {
     "1502050": {
-      "rank": 4785,
+      "rank": 4789,
       "estimate": "<7k",
       "name": "Dracula's Castle"
     },
@@ -20,7 +20,7 @@
       "name": "NTRaholic Remix"
     },
     "2185250": {
-      "rank": 1912,
+      "rank": 1913,
       "estimate": "15k+",
       "name": "Iron Corbo: Kung Fu Janitor"
     },
@@ -30,22 +30,22 @@
       "name": "KOOK"
     },
     "2400980": {
-      "rank": 775,
+      "rank": 778,
       "estimate": "40k+",
       "name": "AMONG THE WILD"
     },
     "2456820": {
-      "rank": 3822,
+      "rank": 3825,
       "estimate": "<7k",
       "name": "Falling Limbs"
     },
     "2496590": {
-      "rank": 2472,
+      "rank": 2473,
       "estimate": "7k+",
       "name": "Untraveled Lands: Chantico"
     },
     "2527610": {
-      "rank": 5406,
+      "rank": 5408,
       "estimate": "<7k",
       "name": "Journey Record"
     },
@@ -55,17 +55,17 @@
       "name": "Seductive Sister"
     },
     "2565010": {
-      "rank": 1191,
+      "rank": 1192,
       "estimate": "25k+",
       "name": "Tenet of the Spark"
     },
     "2676990": {
-      "rank": 4864,
+      "rank": 4868,
       "estimate": "<7k",
       "name": "Mighty Knight Legacy"
     },
     "2743290": {
-      "rank": 869,
+      "rank": 872,
       "estimate": "40k+",
       "name": "Lazy River"
     },
@@ -80,12 +80,12 @@
       "name": "Shenzhou Saga: Three Kingdoms"
     },
     "2928040": {
-      "rank": 2519,
+      "rank": 2518,
       "estimate": "7k+",
       "name": "The Legend of Baboo"
     },
     "2948730": {
-      "rank": 214,
+      "rank": 215,
       "estimate": "80k+",
       "name": "THE JOY OF CREATION"
     },
@@ -100,17 +100,17 @@
       "name": "Deserter"
     },
     "3290380": {
-      "rank": 5078,
+      "rank": 5079,
       "estimate": "<7k",
       "name": "Rusty Winter"
     },
     "3295000": {
-      "rank": 244,
+      "rank": 242,
       "estimate": "80k+",
       "name": "ReVamp"
     },
     "3297110": {
-      "rank": 1867,
+      "rank": 1869,
       "estimate": "15k+",
       "name": "Anemorie"
     },
@@ -120,12 +120,12 @@
       "name": "Super Yooka-Laylee Kart"
     },
     "3420280": {
-      "rank": 3047,
+      "rank": 3049,
       "estimate": "<7k",
       "name": "Idle Research 2"
     },
     "3938880": {
-      "rank": 2578,
+      "rank": 2579,
       "estimate": "7k+",
       "name": "Just Let Me Fix the Mecha Girls!"
     },
@@ -135,12 +135,17 @@
       "name": "DETOUR"
     },
     "4027620": {
-      "rank": 1629,
+      "rank": 1630,
       "estimate": "15k+",
       "name": "Lufia I & II The Sinistrals Saga"
     },
+    "4088850": {
+      "rank": 5734,
+      "estimate": "<7k",
+      "name": "A Game About Opening A Chest"
+    },
     "4094240": {
-      "rank": 5006,
+      "rank": 5010,
       "estimate": "<7k",
       "name": "One Million Buttons"
     },
@@ -150,17 +155,17 @@
       "name": "Harvest Skies: Crop Dusting Simulator"
     },
     "4991240": {
-      "rank": 1543,
+      "rank": 1535,
       "estimate": "15k+",
       "name": "Witch Cabin Cleanup"
     },
     "5095350": {
-      "rank": 5175,
+      "rank": 5174,
       "estimate": "<7k",
       "name": "TREUD"
     },
     "5276140": {
-      "rank": 242,
+      "rank": 243,
       "estimate": "80k+",
       "name": "Satisfactory - Core Values Expansion"
     }
