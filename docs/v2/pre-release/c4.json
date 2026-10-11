@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-11T06:17:05.768Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-11T16:48:19.581Z",
+  "entryCount": 37,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Once Upon A Card",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4570650": {
+      "rank": 2432,
+      "estimate": "7k+",
+      "name": "Backrooms: Infinite",
+      "releaseDate": "2026-10-10",
       "source": "tracked"
     },
     "4611140": {

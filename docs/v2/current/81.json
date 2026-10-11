@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-11T06:17:05.768Z",
-  "entryCount": 17,
+  "updatedAt": "2026-10-11T16:48:19.581Z",
+  "entryCount": 18,
   "entries": {
     "989350": {
-      "rank": 5116,
+      "rank": 5126,
       "estimate": "<7k",
       "name": "Running Rogue"
     },
     "1043110": {
-      "rank": 3007,
+      "rank": 3012,
       "estimate": "<7k",
       "name": "Kaiju Fishing"
     },
     "1185380": {
-      "rank": 2972,
+      "rank": 2977,
       "estimate": "7k+",
       "name": "The Season of the Warlock"
     },
     "1647220": {
-      "rank": 1742,
+      "rank": 1745,
       "estimate": "15k+",
       "name": "Once,in Times of Chaos"
     },
     "1752210": {
-      "rank": 5767,
+      "rank": 5776,
       "estimate": "<7k",
       "name": "Red Embrace: Paradisus"
     },
@@ -37,17 +37,17 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800991756305442"
     },
     "2390660": {
-      "rank": 4995,
+      "rank": 5004,
       "estimate": "<7k",
       "name": "Collapsed Galaxy 2"
     },
     "2544740": {
-      "rank": 3843,
+      "rank": 3839,
       "estimate": "<7k",
       "name": "THANKS, LIGHT."
     },
     "2979810": {
-      "rank": 508,
+      "rank": 510,
       "estimate": "40k+",
       "name": "POLYARIS"
     },
@@ -62,34 +62,39 @@
       "name": "POSTAL 2 Redux"
     },
     "4528010": {
-      "rank": 3679,
+      "rank": 3637,
       "estimate": "<7k",
       "name": "Signal Veil"
     },
     "4664240": {
-      "rank": 406,
+      "rank": 408,
       "estimate": "80k+",
       "name": "Hard Worker"
     },
     "4712480": {
-      "rank": 4517,
+      "rank": 4525,
       "estimate": "<7k",
       "name": "The Grey Dream - Season 2"
     },
     "4770970": {
-      "rank": 4619,
+      "rank": 4583,
       "estimate": "<7k",
       "name": "Dark Side Void"
     },
     "4828390": {
-      "rank": 4348,
+      "rank": 4342,
       "estimate": "<7k",
       "name": "Forsaken Fleet"
     },
     "4920230": {
-      "rank": 257,
+      "rank": 256,
       "estimate": "80k+",
       "name": "Afterworld"
+    },
+    "5317860": {
+      "rank": 5607,
+      "estimate": "<7k",
+      "name": "Slavlands: Tribes at War"
     }
   }
 }

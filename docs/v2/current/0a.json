@@ -1,81 +1,81 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-11T06:17:05.768Z",
-  "entryCount": 18,
+  "updatedAt": "2026-10-11T16:48:19.581Z",
+  "entryCount": 19,
   "entries": {
     "643370": {
-      "rank": 4403,
+      "rank": 4409,
       "estimate": "<7k",
       "name": "eSports Manager"
     },
     "1446790": {
-      "rank": 4485,
+      "rank": 4489,
       "estimate": "<7k",
       "name": "CRUDE"
     },
     "1846570": {
-      "rank": 3788,
+      "rank": 3793,
       "estimate": "<7k",
       "name": "Sanctus"
     },
     "2186440": {
-      "rank": 5123,
+      "rank": 5131,
       "estimate": "<7k",
       "name": "間違った社員教育 まったく君の会社ではいったいどんな社員教育を(略)"
     },
     "2418040": {
-      "rank": 2432,
+      "rank": 2439,
       "estimate": "7k+",
       "name": "Beyond The Plastic Wall"
     },
     "2527940": {
-      "rank": 3351,
+      "rank": 3357,
       "estimate": "<7k",
       "name": "Little Cheese Works"
     },
     "2533000": {
-      "rank": 4237,
+      "rank": 4247,
       "estimate": "<7k",
       "name": "Small Kingdoms"
     },
     "2578180": {
-      "rank": 2002,
+      "rank": 2011,
       "estimate": "7k+",
       "name": "Save the Villainess: An Otome Isekai Roleplaying Game"
     },
     "2785740": {
-      "rank": 439,
+      "rank": 440,
       "estimate": "80k+",
       "name": "Diesel Knights"
     },
     "3130220": {
-      "rank": 962,
+      "rank": 961,
       "estimate": "40k+",
       "name": "Sagas of Lumin"
     },
     "3238940": {
-      "rank": 244,
+      "rank": 245,
       "estimate": "80k+",
       "name": "A Simple Life with My Unobtrusive Sister"
     },
     "3594550": {
-      "rank": 3100,
+      "rank": 3101,
       "estimate": "<7k",
       "name": "Billy the Hero"
     },
     "3639510": {
-      "rank": 3287,
+      "rank": 3299,
       "estimate": "<7k",
       "name": "Cutting Edge: Roots Of Mutation"
     },
     "3997960": {
-      "rank": 517,
+      "rank": 518,
       "estimate": "40k+",
       "name": "Undead Chronicles"
     },
     "4078800": {
-      "rank": 2494,
+      "rank": 2498,
       "estimate": "7k+",
       "name": "At Eternity's Hatch"
     },
@@ -85,14 +85,19 @@
       "name": "Fourteen Years of Flames"
     },
     "4660450": {
-      "rank": 5269,
+      "rank": 5279,
       "estimate": "<7k",
       "name": "Caravana 2000"
     },
     "4794780": {
-      "rank": 4761,
+      "rank": 4620,
       "estimate": "<7k",
       "name": "GnomeBoozled"
+    },
+    "4870080": {
+      "rank": 5595,
+      "estimate": "<7k",
+      "name": "Lazare's Sacrifice"
     }
   }
 }
