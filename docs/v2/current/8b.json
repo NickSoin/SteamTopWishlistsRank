@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-10T23:44:50.618Z",
-  "entryCount": 16,
+  "updatedAt": "2026-10-11T06:17:05.768Z",
+  "entryCount": 17,
   "entries": {
     "1511480": {
       "rank": 784,
@@ -10,12 +10,12 @@
       "name": "AlterLife"
     },
     "1553590": {
-      "rank": 3512,
+      "rank": 3516,
       "estimate": "<7k",
       "name": "Saveseeker"
     },
     "1578870": {
-      "rank": 3760,
+      "rank": 3763,
       "estimate": "<7k",
       "name": "Shadowman®: Darque Legacy"
     },
@@ -25,64 +25,69 @@
       "name": "Under a Rock"
     },
     "1701160": {
-      "rank": 4279,
+      "rank": 4283,
       "estimate": "<7k",
       "name": "The Darkest Star"
     },
     "1735080": {
-      "rank": 4111,
+      "rank": 4115,
       "estimate": "<7k",
       "name": "High Elo Girls"
     },
     "2165130": {
-      "rank": 3882,
+      "rank": 3887,
       "estimate": "<7k",
       "name": "Hymn to the Earless God"
     },
     "2246370": {
-      "rank": 1865,
+      "rank": 1869,
       "estimate": "15k+",
       "name": "Music Power Up"
     },
     "2353050": {
-      "rank": 410,
+      "rank": 411,
       "estimate": "80k+",
       "name": "WTF - Waifu Tactical Force"
     },
     "2499260": {
-      "rank": 3863,
+      "rank": 3867,
       "estimate": "<7k",
       "name": "Menyr"
     },
     "3188660": {
-      "rank": 1334,
+      "rank": 1333,
       "estimate": "25k+",
       "name": "Motocross The Game"
     },
     "3778610": {
-      "rank": 1490,
+      "rank": 1486,
       "estimate": "25k+",
       "name": "Colorbound"
     },
     "3987430": {
-      "rank": 5611,
+      "rank": 5602,
       "estimate": "<7k",
       "name": "Roads & Riches: Traveling Merchant Simulator"
     },
     "4417350": {
-      "rank": 1408,
+      "rank": 1409,
       "estimate": "25k+",
       "name": "Another Dead World"
     },
     "4995030": {
-      "rank": 3771,
+      "rank": 3736,
       "estimate": "<7k",
       "name": "Folded Fables: Tidy Up The Dragon Hoard"
     },
     "5069130": {
-      "rank": 1737,
+      "rank": 1740,
       "estimate": "15k+",
       "name": "Magna Conquest"
+    },
+    "5314650": {
+      "rank": 5748,
+      "estimate": "<7k",
+      "name": "Ultrapolis"
     }
   }
 }
