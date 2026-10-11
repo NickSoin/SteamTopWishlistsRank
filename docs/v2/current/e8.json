@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-10T16:02:33.373Z",
-  "entryCount": 17,
+  "updatedAt": "2026-10-10T23:44:50.618Z",
+  "entryCount": 18,
   "entries": {
     "1376880": {
-      "rank": 1122,
+      "rank": 1123,
       "estimate": "25k+",
       "name": "Ultimate Hunting®"
     },
     "1386300": {
-      "rank": 5144,
+      "rank": 5154,
       "estimate": "<7k",
       "name": "Animal Trainer"
     },
     "2059070": {
-      "rank": 4186,
+      "rank": 4191,
       "estimate": "<7k",
       "name": "Isotopia"
     },
     "2085080": {
-      "rank": 905,
+      "rank": 908,
       "estimate": "40k+",
       "name": "Princess Hunter"
     },
@@ -30,17 +30,17 @@
       "name": "Sunkissed City"
     },
     "2482980": {
-      "rank": 4610,
+      "rank": 4613,
       "estimate": "<7k",
       "name": "Just in Crime"
     },
     "2651560": {
-      "rank": 3107,
+      "rank": 3112,
       "estimate": "<7k",
       "name": "Redemption of the Cat Demon Girl"
     },
     "2856440": {
-      "rank": 3626,
+      "rank": 3634,
       "estimate": "<7k",
       "name": "The Temple of Children"
     },
@@ -50,44 +50,49 @@
       "name": "Lost in the Roots"
     },
     "2895500": {
-      "rank": 4232,
+      "rank": 4238,
       "estimate": "<7k",
       "name": "ANOTHEREAL"
     },
     "2959460": {
-      "rank": 5360,
+      "rank": 5366,
       "estimate": "<7k",
       "name": "Matelotes"
     },
     "3392040": {
-      "rank": 397,
+      "rank": 400,
       "estimate": "80k+",
       "name": "OMEGA PHENEX COMMENCED PROJECT SIX"
     },
     "3514000": {
-      "rank": 2771,
+      "rank": 2776,
       "estimate": "7k+",
       "name": "Crazy Life"
     },
     "3514750": {
-      "rank": 2087,
+      "rank": 2094,
       "estimate": "7k+",
       "name": "Fantasy Burger"
     },
     "3781790": {
-      "rank": 1574,
+      "rank": 1580,
       "estimate": "15k+",
       "name": "Eternal Anima"
     },
     "4221820": {
-      "rank": 2176,
+      "rank": 2178,
       "estimate": "7k+",
       "name": "Die for Pay"
     },
     "4761940": {
-      "rank": 1445,
+      "rank": 1446,
       "estimate": "25k+",
       "name": "Smalland 2: Lost Realms"
+    },
+    "4904200": {
+      "rank": 5755,
+      "estimate": "<7k",
+      "name": "Civitas: World Simulator"
     }
   }
 }
