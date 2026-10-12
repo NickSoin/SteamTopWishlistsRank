@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-11T23:49:19.236Z",
-  "entryCount": 19,
+  "updatedAt": "2026-10-12T06:39:53.938Z",
+  "entryCount": 20,
   "entries": {
     "1420420": {
-      "rank": 4762,
+      "rank": 4765,
       "estimate": "<7k",
       "name": "Fret Smasher"
     },
     "1570840": {
-      "rank": 4130,
+      "rank": 4132,
       "estimate": "<7k",
       "name": "Tides of Tethys"
     },
     "2427530": {
-      "rank": 2136,
+      "rank": 2139,
       "estimate": "7k+",
       "name": "The Nightscarred: Forgotten Gods"
     },
     "2447370": {
-      "rank": 4440,
+      "rank": 4441,
       "estimate": "<7k",
       "name": "It Takes a Tribe"
     },
     "2707630": {
-      "rank": 4556,
+      "rank": 4560,
       "estimate": "<7k",
       "name": "Twins of Olus"
     },
@@ -35,12 +35,12 @@
       "name": "Ascent: Rivals"
     },
     "2817050": {
-      "rank": 5503,
+      "rank": 5505,
       "estimate": "<7k",
       "name": "FOOL'S PARADISE"
     },
     "2911200": {
-      "rank": 5738,
+      "rank": 5739,
       "estimate": "<7k",
       "name": "Lost Call"
     },
@@ -50,12 +50,12 @@
       "name": "Travelling At Night"
     },
     "2951510": {
-      "rank": 5087,
+      "rank": 5091,
       "estimate": "<7k",
       "name": "Spyrit Walker"
     },
     "3024130": {
-      "rank": 587,
+      "rank": 584,
       "estimate": "40k+",
       "name": "PAO PAO"
     },
@@ -65,17 +65,17 @@
       "name": "ROOST"
     },
     "3258580": {
-      "rank": 1308,
+      "rank": 1312,
       "estimate": "25k+",
       "name": "Don't Wake the Beast"
     },
     "3536530": {
-      "rank": 5572,
+      "rank": 5575,
       "estimate": "<7k",
       "name": "Örnöga: Idle & Loot"
     },
     "3661500": {
-      "rank": 4376,
+      "rank": 4364,
       "estimate": "<7k",
       "name": "Middle Management"
     },
@@ -85,19 +85,24 @@
       "name": "Project S.U.N.D.I.A.L"
     },
     "3946090": {
-      "rank": 5319,
+      "rank": 5322,
       "estimate": "<7k",
       "name": "HINO"
     },
     "4119710": {
-      "rank": 337,
+      "rank": 338,
       "estimate": "80k+",
       "name": "Give Us A Sign"
     },
     "4467420": {
-      "rank": 5555,
+      "rank": 5557,
       "estimate": "<7k",
       "name": "Navinosuke: The Yo-kai Buster"
+    },
+    "4568220": {
+      "rank": 5755,
+      "estimate": "<7k",
+      "name": "Panchofobia"
     }
   }
 }

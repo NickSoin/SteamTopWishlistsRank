@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-11T23:49:19.236Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-12T06:39:53.938Z",
+  "entryCount": 35,
   "entries": {
     "752290": {
       "rank": 6262,
@@ -195,6 +195,13 @@
       "estimate": "40k+",
       "name": "The Sorting Bureau",
       "releaseDate": "2026-08-21",
+      "source": "tracked"
+    },
+    "4267800": {
+      "rank": 2431,
+      "estimate": "7k+",
+      "name": "Bandit Simulator TD",
+      "releaseDate": "2026-10-11",
       "source": "tracked"
     },
     "4364910": {

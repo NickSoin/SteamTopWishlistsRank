@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-11T23:49:19.236Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-12T06:39:53.938Z",
+  "entryCount": 43,
   "entries": {
     "406160": {
       "rank": 927,
@@ -256,6 +256,13 @@
       "estimate": "<7k",
       "name": "Gravity Grove",
       "releaseDate": "2026-08-10",
+      "source": "tracked"
+    },
+    "4402610": {
+      "rank": 2468,
+      "estimate": "7k+",
+      "name": "My Princess is The AV Idol",
+      "releaseDate": "2026-10-11",
       "source": "tracked"
     },
     "4516160": {
