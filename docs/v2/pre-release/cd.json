@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 35,
   "entries": {
     "674140": {
       "rank": 537,
@@ -188,6 +188,13 @@
       "estimate": "<7k",
       "name": "Sloop",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4024440": {
+      "rank": 894,
+      "estimate": "40k+",
+      "name": "Haunted Heist",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     },
     "4110220": {

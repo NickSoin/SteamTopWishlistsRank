@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 28,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 30,
   "entries": {
     "230210": {
       "rank": 15,
@@ -188,6 +188,13 @@
       "releaseDate": "2026-09-21",
       "source": "tracked"
     },
+    "3780530": {
+      "rank": 6758,
+      "estimate": "<7k",
+      "name": "American Cooking Simulator: Multiplayer",
+      "releaseDate": "2026-10-12",
+      "source": "tracked"
+    },
     "4275570": {
       "rank": 9632,
       "estimate": "<7k",
@@ -200,6 +207,13 @@
       "estimate": "<7k",
       "name": "The Confined: Basement",
       "releaseDate": "2026-09-20",
+      "source": "tracked"
+    },
+    "4773180": {
+      "rank": 5688,
+      "estimate": "<7k",
+      "name": "For The Cat! Sorcerer's Revenge",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     }
   }

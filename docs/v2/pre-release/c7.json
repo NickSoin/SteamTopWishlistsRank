@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 36,
   "entries": {
     "1119840": {
       "rank": 247,
@@ -171,6 +171,13 @@
       "name": "Collector's Cove",
       "releaseDate": "2026-03-12",
       "source": "historical"
+    },
+    "2902780": {
+      "rank": 7756,
+      "estimate": "<7k",
+      "name": "Ghost Villa",
+      "releaseDate": "2026-10-12",
+      "source": "tracked"
     },
     "3008740": {
       "rank": 18,

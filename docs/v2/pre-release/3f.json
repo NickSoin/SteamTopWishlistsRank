@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 34,
   "entries": {
     "546560": {
       "rank": 11,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "Live Translate",
       "releaseDate": "2026-06-20",
+      "source": "tracked"
+    },
+    "3906460": {
+      "rank": 1671,
+      "estimate": "15k+",
+      "name": "The Last Flight",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     },
     "4141710": {

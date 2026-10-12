@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 27,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 28,
   "entries": {
     "736590": {
       "rank": 75,
@@ -173,6 +173,13 @@
       "name": "UMIGARI | ウミガリ",
       "releaseDate": "2026-02-04",
       "source": "historical"
+    },
+    "3778610": {
+      "rank": 1441,
+      "estimate": "25k+",
+      "name": "Colorbound",
+      "releaseDate": "2026-10-12",
+      "source": "tracked"
     },
     "4113050": {
       "rank": 2291,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 37,
   "entries": {
     "863500": {
       "rank": 1011,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "The Ministry for Anomaly Observation",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4746890": {
+      "rank": 8061,
+      "estimate": "<7k",
+      "name": "Last Round at the End of the World",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     },
     "4883580": {

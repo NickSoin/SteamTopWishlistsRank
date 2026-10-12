@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 36,
   "entries": {
     "927350": {
       "rank": 30,
@@ -198,6 +198,13 @@
       "estimate": "7k+",
       "name": "KAZ",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "3746950": {
+      "rank": 2956,
+      "estimate": "7k+",
+      "name": "Life, the Universe, and Restaurants",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     },
     "3876710": {

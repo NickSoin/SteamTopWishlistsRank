@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 29,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 30,
   "entries": {
     "499180": {
       "rank": 937,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "Git Gud",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "3320430": {
+      "rank": 4226,
+      "estimate": "<7k",
+      "name": "Undercover with Nora",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     },
     "3357960": {

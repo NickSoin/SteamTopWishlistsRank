@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 42,
   "entries": {
     "538030": {
       "rank": 87,
@@ -260,6 +260,13 @@
       "estimate": "15k+",
       "name": "Asterika: Phantom Rose Refrain",
       "releaseDate": "2026-09-02",
+      "source": "tracked"
+    },
+    "3851680": {
+      "rank": 2330,
+      "estimate": "7k+",
+      "name": "The Doll Shop",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     },
     "3954990": {

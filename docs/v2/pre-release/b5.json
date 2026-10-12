@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 40,
   "entries": {
     "789150": {
       "rank": 34,
@@ -226,6 +226,13 @@
       "name": "FAIRY TAIL 2",
       "releaseDate": "2024-12-11",
       "source": "historical"
+    },
+    "3032970": {
+      "rank": 3837,
+      "estimate": "<7k",
+      "name": "HYPERFIGHT 2",
+      "releaseDate": "2026-10-12",
+      "source": "tracked"
     },
     "3129050": {
       "rank": 3870,

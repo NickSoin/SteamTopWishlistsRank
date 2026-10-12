@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 38,
   "entries": {
     "511280": {
       "rank": 886,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Pickochet",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4301410": {
+      "rank": 6692,
+      "estimate": "<7k",
+      "name": "Contract Cooks",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     },
     "4429930": {

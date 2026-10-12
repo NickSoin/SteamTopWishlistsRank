@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 35,
   "entries": {
     "758690": {
       "rank": 7,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Ballatory",
       "releaseDate": "2026-08-10",
+      "source": "tracked"
+    },
+    "4080520": {
+      "rank": 1660,
+      "estimate": "15k+",
+      "name": "Horns of Deliverance",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     },
     "4285110": {

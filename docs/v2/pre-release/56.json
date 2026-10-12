@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 30,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 31,
   "entries": {
     "610370": {
       "rank": 18,
@@ -191,6 +191,13 @@
       "estimate": "25k+",
       "name": "FRUKT",
       "releaseDate": "2026-09-24",
+      "source": "tracked"
+    },
+    "4229480": {
+      "rank": 3694,
+      "estimate": "<7k",
+      "name": "Space Manager",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     },
     "4513480": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T06:39:53.938Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-12T20:17:42.948Z",
+  "entryCount": 37,
   "entries": {
     "412020": {
       "rank": 3,
@@ -235,6 +235,13 @@
       "estimate": "<7k",
       "name": "Kindawn: The Parish Remembers",
       "releaseDate": "2026-08-05",
+      "source": "tracked"
+    },
+    "4612950": {
+      "rank": 7093,
+      "estimate": "<7k",
+      "name": "Tidy Backpack: In the Faraway Lands",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     },
     "4651120": {
