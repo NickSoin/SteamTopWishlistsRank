@@ -1,86 +1,91 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-11T16:48:19.581Z",
-  "entryCount": 16,
+  "updatedAt": "2026-10-11T23:49:19.236Z",
+  "entryCount": 17,
   "entries": {
     "904510": {
-      "rank": 1444,
+      "rank": 1446,
       "estimate": "25k+",
       "name": "ARTIFICIAL"
     },
     "1418380": {
-      "rank": 3840,
+      "rank": 3847,
       "estimate": "<7k",
       "name": "Forester Simulator"
     },
     "1707680": {
-      "rank": 1024,
+      "rank": 1027,
       "estimate": "25k+",
       "name": "Referee Simulator"
     },
+    "1890780": {
+      "rank": 1906,
+      "estimate": "15k+",
+      "name": "Szrot"
+    },
     "2118890": {
-      "rank": 1723,
+      "rank": 1725,
       "estimate": "15k+",
       "name": "Backrooms VHS"
     },
     "2134720": {
-      "rank": 1724,
+      "rank": 1726,
       "estimate": "15k+",
       "name": "Stormbinders"
     },
     "2229910": {
-      "rank": 2441,
+      "rank": 2445,
       "estimate": "7k+",
       "name": "Demiurgos"
     },
     "3154150": {
-      "rank": 3555,
+      "rank": 3560,
       "estimate": "<7k",
       "name": "Spook-A-Boo"
     },
     "3279330": {
-      "rank": 3674,
+      "rank": 3677,
       "estimate": "<7k",
       "name": "Home Wars: Battlefield"
     },
     "3398880": {
-      "rank": 3344,
+      "rank": 3347,
       "estimate": "<7k",
       "name": "Castle V Castle"
     },
     "3570350": {
-      "rank": 2501,
+      "rank": 2507,
       "estimate": "7k+",
       "name": "Silkgrove"
     },
     "3730680": {
-      "rank": 2686,
+      "rank": 2688,
       "estimate": "7k+",
       "name": "Table Tactics: physics-driven tabletop battles"
     },
     "3746560": {
-      "rank": 1577,
+      "rank": 1581,
       "estimate": "15k+",
       "name": "Ethernia"
     },
     "3798840": {
-      "rank": 2436,
+      "rank": 2438,
       "estimate": "7k+",
       "name": "Reytrieve Odyssey"
     },
     "4060650": {
-      "rank": 5295,
+      "rank": 5303,
       "estimate": "<7k",
       "name": "Serena: Yellow Creek"
     },
     "4614080": {
-      "rank": 98,
+      "rank": 99,
       "estimate": "300k+",
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 609,
+      "rank": 611,
       "estimate": "40k+",
       "name": "Project Rabbit"
     }
