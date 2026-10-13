@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-13T02:10:08.392Z",
-  "entryCount": 43,
+  "updatedAt": "2026-10-13T12:48:46.733Z",
+  "entryCount": 44,
   "entries": {
     "812910": {
       "rank": 1037,
@@ -291,6 +291,13 @@
       "estimate": "<7k",
       "name": "WinHack 95",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4725520": {
+      "rank": 6034,
+      "estimate": "<7k",
+      "name": "Atlantis Fantasy: Reborn",
+      "releaseDate": "2026-10-13",
       "source": "tracked"
     },
     "4740600": {

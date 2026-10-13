@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-13T02:10:08.392Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-13T12:48:46.733Z",
+  "entryCount": 40,
   "entries": {
     "783550": {
       "rank": 4791,
@@ -194,6 +194,13 @@
       "name": "Pixel Cafe",
       "releaseDate": "2023-11-30",
       "source": "historical"
+    },
+    "2490960": {
+      "rank": 2890,
+      "estimate": "7k+",
+      "name": "Ghost hunter",
+      "releaseDate": "2026-10-12",
+      "source": "tracked"
     },
     "2618360": {
       "rank": 1127,
