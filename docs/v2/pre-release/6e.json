@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T20:17:42.948Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-13T02:10:08.392Z",
+  "entryCount": 37,
   "entries": {
     "669330": {
       "rank": 422,
@@ -254,6 +254,13 @@
       "estimate": "40k+",
       "name": "Darkest Dungeon®: The Fire's Edge",
       "releaseDate": "2026-08-18",
+      "source": "tracked"
+    },
+    "4991240": {
+      "rank": 1298,
+      "estimate": "25k+",
+      "name": "Witch Cabin Cleanup",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     }
   }

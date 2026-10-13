@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T20:17:42.948Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-13T02:10:08.392Z",
+  "entryCount": 34,
   "entries": {
     "429380": {
       "rank": 36,
@@ -211,6 +211,13 @@
       "estimate": "80k+",
       "name": "The Division Resurgence",
       "releaseDate": "2026-08-05",
+      "source": "tracked"
+    },
+    "3859210": {
+      "rank": 2137,
+      "estimate": "7k+",
+      "name": "Rhythm Animal Café",
+      "releaseDate": "2026-10-12",
       "source": "tracked"
     },
     "4317900": {

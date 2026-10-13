@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-12T20:17:42.948Z",
-  "entryCount": 44,
+  "updatedAt": "2026-10-13T02:10:08.392Z",
+  "entryCount": 45,
   "entries": {
     "694990": {
       "rank": 49,
@@ -245,6 +245,13 @@
       "name": "House Flipper 2 - Scooby-Doo DLC",
       "releaseDate": "2025-10-23",
       "source": "historical"
+    },
+    "3863740": {
+      "rank": 7830,
+      "estimate": "<7k",
+      "name": "NeeNee Deskpals",
+      "releaseDate": "2026-10-12",
+      "source": "tracked"
     },
     "4177110": {
       "rank": 5039,
