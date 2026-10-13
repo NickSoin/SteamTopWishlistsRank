@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-13T12:48:46.733Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-13T20:45:00.684Z",
+  "entryCount": 35,
   "entries": {
     "1231560": {
       "rank": 269,
@@ -187,11 +187,11 @@
       "source": "tracked"
     },
     "2828710": {
-      "rank": 36,
+      "rank": 32,
       "estimate": "600k+",
       "name": "Valor Mortis",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-10-13",
+      "source": "tracked"
     },
     "3139440": {
       "rank": 412,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "THE GUTTER",
       "releaseDate": "2026-09-02",
+      "source": "tracked"
+    },
+    "4169060": {
+      "rank": 4778,
+      "estimate": "<7k",
+      "name": "Office Manager",
+      "releaseDate": "2026-10-13",
       "source": "tracked"
     },
     "4270610": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-13T12:48:46.733Z",
-  "entryCount": 47,
+  "updatedAt": "2026-10-13T20:45:00.684Z",
+  "entryCount": 48,
   "entries": {
     "595500": {
       "rank": 511,
@@ -307,6 +307,13 @@
       "estimate": "7k+",
       "name": "Kimbap Heaven Simulator",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4516190": {
+      "rank": 1071,
+      "estimate": "25k+",
+      "name": "My Beautiful Faraway, Please Don't Be Cruel To Me",
+      "releaseDate": "2026-10-13",
       "source": "tracked"
     },
     "4552990": {

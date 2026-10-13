@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-13T12:48:46.733Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-13T20:45:00.684Z",
+  "entryCount": 33,
   "entries": {
     "803330": {
       "rank": 19,
@@ -191,6 +191,13 @@
       "estimate": "80k+",
       "name": "Funnel Runners",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "3977340": {
+      "rank": 1564,
+      "estimate": "15k+",
+      "name": "Poly Fighter",
+      "releaseDate": "2026-10-13",
       "source": "tracked"
     },
     "3992240": {

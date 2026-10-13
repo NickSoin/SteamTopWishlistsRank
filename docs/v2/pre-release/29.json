@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-13T12:48:46.733Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-13T20:45:00.684Z",
+  "entryCount": 37,
   "entries": {
     "927350": {
       "rank": 30,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "Airport Contraband: Prologue",
       "releaseDate": "2026-08-27",
+      "source": "tracked"
+    },
+    "3314580": {
+      "rank": 185,
+      "estimate": "200k+",
+      "name": "Trash Day",
+      "releaseDate": "2026-10-13",
       "source": "tracked"
     },
     "3396560": {

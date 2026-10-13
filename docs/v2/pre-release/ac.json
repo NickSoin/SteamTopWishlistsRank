@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-13T12:48:46.733Z",
-  "entryCount": 29,
+  "updatedAt": "2026-10-13T20:45:00.684Z",
+  "entryCount": 30,
   "entries": {
     "977510": {
       "rank": 1079,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "White Ward",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "4624140": {
+      "rank": 9246,
+      "estimate": "<7k",
+      "name": "Murder Castle",
+      "releaseDate": "2026-10-13",
       "source": "tracked"
     },
     "4755370": {

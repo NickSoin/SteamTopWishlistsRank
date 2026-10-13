@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-13T12:48:46.733Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-13T20:45:00.684Z",
+  "entryCount": 39,
   "entries": {
     "511280": {
       "rank": 886,
@@ -216,6 +216,13 @@
       "estimate": "<7k",
       "name": "Orbital",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "3975830": {
+      "rank": 2965,
+      "estimate": "7k+",
+      "name": "ROLLA",
+      "releaseDate": "2026-10-13",
       "source": "tracked"
     },
     "4275920": {

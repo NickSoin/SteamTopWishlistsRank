@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-13T12:48:46.733Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-13T20:45:00.684Z",
+  "entryCount": 35,
   "entries": {
     "1091870": {
       "rank": 1362,
@@ -227,6 +227,13 @@
       "name": "BOKURA: planet",
       "releaseDate": "2025-04-24",
       "source": "historical"
+    },
+    "3219030": {
+      "rank": 96,
+      "estimate": "300k+",
+      "name": "Planet Zoo 2",
+      "releaseDate": "2026-10-13",
+      "source": "tracked"
     },
     "3841510": {
       "rank": 288,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-13T12:48:46.733Z",
-  "entryCount": 22,
+  "updatedAt": "2026-10-13T20:45:00.684Z",
+  "entryCount": 23,
   "entries": {
     "849100": {
       "rank": 19,
@@ -130,6 +130,13 @@
       "estimate": "7k+",
       "name": "Cyan Heart",
       "releaseDate": "2026-10-08",
+      "source": "tracked"
+    },
+    "3846830": {
+      "rank": 177,
+      "estimate": "200k+",
+      "name": "Total War: SHOGUN 2 - Complete Edition",
+      "releaseDate": "2026-10-13",
       "source": "tracked"
     },
     "3878440": {

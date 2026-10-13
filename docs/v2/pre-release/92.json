@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-13T12:48:46.733Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-13T20:45:00.684Z",
+  "entryCount": 34,
   "entries": {
     "979110": {
       "rank": 38,
@@ -163,6 +163,13 @@
       "estimate": "7k+",
       "name": "Panzer Deck",
       "releaseDate": "2026-09-22",
+      "source": "tracked"
+    },
+    "3878090": {
+      "rank": 6273,
+      "estimate": "<7k",
+      "name": "Pixel Survivors: Defense",
+      "releaseDate": "2026-10-13",
       "source": "tracked"
     },
     "4018020": {
