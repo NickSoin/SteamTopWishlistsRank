@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-14T05:20:00.204Z",
-  "entryCount": 12,
+  "updatedAt": "2026-10-14T10:24:11.211Z",
+  "entryCount": 13,
   "entries": {
     "1389140": {
-      "rank": 5212,
+      "rank": 5214,
       "estimate": "<7k",
       "name": "Jury Trial"
     },
     "1924600": {
-      "rank": 543,
+      "rank": 542,
       "estimate": "40k+",
       "name": "March of Giants"
     },
     "2007430": {
-      "rank": 2744,
+      "rank": 2743,
       "estimate": "7k+",
       "name": "Blast Cats"
     },
@@ -25,9 +25,14 @@
       "name": "Mariachi Legends"
     },
     "2946140": {
-      "rank": 2218,
+      "rank": 2219,
       "estimate": "7k+",
       "name": "Windpunk"
+    },
+    "3169300": {
+      "rank": 3904,
+      "estimate": "<7k",
+      "name": "Rainchaser"
     },
     "3188510": {
       "rank": 1896,
@@ -40,7 +45,7 @@
       "name": "THE LIFT: Supernatural Handyman Simulator"
     },
     "3732830": {
-      "rank": 4252,
+      "rank": 4251,
       "estimate": "<7k",
       "name": "Dark Cards of Candlewood"
     },
@@ -50,17 +55,17 @@
       "name": "Atomic Heart 2"
     },
     "4420660": {
-      "rank": 2864,
+      "rank": 2861,
       "estimate": "7k+",
       "name": "ZONE L.O.S.T."
     },
     "4581370": {
-      "rank": 2382,
+      "rank": 2379,
       "estimate": "7k+",
       "name": "Where Dolls Hang"
     },
     "4915490": {
-      "rank": 4561,
+      "rank": 4560,
       "estimate": "<7k",
       "name": "MoonHack"
     }

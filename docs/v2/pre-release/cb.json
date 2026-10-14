@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-14T05:20:00.204Z",
-  "entryCount": 23,
+  "updatedAt": "2026-10-14T10:24:11.211Z",
+  "entryCount": 24,
   "entries": {
     "898890": {
       "rank": 231,
@@ -122,6 +122,13 @@
       "name": "Wartales - Contract: The Pits",
       "releaseDate": "2024-08-26",
       "source": "historical"
+    },
+    "3343920": {
+      "rank": 2304,
+      "estimate": "7k+",
+      "name": "My Recycling Center 2",
+      "releaseDate": "2026-10-14",
+      "source": "tracked"
     },
     "3508260": {
       "rank": 7917,

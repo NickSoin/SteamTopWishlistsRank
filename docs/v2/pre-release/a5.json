@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-14T05:20:00.204Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-14T10:24:11.211Z",
+  "entryCount": 34,
   "entries": {
     "299970": {
       "rank": 34,
@@ -221,6 +221,13 @@
       "estimate": "7k+",
       "name": "CPM 2",
       "releaseDate": "2026-10-08",
+      "source": "tracked"
+    },
+    "4315830": {
+      "rank": 3428,
+      "estimate": "<7k",
+      "name": "Skibidi Wars",
+      "releaseDate": "2026-10-13",
       "source": "tracked"
     },
     "4326520": {
