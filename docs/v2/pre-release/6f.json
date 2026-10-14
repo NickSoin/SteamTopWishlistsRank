@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-13T20:45:00.684Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-14T05:20:00.204Z",
+  "entryCount": 39,
   "entries": {
     "918570": {
       "rank": 38,
@@ -210,6 +210,13 @@
       "name": "Super Meat Boy 3D",
       "releaseDate": "2026-03-31",
       "source": "historical"
+    },
+    "3299050": {
+      "rank": 348,
+      "estimate": "80k+",
+      "name": "No Such Place",
+      "releaseDate": "2026-10-14",
+      "source": "tracked"
     },
     "3483510": {
       "rank": 145,
