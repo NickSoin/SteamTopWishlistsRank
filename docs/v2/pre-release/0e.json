@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-14T10:24:11.211Z",
+  "updatedAt": "2026-10-14T15:32:04.390Z",
   "entryCount": 42,
   "entries": {
     "529340": {
@@ -84,11 +84,11 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4437747060842354055"
     },
     "1675260": {
-      "rank": 218,
+      "rank": 317,
       "estimate": "80k+",
       "name": "Among the Trolls",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-10-14",
+      "source": "tracked"
     },
     "1677770": {
       "rank": 890,

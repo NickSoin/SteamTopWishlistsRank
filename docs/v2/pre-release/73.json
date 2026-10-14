@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-14T10:24:11.211Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-14T15:32:04.390Z",
+  "entryCount": 32,
   "entries": {
     "427940": {
       "rank": 24,
@@ -191,6 +191,13 @@
       "estimate": "15k+",
       "name": "Gunstoppable",
       "releaseDate": "2026-08-05",
+      "source": "tracked"
+    },
+    "4098030": {
+      "rank": 1067,
+      "estimate": "25k+",
+      "name": "Shipping Store Simulator 2037",
+      "releaseDate": "2026-10-14",
       "source": "tracked"
     },
     "4252830": {

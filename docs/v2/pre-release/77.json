@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-14T10:24:11.211Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-14T15:32:04.390Z",
+  "entryCount": 37,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -68,6 +68,13 @@
       "releaseDate": "2025-06-19",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1797185861769883"
+    },
+    "1617120": {
+      "rank": 1489,
+      "estimate": "25k+",
+      "name": "Good Heavens!",
+      "releaseDate": "2026-10-14",
+      "source": "tracked"
     },
     "1682290": {
       "rank": 2370,

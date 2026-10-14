@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-14T10:24:11.211Z",
-  "entryCount": 22,
+  "updatedAt": "2026-10-14T15:32:04.390Z",
+  "entryCount": 23,
   "entries": {
     "565760": {
-      "rank": 5009,
+      "rank": 5010,
       "estimate": "<7k",
       "name": "Escape the Loop"
     },
     "1606970": {
-      "rank": 853,
+      "rank": 850,
       "estimate": "40k+",
       "name": "Ronin Trail"
     },
     "1899550": {
-      "rank": 2540,
+      "rank": 2535,
       "estimate": "7k+",
       "name": "Knights of the Deep"
     },
@@ -27,94 +27,99 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1808601382522882"
     },
     "1979810": {
-      "rank": 471,
+      "rank": 469,
       "estimate": "80k+",
       "name": "AdventureQuest Worlds: Infinity"
     },
     "2211630": {
-      "rank": 1747,
+      "rank": 1741,
       "estimate": "15k+",
       "name": "Duskers 2.0"
     },
     "2538300": {
-      "rank": 4802,
+      "rank": 4799,
       "estimate": "<7k",
       "name": "SCP: Contamination"
     },
     "2749070": {
-      "rank": 2522,
+      "rank": 2519,
       "estimate": "7k+",
       "name": "Sword and Fairy: Far Beyond Time"
     },
     "2791970": {
-      "rank": 2885,
+      "rank": 2880,
       "estimate": "7k+",
       "name": "Delivery Driver Service"
     },
     "2809220": {
-      "rank": 1840,
+      "rank": 1836,
       "estimate": "15k+",
       "name": "Entropos"
     },
     "2985520": {
-      "rank": 2673,
+      "rank": 2668,
       "estimate": "7k+",
       "name": "The Player Who Can't Level Up"
     },
     "3137010": {
-      "rank": 5467,
+      "rank": 5465,
       "estimate": "<7k",
       "name": "Meat Engine"
     },
     "3241560": {
-      "rank": 5277,
+      "rank": 5276,
       "estimate": "<7k",
       "name": "Tossdown"
     },
     "3564490": {
-      "rank": 295,
+      "rank": 294,
       "estimate": "80k+",
       "name": "Hell Express"
     },
     "3596730": {
-      "rank": 3540,
+      "rank": 3534,
       "estimate": "<7k",
       "name": "Painted Kingdoms: Tower Defense & Firefighting"
     },
     "3620240": {
-      "rank": 1943,
+      "rank": 1938,
       "estimate": "15k+",
       "name": "Yots"
     },
     "3722850": {
-      "rank": 4691,
+      "rank": 4688,
       "estimate": "<7k",
       "name": "Desktropolis"
     },
     "3765640": {
-      "rank": 279,
+      "rank": 278,
       "estimate": "80k+",
       "name": "Car For Sale Together"
     },
     "3910750": {
-      "rank": 3097,
+      "rank": 3095,
       "estimate": "<7k",
       "name": "DONUT PANIC"
     },
     "3955960": {
-      "rank": 4716,
+      "rank": 4693,
       "estimate": "<7k",
       "name": "Chant Wizard"
     },
     "4259360": {
-      "rank": 667,
+      "rank": 664,
       "estimate": "40k+",
       "name": "Milki Delivery"
     },
     "4327300": {
-      "rank": 1526,
+      "rank": 1519,
       "estimate": "15k+",
       "name": "Silicon Gate"
+    },
+    "4553330": {
+      "rank": 4061,
+      "estimate": "<7k",
+      "name": "Hemlotrion: Broken Mirror"
     }
   }
 }

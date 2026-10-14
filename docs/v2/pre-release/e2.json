@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-14T10:24:11.211Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-14T15:32:04.390Z",
+  "entryCount": 34,
   "entries": {
     "975370": {
       "rank": 8,
@@ -235,6 +235,13 @@
       "estimate": "15k+",
       "name": "Tung Tung Tung Survival",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "5067360": {
+      "rank": 1460,
+      "estimate": "25k+",
+      "name": "Thank You Bus Driver",
+      "releaseDate": "2026-10-14",
       "source": "tracked"
     }
   }

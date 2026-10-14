@@ -1,76 +1,81 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-14T10:24:11.211Z",
-  "entryCount": 26,
+  "updatedAt": "2026-10-14T15:32:04.390Z",
+  "entryCount": 27,
   "entries": {
     "1510710": {
-      "rank": 5162,
+      "rank": 5158,
       "estimate": "<7k",
       "name": "dev_hell"
     },
     "1557140": {
-      "rank": 1758,
+      "rank": 1755,
       "estimate": "15k+",
       "name": "What Lives Below"
     },
     "1667010": {
-      "rank": 5656,
+      "rank": 5657,
       "estimate": "<7k",
       "name": "Pirates Job"
     },
     "2085640": {
-      "rank": 5568,
+      "rank": 5573,
       "estimate": "<7k",
       "name": "Dreamy Love"
     },
     "2097940": {
-      "rank": 2924,
+      "rank": 2921,
       "estimate": "7k+",
       "name": "Theatre of War: Rearmed"
     },
     "2184280": {
-      "rank": 975,
+      "rank": 973,
       "estimate": "40k+",
       "name": "Vexlands"
     },
     "2388440": {
-      "rank": 2592,
+      "rank": 2588,
       "estimate": "7k+",
       "name": "Battlecore Robots"
     },
     "2401280": {
-      "rank": 2240,
+      "rank": 2235,
       "estimate": "7k+",
       "name": "Forastero"
     },
     "2602070": {
-      "rank": 4575,
+      "rank": 4574,
       "estimate": "<7k",
       "name": "VanimateApp"
     },
     "2682980": {
-      "rank": 2546,
+      "rank": 2541,
       "estimate": "7k+",
       "name": "The Bunny Graveyard II"
     },
     "2814880": {
-      "rank": 1792,
+      "rank": 1786,
       "estimate": "15k+",
       "name": "Synchro"
     },
     "3045520": {
-      "rank": 2108,
+      "rank": 2102,
       "estimate": "7k+",
       "name": "Sea Sniffers"
     },
+    "3166630": {
+      "rank": 5700,
+      "estimate": "<7k",
+      "name": "MARS"
+    },
     "3380100": {
-      "rank": 1545,
+      "rank": 1542,
       "estimate": "15k+",
       "name": "Estella"
     },
     "3596750": {
-      "rank": 4847,
+      "rank": 4843,
       "estimate": "<7k",
       "name": "Elegy of St. Godhrkar"
     },
@@ -80,22 +85,22 @@
       "name": "Euro Truck Simulator 2 - Iceland"
     },
     "3891020": {
-      "rank": 4996,
+      "rank": 4995,
       "estimate": "<7k",
       "name": "SRPG Studio EX"
     },
     "3925240": {
-      "rank": 5391,
+      "rank": 5387,
       "estimate": "<7k",
       "name": "Otaku Love Story"
     },
     "3976770": {
-      "rank": 1338,
+      "rank": 1332,
       "estimate": "25k+",
       "name": "Stranded Deep 2"
     },
     "4113000": {
-      "rank": 1725,
+      "rank": 1716,
       "estimate": "15k+",
       "name": "MELTY BLOOD: TWI-LUMINA"
     },
@@ -105,32 +110,32 @@
       "name": "泥舟と罪人"
     },
     "4245200": {
-      "rank": 4695,
+      "rank": 4664,
       "estimate": "<7k",
       "name": "Warhammer Blood Bowl - The Official Video Game"
     },
     "4468540": {
-      "rank": 3406,
+      "rank": 3402,
       "estimate": "<7k",
       "name": "It's About Pirates"
     },
     "4487060": {
-      "rank": 746,
+      "rank": 743,
       "estimate": "40k+",
       "name": "Northgard Battlegrounds"
     },
     "4578810": {
-      "rank": 1909,
+      "rank": 1894,
       "estimate": "15k+",
       "name": "MAke Drama : MAD"
     },
     "4905780": {
-      "rank": 1066,
+      "rank": 1061,
       "estimate": "25k+",
       "name": "The Apothecary Diaries: The False Imperial Brother"
     },
     "5189950": {
-      "rank": 1719,
+      "rank": 1707,
       "estimate": "15k+",
       "name": "Winx Club - Moonlight Quest"
     }
