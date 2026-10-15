@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T10:24:37.691Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-15T15:12:14.665Z",
+  "entryCount": 41,
   "entries": {
     "729000": {
       "rank": 169,
@@ -277,6 +277,13 @@
       "estimate": "<7k",
       "name": "Void Cargo: Equilibrium",
       "releaseDate": "2026-08-29",
+      "source": "tracked"
+    },
+    "4596990": {
+      "rank": 4423,
+      "estimate": "<7k",
+      "name": "Good Job",
+      "releaseDate": "2026-10-15",
       "source": "tracked"
     },
     "4729330": {

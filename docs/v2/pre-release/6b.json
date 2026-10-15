@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T10:24:37.691Z",
-  "entryCount": 23,
+  "updatedAt": "2026-10-15T15:12:14.665Z",
+  "entryCount": 24,
   "entries": {
     "1173790": {
       "rank": 382,
@@ -163,6 +163,13 @@
       "estimate": "25k+",
       "name": "SiNiSistar 2",
       "releaseDate": null,
+      "source": "tracked"
+    },
+    "4738910": {
+      "rank": 9728,
+      "estimate": "<7k",
+      "name": "Labyrinth A Way Out",
+      "releaseDate": "2026-10-15",
       "source": "tracked"
     }
   }

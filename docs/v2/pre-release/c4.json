@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T10:24:37.691Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-15T15:12:14.665Z",
+  "entryCount": 38,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "Player's New World",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "3845070": {
+      "rank": 764,
+      "estimate": "40k+",
+      "name": "Dupery: A Game of Solo Deduction",
+      "releaseDate": "2026-10-15",
       "source": "tracked"
     },
     "3996820": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T10:24:37.691Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-15T15:12:14.665Z",
+  "entryCount": 35,
   "entries": {
     "782250": {
       "rank": 368,
@@ -240,6 +240,13 @@
       "estimate": "<7k",
       "name": "SCREAM you LOSE",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4727860": {
+      "rank": 3836,
+      "estimate": "<7k",
+      "name": "War Footing",
+      "releaseDate": "2026-10-15",
       "source": "tracked"
     }
   }

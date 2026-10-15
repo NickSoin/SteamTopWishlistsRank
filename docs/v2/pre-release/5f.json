@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T10:24:37.691Z",
-  "entryCount": 25,
+  "updatedAt": "2026-10-15T15:12:14.665Z",
+  "entryCount": 26,
   "entries": {
     "1194810": {
       "rank": 21,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "Farm Manager World - Halloween Pack",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4461870": {
+      "rank": 5119,
+      "estimate": "<7k",
+      "name": "Reason and Rhyme",
+      "releaseDate": "2026-10-15",
       "source": "tracked"
     },
     "4725000": {

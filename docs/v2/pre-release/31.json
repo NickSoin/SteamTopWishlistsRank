@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T10:24:37.691Z",
-  "entryCount": 29,
+  "updatedAt": "2026-10-15T15:12:14.665Z",
+  "entryCount": 30,
   "entries": {
     "747660": {
       "rank": 193,
@@ -96,6 +96,13 @@
       "releaseDate": "2023-12-04",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4613399405959191726"
+    },
+    "2572060": {
+      "rank": 3793,
+      "estimate": "<7k",
+      "name": "Pixel Washer",
+      "releaseDate": "2026-10-15",
+      "source": "tracked"
     },
     "2655000": {
       "rank": 788,

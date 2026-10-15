@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T10:24:37.691Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-15T15:12:14.665Z",
+  "entryCount": 33,
   "entries": {
     "1336180": {
       "rank": 166,
@@ -164,6 +164,13 @@
       "name": "DATE A LIVE: Ren Dystopia",
       "releaseDate": "2024-09-05",
       "source": "historical"
+    },
+    "2794600": {
+      "rank": 8846,
+      "estimate": "<7k",
+      "name": "Echoes of the Unread",
+      "releaseDate": "2026-10-15",
+      "source": "tracked"
     },
     "2932930": {
       "rank": 27,

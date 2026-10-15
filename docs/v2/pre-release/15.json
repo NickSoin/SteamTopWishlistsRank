@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T10:24:37.691Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-15T15:12:14.665Z",
+  "entryCount": 39,
   "entries": {
     "467700": {
       "rank": 1203,
@@ -272,6 +272,13 @@
       "estimate": "7k+",
       "name": "The S.I.N. Phantom",
       "releaseDate": "2026-09-20",
+      "source": "tracked"
+    },
+    "5228920": {
+      "rank": 1185,
+      "estimate": "25k+",
+      "name": "Brick by Brick: Tidy Up the Small Town!",
+      "releaseDate": "2026-10-15",
       "source": "tracked"
     }
   }

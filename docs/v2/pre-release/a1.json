@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T10:24:37.691Z",
-  "entryCount": 47,
+  "updatedAt": "2026-10-15T15:12:14.665Z",
+  "entryCount": 48,
   "entries": {
     "619390": {
       "rank": 926,
@@ -296,6 +296,13 @@
       "releaseDate": "2025-09-12",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758648545"
+    },
+    "4049180": {
+      "rank": 256,
+      "estimate": "80k+",
+      "name": "Disney/Pixar Toy Story 3 Complete Edition",
+      "releaseDate": "2026-10-15",
+      "source": "tracked"
     },
     "4302940": {
       "rank": 4694,

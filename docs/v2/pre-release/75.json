@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T10:24:37.691Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-15T15:12:14.665Z",
+  "entryCount": 32,
   "entries": {
     "916350": {
       "rank": 1449,
@@ -17,6 +17,13 @@
       "name": "To The Rescue!",
       "releaseDate": "2021-11-02",
       "source": "historical"
+    },
+    "1003460": {
+      "rank": 2851,
+      "estimate": "7k+",
+      "name": "DESOLUS",
+      "releaseDate": "2026-10-15",
+      "source": "tracked"
     },
     "1080450": {
       "rank": 922,
