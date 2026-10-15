@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T05:14:49.590Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-15T10:24:37.691Z",
+  "entryCount": 41,
   "entries": {
     "628740": {
       "rank": 647,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Super Dark Deception - Chapter 2",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3064040": {
+      "rank": 3793,
+      "estimate": "<7k",
+      "name": "Bluey's Happy Snaps",
+      "releaseDate": "2026-10-14",
       "source": "tracked"
     },
     "3305840": {

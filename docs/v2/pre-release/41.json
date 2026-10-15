@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T05:14:49.590Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-15T10:24:37.691Z",
+  "entryCount": 39,
   "entries": {
     "338820": {
       "rank": 1245,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Cult of Shadows",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "3945720": {
+      "rank": 4540,
+      "estimate": "<7k",
+      "name": "Tribal Trouble: Resurrected",
+      "releaseDate": "2026-10-15",
       "source": "tracked"
     },
     "3998560": {

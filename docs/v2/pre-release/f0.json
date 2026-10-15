@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T05:14:49.590Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-15T10:24:37.691Z",
+  "entryCount": 42,
   "entries": {
     "721700": {
       "rank": 679,
@@ -246,6 +246,13 @@
       "estimate": "600k+",
       "name": "1666: Amsterdam",
       "releaseDate": "2026-08-25",
+      "source": "tracked"
+    },
+    "3955960": {
+      "rank": 4662,
+      "estimate": "<7k",
+      "name": "Chant Wizard",
+      "releaseDate": "2026-10-15",
       "source": "tracked"
     },
     "4091090": {

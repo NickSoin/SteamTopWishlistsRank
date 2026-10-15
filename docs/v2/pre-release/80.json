@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T05:14:49.590Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-15T10:24:37.691Z",
+  "entryCount": 42,
   "entries": {
     "1112390": {
       "rank": 3117,
@@ -243,11 +243,11 @@
       "source": "tracked"
     },
     "3816030": {
-      "rank": 37,
-      "estimate": "600k+",
+      "rank": 184,
+      "estimate": "200k+",
       "name": "DayZ Badlands",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-10-15",
+      "source": "tracked"
     },
     "4032350": {
       "rank": 1176,
@@ -282,6 +282,13 @@
       "estimate": "600k+",
       "name": "Graveyard Keeper 2",
       "releaseDate": "2026-09-22",
+      "source": "tracked"
+    },
+    "4554450": {
+      "rank": 7333,
+      "estimate": "<7k",
+      "name": "STAR WARS: Galactic Racer™ Pre-Order Bonus",
+      "releaseDate": "2026-10-06",
       "source": "tracked"
     },
     "4601350": {
