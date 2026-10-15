@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-14T23:36:43.214Z",
-  "entryCount": 28,
+  "updatedAt": "2026-10-15T05:14:49.590Z",
+  "entryCount": 29,
   "entries": {
     "747660": {
       "rank": 193,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "7 Nights with Vroombi",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4199960": {
+      "rank": 1317,
+      "estimate": "25k+",
+      "name": "The Jackbox Party Pack 12",
+      "releaseDate": "2026-10-14",
       "source": "tracked"
     },
     "4337210": {

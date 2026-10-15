@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-14T23:36:43.214Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-15T05:14:49.590Z",
+  "entryCount": 35,
   "entries": {
     "779340": {
       "rank": 5,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Dave.EXE",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4231820": {
+      "rank": 31,
+      "estimate": "600k+",
+      "name": "Castlevania: Belmont's Curse",
+      "releaseDate": "2026-10-14",
       "source": "tracked"
     },
     "4310440": {

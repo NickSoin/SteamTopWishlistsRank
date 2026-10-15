@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-14T23:36:43.214Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-15T05:14:49.590Z",
+  "entryCount": 37,
   "entries": {
     "261550": {
       "rank": 7,
@@ -215,6 +215,13 @@
       "name": "Solasta II",
       "releaseDate": "2026-03-12",
       "source": "historical"
+    },
+    "3591180": {
+      "rank": 1945,
+      "estimate": "15k+",
+      "name": "Harvest Moon®: Echoes of Teradea",
+      "releaseDate": "2026-10-14",
+      "source": "tracked"
     },
     "4051900": {
       "rank": 4340,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-14T23:36:43.214Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-15T05:14:49.590Z",
+  "entryCount": 37,
   "entries": {
     "485400": {
       "rank": 112,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "Isolation Edge",
       "releaseDate": "2026-09-30",
+      "source": "tracked"
+    },
+    "4642720": {
+      "rank": 7358,
+      "estimate": "<7k",
+      "name": "Unitra: Real-Time Voice Translation For Gamers",
+      "releaseDate": "2026-10-14",
       "source": "tracked"
     },
     "4733420": {

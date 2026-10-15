@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-14T23:36:43.214Z",
-  "entryCount": 45,
+  "updatedAt": "2026-10-15T05:14:49.590Z",
+  "entryCount": 46,
   "entries": {
     "694990": {
       "rank": 49,
@@ -300,6 +300,13 @@
       "estimate": "<7k",
       "name": "Kings Archer VR",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4474400": {
+      "rank": 9641,
+      "estimate": "<7k",
+      "name": "SWORD FLINGER",
+      "releaseDate": "2026-10-14",
       "source": "tracked"
     },
     "4613180": {
