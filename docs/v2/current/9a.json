@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-14T19:42:02.440Z",
-  "entryCount": 26,
+  "updatedAt": "2026-10-14T23:36:43.214Z",
+  "entryCount": 27,
   "entries": {
     "1012870": {
       "rank": 2956,
@@ -10,17 +10,17 @@
       "name": "Backpack Inspector"
     },
     "1255020": {
-      "rank": 5384,
+      "rank": 5387,
       "estimate": "<7k",
       "name": "An Elaborate History of Chess"
     },
     "1568520": {
-      "rank": 4870,
+      "rank": 4874,
       "estimate": "<7k",
       "name": "Blue June"
     },
     "1847850": {
-      "rank": 3944,
+      "rank": 3946,
       "estimate": "<7k",
       "name": "Myth Caller: The Nightmare Shaman"
     },
@@ -35,12 +35,12 @@
       "name": "Away Team"
     },
     "2194090": {
-      "rank": 3634,
+      "rank": 3636,
       "estimate": "<7k",
       "name": "Subspace Hunter Legacy"
     },
     "2275010": {
-      "rank": 1815,
+      "rank": 1818,
       "estimate": "15k+",
       "name": "Ardent Wilds"
     },
@@ -55,19 +55,24 @@
       "name": "Fat Goblins"
     },
     "2455380": {
-      "rank": 5541,
+      "rank": 5542,
       "estimate": "<7k",
       "name": "Vaulted"
     },
     "2557020": {
-      "rank": 5693,
+      "rank": 5697,
       "estimate": "<7k",
       "name": "Eon Rush"
     },
     "2591710": {
-      "rank": 5091,
+      "rank": 5094,
       "estimate": "<7k",
       "name": "Pirates of the Caribbean: Tides of War"
+    },
+    "2600920": {
+      "rank": 600,
+      "estimate": "40k+",
+      "name": "When Sirens Fall Silent"
     },
     "2841600": {
       "rank": 3161,
@@ -75,22 +80,22 @@
       "name": "The Vigilante Diaries"
     },
     "3115870": {
-      "rank": 566,
+      "rank": 565,
       "estimate": "40k+",
       "name": "TrophyRC"
     },
     "3546610": {
-      "rank": 1080,
+      "rank": 1078,
       "estimate": "25k+",
       "name": "Wielders of the Essence"
     },
     "3557160": {
-      "rank": 1437,
+      "rank": 1436,
       "estimate": "25k+",
       "name": "After ICEY"
     },
     "3639640": {
-      "rank": 4497,
+      "rank": 4496,
       "estimate": "<7k",
       "name": "Resurface"
     },
@@ -100,12 +105,12 @@
       "name": "KING's RAID RE:VERSE"
     },
     "3743260": {
-      "rank": 1010,
+      "rank": 1002,
       "estimate": "25k+",
       "name": "Virtue and a Sledgehammer"
     },
     "3936190": {
-      "rank": 2927,
+      "rank": 2929,
       "estimate": "7k+",
       "name": "Freshly Folded: Laundry Shop"
     },
@@ -120,17 +125,17 @@
       "name": "Sin or Suffer"
     },
     "4189120": {
-      "rank": 326,
+      "rank": 325,
       "estimate": "80k+",
       "name": "Debauchery & Magic"
     },
     "4258880": {
-      "rank": 961,
+      "rank": 960,
       "estimate": "40k+",
       "name": "Basement To The Sky"
     },
     "4509300": {
-      "rank": 4748,
+      "rank": 4744,
       "estimate": "<7k",
       "name": "Prinny Party: Going Overboard!"
     }
