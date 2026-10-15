@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T15:12:14.665Z",
-  "entryCount": 27,
+  "updatedAt": "2026-10-15T19:23:40.509Z",
+  "entryCount": 28,
   "entries": {
     "678390": {
       "rank": 662,
@@ -195,6 +195,13 @@
       "estimate": "<7k",
       "name": "Textorio",
       "releaseDate": "2026-10-10",
+      "source": "tracked"
+    },
+    "5167420": {
+      "rank": 3852,
+      "estimate": "<7k",
+      "name": "Mimic Busters",
+      "releaseDate": "2026-10-15",
       "source": "tracked"
     }
   }

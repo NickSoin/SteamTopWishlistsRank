@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T15:12:14.665Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-15T19:23:40.509Z",
+  "entryCount": 40,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -73,6 +73,13 @@
       "name": "Countess in Crimson",
       "releaseDate": "2023-11-11",
       "source": "historical"
+    },
+    "1486940": {
+      "rank": 3177,
+      "estimate": "<7k",
+      "name": "EarthX 2",
+      "releaseDate": "2026-10-15",
+      "source": "tracked"
     },
     "1525580": {
       "rank": 1261,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T15:12:14.665Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-15T19:23:40.509Z",
+  "entryCount": 38,
   "entries": {
     "771700": {
       "rank": 1063,
@@ -265,6 +265,13 @@
       "estimate": "<7k",
       "name": "Idle Immortal Sentinel",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "4954910": {
+      "rank": 68,
+      "estimate": "300k+",
+      "name": "Scam With Your Friends",
+      "releaseDate": "2026-10-15",
       "source": "tracked"
     }
   }

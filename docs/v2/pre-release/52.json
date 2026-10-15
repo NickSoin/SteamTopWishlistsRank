@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T15:12:14.665Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-15T19:23:40.509Z",
+  "entryCount": 39,
   "entries": {
     "914890": {
       "rank": 644,
@@ -208,6 +208,13 @@
       "name": "Final Outpost: Definitive Edition",
       "releaseDate": "2025-05-22",
       "source": "historical"
+    },
+    "3193920": {
+      "rank": 5269,
+      "estimate": "<7k",
+      "name": "Fatal Train",
+      "releaseDate": "2026-10-15",
+      "source": "tracked"
     },
     "3394800": {
       "rank": 3536,

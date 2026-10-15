@@ -3,17 +3,17 @@
   "shardAlgorithm": "fnv1a32-low8",
   "shardCount": 256,
   "trackingSince": "2026-05-15",
-  "generatedAt": "2026-10-15T15:12:14.665Z",
+  "generatedAt": "2026-10-15T19:23:40.509Z",
   "current": {
-    "updatedAt": "2026-10-15T15:12:14.665Z",
-    "entryCount": 5754
+    "updatedAt": "2026-10-15T19:23:40.509Z",
+    "entryCount": 5749
   },
   "released": {
-    "updatedAt": "2026-10-15T15:12:14.665Z",
-    "entryCount": 2911
+    "updatedAt": "2026-10-15T19:23:40.509Z",
+    "entryCount": 2921
   },
   "preRelease": {
-    "updatedAt": "2026-10-15T15:12:14.665Z",
-    "entryCount": 9071
+    "updatedAt": "2026-10-15T19:23:40.509Z",
+    "entryCount": 9081
   }
 }
