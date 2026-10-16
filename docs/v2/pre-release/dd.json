@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T04:59:24.116Z",
-  "entryCount": 28,
+  "updatedAt": "2026-10-16T10:02:28.765Z",
+  "entryCount": 29,
   "entries": {
     "615530": {
       "rank": 223,
@@ -103,6 +103,13 @@
       "name": "Escape Simulator: Portal Escape Chamber",
       "releaseDate": "2023-09-07",
       "source": "historical"
+    },
+    "2069070": {
+      "rank": 1477,
+      "estimate": "25k+",
+      "name": "Hay! One Billion!",
+      "releaseDate": "2026-10-16",
+      "source": "tracked"
     },
     "2078230": {
       "rank": 555,

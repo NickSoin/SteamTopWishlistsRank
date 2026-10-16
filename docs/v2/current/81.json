@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-16T04:59:24.116Z",
-  "entryCount": 18,
+  "updatedAt": "2026-10-16T10:02:28.765Z",
+  "entryCount": 19,
   "entries": {
     "989350": {
-      "rank": 5133,
+      "rank": 5132,
       "estimate": "<7k",
       "name": "Running Rogue"
     },
@@ -25,7 +25,7 @@
       "name": "Once,in Times of Chaos"
     },
     "1752210": {
-      "rank": 5753,
+      "rank": 5754,
       "estimate": "<7k",
       "name": "Red Embrace: Paradisus"
     },
@@ -37,7 +37,7 @@
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800991756305442"
     },
     "2390660": {
-      "rank": 5000,
+      "rank": 5002,
       "estimate": "<7k",
       "name": "Collapsed Galaxy 2"
     },
@@ -47,7 +47,7 @@
       "name": "POLYARIS"
     },
     "3653890": {
-      "rank": 3859,
+      "rank": 3835,
       "estimate": "<7k",
       "name": "SPRKLS.exe"
     },
@@ -57,7 +57,7 @@
       "name": "POSTAL 2 Redux"
     },
     "4528010": {
-      "rank": 3190,
+      "rank": 3182,
       "estimate": "<7k",
       "name": "Signal Veil"
     },
@@ -67,12 +67,12 @@
       "name": "Hard Worker"
     },
     "4712480": {
-      "rank": 4499,
+      "rank": 4500,
       "estimate": "<7k",
       "name": "The Grey Dream - Season 2"
     },
     "4770970": {
-      "rank": 4422,
+      "rank": 4416,
       "estimate": "<7k",
       "name": "Dark Side Void"
     },
@@ -87,12 +87,17 @@
       "name": "Afterworld"
     },
     "4941420": {
-      "rank": 5229,
+      "rank": 5195,
       "estimate": "<7k",
       "name": "Folk-Tography"
     },
+    "5016130": {
+      "rank": 5750,
+      "estimate": "<7k",
+      "name": "Warpack"
+    },
     "5317860": {
-      "rank": 4712,
+      "rank": 4690,
       "estimate": "<7k",
       "name": "Slavlands: Tribes at War"
     }

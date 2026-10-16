@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T04:59:24.116Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-16T10:02:28.765Z",
+  "entryCount": 43,
   "entries": {
     "307950": {
       "rank": 1484,
@@ -217,6 +217,13 @@
       "name": "Frontline Crisis",
       "releaseDate": "2024-08-14",
       "source": "historical"
+    },
+    "3196120": {
+      "rank": 1741,
+      "estimate": "15k+",
+      "name": "Mahjong, Sex & Girls",
+      "releaseDate": "2026-10-16",
+      "source": "tracked"
     },
     "3196850": {
       "rank": 3995,

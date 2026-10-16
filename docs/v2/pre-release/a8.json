@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T04:59:24.116Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-16T10:02:28.765Z",
+  "entryCount": 36,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -207,6 +207,13 @@
       "estimate": "80k+",
       "name": "Friendly Steps",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "4385780": {
+      "rank": 6428,
+      "estimate": "<7k",
+      "name": "Maldhalla",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     },
     "4398360": {
