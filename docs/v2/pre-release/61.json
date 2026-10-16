@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T10:02:28.765Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-16T15:00:20.407Z",
+  "entryCount": 35,
   "entries": {
     "374190": {
       "rank": 414,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "Magical Hellhound Lust",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4296120": {
+      "rank": 4672,
+      "estimate": "<7k",
+      "name": "The Little Land",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     },
     "4334840": {

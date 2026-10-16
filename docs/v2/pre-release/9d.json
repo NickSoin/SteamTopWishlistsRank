@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T10:02:28.765Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-16T15:00:20.407Z",
+  "entryCount": 35,
   "entries": {
     "536280": {
       "rank": 48,
@@ -192,6 +192,13 @@
       "name": "100 Crime Cats",
       "releaseDate": "2025-06-01",
       "source": "historical"
+    },
+    "3327120": {
+      "rank": 2288,
+      "estimate": "7k+",
+      "name": "Dreadline Express",
+      "releaseDate": "2026-10-16",
+      "source": "tracked"
     },
     "3624140": {
       "rank": 66,

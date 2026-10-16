@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T10:02:28.765Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-16T15:00:20.407Z",
+  "entryCount": 40,
   "entries": {
     "867210": {
       "rank": 90,
@@ -185,6 +185,13 @@
       "name": "Welcome to Paradise Island",
       "releaseDate": "2024-08-30",
       "source": "historical"
+    },
+    "3064500": {
+      "rank": 6714,
+      "estimate": "<7k",
+      "name": "DOBA - Dogs Battle Arena",
+      "releaseDate": "2026-10-16",
+      "source": "tracked"
     },
     "3115240": {
       "rank": 2497,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T10:02:28.765Z",
-  "entryCount": 50,
+  "updatedAt": "2026-10-16T15:00:20.407Z",
+  "entryCount": 51,
   "entries": {
     "440000": {
       "rank": 459,
@@ -178,6 +178,13 @@
       "name": "TOKYO PSYCHODEMIC",
       "releaseDate": "2024-05-29",
       "source": "historical"
+    },
+    "2425720": {
+      "rank": 2773,
+      "estimate": "7k+",
+      "name": "Shards of the Past",
+      "releaseDate": "2026-10-16",
+      "source": "tracked"
     },
     "2485270": {
       "rank": 1361,

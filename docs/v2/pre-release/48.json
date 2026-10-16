@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T10:02:28.765Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-16T15:00:20.407Z",
+  "entryCount": 35,
   "entries": {
     "1170080": {
       "rank": 986,
@@ -184,6 +184,13 @@
       "estimate": "15k+",
       "name": "Cohen 1939",
       "releaseDate": "2026-09-29",
+      "source": "tracked"
+    },
+    "3720580": {
+      "rank": 7611,
+      "estimate": "<7k",
+      "name": "Supermarket Guard Simulator",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     },
     "3835680": {
