@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T23:12:16.472Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-16T04:59:24.116Z",
+  "entryCount": 38,
   "entries": {
     "919360": {
       "rank": 151,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "The Prince of Tennis Doki Doki Survival ~eternal passion! Tie break ♡ game~",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "3939020": {
+      "rank": 2835,
+      "estimate": "7k+",
+      "name": "囚笼之诗",
+      "releaseDate": "2026-10-15",
       "source": "tracked"
     },
     "3971950": {

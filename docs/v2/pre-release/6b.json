@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T23:12:16.472Z",
-  "entryCount": 24,
+  "updatedAt": "2026-10-16T04:59:24.116Z",
+  "entryCount": 25,
   "entries": {
     "1173790": {
       "rank": 382,
@@ -122,6 +122,13 @@
       "name": "Day of the Shell",
       "releaseDate": "2025-07-29",
       "source": "historical"
+    },
+    "3755350": {
+      "rank": 1976,
+      "estimate": "15k+",
+      "name": "Alice Nation",
+      "releaseDate": "2026-10-15",
+      "source": "tracked"
     },
     "4009450": {
       "rank": 8241,

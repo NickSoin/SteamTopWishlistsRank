@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T23:12:16.472Z",
+  "updatedAt": "2026-10-16T04:59:24.116Z",
   "entryCount": 49,
   "entries": {
     "440000": {
@@ -138,11 +138,11 @@
       "source": "historical"
     },
     "2100270": {
-      "rank": 2181,
+      "rank": 2152,
       "estimate": "7k+",
       "name": "Succuquest",
       "releaseDate": "2026-10-15",
-      "source": "historical"
+      "source": "tracked"
     },
     "2124360": {
       "rank": 3106,
