@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-15T19:23:40.509Z",
-  "entryCount": 18,
+  "updatedAt": "2026-10-15T23:12:16.472Z",
+  "entryCount": 19,
   "entries": {
     "1057630": {
       "rank": 3489,
@@ -10,17 +10,17 @@
       "name": "Restaurant Renovator"
     },
     "1643800": {
-      "rank": 3594,
+      "rank": 3595,
       "estimate": "<7k",
       "name": "HeartLinks: A Puzzle Called Love"
     },
     "1748280": {
-      "rank": 665,
+      "rank": 664,
       "estimate": "40k+",
       "name": "Gate Zero"
     },
     "1930630": {
-      "rank": 3681,
+      "rank": 3685,
       "estimate": "<7k",
       "name": "Witch Maker"
     },
@@ -30,71 +30,76 @@
       "name": "Road Kings"
     },
     "2183820": {
-      "rank": 4257,
+      "rank": 4259,
       "estimate": "<7k",
       "name": "ノロワレサイクル"
     },
     "2365350": {
-      "rank": 5657,
+      "rank": 5662,
       "estimate": "<7k",
       "name": "Training and War Simulation (TWS)"
     },
     "2501620": {
-      "rank": 1579,
+      "rank": 1580,
       "estimate": "15k+",
       "name": "Kandyland"
     },
     "2731030": {
-      "rank": 817,
+      "rank": 815,
       "estimate": "40k+",
       "name": "Dungeon Automata",
       "actualWishlists": 20000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365112739"
     },
     "2932110": {
-      "rank": 3946,
+      "rank": 3949,
       "estimate": "<7k",
       "name": "Asbak"
     },
     "2938800": {
-      "rank": 2089,
+      "rank": 2088,
       "estimate": "7k+",
       "name": "SEED"
     },
     "3738890": {
-      "rank": 1002,
-      "estimate": "25k+",
+      "rank": 996,
+      "estimate": "40k+",
       "name": "Frontline Logistics: Isarian Warfare"
     },
     "3764730": {
-      "rank": 2945,
+      "rank": 2946,
       "estimate": "7k+",
       "name": "Winter Resort Simulator 3"
     },
     "3965960": {
-      "rank": 5638,
+      "rank": 5643,
       "estimate": "<7k",
       "name": "千禧年梦游指南 Guide to the Millennium Dawn"
     },
     "4050270": {
-      "rank": 1936,
+      "rank": 1937,
       "estimate": "15k+",
       "name": "The Blood Diary"
     },
     "4193690": {
-      "rank": 919,
+      "rank": 918,
       "estimate": "40k+",
       "name": "Terranigma"
     },
     "4580030": {
-      "rank": 3164,
+      "rank": 3165,
       "estimate": "<7k",
       "name": "Papaya Plaza"
     },
     "4697880": {
-      "rank": 1680,
+      "rank": 1678,
       "estimate": "15k+",
       "name": "Rock Band Simulator"
+    },
+    "5249200": {
+      "rank": 5489,
+      "estimate": "<7k",
+      "name": "Caves of Qud: Diaspora"
     }
   }
 }

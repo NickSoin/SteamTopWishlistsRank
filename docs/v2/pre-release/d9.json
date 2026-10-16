@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-15T19:23:40.509Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-15T23:12:16.472Z",
+  "entryCount": 32,
   "entries": {
     "974480": {
       "rank": 197,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Notebook Workshop",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4555270": {
+      "rank": 7279,
+      "estimate": "<7k",
+      "name": "Vanisha",
+      "releaseDate": "2026-10-15",
       "source": "tracked"
     },
     "4702540": {
