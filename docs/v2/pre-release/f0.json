@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-16T18:52:43.868Z",
+  "entryCount": 43,
   "entries": {
     "721700": {
       "rank": 679,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Tell Me Owl",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "3620240": {
+      "rank": 1930,
+      "estimate": "15k+",
+      "name": "Yots",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     },
     "3747200": {

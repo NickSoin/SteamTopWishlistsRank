@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-16T18:52:43.868Z",
+  "entryCount": 32,
   "entries": {
     "581660": {
       "rank": 122,
@@ -172,6 +172,13 @@
       "estimate": "15k+",
       "name": "Grail",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "3962420": {
+      "rank": 810,
+      "estimate": "40k+",
+      "name": "Futa Slug EX",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     },
     "4114220": {

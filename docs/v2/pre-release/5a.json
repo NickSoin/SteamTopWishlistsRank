@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-16T18:52:43.868Z",
+  "entryCount": 32,
   "entries": {
     "990630": {
       "rank": 139,
@@ -216,6 +216,13 @@
       "estimate": "25k+",
       "name": "Legion Was Here",
       "releaseDate": "2026-10-13",
+      "source": "tracked"
+    },
+    "3897080": {
+      "rank": 1768,
+      "estimate": "15k+",
+      "name": "Dimenshot",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     },
     "4681420": {

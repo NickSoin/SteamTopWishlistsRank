@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-16T18:52:43.868Z",
+  "entryCount": 43,
   "entries": {
     "1112390": {
       "rank": 3117,
@@ -254,6 +254,13 @@
       "estimate": "25k+",
       "name": "EA SPORTS™ College Football 27",
       "releaseDate": "2026-07-09",
+      "source": "tracked"
+    },
+    "4071650": {
+      "rank": 1187,
+      "estimate": "25k+",
+      "name": "Stream Train",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     },
     "4209750": {

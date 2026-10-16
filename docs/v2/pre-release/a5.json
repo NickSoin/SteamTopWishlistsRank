@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-16T18:52:43.868Z",
+  "entryCount": 35,
   "entries": {
     "299970": {
       "rank": 34,
@@ -173,6 +173,13 @@
       "name": "Exploding Kittens® 2",
       "releaseDate": "2024-08-12",
       "source": "historical"
+    },
+    "3080070": {
+      "rank": 1988,
+      "estimate": "15k+",
+      "name": "Order: The New Dawn",
+      "releaseDate": "2026-10-16",
+      "source": "tracked"
     },
     "3417940": {
       "rank": 4407,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
-  "entryCount": 30,
+  "updatedAt": "2026-10-16T18:52:43.868Z",
+  "entryCount": 31,
   "entries": {
     "977510": {
       "rank": 1079,
@@ -165,6 +165,13 @@
       "estimate": "25k+",
       "name": "Duo Quest",
       "releaseDate": "2026-09-16",
+      "source": "tracked"
+    },
+    "3660020": {
+      "rank": 4658,
+      "estimate": "<7k",
+      "name": "Horny Doctor",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     },
     "4089110": {

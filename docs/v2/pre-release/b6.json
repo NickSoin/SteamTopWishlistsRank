@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-16T18:52:43.868Z",
+  "entryCount": 38,
   "entries": {
     "780310": {
       "rank": 16,
@@ -237,6 +237,13 @@
       "estimate": "<7k",
       "name": "HYPERFIST",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "3695930": {
+      "rank": 614,
+      "estimate": "40k+",
+      "name": "Penguin Colony",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     },
     "3983860": {

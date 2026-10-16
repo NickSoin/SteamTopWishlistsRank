@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
+  "updatedAt": "2026-10-16T18:52:43.868Z",
   "entryCount": 29,
   "entries": {
     "488860": {
@@ -131,11 +131,11 @@
       "source": "historical"
     },
     "2295060": {
-      "rank": 28,
-      "estimate": "600k+",
+      "rank": 169,
+      "estimate": "200k+",
       "name": "Beyond These Stars",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-10-16",
+      "source": "tracked"
     },
     "2315690": {
       "rank": 1017,

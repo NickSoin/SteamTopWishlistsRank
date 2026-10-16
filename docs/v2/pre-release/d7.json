@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
-  "entryCount": 28,
+  "updatedAt": "2026-10-16T18:52:43.868Z",
+  "entryCount": 29,
   "entries": {
     "1083790": {
       "rank": 1387,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "Convent Chronicles: Revelation",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "4437770": {
+      "rank": 9689,
+      "estimate": "<7k",
+      "name": "迷失综合征 Disorientation Syndrome",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     },
     "4548050": {

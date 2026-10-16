@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
-  "entryCount": 20,
+  "updatedAt": "2026-10-16T18:52:43.868Z",
+  "entryCount": 21,
   "entries": {
     "699130": {
       "rank": 139,
@@ -142,6 +142,13 @@
       "estimate": "<7k",
       "name": "Airport City Transport Manager",
       "releaseDate": "2026-08-31",
+      "source": "tracked"
+    },
+    "5190030": {
+      "rank": 5592,
+      "estimate": "<7k",
+      "name": "Tidy Up the Town",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     }
   }

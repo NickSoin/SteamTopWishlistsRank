@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-16T18:52:43.868Z",
+  "entryCount": 38,
   "entries": {
     "669330": {
       "rank": 422,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Future? No Thanks!",
       "releaseDate": "2026-09-04",
+      "source": "tracked"
+    },
+    "4088850": {
+      "rank": 4771,
+      "estimate": "<7k",
+      "name": "A Game About Opening A Chest",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     },
     "4463660": {

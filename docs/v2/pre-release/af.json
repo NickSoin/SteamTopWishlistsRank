@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-16T18:52:43.868Z",
+  "entryCount": 44,
   "entries": {
     "714370": {
       "rank": 8,
@@ -249,6 +249,13 @@
       "releaseDate": "2026-07-19",
       "source": "tracked"
     },
+    "3826670": {
+      "rank": 1125,
+      "estimate": "25k+",
+      "name": "Flipping is Hard",
+      "releaseDate": "2026-10-16",
+      "source": "tracked"
+    },
     "3859430": {
       "rank": 8240,
       "estimate": "<7k",
@@ -289,6 +296,13 @@
       "estimate": "7k+",
       "name": "ONLY FARMS 🍑",
       "releaseDate": "2026-09-19",
+      "source": "tracked"
+    },
+    "4795560": {
+      "rank": 9484,
+      "estimate": "<7k",
+      "name": "Brand Nacht",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     },
     "4881490": {

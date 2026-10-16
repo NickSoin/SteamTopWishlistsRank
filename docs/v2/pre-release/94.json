@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T15:00:20.407Z",
-  "entryCount": 30,
+  "updatedAt": "2026-10-16T18:52:43.868Z",
+  "entryCount": 31,
   "entries": {
     "1209470": {
       "rank": 50,
@@ -94,6 +94,13 @@
       "name": "Let's School",
       "releaseDate": "2023-07-26",
       "source": "historical"
+    },
+    "2085660": {
+      "rank": 2541,
+      "estimate": "7k+",
+      "name": "Devices Tycoon",
+      "releaseDate": "2026-10-16",
+      "source": "tracked"
     },
     "2097230": {
       "rank": 374,
