@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-16T23:13:31.855Z",
-  "entryCount": 18,
+  "updatedAt": "2026-10-17T05:11:33.040Z",
+  "entryCount": 19,
   "entries": {
     "988960": {
       "rank": 2037,
@@ -10,7 +10,7 @@
       "name": "Silenced"
     },
     "1043460": {
-      "rank": 2043,
+      "rank": 2045,
       "estimate": "7k+",
       "name": "Anchor"
     },
@@ -20,7 +20,7 @@
       "name": "Estranged: Arctic Cold"
     },
     "2098690": {
-      "rank": 2998,
+      "rank": 2997,
       "estimate": "7k+",
       "name": "CALME"
     },
@@ -40,7 +40,7 @@
       "name": "The Last General"
     },
     "2731290": {
-      "rank": 1977,
+      "rank": 1979,
       "estimate": "15k+",
       "name": "Kanjozoku - Wangan Runners"
     },
@@ -55,22 +55,22 @@
       "name": "Crazy Taxi: World Tour"
     },
     "3327160": {
-      "rank": 3483,
+      "rank": 3482,
       "estimate": "<7k",
       "name": "Syndicate of Souls"
     },
     "3459340": {
-      "rank": 829,
+      "rank": 820,
       "estimate": "40k+",
       "name": "Lacey's Flash Games"
     },
     "3471290": {
-      "rank": 2239,
+      "rank": 2223,
       "estimate": "7k+",
       "name": "I’m a Wizard, But I Dig"
     },
     "3502620": {
-      "rank": 1919,
+      "rank": 1909,
       "estimate": "15k+",
       "name": "DEMONS' NIGHT FEVER"
     },
@@ -80,12 +80,12 @@
       "name": "Village 51"
     },
     "3962240": {
-      "rank": 1864,
+      "rank": 1838,
       "estimate": "15k+",
       "name": "Quiet Express: Cabin 909"
     },
     "4213930": {
-      "rank": 2059,
+      "rank": 2060,
       "estimate": "7k+",
       "name": "Salty Dogs"
     },
@@ -93,6 +93,11 @@
       "rank": 967,
       "estimate": "40k+",
       "name": "Everlasting Summer 2"
+    },
+    "4933700": {
+      "rank": 5750,
+      "estimate": "<7k",
+      "name": "Wasteland Gunsmith Simulator"
     }
   }
 }

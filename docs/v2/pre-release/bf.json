@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-16T23:13:31.855Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-17T05:11:33.040Z",
+  "entryCount": 33,
   "entries": {
     "482400": {
       "rank": 6,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Hard Edge - War Zone",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4771580": {
+      "rank": 2409,
+      "estimate": "7k+",
+      "name": "Five Nights with Maids",
+      "releaseDate": "2026-10-16",
       "source": "tracked"
     }
   }
