@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-16T18:52:43.868Z",
-  "entryCount": 19,
+  "updatedAt": "2026-10-16T23:13:31.855Z",
+  "entryCount": 20,
   "entries": {
     "2197330": {
-      "rank": 5177,
+      "rank": 5179,
       "estimate": "<7k",
       "name": "CARD NOVA HYPER"
     },
     "2441590": {
-      "rank": 1024,
+      "rank": 1026,
       "estimate": "25k+",
       "name": "Ark：Release"
     },
@@ -25,27 +25,27 @@
       "name": "Echoes of Extinction"
     },
     "2853430": {
-      "rank": 1328,
+      "rank": 1327,
       "estimate": "25k+",
       "name": "Ravenwood Academy: A Wizard101 Story"
     },
     "2938540": {
-      "rank": 4544,
+      "rank": 4545,
       "estimate": "<7k",
       "name": "Crownbreakers"
     },
     "3040930": {
-      "rank": 2988,
+      "rank": 2990,
       "estimate": "7k+",
       "name": "Just A Shadow Game"
     },
     "3078120": {
-      "rank": 4712,
+      "rank": 4717,
       "estimate": "<7k",
       "name": "Reality Drift"
     },
     "3151360": {
-      "rank": 1133,
+      "rank": 1130,
       "estimate": "25k+",
       "name": "Agni: Village of Calamity"
     },
@@ -55,7 +55,7 @@
       "name": "ORMOD: Directive"
     },
     "3510640": {
-      "rank": 4790,
+      "rank": 4793,
       "estimate": "<7k",
       "name": "Terra Trials"
     },
@@ -65,7 +65,7 @@
       "name": "Terrible Life Expectancy"
     },
     "3603740": {
-      "rank": 2635,
+      "rank": 2636,
       "estimate": "7k+",
       "name": "GCR4 Geoff Crammond"
     },
@@ -75,29 +75,34 @@
       "name": "Bruma"
     },
     "3933180": {
-      "rank": 1939,
+      "rank": 1940,
       "estimate": "15k+",
       "name": "Torii: Beyond The Gates"
     },
     "4214710": {
-      "rank": 3598,
+      "rank": 3599,
       "estimate": "<7k",
       "name": "Before the Sun Sets"
     },
     "4304060": {
-      "rank": 1525,
+      "rank": 1523,
       "estimate": "15k+",
       "name": "SONIC PICO PARK"
     },
     "4465510": {
-      "rank": 4106,
+      "rank": 4107,
       "estimate": "<7k",
       "name": "Nimaat"
     },
     "4690880": {
-      "rank": 4715,
+      "rank": 4710,
       "estimate": "<7k",
       "name": "Brand of Betrayal"
+    },
+    "5200620": {
+      "rank": 5419,
+      "estimate": "<7k",
+      "name": "Dungeonbound"
     }
   }
 }
