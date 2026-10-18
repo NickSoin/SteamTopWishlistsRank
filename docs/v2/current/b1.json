@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-17T22:27:39.783Z",
-  "entryCount": 23,
+  "updatedAt": "2026-10-18T04:50:21.953Z",
+  "entryCount": 24,
   "entries": {
     "1257610": {
       "rank": 88,
@@ -10,12 +10,12 @@
       "name": "Prison Architect 2"
     },
     "1473900": {
-      "rank": 4945,
+      "rank": 4950,
       "estimate": "<7k",
       "name": "Zealot"
     },
     "1966400": {
-      "rank": 5399,
+      "rank": 5404,
       "estimate": "<7k",
       "name": "Glitch Hunt"
     },
@@ -25,47 +25,47 @@
       "name": "Croakwood"
     },
     "2316420": {
-      "rank": 4392,
+      "rank": 4393,
       "estimate": "<7k",
       "name": "Track Day: From Street to Circuit"
     },
     "2564100": {
-      "rank": 1377,
+      "rank": 1376,
       "estimate": "25k+",
       "name": "Girl in Crimson Dress - Tales of the demons in the mountain"
     },
     "2571410": {
-      "rank": 996,
+      "rank": 997,
       "estimate": "40k+",
       "name": "500 CALIBER CONTRACTZ"
     },
     "3202250": {
-      "rank": 4216,
+      "rank": 4219,
       "estimate": "<7k",
       "name": "Bosslife Office Manager"
     },
     "3384570": {
-      "rank": 3059,
+      "rank": 3064,
       "estimate": "<7k",
       "name": "Planet Party Time"
     },
     "3585360": {
-      "rank": 5542,
+      "rank": 5467,
       "estimate": "<7k",
       "name": "Nether Abyss"
     },
     "3751860": {
-      "rank": 1639,
+      "rank": 1642,
       "estimate": "15k+",
       "name": "Heart of Mycelium"
     },
     "3947270": {
-      "rank": 3546,
+      "rank": 3547,
       "estimate": "<7k",
       "name": "Road Survival: Bigger on the Inside"
     },
     "3993200": {
-      "rank": 2454,
+      "rank": 2455,
       "estimate": "7k+",
       "name": "b-e-e-t-l-e: be right back!"
     },
@@ -80,17 +80,17 @@
       "name": "Your Painting, Sir"
     },
     "4146090": {
-      "rank": 4736,
+      "rank": 4739,
       "estimate": "<7k",
       "name": "Orken"
     },
     "4211060": {
-      "rank": 1390,
+      "rank": 1392,
       "estimate": "25k+",
       "name": "Meaningless Random Numbers"
     },
     "4239080": {
-      "rank": 1170,
+      "rank": 1171,
       "estimate": "25k+",
       "name": "Veil of the Soulstones"
     },
@@ -100,12 +100,12 @@
       "name": "SHORE"
     },
     "4300450": {
-      "rank": 4786,
+      "rank": 4697,
       "estimate": "<7k",
       "name": "Nyra and the Garden of Moros"
     },
     "4328320": {
-      "rank": 4621,
+      "rank": 4625,
       "estimate": "<7k",
       "name": "OVER SAND"
     },
@@ -115,9 +115,14 @@
       "name": "Totally Safe Railway Co. 🚂"
     },
     "4984870": {
-      "rank": 4066,
+      "rank": 4029,
       "estimate": "<7k",
       "name": "Selkie's Salvage&Co."
+    },
+    "5164820": {
+      "rank": 4924,
+      "estimate": "<7k",
+      "name": "Experiment 15"
     }
   }
 }
