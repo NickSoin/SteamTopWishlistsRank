@@ -1,61 +1,61 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-18T18:38:17.637Z",
-  "entryCount": 17,
+  "updatedAt": "2026-10-18T22:34:56.429Z",
+  "entryCount": 18,
   "entries": {
     "744200": {
-      "rank": 3576,
+      "rank": 3578,
       "estimate": "<7k",
       "name": "Altiros"
     },
     "1166890": {
-      "rank": 477,
+      "rank": 478,
       "estimate": "80k+",
       "name": "Necrofugitive"
     },
     "1218780": {
-      "rank": 3647,
+      "rank": 3652,
       "estimate": "<7k",
       "name": "Little Shop of Junk"
     },
     "1795090": {
-      "rank": 4753,
+      "rank": 4756,
       "estimate": "<7k",
       "name": "Monastery Builder"
     },
     "1883360": {
-      "rank": 1717,
+      "rank": 1721,
       "estimate": "15k+",
       "name": "The White Raven"
     },
     "1884660": {
-      "rank": 4933,
+      "rank": 4942,
       "estimate": "<7k",
       "name": "Echoes: A Transmissions Story"
     },
     "2482760": {
-      "rank": 1149,
+      "rank": 1146,
       "estimate": "25k+",
       "name": "Hunting Simulator 3"
     },
     "2523380": {
-      "rank": 1702,
+      "rank": 1706,
       "estimate": "15k+",
       "name": "Red Kiss"
     },
     "2651520": {
-      "rank": 2493,
+      "rank": 2494,
       "estimate": "7k+",
       "name": "Erotic Trial of the Alcummists"
     },
     "2792540": {
-      "rank": 3608,
+      "rank": 3612,
       "estimate": "<7k",
       "name": "Anima Keeper"
     },
     "3100690": {
-      "rank": 800,
+      "rank": 801,
       "estimate": "40k+",
       "name": "Dust & Diesel: Deadland Delivery"
     },
@@ -70,24 +70,29 @@
       "name": "Tiny Delivery"
     },
     "4006300": {
-      "rank": 5128,
+      "rank": 5130,
       "estimate": "<7k",
       "name": "Something Meaningful"
     },
     "4232910": {
-      "rank": 2785,
+      "rank": 2790,
       "estimate": "7k+",
       "name": "Crusader Kings III: Silk & Silver"
     },
     "4338490": {
-      "rank": 1834,
+      "rank": 1835,
       "estimate": "15k+",
       "name": "Tokyo Loves Tears"
     },
     "4529850": {
-      "rank": 1188,
+      "rank": 1191,
       "estimate": "25k+",
       "name": "Runeward Online"
+    },
+    "4785780": {
+      "rank": 5785,
+      "estimate": "<7k",
+      "name": "Ticker Panic: Stock Market Simulator"
     }
   }
 }
