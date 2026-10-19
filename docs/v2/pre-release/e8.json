@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-18T22:34:56.429Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-19T04:57:41.958Z",
+  "entryCount": 41,
   "entries": {
     "638990": {
       "rank": 135,
@@ -282,6 +282,13 @@
       "estimate": "<7k",
       "name": "Farmers Market",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "4694770": {
+      "rank": 8646,
+      "estimate": "<7k",
+      "name": "HELLBENT",
+      "releaseDate": "2026-10-18",
       "source": "tracked"
     }
   }
