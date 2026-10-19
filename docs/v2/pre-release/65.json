@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-19T11:12:32.284Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-19T20:54:18.343Z",
+  "entryCount": 42,
   "entries": {
     "301280": {
       "rank": 574,
@@ -215,6 +215,13 @@
       "name": "On Track",
       "releaseDate": "2024-07-31",
       "source": "historical"
+    },
+    "3445640": {
+      "rank": 1700,
+      "estimate": "15k+",
+      "name": "The Edge Of - Definitive Edition",
+      "releaseDate": "2026-10-19",
+      "source": "tracked"
     },
     "3493540": {
       "rank": 79,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-19T11:12:32.284Z",
-  "entryCount": 29,
+  "updatedAt": "2026-10-19T20:54:18.343Z",
+  "entryCount": 30,
   "entries": {
     "1083790": {
       "rank": 1387,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "Convent Chronicles: Revelation",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "4304900": {
+      "rank": 2551,
+      "estimate": "7k+",
+      "name": "Big Dig",
+      "releaseDate": "2026-10-19",
       "source": "tracked"
     },
     "4437770": {

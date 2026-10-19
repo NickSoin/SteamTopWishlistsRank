@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-19T11:12:32.284Z",
-  "entryCount": 48,
+  "updatedAt": "2026-10-19T20:54:18.343Z",
+  "entryCount": 49,
   "entries": {
     "619390": {
       "rank": 926,
@@ -286,6 +286,13 @@
       "estimate": "<7k",
       "name": "Steam & Iron. Battle of Port Arthur",
       "releaseDate": "2026-10-07",
+      "source": "tracked"
+    },
+    "3536520": {
+      "rank": 3155,
+      "estimate": "<7k",
+      "name": "Warding Witches",
+      "releaseDate": "2026-10-19",
       "source": "tracked"
     },
     "3602290": {
