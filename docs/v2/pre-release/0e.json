@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-19T20:54:18.343Z",
-  "entryCount": 43,
+  "updatedAt": "2026-10-20T05:28:03.837Z",
+  "entryCount": 44,
   "entries": {
     "529340": {
       "rank": 19,
@@ -96,6 +96,13 @@
       "name": "The Case of the Golden Idol",
       "releaseDate": "2022-10-13",
       "source": "historical"
+    },
+    "1761910": {
+      "rank": 934,
+      "estimate": "40k+",
+      "name": "Athanasia",
+      "releaseDate": "2026-10-19",
+      "source": "tracked"
     },
     "1771300": {
       "rank": 2,

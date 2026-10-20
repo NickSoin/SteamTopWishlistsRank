@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-19T20:54:18.343Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-20T05:28:03.837Z",
+  "entryCount": 37,
   "entries": {
     "292000": {
       "rank": 29,
@@ -253,6 +253,13 @@
       "estimate": "40k+",
       "name": "BOXROOM",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4813850": {
+      "rank": 4972,
+      "estimate": "<7k",
+      "name": "Stella Sora",
+      "releaseDate": "2026-10-19",
       "source": "tracked"
     },
     "4914610": {

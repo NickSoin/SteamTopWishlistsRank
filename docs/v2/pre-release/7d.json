@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-19T20:54:18.343Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-20T05:28:03.837Z",
+  "entryCount": 39,
   "entries": {
     "919360": {
       "rank": 151,
@@ -274,6 +274,13 @@
       "estimate": "<7k",
       "name": "開かないランドリー",
       "releaseDate": "2026-09-14",
+      "source": "tracked"
+    },
+    "4919380": {
+      "rank": 5340,
+      "estimate": "<7k",
+      "name": "Grand Theft Idiots",
+      "releaseDate": "2026-10-19",
       "source": "tracked"
     }
   }
