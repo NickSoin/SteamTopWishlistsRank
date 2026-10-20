@@ -1,16 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-20T05:28:03.837Z",
-  "entryCount": 22,
+  "updatedAt": "2026-10-20T10:23:04.798Z",
+  "entryCount": 23,
   "entries": {
     "1163160": {
-      "rank": 4588,
+      "rank": 4591,
       "estimate": "<7k",
       "name": "Ronin 2072"
     },
+    "1520600": {
+      "rank": 3101,
+      "estimate": "<7k",
+      "name": "Build and Discover: America"
+    },
     "1533060": {
-      "rank": 4374,
+      "rank": 4376,
       "estimate": "<7k",
       "name": "Winery Simulator"
     },
@@ -20,12 +25,12 @@
       "name": "Ayna: Shattered Truth"
     },
     "1983360": {
-      "rank": 4102,
+      "rank": 4106,
       "estimate": "<7k",
       "name": "Mana Valley"
     },
     "2745510": {
-      "rank": 4554,
+      "rank": 4555,
       "estimate": "<7k",
       "name": "GROWTH EXPERIMENT"
     },
@@ -35,7 +40,7 @@
       "name": "Peasant"
     },
     "3165340": {
-      "rank": 3118,
+      "rank": 3117,
       "estimate": "<7k",
       "name": "All Will Rise"
     },
@@ -45,12 +50,12 @@
       "name": "A Passing in the Night"
     },
     "3427820": {
-      "rank": 4840,
+      "rank": 4841,
       "estimate": "<7k",
       "name": "Lemonade Apocalypse"
     },
     "3442050": {
-      "rank": 5549,
+      "rank": 5552,
       "estimate": "<7k",
       "name": "KUU"
     },
@@ -60,7 +65,7 @@
       "name": "Pixel Gun 2"
     },
     "3645530": {
-      "rank": 4647,
+      "rank": 4650,
       "estimate": "<7k",
       "name": "Parasite Echo"
     },
@@ -70,42 +75,42 @@
       "name": "Monster Lord: Sapphire"
     },
     "3938720": {
-      "rank": 5548,
+      "rank": 5551,
       "estimate": "<7k",
       "name": "Fractured Library"
     },
     "4120090": {
-      "rank": 4430,
+      "rank": 4432,
       "estimate": "<7k",
       "name": "Ashbound: Crown of Sin"
     },
     "4253570": {
-      "rank": 461,
+      "rank": 457,
       "estimate": "80k+",
       "name": "Reshine"
     },
     "4267780": {
-      "rank": 4074,
+      "rank": 4075,
       "estimate": "<7k",
       "name": "Acting Out"
     },
     "4442130": {
-      "rank": 4373,
+      "rank": 4375,
       "estimate": "<7k",
       "name": "Kawashima Internship ~A Boy's Isolated Island Life~"
     },
     "4485070": {
-      "rank": 4677,
+      "rank": 4682,
       "estimate": "<7k",
       "name": "Cloudsphere"
     },
     "4774310": {
-      "rank": 4500,
+      "rank": 4499,
       "estimate": "<7k",
       "name": "Your God Damn Battle-Beast"
     },
     "4868390": {
-      "rank": 5505,
+      "rank": 5508,
       "estimate": "<7k",
       "name": "Mini Monuments"
     },

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-20T05:28:03.837Z",
-  "entryCount": 30,
+  "updatedAt": "2026-10-20T10:23:04.798Z",
+  "entryCount": 31,
   "entries": {
     "1100910": {
       "rank": 1412,
@@ -211,6 +211,13 @@
       "estimate": "<7k",
       "name": "KOOO TO JUMP!",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4354660": {
+      "rank": 2423,
+      "estimate": "7k+",
+      "name": "Zone Nova",
+      "releaseDate": "2026-10-20",
       "source": "tracked"
     },
     "4464990": {
