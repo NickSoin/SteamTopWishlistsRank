@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-20T10:23:04.798Z",
-  "entryCount": 13,
+  "updatedAt": "2026-10-20T15:36:31.158Z",
+  "entryCount": 14,
   "entries": {
     "1072910": {
       "rank": 2193,
@@ -10,12 +10,12 @@
       "name": "Drill Man Rumble"
     },
     "1906190": {
-      "rank": 602,
+      "rank": 601,
       "estimate": "40k+",
       "name": "BackRooms"
     },
     "2110150": {
-      "rank": 3139,
+      "rank": 3138,
       "estimate": "<7k",
       "name": "Thesis of Love 心动论证"
     },
@@ -30,12 +30,12 @@
       "name": "Family Land - Farmer Simulator"
     },
     "2338820": {
-      "rank": 4401,
+      "rank": 4403,
       "estimate": "<7k",
       "name": "DataJack 2020"
     },
     "2863300": {
-      "rank": 3715,
+      "rank": 3713,
       "estimate": "<7k",
       "name": "Absym"
     },
@@ -45,29 +45,34 @@
       "name": "Fear The Reaper"
     },
     "3430280": {
-      "rank": 4521,
+      "rank": 4522,
       "estimate": "<7k",
       "name": "Seaward"
     },
     "3744040": {
-      "rank": 633,
+      "rank": 632,
       "estimate": "40k+",
       "name": "Kaidan"
     },
     "3990010": {
-      "rank": 3233,
+      "rank": 3231,
       "estimate": "<7k",
       "name": "Benefitship: The Hallowed Wiener"
     },
     "4743190": {
-      "rank": 5658,
+      "rank": 5664,
       "estimate": "<7k",
       "name": "NOSTRA"
     },
     "4909990": {
-      "rank": 3410,
+      "rank": 3411,
       "estimate": "<7k",
       "name": "Taori"
+    },
+    "5111590": {
+      "rank": 5294,
+      "estimate": "<7k",
+      "name": "Unlucky Swordsmith"
     }
   }
 }

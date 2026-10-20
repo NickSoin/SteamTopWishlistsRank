@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-20T10:23:04.798Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-20T15:36:31.158Z",
+  "entryCount": 36,
   "entries": {
     "363860": {
       "rank": 339,
@@ -131,6 +131,13 @@
       "releaseDate": "2026-01-01",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289721820"
+    },
+    "2315050": {
+      "rank": 95,
+      "estimate": "300k+",
+      "name": "We Were Here Tomorrow",
+      "releaseDate": "2026-10-20",
+      "source": "tracked"
     },
     "2412960": {
       "rank": 102,

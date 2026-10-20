@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-20T10:23:04.798Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-20T15:36:31.158Z",
+  "entryCount": 33,
   "entries": {
     "916350": {
       "rank": 1449,
@@ -216,6 +216,13 @@
       "estimate": "<7k",
       "name": "Pool Glow",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "4578110": {
+      "rank": 5263,
+      "estimate": "<7k",
+      "name": "I Am Your Beast - Quitting Time DLC",
+      "releaseDate": "2026-10-20",
       "source": "tracked"
     },
     "4588140": {
