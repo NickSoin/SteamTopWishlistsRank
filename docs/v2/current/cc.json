@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-20T15:36:31.158Z",
-  "entryCount": 16,
+  "updatedAt": "2026-10-20T19:35:53.520Z",
+  "entryCount": 17,
   "entries": {
     "1019932": {
-      "rank": 1686,
+      "rank": 1685,
       "estimate": "15k+",
       "name": "Dark Deception Chapter 5"
     },
     "1428600": {
-      "rank": 1315,
+      "rank": 1314,
       "estimate": "25k+",
       "name": "Stormrite"
     },
     "2420580": {
-      "rank": 3145,
+      "rank": 3121,
       "estimate": "<7k",
       "name": "ALYSSA"
     },
     "2517080": {
-      "rank": 2284,
+      "rank": 2283,
       "estimate": "7k+",
       "name": "Psychotic Bathtub"
     },
@@ -30,17 +30,17 @@
       "name": "To The Grave: The Wildlands of Faenora"
     },
     "3312310": {
-      "rank": 3370,
+      "rank": 3371,
       "estimate": "<7k",
       "name": "Devil Slayer - Raksasi 2"
     },
     "3712480": {
-      "rank": 5186,
+      "rank": 5188,
       "estimate": "<7k",
       "name": "Oneirophobia"
     },
     "3757780": {
-      "rank": 4126,
+      "rank": 4125,
       "estimate": "<7k",
       "name": "Tomb Guard"
     },
@@ -55,7 +55,7 @@
       "name": "Cages: Hidden Worlds"
     },
     "4377860": {
-      "rank": 5164,
+      "rank": 5158,
       "estimate": "<7k",
       "name": "Bumpers & Dragons"
     },
@@ -65,24 +65,29 @@
       "name": "Forgotten Station"
     },
     "4528170": {
-      "rank": 5654,
+      "rank": 5655,
       "estimate": "<7k",
       "name": "Sting & Swing"
     },
     "4582880": {
-      "rank": 1451,
+      "rank": 1453,
       "estimate": "25k+",
       "name": "Signet City"
     },
     "4844250": {
-      "rank": 5366,
+      "rank": 5365,
       "estimate": "<7k",
       "name": "Minds Define Us"
     },
     "4918010": {
-      "rank": 4646,
+      "rank": 4624,
       "estimate": "<7k",
       "name": "Sudokiller"
+    },
+    "5129280": {
+      "rank": 5777,
+      "estimate": "<7k",
+      "name": "Hospital Rhapsody"
     }
   }
 }

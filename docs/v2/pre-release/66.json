@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-20T15:36:31.158Z",
-  "entryCount": 51,
+  "updatedAt": "2026-10-20T19:35:53.520Z",
+  "entryCount": 52,
   "entries": {
     "976890": {
       "rank": 70,
@@ -233,6 +233,13 @@
       "name": "Drill Core",
       "releaseDate": "2025-07-17",
       "source": "historical"
+    },
+    "3255840": {
+      "rank": 7716,
+      "estimate": "<7k",
+      "name": "Insanitorium - Don’t Be Afraid",
+      "releaseDate": "2026-10-20",
+      "source": "tracked"
     },
     "3383040": {
       "rank": 4206,

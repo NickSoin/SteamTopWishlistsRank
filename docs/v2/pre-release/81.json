@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-20T15:36:31.158Z",
-  "entryCount": 28,
+  "updatedAt": "2026-10-20T19:35:53.520Z",
+  "entryCount": 29,
   "entries": {
     "819190": {
       "rank": 3,
@@ -204,6 +204,13 @@
       "estimate": "15k+",
       "name": "Escape Simulator 2: Apocalypse DLC",
       "releaseDate": "2026-09-21",
+      "source": "tracked"
+    },
+    "4941420": {
+      "rank": 5085,
+      "estimate": "<7k",
+      "name": "Folk-Tography",
+      "releaseDate": "2026-10-20",
       "source": "tracked"
     }
   }

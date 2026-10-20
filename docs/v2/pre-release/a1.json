@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-20T15:36:31.158Z",
-  "entryCount": 49,
+  "updatedAt": "2026-10-20T19:35:53.520Z",
+  "entryCount": 50,
   "entries": {
     "619390": {
       "rank": 926,
@@ -303,6 +303,13 @@
       "releaseDate": "2025-09-12",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758648545"
+    },
+    "3976340": {
+      "rank": 2503,
+      "estimate": "7k+",
+      "name": "Cucina Stellata",
+      "releaseDate": "2026-10-20",
+      "source": "tracked"
     },
     "4049180": {
       "rank": 256,

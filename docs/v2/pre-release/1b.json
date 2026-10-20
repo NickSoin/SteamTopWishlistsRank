@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-20T15:36:31.158Z",
-  "entryCount": 23,
+  "updatedAt": "2026-10-20T19:35:53.520Z",
+  "entryCount": 24,
   "entries": {
     "1091920": {
       "rank": 46,
@@ -156,6 +156,13 @@
       "estimate": "7k+",
       "name": "挂机破坏神 IdleDiablo",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4554330": {
+      "rank": 1804,
+      "estimate": "15k+",
+      "name": "Escape from Vlogger: Runaway",
+      "releaseDate": "2026-10-20",
       "source": "tracked"
     },
     "4583110": {

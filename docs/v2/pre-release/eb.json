@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-20T15:36:31.158Z",
-  "entryCount": 23,
+  "updatedAt": "2026-10-20T19:35:53.520Z",
+  "entryCount": 24,
   "entries": {
     "849100": {
       "rank": 19,
@@ -117,6 +117,13 @@
       "name": "Elite Exorcist Miko",
       "releaseDate": "2024-12-25",
       "source": "historical"
+    },
+    "3469910": {
+      "rank": 491,
+      "estimate": "80k+",
+      "name": "Star Trek: Outposts Unknown",
+      "releaseDate": "2026-10-20",
+      "source": "tracked"
     },
     "3639070": {
       "rank": 228,
