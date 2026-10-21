@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T10:30:23.386Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-21T15:54:38.949Z",
+  "entryCount": 40,
   "entries": {
     "851850": {
       "rank": 23,
@@ -230,6 +230,13 @@
       "releaseDate": "2025-05-22",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1792751526182293"
+    },
+    "3422000": {
+      "rank": 2701,
+      "estimate": "7k+",
+      "name": "Ward Off Evil",
+      "releaseDate": "2026-10-21",
+      "source": "tracked"
     },
     "3815550": {
       "rank": 3033,

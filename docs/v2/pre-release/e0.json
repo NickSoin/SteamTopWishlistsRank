@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T10:30:23.386Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-21T15:54:38.949Z",
+  "entryCount": 36,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -205,6 +205,13 @@
       "estimate": "7k+",
       "name": "Poem of the Starherd",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "3996640": {
+      "rank": 4544,
+      "estimate": "<7k",
+      "name": "Inky's Sleep",
+      "releaseDate": "2026-10-21",
       "source": "tracked"
     },
     "4449240": {

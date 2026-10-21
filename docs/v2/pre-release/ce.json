@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T10:30:23.386Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-21T15:54:38.949Z",
+  "entryCount": 38,
   "entries": {
     "850170": {
       "rank": 394,
@@ -184,6 +184,13 @@
       "estimate": "15k+",
       "name": "Banana of Doom",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "3907910": {
+      "rank": 2827,
+      "estimate": "7k+",
+      "name": "Cutout Village",
+      "releaseDate": "2026-10-21",
       "source": "tracked"
     },
     "3939700": {

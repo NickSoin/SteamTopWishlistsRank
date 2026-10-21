@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T10:30:23.386Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-21T15:54:38.949Z",
+  "entryCount": 43,
   "entries": {
     "301280": {
       "rank": 574,
@@ -277,6 +277,13 @@
       "estimate": "<7k",
       "name": "Ambitious Road",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "4509200": {
+      "rank": 9241,
+      "estimate": "<7k",
+      "name": "Grease Trap '99",
+      "releaseDate": "2026-10-21",
       "source": "tracked"
     },
     "4646020": {

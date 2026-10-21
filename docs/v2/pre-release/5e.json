@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T10:30:23.386Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-21T15:54:38.949Z",
+  "entryCount": 34,
   "entries": {
     "336290": {
       "rank": 7698,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Max Savage",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "4338180": {
+      "rank": 1945,
+      "estimate": "15k+",
+      "name": "Dearbnb",
+      "releaseDate": "2026-10-21",
       "source": "tracked"
     },
     "4735640": {

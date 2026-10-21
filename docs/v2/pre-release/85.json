@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T10:30:23.386Z",
-  "entryCount": 51,
+  "updatedAt": "2026-10-21T15:54:38.949Z",
+  "entryCount": 52,
   "entries": {
     "440000": {
       "rank": 459,
@@ -136,6 +136,13 @@
       "name": "Maiden Cops",
       "releaseDate": "2024-09-22",
       "source": "historical"
+    },
+    "2087540": {
+      "rank": 254,
+      "estimate": "80k+",
+      "name": "Escape from Playtime",
+      "releaseDate": "2026-10-21",
+      "source": "tracked"
     },
     "2100270": {
       "rank": 2152,
