@@ -1,46 +1,46 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-20T19:35:53.520Z",
-  "entryCount": 20,
+  "updatedAt": "2026-10-20T23:38:06.155Z",
+  "entryCount": 21,
   "entries": {
     "563530": {
-      "rank": 4348,
+      "rank": 4350,
       "estimate": "<7k",
       "name": "Insatia"
     },
     "1251960": {
-      "rank": 4304,
+      "rank": 4308,
       "estimate": "<7k",
       "name": "Deathtrap Dungeon: The Golden Room"
     },
     "1566440": {
-      "rank": 4347,
+      "rank": 4348,
       "estimate": "<7k",
       "name": "Lords of Nether"
     },
     "2374990": {
-      "rank": 5580,
+      "rank": 5584,
       "estimate": "<7k",
       "name": "Primeval Horizon"
     },
     "2493130": {
-      "rank": 2100,
+      "rank": 2102,
       "estimate": "7k+",
       "name": "Train Planet"
     },
     "2773630": {
-      "rank": 5593,
+      "rank": 5544,
       "estimate": "<7k",
       "name": "Iron Hunters"
     },
     "2981400": {
-      "rank": 1479,
+      "rank": 1481,
       "estimate": "25k+",
       "name": "Middle Ages: Peasants & Knights"
     },
     "3181720": {
-      "rank": 3383,
+      "rank": 3384,
       "estimate": "<7k",
       "name": "Project:Null Hypothesis"
     },
@@ -50,59 +50,64 @@
       "name": "Forest Reigns"
     },
     "3383030": {
-      "rank": 4149,
+      "rank": 4155,
       "estimate": "<7k",
       "name": "Immortal Path(星河仙道)"
     },
     "3411810": {
-      "rank": 997,
+      "rank": 1000,
       "estimate": "40k+",
       "name": "Cobra Strike"
     },
     "3453900": {
-      "rank": 4939,
+      "rank": 4945,
       "estimate": "<7k",
       "name": "Micromega"
     },
     "3541140": {
-      "rank": 4889,
+      "rank": 4892,
       "estimate": "<7k",
       "name": "BattleSail"
     },
     "3569010": {
-      "rank": 5764,
+      "rank": 5770,
       "estimate": "<7k",
       "name": "Smashdolls"
     },
     "4045720": {
-      "rank": 204,
+      "rank": 203,
       "estimate": "80k+",
       "name": "Squadron 42"
     },
     "4314240": {
-      "rank": 3040,
+      "rank": 3047,
       "estimate": "<7k",
       "name": "OnlyVans"
     },
     "4425120": {
-      "rank": 2573,
+      "rank": 2576,
       "estimate": "7k+",
       "name": "Greetings from El Rey"
     },
     "4433800": {
-      "rank": 2474,
+      "rank": 2476,
       "estimate": "7k+",
       "name": "There Is No Next Stop"
     },
     "4730620": {
-      "rank": 2589,
+      "rank": 2581,
       "estimate": "7k+",
       "name": "The Rope Knight"
     },
     "4752390": {
-      "rank": 3553,
+      "rank": 3560,
       "estimate": "<7k",
       "name": "Panic 64"
+    },
+    "4802170": {
+      "rank": 5831,
+      "estimate": "<7k",
+      "name": "EraStorm: SandStorm"
     }
   }
 }
