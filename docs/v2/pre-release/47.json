@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-20T23:38:06.155Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-21T05:17:11.948Z",
+  "entryCount": 40,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -205,6 +205,13 @@
       "estimate": "25k+",
       "name": "Besiege: The Broken Beyond",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "3670730": {
+      "rank": 2052,
+      "estimate": "7k+",
+      "name": "Horror Tales Eats The World",
+      "releaseDate": "2026-10-20",
       "source": "tracked"
     },
     "3818020": {

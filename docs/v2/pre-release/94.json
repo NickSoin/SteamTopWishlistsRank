@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-20T23:38:06.155Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-21T05:17:11.948Z",
+  "entryCount": 32,
   "entries": {
     "1209470": {
       "rank": 50,
@@ -214,6 +214,13 @@
       "estimate": "40k+",
       "name": "Nothing To Declare",
       "releaseDate": "2026-07-25",
+      "source": "tracked"
+    },
+    "4500460": {
+      "rank": 8597,
+      "estimate": "<7k",
+      "name": "What The Dog Remembers",
+      "releaseDate": "2026-10-20",
       "source": "tracked"
     },
     "4664030": {
