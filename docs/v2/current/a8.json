@@ -1,21 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-21T05:17:11.948Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-21T10:30:23.386Z",
+  "entryCount": 37,
   "entries": {
+    "858200": {
+      "rank": 5846,
+      "estimate": "<7k",
+      "name": "Scratch The Cat"
+    },
     "913170": {
-      "rank": 5528,
+      "rank": 5531,
       "estimate": "<7k",
       "name": "LetsGal"
     },
     "1026220": {
-      "rank": 4563,
+      "rank": 4570,
       "estimate": "<7k",
       "name": "Knights Province"
     },
     "1222150": {
-      "rank": 3372,
+      "rank": 3373,
       "estimate": "<7k",
       "name": "Her War"
     },
@@ -25,7 +30,7 @@
       "name": "The Hauntings"
     },
     "1303400": {
-      "rank": 1746,
+      "rank": 1748,
       "estimate": "15k+",
       "name": "Whisker Squadron: Untitled Space Game"
     },
@@ -35,17 +40,17 @@
       "name": "We Harvest Shadows"
     },
     "2052710": {
-      "rank": 3058,
+      "rank": 3060,
       "estimate": "<7k",
       "name": "Hello Again"
     },
     "2321890": {
-      "rank": 2258,
+      "rank": 2261,
       "estimate": "7k+",
       "name": "Swordeye"
     },
     "2356360": {
-      "rank": 857,
+      "rank": 858,
       "estimate": "40k+",
       "name": "Build the Garden of Easden"
     },
@@ -60,22 +65,22 @@
       "name": "Mimic"
     },
     "2696110": {
-      "rank": 3162,
+      "rank": 3153,
       "estimate": "<7k",
       "name": "Situation Succ: Inn Elysium"
     },
     "3058740": {
-      "rank": 3584,
+      "rank": 3583,
       "estimate": "<7k",
       "name": "Odds Chronicles"
     },
     "3103620": {
-      "rank": 1457,
+      "rank": 1459,
       "estimate": "25k+",
       "name": "Witch the Showdown"
     },
     "3105190": {
-      "rank": 2769,
+      "rank": 2770,
       "estimate": "7k+",
       "name": "CHILDREN OF SATURN"
     },
@@ -85,42 +90,42 @@
       "name": "MAW"
     },
     "3301000": {
-      "rank": 4022,
+      "rank": 4026,
       "estimate": "<7k",
       "name": "The Vast White"
     },
     "3419080": {
-      "rank": 847,
+      "rank": 845,
       "estimate": "40k+",
       "name": "The Regreening"
     },
     "3704230": {
-      "rank": 5064,
+      "rank": 5065,
       "estimate": "<7k",
       "name": "House of Petals"
     },
     "3845210": {
-      "rank": 1793,
+      "rank": 1795,
       "estimate": "15k+",
       "name": "Papa Needs a Headshot"
     },
     "3850670": {
-      "rank": 3741,
+      "rank": 3737,
       "estimate": "<7k",
       "name": "HAUNTED: Escape the Dollhouse"
     },
     "3872160": {
-      "rank": 2830,
+      "rank": 2834,
       "estimate": "7k+",
       "name": "Envido"
     },
     "3872810": {
-      "rank": 5634,
+      "rank": 5641,
       "estimate": "<7k",
       "name": "Mythic Yi"
     },
     "3919810": {
-      "rank": 1686,
+      "rank": 1687,
       "estimate": "15k+",
       "name": "Moulder"
     },
@@ -130,12 +135,12 @@
       "name": "Online: 404"
     },
     "4099810": {
-      "rank": 5555,
+      "rank": 5549,
       "estimate": "<7k",
       "name": "1999TOKOYO Building"
     },
     "4188680": {
-      "rank": 2123,
+      "rank": 2127,
       "estimate": "7k+",
       "name": "Walled Haven"
     },
@@ -145,17 +150,17 @@
       "name": "Scars of Honor"
     },
     "4363380": {
-      "rank": 2091,
+      "rank": 2092,
       "estimate": "7k+",
       "name": "Wicked Delights"
     },
     "4441950": {
-      "rank": 1625,
+      "rank": 1631,
       "estimate": "15k+",
       "name": "Aliens Took My Stuff"
     },
     "4450440": {
-      "rank": 3976,
+      "rank": 3982,
       "estimate": "<7k",
       "name": "Crownwarden"
     },
@@ -170,17 +175,17 @@
       "name": "Hold My Thing"
     },
     "4719200": {
-      "rank": 2220,
+      "rank": 2218,
       "estimate": "7k+",
       "name": "Unholy Maiden"
     },
     "4832970": {
-      "rank": 3083,
+      "rank": 3074,
       "estimate": "<7k",
       "name": "What the Buck?!"
     },
     "5088440": {
-      "rank": 1723,
+      "rank": 1702,
       "estimate": "15k+",
       "name": "Rip It! Card Collector"
     }
