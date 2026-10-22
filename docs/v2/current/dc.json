@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-21T15:54:38.949Z",
-  "entryCount": 22,
+  "updatedAt": "2026-10-21T23:28:46.105Z",
+  "entryCount": 23,
   "entries": {
     "1651400": {
       "rank": 3594,
@@ -10,67 +10,67 @@
       "name": "Touhou: the Unreachable Oneiroborder"
     },
     "1847180": {
-      "rank": 1787,
+      "rank": 1785,
       "estimate": "15k+",
       "name": "MORTAL CRUX"
     },
     "1937070": {
-      "rank": 725,
+      "rank": 723,
       "estimate": "40k+",
       "name": "Engines Of Destruction"
     },
     "2446760": {
-      "rank": 2415,
+      "rank": 2418,
       "estimate": "7k+",
       "name": "YASUKE: A Lost Descendant"
     },
     "2523740": {
-      "rank": 1499,
+      "rank": 1198,
       "estimate": "25k+",
       "name": "DreamWorks Shrek 2 Remastered"
     },
     "2707670": {
-      "rank": 1566,
+      "rank": 1563,
       "estimate": "15k+",
       "name": "SCP: Valravn"
     },
     "2710740": {
-      "rank": 379,
+      "rank": 377,
       "estimate": "80k+",
       "name": "Lost Legions"
     },
     "2850600": {
-      "rank": 5384,
+      "rank": 5389,
       "estimate": "<7k",
       "name": "Mystical Tactics"
     },
     "2867800": {
-      "rank": 2452,
+      "rank": 2453,
       "estimate": "7k+",
       "name": "DEPERSON"
     },
     "2882720": {
-      "rank": 341,
+      "rank": 338,
       "estimate": "80k+",
       "name": "Koshmar: The Last Reverie"
     },
     "2915770": {
-      "rank": 543,
+      "rank": 540,
       "estimate": "40k+",
       "name": "Rescue Ops: Wildfire"
     },
     "2975130": {
-      "rank": 4181,
+      "rank": 4183,
       "estimate": "<7k",
       "name": "ULTRA MUSHROOM"
     },
     "3045070": {
-      "rank": 4280,
+      "rank": 4279,
       "estimate": "<7k",
       "name": "MetalMercs"
     },
     "3144760": {
-      "rank": 4606,
+      "rank": 4610,
       "estimate": "<7k",
       "name": "Serpentine Shadows and the Joys of Vengeance"
     },
@@ -80,39 +80,44 @@
       "name": "Kagura Survivors x Summer Memories"
     },
     "3357160": {
-      "rank": 4067,
+      "rank": 4069,
       "estimate": "<7k",
       "name": "HOLLOW MIRE"
     },
     "3725550": {
-      "rank": 3484,
+      "rank": 3486,
       "estimate": "<7k",
       "name": "The Ring Of Succubus Queen"
     },
     "3776020": {
-      "rank": 4990,
+      "rank": 4994,
       "estimate": "<7k",
       "name": "Card Make Arena"
     },
     "3780520": {
-      "rank": 4809,
+      "rank": 4812,
       "estimate": "<7k",
       "name": "Mercy Incore"
     },
     "3925750": {
-      "rank": 1643,
+      "rank": 1626,
       "estimate": "15k+",
       "name": "Generic Fighter Maybe"
     },
     "4007000": {
-      "rank": 2430,
+      "rank": 2433,
       "estimate": "7k+",
       "name": "Derby Creek"
     },
     "4272370": {
-      "rank": 1947,
+      "rank": 1935,
       "estimate": "15k+",
       "name": "Coal Duty"
+    },
+    "4952760": {
+      "rank": 5838,
+      "estimate": "<7k",
+      "name": "Modulink"
     }
   }
 }

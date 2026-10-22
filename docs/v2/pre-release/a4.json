@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T15:54:38.949Z",
-  "entryCount": 44,
+  "updatedAt": "2026-10-21T23:28:46.105Z",
+  "entryCount": 45,
   "entries": {
     "534380": {
       "rank": 1,
@@ -242,6 +242,13 @@
       "estimate": "200k+",
       "name": "Warhammer 40,000: Boltgun 2",
       "releaseDate": "2026-10-14",
+      "source": "tracked"
+    },
+    "3486530": {
+      "rank": 164,
+      "estimate": "200k+",
+      "name": "Stupid Never Dies",
+      "releaseDate": "2026-10-21",
       "source": "tracked"
     },
     "3869850": {

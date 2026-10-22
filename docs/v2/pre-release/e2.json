@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T15:54:38.949Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-21T23:28:46.105Z",
+  "entryCount": 35,
   "entries": {
     "975370": {
       "rank": 8,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "nudge",
       "releaseDate": "2026-08-18",
+      "source": "tracked"
+    },
+    "4642780": {
+      "rank": 9148,
+      "estimate": "<7k",
+      "name": "SAKIMORI",
+      "releaseDate": "2026-10-21",
       "source": "tracked"
     },
     "4855760": {

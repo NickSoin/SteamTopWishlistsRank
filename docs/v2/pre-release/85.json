@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T15:54:38.949Z",
-  "entryCount": 52,
+  "updatedAt": "2026-10-21T23:28:46.105Z",
+  "entryCount": 53,
   "entries": {
     "440000": {
       "rank": 459,
@@ -73,6 +73,13 @@
       "name": "The Ranch of Rivershine",
       "releaseDate": "2025-05-23",
       "source": "historical"
+    },
+    "1564060": {
+      "rank": 2541,
+      "estimate": "7k+",
+      "name": "Lighthouse of Madness",
+      "releaseDate": "2026-10-21",
+      "source": "tracked"
     },
     "1602490": {
       "rank": 1166,

@@ -1,83 +1,88 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-21T15:54:38.949Z",
-  "entryCount": 15,
+  "updatedAt": "2026-10-21T23:28:46.105Z",
+  "entryCount": 16,
   "entries": {
     "907500": {
-      "rank": 2345,
+      "rank": 2348,
       "estimate": "7k+",
       "name": "The Peterson Case"
     },
     "1201470": {
-      "rank": 5457,
+      "rank": 5462,
       "estimate": "<7k",
       "name": "Solar Baron"
     },
     "1601870": {
-      "rank": 5262,
+      "rank": 5266,
       "estimate": "<7k",
       "name": "Evade The Light"
     },
     "1970220": {
-      "rank": 3875,
+      "rank": 3857,
       "estimate": "<7k",
       "name": "Walk Hero"
     },
     "2379820": {
-      "rank": 1336,
+      "rank": 1333,
       "estimate": "25k+",
       "name": "Forty-Niner"
     },
     "2434930": {
-      "rank": 1590,
+      "rank": 1589,
       "estimate": "15k+",
       "name": "Blue Ridge Hunting"
     },
     "2581850": {
-      "rank": 558,
+      "rank": 552,
       "estimate": "40k+",
       "name": "HUMANKIND™ 2"
     },
     "3261140": {
-      "rank": 3673,
+      "rank": 3676,
       "estimate": "<7k",
       "name": "Decadent Heir"
     },
     "3346320": {
-      "rank": 5837,
+      "rank": 5847,
       "estimate": "<7k",
       "name": "RE:Choice"
     },
     "3572310": {
-      "rank": 1623,
+      "rank": 1622,
       "estimate": "15k+",
       "name": "Ministry of Order"
     },
     "3586920": {
-      "rank": 3166,
+      "rank": 3162,
       "estimate": "<7k",
       "name": "Extreme Cleaning Simulator"
     },
     "3728470": {
-      "rank": 5085,
+      "rank": 5086,
       "estimate": "<7k",
       "name": "Gin's Gunstore"
     },
     "4022070": {
-      "rank": 5569,
+      "rank": 5573,
       "estimate": "<7k",
       "name": "SHROT"
     },
     "4421440": {
-      "rank": 2603,
+      "rank": 2608,
       "estimate": "7k+",
       "name": "Pierrot"
     },
     "5042370": {
-      "rank": 4424,
+      "rank": 4384,
       "estimate": "<7k",
       "name": "Octbuster: Video Rental Store Cleanup"
+    },
+    "5178310": {
+      "rank": 5850,
+      "estimate": "<7k",
+      "name": "School Girl RPG"
     }
   }
 }
