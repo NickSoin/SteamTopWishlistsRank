@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T05:29:57.054Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-22T10:27:16.730Z",
+  "entryCount": 32,
   "entries": {
     "924980": {
       "rank": 34,
@@ -38,6 +38,13 @@
       "name": "Dōkyūsei: Bangin' Summer",
       "releaseDate": "2022-04-14",
       "source": "historical"
+    },
+    "1713730": {
+      "rank": 1083,
+      "estimate": "25k+",
+      "name": "Moadra",
+      "releaseDate": "2026-10-22",
+      "source": "tracked"
     },
     "1771110": {
       "rank": 377,

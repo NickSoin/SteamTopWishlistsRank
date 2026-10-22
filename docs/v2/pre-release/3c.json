@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T05:29:57.054Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-22T10:27:16.730Z",
+  "entryCount": 41,
   "entries": {
     "743380": {
       "rank": 664,
@@ -261,6 +261,13 @@
       "estimate": "<7k",
       "name": "Olga Doesn't Die",
       "releaseDate": "2026-07-03",
+      "source": "tracked"
+    },
+    "4560000": {
+      "rank": 9968,
+      "estimate": "<7k",
+      "name": "Battle Nap",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     },
     "4608380": {

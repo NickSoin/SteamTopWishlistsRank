@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-22T05:29:57.054Z",
-  "entryCount": 21,
+  "updatedAt": "2026-10-22T10:27:16.730Z",
+  "entryCount": 23,
   "entries": {
     "1113400": {
       "rank": 572,
@@ -10,57 +10,57 @@
       "name": "Alliance of the Sacred Suns"
     },
     "1231210": {
-      "rank": 3263,
+      "rank": 3262,
       "estimate": "<7k",
       "name": "Midair 2"
     },
     "1353150": {
-      "rank": 3480,
+      "rank": 3481,
       "estimate": "<7k",
       "name": "The Path of Calydra"
     },
     "1547540": {
-      "rank": 473,
+      "rank": 472,
       "estimate": "80k+",
       "name": "They Are Here: Alien Abduction Horror"
     },
     "1630460": {
-      "rank": 3469,
+      "rank": 3467,
       "estimate": "<7k",
       "name": "iii: Revolving Wonderland"
     },
     "2163660": {
-      "rank": 3266,
+      "rank": 3265,
       "estimate": "<7k",
       "name": "Loading..."
     },
     "2228000": {
-      "rank": 4901,
+      "rank": 4905,
       "estimate": "<7k",
       "name": "Hazuki Dies: She Has No Name"
     },
     "2410360": {
-      "rank": 2336,
+      "rank": 2333,
       "estimate": "7k+",
       "name": "Mirth Island"
     },
     "3256040": {
-      "rank": 1334,
+      "rank": 1332,
       "estimate": "25k+",
       "name": "Shardbreakers"
     },
     "3899920": {
-      "rank": 3713,
+      "rank": 3710,
       "estimate": "<7k",
       "name": "Recycling Shift"
     },
     "3929700": {
-      "rank": 2338,
+      "rank": 2334,
       "estimate": "7k+",
       "name": "Pixel Formation"
     },
     "4039200": {
-      "rank": 523,
+      "rank": 522,
       "estimate": "40k+",
       "name": "Exterminauts"
     },
@@ -70,7 +70,7 @@
       "name": "Rift Fishing"
     },
     "4167200": {
-      "rank": 1167,
+      "rank": 1164,
       "estimate": "25k+",
       "name": "UN:Me"
     },
@@ -79,8 +79,13 @@
       "estimate": "7k+",
       "name": "Gemini X"
     },
+    "4398680": {
+      "rank": 5500,
+      "estimate": "<7k",
+      "name": "Moon Reader"
+    },
     "4531290": {
-      "rank": 4669,
+      "rank": 4667,
       "estimate": "<7k",
       "name": "The Refuge"
     },
@@ -90,7 +95,7 @@
       "name": "Haunted Cleaner"
     },
     "4694470": {
-      "rank": 3027,
+      "rank": 3024,
       "estimate": "<7k",
       "name": "Dust till Dawn"
     },
@@ -100,12 +105,17 @@
       "name": "Lords of the Fallen II"
     },
     "4842880": {
-      "rank": 2049,
+      "rank": 2045,
       "estimate": "7k+",
       "name": "HushWood"
     },
+    "4948940": {
+      "rank": 4594,
+      "estimate": "<7k",
+      "name": "Swarmbreaker"
+    },
     "5160990": {
-      "rank": 4557,
+      "rank": 4555,
       "estimate": "<7k",
       "name": "Outblight"
     }

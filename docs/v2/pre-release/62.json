@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T05:29:57.054Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-22T10:27:16.730Z",
+  "entryCount": 38,
   "entries": {
     "261550": {
       "rank": 7,
@@ -263,6 +263,13 @@
       "estimate": "<7k",
       "name": "Cards Everywhere!",
       "releaseDate": "2026-09-17",
+      "source": "tracked"
+    },
+    "5306540": {
+      "rank": 814,
+      "estimate": "40k+",
+      "name": "Groundwork Simulator",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     }
   }
