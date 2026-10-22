@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-22T10:27:16.730Z",
-  "entryCount": 22,
+  "updatedAt": "2026-10-22T15:27:54.897Z",
+  "entryCount": 23,
   "entries": {
     "669270": {
-      "rank": 1123,
+      "rank": 1126,
       "estimate": "25k+",
       "name": "Momentum Mod"
     },
     "905570": {
-      "rank": 4946,
+      "rank": 4952,
       "estimate": "<7k",
       "name": "Celebrity Hunter"
     },
     "1153750": {
-      "rank": 4847,
+      "rank": 4855,
       "estimate": "<7k",
       "name": "Food Industry"
     },
     "1313110": {
-      "rank": 5344,
+      "rank": 5346,
       "estimate": "<7k",
       "name": "Sky Beneath"
     },
@@ -30,7 +30,7 @@
       "name": "Airport Renovator"
     },
     "1568550": {
-      "rank": 2387,
+      "rank": 2388,
       "estimate": "7k+",
       "name": "FIRST"
     },
@@ -40,7 +40,7 @@
       "name": "DEFECT"
     },
     "2723370": {
-      "rank": 3954,
+      "rank": 3958,
       "estimate": "<7k",
       "name": "Voiceless"
     },
@@ -55,12 +55,12 @@
       "name": "Black State"
     },
     "3164260": {
-      "rank": 2407,
+      "rank": 2408,
       "estimate": "7k+",
       "name": "GORECORE"
     },
     "3397260": {
-      "rank": 5605,
+      "rank": 5613,
       "estimate": "<7k",
       "name": "Liminal City: Axiom of Maria - Chapter One"
     },
@@ -70,7 +70,7 @@
       "name": "Dead Watch"
     },
     "3474240": {
-      "rank": 4363,
+      "rank": 4368,
       "estimate": "<7k",
       "name": "Dracula: The Disciple"
     },
@@ -80,12 +80,12 @@
       "name": "Tenebyss"
     },
     "3708000": {
-      "rank": 3557,
+      "rank": 3560,
       "estimate": "<7k",
       "name": "OnlyDefense"
     },
     "3919400": {
-      "rank": 2441,
+      "rank": 2442,
       "estimate": "7k+",
       "name": "黄莓C HuangmeiC"
     },
@@ -95,24 +95,29 @@
       "name": "Smoke and Steel"
     },
     "4227270": {
-      "rank": 5020,
+      "rank": 5026,
       "estimate": "<7k",
       "name": "Litany"
     },
     "4509370": {
-      "rank": 4752,
+      "rank": 4760,
       "estimate": "<7k",
       "name": "Stink Buddies"
     },
     "4661070": {
-      "rank": 445,
+      "rank": 444,
       "estimate": "80k+",
       "name": "HANDS OVER"
     },
     "4736510": {
-      "rank": 3847,
+      "rank": 3849,
       "estimate": "<7k",
       "name": "Gunvolt Chronicles: Luminous Avenger iX 3"
+    },
+    "5088960": {
+      "rank": 5794,
+      "estimate": "<7k",
+      "name": "DISK-Y"
     }
   }
 }

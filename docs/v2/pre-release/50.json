@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T10:27:16.730Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-22T15:27:54.897Z",
+  "entryCount": 34,
   "entries": {
     "950180": {
       "rank": 218,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "Stay: Ember's Desktop Adventures",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4977840": {
+      "rank": 5404,
+      "estimate": "<7k",
+      "name": "Otherside Tapes: Favela",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     },
     "5097840": {

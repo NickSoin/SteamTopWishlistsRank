@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-22T10:27:16.730Z",
-  "entryCount": 19,
+  "updatedAt": "2026-10-22T15:27:54.897Z",
+  "entryCount": 20,
   "entries": {
     "1088610": {
-      "rank": 5793,
+      "rank": 5799,
       "estimate": "<7k",
       "name": "Aurora: The Lost Medallion - The Cave"
     },
@@ -15,52 +15,52 @@
       "name": "Witchbrook"
     },
     "1947890": {
-      "rank": 4481,
+      "rank": 4484,
       "estimate": "<7k",
       "name": "Coffeehouse Simulator"
     },
     "2244350": {
-      "rank": 4139,
+      "rank": 4143,
       "estimate": "<7k",
       "name": "Red Sunrise"
     },
     "2294210": {
-      "rank": 4224,
+      "rank": 4233,
       "estimate": "<7k",
       "name": "Ultra Pro Wrestling"
     },
     "2706690": {
-      "rank": 2154,
+      "rank": 2157,
       "estimate": "7k+",
       "name": "SexSeal"
     },
     "3233300": {
-      "rank": 5671,
+      "rank": 5677,
       "estimate": "<7k",
       "name": "The House of Hamelin"
     },
     "3238240": {
-      "rank": 5262,
+      "rank": 5269,
       "estimate": "<7k",
       "name": "Scaravan 66"
     },
     "3348640": {
-      "rank": 728,
+      "rank": 729,
       "estimate": "40k+",
       "name": "TSAREVNA. Age of Tales"
     },
     "3474620": {
-      "rank": 3182,
+      "rank": 3185,
       "estimate": "<7k",
       "name": "EXONAUTIS"
     },
     "3495980": {
-      "rank": 5057,
+      "rank": 5061,
       "estimate": "<7k",
       "name": "Wanted 3D: Dead or Alive"
     },
     "3598180": {
-      "rank": 2680,
+      "rank": 2678,
       "estimate": "7k+",
       "name": "Midnight Souls"
     },
@@ -70,17 +70,17 @@
       "name": "Animula Nook"
     },
     "3878840": {
-      "rank": 4799,
+      "rank": 4806,
       "estimate": "<7k",
       "name": "Have You Seen This Cat?"
     },
     "3976980": {
-      "rank": 5001,
+      "rank": 5007,
       "estimate": "<7k",
       "name": "Velo Victory"
     },
     "4132280": {
-      "rank": 2707,
+      "rank": 2705,
       "estimate": "7k+",
       "name": "PHUY"
     },
@@ -90,14 +90,19 @@
       "name": "Washington Prime"
     },
     "4413130": {
-      "rank": 700,
+      "rank": 701,
       "estimate": "40k+",
       "name": "Battlespace Command"
     },
     "4629700": {
-      "rank": 5679,
+      "rank": 5683,
       "estimate": "<7k",
       "name": "Kuiper Wanderer"
+    },
+    "4637840": {
+      "rank": 5855,
+      "estimate": "<7k",
+      "name": "DepthLoot"
     }
   }
 }
