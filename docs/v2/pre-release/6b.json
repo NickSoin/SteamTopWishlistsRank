@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T23:28:46.105Z",
-  "entryCount": 25,
+  "updatedAt": "2026-10-22T05:29:57.054Z",
+  "entryCount": 26,
   "entries": {
     "1173790": {
       "rank": 382,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "Labyrinth A Way Out",
       "releaseDate": "2026-10-15",
+      "source": "tracked"
+    },
+    "5063150": {
+      "rank": 2123,
+      "estimate": "7k+",
+      "name": "Laid-Back Camp All -in -one!! Chill Time",
+      "releaseDate": "2026-10-21",
       "source": "tracked"
     }
   }

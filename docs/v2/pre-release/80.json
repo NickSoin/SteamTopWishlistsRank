@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T23:28:46.105Z",
-  "entryCount": 43,
+  "updatedAt": "2026-10-22T05:29:57.054Z",
+  "entryCount": 44,
   "entries": {
     "1112390": {
       "rank": 3117,
@@ -261,6 +261,13 @@
       "estimate": "25k+",
       "name": "Stream Train",
       "releaseDate": "2026-10-16",
+      "source": "tracked"
+    },
+    "4172450": {
+      "rank": 2068,
+      "estimate": "7k+",
+      "name": "The Hidden Ones",
+      "releaseDate": "2026-10-21",
       "source": "tracked"
     },
     "4209750": {

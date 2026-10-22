@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T23:28:46.105Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-22T05:29:57.054Z",
+  "entryCount": 34,
   "entries": {
     "257420": {
       "rank": 19,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Packed Lair",
       "releaseDate": "2026-09-22",
+      "source": "tracked"
+    },
+    "3502620": {
+      "rank": 1588,
+      "estimate": "15k+",
+      "name": "DEMONS' NIGHT FEVER",
+      "releaseDate": "2026-10-21",
       "source": "tracked"
     },
     "3713750": {

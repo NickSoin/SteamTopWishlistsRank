@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-21T23:28:46.105Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-22T05:29:57.054Z",
+  "entryCount": 41,
   "entries": {
     "733110": {
       "rank": 724,
@@ -279,6 +279,13 @@
       "estimate": "<7k",
       "name": "Car Sales Simulator",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4437140": {
+      "rank": 3980,
+      "estimate": "<7k",
+      "name": "if you stay",
+      "releaseDate": "2026-10-21",
       "source": "tracked"
     },
     "4568910": {
