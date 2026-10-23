@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-23T10:34:30.715Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-23T15:14:27.989Z",
+  "entryCount": 37,
   "entries": {
     "716350": {
       "rank": 688,
@@ -225,6 +225,13 @@
       "estimate": "200k+",
       "name": "EMPULSE",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4348500": {
+      "rank": 7012,
+      "estimate": "<7k",
+      "name": "Furniture Restoration Simulator: Garage Edition - Prologue",
+      "releaseDate": "2026-10-23",
       "source": "tracked"
     },
     "4548160": {

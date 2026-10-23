@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-23T10:34:30.715Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-23T15:14:27.989Z",
+  "entryCount": 39,
   "entries": {
     "830580": {
       "rank": 135,
@@ -207,6 +207,13 @@
       "estimate": "25k+",
       "name": "The Severed Gods",
       "releaseDate": "2026-08-10",
+      "source": "tracked"
+    },
+    "3860760": {
+      "rank": 3298,
+      "estimate": "<7k",
+      "name": "One Week Away",
+      "releaseDate": "2026-10-23",
       "source": "tracked"
     },
     "3989960": {
