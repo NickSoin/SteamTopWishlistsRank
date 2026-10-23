@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T23:56:09.053Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-23T05:28:12.094Z",
+  "entryCount": 34,
   "entries": {
     "482400": {
       "rank": 6,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Hard Edge - War Zone",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4748140": {
+      "rank": 4172,
+      "estimate": "<7k",
+      "name": "MatchMaker95 - A Programming Simulator",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     },
     "4771580": {

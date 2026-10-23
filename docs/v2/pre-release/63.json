@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T23:56:09.053Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-23T05:28:12.094Z",
+  "entryCount": 42,
   "entries": {
     "814380": {
       "rank": 1,
@@ -291,6 +291,13 @@
       "estimate": "<7k",
       "name": "Dune: Imperium - Uprising",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4817620": {
+      "rank": 1436,
+      "estimate": "25k+",
+      "name": "One Way Tickets",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     }
   }

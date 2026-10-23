@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T23:56:09.053Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-23T05:28:12.094Z",
+  "entryCount": 39,
   "entries": {
     "669330": {
       "rank": 422,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "A Game About Opening A Chest",
       "releaseDate": "2026-10-16",
+      "source": "tracked"
+    },
+    "4297360": {
+      "rank": 4309,
+      "estimate": "<7k",
+      "name": "Burg Tag",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     },
     "4463660": {

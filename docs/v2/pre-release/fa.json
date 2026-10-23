@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T23:56:09.053Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-23T05:28:12.094Z",
+  "entryCount": 35,
   "entries": {
     "506480": {
       "rank": 980,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Health Audit Simulator",
       "releaseDate": "2026-07-11",
+      "source": "tracked"
+    },
+    "4435490": {
+      "rank": 34,
+      "estimate": "600k+",
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     },
     "4528600": {

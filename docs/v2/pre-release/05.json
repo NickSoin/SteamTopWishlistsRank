@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T23:56:09.053Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-23T05:28:12.094Z",
+  "entryCount": 36,
   "entries": {
     "1062090": {
       "rank": 3,
@@ -188,6 +188,13 @@
       "estimate": "7k+",
       "name": "VOIDFACE",
       "releaseDate": "2026-08-18",
+      "source": "tracked"
+    },
+    "3827330": {
+      "rank": 4973,
+      "estimate": "<7k",
+      "name": "Midnight Launch: A Gameshop Sim",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     },
     "3839250": {

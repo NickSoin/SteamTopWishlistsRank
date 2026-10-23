@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T23:56:09.053Z",
-  "entryCount": 26,
+  "updatedAt": "2026-10-23T05:28:12.094Z",
+  "entryCount": 27,
   "entries": {
     "812440": {
       "rank": 138,
@@ -140,6 +140,13 @@
       "releaseDate": "2026-04-14",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522846167"
+    },
+    "3121930": {
+      "rank": 3606,
+      "estimate": "<7k",
+      "name": "Dimon - The Witch's Pervert Assistant",
+      "releaseDate": "2026-10-22",
+      "source": "tracked"
     },
     "3503710": {
       "rank": 1582,
