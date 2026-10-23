@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T15:27:54.897Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-22T23:56:09.053Z",
+  "entryCount": 32,
   "entries": {
     "659300": {
       "rank": 3018,
@@ -115,6 +115,13 @@
       "name": "The Bridge Curse 2: The Extrication",
       "releaseDate": "2024-05-09",
       "source": "historical"
+    },
+    "2420580": {
+      "rank": 2916,
+      "estimate": "7k+",
+      "name": "ALYSSA",
+      "releaseDate": "2026-10-22",
+      "source": "tracked"
     },
     "2523890": {
       "rank": 3140,

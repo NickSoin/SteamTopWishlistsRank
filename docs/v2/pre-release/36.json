@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T15:27:54.897Z",
-  "entryCount": 46,
+  "updatedAt": "2026-10-22T23:56:09.053Z",
+  "entryCount": 47,
   "entries": {
     "694990": {
       "rank": 49,
@@ -286,6 +286,13 @@
       "estimate": "7k+",
       "name": "Holonoptic",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4433100": {
+      "rank": 4956,
+      "estimate": "<7k",
+      "name": "The Phone from Another World: My First Love",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     },
     "4435340": {

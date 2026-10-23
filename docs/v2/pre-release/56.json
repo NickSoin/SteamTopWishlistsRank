@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T15:27:54.897Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-22T23:56:09.053Z",
+  "entryCount": 32,
   "entries": {
     "610370": {
       "rank": 18,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "UNSIGHT",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "5291460": {
+      "rank": 4839,
+      "estimate": "<7k",
+      "name": "Empty The Lake!",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     }
   }

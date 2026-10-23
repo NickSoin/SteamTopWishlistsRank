@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T15:27:54.897Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-22T23:56:09.053Z",
+  "entryCount": 42,
   "entries": {
     "787510": {
       "rank": 1631,
@@ -251,6 +251,13 @@
       "estimate": "<7k",
       "name": "You Know The Drill",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "3905010": {
+      "rank": 408,
+      "estimate": "80k+",
+      "name": "ONE PIECE: Grand Gourmet",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     },
     "3924020": {

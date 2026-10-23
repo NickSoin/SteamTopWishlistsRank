@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T15:27:54.897Z",
-  "entryCount": 53,
+  "updatedAt": "2026-10-22T23:56:09.053Z",
+  "entryCount": 54,
   "entries": {
     "440000": {
       "rank": 459,
@@ -359,6 +359,13 @@
       "estimate": "<7k",
       "name": "Duel Mahjong",
       "releaseDate": "2026-10-16",
+      "source": "tracked"
+    },
+    "4761550": {
+      "rank": 2629,
+      "estimate": "7k+",
+      "name": "ABSOLUTELY NOTHING GOOD",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     },
     "4798110": {

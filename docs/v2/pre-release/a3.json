@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T15:27:54.897Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-22T23:56:09.053Z",
+  "entryCount": 38,
   "entries": {
     "782250": {
       "rank": 368,
@@ -254,6 +254,13 @@
       "estimate": "<7k",
       "name": "War Footing",
       "releaseDate": "2026-10-15",
+      "source": "tracked"
+    },
+    "4890760": {
+      "rank": 145,
+      "estimate": "200k+",
+      "name": "THE DEAD WE KNEW: Open World Survival",
+      "releaseDate": "2026-10-22",
       "source": "tracked"
     },
     "4935810": {

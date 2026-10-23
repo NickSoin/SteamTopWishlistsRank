@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-22T15:27:54.897Z",
-  "entryCount": 24,
+  "updatedAt": "2026-10-22T23:56:09.053Z",
+  "entryCount": 25,
   "entries": {
     "849100": {
       "rank": 19,
@@ -87,6 +87,13 @@
       "name": "Arma 3 Creator DLC: Reaction Forces",
       "releaseDate": "2024-03-26",
       "source": "historical"
+    },
+    "2679790": {
+      "rank": 1253,
+      "estimate": "25k+",
+      "name": "Baron",
+      "releaseDate": "2026-10-22",
+      "source": "tracked"
     },
     "2680440": {
       "rank": 2687,
