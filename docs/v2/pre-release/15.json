@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-23T05:28:12.094Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-23T10:34:30.715Z",
+  "entryCount": 41,
   "entries": {
     "467700": {
       "rank": 1203,
@@ -286,6 +286,13 @@
       "estimate": "25k+",
       "name": "Brick by Brick: Tidy Up the Small Town!",
       "releaseDate": "2026-10-15",
+      "source": "tracked"
+    },
+    "5335510": {
+      "rank": 794,
+      "estimate": "40k+",
+      "name": "Moon Sweepers",
+      "releaseDate": "2026-10-23",
       "source": "tracked"
     }
   }
