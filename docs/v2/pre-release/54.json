@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-23T15:14:27.989Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-23T19:25:29.299Z",
+  "entryCount": 41,
   "entries": {
     "889750": {
       "rank": 90,
@@ -261,6 +261,13 @@
       "estimate": "<7k",
       "name": "nonogram",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4326170": {
+      "rank": 6177,
+      "estimate": "<7k",
+      "name": "Esports Manager: FPS",
+      "releaseDate": "2026-10-23",
       "source": "tracked"
     },
     "4529700": {

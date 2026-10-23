@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-23T15:14:27.989Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-23T19:25:29.299Z",
+  "entryCount": 32,
   "entries": {
     "751630": {
       "rank": 64,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Blast'N Bounty",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "5316540": {
+      "rank": 2737,
+      "estimate": "7k+",
+      "name": "Tidy Up the Halloween Shop",
+      "releaseDate": "2026-10-23",
       "source": "tracked"
     }
   }

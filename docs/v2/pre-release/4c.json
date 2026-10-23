@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-23T15:14:27.989Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-23T19:25:29.299Z",
+  "entryCount": 37,
   "entries": {
     "774801": {
       "rank": 157,
@@ -165,6 +165,13 @@
       "estimate": "40k+",
       "name": "Anomaly President",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "3168520": {
+      "rank": 1513,
+      "estimate": "15k+",
+      "name": "BloomTale",
+      "releaseDate": "2026-10-23",
       "source": "tracked"
     },
     "3205520": {

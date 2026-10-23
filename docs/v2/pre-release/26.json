@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-23T15:14:27.989Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-23T19:25:29.299Z",
+  "entryCount": 37,
   "entries": {
     "758690": {
       "rank": 7,
@@ -159,6 +159,13 @@
       "name": "SimRail - The Railway Simulator: Cargo Pack",
       "releaseDate": "2024-04-22",
       "source": "historical"
+    },
+    "3129420": {
+      "rank": 1348,
+      "estimate": "25k+",
+      "name": "ASPIS",
+      "releaseDate": "2026-10-23",
+      "source": "tracked"
     },
     "3496340": {
       "rank": 3757,

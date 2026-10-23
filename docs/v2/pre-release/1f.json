@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-23T15:14:27.989Z",
-  "entryCount": 44,
+  "updatedAt": "2026-10-23T19:25:29.299Z",
+  "entryCount": 45,
   "entries": {
     "830540": {
       "rank": 1466,
@@ -311,6 +311,13 @@
       "estimate": "<7k",
       "name": "Hydra Heli 2",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "4486370": {
+      "rank": 4134,
+      "estimate": "<7k",
+      "name": "Banana Life Sim",
+      "releaseDate": "2026-10-23",
       "source": "tracked"
     },
     "4542210": {
