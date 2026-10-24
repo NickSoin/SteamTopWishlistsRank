@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-24T05:03:47.586Z",
-  "entryCount": 26,
+  "updatedAt": "2026-10-24T10:02:36.740Z",
+  "entryCount": 27,
   "entries": {
     "1104600": {
       "rank": 756,
@@ -10,22 +10,22 @@
       "name": "Rune Fencer Illyia"
     },
     "1563250": {
-      "rank": 4658,
+      "rank": 4659,
       "estimate": "<7k",
       "name": "Beast Hour"
     },
     "2275750": {
-      "rank": 1459,
+      "rank": 1460,
       "estimate": "25k+",
       "name": "Ascendance"
     },
     "2411790": {
-      "rank": 5136,
+      "rank": 5138,
       "estimate": "<7k",
       "name": "AMYGDALA: Prelude"
     },
     "2418340": {
-      "rank": 5875,
+      "rank": 5883,
       "estimate": "<7k",
       "name": "Freedom Tower"
     },
@@ -35,17 +35,17 @@
       "name": "Symbiosis"
     },
     "2939100": {
-      "rank": 3958,
+      "rank": 3963,
       "estimate": "<7k",
       "name": "Apomo District"
     },
     "2968270": {
-      "rank": 2269,
+      "rank": 2270,
       "estimate": "7k+",
       "name": "Toymaker: Threads of Joy"
     },
     "3216150": {
-      "rank": 4019,
+      "rank": 4024,
       "estimate": "<7k",
       "name": "Scourge of the Reptiles"
     },
@@ -55,32 +55,32 @@
       "name": "Cast Outs"
     },
     "3309290": {
-      "rank": 1531,
+      "rank": 1533,
       "estimate": "15k+",
       "name": "Black Raven"
     },
     "3550940": {
-      "rank": 3596,
+      "rank": 3555,
       "estimate": "<7k",
       "name": "JIAOHUN"
     },
     "3749580": {
-      "rank": 424,
+      "rank": 423,
       "estimate": "80k+",
       "name": "He-Man and the Masters of the Universe™: Dragon Pearl of Destruction"
     },
     "3804010": {
-      "rank": 4275,
+      "rank": 4280,
       "estimate": "<7k",
       "name": "Industronaut"
     },
     "3818770": {
-      "rank": 2152,
+      "rank": 2151,
       "estimate": "7k+",
       "name": "SuperWEIRD: Automation Roguelite"
     },
     "3846210": {
-      "rank": 2284,
+      "rank": 2287,
       "estimate": "7k+",
       "name": "The Last Poem"
     },
@@ -90,27 +90,27 @@
       "name": "Mona: The Endless Journey"
     },
     "3878040": {
-      "rank": 5086,
+      "rank": 5090,
       "estimate": "<7k",
       "name": "Box or Void"
     },
     "3907830": {
-      "rank": 2576,
+      "rank": 2578,
       "estimate": "7k+",
       "name": "Car Crime Simulator"
     },
     "3957530": {
-      "rank": 3643,
+      "rank": 3645,
       "estimate": "<7k",
       "name": "Shenmue III Enhanced"
     },
     "4123800": {
-      "rank": 742,
+      "rank": 743,
       "estimate": "40k+",
       "name": "The Road"
     },
     "4262460": {
-      "rank": 2095,
+      "rank": 2078,
       "estimate": "7k+",
       "name": "ROB RUN"
     },
@@ -125,7 +125,7 @@
       "name": "CRACK"
     },
     "4651080": {
-      "rank": 2670,
+      "rank": 2659,
       "estimate": "7k+",
       "name": "CelSector"
     },
@@ -133,6 +133,11 @@
       "rank": 377,
       "estimate": "80k+",
       "name": "Ringwyrm"
+    },
+    "5012060": {
+      "rank": 5840,
+      "estimate": "<7k",
+      "name": "Caterva: Outsider Dreams"
     }
   }
 }
