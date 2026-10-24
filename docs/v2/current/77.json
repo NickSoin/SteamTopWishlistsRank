@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-23T19:25:29.299Z",
-  "entryCount": 25,
+  "updatedAt": "2026-10-23T23:14:48.623Z",
+  "entryCount": 26,
   "entries": {
     "1641570": {
-      "rank": 3421,
+      "rank": 3422,
       "estimate": "<7k",
       "name": "TREMEN"
     },
     "1802810": {
-      "rank": 5001,
+      "rank": 5007,
       "estimate": "<7k",
       "name": "メーアステイル 小さな国のアイテム屋さん／Mearstale our little item shop"
     },
@@ -20,12 +20,12 @@
       "name": "Farmwand"
     },
     "2175180": {
-      "rank": 1137,
+      "rank": 1138,
       "estimate": "25k+",
       "name": "Primitive"
     },
     "2309440": {
-      "rank": 2196,
+      "rank": 2198,
       "estimate": "7k+",
       "name": "Combat Champions"
     },
@@ -35,47 +35,47 @@
       "name": "Vicious Red"
     },
     "2537270": {
-      "rank": 2227,
+      "rank": 2220,
       "estimate": "7k+",
       "name": "4:AM"
     },
     "2564090": {
-      "rank": 5319,
+      "rank": 5324,
       "estimate": "<7k",
       "name": "Master of Deception"
     },
     "2611240": {
-      "rank": 1997,
+      "rank": 1998,
       "estimate": "15k+",
       "name": "Normal Fishing"
     },
     "2758190": {
-      "rank": 2889,
+      "rank": 2891,
       "estimate": "7k+",
       "name": "Our Freedom: Medieval Village"
     },
     "2763310": {
-      "rank": 2331,
+      "rank": 2332,
       "estimate": "7k+",
       "name": "Untethered"
     },
     "2909020": {
-      "rank": 5042,
+      "rank": 5046,
       "estimate": "<7k",
       "name": "Delic"
     },
     "3541490": {
-      "rank": 4254,
+      "rank": 4257,
       "estimate": "<7k",
       "name": "Dancing Bones"
     },
     "3799530": {
-      "rank": 634,
+      "rank": 635,
       "estimate": "40k+",
       "name": "Eye of the Match: The VAR Game"
     },
     "3842100": {
-      "rank": 3735,
+      "rank": 3734,
       "estimate": "<7k",
       "name": "Chigusa's Diary"
     },
@@ -85,42 +85,42 @@
       "name": "见习死神"
     },
     "3940440": {
-      "rank": 5216,
+      "rank": 5213,
       "estimate": "<7k",
       "name": "Puppy Truck"
     },
     "3956120": {
-      "rank": 2944,
+      "rank": 2947,
       "estimate": "7k+",
       "name": "星渊勇者 StarAbyss Heroes"
     },
     "4151070": {
-      "rank": 2033,
+      "rank": 2036,
       "estimate": "7k+",
       "name": "Heart Flipper: A House Flipper Dating Sim"
     },
     "4375360": {
-      "rank": 2959,
+      "rank": 2960,
       "estimate": "7k+",
       "name": "Terms of Surrender"
     },
     "4430490": {
-      "rank": 3560,
+      "rank": 3564,
       "estimate": "<7k",
       "name": "Demon Seed - Season 1"
     },
     "4443290": {
-      "rank": 4586,
+      "rank": 4587,
       "estimate": "<7k",
       "name": "Capybara Simulator"
     },
     "4620660": {
-      "rank": 4785,
+      "rank": 4779,
       "estimate": "<7k",
       "name": "Purrfect Keeper"
     },
     "4902580": {
-      "rank": 5133,
+      "rank": 5127,
       "estimate": "<7k",
       "name": "Jay and Silent Bob's Joint Venture"
     },
@@ -128,6 +128,11 @@
       "rank": 156,
       "estimate": "200k+",
       "name": "Find The Needle"
+    },
+    "5311990": {
+      "rank": 5860,
+      "estimate": "<7k",
+      "name": "Happy Happy Office"
     }
   }
 }
