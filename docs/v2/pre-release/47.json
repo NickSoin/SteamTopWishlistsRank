@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-23T23:14:48.623Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-24T05:03:47.586Z",
+  "entryCount": 41,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -150,6 +150,13 @@
       "name": "Miniatures",
       "releaseDate": "2024-11-14",
       "source": "historical"
+    },
+    "2445430": {
+      "rank": 2035,
+      "estimate": "7k+",
+      "name": "Tensei Brave",
+      "releaseDate": "2026-10-23",
+      "source": "tracked"
     },
     "2567770": {
       "rank": 2280,

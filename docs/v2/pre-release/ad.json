@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-23T23:14:48.623Z",
-  "entryCount": 43,
+  "updatedAt": "2026-10-24T05:03:47.586Z",
+  "entryCount": 44,
   "entries": {
     "658920": {
       "rank": 716,
@@ -303,6 +303,13 @@
       "estimate": "<7k",
       "name": "Ravenswatch - Kintaro",
       "releaseDate": "2026-10-12",
+      "source": "tracked"
+    },
+    "5195600": {
+      "rank": 5587,
+      "estimate": "<7k",
+      "name": "QuestAway",
+      "releaseDate": "2026-10-23",
       "source": "tracked"
     }
   }

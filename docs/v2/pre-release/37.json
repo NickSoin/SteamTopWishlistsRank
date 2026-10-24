@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-23T23:14:48.623Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-24T05:03:47.586Z",
+  "entryCount": 38,
   "entries": {
     "863500": {
       "rank": 1011,
@@ -240,6 +240,13 @@
       "estimate": "<7k",
       "name": "OCEANIDES: World's End – Great Mother Goddess of the Void Sea",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "4690300": {
+      "rank": 3088,
+      "estimate": "<7k",
+      "name": "Slave Princess Elnea",
+      "releaseDate": "2026-10-23",
       "source": "tracked"
     },
     "4696610": {
