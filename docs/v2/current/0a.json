@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-24T10:02:36.740Z",
-  "entryCount": 19,
+  "updatedAt": "2026-10-24T14:11:53.829Z",
+  "entryCount": 20,
   "entries": {
     "643370": {
-      "rank": 4477,
+      "rank": 4484,
       "estimate": "<7k",
       "name": "eSports Manager"
     },
     "1446790": {
-      "rank": 4567,
+      "rank": 4569,
       "estimate": "<7k",
       "name": "CRUDE"
     },
@@ -20,12 +20,12 @@
       "name": "Sanctus"
     },
     "2186440": {
-      "rank": 5236,
+      "rank": 5239,
       "estimate": "<7k",
       "name": "間違った社員教育 まったく君の会社ではいったいどんな社員教育を(略)"
     },
     "2418040": {
-      "rank": 2328,
+      "rank": 2327,
       "estimate": "7k+",
       "name": "Beyond The Plastic Wall"
     },
@@ -35,17 +35,17 @@
       "name": "Little Cheese Works"
     },
     "2533000": {
-      "rank": 4313,
+      "rank": 4320,
       "estimate": "<7k",
       "name": "Small Kingdoms"
     },
     "2578180": {
-      "rank": 2034,
+      "rank": 2035,
       "estimate": "7k+",
       "name": "Save the Villainess: An Otome Isekai Roleplaying Game"
     },
     "2785740": {
-      "rank": 432,
+      "rank": 433,
       "estimate": "80k+",
       "name": "Diesel Knights"
     },
@@ -60,12 +60,12 @@
       "name": "A Simple Life with My Unobtrusive Sister"
     },
     "3594550": {
-      "rank": 2936,
+      "rank": 2940,
       "estimate": "7k+",
       "name": "Billy the Hero"
     },
     "3639510": {
-      "rank": 3313,
+      "rank": 3314,
       "estimate": "<7k",
       "name": "Cutting Edge: Roots Of Mutation"
     },
@@ -85,7 +85,7 @@
       "name": "Fourteen Years of Flames"
     },
     "4660450": {
-      "rank": 5180,
+      "rank": 5186,
       "estimate": "<7k",
       "name": "Caravana 2000"
     },
@@ -95,9 +95,14 @@
       "name": "GnomeBoozled"
     },
     "4870080": {
-      "rank": 4708,
+      "rank": 4710,
       "estimate": "<7k",
       "name": "Lazare's Sacrifice"
+    },
+    "5088820": {
+      "rank": 5841,
+      "estimate": "<7k",
+      "name": "Get Us Out"
     }
   }
 }

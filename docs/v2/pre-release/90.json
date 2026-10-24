@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-24T10:02:36.740Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-24T14:11:53.829Z",
+  "entryCount": 36,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "NIGHTMIST",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "5038160": {
+      "rank": 2908,
+      "estimate": "7k+",
+      "name": "SQUIRT GAME 💦",
+      "releaseDate": "2026-10-24",
       "source": "tracked"
     },
     "5102980": {
