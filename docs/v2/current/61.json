@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-24T22:52:34.920Z",
-  "entryCount": 20,
+  "updatedAt": "2026-10-25T05:14:35.756Z",
+  "entryCount": 21,
   "entries": {
     "892740": {
-      "rank": 3498,
+      "rank": 3503,
       "estimate": "<7k",
       "name": "Bloom"
     },
     "1303850": {
-      "rank": 3875,
+      "rank": 3878,
       "estimate": "<7k",
       "name": "Alchemic Beasts"
     },
@@ -20,62 +20,62 @@
       "name": "The Parasites"
     },
     "1827260": {
-      "rank": 4641,
+      "rank": 4644,
       "estimate": "<7k",
       "name": "The Lawyer - Episode 1: The White Bag"
     },
     "2015420": {
-      "rank": 2407,
+      "rank": 2410,
       "estimate": "7k+",
       "name": "Portal Versus"
     },
     "2251970": {
-      "rank": 587,
+      "rank": 588,
       "estimate": "40k+",
       "name": "Tokyo Stories"
     },
     "2381860": {
-      "rank": 3863,
+      "rank": 3870,
       "estimate": "<7k",
       "name": "The Red Selene"
     },
     "2572590": {
-      "rank": 4001,
+      "rank": 4007,
       "estimate": "<7k",
       "name": "Underground Nomads"
     },
     "2742230": {
-      "rank": 4482,
+      "rank": 4485,
       "estimate": "<7k",
       "name": "Stone"
     },
     "2773560": {
-      "rank": 4720,
+      "rank": 4724,
       "estimate": "<7k",
       "name": "AM"
     },
     "2850290": {
-      "rank": 2103,
+      "rank": 2105,
       "estimate": "7k+",
       "name": "Brightfall"
     },
     "2937690": {
-      "rank": 2000,
-      "estimate": "15k+",
+      "rank": 2002,
+      "estimate": "7k+",
       "name": "Memora Wanderer"
     },
     "2989840": {
-      "rank": 4971,
+      "rank": 4976,
       "estimate": "<7k",
       "name": "BANSHEE: Demon Girl"
     },
     "3017360": {
-      "rank": 5659,
+      "rank": 5671,
       "estimate": "<7k",
       "name": "Ember Souls"
     },
     "3319680": {
-      "rank": 5245,
+      "rank": 5221,
       "estimate": "<7k",
       "name": "Delve Survivors"
     },
@@ -85,24 +85,29 @@
       "name": "Indigo Park: Chapter 2"
     },
     "3783980": {
-      "rank": 1781,
+      "rank": 1782,
       "estimate": "15k+",
       "name": "Above: Colonies of the Mist"
     },
     "4261180": {
-      "rank": 1021,
+      "rank": 1022,
       "estimate": "25k+",
       "name": "Ascension: The Hehuan Sect & 66 Waifus"
     },
     "4435590": {
-      "rank": 3781,
+      "rank": 3784,
       "estimate": "<7k",
       "name": "Lizard State"
     },
     "4688400": {
-      "rank": 2919,
+      "rank": 2908,
       "estimate": "7k+",
       "name": "Cats In The Shell"
+    },
+    "5193260": {
+      "rank": 5909,
+      "estimate": "<7k",
+      "name": "Oblivion 2666"
     }
   }
 }
