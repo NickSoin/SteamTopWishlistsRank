@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-25T10:23:34.754Z",
-  "entryCount": 18,
+  "updatedAt": "2026-10-25T14:33:01.562Z",
+  "entryCount": 19,
   "entries": {
     "989350": {
-      "rank": 5283,
+      "rank": 5289,
       "estimate": "<7k",
       "name": "Running Rogue"
     },
     "1043110": {
-      "rank": 3045,
+      "rank": 3049,
       "estimate": "<7k",
       "name": "Kaiju Fishing"
     },
     "1185380": {
-      "rank": 3011,
+      "rank": 3012,
       "estimate": "<7k",
       "name": "The Season of the Warlock"
     },
@@ -25,21 +25,26 @@
       "name": "Once,in Times of Chaos"
     },
     "1752210": {
-      "rank": 5921,
+      "rank": 5924,
       "estimate": "<7k",
       "name": "Red Embrace: Paradisus"
     },
     "2362070": {
-      "rank": 879,
+      "rank": 880,
       "estimate": "40k+",
       "name": "Hollow Home",
       "actualWishlists": 30000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800991756305442"
     },
     "2390660": {
-      "rank": 5127,
+      "rank": 5135,
       "estimate": "<7k",
       "name": "Collapsed Galaxy 2"
+    },
+    "2482110": {
+      "rank": 5922,
+      "estimate": "<7k",
+      "name": "Rogue Mech"
     },
     "2979810": {
       "rank": 509,
@@ -52,27 +57,27 @@
       "name": "SPRKLS.exe"
     },
     "3839180": {
-      "rank": 699,
+      "rank": 698,
       "estimate": "40k+",
       "name": "POSTAL 2 Redux"
     },
     "4528010": {
-      "rank": 2990,
+      "rank": 2991,
       "estimate": "7k+",
       "name": "Signal Veil"
     },
     "4664240": {
-      "rank": 397,
+      "rank": 399,
       "estimate": "80k+",
       "name": "Hard Worker"
     },
     "4712480": {
-      "rank": 4580,
+      "rank": 4584,
       "estimate": "<7k",
       "name": "The Grey Dream - Season 2"
     },
     "4770970": {
-      "rank": 3572,
+      "rank": 3562,
       "estimate": "<7k",
       "name": "Dark Side Void"
     },
@@ -87,12 +92,12 @@
       "name": "Afterworld"
     },
     "5016130": {
-      "rank": 5330,
+      "rank": 5328,
       "estimate": "<7k",
       "name": "Warpack"
     },
     "5317860": {
-      "rank": 4347,
+      "rank": 4348,
       "estimate": "<7k",
       "name": "Slavlands: Tribes at War"
     }
