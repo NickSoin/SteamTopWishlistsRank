@@ -1,46 +1,46 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-25T05:14:35.756Z",
-  "entryCount": 21,
+  "updatedAt": "2026-10-25T10:23:34.754Z",
+  "entryCount": 22,
   "entries": {
     "395830": {
-      "rank": 893,
+      "rank": 894,
       "estimate": "40k+",
       "name": "LOW-FI"
     },
     "796530": {
-      "rank": 3301,
+      "rank": 3309,
       "estimate": "<7k",
       "name": "ALTERA"
     },
     "827210": {
-      "rank": 5726,
+      "rank": 5732,
       "estimate": "<7k",
       "name": "Death Carnival"
     },
     "1300880": {
-      "rank": 5179,
+      "rank": 5187,
       "estimate": "<7k",
       "name": "Glitchphobia"
     },
     "1354980": {
-      "rank": 2023,
+      "rank": 2024,
       "estimate": "7k+",
       "name": "Decimated"
     },
     "1503490": {
-      "rank": 2562,
+      "rank": 2564,
       "estimate": "7k+",
       "name": "FarmZone"
     },
     "1549830": {
-      "rank": 3295,
+      "rank": 3302,
       "estimate": "<7k",
       "name": "CyberPunk SEX Tower"
     },
     "1836400": {
-      "rank": 1813,
+      "rank": 1814,
       "estimate": "15k+",
       "name": "Mossfield Origins"
     },
@@ -55,7 +55,7 @@
       "name": "NO LAW"
     },
     "2337180": {
-      "rank": 3700,
+      "rank": 3702,
       "estimate": "<7k",
       "name": "I NEED SPACE"
     },
@@ -65,37 +65,37 @@
       "name": "Sirens"
     },
     "3068720": {
-      "rank": 1046,
+      "rank": 1047,
       "estimate": "25k+",
       "name": "I Am Security"
     },
     "3145850": {
-      "rank": 4064,
+      "rank": 4072,
       "estimate": "<7k",
       "name": "Rootmare"
     },
     "3195150": {
-      "rank": 4305,
+      "rank": 4306,
       "estimate": "<7k",
       "name": "Clowned King"
     },
     "3444810": {
-      "rank": 4678,
+      "rank": 4682,
       "estimate": "<7k",
       "name": "Wonderfall"
     },
     "3723830": {
-      "rank": 2895,
+      "rank": 2900,
       "estimate": "7k+",
       "name": "群魔死欲之山"
     },
     "4135050": {
-      "rank": 3221,
+      "rank": 3218,
       "estimate": "<7k",
       "name": "Kameko: Cosplay Love Story"
     },
     "4176640": {
-      "rank": 2171,
+      "rank": 2125,
       "estimate": "7k+",
       "name": "Monster Retreat"
     },
@@ -105,9 +105,14 @@
       "name": "Euro Truck Simulator 2 - Soul of Anatolia"
     },
     "4621810": {
-      "rank": 5816,
+      "rank": 5776,
       "estimate": "<7k",
       "name": "Livin' the Cream: Ice Cream Simulator"
+    },
+    "5020090": {
+      "rank": 5852,
+      "estimate": "<7k",
+      "name": "Real Zombie Survivors"
     }
   }
 }

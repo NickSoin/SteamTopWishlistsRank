@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-25T05:14:35.756Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-25T10:23:34.754Z",
+  "entryCount": 32,
   "entries": {
     "594230": {
-      "rank": 2677,
+      "rank": 2678,
       "estimate": "7k+",
       "name": "GLITCHED"
     },
     "612660": {
-      "rank": 1714,
+      "rank": 1718,
       "estimate": "15k+",
       "name": "Just Us"
     },
     "1285050": {
-      "rank": 2700,
+      "rank": 2704,
       "estimate": "7k+",
       "name": "Noah's Ark"
     },
     "1536440": {
-      "rank": 3058,
+      "rank": 3061,
       "estimate": "<7k",
       "name": "Platoon Commander"
     },
     "1692120": {
-      "rank": 2307,
+      "rank": 2313,
       "estimate": "7k+",
       "name": "Airtight City 2.0 : Awakening"
     },
@@ -35,12 +35,12 @@
       "name": "Guns Undarkness"
     },
     "1959890": {
-      "rank": 5491,
+      "rank": 5498,
       "estimate": "<7k",
       "name": "Mandate Eternal"
     },
     "2440760": {
-      "rank": 766,
+      "rank": 759,
       "estimate": "40k+",
       "name": "GRAVHOUNDS"
     },
@@ -50,39 +50,39 @@
       "name": "Surviving Deponia"
     },
     "2541940": {
-      "rank": 2976,
+      "rank": 2978,
       "estimate": "7k+",
       "name": "Lust of God"
     },
     "2638080": {
-      "rank": 333,
+      "rank": 332,
       "estimate": "80k+",
       "name": "Annihilated",
       "actualWishlists": 70000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059917121"
     },
     "2753400": {
-      "rank": 5460,
+      "rank": 5466,
       "estimate": "<7k",
       "name": "Demon Crush"
     },
     "2795590": {
-      "rank": 1450,
+      "rank": 1453,
       "estimate": "25k+",
       "name": "Compensation Not Guaranteed"
     },
     "2893250": {
-      "rank": 1412,
+      "rank": 1413,
       "estimate": "25k+",
       "name": "AGRONOM"
     },
     "2904640": {
-      "rank": 2223,
+      "rank": 2226,
       "estimate": "7k+",
       "name": "Click Click Dig: Idle Mine"
     },
     "3001740": {
-      "rank": 566,
+      "rank": 567,
       "estimate": "40k+",
       "name": "Pelican Harbor"
     },
@@ -92,7 +92,7 @@
       "name": "HYPERyuki: Snowboard Syndicate"
     },
     "3280150": {
-      "rank": 2960,
+      "rank": 2956,
       "estimate": "7k+",
       "name": "Lone Chef"
     },
@@ -102,22 +102,22 @@
       "name": "Elusive"
     },
     "3564580": {
-      "rank": 5243,
+      "rank": 5242,
       "estimate": "<7k",
       "name": "Tricky and the Dream Caster"
     },
     "3810210": {
-      "rank": 5005,
+      "rank": 5012,
       "estimate": "<7k",
       "name": "North Shore"
     },
     "3832030": {
-      "rank": 1027,
+      "rank": 1021,
       "estimate": "25k+",
       "name": "BOOST VECTOR EX"
     },
     "3963620": {
-      "rank": 591,
+      "rank": 592,
       "estimate": "40k+",
       "name": "妹居物语"
     },
@@ -127,39 +127,44 @@
       "name": "Escape the Riddlerock Ruins"
     },
     "4077320": {
-      "rank": 5412,
+      "rank": 5406,
       "estimate": "<7k",
       "name": "Cardaire: Eternal Aces"
     },
     "4234910": {
-      "rank": 3238,
+      "rank": 3235,
       "estimate": "<7k",
       "name": "Taboo University Book Two"
     },
     "4252280": {
-      "rank": 2858,
+      "rank": 2861,
       "estimate": "7k+",
       "name": "Quack Hunters"
     },
     "4456800": {
-      "rank": 4851,
+      "rank": 4853,
       "estimate": "<7k",
       "name": "Pharmacist Simulator"
     },
     "4533950": {
-      "rank": 378,
+      "rank": 379,
       "estimate": "80k+",
       "name": "Prove You're Human"
     },
     "4540480": {
-      "rank": 5217,
+      "rank": 5222,
       "estimate": "<7k",
       "name": "SATURN. LEGACY"
     },
     "4618570": {
-      "rank": 752,
+      "rank": 748,
       "estimate": "40k+",
       "name": "Booster Pack Heroes"
+    },
+    "4796100": {
+      "rank": 5867,
+      "estimate": "<7k",
+      "name": "Company Captain: Westashes"
     }
   }
 }

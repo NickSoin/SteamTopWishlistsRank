@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-25T05:14:35.756Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-25T10:23:34.754Z",
+  "entryCount": 36,
   "entries": {
     "975370": {
       "rank": 8,
@@ -249,6 +249,13 @@
       "estimate": "25k+",
       "name": "Thank You Bus Driver",
       "releaseDate": "2026-10-14",
+      "source": "tracked"
+    },
+    "5084200": {
+      "rank": 3484,
+      "estimate": "<7k",
+      "name": "Task Bar Cube",
+      "releaseDate": "2026-10-25",
       "source": "tracked"
     }
   }
