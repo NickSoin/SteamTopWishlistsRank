@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-25T14:33:01.562Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-25T18:30:45.333Z",
+  "entryCount": 39,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -244,6 +244,13 @@
       "estimate": "7k+",
       "name": "Catto Pew Pew!",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "3872430": {
+      "rank": 9876,
+      "estimate": "<7k",
+      "name": "SCP: Project Pneuma",
+      "releaseDate": "2026-10-25",
       "source": "tracked"
     },
     "4300950": {
