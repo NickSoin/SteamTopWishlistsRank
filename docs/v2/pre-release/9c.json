@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 41,
   "entries": {
     "649950": {
       "rank": 19,
@@ -198,6 +198,13 @@
       "source": "tracked",
       "actualWishlists": 288000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791908"
+    },
+    "3194080": {
+      "rank": 7504,
+      "estimate": "<7k",
+      "name": "Calvar - The Darkest Gate",
+      "releaseDate": "2026-10-26",
+      "source": "tracked"
     },
     "3326670": {
       "rank": 2514,

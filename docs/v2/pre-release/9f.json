@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 36,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Roulette Dungeon",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "3460540": {
+      "rank": 6892,
+      "estimate": "<7k",
+      "name": "Cardtographer",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     },
     "3744950": {

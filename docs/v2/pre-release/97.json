@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 29,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 30,
   "entries": {
     "488860": {
       "rank": 116,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Newbie: Become a Skateboarder",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4834850": {
+      "rank": 5484,
+      "estimate": "<7k",
+      "name": "Ecstatica II",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     }
   }

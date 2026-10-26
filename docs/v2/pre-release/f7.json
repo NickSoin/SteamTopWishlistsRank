@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 25,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 26,
   "entries": {
     "1071140": {
       "rank": 202,
@@ -149,6 +149,13 @@
       "estimate": "<7k",
       "name": "Poopy's Playland",
       "releaseDate": "2026-09-18",
+      "source": "tracked"
+    },
+    "3965430": {
+      "rank": 1203,
+      "estimate": "25k+",
+      "name": "The Mailroom",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     },
     "4119760": {

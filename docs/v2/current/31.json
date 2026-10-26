@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 21,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 23,
   "entries": {
     "993960": {
-      "rank": 2190,
+      "rank": 2184,
       "estimate": "7k+",
       "name": "The Faceless Double"
     },
     "1321160": {
-      "rank": 4543,
+      "rank": 4539,
       "estimate": "<7k",
       "name": "Wuppo: Breft Festival (Forever)"
     },
@@ -20,57 +20,57 @@
       "name": "Sanctuary: Shattered Sun"
     },
     "1879270": {
-      "rank": 2856,
+      "rank": 2829,
       "estimate": "7k+",
       "name": "Into the Crypt"
     },
     "1931040": {
-      "rank": 1320,
+      "rank": 1321,
       "estimate": "25k+",
       "name": "Dreamsettler"
     },
     "2003070": {
-      "rank": 3375,
+      "rank": 3371,
       "estimate": "<7k",
       "name": "Orc Warchief: Prologue"
     },
     "2147770": {
-      "rank": 3001,
-      "estimate": "<7k",
+      "rank": 2993,
+      "estimate": "7k+",
       "name": "Bride Corruption 💍"
     },
     "2154420": {
-      "rank": 1387,
+      "rank": 1385,
       "estimate": "25k+",
       "name": "Never Alone 2"
     },
     "3251540": {
-      "rank": 1059,
+      "rank": 1060,
       "estimate": "25k+",
       "name": "Oil Rig Simulator"
     },
     "3353880": {
-      "rank": 3680,
+      "rank": 3677,
       "estimate": "<7k",
       "name": "What a Legend!"
     },
     "3438910": {
-      "rank": 3396,
+      "rank": 3393,
       "estimate": "<7k",
       "name": "Project RR"
     },
     "3673500": {
-      "rank": 1634,
+      "rank": 1627,
       "estimate": "15k+",
       "name": "BACKROOMS"
     },
     "3718500": {
-      "rank": 1728,
+      "rank": 1721,
       "estimate": "15k+",
       "name": "The Bagman"
     },
     "3739350": {
-      "rank": 2929,
+      "rank": 2877,
       "estimate": "7k+",
       "name": "Path of the Yaoguai"
     },
@@ -80,34 +80,44 @@
       "name": "KingFish"
     },
     "4026590": {
-      "rank": 5594,
+      "rank": 5587,
       "estimate": "<7k",
       "name": "Nocthra"
     },
     "4272900": {
-      "rank": 5707,
+      "rank": 5692,
       "estimate": "<7k",
       "name": "MW: Living Legends"
     },
     "4338750": {
-      "rank": 2766,
+      "rank": 2759,
       "estimate": "7k+",
       "name": "Stack Order"
     },
     "4480060": {
-      "rank": 2223,
+      "rank": 2216,
       "estimate": "7k+",
       "name": "Hidden Folks 2"
     },
     "4595230": {
-      "rank": 4933,
+      "rank": 4918,
       "estimate": "<7k",
       "name": "Headpat Special Taskforce"
     },
     "4704920": {
-      "rank": 1769,
+      "rank": 1764,
       "estimate": "15k+",
       "name": "Prison Pocket Patrol"
+    },
+    "4854120": {
+      "rank": 5297,
+      "estimate": "<7k",
+      "name": "Ski Lines: Trail Map"
+    },
+    "5146640": {
+      "rank": 5832,
+      "estimate": "<7k",
+      "name": "Farm Saga"
     }
   }
 }

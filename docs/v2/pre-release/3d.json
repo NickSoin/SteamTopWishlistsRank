@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 42,
   "entries": {
     "751780": {
       "rank": 21,
@@ -258,6 +258,13 @@
       "estimate": "25k+",
       "name": "Abyss Kitchen",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "3760770": {
+      "rank": 4015,
+      "estimate": "<7k",
+      "name": "Space Savory",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     },
     "3881510": {

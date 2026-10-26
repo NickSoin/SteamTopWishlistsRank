@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 37,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -191,6 +191,13 @@
       "estimate": "7k+",
       "name": "Last Drop",
       "releaseDate": "2026-08-18",
+      "source": "tracked"
+    },
+    "3841580": {
+      "rank": 2754,
+      "estimate": "7k+",
+      "name": "Aibond",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     },
     "3940610": {

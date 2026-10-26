@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 35,
   "entries": {
     "979110": {
       "rank": 38,
@@ -121,6 +121,13 @@
       "estimate": "<7k",
       "name": "The Hidden Scrolls",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "3310570": {
+      "rank": 1929,
+      "estimate": "15k+",
+      "name": "Night Plane",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     },
     "3418500": {

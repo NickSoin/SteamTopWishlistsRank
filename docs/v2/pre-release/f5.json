@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 43,
   "entries": {
     "458430": {
       "rank": 911,
@@ -298,6 +298,13 @@
       "estimate": "<7k",
       "name": "Homicide Desk",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "5352720": {
+      "rank": 4792,
+      "estimate": "<7k",
+      "name": "MemeticBox",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     }
   }

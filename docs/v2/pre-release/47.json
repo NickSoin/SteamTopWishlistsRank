@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 42,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -254,6 +254,13 @@
       "estimate": "<7k",
       "name": "The War Disorder Hexa",
       "releaseDate": "2026-09-29",
+      "source": "tracked"
+    },
+    "4312190": {
+      "rank": 418,
+      "estimate": "80k+",
+      "name": "CRACK",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     },
     "4391380": {

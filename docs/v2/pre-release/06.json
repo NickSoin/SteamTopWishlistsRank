@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 38,
   "entries": {
     "1040200": {
       "rank": 65,
@@ -165,6 +165,13 @@
       "name": "Three Minutes To Eight",
       "releaseDate": "2023-10-23",
       "source": "historical"
+    },
+    "2379350": {
+      "rank": 1084,
+      "estimate": "25k+",
+      "name": "Scramble Knights Online",
+      "releaseDate": "2026-10-26",
+      "source": "tracked"
     },
     "2429310": {
       "rank": 1758,

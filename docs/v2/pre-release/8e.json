@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 33,
   "entries": {
     "1063030": {
       "rank": 621,
@@ -223,6 +223,13 @@
       "estimate": "40k+",
       "name": "ShipShaper: Falconeer Chronicles",
       "releaseDate": "2026-09-02",
+      "source": "tracked"
+    },
+    "4834840": {
+      "rank": 3519,
+      "estimate": "<7k",
+      "name": "Ecstatica",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     },
     "4961870": {

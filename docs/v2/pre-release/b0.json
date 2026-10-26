@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 37,
   "entries": {
     "490110": {
       "rank": 24,
@@ -240,6 +240,13 @@
       "estimate": "<7k",
       "name": "Sunset Hills - Wickel Chapter",
       "releaseDate": "2026-06-29",
+      "source": "tracked"
+    },
+    "4326130": {
+      "rank": 4681,
+      "estimate": "<7k",
+      "name": "Spooky Market",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     },
     "4463680": {

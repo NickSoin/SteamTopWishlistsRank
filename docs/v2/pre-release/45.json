@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 34,
   "entries": {
     "541310": {
       "rank": 21,
@@ -209,6 +209,13 @@
       "name": "Jotunnslayer: Hordes of Hel",
       "releaseDate": "2025-09-03",
       "source": "historical"
+    },
+    "3010170": {
+      "rank": 1613,
+      "estimate": "15k+",
+      "name": "Fangtopia",
+      "releaseDate": "2026-10-26",
+      "source": "tracked"
     },
     "4443780": {
       "rank": 5951,

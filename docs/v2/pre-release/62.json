@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 39,
   "entries": {
     "261550": {
       "rank": 7,
@@ -249,6 +249,13 @@
       "estimate": "<7k",
       "name": "Earth Online",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "4719390": {
+      "rank": 5302,
+      "estimate": "<7k",
+      "name": "Change",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     },
     "4792610": {

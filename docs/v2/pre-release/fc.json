@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 28,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 29,
   "entries": {
     "604540": {
       "rank": 12,
@@ -89,6 +89,13 @@
       "name": "Vampire: The Masquerade - Justice",
       "releaseDate": "2024-02-06",
       "source": "historical"
+    },
+    "2434930": {
+      "rank": 1585,
+      "estimate": "15k+",
+      "name": "Blue Ridge Hunting",
+      "releaseDate": "2026-10-26",
+      "source": "tracked"
     },
     "2450860": {
       "rank": 2300,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 20,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 21,
   "entries": {
     "1659360": {
       "rank": 1043,
@@ -10,99 +10,104 @@
       "name": "Townseek"
     },
     "1778300": {
-      "rank": 2266,
+      "rank": 2264,
       "estimate": "7k+",
       "name": "Fallen Saint"
     },
     "1839980": {
-      "rank": 4148,
+      "rank": 4139,
       "estimate": "<7k",
       "name": "Gloomy Juncture"
     },
     "1975640": {
-      "rank": 5022,
+      "rank": 5015,
       "estimate": "<7k",
       "name": "Fast Food On The Beach!"
     },
     "2216850": {
-      "rank": 4136,
+      "rank": 4129,
       "estimate": "<7k",
       "name": "Battle Vision"
     },
     "2271570": {
-      "rank": 3228,
+      "rank": 3230,
       "estimate": "<7k",
       "name": "REFLEXIA"
     },
     "2760720": {
-      "rank": 3078,
+      "rank": 3074,
       "estimate": "<7k",
       "name": "Bestiario"
     },
     "2869850": {
-      "rank": 933,
+      "rank": 931,
       "estimate": "40k+",
       "name": "Lorn Vale"
     },
     "3384820": {
-      "rank": 4697,
+      "rank": 4699,
       "estimate": "<7k",
       "name": "Broken Relic"
     },
     "3437690": {
-      "rank": 4365,
+      "rank": 4364,
       "estimate": "<7k",
       "name": "Project Red Sun"
     },
     "3626540": {
-      "rank": 2966,
+      "rank": 2943,
       "estimate": "7k+",
       "name": "Cinderline"
     },
     "3709760": {
-      "rank": 5685,
+      "rank": 5676,
       "estimate": "<7k",
       "name": "Cozy Potions: The Alchemist's Shop"
     },
     "3830080": {
-      "rank": 5260,
+      "rank": 5205,
       "estimate": "<7k",
       "name": "Twilight Requiem"
     },
     "3867130": {
-      "rank": 807,
+      "rank": 808,
       "estimate": "40k+",
       "name": "Rance 01 + 02"
     },
     "3873360": {
-      "rank": 4336,
+      "rank": 4335,
       "estimate": "<7k",
       "name": "Chumaky"
     },
     "4008840": {
-      "rank": 4139,
+      "rank": 4127,
       "estimate": "<7k",
       "name": "Erehwon(エレフォーン)"
     },
     "4027010": {
-      "rank": 4584,
+      "rank": 4579,
       "estimate": "<7k",
       "name": "Lewd Remedy"
     },
     "4176460": {
-      "rank": 828,
+      "rank": 829,
       "estimate": "40k+",
       "name": "Dungeons of DUSK"
     },
     "4425140": {
-      "rank": 2341,
+      "rank": 2335,
       "estimate": "7k+",
       "name": "Welcome, Dear Human"
     },
     "4595980": {
-      "rank": 3194,
+      "rank": 3187,
       "estimate": "<7k",
       "name": "Ship or Burn! Coop express"
+    },
+    "4908120": {
+      "rank": 5921,
+      "estimate": "<7k",
+      "name": "Outbreak Z"
     }
   }
 }

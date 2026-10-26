@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 29,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 31,
   "entries": {
     "666150": {
       "rank": 48,
@@ -205,6 +205,20 @@
       "estimate": "<7k",
       "name": "Slot Grind",
       "releaseDate": "2026-08-04",
+      "source": "tracked"
+    },
+    "4711360": {
+      "rank": 6431,
+      "estimate": "<7k",
+      "name": "Where Control Ends",
+      "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
+    "4715430": {
+      "rank": 3124,
+      "estimate": "<7k",
+      "name": "River Secret",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     }
   }

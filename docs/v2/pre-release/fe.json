@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 36,
   "entries": {
     "773370": {
       "rank": 126,
@@ -225,6 +225,13 @@
       "releaseDate": "2026-06-23",
       "source": "tracked"
     },
+    "4485570": {
+      "rank": 3464,
+      "estimate": "<7k",
+      "name": "Punch Upon a Time",
+      "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
     "4513390": {
       "rank": 4593,
       "estimate": "<7k",
@@ -244,6 +251,13 @@
       "estimate": "<7k",
       "name": "Thousand Floors",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4926310": {
+      "rank": 5201,
+      "estimate": "<7k",
+      "name": "Berserk Heroes Online",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     }
   }

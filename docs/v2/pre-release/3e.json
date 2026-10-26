@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 43,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 44,
   "entries": {
     "690370": {
       "rank": 17,
@@ -303,6 +303,13 @@
       "estimate": "<7k",
       "name": "Triple Pairing",
       "releaseDate": "2026-09-24",
+      "source": "tracked"
+    },
+    "5321510": {
+      "rank": 5730,
+      "estimate": "<7k",
+      "name": "Kimodameshi Online",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     }
   }

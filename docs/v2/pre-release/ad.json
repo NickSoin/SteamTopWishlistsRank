@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 44,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 45,
   "entries": {
     "658920": {
       "rank": 716,
@@ -192,6 +192,13 @@
       "name": "Shattered Minds",
       "releaseDate": "2025-04-04",
       "source": "historical"
+    },
+    "2831170": {
+      "rank": 806,
+      "estimate": "40k+",
+      "name": "Color Fear",
+      "releaseDate": "2026-10-26",
+      "source": "tracked"
     },
     "2902720": {
       "rank": 1959,

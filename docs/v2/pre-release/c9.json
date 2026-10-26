@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T11:26:48.423Z",
-  "entryCount": 46,
+  "updatedAt": "2026-10-26T20:45:11.145Z",
+  "entryCount": 48,
   "entries": {
     "856890": {
       "rank": 749,
@@ -293,6 +293,13 @@
       "releaseDate": "2026-08-28",
       "source": "tracked"
     },
+    "4395870": {
+      "rank": 905,
+      "estimate": "40k+",
+      "name": "Magical Girl ER",
+      "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
     "4486440": {
       "rank": 5598,
       "estimate": "<7k",
@@ -326,6 +333,13 @@
       "estimate": "25k+",
       "name": "SCREAM NOTE",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "5226940": {
+      "rank": 4908,
+      "estimate": "<7k",
+      "name": "Tidy Farm",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     }
   }
