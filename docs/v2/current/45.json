@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-25T23:03:20.928Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-26T05:19:58.139Z",
+  "entryCount": 32,
   "entries": {
     "885160": {
-      "rank": 2902,
+      "rank": 2909,
       "estimate": "7k+",
       "name": "BOTSU"
     },
     "1222290": {
-      "rank": 4619,
+      "rank": 4626,
       "estimate": "<7k",
       "name": "Heist Simulator"
     },
     "1303090": {
-      "rank": 2066,
+      "rank": 2071,
       "estimate": "7k+",
       "name": "Doctor Simulator"
     },
     "1402650": {
-      "rank": 4035,
+      "rank": 4041,
       "estimate": "<7k",
       "name": "Birding Simulator: Bird Photographer"
     },
     "1472730": {
-      "rank": 1944,
+      "rank": 1947,
       "estimate": "15k+",
       "name": "SimBus"
     },
@@ -35,12 +35,12 @@
       "name": "IKUMA - The Frozen Compass"
     },
     "1803110": {
-      "rank": 942,
+      "rank": 943,
       "estimate": "40k+",
       "name": "ASCENDANT"
     },
     "1963490": {
-      "rank": 4820,
+      "rank": 4827,
       "estimate": "<7k",
       "name": "Space Commander"
     },
@@ -50,32 +50,32 @@
       "name": "Ithaca"
     },
     "2325390": {
-      "rank": 5101,
+      "rank": 5110,
       "estimate": "<7k",
       "name": "AirBoost Airship Knight"
     },
     "2393870": {
-      "rank": 4176,
+      "rank": 4180,
       "estimate": "<7k",
       "name": "Whispers of the Luminaries Part 1"
     },
     "2502870": {
-      "rank": 3185,
+      "rank": 3190,
       "estimate": "<7k",
       "name": "Kanun 1919"
     },
     "2584740": {
-      "rank": 2244,
+      "rank": 2248,
       "estimate": "7k+",
       "name": "Malvinas: La Ultima Carta"
     },
     "2681870": {
-      "rank": 1428,
+      "rank": 1430,
       "estimate": "25k+",
       "name": "Kidbash: Super Legend"
     },
     "2714930": {
-      "rank": 2279,
+      "rank": 2281,
       "estimate": "7k+",
       "name": "Harbor"
     },
@@ -85,52 +85,52 @@
       "name": "Knight's Path"
     },
     "3010170": {
-      "rank": 1634,
+      "rank": 1624,
       "estimate": "15k+",
       "name": "Fangtopia"
     },
     "3036260": {
-      "rank": 872,
+      "rank": 873,
       "estimate": "40k+",
       "name": "Wylde Society"
     },
     "3176890": {
-      "rank": 4683,
+      "rank": 4690,
       "estimate": "<7k",
       "name": "Shore of Jord"
     },
     "3841910": {
-      "rank": 5004,
+      "rank": 5013,
       "estimate": "<7k",
       "name": "Marblearium"
     },
     "3867190": {
-      "rank": 1171,
+      "rank": 1173,
       "estimate": "25k+",
       "name": "Rance 03"
     },
     "4001650": {
-      "rank": 1501,
+      "rank": 1503,
       "estimate": "15k+",
       "name": "Cast n Chill - Eastern Winds"
     },
     "4041580": {
-      "rank": 3795,
+      "rank": 3797,
       "estimate": "<7k",
       "name": "Scraps Of The Machine"
     },
     "4095000": {
-      "rank": 4660,
+      "rank": 4625,
       "estimate": "<7k",
       "name": "Ballistic Brews"
     },
     "4103040": {
-      "rank": 3567,
+      "rank": 3570,
       "estimate": "<7k",
       "name": "Train Graveyard Simulator"
     },
     "4218360": {
-      "rank": 1033,
+      "rank": 1023,
       "estimate": "25k+",
       "name": "Wall World Strategy"
     },
@@ -140,22 +140,27 @@
       "name": "We Are So Cooked"
     },
     "4303060": {
-      "rank": 2723,
+      "rank": 2725,
       "estimate": "7k+",
       "name": "Glitchery"
     },
     "4613790": {
-      "rank": 4595,
+      "rank": 4594,
       "estimate": "<7k",
       "name": "Spooky Ride"
     },
     "4741260": {
-      "rank": 3610,
+      "rank": 3591,
       "estimate": "<7k",
       "name": "Deadpact"
     },
+    "4913250": {
+      "rank": 5940,
+      "estimate": "<7k",
+      "name": "SCP Idle: SECURE. CONTAIN. PROGRESS."
+    },
     "5206920": {
-      "rank": 4047,
+      "rank": 4054,
       "estimate": "<7k",
       "name": "Last Luminary"
     }

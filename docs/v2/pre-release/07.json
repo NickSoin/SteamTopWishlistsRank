@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-25T23:03:20.928Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-26T05:19:58.139Z",
+  "entryCount": 39,
   "entries": {
     "930280": {
       "rank": 438,
@@ -218,6 +218,13 @@
       "estimate": "80k+",
       "name": "Forensics: Crime Scene Detective",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "3788590": {
+      "rank": 5041,
+      "estimate": "<7k",
+      "name": "Sign: Broken Kether",
+      "releaseDate": "2026-10-25",
       "source": "tracked"
     },
     "3846580": {
