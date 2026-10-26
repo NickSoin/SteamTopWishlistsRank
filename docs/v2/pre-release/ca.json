@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T05:19:58.139Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-26T11:26:48.423Z",
+  "entryCount": 35,
   "entries": {
     "757310": {
       "rank": 43,
@@ -212,6 +212,13 @@
       "estimate": "15k+",
       "name": "Disgaea Mayhem",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4466850": {
+      "rank": 4485,
+      "estimate": "<7k",
+      "name": "Where is My Pet?",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     },
     "4868870": {

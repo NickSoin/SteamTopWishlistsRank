@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T05:19:58.139Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-26T11:26:48.423Z",
+  "entryCount": 39,
   "entries": {
     "759080": {
       "rank": 605,
@@ -166,6 +166,13 @@
       "name": "Stellaris: Grand Archive Story Pack",
       "releaseDate": "2024-10-29",
       "source": "historical"
+    },
+    "3024130": {
+      "rank": 455,
+      "estimate": "80k+",
+      "name": "PAO PAO",
+      "releaseDate": "2026-10-26",
+      "source": "tracked"
     },
     "3414340": {
       "rank": 6315,

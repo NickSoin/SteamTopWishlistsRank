@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T05:19:58.139Z",
-  "entryCount": 30,
+  "updatedAt": "2026-10-26T11:26:48.423Z",
+  "entryCount": 31,
   "entries": {
     "747660": {
       "rank": 193,
@@ -186,6 +186,13 @@
       "estimate": "25k+",
       "name": "The Jackbox Party Pack 12",
       "releaseDate": "2026-10-14",
+      "source": "tracked"
+    },
+    "4236650": {
+      "rank": 3341,
+      "estimate": "<7k",
+      "name": "Adultery Marriage Punisher",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     },
     "4337210": {

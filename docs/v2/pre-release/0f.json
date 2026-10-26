@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T05:19:58.139Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-26T11:26:48.423Z",
+  "entryCount": 39,
   "entries": {
     "436780": {
       "rank": 31,
@@ -235,6 +235,13 @@
       "estimate": "25k+",
       "name": "Battleship Command",
       "releaseDate": "2026-06-02",
+      "source": "tracked"
+    },
+    "3401570": {
+      "rank": 2158,
+      "estimate": "7k+",
+      "name": "Abyss Ring",
+      "releaseDate": "2026-10-25",
       "source": "tracked"
     },
     "3611450": {
