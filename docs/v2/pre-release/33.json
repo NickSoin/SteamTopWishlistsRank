@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-25T18:30:45.333Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-25T23:03:20.928Z",
+  "entryCount": 35,
   "entries": {
     "1154090": {
       "rank": 1108,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "My Adorable Ghost Story",
       "releaseDate": "2026-08-27",
+      "source": "tracked"
+    },
+    "4087940": {
+      "rank": 4939,
+      "estimate": "<7k",
+      "name": "Veyora",
+      "releaseDate": "2026-10-25",
       "source": "tracked"
     },
     "4282710": {
