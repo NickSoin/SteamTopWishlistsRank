@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T20:45:11.145Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-27T05:17:39.951Z",
+  "entryCount": 38,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Inky's Sleep",
       "releaseDate": "2026-10-21",
+      "source": "tracked"
+    },
+    "4270970": {
+      "rank": 4164,
+      "estimate": "<7k",
+      "name": "The guidelines : Hotel Napoli",
+      "releaseDate": "2026-10-26",
       "source": "tracked"
     },
     "4449240": {

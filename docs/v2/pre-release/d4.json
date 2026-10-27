@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T20:45:11.145Z",
-  "entryCount": 30,
+  "updatedAt": "2026-10-27T05:17:39.951Z",
+  "entryCount": 31,
   "entries": {
     "493520": {
       "rank": 14,
@@ -129,6 +129,13 @@
       "name": "Mouthwashing",
       "releaseDate": "2024-09-26",
       "source": "historical"
+    },
+    "2548880": {
+      "rank": 606,
+      "estimate": "40k+",
+      "name": "Divine Frequency",
+      "releaseDate": "2026-10-26",
+      "source": "tracked"
     },
     "2597080": {
       "rank": 18,

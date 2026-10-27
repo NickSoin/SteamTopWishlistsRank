@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-26T20:45:11.145Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-27T05:17:39.951Z",
+  "entryCount": 38,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -131,6 +131,13 @@
       "name": "Castaway",
       "releaseDate": "2024-08-16",
       "source": "historical"
+    },
+    "2696110": {
+      "rank": 2797,
+      "estimate": "7k+",
+      "name": "Situation Succ: Inn Elysium",
+      "releaseDate": "2026-10-26",
+      "source": "tracked"
     },
     "2723430": {
       "rank": 419,
