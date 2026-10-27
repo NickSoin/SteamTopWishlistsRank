@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 29,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 30,
   "entries": {
     "1097350": {
       "rank": 63,
@@ -167,6 +167,13 @@
       "estimate": "15k+",
       "name": "PLATONICA SPACE",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "4272370": {
+      "rank": 1746,
+      "estimate": "15k+",
+      "name": "Coal Duty",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "4446010": {

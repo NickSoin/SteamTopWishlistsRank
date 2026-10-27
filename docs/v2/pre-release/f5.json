@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 43,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 44,
   "entries": {
     "458430": {
       "rank": 911,
@@ -298,6 +298,13 @@
       "estimate": "<7k",
       "name": "Homicide Desk",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "5030570": {
+      "rank": 4275,
+      "estimate": "<7k",
+      "name": "Supermarket Organizer",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "5352720": {

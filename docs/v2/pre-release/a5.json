@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 36,
   "entries": {
     "299970": {
       "rank": 34,
@@ -179,6 +179,13 @@
       "estimate": "15k+",
       "name": "Order: The New Dawn",
       "releaseDate": "2026-10-16",
+      "source": "tracked"
+    },
+    "3274710": {
+      "rank": 3666,
+      "estimate": "<7k",
+      "name": "4 Penny Coffins",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "3417940": {

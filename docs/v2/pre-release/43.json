@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 39,
   "entries": {
     "716350": {
       "rank": 688,
@@ -31,6 +31,13 @@
       "name": "Balsa Model Flight Simulator",
       "releaseDate": "2021-09-14",
       "source": "historical"
+    },
+    "1352700": {
+      "rank": 3159,
+      "estimate": "<7k",
+      "name": "Dancing with Ghosts",
+      "releaseDate": "2026-10-27",
+      "source": "tracked"
     },
     "1477700": {
       "rank": 451,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 33,
   "entries": {
     "1209470": {
       "rank": 50,
@@ -214,6 +214,13 @@
       "estimate": "40k+",
       "name": "Nothing To Declare",
       "releaseDate": "2026-07-25",
+      "source": "tracked"
+    },
+    "4404070": {
+      "rank": 3997,
+      "estimate": "<7k",
+      "name": "Farming Simulator 25: Beans & Alpacas Expansion",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "4500460": {

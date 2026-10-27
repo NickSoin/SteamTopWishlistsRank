@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 33,
   "entries": {
     "894620": {
       "rank": 1864,
@@ -197,6 +197,13 @@
       "estimate": "7k+",
       "name": "Planet Harvester: Incremental Odyssey",
       "releaseDate": "2026-08-17",
+      "source": "tracked"
+    },
+    "4487060": {
+      "rank": 546,
+      "estimate": "40k+",
+      "name": "Northgard Battlegrounds",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "4507690": {

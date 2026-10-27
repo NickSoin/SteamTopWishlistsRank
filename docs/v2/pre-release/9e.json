@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 37,
   "entries": {
     "661680": {
       "rank": 689,
@@ -232,6 +232,13 @@
       "estimate": "<7k",
       "name": "Indigo's Dreams",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "3712150": {
+      "rank": 5529,
+      "estimate": "<7k",
+      "name": "TCG Card Collection: Tidy Up",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "4257760": {

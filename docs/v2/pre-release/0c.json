@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 41,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Interrogator 2",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "3322630": {
+      "rank": 778,
+      "estimate": "40k+",
+      "name": "Culdcept BEGINS",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "3525790": {

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
+  "updatedAt": "2026-10-27T20:33:03.871Z",
   "entryCount": 33,
   "entries": {
     "378690": {
@@ -159,11 +159,11 @@
       "source": "historical"
     },
     "2562390": {
-      "rank": 33,
-      "estimate": "600k+",
+      "rank": 1280,
+      "estimate": "25k+",
       "name": "Benny's Backrooms",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-10-27",
+      "source": "tracked"
     },
     "2766910": {
       "rank": 1902,

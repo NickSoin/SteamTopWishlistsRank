@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 33,
   "entries": {
     "629820": {
       "rank": 21,
@@ -195,6 +195,13 @@
       "releaseDate": "2026-08-13",
       "source": "tracked"
     },
+    "4287040": {
+      "rank": 1125,
+      "estimate": "25k+",
+      "name": "Vampy's Big Day",
+      "releaseDate": "2026-10-27",
+      "source": "tracked"
+    },
     "4330940": {
       "rank": 3250,
       "estimate": "<7k",
@@ -214,6 +221,13 @@
       "estimate": "<7k",
       "name": "Hachishakusama | 八尺様がいた夏休み",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "4760480": {
+      "rank": 764,
+      "estimate": "40k+",
+      "name": "You Are Empty: Absolute Edition",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "5075020": {

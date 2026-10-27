@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 43,
   "entries": {
     "467740": {
       "rank": 10,
@@ -291,6 +291,13 @@
       "estimate": "15k+",
       "name": "Keep the Witch Out of This Inn",
       "releaseDate": "2026-09-18",
+      "source": "tracked"
+    },
+    "4675840": {
+      "rank": 8810,
+      "estimate": "<7k",
+      "name": "Deep Frost",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "4775410": {

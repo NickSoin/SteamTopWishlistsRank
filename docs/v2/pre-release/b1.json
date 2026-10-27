@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 35,
   "entries": {
     "844260": {
       "rank": 74,
@@ -237,6 +237,13 @@
       "estimate": "<7k",
       "name": "Living on Plain Pasta",
       "releaseDate": "2026-09-10",
+      "source": "tracked"
+    },
+    "4984870": {
+      "rank": 2256,
+      "estimate": "7k+",
+      "name": "Selkie's Salvage&Co.",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "4997500": {

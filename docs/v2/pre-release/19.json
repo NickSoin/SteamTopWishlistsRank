@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 38,
   "entries": {
     "939960": {
       "rank": 17,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "Agari — Riichi Mahjong",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4682240": {
+      "rank": 5070,
+      "estimate": "<7k",
+      "name": "Monster Hatcher",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "4766300": {

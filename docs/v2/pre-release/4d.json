@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 25,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 26,
   "entries": {
     "251570": {
       "rank": 42,
@@ -151,6 +151,13 @@
       "estimate": "<7k",
       "name": "Iris Odyssey",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3335310": {
+      "rank": 497,
+      "estimate": "80k+",
+      "name": "Remothered: Red Nun's Legacy",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "3574100": {

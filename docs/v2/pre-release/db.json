@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-27T10:46:51.904Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-27T20:33:03.871Z",
+  "entryCount": 39,
   "entries": {
     "771700": {
       "rank": 1063,
@@ -210,6 +210,13 @@
       "name": "Starground",
       "releaseDate": "2024-08-19",
       "source": "historical"
+    },
+    "3383450": {
+      "rank": 3310,
+      "estimate": "<7k",
+      "name": "RPG Chess",
+      "releaseDate": "2026-10-27",
+      "source": "tracked"
     },
     "3542330": {
       "rank": 6250,
