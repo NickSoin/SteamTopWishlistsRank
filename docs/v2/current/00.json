@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-27T20:33:03.871Z",
-  "entryCount": 22,
+  "updatedAt": "2026-10-28T00:15:46.841Z",
+  "entryCount": 23,
   "entries": {
     "1252070": {
-      "rank": 906,
+      "rank": 905,
       "estimate": "40k+",
       "name": "STARHOME"
     },
@@ -20,7 +20,7 @@
       "name": "SHIBUYA SUSHI MASTER"
     },
     "1815150": {
-      "rank": 1020,
+      "rank": 1021,
       "estimate": "25k+",
       "name": "NIGHT OF THE CONSUMERS"
     },
@@ -30,7 +30,7 @@
       "name": "HARUKA: Beyond the Stars"
     },
     "2567780": {
-      "rank": 5234,
+      "rank": 5236,
       "estimate": "<7k",
       "name": "Death Rabbit"
     },
@@ -40,17 +40,17 @@
       "name": "Highreach"
     },
     "2669710": {
-      "rank": 2877,
+      "rank": 2875,
       "estimate": "7k+",
       "name": "Tearoom of Terror"
     },
     "2875410": {
-      "rank": 5421,
+      "rank": 5424,
       "estimate": "<7k",
       "name": "Pinnacle Point"
     },
     "3002130": {
-      "rank": 1413,
+      "rank": 1410,
       "estimate": "25k+",
       "name": "Theos: Cities Of Myth"
     },
@@ -65,12 +65,12 @@
       "name": "romance.exe"
     },
     "3364720": {
-      "rank": 4700,
+      "rank": 4699,
       "estimate": "<7k",
       "name": "Rich Flavors"
     },
     "3393120": {
-      "rank": 5538,
+      "rank": 5519,
       "estimate": "<7k",
       "name": "Tidy Up Mall"
     },
@@ -80,39 +80,44 @@
       "name": "Daydream"
     },
     "3530730": {
-      "rank": 5488,
+      "rank": 5489,
       "estimate": "<7k",
       "name": "All My Neighbors Are Dead"
     },
     "3714280": {
-      "rank": 1764,
+      "rank": 1762,
       "estimate": "15k+",
       "name": "FLASK"
     },
     "3842660": {
-      "rank": 3886,
+      "rank": 3885,
       "estimate": "<7k",
       "name": "XX Fulfillment Center"
     },
     "3850230": {
-      "rank": 3723,
+      "rank": 3720,
       "estimate": "<7k",
       "name": "99Day Survival Guide"
     },
     "4319950": {
-      "rank": 5379,
+      "rank": 5378,
       "estimate": "<7k",
       "name": "Edwin Earstwhile: Medical Examiner"
     },
     "4430020": {
-      "rank": 721,
+      "rank": 722,
       "estimate": "40k+",
       "name": "Hamsteria"
     },
     "4545940": {
-      "rank": 5249,
+      "rank": 5250,
       "estimate": "<7k",
       "name": "Beencremental"
+    },
+    "4624180": {
+      "rank": 1802,
+      "estimate": "15k+",
+      "name": "Animation VERSUS"
     }
   }
 }
