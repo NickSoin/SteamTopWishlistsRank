@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T00:15:46.841Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-28T06:08:29.517Z",
+  "entryCount": 38,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -205,6 +205,13 @@
       "name": "Masters of Albion",
       "releaseDate": "2026-04-22",
       "source": "historical"
+    },
+    "3375990": {
+      "rank": 4072,
+      "estimate": "<7k",
+      "name": "PC Cafe Simulator",
+      "releaseDate": "2026-10-27",
+      "source": "tracked"
     },
     "3709180": {
       "rank": 8898,

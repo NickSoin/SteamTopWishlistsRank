@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T00:15:46.841Z",
-  "entryCount": 27,
+  "updatedAt": "2026-10-28T06:08:29.517Z",
+  "entryCount": 28,
   "entries": {
     "912840": {
       "rank": 1084,
@@ -179,6 +179,13 @@
       "estimate": "<7k",
       "name": "REWIND",
       "releaseDate": "2026-06-29",
+      "source": "tracked"
+    },
+    "4588650": {
+      "rank": 9243,
+      "estimate": "<7k",
+      "name": "Castle of the Zephyr",
+      "releaseDate": "2026-10-27",
       "source": "tracked"
     },
     "4601160": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T00:15:46.841Z",
-  "entryCount": 29,
+  "updatedAt": "2026-10-28T06:08:29.517Z",
+  "entryCount": 30,
   "entries": {
     "819190": {
       "rank": 3,
@@ -177,6 +177,13 @@
       "name": "BattleGroupVR2",
       "releaseDate": "2025-11-07",
       "source": "historical"
+    },
+    "3636460": {
+      "rank": 6724,
+      "estimate": "<7k",
+      "name": "Miss Sasami is Losing Her Mind!",
+      "releaseDate": "2026-10-27",
+      "source": "tracked"
     },
     "3761610": {
       "rank": 6743,
