@@ -1,108 +1,113 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 20,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 21,
   "entries": {
     "765700": {
-      "rank": 4385,
+      "rank": 4371,
       "estimate": "<7k",
       "name": "Tactical Galactical"
     },
     "1570660": {
-      "rank": 5448,
+      "rank": 5436,
       "estimate": "<7k",
       "name": "Medieval Apocalypse"
     },
     "1619660": {
-      "rank": 5083,
+      "rank": 5067,
       "estimate": "<7k",
       "name": "Kambulin"
     },
     "2135000": {
-      "rank": 3604,
+      "rank": 3586,
       "estimate": "<7k",
       "name": "Norigin"
     },
     "2321960": {
-      "rank": 668,
+      "rank": 658,
       "estimate": "40k+",
       "name": "Spirit Crossing"
     },
     "2559110": {
-      "rank": 3950,
+      "rank": 3935,
       "estimate": "<7k",
       "name": "Spiral Clicker 2"
     },
     "2786710": {
-      "rank": 333,
+      "rank": 332,
       "estimate": "80k+",
       "name": "Zarya"
     },
     "3004280": {
-      "rank": 1752,
+      "rank": 1744,
       "estimate": "15k+",
       "name": "World of Magic: Rise of Magic"
     },
     "3050090": {
-      "rank": 4615,
+      "rank": 4588,
       "estimate": "<7k",
       "name": "Thalassomania"
     },
     "3097730": {
-      "rank": 1934,
+      "rank": 1927,
       "estimate": "15k+",
       "name": "Re:VER PROJECT -TOKYO-"
     },
     "3143530": {
-      "rank": 2229,
+      "rank": 2220,
       "estimate": "7k+",
       "name": "Shadow Project"
     },
     "3241270": {
-      "rank": 3995,
+      "rank": 3982,
       "estimate": "<7k",
       "name": "Into the Void"
     },
     "3299820": {
-      "rank": 1316,
+      "rank": 1308,
       "estimate": "25k+",
       "name": "Gretel & Hansel"
     },
     "3377830": {
-      "rank": 1985,
+      "rank": 1975,
       "estimate": "15k+",
       "name": "Backroom Cleaners"
     },
     "3642020": {
-      "rank": 3324,
+      "rank": 3307,
       "estimate": "<7k",
       "name": "El Paso, Elsewhere 2"
     },
     "3886530": {
-      "rank": 400,
+      "rank": 398,
       "estimate": "80k+",
       "name": "Westlanders"
     },
     "4090310": {
-      "rank": 802,
+      "rank": 798,
       "estimate": "40k+",
       "name": "Primal Repairs"
     },
     "4226560": {
-      "rank": 1642,
+      "rank": 1637,
       "estimate": "15k+",
       "name": "ALATURKA"
     },
     "4278970": {
-      "rank": 592,
+      "rank": 590,
       "estimate": "40k+",
       "name": "Bad Magpie"
     },
     "5061290": {
-      "rank": 2678,
+      "rank": 2667,
       "estimate": "7k+",
       "name": "Roll for Order: Sort Every Set!"
+    },
+    "5343400": {
+      "rank": 5783,
+      "estimate": "<7k",
+      "name": "Car Flipper"
     }
   }
 }

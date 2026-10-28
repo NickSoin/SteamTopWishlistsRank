@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 28,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 29,
   "entries": {
     "721180": {
       "rank": 29,
@@ -164,6 +164,13 @@
       "name": "Warhammer 40,000: Dawn of War - Definitive Edition",
       "releaseDate": "2025-08-14",
       "source": "historical"
+    },
+    "4190900": {
+      "rank": 5552,
+      "estimate": "<7k",
+      "name": "Within His View",
+      "releaseDate": "2026-10-28",
+      "source": "tracked"
     },
     "4508570": {
       "rank": 1248,

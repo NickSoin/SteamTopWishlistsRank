@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 44,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 45,
   "entries": {
     "529340": {
       "rank": 19,
@@ -300,6 +300,13 @@
       "estimate": "600k+",
       "name": "Aniimo",
       "releaseDate": "2026-09-15",
+      "source": "tracked"
+    },
+    "4348910": {
+      "rank": 71,
+      "estimate": "300k+",
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     },
     "4388420": {

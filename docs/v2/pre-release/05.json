@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 37,
   "entries": {
     "1062090": {
       "rank": 3,
@@ -182,6 +182,13 @@
       "name": "Hands of Necromancy II",
       "releaseDate": "2024-09-16",
       "source": "historical"
+    },
+    "2710530": {
+      "rank": 2800,
+      "estimate": "7k+",
+      "name": "Rug Cleaning Simulator",
+      "releaseDate": "2026-10-28",
+      "source": "tracked"
     },
     "3224540": {
       "rank": 2795,

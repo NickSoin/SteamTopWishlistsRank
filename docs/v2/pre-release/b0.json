@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 38,
   "entries": {
     "490110": {
       "rank": 24,
@@ -254,6 +254,13 @@
       "estimate": "<7k",
       "name": "Dorts : A Darts Roguelike",
       "releaseDate": "2026-08-12",
+      "source": "tracked"
+    },
+    "4648890": {
+      "rank": 5800,
+      "estimate": "<7k",
+      "name": "Intergalactic Puzzle Touchdown",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     },
     "4682760": {

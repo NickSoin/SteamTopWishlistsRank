@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 40,
   "entries": {
     "553540": {
       "rank": 73,
@@ -214,6 +214,13 @@
       "estimate": "200k+",
       "name": "WheelMates",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "4017880": {
+      "rank": 383,
+      "estimate": "80k+",
+      "name": "ANOMALITH",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     },
     "4060150": {

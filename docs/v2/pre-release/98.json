@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 34,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -169,6 +169,13 @@
       "estimate": "7k+",
       "name": "Cosmo Tales",
       "releaseDate": "2026-09-03",
+      "source": "tracked"
+    },
+    "3708630": {
+      "rank": 5732,
+      "estimate": "<7k",
+      "name": "Copperfell",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     },
     "3749130": {

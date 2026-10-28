@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 45,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 47,
   "entries": {
     "830540": {
       "rank": 1466,
@@ -292,6 +292,13 @@
       "releaseDate": "2026-09-16",
       "source": "tracked"
     },
+    "4060640": {
+      "rank": 4515,
+      "estimate": "<7k",
+      "name": "Hoosegow: Prison Survival",
+      "releaseDate": "2026-10-28",
+      "source": "tracked"
+    },
     "4114860": {
       "rank": 4962,
       "estimate": "<7k",
@@ -318,6 +325,13 @@
       "estimate": "<7k",
       "name": "Banana Life Sim",
       "releaseDate": "2026-10-23",
+      "source": "tracked"
+    },
+    "4535960": {
+      "rank": 4027,
+      "estimate": "<7k",
+      "name": "Voxie Survivor",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     },
     "4542210": {

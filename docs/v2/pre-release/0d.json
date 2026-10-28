@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 35,
   "entries": {
     "691790": {
       "rank": 310,
@@ -10,6 +10,13 @@
       "name": "Arcadian Atlas",
       "releaseDate": "2023-07-27",
       "source": "historical"
+    },
+    "940230": {
+      "rank": 1734,
+      "estimate": "15k+",
+      "name": "Geoplanetical",
+      "releaseDate": "2026-10-28",
+      "source": "tracked"
     },
     "961200": {
       "rank": 130,

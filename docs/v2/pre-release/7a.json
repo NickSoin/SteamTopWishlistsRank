@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 40,
   "entries": {
     "1219240": {
       "rank": 736,
@@ -267,6 +267,13 @@
       "estimate": "<7k",
       "name": "RZImageReader",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4734320": {
+      "rank": 8589,
+      "estimate": "<7k",
+      "name": "Drone Arena",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     },
     "4890770": {

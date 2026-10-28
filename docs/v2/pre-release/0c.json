@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 44,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -220,6 +220,13 @@
       "releaseDate": "2026-09-17",
       "source": "tracked"
     },
+    "3156910": {
+      "rank": 8033,
+      "estimate": "<7k",
+      "name": "Sepulchron",
+      "releaseDate": "2026-10-28",
+      "source": "tracked"
+    },
     "3184290": {
       "rank": 5060,
       "estimate": "<7k",
@@ -253,6 +260,20 @@
       "estimate": "40k+",
       "name": "Database Detective: Minor Crimes Division",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "3978110": {
+      "rank": 2521,
+      "estimate": "7k+",
+      "name": "Neuron Activation",
+      "releaseDate": "2026-10-28",
+      "source": "tracked"
+    },
+    "4202430": {
+      "rank": 940,
+      "estimate": "40k+",
+      "name": "Veterans: Napoleonic Wars",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     },
     "4263880": {

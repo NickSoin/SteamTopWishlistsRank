@@ -1,108 +1,113 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 20,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 21,
   "entries": {
     "1339490": {
-      "rank": 2842,
+      "rank": 2832,
       "estimate": "7k+",
       "name": "American Camper Simulator"
     },
     "1562030": {
-      "rank": 2402,
+      "rank": 2393,
       "estimate": "7k+",
       "name": "Ronin: Samurai Redemption"
     },
     "1664110": {
-      "rank": 4046,
+      "rank": 4034,
       "estimate": "<7k",
       "name": "City of Robots"
     },
     "2071870": {
-      "rank": 5158,
+      "rank": 5143,
       "estimate": "<7k",
       "name": "SCPCB: Unity"
     },
     "2483570": {
-      "rank": 5878,
+      "rank": 5847,
       "estimate": "<7k",
       "name": "Castillon"
     },
     "2886380": {
-      "rank": 5451,
+      "rank": 5438,
       "estimate": "<7k",
       "name": "Cryptica"
     },
     "2900990": {
-      "rank": 5273,
+      "rank": 5250,
       "estimate": "<7k",
       "name": "Eternal Haunt"
     },
     "3094870": {
-      "rank": 1307,
+      "rank": 1301,
       "estimate": "25k+",
       "name": "Amarillo's Desktop Pets"
     },
     "3204820": {
-      "rank": 3631,
+      "rank": 3619,
       "estimate": "<7k",
       "name": "RippleLoop"
     },
     "3254380": {
-      "rank": 5603,
+      "rank": 5586,
       "estimate": "<7k",
       "name": "We Grew Up in War"
     },
     "3441490": {
-      "rank": 3073,
+      "rank": 3060,
       "estimate": "<7k",
       "name": "Zeizen"
     },
     "3660260": {
-      "rank": 948,
+      "rank": 945,
       "estimate": "40k+",
       "name": "Out Fishing"
     },
     "3834300": {
-      "rank": 3474,
+      "rank": 3462,
       "estimate": "<7k",
       "name": "Sin & Siege"
     },
     "3878740": {
-      "rank": 3239,
+      "rank": 3206,
       "estimate": "<7k",
       "name": "Tiny Chills - Not From Ear"
     },
     "3883610": {
-      "rank": 2616,
+      "rank": 2598,
       "estimate": "7k+",
       "name": "CarX Rally"
     },
     "3939340": {
-      "rank": 3947,
+      "rank": 3932,
       "estimate": "<7k",
       "name": "Tales of Kathay"
     },
     "4191110": {
-      "rank": 2526,
+      "rank": 2497,
       "estimate": "7k+",
       "name": "Vampire: The Masquerade - Oaths & Ashes"
     },
     "4298170": {
-      "rank": 2852,
+      "rank": 2837,
       "estimate": "7k+",
       "name": "Carry the Pack Rack"
     },
     "4317460": {
-      "rank": 659,
+      "rank": 657,
       "estimate": "40k+",
       "name": "Bel's Fanfare"
     },
     "4564150": {
-      "rank": 837,
+      "rank": 833,
       "estimate": "40k+",
       "name": "Titan Hunters"
+    },
+    "5346720": {
+      "rank": 5459,
+      "estimate": "<7k",
+      "name": "Bad Ice Cream Resort"
     }
   }
 }

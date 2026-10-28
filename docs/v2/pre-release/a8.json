@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T06:08:29.517Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-28T17:04:39.457Z",
+  "entryCount": 40,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -256,6 +256,13 @@
       "estimate": "<7k",
       "name": "Kin and Conquest",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "4614060": {
+      "rank": 7889,
+      "estimate": "<7k",
+      "name": "Exium: Theia",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     },
     "4620140": {
