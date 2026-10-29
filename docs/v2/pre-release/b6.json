@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T17:04:39.457Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-29T00:10:52.849Z",
+  "entryCount": 39,
   "entries": {
     "780310": {
       "rank": 16,
@@ -224,6 +224,13 @@
       "name": "Keeper",
       "releaseDate": "2025-10-17",
       "source": "historical"
+    },
+    "3275060": {
+      "rank": 5726,
+      "estimate": "<7k",
+      "name": "Blackstar Ranger",
+      "releaseDate": "2026-10-28",
+      "source": "tracked"
     },
     "3498720": {
       "rank": 45,

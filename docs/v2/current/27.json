@@ -1,36 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-28T17:04:39.457Z",
-  "entryCount": 22,
+  "updatedAt": "2026-10-29T00:10:52.849Z",
+  "entryCount": 23,
   "entries": {
     "395830": {
       "rank": 888,
       "estimate": "40k+",
       "name": "LOW-FI"
     },
+    "796530": {
+      "rank": 3300,
+      "estimate": "<7k",
+      "name": "ALTERA"
+    },
     "827210": {
-      "rank": 5717,
+      "rank": 5723,
       "estimate": "<7k",
       "name": "Death Carnival"
     },
     "1300880": {
-      "rank": 5190,
+      "rank": 5191,
       "estimate": "<7k",
       "name": "Glitchphobia"
     },
     "1354980": {
-      "rank": 2020,
+      "rank": 2022,
       "estimate": "7k+",
       "name": "Decimated"
     },
     "1503490": {
-      "rank": 2563,
+      "rank": 2565,
       "estimate": "7k+",
       "name": "FarmZone"
     },
     "1549830": {
-      "rank": 3295,
+      "rank": 3296,
       "estimate": "<7k",
       "name": "CyberPunk SEX Tower"
     },
@@ -50,37 +55,37 @@
       "name": "NO LAW"
     },
     "2337180": {
-      "rank": 3704,
+      "rank": 3707,
       "estimate": "<7k",
       "name": "I NEED SPACE"
     },
     "2541950": {
-      "rank": 752,
+      "rank": 754,
       "estimate": "40k+",
       "name": "Sirens"
     },
     "3068720": {
-      "rank": 1050,
+      "rank": 1052,
       "estimate": "25k+",
       "name": "I Am Security"
     },
     "3145850": {
-      "rank": 4071,
+      "rank": 4073,
       "estimate": "<7k",
       "name": "Rootmare"
     },
     "3195150": {
-      "rank": 4304,
+      "rank": 4303,
       "estimate": "<7k",
       "name": "Clowned King"
     },
     "3444810": {
-      "rank": 4678,
+      "rank": 4683,
       "estimate": "<7k",
       "name": "Wonderfall"
     },
     "3723830": {
-      "rank": 2896,
+      "rank": 2899,
       "estimate": "7k+",
       "name": "群魔死欲之山"
     },
@@ -90,7 +95,7 @@
       "name": "Kameko: Cosplay Love Story"
     },
     "4176640": {
-      "rank": 1749,
+      "rank": 1738,
       "estimate": "15k+",
       "name": "Monster Prom 5: Monster Retreat"
     },
@@ -100,17 +105,17 @@
       "name": "Euro Truck Simulator 2 - Soul of Anatolia"
     },
     "4621810": {
-      "rank": 5100,
+      "rank": 5053,
       "estimate": "<7k",
       "name": "Livin' the Cream: Ice Cream Simulator"
     },
     "5020090": {
-      "rank": 5187,
+      "rank": 5185,
       "estimate": "<7k",
       "name": "Real Zombie Survivors"
     },
     "5276510": {
-      "rank": 5385,
+      "rank": 5282,
       "estimate": "<7k",
       "name": "The Dust Remembers"
     }

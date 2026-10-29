@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-28T17:04:39.457Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-29T00:10:52.849Z",
+  "entryCount": 40,
   "entries": {
     "502050": {
       "rank": 1,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Ball Maze",
       "releaseDate": "2026-10-14",
+      "source": "tracked"
+    },
+    "3733710": {
+      "rank": 2915,
+      "estimate": "7k+",
+      "name": "FIRESTARTERS",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     },
     "3768400": {
