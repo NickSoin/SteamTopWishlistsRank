@@ -1,246 +1,241 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 48,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 47,
   "entries": {
     "616780": {
-      "rank": 2368,
+      "rank": 2350,
       "estimate": "7k+",
       "name": "Age of Space"
     },
     "1243550": {
-      "rank": 4779,
+      "rank": 4750,
       "estimate": "<7k",
       "name": "SilkRoad Project"
     },
-    "1270660": {
-      "rank": 4651,
-      "estimate": "<7k",
-      "name": "Dead Party"
-    },
     "1390760": {
-      "rank": 1048,
+      "rank": 1037,
       "estimate": "25k+",
       "name": "Nanzou: The Divine Court"
     },
     "1445190": {
-      "rank": 1332,
+      "rank": 1322,
       "estimate": "25k+",
       "name": "DoubleShake"
     },
     "1493430": {
-      "rank": 1435,
+      "rank": 1422,
       "estimate": "25k+",
       "name": "Agony: Lords of Hell"
     },
     "1655540": {
-      "rank": 4199,
+      "rank": 4173,
       "estimate": "<7k",
       "name": "Fishermen's Haven"
     },
     "1678040": {
-      "rank": 3107,
+      "rank": 3084,
       "estimate": "<7k",
       "name": "Njorun's Will"
     },
     "1958160": {
-      "rank": 1322,
+      "rank": 1309,
       "estimate": "25k+",
       "name": "moorestech"
     },
     "2258070": {
-      "rank": 4601,
+      "rank": 4575,
       "estimate": "<7k",
       "name": "Tire Boy"
     },
     "2362780": {
-      "rank": 5729,
+      "rank": 5693,
       "estimate": "<7k",
       "name": "Curilemu"
     },
     "2397810": {
-      "rank": 3816,
+      "rank": 3793,
       "estimate": "<7k",
       "name": "Jet Attack"
     },
     "2950750": {
-      "rank": 4095,
+      "rank": 4068,
       "estimate": "<7k",
       "name": "Shallow Pond"
     },
     "3115330": {
-      "rank": 3964,
+      "rank": 3935,
       "estimate": "<7k",
       "name": "SHAROTANK - ROAD TO KYSHTYM"
     },
     "3119190": {
-      "rank": 5452,
+      "rank": 5417,
       "estimate": "<7k",
       "name": "koROBO"
     },
     "3234820": {
-      "rank": 2966,
+      "rank": 2942,
       "estimate": "7k+",
       "name": "Zitifono"
     },
     "3330940": {
-      "rank": 5436,
+      "rank": 5391,
       "estimate": "<7k",
       "name": "Caravan Carnage: Fruity Road"
     },
     "3385320": {
-      "rank": 2534,
+      "rank": 2514,
       "estimate": "7k+",
       "name": "Landmine Girl"
     },
     "3449530": {
-      "rank": 4591,
+      "rank": 4567,
       "estimate": "<7k",
       "name": "Apothecurse"
     },
     "3576500": {
-      "rank": 2537,
+      "rank": 2518,
       "estimate": "7k+",
       "name": "Surviving Purge - A Gay Tower Defense"
     },
     "3621390": {
-      "rank": 329,
+      "rank": 327,
       "estimate": "80k+",
       "name": "Tom Clancy’s Rainbow Six Tactics"
     },
     "3633340": {
-      "rank": 4508,
+      "rank": 4483,
       "estimate": "<7k",
       "name": "Last Summer"
     },
     "3709320": {
-      "rank": 5342,
+      "rank": 5305,
       "estimate": "<7k",
       "name": "Coffee Buns"
     },
     "3719480": {
-      "rank": 5603,
+      "rank": 5559,
       "estimate": "<7k",
       "name": "Scared by Squares"
     },
     "3824290": {
-      "rank": 3687,
+      "rank": 3664,
       "estimate": "<7k",
       "name": "Ultrasound"
     },
     "3873720": {
-      "rank": 3454,
+      "rank": 3428,
       "estimate": "<7k",
       "name": "Unboxing Mr. Coo"
     },
     "3934490": {
-      "rank": 2326,
+      "rank": 2306,
       "estimate": "7k+",
       "name": "Penicl Pushers: Sexy office"
     },
     "3959020": {
-      "rank": 3297,
+      "rank": 3274,
       "estimate": "<7k",
       "name": "Imagine Sisyphus Happy"
     },
     "3967230": {
-      "rank": 2358,
+      "rank": 2335,
       "estimate": "7k+",
       "name": "Alchemortis"
     },
     "4009490": {
-      "rank": 771,
+      "rank": 758,
       "estimate": "40k+",
       "name": "Arctic Drive"
     },
     "4037370": {
-      "rank": 896,
+      "rank": 885,
       "estimate": "40k+",
       "name": "Laica"
     },
     "4096810": {
-      "rank": 4693,
+      "rank": 4658,
       "estimate": "<7k",
       "name": "Golden Retriever Simple Life"
     },
     "4156710": {
-      "rank": 438,
+      "rank": 434,
       "estimate": "80k+",
       "name": "Coin Maker Simulator"
     },
     "4171850": {
-      "rank": 209,
+      "rank": 208,
       "estimate": "80k+",
       "name": "Trees Hate You"
     },
     "4198020": {
-      "rank": 4751,
+      "rank": 4721,
       "estimate": "<7k",
       "name": "Fame Or Folly"
     },
     "4200110": {
-      "rank": 553,
+      "rank": 547,
       "estimate": "40k+",
       "name": "Nekome: Nazi Hunter"
     },
     "4244910": {
-      "rank": 544,
+      "rank": 541,
       "estimate": "40k+",
       "name": "Horizon Hunters Gathering"
     },
     "4279510": {
-      "rank": 1286,
+      "rank": 1273,
       "estimate": "25k+",
       "name": "No Mortal Space"
     },
     "4291350": {
-      "rank": 5824,
+      "rank": 5784,
       "estimate": "<7k",
       "name": "The Dreadthorn Therapist"
     },
     "4395010": {
-      "rank": 4464,
+      "rank": 4435,
       "estimate": "<7k",
       "name": "Demon Touch!"
     },
     "4405120": {
-      "rank": 4359,
+      "rank": 4325,
       "estimate": "<7k",
       "name": "Creepy Horrors: Blood Cult 2"
     },
     "4413930": {
-      "rank": 4153,
+      "rank": 4130,
       "estimate": "<7k",
       "name": "Bread and Blood"
     },
     "4523310": {
-      "rank": 3853,
+      "rank": 3828,
       "estimate": "<7k",
       "name": "Megalophobia"
     },
     "4651930": {
-      "rank": 1239,
+      "rank": 1216,
       "estimate": "25k+",
       "name": "Sexy Gamblers: Kakaitan Legend DX"
     },
     "4768160": {
-      "rank": 709,
+      "rank": 699,
       "estimate": "40k+",
       "name": "Hostile Architect"
     },
     "4922700": {
-      "rank": 2972,
+      "rank": 2947,
       "estimate": "7k+",
       "name": "Touhou Crisis R"
     },
     "4965590": {
-      "rank": 5007,
+      "rank": 4971,
       "estimate": "<7k",
       "name": "Onaka and the Witch's Intern"
     },
     "5063190": {
-      "rank": 5743,
+      "rank": 5704,
       "estimate": "<7k",
       "name": "TOWERPUNK"
     }

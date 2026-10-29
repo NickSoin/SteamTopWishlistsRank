@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 37,
   "entries": {
     "1091870": {
       "rank": 1362,
@@ -240,6 +240,13 @@
       "estimate": "7k+",
       "name": "Doomed Otaku",
       "releaseDate": "2026-10-15",
+      "source": "tracked"
+    },
+    "3492640": {
+      "rank": 5096,
+      "estimate": "<7k",
+      "name": "Dark Trip",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "3841510": {

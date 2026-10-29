@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 25,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 27,
   "entries": {
     "849100": {
       "rank": 19,
@@ -73,6 +73,13 @@
       "name": "Rivals of Aether II",
       "releaseDate": "2024-10-23",
       "source": "historical"
+    },
+    "2235310": {
+      "rank": 7467,
+      "estimate": "<7k",
+      "name": "PatchWorld",
+      "releaseDate": "2026-10-29",
+      "source": "tracked"
     },
     "2442400": {
       "rank": 1272,
@@ -179,6 +186,13 @@
       "estimate": "<7k",
       "name": "The Dreams in the Peacock House",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4715160": {
+      "rank": 594,
+      "estimate": "40k+",
+      "name": "Finals Week ✍🏻",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     }
   }

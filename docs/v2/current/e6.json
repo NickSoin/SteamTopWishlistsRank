@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 22,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 23,
   "entries": {
     "1043850": {
-      "rank": 1820,
+      "rank": 1803,
       "estimate": "15k+",
       "name": "Project Warlock: Lost Chapters"
     },
     "1244620": {
-      "rank": 5475,
+      "rank": 5441,
       "estimate": "<7k",
       "name": "Psycho Simulator"
     },
     "1318190": {
-      "rank": 1777,
+      "rank": 1759,
       "estimate": "15k+",
       "name": "Gladiators Manager"
     },
     "1459800": {
-      "rank": 4592,
+      "rank": 4569,
       "estimate": "<7k",
       "name": "Fakutori"
     },
@@ -30,47 +30,47 @@
       "name": "Blight: Survival"
     },
     "2183890": {
-      "rank": 4513,
+      "rank": 4489,
       "estimate": "<7k",
       "name": "Leak"
     },
     "2446520": {
-      "rank": 4342,
+      "rank": 4316,
       "estimate": "<7k",
       "name": "Pixel Piracy Online"
     },
     "2457470": {
-      "rank": 5900,
+      "rank": 5871,
       "estimate": "<7k",
       "name": "The Last Oasis Before Chastity"
     },
     "2671300": {
-      "rank": 638,
+      "rank": 629,
       "estimate": "40k+",
       "name": "Trailblazers: Into the March"
     },
     "2922590": {
-      "rank": 2476,
+      "rank": 2456,
       "estimate": "7k+",
       "name": "Dark Land Chronicle: The Fallen Elf"
     },
     "3024860": {
-      "rank": 5199,
+      "rank": 5165,
       "estimate": "<7k",
       "name": "Furry Farm"
     },
     "3446770": {
-      "rank": 2279,
+      "rank": 2257,
       "estimate": "7k+",
       "name": "Sakura Arms ~Radiant Duels~"
     },
     "3688110": {
-      "rank": 1112,
+      "rank": 1099,
       "estimate": "25k+",
       "name": "Kaiju Cleaner Simulator"
     },
     "3721530": {
-      "rank": 4128,
+      "rank": 4106,
       "estimate": "<7k",
       "name": "Motorcycle For Sale Simulator"
     },
@@ -80,39 +80,44 @@
       "name": "Euro Truck Simulator 2 - Coaches"
     },
     "3864190": {
-      "rank": 756,
+      "rank": 746,
       "estimate": "40k+",
       "name": "MISHA"
     },
     "4057270": {
-      "rank": 4598,
+      "rank": 4571,
       "estimate": "<7k",
       "name": "Truck Simulator 2026: USA"
     },
     "4114100": {
-      "rank": 613,
+      "rank": 605,
       "estimate": "40k+",
       "name": "Inkblood"
     },
     "4214130": {
-      "rank": 4816,
+      "rank": 4790,
       "estimate": "<7k",
       "name": "Tihama | تهامة"
     },
     "4554250": {
-      "rank": 389,
+      "rank": 387,
       "estimate": "80k+",
       "name": "Hellforged"
     },
     "5035550": {
-      "rank": 4636,
+      "rank": 4608,
       "estimate": "<7k",
       "name": "Snack Station Co-op Simulator"
     },
     "5072700": {
-      "rank": 398,
+      "rank": 395,
       "estimate": "80k+",
       "name": "Rerouted"
+    },
+    "5272100": {
+      "rank": 5830,
+      "estimate": "<7k",
+      "name": "Eden Lumina"
     }
   }
 }

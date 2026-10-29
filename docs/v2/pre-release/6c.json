@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 38,
   "entries": {
     "894020": {
       "rank": 39,
@@ -175,6 +175,13 @@
       "releaseDate": "2024-09-12",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5510784213102743739"
+    },
+    "2431920": {
+      "rank": 4361,
+      "estimate": "<7k",
+      "name": "Heir of the Dog",
+      "releaseDate": "2026-10-29",
+      "source": "tracked"
     },
     "2488340": {
       "rank": 1761,

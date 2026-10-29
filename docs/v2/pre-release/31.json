@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 32,
   "entries": {
     "747660": {
       "rank": 193,
@@ -80,6 +80,13 @@
       "name": "I Am Your Beast",
       "releaseDate": "2024-09-10",
       "source": "historical"
+    },
+    "1879270": {
+      "rank": 2684,
+      "estimate": "7k+",
+      "name": "Into the Crypt",
+      "releaseDate": "2026-10-29",
+      "source": "tracked"
     },
     "2003070": {
       "rank": 37,

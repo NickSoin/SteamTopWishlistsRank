@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 44,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 45,
   "entries": {
     "593150": {
       "rank": 72,
@@ -218,6 +218,13 @@
       "estimate": "25k+",
       "name": "Cosmic Fear",
       "releaseDate": "2026-09-09",
+      "source": "tracked"
+    },
+    "3613550": {
+      "rank": 4734,
+      "estimate": "<7k",
+      "name": "Checkmage!",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "3705150": {

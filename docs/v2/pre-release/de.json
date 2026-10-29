@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 40,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -203,6 +203,13 @@
       "name": "Sector Unknown",
       "releaseDate": "2026-02-12",
       "source": "historical"
+    },
+    "2920220": {
+      "rank": 485,
+      "estimate": "80k+",
+      "name": "Terrible Lizards",
+      "releaseDate": "2026-10-29",
+      "source": "tracked"
     },
     "3009850": {
       "rank": 2746,

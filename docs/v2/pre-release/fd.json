@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 33,
   "entries": {
     "1036240": {
       "rank": 491,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "BuGarden",
       "releaseDate": "2026-09-21",
+      "source": "tracked"
+    },
+    "4360290": {
+      "rank": 2702,
+      "estimate": "7k+",
+      "name": "Terraclysm Survivors",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4445360": {

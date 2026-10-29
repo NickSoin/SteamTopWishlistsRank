@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 36,
   "entries": {
     "536280": {
       "rank": 48,
@@ -80,6 +80,13 @@
       "name": "SWORN",
       "releaseDate": "2025-09-23",
       "source": "historical"
+    },
+    "1798230": {
+      "rank": 106,
+      "estimate": "200k+",
+      "name": "ATMOSFAR",
+      "releaseDate": "2026-10-29",
+      "source": "tracked"
     },
     "1912410": {
       "rank": 123,

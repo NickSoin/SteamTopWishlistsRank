@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 30,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 31,
   "entries": {
     "615530": {
       "rank": 223,
@@ -158,6 +158,13 @@
       "estimate": "<7k",
       "name": "Bounce 2",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "3834950": {
+      "rank": 9734,
+      "estimate": "<7k",
+      "name": "Skyborn:IronWings",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "3892910": {

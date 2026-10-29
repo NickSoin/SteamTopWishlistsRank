@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 34,
   "entries": {
     "813230": {
       "rank": 13,
@@ -165,6 +165,13 @@
       "estimate": "15k+",
       "name": "Vortica",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "3107530": {
+      "rank": 1049,
+      "estimate": "25k+",
+      "name": "Danchi Days",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "3607470": {

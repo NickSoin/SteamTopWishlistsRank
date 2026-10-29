@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 35,
   "entries": {
     "541310": {
       "rank": 21,
@@ -229,6 +229,13 @@
       "estimate": "40k+",
       "name": "Sinner Maker",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4613790": {
+      "rank": 4432,
+      "estimate": "<7k",
+      "name": "Spooky Ride",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4624060": {

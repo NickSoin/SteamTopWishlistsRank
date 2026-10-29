@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 35,
   "entries": {
     "671970": {
       "rank": 44,
@@ -186,6 +186,13 @@
       "estimate": "7k+",
       "name": "Olga - Episode 1",
       "releaseDate": "2026-09-09",
+      "source": "tracked"
+    },
+    "3077540": {
+      "rank": 9947,
+      "estimate": "<7k",
+      "name": "Love: Fall in Death",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "3201730": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 34,
   "entries": {
     "1063030": {
       "rank": 621,
@@ -188,6 +188,13 @@
       "estimate": "<7k",
       "name": "Slot or Not",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "3549390": {
+      "rank": 2501,
+      "estimate": "7k+",
+      "name": "EXOSHOCK",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "3759670": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 41,
   "entries": {
     "851850": {
       "rank": 23,
@@ -264,6 +264,13 @@
       "estimate": "<7k",
       "name": "Bounty Trail",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "4198360": {
+      "rank": 1727,
+      "estimate": "15k+",
+      "name": "Croc 2 Kingdom of the Gobbos",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4556780": {

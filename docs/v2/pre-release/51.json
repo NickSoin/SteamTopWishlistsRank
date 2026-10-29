@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 43,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 44,
   "entries": {
     "467740": {
       "rank": 10,
@@ -198,6 +198,13 @@
       "estimate": "40k+",
       "name": "Boba Cafe Simulator",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "3869000": {
+      "rank": 7542,
+      "estimate": "<7k",
+      "name": "Cadence Point",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4086480": {

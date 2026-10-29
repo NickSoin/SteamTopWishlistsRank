@@ -1,98 +1,103 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 18,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 19,
   "entries": {
     "1536910": {
-      "rank": 3458,
+      "rank": 3434,
       "estimate": "<7k",
       "name": "Snow Plow"
     },
     "2011180": {
-      "rank": 4708,
+      "rank": 4678,
       "estimate": "<7k",
       "name": "Terminus Historia"
     },
     "2141160": {
-      "rank": 990,
+      "rank": 978,
       "estimate": "40k+",
       "name": "Alien Deathstorm"
     },
     "2617870": {
-      "rank": 3486,
+      "rank": 3466,
       "estimate": "<7k",
       "name": "PSYCHOFINGER"
     },
     "2706790": {
-      "rank": 2516,
+      "rank": 2495,
       "estimate": "7k+",
       "name": "Quantic River"
     },
     "3356660": {
-      "rank": 991,
+      "rank": 981,
       "estimate": "40k+",
       "name": "Game Quest: The Backlog Battler"
     },
     "3489070": {
-      "rank": 4617,
+      "rank": 4590,
       "estimate": "<7k",
       "name": "Cozy Beach"
     },
     "3573120": {
-      "rank": 2427,
+      "rank": 2372,
       "estimate": "7k+",
       "name": "SpellChain"
     },
     "3584290": {
-      "rank": 3647,
+      "rank": 3623,
       "estimate": "<7k",
       "name": "Falling Undercover: Nox Syndicate"
     },
     "3617080": {
-      "rank": 5215,
+      "rank": 5177,
       "estimate": "<7k",
       "name": "Short Short Fictions"
     },
     "3652160": {
-      "rank": 5291,
+      "rank": 5257,
       "estimate": "<7k",
       "name": "Glowing Lamps"
     },
     "3680170": {
-      "rank": 484,
+      "rank": 470,
       "estimate": "80k+",
       "name": "Mortuus"
     },
     "3715690": {
-      "rank": 4176,
+      "rank": 4151,
       "estimate": "<7k",
       "name": "Rogue Rollers"
     },
     "4036130": {
-      "rank": 4101,
+      "rank": 4076,
       "estimate": "<7k",
       "name": "Mecha Force"
     },
     "4278840": {
-      "rank": 5187,
+      "rank": 5148,
       "estimate": "<7k",
       "name": "Call The Exterminator"
     },
     "4553110": {
-      "rank": 5428,
+      "rank": 5393,
       "estimate": "<7k",
       "name": "NEVER LOOK BACK"
     },
     "4724190": {
-      "rank": 5197,
+      "rank": 5153,
       "estimate": "<7k",
       "name": "Into the Planet's Flesh"
     },
     "4821880": {
-      "rank": 481,
+      "rank": 475,
       "estimate": "80k+",
       "name": "Roco Kingdom"
+    },
+    "5275640": {
+      "rank": 5711,
+      "estimate": "<7k",
+      "name": "Heroes Never Die"
     }
   }
 }

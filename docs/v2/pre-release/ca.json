@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
+  "updatedAt": "2026-10-29T17:14:20.171Z",
   "entryCount": 35,
   "entries": {
     "757310": {
@@ -166,11 +166,11 @@
       "source": "tracked"
     },
     "3144010": {
-      "rank": 18,
-      "estimate": "800k+",
+      "rank": 570,
+      "estimate": "40k+",
       "name": "Usagi Shima: Bunny Island",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-10-29",
+      "source": "tracked"
     },
     "3179120": {
       "rank": 1973,

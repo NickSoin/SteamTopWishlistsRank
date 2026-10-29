@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 37,
   "entries": {
     "773370": {
       "rank": 126,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "Berserk Heroes Online",
       "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
+    "5362340": {
+      "rank": 4861,
+      "estimate": "<7k",
+      "name": "Planet Coaster 2: Spooktacular Pack",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     }
   }

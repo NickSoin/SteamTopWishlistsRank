@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 38,
   "entries": {
     "252190": {
       "rank": 1772,
@@ -129,6 +129,13 @@
       "name": "Deep Rock Galactic - Supporter II Upgrade",
       "releaseDate": "2023-03-02",
       "source": "historical"
+    },
+    "2482760": {
+      "rank": 980,
+      "estimate": "40k+",
+      "name": "Hunting Simulator 3",
+      "releaseDate": "2026-10-29",
+      "source": "tracked"
     },
     "2618840": {
       "rank": 544,

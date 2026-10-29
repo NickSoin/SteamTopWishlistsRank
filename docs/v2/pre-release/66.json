@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 52,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 53,
   "entries": {
     "976890": {
       "rank": 70,
@@ -226,6 +226,13 @@
       "name": "The Jackbox Naughty Pack",
       "releaseDate": "2024-09-11",
       "source": "historical"
+    },
+    "2685440": {
+      "rank": 1509,
+      "estimate": "15k+",
+      "name": "Laura's secret diary",
+      "releaseDate": "2026-10-29",
+      "source": "tracked"
     },
     "2821800": {
       "rank": 282,

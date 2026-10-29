@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 33,
   "entries": {
     "1100910": {
       "rank": 1412,
@@ -218,6 +218,13 @@
       "estimate": "<7k",
       "name": "KOOO TO JUMP!",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4336170": {
+      "rank": 849,
+      "estimate": "40k+",
+      "name": "Age of Empires IV: Raiders of the North",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4354660": {

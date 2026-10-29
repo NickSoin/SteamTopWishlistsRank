@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T06:08:32.708Z",
-  "entryCount": 40,
+  "updatedAt": "2026-10-29T17:14:20.171Z",
+  "entryCount": 42,
   "entries": {
     "783550": {
       "rank": 4791,
@@ -237,6 +237,13 @@
       "releaseDate": "2026-10-06",
       "source": "tracked"
     },
+    "3901850": {
+      "rank": 3629,
+      "estimate": "<7k",
+      "name": "Desktop Duck",
+      "releaseDate": "2026-10-29",
+      "source": "tracked"
+    },
     "4074010": {
       "rank": 494,
       "estimate": "80k+",
@@ -284,6 +291,13 @@
       "estimate": "7k+",
       "name": "Pet the Cat",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "5031210": {
+      "rank": 1441,
+      "estimate": "25k+",
+      "name": "Rise of the Merchants",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     }
   }
