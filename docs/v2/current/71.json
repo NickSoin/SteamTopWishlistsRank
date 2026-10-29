@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-29T00:10:52.849Z",
-  "entryCount": 27,
+  "updatedAt": "2026-10-29T06:08:32.708Z",
+  "entryCount": 28,
   "entries": {
     "1120330": {
-      "rank": 1791,
+      "rank": 1788,
       "estimate": "15k+",
       "name": "Sky of Tides"
     },
     "1363940": {
-      "rank": 293,
+      "rank": 292,
       "estimate": "80k+",
       "name": "Tenjutsu"
     },
     "1445880": {
-      "rank": 740,
+      "rank": 741,
       "estimate": "40k+",
       "name": "ROCKBEASTS"
     },
     "1475120": {
-      "rank": 4232,
+      "rank": 4230,
       "estimate": "<7k",
       "name": "Call Me Under"
     },
@@ -30,22 +30,22 @@
       "name": "Isles of Krom"
     },
     "1727540": {
-      "rank": 4299,
+      "rank": 4295,
       "estimate": "<7k",
       "name": "Primordials Legends: Hollow Hero"
     },
     "1975790": {
-      "rank": 3204,
+      "rank": 3203,
       "estimate": "<7k",
       "name": "VergeWorld"
     },
     "2155070": {
-      "rank": 809,
+      "rank": 808,
       "estimate": "40k+",
       "name": "Fate/EXTRA Record"
     },
     "2563880": {
-      "rank": 3573,
+      "rank": 3572,
       "estimate": "<7k",
       "name": "Ghost Hand"
     },
@@ -55,7 +55,7 @@
       "name": "Spill the Beans"
     },
     "3209530": {
-      "rank": 5627,
+      "rank": 5630,
       "estimate": "<7k",
       "name": "Last Helion"
     },
@@ -65,42 +65,42 @@
       "name": "Tides of Blazefall"
     },
     "3519480": {
-      "rank": 1094,
+      "rank": 1092,
       "estimate": "25k+",
       "name": "Carthage: Bellum Punicum"
     },
     "3745230": {
-      "rank": 5407,
+      "rank": 5408,
       "estimate": "<7k",
       "name": "The Great Hatch"
     },
     "3893290": {
-      "rank": 815,
+      "rank": 814,
       "estimate": "40k+",
       "name": "Stray Dog: nobody cares"
     },
     "3970690": {
-      "rank": 147,
+      "rank": 146,
       "estimate": "200k+",
       "name": "Project Shadowglass"
     },
     "4089140": {
-      "rank": 618,
+      "rank": 619,
       "estimate": "40k+",
       "name": "Engine Of Sin"
     },
     "4089610": {
-      "rank": 2427,
+      "rank": 2425,
       "estimate": "7k+",
       "name": "Eldritch Horror: Digital Edition"
     },
     "4240620": {
-      "rank": 1866,
+      "rank": 1864,
       "estimate": "15k+",
       "name": "The Granny Detective Society"
     },
     "4317670": {
-      "rank": 5270,
+      "rank": 5269,
       "estimate": "<7k",
       "name": "Medieval Battle: Food Truck"
     },
@@ -110,22 +110,22 @@
       "name": "Heretic's Rapture"
     },
     "4366780": {
-      "rank": 1269,
+      "rank": 1268,
       "estimate": "25k+",
       "name": "Maskborne"
     },
     "4606460": {
-      "rank": 4330,
+      "rank": 4328,
       "estimate": "<7k",
       "name": "Succubi Domini"
     },
     "4917610": {
-      "rank": 3896,
+      "rank": 3895,
       "estimate": "<7k",
       "name": "Nightmere"
     },
     "4968090": {
-      "rank": 4755,
+      "rank": 4748,
       "estimate": "<7k",
       "name": "Lovely Cafe: Lusty Latte"
     },
@@ -135,9 +135,14 @@
       "name": "The Watcher"
     },
     "5092080": {
-      "rank": 2225,
+      "rank": 2219,
       "estimate": "7k+",
       "name": "Coasting"
+    },
+    "5328800": {
+      "rank": 5136,
+      "estimate": "<7k",
+      "name": "GHOSTPUNCH"
     }
   }
 }

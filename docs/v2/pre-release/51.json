@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T00:10:52.849Z",
+  "updatedAt": "2026-10-29T06:08:32.708Z",
   "entryCount": 43,
   "entries": {
     "467740": {
@@ -208,12 +208,12 @@
       "source": "tracked"
     },
     "4115450": {
-      "rank": 4,
-      "estimate": "1m",
-      "actualWishlists": 1000000,
+      "rank": 6,
+      "estimate": "1.5m+",
       "name": "Phantom Blade Zero",
-      "releaseDate": "2026-09-08",
-      "source": "historical",
+      "releaseDate": "2026-10-28",
+      "source": "tracked",
+      "actualWishlists": 1000000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365112250"
     },
     "4206240": {

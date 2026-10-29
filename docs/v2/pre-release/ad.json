@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T00:10:52.849Z",
-  "entryCount": 45,
+  "updatedAt": "2026-10-29T06:08:32.708Z",
+  "entryCount": 46,
   "entries": {
     "658920": {
       "rank": 716,
@@ -205,6 +205,13 @@
       "estimate": "15k+",
       "name": "SPAM",
       "releaseDate": "2026-10-07",
+      "source": "tracked"
+    },
+    "2990190": {
+      "rank": 1639,
+      "estimate": "15k+",
+      "name": "Magi Scapes",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     },
     "3067200": {

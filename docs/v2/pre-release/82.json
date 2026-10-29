@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T00:10:52.849Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-29T06:08:32.708Z",
+  "entryCount": 34,
   "entries": {
     "629820": {
       "rank": 21,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Lord Liberty Quest II ~Pure White~",
       "releaseDate": "2026-10-09",
+      "source": "tracked"
+    },
+    "4600540": {
+      "rank": 3473,
+      "estimate": "<7k",
+      "name": "Bahamut:Evolution",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     },
     "4669440": {
