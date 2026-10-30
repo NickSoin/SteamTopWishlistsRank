@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T17:14:20.171Z",
-  "entryCount": 27,
+  "updatedAt": "2026-10-30T00:29:02.412Z",
+  "entryCount": 28,
   "entries": {
     "832360": {
       "rank": 188,
@@ -38,6 +38,13 @@
       "name": "Chaos Galaxy 2",
       "releaseDate": "2023-01-05",
       "source": "historical"
+    },
+    "1742440": {
+      "rank": 1153,
+      "estimate": "25k+",
+      "name": "COP BASTARD",
+      "releaseDate": "2026-10-29",
+      "source": "tracked"
     },
     "1911860": {
       "rank": 917,

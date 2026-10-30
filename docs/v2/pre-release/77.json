@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T17:14:20.171Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-30T00:29:02.412Z",
+  "entryCount": 39,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -274,6 +274,13 @@
       "estimate": "<7k",
       "name": "Beyond Yardwork Simulator Prologue",
       "releaseDate": "2026-09-13",
+      "source": "tracked"
+    },
+    "5311990": {
+      "rank": 4730,
+      "estimate": "<7k",
+      "name": "Happy Happy Office",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     }
   }

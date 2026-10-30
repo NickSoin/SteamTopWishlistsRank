@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T17:14:20.171Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-30T00:29:02.412Z",
+  "entryCount": 42,
   "entries": {
     "601360": {
       "rank": 122,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "I Know a Spot",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4306070": {
+      "rank": 1560,
+      "estimate": "15k+",
+      "name": "Catch Meow If You Can",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4321680": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-29T17:14:20.171Z",
-  "entryCount": 23,
+  "updatedAt": "2026-10-30T00:29:02.412Z",
+  "entryCount": 24,
   "entries": {
     "937450": {
       "rank": 909,
@@ -15,7 +15,7 @@
       "name": "Solar System Colonist"
     },
     "1490930": {
-      "rank": 283,
+      "rank": 285,
       "estimate": "80k+",
       "name": "Capital Command"
     },
@@ -25,17 +25,17 @@
       "name": "The Wayward Realms"
     },
     "2116200": {
-      "rank": 5256,
+      "rank": 5255,
       "estimate": "<7k",
       "name": "ECO BREAKER"
     },
     "2220860": {
-      "rank": 778,
+      "rank": 777,
       "estimate": "40k+",
       "name": "TSURUGIHIME"
     },
     "2591960": {
-      "rank": 5747,
+      "rank": 5749,
       "estimate": "<7k",
       "name": "Hollow Bequest"
     },
@@ -45,72 +45,72 @@
       "name": "Chrono Odyssey"
     },
     "2994220": {
-      "rank": 3556,
+      "rank": 3561,
       "estimate": "<7k",
       "name": "Azaran: Islands of the Jinn"
     },
     "3054550": {
-      "rank": 865,
+      "rank": 864,
       "estimate": "40k+",
       "name": "Sil and the Fading World"
     },
     "3101780": {
-      "rank": 4835,
+      "rank": 4834,
       "estimate": "<7k",
       "name": "Starless Umbra"
     },
     "3177730": {
-      "rank": 3465,
+      "rank": 3468,
       "estimate": "<7k",
       "name": "Rottenroots"
     },
     "3539880": {
-      "rank": 5571,
+      "rank": 5572,
       "estimate": "<7k",
       "name": "Alchemia Rogue: Mia and the Mystery Labyrinth"
     },
     "3551820": {
-      "rank": 3327,
+      "rank": 3321,
       "estimate": "<7k",
       "name": "Castlebound"
     },
     "3581230": {
-      "rank": 122,
+      "rank": 121,
       "estimate": "200k+",
       "name": "Cozy Game Restoration"
     },
     "3893230": {
-      "rank": 3497,
+      "rank": 3496,
       "estimate": "<7k",
       "name": "Bifröst: Prelude to the Storm"
     },
     "3996490": {
-      "rank": 4973,
+      "rank": 4967,
       "estimate": "<7k",
       "name": "Polly's Puzzle Box"
     },
     "4008790": {
-      "rank": 4048,
+      "rank": 4043,
       "estimate": "<7k",
       "name": "King's Courier"
     },
     "4040750": {
-      "rank": 3871,
+      "rank": 3870,
       "estimate": "<7k",
       "name": "Paradoxical"
     },
     "4085920": {
-      "rank": 4539,
+      "rank": 4535,
       "estimate": "<7k",
       "name": "AlterMage"
     },
     "4103150": {
-      "rank": 1174,
+      "rank": 1172,
       "estimate": "25k+",
       "name": "Ghost Lover"
     },
     "4422260": {
-      "rank": 4425,
+      "rank": 4428,
       "estimate": "<7k",
       "name": "Hakoniwa Electric"
     },
@@ -118,6 +118,11 @@
       "rank": 773,
       "estimate": "40k+",
       "name": "Muse Dash 2"
+    },
+    "4996080": {
+      "rank": 5507,
+      "estimate": "<7k",
+      "name": "RESONANCE OF FATE™/END OF ETERNITY™ ENHANCED REMASTER"
     }
   }
 }

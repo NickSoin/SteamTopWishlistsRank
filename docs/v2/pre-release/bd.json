@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T17:14:20.171Z",
-  "entryCount": 55,
+  "updatedAt": "2026-10-30T00:29:02.412Z",
+  "entryCount": 56,
   "entries": {
     "347800": {
       "rank": 198,
@@ -382,6 +382,13 @@
       "estimate": "7k+",
       "name": "Football Agent",
       "releaseDate": "2026-08-25",
+      "source": "tracked"
+    },
+    "5001840": {
+      "rank": 540,
+      "estimate": "40k+",
+      "name": "Crimson Desert Enhanced: Charting the Unknown",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "5013160": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T17:14:20.171Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-30T00:29:02.412Z",
+  "entryCount": 42,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -289,6 +289,13 @@
       "estimate": "<7k",
       "name": "Gooner Studio",
       "releaseDate": "2026-06-13",
+      "source": "tracked"
+    },
+    "5019180": {
+      "rank": 567,
+      "estimate": "40k+",
+      "name": "Epic Seven",
+      "releaseDate": "2026-10-28",
       "source": "tracked"
     }
   }

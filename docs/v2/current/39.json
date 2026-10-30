@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-29T17:14:20.171Z",
-  "entryCount": 24,
+  "updatedAt": "2026-10-30T00:29:02.412Z",
+  "entryCount": 25,
   "entries": {
     "980700": {
-      "rank": 4250,
+      "rank": 4251,
       "estimate": "<7k",
       "name": "Unsung Warriors"
     },
@@ -20,7 +20,7 @@
       "name": "Ahoy"
     },
     "1896000": {
-      "rank": 4573,
+      "rank": 4571,
       "estimate": "<7k",
       "name": "Construction Manager"
     },
@@ -30,12 +30,12 @@
       "name": "NeuroSquad - Slay the Horde"
     },
     "2483140": {
-      "rank": 5489,
+      "rank": 5486,
       "estimate": "<7k",
       "name": "Containcorp"
     },
     "2761800": {
-      "rank": 2237,
+      "rank": 2235,
       "estimate": "7k+",
       "name": "COMBAT PILOT"
     },
@@ -45,42 +45,42 @@
       "name": "SCP"
     },
     "2778110": {
-      "rank": 1351,
+      "rank": 1353,
       "estimate": "25k+",
       "name": "Project ZETA"
     },
     "2974040": {
-      "rank": 5840,
+      "rank": 5838,
       "estimate": "<7k",
       "name": "Glintland"
     },
     "3075430": {
-      "rank": 4272,
+      "rank": 4269,
       "estimate": "<7k",
       "name": "Bat Galaxy"
     },
     "3121890": {
-      "rank": 1435,
+      "rank": 1434,
       "estimate": "25k+",
       "name": "Erased"
     },
     "3333190": {
-      "rank": 1509,
+      "rank": 1506,
       "estimate": "15k+",
       "name": "Road Truckers: New Beginning"
     },
     "3360150": {
-      "rank": 3069,
+      "rank": 3070,
       "estimate": "<7k",
       "name": "Morning Star"
     },
     "3602210": {
-      "rank": 4814,
+      "rank": 4805,
       "estimate": "<7k",
       "name": "Deus Exia"
     },
     "3787470": {
-      "rank": 2633,
+      "rank": 2632,
       "estimate": "7k+",
       "name": "Hermit"
     },
@@ -90,17 +90,17 @@
       "name": "Dungeon Pizza"
     },
     "3991390": {
-      "rank": 2054,
+      "rank": 2051,
       "estimate": "7k+",
       "name": "A Kingdom of Soil"
     },
     "3997150": {
-      "rank": 5736,
+      "rank": 5723,
       "estimate": "<7k",
       "name": "Brothel Virgin - The Crimson Reverie"
     },
     "4574370": {
-      "rank": 614,
+      "rank": 613,
       "estimate": "40k+",
       "name": "Sword & Banner"
     },
@@ -110,19 +110,24 @@
       "name": "Arc of Icarus"
     },
     "4586810": {
-      "rank": 3963,
+      "rank": 3960,
       "estimate": "<7k",
       "name": "The Concrete Sutra #1"
     },
     "4714820": {
-      "rank": 5651,
+      "rank": 5644,
       "estimate": "<7k",
       "name": "SuperReap"
     },
     "4996200": {
-      "rank": 4078,
+      "rank": 4067,
       "estimate": "<7k",
       "name": "Physician of Armiosion"
+    },
+    "5210790": {
+      "rank": 5788,
+      "estimate": "<7k",
+      "name": "Company of Heroes 3: Operation Torch"
     }
   }
 }

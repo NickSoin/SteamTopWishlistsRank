@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T17:14:20.171Z",
-  "entryCount": 37,
+  "updatedAt": "2026-10-30T00:29:02.412Z",
+  "entryCount": 38,
   "entries": {
     "661680": {
       "rank": 689,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "Mahjong Realms - Ancient Desert",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4579800": {
+      "rank": 6568,
+      "estimate": "<7k",
+      "name": "Odixel Studio",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4644290": {

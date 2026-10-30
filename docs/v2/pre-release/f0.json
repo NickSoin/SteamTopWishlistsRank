@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-29T17:14:20.171Z",
-  "entryCount": 43,
+  "updatedAt": "2026-10-30T00:29:02.412Z",
+  "entryCount": 44,
   "entries": {
     "721700": {
       "rank": 679,
@@ -232,6 +232,13 @@
       "estimate": "15k+",
       "name": "Yots",
       "releaseDate": "2026-10-16",
+      "source": "tracked"
+    },
+    "3624110": {
+      "rank": 2306,
+      "estimate": "7k+",
+      "name": "Prophet Margin",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "3747200": {
