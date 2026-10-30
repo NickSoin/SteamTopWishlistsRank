@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 46,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 47,
   "entries": {
     "812910": {
       "rank": 1037,
@@ -263,6 +263,13 @@
       "estimate": "40k+",
       "name": "Ultrapool",
       "releaseDate": "2026-08-24",
+      "source": "tracked"
+    },
+    "4339680": {
+      "rank": 1058,
+      "estimate": "25k+",
+      "name": "Totally Safe Moon Project",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "4489930": {

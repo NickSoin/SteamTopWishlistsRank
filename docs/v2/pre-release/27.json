@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 34,
   "entries": {
     "648800": {
       "rank": 25,
@@ -228,6 +228,13 @@
       "estimate": "25k+",
       "name": "Mafia: The Old Country - Man of Honor",
       "releaseDate": "2026-08-14",
+      "source": "tracked"
+    },
+    "4539410": {
+      "rank": 6772,
+      "estimate": "<7k",
+      "name": "Cubie",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "4580450": {

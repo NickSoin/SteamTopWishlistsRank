@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 26,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 27,
   "entries": {
     "1173790": {
       "rank": 382,
@@ -135,6 +135,13 @@
       "estimate": "<7k",
       "name": "Petunia's Purgatory",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4110680": {
+      "rank": 5186,
+      "estimate": "<7k",
+      "name": "SURI: The Seventh Note",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "4203270": {

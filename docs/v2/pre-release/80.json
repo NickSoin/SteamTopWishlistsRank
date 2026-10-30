@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 45,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 47,
   "entries": {
     "1112390": {
       "rank": 3117,
@@ -200,6 +200,13 @@
       "releaseDate": "2026-08-17",
       "source": "tracked"
     },
+    "2986590": {
+      "rank": 1963,
+      "estimate": "15k+",
+      "name": "HYPNOSYNC",
+      "releaseDate": "2026-10-30",
+      "source": "tracked"
+    },
     "3172440": {
       "rank": 634,
       "estimate": "40k+",
@@ -310,6 +317,13 @@
       "estimate": "<7k",
       "name": "GammaBoost+",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4616530": {
+      "rank": 3917,
+      "estimate": "<7k",
+      "name": "Dolly's Breeding Party",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "5072430": {

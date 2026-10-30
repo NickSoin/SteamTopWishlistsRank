@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 39,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -101,6 +101,13 @@
       "name": "Homeworld 3",
       "releaseDate": "2024-05-13",
       "source": "historical"
+    },
+    "1871260": {
+      "rank": 4567,
+      "estimate": "<7k",
+      "name": "Lyara",
+      "releaseDate": "2026-10-30",
+      "source": "tracked"
     },
     "2143980": {
       "rank": 1402,

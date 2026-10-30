@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 35,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -225,6 +225,13 @@
       "estimate": "15k+",
       "name": "DoDonPachi Resurrection Reignite",
       "releaseDate": "2026-08-26",
+      "source": "tracked"
+    },
+    "4631560": {
+      "rank": 5163,
+      "estimate": "<7k",
+      "name": "Ball Guys: Merge Party",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "4654020": {

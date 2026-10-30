@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 34,
   "entries": {
     "978520": {
       "rank": 41,
@@ -181,6 +181,13 @@
       "estimate": "7k+",
       "name": "Wordless Forest",
       "releaseDate": "2026-08-24",
+      "source": "tracked"
+    },
+    "4065440": {
+      "rank": 2433,
+      "estimate": "7k+",
+      "name": "UNDERDEEP",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4139330": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 43,
   "entries": {
     "553850": {
       "rank": 26,
@@ -296,6 +296,13 @@
       "estimate": "<7k",
       "name": "Package chaos",
       "releaseDate": "2026-08-28",
+      "source": "tracked"
+    },
+    "5056390": {
+      "rank": 2845,
+      "estimate": "7k+",
+      "name": "Dead of the Brain",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     }
   }

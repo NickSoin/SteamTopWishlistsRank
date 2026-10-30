@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 41,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 42,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -291,6 +291,13 @@
       "estimate": "<7k",
       "name": "Crime Simulator - Ashen Creek DLC",
       "releaseDate": "2026-08-11",
+      "source": "tracked"
+    },
+    "5088440": {
+      "rank": 784,
+      "estimate": "40k+",
+      "name": "Rip It! Card Collector",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     }
   }

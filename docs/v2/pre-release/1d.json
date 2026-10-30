@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 32,
   "entries": {
     "666150": {
       "rank": 48,
@@ -59,6 +59,13 @@
       "name": "KUUKIYOMI: Consider It! ONLINE",
       "releaseDate": "2022-06-19",
       "source": "historical"
+    },
+    "1799840": {
+      "rank": 158,
+      "estimate": "200k+",
+      "name": "Queen's Domain",
+      "releaseDate": "2026-10-30",
+      "source": "tracked"
     },
     "1928020": {
       "rank": 2015,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 48,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 49,
   "entries": {
     "856890": {
       "rank": 749,
@@ -319,6 +319,13 @@
       "estimate": "<7k",
       "name": "Greedy Spin: Reel Roguelike",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4600130": {
+      "rank": 6939,
+      "estimate": "<7k",
+      "name": "Harvest Looper",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "4756480": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 35,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 36,
   "entries": {
     "752290": {
       "rank": 6262,
@@ -216,6 +216,13 @@
       "estimate": "200k+",
       "name": "GRAIN ROT",
       "releaseDate": "2026-08-07",
+      "source": "tracked"
+    },
+    "4548240": {
+      "rank": 8039,
+      "estimate": "<7k",
+      "name": "Anonymized",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "4560660": {

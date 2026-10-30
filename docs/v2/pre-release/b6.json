@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 39,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 40,
   "entries": {
     "780310": {
       "rank": 16,
@@ -251,6 +251,13 @@
       "estimate": "40k+",
       "name": "Penguin Colony",
       "releaseDate": "2026-10-16",
+      "source": "tracked"
+    },
+    "3787390": {
+      "rank": 1252,
+      "estimate": "25k+",
+      "name": "Love or Lust Beach Stories",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "3983860": {

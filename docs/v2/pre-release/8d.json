@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 33,
   "entries": {
     "1079230": {
       "rank": 572,
@@ -171,6 +171,13 @@
       "name": "100 Cats London",
       "releaseDate": "2025-03-16",
       "source": "historical"
+    },
+    "2899240": {
+      "rank": 4369,
+      "estimate": "<7k",
+      "name": "BUZZ or DIE",
+      "releaseDate": "2026-10-30",
+      "source": "tracked"
     },
     "3275050": {
       "rank": 1089,

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 18,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 19,
   "entries": {
     "306910": {
-      "rank": 175,
+      "rank": 174,
       "estimate": "200k+",
       "name": "Vaultbreakers"
     },
@@ -15,17 +15,17 @@
       "name": "TankRat"
     },
     "1953430": {
-      "rank": 3692,
+      "rank": 3677,
       "estimate": "<7k",
       "name": "DearMyFriend"
     },
     "2357970": {
-      "rank": 4704,
+      "rank": 4687,
       "estimate": "<7k",
       "name": "Finely Diced"
     },
     "2408290": {
-      "rank": 5827,
+      "rank": 5811,
       "estimate": "<7k",
       "name": "Interlopers"
     },
@@ -35,52 +35,52 @@
       "name": "Dust Front RTS"
     },
     "2879320": {
-      "rank": 3380,
+      "rank": 3371,
       "estimate": "<7k",
       "name": "The Night Wanderer"
     },
     "3056850": {
-      "rank": 3668,
+      "rank": 3654,
       "estimate": "<7k",
       "name": "Soulscape"
     },
     "3196750": {
-      "rank": 4138,
+      "rank": 4119,
       "estimate": "<7k",
       "name": "[Bober Bros] Happy House"
     },
     "3374020": {
-      "rank": 3984,
+      "rank": 3969,
       "estimate": "<7k",
       "name": "Buddy Bug"
     },
     "3489490": {
-      "rank": 2865,
+      "rank": 2851,
       "estimate": "7k+",
       "name": "SourceWorld"
     },
     "3873770": {
-      "rank": 2178,
+      "rank": 2173,
       "estimate": "7k+",
       "name": "AXERAS"
     },
     "3943730": {
-      "rank": 5460,
+      "rank": 5430,
       "estimate": "<7k",
       "name": "Huntian: StarTrace"
     },
     "4430260": {
-      "rank": 1140,
+      "rank": 1130,
       "estimate": "25k+",
       "name": "Beat For Speed"
     },
     "4457050": {
-      "rank": 4729,
+      "rank": 4689,
       "estimate": "<7k",
       "name": "Remothered: Tormented Fathers Remastered"
     },
     "4635290": {
-      "rank": 2725,
+      "rank": 2704,
       "estimate": "7k+",
       "name": "Grave Mistakes"
     },
@@ -90,9 +90,14 @@
       "name": "SKOS: 13.86"
     },
     "5375410": {
-      "rank": 2822,
+      "rank": 2801,
       "estimate": "7k+",
       "name": "Link Loop"
+    },
+    "5484020": {
+      "rank": 5296,
+      "estimate": "<7k",
+      "name": "Sharp Flint"
     }
   }
 }

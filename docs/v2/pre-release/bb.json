@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 43,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 44,
   "entries": {
     "928960": {
       "rank": 577,
@@ -222,6 +222,13 @@
       "name": "MARINES VS GOD",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3436240": {
+      "rank": 1706,
+      "estimate": "15k+",
+      "name": "Summer Room8",
+      "releaseDate": "2026-10-30",
+      "source": "tracked"
     },
     "3796290": {
       "rank": 2371,

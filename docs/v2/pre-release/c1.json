@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 29,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 30,
   "entries": {
     "912840": {
       "rank": 1084,
@@ -144,6 +144,13 @@
       "estimate": "40k+",
       "name": "Zombie Assault: Resurgence",
       "releaseDate": "2026-10-28",
+      "source": "tracked"
+    },
+    "3169670": {
+      "rank": 8988,
+      "estimate": "<7k",
+      "name": "The Golden Caravan",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "3332830": {

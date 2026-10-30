@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T06:07:55.430Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-30T17:13:14.627Z",
+  "entryCount": 37,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "Desktop Detective",
       "releaseDate": "2026-08-19",
+      "source": "tracked"
+    },
+    "4693550": {
+      "rank": 3161,
+      "estimate": "<7k",
+      "name": "Дорога Жизни",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "4725790": {
