@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T00:29:02.412Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-30T06:07:55.430Z",
+  "entryCount": 39,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Sokogram",
       "releaseDate": "2026-08-25",
+      "source": "tracked"
+    },
+    "4422970": {
+      "rank": 8742,
+      "estimate": "<7k",
+      "name": "Morse Depths: WWII",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4429430": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T00:29:02.412Z",
-  "entryCount": 56,
+  "updatedAt": "2026-10-30T06:07:55.430Z",
+  "entryCount": 57,
   "entries": {
     "748020": {
       "rank": 911,
@@ -358,6 +358,13 @@
       "estimate": "<7k",
       "name": "Island Restoration",
       "releaseDate": "2026-09-23",
+      "source": "tracked"
+    },
+    "4416770": {
+      "rank": 7292,
+      "estimate": "<7k",
+      "name": "Yaoguai Compendium",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4513060": {

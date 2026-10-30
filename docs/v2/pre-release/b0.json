@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T00:29:02.412Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-30T06:07:55.430Z",
+  "entryCount": 39,
   "entries": {
     "490110": {
       "rank": 24,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "Spooky Market",
       "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
+    "4450390": {
+      "rank": 1120,
+      "estimate": "25k+",
+      "name": "Laguna Rosa: A long story with reckless consequences",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4463680": {

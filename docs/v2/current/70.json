@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-30T00:29:02.412Z",
-  "entryCount": 26,
+  "updatedAt": "2026-10-30T06:07:55.430Z",
+  "entryCount": 27,
   "entries": {
     "1395380": {
-      "rank": 3999,
+      "rank": 4000,
       "estimate": "<7k",
       "name": "Evolutis: Duality"
     },
@@ -20,7 +20,7 @@
       "name": "Schrodinger's Catgirl"
     },
     "2193530": {
-      "rank": 4404,
+      "rank": 4407,
       "estimate": "<7k",
       "name": "World of Titans MMORPG"
     },
@@ -35,37 +35,37 @@
       "name": "Main Sequence"
     },
     "2818820": {
-      "rank": 3089,
+      "rank": 3088,
       "estimate": "<7k",
       "name": "The Telwynium"
     },
     "2823660": {
-      "rank": 5650,
+      "rank": 5648,
       "estimate": "<7k",
       "name": "Bloodfang"
     },
     "3009720": {
-      "rank": 3584,
+      "rank": 3585,
       "estimate": "<7k",
       "name": "Baltic Folk"
     },
     "3353450": {
-      "rank": 1498,
+      "rank": 1499,
       "estimate": "25k+",
       "name": "Rev. NOiR"
     },
     "3527020": {
-      "rank": 5237,
+      "rank": 5236,
       "estimate": "<7k",
       "name": "Shut the windows and don't look outside"
     },
     "3552020": {
-      "rank": 5756,
+      "rank": 5757,
       "estimate": "<7k",
       "name": "Fate's Masquerade: Otome Visual Novel"
     },
     "3561930": {
-      "rank": 2596,
+      "rank": 2599,
       "estimate": "7k+",
       "name": "Liquid Lungs"
     },
@@ -75,12 +75,12 @@
       "name": "Darkhaven"
     },
     "3660860": {
-      "rank": 3697,
+      "rank": 3696,
       "estimate": "<7k",
       "name": "Turnip Boy Steals the Mail"
     },
     "3676250": {
-      "rank": 3754,
+      "rank": 3757,
       "estimate": "<7k",
       "name": "Boars in Rome"
     },
@@ -105,12 +105,12 @@
       "name": "Leyla In Veil"
     },
     "4001820": {
-      "rank": 1762,
+      "rank": 1764,
       "estimate": "15k+",
       "name": "Armaphract"
     },
     "4096910": {
-      "rank": 3377,
+      "rank": 3369,
       "estimate": "<7k",
       "name": "Void Reaver"
     },
@@ -120,19 +120,24 @@
       "name": "HollowCity:EscapeFromSeoul"
     },
     "4512650": {
-      "rank": 5520,
+      "rank": 5519,
       "estimate": "<7k",
       "name": "Kitchen Sync: The Flying Tavern"
     },
     "4615580": {
-      "rank": 4921,
+      "rank": 4923,
       "estimate": "<7k",
       "name": "OVERCHESS"
     },
     "4996830": {
-      "rank": 1248,
+      "rank": 1247,
       "estimate": "25k+",
       "name": "CONQ: CROWN OF NO QUARTER"
+    },
+    "5268930": {
+      "rank": 5779,
+      "estimate": "<7k",
+      "name": "Dokapon Kingdom: Connect 2"
     }
   }
 }

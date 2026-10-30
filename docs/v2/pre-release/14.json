@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T00:29:02.412Z",
-  "entryCount": 38,
+  "updatedAt": "2026-10-30T06:07:55.430Z",
+  "entryCount": 39,
   "entries": {
     "637050": {
       "rank": 136,
@@ -192,6 +192,13 @@
       "name": "ELDEN RING Shadow of the Erdtree",
       "releaseDate": "2024-06-20",
       "source": "historical"
+    },
+    "3066680": {
+      "rank": 4627,
+      "estimate": "<7k",
+      "name": "Solar Voltage",
+      "releaseDate": "2026-10-29",
+      "source": "tracked"
     },
     "3069050": {
       "rank": 2125,

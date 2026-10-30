@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T00:29:02.412Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-30T06:07:55.430Z",
+  "entryCount": 33,
   "entries": {
     "659300": {
       "rank": 3018,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Guilds of Mountgate",
       "releaseDate": "2026-09-02",
+      "source": "tracked"
+    },
+    "4918010": {
+      "rank": 3436,
+      "estimate": "<7k",
+      "name": "Sudokiller",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "5163750": {

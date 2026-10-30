@@ -1,51 +1,51 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-30T00:29:02.412Z",
-  "entryCount": 24,
+  "updatedAt": "2026-10-30T06:07:55.430Z",
+  "entryCount": 25,
   "entries": {
     "1061280": {
-      "rank": 1825,
+      "rank": 1824,
       "estimate": "15k+",
       "name": "Plastic Love"
     },
     "1279500": {
-      "rank": 5398,
+      "rank": 5396,
       "estimate": "<7k",
       "name": "Nine Chronicles"
     },
     "1292510": {
-      "rank": 1881,
+      "rank": 1882,
       "estimate": "15k+",
       "name": "Everstorm"
     },
     "1445480": {
-      "rank": 2803,
+      "rank": 2805,
       "estimate": "7k+",
       "name": "Determinant"
     },
     "1628120": {
-      "rank": 5239,
+      "rank": 5237,
       "estimate": "<7k",
       "name": "Rollers of the Realm: Reunion"
     },
     "1806210": {
-      "rank": 5874,
+      "rank": 5871,
       "estimate": "<7k",
       "name": "Spellcraft"
     },
     "2560540": {
-      "rank": 5371,
+      "rank": 5368,
       "estimate": "<7k",
       "name": "Historia Realis: Rome"
     },
     "2651390": {
-      "rank": 3554,
+      "rank": 3547,
       "estimate": "<7k",
       "name": "Fallen Elf:Darklight Tower"
     },
     "2699130": {
-      "rank": 3707,
+      "rank": 3706,
       "estimate": "<7k",
       "name": "Network Euphoria"
     },
@@ -55,22 +55,22 @@
       "name": "Fable"
     },
     "3200520": {
-      "rank": 5823,
+      "rank": 5821,
       "estimate": "<7k",
       "name": "Banban's Garten: Distorting Clay"
     },
     "3256790": {
-      "rank": 4624,
+      "rank": 4618,
       "estimate": "<7k",
       "name": "Satelital"
     },
     "3296970": {
-      "rank": 4223,
+      "rank": 4225,
       "estimate": "<7k",
       "name": "Häxeri"
     },
     "3325610": {
-      "rank": 2599,
+      "rank": 2601,
       "estimate": "7k+",
       "name": "IDET"
     },
@@ -80,7 +80,7 @@
       "name": "Tomb Raider: Legacy of Atlantis"
     },
     "3581140": {
-      "rank": 3325,
+      "rank": 3327,
       "estimate": "<7k",
       "name": "Clockwork Maiden"
     },
@@ -90,32 +90,32 @@
       "name": "Vivi and the Magical Island"
     },
     "3934180": {
-      "rank": 5509,
+      "rank": 5503,
       "estimate": "<7k",
       "name": "Don Memo"
     },
     "4001430": {
-      "rank": 3073,
+      "rank": 3070,
       "estimate": "<7k",
       "name": "Seres Universalis:Three Kingdoms"
     },
     "4004820": {
-      "rank": 1144,
+      "rank": 1145,
       "estimate": "25k+",
       "name": "FreeStyle Football 2"
     },
     "4047520": {
-      "rank": 2639,
+      "rank": 2638,
       "estimate": "7k+",
       "name": "Demonbane: Ascension"
     },
     "4151050": {
-      "rank": 4070,
+      "rank": 4068,
       "estimate": "<7k",
       "name": "Divided Empire: SENGOKU"
     },
     "4279750": {
-      "rank": 3161,
+      "rank": 3160,
       "estimate": "<7k",
       "name": "Magic Academy"
     },
@@ -123,6 +123,11 @@
       "rank": 4309,
       "estimate": "<7k",
       "name": "CASE: Animatronics Redux"
+    },
+    "5092570": {
+      "rank": 3348,
+      "estimate": "<7k",
+      "name": "Bay 12: Mech Repair"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T00:29:02.412Z",
-  "entryCount": 48,
+  "updatedAt": "2026-10-30T06:07:55.430Z",
+  "entryCount": 49,
   "entries": {
     "995680": {
       "rank": 39,
@@ -305,6 +305,13 @@
       "estimate": "7k+",
       "name": "Mothkeep",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4024120": {
+      "rank": 5012,
+      "estimate": "<7k",
+      "name": "颂声·市井小神仙",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4109210": {

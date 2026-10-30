@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T00:29:02.412Z",
-  "entryCount": 36,
+  "updatedAt": "2026-10-30T06:07:55.430Z",
+  "entryCount": 37,
   "entries": {
     "536280": {
       "rank": 48,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "Neon Pulsefire",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4528520": {
+      "rank": 9486,
+      "estimate": "<7k",
+      "name": "Scarlet Beret - Murder at the Orphanage",
+      "releaseDate": "2026-10-29",
       "source": "tracked"
     },
     "4558880": {
