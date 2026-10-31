@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-31T06:00:17.897Z",
+  "updatedAt": "2026-10-31T15:55:05.834Z",
   "entryCount": 45,
   "entries": {
     "467740": {
@@ -145,11 +145,11 @@
       "source": "historical"
     },
     "2485410": {
-      "rank": 2427,
-      "estimate": "7k+",
+      "rank": 1457,
+      "estimate": "25k+",
       "name": "Slowly Sliding Ducks",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-10-31",
+      "source": "tracked"
     },
     "2553050": {
       "rank": 1337,

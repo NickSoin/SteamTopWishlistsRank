@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-31T06:00:17.897Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-31T15:55:05.834Z",
+  "entryCount": 34,
   "entries": {
     "1336180": {
       "rank": 166,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Biomechanical Toy (QUByte Classics)",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4618670": {
+      "rank": 8428,
+      "estimate": "<7k",
+      "name": "Cultivation Legend",
+      "releaseDate": "2026-10-31",
       "source": "tracked"
     },
     "4685210": {

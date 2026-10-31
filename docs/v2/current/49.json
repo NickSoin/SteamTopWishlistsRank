@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-31T06:00:17.897Z",
-  "entryCount": 27,
+  "updatedAt": "2026-10-31T15:55:05.834Z",
+  "entryCount": 28,
   "entries": {
     "544300": {
-      "rank": 5848,
+      "rank": 5851,
       "estimate": "<7k",
       "name": "Memory of a Broken Dimension"
     },
     "1033540": {
-      "rank": 2566,
+      "rank": 2563,
       "estimate": "7k+",
       "name": "Arvita"
     },
     "1202340": {
-      "rank": 4153,
+      "rank": 4152,
       "estimate": "<7k",
       "name": "Paparazzi Simulator"
     },
     "1372780": {
-      "rank": 3264,
+      "rank": 3262,
       "estimate": "<7k",
       "name": "Quantum Paradox"
     },
     "1482470": {
-      "rank": 1280,
+      "rank": 1283,
       "estimate": "25k+",
       "name": "Pirates Republic"
     },
     "1982510": {
-      "rank": 5436,
+      "rank": 5435,
       "estimate": "<7k",
       "name": "大戦略SSB"
     },
     "2111430": {
-      "rank": 3708,
+      "rank": 3713,
       "estimate": "<7k",
       "name": "Forgotten house"
     },
@@ -45,7 +45,7 @@
       "name": "Emberville"
     },
     "2403250": {
-      "rank": 4612,
+      "rank": 4614,
       "estimate": "<7k",
       "name": "Armor Attack"
     },
@@ -55,57 +55,57 @@
       "name": "Burning Sword: Death Sun"
     },
     "2646170": {
-      "rank": 1064,
+      "rank": 1060,
       "estimate": "25k+",
       "name": "My Arms Are Longer Now"
     },
     "2732480": {
-      "rank": 2732,
+      "rank": 2730,
       "estimate": "7k+",
       "name": "Emery Hearts"
     },
     "2799050": {
-      "rank": 2841,
+      "rank": 2832,
       "estimate": "7k+",
       "name": "Mourning Tide"
     },
     "3044610": {
-      "rank": 5201,
+      "rank": 5200,
       "estimate": "<7k",
       "name": "Avalon Crew"
     },
     "3533170": {
-      "rank": 5521,
+      "rank": 5526,
       "estimate": "<7k",
       "name": "Garuda Emblem"
     },
     "3713880": {
-      "rank": 1903,
+      "rank": 1902,
       "estimate": "15k+",
       "name": "Lost Arsenal"
     },
     "3751600": {
-      "rank": 3580,
+      "rank": 3576,
       "estimate": "<7k",
       "name": "Dunwich Horror"
     },
     "3760370": {
-      "rank": 2738,
+      "rank": 2725,
       "estimate": "7k+",
       "name": "Kick"
     },
     "3789230": {
-      "rank": 1866,
+      "rank": 1865,
       "estimate": "15k+",
       "name": "Kalit"
     },
     "3804760": {
-      "rank": 1189,
+      "rank": 1191,
       "estimate": "25k+",
       "name": "Feather's Edge"
     },
     "3991970": {
-      "rank": 3630,
+      "rank": 3632,
       "estimate": "<7k",
       "name": "30 Days in Garage"
     },
@@ -115,7 +115,7 @@
       "name": "Lucid Falls"
     },
     "4065560": {
-      "rank": 4833,
+      "rank": 4831,
       "estimate": "<7k",
       "name": "Sign of Silence: 99 Nights"
     },
@@ -130,14 +130,19 @@
       "name": "Keep It Up!"
     },
     "4665290": {
-      "rank": 132,
+      "rank": 133,
       "estimate": "200k+",
       "name": "Alien: Isolation 2"
     },
     "4801140": {
-      "rank": 4069,
+      "rank": 4065,
       "estimate": "<7k",
       "name": "I Don't Do Quests Anymore..."
+    },
+    "4914970": {
+      "rank": 5805,
+      "estimate": "<7k",
+      "name": "The Winery - Winemaking Simulator"
     }
   }
 }
