@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-31T00:04:24.925Z",
-  "entryCount": 31,
+  "updatedAt": "2026-10-31T06:00:17.897Z",
+  "entryCount": 32,
   "entries": {
     "761830": {
       "rank": 31,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Train Simulator: Colorado & Southern Alpine Tunnel: St. Elmo - Pitkin",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4690880": {
+      "rank": 3711,
+      "estimate": "<7k",
+      "name": "Brand of Betrayal",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     }
   }

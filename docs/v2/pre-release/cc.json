@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-31T00:04:24.925Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-31T06:00:17.897Z",
+  "entryCount": 34,
   "entries": {
     "659300": {
       "rank": 3018,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "Sudokiller",
       "releaseDate": "2026-10-29",
+      "source": "tracked"
+    },
+    "5129280": {
+      "rank": 3249,
+      "estimate": "<7k",
+      "name": "Hospital Rhapsody",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "5163750": {

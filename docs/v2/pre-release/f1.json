@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-31T00:04:24.925Z",
-  "entryCount": 32,
+  "updatedAt": "2026-10-31T06:00:17.897Z",
+  "entryCount": 33,
   "entries": {
     "751630": {
       "rank": 64,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "Beggar's Life",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "4118400": {
+      "rank": 9362,
+      "estimate": "<7k",
+      "name": "100 Casino Cats",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "4194800": {

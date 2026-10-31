@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-10-31T00:04:24.925Z",
-  "entryCount": 17,
+  "updatedAt": "2026-10-31T06:00:17.897Z",
+  "entryCount": 18,
   "entries": {
     "1037170": {
-      "rank": 4017,
+      "rank": 4014,
       "estimate": "<7k",
       "name": "Maximum Thunderness"
     },
@@ -15,7 +15,7 @@
       "name": "Transformice Adventures"
     },
     "1666480": {
-      "rank": 3656,
+      "rank": 3654,
       "estimate": "<7k",
       "name": "Astra: Fading Stars"
     },
@@ -25,12 +25,12 @@
       "name": "Lendas"
     },
     "2481240": {
-      "rank": 2098,
+      "rank": 2095,
       "estimate": "7k+",
       "name": "HavenCraft"
     },
     "2503230": {
-      "rank": 1896,
+      "rank": 1897,
       "estimate": "15k+",
       "name": "Bogdan's Cross"
     },
@@ -40,7 +40,7 @@
       "name": "Expedition: Into Darkness"
     },
     "3261450": {
-      "rank": 1063,
+      "rank": 1065,
       "estimate": "25k+",
       "name": "Tangerine Antarctic"
     },
@@ -50,17 +50,17 @@
       "name": "Star Wrath"
     },
     "3677310": {
-      "rank": 3021,
+      "rank": 3022,
       "estimate": "<7k",
       "name": "Misty Valley: A Cozy Fishing Tale"
     },
     "3679550": {
-      "rank": 3469,
+      "rank": 3470,
       "estimate": "<7k",
       "name": "Lust Age"
     },
     "4173770": {
-      "rank": 3718,
+      "rank": 3714,
       "estimate": "<7k",
       "name": "Ghost Justice"
     },
@@ -70,24 +70,29 @@
       "name": "Re:course"
     },
     "4628160": {
-      "rank": 1141,
+      "rank": 1142,
       "estimate": "25k+",
       "name": "Speak"
     },
     "4806180": {
-      "rank": 4622,
+      "rank": 4554,
       "estimate": "<7k",
       "name": "Imperium"
     },
     "5032670": {
-      "rank": 4595,
+      "rank": 4569,
       "estimate": "<7k",
       "name": "MARVEL Cosmic Invasion - The Siege of Castle Doom"
     },
     "5047700": {
-      "rank": 4149,
+      "rank": 4143,
       "estimate": "<7k",
       "name": "Stillsun Ark"
+    },
+    "5246770": {
+      "rank": 5857,
+      "estimate": "<7k",
+      "name": "Countryside Big Catch"
     }
   }
 }
