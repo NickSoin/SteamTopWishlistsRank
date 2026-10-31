@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T17:13:14.627Z",
-  "entryCount": 33,
+  "updatedAt": "2026-10-31T00:04:24.925Z",
+  "entryCount": 34,
   "entries": {
     "1036240": {
       "rank": 491,
@@ -153,6 +153,13 @@
       "estimate": "<7k",
       "name": "Hell Bug",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "3465710": {
+      "rank": 4371,
+      "estimate": "<7k",
+      "name": "The Cat in the Hat: Rainy Day Mayhem",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "3621330": {

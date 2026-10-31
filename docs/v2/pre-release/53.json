@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T17:13:14.627Z",
-  "entryCount": 28,
+  "updatedAt": "2026-10-31T00:04:24.925Z",
+  "entryCount": 29,
   "entries": {
     "883230": {
       "rank": 1500,
@@ -165,6 +165,13 @@
       "estimate": "7k+",
       "name": "Mnemonimov",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "3855940": {
+      "rank": 956,
+      "estimate": "40k+",
+      "name": "AURA 2: Lust of the Gods",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "4190240": {

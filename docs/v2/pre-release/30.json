@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T17:13:14.627Z",
-  "entryCount": 34,
+  "updatedAt": "2026-10-31T00:04:24.925Z",
+  "entryCount": 35,
   "entries": {
     "978520": {
       "rank": 41,
@@ -244,6 +244,13 @@
       "estimate": "<7k",
       "name": "The Lewd Trap Tower: A Secretly Perverted Rookie Adventurer",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "5133900": {
+      "rank": 1635,
+      "estimate": "15k+",
+      "name": "Can 'Em All",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     }
   }

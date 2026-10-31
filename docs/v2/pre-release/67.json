@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-30T17:13:14.627Z",
-  "entryCount": 42,
+  "updatedAt": "2026-10-31T00:04:24.925Z",
+  "entryCount": 43,
   "entries": {
     "783550": {
       "rank": 4791,
@@ -270,6 +270,13 @@
       "estimate": "<7k",
       "name": "It's Chopping Time!",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4295970": {
+      "rank": 2109,
+      "estimate": "7k+",
+      "name": "Mirage Rebellion",
+      "releaseDate": "2026-10-30",
       "source": "tracked"
     },
     "4370020": {
