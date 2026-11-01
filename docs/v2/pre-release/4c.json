@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-01T06:45:23.296Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-01T17:03:39.909Z",
+  "entryCount": 39,
   "entries": {
     "774801": {
       "rank": 157,
@@ -249,6 +249,13 @@
       "estimate": "<7k",
       "name": "Microwave Simulator",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4288780": {
+      "rank": 7417,
+      "estimate": "<7k",
+      "name": "Morvex",
+      "releaseDate": "2026-11-01",
       "source": "tracked"
     },
     "4426320": {

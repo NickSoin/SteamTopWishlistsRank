@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-01T06:45:23.296Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-01T17:03:39.909Z",
+  "entryCount": 33,
   "entries": {
     "411090": {
       "rank": 5947,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Dice Have No Eyes",
       "releaseDate": "2026-05-19",
+      "source": "tracked"
+    },
+    "4703560": {
+      "rank": 6629,
+      "estimate": "<7k",
+      "name": "Soviet Backrooms",
+      "releaseDate": "2026-11-01",
       "source": "tracked"
     },
     "4806940": {

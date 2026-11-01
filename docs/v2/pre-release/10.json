@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-01T06:45:23.296Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-01T17:03:39.909Z",
+  "entryCount": 34,
   "entries": {
     "378690": {
       "rank": 1270,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "DAICE",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4445910": {
+      "rank": 9527,
+      "estimate": "<7k",
+      "name": "Dry Meadow",
+      "releaseDate": "2026-11-01",
       "source": "tracked"
     }
   }
