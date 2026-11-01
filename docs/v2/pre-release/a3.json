@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-10-31T23:33:14.928Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-01T06:45:23.296Z",
+  "entryCount": 39,
   "entries": {
     "782250": {
       "rank": 368,
@@ -198,6 +198,13 @@
       "estimate": "1.5m+",
       "name": "The Blood of Dawnwalker",
       "releaseDate": "2026-09-02",
+      "source": "tracked"
+    },
+    "3814510": {
+      "rank": 5428,
+      "estimate": "<7k",
+      "name": "白线",
+      "releaseDate": "2026-10-31",
       "source": "tracked"
     },
     "4216180": {
