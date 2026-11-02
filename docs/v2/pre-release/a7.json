@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-01T23:43:26.888Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-02T06:45:20.441Z",
+  "entryCount": 38,
   "entries": {
     "945770": {
       "rank": 169,
@@ -265,6 +265,13 @@
       "estimate": "<7k",
       "name": "真弓-Mayumi-",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4863090": {
+      "rank": 4327,
+      "estimate": "<7k",
+      "name": "Bravemech: The Century War",
+      "releaseDate": "2026-11-01",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-01T23:43:26.888Z",
-  "entryCount": 30,
+  "updatedAt": "2026-11-02T06:45:20.441Z",
+  "entryCount": 31,
   "entries": {
     "247970": {
       "rank": 513,
@@ -66,6 +66,13 @@
       "name": "Brewmastery: Tavern Simulator",
       "releaseDate": "2023-04-05",
       "source": "historical"
+    },
+    "1858720": {
+      "rank": 1583,
+      "estimate": "15k+",
+      "name": "Message From Aliens",
+      "releaseDate": "2026-11-01",
+      "source": "tracked"
     },
     "1903910": {
       "rank": 603,
