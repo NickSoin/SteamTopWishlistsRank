@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 39,
   "entries": {
     "894020": {
       "rank": 39,
@@ -251,6 +251,13 @@
       "estimate": "<7k",
       "name": "Train Valley 2: Workshop Gems - Onyx",
       "releaseDate": "2026-08-26",
+      "source": "tracked"
+    },
+    "4521700": {
+      "rank": 880,
+      "estimate": "40k+",
+      "name": "The Miner Was Replaced",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     },
     "4535730": {

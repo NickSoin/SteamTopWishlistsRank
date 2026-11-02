@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 49,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 50,
   "entries": {
     "651490": {
       "rank": 270,
@@ -317,6 +317,13 @@
       "estimate": "<7k",
       "name": "Anna - Chapter 2",
       "releaseDate": "2026-09-25",
+      "source": "tracked"
+    },
+    "4424740": {
+      "rank": 5241,
+      "estimate": "<7k",
+      "name": "Agent of Strange: Arrival",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     },
     "4451740": {

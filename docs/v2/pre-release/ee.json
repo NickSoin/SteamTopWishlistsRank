@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 37,
   "entries": {
     "889910": {
       "rank": 531,
@@ -193,6 +193,13 @@
       "estimate": "15k+",
       "name": "Burn With Me",
       "releaseDate": "2026-10-12",
+      "source": "tracked"
+    },
+    "2982710": {
+      "rank": 6790,
+      "estimate": "<7k",
+      "name": "Barely Alive",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     },
     "3022790": {

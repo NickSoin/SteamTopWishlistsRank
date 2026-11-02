@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 42,
   "entries": {
     "490110": {
       "rank": 24,
@@ -270,6 +270,13 @@
       "releaseDate": "2026-08-12",
       "source": "tracked"
     },
+    "4498220": {
+      "rank": 215,
+      "estimate": "80k+",
+      "name": "Brotato: Primal Dread",
+      "releaseDate": "2026-11-02",
+      "source": "tracked"
+    },
     "4648890": {
       "rank": 5800,
       "estimate": "<7k",
@@ -282,6 +289,13 @@
       "estimate": "<7k",
       "name": "Silk Home: echoes of the forbidden",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4744400": {
+      "rank": 4408,
+      "estimate": "<7k",
+      "name": "Verdant Requiem",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     }
   }

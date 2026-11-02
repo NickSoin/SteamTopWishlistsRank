@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 39,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -184,6 +184,13 @@
       "estimate": "15k+",
       "name": "Block Block Block",
       "releaseDate": "2026-08-05",
+      "source": "tracked"
+    },
+    "3684530": {
+      "rank": 3016,
+      "estimate": "<7k",
+      "name": "PlinkIdle",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     },
     "3705350": {

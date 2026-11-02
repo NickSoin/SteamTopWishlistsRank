@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 29,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 30,
   "entries": {
     "834910": {
       "rank": 9,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Demon Princess Retreat",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4806180": {
+      "rank": 3344,
+      "estimate": "<7k",
+      "name": "Imperium",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     }
   }

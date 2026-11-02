@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 34,
   "entries": {
     "1209470": {
       "rank": 50,
@@ -235,6 +235,13 @@
       "estimate": "<7k",
       "name": "Seven Seas Jewels 2 Collector's Edition",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4986750": {
+      "rank": 1964,
+      "estimate": "15k+",
+      "name": "Sabado",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     }
   }

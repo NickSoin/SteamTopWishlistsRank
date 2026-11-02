@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 38,
   "entries": {
     "536280": {
       "rank": 48,
@@ -212,6 +212,13 @@
       "estimate": "300k+",
       "name": "Wanderburg",
       "releaseDate": "2026-09-08",
+      "source": "tracked"
+    },
+    "3780970": {
+      "rank": 4624,
+      "estimate": "<7k",
+      "name": "Killer Aces Volleyball",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     },
     "4119270": {

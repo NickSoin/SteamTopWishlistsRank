@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 33,
   "entries": {
     "950620": {
       "rank": 254,
@@ -184,6 +184,13 @@
       "name": "VR-Kanojo",
       "releaseDate": "2025-07-30",
       "source": "historical"
+    },
+    "3330940": {
+      "rank": 5337,
+      "estimate": "<7k",
+      "name": "Caravan Carnage: Fruity Road",
+      "releaseDate": "2026-11-02",
+      "source": "tracked"
     },
     "3551190": {
       "rank": 958,

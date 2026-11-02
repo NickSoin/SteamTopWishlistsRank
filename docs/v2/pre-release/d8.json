@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 44,
   "entries": {
     "494730": {
       "rank": 753,
@@ -237,6 +237,13 @@
       "estimate": "25k+",
       "name": "Roadhouse Simulator",
       "releaseDate": "2026-09-21",
+      "source": "tracked"
+    },
+    "3683940": {
+      "rank": 1400,
+      "estimate": "25k+",
+      "name": "Replay Value: Second Hand Games",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     },
     "3729550": {

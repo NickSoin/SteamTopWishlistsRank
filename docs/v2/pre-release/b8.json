@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 38,
   "entries": {
     "485400": {
       "rank": 112,
@@ -267,6 +267,13 @@
       "estimate": "15k+",
       "name": "Paver: Tidy Up Together",
       "releaseDate": "2026-09-18",
+      "source": "tracked"
+    },
+    "5313470": {
+      "rank": 1045,
+      "estimate": "25k+",
+      "name": "Figure Me Out",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     }
   }

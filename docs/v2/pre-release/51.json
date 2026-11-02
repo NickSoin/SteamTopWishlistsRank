@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 46,
   "entries": {
     "467740": {
       "rank": 10,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "Cadence Point",
       "releaseDate": "2026-10-29",
+      "source": "tracked"
+    },
+    "3873120": {
+      "rank": 7063,
+      "estimate": "<7k",
+      "name": "Food Delivery Simulator 2026 - Prologue",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     },
     "4086480": {

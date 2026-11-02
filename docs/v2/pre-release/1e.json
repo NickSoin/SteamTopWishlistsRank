@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 35,
   "entries": {
     "868270": {
       "rank": 16,
@@ -109,6 +109,13 @@
       "releaseDate": "2024-12-17",
       "source": "historical"
     },
+    "2440760": {
+      "rank": 547,
+      "estimate": "40k+",
+      "name": "GRAVHOUNDS",
+      "releaseDate": "2026-11-02",
+      "source": "tracked"
+    },
     "2464520": {
       "rank": 636,
       "estimate": "40k+",
@@ -166,6 +173,13 @@
       "name": "Mech Builder",
       "releaseDate": "2024-07-16",
       "source": "historical"
+    },
+    "3832030": {
+      "rank": 778,
+      "estimate": "40k+",
+      "name": "BOOST VECTOR EX",
+      "releaseDate": "2026-11-02",
+      "source": "tracked"
     },
     "3874450": {
       "rank": 2245,

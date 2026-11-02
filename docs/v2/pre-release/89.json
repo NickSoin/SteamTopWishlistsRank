@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T06:45:20.441Z",
-  "entryCount": 28,
+  "updatedAt": "2026-11-02T20:46:17.550Z",
+  "entryCount": 29,
   "entries": {
     "377300": {
       "rank": 106,
@@ -158,6 +158,13 @@
       "estimate": "7k+",
       "name": "Ritter & Rotwein",
       "releaseDate": "2026-07-20",
+      "source": "tracked"
+    },
+    "3116870": {
+      "rank": 3149,
+      "estimate": "<7k",
+      "name": "Deus Mantle",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     },
     "3159570": {
