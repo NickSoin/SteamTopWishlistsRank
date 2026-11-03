@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 39,
   "entries": {
     "536280": {
       "rank": 48,
@@ -254,6 +254,13 @@
       "estimate": "40k+",
       "name": "Joey's Nightmare II",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "4616300": {
+      "rank": 7453,
+      "estimate": "<7k",
+      "name": "Celestial Routes",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "4663520": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 28,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 29,
   "entries": {
     "832360": {
       "rank": 188,
@@ -184,6 +184,13 @@
       "estimate": "<7k",
       "name": "The Immortal John Triptych: Weird Extra Content Art Gallery DLC Thingy ¯\\_(ツ)_/¯",
       "releaseDate": "2026-08-27",
+      "source": "tracked"
+    },
+    "4625320": {
+      "rank": 9313,
+      "estimate": "<7k",
+      "name": "Quadium 4004 Workbench",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "4704520": {

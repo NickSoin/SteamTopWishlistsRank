@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 40,
   "entries": {
     "436780": {
       "rank": 31,
@@ -115,6 +115,13 @@
       "name": "Noreya: The Gold Project",
       "releaseDate": "2024-06-21",
       "source": "historical"
+    },
+    "1779750": {
+      "rank": 5569,
+      "estimate": "<7k",
+      "name": "The House Before",
+      "releaseDate": "2026-11-03",
+      "source": "tracked"
     },
     "1934140": {
       "rank": 618,

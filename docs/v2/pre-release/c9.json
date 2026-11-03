@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 49,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 50,
   "entries": {
     "856890": {
       "rank": 749,
@@ -298,6 +298,13 @@
       "estimate": "40k+",
       "name": "Magical Girl ER",
       "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
+    "4476270": {
+      "rank": 2936,
+      "estimate": "7k+",
+      "name": "Crown & Coin: The Hundred Years",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "4486440": {

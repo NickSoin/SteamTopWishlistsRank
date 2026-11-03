@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 43,
   "entries": {
     "771700": {
       "rank": 1063,
@@ -146,6 +146,13 @@
       "releaseDate": "2025-05-13",
       "source": "historical"
     },
+    "2320980": {
+      "rank": 121,
+      "estimate": "200k+",
+      "name": "Loftia",
+      "releaseDate": "2026-11-03",
+      "source": "tracked"
+    },
     "2380740": {
       "rank": 76,
       "estimate": "300k+",
@@ -286,6 +293,13 @@
       "estimate": "<7k",
       "name": "Complexia, A Ballet of Blades",
       "releaseDate": "2026-10-27",
+      "source": "tracked"
+    },
+    "4779470": {
+      "rank": 828,
+      "estimate": "40k+",
+      "name": "Walkers",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "4954910": {

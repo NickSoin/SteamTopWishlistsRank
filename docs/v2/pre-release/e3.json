@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 40,
   "entries": {
     "830580": {
       "rank": 135,
@@ -270,6 +270,13 @@
       "estimate": "<7k",
       "name": "Farming Chillhood",
       "releaseDate": "2026-06-27",
+      "source": "tracked"
+    },
+    "5028050": {
+      "rank": 1925,
+      "estimate": "15k+",
+      "name": "Traffic Architect",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "5184600": {

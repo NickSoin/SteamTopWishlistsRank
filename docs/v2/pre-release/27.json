@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 35,
   "entries": {
     "648800": {
       "rank": 25,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "おかゆにゅ～～む！R ~Okayunyumu！R~",
       "releaseDate": "2026-08-25",
+      "source": "tracked"
+    },
+    "4621810": {
+      "rank": 4379,
+      "estimate": "<7k",
+      "name": "Livin' the Cream: Ice Cream Simulator",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     }
   }

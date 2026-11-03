@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 37,
   "entries": {
     "1231560": {
       "rank": 269,
@@ -233,6 +233,13 @@
       "estimate": "200k+",
       "name": "Airport Security Sucks!",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4304980": {
+      "rank": 7781,
+      "estimate": "<7k",
+      "name": "Drilling",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "4563880": {

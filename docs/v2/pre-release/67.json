@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 44,
   "entries": {
     "783550": {
       "rank": 4791,
@@ -235,6 +235,13 @@
       "estimate": "<7k",
       "name": "Prison Escape io",
       "releaseDate": "2026-10-06",
+      "source": "tracked"
+    },
+    "3891470": {
+      "rank": 4546,
+      "estimate": "<7k",
+      "name": "Construction Store Simulator",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "3901850": {

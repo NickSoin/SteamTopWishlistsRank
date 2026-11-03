@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 30,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 31,
   "entries": {
     "499180": {
       "rank": 937,
@@ -198,6 +198,13 @@
       "estimate": "15k+",
       "name": "Holey",
       "releaseDate": "2026-08-19",
+      "source": "tracked"
+    },
+    "3758950": {
+      "rank": 491,
+      "estimate": "80k+",
+      "name": "Death at Fleming Manor",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "4454000": {

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 13,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 14,
   "entries": {
     "1048250": {
-      "rank": 873,
+      "rank": 870,
       "estimate": "40k+",
       "name": "Bowlbo: The Quest for Bing Bing"
     },
@@ -15,9 +15,14 @@
       "name": "Guardians of the Wild Sky"
     },
     "2131290": {
-      "rank": 2310,
+      "rank": 2293,
       "estimate": "7k+",
       "name": "Iron Frontier"
+    },
+    "3060830": {
+      "rank": 5898,
+      "estimate": "<7k",
+      "name": "Realm of Advent"
     },
     "3327430": {
       "rank": 185,
@@ -25,47 +30,47 @@
       "name": "Carcass Clad"
     },
     "3768880": {
-      "rank": 4397,
+      "rank": 4389,
       "estimate": "<7k",
       "name": "Torebia: Island Odyssey"
     },
     "4162340": {
-      "rank": 451,
+      "rank": 449,
       "estimate": "80k+",
       "name": "Verdant"
     },
     "4208770": {
-      "rank": 1105,
+      "rank": 1104,
       "estimate": "25k+",
       "name": "Launch Window"
     },
     "4299480": {
-      "rank": 818,
+      "rank": 819,
       "estimate": "40k+",
       "name": "Vampire Mistress"
     },
     "4336530": {
-      "rank": 3420,
+      "rank": 3412,
       "estimate": "<7k",
       "name": "There Are Millions of Goblins"
     },
     "4446990": {
-      "rank": 4505,
+      "rank": 4494,
       "estimate": "<7k",
       "name": "Menhera Maiden"
     },
     "4489300": {
-      "rank": 3438,
+      "rank": 3430,
       "estimate": "<7k",
       "name": "Blackout Jack"
     },
     "4663760": {
-      "rank": 1641,
+      "rank": 1633,
       "estimate": "15k+",
       "name": "Anomaly Inspector Simulator"
     },
     "5158890": {
-      "rank": 4125,
+      "rank": 4108,
       "estimate": "<7k",
       "name": "Fedanheim"
     }

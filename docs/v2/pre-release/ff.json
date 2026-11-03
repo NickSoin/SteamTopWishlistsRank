@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 41,
   "entries": {
     "553540": {
       "rank": 73,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "阎罗索命",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4134310": {
+      "rank": 9298,
+      "estimate": "<7k",
+      "name": "Saraab: Beyond The Veil",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "4148630": {

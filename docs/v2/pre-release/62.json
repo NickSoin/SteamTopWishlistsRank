@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 41,
   "entries": {
     "261550": {
       "rank": 7,
@@ -144,6 +144,13 @@
       "estimate": "80k+",
       "name": "World of Tanks: HEAT",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "2218060": {
+      "rank": 2198,
+      "estimate": "7k+",
+      "name": "Backdraft",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "2336881": {

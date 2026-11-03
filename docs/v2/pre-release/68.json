@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 31,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 32,
   "entries": {
     "247970": {
       "rank": 513,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Spacebolt",
       "releaseDate": "2026-07-31",
+      "source": "tracked"
+    },
+    "4641930": {
+      "rank": 4418,
+      "estimate": "<7k",
+      "name": "DeadWeight: A Lullaby",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "4736830": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 43,
   "entries": {
     "490110": {
       "rank": 24,
@@ -275,6 +275,13 @@
       "estimate": "80k+",
       "name": "Brotato: Primal Dread",
       "releaseDate": "2026-11-02",
+      "source": "tracked"
+    },
+    "4608850": {
+      "rank": 8849,
+      "estimate": "<7k",
+      "name": "Aetheris Core",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "4648890": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 26,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 28,
   "entries": {
     "771580": {
       "rank": 187,
@@ -188,6 +188,20 @@
       "estimate": "<7k",
       "name": "Goblins Can Conquer",
       "releaseDate": "2026-08-26",
+      "source": "tracked"
+    },
+    "4508290": {
+      "rank": 2259,
+      "estimate": "7k+",
+      "name": "Lucky Punk: a push your luck Deckbuilder",
+      "releaseDate": "2026-11-03",
+      "source": "tracked"
+    },
+    "4689960": {
+      "rank": 8488,
+      "estimate": "<7k",
+      "name": "CarSim Racing",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     }
   }

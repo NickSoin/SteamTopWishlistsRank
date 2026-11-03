@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 37,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -162,6 +162,13 @@
       "estimate": "<7k",
       "name": "World of Eggs: Idle Adventures",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "3503350": {
+      "rank": 7955,
+      "estimate": "<7k",
+      "name": "Stick N' Sheep",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "3574020": {

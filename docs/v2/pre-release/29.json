@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 40,
   "entries": {
     "927350": {
       "rank": 30,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "Project Exodus",
       "releaseDate": "2026-10-30",
+      "source": "tracked"
+    },
+    "4251460": {
+      "rank": 239,
+      "estimate": "80k+",
+      "name": "Godzilla: Destroy All Monsters Melee Remastered",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "4508100": {

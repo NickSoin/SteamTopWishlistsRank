@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 28,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 29,
   "entries": {
     "897450": {
       "rank": 15,
@@ -108,6 +108,13 @@
       "name": "Songs of Life",
       "releaseDate": "2025-03-03",
       "source": "historical"
+    },
+    "2443590": {
+      "rank": 3654,
+      "estimate": "<7k",
+      "name": "Diecast",
+      "releaseDate": "2026-11-03",
+      "source": "tracked"
     },
     "2487150": {
       "rank": 1282,

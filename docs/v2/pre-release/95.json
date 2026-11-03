@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T07:16:04.202Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-03T18:16:02.572Z",
+  "entryCount": 43,
   "entries": {
     "729000": {
       "rank": 169,
@@ -298,6 +298,13 @@
       "estimate": "<7k",
       "name": "EGGCONSOLE RELICS MSX2",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "5181520": {
+      "rank": 1581,
+      "estimate": "15k+",
+      "name": "Mycelarium",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     }
   }
