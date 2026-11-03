@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T20:46:17.550Z",
-  "entryCount": 26,
+  "updatedAt": "2026-11-03T07:16:04.202Z",
+  "entryCount": 27,
   "entries": {
     "304770": {
       "rank": 2629,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "POTENTIAL MAN",
       "releaseDate": "2026-08-31",
+      "source": "tracked"
+    },
+    "4733590": {
+      "rank": 1332,
+      "estimate": "25k+",
+      "name": "Perfect Wives Next Door",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T20:46:17.550Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-03T07:16:04.202Z",
+  "entryCount": 40,
   "entries": {
     "261550": {
       "rank": 7,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "Carry The Count",
       "releaseDate": "2026-10-01",
+      "source": "tracked"
+    },
+    "4331330": {
+      "rank": 6106,
+      "estimate": "<7k",
+      "name": "Swarmfall",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     },
     "4605460": {

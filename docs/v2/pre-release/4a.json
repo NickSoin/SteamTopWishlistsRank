@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T20:46:17.550Z",
-  "entryCount": 46,
+  "updatedAt": "2026-11-03T07:16:04.202Z",
+  "entryCount": 47,
   "entries": {
     "972450": {
       "rank": 4756,
@@ -295,6 +295,13 @@
       "estimate": "<7k",
       "name": "Monkey Bizniz",
       "releaseDate": "2026-10-12",
+      "source": "tracked"
+    },
+    "4430260": {
+      "rank": 995,
+      "estimate": "40k+",
+      "name": "Beat For Speed",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     },
     "4434840": {

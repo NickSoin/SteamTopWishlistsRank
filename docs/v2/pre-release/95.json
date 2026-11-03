@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-02T20:46:17.550Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-03T07:16:04.202Z",
+  "entryCount": 42,
   "entries": {
     "729000": {
       "rank": 169,
@@ -270,6 +270,13 @@
       "estimate": "7k+",
       "name": "Detective INNA DUKE",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4285270": {
+      "rank": 4391,
+      "estimate": "<7k",
+      "name": "marblebuilds",
+      "releaseDate": "2026-11-02",
       "source": "tracked"
     },
     "4319290": {
