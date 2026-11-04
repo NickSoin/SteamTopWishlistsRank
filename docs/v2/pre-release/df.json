@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 37,
   "entries": {
     "990080": {
       "rank": 1,
@@ -173,6 +173,13 @@
       "name": "Humans are not that against Lizardwomen",
       "releaseDate": "2024-04-06",
       "source": "historical"
+    },
+    "3275210": {
+      "rank": 1432,
+      "estimate": "25k+",
+      "name": "Pionero Capital",
+      "releaseDate": "2026-11-04",
+      "source": "tracked"
     },
     "3454110": {
       "rank": 3021,

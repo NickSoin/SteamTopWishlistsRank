@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 41,
   "entries": {
     "789150": {
       "rank": 34,
@@ -246,6 +246,13 @@
       "estimate": "200k+",
       "name": "Aliens: Fireteam Elite 2",
       "releaseDate": "2026-08-25",
+      "source": "tracked"
+    },
+    "3491960": {
+      "rank": 5897,
+      "estimate": "<7k",
+      "name": "Lost Liminal",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "3882410": {

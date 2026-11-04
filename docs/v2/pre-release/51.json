@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 46,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 47,
   "entries": {
     "467740": {
       "rank": 10,
@@ -198,6 +198,13 @@
       "estimate": "40k+",
       "name": "Boba Cafe Simulator",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "3727090": {
+      "rank": 922,
+      "estimate": "40k+",
+      "name": "Horses of Hoofprint Bay",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "3869000": {

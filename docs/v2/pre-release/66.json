@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 54,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 55,
   "entries": {
     "976890": {
       "rank": 70,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "Insanitorium - Don’t Be Afraid",
       "releaseDate": "2026-10-20",
+      "source": "tracked"
+    },
+    "3273260": {
+      "rank": 1036,
+      "estimate": "25k+",
+      "name": "Lost Host",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "3383040": {

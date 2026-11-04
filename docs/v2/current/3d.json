@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 26,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 27,
   "entries": {
     "791630": {
-      "rank": 2565,
+      "rank": 2564,
       "estimate": "7k+",
       "name": "Tale of Ronin"
     },
     "833020": {
-      "rank": 2662,
+      "rank": 2656,
       "estimate": "7k+",
       "name": "Wail of Despair"
     },
@@ -25,27 +25,27 @@
       "name": "Deadlock"
     },
     "1578450": {
-      "rank": 5496,
+      "rank": 5493,
       "estimate": "<7k",
       "name": "With Last Breath"
     },
     "2382810": {
-      "rank": 3453,
+      "rank": 3448,
       "estimate": "<7k",
       "name": "Dream Channel Zero"
     },
     "2475620": {
-      "rank": 4667,
+      "rank": 4661,
       "estimate": "<7k",
       "name": "Misgiven"
     },
     "2719630": {
-      "rank": 5896,
+      "rank": 5892,
       "estimate": "<7k",
       "name": "Border Base"
     },
     "2831000": {
-      "rank": 4556,
+      "rank": 4530,
       "estimate": "<7k",
       "name": "Faraway"
     },
@@ -55,84 +55,89 @@
       "name": "Outward 2"
     },
     "2962010": {
-      "rank": 2663,
+      "rank": 2657,
       "estimate": "7k+",
       "name": "Tame It Too!"
     },
     "3271120": {
-      "rank": 3674,
+      "rank": 3667,
       "estimate": "<7k",
       "name": "Dragon Khan"
     },
     "3357310": {
-      "rank": 1190,
+      "rank": 1184,
       "estimate": "25k+",
       "name": "ASUKA x Redline Reverie"
     },
     "3507960": {
-      "rank": 2711,
+      "rank": 2710,
       "estimate": "7k+",
       "name": "Idlemancer"
     },
     "3679340": {
-      "rank": 5304,
+      "rank": 5296,
       "estimate": "<7k",
       "name": "CAM Model Simulator 2026"
     },
     "4225250": {
-      "rank": 1450,
+      "rank": 1445,
       "estimate": "25k+",
       "name": "DarkBazaar"
     },
     "4299460": {
-      "rank": 3802,
+      "rank": 3795,
       "estimate": "<7k",
       "name": "Sweepcremental"
     },
     "4331960": {
-      "rank": 4728,
+      "rank": 4711,
       "estimate": "<7k",
       "name": "Spectral Map"
     },
     "4359360": {
-      "rank": 4071,
+      "rank": 4062,
       "estimate": "<7k",
       "name": "Scrappy Craft"
     },
     "4406930": {
-      "rank": 5072,
+      "rank": 5066,
       "estimate": "<7k",
       "name": "Oh Apollo!"
     },
     "4465450": {
-      "rank": 2654,
+      "rank": 2317,
       "estimate": "7k+",
       "name": "My Ransomware Can't Be This Cute?!"
     },
     "4586410": {
-      "rank": 5057,
+      "rank": 5048,
       "estimate": "<7k",
       "name": "The Little Crumb"
     },
     "4712440": {
-      "rank": 4355,
+      "rank": 4349,
       "estimate": "<7k",
       "name": "Seaforge: Shores of Atlantis"
     },
     "4749570": {
-      "rank": 4616,
+      "rank": 4609,
       "estimate": "<7k",
       "name": "STEEL CORE"
     },
     "5034390": {
-      "rank": 1973,
+      "rank": 1966,
       "estimate": "15k+",
       "name": "Shade of the Marionette: The Story of Piyorita"
     },
     "5185890": {
-      "rank": 616,
+      "rank": 607,
       "estimate": "40k+",
       "name": "Zombies Aren't Real"
+    },
+    "5358920": {
+      "rank": 5901,
+      "estimate": "<7k",
+      "name": "Fill the Sea"
     }
   }
 }

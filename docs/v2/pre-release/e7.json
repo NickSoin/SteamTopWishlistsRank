@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 35,
   "entries": {
     "429380": {
       "rank": 36,
@@ -239,6 +239,13 @@
       "estimate": "<7k",
       "name": "Slots & Sword & Magic",
       "releaseDate": "2026-09-29",
+      "source": "tracked"
+    },
+    "4636920": {
+      "rank": 6425,
+      "estimate": "<7k",
+      "name": "Hyperline",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "4718440": {

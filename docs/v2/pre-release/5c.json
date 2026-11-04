@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 34,
   "entries": {
     "753640": {
       "rank": 18,
@@ -239,6 +239,13 @@
       "estimate": "7k+",
       "name": "HimaNatsu: Of Churches, Sunflowers, and Long Summers",
       "releaseDate": "2026-09-10",
+      "source": "tracked"
+    },
+    "5037510": {
+      "rank": 1427,
+      "estimate": "25k+",
+      "name": "Playrooms",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     }
   }

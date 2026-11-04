@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 49,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 50,
   "entries": {
     "658920": {
       "rank": 716,
@@ -303,6 +303,13 @@
       "estimate": "<7k",
       "name": "Pickupbal",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "4334530": {
+      "rank": 3494,
+      "estimate": "<7k",
+      "name": "Cold Rails",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "4489580": {

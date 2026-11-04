@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
+  "updatedAt": "2026-11-04T21:47:28.521Z",
   "entryCount": 38,
   "entries": {
     "1034140": {
@@ -201,11 +201,11 @@
       "source": "historical"
     },
     "2991310": {
-      "rank": 2085,
-      "estimate": "7k+",
+      "rank": 776,
+      "estimate": "40k+",
       "name": "Eternal Palace Sakura",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-11-04",
+      "source": "tracked"
     },
     "3144230": {
       "rank": 1469,

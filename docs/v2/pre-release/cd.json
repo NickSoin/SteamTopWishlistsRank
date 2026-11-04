@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 36,
   "entries": {
     "674140": {
       "rank": 537,
@@ -244,6 +244,13 @@
       "estimate": "25k+",
       "name": "Pih 2",
       "releaseDate": "2026-08-04",
+      "source": "tracked"
+    },
+    "4646190": {
+      "rank": 6673,
+      "estimate": "<7k",
+      "name": "Just Dying",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "4682460": {

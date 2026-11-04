@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 34,
   "entries": {
     "493520": {
       "rank": 14,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Three Kingdoms : Alias",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "4555040": {
+      "rank": 2907,
+      "estimate": "7k+",
+      "name": "Sushiamo",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "4673140": {

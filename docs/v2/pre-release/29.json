@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 41,
   "entries": {
     "927350": {
       "rank": 30,
@@ -240,6 +240,13 @@
       "estimate": "80k+",
       "name": "Godzilla: Destroy All Monsters Melee Remastered",
       "releaseDate": "2026-11-03",
+      "source": "tracked"
+    },
+    "4326740": {
+      "rank": 8258,
+      "estimate": "<7k",
+      "name": "Node Crown",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "4508100": {

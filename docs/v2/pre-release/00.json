@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 39,
   "entries": {
     "763180": {
       "rank": 734,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "2007",
       "releaseDate": "2026-08-29",
+      "source": "tracked"
+    },
+    "3002130": {
+      "rank": 1147,
+      "estimate": "25k+",
+      "name": "Theos: Cities Of Myth",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "3141330": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 37,
   "entries": {
     "1119840": {
       "rank": 247,
@@ -226,6 +226,13 @@
       "estimate": "15k+",
       "name": "Meowstery Wisp",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4358660": {
+      "rank": 411,
+      "estimate": "80k+",
+      "name": "Hull Rupture",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "4402950": {

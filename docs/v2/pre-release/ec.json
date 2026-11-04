@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T13:14:50.579Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "entryCount": 36,
   "entries": {
     "715400": {
       "rank": 49,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "Cultivation Idle",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "5283340": {
+      "rank": 4179,
+      "estimate": "<7k",
+      "name": "Plague Inc: The Board Game",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     }
   }
