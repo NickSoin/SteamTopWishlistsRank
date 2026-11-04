@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-03T18:16:02.572Z",
-  "entryCount": 21,
+  "updatedAt": "2026-11-04T00:52:46.740Z",
+  "entryCount": 22,
   "entries": {
     "719160": {
-      "rank": 3810,
+      "rank": 3809,
       "estimate": "<7k",
       "name": "Akhenaten: Rule as Pharaoh"
     },
     "862750": {
-      "rank": 407,
+      "rank": 406,
       "estimate": "80k+",
       "name": "Lost Railway"
     },
     "1988350": {
-      "rank": 1855,
+      "rank": 1859,
       "estimate": "15k+",
       "name": "Driven Affairs"
     },
@@ -25,7 +25,7 @@
       "name": "Nuclear Sub"
     },
     "2304360": {
-      "rank": 1816,
+      "rank": 1817,
       "estimate": "15k+",
       "name": "Mainland"
     },
@@ -35,7 +35,7 @@
       "name": "The Journey Home"
     },
     "2605900": {
-      "rank": 1649,
+      "rank": 1650,
       "estimate": "15k+",
       "name": "DIGESTED"
     },
@@ -45,17 +45,17 @@
       "name": "Waltz and Jam"
     },
     "2958550": {
-      "rank": 1299,
+      "rank": 1298,
       "estimate": "25k+",
       "name": "Deeper"
     },
     "3102220": {
-      "rank": 2872,
+      "rank": 2877,
       "estimate": "7k+",
       "name": "KARANEKO"
     },
     "3255610": {
-      "rank": 4794,
+      "rank": 4793,
       "estimate": "<7k",
       "name": "Tower of Silence"
     },
@@ -65,7 +65,7 @@
       "name": "DICTOCRACY"
     },
     "3557060": {
-      "rank": 4185,
+      "rank": 4188,
       "estimate": "<7k",
       "name": "Lull: Rest After Crying"
     },
@@ -75,27 +75,27 @@
       "name": "RAEV: Kingdom on the Distant Shores"
     },
     "3742990": {
-      "rank": 1175,
+      "rank": 1173,
       "estimate": "25k+",
       "name": "Mimic in the Dungeon"
     },
     "3947120": {
-      "rank": 4618,
+      "rank": 4621,
       "estimate": "<7k",
       "name": "Dead of Darkness 2"
     },
     "4040060": {
-      "rank": 838,
+      "rank": 829,
       "estimate": "40k+",
       "name": "Model Kit Studio"
     },
     "4056250": {
-      "rank": 3084,
+      "rank": 3085,
       "estimate": "<7k",
       "name": "空想森林FANTASY FOREST"
     },
     "4475020": {
-      "rank": 3804,
+      "rank": 3799,
       "estimate": "<7k",
       "name": "Dream Hackers VR"
     },
@@ -104,8 +104,13 @@
       "estimate": "15k+",
       "name": "Dynamite Day"
     },
+    "5062560": {
+      "rank": 5872,
+      "estimate": "<7k",
+      "name": "Pathos"
+    },
     "5269530": {
-      "rank": 4234,
+      "rank": 4202,
       "estimate": "<7k",
       "name": "Deep Rock Galactic: Survivor - Knockout Expansion"
     }

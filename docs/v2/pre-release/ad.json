@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-03T18:16:02.572Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-04T00:52:46.740Z",
+  "entryCount": 49,
   "entries": {
     "658920": {
       "rank": 716,
@@ -235,6 +235,13 @@
       "releaseDate": "2025-11-04",
       "source": "historical"
     },
+    "3529090": {
+      "rank": 2402,
+      "estimate": "7k+",
+      "name": "Astra Bestiary",
+      "releaseDate": "2026-11-03",
+      "source": "tracked"
+    },
     "3725650": {
       "rank": 1424,
       "estimate": "25k+",
@@ -261,6 +268,13 @@
       "estimate": "<7k",
       "name": "Love in Summer",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4031280": {
+      "rank": 3636,
+      "estimate": "<7k",
+      "name": "Boku Boku",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "4121170": {

@@ -1,61 +1,61 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-03T18:16:02.572Z",
-  "entryCount": 22,
+  "updatedAt": "2026-11-04T00:52:46.740Z",
+  "entryCount": 23,
   "entries": {
     "1967440": {
-      "rank": 4213,
+      "rank": 4214,
       "estimate": "<7k",
       "name": "God Help Us All"
     },
     "2162310": {
-      "rank": 5610,
+      "rank": 5620,
       "estimate": "<7k",
       "name": "Existence: The Outer Reach"
     },
     "2766240": {
-      "rank": 2338,
+      "rank": 2339,
       "estimate": "7k+",
       "name": "Portal: System Failure"
     },
     "2928190": {
-      "rank": 2631,
+      "rank": 2630,
       "estimate": "7k+",
       "name": "There is NO PLAN B"
     },
     "2976030": {
-      "rank": 1587,
+      "rank": 1588,
       "estimate": "15k+",
       "name": "Spell Fragments"
     },
     "3161310": {
-      "rank": 46,
+      "rank": 45,
       "estimate": "600k+",
       "name": "Hela: of Mice & Magic"
     },
     "3342470": {
-      "rank": 3627,
+      "rank": 3630,
       "estimate": "<7k",
       "name": "City of Voices"
     },
     "3499790": {
-      "rank": 314,
+      "rank": 312,
       "estimate": "80k+",
       "name": "Ashes of the Singularity II"
     },
     "3752080": {
-      "rank": 4966,
+      "rank": 4973,
       "estimate": "<7k",
       "name": "Mr. Ashfish's Distant Rehab"
     },
     "3798860": {
-      "rank": 637,
+      "rank": 636,
       "estimate": "40k+",
       "name": "Shutter Story"
     },
     "3860970": {
-      "rank": 5699,
+      "rank": 5697,
       "estimate": "<7k",
       "name": "VAL'TY"
     },
@@ -65,17 +65,17 @@
       "name": "Summer's Gone - Season 2 - Constellations"
     },
     "3964340": {
-      "rank": 4380,
+      "rank": 4383,
       "estimate": "<7k",
       "name": "MMORPG NPC Simulator"
     },
     "4018480": {
-      "rank": 5084,
+      "rank": 5086,
       "estimate": "<7k",
       "name": "Pistonica"
     },
     "4084180": {
-      "rank": 2849,
+      "rank": 2845,
       "estimate": "7k+",
       "name": "TORNBLADE"
     },
@@ -85,22 +85,22 @@
       "name": "Iron Bramble"
     },
     "4355910": {
-      "rank": 5335,
+      "rank": 5338,
       "estimate": "<7k",
       "name": "Impurity"
     },
     "4375480": {
-      "rank": 3745,
+      "rank": 3744,
       "estimate": "<7k",
       "name": "14 Days With You"
     },
     "4632020": {
-      "rank": 1903,
+      "rank": 1904,
       "estimate": "15k+",
       "name": "Historarium"
     },
     "4670350": {
-      "rank": 5606,
+      "rank": 5592,
       "estimate": "<7k",
       "name": "Hookeye"
     },
@@ -110,9 +110,14 @@
       "name": "BRAYZ"
     },
     "4976010": {
-      "rank": 4155,
+      "rank": 4152,
       "estimate": "<7k",
       "name": "MineMergeMatic"
+    },
+    "5478920": {
+      "rank": 3779,
+      "estimate": "<7k",
+      "name": "The Planet Crafter - Magnetaris"
     }
   }
 }
