@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T00:52:46.740Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-04T13:14:50.579Z",
+  "entryCount": 42,
   "entries": {
     "467700": {
       "rank": 1203,
@@ -251,6 +251,13 @@
       "estimate": "<7k",
       "name": "King of Pickaxe",
       "releaseDate": "2026-09-25",
+      "source": "tracked"
+    },
+    "4286110": {
+      "rank": 2447,
+      "estimate": "7k+",
+      "name": "妹調教日記",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "4766160": {

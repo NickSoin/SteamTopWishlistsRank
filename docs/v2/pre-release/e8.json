@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T00:52:46.740Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-04T13:14:50.579Z",
+  "entryCount": 42,
   "entries": {
     "638990": {
       "rank": 135,
@@ -289,6 +289,13 @@
       "estimate": "<7k",
       "name": "HELLBENT",
       "releaseDate": "2026-10-18",
+      "source": "tracked"
+    },
+    "4904200": {
+      "rank": 3095,
+      "estimate": "<7k",
+      "name": "Civitas: World Simulator",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     }
   }

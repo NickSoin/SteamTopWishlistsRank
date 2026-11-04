@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T00:52:46.740Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-04T13:14:50.579Z",
+  "entryCount": 34,
   "entries": {
     "751630": {
       "rank": 64,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Blast'N Bounty",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4584470": {
+      "rank": 4956,
+      "estimate": "<7k",
+      "name": "Chess: Three Kingdom",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "5316540": {

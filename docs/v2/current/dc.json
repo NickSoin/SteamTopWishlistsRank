@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-04T00:52:46.740Z",
-  "entryCount": 22,
+  "updatedAt": "2026-11-04T13:14:50.579Z",
+  "entryCount": 23,
   "entries": {
     "1651400": {
-      "rank": 3597,
+      "rank": 3596,
       "estimate": "<7k",
       "name": "Touhou: the Unreachable Oneiroborder"
     },
@@ -15,7 +15,7 @@
       "name": "MORTAL CRUX"
     },
     "1937070": {
-      "rank": 725,
+      "rank": 727,
       "estimate": "40k+",
       "name": "Engines Of Destruction"
     },
@@ -25,12 +25,12 @@
       "name": "YASUKE: A Lost Descendant"
     },
     "2523740": {
-      "rank": 428,
+      "rank": 418,
       "estimate": "80k+",
       "name": "DreamWorks Shrek 2 Remastered"
     },
     "2707670": {
-      "rank": 1540,
+      "rank": 1538,
       "estimate": "15k+",
       "name": "SCP: Valravn"
     },
@@ -40,17 +40,17 @@
       "name": "Lost Legions"
     },
     "2850600": {
-      "rank": 5436,
+      "rank": 5433,
       "estimate": "<7k",
       "name": "Mystical Tactics"
     },
     "2867800": {
-      "rank": 2353,
+      "rank": 2349,
       "estimate": "7k+",
       "name": "DEPERSON"
     },
     "2882720": {
-      "rank": 338,
+      "rank": 339,
       "estimate": "80k+",
       "name": "Koshmar: The Last Reverie"
     },
@@ -60,17 +60,17 @@
       "name": "Rescue Ops: Wildfire"
     },
     "2975130": {
-      "rank": 4182,
+      "rank": 4183,
       "estimate": "<7k",
       "name": "ULTRA MUSHROOM"
     },
     "3045070": {
-      "rank": 4242,
+      "rank": 4247,
       "estimate": "<7k",
       "name": "MetalMercs"
     },
     "3144760": {
-      "rank": 4614,
+      "rank": 4617,
       "estimate": "<7k",
       "name": "Serpentine Shadows and the Joys of Vengeance"
     },
@@ -80,27 +80,27 @@
       "name": "Kagura Survivors x Summer Memories"
     },
     "3357160": {
-      "rank": 4083,
+      "rank": 4079,
       "estimate": "<7k",
       "name": "HOLLOW MIRE"
     },
     "3725550": {
-      "rank": 2910,
+      "rank": 2873,
       "estimate": "7k+",
       "name": "The Ring Of Succubus Queen"
     },
     "3776020": {
-      "rank": 4986,
+      "rank": 4989,
       "estimate": "<7k",
       "name": "Card Make Arena"
     },
     "3780520": {
-      "rank": 4812,
+      "rank": 4817,
       "estimate": "<7k",
       "name": "Mercy Incore"
     },
     "3925750": {
-      "rank": 1454,
+      "rank": 1451,
       "estimate": "25k+",
       "name": "Generic Fighter Maybe"
     },
@@ -110,9 +110,14 @@
       "name": "Derby Creek"
     },
     "4952760": {
-      "rank": 5607,
+      "rank": 5598,
       "estimate": "<7k",
       "name": "Modulink"
+    },
+    "5272700": {
+      "rank": 5898,
+      "estimate": "<7k",
+      "name": "PAWSHOT"
     }
   }
 }

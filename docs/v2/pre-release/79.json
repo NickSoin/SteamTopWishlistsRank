@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T00:52:46.740Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-04T13:14:50.579Z",
+  "entryCount": 44,
   "entries": {
     "553850": {
       "rank": 26,
@@ -233,6 +233,13 @@
       "estimate": "80k+",
       "name": "Ved: Recure",
       "releaseDate": "2026-09-21",
+      "source": "tracked"
+    },
+    "3339970": {
+      "rank": 1898,
+      "estimate": "15k+",
+      "name": "WendyQuest: Legend of the Four Corner Stones",
+      "releaseDate": "2026-11-03",
       "source": "tracked"
     },
     "3428090": {

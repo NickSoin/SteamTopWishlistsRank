@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-04T00:52:46.740Z",
-  "entryCount": 18,
+  "updatedAt": "2026-11-04T13:14:50.579Z",
+  "entryCount": 19,
   "entries": {
     "1739080": {
       "rank": 171,
@@ -10,27 +10,27 @@
       "name": "Sword Hero"
     },
     "2022640": {
-      "rank": 1352,
+      "rank": 1353,
       "estimate": "25k+",
       "name": "CALX"
     },
     "2283250": {
-      "rank": 4652,
+      "rank": 4656,
       "estimate": "<7k",
       "name": "BrokenLore: DARK DAWN"
     },
     "2535690": {
-      "rank": 4292,
+      "rank": 4298,
       "estimate": "<7k",
       "name": "Offroad Survival"
     },
     "2663960": {
-      "rank": 565,
+      "rank": 564,
       "estimate": "40k+",
       "name": "Bendy: The Cage"
     },
     "2786760": {
-      "rank": 528,
+      "rank": 521,
       "estimate": "40k+",
       "name": "Another Door"
     },
@@ -40,59 +40,64 @@
       "name": "The Last Phoenix"
     },
     "3495250": {
-      "rank": 4861,
+      "rank": 4867,
       "estimate": "<7k",
       "name": "Glory On Pluto"
     },
     "3508880": {
-      "rank": 2322,
+      "rank": 2319,
       "estimate": "7k+",
       "name": "Outpost Simulator"
     },
     "3778290": {
-      "rank": 4729,
+      "rank": 4730,
       "estimate": "<7k",
       "name": "Scrutator Tenebris"
     },
     "3875960": {
-      "rank": 1603,
+      "rank": 1604,
       "estimate": "15k+",
       "name": "Dragon Raja the farewell passage"
     },
     "3962660": {
-      "rank": 2979,
+      "rank": 2975,
       "estimate": "7k+",
       "name": "Sin of Lust"
     },
     "4129510": {
-      "rank": 1537,
+      "rank": 1535,
       "estimate": "15k+",
       "name": "Eyes on Me"
     },
     "4195140": {
-      "rank": 1813,
+      "rank": 1801,
       "estimate": "15k+",
       "name": "PIX Football Manager"
     },
     "4327060": {
-      "rank": 3648,
+      "rank": 3632,
       "estimate": "<7k",
       "name": "Elzypon"
     },
     "4489960": {
-      "rank": 1539,
+      "rank": 1536,
       "estimate": "15k+",
       "name": "The Forge: Steel Frontier"
     },
     "4892120": {
-      "rank": 811,
+      "rank": 807,
       "estimate": "40k+",
       "name": "ROUTE"
     },
     "4992660": {
-      "rank": 2578,
+      "rank": 2571,
       "estimate": "7k+",
       "name": "Scawy Game"
+    },
+    "5075360": {
+      "rank": 5875,
+      "estimate": "<7k",
+      "name": "Tidy Up the Library of Alexandria"
     }
   }
 }
