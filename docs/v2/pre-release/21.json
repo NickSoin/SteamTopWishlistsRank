@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T21:47:28.521Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-05T07:14:03.317Z",
+  "entryCount": 33,
   "entries": {
     "924980": {
       "rank": 34,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Stall Tycoon: A Cozy English Word Game",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "5062560": {
+      "rank": 5819,
+      "estimate": "<7k",
+      "name": "Pathos",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     }
   }

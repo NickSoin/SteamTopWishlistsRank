@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T21:47:28.521Z",
-  "entryCount": 58,
+  "updatedAt": "2026-11-05T07:14:03.317Z",
+  "entryCount": 59,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -309,6 +309,13 @@
       "estimate": "300k+",
       "name": "AION 2",
       "releaseDate": "2026-10-05",
+      "source": "tracked"
+    },
+    "3581230": {
+      "rank": 99,
+      "estimate": "300k+",
+      "name": "Cozy Game Restoration",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "3893560": {

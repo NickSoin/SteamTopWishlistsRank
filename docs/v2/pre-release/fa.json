@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T21:47:28.521Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-05T07:14:03.317Z",
+  "entryCount": 37,
   "entries": {
     "506480": {
       "rank": 980,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "Pizza Man Simulator",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "4188260": {
+      "rank": 4103,
+      "estimate": "<7k",
+      "name": "Cozy~Fishing Kitten",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "4336300": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T21:47:28.521Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-05T07:14:03.317Z",
+  "entryCount": 46,
   "entries": {
     "774791": {
       "rank": 539,
@@ -262,6 +262,13 @@
       "name": "Where Winds Meet",
       "releaseDate": "2025-11-14",
       "source": "historical"
+    },
+    "3779560": {
+      "rank": 5257,
+      "estimate": "<7k",
+      "name": "Celeste Blue Wizard Luna",
+      "releaseDate": "2026-11-04",
+      "source": "tracked"
     },
     "3930510": {
       "rank": 1671,

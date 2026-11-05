@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T21:47:28.521Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-05T07:14:03.317Z",
+  "entryCount": 42,
   "entries": {
     "889750": {
       "rank": 90,
@@ -185,6 +185,13 @@
       "name": "Rain World: The Watcher",
       "releaseDate": "2025-03-28",
       "source": "historical"
+    },
+    "3059040": {
+      "rank": 8792,
+      "estimate": "<7k",
+      "name": "Cat-Astrophy",
+      "releaseDate": "2026-11-04",
+      "source": "tracked"
     },
     "3062990": {
       "rank": 540,

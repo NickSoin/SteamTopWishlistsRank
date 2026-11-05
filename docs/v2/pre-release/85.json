@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T21:47:28.521Z",
-  "entryCount": 56,
+  "updatedAt": "2026-11-05T07:14:03.317Z",
+  "entryCount": 57,
   "entries": {
     "440000": {
       "rank": 459,
@@ -268,6 +268,13 @@
       "estimate": "<7k",
       "name": "Guildamation",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4176000": {
+      "rank": 3491,
+      "estimate": "<7k",
+      "name": "False Myth 2",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "4244040": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T21:47:28.521Z",
-  "entryCount": 44,
+  "updatedAt": "2026-11-05T07:14:03.317Z",
+  "entryCount": 45,
   "entries": {
     "307950": {
       "rank": 1484,
@@ -272,6 +272,13 @@
       "estimate": "<7k",
       "name": "Siren's Call: Second Wind",
       "releaseDate": "2026-11-02",
+      "source": "tracked"
+    },
+    "4318080": {
+      "rank": 1045,
+      "estimate": "25k+",
+      "name": "ALTEREDBLOOD+ [AB+]",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "4383080": {

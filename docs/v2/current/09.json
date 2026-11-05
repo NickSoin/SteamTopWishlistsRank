@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-04T21:47:28.521Z",
+  "updatedAt": "2026-11-05T07:14:03.317Z",
   "entryCount": 16,
   "entries": {
     "1104800": {
-      "rank": 3206,
+      "rank": 3204,
       "estimate": "<7k",
       "name": "Radiance"
     },
@@ -15,12 +15,12 @@
       "name": "The Last Barbarian"
     },
     "2545880": {
-      "rank": 2320,
+      "rank": 2318,
       "estimate": "7k+",
       "name": "HistoriCity: Florence"
     },
     "2849380": {
-      "rank": 5487,
+      "rank": 5488,
       "estimate": "<7k",
       "name": "Succubus Dungeon"
     },
@@ -30,27 +30,27 @@
       "name": "SKINWALKER: First Blood"
     },
     "3514920": {
-      "rank": 5121,
+      "rank": 5123,
       "estimate": "<7k",
       "name": "Pin-Crawl"
     },
     "3588150": {
-      "rank": 1486,
+      "rank": 1484,
       "estimate": "25k+",
       "name": "The Bureau of Fantastical & Arcane Affairs"
     },
     "3637250": {
-      "rank": 2409,
+      "rank": 2402,
       "estimate": "7k+",
       "name": "The Well's Blessing"
     },
     "3797790": {
-      "rank": 285,
+      "rank": 282,
       "estimate": "80k+",
       "name": "Abyssal Lapidary"
     },
     "3891160": {
-      "rank": 518,
+      "rank": 512,
       "estimate": "40k+",
       "name": "CRYMELIGHT"
     },
@@ -60,28 +60,28 @@
       "name": "Everbrew"
     },
     "4230380": {
-      "rank": 4966,
+      "rank": 4962,
       "estimate": "<7k",
       "name": "Tinker Islands"
     },
     "4261650": {
-      "rank": 2351,
+      "rank": 2352,
       "estimate": "7k+",
       "name": "MASAKRE"
     },
     "4265830": {
-      "rank": 4333,
+      "rank": 4335,
       "estimate": "<7k",
       "name": "Spyder: Agent 8"
     },
     "4878690": {
-      "rank": 829,
+      "rank": 828,
       "estimate": "40k+",
       "name": "Don't Pick Up"
     },
     "4986050": {
-      "rank": 3074,
-      "estimate": "<7k",
+      "rank": 2976,
+      "estimate": "7k+",
       "name": "Network & Cyber Security Simulator"
     }
   }

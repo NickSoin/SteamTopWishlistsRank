@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-04T21:47:28.521Z",
-  "entryCount": 31,
+  "updatedAt": "2026-11-05T07:14:03.317Z",
+  "entryCount": 32,
   "entries": {
     "589940": {
       "rank": 1003,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "ShareNote Engine",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4593350": {
+      "rank": 7697,
+      "estimate": "<7k",
+      "name": "Dry Spring Monologue",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "4730180": {
