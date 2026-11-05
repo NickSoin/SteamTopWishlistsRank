@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 51,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 52,
   "entries": {
     "1067360": {
       "rank": 130,
@@ -335,6 +335,13 @@
       "estimate": "25k+",
       "name": "Loop Dungeon - Incremental",
       "releaseDate": "2026-10-19",
+      "source": "tracked"
+    },
+    "4681680": {
+      "rank": 9566,
+      "estimate": "<7k",
+      "name": "Cat Caffeine",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4692060": {

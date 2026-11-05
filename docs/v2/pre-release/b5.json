@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 42,
   "entries": {
     "789150": {
       "rank": 34,
@@ -295,6 +295,13 @@
       "estimate": "<7k",
       "name": "Kin Tandem",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "5017810": {
+      "rank": 2009,
+      "estimate": "7k+",
+      "name": "Gildoria - Organize a Dragon's Hoard",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     }
   }

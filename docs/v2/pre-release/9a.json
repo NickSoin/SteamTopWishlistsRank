@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 38,
   "entries": {
     "928000": {
       "rank": 773,
@@ -172,6 +172,13 @@
       "estimate": "80k+",
       "name": "Tabletop Tavern",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "3546610": {
+      "rank": 934,
+      "estimate": "40k+",
+      "name": "Wielders of the Essence",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "3708070": {

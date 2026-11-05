@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 37,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -253,6 +253,13 @@
       "estimate": "<7k",
       "name": "Hentai Tales: 7 Days Cycle",
       "releaseDate": "2026-07-11",
+      "source": "tracked"
+    },
+    "4914970": {
+      "rank": 4325,
+      "estimate": "<7k",
+      "name": "The Winery - Winemaking Simulator",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "5146190": {

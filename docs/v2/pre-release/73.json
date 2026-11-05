@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 33,
   "entries": {
     "427940": {
       "rank": 24,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "CYBER92 DATAWAR",
       "releaseDate": "2026-07-09",
+      "source": "tracked"
+    },
+    "5119400": {
+      "rank": 2766,
+      "estimate": "7k+",
+      "name": "WORKS: Motorsport Factory",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     }
   }

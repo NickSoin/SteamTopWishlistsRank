@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 39,
   "entries": {
     "889910": {
       "rank": 531,
@@ -223,6 +223,13 @@
       "releaseDate": "2026-09-04",
       "source": "tracked"
     },
+    "3204330": {
+      "rank": 215,
+      "estimate": "80k+",
+      "name": "County of Fortune",
+      "releaseDate": "2026-11-05",
+      "source": "tracked"
+    },
     "3839790": {
       "rank": 335,
       "estimate": "80k+",
@@ -249,6 +256,13 @@
       "estimate": "<7k",
       "name": "Don't Panic Together",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4633120": {
+      "rank": 2288,
+      "estimate": "7k+",
+      "name": "Voxotron",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4778540": {

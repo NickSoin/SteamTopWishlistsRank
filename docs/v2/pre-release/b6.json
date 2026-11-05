@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 41,
   "entries": {
     "780310": {
       "rank": 16,
@@ -286,6 +286,13 @@
       "estimate": "<7k",
       "name": "Zenith Expanse",
       "releaseDate": "2026-10-07",
+      "source": "tracked"
+    },
+    "4932210": {
+      "rank": 3268,
+      "estimate": "<7k",
+      "name": "Dark Elf: Descent into Corruption",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 34,
   "entries": {
     "411090": {
       "rank": 5947,
@@ -237,6 +237,13 @@
       "estimate": "<7k",
       "name": "I.T.C.B - Interstellar Trade Compliance Bureau",
       "releaseDate": "2026-09-11",
+      "source": "tracked"
+    },
+    "4956920": {
+      "rank": 1333,
+      "estimate": "25k+",
+      "name": "Thicc Magic. Elves' Perverted Beauty Standards.gif",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     }
   }

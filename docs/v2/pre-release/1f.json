@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 48,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 49,
   "entries": {
     "830540": {
       "rank": 1466,
@@ -267,6 +267,13 @@
       "estimate": "<7k",
       "name": "Social Democracy: An Alternate History",
       "releaseDate": "2026-08-21",
+      "source": "tracked"
+    },
+    "3432860": {
+      "rank": 1273,
+      "estimate": "25k+",
+      "name": "Psycho-Sleuth",
+      "releaseDate": "2026-11-04",
       "source": "tracked"
     },
     "3643170": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 35,
   "entries": {
     "1336180": {
       "rank": 166,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "RUNT",
       "releaseDate": "2026-08-10",
+      "source": "tracked"
+    },
+    "4146650": {
+      "rank": 4724,
+      "estimate": "<7k",
+      "name": "MUPO",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4448040": {

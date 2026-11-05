@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 29,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 30,
   "entries": {
     "456140": {
       "rank": 2301,
@@ -207,6 +207,13 @@
       "estimate": "40k+",
       "name": "Finals Week ✍🏻",
       "releaseDate": "2026-10-29",
+      "source": "tracked"
+    },
+    "4729080": {
+      "rank": 7472,
+      "estimate": "<7k",
+      "name": "Lil Laundry Lane",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 38,
   "entries": {
     "473750": {
       "rank": 1164,
@@ -172,6 +172,13 @@
       "estimate": "80k+",
       "name": "The Witch's Bakery",
       "releaseDate": "2026-10-14",
+      "source": "tracked"
+    },
+    "3116230": {
+      "rank": 4225,
+      "estimate": "<7k",
+      "name": "Abashed",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "3179350": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 40,
   "entries": {
     "716350": {
       "rank": 688,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Help me Cats",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4163660": {
+      "rank": 5744,
+      "estimate": "<7k",
+      "name": "Gun a Rat",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4211620": {

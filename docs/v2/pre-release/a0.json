@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 33,
   "entries": {
     "922620": {
       "rank": 627,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "Stick Scholars",
       "releaseDate": "2026-07-10",
+      "source": "tracked"
+    },
+    "4572120": {
+      "rank": 973,
+      "estimate": "40k+",
+      "name": "Dirt Clicker",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4588330": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 43,
   "entries": {
     "751780": {
       "rank": 21,
@@ -231,6 +231,13 @@
       "name": "Dungeon Vixens: A Tale of Temptation",
       "releaseDate": "2024-04-08",
       "source": "historical"
+    },
+    "2831000": {
+      "rank": 4505,
+      "estimate": "<7k",
+      "name": "Faraway",
+      "releaseDate": "2026-11-05",
+      "source": "tracked"
     },
     "3257780": {
       "rank": 2118,

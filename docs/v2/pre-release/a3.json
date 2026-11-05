@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 40,
   "entries": {
     "782250": {
       "rank": 368,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "Capsule Lover",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "3577020": {
+      "rank": 801,
+      "estimate": "40k+",
+      "name": "Clean Start",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "3751260": {

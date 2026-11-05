@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 39,
   "entries": {
     "661680": {
       "rank": 689,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "Mahjong Realms - Ancient Desert",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "4298170": {
+      "rank": 2650,
+      "estimate": "7k+",
+      "name": "Carry the Pack Rack",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4579800": {

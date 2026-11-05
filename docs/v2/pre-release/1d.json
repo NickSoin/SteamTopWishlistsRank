@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 33,
   "entries": {
     "666150": {
       "rank": 48,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "River Secret",
       "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
+    "4932800": {
+      "rank": 5194,
+      "estimate": "<7k",
+      "name": "Love n Life: Happy Student - Winter Embrace",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     }
   }

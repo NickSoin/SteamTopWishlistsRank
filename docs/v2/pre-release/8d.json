@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 35,
   "entries": {
     "1079230": {
       "rank": 572,
@@ -101,6 +101,13 @@
       "name": "Isle of Swaps",
       "releaseDate": "2024-09-27",
       "source": "historical"
+    },
+    "2411200": {
+      "rank": 408,
+      "estimate": "80k+",
+      "name": "Underkeep",
+      "releaseDate": "2026-11-05",
+      "source": "tracked"
     },
     "2470300": {
       "rank": 442,
@@ -219,6 +226,13 @@
       "estimate": "<7k",
       "name": "Incident Archives - Flight 882",
       "releaseDate": "2026-08-19",
+      "source": "tracked"
+    },
+    "4631310": {
+      "rank": 4319,
+      "estimate": "<7k",
+      "name": "Anomaly Road",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4734620": {

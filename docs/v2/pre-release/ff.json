@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 42,
   "entries": {
     "553540": {
       "rank": 73,
@@ -284,6 +284,13 @@
       "estimate": "<7k",
       "name": "Witchworker",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4794170": {
+      "rank": 3510,
+      "estimate": "<7k",
+      "name": "Swarmslam",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "5064340": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 39,
   "entries": {
     "936790": {
       "rank": 38,
@@ -233,6 +233,13 @@
       "estimate": "7k+",
       "name": "Driving Rogue",
       "releaseDate": "2026-09-17",
+      "source": "tracked"
+    },
+    "3296060": {
+      "rank": 650,
+      "estimate": "40k+",
+      "name": "Escape Academy 2: Back 2 School",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4321400": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 40,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -45,6 +45,13 @@
       "name": "Paradiso Guardian",
       "releaseDate": "2023-09-14",
       "source": "historical"
+    },
+    "1460810": {
+      "rank": 1160,
+      "estimate": "25k+",
+      "name": "Dungeon Munchies 2",
+      "releaseDate": "2026-11-05",
+      "source": "tracked"
     },
     "1546710": {
       "rank": 847,

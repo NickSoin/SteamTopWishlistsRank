@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 24,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 25,
   "entries": {
     "912000": {
       "rank": 895,
@@ -101,6 +101,13 @@
       "name": "inZOI",
       "releaseDate": "2025-03-27",
       "source": "historical"
+    },
+    "2522120": {
+      "rank": 469,
+      "estimate": "80k+",
+      "name": "Airframe Ultra",
+      "releaseDate": "2026-11-05",
+      "source": "tracked"
     },
     "2863160": {
       "rank": 568,

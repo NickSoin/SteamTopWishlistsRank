@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 33,
   "entries": {
     "589940": {
       "rank": 1003,
@@ -228,6 +228,13 @@
       "estimate": "7k+",
       "name": "Five Hearts Under One Roof season2 : Winter Trip DLC",
       "releaseDate": "2026-10-01",
+      "source": "tracked"
+    },
+    "5379010": {
+      "rank": 5367,
+      "estimate": "<7k",
+      "name": "Cubic Earth",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     }
   }

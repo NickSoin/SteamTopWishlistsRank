@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 41,
   "entries": {
     "930280": {
       "rank": 438,
@@ -232,6 +232,13 @@
       "estimate": "15k+",
       "name": "Lost in Tandem",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4140700": {
+      "rank": 4630,
+      "estimate": "<7k",
+      "name": "Cash is King! Business Simulator",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4181970": {

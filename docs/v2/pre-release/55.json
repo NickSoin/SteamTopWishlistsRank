@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 22,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 23,
   "entries": {
     "699130": {
       "rank": 139,
@@ -121,6 +121,13 @@
       "estimate": "80k+",
       "name": "Stonemachia",
       "releaseDate": "2026-05-26",
+      "source": "tracked"
+    },
+    "3572090": {
+      "rank": 714,
+      "estimate": "40k+",
+      "name": "Dominus Gladiatus",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "3783580": {

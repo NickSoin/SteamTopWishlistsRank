@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 48,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 49,
   "entries": {
     "595500": {
       "rank": 511,
@@ -265,6 +265,13 @@
       "estimate": "15k+",
       "name": "Exark",
       "releaseDate": "2026-08-18",
+      "source": "tracked"
+    },
+    "3543960": {
+      "rank": 5771,
+      "estimate": "<7k",
+      "name": "问题偶像的养成计划",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "3722660": {

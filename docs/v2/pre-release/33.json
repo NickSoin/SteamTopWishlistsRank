@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 38,
   "entries": {
     "1154090": {
       "rank": 1108,
@@ -173,6 +173,13 @@
       "releaseDate": "2025-05-06",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1796631172413086"
+    },
+    "3456660": {
+      "rank": 1026,
+      "estimate": "25k+",
+      "name": "PAYDAY: Aces High",
+      "releaseDate": "2026-11-05",
+      "source": "tracked"
     },
     "3840230": {
       "rank": 37,

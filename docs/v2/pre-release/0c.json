@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 46,
   "entries": {
     "1273260": {
       "rank": 1227,
@@ -281,6 +281,13 @@
       "estimate": "40k+",
       "name": "Veterans: Napoleonic Wars",
       "releaseDate": "2026-10-28",
+      "source": "tracked"
+    },
+    "4235160": {
+      "rank": 6294,
+      "estimate": "<7k",
+      "name": "Traders Life Simulator",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4263880": {

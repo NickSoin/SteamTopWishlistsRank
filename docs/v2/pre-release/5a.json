@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T07:14:03.317Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "entryCount": 33,
   "entries": {
     "990630": {
       "rank": 139,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "EA SPORTS™ MVP Bundle (College Football 27 Deluxe Edition & Madden NFL 27 Deluxe Edition) Pre-order Content",
       "releaseDate": "2026-08-10",
+      "source": "tracked"
+    },
+    "5146340": {
+      "rank": 2265,
+      "estimate": "7k+",
+      "name": "Arma Reforger - Rally",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     }
   }
