@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 44,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 45,
   "entries": {
     "698670": {
       "rank": 24,
@@ -312,6 +312,13 @@
       "estimate": "<7k",
       "name": "Pick Ball",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "5088960": {
+      "rank": 4519,
+      "estimate": "<7k",
+      "name": "DISK-Y",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     }
   }

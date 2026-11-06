@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 37,
   "entries": {
     "1079230": {
       "rank": 572,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "CharaDiary",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4834760": {
+      "rank": 1034,
+      "estimate": "25k+",
+      "name": "Pool of Radiance: Ruins of Myth Drannor",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     },
     "4986890": {

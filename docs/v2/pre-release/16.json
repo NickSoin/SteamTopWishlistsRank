@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 28,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 29,
   "entries": {
     "597820": {
       "rank": 2,
@@ -150,6 +150,13 @@
       "name": "Lizard Survivors: Battle for Hyperborea",
       "releaseDate": "2023-11-16",
       "source": "historical"
+    },
+    "2950410": {
+      "rank": 5414,
+      "estimate": "<7k",
+      "name": "Gear Up Einstein!",
+      "releaseDate": "2026-11-06",
+      "source": "tracked"
     },
     "3088400": {
       "rank": 2157,

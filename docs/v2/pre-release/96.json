@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 30,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 31,
   "entries": {
     "678390": {
       "rank": 662,
@@ -202,6 +202,13 @@
       "estimate": "<7k",
       "name": "Textorio",
       "releaseDate": "2026-10-10",
+      "source": "tracked"
+    },
+    "4784510": {
+      "rank": 2073,
+      "estimate": "7k+",
+      "name": "Leviathan: Rhino",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     },
     "4920680": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 39,
   "entries": {
     "252190": {
       "rank": 1772,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Flyra: FPV Drone Simulator",
       "releaseDate": "2026-08-26",
+      "source": "tracked"
+    },
+    "4159350": {
+      "rank": 2504,
+      "estimate": "7k+",
+      "name": "a Dogs Dream",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     },
     "4182710": {

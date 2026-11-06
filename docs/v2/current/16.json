@@ -1,86 +1,86 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 18,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 19,
   "entries": {
     "904510": {
-      "rank": 1442,
+      "rank": 1439,
       "estimate": "25k+",
       "name": "ARTIFICIAL"
     },
     "1418380": {
-      "rank": 3864,
+      "rank": 3858,
       "estimate": "<7k",
       "name": "Forester Simulator"
     },
     "1707680": {
-      "rank": 1020,
+      "rank": 1018,
       "estimate": "25k+",
       "name": "Referee Simulator"
     },
     "1890780": {
-      "rank": 1870,
+      "rank": 1868,
       "estimate": "15k+",
       "name": "Szrot"
     },
     "2118890": {
-      "rank": 1715,
+      "rank": 1711,
       "estimate": "15k+",
       "name": "Backrooms VHS"
     },
     "2134720": {
-      "rank": 1716,
+      "rank": 1712,
       "estimate": "15k+",
       "name": "Stormbinders"
     },
     "2229910": {
-      "rank": 2433,
+      "rank": 2430,
       "estimate": "7k+",
       "name": "Demiurgos"
     },
     "3154150": {
-      "rank": 3552,
+      "rank": 3544,
       "estimate": "<7k",
       "name": "Spook-A-Boo"
     },
     "3279330": {
-      "rank": 3640,
+      "rank": 3630,
       "estimate": "<7k",
       "name": "Home Wars: Battlefield"
     },
     "3398880": {
-      "rank": 3356,
+      "rank": 3349,
       "estimate": "<7k",
       "name": "Castle V Castle"
     },
     "3570350": {
-      "rank": 2496,
+      "rank": 2492,
       "estimate": "7k+",
       "name": "Silkgrove"
     },
     "3730680": {
-      "rank": 2666,
+      "rank": 2660,
       "estimate": "7k+",
       "name": "Table Tactics: physics-driven tabletop battles"
     },
     "3746560": {
-      "rank": 1583,
+      "rank": 1581,
       "estimate": "15k+",
       "name": "Ethernia"
     },
     "3798840": {
-      "rank": 2367,
+      "rank": 2360,
       "estimate": "7k+",
       "name": "Reytrieve Odyssey"
     },
     "4060650": {
-      "rank": 5209,
+      "rank": 5191,
       "estimate": "<7k",
       "name": "Serena: Yellow Creek"
     },
     "4575570": {
-      "rank": 5641,
+      "rank": 5560,
       "estimate": "<7k",
       "name": "Noctilucent: Before Dawn – Collector’s Edition"
     },
@@ -90,9 +90,14 @@
       "name": "Cartel Pilots Wanted"
     },
     "4683260": {
-      "rank": 600,
+      "rank": 599,
       "estimate": "40k+",
       "name": "Project Rabbit"
+    },
+    "4940800": {
+      "rank": 5872,
+      "estimate": "<7k",
+      "name": "Global Plates"
     }
   }
 }

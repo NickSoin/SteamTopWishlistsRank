@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 35,
   "entries": {
     "1209470": {
       "rank": 50,
@@ -194,6 +194,13 @@
       "name": "Terraformers: New Frontiers",
       "releaseDate": "2024-01-25",
       "source": "historical"
+    },
+    "2953170": {
+      "rank": 1004,
+      "estimate": "25k+",
+      "name": "Dungeons & Furry",
+      "releaseDate": "2026-11-06",
+      "source": "tracked"
     },
     "3547880": {
       "rank": 2720,

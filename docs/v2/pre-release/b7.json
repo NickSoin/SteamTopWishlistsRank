@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 37,
   "entries": {
     "671970": {
       "rank": 44,
@@ -200,6 +200,13 @@
       "estimate": "40k+",
       "name": "Flamecraft",
       "releaseDate": "2026-09-17",
+      "source": "tracked"
+    },
+    "4159290": {
+      "rank": 5011,
+      "estimate": "<7k",
+      "name": "The Rusted",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     },
     "4412960": {

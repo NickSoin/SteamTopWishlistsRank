@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 41,
   "entries": {
     "844980": {
       "rank": 112,
@@ -136,6 +136,13 @@
       "name": "Dead Cells: Return to Castlevania",
       "releaseDate": "2023-03-06",
       "source": "historical"
+    },
+    "2231090": {
+      "rank": 2630,
+      "estimate": "7k+",
+      "name": "Number Machine: Math Factory",
+      "releaseDate": "2026-11-06",
+      "source": "tracked"
     },
     "2356560": {
       "rank": 350,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 38,
   "entries": {
     "611360": {
       "rank": 243,
@@ -261,6 +261,13 @@
       "estimate": "<7k",
       "name": "空匣子 Empty Box",
       "releaseDate": "2026-06-10",
+      "source": "tracked"
+    },
+    "4880410": {
+      "rank": 3633,
+      "estimate": "<7k",
+      "name": "Tenebrarium",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     }
   }

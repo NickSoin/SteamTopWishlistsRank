@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 41,
   "entries": {
     "914890": {
       "rank": 644,
@@ -284,6 +284,13 @@
       "estimate": "<7k",
       "name": "Last Dive: Echo Trench",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "5285160": {
+      "rank": 3003,
+      "estimate": "<7k",
+      "name": "Silk Collector: Tidy Up the Clothing Store!",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     }
   }

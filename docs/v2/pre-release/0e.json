@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 46,
   "entries": {
     "529340": {
       "rank": 19,
@@ -321,6 +321,13 @@
       "estimate": "15k+",
       "name": "Bar After Bar",
       "releaseDate": "2026-08-24",
+      "source": "tracked"
+    },
+    "5168120": {
+      "rank": 3425,
+      "estimate": "<7k",
+      "name": "Football Academy Simulator",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     }
   }

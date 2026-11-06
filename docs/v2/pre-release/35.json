@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 50,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 51,
   "entries": {
     "671860": {
       "rank": 22,
@@ -352,6 +352,13 @@
       "estimate": "15k+",
       "name": "The Girl in the Window",
       "releaseDate": "2026-08-31",
+      "source": "tracked"
+    },
+    "5222940": {
+      "rank": 3813,
+      "estimate": "<7k",
+      "name": "Fleets of Valor",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     }
   }

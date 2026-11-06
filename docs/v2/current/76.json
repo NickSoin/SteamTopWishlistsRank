@@ -1,46 +1,46 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 17,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 18,
   "entries": {
     "1167110": {
-      "rank": 2410,
+      "rank": 2408,
       "estimate": "7k+",
       "name": "Rubi: The Wayward Mira"
     },
     "1545510": {
-      "rank": 3210,
+      "rank": 3209,
       "estimate": "<7k",
       "name": "Camping Builder"
     },
     "2197370": {
-      "rank": 5033,
+      "rank": 5026,
       "estimate": "<7k",
       "name": "Reversed Front"
     },
     "2241660": {
-      "rank": 3668,
+      "rank": 3659,
       "estimate": "<7k",
       "name": "SESSIONS"
     },
     "2359600": {
-      "rank": 188,
+      "rank": 187,
       "estimate": "200k+",
       "name": "Perfect New World"
     },
     "2360820": {
-      "rank": 1434,
+      "rank": 1432,
       "estimate": "25k+",
       "name": "Tempus Vitae"
     },
     "2978690": {
-      "rank": 2948,
+      "rank": 2941,
       "estimate": "7k+",
       "name": "Poolrooms"
     },
     "3276270": {
-      "rank": 1573,
+      "rank": 1571,
       "estimate": "15k+",
       "name": "Fallen Fates"
     },
@@ -50,7 +50,7 @@
       "name": "Ballistic.exe"
     },
     "3440130": {
-      "rank": 5856,
+      "rank": 5848,
       "estimate": "<7k",
       "name": "Songs of the Shore"
     },
@@ -60,34 +60,39 @@
       "name": "Frostrail"
     },
     "3944490": {
-      "rank": 2175,
+      "rank": 2170,
       "estimate": "7k+",
       "name": "Roll to Seduce"
     },
     "4113790": {
-      "rank": 4064,
+      "rank": 4054,
       "estimate": "<7k",
       "name": "Floral Flowlove"
     },
     "4119600": {
-      "rank": 4075,
+      "rank": 4065,
       "estimate": "<7k",
       "name": "UK Politics Simulator"
     },
     "4337710": {
-      "rank": 2326,
+      "rank": 2324,
       "estimate": "7k+",
       "name": "The Abased"
     },
     "4681770": {
-      "rank": 2187,
+      "rank": 2182,
       "estimate": "7k+",
       "name": "Everfront"
     },
     "4945740": {
-      "rank": 4665,
+      "rank": 4640,
       "estimate": "<7k",
       "name": "Nascor Descent"
+    },
+    "5536400": {
+      "rank": 5661,
+      "estimate": "<7k",
+      "name": "Vital Shell 2"
     }
   }
 }

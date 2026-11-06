@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 40,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -274,6 +274,13 @@
       "estimate": "<7k",
       "name": "Beyond Yardwork Simulator Prologue",
       "releaseDate": "2026-09-13",
+      "source": "tracked"
+    },
+    "5160800": {
+      "rank": 117,
+      "estimate": "200k+",
+      "name": "Find The Needle",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     },
     "5311990": {

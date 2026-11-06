@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T13:09:03.854Z",
-  "entryCount": 23,
+  "updatedAt": "2026-11-06T21:17:15.186Z",
+  "entryCount": 24,
   "entries": {
     "589450": {
       "rank": 1113,
@@ -135,6 +135,13 @@
       "estimate": "40k+",
       "name": "Project P.I.T.T.",
       "releaseDate": "2026-08-19",
+      "source": "tracked"
+    },
+    "4111040": {
+      "rank": 8538,
+      "estimate": "<7k",
+      "name": "Grégoire Lefèbvre Investigations : The Vow of Hate",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     },
     "4212480": {
