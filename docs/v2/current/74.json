@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-05T18:10:41.256Z",
+  "updatedAt": "2026-11-06T01:07:32.604Z",
   "entryCount": 22,
   "entries": {
     "1122160": {
-      "rank": 3727,
+      "rank": 3726,
       "estimate": "<7k",
       "name": "On Air"
     },
     "1601320": {
-      "rank": 3596,
+      "rank": 3598,
       "estimate": "<7k",
       "name": "Leshy"
     },
     "1638030": {
-      "rank": 3082,
+      "rank": 3083,
       "estimate": "<7k",
       "name": "Generation Ship"
     },
@@ -25,12 +25,12 @@
       "name": "Nazralath: The Fallen World"
     },
     "1973760": {
-      "rank": 2223,
+      "rank": 2227,
       "estimate": "7k+",
       "name": "Shell Soldier"
     },
     "2066740": {
-      "rank": 2779,
+      "rank": 2780,
       "estimate": "7k+",
       "name": "ASMR Food Experience"
     },
@@ -40,32 +40,32 @@
       "name": "Car Rental Simulator"
     },
     "2280360": {
-      "rank": 1879,
+      "rank": 1864,
       "estimate": "15k+",
       "name": "Scarecrow: 90s Crime Story"
     },
     "2852750": {
-      "rank": 2845,
+      "rank": 2846,
       "estimate": "7k+",
       "name": "The Games You Make"
     },
     "3034760": {
-      "rank": 3633,
+      "rank": 3632,
       "estimate": "<7k",
       "name": "STONEFEATHER"
     },
     "3056650": {
-      "rank": 4293,
+      "rank": 4297,
       "estimate": "<7k",
       "name": "Cult Of Blood"
     },
     "3111050": {
-      "rank": 5497,
+      "rank": 5475,
       "estimate": "<7k",
       "name": "Secrets Of Suburbia"
     },
     "3376860": {
-      "rank": 3554,
+      "rank": 3552,
       "estimate": "<7k",
       "name": "The Retrospection Of Tomorrow"
     },
@@ -75,7 +75,7 @@
       "name": "Second Stone"
     },
     "3610180": {
-      "rank": 3762,
+      "rank": 3763,
       "estimate": "<7k",
       "name": "Olympus Rangers"
     },
@@ -85,22 +85,22 @@
       "name": "Frostpunk: 1886"
     },
     "3814050": {
-      "rank": 4096,
+      "rank": 4098,
       "estimate": "<7k",
       "name": "Janitor Simulator"
     },
     "3952820": {
-      "rank": 5361,
+      "rank": 5364,
       "estimate": "<7k",
       "name": "Desserted"
     },
     "4008250": {
-      "rank": 1688,
+      "rank": 1680,
       "estimate": "15k+",
       "name": "BALL x PIT: Risen Ballbylon"
     },
     "4437450": {
-      "rank": 1335,
+      "rank": 1336,
       "estimate": "25k+",
       "name": "Nekopara Sekai Connect"
     },
@@ -110,7 +110,7 @@
       "name": "Last Ditch Effort"
     },
     "5188920": {
-      "rank": 4261,
+      "rank": 4263,
       "estimate": "<7k",
       "name": "Dangerous Delivery"
     }

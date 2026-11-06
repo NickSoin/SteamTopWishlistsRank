@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T18:10:41.256Z",
-  "entryCount": 48,
+  "updatedAt": "2026-11-06T01:07:32.604Z",
+  "entryCount": 49,
   "entries": {
     "694990": {
       "rank": 49,
@@ -223,6 +223,13 @@
       "estimate": "7k+",
       "name": "Feed The Pit",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "3279600": {
+      "rank": 3706,
+      "estimate": "<7k",
+      "name": "The Thrill of the Fight 2 Spectator",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "3478560": {

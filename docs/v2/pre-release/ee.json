@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T18:10:41.256Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-06T01:07:32.604Z",
+  "entryCount": 40,
   "entries": {
     "889910": {
       "rank": 531,
@@ -270,6 +270,13 @@
       "estimate": "40k+",
       "name": "Lucid Cats",
       "releaseDate": "2026-09-25",
+      "source": "tracked"
+    },
+    "4809750": {
+      "rank": 4534,
+      "estimate": "<7k",
+      "name": "明末：力挽狂澜",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4927490": {

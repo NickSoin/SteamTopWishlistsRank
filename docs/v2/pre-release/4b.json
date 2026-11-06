@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T18:10:41.256Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-06T01:07:32.604Z",
+  "entryCount": 40,
   "entries": {
     "936790": {
       "rank": 38,
@@ -233,6 +233,13 @@
       "estimate": "7k+",
       "name": "Driving Rogue",
       "releaseDate": "2026-09-17",
+      "source": "tracked"
+    },
+    "3162390": {
+      "rank": 6301,
+      "estimate": "<7k",
+      "name": "CoffeeShop Simulator",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "3296060": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-05T18:10:41.256Z",
-  "entryCount": 15,
+  "updatedAt": "2026-11-06T01:07:32.604Z",
+  "entryCount": 16,
   "entries": {
     "2109770": {
       "rank": 8,
@@ -10,27 +10,27 @@
       "name": "Kingmakers"
     },
     "2116860": {
-      "rank": 5806,
+      "rank": 5804,
       "estimate": "<7k",
       "name": "Crimerunner"
     },
     "2303200": {
-      "rank": 326,
+      "rank": 325,
       "estimate": "80k+",
       "name": "DarkSwarm"
     },
     "2559780": {
-      "rank": 3743,
+      "rank": 3746,
       "estimate": "<7k",
       "name": "Letter Bunny"
     },
     "3123670": {
-      "rank": 3725,
+      "rank": 3727,
       "estimate": "<7k",
       "name": "COMING HOME"
     },
     "3194690": {
-      "rank": 4551,
+      "rank": 4556,
       "estimate": "<7k",
       "name": "Local Supermarket Tycoon"
     },
@@ -40,12 +40,12 @@
       "name": "Awaysis"
     },
     "3838790": {
-      "rank": 708,
+      "rank": 709,
       "estimate": "40k+",
       "name": "The Twilight Project"
     },
     "3965580": {
-      "rank": 3917,
+      "rank": 3920,
       "estimate": "<7k",
       "name": "卦藏千相：六爻卷"
     },
@@ -55,7 +55,7 @@
       "name": "Immortal Rebirth"
     },
     "4480080": {
-      "rank": 3219,
+      "rank": 3220,
       "estimate": "<7k",
       "name": "Scream Operator: Haunted House Manager"
     },
@@ -65,19 +65,24 @@
       "name": "Commie Bobrs"
     },
     "4535780": {
-      "rank": 4469,
+      "rank": 4458,
       "estimate": "<7k",
       "name": "Love is Undead"
     },
     "4660170": {
-      "rank": 1647,
+      "rank": 1648,
       "estimate": "15k+",
       "name": "Witch Shop Simulator"
     },
     "4785910": {
-      "rank": 5007,
+      "rank": 5005,
       "estimate": "<7k",
       "name": "Meowstead"
+    },
+    "5318580": {
+      "rank": 5871,
+      "estimate": "<7k",
+      "name": "Jyoka -Castle town-"
     }
   }
 }

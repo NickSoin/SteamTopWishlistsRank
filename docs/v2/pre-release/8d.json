@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T18:10:41.256Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-06T01:07:32.604Z",
+  "entryCount": 36,
   "entries": {
     "1079230": {
       "rank": 572,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "Professor Simulator",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "4034540": {
+      "rank": 9338,
+      "estimate": "<7k",
+      "name": "Lines We Draw",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4211370": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-05T18:10:41.256Z",
-  "entryCount": 30,
+  "updatedAt": "2026-11-06T01:07:32.604Z",
+  "entryCount": 31,
   "entries": {
     "230210": {
       "rank": 15,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Lost in the Fire",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4420660": {
+      "rank": 1780,
+      "estimate": "15k+",
+      "name": "ZONE L.O.S.T.",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "4769110": {
