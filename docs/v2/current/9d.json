@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-06T01:07:32.604Z",
-  "entryCount": 19,
+  "updatedAt": "2026-11-06T13:09:03.854Z",
+  "entryCount": 20,
   "entries": {
     "616580": {
-      "rank": 5782,
+      "rank": 5783,
       "estimate": "<7k",
       "name": "War Girl"
     },
     "1236170": {
-      "rank": 2091,
+      "rank": 2094,
       "estimate": "7k+",
       "name": "The Fold: Ingression"
     },
     "1286230": {
-      "rank": 1639,
+      "rank": 1638,
       "estimate": "15k+",
       "name": "Fields of History: The Great War"
     },
     "1354450": {
-      "rank": 4622,
+      "rank": 4617,
       "estimate": "<7k",
       "name": "Dragonfield"
     },
@@ -30,7 +30,7 @@
       "name": "VTuber Beats"
     },
     "2022220": {
-      "rank": 1628,
+      "rank": 1626,
       "estimate": "15k+",
       "name": "Sexy Gym"
     },
@@ -40,7 +40,7 @@
       "name": "Pizza Kidd"
     },
     "2412740": {
-      "rank": 3523,
+      "rank": 3520,
       "estimate": "<7k",
       "name": "Ascent Quest"
     },
@@ -55,12 +55,12 @@
       "name": "Spell Candle"
     },
     "3503810": {
-      "rank": 5650,
+      "rank": 5652,
       "estimate": "<7k",
       "name": "「TERROR」type:【A.L.C.H.E.M.Y.】"
     },
     "3949500": {
-      "rank": 1888,
+      "rank": 1886,
       "estimate": "15k+",
       "name": "Goth Phone"
     },
@@ -75,29 +75,34 @@
       "name": "Hero's Hour 2"
     },
     "4182850": {
-      "rank": 3717,
+      "rank": 3710,
       "estimate": "<7k",
       "name": "Tiebreakers"
     },
     "4242730": {
-      "rank": 5441,
+      "rank": 5433,
       "estimate": "<7k",
       "name": "Sound System"
     },
     "4653750": {
-      "rank": 2026,
+      "rank": 2016,
       "estimate": "7k+",
       "name": "The Brave Few"
     },
     "4878900": {
-      "rank": 5304,
+      "rank": 5229,
       "estimate": "<7k",
       "name": "Net Worthless"
     },
     "5163450": {
-      "rank": 1328,
+      "rank": 1326,
       "estimate": "25k+",
       "name": "Brushland"
+    },
+    "5247570": {
+      "rank": 5655,
+      "estimate": "<7k",
+      "name": "Warhammer 40,000: Rogue Trader - Processional of the Damned"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T01:07:32.604Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-06T13:09:03.854Z",
+  "entryCount": 34,
   "entries": {
     "990630": {
       "rank": 139,
@@ -223,6 +223,13 @@
       "estimate": "15k+",
       "name": "Dimenshot",
       "releaseDate": "2026-10-16",
+      "source": "tracked"
+    },
+    "4337040": {
+      "rank": 2632,
+      "estimate": "7k+",
+      "name": "Noa and the Bandits' Den",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     },
     "4681420": {

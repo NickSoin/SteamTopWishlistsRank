@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T01:07:32.604Z",
-  "entryCount": 25,
+  "updatedAt": "2026-11-06T13:09:03.854Z",
+  "entryCount": 26,
   "entries": {
     "898890": {
       "rank": 231,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "Pawbay: Cat Chaos",
       "releaseDate": "2026-08-21",
+      "source": "tracked"
+    },
+    "4599470": {
+      "rank": 5843,
+      "estimate": "<7k",
+      "name": "Lost Media Agency",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     },
     "4909220": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T01:07:32.604Z",
-  "entryCount": 49,
+  "updatedAt": "2026-11-06T13:09:03.854Z",
+  "entryCount": 50,
   "entries": {
     "995680": {
       "rank": 39,
@@ -347,6 +347,13 @@
       "estimate": "<7k",
       "name": "Stronghold Crusader: Definitive Edition - The Surgeon and Baibars",
       "releaseDate": "2026-08-04",
+      "source": "tracked"
+    },
+    "4611210": {
+      "rank": 6027,
+      "estimate": "<7k",
+      "name": "Crimson Solstice",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     }
   }

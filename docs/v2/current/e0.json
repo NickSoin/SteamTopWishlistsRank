@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-06T01:07:32.604Z",
-  "entryCount": 28,
+  "updatedAt": "2026-11-06T13:09:03.854Z",
+  "entryCount": 29,
   "entries": {
     "1835080": {
       "rank": 3834,
@@ -10,17 +10,17 @@
       "name": "Taste Of Heaven"
     },
     "2282920": {
-      "rank": 5517,
+      "rank": 5518,
       "estimate": "<7k",
       "name": "Catagaia"
     },
     "2584400": {
-      "rank": 1231,
+      "rank": 1232,
       "estimate": "25k+",
       "name": "Beaten Path"
     },
     "2595110": {
-      "rank": 1422,
+      "rank": 1420,
       "estimate": "25k+",
       "name": "Love Nest"
     },
@@ -30,22 +30,22 @@
       "name": "Lil Guys"
     },
     "2679830": {
-      "rank": 4571,
+      "rank": 4564,
       "estimate": "<7k",
       "name": "Crowned In Steel"
     },
     "2778290": {
-      "rank": 4335,
+      "rank": 4333,
       "estimate": "<7k",
       "name": "LlamaRPG: Farm to Fable"
     },
     "2857810": {
-      "rank": 1451,
+      "rank": 1449,
       "estimate": "25k+",
       "name": "Sleight of Hand"
     },
     "2923810": {
-      "rank": 3265,
+      "rank": 3260,
       "estimate": "<7k",
       "name": "Among Shadows"
     },
@@ -55,27 +55,27 @@
       "name": "Rob Together"
     },
     "3334170": {
-      "rank": 2406,
+      "rank": 2404,
       "estimate": "7k+",
       "name": "Tales of Tuscany"
     },
     "3481610": {
-      "rank": 715,
+      "rank": 716,
       "estimate": "40k+",
       "name": "Hopetown"
     },
     "3645050": {
-      "rank": 215,
+      "rank": 216,
       "estimate": "80k+",
       "name": "Crop"
     },
     "3665100": {
-      "rank": 4637,
+      "rank": 4636,
       "estimate": "<7k",
       "name": "Sucks To Be In The Sticks"
     },
     "3669430": {
-      "rank": 633,
+      "rank": 628,
       "estimate": "40k+",
       "name": "Twilight Imperium Digital"
     },
@@ -85,22 +85,22 @@
       "name": "SAFE INSIDE"
     },
     "3799720": {
-      "rank": 2801,
+      "rank": 2800,
       "estimate": "7k+",
       "name": "House of Saturn"
     },
     "3804280": {
-      "rank": 2468,
+      "rank": 2466,
       "estimate": "7k+",
       "name": "Lola's Familiars: Prison of Argnoh"
     },
     "3861740": {
-      "rank": 4258,
+      "rank": 4257,
       "estimate": "<7k",
       "name": "A Thousand Cloys"
     },
     "3975250": {
-      "rank": 4889,
+      "rank": 4877,
       "estimate": "<7k",
       "name": "Merry Crisis"
     },
@@ -110,22 +110,22 @@
       "name": "Prospice: Anomalous Logistics"
     },
     "4149610": {
-      "rank": 1557,
+      "rank": 1555,
       "estimate": "15k+",
       "name": "Young Suns"
     },
     "4211870": {
-      "rank": 4662,
+      "rank": 4656,
       "estimate": "<7k",
       "name": "Pet.Net"
     },
     "4319240": {
-      "rank": 5178,
+      "rank": 5181,
       "estimate": "<7k",
       "name": "Final Flavor"
     },
     "4708840": {
-      "rank": 3924,
+      "rank": 3923,
       "estimate": "<7k",
       "name": "Atemporal Silentium"
     },
@@ -135,14 +135,19 @@
       "name": "Oh, My Doug!"
     },
     "4889730": {
-      "rank": 5066,
+      "rank": 5045,
       "estimate": "<7k",
       "name": "Project XX Queen"
     },
     "5246390": {
-      "rank": 5205,
+      "rank": 5139,
       "estimate": "<7k",
       "name": "Ice Cream Shop: A Cooking Simulator Game"
+    },
+    "5395920": {
+      "rank": 5835,
+      "estimate": "<7k",
+      "name": "Frog Collector"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T01:07:32.604Z",
-  "entryCount": 56,
+  "updatedAt": "2026-11-06T13:09:03.854Z",
+  "entryCount": 57,
   "entries": {
     "347800": {
       "rank": 198,
@@ -305,6 +305,13 @@
       "estimate": "15k+",
       "name": "IGS Classic Arcade Collection",
       "releaseDate": "2026-08-12",
+      "source": "tracked"
+    },
+    "3826290": {
+      "rank": 2404,
+      "estimate": "7k+",
+      "name": "组长！怨念请查收！",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     },
     "3865000": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T01:07:32.604Z",
-  "entryCount": 30,
+  "updatedAt": "2026-11-06T13:09:03.854Z",
+  "entryCount": 31,
   "entries": {
     "736590": {
       "rank": 75,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "GOLDEN MAGNET",
       "releaseDate": "2026-10-09",
+      "source": "tracked"
+    },
+    "4725170": {
+      "rank": 1507,
+      "estimate": "15k+",
+      "name": "Elven Huntress: Sunveil",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     },
     "4995030": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T01:07:32.604Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-06T13:09:03.854Z",
+  "entryCount": 39,
   "entries": {
     "939960": {
       "rank": 17,
@@ -256,6 +256,13 @@
       "estimate": "7k+",
       "name": "Neverwood",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "4802170": {
+      "rank": 3847,
+      "estimate": "<7k",
+      "name": "EraStorm: SandStorm",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     },
     "4815930": {

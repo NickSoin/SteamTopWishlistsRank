@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T01:07:32.604Z",
-  "entryCount": 52,
+  "updatedAt": "2026-11-06T13:09:03.854Z",
+  "entryCount": 53,
   "entries": {
     "1067360": {
       "rank": 130,
@@ -244,6 +244,13 @@
       "estimate": "7k+",
       "name": "DreamEcho",
       "releaseDate": "2026-08-10",
+      "source": "tracked"
+    },
+    "3230070": {
+      "rank": 5723,
+      "estimate": "<7k",
+      "name": "Duat: Beyond Light & Shadow",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     },
     "3301370": {

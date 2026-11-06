@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T01:07:32.604Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-06T13:09:03.854Z",
+  "entryCount": 35,
   "entries": {
     "950620": {
       "rank": 254,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "Ranch Simulator: Highland Cows Pack - Build, Farm, Hunt",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "4651930": {
+      "rank": 1026,
+      "estimate": "25k+",
+      "name": "Sexy Gamblers: Kakaitan Legend DX",
+      "releaseDate": "2026-11-05",
       "source": "tracked"
     }
   }

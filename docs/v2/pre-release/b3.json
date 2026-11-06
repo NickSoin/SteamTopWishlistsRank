@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T01:07:32.604Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-06T13:09:03.854Z",
+  "entryCount": 35,
   "entries": {
     "532790": {
       "rank": 3,
@@ -182,6 +182,13 @@
       "name": "Revenge of Black Bone",
       "releaseDate": "2024-12-10",
       "source": "historical"
+    },
+    "3060830": {
+      "rank": 5635,
+      "estimate": "<7k",
+      "name": "Realm of Advent",
+      "releaseDate": "2026-11-05",
+      "source": "tracked"
     },
     "3257760": {
       "rank": 9812,
