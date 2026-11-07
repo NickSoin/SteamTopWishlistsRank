@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T21:17:15.186Z",
-  "entryCount": 30,
+  "updatedAt": "2026-11-07T06:15:46.365Z",
+  "entryCount": 31,
   "entries": {
     "1097350": {
       "rank": 63,
@@ -153,6 +153,13 @@
       "estimate": "7k+",
       "name": "Total War: WARHAMMER III - The Glottkin – Lords of the End Times",
       "releaseDate": "2026-09-24",
+      "source": "tracked"
+    },
+    "3725550": {
+      "rank": 2621,
+      "estimate": "7k+",
+      "name": "The Ring Of Succubus Queen",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     },
     "3833620": {

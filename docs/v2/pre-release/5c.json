@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T21:17:15.186Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-07T06:15:46.365Z",
+  "entryCount": 35,
   "entries": {
     "753640": {
       "rank": 18,
@@ -246,6 +246,13 @@
       "estimate": "25k+",
       "name": "Playrooms",
       "releaseDate": "2026-11-04",
+      "source": "tracked"
+    },
+    "5055990": {
+      "rank": 5709,
+      "estimate": "<7k",
+      "name": "Monster Girl Survivor!",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     }
   }

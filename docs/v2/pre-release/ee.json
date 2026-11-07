@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-06T21:17:15.186Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-07T06:15:46.365Z",
+  "entryCount": 41,
   "entries": {
     "889910": {
       "rank": 531,
@@ -284,6 +284,13 @@
       "estimate": "25k+",
       "name": "Cleaning Up The Puzzle Gallery",
       "releaseDate": "2026-08-05",
+      "source": "tracked"
+    },
+    "4989520": {
+      "rank": 5355,
+      "estimate": "<7k",
+      "name": "Immortal Zenith: Idle to Ascension",
+      "releaseDate": "2026-11-06",
       "source": "tracked"
     }
   }
