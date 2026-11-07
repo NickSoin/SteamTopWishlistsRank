@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-07T06:15:46.365Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-07T16:55:32.963Z",
+  "entryCount": 40,
   "entries": {
     "918570": {
       "rank": 38,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "Super Arcade Soccer 2026",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4688280": {
+      "rank": 6442,
+      "estimate": "<7k",
+      "name": "Desktop Oasis",
+      "releaseDate": "2026-11-07",
       "source": "tracked"
     },
     "4712460": {

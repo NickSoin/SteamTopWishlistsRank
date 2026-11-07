@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-07T06:15:46.365Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-07T16:55:32.963Z",
+  "entryCount": 41,
   "entries": {
     "830580": {
       "rank": 135,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "Dancing Line",
       "releaseDate": "2026-05-31",
+      "source": "tracked"
+    },
+    "4596170": {
+      "rank": 2405,
+      "estimate": "7k+",
+      "name": "Raid of Lust: Match & Magic",
+      "releaseDate": "2026-11-07",
       "source": "tracked"
     },
     "4597380": {
