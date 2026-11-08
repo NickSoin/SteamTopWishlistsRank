@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-07T23:58:33.706Z",
-  "entryCount": 29,
+  "updatedAt": "2026-11-08T06:22:13.552Z",
+  "entryCount": 30,
   "entries": {
     "1025560": {
-      "rank": 4262,
+      "rank": 4253,
       "estimate": "<7k",
       "name": "Flea Madness"
     },
@@ -15,12 +15,12 @@
       "name": "Blood And Mead"
     },
     "1155850": {
-      "rank": 2926,
+      "rank": 2929,
       "estimate": "7k+",
       "name": "Lost Viking: Kingdom of Women"
     },
     "1307150": {
-      "rank": 2839,
+      "rank": 2842,
       "estimate": "7k+",
       "name": "MLF: Pro Catch"
     },
@@ -30,32 +30,32 @@
       "name": "Derelicts"
     },
     "1734130": {
-      "rank": 5870,
+      "rank": 5873,
       "estimate": "<7k",
       "name": "Concerto on White"
     },
     "1736200": {
-      "rank": 2485,
+      "rank": 2486,
       "estimate": "7k+",
       "name": "Sealed Gate"
     },
     "1941640": {
-      "rank": 1604,
+      "rank": 1606,
       "estimate": "15k+",
       "name": "4D Miner"
     },
     "2202650": {
-      "rank": 1226,
+      "rank": 1228,
       "estimate": "25k+",
       "name": "Crescent County"
     },
     "2210240": {
-      "rank": 3701,
+      "rank": 3703,
       "estimate": "<7k",
       "name": "Hoglands"
     },
     "2542170": {
-      "rank": 1645,
+      "rank": 1646,
       "estimate": "15k+",
       "name": "MOONSHIRE"
     },
@@ -65,12 +65,12 @@
       "name": "STARVEIL PROTOCOL A.A.A."
     },
     "2946530": {
-      "rank": 3447,
+      "rank": 3451,
       "estimate": "<7k",
       "name": "Tornado Emergency"
     },
     "3119690": {
-      "rank": 5533,
+      "rank": 5534,
       "estimate": "<7k",
       "name": "Sa[meow]rai: Silverwing Stray"
     },
@@ -80,7 +80,7 @@
       "name": "Quite a Ride"
     },
     "3259000": {
-      "rank": 3045,
+      "rank": 3050,
       "estimate": "<7k",
       "name": "Crathos Deep"
     },
@@ -90,64 +90,69 @@
       "name": "Black Pine"
     },
     "3819020": {
-      "rank": 2971,
+      "rank": 2976,
       "estimate": "7k+",
       "name": "DEADBOOT"
     },
     "3863050": {
-      "rank": 5207,
+      "rank": 5210,
       "estimate": "<7k",
       "name": "Order of Wallachia"
     },
     "4224700": {
-      "rank": 4560,
+      "rank": 4567,
       "estimate": "<7k",
       "name": "Myriad Desires: Tale of Cultivation"
     },
     "4341650": {
-      "rank": 5047,
+      "rank": 5029,
       "estimate": "<7k",
       "name": "The Night We Met"
     },
     "4370210": {
-      "rank": 2470,
+      "rank": 2451,
       "estimate": "7k+",
       "name": "Split Brain Samsara"
     },
     "4459720": {
-      "rank": 4455,
+      "rank": 4457,
       "estimate": "<7k",
       "name": "Cyber Demon Protocol"
     },
     "4514140": {
-      "rank": 4329,
+      "rank": 4332,
       "estimate": "<7k",
       "name": "CHEW YOUR FOOD"
     },
     "4687390": {
-      "rank": 645,
+      "rank": 647,
       "estimate": "40k+",
       "name": "Abiotic Factor - Entropic Break"
     },
     "4689550": {
-      "rank": 4263,
+      "rank": 4267,
       "estimate": "<7k",
       "name": "RuneCipher"
     },
     "4942330": {
-      "rank": 4985,
+      "rank": 4984,
       "estimate": "<7k",
       "name": "Cold Case"
     },
     "4991990": {
-      "rank": 4149,
+      "rank": 4146,
       "estimate": "<7k",
       "name": "ZENONIA 2: The Lost Memories"
     },
     "5063690": {
-      "rank": 1409,
+      "rank": 1411,
       "estimate": "25k+",
       "name": "The Wandering Earth: The Last Full Moon"
+    },
+    "5375890": {
+      "rank": 5870,
+      "estimate": "<7k",
+      "name": "Sort Them Dice"
     }
   }
 }

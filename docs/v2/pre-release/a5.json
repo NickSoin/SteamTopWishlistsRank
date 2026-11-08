@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-07T23:58:33.706Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-08T06:22:13.552Z",
+  "entryCount": 38,
   "entries": {
     "299970": {
       "rank": 34,
@@ -256,6 +256,13 @@
       "estimate": "<7k",
       "name": "Copy Cats",
       "releaseDate": "2026-10-29",
+      "source": "tracked"
+    },
+    "4763220": {
+      "rank": 7474,
+      "estimate": "<7k",
+      "name": "ONE SKILL - Drive or Fall",
+      "releaseDate": "2026-11-07",
       "source": "tracked"
     },
     "4800590": {
