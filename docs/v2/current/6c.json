@@ -1,78 +1,83 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-08T06:22:13.552Z",
-  "entryCount": 14,
+  "updatedAt": "2026-11-08T17:13:04.079Z",
+  "entryCount": 15,
   "entries": {
     "1103820": {
-      "rank": 2008,
+      "rank": 2014,
       "estimate": "7k+",
       "name": "Siege of Irdor"
     },
     "1440570": {
-      "rank": 2317,
+      "rank": 2320,
       "estimate": "7k+",
       "name": "Angelic: Dark Symphony"
     },
     "1443980": {
-      "rank": 753,
+      "rank": 756,
       "estimate": "40k+",
       "name": "Roman Empire Wars"
     },
     "1652580": {
-      "rank": 1352,
+      "rank": 1334,
       "estimate": "25k+",
       "name": "Imperial Grace"
     },
     "1748650": {
-      "rank": 5804,
+      "rank": 5817,
       "estimate": "<7k",
       "name": "RASKOPNIK: The Trench Warrior"
     },
     "2402500": {
-      "rank": 1827,
+      "rank": 1829,
       "estimate": "15k+",
       "name": "Hayaku! Island of Darkness"
     },
     "2881750": {
-      "rank": 5641,
+      "rank": 5653,
       "estimate": "<7k",
       "name": "Burnin' Rubber 6"
     },
     "3320610": {
-      "rank": 2741,
+      "rank": 2747,
       "estimate": "7k+",
       "name": "Sexbot II: Recalibrated"
     },
     "3350860": {
-      "rank": 4013,
+      "rank": 4019,
       "estimate": "<7k",
       "name": "Trifolium: The Adventures of Gary Pretzelneck"
     },
     "3549280": {
-      "rank": 3175,
+      "rank": 3178,
       "estimate": "<7k",
       "name": "Bulbo's Belief System"
     },
     "3883050": {
-      "rank": 4405,
+      "rank": 4370,
       "estimate": "<7k",
       "name": "Monkeys!¡"
     },
     "3917030": {
-      "rank": 1289,
+      "rank": 1287,
       "estimate": "25k+",
       "name": "Cosmic Cocktails"
     },
     "4327630": {
-      "rank": 4895,
+      "rank": 4900,
       "estimate": "<7k",
       "name": "Glamour Photographer"
     },
     "4920620": {
-      "rank": 2188,
+      "rank": 2190,
       "estimate": "7k+",
       "name": "Summer Feed"
+    },
+    "5111980": {
+      "rank": 5728,
+      "estimate": "<7k",
+      "name": "Highschool J"
     }
   }
 }

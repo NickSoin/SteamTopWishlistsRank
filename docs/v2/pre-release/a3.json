@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-08T06:22:13.552Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-08T17:13:04.079Z",
+  "entryCount": 41,
   "entries": {
     "782250": {
       "rank": 368,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "Banana Republic",
       "releaseDate": "2026-08-24",
+      "source": "tracked"
+    },
+    "4590950": {
+      "rank": 7876,
+      "estimate": "<7k",
+      "name": "El Shaddai: Zero Nine Reversi",
+      "releaseDate": "2026-11-08",
       "source": "tracked"
     },
     "4631110": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-08T06:22:13.552Z",
-  "entryCount": 29,
+  "updatedAt": "2026-11-08T17:13:04.079Z",
+  "entryCount": 30,
   "entries": {
     "832360": {
       "rank": 188,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "Forge Cat",
       "releaseDate": "2026-06-11",
+      "source": "tracked"
+    },
+    "4755250": {
+      "rank": 2204,
+      "estimate": "7k+",
+      "name": "ROMUL",
+      "releaseDate": "2026-11-07",
       "source": "tracked"
     }
   }
