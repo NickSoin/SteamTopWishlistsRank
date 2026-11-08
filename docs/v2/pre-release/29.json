@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-07T16:55:32.963Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-07T23:58:33.706Z",
+  "entryCount": 42,
   "entries": {
     "927350": {
       "rank": 30,
@@ -282,6 +282,13 @@
       "estimate": "<7k",
       "name": "Cloudrooms",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4873800": {
+      "rank": 4153,
+      "estimate": "<7k",
+      "name": "Mosaique Neko Waifus 6",
+      "releaseDate": "2026-11-07",
       "source": "tracked"
     },
     "5009390": {
