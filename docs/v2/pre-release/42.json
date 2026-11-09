@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-08T23:57:07.360Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-09T07:04:24.510Z",
+  "entryCount": 37,
   "entries": {
     "1238450": {
       "rank": 1566,
@@ -198,6 +198,13 @@
       "name": "Turmoil - Deeper Underground",
       "releaseDate": "2024-09-12",
       "source": "historical"
+    },
+    "3433110": {
+      "rank": 2895,
+      "estimate": "7k+",
+      "name": "Cinema Theater Tycoon",
+      "releaseDate": "2026-11-08",
+      "source": "tracked"
     },
     "3569990": {
       "rank": 3021,

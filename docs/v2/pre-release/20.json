@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-08T23:57:07.360Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-09T07:04:24.510Z",
+  "entryCount": 42,
   "entries": {
     "628740": {
       "rank": 647,
@@ -10,6 +10,13 @@
       "name": "Mr. Saitou",
       "releaseDate": "2023-03-23",
       "source": "historical"
+    },
+    "724930": {
+      "rank": 3225,
+      "estimate": "<7k",
+      "name": "Last Chickenburg",
+      "releaseDate": "2026-11-08",
+      "source": "tracked"
     },
     "1116480": {
       "rank": 614,

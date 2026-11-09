@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-08T23:57:07.360Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-09T07:04:24.510Z",
+  "entryCount": 37,
   "entries": {
     "752290": {
       "rank": 6262,
@@ -154,6 +154,13 @@
       "name": "Corruption Town",
       "releaseDate": "2024-11-01",
       "source": "historical"
+    },
+    "2806540": {
+      "rank": 5537,
+      "estimate": "<7k",
+      "name": "Travellin Cats Advent Calendar",
+      "releaseDate": "2026-11-08",
+      "source": "tracked"
     },
     "2828500": {
       "rank": 687,
