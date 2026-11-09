@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 46,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 47,
   "entries": {
     "458430": {
       "rank": 911,
@@ -263,6 +263,13 @@
       "estimate": "<7k",
       "name": "Senior Survival Club",
       "releaseDate": "2026-10-27",
+      "source": "tracked"
+    },
+    "3936340": {
+      "rank": 2865,
+      "estimate": "7k+",
+      "name": "Hell Wait",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "4227560": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 45,
   "entries": {
     "490110": {
       "rank": 24,
@@ -235,6 +235,13 @@
       "releaseDate": "2026-10-31",
       "source": "tracked"
     },
+    "4088360": {
+      "rank": 2320,
+      "estimate": "7k+",
+      "name": "Funeral for the Sun",
+      "releaseDate": "2026-11-09",
+      "source": "tracked"
+    },
     "4160880": {
       "rank": 1780,
       "estimate": "15k+",
@@ -303,6 +310,13 @@
       "estimate": "<7k",
       "name": "Verdant Requiem",
       "releaseDate": "2026-11-02",
+      "source": "tracked"
+    },
+    "4864810": {
+      "rank": 5551,
+      "estimate": "<7k",
+      "name": "Wild Hive",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     }
   }

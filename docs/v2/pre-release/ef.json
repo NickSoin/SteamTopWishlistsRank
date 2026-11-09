@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 40,
   "entries": {
     "1231560": {
       "rank": 269,
@@ -205,6 +205,13 @@
       "estimate": "80k+",
       "name": "GunZ: The Duel",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "3445440": {
+      "rank": 9343,
+      "estimate": "<7k",
+      "name": "Fablery",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "3749870": {

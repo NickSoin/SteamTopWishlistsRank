@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 40,
   "entries": {
     "763180": {
       "rank": 734,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "NONEWORLD",
       "releaseDate": "2026-06-21",
+      "source": "tracked"
+    },
+    "3393120": {
+      "rank": 4617,
+      "estimate": "<7k",
+      "name": "Tidy Up Mall",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "3555780": {

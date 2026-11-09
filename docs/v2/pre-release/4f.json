@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 39,
   "entries": {
     "290100": {
       "rank": 249,
@@ -152,6 +152,13 @@
       "name": "Nunholy",
       "releaseDate": "2025-01-16",
       "source": "historical"
+    },
+    "2869560": {
+      "rank": 4807,
+      "estimate": "<7k",
+      "name": "Amnea28: Two Eternities",
+      "releaseDate": "2026-11-09",
+      "source": "tracked"
     },
     "2967990": {
       "rank": 2635,

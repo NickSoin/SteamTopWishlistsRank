@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 39,
   "entries": {
     "412020": {
       "rank": 3,
@@ -115,6 +115,13 @@
       "name": "Eriksholm: The Stolen Dream",
       "releaseDate": "2025-07-15",
       "source": "historical"
+    },
+    "2378230": {
+      "rank": 660,
+      "estimate": "40k+",
+      "name": "Neo Junk City",
+      "releaseDate": "2026-11-09",
+      "source": "tracked"
     },
     "2448030": {
       "rank": 301,

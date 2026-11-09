@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 49,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 50,
   "entries": {
     "830540": {
       "rank": 1466,
@@ -325,6 +325,13 @@
       "estimate": "<7k",
       "name": "Hydra Heli 2",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "4281210": {
+      "rank": 5717,
+      "estimate": "<7k",
+      "name": "SUBJECT 404",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "4386090": {

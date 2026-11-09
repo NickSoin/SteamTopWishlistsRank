@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 30,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 31,
   "entries": {
     "832360": {
       "rank": 188,
@@ -212,6 +212,13 @@
       "estimate": "7k+",
       "name": "ROMUL",
       "releaseDate": "2026-11-07",
+      "source": "tracked"
+    },
+    "5118500": {
+      "rank": 483,
+      "estimate": "80k+",
+      "name": "Safari-TV",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 48,
   "entries": {
     "454120": {
       "rank": 35,
@@ -331,6 +331,13 @@
       "estimate": "40k+",
       "name": "Company of Heroes 3: Final Stand",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "5052860": {
+      "rank": 4939,
+      "estimate": "<7k",
+      "name": "Supercar Collection Together",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     }
   }

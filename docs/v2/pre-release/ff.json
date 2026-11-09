@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 43,
   "entries": {
     "553540": {
       "rank": 73,
@@ -80,6 +80,13 @@
       "name": "Star Survivor",
       "releaseDate": "2024-09-20",
       "source": "historical"
+    },
+    "2195490": {
+      "rank": 4422,
+      "estimate": "<7k",
+      "name": "The Great Sassanelli – An Interactive Novel",
+      "releaseDate": "2026-11-09",
+      "source": "tracked"
     },
     "2205850": {
       "rank": 1275,

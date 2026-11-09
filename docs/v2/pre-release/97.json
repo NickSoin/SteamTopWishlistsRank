@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 30,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 31,
   "entries": {
     "488860": {
       "rank": 116,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Newbie: Become a Skateboarder",
       "releaseDate": "2026-06-30",
+      "source": "tracked"
+    },
+    "4402200": {
+      "rank": 1316,
+      "estimate": "25k+",
+      "name": "Project Tomorrow",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "4834850": {

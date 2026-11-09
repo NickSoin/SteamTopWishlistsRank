@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 34,
   "entries": {
     "589940": {
       "rank": 1003,
@@ -156,6 +156,13 @@
       "estimate": "80k+",
       "name": "Wild West Pioneers",
       "releaseDate": "2026-09-25",
+      "source": "tracked"
+    },
+    "3448000": {
+      "rank": 3101,
+      "estimate": "<7k",
+      "name": "Planted!",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "3470960": {

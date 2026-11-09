@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 38,
   "entries": {
     "773370": {
       "rank": 126,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "Berserk Heroes Online",
       "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
+    "5064170": {
+      "rank": 1741,
+      "estimate": "15k+",
+      "name": "Go Next!",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "5362340": {

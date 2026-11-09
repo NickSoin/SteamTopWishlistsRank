@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 38,
   "entries": {
     "1238450": {
       "rank": 1566,
@@ -232,6 +232,13 @@
       "estimate": "<7k",
       "name": "Brutal Ball Manager 2",
       "releaseDate": "2026-09-08",
+      "source": "tracked"
+    },
+    "4145780": {
+      "rank": 5627,
+      "estimate": "<7k",
+      "name": "Abracademia",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "4165180": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 41,
   "entries": {
     "936790": {
       "rank": 38,
@@ -247,6 +247,13 @@
       "estimate": "40k+",
       "name": "Escape Academy 2: Back 2 School",
       "releaseDate": "2026-11-05",
+      "source": "tracked"
+    },
+    "4165190": {
+      "rank": 6415,
+      "estimate": "<7k",
+      "name": "Tricolo",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "4321400": {

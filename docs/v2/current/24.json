@@ -1,83 +1,73 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-09T07:04:24.510Z",
-  "entryCount": 15,
+  "updatedAt": "2026-11-09T21:07:45.148Z",
+  "entryCount": 13,
   "entries": {
     "1143910": {
-      "rank": 3110,
+      "rank": 3105,
       "estimate": "<7k",
       "name": "DeathTower"
     },
     "1730460": {
-      "rank": 2765,
+      "rank": 2763,
       "estimate": "7k+",
       "name": "Nainai’s Recipe"
     },
     "1736220": {
-      "rank": 1362,
+      "rank": 1357,
       "estimate": "25k+",
       "name": "Might of Merchants"
     },
     "1784650": {
-      "rank": 2980,
+      "rank": 2977,
       "estimate": "7k+",
       "name": "BOSS FIGHTERS"
     },
     "1916800": {
-      "rank": 3530,
+      "rank": 3526,
       "estimate": "<7k",
       "name": "More Ore - The Incremental Idle RPG"
     },
     "1977100": {
-      "rank": 4898,
+      "rank": 4890,
       "estimate": "<7k",
       "name": "Timeless Heart VR"
     },
     "2344680": {
-      "rank": 3939,
+      "rank": 3937,
       "estimate": "<7k",
       "name": "Super VHS"
     },
     "2559370": {
-      "rank": 526,
+      "rank": 524,
       "estimate": "40k+",
       "name": "The Scramble Vice"
     },
     "3235570": {
-      "rank": 5698,
+      "rank": 5685,
       "estimate": "<7k",
       "name": "How Was Your Day?"
     },
     "3253930": {
-      "rank": 3228,
+      "rank": 3224,
       "estimate": "<7k",
       "name": "Rhythm Hotel"
     },
-    "3629430": {
-      "rank": 43,
-      "estimate": "600k+",
-      "name": "DREADMOOR"
-    },
     "3722090": {
-      "rank": 2397,
+      "rank": 2395,
       "estimate": "7k+",
       "name": "Parasensor"
     },
     "3772190": {
-      "rank": 1461,
+      "rank": 1454,
       "estimate": "25k+",
       "name": "HALLOW BLADE"
     },
     "4119440": {
-      "rank": 5885,
+      "rank": 5855,
       "estimate": "<7k",
       "name": "Sker: The Bleeding Veil"
-    },
-    "4559930": {
-      "rank": 701,
-      "estimate": "40k+",
-      "name": "Oboro no Ichi"
     }
   }
 }
