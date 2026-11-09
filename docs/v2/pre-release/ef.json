@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-08T17:13:04.079Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-08T23:57:07.360Z",
+  "entryCount": 39,
   "entries": {
     "1231560": {
       "rank": 269,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "Drilling",
       "releaseDate": "2026-11-03",
+      "source": "tracked"
+    },
+    "4475970": {
+      "rank": 6602,
+      "estimate": "<7k",
+      "name": "Prerolled",
+      "releaseDate": "2026-11-08",
       "source": "tracked"
     },
     "4563880": {

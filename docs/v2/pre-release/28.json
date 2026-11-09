@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-08T17:13:04.079Z",
-  "entryCount": 27,
+  "updatedAt": "2026-11-08T23:57:07.360Z",
+  "entryCount": 28,
   "entries": {
     "812440": {
       "rank": 138,
@@ -188,6 +188,13 @@
       "estimate": "25k+",
       "name": "Drag'n Wash",
       "releaseDate": "2026-09-10",
+      "source": "tracked"
+    },
+    "4901540": {
+      "rank": 3261,
+      "estimate": "<7k",
+      "name": "Brick Buddies",
+      "releaseDate": "2026-11-08",
       "source": "tracked"
     },
     "4992070": {
