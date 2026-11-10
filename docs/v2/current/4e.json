@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-09T21:07:45.148Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-10T07:49:20.051Z",
+  "entryCount": 37,
   "entries": {
     "640010": {
-      "rank": 3248,
+      "rank": 3254,
       "estimate": "<7k",
       "name": "Forsaken Castle"
     },
@@ -20,12 +20,12 @@
       "name": "A Frog's Tale"
     },
     "1612560": {
-      "rank": 4859,
+      "rank": 4861,
       "estimate": "<7k",
       "name": "Dreamland Confectionery"
     },
     "1741440": {
-      "rank": 4731,
+      "rank": 4740,
       "estimate": "<7k",
       "name": "Koru"
     },
@@ -35,67 +35,67 @@
       "name": "B-17 Flying Fortress The Bloody 100th"
     },
     "1826020": {
-      "rank": 1300,
+      "rank": 1298,
       "estimate": "25k+",
       "name": "Shred & Tear: Explosive Kajun"
     },
     "1861450": {
-      "rank": 4310,
+      "rank": 4316,
       "estimate": "<7k",
       "name": "The Courier"
     },
     "1892580": {
-      "rank": 1818,
+      "rank": 1819,
       "estimate": "15k+",
       "name": "Zombotron Re-Boot"
     },
     "2105070": {
-      "rank": 2857,
+      "rank": 2858,
       "estimate": "7k+",
       "name": "Another Space Opera - Episode 1: The Wake of The Giant"
     },
     "2139330": {
-      "rank": 3542,
+      "rank": 3545,
       "estimate": "<7k",
       "name": "Auto Immune"
     },
     "2236190": {
-      "rank": 1298,
+      "rank": 1296,
       "estimate": "25k+",
       "name": "Vigilancer 2099"
     },
     "2257780": {
-      "rank": 2455,
+      "rank": 2456,
       "estimate": "7k+",
       "name": "3DXChat"
     },
     "2491810": {
-      "rank": 5865,
+      "rank": 5874,
       "estimate": "<7k",
       "name": "Shadow of Mammon"
     },
     "2499780": {
-      "rank": 1918,
+      "rank": 1920,
       "estimate": "15k+",
       "name": "Garten of Banban 5"
     },
     "2544730": {
-      "rank": 2965,
+      "rank": 2961,
       "estimate": "7k+",
       "name": "Gateworlds"
     },
     "2688960": {
-      "rank": 3303,
+      "rank": 3305,
       "estimate": "<7k",
       "name": "Eternity's Echo: Patient Zero"
     },
     "2882230": {
-      "rank": 2765,
+      "rank": 2771,
       "estimate": "7k+",
       "name": "Soft Ruin"
     },
     "2882560": {
-      "rank": 5038,
+      "rank": 5043,
       "estimate": "<7k",
       "name": "CAMPS"
     },
@@ -105,17 +105,17 @@
       "name": "Three Kingdoms: The Legend of Zhuge Kongming HD2D"
     },
     "3107020": {
-      "rank": 5904,
+      "rank": 5908,
       "estimate": "<7k",
       "name": "Shadows of The Lost"
     },
     "3582500": {
-      "rank": 5619,
+      "rank": 5621,
       "estimate": "<7k",
       "name": "Medieval Contrast"
     },
     "3991690": {
-      "rank": 4012,
+      "rank": 4011,
       "estimate": "<7k",
       "name": "Black Orchestra: Worldfront 37-54"
     },
@@ -125,7 +125,7 @@
       "name": "Immortal Wayfarer"
     },
     "4207260": {
-      "rank": 3708,
+      "rank": 3631,
       "estimate": "<7k",
       "name": "Party To Oblivion"
     },
@@ -135,49 +135,59 @@
       "name": "Deadhikers"
     },
     "4411580": {
-      "rank": 1386,
+      "rank": 1384,
       "estimate": "25k+",
       "name": "Geareo"
     },
     "4553170": {
-      "rank": 2595,
+      "rank": 2597,
       "estimate": "7k+",
       "name": "Cozy Interiors"
     },
     "4617210": {
-      "rank": 3818,
+      "rank": 3820,
       "estimate": "<7k",
       "name": "I Am Hercules"
     },
     "4703890": {
-      "rank": 4541,
+      "rank": 4544,
       "estimate": "<7k",
       "name": "Impermanence"
     },
     "4859500": {
-      "rank": 1853,
+      "rank": 1856,
       "estimate": "15k+",
       "name": "Zombie Scavenger"
     },
     "4920240": {
-      "rank": 2490,
+      "rank": 2493,
       "estimate": "7k+",
       "name": "Pinetrail"
     },
     "4921500": {
-      "rank": 5708,
+      "rank": 5712,
       "estimate": "<7k",
       "name": "Tiny Harbor"
     },
     "4989380": {
-      "rank": 2269,
+      "rank": 2268,
       "estimate": "7k+",
       "name": "Hospital Hustle"
     },
+    "5169710": {
+      "rank": 5150,
+      "estimate": "<7k",
+      "name": "Witchkeeping"
+    },
     "5180070": {
-      "rank": 4932,
+      "rank": 4923,
       "estimate": "<7k",
       "name": "Her Sister Between Us 💦😳"
+    },
+    "5522030": {
+      "rank": 4831,
+      "estimate": "<7k",
+      "name": "Beholder 4"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T21:07:45.148Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-10T07:49:20.051Z",
+  "entryCount": 36,
   "entries": {
     "1336180": {
       "rank": 166,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "MUPO",
       "releaseDate": "2026-11-05",
+      "source": "tracked"
+    },
+    "4423270": {
+      "rank": 1151,
+      "estimate": "25k+",
+      "name": "Takeover 2",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "4448040": {

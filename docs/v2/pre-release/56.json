@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T21:07:45.148Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-10T07:49:20.051Z",
+  "entryCount": 33,
   "entries": {
     "610370": {
       "rank": 18,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Space Manager",
       "releaseDate": "2026-10-12",
+      "source": "tracked"
+    },
+    "4341650": {
+      "rank": 4899,
+      "estimate": "<7k",
+      "name": "The Night We Met",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "4513480": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T21:07:45.148Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-10T07:49:20.051Z",
+  "entryCount": 46,
   "entries": {
     "714370": {
       "rank": 8,
@@ -261,6 +261,13 @@
       "estimate": "<7k",
       "name": "Waterpunk: Through the Rust",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "3975350": {
+      "rank": 5400,
+      "estimate": "<7k",
+      "name": "Jinro Burger",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "4042330": {

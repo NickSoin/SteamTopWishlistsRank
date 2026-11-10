@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-09T21:07:45.148Z",
-  "entryCount": 21,
+  "updatedAt": "2026-11-10T07:49:20.051Z",
+  "entryCount": 22,
   "entries": {
     "1797850": {
-      "rank": 1572,
+      "rank": 1571,
       "estimate": "15k+",
       "name": "Goodlands"
     },
     "2100510": {
-      "rank": 5760,
+      "rank": 5765,
       "estimate": "<7k",
       "name": "Cyber Lancer"
     },
     "2134470": {
-      "rank": 938,
+      "rank": 937,
       "estimate": "40k+",
       "name": "34EVERLAST"
     },
     "2228250": {
-      "rank": 879,
+      "rank": 880,
       "estimate": "40k+",
       "name": "Endurance Motorsport Series"
     },
     "2408030": {
-      "rank": 1793,
+      "rank": 1792,
       "estimate": "15k+",
       "name": "Anime Tokyo"
     },
@@ -35,7 +35,7 @@
       "name": "Game of Thrones: War for Westeros"
     },
     "2849910": {
-      "rank": 5110,
+      "rank": 5114,
       "estimate": "<7k",
       "name": "PROJECT ELYSIUM"
     },
@@ -45,22 +45,22 @@
       "name": "Times of Survival"
     },
     "3086590": {
-      "rank": 282,
+      "rank": 283,
       "estimate": "80k+",
       "name": "Gods, Death & Reapers"
     },
     "3154460": {
-      "rank": 698,
+      "rank": 697,
       "estimate": "40k+",
       "name": "Office Party"
     },
     "3245140": {
-      "rank": 254,
+      "rank": 255,
       "estimate": "80k+",
       "name": "Hello Sunshine"
     },
     "3280240": {
-      "rank": 935,
+      "rank": 934,
       "estimate": "40k+",
       "name": "Nailcrown"
     },
@@ -70,44 +70,49 @@
       "name": "Kena: Scars of Kosmora"
     },
     "3490760": {
-      "rank": 5698,
+      "rank": 5700,
       "estimate": "<7k",
       "name": "Song of Maka"
     },
     "3736800": {
-      "rank": 1423,
+      "rank": 1425,
       "estimate": "25k+",
       "name": "Dungeon Picnic"
     },
     "3930130": {
-      "rank": 5091,
+      "rank": 5098,
       "estimate": "<7k",
       "name": "Basalt: The Cursed Vein"
     },
     "4031300": {
-      "rank": 2401,
+      "rank": 2402,
       "estimate": "7k+",
       "name": "WORLD WAR V: LAST CALL"
     },
     "4075740": {
-      "rank": 2019,
+      "rank": 2018,
       "estimate": "7k+",
       "name": "Little Sheep Valley – Cozy ranch-builder"
     },
     "4286050": {
-      "rank": 5012,
+      "rank": 5020,
       "estimate": "<7k",
       "name": "Redast"
     },
     "4334690": {
-      "rank": 5022,
+      "rank": 5032,
       "estimate": "<7k",
       "name": "童年诡事录"
     },
     "5189770": {
-      "rank": 2230,
+      "rank": 2227,
       "estimate": "7k+",
       "name": "WANE"
+    },
+    "5534190": {
+      "rank": 5091,
+      "estimate": "<7k",
+      "name": "Aveltuner"
     }
   }
 }

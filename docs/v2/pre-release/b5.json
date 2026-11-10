@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T21:07:45.148Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-10T07:49:20.051Z",
+  "entryCount": 43,
   "entries": {
     "789150": {
       "rank": 34,
@@ -198,6 +198,13 @@
       "name": "Enishia and the Binding Brand",
       "releaseDate": "2024-05-10",
       "source": "historical"
+    },
+    "2670430": {
+      "rank": 5267,
+      "estimate": "<7k",
+      "name": "Platverse: ABYA's Adventure",
+      "releaseDate": "2026-11-09",
+      "source": "tracked"
     },
     "2778420": {
       "rank": 2008,

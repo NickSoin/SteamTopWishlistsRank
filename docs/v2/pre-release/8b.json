@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T21:07:45.148Z",
-  "entryCount": 31,
+  "updatedAt": "2026-11-10T07:49:20.051Z",
+  "entryCount": 32,
   "entries": {
     "736590": {
       "rank": 75,
@@ -200,6 +200,13 @@
       "estimate": "7k+",
       "name": "Songs of Conquest - Yulan",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4351380": {
+      "rank": 5856,
+      "estimate": "<7k",
+      "name": "Hair Removal Salon Simulator",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "4594370": {

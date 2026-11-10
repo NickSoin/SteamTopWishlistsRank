@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-09T21:07:45.148Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-10T07:49:20.051Z",
+  "entryCount": 36,
   "entries": {
     "750200": {
       "rank": 159,
@@ -190,6 +190,13 @@
       "estimate": "<7k",
       "name": "Neuralnx",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4215660": {
+      "rank": 5609,
+      "estimate": "<7k",
+      "name": "TORAWASE: The Girl in the Mirror",
+      "releaseDate": "2026-11-09",
       "source": "tracked"
     },
     "4236490": {
