@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 38,
   "entries": {
     "671970": {
       "rank": 44,
@@ -200,6 +200,13 @@
       "estimate": "40k+",
       "name": "Flamecraft",
       "releaseDate": "2026-09-17",
+      "source": "tracked"
+    },
+    "3710120": {
+      "rank": 4165,
+      "estimate": "<7k",
+      "name": "Potion-making: Path of the Alchemist",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "4159290": {

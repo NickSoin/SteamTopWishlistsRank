@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 31,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 32,
   "entries": {
     "1097350": {
       "rank": 63,
@@ -102,6 +102,13 @@
       "estimate": "1.5m+",
       "name": "Forza Horizon 6",
       "releaseDate": "2026-05-18",
+      "source": "tracked"
+    },
+    "2523740": {
+      "rank": 254,
+      "estimate": "80k+",
+      "name": "DreamWorks Shrek 2 Remastered",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "2581410": {

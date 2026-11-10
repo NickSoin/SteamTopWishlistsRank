@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 34,
   "entries": {
     "924980": {
       "rank": 34,
@@ -212,6 +212,13 @@
       "estimate": "7k+",
       "name": "Kinetype",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4613530": {
+      "rank": 9236,
+      "estimate": "<7k",
+      "name": "Cornerfall",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "4614320": {

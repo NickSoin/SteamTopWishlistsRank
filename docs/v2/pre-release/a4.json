@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 46,
   "entries": {
     "534380": {
       "rank": 1,
@@ -242,6 +242,13 @@
       "estimate": "200k+",
       "name": "Warhammer 40,000: Boltgun 2",
       "releaseDate": "2026-10-14",
+      "source": "tracked"
+    },
+    "3129790": {
+      "rank": 3216,
+      "estimate": "<7k",
+      "name": "Pocket Legend : Inventory Roguelike Deckbuilder",
+      "releaseDate": "2024-10-28",
       "source": "tracked"
     },
     "3486530": {

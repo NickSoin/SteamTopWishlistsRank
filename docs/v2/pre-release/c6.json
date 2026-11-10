@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 35,
   "entries": {
     "894620": {
       "rank": 1864,
@@ -177,6 +177,13 @@
       "name": "100 Dino Cats",
       "releaseDate": "2024-02-26",
       "source": "historical"
+    },
+    "3796990": {
+      "rank": 125,
+      "estimate": "200k+",
+      "name": "Euro Truck Simulator 2 - Iceland",
+      "releaseDate": "2026-11-10",
+      "source": "tracked"
     },
     "3819770": {
       "rank": 7779,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 37,
   "entries": {
     "750200": {
       "rank": 159,
@@ -253,6 +253,13 @@
       "estimate": "<7k",
       "name": "Paleo Dive",
       "releaseDate": "2026-09-04",
+      "source": "tracked"
+    },
+    "4876650": {
+      "rank": 412,
+      "estimate": "80k+",
+      "name": "Never Sort By Color",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "4958460": {

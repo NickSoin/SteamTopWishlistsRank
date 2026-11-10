@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 26,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 28,
   "entries": {
     "251570": {
       "rank": 42,
@@ -167,6 +167,13 @@
       "releaseDate": "2026-06-08",
       "source": "tracked"
     },
+    "4210250": {
+      "rank": 2092,
+      "estimate": "7k+",
+      "name": "Logic Arrows",
+      "releaseDate": "2026-11-10",
+      "source": "tracked"
+    },
     "4268200": {
       "rank": 9131,
       "estimate": "<7k",
@@ -179,6 +186,13 @@
       "estimate": "40k+",
       "name": "Bills Must Be Paid",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "4514880": {
+      "rank": 6471,
+      "estimate": "<7k",
+      "name": "Hyperlane Highway",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "4573090": {

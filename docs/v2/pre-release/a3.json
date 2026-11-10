@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 42,
   "entries": {
     "782250": {
       "rank": 368,
@@ -198,6 +198,13 @@
       "estimate": "40k+",
       "name": "Clean Start",
       "releaseDate": "2026-11-05",
+      "source": "tracked"
+    },
+    "3669620": {
+      "rank": 72,
+      "estimate": "300k+",
+      "name": "Warhammer Survivors",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "3751260": {

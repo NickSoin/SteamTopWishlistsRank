@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 42,
   "entries": {
     "649950": {
       "rank": 19,
@@ -219,6 +219,13 @@
       "name": "I Have No Change",
       "releaseDate": "2027-01-01",
       "source": "historical"
+    },
+    "3596910": {
+      "rank": 8834,
+      "estimate": "<7k",
+      "name": "UNBOXING: 1-BIT PARADOX",
+      "releaseDate": "2026-11-10",
+      "source": "tracked"
     },
     "4091920": {
       "rank": 3209,

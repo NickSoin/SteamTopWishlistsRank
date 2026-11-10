@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 37,
   "entries": {
     "868270": {
       "rank": 16,
@@ -242,6 +242,13 @@
       "estimate": "40k+",
       "name": "ZENONIA 1",
       "releaseDate": "2026-08-31",
+      "source": "tracked"
+    },
+    "4618570": {
+      "rank": 543,
+      "estimate": "40k+",
+      "name": "Booster Pack Heroes",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "4650350": {

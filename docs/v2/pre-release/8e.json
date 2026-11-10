@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 35,
   "entries": {
     "1063030": {
       "rank": 621,
@@ -244,6 +244,13 @@
       "estimate": "<7k",
       "name": "Planet Coaster 2: Silver Screen Pack",
       "releaseDate": "2026-08-19",
+      "source": "tracked"
+    },
+    "5446260": {
+      "rank": 4393,
+      "estimate": "<7k",
+      "name": "Lestvitsa",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     }
   }

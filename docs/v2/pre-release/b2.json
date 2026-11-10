@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 33,
   "entries": {
     "761830": {
       "rank": 31,
@@ -212,6 +212,13 @@
       "estimate": "<7k",
       "name": "Pixel Puppy Adventure",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4452620": {
+      "rank": 7709,
+      "estimate": "<7k",
+      "name": "Thieves and Gold",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "4518500": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 53,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 54,
   "entries": {
     "720660": {
       "rank": 1007,
@@ -269,6 +269,13 @@
       "name": "Punch Club 2: Iron Fist",
       "releaseDate": "2024-07-22",
       "source": "historical"
+    },
+    "3042040": {
+      "rank": 4841,
+      "estimate": "<7k",
+      "name": "Project: Autumn",
+      "releaseDate": "2026-11-10",
+      "source": "tracked"
     },
     "3115490": {
       "rank": 1663,

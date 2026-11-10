@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 50,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 51,
   "entries": {
     "830540": {
       "rank": 1466,
@@ -261,6 +261,13 @@
       "name": "Trade Tales",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "2735850": {
+      "rank": 1647,
+      "estimate": "15k+",
+      "name": "Wilderdark",
+      "releaseDate": "2026-11-10",
+      "source": "tracked"
     },
     "3083910": {
       "rank": 4551,

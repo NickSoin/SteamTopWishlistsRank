@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 41,
   "entries": {
     "502050": {
       "rank": 1,
@@ -122,6 +122,13 @@
       "name": "Zoochosis",
       "releaseDate": "2024-09-30",
       "source": "historical"
+    },
+    "2508290": {
+      "rank": 2256,
+      "estimate": "7k+",
+      "name": "Tax-Force",
+      "releaseDate": "2026-11-10",
+      "source": "tracked"
     },
     "2520890": {
       "rank": 2038,

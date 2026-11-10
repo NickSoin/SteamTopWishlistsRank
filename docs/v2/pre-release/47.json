@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 44,
   "entries": {
     "1104600": {
       "rank": 374,
@@ -219,6 +219,13 @@
       "estimate": "7k+",
       "name": "Horror Tales Eats The World",
       "releaseDate": "2026-10-20",
+      "source": "tracked"
+    },
+    "3814550": {
+      "rank": 3866,
+      "estimate": "<7k",
+      "name": "Brothel Hotel",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "3818020": {

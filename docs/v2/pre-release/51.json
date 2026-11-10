@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 48,
   "entries": {
     "467740": {
       "rank": 10,
@@ -312,6 +312,13 @@
       "estimate": "15k+",
       "name": "FD 27: Direct Your Football Club",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "4530370": {
+      "rank": 260,
+      "estimate": "80k+",
+      "name": "Football Manager 27",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "4532660": {

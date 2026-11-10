@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 44,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 45,
   "entries": {
     "1039100": {
       "rank": 184,
@@ -198,6 +198,13 @@
       "estimate": "15k+",
       "name": "Teeto",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "2847780": {
+      "rank": 804,
+      "estimate": "40k+",
+      "name": "Nocturnal 2",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "2948140": {

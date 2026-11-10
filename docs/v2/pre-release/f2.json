@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T07:49:20.051Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "entryCount": 37,
   "entries": {
     "931060": {
       "rank": 1523,
@@ -249,6 +249,20 @@
       "estimate": "25k+",
       "name": "Putrika 2nd.cut:For the Exquisite Attire",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4711570": {
+      "rank": 9825,
+      "estimate": "<7k",
+      "name": "Sectron",
+      "releaseDate": "2026-11-10",
+      "source": "tracked"
+    },
+    "5019800": {
+      "rank": 4456,
+      "estimate": "<7k",
+      "name": "System Arrival",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     }
   }
