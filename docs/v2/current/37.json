@@ -1,51 +1,51 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 23,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 24,
   "entries": {
     "711610": {
-      "rank": 5703,
+      "rank": 5695,
       "estimate": "<7k",
       "name": "Playerless: One Button Adventure"
     },
     "1126240": {
-      "rank": 1691,
+      "rank": 1694,
       "estimate": "15k+",
       "name": "Mahou Mating"
     },
     "1749810": {
-      "rank": 2621,
+      "rank": 2622,
       "estimate": "7k+",
       "name": "Lair Land Story 2: Mist of Sea"
     },
     "1906970": {
-      "rank": 4304,
+      "rank": 4299,
       "estimate": "<7k",
       "name": "Magical Harvest"
     },
     "2075460": {
-      "rank": 1925,
+      "rank": 1923,
       "estimate": "15k+",
       "name": "They Speak From The Abyss"
     },
     "2110000": {
-      "rank": 3332,
+      "rank": 3328,
       "estimate": "<7k",
       "name": "All Systems Dance"
     },
     "2465380": {
-      "rank": 1528,
+      "rank": 1529,
       "estimate": "15k+",
       "name": "Primal Earth"
     },
     "2511300": {
-      "rank": 4180,
+      "rank": 4178,
       "estimate": "<7k",
       "name": "CODE EXIT"
     },
     "2679040": {
-      "rank": 3793,
+      "rank": 3787,
       "estimate": "<7k",
       "name": "The Land of Seidr"
     },
@@ -55,22 +55,22 @@
       "name": "Acts of Blood"
     },
     "3299300": {
-      "rank": 422,
+      "rank": 423,
       "estimate": "80k+",
       "name": "Magicians: The Devil's Deal"
     },
     "3517530": {
-      "rank": 5311,
+      "rank": 5305,
       "estimate": "<7k",
       "name": "Paleolith"
     },
     "3593660": {
-      "rank": 2798,
+      "rank": 2800,
       "estimate": "7k+",
       "name": "Chain-Chillas"
     },
     "3714450": {
-      "rank": 262,
+      "rank": 263,
       "estimate": "80k+",
       "name": "Barotrauma - Home & Harbor Expansion"
     },
@@ -85,27 +85,27 @@
       "name": "Ironwing Valiant: Record of Astera"
     },
     "3972870": {
-      "rank": 4966,
+      "rank": 4960,
       "estimate": "<7k",
       "name": "DAIBADESTRUCTOR"
     },
     "4042150": {
-      "rank": 4535,
+      "rank": 4537,
       "estimate": "<7k",
       "name": "Secret Lab Cleaner"
     },
     "4123930": {
-      "rank": 1470,
+      "rank": 1471,
       "estimate": "25k+",
       "name": "Soverain: An Eternal Legend"
     },
     "4267650": {
-      "rank": 4929,
+      "rank": 4925,
       "estimate": "<7k",
       "name": "ALIGNMENT : An Engineering Odyssey"
     },
     "4703000": {
-      "rank": 4329,
+      "rank": 4318,
       "estimate": "<7k",
       "name": "DRIVE IN THE RAIN"
     },
@@ -115,9 +115,14 @@
       "name": "RollerCoaster Tycoon® Wonderworks"
     },
     "4982870": {
-      "rank": 1496,
+      "rank": 1494,
       "estimate": "25k+",
       "name": "Lightspeed Lina"
+    },
+    "5205880": {
+      "rank": 5862,
+      "estimate": "<7k",
+      "name": "Undealt"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 43,
   "entries": {
     "601360": {
       "rank": 122,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "I Know a Spot",
       "releaseDate": "2026-07-14",
+      "source": "tracked"
+    },
+    "4289450": {
+      "rank": 5659,
+      "estimate": "<7k",
+      "name": "PegLotto!",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4306070": {

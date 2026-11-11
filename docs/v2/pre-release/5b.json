@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 34,
   "entries": {
     "897730": {
       "rank": 9,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "Organize my Shop",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4780870": {
+      "rank": 1760,
+      "estimate": "15k+",
+      "name": "Aleef: Desktop Pet Collector",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     }
   }

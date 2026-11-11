@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 36,
   "entries": {
     "541310": {
       "rank": 21,
@@ -215,6 +215,13 @@
       "estimate": "15k+",
       "name": "Fangtopia",
       "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
+    "4218360": {
+      "rank": 492,
+      "estimate": "80k+",
+      "name": "Wall World Strategy",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4443780": {

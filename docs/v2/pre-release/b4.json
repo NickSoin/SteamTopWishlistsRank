@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 50,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 51,
   "entries": {
     "607080": {
       "rank": 2,
@@ -352,6 +352,13 @@
       "estimate": "<7k",
       "name": "Dragon Kisser",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4908110": {
+      "rank": 1881,
+      "estimate": "15k+",
+      "name": "Gas N Cars",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     }
   }

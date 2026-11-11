@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 43,
   "entries": {
     "782250": {
       "rank": 368,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "白线",
       "releaseDate": "2026-10-31",
+      "source": "tracked"
+    },
+    "4180890": {
+      "rank": 4832,
+      "estimate": "<7k",
+      "name": "AI Digital Human Lab",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "4216180": {

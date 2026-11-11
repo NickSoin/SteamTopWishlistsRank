@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 33,
   "entries": {
     "736590": {
       "rank": 75,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "Folded Fables: Tidy Up The Dragon Hoard",
       "releaseDate": "2026-10-15",
+      "source": "tracked"
+    },
+    "5105650": {
+      "rank": 3534,
+      "estimate": "<7k",
+      "name": "Love, Death & My Daughter",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     }
   }

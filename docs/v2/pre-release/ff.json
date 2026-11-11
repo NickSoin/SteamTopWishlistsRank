@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 44,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 45,
   "entries": {
     "553540": {
       "rank": 73,
@@ -312,6 +312,13 @@
       "estimate": "40k+",
       "name": "DinoBones: Tidy Up the Museum",
       "releaseDate": "2026-09-25",
+      "source": "tracked"
+    },
+    "5198270": {
+      "rank": 4941,
+      "estimate": "<7k",
+      "name": "Hold the Dawn",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     }
   }

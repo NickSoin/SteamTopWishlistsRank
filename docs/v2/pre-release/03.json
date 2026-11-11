@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 38,
   "entries": {
     "979690": {
       "rank": 26,
@@ -240,6 +240,13 @@
       "estimate": "<7k",
       "name": "Tulip Season",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4174620": {
+      "rank": 9650,
+      "estimate": "<7k",
+      "name": "Market Moe",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4337050": {

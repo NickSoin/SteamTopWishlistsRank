@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 40,
   "entries": {
     "945770": {
       "rank": 169,
@@ -265,6 +265,13 @@
       "estimate": "15k+",
       "name": "Metro Anomaly",
       "releaseDate": "2026-11-06",
+      "source": "tracked"
+    },
+    "4696540": {
+      "rank": 7899,
+      "estimate": "<7k",
+      "name": "Working95",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "4778860": {

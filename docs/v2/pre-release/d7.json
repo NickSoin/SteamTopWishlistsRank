@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 31,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 32,
   "entries": {
     "1083790": {
       "rank": 1387,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Imperial Wager: The Shattered Crown of Augustus",
       "releaseDate": "2026-08-11",
+      "source": "tracked"
+    },
+    "5187700": {
+      "rank": 3208,
+      "estimate": "<7k",
+      "name": "Confess To Me",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "5345490": {

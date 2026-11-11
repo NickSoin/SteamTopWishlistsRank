@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 39,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -232,6 +232,13 @@
       "estimate": "<7k",
       "name": "WOBBLY HEIST",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4249520": {
+      "rank": 5539,
+      "estimate": "<7k",
+      "name": "異界ノ宿帳",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4308560": {

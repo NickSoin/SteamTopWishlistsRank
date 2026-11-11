@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 46,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 47,
   "entries": {
     "529340": {
       "rank": 19,
@@ -293,6 +293,13 @@
       "estimate": "<7k",
       "name": "Purrrfect Spa - ASMR Cat Game",
       "releaseDate": "2026-07-12",
+      "source": "tracked"
+    },
+    "4051290": {
+      "rank": 9645,
+      "estimate": "<7k",
+      "name": "Tape Man",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "4126040": {

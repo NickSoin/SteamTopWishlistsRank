@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T01:00:19.870Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-11T13:05:58.343Z",
+  "entryCount": 34,
   "entries": {
     "427940": {
       "rank": 24,
@@ -177,6 +177,13 @@
       "estimate": "7k+",
       "name": "Girls' Dorm -Managing an all-girls' dormitory-",
       "releaseDate": "2026-05-18",
+      "source": "tracked"
+    },
+    "3699850": {
+      "rank": 2759,
+      "estimate": "7k+",
+      "name": "The Devil's Due",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "3709430": {
