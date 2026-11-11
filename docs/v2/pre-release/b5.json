@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 44,
   "entries": {
     "789150": {
       "rank": 34,
@@ -302,6 +302,13 @@
       "estimate": "<7k",
       "name": "Kin Tandem",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4822240": {
+      "rank": 2086,
+      "estimate": "7k+",
+      "name": "Thronefall - Craaghelm",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "5017810": {

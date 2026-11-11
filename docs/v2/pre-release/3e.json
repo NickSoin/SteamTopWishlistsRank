@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 44,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 45,
   "entries": {
     "690370": {
       "rank": 17,
@@ -255,6 +255,13 @@
       "name": "Revelation of Decay",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3509080": {
+      "rank": 4791,
+      "estimate": "<7k",
+      "name": "Forged: Reconquest",
+      "releaseDate": "2026-11-11",
+      "source": "tracked"
     },
     "3636520": {
       "rank": 5068,

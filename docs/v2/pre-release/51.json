@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 48,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 49,
   "entries": {
     "467740": {
       "rank": 10,
@@ -270,6 +270,13 @@
       "estimate": "<7k",
       "name": "IncreKnight",
       "releaseDate": "2026-06-03",
+      "source": "tracked"
+    },
+    "4364650": {
+      "rank": 7565,
+      "estimate": "<7k",
+      "name": "Space Numbers Go Up",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4370480": {

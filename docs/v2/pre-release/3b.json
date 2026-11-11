@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 28,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 29,
   "entries": {
     "843810": {
       "rank": 198,
@@ -122,6 +122,13 @@
       "name": "Soulmask",
       "releaseDate": "2026-04-09",
       "source": "historical"
+    },
+    "2649120": {
+      "rank": 9398,
+      "estimate": "<7k",
+      "name": "Wildsite",
+      "releaseDate": "2026-11-11",
+      "source": "tracked"
     },
     "2863610": {
       "rank": 2688,

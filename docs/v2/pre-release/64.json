@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 29,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 31,
   "entries": {
     "808010": {
       "rank": 992,
@@ -165,6 +165,13 @@
       "releaseDate": "2026-06-08",
       "source": "tracked"
     },
+    "3994800": {
+      "rank": 5293,
+      "estimate": "<7k",
+      "name": "White Whisper",
+      "releaseDate": "2026-11-11",
+      "source": "tracked"
+    },
     "4061800": {
       "rank": 3204,
       "estimate": "<7k",
@@ -205,6 +212,13 @@
       "estimate": "<7k",
       "name": "Deadly Obsession",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "4665590": {
+      "rank": 4621,
+      "estimate": "<7k",
+      "name": "Apotheosis Engine",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     }
   }

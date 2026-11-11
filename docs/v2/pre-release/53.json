@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 30,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 31,
   "entries": {
     "883230": {
       "rank": 1500,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Miracle Brave: Beast Defense Line",
       "releaseDate": "2026-07-01",
+      "source": "tracked"
+    },
+    "4739500": {
+      "rank": 1323,
+      "estimate": "25k+",
+      "name": "JOHN GLEEP",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4804480": {

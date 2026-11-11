@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 34,
   "entries": {
     "761830": {
       "rank": 31,
@@ -164,6 +164,13 @@
       "name": "Total War: WARHAMMER III - Tamurkhan – Thrones of Decay",
       "releaseDate": "2024-04-30",
       "source": "historical"
+    },
+    "3078120": {
+      "rank": 4034,
+      "estimate": "<7k",
+      "name": "Reality Drift",
+      "releaseDate": "2026-11-11",
+      "source": "tracked"
     },
     "3271280": {
       "rank": 164,

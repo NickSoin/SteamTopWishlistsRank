@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 42,
   "entries": {
     "936790": {
       "rank": 38,
@@ -59,6 +59,13 @@
       "name": "Gordian Rooms 2: A curious island",
       "releaseDate": "2024-01-19",
       "source": "historical"
+    },
+    "1532270": {
+      "rank": 2973,
+      "estimate": "7k+",
+      "name": "The Maker Way",
+      "releaseDate": "2026-11-11",
+      "source": "tracked"
     },
     "1536120": {
       "rank": 2190,

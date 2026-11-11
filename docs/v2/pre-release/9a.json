@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 39,
   "entries": {
     "928000": {
       "rank": 773,
@@ -235,6 +235,13 @@
       "estimate": "<7k",
       "name": "HAUNTMATES",
       "releaseDate": "2026-07-02",
+      "source": "tracked"
+    },
+    "4509300": {
+      "rank": 2505,
+      "estimate": "7k+",
+      "name": "Prinny Party: Going Overboard!",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4693650": {

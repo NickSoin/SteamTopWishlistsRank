@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 54,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 55,
   "entries": {
     "619390": {
       "rank": 926,
@@ -372,6 +372,13 @@
       "estimate": "<7k",
       "name": "Suika Game",
       "releaseDate": "2026-07-26",
+      "source": "tracked"
+    },
+    "4574820": {
+      "rank": 3081,
+      "estimate": "<7k",
+      "name": "Rejected Draft",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4593940": {

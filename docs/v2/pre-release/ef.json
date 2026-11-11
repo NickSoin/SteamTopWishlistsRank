@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 41,
   "entries": {
     "1231560": {
       "rank": 269,
@@ -219,6 +219,13 @@
       "estimate": "80k+",
       "name": "American Truck Simulator - South Dakota",
       "releaseDate": "2026-09-24",
+      "source": "tracked"
+    },
+    "3830080": {
+      "rank": 3621,
+      "estimate": "<7k",
+      "name": "Twilight Requiem",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "3946190": {

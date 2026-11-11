@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 41,
   "entries": {
     "661680": {
       "rank": 689,
@@ -191,6 +191,13 @@
       "name": "TAIMANIN RPG Extasy",
       "releaseDate": "2023-11-01",
       "source": "historical"
+    },
+    "2483570": {
+      "rank": 4433,
+      "estimate": "<7k",
+      "name": "Castillon",
+      "releaseDate": "2026-11-11",
+      "source": "tracked"
     },
     "2510490": {
       "rank": 2125,

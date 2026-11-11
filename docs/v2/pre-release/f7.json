@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 27,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 28,
   "entries": {
     "1071140": {
       "rank": 202,
@@ -142,6 +142,13 @@
       "estimate": "40k+",
       "name": "Soul Chained",
       "releaseDate": "2026-09-07",
+      "source": "tracked"
+    },
+    "3610790": {
+      "rank": 1021,
+      "estimate": "25k+",
+      "name": "Hope in the City",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "3617290": {

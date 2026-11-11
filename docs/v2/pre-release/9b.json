@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 59,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 60,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -309,6 +309,13 @@
       "estimate": "300k+",
       "name": "AION 2",
       "releaseDate": "2026-10-05",
+      "source": "tracked"
+    },
+    "3551820": {
+      "rank": 3046,
+      "estimate": "<7k",
+      "name": "Castlebound",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "3581230": {

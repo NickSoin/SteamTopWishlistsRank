@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 51,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 52,
   "entries": {
     "651490": {
       "rank": 270,
@@ -359,6 +359,13 @@
       "estimate": "<7k",
       "name": "Barbecue",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4660470": {
+      "rank": 4169,
+      "estimate": "<7k",
+      "name": "Near Mint",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     }
   }

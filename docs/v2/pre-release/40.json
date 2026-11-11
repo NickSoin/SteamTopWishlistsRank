@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 54,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 55,
   "entries": {
     "720660": {
       "rank": 1007,
@@ -333,6 +333,13 @@
       "estimate": "25k+",
       "name": "The Carcass",
       "releaseDate": "2026-08-11",
+      "source": "tracked"
+    },
+    "4408320": {
+      "rank": 3540,
+      "estimate": "<7k",
+      "name": "BATTLE BEARS GOLD",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4428630": {

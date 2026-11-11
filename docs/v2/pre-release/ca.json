@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 36,
   "entries": {
     "757310": {
       "rank": 43,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Where is My Pet?",
       "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
+    "4521650": {
+      "rank": 926,
+      "estimate": "40k+",
+      "name": "Farm & Feast",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4868870": {

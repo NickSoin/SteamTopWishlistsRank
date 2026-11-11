@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 35,
   "entries": {
     "1172470": {
       "rank": 18,
@@ -221,6 +221,13 @@
       "estimate": "7k+",
       "name": "Huglings",
       "releaseDate": "2026-09-17",
+      "source": "tracked"
+    },
+    "4335520": {
+      "rank": 9377,
+      "estimate": "<7k",
+      "name": "Monty's Idle Mine",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4622790": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 38,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -220,6 +220,13 @@
       "releaseDate": "2026-06-22",
       "source": "tracked"
     },
+    "4250370": {
+      "rank": 4487,
+      "estimate": "<7k",
+      "name": "Sol Protocol",
+      "releaseDate": "2026-11-11",
+      "source": "tracked"
+    },
     "4517190": {
       "rank": 1846,
       "estimate": "15k+",
@@ -253,6 +260,13 @@
       "estimate": "<7k",
       "name": "Dead Sector",
       "releaseDate": "2026-11-03",
+      "source": "tracked"
+    },
+    "4795460": {
+      "rank": 2119,
+      "estimate": "7k+",
+      "name": "The Citadel Project",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4935510": {

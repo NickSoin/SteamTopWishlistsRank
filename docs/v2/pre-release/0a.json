@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 34,
   "entries": {
     "983380": {
       "rank": 234,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Fomo-trading",
       "releaseDate": "2026-06-14",
+      "source": "tracked"
+    },
+    "4562310": {
+      "rank": 7808,
+      "estimate": "<7k",
+      "name": "Ultimate Classic Car Racing 2",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "5087960": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T13:05:58.343Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-11T22:18:59.540Z",
+  "entryCount": 35,
   "entries": {
     "589940": {
       "rank": 1003,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "Dry Spring Monologue",
       "releaseDate": "2026-11-04",
+      "source": "tracked"
+    },
+    "4641190": {
+      "rank": 9290,
+      "estimate": "<7k",
+      "name": "Idle Golf",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4730180": {
