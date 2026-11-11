@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T18:08:05.416Z",
-  "entryCount": 53,
+  "updatedAt": "2026-11-11T01:00:19.870Z",
+  "entryCount": 54,
   "entries": {
     "619390": {
       "rank": 926,
@@ -273,6 +273,13 @@
       "name": "100 Cats New York",
       "releaseDate": "2024-08-27",
       "source": "historical"
+    },
+    "2991650": {
+      "rank": 1789,
+      "estimate": "15k+",
+      "name": "DAWN AEROWAR",
+      "releaseDate": "2026-11-10",
+      "source": "tracked"
     },
     "3121810": {
       "rank": 4393,

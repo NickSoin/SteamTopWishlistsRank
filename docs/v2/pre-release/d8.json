@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T18:08:05.416Z",
-  "entryCount": 44,
+  "updatedAt": "2026-11-11T01:00:19.870Z",
+  "entryCount": 45,
   "entries": {
     "494730": {
       "rank": 753,
@@ -314,6 +314,13 @@
       "estimate": "<7k",
       "name": "The Ferryman's Trial",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "5069180": {
+      "rank": 3420,
+      "estimate": "<7k",
+      "name": "Touhou: Your Reimu",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     }
   }

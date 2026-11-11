@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T18:08:05.416Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-11T01:00:19.870Z",
+  "entryCount": 44,
   "entries": {
     "553540": {
       "rank": 73,
@@ -173,6 +173,13 @@
       "name": "NO-SKIN",
       "releaseDate": "2025-02-16",
       "source": "historical"
+    },
+    "3014860": {
+      "rank": 1461,
+      "estimate": "25k+",
+      "name": "Icy Tower",
+      "releaseDate": "2026-11-10",
+      "source": "tracked"
     },
     "3064030": {
       "rank": 2483,

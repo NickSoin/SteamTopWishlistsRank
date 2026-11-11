@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "updatedAt": "2026-11-11T01:00:19.870Z",
   "entryCount": 38,
   "entries": {
     "299970": {
@@ -138,11 +138,11 @@
       "source": "tracked"
     },
     "2826790": {
-      "rank": 1123,
-      "estimate": "25k+",
+      "rank": 377,
+      "estimate": "80k+",
       "name": "Stormforge",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-11-10",
+      "source": "tracked"
     },
     "2849960": {
       "rank": 2372,

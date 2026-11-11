@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T18:08:05.416Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-11T01:00:19.870Z",
+  "entryCount": 39,
   "entries": {
     "315210": {
       "rank": 48,
@@ -249,6 +249,13 @@
       "estimate": "15k+",
       "name": "the cabin game",
       "releaseDate": "2026-08-27",
+      "source": "tracked"
+    },
+    "4514060": {
+      "rank": 2520,
+      "estimate": "7k+",
+      "name": "Taimanin Asagi 2",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4524580": {

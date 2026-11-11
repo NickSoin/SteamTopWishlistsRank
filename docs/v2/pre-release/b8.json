@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T18:08:05.416Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-11T01:00:19.870Z",
+  "entryCount": 39,
   "entries": {
     "485400": {
       "rank": 112,
@@ -260,6 +260,13 @@
       "estimate": "<7k",
       "name": "Metro Architect",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4845020": {
+      "rank": 3671,
+      "estimate": "<7k",
+      "name": "恋爱，我就借走咯",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "5120650": {

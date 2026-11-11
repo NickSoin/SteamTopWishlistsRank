@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T18:08:05.416Z",
-  "entryCount": 30,
+  "updatedAt": "2026-11-11T01:00:19.870Z",
+  "entryCount": 31,
   "entries": {
     "456140": {
       "rank": 2301,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "Lil Laundry Lane",
       "releaseDate": "2026-11-05",
+      "source": "tracked"
+    },
+    "5211290": {
+      "rank": 1837,
+      "estimate": "15k+",
+      "name": "GroundInFlames",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     }
   }

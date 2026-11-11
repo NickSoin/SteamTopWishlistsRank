@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T18:08:05.416Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-11T01:00:19.870Z",
+  "entryCount": 38,
   "entries": {
     "979110": {
       "rank": 38,
@@ -254,6 +254,13 @@
       "estimate": "<7k",
       "name": "Desktop Reptiles",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4984400": {
+      "rank": 4101,
+      "estimate": "<7k",
+      "name": "Towers of Babble",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "5094490": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T18:08:05.416Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-11T01:00:19.870Z",
+  "entryCount": 38,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -194,6 +194,13 @@
       "name": "Mount & Blade II: Bannerlord - War Sails",
       "releaseDate": "2025-11-26",
       "source": "historical"
+    },
+    "2930330": {
+      "rank": 8074,
+      "estimate": "<7k",
+      "name": "Vikings: Valhalla Saga",
+      "releaseDate": "2026-11-10",
+      "source": "tracked"
     },
     "3129360": {
       "rank": 3008,

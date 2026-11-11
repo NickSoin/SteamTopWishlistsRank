@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T18:08:05.416Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-11T01:00:19.870Z",
+  "entryCount": 38,
   "entries": {
     "292000": {
       "rank": 29,
@@ -218,6 +218,13 @@
       "estimate": "80k+",
       "name": "lily's world XD",
       "releaseDate": "2026-09-17",
+      "source": "tracked"
+    },
+    "3305190": {
+      "rank": 5713,
+      "estimate": "<7k",
+      "name": "One More Plate!",
+      "releaseDate": "2026-11-10",
       "source": "tracked"
     },
     "3346410": {

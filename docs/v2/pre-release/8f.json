@@ -1,9 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T18:08:05.416Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-11T01:00:19.870Z",
+  "entryCount": 37,
   "entries": {
+    "1118300": {
+      "rank": 3661,
+      "estimate": "<7k",
+      "name": "The Sea is Our Stage",
+      "releaseDate": "2026-11-10",
+      "source": "tracked"
+    },
     "1336180": {
       "rank": 166,
       "estimate": "200k+",

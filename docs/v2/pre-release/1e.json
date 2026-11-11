@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-10T18:08:05.416Z",
+  "updatedAt": "2026-11-11T01:00:19.870Z",
   "entryCount": 37,
   "entries": {
     "868270": {
@@ -138,12 +138,12 @@
       "source": "historical"
     },
     "2638080": {
-      "rank": 2681,
-      "estimate": "70k",
-      "actualWishlists": 70000,
+      "rank": 244,
+      "estimate": "80k+",
       "name": "Annihilated",
-      "releaseDate": "2026-07-21",
-      "source": "historical",
+      "releaseDate": "2026-11-09",
+      "source": "tracked",
+      "actualWishlists": 70000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059917121"
     },
     "2717570": {
