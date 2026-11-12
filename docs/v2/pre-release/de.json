@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T22:18:59.540Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-12T07:42:55.240Z",
+  "entryCount": 44,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -300,6 +300,13 @@
       "estimate": "<7k",
       "name": "TEAM PANIC",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4767430": {
+      "rank": 5634,
+      "estimate": "<7k",
+      "name": "Love in Summer",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4838790": {

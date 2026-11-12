@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T22:18:59.540Z",
-  "entryCount": 52,
+  "updatedAt": "2026-11-12T07:42:55.240Z",
+  "entryCount": 53,
   "entries": {
     "671860": {
       "rank": 22,
@@ -359,6 +359,13 @@
       "estimate": "15k+",
       "name": "The Girl in the Window",
       "releaseDate": "2026-08-31",
+      "source": "tracked"
+    },
+    "4921660": {
+      "rank": 1338,
+      "estimate": "25k+",
+      "name": "EVERYONE'S TIER LIST!",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "5222940": {

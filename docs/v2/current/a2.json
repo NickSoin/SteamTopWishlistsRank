@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-11T22:18:59.540Z",
-  "entryCount": 18,
+  "updatedAt": "2026-11-12T07:42:55.240Z",
+  "entryCount": 20,
   "entries": {
     "709010": {
-      "rank": 5408,
+      "rank": 5407,
       "estimate": "<7k",
       "name": "Offroad Transport Simulator"
     },
     "762000": {
-      "rank": 5312,
+      "rank": 5314,
       "estimate": "<7k",
       "name": "Witches Craft"
     },
     "1085830": {
-      "rank": 2330,
+      "rank": 2333,
       "estimate": "7k+",
       "name": "Knights of Frontier Valley"
     },
@@ -25,12 +25,12 @@
       "name": "Forgery Craft"
     },
     "2120350": {
-      "rank": 2402,
+      "rank": 2404,
       "estimate": "7k+",
       "name": "WRONGED US"
     },
     "2363160": {
-      "rank": 2923,
+      "rank": 2927,
       "estimate": "7k+",
       "name": "Haphazard Angel"
     },
@@ -40,12 +40,12 @@
       "name": "JOIN US"
     },
     "3450900": {
-      "rank": 3729,
+      "rank": 3731,
       "estimate": "<7k",
       "name": "DOSMIC"
     },
     "3851600": {
-      "rank": 1589,
+      "rank": 1588,
       "estimate": "15k+",
       "name": "Pulsebreaker"
     },
@@ -60,7 +60,7 @@
       "name": "Too Deep To Quit"
     },
     "4226690": {
-      "rank": 3017,
+      "rank": 3022,
       "estimate": "<7k",
       "name": "Wishseeker"
     },
@@ -70,7 +70,7 @@
       "name": "Leafborn"
     },
     "4514070": {
-      "rank": 2962,
+      "rank": 2967,
       "estimate": "7k+",
       "name": "Barely Breathing"
     },
@@ -79,20 +79,30 @@
       "estimate": "25k+",
       "name": "Muv-Luv Girls Garden"
     },
+    "4809970": {
+      "rank": 5472,
+      "estimate": "<7k",
+      "name": "WARDOGS - Movember Pack"
+    },
     "4878790": {
-      "rank": 3518,
+      "rank": 3516,
       "estimate": "<7k",
       "name": "Anomaly Cafe"
     },
     "4881350": {
-      "rank": 1686,
+      "rank": 1688,
       "estimate": "15k+",
       "name": "I SHALL NAME THE DEAD"
     },
     "5036490": {
-      "rank": 2982,
+      "rank": 2983,
       "estimate": "7k+",
       "name": "System Shock VR"
+    },
+    "5440820": {
+      "rank": 5803,
+      "estimate": "<7k",
+      "name": "Scary Hot Dogs"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-11T22:18:59.540Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-12T07:42:55.240Z",
+  "entryCount": 37,
   "entries": {
     "674140": {
       "rank": 537,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "G-MODEアーカイブス+ パックマン",
       "releaseDate": "2026-06-17",
+      "source": "tracked"
+    },
+    "5135440": {
+      "rank": 4283,
+      "estimate": "<7k",
+      "name": "DPS: Desktop Pension Squad",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     }
   }
