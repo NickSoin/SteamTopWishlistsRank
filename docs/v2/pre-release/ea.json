@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 37,
   "entries": {
     "589940": {
       "rank": 1003,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "KimuNote",
       "releaseDate": "2026-06-29",
+      "source": "tracked"
+    },
+    "4546370": {
+      "rank": 9791,
+      "estimate": "<7k",
+      "name": "Starport Merchants",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4549560": {

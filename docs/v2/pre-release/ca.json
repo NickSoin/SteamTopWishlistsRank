@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 38,
   "entries": {
     "757310": {
       "rank": 43,
@@ -261,6 +261,13 @@
       "estimate": "<7k",
       "name": "More Than A Woman - Season 1",
       "releaseDate": "2026-11-11",
+      "source": "tracked"
+    },
+    "5404460": {
+      "rank": 5162,
+      "estimate": "<7k",
+      "name": "The Cozy Board Game Shop: Tidy Up",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     }
   }

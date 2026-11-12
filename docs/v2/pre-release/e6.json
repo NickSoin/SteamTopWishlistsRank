@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 40,
   "entries": {
     "292000": {
       "rank": 29,
@@ -234,11 +234,25 @@
       "releaseDate": "2026-07-23",
       "source": "tracked"
     },
+    "3721530": {
+      "rank": 2760,
+      "estimate": "7k+",
+      "name": "Motorcycle For Sale Simulator",
+      "releaseDate": "2026-11-12",
+      "source": "tracked"
+    },
     "3736400": {
       "rank": 8154,
       "estimate": "<7k",
       "name": "SkillWarz",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "3809270": {
+      "rank": 47,
+      "estimate": "600k+",
+      "name": "Euro Truck Simulator 2 - Coaches",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "3917700": {

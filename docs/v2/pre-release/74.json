@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 41,
   "entries": {
     "511280": {
       "rank": 886,
@@ -139,6 +139,13 @@
       "releaseDate": "2025-07-23",
       "source": "historical"
     },
+    "2280360": {
+      "rank": 1454,
+      "estimate": "25k+",
+      "name": "Scarecrow: 90s Crime Story",
+      "releaseDate": "2026-11-12",
+      "source": "tracked"
+    },
     "2377970": {
       "rank": 50,
       "estimate": "600k+",
@@ -223,6 +230,13 @@
       "estimate": "7k+",
       "name": "ROLLA",
       "releaseDate": "2026-10-13",
+      "source": "tracked"
+    },
+    "4008250": {
+      "rank": 1331,
+      "estimate": "25k+",
+      "name": "BALL x PIT: Risen Ballbylon",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4275920": {

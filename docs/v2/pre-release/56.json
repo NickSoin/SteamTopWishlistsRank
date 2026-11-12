@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 35,
   "entries": {
     "610370": {
       "rank": 18,
@@ -10,6 +10,13 @@
       "name": "Desperados III",
       "releaseDate": "2020-06-16",
       "source": "historical"
+    },
+    "1025560": {
+      "rank": 3946,
+      "estimate": "<7k",
+      "name": "Flea Madness",
+      "releaseDate": "2026-11-12",
+      "source": "tracked"
     },
     "1065520": {
       "rank": 704,
@@ -185,6 +192,13 @@
       "name": "Barbecue with friends",
       "releaseDate": "2025-05-22",
       "source": "historical"
+    },
+    "3819020": {
+      "rank": 2938,
+      "estimate": "7k+",
+      "name": "DEADBOOT",
+      "releaseDate": "2026-11-12",
+      "source": "tracked"
     },
     "3880400": {
       "rank": 1237,

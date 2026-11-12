@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 34,
   "entries": {
     "974480": {
       "rank": 197,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "Vanisha",
       "releaseDate": "2026-10-15",
+      "source": "tracked"
+    },
+    "4563590": {
+      "rank": 5285,
+      "estimate": "<7k",
+      "name": "Pig King",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4702540": {

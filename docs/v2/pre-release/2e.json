@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 25,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 26,
   "entries": {
     "1167820": {
       "rank": 635,
@@ -144,6 +144,13 @@
       "estimate": "<7k",
       "name": "ULTRA0",
       "releaseDate": "2026-06-02",
+      "source": "tracked"
+    },
+    "4132210": {
+      "rank": 4188,
+      "estimate": "<7k",
+      "name": "Zombie Hamsters",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4612060": {

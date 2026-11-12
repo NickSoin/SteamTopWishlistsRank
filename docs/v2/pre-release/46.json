@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 40,
   "entries": {
     "412020": {
       "rank": 3,
@@ -235,6 +235,13 @@
       "estimate": "7k+",
       "name": "Loli Ninja Village",
       "releaseDate": "2026-05-29",
+      "source": "tracked"
+    },
+    "4325520": {
+      "rank": 5539,
+      "estimate": "<7k",
+      "name": "Shelf-Made Tycoon",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4382310": {

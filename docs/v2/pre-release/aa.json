@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 37,
   "entries": {
     "924750": {
       "rank": 198,
@@ -260,6 +260,13 @@
       "estimate": "<7k",
       "name": "Squingle Arcade",
       "releaseDate": "2026-09-09",
+      "source": "tracked"
+    },
+    "4809710": {
+      "rank": 3429,
+      "estimate": "<7k",
+      "name": "Paystreak",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     }
   }

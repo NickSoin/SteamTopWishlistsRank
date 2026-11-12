@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 42,
   "entries": {
     "914890": {
       "rank": 644,
@@ -284,6 +284,13 @@
       "estimate": "<7k",
       "name": "Last Dive: Echo Trench",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4715000": {
+      "rank": 4068,
+      "estimate": "<7k",
+      "name": "Patience Balls",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "5285160": {

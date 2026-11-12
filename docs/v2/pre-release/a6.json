@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 41,
   "entries": {
     "871540": {
       "rank": 824,
@@ -277,6 +277,13 @@
       "estimate": "<7k",
       "name": "Mosaic Garden: The Flower Game",
       "releaseDate": "2026-07-01",
+      "source": "tracked"
+    },
+    "4602120": {
+      "rank": 3772,
+      "estimate": "<7k",
+      "name": "500 FINGER FILLET",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4627590": {

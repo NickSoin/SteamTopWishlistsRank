@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 36,
   "entries": {
     "374190": {
       "rank": 414,
@@ -181,6 +181,13 @@
       "estimate": "7k+",
       "name": "Project DevourSlime",
       "releaseDate": "2026-09-27",
+      "source": "tracked"
+    },
+    "3319680": {
+      "rank": 4576,
+      "estimate": "<7k",
+      "name": "Delve Survivors",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "3371260": {

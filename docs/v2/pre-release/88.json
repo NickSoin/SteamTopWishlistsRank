@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 31,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 32,
   "entries": {
     "900040": {
       "rank": 60,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "0.5%",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "5343400": {
+      "rank": 2455,
+      "estimate": "7k+",
+      "name": "Car Flipper",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     }
   }

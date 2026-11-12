@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 39,
   "entries": {
     "850170": {
       "rank": 394,
@@ -156,6 +156,13 @@
       "estimate": "<7k",
       "name": "Petal Crash 2",
       "releaseDate": "2026-09-29",
+      "source": "tracked"
+    },
+    "2860490": {
+      "rank": 501,
+      "estimate": "40k+",
+      "name": "Warota: I Live Next to The Demon King's Castle LOL",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "2920570": {

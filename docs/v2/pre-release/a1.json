@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 55,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 56,
   "entries": {
     "619390": {
       "rank": 926,
@@ -393,6 +393,13 @@
       "estimate": "40k+",
       "name": "Worst Class Ever",
       "releaseDate": "2026-11-09",
+      "source": "tracked"
+    },
+    "5195200": {
+      "rank": 3813,
+      "estimate": "<7k",
+      "name": "Engagement",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     }
   }

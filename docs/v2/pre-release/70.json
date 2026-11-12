@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 39,
   "entries": {
     "752290": {
       "rank": 6262,
@@ -133,6 +133,13 @@
       "name": "Zoo Park Story",
       "releaseDate": "2023-10-01",
       "source": "historical"
+    },
+    "2487190": {
+      "rank": 225,
+      "estimate": "80k+",
+      "name": "Main Sequence",
+      "releaseDate": "2026-11-12",
+      "source": "tracked"
     },
     "2649860": {
       "rank": 3178,

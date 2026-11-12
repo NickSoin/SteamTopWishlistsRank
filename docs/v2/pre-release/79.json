@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 44,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 45,
   "entries": {
     "553850": {
       "rank": 26,
@@ -310,6 +310,13 @@
       "estimate": "7k+",
       "name": "Dead of the Brain",
       "releaseDate": "2026-10-30",
+      "source": "tracked"
+    },
+    "5378030": {
+      "rank": 4527,
+      "estimate": "<7k",
+      "name": "La Muraille 1806",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     }
   }

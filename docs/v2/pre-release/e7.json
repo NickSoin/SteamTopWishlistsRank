@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 36,
   "entries": {
     "429380": {
       "rank": 36,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Infinite Ruins",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "4493130": {
+      "rank": 1392,
+      "estimate": "25k+",
+      "name": "Ski-E-O! Ski Resort Tycoon",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4548120": {

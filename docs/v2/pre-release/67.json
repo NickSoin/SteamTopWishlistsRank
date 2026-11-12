@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 46,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 47,
   "entries": {
     "783550": {
       "rank": 4791,
@@ -312,6 +312,13 @@
       "estimate": "7k+",
       "name": "Pet the Cat",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4992660": {
+      "rank": 2275,
+      "estimate": "7k+",
+      "name": "Scawy Game",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "5031210": {

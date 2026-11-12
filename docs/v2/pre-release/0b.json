@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 37,
   "entries": {
     "779340": {
       "rank": 5,
@@ -240,6 +240,13 @@
       "estimate": "15k+",
       "name": "Disney Dreamlight Valley: Honeyglow Woods",
       "releaseDate": "2026-07-08",
+      "source": "tracked"
+    },
+    "4463520": {
+      "rank": 1055,
+      "estimate": "25k+",
+      "name": "Moomin: Midsummer Madness",
+      "releaseDate": "2026-11-11",
       "source": "tracked"
     },
     "4567710": {

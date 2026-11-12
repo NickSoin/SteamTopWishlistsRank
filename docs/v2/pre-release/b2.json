@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 35,
   "entries": {
     "761830": {
       "rank": 31,
@@ -205,6 +205,13 @@
       "estimate": "7k+",
       "name": "CARTAGRA",
       "releaseDate": "2026-06-25",
+      "source": "tracked"
+    },
+    "4304060": {
+      "rank": 882,
+      "estimate": "40k+",
+      "name": "SONIC PICO PARK",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4446870": {

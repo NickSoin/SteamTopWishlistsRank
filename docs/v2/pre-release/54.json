@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 44,
   "entries": {
     "889750": {
       "rank": 90,
@@ -282,6 +282,13 @@
       "estimate": "<7k",
       "name": "Aquilon: Lust Guild",
       "releaseDate": "2026-10-09",
+      "source": "tracked"
+    },
+    "4545470": {
+      "rank": 8959,
+      "estimate": "<7k",
+      "name": "The Totemist",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4576490": {

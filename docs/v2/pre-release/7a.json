@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 43,
   "entries": {
     "1219240": {
       "rank": 736,
@@ -218,6 +218,13 @@
       "estimate": "15k+",
       "name": "Burger Shift: Team Rush",
       "releaseDate": "2026-09-11",
+      "source": "tracked"
+    },
+    "4082030": {
+      "rank": 1263,
+      "estimate": "25k+",
+      "name": "Barbie™ Rewind",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4108000": {

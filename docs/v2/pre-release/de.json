@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 44,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 45,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -293,6 +293,13 @@
       "estimate": "<7k",
       "name": "Otpisani: Nightingale",
       "releaseDate": "2026-09-29",
+      "source": "tracked"
+    },
+    "4734100": {
+      "rank": 4986,
+      "estimate": "<7k",
+      "name": "WARNO - Tropic Storm",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4753590": {

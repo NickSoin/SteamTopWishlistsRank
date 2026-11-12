@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 33,
   "entries": {
     "615530": {
       "rank": 223,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "TWIN Hotel, Spa and More",
       "releaseDate": "2026-09-28",
+      "source": "tracked"
+    },
+    "4927420": {
+      "rank": 4624,
+      "estimate": "<7k",
+      "name": "Idle of the Dead",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     }
   }

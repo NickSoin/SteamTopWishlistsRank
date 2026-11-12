@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 28,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 29,
   "entries": {
     "1129540": {
       "rank": 129,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Idle Bookstore",
       "releaseDate": "2026-09-14",
+      "source": "tracked"
+    },
+    "4403780": {
+      "rank": 6019,
+      "estimate": "<7k",
+      "name": "InCowMental",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4467980": {

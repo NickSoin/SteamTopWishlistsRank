@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 41,
   "entries": {
     "290100": {
       "rank": 249,
@@ -174,6 +174,13 @@
       "releaseDate": "2026-05-29",
       "source": "tracked"
     },
+    "3038710": {
+      "rank": 5711,
+      "estimate": "<7k",
+      "name": "Ashigaru Tactics",
+      "releaseDate": "2026-11-12",
+      "source": "tracked"
+    },
     "3170490": {
       "rank": 860,
       "estimate": "40k+",
@@ -263,6 +270,13 @@
       "estimate": "<7k",
       "name": "Cleaning Simulator: Ultimate Mess",
       "releaseDate": "2026-08-28",
+      "source": "tracked"
+    },
+    "4932820": {
+      "rank": 5070,
+      "estimate": "<7k",
+      "name": "Bottle Flip Inc",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "5019920": {

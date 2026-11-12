@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 46,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 47,
   "entries": {
     "534380": {
       "rank": 1,
@@ -326,6 +326,13 @@
       "estimate": "<7k",
       "name": "Sort The Capybaras",
       "releaseDate": "2026-10-08",
+      "source": "tracked"
+    },
+    "5378110": {
+      "rank": 808,
+      "estimate": "40k+",
+      "name": "One More Lawn",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T07:42:55.240Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-12T18:55:28.876Z",
+  "entryCount": 38,
   "entries": {
     "1119840": {
       "rank": 247,
@@ -177,6 +177,13 @@
       "estimate": "<7k",
       "name": "Ghost Villa",
       "releaseDate": "2026-10-12",
+      "source": "tracked"
+    },
+    "2953940": {
+      "rank": 1665,
+      "estimate": "15k+",
+      "name": "Ancient Wars: Sparta HD",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "3008740": {
