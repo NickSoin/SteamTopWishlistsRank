@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T18:55:28.876Z",
-  "entryCount": 31,
+  "updatedAt": "2026-11-13T01:34:20.128Z",
+  "entryCount": 32,
   "entries": {
     "977510": {
       "rank": 1079,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "Toy Keeper",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "5289760": {
+      "rank": 4238,
+      "estimate": "<7k",
+      "name": "Monster Girls of Another World: Pleasure Chronicle",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     }
   }

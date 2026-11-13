@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T18:55:28.876Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-13T01:34:20.128Z",
+  "entryCount": 40,
   "entries": {
     "928000": {
       "rank": 773,
@@ -101,6 +101,13 @@
       "name": "Tower of Kalemonvo",
       "releaseDate": "2025-03-28",
       "source": "historical"
+    },
+    "2450350": {
+      "rank": 1942,
+      "estimate": "15k+",
+      "name": "Fat Goblins",
+      "releaseDate": "2026-11-12",
+      "source": "tracked"
     },
     "2477920": {
       "rank": 2557,

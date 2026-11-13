@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T18:55:28.876Z",
-  "entryCount": 58,
+  "updatedAt": "2026-11-13T01:34:20.128Z",
+  "entryCount": 59,
   "entries": {
     "748020": {
       "rank": 911,
@@ -310,6 +310,13 @@
       "name": "Assetto Corsa EVO",
       "releaseDate": "2025-01-16",
       "source": "historical"
+    },
+    "3737610": {
+      "rank": 4877,
+      "estimate": "<7k",
+      "name": "Explosiovania",
+      "releaseDate": "2026-11-12",
+      "source": "tracked"
     },
     "4002270": {
       "rank": 3464,

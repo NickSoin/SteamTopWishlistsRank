@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-12T18:55:28.876Z",
-  "entryCount": 23,
+  "updatedAt": "2026-11-13T01:34:20.128Z",
+  "entryCount": 24,
   "entries": {
     "1345720": {
       "rank": 3351,
@@ -10,34 +10,34 @@
       "name": "FBI Agent Simulator"
     },
     "1374320": {
-      "rank": 2914,
+      "rank": 2913,
       "estimate": "7k+",
       "name": "Regeneration"
     },
     "1411900": {
-      "rank": 4101,
+      "rank": 4103,
       "estimate": "<7k",
       "name": "Mictlan: An Ancient Mythical Tale"
     },
     "1455100": {
-      "rank": 3646,
+      "rank": 3648,
       "estimate": "<7k",
       "name": "SuperHero"
     },
     "2052300": {
-      "rank": 804,
+      "rank": 805,
       "estimate": "40k+",
       "name": "Glaciered",
       "actualWishlists": 40000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1783872411935485"
     },
     "2175740": {
-      "rank": 3643,
+      "rank": 3644,
       "estimate": "<7k",
       "name": "Refuge of Embers"
     },
     "2227100": {
-      "rank": 1957,
+      "rank": 1959,
       "estimate": "15k+",
       "name": "Jerma's Big Adventure 2"
     },
@@ -62,12 +62,12 @@
       "name": "DDoD"
     },
     "2570080": {
-      "rank": 4656,
+      "rank": 4657,
       "estimate": "<7k",
       "name": "Grow Your Guarden"
     },
     "2755270": {
-      "rank": 2437,
+      "rank": 2435,
       "estimate": "7k+",
       "name": "South Scrimshaw, Part Two"
     },
@@ -77,17 +77,17 @@
       "name": "Hello Neighbor 3"
     },
     "3436310": {
-      "rank": 3284,
+      "rank": 3286,
       "estimate": "<7k",
       "name": "Heteromorphic Girl"
     },
     "3512720": {
-      "rank": 4548,
+      "rank": 4547,
       "estimate": "<7k",
       "name": "Unmasked Truths: Shattered Dreams"
     },
     "3600740": {
-      "rank": 2617,
+      "rank": 2616,
       "estimate": "7k+",
       "name": "万象之环"
     },
@@ -102,24 +102,29 @@
       "name": "Ondeh Ondeh Kaya's Tasty Tale"
     },
     "4045760": {
-      "rank": 1360,
+      "rank": 1338,
       "estimate": "25k+",
       "name": "Project: Home!"
     },
     "4216230": {
-      "rank": 1880,
+      "rank": 1879,
       "estimate": "15k+",
       "name": "Smoky Sails"
     },
     "4486840": {
-      "rank": 4781,
+      "rank": 4782,
       "estimate": "<7k",
       "name": "Perfect Son-In-Law: Hidden S-Rank"
     },
     "5215700": {
-      "rank": 5315,
+      "rank": 5316,
       "estimate": "<7k",
       "name": "The Boba Teashop – Refill"
+    },
+    "5234330": {
+      "rank": 5820,
+      "estimate": "<7k",
+      "name": "Sort On The Ball"
     }
   }
 }

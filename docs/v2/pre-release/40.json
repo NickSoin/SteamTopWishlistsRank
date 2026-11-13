@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-12T18:55:28.876Z",
-  "entryCount": 55,
+  "updatedAt": "2026-11-13T01:34:20.128Z",
+  "entryCount": 56,
   "entries": {
     "720660": {
       "rank": 1007,
@@ -354,6 +354,13 @@
       "estimate": "<7k",
       "name": "Clank-Robotics",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4640230": {
+      "rank": 5073,
+      "estimate": "<7k",
+      "name": "Counter Targets Clicker",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "4659250": {
