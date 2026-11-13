@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 44,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 45,
   "entries": {
     "721700": {
       "rank": 679,
@@ -295,6 +295,13 @@
       "estimate": "<7k",
       "name": "Deep Space Remnant",
       "releaseDate": "2026-09-24",
+      "source": "tracked"
+    },
+    "4578320": {
+      "rank": 9341,
+      "estimate": "<7k",
+      "name": "Deathly Delights",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4674970": {

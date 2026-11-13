@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 46,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -265,6 +265,13 @@
       "estimate": "<7k",
       "name": "Urbexophobia",
       "releaseDate": "2026-10-30",
+      "source": "tracked"
+    },
+    "4045480": {
+      "rank": 288,
+      "estimate": "80k+",
+      "name": "Drawquarium",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4300950": {

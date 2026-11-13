@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 38,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -267,6 +267,13 @@
       "estimate": "15k+",
       "name": "Penis Bird",
       "releaseDate": "2026-10-09",
+      "source": "tracked"
+    },
+    "5458210": {
+      "rank": 3983,
+      "estimate": "<7k",
+      "name": "How They Built the Pyramids",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     }
   }

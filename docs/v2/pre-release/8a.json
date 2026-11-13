@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 44,
   "entries": {
     "538030": {
       "rank": 87,
@@ -281,6 +281,13 @@
       "estimate": "7k+",
       "name": "S.A.N.D.Y. - Beach Cleaner",
       "releaseDate": "2026-06-24",
+      "source": "tracked"
+    },
+    "4118360": {
+      "rank": 8193,
+      "estimate": "<7k",
+      "name": "100 Kingdom Cats",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4248870": {

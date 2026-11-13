@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 33,
   "entries": {
     "499180": {
       "rank": 937,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Desperate Gambling",
       "releaseDate": "2026-08-12",
+      "source": "tracked"
+    },
+    "4500020": {
+      "rank": 5251,
+      "estimate": "<7k",
+      "name": "Tie Down",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4725290": {

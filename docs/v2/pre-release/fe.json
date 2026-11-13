@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 39,
   "entries": {
     "773370": {
       "rank": 126,
@@ -237,6 +237,13 @@
       "estimate": "<7k",
       "name": "We Were Here Before",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "4529690": {
+      "rank": 4359,
+      "estimate": "<7k",
+      "name": "Cowgirl Milk Cafe",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4608760": {

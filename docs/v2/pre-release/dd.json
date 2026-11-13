@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 34,
   "entries": {
     "615530": {
       "rank": 223,
@@ -172,6 +172,13 @@
       "estimate": "<7k",
       "name": "SkyShard: City Battler",
       "releaseDate": "2026-05-25",
+      "source": "tracked"
+    },
+    "3957770": {
+      "rank": 4162,
+      "estimate": "<7k",
+      "name": "Hot Meals Fast Wheels",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4093240": {

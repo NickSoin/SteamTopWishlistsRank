@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 46,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 47,
   "entries": {
     "1039100": {
       "rank": 184,
@@ -317,6 +317,13 @@
       "estimate": "<7k",
       "name": "Wheelchair For Two",
       "releaseDate": "2026-08-18",
+      "source": "tracked"
+    },
+    "4908560": {
+      "rank": 4701,
+      "estimate": "<7k",
+      "name": "Setter: Volleyball Manager 27",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4922630": {

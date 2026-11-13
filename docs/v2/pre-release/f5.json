@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 48,
   "entries": {
     "458430": {
       "rank": 911,
@@ -312,6 +312,13 @@
       "estimate": "<7k",
       "name": "Tachyon Fire",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "4767130": {
+      "rank": 2767,
+      "estimate": "7k+",
+      "name": "King in the Mountain",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4935210": {

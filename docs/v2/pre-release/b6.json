@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 43,
   "entries": {
     "780310": {
       "rank": 16,
@@ -238,6 +238,13 @@
       "name": "Rain98",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "3555210": {
+      "rank": 4566,
+      "estimate": "<7k",
+      "name": "Beekeeper Simulator",
+      "releaseDate": "2026-11-13",
+      "source": "tracked"
     },
     "3689210": {
       "rank": 3678,

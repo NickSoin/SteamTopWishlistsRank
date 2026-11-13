@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 38,
   "entries": {
     "1118300": {
       "rank": 3661,
@@ -185,6 +185,13 @@
       "name": "100 Korea Cats",
       "releaseDate": "2024-12-15",
       "source": "historical"
+    },
+    "3810510": {
+      "rank": 486,
+      "estimate": "80k+",
+      "name": "DERELIKT",
+      "releaseDate": "2026-11-13",
+      "source": "tracked"
     },
     "3828610": {
       "rank": 1261,

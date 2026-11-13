@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 41,
   "entries": {
     "928000": {
       "rank": 773,
@@ -284,6 +284,13 @@
       "estimate": "15k+",
       "name": "Porthole - Local Port Sharing",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "5373210": {
+      "rank": 3923,
+      "estimate": "<7k",
+      "name": "Arteria",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     }
   }

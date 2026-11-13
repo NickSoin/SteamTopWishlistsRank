@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 44,
   "entries": {
     "751780": {
       "rank": 21,
@@ -307,6 +307,13 @@
       "estimate": "<7k",
       "name": "Sushi Courier!",
       "releaseDate": "2026-06-07",
+      "source": "tracked"
+    },
+    "5185890": {
+      "rank": 474,
+      "estimate": "80k+",
+      "name": "Zombies Aren't Real",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 36,
   "entries": {
     "1209470": {
       "rank": 50,
@@ -235,6 +235,13 @@
       "estimate": "<7k",
       "name": "What The Dog Remembers",
       "releaseDate": "2026-10-20",
+      "source": "tracked"
+    },
+    "4601260": {
+      "rank": 6678,
+      "estimate": "<7k",
+      "name": "The House Always Wins",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4664030": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 31,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 32,
   "entries": {
     "954850": {
       "rank": 6,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "IRON SOL",
       "releaseDate": "2026-11-02",
+      "source": "tracked"
+    },
+    "5295330": {
+      "rank": 1918,
+      "estimate": "15k+",
+      "name": "Water TD",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     }
   }

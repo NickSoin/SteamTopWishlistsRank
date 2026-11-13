@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 36,
   "entries": {
     "610370": {
       "rank": 18,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "Empty The Lake!",
       "releaseDate": "2026-10-22",
+      "source": "tracked"
+    },
+    "5375890": {
+      "rank": 4468,
+      "estimate": "<7k",
+      "name": "Sort Them Dice",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     }
   }

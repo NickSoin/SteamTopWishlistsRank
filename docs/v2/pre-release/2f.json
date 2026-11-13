@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T13:41:34.707Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-13T21:42:26.745Z",
+  "entryCount": 44,
   "entries": {
     "787510": {
       "rank": 1631,
@@ -168,6 +168,13 @@
       "name": "Sniper Killer",
       "releaseDate": "2024-10-17",
       "source": "historical"
+    },
+    "2498890": {
+      "rank": 1916,
+      "estimate": "15k+",
+      "name": "BOOM! Buster",
+      "releaseDate": "2026-11-13",
+      "source": "tracked"
     },
     "2506890": {
       "rank": 1729,
