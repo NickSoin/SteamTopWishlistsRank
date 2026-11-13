@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T01:34:20.128Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-13T13:41:34.707Z",
+  "entryCount": 41,
   "entries": {
     "774801": {
       "rank": 157,
@@ -277,6 +277,13 @@
       "estimate": "<7k",
       "name": "Fantasy Grounds - Dungeons & Dragons Ravenloft The Horrors Within",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4628830": {
+      "rank": 4236,
+      "estimate": "<7k",
+      "name": "Heroine's Battle Arena: The Colosseum of Humiliation",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4782370": {

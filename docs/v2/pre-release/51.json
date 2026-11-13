@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T01:34:20.128Z",
-  "entryCount": 49,
+  "updatedAt": "2026-11-13T13:41:34.707Z",
+  "entryCount": 50,
   "entries": {
     "467740": {
       "rank": 10,
@@ -347,6 +347,13 @@
       "estimate": "25k+",
       "name": "Jeffrey Eggstein",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "4880820": {
+      "rank": 3774,
+      "estimate": "<7k",
+      "name": "疾风群侠传",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T01:34:20.128Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-13T13:41:34.707Z",
+  "entryCount": 40,
   "entries": {
     "485400": {
       "rank": 112,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "Isolation Edge",
       "releaseDate": "2026-09-30",
+      "source": "tracked"
+    },
+    "4599880": {
+      "rank": 1640,
+      "estimate": "15k+",
+      "name": "Grandma Left Me A Building",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4642720": {

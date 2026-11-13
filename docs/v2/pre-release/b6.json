@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T01:34:20.128Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-13T13:41:34.707Z",
+  "entryCount": 42,
   "entries": {
     "780310": {
       "rank": 16,
@@ -279,6 +279,13 @@
       "estimate": "<7k",
       "name": "Valkyrie Tune: Synthesis of Souls",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "4337080": {
+      "rank": 7393,
+      "estimate": "<7k",
+      "name": "Draconite",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4386170": {

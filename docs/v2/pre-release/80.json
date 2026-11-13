@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T01:34:20.128Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-13T13:41:34.707Z",
+  "entryCount": 48,
   "entries": {
     "1112390": {
       "rank": 3117,
@@ -324,6 +324,13 @@
       "estimate": "<7k",
       "name": "Dolly's Breeding Party",
       "releaseDate": "2026-10-30",
+      "source": "tracked"
+    },
+    "5040220": {
+      "rank": 2161,
+      "estimate": "7k+",
+      "name": "HoloCozy",
+      "releaseDate": "2026-11-12",
       "source": "tracked"
     },
     "5072430": {

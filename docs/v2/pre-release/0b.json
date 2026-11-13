@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T01:34:20.128Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-13T13:41:34.707Z",
+  "entryCount": 38,
   "entries": {
     "779340": {
       "rank": 5,
@@ -261,6 +261,13 @@
       "estimate": "<7k",
       "name": "Farm Factory Simulator",
       "releaseDate": "2026-07-16",
+      "source": "tracked"
+    },
+    "4839040": {
+      "rank": 3731,
+      "estimate": "<7k",
+      "name": "X-Keepers",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     }
   }

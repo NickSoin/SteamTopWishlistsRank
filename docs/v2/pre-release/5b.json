@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T01:34:20.128Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-13T13:41:34.707Z",
+  "entryCount": 35,
   "entries": {
     "897730": {
       "rank": 9,
@@ -163,6 +163,13 @@
       "estimate": "80k+",
       "name": "American Truck Simulator - Road Trip: Ford",
       "releaseDate": "2026-09-29",
+      "source": "tracked"
+    },
+    "3999510": {
+      "rank": 4742,
+      "estimate": "<7k",
+      "name": "Siren's Well 2",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4080220": {

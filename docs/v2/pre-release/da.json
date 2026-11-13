@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T01:34:20.128Z",
-  "entryCount": 29,
+  "updatedAt": "2026-11-13T13:41:34.707Z",
+  "entryCount": 31,
   "entries": {
     "721180": {
       "rank": 29,
@@ -137,6 +137,13 @@
       "releaseDate": "2024-08-05",
       "source": "historical"
     },
+    "2439500": {
+      "rank": 3323,
+      "estimate": "<7k",
+      "name": "Overhours",
+      "releaseDate": "2026-11-12",
+      "source": "tracked"
+    },
     "2832400": {
       "rank": 1942,
       "estimate": "15k+",
@@ -198,6 +205,13 @@
       "estimate": "80k+",
       "name": "WE ARE SO DEAD",
       "releaseDate": "2026-08-17",
+      "source": "tracked"
+    },
+    "4943870": {
+      "rank": 2288,
+      "estimate": "7k+",
+      "name": "The Demon King's Reclusive Strategist",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "5159810": {
