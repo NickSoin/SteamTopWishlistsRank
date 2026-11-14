@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-14T07:15:17.199Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-14T16:42:39.134Z",
+  "entryCount": 48,
   "entries": {
     "730430": {
       "rank": 1072,
@@ -193,6 +193,13 @@
       "estimate": "40k+",
       "name": "Rune Dice",
       "releaseDate": "2026-05-19",
+      "source": "tracked"
+    },
+    "3552240": {
+      "rank": 5801,
+      "estimate": "<7k",
+      "name": "LEGRADA",
+      "releaseDate": "2026-11-14",
       "source": "tracked"
     },
     "3740010": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-14T07:15:17.199Z",
-  "entryCount": 50,
+  "updatedAt": "2026-11-14T16:42:39.134Z",
+  "entryCount": 51,
   "entries": {
     "467740": {
       "rank": 10,
@@ -354,6 +354,13 @@
       "estimate": "<7k",
       "name": "疾风群侠传",
       "releaseDate": "2026-11-12",
+      "source": "tracked"
+    },
+    "5356830": {
+      "rank": 2662,
+      "estimate": "7k+",
+      "name": "GRAND TIDDY ADVENTURES 🚨",
+      "releaseDate": "2026-11-14",
       "source": "tracked"
     }
   }
