@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T21:42:26.745Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-14T07:15:17.199Z",
+  "entryCount": 35,
   "entries": {
     "803330": {
       "rank": 19,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Incrempire",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4382510": {
+      "rank": 4685,
+      "estimate": "<7k",
+      "name": "Monster Girls Dice Board",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4626300": {

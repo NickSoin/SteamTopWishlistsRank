@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-13T21:42:26.745Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-14T07:15:17.199Z",
+  "entryCount": 33,
   "entries": {
     "581660": {
       "rank": 122,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Gunsmith Simulator - Heavy Metal DLC",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "4369110": {
+      "rank": 9858,
+      "estimate": "<7k",
+      "name": "DEMØNS GATE & Paintball Ops",
+      "releaseDate": "2026-11-13",
       "source": "tracked"
     },
     "4435420": {

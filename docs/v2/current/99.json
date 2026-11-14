@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-13T21:42:26.745Z",
-  "entryCount": 17,
+  "updatedAt": "2026-11-14T07:15:17.199Z",
+  "entryCount": 18,
   "entries": {
     "311810": {
       "rank": 219,
@@ -10,27 +10,27 @@
       "name": "Operation: Black Mesa"
     },
     "1478260": {
-      "rank": 4602,
+      "rank": 4606,
       "estimate": "<7k",
       "name": "City of Rampage"
     },
     "1556850": {
-      "rank": 4979,
+      "rank": 4988,
       "estimate": "<7k",
       "name": "The Lunar Effect"
     },
     "1590430": {
-      "rank": 644,
+      "rank": 646,
       "estimate": "40k+",
       "name": "Snow Daze: Redaze"
     },
     "1773220": {
-      "rank": 1927,
+      "rank": 1929,
       "estimate": "15k+",
       "name": "Train Mechanic Simulator 2025"
     },
     "1841660": {
-      "rank": 3297,
+      "rank": 3298,
       "estimate": "<7k",
       "name": "nanos world™"
     },
@@ -40,32 +40,32 @@
       "name": "Rooted"
     },
     "2622460": {
-      "rank": 4364,
+      "rank": 4366,
       "estimate": "<7k",
       "name": "The Skyland Chronicles"
     },
     "3122910": {
-      "rank": 2836,
+      "rank": 2840,
       "estimate": "7k+",
       "name": "My AI Girlfriend"
     },
     "3235670": {
-      "rank": 2679,
+      "rank": 2674,
       "estimate": "7k+",
       "name": "April 8th"
     },
     "3302370": {
-      "rank": 4624,
+      "rank": 4626,
       "estimate": "<7k",
       "name": "Crux Diaries RPG"
     },
     "3346460": {
-      "rank": 5332,
+      "rank": 5338,
       "estimate": "<7k",
       "name": "Pottering"
     },
     "3979370": {
-      "rank": 5218,
+      "rank": 5197,
       "estimate": "<7k",
       "name": "Shit-Stealing Gnomes"
     },
@@ -85,9 +85,14 @@
       "name": "Money Under the Bed"
     },
     "4811080": {
-      "rank": 5798,
+      "rank": 5699,
       "estimate": "<7k",
       "name": "No Visitors Allowed"
+    },
+    "5449310": {
+      "rank": 5730,
+      "estimate": "<7k",
+      "name": "High Wizards"
     }
   }
 }
