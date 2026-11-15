@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-15T00:22:57.376Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-15T07:15:17.969Z",
+  "entryCount": 35,
   "entries": {
     "990630": {
       "rank": 139,
@@ -230,6 +230,13 @@
       "estimate": "7k+",
       "name": "Noa and the Bandits' Den",
       "releaseDate": "2026-11-06",
+      "source": "tracked"
+    },
+    "4673230": {
+      "rank": 5442,
+      "estimate": "<7k",
+      "name": "Breeze Of Adventure",
+      "releaseDate": "2026-11-14",
       "source": "tracked"
     },
     "4681420": {

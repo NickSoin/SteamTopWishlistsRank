@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-15T00:22:57.376Z",
-  "entryCount": 29,
+  "updatedAt": "2026-11-15T07:15:17.969Z",
+  "entryCount": 30,
   "entries": {
     "867660": {
       "rank": 651,
@@ -82,6 +82,13 @@
       "name": "Two Months of Devil King",
       "releaseDate": "2023-09-26",
       "source": "historical"
+    },
+    "2011180": {
+      "rank": 4536,
+      "estimate": "<7k",
+      "name": "Terminus Historia",
+      "releaseDate": "2026-11-14",
+      "source": "tracked"
     },
     "2014550": {
       "rank": 1133,

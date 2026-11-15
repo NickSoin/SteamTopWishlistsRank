@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-15T00:22:57.376Z",
-  "entryCount": 22,
+  "updatedAt": "2026-11-15T07:15:17.969Z",
+  "entryCount": 23,
   "entries": {
     "969330": {
       "rank": 718,
@@ -10,12 +10,12 @@
       "name": "The Way of Wrath"
     },
     "997090": {
-      "rank": 2711,
+      "rank": 2714,
       "estimate": "7k+",
       "name": "TheFlagship"
     },
     "1193170": {
-      "rank": 1836,
+      "rank": 1839,
       "estimate": "15k+",
       "name": "DEFICIT"
     },
@@ -25,7 +25,7 @@
       "name": "Cannon Foundry Simulator"
     },
     "1669970": {
-      "rank": 1276,
+      "rank": 1279,
       "estimate": "25k+",
       "name": "Spellhearts"
     },
@@ -35,7 +35,7 @@
       "name": "KVLT"
     },
     "2363330": {
-      "rank": 2825,
+      "rank": 2827,
       "estimate": "7k+",
       "name": "Witch World"
     },
@@ -45,7 +45,7 @@
       "name": "Drakantos"
     },
     "2972820": {
-      "rank": 5269,
+      "rank": 5238,
       "estimate": "<7k",
       "name": "Vice: Magic City Mayhem"
     },
@@ -55,12 +55,12 @@
       "name": "Substructure"
     },
     "3024120": {
-      "rank": 4596,
+      "rank": 4560,
       "estimate": "<7k",
       "name": "Eletta"
     },
     "3194520": {
-      "rank": 3100,
+      "rank": 3101,
       "estimate": "<7k",
       "name": "HALLELUJAH!"
     },
@@ -70,7 +70,7 @@
       "name": "Haunted by Femboy"
     },
     "3258590": {
-      "rank": 2365,
+      "rank": 2367,
       "estimate": "7k+",
       "name": "Void Dungeon"
     },
@@ -80,7 +80,7 @@
       "name": "Raiders Rise"
     },
     "3377200": {
-      "rank": 4742,
+      "rank": 4749,
       "estimate": "<7k",
       "name": "Dragon Lands"
     },
@@ -90,29 +90,34 @@
       "name": "Acrolyte"
     },
     "3720060": {
-      "rank": 5183,
+      "rank": 5185,
       "estimate": "<7k",
       "name": "CONDEMNED: Nightfall"
     },
     "3776070": {
-      "rank": 3730,
+      "rank": 3697,
       "estimate": "<7k",
       "name": "Noctheria"
     },
     "4035190": {
-      "rank": 3003,
+      "rank": 3008,
       "estimate": "<7k",
       "name": "Vampirium: 1997"
     },
     "4526760": {
-      "rank": 2966,
+      "rank": 2969,
       "estimate": "7k+",
       "name": "Online Boxing 3D"
     },
     "4996280": {
-      "rank": 5502,
+      "rank": 5506,
       "estimate": "<7k",
       "name": "I_NORI"
+    },
+    "5517930": {
+      "rank": 5791,
+      "estimate": "<7k",
+      "name": "Kick Rocks"
     }
   }
 }

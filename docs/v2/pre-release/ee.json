@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-15T00:22:57.376Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-15T07:15:17.969Z",
+  "entryCount": 42,
   "entries": {
     "889910": {
       "rank": 531,
@@ -208,6 +208,13 @@
       "name": "RimWorld - Odyssey",
       "releaseDate": "2025-07-11",
       "source": "historical"
+    },
+    "3030560": {
+      "rank": 739,
+      "estimate": "40k+",
+      "name": "Sloppy Forgeries",
+      "releaseDate": "2026-11-13",
+      "source": "tracked"
     },
     "3037060": {
       "rank": 2305,
