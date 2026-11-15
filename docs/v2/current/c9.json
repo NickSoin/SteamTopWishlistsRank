@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-14T16:42:39.134Z",
-  "entryCount": 20,
+  "updatedAt": "2026-11-15T00:22:57.376Z",
+  "entryCount": 21,
   "entries": {
     "1521250": {
-      "rank": 3586,
+      "rank": 3595,
       "estimate": "<7k",
       "name": "Offroad Delivery Service"
     },
     "1602300": {
-      "rank": 1553,
+      "rank": 1554,
       "estimate": "15k+",
       "name": "The Grotto Diary"
     },
     "2009160": {
-      "rank": 5199,
+      "rank": 5203,
       "estimate": "<7k",
       "name": "System Purge: Hollow Point"
     },
     "2121640": {
-      "rank": 2629,
+      "rank": 2612,
       "estimate": "7k+",
       "name": "The War in Chiapas"
     },
     "2301240": {
-      "rank": 1400,
+      "rank": 1399,
       "estimate": "25k+",
       "name": "Mutter"
     },
     "2357610": {
-      "rank": 4871,
+      "rank": 4877,
       "estimate": "<7k",
       "name": "Wrestle Story"
     },
     "2616100": {
-      "rank": 803,
+      "rank": 804,
       "estimate": "40k+",
       "name": "The Plague Lords: Black Death"
     },
@@ -45,64 +45,69 @@
       "name": "Untitled John Wick Game"
     },
     "2959830": {
-      "rank": 4988,
+      "rank": 4994,
       "estimate": "<7k",
       "name": "Sausage Legend: Arena"
     },
     "2994190": {
-      "rank": 1299,
+      "rank": 1300,
       "estimate": "25k+",
       "name": "Money Simulator"
     },
     "3115480": {
-      "rank": 2945,
+      "rank": 2943,
       "estimate": "7k+",
       "name": "Diviner"
     },
     "3330890": {
-      "rank": 2938,
+      "rank": 2942,
       "estimate": "7k+",
       "name": "Shiver"
     },
     "3562370": {
-      "rank": 4450,
+      "rank": 4452,
       "estimate": "<7k",
       "name": "Tony The Mole"
     },
     "3567980": {
-      "rank": 2640,
+      "rank": 2646,
       "estimate": "7k+",
       "name": "Stan's Workshop"
     },
     "3973220": {
-      "rank": 3706,
+      "rank": 3707,
       "estimate": "<7k",
       "name": "Cruise Control"
     },
     "4198840": {
-      "rank": 1910,
+      "rank": 1912,
       "estimate": "15k+",
       "name": "GlagStone"
     },
     "4320430": {
-      "rank": 3257,
+      "rank": 3259,
       "estimate": "<7k",
       "name": "Lunar Chrysalis"
     },
     "4346690": {
-      "rank": 638,
+      "rank": 639,
       "estimate": "40k+",
       "name": "Genigods: Nezha"
     },
     "4999230": {
-      "rank": 4884,
+      "rank": 4886,
       "estimate": "<7k",
       "name": "Plushy's Playground: Into the Slide"
     },
     "5217720": {
-      "rank": 2480,
+      "rank": 2476,
       "estimate": "7k+",
       "name": "VOID - Eight Lives Left"
+    },
+    "5509160": {
+      "rank": 5630,
+      "estimate": "<7k",
+      "name": "Athran"
     }
   }
 }

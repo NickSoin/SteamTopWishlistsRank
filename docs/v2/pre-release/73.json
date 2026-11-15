@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-14T16:42:39.134Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-15T00:22:57.376Z",
+  "entryCount": 35,
   "entries": {
     "427940": {
       "rank": 24,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "CYBER92 DATAWAR",
       "releaseDate": "2026-07-09",
+      "source": "tracked"
+    },
+    "5006850": {
+      "rank": 2846,
+      "estimate": "7k+",
+      "name": "MECCHA HORROR",
+      "releaseDate": "2026-11-14",
       "source": "tracked"
     },
     "5119400": {

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-14T16:42:39.134Z",
-  "entryCount": 21,
+  "updatedAt": "2026-11-15T00:22:57.376Z",
+  "entryCount": 22,
   "entries": {
     "1651400": {
-      "rank": 3531,
+      "rank": 3539,
       "estimate": "<7k",
       "name": "Touhou: the Unreachable Oneiroborder"
     },
     "1847180": {
-      "rank": 1745,
+      "rank": 1751,
       "estimate": "15k+",
       "name": "MORTAL CRUX"
     },
@@ -20,13 +20,13 @@
       "name": "Engines Of Destruction"
     },
     "2446760": {
-      "rank": 2372,
+      "rank": 2375,
       "estimate": "7k+",
       "name": "YASUKE: A Lost Descendant"
     },
     "2707670": {
-      "rank": 1500,
-      "estimate": "25k+",
+      "rank": 1502,
+      "estimate": "15k+",
       "name": "SCP: Valravn"
     },
     "2710740": {
@@ -35,12 +35,12 @@
       "name": "Lost Legions"
     },
     "2850600": {
-      "rank": 5352,
+      "rank": 5358,
       "estimate": "<7k",
       "name": "Mystical Tactics"
     },
     "2867800": {
-      "rank": 2285,
+      "rank": 2287,
       "estimate": "7k+",
       "name": "DEPERSON"
     },
@@ -55,14 +55,19 @@
       "name": "Rescue Ops: Wildfire"
     },
     "2975130": {
-      "rank": 4124,
+      "rank": 4125,
       "estimate": "<7k",
       "name": "ULTRA MUSHROOM"
     },
     "3045070": {
-      "rank": 3419,
+      "rank": 3340,
       "estimate": "<7k",
       "name": "MetalMercs"
+    },
+    "3071860": {
+      "rank": 5833,
+      "estimate": "<7k",
+      "name": "WARAG"
     },
     "3144760": {
       "rank": 4547,
@@ -70,42 +75,42 @@
       "name": "Serpentine Shadows and the Joys of Vengeance"
     },
     "3235000": {
-      "rank": 1204,
+      "rank": 1206,
       "estimate": "25k+",
       "name": "Kagura Survivors x Summer Memories"
     },
     "3357160": {
-      "rank": 4037,
+      "rank": 4040,
       "estimate": "<7k",
       "name": "HOLLOW MIRE"
     },
     "3776020": {
-      "rank": 4880,
+      "rank": 4885,
       "estimate": "<7k",
       "name": "Card Make Arena"
     },
     "3780520": {
-      "rank": 4735,
+      "rank": 4741,
       "estimate": "<7k",
       "name": "Mercy Incore"
     },
     "3925750": {
-      "rank": 1374,
+      "rank": 1373,
       "estimate": "25k+",
       "name": "Generic Fighter Maybe"
     },
     "4007000": {
-      "rank": 2369,
+      "rank": 2370,
       "estimate": "7k+",
       "name": "Derby Creek"
     },
     "4952760": {
-      "rank": 5457,
+      "rank": 5463,
       "estimate": "<7k",
       "name": "Modulink"
     },
     "5272700": {
-      "rank": 4060,
+      "rank": 4023,
       "estimate": "<7k",
       "name": "PAWSHOT"
     }
