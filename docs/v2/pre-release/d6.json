@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 53,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 54,
   "entries": {
     "1067360": {
       "rank": 130,
@@ -300,6 +300,13 @@
       "estimate": "<7k",
       "name": "The Reflection",
       "releaseDate": "2026-10-23",
+      "source": "tracked"
+    },
+    "4321920": {
+      "rank": 4124,
+      "estimate": "<7k",
+      "name": "Topdeck Automat",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "4340820": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 41,
   "entries": {
     "716350": {
       "rank": 688,
@@ -288,6 +288,13 @@
       "estimate": "<7k",
       "name": "Swish Ball Clicker",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "5022940": {
+      "rank": 4618,
+      "estimate": "<7k",
+      "name": "Accursed",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     }
   }

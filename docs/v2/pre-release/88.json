@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 33,
   "entries": {
     "900040": {
       "rank": 60,
@@ -108,6 +108,13 @@
       "name": "Operation: Polygon Storm",
       "releaseDate": "2024-08-12",
       "source": "historical"
+    },
+    "2321960": {
+      "rank": 400,
+      "estimate": "80k+",
+      "name": "Spirit Crossing",
+      "releaseDate": "2026-11-16",
+      "source": "tracked"
     },
     "2808270": {
       "rank": 1457,

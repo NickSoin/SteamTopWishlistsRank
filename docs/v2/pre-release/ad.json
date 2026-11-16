@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 50,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 51,
   "entries": {
     "658920": {
       "rank": 716,
@@ -345,6 +345,13 @@
       "estimate": "7k+",
       "name": "Put Your Toys Away Together!",
       "releaseDate": "2026-10-30",
+      "source": "tracked"
+    },
+    "5066010": {
+      "rank": 1444,
+      "estimate": "25k+",
+      "name": "Here Comes the Horde",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "5195600": {

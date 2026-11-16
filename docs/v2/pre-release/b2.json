@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 37,
   "entries": {
     "761830": {
       "rank": 31,
@@ -247,6 +247,20 @@
       "estimate": "<7k",
       "name": "Brand of Betrayal",
       "releaseDate": "2026-10-30",
+      "source": "tracked"
+    },
+    "5200620": {
+      "rank": 523,
+      "estimate": "40k+",
+      "name": "Dungeonbound",
+      "releaseDate": "2026-11-16",
+      "source": "tracked"
+    },
+    "5451260": {
+      "rank": 3610,
+      "estimate": "<7k",
+      "name": "Code Market",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     }
   }

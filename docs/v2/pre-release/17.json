@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 37,
   "entries": {
     "950620": {
       "rank": 254,
@@ -232,6 +232,13 @@
       "estimate": "<7k",
       "name": "Wink Out",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "4171850": {
+      "rank": 176,
+      "estimate": "200k+",
+      "name": "Trees Hate You",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "4194550": {

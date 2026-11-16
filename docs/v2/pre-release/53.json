@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 31,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 32,
   "entries": {
     "883230": {
       "rank": 1500,
@@ -179,6 +179,13 @@
       "estimate": "40k+",
       "name": "AURA 2: Lust of the Gods",
       "releaseDate": "2026-10-30",
+      "source": "tracked"
+    },
+    "4178790": {
+      "rank": 1917,
+      "estimate": "15k+",
+      "name": "Clicky Islands",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "4190240": {

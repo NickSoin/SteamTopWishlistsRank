@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 40,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -275,6 +275,13 @@
       "estimate": "<7k",
       "name": "Boring Car Stories - Maghrebine des transports et logistique",
       "releaseDate": "2026-08-18",
+      "source": "tracked"
+    },
+    "5185750": {
+      "rank": 345,
+      "estimate": "80k+",
+      "name": "Trafficity",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     }
   }

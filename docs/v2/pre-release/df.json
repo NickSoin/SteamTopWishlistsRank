@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 38,
   "entries": {
     "990080": {
       "rank": 1,
@@ -235,6 +235,13 @@
       "estimate": "300k+",
       "name": "Crimson Moon",
       "releaseDate": "2026-09-01",
+      "source": "tracked"
+    },
+    "4444800": {
+      "rank": 1385,
+      "estimate": "25k+",
+      "name": "Obey Me! Sinner's Choice: Lucifer",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "4516880": {

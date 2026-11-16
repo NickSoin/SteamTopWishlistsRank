@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 36,
   "entries": {
     "1170080": {
       "rank": 986,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "Night Record: Thin Walls",
       "releaseDate": "2026-09-19",
+      "source": "tracked"
+    },
+    "4885910": {
+      "rank": 5203,
+      "estimate": "<7k",
+      "name": "How to grow a man : Turning Chumps to Hunks",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     }
   }

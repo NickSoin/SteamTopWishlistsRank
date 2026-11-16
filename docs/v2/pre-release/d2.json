@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 33,
   "entries": {
     "954850": {
       "rank": 6,
@@ -184,6 +184,13 @@
       "estimate": "7k+",
       "name": "Chivalware",
       "releaseDate": "2026-11-05",
+      "source": "tracked"
+    },
+    "3607230": {
+      "rank": 2737,
+      "estimate": "7k+",
+      "name": "Ridiculous Space Battles",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "4177730": {

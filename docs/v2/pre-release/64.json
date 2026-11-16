@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 31,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 32,
   "entries": {
     "808010": {
       "rank": 992,
@@ -219,6 +219,13 @@
       "estimate": "<7k",
       "name": "Apotheosis Engine",
       "releaseDate": "2026-11-11",
+      "source": "tracked"
+    },
+    "5203560": {
+      "rank": 4402,
+      "estimate": "<7k",
+      "name": "Rock and Found",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     }
   }

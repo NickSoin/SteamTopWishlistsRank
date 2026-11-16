@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 42,
   "entries": {
     "290100": {
       "rank": 249,
@@ -256,6 +256,13 @@
       "estimate": "7k+",
       "name": "Easy Red 2: Blood on the Danube",
       "releaseDate": "2026-07-15",
+      "source": "tracked"
+    },
+    "4593380": {
+      "rank": 3253,
+      "estimate": "<7k",
+      "name": "Ikemen Big Bang: A Dating Game About Potentially Hot Guys",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "4631200": {

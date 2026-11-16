@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 31,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 32,
   "entries": {
     "819190": {
       "rank": 3,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Folk-Tography",
       "releaseDate": "2026-10-20",
+      "source": "tracked"
+    },
+    "5016130": {
+      "rank": 4364,
+      "estimate": "<7k",
+      "name": "Warpack",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     }
   }

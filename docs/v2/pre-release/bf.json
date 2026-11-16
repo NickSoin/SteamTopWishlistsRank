@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 37,
   "entries": {
     "482400": {
       "rank": 6,
@@ -212,6 +212,13 @@
       "estimate": "40k+",
       "name": "Frutiger Home",
       "releaseDate": "2026-09-28",
+      "source": "tracked"
+    },
+    "4303400": {
+      "rank": 9784,
+      "estimate": "<7k",
+      "name": "Bun G Bop",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "4579890": {

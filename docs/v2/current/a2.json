@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 20,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 21,
   "entries": {
     "709010": {
-      "rank": 5394,
+      "rank": 5382,
       "estimate": "<7k",
       "name": "Offroad Transport Simulator"
     },
     "762000": {
-      "rank": 5306,
+      "rank": 5288,
       "estimate": "<7k",
       "name": "Witches Craft"
     },
     "1085830": {
-      "rank": 2309,
+      "rank": 2308,
       "estimate": "7k+",
       "name": "Knights of Frontier Valley"
     },
     "1540720": {
-      "rank": 325,
+      "rank": 324,
       "estimate": "80k+",
       "name": "Forgery Craft"
     },
@@ -30,7 +30,7 @@
       "name": "WRONGED US"
     },
     "2363160": {
-      "rank": 2929,
+      "rank": 2920,
       "estimate": "7k+",
       "name": "Haphazard Angel"
     },
@@ -40,69 +40,74 @@
       "name": "JOIN US"
     },
     "3450900": {
-      "rank": 3732,
+      "rank": 3724,
       "estimate": "<7k",
       "name": "DOSMIC"
     },
     "3851600": {
-      "rank": 1586,
+      "rank": 1584,
       "estimate": "15k+",
       "name": "Pulsebreaker"
     },
     "4168190": {
-      "rank": 1786,
+      "rank": 1780,
       "estimate": "15k+",
       "name": "Crimson Banner: War of Liberation"
     },
     "4182190": {
-      "rank": 290,
+      "rank": 289,
       "estimate": "80k+",
       "name": "Too Deep To Quit"
     },
     "4226690": {
-      "rank": 3024,
+      "rank": 3014,
       "estimate": "<7k",
       "name": "Wishseeker"
     },
     "4247440": {
-      "rank": 3129,
+      "rank": 3122,
       "estimate": "<7k",
       "name": "Leafborn"
     },
     "4514070": {
-      "rank": 2965,
+      "rank": 2957,
       "estimate": "7k+",
       "name": "Barely Breathing"
     },
     "4789870": {
-      "rank": 1216,
+      "rank": 1206,
       "estimate": "25k+",
       "name": "Muv-Luv Girls Garden"
     },
     "4878790": {
-      "rank": 3500,
+      "rank": 3482,
       "estimate": "<7k",
       "name": "Anomaly Cafe"
     },
     "4881350": {
-      "rank": 1689,
+      "rank": 1683,
       "estimate": "15k+",
       "name": "I SHALL NAME THE DEAD"
     },
     "5036490": {
-      "rank": 2967,
+      "rank": 2959,
       "estimate": "7k+",
       "name": "System Shock VR"
     },
     "5348050": {
-      "rank": 5667,
+      "rank": 5578,
       "estimate": "<7k",
       "name": "Plantlife: Market Garden Simulator"
     },
     "5440820": {
-      "rank": 5382,
+      "rank": 5334,
       "estimate": "<7k",
       "name": "Scary Hot Dogs"
+    },
+    "5578020": {
+      "rank": 5817,
+      "estimate": "<7k",
+      "name": "Internet Cafe Simulator 3"
     }
   }
 }

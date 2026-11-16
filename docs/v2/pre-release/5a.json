@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 36,
   "entries": {
     "990630": {
       "rank": 139,
@@ -216,6 +216,13 @@
       "estimate": "25k+",
       "name": "Legion Was Here",
       "releaseDate": "2026-10-13",
+      "source": "tracked"
+    },
+    "3634320": {
+      "rank": 5212,
+      "estimate": "<7k",
+      "name": "NebulArena",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "3897080": {

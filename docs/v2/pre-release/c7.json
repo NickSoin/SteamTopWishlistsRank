@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 40,
   "entries": {
     "1119840": {
       "rank": 247,
@@ -261,6 +261,13 @@
       "estimate": "<7k",
       "name": "DEBRISVERSE",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "4483900": {
+      "rank": 2931,
+      "estimate": "7k+",
+      "name": "The Tower Must Fall",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "4540230": {

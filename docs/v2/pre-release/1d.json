@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 34,
   "entries": {
     "666150": {
       "rank": 48,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "Love n Life: Happy Student - Winter Embrace",
       "releaseDate": "2026-11-05",
+      "source": "tracked"
+    },
+    "5070970": {
+      "rank": 2140,
+      "estimate": "7k+",
+      "name": "Space Engineers - Warfare 3 Pack",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     }
   }

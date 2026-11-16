@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 41,
   "entries": {
     "536280": {
       "rank": 48,
@@ -228,6 +228,13 @@
       "releaseDate": "2026-07-16",
       "source": "tracked"
     },
+    "4242730": {
+      "rank": 5359,
+      "estimate": "<7k",
+      "name": "Sound System",
+      "releaseDate": "2026-11-16",
+      "source": "tracked"
+    },
     "4272610": {
       "rank": 4662,
       "estimate": "<7k",
@@ -275,6 +282,13 @@
       "estimate": "<7k",
       "name": "ゲイトトゥダイ",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "4878900": {
+      "rank": 2900,
+      "estimate": "7k+",
+      "name": "Net Worthless",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     }
   }

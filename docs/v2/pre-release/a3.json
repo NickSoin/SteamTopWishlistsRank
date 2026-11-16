@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T06:50:30.519Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-16T20:44:30.308Z",
+  "entryCount": 44,
   "entries": {
     "782250": {
       "rank": 368,
@@ -303,6 +303,13 @@
       "estimate": "<7k",
       "name": "VHS World '89",
       "releaseDate": "2026-10-16",
+      "source": "tracked"
+    },
+    "4957380": {
+      "rank": 4516,
+      "estimate": "<7k",
+      "name": "Demockracy",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     }
   }
