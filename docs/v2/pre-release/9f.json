@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T00:13:38.521Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-16T06:50:30.519Z",
+  "entryCount": 39,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -270,6 +270,13 @@
       "estimate": "<7k",
       "name": "再见犹丽迪茜",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "5318580": {
+      "rank": 2426,
+      "estimate": "7k+",
+      "name": "Jyoka -Castle town-",
+      "releaseDate": "2026-11-15",
       "source": "tracked"
     }
   }

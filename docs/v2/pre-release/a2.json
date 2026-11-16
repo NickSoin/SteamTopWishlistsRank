@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T00:13:38.521Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-16T06:50:30.519Z",
+  "entryCount": 46,
   "entries": {
     "406160": {
       "rank": 927,
@@ -284,6 +284,13 @@
       "estimate": "<7k",
       "name": "Click Build Repeat",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4574120": {
+      "rank": 9464,
+      "estimate": "<7k",
+      "name": "Civilization Idle",
+      "releaseDate": "2026-11-15",
       "source": "tracked"
     },
     "4726950": {
