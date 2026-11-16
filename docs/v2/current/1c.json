@@ -1,46 +1,46 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-15T17:17:02.581Z",
-  "entryCount": 23,
+  "updatedAt": "2026-11-16T00:13:38.521Z",
+  "entryCount": 24,
   "entries": {
     "1505310": {
-      "rank": 3825,
+      "rank": 3830,
       "estimate": "<7k",
       "name": "Risu"
     },
     "1794000": {
-      "rank": 2052,
+      "rank": 2055,
       "estimate": "7k+",
       "name": "Remnants of R'lyeh"
     },
     "1829140": {
-      "rank": 4050,
+      "rank": 4059,
       "estimate": "<7k",
       "name": "Resistance 204X"
     },
     "1911870": {
-      "rank": 4065,
+      "rank": 4069,
       "estimate": "<7k",
       "name": "Vaewolf"
     },
     "2145090": {
-      "rank": 2815,
+      "rank": 2818,
       "estimate": "7k+",
       "name": "Combustion"
     },
     "2249060": {
-      "rank": 1613,
+      "rank": 1616,
       "estimate": "15k+",
       "name": "Edenfall: Legacy of the First Wardens"
     },
     "2294970": {
-      "rank": 3148,
+      "rank": 3159,
       "estimate": "<7k",
       "name": "Viva"
     },
     "2474170": {
-      "rank": 5706,
+      "rank": 5711,
       "estimate": "<7k",
       "name": "Astral Rot"
     },
@@ -50,13 +50,13 @@
       "name": "IRONHIVE"
     },
     "2837690": {
-      "rank": 543,
+      "rank": 544,
       "estimate": "40k+",
       "name": "Dungeons & Dragons: Long Rest Tavern"
     },
     "3013600": {
-      "rank": 2000,
-      "estimate": "15k+",
+      "rank": 2001,
+      "estimate": "7k+",
       "name": "Age of Transport - Blue Marble"
     },
     "3102780": {
@@ -65,17 +65,17 @@
       "name": "C-Beams"
     },
     "3248310": {
-      "rank": 4472,
+      "rank": 4482,
       "estimate": "<7k",
       "name": "Karting of Banban"
     },
     "3282110": {
-      "rank": 1190,
+      "rank": 1192,
       "estimate": "25k+",
       "name": "Sakichan - Track Of Fury"
     },
     "3728900": {
-      "rank": 2372,
+      "rank": 2375,
       "estimate": "7k+",
       "name": "Nobility Simulator"
     },
@@ -85,32 +85,32 @@
       "name": "Bolt Action"
     },
     "4249000": {
-      "rank": 4003,
+      "rank": 4007,
       "estimate": "<7k",
       "name": "Stellar Freight: Endless Horizon"
     },
     "4549500": {
-      "rank": 1732,
+      "rank": 1734,
       "estimate": "15k+",
       "name": "Sleepover"
     },
     "4827950": {
-      "rank": 4062,
+      "rank": 4056,
       "estimate": "<7k",
       "name": "Steel Maiden"
     },
     "4937840": {
-      "rank": 3536,
+      "rank": 3544,
       "estimate": "<7k",
       "name": "Agent Mirai Remastered"
     },
     "4982840": {
-      "rank": 3801,
+      "rank": 3766,
       "estimate": "<7k",
       "name": "Tidy Wizard: A Place For Every Plate"
     },
     "4996610": {
-      "rank": 3480,
+      "rank": 3476,
       "estimate": "<7k",
       "name": "SEVEN DAYS: Strange Locked-Room Life"
     },
@@ -118,6 +118,11 @@
       "rank": 968,
       "estimate": "40k+",
       "name": "Sid Meier's Civilization® VII: Earthrise"
+    },
+    "5282710": {
+      "rank": 5836,
+      "estimate": "<7k",
+      "name": "Quiet Bloom"
     }
   }
 }

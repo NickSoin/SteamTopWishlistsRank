@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-15T17:17:02.581Z",
-  "entryCount": 21,
+  "updatedAt": "2026-11-16T00:13:38.521Z",
+  "entryCount": 22,
   "entries": {
     "937450": {
-      "rank": 902,
+      "rank": 905,
       "estimate": "40k+",
       "name": "Metropolisim"
     },
     "1327090": {
-      "rank": 3171,
+      "rank": 3176,
       "estimate": "<7k",
       "name": "Solar System Colonist"
     },
@@ -25,17 +25,17 @@
       "name": "The Wayward Realms"
     },
     "2116200": {
-      "rank": 5180,
+      "rank": 5186,
       "estimate": "<7k",
       "name": "ECO BREAKER"
     },
     "2220860": {
-      "rank": 759,
+      "rank": 761,
       "estimate": "40k+",
       "name": "TSURUGIHIME"
     },
     "2591960": {
-      "rank": 5708,
+      "rank": 5713,
       "estimate": "<7k",
       "name": "Hollow Bequest"
     },
@@ -45,7 +45,7 @@
       "name": "Chrono Odyssey"
     },
     "2994220": {
-      "rank": 3492,
+      "rank": 3496,
       "estimate": "<7k",
       "name": "Azaran: Islands of the Jinn"
     },
@@ -55,42 +55,47 @@
       "name": "Sil and the Fading World"
     },
     "3101780": {
-      "rank": 4752,
+      "rank": 4764,
       "estimate": "<7k",
       "name": "Starless Umbra"
     },
+    "3129900": {
+      "rank": 5820,
+      "estimate": "<7k",
+      "name": "Murmurs of Fear - A whisper of loneliness"
+    },
     "3177730": {
-      "rank": 3394,
+      "rank": 3400,
       "estimate": "<7k",
       "name": "Rottenroots"
     },
     "3539880": {
-      "rank": 5422,
+      "rank": 5426,
       "estimate": "<7k",
       "name": "Alchemia Rogue: Mia and the Mystery Labyrinth"
     },
     "3893230": {
-      "rank": 3425,
+      "rank": 3432,
       "estimate": "<7k",
       "name": "Bifröst: Prelude to the Storm"
     },
     "3996490": {
-      "rank": 4886,
+      "rank": 4892,
       "estimate": "<7k",
       "name": "Polly's Puzzle Box"
     },
     "4008790": {
-      "rank": 3914,
+      "rank": 3917,
       "estimate": "<7k",
       "name": "King's Courier"
     },
     "4040750": {
-      "rank": 3818,
+      "rank": 3820,
       "estimate": "<7k",
       "name": "Paradoxical"
     },
     "4085920": {
-      "rank": 3924,
+      "rank": 3893,
       "estimate": "<7k",
       "name": "AlterMage"
     },
@@ -100,12 +105,12 @@
       "name": "Ghost Lover"
     },
     "4422260": {
-      "rank": 4378,
+      "rank": 4380,
       "estimate": "<7k",
       "name": "Hakoniwa Electric"
     },
     "4839390": {
-      "rank": 745,
+      "rank": 747,
       "estimate": "40k+",
       "name": "Muse Dash 2"
     }

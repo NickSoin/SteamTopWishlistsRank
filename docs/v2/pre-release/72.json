@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-15T17:17:02.581Z",
-  "entryCount": 29,
+  "updatedAt": "2026-11-16T00:13:38.521Z",
+  "entryCount": 30,
   "entries": {
     "917820": {
       "rank": 7584,
@@ -161,6 +161,13 @@
       "name": "Malware",
       "releaseDate": "2024-07-31",
       "source": "historical"
+    },
+    "3917850": {
+      "rank": 2042,
+      "estimate": "7k+",
+      "name": "Football Referee Life Simulator 26",
+      "releaseDate": "2026-11-15",
+      "source": "tracked"
     },
     "3954460": {
       "rank": 2437,
