@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T20:44:30.308Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-17T08:17:51.145Z",
+  "entryCount": 42,
   "entries": {
     "830580": {
       "rank": 135,
@@ -214,6 +214,13 @@
       "estimate": "<7k",
       "name": "One Week Away",
       "releaseDate": "2026-10-23",
+      "source": "tracked"
+    },
+    "3938920": {
+      "rank": 9344,
+      "estimate": "<7k",
+      "name": "Birza",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "3989960": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T20:44:30.308Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-17T08:17:51.145Z",
+  "entryCount": 39,
   "entries": {
     "611360": {
       "rank": 243,
@@ -268,6 +268,13 @@
       "estimate": "<7k",
       "name": "Tenebrarium",
       "releaseDate": "2026-11-06",
+      "source": "tracked"
+    },
+    "5482350": {
+      "rank": 3423,
+      "estimate": "<7k",
+      "name": "Touhou Chess",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     }
   }

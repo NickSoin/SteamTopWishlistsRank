@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T20:44:30.308Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-17T08:17:51.145Z",
+  "entryCount": 35,
   "entries": {
     "666150": {
       "rank": 48,
@@ -142,6 +142,13 @@
       "estimate": "40k+",
       "name": "Cursemark",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "3738090": {
+      "rank": 4069,
+      "estimate": "<7k",
+      "name": "Deiity (Under Ice)",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "3748480": {

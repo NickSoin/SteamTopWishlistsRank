@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T20:44:30.308Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-17T08:17:51.145Z",
+  "entryCount": 40,
   "entries": {
     "894020": {
       "rank": 39,
@@ -230,6 +230,13 @@
       "estimate": "80k+",
       "name": "S.T.A.L.K.E.R. 2: Cost of Hope",
       "releaseDate": "2026-08-20",
+      "source": "tracked"
+    },
+    "3883050": {
+      "rank": 3712,
+      "estimate": "<7k",
+      "name": "Monkeys!¡",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "4071500": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T20:44:30.308Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-17T08:17:51.145Z",
+  "entryCount": 34,
   "entries": {
     "736590": {
       "rank": 75,
@@ -159,6 +159,13 @@
       "name": "Generation Exile",
       "releaseDate": "2026-04-17",
       "source": "historical"
+    },
+    "3188660": {
+      "rank": 719,
+      "estimate": "40k+",
+      "name": "Motocross The Game",
+      "releaseDate": "2026-11-16",
+      "source": "tracked"
     },
     "3693650": {
       "rank": 622,

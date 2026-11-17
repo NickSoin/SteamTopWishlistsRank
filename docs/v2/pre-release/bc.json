@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T20:44:30.308Z",
-  "entryCount": 23,
+  "updatedAt": "2026-11-17T08:17:51.145Z",
+  "entryCount": 24,
   "entries": {
     "368260": {
       "rank": 33,
@@ -137,6 +137,13 @@
       "estimate": "<7k",
       "name": "100 Sherwood Cats",
       "releaseDate": "2026-06-08",
+      "source": "tracked"
+    },
+    "4528040": {
+      "rank": 852,
+      "estimate": "40k+",
+      "name": "Sol One",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "4583960": {

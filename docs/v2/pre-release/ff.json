@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T20:44:30.308Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-17T08:17:51.145Z",
+  "entryCount": 46,
   "entries": {
     "553540": {
       "rank": 73,
@@ -291,6 +291,13 @@
       "estimate": "<7k",
       "name": "Lofi Cozy Room",
       "releaseDate": "2026-07-31",
+      "source": "tracked"
+    },
+    "4626680": {
+      "rank": 4752,
+      "estimate": "<7k",
+      "name": "STEEL GULLET",
+      "releaseDate": "2026-11-16",
       "source": "tracked"
     },
     "4678720": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-16T20:44:30.308Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-17T08:17:51.145Z",
+  "entryCount": 36,
   "entries": {
     "897730": {
       "rank": 9,
@@ -94,6 +94,13 @@
       "name": "Garden Buddies",
       "releaseDate": "2023-10-20",
       "source": "historical"
+    },
+    "2483700": {
+      "rank": 1333,
+      "estimate": "25k+",
+      "name": "HARMA",
+      "releaseDate": "2026-11-16",
+      "source": "tracked"
     },
     "2561440": {
       "rank": 588,
