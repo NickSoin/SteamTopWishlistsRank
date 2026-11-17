@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-17T08:17:51.145Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-17T19:26:05.490Z",
+  "entryCount": 40,
   "entries": {
     "473750": {
       "rank": 1164,
@@ -172,6 +172,13 @@
       "estimate": "80k+",
       "name": "The Witch's Bakery",
       "releaseDate": "2026-10-14",
+      "source": "tracked"
+    },
+    "3046540": {
+      "rank": 4504,
+      "estimate": "<7k",
+      "name": "10 Second Mixtape",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     },
     "3116230": {

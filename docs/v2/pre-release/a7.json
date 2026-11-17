@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-17T08:17:51.145Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-17T19:26:05.490Z",
+  "entryCount": 41,
   "entries": {
     "945770": {
       "rank": 169,
@@ -223,6 +223,13 @@
       "estimate": "40k+",
       "name": "Pizza House Simulator🍕",
       "releaseDate": "2026-08-19",
+      "source": "tracked"
+    },
+    "4193010": {
+      "rank": 926,
+      "estimate": "40k+",
+      "name": "Hypernet Explorer",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     },
     "4222910": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-17T08:17:51.145Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-17T19:26:05.490Z",
+  "entryCount": 37,
   "entries": {
     "666150": {
       "rank": 48,
@@ -207,6 +207,13 @@
       "releaseDate": "2026-08-03",
       "source": "tracked"
     },
+    "4546380": {
+      "rank": 4229,
+      "estimate": "<7k",
+      "name": "Zero Sum",
+      "releaseDate": "2026-11-17",
+      "source": "tracked"
+    },
     "4549590": {
       "rank": 7580,
       "estimate": "<7k",
@@ -240,6 +247,13 @@
       "estimate": "<7k",
       "name": "Love n Life: Happy Student - Winter Embrace",
       "releaseDate": "2026-11-05",
+      "source": "tracked"
+    },
+    "5012130": {
+      "rank": 4718,
+      "estimate": "<7k",
+      "name": "Pill & Chill",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     },
     "5070970": {

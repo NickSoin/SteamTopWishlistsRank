@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-17T08:17:51.145Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-17T19:26:05.490Z",
+  "entryCount": 35,
   "entries": {
     "499170": {
       "rank": 201,
@@ -240,6 +240,13 @@
       "estimate": "<7k",
       "name": "Internet Survivor Survivors",
       "releaseDate": "2026-08-16",
+      "source": "tracked"
+    },
+    "4771830": {
+      "rank": 3304,
+      "estimate": "<7k",
+      "name": "Angel Investor Simulator™",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     }
   }

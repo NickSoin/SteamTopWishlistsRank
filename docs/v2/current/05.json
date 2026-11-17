@@ -1,26 +1,31 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-17T08:17:51.145Z",
-  "entryCount": 16,
+  "updatedAt": "2026-11-17T19:26:05.490Z",
+  "entryCount": 17,
   "entries": {
     "971700": {
-      "rank": 1288,
+      "rank": 1287,
       "estimate": "25k+",
       "name": "ALARA Prime"
     },
     "1103610": {
-      "rank": 3195,
+      "rank": 3192,
       "estimate": "<7k",
       "name": "Sailor Simulator"
     },
     "1705720": {
-      "rank": 1819,
+      "rank": 1812,
       "estimate": "15k+",
       "name": "Aftermath"
     },
+    "1835670": {
+      "rank": 5829,
+      "estimate": "<7k",
+      "name": "Fall Up"
+    },
     "2078410": {
-      "rank": 5577,
+      "rank": 5573,
       "estimate": "<7k",
       "name": "Space Trucker"
     },
@@ -30,57 +35,57 @@
       "name": "Threads of Time"
     },
     "2133500": {
-      "rank": 5198,
+      "rank": 5189,
       "estimate": "<7k",
       "name": "Keep Those Bugs Away From the Bomb"
     },
     "2658740": {
-      "rank": 5408,
+      "rank": 5400,
       "estimate": "<7k",
       "name": "Island of Mine"
     },
     "2809120": {
-      "rank": 4626,
+      "rank": 4620,
       "estimate": "<7k",
       "name": "Red Snow"
     },
     "3081510": {
-      "rank": 454,
+      "rank": 452,
       "estimate": "80k+",
       "name": "Gang of Frogs"
     },
     "3100420": {
-      "rank": 5056,
+      "rank": 5047,
       "estimate": "<7k",
       "name": "The Fractured Shimmer"
     },
     "3144060": {
-      "rank": 2846,
+      "rank": 2844,
       "estimate": "7k+",
       "name": "World of the dead"
     },
     "3603020": {
-      "rank": 5248,
+      "rank": 5244,
       "estimate": "<7k",
       "name": "Auto Legends"
     },
     "3694420": {
-      "rank": 2140,
+      "rank": 2138,
       "estimate": "7k+",
       "name": "Voidwood"
     },
     "4050810": {
-      "rank": 2322,
+      "rank": 2312,
       "estimate": "7k+",
       "name": "Ichorous"
     },
     "4514310": {
-      "rank": 3111,
+      "rank": 3103,
       "estimate": "<7k",
       "name": "MOOSA: Dirty Fate"
     },
     "4623300": {
-      "rank": 995,
+      "rank": 994,
       "estimate": "40k+",
       "name": "Open Waters"
     }

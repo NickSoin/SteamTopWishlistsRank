@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-17T08:17:51.145Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-17T19:26:05.490Z",
+  "entryCount": 36,
   "entries": {
     "1063030": {
       "rank": 621,
@@ -230,6 +230,13 @@
       "estimate": "40k+",
       "name": "ShipShaper: Falconeer Chronicles",
       "releaseDate": "2026-09-02",
+      "source": "tracked"
+    },
+    "4349140": {
+      "rank": 3641,
+      "estimate": "<7k",
+      "name": "Traveloot",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     },
     "4834840": {

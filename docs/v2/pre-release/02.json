@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-17T08:17:51.145Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-17T19:26:05.490Z",
+  "entryCount": 42,
   "entries": {
     "844980": {
       "rank": 112,
@@ -268,6 +268,13 @@
       "estimate": "<7k",
       "name": "Birb",
       "releaseDate": "2026-10-02",
+      "source": "tracked"
+    },
+    "4380910": {
+      "rank": 4578,
+      "estimate": "<7k",
+      "name": "Unicorn Academy: Island of Magic",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     },
     "4509630": {

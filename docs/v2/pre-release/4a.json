@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-17T08:17:51.145Z",
-  "entryCount": 49,
+  "updatedAt": "2026-11-17T19:26:05.490Z",
+  "entryCount": 50,
   "entries": {
     "972450": {
       "rank": 4756,
@@ -351,6 +351,13 @@
       "estimate": "<7k",
       "name": "Crazy Neighbour",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "5375410": {
+      "rank": 1663,
+      "estimate": "15k+",
+      "name": "Link Loop",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     }
   }

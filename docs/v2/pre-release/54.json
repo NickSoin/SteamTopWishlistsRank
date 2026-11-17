@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-17T08:17:51.145Z",
-  "entryCount": 44,
+  "updatedAt": "2026-11-17T19:26:05.490Z",
+  "entryCount": 45,
   "entries": {
     "889750": {
       "rank": 90,
@@ -296,6 +296,13 @@
       "estimate": "200k+",
       "name": "Casualties: Unknown",
       "releaseDate": "2026-11-09",
+      "source": "tracked"
+    },
+    "4662700": {
+      "rank": 8124,
+      "estimate": "<7k",
+      "name": "Bounce On 2: Drallo's Demise",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     },
     "4668870": {

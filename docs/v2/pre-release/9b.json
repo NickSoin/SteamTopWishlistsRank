@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-17T08:17:51.145Z",
-  "entryCount": 60,
+  "updatedAt": "2026-11-17T19:26:05.490Z",
+  "entryCount": 61,
   "entries": {
     "837350": {
       "rank": 1172,
@@ -365,6 +365,13 @@
       "estimate": "7k+",
       "name": "The Gate Must Stand",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4085920": {
+      "rank": 3779,
+      "estimate": "<7k",
+      "name": "AlterMage",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     },
     "4149040": {

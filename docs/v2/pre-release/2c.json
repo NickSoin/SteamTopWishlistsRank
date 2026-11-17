@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-17T08:17:51.145Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-17T19:26:05.490Z",
+  "entryCount": 40,
   "entries": {
     "252190": {
       "rank": 1772,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "Dustin Sunset",
       "releaseDate": "2026-06-05",
+      "source": "tracked"
+    },
+    "4232910": {
+      "rank": 1748,
+      "estimate": "15k+",
+      "name": "Crusader Kings III: Silk & Silver",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     },
     "4341810": {
