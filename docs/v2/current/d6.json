@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-17T19:26:05.490Z",
-  "entryCount": 26,
+  "updatedAt": "2026-11-18T02:41:13.887Z",
+  "entryCount": 27,
   "entries": {
     "809550": {
-      "rank": 2482,
+      "rank": 2486,
       "estimate": "7k+",
       "name": "Death from Unknown: Survival"
     },
     "1123240": {
-      "rank": 2119,
+      "rank": 2120,
       "estimate": "7k+",
       "name": "Greyskin"
     },
     "1335780": {
-      "rank": 2221,
+      "rank": 2223,
       "estimate": "7k+",
       "name": "Flight Attendant Simulator"
     },
     "1840280": {
-      "rank": 4961,
+      "rank": 4962,
       "estimate": "<7k",
       "name": "Hiboka"
     },
@@ -37,10 +37,10 @@
     "2345340": {
       "rank": 4482,
       "estimate": "<7k",
-      "name": "Space Travellers"
+      "name": "Space"
     },
     "2589980": {
-      "rank": 656,
+      "rank": 657,
       "estimate": "40k+",
       "name": "Eden's Guardian"
     },
@@ -50,22 +50,22 @@
       "name": "Car Mechanic Simulator 2027"
     },
     "2779310": {
-      "rank": 4916,
+      "rank": 4917,
       "estimate": "<7k",
       "name": "Stones Keeper II: Chaos Lord"
     },
     "2815810": {
-      "rank": 5776,
+      "rank": 5778,
       "estimate": "<7k",
       "name": "Golgothica"
     },
     "3177760": {
-      "rank": 1638,
+      "rank": 1633,
       "estimate": "15k+",
       "name": "Critterville Goes Bankrupt"
     },
     "3181660": {
-      "rank": 4159,
+      "rank": 4164,
       "estimate": "<7k",
       "name": "ASTHENIA"
     },
@@ -75,57 +75,57 @@
       "name": "Stage Fright"
     },
     "3434920": {
-      "rank": 739,
+      "rank": 741,
       "estimate": "40k+",
       "name": "SAGE"
     },
     "3445230": {
-      "rank": 5295,
+      "rank": 5299,
       "estimate": "<7k",
       "name": "Hellgate Reiko"
     },
     "3575850": {
-      "rank": 3642,
+      "rank": 3645,
       "estimate": "<7k",
       "name": "Lone Pine"
     },
     "3581260": {
-      "rank": 2339,
+      "rank": 2341,
       "estimate": "7k+",
       "name": "Dance of Theseus"
     },
     "3815370": {
-      "rank": 5650,
+      "rank": 5653,
       "estimate": "<7k",
       "name": "Talaka"
     },
     "4180840": {
-      "rank": 1542,
+      "rank": 1544,
       "estimate": "15k+",
       "name": "Shadowstone"
     },
     "4579790": {
-      "rank": 4503,
+      "rank": 4485,
       "estimate": "<7k",
       "name": "Orbital Maintenance Technician"
     },
     "4581890": {
-      "rank": 4452,
+      "rank": 4456,
       "estimate": "<7k",
       "name": "Kayak with friends"
     },
     "4746080": {
-      "rank": 5050,
+      "rank": 5053,
       "estimate": "<7k",
       "name": "Drone Commander"
     },
     "4882180": {
-      "rank": 3140,
+      "rank": 3106,
       "estimate": "<7k",
       "name": "Goat Simulator 3 – Ticket to Dizzyworld"
     },
     "5004770": {
-      "rank": 2924,
+      "rank": 2922,
       "estimate": "7k+",
       "name": "Satani Kasumi can't live without you!"
     },
@@ -133,6 +133,11 @@
       "rank": 2888,
       "estimate": "7k+",
       "name": "PRIMA MATERIA"
+    },
+    "5279840": {
+      "rank": 5808,
+      "estimate": "<7k",
+      "name": "SCRAPSCRAP"
     }
   }
 }

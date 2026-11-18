@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-17T19:26:05.490Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-18T02:41:13.887Z",
+  "entryCount": 46,
   "entries": {
     "721700": {
       "rank": 679,
@@ -281,6 +281,13 @@
       "estimate": "<7k",
       "name": "halfmoon",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4259360": {
+      "rank": 478,
+      "estimate": "80k+",
+      "name": "Milki Delivery",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     },
     "4519130": {

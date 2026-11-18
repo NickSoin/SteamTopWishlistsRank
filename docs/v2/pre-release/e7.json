@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-17T19:26:05.490Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-18T02:41:13.887Z",
+  "entryCount": 37,
   "entries": {
     "429380": {
       "rank": 36,
@@ -260,6 +260,13 @@
       "estimate": "<7k",
       "name": "Lords Of Heck",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "4790930": {
+      "rank": 3291,
+      "estimate": "<7k",
+      "name": "Unexpected Number Neighbour",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     }
   }
