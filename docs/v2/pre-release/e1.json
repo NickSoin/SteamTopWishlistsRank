@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T02:41:13.887Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "entryCount": 39,
   "entries": {
     "363860": {
       "rank": 339,
@@ -202,6 +202,13 @@
       "estimate": "7k+",
       "name": "Starforged Legacy",
       "releaseDate": "2026-06-01",
+      "source": "tracked"
+    },
+    "3388080": {
+      "rank": 8930,
+      "estimate": "<7k",
+      "name": "Crack In The Dark",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "3441990": {

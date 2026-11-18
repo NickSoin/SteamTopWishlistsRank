@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T02:41:13.887Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "entryCount": 42,
   "entries": {
     "1231560": {
       "rank": 269,
@@ -289,6 +289,13 @@
       "estimate": "15k+",
       "name": "Phantom Line: Prologue",
       "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
+    "5110520": {
+      "rank": 2766,
+      "estimate": "7k+",
+      "name": "Monster Girls Survival & Craft 2040",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     }
   }

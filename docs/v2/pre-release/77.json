@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T02:41:13.887Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "entryCount": 42,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -274,6 +274,13 @@
       "estimate": "<7k",
       "name": "Left Not Right",
       "releaseDate": "2026-08-20",
+      "source": "tracked"
+    },
+    "4938350": {
+      "rank": 3313,
+      "estimate": "<7k",
+      "name": "Idol Lust",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "5018390": {

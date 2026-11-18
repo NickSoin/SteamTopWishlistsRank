@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T02:41:13.887Z",
-  "entryCount": 48,
+  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "entryCount": 49,
   "entries": {
     "458430": {
       "rank": 911,
@@ -138,6 +138,13 @@
       "name": "Candlelight: Lament",
       "releaseDate": "2024-08-05",
       "source": "historical"
+    },
+    "2384980": {
+      "rank": 6802,
+      "estimate": "<7k",
+      "name": "Cafe Simulator",
+      "releaseDate": "2026-11-18",
+      "source": "tracked"
     },
     "2406370": {
       "rank": 3159,

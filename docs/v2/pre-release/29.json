@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T02:41:13.887Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "entryCount": 43,
   "entries": {
     "927350": {
       "rank": 30,
@@ -143,6 +143,13 @@
       "name": "Cassette Beasts: Pier of the Unknown",
       "releaseDate": "2023-10-04",
       "source": "historical"
+    },
+    "2464640": {
+      "rank": 3123,
+      "estimate": "<7k",
+      "name": "Forsaken Lands",
+      "releaseDate": "2026-11-18",
+      "source": "tracked"
     },
     "2564320": {
       "rank": 1707,

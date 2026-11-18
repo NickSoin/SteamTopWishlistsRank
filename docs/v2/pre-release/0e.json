@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T02:41:13.887Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "entryCount": 48,
   "entries": {
     "529340": {
       "rank": 19,
@@ -300,6 +300,13 @@
       "estimate": "<7k",
       "name": "Tape Man",
       "releaseDate": "2026-11-10",
+      "source": "tracked"
+    },
+    "4066520": {
+      "rank": 1454,
+      "estimate": "25k+",
+      "name": "Trust Your Gut",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "4126040": {

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-18T02:41:13.887Z",
-  "entryCount": 30,
+  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "entryCount": 31,
   "entries": {
     "1835080": {
-      "rank": 3816,
+      "rank": 3811,
       "estimate": "<7k",
       "name": "Taste Of Heaven"
     },
@@ -30,32 +30,32 @@
       "name": "Lil Guys"
     },
     "2679830": {
-      "rank": 4535,
+      "rank": 4530,
       "estimate": "<7k",
       "name": "Crowned In Steel"
     },
     "2778290": {
-      "rank": 4302,
+      "rank": 4298,
       "estimate": "<7k",
       "name": "LlamaRPG: Farm to Fable"
     },
     "2857810": {
-      "rank": 1430,
+      "rank": 1431,
       "estimate": "25k+",
       "name": "Sleight of Hand"
     },
     "2923810": {
-      "rank": 3230,
+      "rank": 3225,
       "estimate": "<7k",
       "name": "Among Shadows"
     },
     "3203180": {
-      "rank": 3014,
+      "rank": 3011,
       "estimate": "<7k",
       "name": "Rob Together"
     },
     "3334170": {
-      "rank": 2361,
+      "rank": 2362,
       "estimate": "7k+",
       "name": "Tales of Tuscany"
     },
@@ -70,7 +70,7 @@
       "name": "Crop"
     },
     "3665100": {
-      "rank": 4612,
+      "rank": 4609,
       "estimate": "<7k",
       "name": "Sucks To Be In The Sticks"
     },
@@ -80,27 +80,27 @@
       "name": "Twilight Imperium Digital"
     },
     "3695950": {
-      "rank": 2574,
+      "rank": 2575,
       "estimate": "7k+",
       "name": "SAFE INSIDE"
     },
     "3799720": {
-      "rank": 2774,
+      "rank": 2772,
       "estimate": "7k+",
       "name": "House of Saturn"
     },
     "3804280": {
-      "rank": 927,
+      "rank": 883,
       "estimate": "40k+",
       "name": "Lola's Familiars: Prison of Argnoh"
     },
     "3861740": {
-      "rank": 3419,
+      "rank": 3399,
       "estimate": "<7k",
       "name": "A Thousand Cloys"
     },
     "3975250": {
-      "rank": 4668,
+      "rank": 4661,
       "estimate": "<7k",
       "name": "Merry Crisis"
     },
@@ -115,43 +115,48 @@
       "name": "Young Suns"
     },
     "4211870": {
-      "rank": 4611,
+      "rank": 4608,
       "estimate": "<7k",
       "name": "Pet.Net"
     },
     "4319240": {
-      "rank": 5128,
+      "rank": 5124,
       "estimate": "<7k",
       "name": "Final Flavor"
     },
     "4708840": {
-      "rank": 3909,
+      "rank": 3903,
       "estimate": "<7k",
       "name": "Atemporal Silentium"
     },
     "4784080": {
-      "rank": 954,
+      "rank": 955,
       "estimate": "40k+",
       "name": "Oh, My Doug!"
     },
     "4889730": {
-      "rank": 4619,
+      "rank": 4602,
       "estimate": "<7k",
       "name": "Project XX Queen"
     },
+    "5103950": {
+      "rank": 5830,
+      "estimate": "<7k",
+      "name": "One’s Trash Another’s Treasure"
+    },
     "5246390": {
-      "rank": 4694,
+      "rank": 4681,
       "estimate": "<7k",
       "name": "Ice Cream Shop: A Cooking Simulator Game"
     },
     "5307400": {
-      "rank": 3196,
+      "rank": 3054,
       "estimate": "<7k",
       "name": "Dragon's Tear"
     },
     "5395920": {
-      "rank": 2035,
-      "estimate": "7k+",
+      "rank": 1965,
+      "estimate": "15k+",
       "name": "Frog Collector"
     }
   }

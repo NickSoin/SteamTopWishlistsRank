@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T02:41:13.887Z",
-  "entryCount": 46,
+  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "entryCount": 47,
   "entries": {
     "553540": {
       "rank": 73,
@@ -319,6 +319,13 @@
       "estimate": "40k+",
       "name": "DinoBones: Tidy Up the Museum",
       "releaseDate": "2026-09-25",
+      "source": "tracked"
+    },
+    "5090170": {
+      "rank": 1145,
+      "estimate": "25k+",
+      "name": "Disney Dreamlight Valley: The Keepsake Sea",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "5198270": {

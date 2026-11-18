@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T02:41:13.887Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "entryCount": 42,
   "entries": {
     "427410": {
       "rank": 31,
@@ -289,6 +289,13 @@
       "estimate": "25k+",
       "name": "The Legend of Mala Tokmachka",
       "releaseDate": "2026-08-15",
+      "source": "tracked"
+    },
+    "5374070": {
+      "rank": 3884,
+      "estimate": "<7k",
+      "name": "The Last Gas Station: Winter Resort",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     }
   }

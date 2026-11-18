@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T02:41:13.887Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "entryCount": 33,
   "entries": {
     "977510": {
       "rank": 1079,
@@ -207,6 +207,13 @@
       "estimate": "<7k",
       "name": "Murder Castle",
       "releaseDate": "2026-10-13",
+      "source": "tracked"
+    },
+    "4642320": {
+      "rank": 5173,
+      "estimate": "<7k",
+      "name": "Dig! Dig! Dino!",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "4755370": {

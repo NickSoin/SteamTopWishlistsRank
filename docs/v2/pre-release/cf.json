@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T02:41:13.887Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "entryCount": 42,
   "entries": {
     "502050": {
       "rank": 1,
@@ -289,6 +289,13 @@
       "estimate": "<7k",
       "name": "How Much for the Body in the Freezer",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "5051090": {
+      "rank": 2173,
+      "estimate": "7k+",
+      "name": "The Cozy Funemployment",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     }
   }

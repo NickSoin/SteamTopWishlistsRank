@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T02:41:13.887Z",
-  "entryCount": 29,
+  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "entryCount": 30,
   "entries": {
     "597820": {
       "rank": 2,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "25 Days in the DARK",
       "releaseDate": "2026-08-02",
+      "source": "tracked"
+    },
+    "4575570": {
+      "rank": 3811,
+      "estimate": "<7k",
+      "name": "Noctilucent: Before Dawn – Collector’s Edition",
+      "releaseDate": "2026-11-17",
       "source": "tracked"
     }
   }
