@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T22:58:53.796Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-19T07:41:01.145Z",
+  "entryCount": 38,
   "entries": {
     "975370": {
       "rank": 8,
@@ -145,6 +145,13 @@
       "name": "Illusion Carnival",
       "releaseDate": "2024-07-11",
       "source": "historical"
+    },
+    "2930250": {
+      "rank": 8200,
+      "estimate": "<7k",
+      "name": "幻想郷大激突 : Touhou Impact",
+      "releaseDate": "2026-11-18",
+      "source": "tracked"
     },
     "3027670": {
       "rank": 2279,

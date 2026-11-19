@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T22:58:53.796Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-19T07:41:01.145Z",
+  "entryCount": 48,
   "entries": {
     "534380": {
       "rank": 1,
@@ -277,6 +277,13 @@
       "estimate": "<7k",
       "name": "RoboDeal Simulator",
       "releaseDate": "2026-07-24",
+      "source": "tracked"
+    },
+    "4279300": {
+      "rank": 3505,
+      "estimate": "<7k",
+      "name": "The Red Bells Lament",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "4333200": {

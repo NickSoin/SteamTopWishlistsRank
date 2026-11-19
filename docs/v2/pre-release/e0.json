@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T22:58:53.796Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-19T07:41:01.145Z",
+  "entryCount": 40,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -275,6 +275,13 @@
       "estimate": "<7k",
       "name": "Built by Day, Bitten by Night",
       "releaseDate": "2026-07-11",
+      "source": "tracked"
+    },
+    "5395920": {
+      "rank": 1920,
+      "estimate": "15k+",
+      "name": "Frog Collector",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     }
   }
