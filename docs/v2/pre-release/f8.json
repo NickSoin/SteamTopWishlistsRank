@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
-  "entryCount": 52,
+  "updatedAt": "2026-11-18T22:58:53.796Z",
+  "entryCount": 53,
   "entries": {
     "651490": {
       "rank": 270,
@@ -366,6 +366,13 @@
       "estimate": "<7k",
       "name": "Near Mint",
       "releaseDate": "2026-11-11",
+      "source": "tracked"
+    },
+    "5005700": {
+      "rank": 1308,
+      "estimate": "25k+",
+      "name": "MUV-LUV GIRLS GARDEN Mellow Days",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     }
   }

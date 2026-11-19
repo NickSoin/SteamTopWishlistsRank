@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-18T22:58:53.796Z",
+  "entryCount": 43,
   "entries": {
     "467700": {
       "rank": 1203,
@@ -224,6 +224,13 @@
       "name": "Maliki : Poison Of The Past",
       "releaseDate": "2025-04-22",
       "source": "historical"
+    },
+    "3616480": {
+      "rank": 4768,
+      "estimate": "<7k",
+      "name": "Grimdelve",
+      "releaseDate": "2026-11-18",
+      "source": "tracked"
     },
     "4220150": {
       "rank": 5966,

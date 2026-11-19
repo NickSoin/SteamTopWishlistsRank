@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-18T22:58:53.796Z",
+  "entryCount": 36,
   "entries": {
     "905530": {
       "rank": 585,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "Reptilarium",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4531250": {
+      "rank": 4307,
+      "estimate": "<7k",
+      "name": "Tiny Dwellings",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "4570680": {

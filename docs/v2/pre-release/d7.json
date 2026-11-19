@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
+  "updatedAt": "2026-11-18T22:58:53.796Z",
   "entryCount": 32,
   "entries": {
     "1083790": {
@@ -159,12 +159,12 @@
       "source": "historical"
     },
     "2873750": {
-      "rank": 1638,
-      "estimate": "32k",
-      "actualWishlists": 32000,
+      "rank": 935,
+      "estimate": "40k+",
       "name": "Pool of Madness",
-      "releaseDate": "2026-01-01",
-      "source": "historical",
+      "releaseDate": "2026-11-18",
+      "source": "tracked",
+      "actualWishlists": 32000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289596299"
     },
     "3350300": {

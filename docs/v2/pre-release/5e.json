@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-18T22:58:53.796Z",
+  "entryCount": 37,
   "entries": {
     "336290": {
       "rank": 7698,
@@ -191,6 +191,13 @@
       "estimate": "<7k",
       "name": "RoboGAL: Gaga Delta Lady",
       "releaseDate": "2026-10-29",
+      "source": "tracked"
+    },
+    "3739580": {
+      "rank": 1958,
+      "estimate": "15k+",
+      "name": "KORRIDOR",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "3852160": {

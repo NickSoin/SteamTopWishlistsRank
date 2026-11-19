@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
-  "entryCount": 29,
+  "updatedAt": "2026-11-18T22:58:53.796Z",
+  "entryCount": 31,
   "entries": {
     "812440": {
       "rank": 138,
@@ -176,6 +176,13 @@
       "releaseDate": "2026-06-23",
       "source": "tracked"
     },
+    "4516500": {
+      "rank": 1949,
+      "estimate": "15k+",
+      "name": "Marque & Reprisal",
+      "releaseDate": "2026-11-18",
+      "source": "tracked"
+    },
     "4595220": {
       "rank": 3885,
       "estimate": "<7k",
@@ -209,6 +216,13 @@
       "estimate": "25k+",
       "name": "Sort Them Ducks",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "5036870": {
+      "rank": 5103,
+      "estimate": "<7k",
+      "name": "PLEASE CONFIRM THE DECEASED",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
-  "entryCount": 46,
+  "updatedAt": "2026-11-18T22:58:53.796Z",
+  "entryCount": 47,
   "entries": {
     "809060": {
       "rank": 695,
@@ -263,6 +263,13 @@
       "estimate": "80k+",
       "name": "Leafy Corner",
       "releaseDate": "2026-07-30",
+      "source": "tracked"
+    },
+    "4018330": {
+      "rank": 729,
+      "estimate": "40k+",
+      "name": "Lord of Undead",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "4251700": {

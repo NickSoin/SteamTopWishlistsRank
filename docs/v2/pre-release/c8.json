@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-18T22:58:53.796Z",
+  "entryCount": 44,
   "entries": {
     "349470": {
       "rank": 1800,
@@ -72,6 +72,13 @@
       "estimate": "25k+",
       "name": "Dewdrop Dynasty",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "1447650": {
+      "rank": 1932,
+      "estimate": "15k+",
+      "name": "Space Station Designer",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "1562700": {

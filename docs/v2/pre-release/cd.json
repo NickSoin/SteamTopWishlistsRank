@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-18T22:58:53.796Z",
+  "entryCount": 38,
   "entries": {
     "674140": {
       "rank": 537,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "G-MODEアーカイブス+ パックマン",
       "releaseDate": "2026-06-17",
+      "source": "tracked"
+    },
+    "4948940": {
+      "rank": 2921,
+      "estimate": "7k+",
+      "name": "Swarmbreaker",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "5135440": {

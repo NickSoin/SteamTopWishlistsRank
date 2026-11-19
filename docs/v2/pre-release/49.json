@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-18T22:58:53.796Z",
+  "entryCount": 40,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -141,6 +141,13 @@
       "estimate": "25k+",
       "name": "Blood Dungeon",
       "releaseDate": "2026-08-25",
+      "source": "tracked"
+    },
+    "2561460": {
+      "rank": 576,
+      "estimate": "40k+",
+      "name": "Burning Sword: Death Sun",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "2679460": {

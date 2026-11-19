@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-18T22:58:53.796Z",
+  "entryCount": 48,
   "entries": {
     "1039100": {
       "rank": 184,
@@ -282,6 +282,13 @@
       "estimate": "<7k",
       "name": "Idle AI Factory",
       "releaseDate": "2026-09-21",
+      "source": "tracked"
+    },
+    "4654120": {
+      "rank": 3233,
+      "estimate": "<7k",
+      "name": "Graveyard Orbit",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "4678290": {

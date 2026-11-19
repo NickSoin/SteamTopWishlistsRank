@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-18T22:58:53.796Z",
+  "entryCount": 43,
   "entries": {
     "733110": {
       "rank": 724,
@@ -31,6 +31,13 @@
       "name": "Idol Manager",
       "releaseDate": "2021-07-26",
       "source": "historical"
+    },
+    "1123990": {
+      "rank": 4285,
+      "estimate": "<7k",
+      "name": "Ake no Yosuga - Twilight Loop",
+      "releaseDate": "2026-11-18",
+      "source": "tracked"
     },
     "1183530": {
       "rank": 1175,

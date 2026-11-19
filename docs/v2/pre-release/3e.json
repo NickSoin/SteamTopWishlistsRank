@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-18T14:21:36.219Z",
-  "entryCount": 46,
+  "updatedAt": "2026-11-18T22:58:53.796Z",
+  "entryCount": 47,
   "entries": {
     "690370": {
       "rank": 17,
@@ -275,6 +275,13 @@
       "estimate": "<7k",
       "name": "Harvest Scream",
       "releaseDate": "2026-09-16",
+      "source": "tracked"
+    },
+    "3724300": {
+      "rank": 445,
+      "estimate": "80k+",
+      "name": "Toto's Journey",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "4135750": {
