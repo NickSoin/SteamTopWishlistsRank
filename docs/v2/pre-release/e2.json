@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-19T07:41:01.145Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-19T19:13:23.296Z",
+  "entryCount": 39,
   "entries": {
     "975370": {
       "rank": 8,
@@ -187,6 +187,13 @@
       "name": "YAPYAP",
       "releaseDate": "2026-02-03",
       "source": "historical"
+    },
+    "3842950": {
+      "rank": 6374,
+      "estimate": "<7k",
+      "name": "Shrike",
+      "releaseDate": "2026-11-19",
+      "source": "tracked"
     },
     "3871800": {
       "rank": 7930,

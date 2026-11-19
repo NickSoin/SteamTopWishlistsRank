@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-19T07:41:01.145Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-19T19:13:23.296Z",
+  "entryCount": 39,
   "entries": {
     "674140": {
       "rank": 537,
@@ -272,6 +272,13 @@
       "estimate": "<7k",
       "name": "DPS: Desktop Pension Squad",
       "releaseDate": "2026-11-11",
+      "source": "tracked"
+    },
+    "5484410": {
+      "rank": 5784,
+      "estimate": "<7k",
+      "name": "Rocket Scrapyard",
+      "releaseDate": "2026-11-19",
       "source": "tracked"
     }
   }

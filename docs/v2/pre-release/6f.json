@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-19T07:41:01.145Z",
+  "updatedAt": "2026-11-19T19:13:23.296Z",
   "entryCount": 40,
   "entries": {
     "918570": {
@@ -33,11 +33,11 @@
       "source": "historical"
     },
     "1162860": {
-      "rank": 2387,
+      "rank": 2421,
       "estimate": "7k+",
       "name": "Keepsake County",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-11-19",
+      "source": "tracked"
     },
     "1244630": {
       "rank": 280,

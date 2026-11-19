@@ -1,66 +1,66 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-19T07:41:01.145Z",
-  "entryCount": 20,
+  "updatedAt": "2026-11-19T19:13:23.296Z",
+  "entryCount": 19,
   "entries": {
     "1456830": {
-      "rank": 1443,
+      "rank": 1442,
       "estimate": "25k+",
       "name": "Sea Dogs: Legendary Edition"
     },
     "1460790": {
-      "rank": 3586,
+      "rank": 3577,
       "estimate": "<7k",
       "name": "Bartender Simulator"
     },
     "1769200": {
-      "rank": 4197,
+      "rank": 4191,
       "estimate": "<7k",
       "name": "Vividerie"
     },
     "1993210": {
-      "rank": 2173,
+      "rank": 2170,
       "estimate": "7k+",
       "name": "Abyssals"
     },
     "2639270": {
-      "rank": 1604,
+      "rank": 1608,
       "estimate": "15k+",
       "name": "Photography Simulator Wildlife Prologue"
     },
     "2669060": {
-      "rank": 473,
+      "rank": 472,
       "estimate": "80k+",
       "name": "Beyond Astra"
     },
     "2755950": {
-      "rank": 2687,
+      "rank": 2683,
       "estimate": "7k+",
       "name": "Tidebound"
     },
     "2999130": {
-      "rank": 5696,
+      "rank": 5689,
       "estimate": "<7k",
       "name": "Flex Riders"
     },
     "3206220": {
-      "rank": 2357,
+      "rank": 2354,
       "estimate": "7k+",
       "name": "BRAINSHELL"
     },
     "3474890": {
-      "rank": 4082,
+      "rank": 4062,
       "estimate": "<7k",
       "name": "SuperCitycon"
     },
     "3512750": {
-      "rank": 1464,
+      "rank": 1465,
       "estimate": "25k+",
       "name": "Vampire's Veil"
     },
     "3646660": {
-      "rank": 5520,
+      "rank": 5510,
       "estimate": "<7k",
       "name": "After the End"
     },
@@ -70,12 +70,12 @@
       "name": "Rance Quest Magnum"
     },
     "3927750": {
-      "rank": 4798,
+      "rank": 4790,
       "estimate": "<7k",
       "name": "Sherpa's Caravan"
     },
     "4039300": {
-      "rank": 3583,
+      "rank": 3575,
       "estimate": "<7k",
       "name": "GUNGRAVE G.O.R.E: BLOOD HEAT"
     },
@@ -85,24 +85,19 @@
       "name": "Love & Fool's Gold"
     },
     "4288030": {
-      "rank": 4611,
+      "rank": 4605,
       "estimate": "<7k",
       "name": "Stuck in a Well with a Frog"
     },
     "4541920": {
-      "rank": 3762,
+      "rank": 3756,
       "estimate": "<7k",
       "name": "GRIDLANDS"
     },
     "4840160": {
-      "rank": 1852,
+      "rank": 1850,
       "estimate": "15k+",
       "name": "The Unworthy"
-    },
-    "5196330": {
-      "rank": 1793,
-      "estimate": "15k+",
-      "name": "IT THINKS! - Build Your Own GPU"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-19T07:41:01.145Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-19T19:13:23.296Z",
+  "entryCount": 33,
   "entries": {
     "1083790": {
       "rank": 1387,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "Convent Chronicles: Revelation",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "4301730": {
+      "rank": 4513,
+      "estimate": "<7k",
+      "name": "Blind Phobia",
+      "releaseDate": "2026-11-19",
       "source": "tracked"
     },
     "4304900": {

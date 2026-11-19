@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-19T07:41:01.145Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-19T19:13:23.296Z",
+  "entryCount": 46,
   "entries": {
     "553420": {
       "rank": 45,
@@ -317,6 +317,13 @@
       "estimate": "<7k",
       "name": "SCROLLBOUND",
       "releaseDate": "2026-06-22",
+      "source": "tracked"
+    },
+    "5196330": {
+      "rank": 1793,
+      "estimate": "15k+",
+      "name": "IT THINKS! - Build Your Own GPU",
+      "releaseDate": "2026-11-19",
       "source": "tracked"
     }
   }

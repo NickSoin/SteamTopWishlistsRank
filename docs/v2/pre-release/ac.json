@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-19T07:41:01.145Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-19T19:13:23.296Z",
+  "entryCount": 34,
   "entries": {
     "977510": {
       "rank": 1079,
@@ -152,6 +152,13 @@
       "name": "SERAPH : In the Darkness",
       "releaseDate": "2025-03-06",
       "source": "historical"
+    },
+    "2608610": {
+      "rank": 2709,
+      "estimate": "7k+",
+      "name": "Gently Packed",
+      "releaseDate": "2026-11-19",
+      "source": "tracked"
     },
     "2917040": {
       "rank": 30,

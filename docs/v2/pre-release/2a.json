@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-19T07:41:01.145Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-19T19:13:23.296Z",
+  "entryCount": 48,
   "entries": {
     "809060": {
       "rank": 695,
@@ -298,6 +298,13 @@
       "estimate": "7k+",
       "name": "FluxWerks",
       "releaseDate": "2026-09-23",
+      "source": "tracked"
+    },
+    "4523120": {
+      "rank": 1855,
+      "estimate": "15k+",
+      "name": "Volvy’s Adventure: Reslimed",
+      "releaseDate": "2026-11-19",
       "source": "tracked"
     },
     "4537640": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-19T07:41:01.145Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-19T19:13:23.296Z",
+  "entryCount": 43,
   "entries": {
     "427410": {
       "rank": 31,
@@ -275,6 +275,13 @@
       "estimate": "40k+",
       "name": "Warhammer 40,000: Darktide - Skitarii Class Deluxe Edition",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4672030": {
+      "rank": 1175,
+      "estimate": "25k+",
+      "name": "Malignus",
+      "releaseDate": "2026-11-18",
       "source": "tracked"
     },
     "4706360": {

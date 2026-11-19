@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-19T07:41:01.145Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-19T19:13:23.296Z",
+  "entryCount": 44,
   "entries": {
     "927350": {
       "rank": 30,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "Samara",
       "releaseDate": "2026-06-29",
+      "source": "tracked"
+    },
+    "4102120": {
+      "rank": 2632,
+      "estimate": "7k+",
+      "name": "Resequence: The Orchard",
+      "releaseDate": "2026-11-19",
       "source": "tracked"
     },
     "4149590": {
