@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 24,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 23,
   "entries": {
     "1415600": {
-      "rank": 2413,
+      "rank": 2412,
       "estimate": "7k+",
       "name": "Frequency: Chernobyl"
     },
@@ -20,7 +20,7 @@
       "name": "Unawake"
     },
     "1993410": {
-      "rank": 3817,
+      "rank": 3815,
       "estimate": "<7k",
       "name": "Laws of Nadragia"
     },
@@ -30,12 +30,12 @@
       "name": "Decrepit"
     },
     "3301350": {
-      "rank": 3044,
+      "rank": 3048,
       "estimate": "<7k",
       "name": "Sleep Well Cemetery"
     },
     "3454120": {
-      "rank": 4143,
+      "rank": 4138,
       "estimate": "<7k",
       "name": "Starship Troopers: Terran Command - Tropical Terror"
     },
@@ -45,7 +45,7 @@
       "name": "Magnavis"
     },
     "3539320": {
-      "rank": 2804,
+      "rank": 2805,
       "estimate": "7k+",
       "name": "Scribble Wolf"
     },
@@ -55,22 +55,22 @@
       "name": "Fourleaf Fields"
     },
     "3640840": {
-      "rank": 1235,
+      "rank": 1237,
       "estimate": "25k+",
       "name": "LANDLORD"
     },
     "3818090": {
-      "rank": 1588,
+      "rank": 1590,
       "estimate": "15k+",
       "name": "Haunted Room! Urami-chan"
     },
     "3998040": {
-      "rank": 4592,
+      "rank": 4588,
       "estimate": "<7k",
       "name": "Fossilfuel 3"
     },
     "4099630": {
-      "rank": 1123,
+      "rank": 1122,
       "estimate": "25k+",
       "name": "Tiling Town"
     },
@@ -85,27 +85,27 @@
       "name": "HapgetaSocial"
     },
     "4197200": {
-      "rank": 2954,
+      "rank": 2951,
       "estimate": "7k+",
       "name": "Last Night Last Call"
     },
     "4260290": {
-      "rank": 4784,
+      "rank": 4777,
       "estimate": "<7k",
       "name": "Wonderful Body Wanted"
     },
     "4350100": {
-      "rank": 3694,
+      "rank": 3689,
       "estimate": "<7k",
       "name": "Orbrix"
     },
     "4462580": {
-      "rank": 1362,
+      "rank": 1364,
       "estimate": "25k+",
       "name": "BLIGHTEN"
     },
     "4556500": {
-      "rank": 3070,
+      "rank": 3073,
       "estimate": "<7k",
       "name": "JASON, Coming of Age - Lexie Loft"
     },
@@ -118,11 +118,6 @@
       "rank": 313,
       "estimate": "80k+",
       "name": "War Fantasy"
-    },
-    "4972050": {
-      "rank": 4413,
-      "estimate": "<7k",
-      "name": "Resettle"
     }
   }
 }

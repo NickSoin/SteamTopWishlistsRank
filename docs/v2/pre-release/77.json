@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 43,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -218,6 +218,13 @@
       "estimate": "<7k",
       "name": "Heroes of the Triangle: Mask Rush",
       "releaseDate": "2026-08-06",
+      "source": "tracked"
+    },
+    "3842100": {
+      "rank": 1954,
+      "estimate": "15k+",
+      "name": "Chigusa's Diary",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "3920680": {

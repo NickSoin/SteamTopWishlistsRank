@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 40,
   "entries": {
     "437440": {
       "rank": 1017,
@@ -270,6 +270,13 @@
       "estimate": "<7k",
       "name": "再见犹丽迪茜",
       "releaseDate": "2026-06-04",
+      "source": "tracked"
+    },
+    "5111930": {
+      "rank": 3327,
+      "estimate": "<7k",
+      "name": "Rally Panic with the BRO!",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "5318580": {

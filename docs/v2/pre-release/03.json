@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 39,
   "entries": {
     "979690": {
       "rank": 26,
@@ -268,6 +268,13 @@
       "estimate": "<7k",
       "name": "Godius Eternal War",
       "releaseDate": "2026-06-27",
+      "source": "tracked"
+    },
+    "4834780": {
+      "rank": 2496,
+      "estimate": "7k+",
+      "name": "Warlords IV: Heroes of Etheria",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     }
   }

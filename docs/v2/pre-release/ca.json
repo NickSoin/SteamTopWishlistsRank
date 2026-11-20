@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 39,
   "entries": {
     "757310": {
       "rank": 43,
@@ -191,6 +191,13 @@
       "estimate": "15k+",
       "name": "Train Sim World® 6: West Coast Main Line Trent Valley: Milton Keynes - Crewe Route Add-On",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4103580": {
+      "rank": 4667,
+      "estimate": "<7k",
+      "name": "Mystery of the Mysterious Futayuri Mystery Dungeon",
+      "releaseDate": "2026-11-19",
       "source": "tracked"
     },
     "4308600": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 50,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 51,
   "entries": {
     "595500": {
       "rank": 511,
@@ -349,6 +349,13 @@
       "estimate": "<7k",
       "name": "Memo R.I.P.",
       "releaseDate": "2026-07-07",
+      "source": "tracked"
+    },
+    "4697880": {
+      "rank": 678,
+      "estimate": "40k+",
+      "name": "Rock Band Simulator",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "5191820": {

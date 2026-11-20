@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 42,
   "entries": {
     "536280": {
       "rank": 48,
@@ -199,6 +199,13 @@
       "name": "100 Crime Cats",
       "releaseDate": "2025-06-01",
       "source": "historical"
+    },
+    "3008180": {
+      "rank": 6259,
+      "estimate": "<7k",
+      "name": "Dice Showdown",
+      "releaseDate": "2026-11-19",
+      "source": "tracked"
     },
     "3327120": {
       "rank": 2288,

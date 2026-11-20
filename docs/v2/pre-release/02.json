@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 44,
   "entries": {
     "844980": {
       "rank": 112,
@@ -303,6 +303,13 @@
       "estimate": "15k+",
       "name": "Foundation: Harvest Festival",
       "releaseDate": "2026-10-08",
+      "source": "tracked"
+    },
+    "4730100": {
+      "rank": 1067,
+      "estimate": "25k+",
+      "name": "Lizard Slayer",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     }
   }

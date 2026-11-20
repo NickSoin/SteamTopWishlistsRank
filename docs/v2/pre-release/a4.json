@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 48,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 49,
   "entries": {
     "534380": {
       "rank": 1,
@@ -326,6 +326,13 @@
       "estimate": "<7k",
       "name": "Market Simulator: Miami Beach",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4972050": {
+      "rank": 4413,
+      "estimate": "<7k",
+      "name": "Resettle",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "5130480": {

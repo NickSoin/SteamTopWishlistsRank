@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 34,
   "entries": {
     "410740": {
       "rank": 1177,
@@ -233,6 +233,13 @@
       "estimate": "15k+",
       "name": "Three Kingdoms: Cao Cao's Chastity Defense",
       "releaseDate": "2026-11-18",
+      "source": "tracked"
+    },
+    "4834810": {
+      "rank": 3175,
+      "estimate": "<7k",
+      "name": "Soldiers at War",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     }
   }

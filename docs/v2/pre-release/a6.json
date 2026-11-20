@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 42,
   "entries": {
     "871540": {
       "rank": 824,
@@ -291,6 +291,13 @@
       "estimate": "<7k",
       "name": "Too Many Balls",
       "releaseDate": "2026-09-18",
+      "source": "tracked"
+    },
+    "5249670": {
+      "rank": 4663,
+      "estimate": "<7k",
+      "name": "Wand Keeper",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     }
   }

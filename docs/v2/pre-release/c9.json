@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 50,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 51,
   "entries": {
     "856890": {
       "rank": 749,
@@ -354,6 +354,13 @@
       "estimate": "<7k",
       "name": "Tidy Farm",
       "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
+    "5472200": {
+      "rank": 4415,
+      "estimate": "<7k",
+      "name": "Bee Shrimp Aquarium",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     }
   }

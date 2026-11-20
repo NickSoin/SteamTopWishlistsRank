@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 39,
   "entries": {
     "779340": {
       "rank": 5,
@@ -240,6 +240,13 @@
       "estimate": "15k+",
       "name": "Disney Dreamlight Valley: Honeyglow Woods",
       "releaseDate": "2026-07-08",
+      "source": "tracked"
+    },
+    "4425610": {
+      "rank": 1931,
+      "estimate": "15k+",
+      "name": "KILLFLOW",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "4463520": {

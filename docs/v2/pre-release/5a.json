@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 37,
   "entries": {
     "990630": {
       "rank": 139,
@@ -251,6 +251,13 @@
       "estimate": "<7k",
       "name": "EA SPORTS™ MVP Bundle (College Football 27 Deluxe Edition & Madden NFL 27 Deluxe Edition) Pre-order Content",
       "releaseDate": "2026-08-10",
+      "source": "tracked"
+    },
+    "4834790": {
+      "rank": 4793,
+      "estimate": "<7k",
+      "name": "Theocracy",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "5146340": {

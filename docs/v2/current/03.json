@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-20T02:10:30.283Z",
-  "entryCount": 21,
+  "updatedAt": "2026-11-20T14:25:39.266Z",
+  "entryCount": 20,
   "entries": {
     "864170": {
-      "rank": 2382,
+      "rank": 2380,
       "estimate": "7k+",
       "name": "Midnight Horde"
     },
     "1142570": {
-      "rank": 1285,
+      "rank": 1284,
       "estimate": "25k+",
       "name": "We Stay Behind"
     },
@@ -20,22 +20,22 @@
       "name": "Skyclimbers"
     },
     "1429620": {
-      "rank": 3956,
+      "rank": 3953,
       "estimate": "<7k",
       "name": "Tales of Herring Lake"
     },
     "1877490": {
-      "rank": 803,
+      "rank": 802,
       "estimate": "40k+",
       "name": "Projekt Melody: A Nut Between Worlds"
     },
     "1902970": {
-      "rank": 5473,
+      "rank": 5467,
       "estimate": "<7k",
       "name": "Castle Come"
     },
     "2212050": {
-      "rank": 4220,
+      "rank": 4216,
       "estimate": "<7k",
       "name": "3XO: XXX Online"
     },
@@ -45,7 +45,7 @@
       "name": "Warhammer 40,000: Dawn of War IV"
     },
     "2436490": {
-      "rank": 5176,
+      "rank": 5170,
       "estimate": "<7k",
       "name": "VEIL"
     },
@@ -60,7 +60,7 @@
       "name": "Apogea"
     },
     "3126170": {
-      "rank": 2775,
+      "rank": 2773,
       "estimate": "7k+",
       "name": "Cyber Paranoia"
     },
@@ -70,44 +70,39 @@
       "name": "Jinn Hunter"
     },
     "3501050": {
-      "rank": 2573,
+      "rank": 2568,
       "estimate": "7k+",
       "name": "Total Incremental Battle"
     },
     "3657070": {
-      "rank": 4443,
+      "rank": 4442,
       "estimate": "<7k",
       "name": "Quartermaster"
     },
     "3743810": {
-      "rank": 1836,
+      "rank": 1837,
       "estimate": "15k+",
       "name": "Pact, Passion, Puchimon!"
     },
     "3850590": {
-      "rank": 3911,
+      "rank": 3901,
       "estimate": "<7k",
       "name": "Project Revenant"
     },
     "3897090": {
-      "rank": 2426,
+      "rank": 2424,
       "estimate": "7k+",
       "name": "Temple Maker 64"
     },
     "4210670": {
-      "rank": 3793,
+      "rank": 3786,
       "estimate": "<7k",
       "name": "Forgotten Terror"
     },
     "4219400": {
-      "rank": 2859,
+      "rank": 2860,
       "estimate": "7k+",
       "name": "A Dazzling Affair: Forbidden Trysts with a Coworker"
-    },
-    "4834780": {
-      "rank": 2496,
-      "estimate": "7k+",
-      "name": "Warlords IV: Heroes of Etheria"
     }
   }
 }
