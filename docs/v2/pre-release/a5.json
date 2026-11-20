@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T14:25:39.266Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-20T22:17:56.551Z",
+  "entryCount": 39,
   "entries": {
     "299970": {
       "rank": 34,
@@ -228,6 +228,13 @@
       "estimate": "<7k",
       "name": "The Furry Protocol",
       "releaseDate": "2026-09-19",
+      "source": "tracked"
+    },
+    "4183130": {
+      "rank": 1347,
+      "estimate": "25k+",
+      "name": "WE'RE ALL IN!",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "4252340": {

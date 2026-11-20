@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T14:25:39.266Z",
-  "entryCount": 56,
+  "updatedAt": "2026-11-20T22:17:56.551Z",
+  "entryCount": 57,
   "entries": {
     "619390": {
       "rank": 926,
@@ -273,6 +273,13 @@
       "name": "100 Cats New York",
       "releaseDate": "2024-08-27",
       "source": "historical"
+    },
+    "2972820": {
+      "rank": 4406,
+      "estimate": "<7k",
+      "name": "Vice: Magic City Mayhem",
+      "releaseDate": "2026-11-20",
+      "source": "tracked"
     },
     "2991650": {
       "rank": 1789,

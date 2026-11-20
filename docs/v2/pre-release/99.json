@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T14:25:39.266Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-20T22:17:56.551Z",
+  "entryCount": 37,
   "entries": {
     "397540": {
       "rank": 26,
@@ -242,6 +242,13 @@
       "estimate": "<7k",
       "name": "Garbage Growth",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4811080": {
+      "rank": 3831,
+      "estimate": "<7k",
+      "name": "No Visitors Allowed",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "4813190": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T14:25:39.266Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-20T22:17:56.551Z",
+  "entryCount": 34,
   "entries": {
     "581660": {
       "rank": 122,
@@ -221,6 +221,13 @@
       "estimate": "<7k",
       "name": "放置斩魔录",
       "releaseDate": "2026-09-23",
+      "source": "tracked"
+    },
+    "4622930": {
+      "rank": 4218,
+      "estimate": "<7k",
+      "name": "Baking With Chocolate",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "4633420": {

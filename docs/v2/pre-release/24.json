@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T14:25:39.266Z",
-  "entryCount": 30,
+  "updatedAt": "2026-11-20T22:17:56.551Z",
+  "entryCount": 31,
   "entries": {
     "623280": {
       "rank": 34,
@@ -167,6 +167,13 @@
       "estimate": "600k+",
       "name": "DREADMOOR",
       "releaseDate": "2026-11-09",
+      "source": "tracked"
+    },
+    "3652920": {
+      "rank": 7319,
+      "estimate": "<7k",
+      "name": "Netherwake",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "4362170": {

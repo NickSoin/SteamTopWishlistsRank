@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T14:25:39.266Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-20T22:17:56.551Z",
+  "entryCount": 33,
   "entries": {
     "808010": {
       "rank": 992,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Rock and Found",
       "releaseDate": "2026-11-16",
+      "source": "tracked"
+    },
+    "5277000": {
+      "rank": 3318,
+      "estimate": "<7k",
+      "name": "Dejinochi",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     }
   }

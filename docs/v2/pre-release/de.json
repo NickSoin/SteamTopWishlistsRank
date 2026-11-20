@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T14:25:39.266Z",
-  "entryCount": 46,
+  "updatedAt": "2026-11-20T22:17:56.551Z",
+  "entryCount": 47,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -300,6 +300,13 @@
       "estimate": "<7k",
       "name": "Otpisani: Nightingale",
       "releaseDate": "2026-09-29",
+      "source": "tracked"
+    },
+    "4731990": {
+      "rank": 2905,
+      "estimate": "7k+",
+      "name": "Leap Into Life Episode 1",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "4734100": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T14:25:39.266Z",
-  "entryCount": 27,
+  "updatedAt": "2026-11-20T22:17:56.551Z",
+  "entryCount": 28,
   "entries": {
     "304770": {
       "rank": 2629,
@@ -145,6 +145,13 @@
       "name": "Chocolate Factory Simulator: Prologue",
       "releaseDate": "2024-07-12",
       "source": "historical"
+    },
+    "2854640": {
+      "rank": 5086,
+      "estimate": "<7k",
+      "name": "EtheriiA - Travelogue",
+      "releaseDate": "2026-11-20",
+      "source": "tracked"
     },
     "2901520": {
       "rank": 1030,
