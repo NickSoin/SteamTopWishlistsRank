@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-19T19:13:23.296Z",
-  "entryCount": 48,
+  "updatedAt": "2026-11-20T02:10:30.283Z",
+  "entryCount": 49,
   "entries": {
     "774791": {
       "rank": 539,
@@ -296,6 +296,13 @@
       "estimate": "<7k",
       "name": "INK Mountains And Rivers",
       "releaseDate": "2026-11-10",
+      "source": "tracked"
+    },
+    "4385740": {
+      "rank": 8759,
+      "estimate": "<7k",
+      "name": "SCP: Antimemetics Division",
+      "releaseDate": "2026-11-19",
       "source": "tracked"
     },
     "4428890": {

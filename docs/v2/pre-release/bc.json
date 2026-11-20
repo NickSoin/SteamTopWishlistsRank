@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-19T19:13:23.296Z",
-  "entryCount": 24,
+  "updatedAt": "2026-11-20T02:10:30.283Z",
+  "entryCount": 25,
   "entries": {
     "368260": {
       "rank": 33,
@@ -165,6 +165,13 @@
       "estimate": "7k+",
       "name": "Jiahao",
       "releaseDate": "2026-09-09",
+      "source": "tracked"
+    },
+    "5127260": {
+      "rank": 3336,
+      "estimate": "<7k",
+      "name": "Salt of the Earth",
+      "releaseDate": "2026-11-19",
       "source": "tracked"
     },
     "5227250": {
