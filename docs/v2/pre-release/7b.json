@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-21T07:29:47.008Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-21T17:40:13.041Z",
+  "entryCount": 41,
   "entries": {
     "1060230": {
       "rank": 254,
@@ -261,6 +261,13 @@
       "estimate": "<7k",
       "name": "Gensokyo Odyssey: Kakkoi's Laundromat Soundtrack",
       "releaseDate": "2026-06-18",
+      "source": "tracked"
+    },
+    "4612690": {
+      "rank": 1530,
+      "estimate": "15k+",
+      "name": "Slutopia",
+      "releaseDate": "2026-11-21",
       "source": "tracked"
     },
     "4672520": {

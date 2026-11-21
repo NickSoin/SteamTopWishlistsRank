@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-21T07:29:47.008Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-21T17:40:13.041Z",
+  "entryCount": 41,
   "entries": {
     "919360": {
       "rank": 151,
@@ -225,6 +225,13 @@
       "estimate": "<7k",
       "name": "Blood Sword",
       "releaseDate": "2026-11-12",
+      "source": "tracked"
+    },
+    "3649840": {
+      "rank": 5281,
+      "estimate": "<7k",
+      "name": "Zombie Police: Midsummer Unhappy New Year",
+      "releaseDate": "2026-11-21",
       "source": "tracked"
     },
     "3907380": {
