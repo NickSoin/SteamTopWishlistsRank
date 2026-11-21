@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T22:17:56.551Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-21T07:29:47.008Z",
+  "entryCount": 34,
   "entries": {
     "954850": {
       "rank": 6,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "NICE TO MEET YOU, AGAIN",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "4242850": {
+      "rank": 7852,
+      "estimate": "<7k",
+      "name": "Deluge: Raintime",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "4524730": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T22:17:56.551Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-21T07:29:47.008Z",
+  "entryCount": 40,
   "entries": {
     "757310": {
       "rank": 43,
@@ -233,6 +233,13 @@
       "estimate": "40k+",
       "name": "Farm & Feast",
       "releaseDate": "2026-11-11",
+      "source": "tracked"
+    },
+    "4684580": {
+      "rank": 4901,
+      "estimate": "<7k",
+      "name": "Birdwatching Notebook Soundtrack",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "4868870": {

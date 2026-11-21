@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T22:17:56.551Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-21T07:29:47.008Z",
+  "entryCount": 36,
   "entries": {
     "691790": {
       "rank": 310,
@@ -247,6 +247,13 @@
       "estimate": "<7k",
       "name": "Spheroll",
       "releaseDate": "2026-07-27",
+      "source": "tracked"
+    },
+    "4762560": {
+      "rank": 2939,
+      "estimate": "7k+",
+      "name": "Etranger In the City of Doom",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     }
   }

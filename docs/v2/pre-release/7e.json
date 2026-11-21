@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-20T22:17:56.551Z",
-  "entryCount": 26,
+  "updatedAt": "2026-11-21T07:29:47.008Z",
+  "entryCount": 27,
   "entries": {
     "580640": {
       "rank": 369,
@@ -163,6 +163,13 @@
       "estimate": "<7k",
       "name": "Tidal Nexus Online",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "3358400": {
+      "rank": 7806,
+      "estimate": "<7k",
+      "name": "夜班护士模拟器",
+      "releaseDate": "2026-11-20",
       "source": "tracked"
     },
     "4119020": {
