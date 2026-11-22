@@ -1,66 +1,71 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-22T00:48:35.912Z",
-  "entryCount": 24,
+  "updatedAt": "2026-11-22T13:28:15.555Z",
+  "entryCount": 26,
   "entries": {
     "792380": {
-      "rank": 2144,
+      "rank": 2145,
       "estimate": "7k+",
       "name": "Survival Journals"
     },
     "1051440": {
-      "rank": 356,
+      "rank": 358,
       "estimate": "80k+",
       "name": "Ship Builder"
     },
     "1393630": {
-      "rank": 3319,
+      "rank": 3324,
       "estimate": "<7k",
       "name": "XGAMEX"
     },
     "1599490": {
-      "rank": 5467,
+      "rank": 5479,
       "estimate": "<7k",
       "name": "One Way Road"
     },
     "1812250": {
-      "rank": 5563,
+      "rank": 5580,
       "estimate": "<7k",
       "name": "Dono's Tale"
     },
+    "2051160": {
+      "rank": 5787,
+      "estimate": "<7k",
+      "name": "Port Control"
+    },
     "2127980": {
-      "rank": 5447,
+      "rank": 5458,
       "estimate": "<7k",
       "name": "Project: Orc"
     },
     "2174430": {
-      "rank": 2299,
+      "rank": 2303,
       "estimate": "7k+",
       "name": "Welcome to Lightford"
     },
     "2255360": {
-      "rank": 5694,
+      "rank": 5705,
       "estimate": "<7k",
       "name": "Throwia"
     },
     "2338890": {
-      "rank": 4867,
+      "rank": 4875,
       "estimate": "<7k",
       "name": "Starship Colony"
     },
     "2421000": {
-      "rank": 1007,
+      "rank": 1008,
       "estimate": "25k+",
       "name": "BANDIT KNIGHT"
     },
     "2607420": {
-      "rank": 2555,
+      "rank": 2565,
       "estimate": "7k+",
       "name": "Cat Life Simulator"
     },
     "3628440": {
-      "rank": 4839,
+      "rank": 4843,
       "estimate": "<7k",
       "name": "Abyss Saga"
     },
@@ -75,54 +80,59 @@
       "name": "The Road of Dust and Sorrow"
     },
     "3937470": {
-      "rank": 273,
+      "rank": 274,
       "estimate": "80k+",
       "name": "Sally Face 2"
     },
     "4073030": {
-      "rank": 2481,
+      "rank": 2488,
       "estimate": "7k+",
       "name": "Prince of Suburbia - I'm Pregnant!"
     },
     "4285280": {
-      "rank": 5369,
+      "rank": 5373,
       "estimate": "<7k",
       "name": "Martyr"
     },
     "4382260": {
-      "rank": 2190,
+      "rank": 2196,
       "estimate": "7k+",
       "name": "Castaway Diary: Portal to the Unknown Isles"
     },
     "4438080": {
-      "rank": 540,
+      "rank": 541,
       "estimate": "40k+",
       "name": "Call It a Day"
     },
     "4449260": {
-      "rank": 1552,
+      "rank": 1559,
       "estimate": "15k+",
       "name": "Pussyhugger Penetration"
     },
     "4562750": {
-      "rank": 4044,
+      "rank": 4047,
       "estimate": "<7k",
       "name": "Dungeon Sweeper Plus"
     },
     "4909780": {
-      "rank": 2271,
+      "rank": 2269,
       "estimate": "7k+",
       "name": "Medium Rare"
     },
     "5014960": {
-      "rank": 2512,
+      "rank": 2517,
       "estimate": "7k+",
       "name": "Amphibian"
     },
     "5307420": {
-      "rank": 4860,
+      "rank": 4861,
       "estimate": "<7k",
       "name": "Rewolt"
+    },
+    "5427070": {
+      "rank": 4975,
+      "estimate": "<7k",
+      "name": "KeyCapy"
     }
   }
 }

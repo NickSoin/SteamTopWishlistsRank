@@ -1,51 +1,51 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-22T00:48:35.912Z",
-  "entryCount": 19,
+  "updatedAt": "2026-11-22T13:28:15.555Z",
+  "entryCount": 20,
   "entries": {
     "1038080": {
-      "rank": 3900,
+      "rank": 3905,
       "estimate": "<7k",
       "name": "FortressCraft : Phoenix"
     },
     "1672790": {
-      "rank": 2995,
-      "estimate": "7k+",
+      "rank": 3002,
+      "estimate": "<7k",
       "name": "ASKE"
     },
     "1991060": {
-      "rank": 4882,
+      "rank": 4891,
       "estimate": "<7k",
       "name": "XEARZ"
     },
     "2096450": {
-      "rank": 3554,
+      "rank": 3561,
       "estimate": "<7k",
       "name": "Troubleshooting"
     },
     "2363200": {
-      "rank": 799,
+      "rank": 802,
       "estimate": "40k+",
       "name": "Fae & Fauna"
     },
     "2742920": {
-      "rank": 435,
+      "rank": 436,
       "estimate": "80k+",
       "name": "Silent Planet - Elegy of a Dying World"
     },
     "3172160": {
-      "rank": 4865,
+      "rank": 4876,
       "estimate": "<7k",
       "name": "Avante! Atlantis"
     },
     "3187560": {
-      "rank": 4371,
+      "rank": 4379,
       "estimate": "<7k",
       "name": "Freeline!"
     },
     "3340880": {
-      "rank": 782,
+      "rank": 784,
       "estimate": "40k+",
       "name": "Silicone Heart"
     },
@@ -55,49 +55,54 @@
       "name": "Greed & Darkness"
     },
     "3557990": {
-      "rank": 5245,
+      "rank": 5252,
       "estimate": "<7k",
       "name": "Cats Organized Neatly 2"
     },
     "3819560": {
-      "rank": 5269,
+      "rank": 5279,
       "estimate": "<7k",
       "name": "Home Sweet Gnome"
     },
     "3833810": {
-      "rank": 1113,
+      "rank": 1114,
       "estimate": "25k+",
       "name": "Bioneers"
     },
     "3957680": {
-      "rank": 2688,
+      "rank": 2692,
       "estimate": "7k+",
       "name": "They Will Come"
     },
     "4130370": {
-      "rank": 1502,
+      "rank": 1503,
       "estimate": "15k+",
       "name": "Ryn: And the thread of life"
     },
     "4521710": {
-      "rank": 3288,
+      "rank": 3290,
       "estimate": "<7k",
       "name": "GetFunky Deliv'or Die"
     },
     "4581550": {
-      "rank": 2638,
+      "rank": 2643,
       "estimate": "7k+",
       "name": "Succubus Sex Trials"
     },
     "4595270": {
-      "rank": 5567,
+      "rank": 5532,
       "estimate": "<7k",
       "name": "Tactical Commanders R"
     },
     "4856980": {
-      "rank": 3954,
+      "rank": 3955,
       "estimate": "<7k",
       "name": "Monster Girl Clinic"
+    },
+    "5239830": {
+      "rank": 5577,
+      "estimate": "<7k",
+      "name": "Zombie Apocalypse Together"
     }
   }
 }

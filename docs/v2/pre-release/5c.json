@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-22T00:48:35.912Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-22T13:28:15.555Z",
+  "entryCount": 37,
   "entries": {
     "753640": {
       "rank": 18,
@@ -197,6 +197,13 @@
       "estimate": "7k+",
       "name": "Bao Bao's™ Cozy Cleaning Services",
       "releaseDate": "2026-10-28",
+      "source": "tracked"
+    },
+    "3955780": {
+      "rank": 4271,
+      "estimate": "<7k",
+      "name": "Psychotic Descent",
+      "releaseDate": "2026-11-21",
       "source": "tracked"
     },
     "4165890": {
