@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-21T17:40:13.041Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-22T00:48:35.912Z",
+  "entryCount": 39,
   "entries": {
     "1118300": {
       "rank": 3661,
@@ -268,6 +268,13 @@
       "estimate": "<7k",
       "name": "Day Trade Coach",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "5307180": {
+      "rank": 862,
+      "estimate": "40k+",
+      "name": "Fuck Everything 👉👌💦",
+      "releaseDate": "2026-11-21",
       "source": "tracked"
     }
   }

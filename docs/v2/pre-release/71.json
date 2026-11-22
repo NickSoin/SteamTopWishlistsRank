@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-21T17:40:13.041Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-22T00:48:35.912Z",
+  "entryCount": 34,
   "entries": {
     "653060": {
       "rank": 687,
@@ -235,6 +235,13 @@
       "estimate": "40k+",
       "name": "TV Archive: Tidy Up Together",
       "releaseDate": "2026-08-14",
+      "source": "tracked"
+    },
+    "4968090": {
+      "rank": 3175,
+      "estimate": "<7k",
+      "name": "Lovely Cafe: Lusty Latte",
+      "releaseDate": "2026-11-21",
       "source": "tracked"
     }
   }
