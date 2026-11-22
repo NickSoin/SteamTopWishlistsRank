@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-22T13:28:15.555Z",
-  "entryCount": 14,
+  "updatedAt": "2026-11-22T21:24:04.684Z",
+  "entryCount": 15,
   "entries": {
     "706680": {
-      "rank": 2862,
+      "rank": 2864,
       "estimate": "7k+",
       "name": "Brave Earth: Prologue"
     },
     "1253800": {
-      "rank": 1557,
+      "rank": 1561,
       "estimate": "15k+",
       "name": "The Pope: Power & Sin"
     },
     "1257480": {
-      "rank": 1004,
+      "rank": 1005,
       "estimate": "25k+",
       "name": "American Motorcycle Simulator"
     },
     "1693350": {
-      "rank": 3802,
+      "rank": 3807,
       "estimate": "<7k",
       "name": "Stellar Valkyrie"
     },
@@ -30,22 +30,22 @@
       "name": "Fools, Maniacs and Liars"
     },
     "2725610": {
-      "rank": 2603,
+      "rank": 2606,
       "estimate": "7k+",
       "name": "Haunted Bloodlines"
     },
     "2932450": {
-      "rank": 1345,
+      "rank": 1339,
       "estimate": "25k+",
       "name": "Airsoft Online"
     },
     "2953060": {
-      "rank": 3988,
+      "rank": 3992,
       "estimate": "<7k",
       "name": "Furry from Outer Space"
     },
     "3045270": {
-      "rank": 4658,
+      "rank": 4665,
       "estimate": "<7k",
       "name": "Insectile"
     },
@@ -55,24 +55,29 @@
       "name": "Lambda Fortress"
     },
     "3949440": {
-      "rank": 2645,
+      "rank": 2650,
       "estimate": "7k+",
       "name": "Scalpers' Spoils"
     },
     "4145380": {
-      "rank": 4182,
+      "rank": 4190,
       "estimate": "<7k",
       "name": "Avemary Rocket -Captain Patchwork-"
     },
     "4190760": {
-      "rank": 4771,
+      "rank": 4777,
       "estimate": "<7k",
       "name": "The Fish Corner"
     },
     "4408450": {
-      "rank": 4802,
+      "rank": 4806,
       "estimate": "<7k",
       "name": "Sports Card Collector Simulator"
+    },
+    "5589330": {
+      "rank": 5644,
+      "estimate": "<7k",
+      "name": "Dokimon Frontier"
     }
   }
 }
