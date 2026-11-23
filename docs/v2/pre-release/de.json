@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 48,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -293,6 +293,13 @@
       "estimate": "<7k",
       "name": "Lustflame Bonsai",
       "releaseDate": "2026-10-30",
+      "source": "tracked"
+    },
+    "4676440": {
+      "rank": 5257,
+      "estimate": "<7k",
+      "name": "Naked Ambition",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "4708680": {

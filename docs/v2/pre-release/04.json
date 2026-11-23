@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 29,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 30,
   "entries": {
     "1159290": {
       "rank": 574,
@@ -152,6 +152,13 @@
       "name": "Dawnmaker",
       "releaseDate": "2024-07-31",
       "source": "historical"
+    },
+    "2957880": {
+      "rank": 800,
+      "estimate": "40k+",
+      "name": "Witch Potions - Craft of Lust",
+      "releaseDate": "2026-11-23",
+      "source": "tracked"
     },
     "3562580": {
       "rank": 170,

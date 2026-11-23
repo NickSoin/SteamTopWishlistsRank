@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 36,
   "entries": {
     "1036240": {
       "rank": 491,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "The Unfamiliars",
       "releaseDate": "2026-07-31",
+      "source": "tracked"
+    },
+    "4538150": {
+      "rank": 4915,
+      "estimate": "<7k",
+      "name": "After Hue",
+      "releaseDate": "2026-11-22",
       "source": "tracked"
     },
     "4655600": {

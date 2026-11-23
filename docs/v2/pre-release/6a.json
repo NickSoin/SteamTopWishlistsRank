@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 38,
   "entries": {
     "536270": {
       "rank": 17,
@@ -235,6 +235,13 @@
       "estimate": "40k+",
       "name": "F1® 25: 2026 Season Pack",
       "releaseDate": "2026-06-03",
+      "source": "tracked"
+    },
+    "4224490": {
+      "rank": 3661,
+      "estimate": "<7k",
+      "name": "Internet Cafe 98",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "4274990": {

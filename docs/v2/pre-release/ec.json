@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 39,
   "entries": {
     "715400": {
       "rank": 49,
@@ -171,6 +171,13 @@
       "name": "Knock on the Coffin lid: Prolog",
       "releaseDate": "2024-07-25",
       "source": "historical"
+    },
+    "2928640": {
+      "rank": 8123,
+      "estimate": "<7k",
+      "name": "Countryball: World 1930",
+      "releaseDate": "2026-11-23",
+      "source": "tracked"
     },
     "3287360": {
       "rank": 6863,

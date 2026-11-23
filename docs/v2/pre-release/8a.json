@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 46,
   "entries": {
     "538030": {
       "rank": 87,
@@ -295,6 +295,13 @@
       "estimate": "<7k",
       "name": "Incremental Ragebait",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "4265000": {
+      "rank": 2709,
+      "estimate": "7k+",
+      "name": "Isekai Parlor Simulator GOLD",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "4432910": {

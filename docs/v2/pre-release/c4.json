@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 41,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -226,6 +226,13 @@
       "estimate": "<7k",
       "name": "Once Upon A Card",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4507410": {
+      "rank": 4972,
+      "estimate": "<7k",
+      "name": "Locked in love : The Office",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "4570650": {

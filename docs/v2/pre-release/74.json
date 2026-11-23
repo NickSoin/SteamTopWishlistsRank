@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 43,
   "entries": {
     "511280": {
       "rank": 886,
@@ -189,6 +189,13 @@
       "name": "Descending The Woods",
       "releaseDate": "2024-07-12",
       "source": "historical"
+    },
+    "3111050": {
+      "rank": 4678,
+      "estimate": "<7k",
+      "name": "Secrets Of Suburbia",
+      "releaseDate": "2026-11-23",
+      "source": "tracked"
     },
     "3132930": {
       "rank": 42,

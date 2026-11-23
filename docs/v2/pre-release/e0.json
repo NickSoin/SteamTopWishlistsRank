@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 41,
   "entries": {
     "1083870": {
       "rank": 379,
@@ -205,6 +205,13 @@
       "estimate": "7k+",
       "name": "Aibond",
       "releaseDate": "2026-10-26",
+      "source": "tracked"
+    },
+    "3861740": {
+      "rank": 3008,
+      "estimate": "<7k",
+      "name": "A Thousand Cloys",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "3940610": {

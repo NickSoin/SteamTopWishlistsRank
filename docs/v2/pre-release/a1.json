@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 57,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 58,
   "entries": {
     "619390": {
       "rank": 926,
@@ -286,6 +286,13 @@
       "estimate": "15k+",
       "name": "DAWN AEROWAR",
       "releaseDate": "2026-11-10",
+      "source": "tracked"
+    },
+    "3024120": {
+      "rank": 3283,
+      "estimate": "<7k",
+      "name": "Eletta",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "3121810": {

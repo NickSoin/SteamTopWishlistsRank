@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 17,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 18,
   "entries": {
     "1607930": {
       "rank": 3450,
@@ -15,27 +15,27 @@
       "name": "EXIL"
     },
     "2271150": {
-      "rank": 1933,
+      "rank": 1935,
       "estimate": "15k+",
       "name": "Loya"
     },
     "2549040": {
-      "rank": 2013,
+      "rank": 2016,
       "estimate": "7k+",
       "name": "Night of the Slayers"
     },
     "2685100": {
-      "rank": 1124,
+      "rank": 1127,
       "estimate": "25k+",
       "name": "NOIR BLOOM"
     },
     "2855020": {
-      "rank": 2989,
+      "rank": 2988,
       "estimate": "7k+",
       "name": "Haymaker"
     },
     "2876290": {
-      "rank": 2273,
+      "rank": 2276,
       "estimate": "7k+",
       "name": "Sojourn Past"
     },
@@ -55,39 +55,44 @@
       "name": "HARK THE GHOUL"
     },
     "3541250": {
-      "rank": 1662,
+      "rank": 1664,
       "estimate": "15k+",
       "name": "Welcome to Brightville"
     },
     "3581760": {
-      "rank": 1821,
+      "rank": 1820,
       "estimate": "15k+",
       "name": "Out of Love"
     },
     "3887130": {
-      "rank": 4339,
+      "rank": 4340,
       "estimate": "<7k",
       "name": "Fluffy Escape: Cryptic Cube"
     },
     "4115300": {
-      "rank": 653,
+      "rank": 654,
       "estimate": "40k+",
       "name": "A Date with Death 2: REMNANTS"
     },
     "4200800": {
-      "rank": 3118,
+      "rank": 3119,
       "estimate": "<7k",
       "name": "Alice at the End of Her Life"
     },
     "4448200": {
-      "rank": 4770,
+      "rank": 4771,
       "estimate": "<7k",
       "name": "Coffee Raccoons"
     },
     "5054190": {
-      "rank": 2371,
+      "rank": 2370,
       "estimate": "7k+",
       "name": "Mermade"
+    },
+    "5185230": {
+      "rank": 5732,
+      "estimate": "<7k",
+      "name": "Agent X"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 33,
   "entries": {
     "1101790": {
       "rank": 96,
@@ -232,6 +232,13 @@
       "estimate": "<7k",
       "name": "Tidal Strings",
       "releaseDate": "2026-06-12",
+      "source": "tracked"
+    },
+    "5303130": {
+      "rank": 1531,
+      "estimate": "15k+",
+      "name": "Workers & Resources: Soviet Republic - Space Program",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     }
   }

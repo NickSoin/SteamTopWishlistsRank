@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 44,
   "entries": {
     "780310": {
       "rank": 16,
@@ -307,6 +307,13 @@
       "estimate": "<7k",
       "name": "Dark Elf: Descent into Corruption",
       "releaseDate": "2026-11-05",
+      "source": "tracked"
+    },
+    "5234740": {
+      "rank": 5513,
+      "estimate": "<7k",
+      "name": "Fantasy Auction House",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     }
   }

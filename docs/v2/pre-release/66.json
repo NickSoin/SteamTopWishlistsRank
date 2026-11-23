@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T08:05:01.991Z",
-  "entryCount": 56,
+  "updatedAt": "2026-11-23T22:13:04.343Z",
+  "entryCount": 57,
   "entries": {
     "976890": {
       "rank": 70,
@@ -288,6 +288,13 @@
       "estimate": "7k+",
       "name": "33 Days till Extraction",
       "releaseDate": "2026-09-17",
+      "source": "tracked"
+    },
+    "3656500": {
+      "rank": 5843,
+      "estimate": "<7k",
+      "name": "Jaden Industries: Cozy Automation Puzzler",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "3711050": {
