@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-22T21:24:04.684Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-23T08:05:01.991Z",
+  "entryCount": 43,
   "entries": {
     "871540": {
       "rank": 824,
@@ -277,6 +277,13 @@
       "estimate": "<7k",
       "name": "Mosaic Garden: The Flower Game",
       "releaseDate": "2026-07-01",
+      "source": "tracked"
+    },
+    "4463480": {
+      "rank": 3957,
+      "estimate": "<7k",
+      "name": "ArcaneBound",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "4602120": {

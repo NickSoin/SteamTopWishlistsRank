@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-22T21:24:04.684Z",
-  "entryCount": 27,
+  "updatedAt": "2026-11-23T08:05:01.991Z",
+  "entryCount": 28,
   "entries": {
     "1260940": {
       "rank": 671,
@@ -10,32 +10,32 @@
       "name": "Core Decay"
     },
     "1764280": {
-      "rank": 2578,
+      "rank": 2580,
       "estimate": "7k+",
       "name": "Dungeons of the Amber Griffin"
     },
     "1897030": {
-      "rank": 2573,
+      "rank": 2574,
       "estimate": "7k+",
       "name": "Prison King"
     },
     "2174060": {
-      "rank": 2714,
+      "rank": 2697,
       "estimate": "7k+",
       "name": "Sincognito"
     },
     "2195450": {
-      "rank": 4244,
+      "rank": 4249,
       "estimate": "<7k",
       "name": "Aether Wizard Life"
     },
     "2342180": {
-      "rank": 5725,
+      "rank": 5735,
       "estimate": "<7k",
       "name": "MidEvil"
     },
     "2416470": {
-      "rank": 5498,
+      "rank": 5509,
       "estimate": "<7k",
       "name": "Bloody Doctor"
     },
@@ -45,17 +45,17 @@
       "name": "The Legend of California"
     },
     "2818700": {
-      "rank": 5077,
+      "rank": 5081,
       "estimate": "<7k",
       "name": "Marked For Mayhem"
     },
     "2828620": {
-      "rank": 4138,
+      "rank": 4123,
       "estimate": "<7k",
       "name": "XGUN"
     },
     "3010060": {
-      "rank": 3317,
+      "rank": 3319,
       "estimate": "<7k",
       "name": "DEATH PLUNDER-亡命掠夺者"
     },
@@ -65,17 +65,17 @@
       "name": "KINGDOM HEARTS IV"
     },
     "3239830": {
-      "rank": 1631,
+      "rank": 1632,
       "estimate": "15k+",
       "name": "Truth Scrapper"
     },
     "3291450": {
-      "rank": 2229,
+      "rank": 2231,
       "estimate": "7k+",
       "name": "The Vow: Vampire's Curse"
     },
     "3336670": {
-      "rank": 3728,
+      "rank": 3726,
       "estimate": "<7k",
       "name": "[AFANTASIA]"
     },
@@ -85,59 +85,64 @@
       "name": "Ship Graveyard Simulator 3"
     },
     "3424940": {
-      "rank": 4859,
+      "rank": 4864,
       "estimate": "<7k",
       "name": "Prize Denied"
     },
     "3454770": {
-      "rank": 1486,
+      "rank": 1491,
       "estimate": "25k+",
       "name": "Endless Machines"
     },
     "3749760": {
-      "rank": 2555,
+      "rank": 2524,
       "estimate": "7k+",
       "name": "Sushi On Wheels"
     },
     "4013930": {
-      "rank": 4337,
+      "rank": 4341,
       "estimate": "<7k",
       "name": "Lock In"
     },
     "4163130": {
-      "rank": 3872,
+      "rank": 3878,
       "estimate": "<7k",
       "name": "Dr.Clone"
     },
     "4253280": {
-      "rank": 4287,
+      "rank": 4291,
       "estimate": "<7k",
       "name": "REMOTE CONTROL"
     },
     "4285870": {
-      "rank": 2387,
+      "rank": 2389,
       "estimate": "7k+",
       "name": "Pigs and Wolf"
     },
     "4360780": {
-      "rank": 1672,
+      "rank": 1670,
       "estimate": "15k+",
       "name": "Scaredy Cats"
     },
     "4418500": {
-      "rank": 1325,
+      "rank": 1328,
       "estimate": "25k+",
       "name": "Fangstorm"
     },
     "4763910": {
-      "rank": 4211,
+      "rank": 4217,
       "estimate": "<7k",
       "name": "Legacy of Mind"
     },
     "4985170": {
-      "rank": 3918,
+      "rank": 3922,
       "estimate": "<7k",
       "name": "CORPSE FARM"
+    },
+    "5495450": {
+      "rank": 5718,
+      "estimate": "<7k",
+      "name": "Blastheim"
     }
   }
 }

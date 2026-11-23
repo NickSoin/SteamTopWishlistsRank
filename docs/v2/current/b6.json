@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-22T21:24:04.684Z",
-  "entryCount": 20,
+  "updatedAt": "2026-11-23T08:05:01.991Z",
+  "entryCount": 21,
   "entries": {
     "1171980": {
-      "rank": 836,
+      "rank": 839,
       "estimate": "40k+",
       "name": "Neverlooted Dungeon"
     },
@@ -15,67 +15,67 @@
       "name": "Beautiful Light"
     },
     "1609270": {
-      "rank": 2410,
+      "rank": 2414,
       "estimate": "7k+",
       "name": "Touhou Koi-Mystery: Legend and Fantasy of Monsters"
     },
     "1864570": {
-      "rank": 4842,
+      "rank": 4850,
       "estimate": "<7k",
       "name": "Sender Unknown"
     },
     "2528170": {
-      "rank": 1159,
+      "rank": 1162,
       "estimate": "25k+",
       "name": "The Hearth and Harbour"
     },
     "2582310": {
-      "rank": 4421,
+      "rank": 4430,
       "estimate": "<7k",
       "name": "MetroSim - The Subway Simulator"
     },
     "2886300": {
-      "rank": 2785,
+      "rank": 2787,
       "estimate": "7k+",
       "name": "Gunny Ascend"
     },
     "3254300": {
-      "rank": 3921,
+      "rank": 3926,
       "estimate": "<7k",
       "name": "POLYSTRIKE"
     },
     "3260040": {
-      "rank": 2237,
+      "rank": 2239,
       "estimate": "7k+",
       "name": "Cold Abyss"
     },
     "3367950": {
-      "rank": 4676,
+      "rank": 4680,
       "estimate": "<7k",
       "name": "Five More Minutes"
     },
     "3418870": {
-      "rank": 2510,
+      "rank": 2480,
       "estimate": "7k+",
       "name": "Ninja Baseball League-Man: Bases Loaded"
     },
     "3498720": {
-      "rank": 416,
+      "rank": 417,
       "estimate": "80k+",
       "name": "Rain98"
     },
     "4020690": {
-      "rank": 5710,
+      "rank": 5716,
       "estimate": "<7k",
       "name": "FERAL BLOOD DOLL"
     },
     "4163270": {
-      "rank": 498,
+      "rank": 499,
       "estimate": "80k+",
       "name": "Half Grip"
     },
     "4211340": {
-      "rank": 3949,
+      "rank": 3956,
       "estimate": "<7k",
       "name": "Biryado"
     },
@@ -85,24 +85,29 @@
       "name": "Fool King"
     },
     "4592410": {
-      "rank": 2670,
+      "rank": 2673,
       "estimate": "7k+",
       "name": "Pregnant Roommates, Send Help!"
     },
     "4651670": {
-      "rank": 3825,
+      "rank": 3829,
       "estimate": "<7k",
       "name": "Polyzonia"
     },
     "4776090": {
-      "rank": 3435,
+      "rank": 3439,
       "estimate": "<7k",
       "name": "CHEEKY CHEERHYTHM"
     },
     "5131690": {
-      "rank": 1068,
+      "rank": 1064,
       "estimate": "25k+",
       "name": "I Am Plague"
+    },
+    "5234740": {
+      "rank": 5513,
+      "estimate": "<7k",
+      "name": "Fantasy Auction House"
     }
   }
 }
