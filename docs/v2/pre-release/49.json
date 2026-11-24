@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T22:13:04.343Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-24T10:13:48.045Z",
+  "entryCount": 41,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -274,6 +274,13 @@
       "estimate": "<7k",
       "name": "Hentai Tales: 7 Days Cycle",
       "releaseDate": "2026-07-11",
+      "source": "tracked"
+    },
+    "4771380": {
+      "rank": 5295,
+      "estimate": "<7k",
+      "name": "Cities: Skylines - Content Creator Pack: Mansions & Manors",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     },
     "4914970": {

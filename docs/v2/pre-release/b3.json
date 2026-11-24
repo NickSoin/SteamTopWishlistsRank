@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T22:13:04.343Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-24T10:13:48.045Z",
+  "entryCount": 36,
   "entries": {
     "532790": {
       "rank": 3,
@@ -230,6 +230,13 @@
       "estimate": "<7k",
       "name": "One Last Hand",
       "releaseDate": "2026-08-14",
+      "source": "tracked"
+    },
+    "4498140": {
+      "rank": 5330,
+      "estimate": "<7k",
+      "name": "天坑追匪",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "4622110": {

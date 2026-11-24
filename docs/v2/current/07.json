@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-23T22:13:04.343Z",
-  "entryCount": 19,
+  "updatedAt": "2026-11-24T10:13:48.045Z",
+  "entryCount": 20,
   "entries": {
     "665720": {
-      "rank": 5177,
+      "rank": 5175,
       "estimate": "<7k",
       "name": "SOULBREAKER"
     },
     "1291070": {
-      "rank": 4791,
+      "rank": 4788,
       "estimate": "<7k",
       "name": "GDevelop"
     },
     "1725980": {
-      "rank": 1942,
+      "rank": 1944,
       "estimate": "15k+",
       "name": "Godshard Chronicles"
     },
     "1751820": {
-      "rank": 4908,
+      "rank": 4903,
       "estimate": "<7k",
       "name": "Project OutFox"
     },
@@ -30,7 +30,7 @@
       "name": "Center Mass: Streets of Ramadi"
     },
     "2434830": {
-      "rank": 492,
+      "rank": 493,
       "estimate": "80k+",
       "name": "Surfpunk"
     },
@@ -50,22 +50,22 @@
       "name": "Scarlet Lake"
     },
     "2500500": {
-      "rank": 4094,
+      "rank": 4049,
       "estimate": "<7k",
       "name": "Survival Of Runt"
     },
     "2962320": {
-      "rank": 1525,
+      "rank": 1528,
       "estimate": "15k+",
       "name": "Artificial Detective"
     },
     "2962470": {
-      "rank": 894,
+      "rank": 895,
       "estimate": "40k+",
       "name": "Corruption of Belrand - Princess Knight Lysithea"
     },
     "2964560": {
-      "rank": 1367,
+      "rank": 1366,
       "estimate": "25k+",
       "name": "Happy Bastards"
     },
@@ -75,29 +75,34 @@
       "name": "Deaths Of Peck"
     },
     "3222250": {
-      "rank": 4862,
+      "rank": 4861,
       "estimate": "<7k",
       "name": "Nudist College"
     },
     "3802140": {
-      "rank": 461,
+      "rank": 462,
       "estimate": "80k+",
       "name": "Cassette Beasts 2002"
     },
     "3883060": {
-      "rank": 2950,
+      "rank": 2947,
       "estimate": "7k+",
       "name": "Dōkyūsei 2: Winter Heat"
     },
     "3883910": {
-      "rank": 615,
+      "rank": 611,
       "estimate": "40k+",
       "name": "La Divina Commedia"
     },
     "4402330": {
-      "rank": 1039,
+      "rank": 1040,
       "estimate": "25k+",
       "name": "The 9th Dragon"
+    },
+    "5000500": {
+      "rank": 5542,
+      "estimate": "<7k",
+      "name": "少女三国志"
     }
   }
 }

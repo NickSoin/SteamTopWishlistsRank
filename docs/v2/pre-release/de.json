@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T22:13:04.343Z",
-  "entryCount": 48,
+  "updatedAt": "2026-11-24T10:13:48.045Z",
+  "entryCount": 49,
   "entries": {
     "622630": {
       "rank": 1703,
@@ -279,6 +279,13 @@
       "estimate": "<7k",
       "name": "Around The Core",
       "releaseDate": "2026-08-21",
+      "source": "tracked"
+    },
+    "4416390": {
+      "rank": 1230,
+      "estimate": "25k+",
+      "name": "Terminus: Day Zero",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "4453300": {

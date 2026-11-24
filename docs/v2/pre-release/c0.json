@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T22:13:04.343Z",
-  "entryCount": 25,
+  "updatedAt": "2026-11-24T10:13:48.045Z",
+  "entryCount": 26,
   "entries": {
     "371640": {
       "rank": 3898,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Ocean Cleaner Idle",
       "releaseDate": "2026-06-09",
+      "source": "tracked"
+    },
+    "4801600": {
+      "rank": 4582,
+      "estimate": "<7k",
+      "name": "YuanRong",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "5186690": {

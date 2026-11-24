@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T22:13:04.343Z",
-  "entryCount": 44,
+  "updatedAt": "2026-11-24T10:13:48.045Z",
+  "entryCount": 45,
   "entries": {
     "789150": {
       "rank": 34,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "Echoes of Mora",
       "releaseDate": "2026-09-21",
+      "source": "tracked"
+    },
+    "3300570": {
+      "rank": 2911,
+      "estimate": "7k+",
+      "name": "Till the End",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "3448650": {

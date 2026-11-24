@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T22:13:04.343Z",
-  "entryCount": 55,
+  "updatedAt": "2026-11-24T10:13:48.045Z",
+  "entryCount": 56,
   "entries": {
     "671860": {
       "rank": 22,
@@ -359,6 +359,13 @@
       "estimate": "15k+",
       "name": "The Girl in the Window",
       "releaseDate": "2026-08-31",
+      "source": "tracked"
+    },
+    "4906740": {
+      "rank": 5325,
+      "estimate": "<7k",
+      "name": "KARAKARA3",
+      "releaseDate": "2026-11-23",
       "source": "tracked"
     },
     "4921660": {

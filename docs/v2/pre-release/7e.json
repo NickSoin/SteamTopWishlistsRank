@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-23T22:13:04.343Z",
-  "entryCount": 27,
+  "updatedAt": "2026-11-24T10:13:48.045Z",
+  "entryCount": 28,
   "entries": {
     "580640": {
       "rank": 369,
@@ -191,6 +191,13 @@
       "estimate": "7k+",
       "name": "The Kuon Island Nursery Rhyme Murders: Case Notes",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "4771370": {
+      "rank": 5486,
+      "estimate": "<7k",
+      "name": "Cities: Skylines - Content Creator Pack: Holiday Getaways",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     }
   }

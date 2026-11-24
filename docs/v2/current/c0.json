@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-23T22:13:04.343Z",
-  "entryCount": 25,
+  "updatedAt": "2026-11-24T10:13:48.045Z",
+  "entryCount": 24,
   "entries": {
     "888780": {
       "rank": 367,
@@ -10,27 +10,27 @@
       "name": "Adapt"
     },
     "1015370": {
-      "rank": 2934,
+      "rank": 2938,
       "estimate": "7k+",
       "name": "eXpanSIM"
     },
     "1518330": {
-      "rank": 1316,
+      "rank": 1315,
       "estimate": "25k+",
       "name": "Pirate Simulator"
     },
     "1545080": {
-      "rank": 2693,
+      "rank": 2692,
       "estimate": "7k+",
       "name": "Arran: The Book of Heroes"
     },
     "1574130": {
-      "rank": 3126,
+      "rank": 3129,
       "estimate": "<7k",
       "name": "The Ruins of Vagastia"
     },
     "1835570": {
-      "rank": 4176,
+      "rank": 4180,
       "estimate": "<7k",
       "name": "BioCrisis : Return 2 the Lab"
     },
@@ -40,12 +40,12 @@
       "name": "Tropico 7"
     },
     "1983910": {
-      "rank": 2085,
+      "rank": 2088,
       "estimate": "7k+",
       "name": "Prison Survival: Architect of Crime Simulator"
     },
     "2026450": {
-      "rank": 3453,
+      "rank": 3456,
       "estimate": "<7k",
       "name": "Stunt Derby"
     },
@@ -55,32 +55,32 @@
       "name": "Phantom Hellcat"
     },
     "3156020": {
-      "rank": 1511,
+      "rank": 1508,
       "estimate": "15k+",
       "name": "Gloomveil"
     },
     "3251280": {
-      "rank": 2087,
+      "rank": 2090,
       "estimate": "7k+",
       "name": "Rivals Hover League"
     },
     "3520410": {
-      "rank": 2064,
+      "rank": 2066,
       "estimate": "7k+",
       "name": "10hit"
     },
     "3579070": {
-      "rank": 2584,
+      "rank": 2587,
       "estimate": "7k+",
       "name": "Disposable Corps: Tactical Trench Warfare"
     },
     "3760360": {
-      "rank": 4402,
+      "rank": 4405,
       "estimate": "<7k",
       "name": "My Little Farm"
     },
     "3851260": {
-      "rank": 211,
+      "rank": 212,
       "estimate": "80k+",
       "name": "Euro Truck Simulator 2 - Isle of Ireland"
     },
@@ -90,7 +90,7 @@
       "name": "Rules of Engagement: The Grey State"
     },
     "3994840": {
-      "rank": 4198,
+      "rank": 4201,
       "estimate": "<7k",
       "name": "The Whisker Watch"
     },
@@ -100,22 +100,22 @@
       "name": "The Power of Truth - Book 1"
     },
     "4178100": {
-      "rank": 1368,
+      "rank": 1367,
       "estimate": "25k+",
       "name": "Whiskers Tale"
     },
     "4210060": {
-      "rank": 151,
+      "rank": 150,
       "estimate": "200k+",
       "name": "ZERO Sievert 2"
     },
     "4465790": {
-      "rank": 212,
+      "rank": 211,
       "estimate": "80k+",
       "name": "Deadzone Rogue 2"
     },
     "4536920": {
-      "rank": 4443,
+      "rank": 4447,
       "estimate": "<7k",
       "name": "Cards & Cannons"
     },
@@ -123,11 +123,6 @@
       "rank": 2134,
       "estimate": "7k+",
       "name": "METAXIA"
-    },
-    "4801600": {
-      "rank": 4582,
-      "estimate": "<7k",
-      "name": "YuanRong"
     }
   }
 }
