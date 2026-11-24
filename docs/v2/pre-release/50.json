@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 36,
   "entries": {
     "950180": {
       "rank": 218,
@@ -81,6 +81,13 @@
       "estimate": "15k+",
       "name": "Echo Weaver",
       "releaseDate": "2026-10-08",
+      "source": "tracked"
+    },
+    "2387740": {
+      "rank": 1924,
+      "estimate": "15k+",
+      "name": "Light of Atlantis",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     },
     "2390230": {

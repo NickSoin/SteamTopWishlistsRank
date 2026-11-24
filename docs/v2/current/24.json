@@ -1,78 +1,73 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 14,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 13,
   "entries": {
     "1143910": {
-      "rank": 3090,
+      "rank": 3081,
       "estimate": "<7k",
       "name": "DeathTower"
     },
     "1730460": {
-      "rank": 2736,
+      "rank": 2730,
       "estimate": "7k+",
       "name": "Nainai’s Recipe"
     },
     "1736220": {
-      "rank": 1354,
+      "rank": 1351,
       "estimate": "25k+",
       "name": "Might of Merchants"
     },
     "1784650": {
-      "rank": 2958,
+      "rank": 2949,
       "estimate": "7k+",
       "name": "BOSS FIGHTERS"
     },
     "1916800": {
-      "rank": 3503,
+      "rank": 3493,
       "estimate": "<7k",
       "name": "More Ore - The Incremental Idle RPG"
     },
     "1977100": {
-      "rank": 4813,
+      "rank": 4798,
       "estimate": "<7k",
       "name": "Timeless Heart VR"
     },
     "2344680": {
-      "rank": 3903,
+      "rank": 3891,
       "estimate": "<7k",
       "name": "Super VHS"
     },
     "2559370": {
-      "rank": 525,
+      "rank": 524,
       "estimate": "40k+",
       "name": "The Scramble Vice"
     },
     "3235570": {
-      "rank": 5613,
+      "rank": 5605,
       "estimate": "<7k",
       "name": "How Was Your Day?"
     },
     "3253930": {
-      "rank": 3218,
+      "rank": 3210,
       "estimate": "<7k",
       "name": "Rhythm Hotel"
     },
     "3722090": {
-      "rank": 2372,
+      "rank": 2366,
       "estimate": "7k+",
       "name": "Parasensor"
     },
     "3772190": {
-      "rank": 1415,
+      "rank": 1413,
       "estimate": "25k+",
       "name": "HALLOW BLADE"
     },
     "4119440": {
-      "rank": 5045,
+      "rank": 4826,
       "estimate": "<7k",
       "name": "Sker: The Bleeding Veil"
-    },
-    "5000170": {
-      "rank": 4683,
-      "estimate": "<7k",
-      "name": "BORE"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 40,
   "entries": {
     "669330": {
       "rank": 422,
@@ -261,6 +261,13 @@
       "estimate": "25k+",
       "name": "Dream of Corpse Lady - Deity's Three Egos",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4685950": {
+      "rank": 9904,
+      "estimate": "<7k",
+      "name": "Incremental Ants",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     },
     "4964110": {

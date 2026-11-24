@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 40,
   "entries": {
     "688540": {
       "rank": 1180,
@@ -204,6 +204,13 @@
       "estimate": "<7k",
       "name": "eBaseball™: PRO SPIRIT",
       "releaseDate": "2026-03-04",
+      "source": "tracked"
+    },
+    "4156500": {
+      "rank": 1162,
+      "estimate": "25k+",
+      "name": "Rekindled: Cozy Tavern Life",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     },
     "4163030": {

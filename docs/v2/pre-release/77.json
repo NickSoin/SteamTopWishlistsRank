@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 44,
   "entries": {
     "1116540": {
       "rank": 1,
@@ -309,6 +309,13 @@
       "estimate": "<7k",
       "name": "Happy Happy Office",
       "releaseDate": "2026-10-28",
+      "source": "tracked"
+    },
+    "5513420": {
+      "rank": 2600,
+      "estimate": "7k+",
+      "name": "C.L.T.",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     }
   }

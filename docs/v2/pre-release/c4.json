@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 42,
   "entries": {
     "1001520": {
       "rank": 5,
@@ -171,6 +171,13 @@
       "name": "Heretical",
       "releaseDate": "2024-10-30",
       "source": "historical"
+    },
+    "3220460": {
+      "rank": 4482,
+      "estimate": "<7k",
+      "name": "Lucky Scoop",
+      "releaseDate": "2026-11-24",
+      "source": "tracked"
     },
     "3221720": {
       "rank": 7198,

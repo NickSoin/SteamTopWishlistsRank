@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 44,
   "entries": {
     "680420": {
       "rank": 15,
@@ -311,6 +311,13 @@
       "estimate": "7k+",
       "name": "Tidy Up History",
       "releaseDate": "2026-09-16",
+      "source": "tracked"
+    },
+    "5391260": {
+      "rank": 2634,
+      "estimate": "7k+",
+      "name": "Fish It!: Sort the Aquarium Shop",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     }
   }

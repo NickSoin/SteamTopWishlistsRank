@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 53,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 54,
   "entries": {
     "651490": {
       "rank": 270,
@@ -373,6 +373,13 @@
       "estimate": "25k+",
       "name": "MUV-LUV GIRLS GARDEN Mellow Days",
       "releaseDate": "2026-11-18",
+      "source": "tracked"
+    },
+    "5395630": {
+      "rank": 3514,
+      "estimate": "<7k",
+      "name": "Symphony of War: The Nephilim Saga - Hold the Line",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 35,
   "entries": {
     "659300": {
       "rank": 3018,
@@ -244,6 +244,13 @@
       "estimate": "<7k",
       "name": "Death Game Simulator",
       "releaseDate": "2026-09-29",
+      "source": "tracked"
+    },
+    "5510420": {
+      "rank": 1144,
+      "estimate": "25k+",
+      "name": "Dead by Daylight: Terrifier",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     }
   }

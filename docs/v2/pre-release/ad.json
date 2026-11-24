@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 51,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 52,
   "entries": {
     "658920": {
       "rank": 716,
@@ -310,6 +310,13 @@
       "estimate": "<7k",
       "name": "Cold Rails",
       "releaseDate": "2026-11-04",
+      "source": "tracked"
+    },
+    "4488990": {
+      "rank": 5644,
+      "estimate": "<7k",
+      "name": "Carmilla : Crimson Moon",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     },
     "4489580": {

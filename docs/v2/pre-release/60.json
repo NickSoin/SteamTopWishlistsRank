@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
+  "updatedAt": "2026-11-24T20:55:44.816Z",
   "entryCount": 35,
   "entries": {
     "813230": {
@@ -147,11 +147,11 @@
       "source": "historical"
     },
     "2861730": {
-      "rank": 46,
-      "estimate": "600k+",
+      "rank": 967,
+      "estimate": "40k+",
       "name": "Food Devils",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-11-24",
+      "source": "tracked"
     },
     "2871520": {
       "rank": 77,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 42,
   "entries": {
     "851850": {
       "rank": 23,
@@ -77,6 +77,13 @@
       "name": "Mother Hub",
       "releaseDate": "2025-04-23",
       "source": "historical"
+    },
+    "1520340": {
+      "rank": 4008,
+      "estimate": "<7k",
+      "name": "Astario",
+      "releaseDate": "2026-11-24",
+      "source": "tracked"
     },
     "1550260": {
       "rank": 1104,

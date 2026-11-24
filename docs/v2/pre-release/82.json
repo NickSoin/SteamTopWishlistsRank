@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 36,
   "entries": {
     "629820": {
       "rank": 21,
@@ -145,6 +145,13 @@
       "name": "Entropy Survivors",
       "releaseDate": "2024-12-04",
       "source": "historical"
+    },
+    "2650150": {
+      "rank": 7805,
+      "estimate": "<7k",
+      "name": "Bird Game 3",
+      "releaseDate": "2026-11-24",
+      "source": "tracked"
     },
     "3016920": {
       "rank": 1300,

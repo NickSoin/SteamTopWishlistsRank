@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 33,
   "entries": {
     "812440": {
       "rank": 138,
@@ -140,6 +140,13 @@
       "releaseDate": "2026-04-14",
       "source": "historical",
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522846167"
+    },
+    "2984800": {
+      "rank": 1687,
+      "estimate": "15k+",
+      "name": "Double Whammy",
+      "releaseDate": "2026-11-24",
+      "source": "tracked"
     },
     "3121930": {
       "rank": 3606,

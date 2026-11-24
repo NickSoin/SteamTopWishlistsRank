@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 34,
   "entries": {
     "247970": {
       "rank": 513,
@@ -233,6 +233,13 @@
       "estimate": "7k+",
       "name": "不心动才有鬼",
       "releaseDate": "2026-08-13",
+      "source": "tracked"
+    },
+    "5527800": {
+      "rank": 464,
+      "estimate": "80k+",
+      "name": "No Asteroids",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     }
   }

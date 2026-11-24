@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 40,
   "entries": {
     "773370": {
       "rank": 126,
@@ -209,6 +209,13 @@
       "estimate": "7k+",
       "name": "Forsworn",
       "releaseDate": "2026-09-10",
+      "source": "tracked"
+    },
+    "4244180": {
+      "rank": 5337,
+      "estimate": "<7k",
+      "name": "No Blink Allowed",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     },
     "4324840": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 49,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 50,
   "entries": {
     "458430": {
       "rank": 911,
@@ -187,6 +187,13 @@
       "name": "The Whims of the Gods",
       "releaseDate": "2026-01-01",
       "source": "historical"
+    },
+    "2669450": {
+      "rank": 1497,
+      "estimate": "25k+",
+      "name": "My Child New Beginnings",
+      "releaseDate": "2026-11-24",
+      "source": "tracked"
     },
     "2738990": {
       "rank": 1057,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 25,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 26,
   "entries": {
     "912000": {
       "rank": 895,
@@ -177,6 +177,13 @@
       "estimate": "25k+",
       "name": "Don't Sleep With The Fishes",
       "releaseDate": "2026-06-26",
+      "source": "tracked"
+    },
+    "5303520": {
+      "rank": 5424,
+      "estimate": "<7k",
+      "name": "Amber Eyes",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     }
   }

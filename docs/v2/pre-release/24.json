@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 31,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 32,
   "entries": {
     "623280": {
       "rank": 34,
@@ -223,6 +223,13 @@
       "estimate": "<7k",
       "name": "College Quest",
       "releaseDate": "2026-06-15",
+      "source": "tracked"
+    },
+    "5000170": {
+      "rank": 4683,
+      "estimate": "<7k",
+      "name": "BORE",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     }
   }

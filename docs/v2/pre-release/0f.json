@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 43,
   "entries": {
     "436780": {
       "rank": 31,
@@ -108,6 +108,13 @@
       "name": "Resident Evil Village - Winters’ Expansion",
       "releaseDate": "2022-10-27",
       "source": "historical"
+    },
+    "1737370": {
+      "rank": 1868,
+      "estimate": "15k+",
+      "name": "Jurassic Architect",
+      "releaseDate": "2026-11-24",
+      "source": "tracked"
     },
     "1760330": {
       "rank": 1360,

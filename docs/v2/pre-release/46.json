@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T10:13:48.045Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-24T20:55:44.816Z",
+  "entryCount": 41,
   "entries": {
     "412020": {
       "rank": 3,
@@ -284,6 +284,13 @@
       "estimate": "80k+",
       "name": "Japanese Ramen Simulator",
       "releaseDate": "2026-10-09",
+      "source": "tracked"
+    },
+    "4990940": {
+      "rank": 1531,
+      "estimate": "15k+",
+      "name": "PC Store Together",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     }
   }
