@@ -1,46 +1,46 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-25T09:17:02.448Z",
-  "entryCount": 15,
+  "updatedAt": "2026-11-25T20:15:20.435Z",
+  "entryCount": 16,
   "entries": {
     "1072910": {
-      "rank": 2159,
+      "rank": 2155,
       "estimate": "7k+",
       "name": "Drill Man Rumble"
     },
     "1906190": {
-      "rank": 593,
+      "rank": 592,
       "estimate": "40k+",
       "name": "BackRooms"
     },
     "2110150": {
-      "rank": 3091,
+      "rank": 3088,
       "estimate": "<7k",
       "name": "Thesis of Love 心动论证"
     },
     "2278180": {
-      "rank": 4707,
+      "rank": 4705,
       "estimate": "<7k",
       "name": "The Secret of Crystal Mountain"
     },
     "2334600": {
-      "rank": 1863,
+      "rank": 1857,
       "estimate": "15k+",
       "name": "Family Land - Farmer Simulator"
     },
     "2338820": {
-      "rank": 4388,
+      "rank": 4384,
       "estimate": "<7k",
       "name": "DataJack 2020"
     },
     "2863300": {
-      "rank": 3579,
+      "rank": 3574,
       "estimate": "<7k",
       "name": "Absym"
     },
     "2988160": {
-      "rank": 4426,
+      "rank": 4422,
       "estimate": "<7k",
       "name": "Fear The Reaper"
     },
@@ -55,7 +55,7 @@
       "name": "Kaidan"
     },
     "3990010": {
-      "rank": 3149,
+      "rank": 3144,
       "estimate": "<7k",
       "name": "Benefitship: The Hallowed Wiener"
     },
@@ -65,19 +65,24 @@
       "name": "Endless War: Defense"
     },
     "4743190": {
-      "rank": 5287,
+      "rank": 5279,
       "estimate": "<7k",
       "name": "NOSTRA"
     },
     "4909990": {
-      "rank": 3258,
+      "rank": 3255,
       "estimate": "<7k",
       "name": "Taori"
     },
     "5111590": {
-      "rank": 5182,
+      "rank": 5178,
       "estimate": "<7k",
       "name": "Unlucky Swordsmith"
+    },
+    "5521650": {
+      "rank": 5607,
+      "estimate": "<7k",
+      "name": "My General"
     }
   }
 }

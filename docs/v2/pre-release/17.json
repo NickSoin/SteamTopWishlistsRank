@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-25T09:17:02.448Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-25T20:15:20.435Z",
+  "entryCount": 38,
   "entries": {
     "950620": {
       "rank": 254,
@@ -225,6 +225,13 @@
       "estimate": "80k+",
       "name": "The Lantern of the Laughless Saint",
       "releaseDate": "2026-08-17",
+      "source": "tracked"
+    },
+    "4009490": {
+      "rank": 380,
+      "estimate": "80k+",
+      "name": "Arctic Drive",
+      "releaseDate": "2026-11-25",
       "source": "tracked"
     },
     "4135380": {

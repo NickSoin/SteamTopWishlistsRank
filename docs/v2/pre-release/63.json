@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-25T09:17:02.448Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-25T20:15:20.435Z",
+  "entryCount": 46,
   "entries": {
     "814380": {
       "rank": 1,
@@ -319,6 +319,13 @@
       "estimate": "25k+",
       "name": "One Way Tickets",
       "releaseDate": "2026-10-22",
+      "source": "tracked"
+    },
+    "4933500": {
+      "rank": 1206,
+      "estimate": "25k+",
+      "name": "Me and You",
+      "releaseDate": "2026-11-25",
       "source": "tracked"
     }
   }

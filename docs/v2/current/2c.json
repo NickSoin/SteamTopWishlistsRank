@@ -1,51 +1,51 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-25T09:17:02.448Z",
-  "entryCount": 17,
+  "updatedAt": "2026-11-25T20:15:20.435Z",
+  "entryCount": 18,
   "entries": {
     "744200": {
-      "rank": 3574,
+      "rank": 3570,
       "estimate": "<7k",
       "name": "Altiros"
     },
     "1166890": {
-      "rank": 470,
+      "rank": 469,
       "estimate": "80k+",
       "name": "Necrofugitive"
     },
     "1218780": {
-      "rank": 3650,
+      "rank": 3647,
       "estimate": "<7k",
       "name": "Little Shop of Junk"
     },
     "1795090": {
-      "rank": 4723,
+      "rank": 4722,
       "estimate": "<7k",
       "name": "Monastery Builder"
     },
     "1883360": {
-      "rank": 1706,
+      "rank": 1699,
       "estimate": "15k+",
       "name": "The White Raven"
     },
     "1884660": {
-      "rank": 4922,
+      "rank": 4920,
       "estimate": "<7k",
       "name": "Echoes: A Transmissions Story"
     },
     "2523380": {
-      "rank": 1658,
+      "rank": 1651,
       "estimate": "15k+",
       "name": "Red Kiss"
     },
     "2651520": {
-      "rank": 2453,
+      "rank": 2448,
       "estimate": "7k+",
       "name": "Erotic Trial of the Alcummists"
     },
     "2792540": {
-      "rank": 3588,
+      "rank": 3583,
       "estimate": "<7k",
       "name": "Anima Keeper"
     },
@@ -60,34 +60,39 @@
       "name": "There Are No Ghosts at the Grand"
     },
     "3812830": {
-      "rank": 717,
+      "rank": 716,
       "estimate": "40k+",
       "name": "Tiny Delivery"
     },
     "4006300": {
-      "rank": 4971,
+      "rank": 4964,
       "estimate": "<7k",
       "name": "Something Meaningful"
     },
     "4208920": {
-      "rank": 5465,
+      "rank": 5444,
       "estimate": "<7k",
       "name": "Corrupted Veil"
     },
     "4338490": {
-      "rank": 1767,
+      "rank": 1763,
       "estimate": "15k+",
       "name": "Tokyo Loves Tears"
     },
     "4529850": {
-      "rank": 1114,
+      "rank": 1112,
       "estimate": "25k+",
       "name": "Runeward Online"
     },
     "4785780": {
-      "rank": 5172,
+      "rank": 5164,
       "estimate": "<7k",
       "name": "Ticker Panic: Stock Market Simulator"
+    },
+    "5004930": {
+      "rank": 5815,
+      "estimate": "<7k",
+      "name": "Fish Them All!"
     }
   }
 }

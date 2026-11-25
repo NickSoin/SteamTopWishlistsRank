@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-25T09:17:02.448Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-25T20:15:20.435Z",
+  "entryCount": 39,
   "entries": {
     "990080": {
       "rank": 1,
@@ -270,6 +270,13 @@
       "estimate": "15k+",
       "name": "DreamRace",
       "releaseDate": "2026-06-16",
+      "source": "tracked"
+    },
+    "5224430": {
+      "rank": 4302,
+      "estimate": "<7k",
+      "name": "Hotel Architect - Poolside Paradise",
+      "releaseDate": "2026-11-25",
       "source": "tracked"
     }
   }

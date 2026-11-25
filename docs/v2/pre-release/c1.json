@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-25T09:17:02.448Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-25T20:15:20.435Z",
+  "entryCount": 33,
   "entries": {
     "912840": {
       "rank": 1084,
@@ -193,6 +193,13 @@
       "estimate": "7k+",
       "name": "Tentacle Locker 2",
       "releaseDate": "2026-09-11",
+      "source": "tracked"
+    },
+    "4308630": {
+      "rank": 8854,
+      "estimate": "<7k",
+      "name": "Dopamine rogue",
+      "releaseDate": "2026-11-25",
       "source": "tracked"
     },
     "4332910": {

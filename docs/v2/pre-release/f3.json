@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-25T09:17:02.448Z",
-  "entryCount": 34,
+  "updatedAt": "2026-11-25T20:15:20.435Z",
+  "entryCount": 35,
   "entries": {
     "410740": {
       "rank": 1177,
@@ -206,6 +206,13 @@
       "name": "Deadly Delivery",
       "releaseDate": "2025-12-04",
       "source": "historical"
+    },
+    "4193300": {
+      "rank": 2728,
+      "estimate": "7k+",
+      "name": "Fleshborn",
+      "releaseDate": "2026-11-25",
+      "source": "tracked"
     },
     "4271680": {
       "rank": 3703,

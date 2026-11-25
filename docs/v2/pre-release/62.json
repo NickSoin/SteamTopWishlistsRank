@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-25T09:17:02.448Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-25T20:15:20.435Z",
+  "entryCount": 43,
   "entries": {
     "261550": {
       "rank": 7,
@@ -277,6 +277,13 @@
       "estimate": "<7k",
       "name": "Robin Hood: Sherwood Valley",
       "releaseDate": "2026-08-03",
+      "source": "tracked"
+    },
+    "4941160": {
+      "rank": 1547,
+      "estimate": "15k+",
+      "name": "A Sector Darkly",
+      "releaseDate": "2026-11-25",
       "source": "tracked"
     },
     "5063140": {

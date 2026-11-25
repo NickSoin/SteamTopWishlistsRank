@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-25T09:17:02.448Z",
-  "entryCount": 57,
+  "updatedAt": "2026-11-25T20:15:20.435Z",
+  "entryCount": 58,
   "entries": {
     "720660": {
       "rank": 1007,
@@ -275,6 +275,13 @@
       "estimate": "<7k",
       "name": "Project: Autumn",
       "releaseDate": "2026-11-10",
+      "source": "tracked"
+    },
+    "3109590": {
+      "rank": 796,
+      "estimate": "40k+",
+      "name": "Cat Cafe Manager 2: Big City Bliss",
+      "releaseDate": "2026-11-25",
       "source": "tracked"
     },
     "3115490": {
