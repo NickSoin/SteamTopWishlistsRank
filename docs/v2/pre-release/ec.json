@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T20:55:44.816Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-25T09:17:02.448Z",
+  "entryCount": 40,
   "entries": {
     "715400": {
       "rank": 49,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "CREATION OF THE GODS: Rebellion at Five Passes",
       "releaseDate": "2026-07-29",
+      "source": "tracked"
+    },
+    "3911490": {
+      "rank": 8400,
+      "estimate": "<7k",
+      "name": "Forge the Fates",
+      "releaseDate": "2026-11-25",
       "source": "tracked"
     },
     "3959890": {

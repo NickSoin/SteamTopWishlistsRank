@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T20:55:44.816Z",
-  "entryCount": 57,
+  "updatedAt": "2026-11-25T09:17:02.448Z",
+  "entryCount": 58,
   "entries": {
     "976890": {
       "rank": 70,
@@ -358,6 +358,13 @@
       "estimate": "80k+",
       "name": "Warhammer 40,000: Darktide - Skitarii Class",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4483020": {
+      "rank": 3219,
+      "estimate": "<7k",
+      "name": "Echoes of the Flame",
+      "releaseDate": "2026-11-24",
       "source": "tracked"
     },
     "4486870": {

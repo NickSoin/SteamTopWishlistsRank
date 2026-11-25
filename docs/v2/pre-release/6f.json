@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T20:55:44.816Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-25T09:17:02.448Z",
+  "entryCount": 41,
   "entries": {
     "918570": {
       "rank": 38,
@@ -279,6 +279,13 @@
       "estimate": "<7k",
       "name": "The Labyrinth on Burrow Hill",
       "releaseDate": "2026-06-19",
+      "source": "tracked"
+    },
+    "4779290": {
+      "rank": 1758,
+      "estimate": "15k+",
+      "name": "Meme Paint",
+      "releaseDate": "2026-11-25",
       "source": "tracked"
     },
     "4810070": {

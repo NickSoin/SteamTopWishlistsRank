@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-24T20:55:44.816Z",
-  "entryCount": 28,
+  "updatedAt": "2026-11-25T09:17:02.448Z",
+  "entryCount": 29,
   "entries": {
     "1194810": {
       "rank": 21,
@@ -59,6 +59,13 @@
       "name": "My Holiness the Gobliness",
       "releaseDate": "2024-05-16",
       "source": "historical"
+    },
+    "2209340": {
+      "rank": 9553,
+      "estimate": "<7k",
+      "name": "Have You Herd?",
+      "releaseDate": "2026-11-24",
+      "source": "tracked"
     },
     "2257440": {
       "rank": 925,
