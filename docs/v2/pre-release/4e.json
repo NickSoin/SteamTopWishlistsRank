@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-25T20:15:20.435Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-26T03:12:14.906Z",
+  "entryCount": 41,
   "entries": {
     "611360": {
       "rank": 243,
@@ -275,6 +275,13 @@
       "estimate": "<7k",
       "name": "HelloLove2:Binary",
       "releaseDate": "2026-11-24",
+      "source": "tracked"
+    },
+    "5169710": {
+      "rank": 2041,
+      "estimate": "7k+",
+      "name": "Witchkeeping",
+      "releaseDate": "2026-11-25",
       "source": "tracked"
     },
     "5482350": {

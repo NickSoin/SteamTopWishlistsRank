@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-25T20:15:20.435Z",
-  "entryCount": 32,
+  "updatedAt": "2026-11-26T03:12:14.906Z",
+  "entryCount": 33,
   "entries": {
     "747660": {
       "rank": 193,
@@ -172,6 +172,13 @@
       "estimate": "7k+",
       "name": "The Great Wastes",
       "releaseDate": "2026-09-27",
+      "source": "tracked"
+    },
+    "3830590": {
+      "rank": 3934,
+      "estimate": "<7k",
+      "name": "Stealing Them Softly",
+      "releaseDate": "2026-11-25",
       "source": "tracked"
     },
     "3952540": {

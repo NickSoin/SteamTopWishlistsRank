@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-25T20:15:20.435Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-26T03:12:14.906Z",
+  "entryCount": 40,
   "entries": {
     "674140": {
       "rank": 537,
@@ -265,6 +265,13 @@
       "estimate": "7k+",
       "name": "Swarmbreaker",
       "releaseDate": "2026-11-18",
+      "source": "tracked"
+    },
+    "5045040": {
+      "rank": 5159,
+      "estimate": "<7k",
+      "name": "Traymon World: Taskbar Monster RPG",
+      "releaseDate": "2026-11-25",
       "source": "tracked"
     },
     "5135440": {

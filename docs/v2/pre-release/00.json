@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-25T20:15:20.435Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-26T03:12:14.906Z",
+  "entryCount": 42,
   "entries": {
     "763180": {
       "rank": 734,
@@ -289,6 +289,13 @@
       "estimate": "25k+",
       "name": "The Crimson Hunt",
       "releaseDate": "2026-10-06",
+      "source": "tracked"
+    },
+    "5423890": {
+      "rank": 5134,
+      "estimate": "<7k",
+      "name": "MYTHHUNT",
+      "releaseDate": "2026-11-25",
       "source": "tracked"
     }
   }

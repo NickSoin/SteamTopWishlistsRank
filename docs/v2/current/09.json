@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-25T20:15:20.435Z",
-  "entryCount": 17,
+  "updatedAt": "2026-11-26T03:12:14.906Z",
+  "entryCount": 16,
   "entries": {
     "1104800": {
       "rank": 3171,
@@ -15,22 +15,22 @@
       "name": "The Last Barbarian"
     },
     "2545880": {
-      "rank": 2283,
+      "rank": 2284,
       "estimate": "7k+",
       "name": "HistoriCity: Florence"
     },
     "2849380": {
-      "rank": 5366,
+      "rank": 5364,
       "estimate": "<7k",
       "name": "Succubus Dungeon"
     },
     "3086670": {
-      "rank": 1276,
+      "rank": 1277,
       "estimate": "25k+",
       "name": "SKINWALKER: First Blood"
     },
     "3514920": {
-      "rank": 5006,
+      "rank": 5005,
       "estimate": "<7k",
       "name": "Pin-Crawl"
     },
@@ -55,7 +55,7 @@
       "name": "CRYMELIGHT"
     },
     "4032410": {
-      "rank": 3721,
+      "rank": 3718,
       "estimate": "<7k",
       "name": "OnlySins"
     },
@@ -65,29 +65,24 @@
       "name": "Everbrew"
     },
     "4230380": {
-      "rank": 4527,
+      "rank": 4523,
       "estimate": "<7k",
       "name": "Tinker Islands"
     },
     "4261650": {
-      "rank": 2326,
+      "rank": 2325,
       "estimate": "7k+",
       "name": "MASAKRE"
     },
     "4265830": {
-      "rank": 4253,
+      "rank": 4254,
       "estimate": "<7k",
       "name": "Spyder: Agent 8"
     },
     "4878690": {
-      "rank": 802,
+      "rank": 801,
       "estimate": "40k+",
       "name": "Don't Pick Up"
-    },
-    "4986050": {
-      "rank": 1235,
-      "estimate": "25k+",
-      "name": "Network & Cyber Security Simulator"
     }
   }
 }
