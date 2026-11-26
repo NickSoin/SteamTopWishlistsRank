@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T03:12:14.906Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-26T15:47:34.316Z",
+  "entryCount": 39,
   "entries": {
     "1170080": {
       "rank": 986,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "Flux Empyrean",
       "releaseDate": "2026-07-13",
+      "source": "tracked"
+    },
+    "3934510": {
+      "rank": 8053,
+      "estimate": "<7k",
+      "name": "A Cold Comfort",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4039140": {

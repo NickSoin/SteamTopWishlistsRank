@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T03:12:14.906Z",
-  "entryCount": 51,
+  "updatedAt": "2026-11-26T15:47:34.316Z",
+  "entryCount": 52,
   "entries": {
     "607080": {
       "rank": 2,
@@ -338,6 +338,13 @@
       "estimate": "15k+",
       "name": "Suncraft",
       "releaseDate": "2026-07-28",
+      "source": "tracked"
+    },
+    "4315950": {
+      "rank": 3873,
+      "estimate": "<7k",
+      "name": "Mars Colony Simulator",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4671050": {

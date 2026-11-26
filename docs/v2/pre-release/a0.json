@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T03:12:14.906Z",
-  "entryCount": 33,
+  "updatedAt": "2026-11-26T15:47:34.316Z",
+  "entryCount": 34,
   "entries": {
     "922620": {
       "rank": 627,
@@ -170,6 +170,13 @@
       "estimate": "7k+",
       "name": "World Tree Ranch: Elven Legacy",
       "releaseDate": "2026-07-17",
+      "source": "tracked"
+    },
+    "3651370": {
+      "rank": 2471,
+      "estimate": "7k+",
+      "name": "Sombie",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "3760100": {

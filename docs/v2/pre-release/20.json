@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T03:12:14.906Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-26T15:47:34.316Z",
+  "entryCount": 43,
   "entries": {
     "628740": {
       "rank": 647,
@@ -296,6 +296,13 @@
       "estimate": "<7k",
       "name": "onRails",
       "releaseDate": "2026-07-22",
+      "source": "tracked"
+    },
+    "5360050": {
+      "rank": 5680,
+      "estimate": "<7k",
+      "name": "Carnival: Tidy Up!",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     }
   }

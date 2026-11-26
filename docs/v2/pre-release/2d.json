@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T03:12:14.906Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-26T15:47:34.316Z",
+  "entryCount": 44,
   "entries": {
     "1084160": {
       "rank": 99,
@@ -221,6 +221,13 @@
       "releaseDate": "2026-07-30",
       "source": "tracked"
     },
+    "3456950": {
+      "rank": 644,
+      "estimate": "40k+",
+      "name": "Pixel Gun 2",
+      "releaseDate": "2026-11-26",
+      "source": "tracked"
+    },
     "4059000": {
       "rank": 1167,
       "estimate": "25k+",
@@ -240,6 +247,13 @@
       "estimate": "<7k",
       "name": "它说山雨欲来",
       "releaseDate": "2026-10-29",
+      "source": "tracked"
+    },
+    "4253570": {
+      "rank": 252,
+      "estimate": "80k+",
+      "name": "Reshine",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4303680": {

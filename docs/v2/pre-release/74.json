@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T03:12:14.906Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-26T15:47:34.316Z",
+  "entryCount": 44,
   "entries": {
     "511280": {
       "rank": 886,
@@ -216,6 +216,13 @@
       "estimate": "200k+",
       "name": "Thick As Thieves",
       "releaseDate": "2026-05-20",
+      "source": "tracked"
+    },
+    "3376860": {
+      "rank": 2497,
+      "estimate": "7k+",
+      "name": "The Retrospection Of Tomorrow",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "3522360": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T03:12:14.906Z",
-  "entryCount": 28,
+  "updatedAt": "2026-11-26T15:47:34.316Z",
+  "entryCount": 29,
   "entries": {
     "304770": {
       "rank": 2629,
@@ -179,6 +179,13 @@
       "estimate": "7k+",
       "name": "Walk The Frog",
       "releaseDate": "2026-05-21",
+      "source": "tracked"
+    },
+    "3498700": {
+      "rank": 1352,
+      "estimate": "25k+",
+      "name": "Appulse",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4131730": {

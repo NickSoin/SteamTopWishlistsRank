@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T03:12:14.906Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-26T15:47:34.316Z",
+  "entryCount": 40,
   "entries": {
     "299970": {
       "rank": 34,
@@ -263,6 +263,13 @@
       "estimate": "<7k",
       "name": "Copy Cats",
       "releaseDate": "2026-10-29",
+      "source": "tracked"
+    },
+    "4754910": {
+      "rank": 4590,
+      "estimate": "<7k",
+      "name": "Steal & Sell Simulator",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4763220": {

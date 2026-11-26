@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T03:12:14.906Z",
-  "entryCount": 50,
+  "updatedAt": "2026-11-26T15:47:34.316Z",
+  "entryCount": 51,
   "entries": {
     "972450": {
       "rank": 4756,
@@ -337,6 +337,13 @@
       "estimate": "<7k",
       "name": "C.U.B.E",
       "releaseDate": "2026-08-21",
+      "source": "tracked"
+    },
+    "4635290": {
+      "rank": 1177,
+      "estimate": "25k+",
+      "name": "Grave Mistakes",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4652730": {
