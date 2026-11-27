@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 46,
   "entries": {
     "307950": {
       "rank": 1484,
@@ -154,6 +154,13 @@
       "name": "ERA ONE",
       "releaseDate": "2025-08-06",
       "source": "historical"
+    },
+    "2533700": {
+      "rank": 8215,
+      "estimate": "<7k",
+      "name": "Love, in Debt!?",
+      "releaseDate": "2026-11-26",
+      "source": "tracked"
     },
     "2672610": {
       "rank": 2725,

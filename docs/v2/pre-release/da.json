@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "updatedAt": "2026-11-27T15:40:25.013Z",
   "entryCount": 31,
   "entries": {
     "721180": {
@@ -54,11 +54,11 @@
       "source": "historical"
     },
     "1622130": {
-      "rank": 489,
+      "rank": 485,
       "estimate": "80k+",
       "name": "Our Life: Now & Forever",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-11-27",
+      "source": "tracked"
     },
     "1641960": {
       "rank": 38,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 48,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 49,
   "entries": {
     "454120": {
       "rank": 35,
@@ -185,6 +185,13 @@
       "name": "Star Trucker",
       "releaseDate": "2024-09-03",
       "source": "historical"
+    },
+    "2431590": {
+      "rank": 1796,
+      "estimate": "15k+",
+      "name": "Starship Crafter",
+      "releaseDate": "2026-11-27",
+      "source": "tracked"
     },
     "2455040": {
       "rank": 1586,

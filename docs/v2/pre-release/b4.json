@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 52,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 53,
   "entries": {
     "607080": {
       "rank": 2,
@@ -234,6 +234,13 @@
       "name": "完蛋！我也能追到美女了！",
       "releaseDate": "2023-12-28",
       "source": "historical"
+    },
+    "2755260": {
+      "rank": 5657,
+      "estimate": "<7k",
+      "name": "Dome RPG",
+      "releaseDate": "2026-11-27",
+      "source": "tracked"
     },
     "2774830": {
       "rank": 1938,

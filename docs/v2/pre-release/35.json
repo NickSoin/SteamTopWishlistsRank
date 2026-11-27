@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 57,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 58,
   "entries": {
     "671860": {
       "rank": 22,
@@ -387,6 +387,13 @@
       "estimate": "15k+",
       "name": "BALL PICKER - Clean Up the Golf Yard",
       "releaseDate": "2026-11-17",
+      "source": "tracked"
+    },
+    "5066090": {
+      "rank": 1926,
+      "estimate": "15k+",
+      "name": "Piece and Quiet: A Stained Glass Restoration",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     },
     "5189160": {

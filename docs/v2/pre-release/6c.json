@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 42,
   "entries": {
     "894020": {
       "rank": 39,
@@ -258,6 +258,13 @@
       "estimate": "<7k",
       "name": "Train Valley 2: Workshop Gems - Onyx",
       "releaseDate": "2026-08-26",
+      "source": "tracked"
+    },
+    "4516210": {
+      "rank": 4525,
+      "estimate": "<7k",
+      "name": "Studio Sim",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     },
     "4521700": {

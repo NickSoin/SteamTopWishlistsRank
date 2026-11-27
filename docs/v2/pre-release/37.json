@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 44,
   "entries": {
     "863500": {
       "rank": 1011,
@@ -233,6 +233,13 @@
       "estimate": "<7k",
       "name": "Saga of Yurina",
       "releaseDate": "2026-08-27",
+      "source": "tracked"
+    },
+    "4302300": {
+      "rank": 5003,
+      "estimate": "<7k",
+      "name": "Empire Water Works",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4451190": {

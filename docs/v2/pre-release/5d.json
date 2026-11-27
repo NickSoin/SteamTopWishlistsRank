@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "updatedAt": "2026-11-27T15:40:25.013Z",
   "entryCount": 46,
   "entries": {
     "809090": {
@@ -26,11 +26,11 @@
       "source": "historical"
     },
     "1320170": {
-      "rank": 989,
-      "estimate": "40k+",
+      "rank": 2789,
+      "estimate": "7k+",
       "name": "Lifeguard Simulator",
-      "releaseDate": "2026-01-01",
-      "source": "historical"
+      "releaseDate": "2026-11-27",
+      "source": "tracked"
     },
     "1323830": {
       "rank": 1119,

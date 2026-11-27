@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 38,
   "entries": {
     "397540": {
       "rank": 26,
@@ -256,6 +256,13 @@
       "estimate": "15k+",
       "name": "Camp Whittlewood",
       "releaseDate": "2026-09-28",
+      "source": "tracked"
+    },
+    "4992770": {
+      "rank": 5410,
+      "estimate": "<7k",
+      "name": "Infinite Loop: Incremental",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "5075270": {

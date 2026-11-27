@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 39,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 40,
   "entries": {
     "380110": {
       "rank": 1474,
@@ -253,6 +253,13 @@
       "estimate": "<7k",
       "name": "NIGHTMIST",
       "releaseDate": "2026-07-21",
+      "source": "tracked"
+    },
+    "4776500": {
+      "rank": 633,
+      "estimate": "40k+",
+      "name": "Carry On Together",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     },
     "5038160": {

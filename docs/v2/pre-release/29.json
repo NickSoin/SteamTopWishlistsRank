@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 44,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 45,
   "entries": {
     "927350": {
       "rank": 30,
@@ -310,6 +310,13 @@
       "estimate": "<7k",
       "name": "BOB LOGISTICS",
       "releaseDate": "2026-11-02",
+      "source": "tracked"
+    },
+    "5164110": {
+      "rank": 2064,
+      "estimate": "7k+",
+      "name": "Bio Inc. Total Defense",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     }
   }

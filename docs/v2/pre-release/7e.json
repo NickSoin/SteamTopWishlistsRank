@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 28,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 29,
   "entries": {
     "580640": {
       "rank": 369,
@@ -198,6 +198,13 @@
       "estimate": "<7k",
       "name": "Cities: Skylines - Content Creator Pack: Holiday Getaways",
       "releaseDate": "2026-11-24",
+      "source": "tracked"
+    },
+    "5178240": {
+      "rank": 4531,
+      "estimate": "<7k",
+      "name": "Just Weeding",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     }
   }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 38,
   "entries": {
     "429380": {
       "rank": 36,
@@ -246,6 +246,13 @@
       "estimate": "<7k",
       "name": "Slots & Sword & Magic",
       "releaseDate": "2026-09-29",
+      "source": "tracked"
+    },
+    "4620790": {
+      "rank": 9407,
+      "estimate": "<7k",
+      "name": "Cargo Lines",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     },
     "4636920": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 39,
   "entries": {
     "615530": {
       "rank": 223,
@@ -160,6 +160,20 @@
       "releaseDate": "2026-11-15",
       "source": "tracked"
     },
+    "3565090": {
+      "rank": 2663,
+      "estimate": "7k+",
+      "name": "Goobies 2",
+      "releaseDate": "2026-11-27",
+      "source": "tracked"
+    },
+    "3634710": {
+      "rank": 3471,
+      "estimate": "<7k",
+      "name": "DWARRF: A Pinball Roguelike",
+      "releaseDate": "2026-11-27",
+      "source": "tracked"
+    },
     "3670570": {
       "rank": 4782,
       "estimate": "<7k",
@@ -221,6 +235,13 @@
       "estimate": "7k+",
       "name": "Crime Podcast: Welcome to the Neighborhood",
       "releaseDate": "2026-11-02",
+      "source": "tracked"
+    },
+    "4515920": {
+      "rank": 6060,
+      "estimate": "<7k",
+      "name": "BABKA-TERROR",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     },
     "4559630": {

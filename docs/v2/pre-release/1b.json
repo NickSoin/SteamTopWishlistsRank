@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 24,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 25,
   "entries": {
     "1091920": {
       "rank": 46,
@@ -170,6 +170,13 @@
       "estimate": "<7k",
       "name": "Hidden Raccoons in Summer",
       "releaseDate": "2026-06-23",
+      "source": "tracked"
+    },
+    "4601360": {
+      "rank": 9725,
+      "estimate": "<7k",
+      "name": "Magic Quest Online",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     }
   }

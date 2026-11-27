@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T03:09:25.688Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-27T15:40:25.013Z",
+  "entryCount": 42,
   "entries": {
     "412020": {
       "rank": 3,
@@ -277,6 +277,13 @@
       "estimate": "<7k",
       "name": "THE DEEPEST CASTLE",
       "releaseDate": "2026-07-23",
+      "source": "tracked"
+    },
+    "4894240": {
+      "rank": 2837,
+      "estimate": "7k+",
+      "name": "Devout Saintess Selenia",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     },
     "4968640": {
