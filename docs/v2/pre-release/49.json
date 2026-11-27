@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T15:47:34.316Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "entryCount": 42,
   "entries": {
     "1432910": {
       "rank": 1208,
@@ -281,6 +281,13 @@
       "estimate": "<7k",
       "name": "Cities: Skylines - Content Creator Pack: Mansions & Manors",
       "releaseDate": "2026-11-24",
+      "source": "tracked"
+    },
+    "4773720": {
+      "rank": 4003,
+      "estimate": "<7k",
+      "name": "A Real Life Party",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4914970": {

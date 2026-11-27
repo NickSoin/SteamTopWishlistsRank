@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T15:47:34.316Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "entryCount": 48,
   "entries": {
     "714370": {
       "rank": 8,
@@ -178,6 +178,13 @@
       "name": "Goat Simulator 3 - Multiverse of Nonsense",
       "releaseDate": "2024-06-19",
       "source": "historical"
+    },
+    "3039960": {
+      "rank": 4041,
+      "estimate": "<7k",
+      "name": "Near The Sun",
+      "releaseDate": "2026-11-26",
+      "source": "tracked"
     },
     "3044740": {
       "rank": 918,

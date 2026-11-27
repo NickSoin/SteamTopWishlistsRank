@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T15:47:34.316Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "entryCount": 46,
   "entries": {
     "649950": {
       "rank": 19,
@@ -198,6 +198,13 @@
       "source": "tracked",
       "actualWishlists": 288000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791908"
+    },
+    "3113690": {
+      "rank": 2640,
+      "estimate": "7k+",
+      "name": "Ship Miner",
+      "releaseDate": "2026-11-27",
+      "source": "tracked"
     },
     "3194080": {
       "rank": 7504,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T15:47:34.316Z",
-  "entryCount": 43,
+  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "entryCount": 44,
   "entries": {
     "628740": {
       "rank": 647,
@@ -191,6 +191,13 @@
       "estimate": "40k+",
       "name": "Map Map - A Game About Maps",
       "releaseDate": "2026-05-28",
+      "source": "tracked"
+    },
+    "2715880": {
+      "rank": 1967,
+      "estimate": "15k+",
+      "name": "Farmer's Diary",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "2735510": {

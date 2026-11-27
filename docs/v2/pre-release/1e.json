@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T15:47:34.316Z",
-  "entryCount": 38,
+  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "entryCount": 39,
   "entries": {
     "868270": {
       "rank": 16,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "Cardaire: Eternal Aces",
       "releaseDate": "2026-11-09",
+      "source": "tracked"
+    },
+    "4255780": {
+      "rank": 1416,
+      "estimate": "25k+",
+      "name": "No Mercy",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4264270": {

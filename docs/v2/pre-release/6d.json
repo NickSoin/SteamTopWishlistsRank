@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T15:47:34.316Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "entryCount": 46,
   "entries": {
     "680420": {
       "rank": 15,
@@ -297,6 +297,13 @@
       "estimate": "<7k",
       "name": "Minimon: Tiny Idle Tactics",
       "releaseDate": "2026-08-31",
+      "source": "tracked"
+    },
+    "4570020": {
+      "rank": 2053,
+      "estimate": "7k+",
+      "name": "FOURSAVENT",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4757300": {

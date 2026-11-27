@@ -1,61 +1,61 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-26T15:47:34.316Z",
-  "entryCount": 18,
+  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "entryCount": 19,
   "entries": {
     "744200": {
-      "rank": 3563,
+      "rank": 3559,
       "estimate": "<7k",
       "name": "Altiros"
     },
     "1166890": {
-      "rank": 469,
+      "rank": 468,
       "estimate": "80k+",
       "name": "Necrofugitive"
     },
     "1218780": {
-      "rank": 3638,
+      "rank": 3630,
       "estimate": "<7k",
       "name": "Little Shop of Junk"
     },
     "1795090": {
-      "rank": 4711,
+      "rank": 4703,
       "estimate": "<7k",
       "name": "Monastery Builder"
     },
     "1883360": {
-      "rank": 1698,
+      "rank": 1694,
       "estimate": "15k+",
       "name": "The White Raven"
     },
     "1884660": {
-      "rank": 4907,
+      "rank": 4902,
       "estimate": "<7k",
       "name": "Echoes: A Transmissions Story"
     },
     "2523380": {
-      "rank": 1647,
+      "rank": 1643,
       "estimate": "15k+",
       "name": "Red Kiss"
     },
     "2651520": {
-      "rank": 2444,
+      "rank": 2437,
       "estimate": "7k+",
       "name": "Erotic Trial of the Alcummists"
     },
     "2792540": {
-      "rank": 3581,
+      "rank": 3571,
       "estimate": "<7k",
       "name": "Anima Keeper"
     },
     "3100690": {
-      "rank": 793,
+      "rank": 791,
       "estimate": "40k+",
       "name": "Dust & Diesel: Deadland Delivery"
     },
     "3725190": {
-      "rank": 304,
+      "rank": 305,
       "estimate": "80k+",
       "name": "There Are No Ghosts at the Grand"
     },
@@ -65,34 +65,39 @@
       "name": "Tiny Delivery"
     },
     "4006300": {
-      "rank": 4952,
+      "rank": 4942,
       "estimate": "<7k",
       "name": "Something Meaningful"
     },
     "4208920": {
-      "rank": 5411,
+      "rank": 5384,
       "estimate": "<7k",
       "name": "Corrupted Veil"
     },
     "4338490": {
-      "rank": 1758,
+      "rank": 1754,
       "estimate": "15k+",
       "name": "Tokyo Loves Tears"
     },
     "4529850": {
-      "rank": 1106,
+      "rank": 1105,
       "estimate": "25k+",
       "name": "Runeward Online"
     },
     "4785780": {
-      "rank": 5150,
+      "rank": 5143,
       "estimate": "<7k",
       "name": "Ticker Panic: Stock Market Simulator"
     },
     "5004930": {
-      "rank": 5719,
+      "rank": 5684,
       "estimate": "<7k",
       "name": "Fish Them All!"
+    },
+    "5536190": {
+      "rank": 5628,
+      "estimate": "<7k",
+      "name": "Shellcrushers"
     }
   }
 }

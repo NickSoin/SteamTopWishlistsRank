@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T15:47:34.316Z",
-  "entryCount": 40,
+  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "entryCount": 41,
   "entries": {
     "773370": {
       "rank": 126,
@@ -209,6 +209,13 @@
       "estimate": "7k+",
       "name": "Forsworn",
       "releaseDate": "2026-09-10",
+      "source": "tracked"
+    },
+    "4013270": {
+      "rank": 1118,
+      "estimate": "25k+",
+      "name": "The False Alice -Retold Tale-",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4244180": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T15:47:34.316Z",
-  "entryCount": 29,
+  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "entryCount": 30,
   "entries": {
     "1129540": {
       "rank": 129,
@@ -205,6 +205,13 @@
       "estimate": "<7k",
       "name": "Frisky Phone: College Casual",
       "releaseDate": "2026-09-10",
+      "source": "tracked"
+    },
+    "5268810": {
+      "rank": 1004,
+      "estimate": "25k+",
+      "name": "Flak Simulator",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     }
   }

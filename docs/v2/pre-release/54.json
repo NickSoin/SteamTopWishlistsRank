@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T15:47:34.316Z",
-  "entryCount": 45,
+  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "entryCount": 46,
   "entries": {
     "889750": {
       "rank": 90,
@@ -261,6 +261,13 @@
       "estimate": "7k+",
       "name": "Muchi Muchi Pork! & PinkSweets Boosted",
       "releaseDate": "2026-10-01",
+      "source": "tracked"
+    },
+    "4237900": {
+      "rank": 3478,
+      "estimate": "<7k",
+      "name": "Point Zero: Victoria",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4323810": {

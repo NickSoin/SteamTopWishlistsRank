@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T15:47:34.316Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "entryCount": 37,
   "entries": {
     "1063030": {
       "rank": 621,
@@ -237,6 +237,13 @@
       "estimate": "<7k",
       "name": "Traveloot",
       "releaseDate": "2026-11-17",
+      "source": "tracked"
+    },
+    "4729050": {
+      "rank": 5106,
+      "estimate": "<7k",
+      "name": "Vibe Train",
+      "releaseDate": "2026-11-26",
       "source": "tracked"
     },
     "4834840": {

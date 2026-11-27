@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-26T15:47:34.316Z",
-  "entryCount": 37,
+  "updatedAt": "2026-11-27T03:09:25.688Z",
+  "entryCount": 38,
   "entries": {
     "924750": {
       "rank": 198,
@@ -152,6 +152,13 @@
       "name": "Mirage Feathers",
       "releaseDate": "2024-09-06",
       "source": "historical"
+    },
+    "2765070": {
+      "rank": 1840,
+      "estimate": "15k+",
+      "name": "Iron Dawn",
+      "releaseDate": "2026-11-26",
+      "source": "tracked"
     },
     "2834600": {
       "rank": 1699,
