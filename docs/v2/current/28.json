@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-27T15:40:25.013Z",
-  "entryCount": 15,
+  "updatedAt": "2026-11-27T23:59:54.320Z",
+  "entryCount": 16,
   "entries": {
     "757550": {
-      "rank": 1399,
+      "rank": 1392,
       "estimate": "25k+",
       "name": "Football Story"
     },
@@ -15,12 +15,12 @@
       "name": "V.A Proxy"
     },
     "2247220": {
-      "rank": 4189,
+      "rank": 4187,
       "estimate": "<7k",
       "name": "RevenBlade"
     },
     "2488450": {
-      "rank": 5047,
+      "rank": 5046,
       "estimate": "<7k",
       "name": "Boreas"
     },
@@ -30,22 +30,22 @@
       "name": "Clever Girls"
     },
     "3000510": {
-      "rank": 1184,
+      "rank": 1182,
       "estimate": "25k+",
       "name": "Noblemen: 1941"
     },
     "3048330": {
-      "rank": 2548,
+      "rank": 2552,
       "estimate": "7k+",
       "name": "Mirage Noir"
     },
     "3141990": {
-      "rank": 4393,
+      "rank": 4392,
       "estimate": "<7k",
       "name": "The Succubus Queen and the Holy Sword"
     },
     "3268020": {
-      "rank": 5075,
+      "rank": 5079,
       "estimate": "<7k",
       "name": "The Mystery of Doomsday Valley"
     },
@@ -55,29 +55,34 @@
       "name": "Cozy"
     },
     "3470500": {
-      "rank": 507,
+      "rank": 506,
       "estimate": "40k+",
       "name": "Ember and Blade"
     },
     "4466940": {
-      "rank": 1103,
+      "rank": 1105,
       "estimate": "25k+",
       "name": "Lost & Found"
     },
     "4664940": {
-      "rank": 3658,
+      "rank": 3659,
       "estimate": "<7k",
       "name": "Curious Sorceress: Grimoire of Sex"
     },
     "4914230": {
-      "rank": 4603,
+      "rank": 4572,
       "estimate": "<7k",
       "name": "A Tidy Konbini"
     },
     "5047180": {
-      "rank": 1741,
+      "rank": 1739,
       "estimate": "15k+",
       "name": "DEPTH CRUSHING"
+    },
+    "5571450": {
+      "rank": 2114,
+      "estimate": "7k+",
+      "name": "The Botanist and the Translator"
     }
   }
 }

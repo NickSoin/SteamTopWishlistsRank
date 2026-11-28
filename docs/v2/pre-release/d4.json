@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T15:40:25.013Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-27T23:59:54.320Z",
+  "entryCount": 36,
   "entries": {
     "493520": {
       "rank": 14,
@@ -207,6 +207,13 @@
       "estimate": "15k+",
       "name": "Lootborne",
       "releaseDate": "2026-09-21",
+      "source": "tracked"
+    },
+    "4469040": {
+      "rank": 9976,
+      "estimate": "<7k",
+      "name": "Catollector",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     },
     "4549610": {

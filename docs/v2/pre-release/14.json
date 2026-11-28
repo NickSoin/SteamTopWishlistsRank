@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T15:40:25.013Z",
-  "entryCount": 42,
+  "updatedAt": "2026-11-27T23:59:54.320Z",
+  "entryCount": 43,
   "entries": {
     "637050": {
       "rank": 136,
@@ -171,6 +171,13 @@
       "name": "Critter Café",
       "releaseDate": "2024-11-26",
       "source": "historical"
+    },
+    "2505230": {
+      "rank": 4737,
+      "estimate": "<7k",
+      "name": "Dreadwinter",
+      "releaseDate": "2026-11-27",
+      "source": "tracked"
     },
     "2697470": {
       "rank": 2598,

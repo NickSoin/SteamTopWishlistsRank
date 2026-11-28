@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T15:40:25.013Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-27T23:59:54.320Z",
+  "entryCount": 37,
   "entries": {
     "950180": {
       "rank": 218,
@@ -193,6 +193,13 @@
       "estimate": "<7k",
       "name": "Card Maker Simulator",
       "releaseDate": "2026-08-21",
+      "source": "tracked"
+    },
+    "4476390": {
+      "rank": 1449,
+      "estimate": "25k+",
+      "name": "Lost Camp",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     },
     "4522150": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T15:40:25.013Z",
-  "entryCount": 35,
+  "updatedAt": "2026-11-27T23:59:54.320Z",
+  "entryCount": 36,
   "entries": {
     "922620": {
       "rank": 627,
@@ -163,6 +163,13 @@
       "estimate": "15k+",
       "name": "States of Power",
       "releaseDate": "2026-08-26",
+      "source": "tracked"
+    },
+    "3224600": {
+      "rank": 155,
+      "estimate": "200k+",
+      "name": "Am I Nima",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     },
     "3586450": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T15:40:25.013Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-27T23:59:54.320Z",
+  "entryCount": 42,
   "entries": {
     "292000": {
       "rank": 29,
@@ -260,6 +260,13 @@
       "estimate": "25k+",
       "name": "Dicevaders",
       "releaseDate": "2026-09-29",
+      "source": "tracked"
+    },
+    "4104790": {
+      "rank": 4857,
+      "estimate": "<7k",
+      "name": "Drako: Blood Heist",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     },
     "4139440": {

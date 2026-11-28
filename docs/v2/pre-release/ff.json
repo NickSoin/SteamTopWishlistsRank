@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T15:40:25.013Z",
-  "entryCount": 47,
+  "updatedAt": "2026-11-27T23:59:54.320Z",
+  "entryCount": 48,
   "entries": {
     "553540": {
       "rank": 73,
@@ -214,6 +214,13 @@
       "estimate": "7k+",
       "name": "Scam Center Simulator: UnderKingdom",
       "releaseDate": "2026-05-29",
+      "source": "tracked"
+    },
+    "3692020": {
+      "rank": 3484,
+      "estimate": "<7k",
+      "name": "Exodus Core",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     },
     "3874130": {

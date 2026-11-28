@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T15:40:25.013Z",
-  "entryCount": 41,
+  "updatedAt": "2026-11-27T23:59:54.320Z",
+  "entryCount": 42,
   "entries": {
     "669330": {
       "rank": 422,
@@ -289,6 +289,13 @@
       "estimate": "25k+",
       "name": "Witch Cabin Cleanup",
       "releaseDate": "2026-10-12",
+      "source": "tracked"
+    },
+    "4997480": {
+      "rank": 3675,
+      "estimate": "<7k",
+      "name": "Mapping Creator",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     }
   }

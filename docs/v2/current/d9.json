@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "kind": "current",
-  "updatedAt": "2026-11-27T15:40:25.013Z",
-  "entryCount": 22,
+  "updatedAt": "2026-11-27T23:59:54.320Z",
+  "entryCount": 23,
   "entries": {
     "1425990": {
-      "rank": 2566,
+      "rank": 2569,
       "estimate": "7k+",
       "name": "From Day To Day"
     },
     "1876420": {
-      "rank": 1925,
+      "rank": 1922,
       "estimate": "15k+",
       "name": "Northward"
     },
     "2146290": {
-      "rank": 310,
+      "rank": 309,
       "estimate": "80k+",
       "name": "The Big Catch"
     },
     "2160760": {
-      "rank": 2826,
+      "rank": 2828,
       "estimate": "7k+",
       "name": "LIMINAL"
     },
@@ -30,19 +30,19 @@
       "name": "EmemeTown"
     },
     "2852700": {
-      "rank": 573,
+      "rank": 572,
       "estimate": "40k+",
       "name": "BUS: Bro u Survived",
       "actualWishlists": 100000,
       "wishlistUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1805431065404263"
     },
     "2967220": {
-      "rank": 3346,
+      "rank": 3348,
       "estimate": "<7k",
       "name": "yan魇: Parasomnia"
     },
     "3041680": {
-      "rank": 168,
+      "rank": 167,
       "estimate": "200k+",
       "name": "Coven of the Chicken Foot"
     },
@@ -52,12 +52,12 @@
       "name": "Anthill Village"
     },
     "3219360": {
-      "rank": 830,
+      "rank": 829,
       "estimate": "40k+",
       "name": "SOL Shogunate"
     },
     "3254990": {
-      "rank": 1514,
+      "rank": 1511,
       "estimate": "15k+",
       "name": "Corpse Party II: Darkness Distortion"
     },
@@ -67,12 +67,12 @@
       "name": "Love Revenge"
     },
     "3367810": {
-      "rank": 2569,
+      "rank": 2571,
       "estimate": "7k+",
       "name": "Cemetery Simulator"
     },
     "3638790": {
-      "rank": 3757,
+      "rank": 3758,
       "estimate": "<7k",
       "name": "9 Yin Sutra: Wuxia"
     },
@@ -82,39 +82,44 @@
       "name": "Asterfel"
     },
     "4021890": {
-      "rank": 2049,
+      "rank": 2045,
       "estimate": "7k+",
       "name": "Pizzapocalypse: A Slice of Hope"
     },
     "4132480": {
-      "rank": 522,
+      "rank": 521,
       "estimate": "40k+",
       "name": "Guilty Pleasures"
     },
     "4271620": {
-      "rank": 4249,
+      "rank": 4240,
       "estimate": "<7k",
       "name": "Celsius Strays"
     },
     "4390370": {
-      "rank": 4912,
+      "rank": 4910,
       "estimate": "<7k",
       "name": "Drifter at World's End"
     },
     "4451310": {
-      "rank": 3222,
+      "rank": 3219,
       "estimate": "<7k",
       "name": "MythicTale"
     },
     "4896980": {
-      "rank": 5494,
+      "rank": 5493,
       "estimate": "<7k",
       "name": "Sweetheart"
     },
     "5098200": {
-      "rank": 3729,
+      "rank": 3730,
       "estimate": "<7k",
       "name": "Break The Night"
+    },
+    "5566040": {
+      "rank": 5464,
+      "estimate": "<7k",
+      "name": "inZOI: Spotlight"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T15:40:25.013Z",
-  "entryCount": 26,
+  "updatedAt": "2026-11-27T23:59:54.320Z",
+  "entryCount": 27,
   "entries": {
     "1167820": {
       "rank": 635,
@@ -186,6 +186,13 @@
       "estimate": "<7k",
       "name": "Blood & Canvas: Bareknuckle Boxing",
       "releaseDate": "2026-11-04",
+      "source": "tracked"
+    },
+    "5165390": {
+      "rank": 1175,
+      "estimate": "25k+",
+      "name": "HOOD",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     }
   }
