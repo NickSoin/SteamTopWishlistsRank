@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "kind": "pre_release",
-  "updatedAt": "2026-11-27T23:59:54.320Z",
-  "entryCount": 36,
+  "updatedAt": "2026-11-28T08:26:59.161Z",
+  "entryCount": 37,
   "entries": {
     "648800": {
       "rank": 25,
@@ -200,6 +200,13 @@
       "estimate": "<7k",
       "name": "The Stalked 3",
       "releaseDate": "2026-08-20",
+      "source": "tracked"
+    },
+    "4135050": {
+      "rank": 1855,
+      "estimate": "15k+",
+      "name": "Kameko: Cosplay Love Story",
+      "releaseDate": "2026-11-27",
       "source": "tracked"
     },
     "4201720": {
